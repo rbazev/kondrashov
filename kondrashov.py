@@ -678,7 +678,8 @@ def get_variant_ids(gene):
     search = Entrez.read(handle)
     search_ids = search["IdList"]
     handle.close()
-    return search_ids
+    return len(search_ids), search_ids
+
 
 
 def get_variant(variant):
