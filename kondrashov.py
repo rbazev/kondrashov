@@ -1,10 +1,16 @@
-# How to get a key is described here: https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
-# Entrez.email = "razevedo@uh.edu"
-# Entrez.api_key = "41b789f82f616365ce6551f9105906c1cb08"
 import pandas as pd
 import xmltodict as x2d
 from Bio import AlignIO, Entrez, SeqIO
 from Bio.Seq import Seq
+
+# How to get a key is described here: https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
+Entrez.email = "razevedo@uh.edu"
+Entrez.api_key = "41b789f82f616365ce6551f9105906c1cb08"
+
+#Entrez.email = "miadesin@cougarnet.uh.edu"
+#Entrez.api_key =
+
+
 
 ########################
 ### GLOBAL VARIABLES ###
