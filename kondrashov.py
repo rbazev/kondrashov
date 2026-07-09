@@ -227,8 +227,9 @@ def get_transcript_from_variant(variant):
     str
         NCBI record ID.
     """
-    transcriptgene = variant.split(":")[0]
-    transcript = transcriptgene.split("(")[0]
+    #transcriptgene = variant.split(":")[0]
+    #transcript = transcriptgene.split("(")[0]
+    transcript = variant.split("(")[0]
     return transcript
 
 
