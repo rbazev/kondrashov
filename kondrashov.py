@@ -47,6 +47,7 @@ one_letter = {
     "Tyr": "Y",
     "Val": "V",
     "Ter": "*",
+    "=": "="
 }
 
 
@@ -233,7 +234,7 @@ def get_transcript_from_variant(variant):
     return transcript
 
 
-def get_change_from_variant(variant):
+''' def get_change_from_variant(variant):
     """
     Interpret protein change from ClinVar record.
 
@@ -252,10 +253,53 @@ def get_change_from_variant(variant):
         mut : str
             Mutant amino acid.
     """
-    change = transcriptgene = variant.split(" (p.")[1][:-1]
+    
+    if " (p." in variant:
+        change = variant.split(" (p.")[1][:-1]
+        wild = change[:3]
+        mut = change[-3:]
+        site = change[3:-3]
+        return site, one_letter[wild], one_letter[mut]
+    else:
+        return None, None, None
+'''
+'''
+def get_change_from_variant(variant):
+    # function above modified 
+    print(variant)
+
+    if " (p." in variant:
+        change = variant.split(" (p.")[1][:-1]
+        print("change =", change)
+
+        wild = change[:3]
+        mut = change[-3:]
+        site = change[3:-3]
+        print(site, wild, mut)
+
+        return site, one_letter[wild], one_letter[mut]
+    else:
+        return None, None, None
+'''
+
+def get_change_from_variant(variant):
+
+    if " (p." not in variant:
+        return None, None, None
+
+    change = variant.split(" (p.")[1][:-1]
+
     wild = change[:3]
+
+    # Handle synonymous variants (e.g., p.Gly387=)
+    if change.endswith("="):
+        site = change[3:-1]
+        return site, one_letter[wild], one_letter[wild]
+
+    # Handle all other protein-changing variants
     mut = change[-3:]
-    site = int(change[3:-3])
+    site = change[3:-3]
+
     return site, one_letter[wild], one_letter[mut]
 
 
@@ -288,10 +332,14 @@ def get_all_changes(gene, transcript, pathogenic_only):
     wilds = []
     muts = []
     errs = []
+    #if pathogenic_only:
+    #    vardata = pd.read_csv("pathogenic/" + gene + "_clinvar.csv")
+    #else:
+    #    vardata = pd.read_table("clinvar/" + gene + "_clinvar.txt.txt", sep="\t")()
     if pathogenic_only:
-        vardata = pd.read_csv("pathogenic/" + gene + "_clinvar.csv")
+        vardata = pd.read_csv("pathogenic/" + gene + ".csv")
     else:
-        vardata = pd.read_table("clinvar/" + gene + "_clinvar.txt.txt", sep="\t")
+        vardata = pd.read_csv(gene + ".csv")
     n = len(vardata)
     for i in range(n):
         name = vardata["Name"][i]
@@ -302,10 +350,14 @@ def get_all_changes(gene, transcript, pathogenic_only):
                 sites.append(site)
                 wilds.append(wild)
                 muts.append(mut)
-            except:
-                accession = vardata["Accession"][i]
-                errs.append((name, accession))
-    return sites, wilds, muts, errs
+            #except:
+            except Exception:
+                print(name)
+                raise
+                #accession = vardata["Accession"][i]
+                #errs.append((name, accession))
+    return sites, wilds, muts
+    #return sites, wilds, muts, errs
 
 
 def get_transcripts_from_variants(gene, pathogenic_only):
@@ -325,9 +377,9 @@ def get_transcripts_from_variants(gene, pathogenic_only):
         NCBI record IDs.
     """
     if pathogenic_only:
-        vardata = pd.read_csv("pathogenic/" + gene + "_clinvar.csv")
+        vardata = pd.read_csv("pathogenic/" + gene + ".csv")
     else:
-        vardata = pd.read_table("clinvar/" + gene + "_clinvar.txt.txt", sep="\t")
+        vardata = pd.read_table("clinvar/" + gene + ".txt.txt", sep="\t")
     vartranscripts = []
     names = vardata["Name"].tolist()
     for name in names:
