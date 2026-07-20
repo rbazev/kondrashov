@@ -577,6 +577,65 @@ def get_CDS(transcript_record):
                     return beg, end, seq, cds_seq, prot_seq
 
 
+
+
+
+
+def get_protein_from_transcript(transcript_record):
+    """
+    Extract the CDS and translated protein from an NCBI transcript record.
+
+    Parameters
+    ----------
+    transcript_record : dict
+        GenBank record returned by NCBI.
+
+    Returns
+    -------
+    cds_seq : Bio.Seq.Seq
+        Coding DNA sequence.
+    prot_seq : Bio.Seq.Seq
+        Protein sequence.
+    protein_id : str
+        RefSeq protein accession (e.g. NP_000024.2).
+    start : int
+        CDS start (0-based).
+    end : int
+        CDS end (Python slice end).
+    """
+
+    seq = transcript_record["GBSeq_sequence"]
+
+    for feature in transcript_record["GBSeq_feature-table"]:
+
+        if feature["GBFeature_key"] != "CDS":
+            continue
+
+        # Parse CDS coordinates
+        start, end = feature["GBFeature_location"].split("..")
+        start = int(start) - 1
+        end = int(end)
+
+        cds_seq = Seq(seq[start:end])
+
+        protein_id = None
+        prot_seq = None
+
+        for qual in feature["GBFeature_quals"]:
+
+            if qual["GBQualifier_name"] == "protein_id":
+                protein_id = qual["GBQualifier_value"]
+
+            elif qual["GBQualifier_name"] == "translation":
+                prot_seq = Seq(qual["GBQualifier_value"])
+
+        return cds_seq, prot_seq, protein_id, start, end
+
+    raise ValueError("No CDS feature found.")
+
+
+
+
 def mutate(seq, i, new):
     """
     Mutate DNA sequence at a particular site to a particular nucleotide.
