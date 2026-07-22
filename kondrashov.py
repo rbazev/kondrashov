@@ -1078,8 +1078,6 @@ def identify_unique_transcripts(gene):
 
 
 
-from tqdm import tqdm
-
 def get_reference_proteins(gene, transcript):
     """
     Retrieve the reference protein(s) corresponding to the unique
