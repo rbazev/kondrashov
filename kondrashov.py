@@ -1037,3 +1037,124 @@ def global_compare_to_human(gene, human, nonhuman, verbose):
                 print(i + 1, aln.seq[i], nonaln.seq[i])
             differences.update({i + 1: (aln.seq[i], nonaln.seq[i])})
     return differences
+
+
+
+
+def identify_unique_transcripts(gene):
+    """
+    Identify all unique transcript accessions associated with the
+    pathogenic ClinVar variants for a gene.
+
+    Parameters
+    ----------
+    gene : str
+        Gene symbol (e.g., 'ALPL', 'ABCD1').
+
+    Returns
+    -------
+    set
+        Set of unique transcript accessions.
+    """
+
+    gene_df = pd.read_csv(f"pathogenic/{gene}.csv")
+    varids = gene_df["VariationID"].astype(str).tolist()
+
+    unique_acc = set()
+
+    for varid in tqdm(varids, desc=f"{gene}: variants"):
+        try:
+            varrec = get_variant(varid)
+            name, acc, mut, pmut, muttype, status = get_variant_details(varrec)
+
+            if acc is not None:
+                unique_acc.add(acc)
+
+        except Exception as e:
+            print(f"Error processing VariantID {varid}: {e}")
+
+    print(f"{gene}: Found {len(unique_acc)} unique transcript(s)")
+    return unique_acc
+
+
+
+from tqdm import tqdm
+
+def get_reference_proteins(gene, transcript):
+    """
+    Retrieve the reference protein(s) corresponding to the unique
+    transcript(s) used by ClinVar for a gene.
+    ----------
+    gene : str
+        Gene symbol (e.g., 'ALPL', 'ABCD1')
+    Returns
+    -------
+    list of dict
+        Each dictionary contains:
+            - transcript
+            - protein_id
+            - protein_seq
+    """
+    #transcripts = identify_unique_transcripts(gene)
+
+    proteins = []
+
+    #for transcript in tqdm(sorted(transcripts), desc=f"{gene}: transcripts"):
+    #    print(transcript)
+    transcript_record = get_transcript(transcript)
+    #start, end, protein_id, cds_seq, protein_seq= get_CDS(transcript_record)
+    cds_seq, prot_seq, protein_id, start, end= get_protein_from_transcript(transcript_record)
+
+    proteins.append({
+            "transcript": transcript,
+            "protein_id": protein_id,
+            "protein_seq": prot_seq,
+            "cds_seq": cds_seq,
+            "cds_start": start,
+            "cds_end": end
+        })
+    return proteins
+
+
+def write_best_species_matches(gene, reference_seq, aligner):
+    """
+    For each species in fasta/{gene}.fasta, keep the sequence with the
+    highest alignment score to the human reference sequence (provided) and write
+    them to fasta/{gene}_match.fasta.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name (e.g. "ALPL")
+    aligner : Bio.Align.PairwiseAligner
+        Configured Biopython PairwiseAligner.
+    reference_seq: Bio.Seq.Seq
+        Reference Human sequence(s), from clinvar variants: (hum_sequences[0])
+
+    """
+    infile = f"fasta/{gene}.fasta"
+    outfile = f"fasta/{gene}_match.fasta"
+
+    records = list(SeqIO.parse(infile, "fasta"))
+
+    max_score = aligner.score(reference_seq, reference_seq)
+
+    best = {}
+
+    for record in records:
+        species = "[" + record.description.split("[")[-1]
+        score = aligner.score(reference_seq, record.seq) / max_score
+
+        if species not in best or score > best[species]["score"]:
+            best[species] = {
+                "record": record,
+                "score": score
+            }
+
+    best_records = [v["record"] for v in best.values()]
+    SeqIO.write(best_records, outfile, "fasta")
+
+    print(f"{len(best_records)} sequences written to {outfile}")
+
+    return best
+    
