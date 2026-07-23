@@ -1100,7 +1100,6 @@ def get_reference_proteins(gene, transcript):
     #for transcript in tqdm(sorted(transcripts), desc=f"{gene}: transcripts"):
     #    print(transcript)
     transcript_record = get_transcript(transcript)
-    #start, end, protein_id, cds_seq, protein_seq= get_CDS(transcript_record)
     cds_seq, prot_seq, protein_id, start, end= get_protein_from_transcript(transcript_record)
 
     proteins.append({
@@ -1114,7 +1113,7 @@ def get_reference_proteins(gene, transcript):
     return proteins
 
 
-def write_best_species_matches(gene, reference_seq, aligner):
+def write_best_species_matches(gene, reference_seq, aligner, outfile):
     """
     For each species in fasta/{gene}.fasta, keep the sequence with the
     highest alignment score to the human reference sequence (provided) and write
@@ -1131,7 +1130,7 @@ def write_best_species_matches(gene, reference_seq, aligner):
 
     """
     infile = f"fasta/{gene}.fasta"
-    outfile = f"fasta/{gene}_match.fasta"
+    #outfile = f"fasta/{gene}_match.fasta"
 
     records = list(SeqIO.parse(infile, "fasta"))
 
@@ -1141,18 +1140,20 @@ def write_best_species_matches(gene, reference_seq, aligner):
 
     for record in records:
         species = "[" + record.description.split("[")[-1]
-        score = aligner.score(reference_seq, record.seq) / max_score
-
+        score = round(aligner.score(reference_seq, record.seq) / max_score, 4)
+        record_id = record.id
         if species not in best or score > best[species]["score"]:
             best[species] = {
                 "record": record,
                 "score": score
             }
-
+        #print(f"{record.id}: {species}: {score:.4f}")
+    
     best_records = [v["record"] for v in best.values()]
     SeqIO.write(best_records, outfile, "fasta")
+    
+    #return record_id, species, score
 
-    print(f"{len(best_records)} sequences written to {outfile}")
-
+    #print(f"{len(best_records)} sequences written to {outfile}")
     return best
     
