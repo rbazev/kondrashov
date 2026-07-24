@@ -446,6 +446,7 @@ def remove_element(x, element):
 
 
 def get_variable_sites(gene, protein, verbose):
+    import os
     """
     Identify sites that are variable among the sequences in the alignment.
 
@@ -472,24 +473,32 @@ def get_variable_sites(gene, protein, verbose):
             fasta = record
             break
     align = AlignIO.read("aln/{0}.aln".format(gene), "fasta")
-    for record in align:
-        if record.id == protein:
-            aln = record
-            break
-    alni = get_aln_positions(gene, protein)
-    L = len(fasta)
-    for i in range(L):
-        j = alni[i]
-        counts = pd.Series(list(align[:, j])).value_counts()
-        alleles = counts.index.tolist()
-        remove_element(alleles, "-")
-        n = len(alleles)
-        remove_element(alleles, fasta[i])
-        if n > 1:
-            variable.update({i + 1: alleles})
-            if verbose:
-                print(i + 1, j + 1, fasta[i], alleles, sep="\t")
-    return variable
+
+
+    for filename in os.listdir("aln_match"):
+        if not filename.startswith(gene + "_"):
+            continue
+        filepath = os.path.join("aln_match", filename)
+        align = AlignIO.read(filepath, "fasta")
+
+        for record in align:
+            if record.id == protein:
+                aln = record
+                break
+        alni = get_aln_positions(gene, protein)
+        L = len(fasta)
+        for i in range(L):
+            j = alni[i]
+            counts = pd.Series(list(align[:, j])).value_counts()
+            alleles = counts.index.tolist()
+            remove_element(alleles, "-")
+            n = len(alleles)
+            remove_element(alleles, fasta[i])
+            if n > 1:
+                variable.update({i + 1: alleles})
+                if verbose:
+                    print(i + 1, j + 1, fasta[i], alleles, sep="\t")
+        return variable
 
 
 def get_transcript_variant_number(transcript_record):
