@@ -1,5 +1,6 @@
 import pandas as pd
 import xmltodict as x2d
+import os
 from Bio import AlignIO, Entrez, SeqIO
 from Bio.Seq import Seq
 
@@ -373,6 +374,7 @@ def get_transcripts_from_variants(gene, pathogenic_only):
     list
         NCBI record IDs.
     """
+    # Clinvar files of interest are in 'pathogenic' folder
     if pathogenic_only:
         vardata = pd.read_csv("pathogenic/" + gene + ".csv")
     else:
@@ -384,7 +386,7 @@ def get_transcripts_from_variants(gene, pathogenic_only):
         vartranscripts.append(transcript)
     return list(set(vartranscripts))
 
-
+'''
 def get_aln_positions(gene, protein):
     """
     Get list of sites in alignment corresponding to sites in human sequence.
@@ -425,6 +427,61 @@ def get_aln_positions(gene, protein):
         else:
             j += 1
     return alni
+'''
+
+
+
+def get_aln_positions(gene, protein):
+    """
+    Get list of sites in alignment corresponding to sites in human sequence.
+
+    The site j in position i in the output means that site i in the human protein is in position j in the alignment.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name.
+    protein : str
+        Protein NCBI ID.
+
+    Returns
+    -------
+    list
+        Sites (starting at 0).
+    """
+    for filename in os.listdir("fasta_match"):
+        if not filename.startswith(gene + "_"):
+            continue
+        filepath = os.path.join("fasta_match", filename)
+        for record in SeqIO.parse(filepath, "fasta"):
+            recordid = record.description.split(" ")[0]
+            if recordid == protein:
+                fasta = record
+                break
+
+    for filename in os.listdir("aln_match"):
+        if not filename.startswith(gene + "_"):
+            continue
+        filepath = os.path.join("aln_match", filename)
+        align = AlignIO.read(filepath, "fasta")
+        for record in align:
+            if record.id == protein:
+                aln = record
+                break
+    i = 0
+    j = 0
+    L = len(fasta)
+    alni = []
+    while i < L:
+        if aln.seq[j] != "-":
+            alni.append(j)
+            i += 1
+            j += 1
+        else:
+            j += 1
+    return alni
+
+
 
 
 def remove_element(x, element):
@@ -445,6 +502,7 @@ def remove_element(x, element):
         pass
 
 
+'''
 def get_variable_sites(gene, protein, verbose):
     import os
     """
@@ -474,17 +532,72 @@ def get_variable_sites(gene, protein, verbose):
             break
     align = AlignIO.read("aln/{0}.aln".format(gene), "fasta")
 
+    for record in align:
+        if record.id == protein:
+            aln = record
+            break
+    alni = get_aln_positions(gene, protein)
+    L = len(fasta)
+    for i in range(L):
+        j = alni[i]
+        counts = pd.Series(list(align[:, j])).value_counts()
+        alleles = counts.index.tolist()
+        remove_element(alleles, "-")
+        n = len(alleles)
+        remove_element(alleles, fasta[i])
+        if n > 1:
+            variable.update({i + 1: alleles})
+            if verbose:
+                print(i + 1, j + 1, fasta[i], alleles, sep="\t")
+    return variable
+'''
+
+
+# modified to fit naming stlye in fasta_match/ and aln_match/ directories
+
+def get_variable_sites(gene, protein, verbose):
+    """
+    Identify sites that are variable among the sequences in the alignment.
+
+    Exclude gaps.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name.
+    protein : str
+        Protein NCBI ID.
+
+    Returns
+    -------
+    dict
+        Other alleles present at each site.
+    """
+    variable = {}
+    if verbose:
+        print("Orig\tAln\tHuman\tOthers")
+
+    for filename in os.listdir("fasta_match"):
+        if not filename.startswith(gene + "_"):
+            continue
+        filepath = os.path.join("fasta_match", filename)
+        for record in SeqIO.parse(filepath, "fasta"):
+            recordid = record.description.split(" ")[0]
+            if recordid == protein:
+                fasta = record
+                break
+
 
     for filename in os.listdir("aln_match"):
         if not filename.startswith(gene + "_"):
             continue
         filepath = os.path.join("aln_match", filename)
         align = AlignIO.read(filepath, "fasta")
-
         for record in align:
             if record.id == protein:
                 aln = record
                 break
+
         alni = get_aln_positions(gene, protein)
         L = len(fasta)
         for i in range(L):
@@ -499,6 +612,8 @@ def get_variable_sites(gene, protein, verbose):
                 if verbose:
                     print(i + 1, j + 1, fasta[i], alleles, sep="\t")
         return variable
+
+
 
 
 def get_transcript_variant_number(transcript_record):
