@@ -502,7 +502,7 @@ def remove_element(x, element):
         pass
 
 
-'''
+
 def get_variable_sites(gene, protein, verbose):
     import os
     """
@@ -550,12 +550,12 @@ def get_variable_sites(gene, protein, verbose):
             if verbose:
                 print(i + 1, j + 1, fasta[i], alleles, sep="\t")
     return variable
-'''
+
 
 
 # modified to fit naming stlye in fasta_match/ and aln_match/ directories
-
-def get_variable_sites(gene, protein, verbose):
+# this does not work for genes with more than one reference protein, I keep getting this 'index out of range error'
+'''def get_variable_sites(gene, protein, verbose):
     """
     Identify sites that are variable among the sequences in the alignment.
 
@@ -612,7 +612,7 @@ def get_variable_sites(gene, protein, verbose):
                 if verbose:
                     print(i + 1, j + 1, fasta[i], alleles, sep="\t")
         return variable
-
+'''
 
 
 
@@ -1023,7 +1023,7 @@ def get_species(record):
     return species
 
 
-def get_alleles(gene, protein, site, verbose=True):
+'''def get_alleles(gene, protein, site, verbose=True):
     """
     Get list of alleles at a particular site in the alignment.
 
@@ -1043,11 +1043,62 @@ def get_alleles(gene, protein, site, verbose=True):
         if recordid == protein:
             fasta = record
             break
+
     align = AlignIO.read("aln/{0}.aln".format(gene), "fasta")
     for record in align:
         if record.id == protein:
             aln = record
             break
+
+    i = site - 1
+    alni = get_aln_positions(gene, protein)
+    j = alni[i]
+    if verbose:
+        print("     Gene:", gene)
+        print("    Human:", i + 1, fasta.seq[i])
+        print("Alignment:", j + 1, aln.seq[j])
+    counts = pd.Series(list(align[:, j])).value_counts()
+    if len(counts) == 1:
+        return False, i + 1, fasta.seq[i], counts
+    else:
+        if verbose:
+            print(counts)
+            print()
+            for record in align:
+                print(record[j], record.id, get_species(record))
+        return True, i + 1, fasta.seq[i], counts'''
+
+
+def get_alleles(gene, protein, site, verbose=True):
+    """
+    Get list of alleles at a particular site in the alignment.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name.
+    protein : str
+        NCBI record ID.
+    site : int
+        Amino acid site.
+    verbose : type
+        Description of parameter `verbose`.
+    """
+    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
+    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split(" ")[0]
+        if recordid == protein:
+            fasta = record
+            break
+
+    align = AlignIO.read(aln_file, "fasta")
+    for record in align:
+        if record.id == protein:
+            aln = record
+            break
+        
     i = site - 1
     alni = get_aln_positions(gene, protein)
     j = alni[i]
@@ -1067,6 +1118,7 @@ def get_alleles(gene, protein, site, verbose=True):
         return True, i + 1, fasta.seq[i], counts
 
 
+'''
 def get_species_with_allele(gene, protein, site, allele):
     """
     Get species with a particular amino acid at a particular site in the
@@ -1106,10 +1158,59 @@ def get_species_with_allele(gene, protein, site, allele):
     spp = []
     for i in ii:
         spp.append((get_species(align[i]), align[i].id))
+    return spp'''
+
+
+
+def get_species_with_allele(gene, protein, site, allele):
+    """
+    Get species with a particular amino acid at a particular site in the
+    alignment.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name.
+    protein : str
+        NCBI record ID.
+    site : int
+        Amino acid site.
+    allele : int
+        Particular amino acid at site.
+
+    Returns
+    -------
+    list
+        (species, protein ID) : tup
+    """
+    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split(" ")[0]
+        if recordid == protein:
+            fasta = record
+            break
+
+    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+    align = AlignIO.read(aln_file, "fasta")
+    for record in align:
+        if record.id == protein:
+            aln = record
+            break
+    i = site - 1
+    alni = get_aln_positions(gene, protein)
+    j = alni[i]
+    alleles = pd.Series(list(align[:, j]))
+    ii = alleles[alleles == allele].index.tolist()
+    spp = []
+    for i in ii:
+        spp.append((get_species(align[i]), align[i].id))
     return spp
 
 
-def local_compare_to_human(gene, human, site, nonhuman):
+
+
+
+'''def local_compare_to_human(gene, human, site, nonhuman):
     for record in SeqIO.parse("fasta/{0}.fasta".format(gene), "fasta"):
         recordid = record.description.split(" ")[0]
         if recordid == human:
@@ -1138,7 +1239,49 @@ def local_compare_to_human(gene, human, site, nonhuman):
         else:
             print(delta, "outside sequence")
             out += 1
+    return diff, gaps, out'''
+
+
+
+def local_compare_to_human(gene, human, site, nonhuman):
+    fasta_file = os.path.join("fasta_match", f"{gene}_{human}_match.fasta")
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split(" ")[0]
+        if recordid == human:
+            fasta = record
+            break
+
+    aln_file = os.path.join("aln_match", f"{gene}_{human}_match.aln")
+    align = AlignIO.read(aln_file, "fasta")
+    L = len(align[0].seq)
+    for record in align:
+        if record.id == human:
+            aln = record
+        elif record.id == nonhuman:
+            nonaln = record
+    i = site - 1
+    alni = get_aln_positions(gene, human)
+    j = alni[i]
+    diff = 0
+    out = 0
+    gaps = 0
+    for delta in range(-10, 11):
+        if 0 <= j + delta < L:
+            print(delta, aln.seq[j + delta], nonaln.seq[j + delta])
+            if (delta != 0) and (aln.seq[j + delta] != nonaln.seq[j + delta]):
+                diff += 1
+                if (aln.seq[j + delta] == "-") or (nonaln.seq[j + delta] == "-"):
+                    gaps += 1
+        else:
+            print(delta, "outside sequence")
+            out += 1
     return diff, gaps, out
+
+
+
+
+
+
 
 
 def global_compare_to_human(gene, human, nonhuman, verbose):
