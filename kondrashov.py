@@ -1,3 +1,6 @@
+import time
+from datetime import datetime
+from pathlib import Path
 import pandas as pd
 import xmltodict as x2d
 import os
@@ -5,11 +8,12 @@ from Bio import AlignIO, Entrez, SeqIO
 from Bio.Seq import Seq
 
 # How to get a key is described here: https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
-# Entrez.email = "razevedo@uh.edu"
-# Entrez.api_key = "41b789f82f616365ce6551f9105906c1cb08"
+#Entrez.email = "razevedo@uh.edu"
+#Entrez.api_key = "41b789f82f616365ce6551f9105906c1cb08"
 
 Entrez.email = "miadesin@cougarnet.uh.edu"
 Entrez.api_key = "01e178abf8f07c7ef7356a578b3d28f2c109"
+
 
 
 ########################
@@ -44,7 +48,7 @@ one_letter = {
     "Tyr": "Y",
     "Val": "V",
     "Ter": "*",
-    "=": "=",
+    "=": "="
 }
 
 
@@ -225,8 +229,8 @@ def get_transcript_from_variant(variant):
     str
         NCBI record ID.
     """
-    # transcriptgene = variant.split(":")[0]
-    # transcript = transcriptgene.split("(")[0]
+    #transcriptgene = variant.split(":")[0]
+    #transcript = transcriptgene.split("(")[0]
     transcript = variant.split("(")[0]
     return transcript
 
@@ -260,7 +264,10 @@ def get_transcript_from_variant(variant):
     else:
         return None, None, None
 '''
-"""
+
+
+
+'''
 def get_change_from_variant(variant):
     # function above modified 
     print(variant)
@@ -277,8 +284,7 @@ def get_change_from_variant(variant):
         return site, one_letter[wild], one_letter[mut]
     else:
         return None, None, None
-"""
-
+'''
 
 def get_change_from_variant(variant):
 
@@ -330,9 +336,9 @@ def get_all_changes(gene, transcript, pathogenic_only):
     wilds = []
     muts = []
     errs = []
-    # if pathogenic_only:
+    #if pathogenic_only:
     #    vardata = pd.read_csv("pathogenic/" + gene + "_clinvar.csv")
-    # else:
+    #else:
     #    vardata = pd.read_table("clinvar/" + gene + "_clinvar.txt.txt", sep="\t")()
     if pathogenic_only:
         vardata = pd.read_csv("pathogenic/" + gene + ".csv")
@@ -348,14 +354,14 @@ def get_all_changes(gene, transcript, pathogenic_only):
                 sites.append(site)
                 wilds.append(wild)
                 muts.append(mut)
-            # except:
+            #except:
             except Exception:
                 print(name)
                 raise
-                # accession = vardata["Accession"][i]
-                # errs.append((name, accession))
+                #accession = vardata["Accession"][i]
+                #errs.append((name, accession))
     return sites, wilds, muts
-    # return sites, wilds, muts, errs
+    #return sites, wilds, muts, errs
 
 
 def get_transcripts_from_variants(gene, pathogenic_only):
@@ -900,7 +906,7 @@ def get_mutation_counts(seq, verbose=False):
 ########################
 
 
-def get_variant_ids(gene: str) -> tuple[int, list]:
+def get_variant_ids(gene):
     """
     Get variant IDs from gene name.
 
@@ -911,8 +917,8 @@ def get_variant_ids(gene: str) -> tuple[int, list]:
 
     Return
     ------
-    tuple[int, list]
-        Number of variants, ClinVar IDs.
+    list
+        ClinVar IDs.
 
     """
     search_term = "{0}[Gene Name]".format(gene)
@@ -923,7 +929,8 @@ def get_variant_ids(gene: str) -> tuple[int, list]:
     return len(search_ids), search_ids
 
 
-def get_variant(variant: str) -> dict:
+
+def get_variant(variant):
     """
     Get ClinVar record from ID.
 
@@ -988,19 +995,11 @@ def get_variant_details(variant_record):
     else:
         prot = "none"
         mol_conseq = "other"
-    # old code -- is it still relevant?
     if variant_record["@RecordType"] == "interpreted":
         rec_type = "InterpretedRecord"
-        effect = variant_record[rec_type]["Interpretations"]["Interpretation"]["Description"]
-    # old code -- is it still relevant?
     elif variant_record["@RecordType"] == "included":
         rec_type = "IncludedRecord"
-        effect = variant_record[rec_type]["Interpretations"]["Interpretation"]["Description"]
-    # new code
-    elif variant_record["@RecordType"] == "classified":
-        effect = variant_record["ClassifiedRecord"]["Classifications"]["GermlineClassification"][
-            "Description"
-        ]
+    effect = variant_record[rec_type]["Interpretations"]["Interpretation"]["Description"]
     return gene_name, transcript, nucl, prot, mol_conseq, effect
 
 
