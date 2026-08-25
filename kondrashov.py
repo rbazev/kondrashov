@@ -1118,6 +1118,49 @@ def get_alleles(gene, protein, site, verbose=True):
         return True, i + 1, fasta.seq[i], counts
 
 
+
+
+def get_alleles_with_species(gene, protein, site):
+
+    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
+    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split(" ")[0]
+        if recordid == protein:
+            fasta = record
+            break
+
+    align = AlignIO.read(aln_file, "fasta")
+    for record in align:
+        if record.id == protein:
+            aln = record
+            break
+
+    # Convert protein position to alignment position
+    i = site - 1
+    alni = get_aln_positions(gene, protein)
+    j = alni[i]
+    # Human/reference amino acid
+    human_aa = fasta.seq[i]
+
+    variants = []
+
+    for record in align:
+        aa = record[j]
+
+        # Ignore reference and gaps
+        if aa != human_aa and aa not in ["-", "X", "?"]:
+
+            variants.append({
+                "amino_acid": aa,
+                "protein": record.id,
+                "species": get_species(record)
+            })
+
+        return variants
+
+
 '''
 def get_species_with_allele(gene, protein, site, allele):
     """
