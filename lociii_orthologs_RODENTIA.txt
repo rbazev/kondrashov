@@ -1,0 +1,31 @@
+
+================================================================================
+ABCA12 orthologs
+ABCA12: 80 protein IDs
+Sequence IDs: ['NP_780419.2', 'NP_001414620.1', 'XP_038940558.1', 'XP_038940559.1', 'XP_084635956.1', 'XP_081117185.1', 'XP_081117186.1', 'XP_080788994.1', 'XP_080788995.1', 'XP_080545332.1'] ...
+ABCA12: 80 protein records fetched
+
+ABCA12 orthologs: unique primate sequences
+
+0:	NP_780419.2	(2595 aa)	glucosylceramide transporter ABCA12 [Mus musculus]
+1:	NP_001414620.1	(2595 aa)	glucosylceramide transporter ABCA12 [Rattus norvegicus]
+2:	XP_038940558.1	(1519 aa)	glucosylceramide transporter ABCA12 isoform X1 [Rattus norvegicus]
+3:	XP_038940559.1	(1499 aa)	glucosylceramide transporter ABCA12 isoform X2 [Rattus norvegicus]
+4:	XP_084635956.1	(2597 aa)	glucosylceramide transporter ABCA12 [Acomys minous]
+5:	XP_081117185.1	(2598 aa)	glucosylceramide transporter ABCA12 isoform 1 [Spermophilus citellus]
+6:	XP_081117186.1	(2595 aa)	glucosylceramide transporter ABCA12 isoform 2 [Spermophilus citellus]
+7:	XP_080788994.1	(2600 aa)	glucosylceramide transporter ABCA12 isoform 1 [Micromys minutus]
+8:	XP_080788995.1	(2596 aa)	glucosylceramide transporter ABCA12 isoform 2 [Micromys minutus]
+9:	XP_080545332.1	(2600 aa)	glucosylceramide transporter ABCA12 isoform 1 [Muscardinus avellanarius]
+10:	XP_080545333.1	(2597 aa)	glucosylceramide transporter ABCA12 isoform 2 [Muscardinus avellanarius]
+11:	XP_078988634.1	(2598 aa)	glucosylceramide transporter ABCA12 [Sciurus vulgaris]
+12:	XP_076722180.2	(2598 aa)	glucosylceramide transporter ABCA12 isoform X1 [Callospermophilus lateralis]
+13:	XP_076722181.2	(2595 aa)	glucosylceramide transporter ABCA12 isoform X2 [Callospermophilus lateralis]
+14:	XP_075807923.1	(2596 aa)	glucosylceramide transporter ABCA12 [Microtus pennsylvanicus]
+15:	XP_069883498.1	(2599 aa)	glucosylceramide transporter ABCA12 isoform X1 [Dipodomys merriami]
+...
+	XP_034344178.1	(2534 aa)	zinc finger FYVE domain-containing protein 26 isoform X1 [Arvicanthis niloticus]	*** same as sequence 27 excluded ***
+
+Total: 128 unique sequences, 21 excluded
+fasta_lociii_rodentia/ZFYVE26.fasta saved!
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
