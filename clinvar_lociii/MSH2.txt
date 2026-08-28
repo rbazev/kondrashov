@@ -1,0 +1,615 @@
+Type	Name	GeneSymbol	ClinicalSignificance	Assembly
+single nucleotide variant	NM_000251.3(MSH2):c.1865C>T (p.Pro622Leu)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1216C>T (p.Arg406Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1915C>T (p.His639Tyr)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1801C>T (p.Gln601Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1571G>C (p.Arg524Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1906G>C (p.Ala636Pro)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1030C>T (p.Gln344Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2038C>T (p.Arg680Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+3A>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1000A>T (p.Lys334Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1009C>T (p.Gln337Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1012G>A (p.Gly338Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1013G>A (p.Gly338Glu)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1022T>C (p.Leu341Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1034G>A (p.Trp345Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1035G>A (p.Trp345Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1046C>G (p.Pro349Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1046C>T (p.Pro349Leu)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1075A>T (p.Arg359Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-2A>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077A>T (p.Arg359Ser)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1120C>T (p.Gln374Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1129C>T (p.Gln377Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1147C>T (p.Arg383Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1165C>T (p.Arg389Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1183C>T (p.Gln395Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1189C>T (p.Gln397Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1204C>T (p.Gln402Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1215C>A (p.Tyr405Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1241T>C (p.Leu414Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1255C>T (p.Gln419Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1264G>T (p.Glu422Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+2T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-2A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-2A>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1285C>T (p.Gln429Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1288A>T (p.Lys430Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1292T>A (p.Leu431Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.129T>G (p.Tyr43Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1319T>C (p.Leu440Pro)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1345A>T (p.Lys449Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1354G>T (p.Glu452Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1358T>A (p.Met453Lys)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1373T>G (p.Leu458Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1386+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1386+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1386+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1387-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1387-9T>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1399G>T (p.Glu467Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1418C>G (p.Ser473Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.142G>T (p.Glu48Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1444A>T (p.Arg482Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1447G>T (p.Glu483Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1477C>T (p.Gln493Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1487T>A (p.Leu496Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1511-2A>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1528C>T (p.Gln510Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1552C>T (p.Gln518Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1566C>G (p.Tyr522Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1660A>G (p.Ser554Gly)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1660A>T (p.Ser554Cys)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+5G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661G>C (p.Ser554Thr)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1662-1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1662-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1667T>C (p.Leu556Ser)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.166G>T (p.Glu56Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1693A>T (p.Lys565Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1699A>T (p.Lys567Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1720C>T (p.Gln574Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1738G>T (p.Glu580Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+2T>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+2T>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759G>C (p.Gly587Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1760-1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1764T>G (p.Tyr588Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1777C>T (p.Gln593Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1799C>T (p.Ala600Val)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1808A>G (p.Asp603Gly)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.181C>T (p.Gln61Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1835C>G (p.Ser612Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1857T>G (p.Tyr619Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1861C>T (p.Arg621Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1864C>A (p.Pro622Thr)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1885C>T (p.Gln629Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1955C>A (p.Pro652His)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1968C>G (p.Tyr656Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+2T>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-5T>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006G>T (p.Gly669Val)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2011A>T (p.Asn671Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2020G>C (p.Gly674Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2021G>A (p.Gly674Asp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2047G>A (p.Gly683Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2060T>C (p.Leu687Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2063T>G (p.Met688Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2074G>C (p.Gly692Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2075G>T (p.Gly692Val)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2087C>T (p.Pro696Leu)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2089T>C (p.Cys697Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2090G>T (p.Cys697Phe)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2091T>A (p.Cys697Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2096C>G (p.Ser699Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-478T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2123T>A (p.Ile708Asn)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2131C>T (p.Arg711Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2152C>T (p.Gln718Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2191G>T (p.Glu731Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-10T>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-2A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2228C>A (p.Ser743Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2228C>G (p.Ser743Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2231T>G (p.Leu744Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2242G>T (p.Asp748Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2245G>A (p.Glu749Lys)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2251G>A (p.Gly751Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.226C>T (p.Gln76Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2275G>T (p.Gly759Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2291G>A (p.Trp764Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2292G>A (p.Trp764Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2334C>A (p.Cys778Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2422G>T (p.Glu808Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2432T>G (p.Leu811Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2446C>T (p.Gln816Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.244A>T (p.Lys82Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2458+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-12A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2470C>T (p.Gln824Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2536C>T (p.Gln846Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2575G>T (p.Glu859Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2579C>A (p.Ser860Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2581C>T (p.Gln861Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2622T>A (p.Tyr874Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+5G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+5G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634G>A (p.Glu878=)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-3C>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635C>T (p.Gln879Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2653C>T (p.Gln885Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.277C>T (p.Leu93Phe)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.289C>T (p.Gln97Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.28C>T (p.Gln10Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.301G>T (p.Glu101Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.363T>G (p.Tyr121Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.366+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.367-1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.425C>G (p.Ser142Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.472C>T (p.Gln158Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.478C>T (p.Gln160Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.482T>A (p.Val161Asp)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.484G>A (p.Gly162Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.488T>A (p.Val163Asp)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.488T>G (p.Val163Gly)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.490G>A (p.Gly164Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.490G>T (p.Gly164Trp)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.493T>G (p.Tyr165Asp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.508C>T (p.Gln170Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.518T>C (p.Leu173Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.518T>G (p.Leu173Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.524T>C (p.Leu175Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.529G>T (p.Glu177Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.547C>T (p.Gln183Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.560T>C (p.Leu187Pro)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.560T>G (p.Leu187Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.577C>T (p.Gln193Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.595T>C (p.Cys199Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.596G>A (p.Cys199Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.599T>A (p.Val200Asp)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.610G>T (p.Gly204Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.613G>T (p.Glu205Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.643C>T (p.Gln215Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-3T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.652C>T (p.Gln218Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.685A>T (p.Lys229Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.715C>T (p.Gln239Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.736A>T (p.Lys246Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.754C>T (p.Gln252Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-2A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.82G>T (p.Glu28Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.842C>A (p.Ser281Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.859G>T (p.Gly287Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.862C>T (p.Gln288Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.868G>T (p.Glu290Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.892C>T (p.Gln298Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.901A>T (p.Lys301Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.905T>A (p.Leu302Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.929T>C (p.Leu310Pro)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.929T>G (p.Leu310Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+2T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942G>A (p.Gln314=)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.970C>T (p.Gln324Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.989T>C (p.Leu330Pro)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.997T>C (p.Cys333Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.998G>A (p.Cys333Tyr)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1568T>C (p.Phe523Ser)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211G>C (p.Gly71Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+2T>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076G>C (p.Arg359Thr)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.592G>T (p.Glu198Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1525A>T (p.Lys509Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.830T>G (p.Leu277Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1351C>T (p.Gln451Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1442T>G (p.Leu481Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1784T>G (p.Leu595Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2090G>A (p.Cys697Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.491G>A (p.Gly164Glu)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1442T>A (p.Leu481Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1984C>T (p.Gln662Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1177A>T (p.Lys393Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1237C>T (p.Gln413Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1481C>G (p.Ser494Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1862G>T (p.Arg621Leu)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2300C>G (p.Ser767Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2494G>T (p.Glu832Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.748G>T (p.Gly250Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.842C>G (p.Ser281Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1563T>A (p.Tyr521Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1384C>T (p.Gln462Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+2T>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1012G>C (p.Gly338Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1390G>T (p.Glu464Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+5G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2030C>G (p.Thr677Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2099C>A (p.Ala700Glu)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+2T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.340G>T (p.Glu114Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.790C>T (p.Gln264Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2242G>C (p.Asp748His)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.294T>A (p.Tyr98Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.366+1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.897T>G (p.Tyr299Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276G>A (p.Gly426Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1865C>G (p.Pro622Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.806C>A (p.Ser269Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2027C>G (p.Ser676Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2078G>A (p.Cys693Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.350G>A (p.Trp117Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+3A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2281G>A (p.Gly761Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2161G>T (p.Gly721Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.85A>T (p.Lys29Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.830T>A (p.Leu277Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2320A>G (p.Ile774Val)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211+2T>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.388C>T (p.Gln130Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1045C>A (p.Pro349Thr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1465G>T (p.Glu489Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1968C>A (p.Tyr656Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-2A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1667T>G (p.Leu556Trp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1865C>A (p.Pro622Gln)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1979A>G (p.Asp660Gly)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.175A>T (p.Lys59Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211+1G>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.425C>A (p.Ser142Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.569T>C (p.Leu190Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.602T>A (p.Leu201Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.940C>T (p.Gln314Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+2T>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1042C>T (p.Gln348Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1684G>T (p.Glu562Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1757C>G (p.Ser586Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759G>T (p.Gly587Cys)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1888G>T (p.Gly630Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1901T>G (p.Leu634Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1933C>T (p.Gln645Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2041C>T (p.Gln681Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2065G>C (p.Ala689Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2074G>A (p.Gly692Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2074G>T (p.Gly692Trp)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2081T>C (p.Phe694Ser)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2402A>C (p.His801Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-2A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-1G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2668A>T (p.Lys890Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1067T>G (p.Ile356Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1215C>G (p.Tyr405Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1882G>T (p.Gly628Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2027C>T (p.Ser676Leu)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-2A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2425G>T (p.Glu809Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2656G>T (p.Glu886Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2251G>C (p.Gly751Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.999T>G (p.Cys333Trp)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2563C>T (p.Gln855Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1224T>G (p.Tyr408Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661G>A (p.Ser554Asn)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1681G>T (p.Glu561Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759G>A (p.Gly587Ser)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2039G>C (p.Arg680Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942G>T (p.Gln314His)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2458+1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1067T>A (p.Ile356Lys)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1808A>T (p.Asp603Val)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-3T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2281G>C (p.Gly761Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1225C>T (p.Gln409Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2004T>A (p.Thr668=)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1361T>G (p.Ile454Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2466T>A (p.Cys822Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1139T>G (p.Leu380Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2557G>T (p.Glu853Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.217A>T (p.Lys73Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.495T>G (p.Tyr165Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1566C>A (p.Tyr522Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2079T>A (p.Cys693Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.354T>G (p.Tyr118Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-2A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2034T>A (p.Tyr678Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1013G>T (p.Gly338Val)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1111G>T (p.Glu371Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1015C>T (p.Gln339Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2360T>G (p.Leu787Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.366+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-2A>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1511-1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2458+2T>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+2T>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1273G>T (p.Glu425Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+2T>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1648A>T (p.Lys550Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2083G>A (p.Val695Met)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-1G>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.198C>A (p.Tyr66Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.832G>T (p.Glu278Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.998G>T (p.Cys333Phe)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1939G>T (p.Glu647Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2307C>G (p.Tyr769Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2626G>T (p.Glu876Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+2T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.198C>G (p.Tyr66Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-1G>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.356T>A (p.Leu119Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2211-1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.597T>G (p.Cys199Trp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.714T>G (p.Tyr238Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.809T>C (p.Leu270Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276G>C (p.Gly426Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1534A>T (p.Lys512Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2020G>A (p.Gly674Ser)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2080T>A (p.Phe694Ile)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2132G>C (p.Arg711Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2245G>T (p.Glu749Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2533A>T (p.Lys845Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2584G>T (p.Gly862Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1760-2A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210+1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1784T>C (p.Leu595Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2629A>T (p.Arg877Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-2A>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+1G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-24A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1090G>T (p.Glu364Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1840G>T (p.Gly614Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2572G>T (p.Gly858Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1386+2T>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1609A>T (p.Lys537Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-2A>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1667T>A (p.Leu556Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.212-2A>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+1G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-2A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1102G>T (p.Glu368Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1277-1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211+1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.337A>T (p.Lys113Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.803C>A (p.Ser268Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1471A>T (p.Lys491Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1581T>A (p.Cys527Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2568T>A (p.Tyr856Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1633C>T (p.Gln545Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2377C>T (p.Gln793Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.645+1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+2T>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-12T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076G>T (p.Arg359Ile)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210+2T>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-2A>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1487T>G (p.Leu496Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1511-2A>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2445T>A (p.Tyr815Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1759+3A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1876G>T (p.Glu626Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2458+976A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.351G>A (p.Trp117Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2619C>A (p.Cys873Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1319T>G (p.Leu440Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2271C>G (p.Tyr757Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1438G>T (p.Glu480Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210G>A (p.Arg737Lys)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-954A>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1662-2A>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2356G>T (p.Glu786Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1981A>T (p.Lys661Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-2A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2054T>G (p.Ile685Arg)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1511-1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2287G>C (p.Ala763Pro)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.309T>A (p.Tyr103Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.322G>T (p.Gly108Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.366+2T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.363T>A (p.Tyr121Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1012G>T (p.Gly338Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.394G>T (p.Glu132Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.445G>C (p.Gly149Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.490G>C (p.Gly164Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.520G>T (p.Gly174Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.572T>G (p.Leu191Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.634A>T (p.Lys212Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.484G>T (p.Gly162Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.562G>T (p.Glu188Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.593A>C (p.Glu198Ala)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.622G>T (p.Gly208Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.655A>T (p.Arg219Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.560T>A (p.Leu187His)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.583G>T (p.Gly195Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.646-1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.495T>A (p.Tyr165Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1202T>G (p.Leu401Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.658G>T (p.Gly220Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+2T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-1G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.793-2A>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.839T>A (p.Leu280Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1232T>G (p.Ile411Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.784G>T (p.Glu262Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.676G>T (p.Glu226Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.742A>T (p.Lys248Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1279A>T (p.Lys427Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.952G>T (p.Glu318Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.731T>A (p.Leu244Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.806C>G (p.Ser269Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276G>T (p.Gly426Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.942+1G>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+2T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1361T>A (p.Ile454Lys)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1433T>G (p.Leu478Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+1G>T	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+2T>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1585G>T (p.Glu529Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1588G>T (p.Glu530Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661G>T (p.Ser554Ile)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1662-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.986T>A (p.Leu329Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1481C>A (p.Ser494Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1057A>T (p.Lys353Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1807G>T (p.Asp603Tyr)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1386+2T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1463T>A (p.Leu488Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1705G>T (p.Glu569Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1710T>A (p.Tyr570Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1711G>T (p.Glu571Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1796T>A (p.Leu599Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1796T>G (p.Leu599Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1799C>A (p.Ala600Asp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1363G>T (p.Glu455Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1829A>C (p.His610Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1972G>T (p.Glu658Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2060T>G (p.Leu687Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2068C>A (p.Gln690Lys)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2068C>T (p.Gln690Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2285T>A (p.Leu762Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2285T>G (p.Leu762Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2641G>T (p.Glu881Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.193A>T (p.Lys65Ter)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+2T>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1077-1G>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2251G>T (p.Gly751Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2589T>A (p.Tyr863Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1927G>T (p.Glu643Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1069G>T (p.Glu357Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2006-2A>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2012A>T (p.Asn671Ile)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2017G>T (p.Gly673Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2021G>T (p.Gly674Val)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2023A>T (p.Lys675Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1075A>G (p.Arg359Gly)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2027C>A (p.Ser676Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211+1G>A	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211+2T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211G>T (p.Gly71Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2126T>G (p.Leu709Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2455A>T (p.Lys819Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2458+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-11A>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-2A>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.256G>T (p.Glu86Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1072G>T (p.Glu358Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2307C>A (p.Tyr769Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2524G>T (p.Glu842Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2548G>T (p.Glu850Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2554G>T (p.Glu852Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.294T>G (p.Tyr98Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1127T>A (p.Leu376Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1757C>A (p.Ser586Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1661+2T>G	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2599G>T (p.Glu867Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.514A>T (p.Lys172Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1139T>A (p.Leu380Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2634+2T>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.602T>G (p.Leu201Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1710T>G (p.Tyr570Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1835C>A (p.Ser612Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2091T>G (p.Cys697Trp)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1046C>A (p.Pro349His)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1003A>C (p.Thr335Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2101G>T (p.Glu701Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1636A>T (p.Lys546Ter)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.897T>A (p.Tyr299Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+1G>C	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2210+2T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2459-1G>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.366+1G>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1811C>A (p.Ala604Asp)	MSH2	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1714G>T (p.Glu572Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2254A>T (p.Arg752Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.778G>T (p.Glu260Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.679A>T (p.Arg227Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2096C>A (p.Ser699Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.607G>T (p.Gly203Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+2T>A	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1076+2T>G	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2047G>C (p.Gly683Arg)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.803C>G (p.Ser268Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1115T>A (p.Leu372Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.32T>A (p.Leu11Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.295A>T (p.Arg99Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.792+1G>T	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2257G>T (p.Gly753Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2271C>A (p.Tyr757Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.773T>A (p.Leu258Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1676T>G (p.Leu559Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1127T>G (p.Leu376Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.839T>G (p.Leu280Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1018A>T (p.Arg340Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1387-2A>T	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.989T>G (p.Leu330Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2087C>G (p.Pro696Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2194A>C (p.Thr732Pro)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2246A>G (p.Glu749Gly)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2005+2T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.809T>G (p.Leu270Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1186A>T (p.Arg396Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2635-6T>A	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.364A>T (p.Lys122Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2632G>T (p.Glu878Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.211G>A (p.Gly71Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-15T>G	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.2087C>A (p.Pro696Gln)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.589A>T (p.Lys197Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.943-2A>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1662-2A>C	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1276+3A>C	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1033T>C (p.Trp345Arg)	MSH2	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.999T>A (p.Cys333Ter)	MSH2	Pathogenic	GRCh38
+single nucleotide variant	NM_000251.3(MSH2):c.1510+2T>G	MSH2	Pathogenic	GRCh38

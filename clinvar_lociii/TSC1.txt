@@ -1,0 +1,282 @@
+Type	Name	GeneSymbol	ClinicalSignificance	Assembly
+single nucleotide variant	NM_000368.5(TSC1):c.749T>A (p.Leu250Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.495C>A (p.Cys165Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.671T>G (p.Met224Arg)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.539T>C (p.Leu180Pro)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1001C>A (p.Ser334Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1029+1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1041G>A (p.Trp347Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1439-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1498C>T (p.Arg500Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1501G>T (p.Gly501Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1525C>T (p.Arg509Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1579C>T (p.Gln527Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.163C>T (p.Gln55Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1825G>T (p.Glu609Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.182T>C (p.Leu61Pro)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1960C>T (p.Gln654Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1963C>T (p.Gln655Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1997+1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1997+1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1998-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2006T>G (p.Leu669Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2028G>A (p.Trp676Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2041+2T>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2041G>A (p.Gly681Ser)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2042-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2042-5A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2054C>A (p.Ser685Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2074C>T (p.Arg692Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.210+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.211-1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.211-2A>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2112T>A (p.Tyr704Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2131C>T (p.Gln711Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.215T>C (p.Leu72Pro)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2227C>T (p.Gln743Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2249G>A (p.Trp750Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2250G>A (p.Trp750Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2283C>A (p.Tyr761Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2287C>T (p.Gln763Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2293C>T (p.Gln765Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2299C>T (p.Gln767Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2332C>T (p.Gln778Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2341C>T (p.Gln781Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2347C>T (p.Gln783Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2356C>T (p.Arg786Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2362G>T (p.Glu788Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2401G>T (p.Glu801Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2497C>T (p.Gln833Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2503-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2507C>G (p.Ser836Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2626-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2689C>T (p.Gln897Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2692C>T (p.Gln898Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2716C>T (p.Gln906Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.272C>A (p.Ser91Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2806C>T (p.Gln936Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.308G>A (p.Trp103Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.309G>A (p.Trp103Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+1G>T	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.364-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.433C>T (p.Gln145Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.445C>T (p.Gln149Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.491G>A (p.Trp164Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.508+1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.569G>C (p.Arg190Pro)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.572T>A (p.Leu191His)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.572T>G (p.Leu191Arg)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.585C>A (p.Tyr195Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.647T>C (p.Phe216Ser)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.663+1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.664-15A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.664-1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.664-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.682C>T (p.Arg228Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.694G>T (p.Glu232Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.733C>T (p.Arg245Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+3A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.738-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.749T>G (p.Leu250Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.772G>T (p.Glu258Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.825T>G (p.Tyr275Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.838C>T (p.Gln280Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.891T>G (p.Tyr297Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.901C>T (p.Gln301Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.912T>G (p.Tyr304Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.973C>T (p.Gln325Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.325C>T (p.Gln109Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.260T>G (p.Leu87Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2272C>T (p.Gln758Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.395G>A (p.Gly132Asp)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2080C>T (p.Gln694Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.508+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1439-1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.182T>G (p.Leu61Arg)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1876G>T (p.Glu626Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.211-1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1141+1G>T	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2191G>T (p.Glu731Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2041+1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1759A>T (p.Lys587Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2626-1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2389C>T (p.Gln797Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.542A>C (p.His181Pro)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.866C>G (p.Ser289Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2698C>T (p.Gln900Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2128C>T (p.Gln710Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+1G>T	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2776C>T (p.Gln926Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2593C>T (p.Gln865Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1987G>T (p.Glu663Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.914-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.738-2A>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1165G>T (p.Gly389Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1998-2A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2269G>T (p.Glu757Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2641A>T (p.Lys881Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2391+1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.362A>T (p.Lys121Met)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2208+2T>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.572T>C (p.Leu191Pro)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.107-1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2530C>T (p.Gln844Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1029+2T>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1264-1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.211-7T>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.492G>A (p.Trp164Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2027G>A (p.Trp676Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2524C>T (p.Gln842Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2380C>T (p.Gln794Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2215C>T (p.Gln739Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.751G>T (p.Glu251Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1208C>A (p.Ser403Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.106+2T>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2866C>T (p.Gln956Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2656A>T (p.Lys886Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.982C>T (p.Gln328Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.509-1G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.738-1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2626-2A>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2488C>T (p.Gln830Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2625+367A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1453G>T (p.Glu485Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+2T>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.661A>T (p.Lys221Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2338A>T (p.Arg780Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2626G>T (p.Glu876Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.232G>T (p.Glu78Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2242C>T (p.Gln748Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1546C>T (p.Gln516Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.555C>G (p.Tyr185Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2814-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2446A>T (p.Lys816Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1998-2A>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2818C>T (p.Gln940Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2551C>T (p.Gln851Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363G>T (p.Lys121Asn)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2605A>T (p.Lys869Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2590G>T (p.Glu864Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1677C>A (p.Cys559Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.813T>G (p.Tyr271Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.740G>A (p.Trp247Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.298C>T (p.Gln100Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.125T>A (p.Val42Glu)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2813+2T>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.809C>A (p.Ser270Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2101C>T (p.Gln701Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1996A>T (p.Lys666Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.664-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.364-2A>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2263C>T (p.Gln755Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1939G>T (p.Glu647Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1336G>T (p.Glu446Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.698T>G (p.Leu233Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.193C>T (p.Gln65Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.191T>A (p.Leu64Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1439-1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1141+1G>A	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2112T>G (p.Tyr704Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1624A>T (p.Lys542Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363G>C (p.Lys121Asn)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.218T>A (p.Leu73Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.278T>A (p.Leu93Gln)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.485C>A (p.Ser162Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.482T>C (p.Leu161Pro)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1324A>T (p.Arg442Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1997+2T>G	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.509-1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2599C>T (p.Gln867Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1450A>T (p.Arg484Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1027C>T (p.Gln343Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913+1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.555C>A (p.Tyr185Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.134T>A (p.Leu45Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2632G>T (p.Glu878Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2503-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1966G>T (p.Gly656Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.364-1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+5G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2674A>T (p.Arg892Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.738-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1888A>T (p.Lys630Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1030-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.275T>G (p.Leu92Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.508+2T>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2612C>G (p.Ser871Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.442A>T (p.Lys148Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.147C>G (p.Tyr49Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1432G>T (p.Glu478Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.721G>T (p.Glu241Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1029+1G>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1997+1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1812T>G (p.Tyr604Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.585C>G (p.Tyr195Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+668G>T	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1798C>T (p.Gln600Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.562T>G (p.Phe188Val)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913+2T>C	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2374C>T (p.Gln792Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2824C>T (p.Gln942Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2813+1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2122A>T (p.Lys708Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2814-1G>A	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1270A>T (p.Arg424Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.809C>G (p.Ser270Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1524C>G (p.Tyr508Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2851C>T (p.Gln951Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1607T>A (p.Leu536Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.659T>A (p.Val220Asp)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.210+1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913G>C (p.Gly305Arg)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1229C>A (p.Ser410Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.107-1G>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1264-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.7C>T (p.Gln3Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1109C>G (p.Ser370Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913+2T>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.488C>G (p.Ser163Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2503-1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.211-2A>G	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.663+2T>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2578G>T (p.Glu860Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1690G>T (p.Glu564Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1648C>T (p.Gln550Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.364-1G>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.144T>G (p.Tyr48Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2391+1G>T	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.210+1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.913+2T>A	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.673G>T (p.Glu225Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1119C>G (p.Tyr373Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1997+2T>C	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2626-2A>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1264-1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2665G>T (p.Glu889Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2519C>A (p.Ser840Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2392-1G>T	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2392-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.244A>T (p.Lys82Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1600G>T (p.Glu534Ter)	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.741G>A (p.Trp247Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.509-2A>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.275T>A (p.Leu92Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2586T>A (p.Tyr862Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1998-2A>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+1G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+668G>C	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+668G>A	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1263+1G>A	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1218C>A (p.Tyr406Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2042-1G>T	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1203T>A (p.Cys401Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.363+3A>T	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2527C>T (p.Gln843Ter)	TSC1	Pathogenic/Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.737+2T>G	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.631G>T (p.Glu211Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1029+64C>A	TSC1	Likely pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.2225T>G (p.Leu742Ter)	TSC1	Pathogenic	GRCh38
+single nucleotide variant	NM_000368.5(TSC1):c.1327G>T (p.Gly443Ter)	TSC1	Pathogenic	GRCh38
