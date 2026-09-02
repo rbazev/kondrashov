@@ -10,11 +10,14 @@ The analysis has the following components:
 
 1. [orthologs.ipynb](orthologs.ipynb) collect primate orthologs of each human gene from NCBI, remove redundant sequences, save them to a `*.fasta` file.  
 
-2. [Clinvar.ipynb] filter variants and save in 'clinvar folder' as .csv file
+2. [Clinvar_pathogen_Mary.ipynb](Clinvar_pathogen_Mary.ipynb) extract pathogenic variants from ClinVar data, save as .csv file in 'pathogenic folder'
+
+3. [find_closest.ipynb](find_closest_Mary.ipynb) Identify variants that are most similar to reference human protein within the various species
+
+ 
 
 1. [align.ipynb](align.ipynb) align orthologous sequences in each `*.fasta` file and save it to a `*.aln` file.
 
-1. [pathogen.ipynb](pathogen.ipynb) extract pathogenic variants from ClinVar data. 
 
 1. [clean_up.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
 
