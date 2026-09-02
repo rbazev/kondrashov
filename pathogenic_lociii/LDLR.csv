@@ -1,0 +1,1094 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000527.5(LDLR):c.97C>T (p.Gln33Ter)	3949	LDLR	Pathogenic	GRCh38	3683
+single nucleotide variant	NM_000527.5(LDLR):c.259T>G (p.Trp87Gly)	3949	LDLR	Pathogenic	GRCh38	3685
+single nucleotide variant	NM_000527.5(LDLR):c.530C>T (p.Ser177Leu)	3949	LDLR	Pathogenic	GRCh38	3686
+single nucleotide variant	NM_000527.5(LDLR):c.1694G>T (p.Gly565Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3688
+single nucleotide variant	NM_000527.5(LDLR):c.2000G>A (p.Cys667Tyr)	3949	LDLR	Likely pathogenic	GRCh38	3689
+single nucleotide variant	NM_000527.5(LDLR):c.681C>G (p.Asp227Glu)	3949	LDLR	Pathogenic	GRCh38	3690
+single nucleotide variant	NM_000527.5(LDLR):c.682G>A (p.Glu228Lys)	3949	LDLR	Pathogenic	GRCh38	3691
+single nucleotide variant	NM_000527.5(LDLR):c.910G>A (p.Asp304Asn)	3949	LDLR	Pathogenic	GRCh38	3692
+single nucleotide variant	NM_000527.5(LDLR):c.1291G>A (p.Ala431Thr)	3949	LDLR	Pathogenic	GRCh38	3695
+single nucleotide variant	NM_000527.5(LDLR):c.1567G>A (p.Val523Met)	3949	LDLR	Pathogenic	GRCh38	3696
+single nucleotide variant	NM_000527.5(LDLR):c.1637G>A (p.Gly546Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3697
+single nucleotide variant	NM_000527.5(LDLR):c.1646G>A (p.Gly549Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3698
+single nucleotide variant	NM_000527.5(LDLR):c.2043C>A (p.Cys681Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3699
+single nucleotide variant	NM_000527.5(LDLR):c.2054C>T (p.Pro685Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3702
+single nucleotide variant	NM_000527.5(LDLR):c.2439G>A (p.Trp813Ter)	3949	LDLR	Pathogenic	GRCh38	3703
+single nucleotide variant	NM_000527.5(LDLR):c.2483A>G (p.Tyr828Cys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3704
+single nucleotide variant	NM_000527.5(LDLR):c.670G>A (p.Asp224Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3706
+single nucleotide variant	NM_000527.5(LDLR):c.523G>A (p.Asp175Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3726
+single nucleotide variant	NM_000527.5(LDLR):c.564C>G (p.Tyr188Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3727
+single nucleotide variant	NM_000527.5(LDLR):c.693C>A (p.Cys231Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3730
+single nucleotide variant	NM_000527.5(LDLR):c.1297G>C (p.Asp433His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3732
+single nucleotide variant	NM_000527.5(LDLR):c.2531G>A (p.Gly844Asp)	3949	LDLR	Likely pathogenic	GRCh38	3734
+single nucleotide variant	NM_000527.4(LDLR):c.313+1G>A	3949	LDLR	Pathogenic	GRCh38	3736
+single nucleotide variant	NM_000527.4(LDLR):c.694+2T>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3738
+single nucleotide variant	NM_000527.5(LDLR):c.551G>A (p.Cys184Tyr)	3949	LDLR	Pathogenic	GRCh38	3739
+single nucleotide variant	NM_000527.5(LDLR):c.782G>T (p.Cys261Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3740
+single nucleotide variant	NM_000527.5(LDLR):c.131G>A (p.Trp44Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3741
+single nucleotide variant	NM_000527.5(LDLR):c.137G>C (p.Cys46Ser)	3949	LDLR	Likely pathogenic	GRCh38	3742
+single nucleotide variant	NM_000527.5(LDLR):c.326G>C (p.Cys109Ser)	3949	LDLR	Likely pathogenic	GRCh38	3743
+single nucleotide variant	NM_000527.5(LDLR):c.2140+1G>A	3949	LDLR	Pathogenic	GRCh38	3744
+single nucleotide variant	NM_000527.5(LDLR):c.1216C>A (p.Arg406=)	3949	LDLR	Likely pathogenic	GRCh38	3746
+single nucleotide variant	NM_000527.5(LDLR):c.621C>T (p.Gly207=)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3747
+single nucleotide variant	NM_000527.5(LDLR):c.2140+86C>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	30627
+single nucleotide variant	NM_000527.5(LDLR):c.1055G>A (p.Cys352Tyr)	3949	LDLR	Likely pathogenic	GRCh38	36450
+single nucleotide variant	NM_000527.5(LDLR):c.1222G>A (p.Glu408Lys)	3949	LDLR	Likely pathogenic	GRCh38	36453
+single nucleotide variant	NM_000527.5(LDLR):c.1291G>C (p.Ala431Pro)	3949	LDLR	Likely pathogenic	GRCh38	36454
+single nucleotide variant	NM_000527.5(LDLR):c.1358+2T>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	36455
+single nucleotide variant	NM_000527.5(LDLR):c.1978C>T (p.Gln660Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	36458
+single nucleotide variant	NM_000527.5(LDLR):c.362G>A (p.Cys121Tyr)	3949	LDLR	Likely pathogenic	GRCh38	36463
+single nucleotide variant	NM_000527.5(LDLR):c.296C>G (p.Ser99Ter)	3949	LDLR	Pathogenic	GRCh38	161269
+single nucleotide variant	NM_000527.5(LDLR):c.301G>A (p.Glu101Lys)	3949	LDLR	Pathogenic	GRCh38	161266
+single nucleotide variant	NM_000527.5(LDLR):c.798T>A (p.Asp266Glu)	3949	LDLR	Pathogenic	GRCh38	161287
+single nucleotide variant	NM_000527.5(LDLR):c.862G>A (p.Glu288Lys)	3949	LDLR	Pathogenic	GRCh38	161268
+single nucleotide variant	NM_000527.5(LDLR):c.1201C>G (p.Leu401Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	161267
+single nucleotide variant	NM_000527.5(LDLR):c.1238C>T (p.Thr413Met)	3949	LDLR	Likely pathogenic	GRCh38	161276
+single nucleotide variant	NM_000527.5(LDLR):c.1432G>A (p.Gly478Arg)	3949	LDLR	Pathogenic	GRCh38	161277
+single nucleotide variant	NM_000527.5(LDLR):c.1444G>A (p.Asp482Asn)	3949	LDLR	Pathogenic	GRCh38	161284
+single nucleotide variant	NM_000527.5(LDLR):c.1467C>G (p.Tyr489Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	161270
+single nucleotide variant	NM_000527.5(LDLR):c.1474G>A (p.Asp492Asn)	3949	LDLR	Pathogenic	GRCh38	161285
+single nucleotide variant	NM_000527.5(LDLR):c.1775G>A (p.Gly592Glu)	3949	LDLR	Pathogenic	GRCh38	161271
+single nucleotide variant	NM_000527.5(LDLR):c.1783C>T (p.Arg595Trp)	3949	LDLR	Pathogenic	GRCh38	161290
+single nucleotide variant	NM_000527.5(LDLR):c.2475C>G (p.Asn825Lys)	3949	LDLR	Likely pathogenic	GRCh38	161265
+single nucleotide variant	NM_000527.5(LDLR):c.1359-1G>A	3949	LDLR	Pathogenic	GRCh38	162499
+single nucleotide variant	NM_000527.5(LDLR):c.1186+1G>T	3949	LDLR	Pathogenic	GRCh38	180403
+single nucleotide variant	NM_000527.5(LDLR):c.1468T>C (p.Trp490Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	180402
+single nucleotide variant	NM_000527.5(LDLR):c.241C>T (p.Arg81Cys)	3949	LDLR	Likely pathogenic	GRCh38	183083
+single nucleotide variant	NM_000527.5(LDLR):c.352G>T (p.Asp118Tyr)	3949	LDLR	Likely pathogenic	GRCh38	183085
+single nucleotide variant	NM_000527.5(LDLR):c.502G>A (p.Asp168Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	183136
+single nucleotide variant	NM_000527.5(LDLR):c.542C>G (p.Pro181Arg)	3949	LDLR	Likely pathogenic	GRCh38	183089
+single nucleotide variant	NM_000527.5(LDLR):c.589T>C (p.Cys197Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	183091
+single nucleotide variant	NM_000527.5(LDLR):c.662A>G (p.Asp221Gly)	3949	LDLR	Pathogenic	GRCh38	183092
+single nucleotide variant	NM_000527.5(LDLR):c.665G>A (p.Cys222Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	183093
+single nucleotide variant	NM_000527.5(LDLR):c.846C>A (p.Phe282Leu)	3949	LDLR	Likely pathogenic	GRCh38	183098
+single nucleotide variant	NM_000527.5(LDLR):c.1003G>A (p.Gly335Ser)	3949	LDLR	Likely pathogenic	GRCh38	183105
+single nucleotide variant	NM_000527.5(LDLR):c.1027G>A (p.Gly343Ser)	3949	LDLR	Pathogenic	GRCh38	183106
+single nucleotide variant	NM_000527.5(LDLR):c.1133A>C (p.Gln378Pro)	3949	LDLR	Likely pathogenic	GRCh38	183108
+single nucleotide variant	NM_000527.5(LDLR):c.1195G>A (p.Ala399Thr)	3949	LDLR	Likely pathogenic	GRCh38	183109
+single nucleotide variant	NM_000527.5(LDLR):c.1246C>T (p.Arg416Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	183110
+single nucleotide variant	NM_000527.5(LDLR):c.1381G>T (p.Gly461Cys)	3949	LDLR	Likely pathogenic	GRCh38	183113
+single nucleotide variant	NM_000527.5(LDLR):c.1414G>T (p.Asp472Tyr)	3949	LDLR	Pathogenic	GRCh38	183116
+single nucleotide variant	NM_000527.5(LDLR):c.1747C>G (p.His583Asp)	3949	LDLR	Likely pathogenic	GRCh38	183124
+single nucleotide variant	NM_000527.5(LDLR):c.1784G>A (p.Arg595Gln)	3949	LDLR	Pathogenic	GRCh38	183126
+single nucleotide variant	NM_000527.5(LDLR):c.1951G>A (p.Asp651Asn)	3949	LDLR	Likely pathogenic	GRCh38	183128
+single nucleotide variant	NM_000527.5(LDLR):c.313+2T>C	3949	LDLR	Pathogenic	GRCh38	189296
+single nucleotide variant	NM_000527.5(LDLR):c.828C>A (p.Cys276Ter)	3949	LDLR	Pathogenic	GRCh38	189298
+single nucleotide variant	NM_000527.5(LDLR):c.178C>T (p.Gln60Ter)	3949	LDLR	Pathogenic	GRCh38	200924
+single nucleotide variant	NM_000527.5(LDLR):c.501C>A (p.Cys167Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	200918
+single nucleotide variant	NM_000527.5(LDLR):c.590G>A (p.Cys197Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	200919
+single nucleotide variant	NM_000527.5(LDLR):c.718G>A (p.Glu240Lys)	3949	LDLR	Pathogenic	GRCh38	200920
+single nucleotide variant	NM_000527.5(LDLR):c.1747C>T (p.His583Tyr)	3949	LDLR	Pathogenic	GRCh38	200921
+single nucleotide variant	NM_000527.5(LDLR):c.1916T>A (p.Val639Asp)	3949	LDLR	Pathogenic	GRCh38	200922
+single nucleotide variant	NM_000527.5(LDLR):c.2098G>A (p.Asp700Asn)	3949	LDLR	Likely pathogenic	GRCh38	200923
+single nucleotide variant	NM_000527.5(LDLR):c.1691A>G (p.Asn564Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	224616
+single nucleotide variant	NM_000527.5(LDLR):c.190+4A>T	3949	LDLR	Likely pathogenic	GRCh38	225097
+single nucleotide variant	NM_000527.5(LDLR):c.1252G>A (p.Glu418Lys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	225182
+single nucleotide variant	NM_000527.5(LDLR):c.2140G>T (p.Glu714Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	225183
+single nucleotide variant	NM_000527.5(LDLR):c.81C>G (p.Cys27Trp)	3949	LDLR	Pathogenic	GRCh38	226304
+single nucleotide variant	NM_000527.5(LDLR):c.82G>T (p.Glu28Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226305
+single nucleotide variant	NM_000527.5(LDLR):c.191-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226306
+single nucleotide variant	NM_000527.5(LDLR):c.224G>A (p.Cys75Tyr)	3949	LDLR	Likely pathogenic	GRCh38	226308
+single nucleotide variant	NM_000527.5(LDLR):c.246C>A (p.Cys82Ter)	3949	LDLR	Pathogenic	GRCh38	226309
+single nucleotide variant	NM_000527.5(LDLR):c.253C>T (p.Gln85Ter)	3949	LDLR	Pathogenic	GRCh38	226311
+single nucleotide variant	NM_000527.5(LDLR):c.266G>A (p.Cys89Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226312
+single nucleotide variant	NM_000527.5(LDLR):c.269A>G (p.Asp90Gly)	3949	LDLR	Pathogenic	GRCh38	226313
+single nucleotide variant	NM_000527.5(LDLR):c.304C>T (p.Gln102Ter)	3949	LDLR	Pathogenic	GRCh38	226314
+single nucleotide variant	NM_000527.5(LDLR):c.311G>A (p.Cys104Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226315
+single nucleotide variant	NM_000527.5(LDLR):c.326G>A (p.Cys109Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226319
+single nucleotide variant	NM_000527.5(LDLR):c.337G>T (p.Glu113Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226320
+single nucleotide variant	NM_000527.5(LDLR):c.400T>C (p.Cys134Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226322
+single nucleotide variant	NM_000527.5(LDLR):c.417C>G (p.Asp139Glu)	3949	LDLR	Likely pathogenic	GRCh38	226323
+single nucleotide variant	NM_000527.5(LDLR):c.427T>G (p.Cys143Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226324
+single nucleotide variant	NM_000527.5(LDLR):c.429C>A (p.Cys143Ter)	3949	LDLR	Pathogenic	GRCh38	226325
+single nucleotide variant	NM_000527.5(LDLR):c.533A>T (p.Asp178Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226326
+single nucleotide variant	NM_000527.5(LDLR):c.661G>A (p.Asp221Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226331
+single nucleotide variant	NM_000527.5(LDLR):c.664T>C (p.Cys222Arg)	3949	LDLR	Likely pathogenic	GRCh38	226332
+single nucleotide variant	NM_000527.5(LDLR):c.682G>T (p.Glu228Ter)	3949	LDLR	Pathogenic	GRCh38	226333
+single nucleotide variant	NM_000527.5(LDLR):c.796G>A (p.Asp266Asn)	3949	LDLR	Pathogenic	GRCh38	226334
+single nucleotide variant	NM_000527.5(LDLR):c.912C>G (p.Asp304Glu)	3949	LDLR	Likely pathogenic	GRCh38	226336
+single nucleotide variant	NM_000527.5(LDLR):c.917C>T (p.Ser306Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226337
+single nucleotide variant	NM_000527.5(LDLR):c.938G>A (p.Cys313Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226339
+single nucleotide variant	NM_000527.5(LDLR):c.940+2T>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226340
+single nucleotide variant	NM_000527.5(LDLR):c.986G>A (p.Cys329Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226344
+single nucleotide variant	NM_000527.5(LDLR):c.1033C>T (p.Gln345Ter)	3949	LDLR	Pathogenic	GRCh38	226341
+single nucleotide variant	NM_000527.5(LDLR):c.1048C>T (p.Arg350Ter)	3949	LDLR	Pathogenic	GRCh38	226342
+single nucleotide variant	NM_000527.5(LDLR):c.1049G>C (p.Arg350Pro)	3949	LDLR	Likely pathogenic	GRCh38	226343
+single nucleotide variant	NM_000527.5(LDLR):c.1066G>T (p.Asp356Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226345
+single nucleotide variant	NM_000527.5(LDLR):c.1073G>A (p.Cys358Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226346
+single nucleotide variant	NM_000527.5(LDLR):c.1187-10G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226349
+single nucleotide variant	NM_000527.5(LDLR):c.1196C>A (p.Ala399Asp)	3949	LDLR	Likely pathogenic	GRCh38	226350
+single nucleotide variant	NM_000527.5(LDLR):c.1216C>T (p.Arg406Trp)	3949	LDLR	Pathogenic	GRCh38	226351
+single nucleotide variant	NM_000527.5(LDLR):c.1217G>C (p.Arg406Pro)	3949	LDLR	Likely pathogenic	GRCh38	226352
+single nucleotide variant	NM_000527.5(LDLR):c.1285G>C (p.Val429Leu)	3949	LDLR	Pathogenic	GRCh38	226353
+single nucleotide variant	NM_000527.5(LDLR):c.1448G>A (p.Trp483Ter)	3949	LDLR	Pathogenic	GRCh38	226356
+single nucleotide variant	NM_000527.5(LDLR):c.1469G>A (p.Trp490Ter)	3949	LDLR	Pathogenic	GRCh38	226357
+single nucleotide variant	NM_000527.5(LDLR):c.1469G>T (p.Trp490Leu)	3949	LDLR	Pathogenic	GRCh38	226358
+single nucleotide variant	NM_000527.5(LDLR):c.1618G>A (p.Ala540Thr)	3949	LDLR	Pathogenic	GRCh38	226363
+single nucleotide variant	NM_000527.5(LDLR):c.1685G>A (p.Trp562Ter)	3949	LDLR	Pathogenic	GRCh38	226364
+single nucleotide variant	NM_000527.5(LDLR):c.1694G>C (p.Gly565Ala)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226366
+single nucleotide variant	NM_000527.5(LDLR):c.1705+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226367
+single nucleotide variant	NM_000527.5(LDLR):c.1731G>A (p.Trp577Ter)	3949	LDLR	Pathogenic	GRCh38	226370
+single nucleotide variant	NM_000527.5(LDLR):c.1735G>T (p.Asp579Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226371
+single nucleotide variant	NM_000527.5(LDLR):c.1745T>C (p.Leu582Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226372
+single nucleotide variant	NM_000527.5(LDLR):c.1814T>C (p.Leu605Pro)	3949	LDLR	Likely pathogenic	GRCh38	226374
+single nucleotide variant	NM_000527.5(LDLR):c.1845+11C>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226375
+single nucleotide variant	NM_000527.5(LDLR):c.1880C>A (p.Ala627Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226377
+single nucleotide variant	NM_000527.5(LDLR):c.1897C>T (p.Arg633Cys)	3949	LDLR	Pathogenic	GRCh38	226379
+single nucleotide variant	NM_000527.5(LDLR):c.1898G>A (p.Arg633His)	3949	LDLR	Pathogenic	GRCh38	226380
+single nucleotide variant	NM_000527.5(LDLR):c.1955T>C (p.Met652Thr)	3949	LDLR	Likely pathogenic	GRCh38	226382
+single nucleotide variant	NM_000527.5(LDLR):c.2029T>C (p.Cys677Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226384
+single nucleotide variant	NM_000527.5(LDLR):c.2030G>T (p.Cys677Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226385
+single nucleotide variant	NM_000527.5(LDLR):c.2140G>C (p.Glu714Gln)	3949	LDLR	Likely pathogenic	GRCh38	226386
+single nucleotide variant	NM_000527.5(LDLR):c.2312-3C>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226391
+single nucleotide variant	NM_000527.5(LDLR):c.2344A>T (p.Lys782Ter)	3949	LDLR	Pathogenic	GRCh38	226392
+single nucleotide variant	NM_000527.5(LDLR):c.2389G>A (p.Val797Met)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	226393
+single nucleotide variant	NM_000527.5(LDLR):c.2483A>C (p.Tyr828Ser)	3949	LDLR	Likely pathogenic	GRCh38	226395
+single nucleotide variant	NM_000527.5(LDLR):c.1217G>A (p.Arg406Gln)	3949	LDLR	Likely pathogenic	GRCh38	228798
+single nucleotide variant	NM_000527.5(LDLR):c.12G>A (p.Trp4Ter)	3949	LDLR	Pathogenic	GRCh38	237860
+single nucleotide variant	NM_000527.5(LDLR):c.166T>C (p.Ser56Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	237864
+single nucleotide variant	NM_000527.5(LDLR):c.337G>A (p.Glu113Lys)	3949	LDLR	Pathogenic	GRCh38	237872
+single nucleotide variant	NM_000527.5(LDLR):c.1706-2A>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	237865
+single nucleotide variant	NM_000527.5(LDLR):c.-152C>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250945
+single nucleotide variant	NM_000527.5(LDLR):c.-149C>A	3949	LDLR	Likely pathogenic	GRCh38	250946
+single nucleotide variant	NM_000527.5(LDLR):c.-136C>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250955
+single nucleotide variant	NM_000527.5(LDLR):c.1A>C (p.Met1Leu)	3949	LDLR	Pathogenic	GRCh38	250966
+single nucleotide variant	NM_000527.5(LDLR):c.1A>G (p.Met1Val)	3949	LDLR	Likely pathogenic	GRCh38	250967
+single nucleotide variant	NM_000527.5(LDLR):c.1A>T (p.Met1Leu)	3949	LDLR	Pathogenic	GRCh38	250968
+single nucleotide variant	NM_000527.5(LDLR):c.3G>T (p.Met1Ile)	3949	LDLR	Likely pathogenic	GRCh38	250969
+single nucleotide variant	NM_000527.5(LDLR):c.11G>A (p.Trp4Ter)	3949	LDLR	Pathogenic	GRCh38	250973
+single nucleotide variant	NM_000527.5(LDLR):c.28T>A (p.Trp10Arg)	3949	LDLR	Likely pathogenic	GRCh38	250975
+single nucleotide variant	NM_000527.5(LDLR):c.28T>C (p.Trp10Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250976
+single nucleotide variant	NM_000527.5(LDLR):c.44T>C (p.Leu15Pro)	3949	LDLR	Likely pathogenic	GRCh38	250981
+single nucleotide variant	NM_000527.5(LDLR):c.67+2T>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250987
+single nucleotide variant	NM_000527.5(LDLR):c.68-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250992
+single nucleotide variant	NM_000527.5(LDLR):c.68-2A>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	250993
+single nucleotide variant	NM_000527.5(LDLR):c.68-1G>C	3949	LDLR	Pathogenic	GRCh38	251005
+single nucleotide variant	NM_000527.5(LDLR):c.76A>T (p.Arg26Ter)	3949	LDLR	Pathogenic	GRCh38	251006
+single nucleotide variant	NM_000527.5(LDLR):c.81C>A (p.Cys27Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251009
+single nucleotide variant	NM_000527.5(LDLR):c.85A>T (p.Arg29Ter)	3949	LDLR	Pathogenic	GRCh38	251011
+single nucleotide variant	NM_000527.5(LDLR):c.91G>T (p.Glu31Ter)	3949	LDLR	Pathogenic	GRCh38	251014
+single nucleotide variant	NM_000527.5(LDLR):c.95T>G (p.Phe32Cys)	3949	LDLR	Likely pathogenic	GRCh38	251016
+single nucleotide variant	NM_000527.5(LDLR):c.100T>G (p.Cys34Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251018
+single nucleotide variant	NM_000527.5(LDLR):c.101G>C (p.Cys34Ser)	3949	LDLR	Likely pathogenic	GRCh38	251019
+single nucleotide variant	NM_000527.5(LDLR):c.102C>A (p.Cys34Ter)	3949	LDLR	Pathogenic	GRCh38	251020
+single nucleotide variant	NM_000527.5(LDLR):c.103C>T (p.Gln35Ter)	3949	LDLR	Pathogenic	GRCh38	251021
+single nucleotide variant	NM_000527.5(LDLR):c.126C>A (p.Tyr42Ter)	3949	LDLR	Pathogenic	GRCh38	251028
+single nucleotide variant	NM_000527.5(LDLR):c.136T>G (p.Cys46Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251030
+single nucleotide variant	NM_000527.5(LDLR):c.137G>A (p.Cys46Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251031
+single nucleotide variant	NM_000527.5(LDLR):c.138C>A (p.Cys46Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251032
+single nucleotide variant	NM_000527.5(LDLR):c.157C>T (p.Gln53Ter)	3949	LDLR	Pathogenic	GRCh38	251039
+single nucleotide variant	NM_000527.5(LDLR):c.172G>A (p.Glu58Lys)	3949	LDLR	Likely pathogenic	GRCh38	251043
+single nucleotide variant	NM_000527.5(LDLR):c.173A>G (p.Glu58Gly)	3949	LDLR	Likely pathogenic	GRCh38	251044
+single nucleotide variant	NM_000527.5(LDLR):c.187T>C (p.Cys63Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251046
+single nucleotide variant	NM_000527.5(LDLR):c.190+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251048
+single nucleotide variant	NM_000527.5(LDLR):c.190+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251049
+single nucleotide variant	NM_000527.5(LDLR):c.190+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251051
+single nucleotide variant	NM_000527.5(LDLR):c.191-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251071
+single nucleotide variant	NM_000527.5(LDLR):c.204C>A (p.Cys68Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251077
+single nucleotide variant	NM_000527.5(LDLR):c.223T>A (p.Cys75Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251079
+single nucleotide variant	NM_000527.5(LDLR):c.225T>G (p.Cys75Trp)	3949	LDLR	Likely pathogenic	GRCh38	251080
+single nucleotide variant	NM_000527.5(LDLR):c.244T>G (p.Cys82Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251091
+single nucleotide variant	NM_000527.5(LDLR):c.245G>A (p.Cys82Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251092
+single nucleotide variant	NM_000527.5(LDLR):c.245G>T (p.Cys82Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251093
+single nucleotide variant	NM_000527.5(LDLR):c.260G>A (p.Trp87Ter)	3949	LDLR	Pathogenic	GRCh38	251098
+single nucleotide variant	NM_000527.5(LDLR):c.261G>A (p.Trp87Ter)	3949	LDLR	Pathogenic	GRCh38	251100
+single nucleotide variant	NM_000527.5(LDLR):c.265T>C (p.Cys89Arg)	3949	LDLR	Likely pathogenic	GRCh38	251102
+single nucleotide variant	NM_000527.5(LDLR):c.265T>G (p.Cys89Gly)	3949	LDLR	Likely pathogenic	GRCh38	251103
+single nucleotide variant	NM_000527.5(LDLR):c.267C>G (p.Cys89Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251104
+single nucleotide variant	NM_000527.5(LDLR):c.268G>A (p.Asp90Asn)	3949	LDLR	Pathogenic	GRCh38	251105
+single nucleotide variant	NM_000527.5(LDLR):c.268G>T (p.Asp90Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251106
+single nucleotide variant	NM_000527.5(LDLR):c.270T>A (p.Asp90Glu)	3949	LDLR	Pathogenic	GRCh38	251107
+single nucleotide variant	NM_000527.5(LDLR):c.280G>T (p.Asp94Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251109
+single nucleotide variant	NM_000527.5(LDLR):c.283T>A (p.Cys95Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251110
+single nucleotide variant	NM_000527.5(LDLR):c.283T>C (p.Cys95Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251111
+single nucleotide variant	NM_000527.5(LDLR):c.283T>G (p.Cys95Gly)	3949	LDLR	Likely pathogenic	GRCh38	251112
+single nucleotide variant	NM_000527.5(LDLR):c.284G>A (p.Cys95Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251113
+single nucleotide variant	NM_000527.5(LDLR):c.284G>T (p.Cys95Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251114
+single nucleotide variant	NM_000527.5(LDLR):c.285C>A (p.Cys95Ter)	3949	LDLR	Pathogenic	GRCh38	251115
+single nucleotide variant	NM_000527.5(LDLR):c.298G>A (p.Asp100Asn)	3949	LDLR	Likely pathogenic	GRCh38	251121
+single nucleotide variant	NM_000527.5(LDLR):c.299A>G (p.Asp100Gly)	3949	LDLR	Likely pathogenic	GRCh38	251122
+single nucleotide variant	NM_000527.5(LDLR):c.301G>T (p.Glu101Ter)	3949	LDLR	Pathogenic	GRCh38	251125
+single nucleotide variant	NM_000527.5(LDLR):c.310T>C (p.Cys104Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251129
+single nucleotide variant	NM_000527.5(LDLR):c.311G>T (p.Cys104Phe)	3949	LDLR	Likely pathogenic	GRCh38	251130
+single nucleotide variant	NM_000527.5(LDLR):c.312T>G (p.Cys104Trp)	3949	LDLR	Likely pathogenic	GRCh38	251131
+single nucleotide variant	NM_000527.5(LDLR):c.313+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251134
+single nucleotide variant	NM_000527.5(LDLR):c.313+2T>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251135
+single nucleotide variant	NM_000527.5(LDLR):c.313+5G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251136
+single nucleotide variant	NM_000527.5(LDLR):c.313+5G>T	3949	LDLR	Likely pathogenic	GRCh38	251137
+single nucleotide variant	NM_000527.5(LDLR):c.314-2A>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251142
+single nucleotide variant	NM_000527.5(LDLR):c.314-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251148
+single nucleotide variant	NM_000527.5(LDLR):c.326G>T (p.Cys109Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251157
+single nucleotide variant	NM_000527.5(LDLR):c.343C>T (p.Arg115Cys)	3949	LDLR	Likely pathogenic	GRCh38	251162
+single nucleotide variant	NM_000527.5(LDLR):c.346T>C (p.Cys116Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251163
+single nucleotide variant	NM_000527.5(LDLR):c.347G>T (p.Cys116Phe)	3949	LDLR	Likely pathogenic	GRCh38	251166
+single nucleotide variant	NM_000527.5(LDLR):c.361T>A (p.Cys121Ser)	3949	LDLR	Likely pathogenic	GRCh38	251173
+single nucleotide variant	NM_000527.5(LDLR):c.361T>C (p.Cys121Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251174
+single nucleotide variant	NM_000527.5(LDLR):c.361T>G (p.Cys121Gly)	3949	LDLR	Likely pathogenic	GRCh38	251175
+single nucleotide variant	NM_000527.5(LDLR):c.362G>C (p.Cys121Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251176
+single nucleotide variant	NM_000527.5(LDLR):c.362G>T (p.Cys121Phe)	3949	LDLR	Likely pathogenic	GRCh38	251177
+single nucleotide variant	NM_000527.5(LDLR):c.364A>T (p.Ile122Phe)	3949	LDLR	Likely pathogenic	GRCh38	251178
+single nucleotide variant	NM_000527.5(LDLR):c.373C>T (p.Gln125Ter)	3949	LDLR	Pathogenic	GRCh38	251187
+single nucleotide variant	NM_000527.5(LDLR):c.376T>C (p.Phe126Leu)	3949	LDLR	Likely pathogenic	GRCh38	251189
+single nucleotide variant	NM_000527.5(LDLR):c.377T>A (p.Phe126Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251190
+single nucleotide variant	NM_000527.5(LDLR):c.380T>A (p.Val127Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251191
+single nucleotide variant	NM_000527.5(LDLR):c.382T>C (p.Cys128Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251193
+single nucleotide variant	NM_000527.5(LDLR):c.383G>T (p.Cys128Phe)	3949	LDLR	Likely pathogenic	GRCh38	251194
+single nucleotide variant	NM_000527.5(LDLR):c.386A>G (p.Asp129Gly)	3949	LDLR	Likely pathogenic	GRCh38	251195
+single nucleotide variant	NM_000527.5(LDLR):c.389C>G (p.Ser130Ter)	3949	LDLR	Pathogenic	GRCh38	251198
+single nucleotide variant	NM_000527.5(LDLR):c.401G>A (p.Cys134Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251203
+single nucleotide variant	NM_000527.5(LDLR):c.401G>T (p.Cys134Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251204
+single nucleotide variant	NM_000527.5(LDLR):c.402C>G (p.Cys134Trp)	3949	LDLR	Likely pathogenic	GRCh38	251205
+single nucleotide variant	NM_000527.5(LDLR):c.407A>T (p.Asp136Val)	3949	LDLR	Likely pathogenic	GRCh38	251206
+single nucleotide variant	NM_000527.5(LDLR):c.413C>G (p.Ser138Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251208
+single nucleotide variant	NM_000527.5(LDLR):c.415G>A (p.Asp139Asn)	3949	LDLR	Likely pathogenic	GRCh38	251209
+single nucleotide variant	NM_000527.5(LDLR):c.415G>C (p.Asp139His)	3949	LDLR	Likely pathogenic	GRCh38	251210
+single nucleotide variant	NM_000527.5(LDLR):c.416A>G (p.Asp139Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251211
+single nucleotide variant	NM_000527.5(LDLR):c.416A>T (p.Asp139Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251212
+single nucleotide variant	NM_000527.5(LDLR):c.418G>A (p.Glu140Lys)	3949	LDLR	Pathogenic	GRCh38	251213
+single nucleotide variant	NM_000527.5(LDLR):c.418G>T (p.Glu140Ter)	3949	LDLR	Pathogenic	GRCh38	251214
+single nucleotide variant	NM_000527.5(LDLR):c.419A>G (p.Glu140Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251215
+single nucleotide variant	NM_000527.5(LDLR):c.420G>C (p.Glu140Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251216
+single nucleotide variant	NM_000527.5(LDLR):c.420G>T (p.Glu140Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251217
+single nucleotide variant	NM_000527.5(LDLR):c.427T>C (p.Cys143Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251219
+single nucleotide variant	NM_000527.5(LDLR):c.428G>A (p.Cys143Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251220
+single nucleotide variant	NM_000527.5(LDLR):c.440C>T (p.Thr147Ile)	3949	LDLR	Likely pathogenic	GRCh38	251223
+single nucleotide variant	NM_000527.5(LDLR):c.442T>C (p.Cys148Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251224
+single nucleotide variant	NM_000527.5(LDLR):c.443G>A (p.Cys148Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251225
+single nucleotide variant	NM_000527.5(LDLR):c.443G>C (p.Cys148Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251227
+single nucleotide variant	NM_000527.5(LDLR):c.444T>G (p.Cys148Trp)	3949	LDLR	Likely pathogenic	GRCh38	251228
+single nucleotide variant	NM_000527.5(LDLR):c.457T>G (p.Phe153Val)	3949	LDLR	Likely pathogenic	GRCh38	251235
+single nucleotide variant	NM_000527.5(LDLR):c.458T>G (p.Phe153Cys)	3949	LDLR	Likely pathogenic	GRCh38	251236
+single nucleotide variant	NM_000527.5(LDLR):c.460C>T (p.Gln154Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251237
+single nucleotide variant	NM_000527.5(LDLR):c.463T>C (p.Cys155Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251238
+single nucleotide variant	NM_000527.5(LDLR):c.463T>G (p.Cys155Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251239
+single nucleotide variant	NM_000527.5(LDLR):c.464G>A (p.Cys155Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251240
+single nucleotide variant	NM_000527.5(LDLR):c.464G>T (p.Cys155Phe)	3949	LDLR	Likely pathogenic	GRCh38	251241
+single nucleotide variant	NM_000527.5(LDLR):c.465C>A (p.Cys155Ter)	3949	LDLR	Pathogenic	GRCh38	251242
+single nucleotide variant	NM_000527.5(LDLR):c.473C>G (p.Ser158Cys)	3949	LDLR	Likely pathogenic	GRCh38	251245
+single nucleotide variant	NM_000527.5(LDLR):c.478T>C (p.Cys160Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251247
+single nucleotide variant	NM_000527.5(LDLR):c.478T>G (p.Cys160Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251248
+single nucleotide variant	NM_000527.5(LDLR):c.493T>G (p.Trp165Gly)	3949	LDLR	Likely pathogenic	GRCh38	251253
+single nucleotide variant	NM_000527.5(LDLR):c.495G>A (p.Trp165Ter)	3949	LDLR	Pathogenic	GRCh38	251254
+single nucleotide variant	NM_000527.5(LDLR):c.499T>C (p.Cys167Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251255
+single nucleotide variant	NM_000527.5(LDLR):c.500G>A (p.Cys167Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251256
+single nucleotide variant	NM_000527.5(LDLR):c.501C>G (p.Cys167Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251257
+single nucleotide variant	NM_000527.5(LDLR):c.502G>C (p.Asp168His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251258
+single nucleotide variant	NM_000527.5(LDLR):c.502G>T (p.Asp168Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251259
+single nucleotide variant	NM_000527.5(LDLR):c.503A>G (p.Asp168Gly)	3949	LDLR	Likely pathogenic	GRCh38	251260
+single nucleotide variant	NM_000527.5(LDLR):c.506A>T (p.Asn169Ile)	3949	LDLR	Likely pathogenic	GRCh38	251262
+single nucleotide variant	NM_000527.5(LDLR):c.514G>A (p.Asp172Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251266
+single nucleotide variant	NM_000527.5(LDLR):c.514G>C (p.Asp172His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251267
+single nucleotide variant	NM_000527.5(LDLR):c.514G>T (p.Asp172Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251268
+single nucleotide variant	NM_000527.5(LDLR):c.515A>G (p.Asp172Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251269
+single nucleotide variant	NM_000527.5(LDLR):c.516C>G (p.Asp172Glu)	3949	LDLR	Likely pathogenic	GRCh38	251271
+single nucleotide variant	NM_000527.5(LDLR):c.517T>C (p.Cys173Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251272
+single nucleotide variant	NM_000527.5(LDLR):c.517T>G (p.Cys173Gly)	3949	LDLR	Likely pathogenic	GRCh38	251273
+single nucleotide variant	NM_000527.5(LDLR):c.518G>A (p.Cys173Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251275
+single nucleotide variant	NM_000527.5(LDLR):c.519C>A (p.Cys173Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251276
+single nucleotide variant	NM_000527.5(LDLR):c.519C>G (p.Cys173Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251277
+single nucleotide variant	NM_000527.5(LDLR):c.523G>T (p.Asp175Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251278
+single nucleotide variant	NM_000527.5(LDLR):c.527G>T (p.Gly176Val)	3949	LDLR	Likely pathogenic	GRCh38	251281
+single nucleotide variant	NM_000527.5(LDLR):c.532G>A (p.Asp178Asn)	3949	LDLR	Likely pathogenic	GRCh38	251283
+single nucleotide variant	NM_000527.5(LDLR):c.532G>C (p.Asp178His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251284
+single nucleotide variant	NM_000527.5(LDLR):c.532G>T (p.Asp178Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251285
+single nucleotide variant	NM_000527.5(LDLR):c.533A>G (p.Asp178Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251286
+single nucleotide variant	NM_000527.5(LDLR):c.534T>G (p.Asp178Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251287
+single nucleotide variant	NM_000527.5(LDLR):c.535G>T (p.Glu179Ter)	3949	LDLR	Pathogenic	GRCh38	251289
+single nucleotide variant	NM_000527.5(LDLR):c.536A>G (p.Glu179Gly)	3949	LDLR	Likely pathogenic	GRCh38	251290
+single nucleotide variant	NM_000527.5(LDLR):c.539G>A (p.Trp180Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251291
+single nucleotide variant	NM_000527.5(LDLR):c.544C>T (p.Gln182Ter)	3949	LDLR	Pathogenic	GRCh38	251292
+single nucleotide variant	NM_000527.5(LDLR):c.550T>C (p.Cys184Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251294
+single nucleotide variant	NM_000527.5(LDLR):c.552T>G (p.Cys184Trp)	3949	LDLR	Likely pathogenic	GRCh38	251293
+single nucleotide variant	NM_000527.5(LDLR):c.564C>A (p.Tyr188Ter)	3949	LDLR	Pathogenic	GRCh38	251299
+single nucleotide variant	NM_000527.5(LDLR):c.571C>T (p.Gln191Ter)	3949	LDLR	Pathogenic	GRCh38	251302
+single nucleotide variant	NM_000527.5(LDLR):c.589T>G (p.Cys197Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251308
+single nucleotide variant	NM_000527.5(LDLR):c.590G>T (p.Cys197Phe)	3949	LDLR	Likely pathogenic	GRCh38	251309
+single nucleotide variant	NM_000527.5(LDLR):c.591C>A (p.Cys197Ter)	3949	LDLR	Pathogenic	GRCh38	251310
+single nucleotide variant	NM_000527.5(LDLR):c.591C>G (p.Cys197Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251311
+single nucleotide variant	NM_000527.5(LDLR):c.593C>A (p.Ser198Ter)	3949	LDLR	Pathogenic	GRCh38	251312
+single nucleotide variant	NM_000527.5(LDLR):c.601G>A (p.Glu201Lys)	3949	LDLR	Likely pathogenic	GRCh38	251317
+single nucleotide variant	NM_000527.5(LDLR):c.611G>A (p.Cys204Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251320
+single nucleotide variant	NM_000527.5(LDLR):c.611G>C (p.Cys204Ser)	3949	LDLR	Likely pathogenic	GRCh38	251321
+single nucleotide variant	NM_000527.5(LDLR):c.611G>T (p.Cys204Phe)	3949	LDLR	Likely pathogenic	GRCh38	251322
+single nucleotide variant	NM_000527.5(LDLR):c.618T>G (p.Ser206Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251325
+single nucleotide variant	NM_000527.5(LDLR):c.622G>A (p.Glu208Lys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251328
+single nucleotide variant	NM_000527.5(LDLR):c.622G>T (p.Glu208Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251329
+single nucleotide variant	NM_000527.5(LDLR):c.626G>A (p.Cys209Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251332
+single nucleotide variant	NM_000527.5(LDLR):c.631C>T (p.His211Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251335
+single nucleotide variant	NM_000527.5(LDLR):c.632A>T (p.His211Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251337
+single nucleotide variant	NM_000527.5(LDLR):c.641G>C (p.Trp214Ser)	3949	LDLR	Likely pathogenic	GRCh38	251339
+single nucleotide variant	NM_000527.5(LDLR):c.642G>A (p.Trp214Ter)	3949	LDLR	Pathogenic	GRCh38	251340
+single nucleotide variant	NM_000527.5(LDLR):c.643C>A (p.Arg215Ser)	3949	LDLR	Likely pathogenic	GRCh38	251342
+single nucleotide variant	NM_000527.5(LDLR):c.646T>C (p.Cys216Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251345
+single nucleotide variant	NM_000527.5(LDLR):c.647G>A (p.Cys216Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251346
+single nucleotide variant	NM_000527.5(LDLR):c.661G>T (p.Asp221Tyr)	3949	LDLR	Pathogenic	GRCh38	251356
+single nucleotide variant	NM_000527.5(LDLR):c.662A>T (p.Asp221Val)	3949	LDLR	Likely pathogenic	GRCh38	251357
+single nucleotide variant	NM_000527.5(LDLR):c.664T>G (p.Cys222Gly)	3949	LDLR	Likely pathogenic	GRCh38	251361
+single nucleotide variant	NM_000527.5(LDLR):c.665G>T (p.Cys222Phe)	3949	LDLR	Likely pathogenic	GRCh38	251362
+single nucleotide variant	NM_000527.5(LDLR):c.666C>A (p.Cys222Ter)	3949	LDLR	Pathogenic	GRCh38	251364
+single nucleotide variant	NM_000527.5(LDLR):c.666C>G (p.Cys222Trp)	3949	LDLR	Likely pathogenic	GRCh38	251365
+single nucleotide variant	NM_000527.5(LDLR):c.669G>C (p.Lys223Asn)	3949	LDLR	Likely pathogenic	GRCh38	251370
+single nucleotide variant	NM_000527.5(LDLR):c.671A>C (p.Asp224Ala)	3949	LDLR	Likely pathogenic	GRCh38	251373
+single nucleotide variant	NM_000527.5(LDLR):c.671A>G (p.Asp224Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251374
+single nucleotide variant	NM_000527.5(LDLR):c.671A>T (p.Asp224Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251375
+single nucleotide variant	NM_000527.5(LDLR):c.676T>C (p.Ser226Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251384
+single nucleotide variant	NM_000527.5(LDLR):c.677C>G (p.Ser226Cys)	3949	LDLR	Likely pathogenic	GRCh38	251385
+single nucleotide variant	NM_000527.5(LDLR):c.680A>T (p.Asp227Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251388
+single nucleotide variant	NM_000527.5(LDLR):c.682G>C (p.Glu228Gln)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251393
+single nucleotide variant	NM_000527.5(LDLR):c.683A>C (p.Glu228Ala)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251394
+single nucleotide variant	NM_000527.5(LDLR):c.691T>C (p.Cys231Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251396
+single nucleotide variant	NM_000527.5(LDLR):c.691T>G (p.Cys231Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251397
+single nucleotide variant	NM_000527.5(LDLR):c.692G>A (p.Cys231Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251398
+single nucleotide variant	NM_000527.5(LDLR):c.693C>G (p.Cys231Trp)	3949	LDLR	Likely pathogenic	GRCh38	251400
+single nucleotide variant	NM_000527.5(LDLR):c.694+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251402
+single nucleotide variant	NM_000527.5(LDLR):c.694+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251403
+single nucleotide variant	NM_000527.5(LDLR):c.695-1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251415
+single nucleotide variant	NM_000527.5(LDLR):c.706T>C (p.Cys236Arg)	3949	LDLR	Likely pathogenic	GRCh38	251419
+single nucleotide variant	NM_000527.5(LDLR):c.718G>T (p.Glu240Ter)	3949	LDLR	Pathogenic	GRCh38	251422
+single nucleotide variant	NM_000527.5(LDLR):c.724C>T (p.Gln242Ter)	3949	LDLR	Pathogenic	GRCh38	251424
+single nucleotide variant	NM_000527.5(LDLR):c.727T>C (p.Cys243Arg)	3949	LDLR	Likely pathogenic	GRCh38	251425
+single nucleotide variant	NM_000527.5(LDLR):c.742T>G (p.Cys248Gly)	3949	LDLR	Likely pathogenic	GRCh38	251428
+single nucleotide variant	NM_000527.5(LDLR):c.743G>A (p.Cys248Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251429
+single nucleotide variant	NM_000527.5(LDLR):c.743G>T (p.Cys248Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251430
+single nucleotide variant	NM_000527.5(LDLR):c.744C>A (p.Cys248Ter)	3949	LDLR	Pathogenic	GRCh38	251431
+single nucleotide variant	NM_000527.5(LDLR):c.760C>T (p.Gln254Ter)	3949	LDLR	Pathogenic	GRCh38	251436
+single nucleotide variant	NM_000527.5(LDLR):c.761A>C (p.Gln254Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251437
+single nucleotide variant	NM_000527.5(LDLR):c.763T>A (p.Cys255Ser)	3949	LDLR	Likely pathogenic	GRCh38	251440
+single nucleotide variant	NM_000527.5(LDLR):c.763T>C (p.Cys255Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251441
+single nucleotide variant	NM_000527.5(LDLR):c.764G>A (p.Cys255Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251443
+single nucleotide variant	NM_000527.5(LDLR):c.767A>G (p.Asp256Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251444
+single nucleotide variant	NM_000527.5(LDLR):c.768C>G (p.Asp256Glu)	3949	LDLR	Likely pathogenic	GRCh38	251445
+single nucleotide variant	NM_000527.5(LDLR):c.772G>T (p.Glu258Ter)	3949	LDLR	Pathogenic	GRCh38	251449
+single nucleotide variant	NM_000527.5(LDLR):c.796G>T (p.Asp266Tyr)	3949	LDLR	Pathogenic	GRCh38	251456
+single nucleotide variant	NM_000527.5(LDLR):c.797A>G (p.Asp266Gly)	3949	LDLR	Likely pathogenic	GRCh38	251457
+single nucleotide variant	NM_000527.5(LDLR):c.797A>T (p.Asp266Val)	3949	LDLR	Likely pathogenic	GRCh38	251458
+single nucleotide variant	NM_000527.5(LDLR):c.801A>T (p.Glu267Asp)	3949	LDLR	Likely pathogenic	GRCh38	251461
+single nucleotide variant	NM_000527.5(LDLR):c.808T>A (p.Cys270Ser)	3949	LDLR	Likely pathogenic	GRCh38	251462
+single nucleotide variant	NM_000527.5(LDLR):c.809G>A (p.Cys270Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251464
+single nucleotide variant	NM_000527.5(LDLR):c.810C>A (p.Cys270Ter)	3949	LDLR	Pathogenic	GRCh38	251465
+single nucleotide variant	NM_000527.5(LDLR):c.817+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251469
+single nucleotide variant	NM_000527.5(LDLR):c.817+2T>C	3949	LDLR	Likely pathogenic	GRCh38	251470
+single nucleotide variant	NM_000527.5(LDLR):c.818-2A>G	3949	LDLR	Pathogenic	GRCh38	251471
+single nucleotide variant	NM_000527.5(LDLR):c.818-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251475
+single nucleotide variant	NM_000527.5(LDLR):c.826T>C (p.Cys276Arg)	3949	LDLR	Likely pathogenic	GRCh38	251479
+single nucleotide variant	NM_000527.5(LDLR):c.826T>G (p.Cys276Gly)	3949	LDLR	Likely pathogenic	GRCh38	251480
+single nucleotide variant	NM_000527.5(LDLR):c.827G>A (p.Cys276Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251481
+single nucleotide variant	NM_000527.5(LDLR):c.828C>G (p.Cys276Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251482
+single nucleotide variant	NM_000527.5(LDLR):c.850T>C (p.Cys284Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251484
+single nucleotide variant	NM_000527.5(LDLR):c.850T>G (p.Cys284Gly)	3949	LDLR	Likely pathogenic	GRCh38	251485
+single nucleotide variant	NM_000527.5(LDLR):c.858C>A (p.Ser286Arg)	3949	LDLR	Likely pathogenic	GRCh38	251488
+single nucleotide variant	NM_000527.5(LDLR):c.859G>T (p.Gly287Cys)	3949	LDLR	Pathogenic	GRCh38	251489
+single nucleotide variant	NM_000527.5(LDLR):c.862G>T (p.Glu288Ter)	3949	LDLR	Pathogenic	GRCh38	251490
+single nucleotide variant	NM_000527.5(LDLR):c.865T>C (p.Cys289Arg)	3949	LDLR	Likely pathogenic	GRCh38	251492
+single nucleotide variant	NM_000527.5(LDLR):c.869T>G (p.Ile290Ser)	3949	LDLR	Likely pathogenic	GRCh38	251494
+single nucleotide variant	NM_000527.5(LDLR):c.880A>G (p.Lys294Glu)	3949	LDLR	Likely pathogenic	GRCh38	251498
+single nucleotide variant	NM_000527.5(LDLR):c.888C>A (p.Cys296Ter)	3949	LDLR	Pathogenic	GRCh38	251504
+single nucleotide variant	NM_000527.5(LDLR):c.898A>G (p.Arg300Gly)	3949	LDLR	Likely pathogenic	GRCh38	251510
+single nucleotide variant	NM_000527.5(LDLR):c.898A>T (p.Arg300Ter)	3949	LDLR	Pathogenic	GRCh38	251511
+single nucleotide variant	NM_000527.5(LDLR):c.901G>T (p.Asp301Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251512
+single nucleotide variant	NM_000527.5(LDLR):c.902A>C (p.Asp301Ala)	3949	LDLR	Likely pathogenic	GRCh38	251513
+single nucleotide variant	NM_000527.5(LDLR):c.902A>G (p.Asp301Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251514
+single nucleotide variant	NM_000527.5(LDLR):c.905G>A (p.Cys302Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251515
+single nucleotide variant	NM_000527.5(LDLR):c.906C>G (p.Cys302Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251516
+single nucleotide variant	NM_000527.5(LDLR):c.910G>T (p.Asp304Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251517
+single nucleotide variant	NM_000527.5(LDLR):c.914G>A (p.Trp305Ter)	3949	LDLR	Pathogenic	GRCh38	251518
+single nucleotide variant	NM_000527.5(LDLR):c.915G>A (p.Trp305Ter)	3949	LDLR	Pathogenic	GRCh38	251520
+single nucleotide variant	NM_000527.5(LDLR):c.917C>A (p.Ser306Ter)	3949	LDLR	Pathogenic	GRCh38	251523
+single nucleotide variant	NM_000527.5(LDLR):c.917C>G (p.Ser306Ter)	3949	LDLR	Pathogenic	GRCh38	251524
+single nucleotide variant	NM_000527.5(LDLR):c.919G>C (p.Asp307His)	3949	LDLR	Likely pathogenic	GRCh38	251526
+single nucleotide variant	NM_000527.5(LDLR):c.921T>G (p.Asp307Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251527
+single nucleotide variant	NM_000527.5(LDLR):c.922G>A (p.Glu308Lys)	3949	LDLR	Likely pathogenic	GRCh38	251528
+single nucleotide variant	NM_000527.5(LDLR):c.934G>T (p.Glu312Ter)	3949	LDLR	Pathogenic	GRCh38	251534
+single nucleotide variant	NM_000527.5(LDLR):c.937T>C (p.Cys313Arg)	3949	LDLR	Likely pathogenic	GRCh38	251537
+single nucleotide variant	NM_000527.5(LDLR):c.937T>G (p.Cys313Gly)	3949	LDLR	Likely pathogenic	GRCh38	251538
+single nucleotide variant	NM_000527.5(LDLR):c.939C>A (p.Cys313Ter)	3949	LDLR	Pathogenic	GRCh38	251539
+single nucleotide variant	NM_000527.5(LDLR):c.940+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251541
+single nucleotide variant	NM_000527.5(LDLR):c.940+1G>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251542
+single nucleotide variant	NM_000527.5(LDLR):c.940+2T>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251543
+single nucleotide variant	NM_000527.5(LDLR):c.941-12G>A	3949	LDLR	Likely pathogenic	GRCh38	251552
+single nucleotide variant	NM_000527.5(LDLR):c.941-2A>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251553
+single nucleotide variant	NM_000527.5(LDLR):c.941-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251554
+single nucleotide variant	NM_000527.5(LDLR):c.941-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251564
+single nucleotide variant	NM_000527.5(LDLR):c.949G>T (p.Glu317Ter)	3949	LDLR	Pathogenic	GRCh38	251568
+single nucleotide variant	NM_000527.5(LDLR):c.952T>C (p.Cys318Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251570
+single nucleotide variant	NM_000527.5(LDLR):c.953G>A (p.Cys318Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251571
+single nucleotide variant	NM_000527.5(LDLR):c.953G>T (p.Cys318Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251572
+single nucleotide variant	NM_000527.5(LDLR):c.974G>A (p.Cys325Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251580
+single nucleotide variant	NM_000527.5(LDLR):c.977C>G (p.Ser326Cys)	3949	LDLR	Pathogenic	GRCh38	251581
+single nucleotide variant	NM_000527.5(LDLR):c.977C>T (p.Ser326Phe)	3949	LDLR	Likely pathogenic	GRCh38	251582
+single nucleotide variant	NM_000527.5(LDLR):c.985T>G (p.Cys329Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251585
+single nucleotide variant	NM_000527.5(LDLR):c.986G>T (p.Cys329Phe)	3949	LDLR	Likely pathogenic	GRCh38	251586
+single nucleotide variant	NM_000527.5(LDLR):c.1008C>A (p.Tyr336Ter)	3949	LDLR	Pathogenic	GRCh38	251589
+single nucleotide variant	NM_000527.5(LDLR):c.1012T>A (p.Cys338Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251592
+single nucleotide variant	NM_000527.5(LDLR):c.1012T>C (p.Cys338Arg)	3949	LDLR	Likely pathogenic	GRCh38	251593
+single nucleotide variant	NM_000527.5(LDLR):c.1012T>G (p.Cys338Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251594
+single nucleotide variant	NM_000527.5(LDLR):c.1013G>A (p.Cys338Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251595
+single nucleotide variant	NM_000527.5(LDLR):c.1014C>A (p.Cys338Ter)	3949	LDLR	Pathogenic	GRCh38	251596
+single nucleotide variant	NM_000527.5(LDLR):c.1019G>A (p.Cys340Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251600
+single nucleotide variant	NM_000527.5(LDLR):c.1020C>G (p.Cys340Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251601
+single nucleotide variant	NM_000527.5(LDLR):c.1027G>T (p.Gly343Cys)	3949	LDLR	Pathogenic	GRCh38	251605
+single nucleotide variant	NM_000527.5(LDLR):c.1028G>A (p.Gly343Asp)	3949	LDLR	Likely pathogenic	GRCh38	251606
+single nucleotide variant	NM_000527.5(LDLR):c.1045C>T (p.Gln349Ter)	3949	LDLR	Pathogenic	GRCh38	251611
+single nucleotide variant	NM_000527.5(LDLR):c.1054T>A (p.Cys352Ser)	3949	LDLR	Likely pathogenic	GRCh38	251617
+single nucleotide variant	NM_000527.5(LDLR):c.1054T>C (p.Cys352Arg)	3949	LDLR	Likely pathogenic	GRCh38	251618
+single nucleotide variant	NM_000527.5(LDLR):c.1055G>T (p.Cys352Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251619
+single nucleotide variant	NM_000527.5(LDLR):c.1056C>A (p.Cys352Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251621
+single nucleotide variant	NM_000527.5(LDLR):c.1056C>G (p.Cys352Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251622
+single nucleotide variant	NM_000527.5(LDLR):c.1060+1G>A	3949	LDLR	Pathogenic	GRCh38	251623
+single nucleotide variant	NM_000527.5(LDLR):c.1060+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251624
+single nucleotide variant	NM_000527.5(LDLR):c.1061-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251632
+single nucleotide variant	NM_000527.5(LDLR):c.1061-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251636
+single nucleotide variant	NM_000527.5(LDLR):c.1061-1G>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251637
+single nucleotide variant	NM_000527.5(LDLR):c.1061A>C (p.Asp354Ala)	3949	LDLR	Likely pathogenic	GRCh38	251638
+single nucleotide variant	NM_000527.5(LDLR):c.1061A>G (p.Asp354Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251639
+single nucleotide variant	NM_000527.5(LDLR):c.1061A>T (p.Asp354Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251640
+single nucleotide variant	NM_000527.5(LDLR):c.1067A>C (p.Asp356Ala)	3949	LDLR	Likely pathogenic	GRCh38	251645
+single nucleotide variant	NM_000527.5(LDLR):c.1069G>A (p.Glu357Lys)	3949	LDLR	Likely pathogenic	GRCh38	251649
+single nucleotide variant	NM_000527.5(LDLR):c.1072T>C (p.Cys358Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251652
+single nucleotide variant	NM_000527.5(LDLR):c.1075C>T (p.Gln359Ter)	3949	LDLR	Pathogenic	GRCh38	251653
+single nucleotide variant	NM_000527.5(LDLR):c.1090T>C (p.Cys364Arg)	3949	LDLR	Likely pathogenic	GRCh38	251657
+single nucleotide variant	NM_000527.5(LDLR):c.1091G>C (p.Cys364Ser)	3949	LDLR	Likely pathogenic	GRCh38	251658
+single nucleotide variant	NM_000527.5(LDLR):c.1091G>T (p.Cys364Phe)	3949	LDLR	Likely pathogenic	GRCh38	251659
+single nucleotide variant	NM_000527.5(LDLR):c.1096C>T (p.Gln366Ter)	3949	LDLR	Pathogenic	GRCh38	251660
+single nucleotide variant	NM_000527.5(LDLR):c.1097A>C (p.Gln366Pro)	3949	LDLR	Likely pathogenic	GRCh38	251661
+single nucleotide variant	NM_000527.5(LDLR):c.1102T>G (p.Cys368Gly)	3949	LDLR	Likely pathogenic	GRCh38	251664
+single nucleotide variant	NM_000527.5(LDLR):c.1103G>A (p.Cys368Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251665
+single nucleotide variant	NM_000527.5(LDLR):c.1103G>C (p.Cys368Ser)	3949	LDLR	Likely pathogenic	GRCh38	251666
+single nucleotide variant	NM_000527.5(LDLR):c.1104C>A (p.Cys368Ter)	3949	LDLR	Pathogenic	GRCh38	251667
+single nucleotide variant	NM_000527.5(LDLR):c.1109A>C (p.Asn370Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251668
+single nucleotide variant	NM_000527.5(LDLR):c.1117G>T (p.Gly373Cys)	3949	LDLR	Likely pathogenic	GRCh38	251672
+single nucleotide variant	NM_000527.5(LDLR):c.1118G>A (p.Gly373Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251673
+single nucleotide variant	NM_000527.5(LDLR):c.1118G>T (p.Gly373Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251674
+single nucleotide variant	NM_000527.5(LDLR):c.1124A>C (p.Tyr375Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251678
+single nucleotide variant	NM_000527.5(LDLR):c.1124A>G (p.Tyr375Cys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251679
+single nucleotide variant	NM_000527.5(LDLR):c.1129T>G (p.Cys377Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251680
+single nucleotide variant	NM_000527.5(LDLR):c.1130G>A (p.Cys377Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251681
+single nucleotide variant	NM_000527.5(LDLR):c.1130G>C (p.Cys377Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251682
+single nucleotide variant	NM_000527.5(LDLR):c.1132C>T (p.Gln378Ter)	3949	LDLR	Pathogenic	GRCh38	251683
+single nucleotide variant	NM_000527.5(LDLR):c.1135T>C (p.Cys379Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251685
+single nucleotide variant	NM_000527.5(LDLR):c.1136G>A (p.Cys379Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251686
+single nucleotide variant	NM_000527.5(LDLR):c.1150C>T (p.Gln384Ter)	3949	LDLR	Pathogenic	GRCh38	251688
+single nucleotide variant	NM_000527.5(LDLR):c.1151A>C (p.Gln384Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251690
+single nucleotide variant	NM_000527.5(LDLR):c.1168A>T (p.Lys390Ter)	3949	LDLR	Pathogenic	GRCh38	251694
+single nucleotide variant	NM_000527.5(LDLR):c.1174T>C (p.Cys392Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251697
+single nucleotide variant	NM_000527.5(LDLR):c.1176C>A (p.Cys392Ter)	3949	LDLR	Pathogenic	GRCh38	251699
+single nucleotide variant	NM_000527.5(LDLR):c.1186G>A (p.Gly396Ser)	3949	LDLR	Likely pathogenic	GRCh38	251704
+single nucleotide variant	NM_000527.5(LDLR):c.1186+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251705
+single nucleotide variant	NM_000527.5(LDLR):c.1186+5G>A	3949	LDLR	Likely pathogenic	GRCh38	251706
+single nucleotide variant	NM_000527.5(LDLR):c.1187-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251713
+single nucleotide variant	NM_000527.5(LDLR):c.1187-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251723
+single nucleotide variant	NM_000527.5(LDLR):c.1187-1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251724
+single nucleotide variant	NM_000527.5(LDLR):c.1200C>A (p.Tyr400Ter)	3949	LDLR	Pathogenic	GRCh38	251728
+single nucleotide variant	NM_000527.5(LDLR):c.1211C>T (p.Thr404Ile)	3949	LDLR	Likely pathogenic	GRCh38	251736
+single nucleotide variant	NM_000527.5(LDLR):c.1215C>G (p.Asn405Lys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251738
+single nucleotide variant	NM_000527.5(LDLR):c.1223A>T (p.Glu408Val)	3949	LDLR	Likely pathogenic	GRCh38	251740
+single nucleotide variant	NM_000527.5(LDLR):c.1230G>T (p.Arg410Ser)	3949	LDLR	Likely pathogenic	GRCh38	251742
+single nucleotide variant	NM_000527.5(LDLR):c.1231A>G (p.Lys411Glu)	3949	LDLR	Likely pathogenic	GRCh38	251743
+single nucleotide variant	NM_000527.5(LDLR):c.1235T>C (p.Met412Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251745
+single nucleotide variant	NM_000527.5(LDLR):c.1243G>C (p.Asp415His)	3949	LDLR	Likely pathogenic	GRCh38	251748
+single nucleotide variant	NM_000527.5(LDLR):c.1244A>G (p.Asp415Gly)	3949	LDLR	Likely pathogenic	GRCh38	251749
+single nucleotide variant	NM_000527.5(LDLR):c.1247G>A (p.Arg416Gln)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251752
+single nucleotide variant	NM_000527.5(LDLR):c.1247G>C (p.Arg416Pro)	3949	LDLR	Likely pathogenic	GRCh38	251753
+single nucleotide variant	NM_000527.5(LDLR):c.1247G>T (p.Arg416Leu)	3949	LDLR	Likely pathogenic	GRCh38	251754
+single nucleotide variant	NM_000527.5(LDLR):c.1252G>T (p.Glu418Ter)	3949	LDLR	Pathogenic	GRCh38	251755
+single nucleotide variant	NM_000527.5(LDLR):c.1255T>C (p.Tyr419His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251756
+single nucleotide variant	NM_000527.5(LDLR):c.1257C>A (p.Tyr419Ter)	3949	LDLR	Pathogenic	GRCh38	251757
+single nucleotide variant	NM_000527.5(LDLR):c.1257C>G (p.Tyr419Ter)	3949	LDLR	Pathogenic	GRCh38	251758
+single nucleotide variant	NM_000527.5(LDLR):c.1268T>C (p.Ile423Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251760
+single nucleotide variant	NM_000527.5(LDLR):c.1277T>C (p.Leu426Pro)	3949	LDLR	Likely pathogenic	GRCh38	251763
+single nucleotide variant	NM_000527.5(LDLR):c.1285G>T (p.Val429Leu)	3949	LDLR	Pathogenic	GRCh38	251767
+single nucleotide variant	NM_000527.5(LDLR):c.1295T>C (p.Leu432Pro)	3949	LDLR	Likely pathogenic	GRCh38	251770
+single nucleotide variant	NM_000527.5(LDLR):c.1297G>T (p.Asp433Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251772
+single nucleotide variant	NM_000527.5(LDLR):c.1301C>A (p.Thr434Lys)	3949	LDLR	Likely pathogenic	GRCh38	251773
+single nucleotide variant	NM_000527.5(LDLR):c.1301C>G (p.Thr434Arg)	3949	LDLR	Pathogenic	GRCh38	251774
+single nucleotide variant	NM_000527.5(LDLR):c.1307T>C (p.Val436Ala)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251778
+single nucleotide variant	NM_000527.5(LDLR):c.1322T>C (p.Ile441Thr)	3949	LDLR	Pathogenic	GRCh38	251783
+single nucleotide variant	NM_000527.5(LDLR):c.1324T>A (p.Tyr442Asn)	3949	LDLR	Likely pathogenic	GRCh38	251785
+single nucleotide variant	NM_000527.5(LDLR):c.1325A>G (p.Tyr442Cys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251787
+single nucleotide variant	NM_000527.5(LDLR):c.1326C>G (p.Tyr442Ter)	3949	LDLR	Pathogenic	GRCh38	251788
+single nucleotide variant	NM_000527.5(LDLR):c.1328G>A (p.Trp443Ter)	3949	LDLR	Pathogenic	GRCh38	251789
+single nucleotide variant	NM_000527.5(LDLR):c.1328G>C (p.Trp443Ser)	3949	LDLR	Likely pathogenic	GRCh38	251790
+single nucleotide variant	NM_000527.5(LDLR):c.1329G>A (p.Trp443Ter)	3949	LDLR	Pathogenic	GRCh38	251791
+single nucleotide variant	NM_000527.5(LDLR):c.1329G>C (p.Trp443Cys)	3949	LDLR	Pathogenic	GRCh38	251792
+single nucleotide variant	NM_000527.5(LDLR):c.1329G>T (p.Trp443Cys)	3949	LDLR	Likely pathogenic	GRCh38	251793
+single nucleotide variant	NM_000527.5(LDLR):c.1339T>C (p.Ser447Pro)	3949	LDLR	Likely pathogenic	GRCh38	251796
+single nucleotide variant	NM_000527.5(LDLR):c.1342C>T (p.Gln448Ter)	3949	LDLR	Pathogenic	GRCh38	251798
+single nucleotide variant	NM_000527.5(LDLR):c.1351A>T (p.Ile451Phe)	3949	LDLR	Likely pathogenic	GRCh38	251800
+single nucleotide variant	NM_000527.5(LDLR):c.1352T>C (p.Ile451Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251801
+single nucleotide variant	NM_000527.5(LDLR):c.1358+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251802
+single nucleotide variant	NM_000527.5(LDLR):c.1358+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251803
+single nucleotide variant	NM_000527.5(LDLR):c.1359-5C>G	3949	LDLR	Likely pathogenic	GRCh38	251808
+single nucleotide variant	NM_000527.5(LDLR):c.1359-1G>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251811
+single nucleotide variant	NM_000527.5(LDLR):c.1361C>A (p.Thr454Asn)	3949	LDLR	Likely pathogenic	GRCh38	251812
+single nucleotide variant	NM_000527.5(LDLR):c.1363C>T (p.Gln455Ter)	3949	LDLR	Pathogenic	GRCh38	251813
+single nucleotide variant	NM_000527.5(LDLR):c.1420C>T (p.Gln474Ter)	3949	LDLR	Pathogenic	GRCh38	251834
+single nucleotide variant	NM_000527.5(LDLR):c.1426C>T (p.Pro476Ser)	3949	LDLR	Likely pathogenic	GRCh38	251837
+single nucleotide variant	NM_000527.5(LDLR):c.1438G>C (p.Ala480Pro)	3949	LDLR	Likely pathogenic	GRCh38	251841
+single nucleotide variant	NM_000527.5(LDLR):c.1444G>C (p.Asp482His)	3949	LDLR	Likely pathogenic	GRCh38	251844
+single nucleotide variant	NM_000527.5(LDLR):c.1445A>G (p.Asp482Gly)	3949	LDLR	Likely pathogenic	GRCh38	251846
+single nucleotide variant	NM_000527.5(LDLR):c.1449G>A (p.Trp483Ter)	3949	LDLR	Pathogenic	GRCh38	251849
+single nucleotide variant	NM_000527.5(LDLR):c.1463T>A (p.Ile488Asn)	3949	LDLR	Likely pathogenic	GRCh38	251856
+single nucleotide variant	NM_000527.5(LDLR):c.1463T>C (p.Ile488Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251857
+single nucleotide variant	NM_000527.5(LDLR):c.1468T>G (p.Trp490Gly)	3949	LDLR	Likely pathogenic	GRCh38	251860
+single nucleotide variant	NM_000527.5(LDLR):c.1470G>A (p.Trp490Ter)	3949	LDLR	Pathogenic	GRCh38	251861
+single nucleotide variant	NM_000527.5(LDLR):c.1475A>G (p.Asp492Gly)	3949	LDLR	Likely pathogenic	GRCh38	251865
+single nucleotide variant	NM_000527.5(LDLR):c.1487G>T (p.Gly496Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251867
+single nucleotide variant	NM_000527.5(LDLR):c.1495T>C (p.Ser499Pro)	3949	LDLR	Likely pathogenic	GRCh38	251870
+single nucleotide variant	NM_000527.5(LDLR):c.1502C>A (p.Ala501Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251873
+single nucleotide variant	NM_000527.5(LDLR):c.1502C>T (p.Ala501Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251874
+single nucleotide variant	NM_000527.5(LDLR):c.1510A>T (p.Lys504Ter)	3949	LDLR	Pathogenic	GRCh38	251878
+single nucleotide variant	NM_000527.5(LDLR):c.1520A>C (p.Lys507Thr)	3949	LDLR	Likely pathogenic	GRCh38	251883
+single nucleotide variant	NM_000527.5(LDLR):c.1525A>G (p.Lys509Glu)	3949	LDLR	Likely pathogenic	GRCh38	251885
+single nucleotide variant	NM_000527.5(LDLR):c.1532T>C (p.Leu511Ser)	3949	LDLR	Likely pathogenic	GRCh38	251887
+single nucleotide variant	NM_000527.5(LDLR):c.1532T>G (p.Leu511Ter)	3949	LDLR	Pathogenic	GRCh38	251888
+single nucleotide variant	NM_000527.5(LDLR):c.1558A>G (p.Arg520Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251897
+single nucleotide variant	NM_000527.5(LDLR):c.1567G>T (p.Val523Leu)	3949	LDLR	Likely pathogenic	GRCh38	251900
+single nucleotide variant	NM_000527.5(LDLR):c.1574A>T (p.Asp525Val)	3949	LDLR	Likely pathogenic	GRCh38	251902
+single nucleotide variant	NM_000527.5(LDLR):c.1586+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251905
+single nucleotide variant	NM_000527.5(LDLR):c.1586+1G>T	3949	LDLR	Likely pathogenic	GRCh38	251906
+single nucleotide variant	NM_000527.5(LDLR):c.1586+2T>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251907
+single nucleotide variant	NM_000527.5(LDLR):c.1586+2T>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251908
+single nucleotide variant	NM_000527.5(LDLR):c.1587-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251911
+single nucleotide variant	NM_000527.5(LDLR):c.1587-2A>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251912
+single nucleotide variant	NM_000527.5(LDLR):c.1587-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251922
+single nucleotide variant	NM_000527.5(LDLR):c.1597T>C (p.Trp533Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251925
+single nucleotide variant	NM_000527.5(LDLR):c.1598G>A (p.Trp533Ter)	3949	LDLR	Pathogenic	GRCh38	251926
+single nucleotide variant	NM_000527.5(LDLR):c.1599G>A (p.Trp533Ter)	3949	LDLR	Pathogenic	GRCh38	251927
+single nucleotide variant	NM_000527.5(LDLR):c.1603G>T (p.Asp535Tyr)	3949	LDLR	Likely pathogenic	GRCh38	251930
+single nucleotide variant	NM_000527.5(LDLR):c.1606T>G (p.Trp536Gly)	3949	LDLR	Likely pathogenic	GRCh38	251931
+single nucleotide variant	NM_000527.5(LDLR):c.1607G>A (p.Trp536Ter)	3949	LDLR	Pathogenic	GRCh38	251932
+single nucleotide variant	NM_000527.5(LDLR):c.1609G>T (p.Gly537Ter)	3949	LDLR	Pathogenic	GRCh38	251933
+single nucleotide variant	NM_000527.5(LDLR):c.1618G>T (p.Ala540Ser)	3949	LDLR	Likely pathogenic	GRCh38	251938
+single nucleotide variant	NM_000527.5(LDLR):c.1625T>G (p.Ile542Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251939
+single nucleotide variant	NM_000527.5(LDLR):c.1633G>A (p.Gly545Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251942
+single nucleotide variant	NM_000527.5(LDLR):c.1633G>C (p.Gly545Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251943
+single nucleotide variant	NM_000527.5(LDLR):c.1633G>T (p.Gly545Trp)	3949	LDLR	Likely pathogenic	GRCh38	251944
+single nucleotide variant	NM_000527.5(LDLR):c.1634G>A (p.Gly545Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251945
+single nucleotide variant	NM_000527.5(LDLR):c.1636G>C (p.Gly546Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251946
+single nucleotide variant	NM_000527.5(LDLR):c.1637G>T (p.Gly546Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251947
+single nucleotide variant	NM_000527.5(LDLR):c.1644T>A (p.Asn548Lys)	3949	LDLR	Likely pathogenic	GRCh38	251951
+single nucleotide variant	NM_000527.5(LDLR):c.1644T>G (p.Asn548Lys)	3949	LDLR	Likely pathogenic	GRCh38	251952
+single nucleotide variant	NM_000527.5(LDLR):c.1646G>T (p.Gly549Val)	3949	LDLR	Likely pathogenic	GRCh38	251955
+single nucleotide variant	NM_000527.5(LDLR):c.1661C>A (p.Ser554Ter)	3949	LDLR	Pathogenic	GRCh38	251959
+single nucleotide variant	NM_000527.5(LDLR):c.1664T>C (p.Leu555Pro)	3949	LDLR	Likely pathogenic	GRCh38	251962
+single nucleotide variant	NM_000527.5(LDLR):c.1672G>T (p.Glu558Ter)	3949	LDLR	Pathogenic	GRCh38	251964
+single nucleotide variant	NM_000527.5(LDLR):c.1681C>T (p.Gln561Ter)	3949	LDLR	Pathogenic	GRCh38	251965
+single nucleotide variant	NM_000527.5(LDLR):c.1686G>A (p.Trp562Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251969
+single nucleotide variant	NM_000527.5(LDLR):c.1687C>T (p.Pro563Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251970
+single nucleotide variant	NM_000527.5(LDLR):c.1690A>G (p.Asn564Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251973
+single nucleotide variant	NM_000527.5(LDLR):c.1702C>G (p.Leu568Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251976
+single nucleotide variant	NM_000527.5(LDLR):c.1703T>C (p.Leu568Pro)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251977
+single nucleotide variant	NM_000527.5(LDLR):c.1705+1G>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251980
+single nucleotide variant	NM_000527.5(LDLR):c.1705+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251981
+single nucleotide variant	NM_000527.5(LDLR):c.1706-2A>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251987
+single nucleotide variant	NM_000527.5(LDLR):c.1706-1G>A	3949	LDLR	Likely pathogenic	GRCh38	251992
+single nucleotide variant	NM_000527.5(LDLR):c.1706-1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251993
+single nucleotide variant	NM_000527.5(LDLR):c.1721G>A (p.Arg574His)	3949	LDLR	Likely pathogenic	GRCh38	251996
+single nucleotide variant	NM_000527.5(LDLR):c.1727A>C (p.Tyr576Ser)	3949	LDLR	Likely pathogenic	GRCh38	251998
+single nucleotide variant	NM_000527.5(LDLR):c.1727A>G (p.Tyr576Cys)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	251999
+single nucleotide variant	NM_000527.5(LDLR):c.1729T>C (p.Trp577Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252001
+single nucleotide variant	NM_000527.5(LDLR):c.1729T>G (p.Trp577Gly)	3949	LDLR	Pathogenic	GRCh38	252000
+single nucleotide variant	NM_000527.5(LDLR):c.1730G>C (p.Trp577Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252003
+single nucleotide variant	NM_000527.5(LDLR):c.1736A>C (p.Asp579Ala)	3949	LDLR	Likely pathogenic	GRCh38	252007
+single nucleotide variant	NM_000527.5(LDLR):c.1736A>G (p.Asp579Gly)	3949	LDLR	Likely pathogenic	GRCh38	252008
+single nucleotide variant	NM_000527.5(LDLR):c.1737C>G (p.Asp579Glu)	3949	LDLR	Likely pathogenic	GRCh38	252009
+single nucleotide variant	NM_000527.5(LDLR):c.1748A>G (p.His583Arg)	3949	LDLR	Likely pathogenic	GRCh38	252012
+single nucleotide variant	NM_000527.5(LDLR):c.1749C>A (p.His583Gln)	3949	LDLR	Likely pathogenic	GRCh38	252014
+single nucleotide variant	NM_000527.5(LDLR):c.1750T>C (p.Ser584Pro)	3949	LDLR	Likely pathogenic	GRCh38	252015
+single nucleotide variant	NM_000527.5(LDLR):c.1754T>A (p.Ile585Asn)	3949	LDLR	Likely pathogenic	GRCh38	252017
+single nucleotide variant	NM_000527.5(LDLR):c.1754T>C (p.Ile585Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252018
+single nucleotide variant	NM_000527.5(LDLR):c.1784G>T (p.Arg595Leu)	3949	LDLR	Likely pathogenic	GRCh38	252029
+single nucleotide variant	NM_000527.5(LDLR):c.1786A>T (p.Lys596Ter)	3949	LDLR	Pathogenic	GRCh38	252030
+single nucleotide variant	NM_000527.5(LDLR):c.1796T>C (p.Leu599Ser)	3949	LDLR	Likely pathogenic	GRCh38	252035
+single nucleotide variant	NM_000527.5(LDLR):c.1798G>T (p.Glu600Ter)	3949	LDLR	Pathogenic	GRCh38	252037
+single nucleotide variant	NM_000527.5(LDLR):c.1801G>T (p.Asp601Tyr)	3949	LDLR	Likely pathogenic	GRCh38	252039
+single nucleotide variant	NM_000527.5(LDLR):c.1802A>T (p.Asp601Val)	3949	LDLR	Likely pathogenic	GRCh38	252040
+single nucleotide variant	NM_000527.5(LDLR):c.1807A>T (p.Lys603Ter)	3949	LDLR	Pathogenic	GRCh38	252042
+single nucleotide variant	NM_000527.5(LDLR):c.1813C>T (p.Leu605=)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252044
+single nucleotide variant	NM_000527.5(LDLR):c.1820A>G (p.His607Arg)	3949	LDLR	Likely pathogenic	GRCh38	252047
+single nucleotide variant	NM_000527.5(LDLR):c.1822C>A (p.Pro608Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252048
+single nucleotide variant	NM_000527.5(LDLR):c.1822C>T (p.Pro608Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252049
+single nucleotide variant	NM_000527.5(LDLR):c.1823C>G (p.Pro608Arg)	3949	LDLR	Likely pathogenic	GRCh38	252050
+single nucleotide variant	NM_000527.5(LDLR):c.1823C>T (p.Pro608Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252051
+single nucleotide variant	NM_000527.5(LDLR):c.1829C>G (p.Ser610Cys)	3949	LDLR	Likely pathogenic	GRCh38	252054
+single nucleotide variant	NM_000527.5(LDLR):c.1833G>C (p.Leu611Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252058
+single nucleotide variant	NM_000527.5(LDLR):c.1833G>T (p.Leu611Phe)	3949	LDLR	Likely pathogenic	GRCh38	252059
+single nucleotide variant	NM_000527.5(LDLR):c.1840T>A (p.Phe614Ile)	3949	LDLR	Likely pathogenic	GRCh38	252061
+single nucleotide variant	NM_000527.5(LDLR):c.1844A>T (p.Glu615Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252064
+single nucleotide variant	NM_000527.5(LDLR):c.1845+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252067
+single nucleotide variant	NM_000527.5(LDLR):c.1845+1G>C	3949	LDLR	Pathogenic	GRCh38	252068
+single nucleotide variant	NM_000527.5(LDLR):c.1845+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252069
+single nucleotide variant	NM_000527.5(LDLR):c.1845+2T>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252070
+single nucleotide variant	NM_000527.5(LDLR):c.1846-2A>C	3949	LDLR	Likely pathogenic	GRCh38	252073
+single nucleotide variant	NM_000527.5(LDLR):c.1846-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252079
+single nucleotide variant	NM_000527.5(LDLR):c.1846-1G>C	3949	LDLR	Likely pathogenic	GRCh38	252080
+single nucleotide variant	NM_000527.5(LDLR):c.1855T>C (p.Phe619Leu)	3949	LDLR	Likely pathogenic	GRCh38	252083
+single nucleotide variant	NM_000527.5(LDLR):c.1856T>C (p.Phe619Ser)	3949	LDLR	Likely pathogenic	GRCh38	252084
+single nucleotide variant	NM_000527.5(LDLR):c.1856T>G (p.Phe619Cys)	3949	LDLR	Likely pathogenic	GRCh38	252085
+single nucleotide variant	NM_000527.5(LDLR):c.1858T>C (p.Trp620Arg)	3949	LDLR	Likely pathogenic	GRCh38	252086
+single nucleotide variant	NM_000527.5(LDLR):c.1859G>A (p.Trp620Ter)	3949	LDLR	Pathogenic	GRCh38	252087
+single nucleotide variant	NM_000527.5(LDLR):c.1860G>A (p.Trp620Ter)	3949	LDLR	Pathogenic	GRCh38	252089
+single nucleotide variant	NM_000527.5(LDLR):c.1860G>C (p.Trp620Cys)	3949	LDLR	Likely pathogenic	GRCh38	252090
+single nucleotide variant	NM_000527.5(LDLR):c.1862C>G (p.Thr621Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252091
+single nucleotide variant	NM_000527.5(LDLR):c.1864G>A (p.Asp622Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252092
+single nucleotide variant	NM_000527.5(LDLR):c.1865A>C (p.Asp622Ala)	3949	LDLR	Likely pathogenic	GRCh38	252093
+single nucleotide variant	NM_000527.5(LDLR):c.1879G>A (p.Ala627Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252101
+single nucleotide variant	NM_000527.5(LDLR):c.1880C>T (p.Ala627Val)	3949	LDLR	Likely pathogenic	GRCh38	252102
+single nucleotide variant	NM_000527.5(LDLR):c.1886T>G (p.Phe629Cys)	3949	LDLR	Likely pathogenic	GRCh38	252105
+single nucleotide variant	NM_000527.5(LDLR):c.1892C>A (p.Ala631Asp)	3949	LDLR	Likely pathogenic	GRCh38	252106
+single nucleotide variant	NM_000527.5(LDLR):c.1898G>T (p.Arg633Leu)	3949	LDLR	Likely pathogenic	GRCh38	252107
+single nucleotide variant	NM_000527.5(LDLR):c.1916T>G (p.Val639Gly)	3949	LDLR	Likely pathogenic	GRCh38	252112
+single nucleotide variant	NM_000527.5(LDLR):c.1925T>C (p.Leu642Ser)	3949	LDLR	Likely pathogenic	GRCh38	252113
+single nucleotide variant	NM_000527.5(LDLR):c.1942T>C (p.Ser648Pro)	3949	LDLR	Likely pathogenic	GRCh38	252120
+single nucleotide variant	NM_000527.5(LDLR):c.1951G>T (p.Asp651Tyr)	3949	LDLR	Likely pathogenic	GRCh38	252127
+single nucleotide variant	NM_000527.5(LDLR):c.1965C>G (p.Phe655Leu)	3949	LDLR	Likely pathogenic	GRCh38	252135
+single nucleotide variant	NM_000527.5(LDLR):c.1973T>C (p.Leu658Pro)	3949	LDLR	Likely pathogenic	GRCh38	252138
+single nucleotide variant	NM_000527.5(LDLR):c.1975A>C (p.Thr659Pro)	3949	LDLR	Likely pathogenic	GRCh38	252140
+single nucleotide variant	NM_000527.5(LDLR):c.1978C>A (p.Gln660Lys)	3949	LDLR	Likely pathogenic	GRCh38	252143
+single nucleotide variant	NM_000527.5(LDLR):c.1988-2A>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252153
+single nucleotide variant	NM_000527.5(LDLR):c.1988G>A (p.Gly663Glu)	3949	LDLR	Likely pathogenic	GRCh38	252155
+single nucleotide variant	NM_000527.5(LDLR):c.1997G>A (p.Trp666Ter)	3949	LDLR	Pathogenic	GRCh38	252158
+single nucleotide variant	NM_000527.5(LDLR):c.1998G>A (p.Trp666Ter)	3949	LDLR	Pathogenic	GRCh38	252161
+single nucleotide variant	NM_000527.5(LDLR):c.1999T>A (p.Cys667Ser)	3949	LDLR	Likely pathogenic	GRCh38	252162
+single nucleotide variant	NM_000527.5(LDLR):c.1999T>C (p.Cys667Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252163
+single nucleotide variant	NM_000527.5(LDLR):c.2000G>T (p.Cys667Phe)	3949	LDLR	Likely pathogenic	GRCh38	252165
+single nucleotide variant	NM_000527.5(LDLR):c.2001T>A (p.Cys667Ter)	3949	LDLR	Pathogenic	GRCh38	252167
+single nucleotide variant	NM_000527.5(LDLR):c.2001T>G (p.Cys667Trp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252168
+single nucleotide variant	NM_000527.5(LDLR):c.2023G>A (p.Gly675Ser)	3949	LDLR	Likely pathogenic	GRCh38	252173
+single nucleotide variant	NM_000527.5(LDLR):c.2026G>C (p.Gly676Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252176
+single nucleotide variant	NM_000527.5(LDLR):c.2030G>A (p.Cys677Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252178
+single nucleotide variant	NM_000527.5(LDLR):c.2032C>T (p.Gln678Ter)	3949	LDLR	Pathogenic	GRCh38	252179
+single nucleotide variant	NM_000527.5(LDLR):c.2037T>A (p.Tyr679Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252183
+single nucleotide variant	NM_000527.5(LDLR):c.2041T>G (p.Cys681Gly)	3949	LDLR	Likely pathogenic	GRCh38	252185
+single nucleotide variant	NM_000527.5(LDLR):c.2042G>A (p.Cys681Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252186
+single nucleotide variant	NM_000527.5(LDLR):c.2042G>C (p.Cys681Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252187
+single nucleotide variant	NM_000527.5(LDLR):c.2043C>G (p.Cys681Trp)	3949	LDLR	Pathogenic	GRCh38	252188
+single nucleotide variant	NM_000527.5(LDLR):c.2053C>A (p.Pro685Thr)	3949	LDLR	Likely pathogenic	GRCh38	252193
+single nucleotide variant	NM_000527.5(LDLR):c.2053C>T (p.Pro685Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252194
+single nucleotide variant	NM_000527.5(LDLR):c.2056C>T (p.Gln686Ter)	3949	LDLR	Pathogenic	GRCh38	252199
+single nucleotide variant	NM_000527.5(LDLR):c.2072C>A (p.Ser691Ter)	3949	LDLR	Pathogenic	GRCh38	252206
+single nucleotide variant	NM_000527.5(LDLR):c.2080T>G (p.Phe694Val)	3949	LDLR	Likely pathogenic	GRCh38	252208
+single nucleotide variant	NM_000527.5(LDLR):c.2087G>A (p.Cys696Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252210
+single nucleotide variant	NM_000527.5(LDLR):c.2088C>A (p.Cys696Ter)	3949	LDLR	Pathogenic	GRCh38	252211
+single nucleotide variant	NM_000527.5(LDLR):c.2088C>G (p.Cys696Trp)	3949	LDLR	Likely pathogenic	GRCh38	252212
+single nucleotide variant	NM_000527.5(LDLR):c.2089G>C (p.Ala697Pro)	3949	LDLR	Likely pathogenic	GRCh38	252213
+single nucleotide variant	NM_000527.5(LDLR):c.2093G>A (p.Cys698Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252215
+single nucleotide variant	NM_000527.5(LDLR):c.2093G>T (p.Cys698Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252216
+single nucleotide variant	NM_000527.5(LDLR):c.2099A>G (p.Asp700Gly)	3949	LDLR	Likely pathogenic	GRCh38	252220
+single nucleotide variant	NM_000527.5(LDLR):c.2119G>T (p.Asp707Tyr)	3949	LDLR	Likely pathogenic	GRCh38	252226
+single nucleotide variant	NM_000527.5(LDLR):c.2131T>A (p.Cys711Ser)	3949	LDLR	Likely pathogenic	GRCh38	252228
+single nucleotide variant	NM_000527.5(LDLR):c.2132G>A (p.Cys711Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252229
+single nucleotide variant	NM_000527.5(LDLR):c.2132G>C (p.Cys711Ser)	3949	LDLR	Likely pathogenic	GRCh38	252230
+single nucleotide variant	NM_000527.5(LDLR):c.2132G>T (p.Cys711Phe)	3949	LDLR	Likely pathogenic	GRCh38	252231
+single nucleotide variant	NM_000527.5(LDLR):c.2133C>A (p.Cys711Ter)	3949	LDLR	Pathogenic	GRCh38	252232
+single nucleotide variant	NM_000527.5(LDLR):c.2140G>A (p.Glu714Lys)	3949	LDLR	Likely pathogenic	GRCh38	252233
+single nucleotide variant	NM_000527.5(LDLR):c.2140+1G>C	3949	LDLR	Likely pathogenic	GRCh38	252234
+single nucleotide variant	NM_000527.5(LDLR):c.2140+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252235
+single nucleotide variant	NM_000527.5(LDLR):c.2140+2T>A	3949	LDLR	Likely pathogenic	GRCh38	252236
+single nucleotide variant	NM_000527.5(LDLR):c.2140+2T>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252237
+single nucleotide variant	NM_000527.5(LDLR):c.2164C>T (p.Gln722Ter)	3949	LDLR	Pathogenic	GRCh38	252244
+single nucleotide variant	NM_000527.5(LDLR):c.2215C>T (p.Gln739Ter)	3949	LDLR	Pathogenic	GRCh38	252258
+single nucleotide variant	NM_000527.5(LDLR):c.2308C>T (p.Gln770Ter)	3949	LDLR	Pathogenic	GRCh38	252271
+single nucleotide variant	NM_000527.5(LDLR):c.2311+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252272
+single nucleotide variant	NM_000527.5(LDLR):c.2311+1G>C	3949	LDLR	Likely pathogenic	GRCh38	252273
+single nucleotide variant	NM_000527.5(LDLR):c.2311+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252274
+single nucleotide variant	NM_000527.5(LDLR):c.2311+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252275
+single nucleotide variant	NM_000527.5(LDLR):c.2389G>T (p.Val797Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252298
+single nucleotide variant	NM_000527.5(LDLR):c.2389+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252299
+single nucleotide variant	NM_000527.5(LDLR):c.2389+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252300
+single nucleotide variant	NM_000527.5(LDLR):c.2389+2T>G	3949	LDLR	Pathogenic	GRCh38	252302
+single nucleotide variant	NM_000527.5(LDLR):c.2390-2A>G	3949	LDLR	Pathogenic	GRCh38	252313
+single nucleotide variant	NM_000527.5(LDLR):c.2390-1G>A	3949	LDLR	Pathogenic	GRCh38	252316
+single nucleotide variant	NM_000527.5(LDLR):c.2390-1G>C	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252317
+single nucleotide variant	NM_000527.5(LDLR):c.2396T>G (p.Leu799Arg)	3949	LDLR	Likely pathogenic	GRCh38	252320
+single nucleotide variant	NM_000527.5(LDLR):c.2413G>A (p.Gly805Arg)	3949	LDLR	Likely pathogenic	GRCh38	252328
+single nucleotide variant	NM_000527.5(LDLR):c.2430G>A (p.Trp810Ter)	3949	LDLR	Pathogenic	GRCh38	252335
+single nucleotide variant	NM_000527.5(LDLR):c.2431A>T (p.Lys811Ter)	3949	LDLR	Pathogenic	GRCh38	252336
+single nucleotide variant	NM_000527.5(LDLR):c.2438G>A (p.Trp813Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252337
+single nucleotide variant	NM_000527.5(LDLR):c.2446A>T (p.Lys816Ter)	3949	LDLR	Pathogenic	GRCh38	252338
+single nucleotide variant	NM_000527.5(LDLR):c.2473A>G (p.Asn825Asp)	3949	LDLR	Likely pathogenic	GRCh38	252340
+single nucleotide variant	NM_000527.5(LDLR):c.2475C>A (p.Asn825Lys)	3949	LDLR	Pathogenic	GRCh38	252341
+single nucleotide variant	NM_000527.5(LDLR):c.2482T>C (p.Tyr828His)	3949	LDLR	Likely pathogenic	GRCh38	252345
+single nucleotide variant	NM_000527.5(LDLR):c.2546C>A (p.Ser849Ter)	3949	LDLR	Likely pathogenic	GRCh38	252350
+single nucleotide variant	NM_000527.5(LDLR):c.2547+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	252352
+single nucleotide variant	NM_000527.5(LDLR):c.2548-2A>G	3949	LDLR	Likely pathogenic	GRCh38	252357
+single nucleotide variant	NM_000527.5(LDLR):c.818-3C>G	3949	LDLR	Likely pathogenic	GRCh38	265900
+single nucleotide variant	NM_000527.5(LDLR):c.68-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369858
+single nucleotide variant	NM_000527.5(LDLR):c.299A>T (p.Asp100Val)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369854
+single nucleotide variant	NM_000527.5(LDLR):c.428G>C (p.Cys143Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369851
+single nucleotide variant	NM_000527.5(LDLR):c.520G>T (p.Glu174Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369850
+single nucleotide variant	NM_000527.5(LDLR):c.695-1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369859
+single nucleotide variant	NM_000527.5(LDLR):c.1060+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369860
+single nucleotide variant	NM_000527.5(LDLR):c.1091G>A (p.Cys364Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369852
+single nucleotide variant	NM_000527.5(LDLR):c.1102T>C (p.Cys368Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369848
+single nucleotide variant	NM_000527.5(LDLR):c.1255T>G (p.Tyr419Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369853
+single nucleotide variant	NM_000527.5(LDLR):c.2167G>T (p.Glu723Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	369849
+single nucleotide variant	NM_000527.5(LDLR):c.1774G>A (p.Gly592Arg)	3949	LDLR	Likely pathogenic	GRCh38	373769
+single nucleotide variant	NM_000527.4(LDLR):c.-168A>G	3949	LDLR	Likely pathogenic	GRCh38	375769
+single nucleotide variant	NM_000527.4(LDLR):c.-99A>G	3949	LDLR	Likely pathogenic	GRCh38	375772
+single nucleotide variant	NM_000527.5(LDLR):c.126C>G (p.Tyr42Ter)	3949	LDLR	Pathogenic	GRCh38	375774
+single nucleotide variant	NM_000527.5(LDLR):c.191T>A (p.Leu64Ter)	3949	LDLR	Pathogenic	GRCh38	375776
+single nucleotide variant	NM_000527.5(LDLR):c.202T>C (p.Cys68Arg)	3949	LDLR	Likely pathogenic	GRCh38	375777
+single nucleotide variant	NM_000527.5(LDLR):c.314-2A>T	3949	LDLR	Pathogenic	GRCh38	375780
+single nucleotide variant	NM_000527.5(LDLR):c.327C>A (p.Cys109Ter)	3949	LDLR	Pathogenic	GRCh38	375781
+single nucleotide variant	NM_000527.5(LDLR):c.377T>C (p.Phe126Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375782
+single nucleotide variant	NM_000527.5(LDLR):c.383G>A (p.Cys128Tyr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375783
+single nucleotide variant	NM_000527.5(LDLR):c.503A>C (p.Asp168Ala)	3949	LDLR	Likely pathogenic	GRCh38	375785
+single nucleotide variant	NM_000527.5(LDLR):c.610T>G (p.Cys204Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375786
+single nucleotide variant	NM_000527.5(LDLR):c.629T>C (p.Ile210Thr)	3949	LDLR	Likely pathogenic	GRCh38	375787
+single nucleotide variant	NM_000527.5(LDLR):c.672C>A (p.Asp224Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375790
+single nucleotide variant	NM_000527.5(LDLR):c.683A>G (p.Glu228Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375796
+single nucleotide variant	NM_000527.5(LDLR):c.706T>G (p.Cys236Gly)	3949	LDLR	Likely pathogenic	GRCh38	375797
+single nucleotide variant	NM_000527.5(LDLR):c.743G>C (p.Cys248Ser)	3949	LDLR	Likely pathogenic	GRCh38	375799
+single nucleotide variant	NM_000527.5(LDLR):c.783C>A (p.Cys261Ter)	3949	LDLR	Pathogenic	GRCh38	375801
+single nucleotide variant	NM_000527.5(LDLR):c.924A>T (p.Glu308Asp)	3949	LDLR	Likely pathogenic	GRCh38	375802
+single nucleotide variant	NM_000527.5(LDLR):c.940+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375805
+single nucleotide variant	NM_000527.5(LDLR):c.967G>T (p.Gly323Cys)	3949	LDLR	Likely pathogenic	GRCh38	375806
+single nucleotide variant	NM_000527.5(LDLR):c.985T>C (p.Cys329Arg)	3949	LDLR	Likely pathogenic	GRCh38	375807
+single nucleotide variant	NM_000527.5(LDLR):c.1135T>G (p.Cys379Gly)	3949	LDLR	Likely pathogenic	GRCh38	375808
+single nucleotide variant	NM_000527.5(LDLR):c.1205T>C (p.Phe402Ser)	3949	LDLR	Likely pathogenic	GRCh38	375811
+single nucleotide variant	NM_000527.5(LDLR):c.1256A>G (p.Tyr419Cys)	3949	LDLR	Likely pathogenic	GRCh38	375812
+single nucleotide variant	NM_000527.5(LDLR):c.1315A>T (p.Asn439Tyr)	3949	LDLR	Likely pathogenic	GRCh38	375813
+single nucleotide variant	NM_000527.5(LDLR):c.1694G>A (p.Gly565Asp)	3949	LDLR	Likely pathogenic	GRCh38	375819
+single nucleotide variant	NM_000527.5(LDLR):c.1705G>A (p.Asp569Asn)	3949	LDLR	Likely pathogenic	GRCh38	375820
+single nucleotide variant	NM_000527.5(LDLR):c.1730G>A (p.Trp577Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375821
+single nucleotide variant	NM_000527.5(LDLR):c.1988-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	375828
+single nucleotide variant	NM_000527.5(LDLR):c.2056C>G (p.Gln686Glu)	3949	LDLR	Likely pathogenic	GRCh38	375829
+single nucleotide variant	NM_000527.5(LDLR):c.383G>C (p.Cys128Ser)	3949	LDLR	Likely pathogenic	GRCh38	403630
+single nucleotide variant	NM_000527.5(LDLR):c.510C>A (p.Asp170Glu)	3949	LDLR	Likely pathogenic	GRCh38	403662
+single nucleotide variant	NM_000527.5(LDLR):c.529T>C (p.Ser177Pro)	3949	LDLR	Likely pathogenic	GRCh38	403631
+single nucleotide variant	NM_000527.5(LDLR):c.681C>A (p.Asp227Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	403632
+single nucleotide variant	NM_000527.5(LDLR):c.1177A>C (p.Lys393Gln)	3949	LDLR	Likely pathogenic	GRCh38	403636
+single nucleotide variant	NM_000527.5(LDLR):c.1358+5G>T	3949	LDLR	Pathogenic	GRCh38	403640
+single nucleotide variant	NM_000527.5(LDLR):c.1741A>T (p.Lys581Ter)	3949	LDLR	Pathogenic	GRCh38	403643
+single nucleotide variant	NM_000527.5(LDLR):c.2407T>C (p.Cys803Arg)	3949	LDLR	Likely pathogenic	GRCh38	403648
+single nucleotide variant	NM_000527.5(LDLR):c.1562C>T (p.Ala521Val)	3949	LDLR	Likely pathogenic	GRCh38	406164
+single nucleotide variant	NM_000527.5(LDLR):c.1175G>A (p.Cys392Tyr)	3949	LDLR	Likely pathogenic	GRCh38	406166
+single nucleotide variant	NM_000527.5(LDLR):c.313+3A>C	3949	LDLR	Likely pathogenic	GRCh38	419334
+single nucleotide variant	NM_000527.5(LDLR):c.1439C>T (p.Ala480Val)	3949	LDLR	Pathogenic	GRCh38	420052
+single nucleotide variant	NM_000527.5(LDLR):c.1706-1G>C	3949	LDLR	Pathogenic	GRCh38	420598
+single nucleotide variant	NM_000527.5(LDLR):c.865T>G (p.Cys289Gly)	3949	LDLR	Likely pathogenic	GRCh38	430287
+single nucleotide variant	NM_000527.5(LDLR):c.116G>T (p.Cys39Phe)	3949	LDLR	Pathogenic	GRCh38	430746
+single nucleotide variant	NM_000527.5(LDLR):c.311G>C (p.Cys104Ser)	3949	LDLR	Pathogenic	GRCh38	430750
+single nucleotide variant	NM_000527.5(LDLR):c.314-1G>T	3949	LDLR	Pathogenic	GRCh38	430751
+single nucleotide variant	NM_000527.5(LDLR):c.417C>A (p.Asp139Glu)	3949	LDLR	Pathogenic	GRCh38	430753
+single nucleotide variant	NM_000527.5(LDLR):c.528C>T (p.Gly176=)	3949	LDLR	Likely pathogenic	GRCh38	430756
+single nucleotide variant	NM_000527.5(LDLR):c.551G>C (p.Cys184Ser)	3949	LDLR	Likely pathogenic	GRCh38	430757
+single nucleotide variant	NM_000527.5(LDLR):c.829G>T (p.Glu277Ter)	3949	LDLR	Pathogenic	GRCh38	430764
+single nucleotide variant	NM_000527.5(LDLR):c.905G>T (p.Cys302Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	430768
+single nucleotide variant	NM_000527.5(LDLR):c.1057G>T (p.Glu353Ter)	3949	LDLR	Pathogenic	GRCh38	430770
+single nucleotide variant	NM_000527.5(LDLR):c.1081C>T (p.Pro361Ser)	3949	LDLR	Pathogenic	GRCh38	430771
+single nucleotide variant	NM_000527.5(LDLR):c.1114G>T (p.Glu372Ter)	3949	LDLR	Pathogenic	GRCh38	430772
+single nucleotide variant	NM_000527.5(LDLR):c.1359-25A>G	3949	LDLR	Pathogenic	GRCh38	430775
+single nucleotide variant	NM_000527.5(LDLR):c.1979A>C (p.Gln660Pro)	3949	LDLR	Likely pathogenic	GRCh38	430790
+single nucleotide variant	NM_000527.5(LDLR):c.1988G>C (p.Gly663Ala)	3949	LDLR	Pathogenic	GRCh38	430791
+single nucleotide variant	NM_000527.5(LDLR):c.2044C>T (p.Leu682Phe)	3949	LDLR	Pathogenic	GRCh38	430792
+single nucleotide variant	NM_000527.5(LDLR):c.2230C>T (p.Arg744Ter)	3949	LDLR	Pathogenic	GRCh38	430795
+single nucleotide variant	NM_000527.5(LDLR):c.2422C>G (p.Leu808Val)	3949	LDLR	Pathogenic	GRCh38	430802
+single nucleotide variant	NM_000527.5(LDLR):c.67+1G>A	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	431507
+single nucleotide variant	NM_000527.5(LDLR):c.487C>T (p.Gln163Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	431511
+single nucleotide variant	NM_000527.5(LDLR):c.542C>T (p.Pro181Leu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	431512
+single nucleotide variant	NM_000527.5(LDLR):c.1804G>T (p.Glu602Ter)	3949	LDLR	Pathogenic	GRCh38	431536
+single nucleotide variant	NM_000527.5(LDLR):c.2141-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	431542
+single nucleotide variant	NM_000527.5(LDLR):c.1540G>T (p.Glu514Ter)	3949	LDLR	Pathogenic	GRCh38	432366
+single nucleotide variant	NM_000527.5(LDLR):c.1130G>T (p.Cys377Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	438323
+single nucleotide variant	NM_000527.5(LDLR):c.1739C>T (p.Ser580Phe)	3949	LDLR	Likely pathogenic	GRCh38	438325
+single nucleotide variant	NM_000527.5(LDLR):c.1757C>A (p.Ser586Ter)	3949	LDLR	Pathogenic	GRCh38	438326
+single nucleotide variant	NM_000527.5(LDLR):c.1988-1G>A	3949	LDLR	Pathogenic	GRCh38	438329
+single nucleotide variant	NM_000527.5(LDLR):c.463T>A (p.Cys155Ser)	3949	LDLR	Likely pathogenic	GRCh38	438695
+single nucleotide variant	NM_000527.4(LDLR):c.-151C>G	3949	LDLR	Pathogenic	GRCh38	440533
+single nucleotide variant	NM_000527.4(LDLR):c.-98C>T	3949	LDLR	Pathogenic	GRCh38	440535
+single nucleotide variant	NM_000527.5(LDLR):c.3G>A (p.Met1Ile)	3949	LDLR	Likely pathogenic	GRCh38	440536
+single nucleotide variant	NM_000527.5(LDLR):c.29G>A (p.Trp10Ter)	3949	LDLR	Pathogenic	GRCh38	440537
+single nucleotide variant	NM_000527.5(LDLR):c.79T>C (p.Cys27Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	440540
+single nucleotide variant	NM_000527.5(LDLR):c.132G>A (p.Trp44Ter)	3949	LDLR	Pathogenic	GRCh38	440545
+single nucleotide variant	NM_000527.5(LDLR):c.172G>T (p.Glu58Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	440547
+single nucleotide variant	NM_000527.5(LDLR):c.191-1G>T	3949	LDLR	Pathogenic	GRCh38	440550
+single nucleotide variant	NM_000527.5(LDLR):c.262A>G (p.Arg88Gly)	3949	LDLR	Pathogenic	GRCh38	440553
+single nucleotide variant	NM_000527.5(LDLR):c.263G>A (p.Arg88Lys)	3949	LDLR	Pathogenic	GRCh38	440554
+single nucleotide variant	NM_000527.5(LDLR):c.269A>C (p.Asp90Ala)	3949	LDLR	Likely pathogenic	GRCh38	440555
+single nucleotide variant	NM_000527.5(LDLR):c.363C>G (p.Cys121Trp)	3949	LDLR	Pathogenic	GRCh38	440563
+single nucleotide variant	NM_000527.5(LDLR):c.380T>G (p.Val127Gly)	3949	LDLR	Pathogenic	GRCh38	440566
+single nucleotide variant	NM_000527.5(LDLR):c.445G>C (p.Gly149Arg)	3949	LDLR	Pathogenic	GRCh38	440573
+single nucleotide variant	NM_000527.5(LDLR):c.482T>C (p.Ile161Thr)	3949	LDLR	Pathogenic	GRCh38	440575
+single nucleotide variant	NM_000527.5(LDLR):c.586C>A (p.Pro196Thr)	3949	LDLR	Pathogenic	GRCh38	440584
+single nucleotide variant	NM_000527.5(LDLR):c.612C>A (p.Cys204Ter)	3949	LDLR	Pathogenic	GRCh38	440585
+single nucleotide variant	NM_000527.5(LDLR):c.628A>C (p.Ile210Leu)	3949	LDLR	Pathogenic	GRCh38	440586
+single nucleotide variant	NM_000527.5(LDLR):c.817+1G>T	3949	LDLR	Likely pathogenic	GRCh38	440604
+single nucleotide variant	NM_000527.5(LDLR):c.886T>C (p.Cys296Arg)	3949	LDLR	Pathogenic	GRCh38	440610
+single nucleotide variant	NM_000527.5(LDLR):c.940+1G>T	3949	LDLR	Pathogenic	GRCh38	440614
+single nucleotide variant	NM_000527.5(LDLR):c.1028G>T (p.Gly343Val)	3949	LDLR	Likely pathogenic	GRCh38	440618
+single nucleotide variant	NM_000527.5(LDLR):c.1067A>T (p.Asp356Val)	3949	LDLR	Likely pathogenic	GRCh38	440623
+single nucleotide variant	NM_000527.5(LDLR):c.1195G>T (p.Ala399Ser)	3949	LDLR	Likely pathogenic	GRCh38	440632
+single nucleotide variant	NM_000527.5(LDLR):c.1234A>C (p.Met412Leu)	3949	LDLR	Pathogenic	GRCh38	440633
+single nucleotide variant	NM_000527.5(LDLR):c.1342C>A (p.Gln448Lys)	3949	LDLR	Pathogenic	GRCh38	440635
+single nucleotide variant	NM_000527.5(LDLR):c.1433G>A (p.Gly478Glu)	3949	LDLR	Likely pathogenic	GRCh38	440642
+single nucleotide variant	NM_000527.5(LDLR):c.1438G>A (p.Ala480Thr)	3949	LDLR	Likely pathogenic	GRCh38	440644
+single nucleotide variant	NM_000527.5(LDLR):c.1467C>A (p.Tyr489Ter)	3949	LDLR	Pathogenic	GRCh38	440647
+single nucleotide variant	NM_000527.5(LDLR):c.1521G>C (p.Lys507Asn)	3949	LDLR	Pathogenic	GRCh38	440649
+single nucleotide variant	NM_000527.5(LDLR):c.1603G>A (p.Asp535Asn)	3949	LDLR	Pathogenic	GRCh38	440653
+single nucleotide variant	NM_000527.5(LDLR):c.1705+2T>C	3949	LDLR	Likely pathogenic	GRCh38	440656
+single nucleotide variant	NM_000527.5(LDLR):c.1845+2T>A	3949	LDLR	Pathogenic	GRCh38	440667
+single nucleotide variant	NM_000527.5(LDLR):c.1937T>A (p.Leu646Gln)	3949	LDLR	Pathogenic	GRCh38	440669
+single nucleotide variant	NM_000527.5(LDLR):c.1988-1G>C	3949	LDLR	Pathogenic	GRCh38	440672
+single nucleotide variant	NM_000527.5(LDLR):c.2026G>T (p.Gly676Cys)	3949	LDLR	Pathogenic	GRCh38	440673
+single nucleotide variant	NM_000527.5(LDLR):c.2131T>G (p.Cys711Gly)	3949	LDLR	Pathogenic	GRCh38	440680
+single nucleotide variant	NM_000527.5(LDLR):c.2253G>A (p.Arg751=)	3949	LDLR	Pathogenic	GRCh38	440685
+single nucleotide variant	NM_000527.5(LDLR):c.2312-3C>T	3949	LDLR	Pathogenic	GRCh38	440690
+single nucleotide variant	NM_000527.5(LDLR):c.2413G>C (p.Gly805Arg)	3949	LDLR	Pathogenic	GRCh38	440694
+single nucleotide variant	NM_000527.5(LDLR):c.2476C>T (p.Pro826Ser)	3949	LDLR	Pathogenic	GRCh38	440699
+single nucleotide variant	NM_000527.5(LDLR):c.2T>C (p.Met1Thr)	3949	LDLR	Likely pathogenic	GRCh38	441174
+single nucleotide variant	NM_000527.5(LDLR):c.67+1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	441175
+single nucleotide variant	NM_000527.5(LDLR):c.479G>T (p.Cys160Phe)	3949	LDLR	Likely pathogenic	GRCh38	441187
+single nucleotide variant	NM_000527.5(LDLR):c.817+2T>G	3949	LDLR	Pathogenic	GRCh38	441193
+single nucleotide variant	NM_000527.5(LDLR):c.987C>A (p.Cys329Ter)	3949	LDLR	Pathogenic	GRCh38	441206
+single nucleotide variant	NM_000527.5(LDLR):c.987C>G (p.Cys329Trp)	3949	LDLR	Likely pathogenic	GRCh38	441207
+single nucleotide variant	NM_000527.5(LDLR):c.1013G>T (p.Cys338Phe)	3949	LDLR	Likely pathogenic	GRCh38	441208
+single nucleotide variant	NM_000527.5(LDLR):c.1596C>G (p.Tyr532Ter)	3949	LDLR	Pathogenic	GRCh38	441216
+single nucleotide variant	NM_000527.5(LDLR):c.1757C>G (p.Ser586Ter)	3949	LDLR	Pathogenic	GRCh38	441221
+single nucleotide variant	NM_000527.5(LDLR):c.2054C>A (p.Pro685Gln)	3949	LDLR	Likely pathogenic	GRCh38	441227
+single nucleotide variant	NM_000527.5(LDLR):c.1186+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	496015
+single nucleotide variant	NM_000527.5(LDLR):c.428G>T (p.Cys143Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	523723
+single nucleotide variant	NM_000527.5(LDLR):c.684G>C (p.Glu228Asp)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	523724
+single nucleotide variant	NM_000527.5(LDLR):c.920A>G (p.Asp307Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	523725
+single nucleotide variant	NM_000527.5(LDLR):c.954C>A (p.Cys318Ter)	3949	LDLR	Pathogenic	GRCh38	523733
+single nucleotide variant	NM_000527.5(LDLR):c.1659C>G (p.Tyr553Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	523852
+single nucleotide variant	NM_000527.5(LDLR):c.274C>T (p.Gln92Ter)	3949	LDLR	Pathogenic	GRCh38	526754
+single nucleotide variant	NM_000527.5(LDLR):c.974G>T (p.Cys325Phe)	3949	LDLR	Likely pathogenic	GRCh38	579747
+single nucleotide variant	NM_000527.5(LDLR):c.1118G>C (p.Gly373Ala)	3949	LDLR	Likely pathogenic	GRCh38	574051
+single nucleotide variant	NM_000527.5(LDLR):c.1209C>A (p.Phe403Leu)	3949	LDLR	Pathogenic	GRCh38	565474
+single nucleotide variant	NM_000527.5(LDLR):c.694+1G>C	3949	LDLR	Pathogenic	GRCh38	578041
+single nucleotide variant	NM_000527.5(LDLR):c.30G>A (p.Trp10Ter)	3949	LDLR	Pathogenic	GRCh38	627856
+single nucleotide variant	NM_000527.5(LDLR):c.922G>T (p.Glu308Ter)	3949	LDLR	Pathogenic	GRCh38	631318
+single nucleotide variant	NM_000527.5(LDLR):c.973T>C (p.Cys325Arg)	3949	LDLR	Likely pathogenic	GRCh38	627979
+single nucleotide variant	NM_000527.5(LDLR):c.2311+10G>A	3949	LDLR	Likely pathogenic	GRCh38	635246
+single nucleotide variant	NM_000527.5(LDLR):c.41T>A (p.Leu14Ter)	3949	LDLR	Pathogenic	GRCh38	664091
+single nucleotide variant	NM_000527.5(LDLR):c.832G>T (p.Gly278Ter)	3949	LDLR	Pathogenic	GRCh38	652345
+single nucleotide variant	NM_000527.5(LDLR):c.1092C>A (p.Cys364Ter)	3949	LDLR	Pathogenic	GRCh38	646922
+single nucleotide variant	NM_000527.5(LDLR):c.1987+2T>A	3949	LDLR	Pathogenic	GRCh38	664087
+single nucleotide variant	NM_000527.5(LDLR):c.1987+2T>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	653198
+single nucleotide variant	NM_000527.5(LDLR):c.847A>T (p.Lys283Ter)	3949	LDLR	Likely pathogenic	GRCh38	684567
+single nucleotide variant	NM_000527.5(LDLR):c.625T>G (p.Cys209Gly)	3949	LDLR	Likely pathogenic	GRCh38	684864
+single nucleotide variant	NM_000527.5(LDLR):c.2146G>T (p.Glu716Ter)	3949	LDLR	Pathogenic	GRCh38	684843
+single nucleotide variant	NM_000527.5(LDLR):c.518G>C (p.Cys173Ser)	3949	LDLR	Pathogenic	GRCh38	689345
+single nucleotide variant	NM_000527.5(LDLR):c.684G>T (p.Glu228Asp)	3949	LDLR	Pathogenic	GRCh38	689346
+single nucleotide variant	NM_000527.5(LDLR):c.1594T>A (p.Tyr532Asn)	3949	LDLR	Pathogenic	GRCh38	689351
+single nucleotide variant	NM_000527.5(LDLR):c.974G>C (p.Cys325Ser)	3949	LDLR	Likely pathogenic	GRCh38	801200
+single nucleotide variant	NM_000527.5(LDLR):c.1736A>T (p.Asp579Val)	3949	LDLR	Pathogenic	GRCh38	810851
+single nucleotide variant	NM_000527.5(LDLR):c.1981C>G (p.Pro661Ala)	3949	LDLR	Likely pathogenic	GRCh38	810849
+single nucleotide variant	NM_000527.5(LDLR):c.310T>G (p.Cys104Gly)	3949	LDLR	Likely pathogenic	GRCh38	840015
+single nucleotide variant	NM_000527.5(LDLR):c.679G>A (p.Asp227Asn)	3949	LDLR	Likely pathogenic	GRCh38	851708
+single nucleotide variant	NM_000527.5(LDLR):c.887G>T (p.Cys296Phe)	3949	LDLR	Pathogenic	GRCh38	840389
+single nucleotide variant	NM_000527.5(LDLR):c.1228A>G (p.Arg410Gly)	3949	LDLR	Pathogenic	GRCh38	841257
+single nucleotide variant	NM_000527.5(LDLR):c.1828T>C (p.Ser610Pro)	3949	LDLR	Likely pathogenic	GRCh38	852369
+single nucleotide variant	NM_000527.5(LDLR):c.325T>G (p.Cys109Gly)	3949	LDLR	Likely pathogenic	GRCh38	869387
+single nucleotide variant	NM_000527.5(LDLR):c.427T>A (p.Cys143Ser)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	920596
+single nucleotide variant	NM_000527.5(LDLR):c.672C>G (p.Asp224Glu)	3949	LDLR	Likely pathogenic	GRCh38	928775
+single nucleotide variant	NM_000527.5(LDLR):c.788A>G (p.Asp263Gly)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	960398
+single nucleotide variant	NM_000527.5(LDLR):c.1013G>C (p.Cys338Ser)	3949	LDLR	Pathogenic	GRCh38	955980
+single nucleotide variant	NM_000527.5(LDLR):c.1179G>T (p.Lys393Asn)	3949	LDLR	Pathogenic	GRCh38	961072
+single nucleotide variant	NM_000527.5(LDLR):c.2312-2A>G	3949	LDLR	Pathogenic	GRCh38	972903
+single nucleotide variant	NM_000527.5(LDLR):c.478T>A (p.Cys160Ser)	3949	LDLR	Likely pathogenic	GRCh38	977991
+single nucleotide variant	NM_000527.5(LDLR):c.641G>A (p.Trp214Ter)	3949	LDLR	Pathogenic	GRCh38	977988
+single nucleotide variant	NM_000527.5(LDLR):c.1019G>T (p.Cys340Phe)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	977987
+single nucleotide variant	NM_000527.5(LDLR):c.1501G>A (p.Ala501Thr)	3949	LDLR	Likely pathogenic	GRCh38	977992
+single nucleotide variant	NM_000527.5(LDLR):c.1922T>A (p.Leu641Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	978377
+single nucleotide variant	NM_000527.5(LDLR):c.2045T>G (p.Leu682Arg)	3949	LDLR	Likely pathogenic	GRCh38	979067
+single nucleotide variant	NM_000527.5(LDLR):c.302A>G (p.Glu101Gly)	3949	LDLR	Likely pathogenic	GRCh38	985904
+single nucleotide variant	NM_000527.5(LDLR):c.1014C>G (p.Cys338Trp)	3949	LDLR	Pathogenic	GRCh38	986739
+single nucleotide variant	NM_000527.5(LDLR):c.1436T>A (p.Leu479Gln)	3949	LDLR	Likely pathogenic	GRCh38	992900
+single nucleotide variant	NM_000527.5(LDLR):c.1567G>C (p.Val523Leu)	3949	LDLR	Likely pathogenic	GRCh38	993226
+single nucleotide variant	NM_000527.5(LDLR):c.1327T>C (p.Trp443Arg)	3949	LDLR	Likely pathogenic	GRCh38	998052
+single nucleotide variant	NM_000527.5(LDLR):c.1592T>A (p.Met531Lys)	3949	LDLR	Likely pathogenic	GRCh38	2524408
+single nucleotide variant	NM_000527.5(LDLR):c.1706A>T (p.Asp569Val)	3949	LDLR	Pathogenic	GRCh38	1052293
+single nucleotide variant	NM_000527.5(LDLR):c.810C>G (p.Cys270Trp)	3949	LDLR	Likely pathogenic	GRCh38	1066271
+single nucleotide variant	NM_000527.5(LDLR):c.851G>T (p.Cys284Phe)	3949	LDLR	Likely pathogenic	GRCh38	1066036
+single nucleotide variant	NM_000527.5(LDLR):c.2312-1G>A	3949	LDLR	Likely pathogenic	GRCh38	1065909
+single nucleotide variant	NM_000527.5(LDLR):c.1356C>A (p.Cys452Ter)	3949	LDLR	Pathogenic	GRCh38	1072924
+single nucleotide variant	NM_000527.5(LDLR):c.102C>G (p.Cys34Trp)	3949	LDLR	Likely pathogenic	GRCh38	1120248
+single nucleotide variant	NM_000527.5(LDLR):c.1061-1G>T	3949	LDLR	Pathogenic	GRCh38	1120258
+single nucleotide variant	NM_000527.5(LDLR):c.1277T>G (p.Leu426Arg)	3949	LDLR	Likely pathogenic	GRCh38	1120245
+single nucleotide variant	NM_000527.5(LDLR):c.1331C>T (p.Ser444Phe)	3949	LDLR	Likely pathogenic	GRCh38	1120246
+single nucleotide variant	NM_000527.5(LDLR):c.2547+2T>G	3949	LDLR	Pathogenic	GRCh38	1120256
+single nucleotide variant	NM_000527.5(LDLR):c.1137T>A (p.Cys379Ter)	3949	LDLR	Pathogenic	GRCh38	1163620
+single nucleotide variant	NM_000527.5(LDLR):c.1358+1G>C	3949	LDLR	Pathogenic	GRCh38	1163722
+single nucleotide variant	NM_000527.5(LDLR):c.2341G>T (p.Glu781Ter)	3949	LDLR	Likely pathogenic	GRCh38	1163724
+single nucleotide variant	NM_000527.5(LDLR):c.482T>A (p.Ile161Asn)	3949	LDLR	Likely pathogenic	GRCh38	1180495
+single nucleotide variant	NM_000527.5(LDLR):c.777T>G (p.Tyr259Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1192228
+single nucleotide variant	NM_000527.5(LDLR):c.181G>T (p.Glu61Ter)	3949	LDLR	Pathogenic	GRCh38	1220548
+single nucleotide variant	NM_000527.5(LDLR):c.2414G>A (p.Gly805Glu)	3949	LDLR	Likely pathogenic	GRCh38	1284721
+single nucleotide variant	NM_000527.5(LDLR):c.1550C>T (p.Ser517Phe)	3949	LDLR	Pathogenic	GRCh38	1321218
+single nucleotide variant	NM_000527.5(LDLR):c.2487G>C (p.Gln829His)	3949	LDLR	Pathogenic	GRCh38	1321221
+single nucleotide variant	NM_000527.5(LDLR):c.378C>A (p.Phe126Leu)	3949	LDLR	Likely pathogenic	GRCh38	1321222
+single nucleotide variant	NM_000527.5(LDLR):c.618T>A (p.Ser206Arg)	3949	LDLR	Pathogenic	GRCh38	1321224
+single nucleotide variant	NM_000527.5(LDLR):c.619G>T (p.Gly207Cys)	3949	LDLR	Pathogenic	GRCh38	1321225
+single nucleotide variant	NM_000527.5(LDLR):c.727T>A (p.Cys243Ser)	3949	LDLR	Likely pathogenic	GRCh38	1321226
+single nucleotide variant	NM_000527.5(LDLR):c.764G>T (p.Cys255Phe)	3949	LDLR	Pathogenic	GRCh38	1321227
+single nucleotide variant	NM_000527.5(LDLR):c.1178A>C (p.Lys393Thr)	3949	LDLR	Pathogenic	GRCh38	1321228
+single nucleotide variant	NM_000527.5(LDLR):c.1470G>C (p.Trp490Cys)	3949	LDLR	Likely pathogenic	GRCh38	1321229
+single nucleotide variant	NM_000527.5(LDLR):c.-8C>A	3949	LDLR	Likely pathogenic	GRCh38	1334394
+single nucleotide variant	NM_000527.5(LDLR):c.1756T>C (p.Ser586Pro)	3949	LDLR	Likely pathogenic	GRCh38	1334395
+single nucleotide variant	NM_000527.5(LDLR):c.413C>A (p.Ser138Ter)	3949	LDLR	Pathogenic	GRCh38	1334396
+single nucleotide variant	NM_000527.5(LDLR):c.1586+1G>C	3949	LDLR	Pathogenic	GRCh38	1341564
+single nucleotide variant	NM_000527.5(LDLR):c.1706-2A>G	3949	LDLR	Likely pathogenic	GRCh38	1341565
+single nucleotide variant	NM_000527.5(LDLR):c.1846-11T>A	3949	LDLR	Likely pathogenic	GRCh38	1341566
+single nucleotide variant	NM_000527.5(LDLR):c.1691A>C (p.Asn564Thr)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1341581
+single nucleotide variant	NM_000527.5(LDLR):c.1222G>T (p.Glu408Ter)	3949	LDLR	Pathogenic	GRCh38	1371905
+single nucleotide variant	NM_000527.5(LDLR):c.2093G>C (p.Cys698Ser)	3949	LDLR	Likely pathogenic	GRCh38	1512785
+single nucleotide variant	NM_000527.5(LDLR):c.610T>C (p.Cys204Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1474520
+single nucleotide variant	NM_000527.5(LDLR):c.1003G>T (p.Gly335Cys)	3949	LDLR	Likely pathogenic	GRCh38	1395739
+single nucleotide variant	NM_000527.5(LDLR):c.44T>G (p.Leu15Arg)	3949	LDLR	Likely pathogenic	GRCh38	1436912
+single nucleotide variant	NM_000527.5(LDLR):c.17G>A (p.Trp6Ter)	3949	LDLR	Pathogenic	GRCh38	1452256
+single nucleotide variant	NM_000527.5(LDLR):c.331C>T (p.Gln111Ter)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1372829
+single nucleotide variant	NM_000527.5(LDLR):c.2485C>T (p.Gln829Ter)	3949	LDLR	Pathogenic	GRCh38	1455439
+single nucleotide variant	NM_000527.5(LDLR):c.2087G>T (p.Cys696Phe)	3949	LDLR	Likely pathogenic	GRCh38	1497238
+single nucleotide variant	NM_000527.5(LDLR):c.781T>A (p.Cys261Ser)	3949	LDLR	Likely pathogenic	GRCh38	1434758
+single nucleotide variant	NM_000527.5(LDLR):c.1307T>A (p.Val436Glu)	3949	LDLR	Likely pathogenic	GRCh38	1518023
+single nucleotide variant	NM_000527.5(LDLR):c.106G>T (p.Asp36Tyr)	3949	LDLR	Pathogenic	GRCh38	1685923
+single nucleotide variant	NM_000527.5(LDLR):c.2139A>G (p.Thr713=)	3949	LDLR	Likely pathogenic	GRCh38	1701351
+single nucleotide variant	NM_000527.5(LDLR):c.1298A>T (p.Asp433Val)	3949	LDLR	Likely pathogenic	GRCh38	1705273
+single nucleotide variant	NM_000527.5(LDLR):c.1061-2A>T	3949	LDLR	Pathogenic	GRCh38	1709599
+single nucleotide variant	NM_000527.5(LDLR):c.680A>G (p.Asp227Gly)	3949	LDLR	Pathogenic	GRCh38	1712251
+single nucleotide variant	NM_000527.5(LDLR):c.1174T>A (p.Cys392Ser)	3949	LDLR	Likely pathogenic	GRCh38	1740423
+single nucleotide variant	NM_000527.5(LDLR):c.400T>A (p.Cys134Ser)	3949	LDLR	Pathogenic	GRCh38	1737013
+single nucleotide variant	NM_000527.5(LDLR):c.1129T>C (p.Cys377Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1727785
+single nucleotide variant	NM_000527.5(LDLR):c.1177A>G (p.Lys393Glu)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1740990
+single nucleotide variant	NM_000527.5(LDLR):c.695-1G>C	3949	LDLR	Pathogenic	GRCh38	1756297
+single nucleotide variant	NM_000527.5(LDLR):c.796G>C (p.Asp266His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1761428
+single nucleotide variant	NM_000527.5(LDLR):c.851G>A (p.Cys284Tyr)	3949	LDLR	Likely pathogenic	GRCh38	1763717
+single nucleotide variant	NM_000527.5(LDLR):c.670G>C (p.Asp224His)	3949	LDLR	Likely pathogenic	GRCh38	1755040
+single nucleotide variant	NM_000527.5(LDLR):c.888C>G (p.Cys296Trp)	3949	LDLR	Likely pathogenic	GRCh38	1764981
+single nucleotide variant	NM_000527.5(LDLR):c.1597T>A (p.Trp533Arg)	3949	LDLR	Pathogenic	GRCh38	1776031
+single nucleotide variant	NM_000527.5(LDLR):c.1664T>G (p.Leu555Arg)	3949	LDLR	Likely pathogenic	GRCh38	1777552
+single nucleotide variant	NM_000527.5(LDLR):c.1876G>T (p.Glu626Ter)	3949	LDLR	Pathogenic	GRCh38	1781789
+single nucleotide variant	NM_000527.5(LDLR):c.1693G>C (p.Gly565Arg)	3949	LDLR	Likely pathogenic	GRCh38	1778186
+single nucleotide variant	NM_000527.5(LDLR):c.1775G>T (p.Gly592Val)	3949	LDLR	Likely pathogenic	GRCh38	1779868
+single nucleotide variant	NM_000527.5(LDLR):c.1070A>T (p.Glu357Val)	3949	LDLR	Likely pathogenic	GRCh38	1783245
+single nucleotide variant	NM_000527.5(LDLR):c.246C>G (p.Cys82Trp)	3949	LDLR	Likely pathogenic	GRCh38	1791746
+single nucleotide variant	NM_000527.5(LDLR):c.1072T>G (p.Cys358Gly)	3949	LDLR	Likely pathogenic	GRCh38	1783984
+single nucleotide variant	NM_000527.5(LDLR):c.2086T>G (p.Cys696Gly)	3949	LDLR	Likely pathogenic	GRCh38	1785647
+single nucleotide variant	NM_000527.5(LDLR):c.2312-2A>C	3949	LDLR	Likely pathogenic	GRCh38	1789452
+single nucleotide variant	NM_000527.5(LDLR):c.2547+1G>T	3949	LDLR	Pathogenic	GRCh38	1792888
+single nucleotide variant	NM_000527.5(LDLR):c.302A>C (p.Glu101Ala)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	1798997
+single nucleotide variant	NM_000527.5(LDLR):c.281A>T (p.Asp94Val)	3949	LDLR	Likely pathogenic	GRCh38	1809781
+single nucleotide variant	NM_000527.5(LDLR):c.1470G>T (p.Trp490Cys)	3949	LDLR	Likely pathogenic	GRCh38	2138225
+single nucleotide variant	NM_000527.5(LDLR):c.906C>A (p.Cys302Ter)	3949	LDLR	Pathogenic	GRCh38	2152306
+single nucleotide variant	NM_000527.5(LDLR):c.1060G>A (p.Asp354Asn)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	2152308
+single nucleotide variant	NM_000527.5(LDLR):c.1963T>C (p.Phe655Leu)	3949	LDLR	Likely pathogenic	GRCh38	2152309
+single nucleotide variant	NM_000527.5(LDLR):c.494G>T (p.Trp165Leu)	3949	LDLR	Pathogenic	GRCh38	2169607
+single nucleotide variant	NM_000527.5(LDLR):c.1729T>A (p.Trp577Arg)	3949	LDLR	Pathogenic	GRCh38	2174859
+single nucleotide variant	NM_000527.5(LDLR):c.1438G>T (p.Ala480Ser)	3949	LDLR	Likely pathogenic	GRCh38	2193196
+single nucleotide variant	NM_000527.5(LDLR):c.1999T>G (p.Cys667Gly)	3949	LDLR	Likely pathogenic	GRCh38	1924983
+single nucleotide variant	NM_000527.5(LDLR):c.1298A>C (p.Asp433Ala)	3949	LDLR	Likely pathogenic	GRCh38	1975487
+single nucleotide variant	NM_000527.5(LDLR):c.602A>C (p.Glu201Ala)	3949	LDLR	Likely pathogenic	GRCh38	1972135
+single nucleotide variant	NM_000527.5(LDLR):c.2114C>T (p.Ala705Val)	3949	LDLR	Likely pathogenic	GRCh38	1996374
+single nucleotide variant	NM_000527.5(LDLR):c.2141-1G>C	3949	LDLR	Likely pathogenic	GRCh38	2036616
+single nucleotide variant	NM_000527.5(LDLR):c.1433G>T (p.Gly478Val)	3949	LDLR	Likely pathogenic	GRCh38	2099294
+single nucleotide variant	NM_000527.5(LDLR):c.1102T>A (p.Cys368Ser)	3949	LDLR	Pathogenic	GRCh38	2109937
+single nucleotide variant	NM_000527.5(LDLR):c.1166C>A (p.Thr389Lys)	3949	LDLR	Likely pathogenic	GRCh38	2118340
+single nucleotide variant	NM_000527.5(LDLR):c.1645G>C (p.Gly549Arg)	3949	LDLR	Likely pathogenic	GRCh38	2133944
+single nucleotide variant	NM_000527.5(LDLR):c.494G>A (p.Trp165Ter)	3949	LDLR	Pathogenic	GRCh38	2441111
+single nucleotide variant	NM_000527.5(LDLR):c.117C>A (p.Cys39Ter)	3949	LDLR	Likely pathogenic	GRCh38	2441124
+single nucleotide variant	NM_000527.5(LDLR):c.190+5G>C	3949	LDLR	Pathogenic	GRCh38	2453917
+single nucleotide variant	NM_000527.5(LDLR):c.2086T>A (p.Cys696Ser)	3949	LDLR	Likely pathogenic	GRCh38	2453918
+single nucleotide variant	NM_000527.5(LDLR):c.23T>A (p.Leu8Ter)	3949	LDLR	Pathogenic	GRCh38	2491048
+single nucleotide variant	NM_000527.5(LDLR):c.397G>T (p.Asp133Tyr)	3949	LDLR	Likely pathogenic	GRCh38	2500308
+single nucleotide variant	NM_000527.5(LDLR):c.1090T>G (p.Cys364Gly)	3949	LDLR	Likely pathogenic	GRCh38	2514788
+single nucleotide variant	NM_000527.5(LDLR):c.1208T>C (p.Phe403Ser)	3949	LDLR	Likely pathogenic	GRCh38	2568145
+single nucleotide variant	NM_000527.5(LDLR):c.515A>C (p.Asp172Ala)	3949	LDLR	Likely pathogenic	GRCh38	2568146
+single nucleotide variant	NM_000527.5(LDLR):c.1020C>A (p.Cys340Ter)	3949	LDLR	Pathogenic	GRCh38	2633776
+single nucleotide variant	NM_000527.5(LDLR):c.1823C>A (p.Pro608His)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	2636939
+single nucleotide variant	NM_000527.5(LDLR):c.2031C>A (p.Cys677Ter)	3949	LDLR	Pathogenic	GRCh38	2681997
+single nucleotide variant	NM_000527.5(LDLR):c.852T>A (p.Cys284Ter)	3949	LDLR	Likely pathogenic	GRCh38	2682001
+single nucleotide variant	NM_000527.5(LDLR):c.886T>G (p.Cys296Gly)	3949	LDLR	Likely pathogenic	GRCh38	2682002
+single nucleotide variant	NM_000527.5(LDLR):c.156C>A (p.Cys52Ter)	3949	LDLR	Pathogenic	GRCh38	2700653
+single nucleotide variant	NM_000527.5(LDLR):c.1123T>G (p.Tyr375Asp)	3949	LDLR	Likely pathogenic	GRCh38	2696786
+single nucleotide variant	NM_000527.5(LDLR):c.1109A>T (p.Asn370Ile)	3949	LDLR	Likely pathogenic	GRCh38	2719652
+single nucleotide variant	NM_000527.5(LDLR):c.1693G>A (p.Gly565Ser)	3949	LDLR	Likely pathogenic	GRCh38	2706780
+single nucleotide variant	NM_000527.5(LDLR):c.1599G>T (p.Trp533Cys)	3949	LDLR	Likely pathogenic	GRCh38	2713545
+single nucleotide variant	NM_000527.5(LDLR):c.2054C>G (p.Pro685Arg)	3949	LDLR	Likely pathogenic	GRCh38	2713547
+single nucleotide variant	NM_000527.5(LDLR):c.787G>T (p.Asp263Tyr)	3949	LDLR	Likely pathogenic	GRCh38	2719688
+single nucleotide variant	NM_000527.5(LDLR):c.1693G>T (p.Gly565Cys)	3949	LDLR	Likely pathogenic	GRCh38	2735808
+single nucleotide variant	NM_000527.5(LDLR):c.1165A>G (p.Thr389Ala)	3949	LDLR	Likely pathogenic	GRCh38	2744449
+single nucleotide variant	NM_000527.5(LDLR):c.314-2A>G	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	2736774
+single nucleotide variant	NM_000527.5(LDLR):c.2092T>C (p.Cys698Arg)	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	2736797
+single nucleotide variant	NM_000527.5(LDLR):c.2312-1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	2736801
+single nucleotide variant	NM_000527.5(LDLR):c.1292C>G (p.Ala431Gly)	3949	LDLR	Likely pathogenic	GRCh38	2749132
+single nucleotide variant	NM_000527.5(LDLR):c.1561G>T (p.Ala521Ser)	3949	LDLR	Likely pathogenic	GRCh38	2751116
+single nucleotide variant	NM_000527.5(LDLR):c.685G>T (p.Glu229Ter)	3949	LDLR	Pathogenic	GRCh38	2769386
+single nucleotide variant	NM_000527.5(LDLR):c.1241T>A (p.Leu414Gln)	3949	LDLR	Likely pathogenic	GRCh38	2775431
+single nucleotide variant	NM_000527.5(LDLR):c.1643A>G (p.Asn548Ser)	3949	LDLR	Likely pathogenic	GRCh38	2777596
+single nucleotide variant	NM_000527.5(LDLR):c.1215C>A (p.Asn405Lys)	3949	LDLR	Pathogenic	GRCh38	2842836
+single nucleotide variant	NM_000527.5(LDLR):c.2094C>A (p.Cys698Ter)	3949	LDLR	Pathogenic	GRCh38	2848117
+single nucleotide variant	NM_000527.5(LDLR):c.867C>A (p.Cys289Ter)	3949	LDLR	Pathogenic	GRCh38	2858988
+single nucleotide variant	NM_000527.5(LDLR):c.1846-1G>T	3949	LDLR	Pathogenic	GRCh38	2858488
+single nucleotide variant	NM_000527.5(LDLR):c.1201C>T (p.Leu401Phe)	3949	LDLR	Likely pathogenic	GRCh38	2921174
+single nucleotide variant	NM_000527.5(LDLR):c.902A>T (p.Asp301Val)	3949	LDLR	Pathogenic	GRCh38	2972903
+single nucleotide variant	NM_000527.5(LDLR):c.18G>A (p.Trp6Ter)	3949	LDLR	Likely pathogenic	GRCh38	3075748
+single nucleotide variant	NM_000527.5(LDLR):c.817+1G>C	3949	LDLR	Likely pathogenic	GRCh38	3075749
+single nucleotide variant	NM_000527.5(LDLR):c.1984A>T (p.Arg662Ter)	3949	LDLR	Likely pathogenic	GRCh38	3075750
+single nucleotide variant	NM_000527.5(LDLR):c.1322T>G (p.Ile441Ser)	3949	LDLR	Likely pathogenic	GRCh38	3231948
+single nucleotide variant	NM_000527.5(LDLR):c.1587-1G>C	3949	LDLR	Pathogenic	GRCh38	3231951
+single nucleotide variant	NM_000527.5(LDLR):c.479G>C (p.Cys160Ser)	3949	LDLR	Likely pathogenic	GRCh38	3231961
+single nucleotide variant	NM_000527.5(LDLR):c.552T>A (p.Cys184Ter)	3949	LDLR	Pathogenic	GRCh38	3251087
+single nucleotide variant	NM_000527.5(LDLR):c.2141-218G>A	3949	LDLR	Likely pathogenic	GRCh38	3339147
+single nucleotide variant	NM_000527.5(LDLR):c.626G>T (p.Cys209Phe)	3949	LDLR	Likely pathogenic	GRCh38	3359096
+single nucleotide variant	NM_000527.5(LDLR):c.68-1G>T	3949	LDLR	Pathogenic/Likely pathogenic	GRCh38	3360686
+single nucleotide variant	NM_000527.5(LDLR):c.661G>C (p.Asp221His)	3949	LDLR	Likely pathogenic	GRCh38	3374772
+single nucleotide variant	NM_000527.5(LDLR):c.686A>T (p.Glu229Val)	3949	LDLR	Likely pathogenic	GRCh38	3377107
+single nucleotide variant	NM_000527.5(LDLR):c.1845G>C (p.Glu615Asp)	3949	LDLR	Likely pathogenic	GRCh38	3377558
+single nucleotide variant	NM_000527.5(LDLR):c.284G>C (p.Cys95Ser)	3949	LDLR	Likely pathogenic	GRCh38	3386979
+single nucleotide variant	NM_000527.5(LDLR):c.1108A>T (p.Asn370Tyr)	3949	LDLR	Likely pathogenic	GRCh38	3537746
+single nucleotide variant	NM_000527.5(LDLR):c.968G>T (p.Gly323Val)	3949	LDLR	Pathogenic	GRCh38	4278948
+single nucleotide variant	NM_000527.5(LDLR):c.1846-2A>G	3949	LDLR	Likely pathogenic	GRCh38	3572132
+single nucleotide variant	NM_000527.5(LDLR):c.2390-2A>C	3949	LDLR	Pathogenic	GRCh38	3600610
+single nucleotide variant	NM_000527.5(LDLR):c.280G>C (p.Asp94His)	3949	LDLR	Likely pathogenic	GRCh38	3636898
+single nucleotide variant	NM_000527.5(LDLR):c.551G>T (p.Cys184Phe)	3949	LDLR	Likely pathogenic	GRCh38	3636900
+single nucleotide variant	NM_000527.5(LDLR):c.1018T>G (p.Cys340Gly)	3949	LDLR	Likely pathogenic	GRCh38	3636903
+single nucleotide variant	NM_000527.5(LDLR):c.1294C>A (p.Leu432Met)	3949	LDLR	Likely pathogenic	GRCh38	3636904
+single nucleotide variant	NM_000527.5(LDLR):c.1952A>G (p.Asp651Gly)	3949	LDLR	Likely pathogenic	GRCh38	3636910
+single nucleotide variant	NM_000527.5(LDLR):c.2053C>G (p.Pro685Ala)	3949	LDLR	Likely pathogenic	GRCh38	3636911
+single nucleotide variant	NM_000527.5(LDLR):c.1728C>G (p.Tyr576Ter)	3949	LDLR	Pathogenic	GRCh38	3655773
+single nucleotide variant	NM_000527.5(LDLR):c.2389+1G>C	3949	LDLR	Pathogenic	GRCh38	3656834
+single nucleotide variant	NM_000527.5(LDLR):c.968G>A (p.Gly323Asp)	3949	LDLR	Likely pathogenic	GRCh38	3667465
+single nucleotide variant	NM_000527.5(LDLR):c.242G>T (p.Arg81Leu)	3949	LDLR	Likely pathogenic	GRCh38	3683876
+single nucleotide variant	NM_000527.5(LDLR):c.2429G>A (p.Trp810Ter)	3949	LDLR	Pathogenic	GRCh38	3677175
+single nucleotide variant	NM_000527.5(LDLR):c.524A>G (p.Asp175Gly)	3949	LDLR	Pathogenic	GRCh38	3706408
+single nucleotide variant	NM_000527.5(LDLR):c.285C>G (p.Cys95Trp)	3949	LDLR	Pathogenic	GRCh38	3723280
+single nucleotide variant	NM_000527.5(LDLR):c.1187-2A>T	3949	LDLR	Pathogenic	GRCh38	3724050
+single nucleotide variant	NM_000527.5(LDLR):c.397G>C (p.Asp133His)	3949	LDLR	Pathogenic	GRCh38	3764540
+single nucleotide variant	NM_000527.5(LDLR):c.590G>C (p.Cys197Ser)	3949	LDLR	Likely pathogenic	GRCh38	3776094
+single nucleotide variant	NM_000527.5(LDLR):c.-35C>G	3949	LDLR	Likely pathogenic	GRCh38	3893685
+single nucleotide variant	NM_000527.5(LDLR):c.1980G>T (p.Gln660His)	3949	LDLR	Likely pathogenic	GRCh38	3894793
+single nucleotide variant	NM_000527.5(LDLR):c.1129T>A (p.Cys377Ser)	3949	LDLR	Likely pathogenic	GRCh38	3895383
+single nucleotide variant	NM_000527.5(LDLR):c.1829C>A (p.Ser610Tyr)	3949	LDLR	Likely pathogenic	GRCh38	3896748
+single nucleotide variant	NM_000527.5(LDLR):c.189C>A (p.Cys63Ter)	3949	LDLR	Pathogenic	GRCh38	3907151
+single nucleotide variant	NM_000527.5(LDLR):c.633C>G (p.His211Gln)	3949	LDLR	Likely pathogenic	GRCh38	4069778
+single nucleotide variant	NM_000527.5(LDLR):c.1028G>C (p.Gly343Ala)	3949	LDLR	Likely pathogenic	GRCh38	4081490
+single nucleotide variant	NM_000527.5(LDLR):c.1343A>C (p.Gln448Pro)	3949	LDLR	Likely pathogenic	GRCh38	4082332
+single nucleotide variant	NM_000527.5(LDLR):c.312T>A (p.Cys104Ter)	3949	LDLR	Pathogenic	GRCh38	4097140
+single nucleotide variant	NM_000527.5(LDLR):c.68-2A>C	3949	LDLR	Pathogenic	GRCh38	4528366
+single nucleotide variant	NM_000527.5(LDLR):c.270T>G (p.Asp90Glu)	3949	LDLR	Likely pathogenic	GRCh38	4530625
+single nucleotide variant	NM_000527.5(LDLR):c.632A>G (p.His211Arg)	3949	LDLR	Likely pathogenic	GRCh38	4540594
+single nucleotide variant	NM_000527.5(LDLR):c.348C>A (p.Cys116Ter)	3949	LDLR	Likely pathogenic	GRCh38	4540597
+single nucleotide variant	NM_000527.5(LDLR):c.325T>A (p.Cys109Ser)	3949	LDLR	Pathogenic	GRCh38	4695160
+single nucleotide variant	NM_000527.5(LDLR):c.1297G>A (p.Asp433Asn)	3949	LDLR	Likely pathogenic	GRCh38	4708249
+single nucleotide variant	NM_000527.5(LDLR):c.818-1G>T	3949	LDLR	Pathogenic	GRCh38	4726831
+single nucleotide variant	NM_000527.5(LDLR):c.1067A>G (p.Asp356Gly)	3949	LDLR	Likely pathogenic	GRCh38	4758041
+single nucleotide variant	NM_000527.5(LDLR):c.483C>G (p.Ile161Met)	3949	LDLR	Likely pathogenic	GRCh38	4771976
+single nucleotide variant	NM_000527.5(LDLR):c.155G>T (p.Cys52Phe)	3949	LDLR	Likely pathogenic	GRCh38	4812851
+single nucleotide variant	NM_000527.5(LDLR):c.1840T>G (p.Phe614Val)	3949	LDLR	Likely pathogenic	GRCh38	4812842
+single nucleotide variant	NM_000527.5(LDLR):c.457T>C (p.Phe153Leu)	3949	LDLR	Likely pathogenic	GRCh38	4812843
+single nucleotide variant	NM_000527.5(LDLR):c.398A>G (p.Asp133Gly)	3949	LDLR	Likely pathogenic	GRCh38	4802594
+single nucleotide variant	NM_000527.5(LDLR):c.648T>G (p.Cys216Trp)	3949	LDLR	Likely pathogenic	GRCh38	4802595
+single nucleotide variant	NM_000527.5(LDLR):c.986G>C (p.Cys329Ser)	3949	LDLR	Likely pathogenic	GRCh38	4802598
+single nucleotide variant	NM_000527.5(LDLR):c.1074T>G (p.Cys358Trp)	3949	LDLR	Likely pathogenic	GRCh38	4802599
+single nucleotide variant	NM_000527.5(LDLR):c.1724T>A (p.Leu575His)	3949	LDLR	Likely pathogenic	GRCh38	4802602
+single nucleotide variant	NM_000527.5(LDLR):c.1865A>T (p.Asp622Val)	3949	LDLR	Likely pathogenic	GRCh38	4802604
+single nucleotide variant	NM_000527.5(LDLR):c.1961T>G (p.Leu654Arg)	3949	LDLR	Likely pathogenic	GRCh38	4802605
+single nucleotide variant	NM_000527.5(LDLR):c.1054T>G (p.Cys352Gly)	3949	LDLR	Likely pathogenic	GRCh38	4810747
+single nucleotide variant	NM_000527.5(LDLR):c.408C>G (p.Asp136Glu)	3949	LDLR	Likely pathogenic	GRCh38	4812876
+single nucleotide variant	NM_000527.5(LDLR):c.2041T>C (p.Cys681Arg)	3949	LDLR	Likely pathogenic	GRCh38	4825490
+single nucleotide variant	NM_000527.5(LDLR):c.1447T>A (p.Trp483Arg)	3949	LDLR	Pathogenic	GRCh38	4848586
+single nucleotide variant	NM_000527.5(LDLR):c.1619C>T (p.Ala540Val)	3949	LDLR	Likely pathogenic	GRCh38	4850741

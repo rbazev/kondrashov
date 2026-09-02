@@ -1,0 +1,296 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_007194.4(CHEK2):c.433C>T (p.Arg145Trp)	11200	CHEK2	Likely pathogenic	GRCh38	5592
+single nucleotide variant	NM_007194.4(CHEK2):c.49G>T (p.Ala17Ser)	11200	CHEK2	Pathogenic	GRCh38	5595
+single nucleotide variant	NM_007194.4(CHEK2):c.715G>T (p.Glu239Ter)	11200	CHEK2	Pathogenic	GRCh38	5599
+single nucleotide variant	NM_007194.4(CHEK2):c.1259+1G>C	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	126911
+single nucleotide variant	NM_007194.4(CHEK2):c.444+1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	126914
+single nucleotide variant	NM_007194.4(CHEK2):c.1555C>T (p.Arg519Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	128064
+single nucleotide variant	NM_007194.4(CHEK2):c.349A>G (p.Arg117Gly)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	128071
+single nucleotide variant	NM_007194.4(CHEK2):c.444+1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	128075
+single nucleotide variant	NM_007194.4(CHEK2):c.58C>T (p.Gln20Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	133887
+single nucleotide variant	NM_007194.4(CHEK2):c.283C>T (p.Arg95Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	140772
+single nucleotide variant	NM_007194.4(CHEK2):c.151C>T (p.Gln51Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	141231
+single nucleotide variant	NM_007194.4(CHEK2):c.908+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	141374
+single nucleotide variant	NM_007194.4(CHEK2):c.216T>G (p.Tyr72Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	141381
+single nucleotide variant	NM_007194.4(CHEK2):c.1212T>A (p.Tyr404Ter)	11200	CHEK2	Pathogenic	GRCh38	141553
+single nucleotide variant	NM_007194.4(CHEK2):c.1169A>C (p.Tyr390Ser)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	141818
+single nucleotide variant	NM_007194.4(CHEK2):c.279G>A (p.Trp93Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	141866
+single nucleotide variant	NM_007194.4(CHEK2):c.319+2T>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	142352
+single nucleotide variant	NM_007194.4(CHEK2):c.707T>C (p.Leu236Pro)	11200	CHEK2	Likely pathogenic	GRCh38	142448
+single nucleotide variant	NM_007194.4(CHEK2):c.499G>A (p.Gly167Arg)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	142524
+single nucleotide variant	NM_007194.4(CHEK2):c.1462-2A>G	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	142596
+single nucleotide variant	NM_007194.4(CHEK2):c.445-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	142932
+single nucleotide variant	NM_007194.4(CHEK2):c.592+3A>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	142956
+single nucleotide variant	NM_007194.4(CHEK2):c.1356G>A (p.Trp452Ter)	11200	CHEK2	Pathogenic	GRCh38	182453
+single nucleotide variant	NM_007194.4(CHEK2):c.793-1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	182430
+single nucleotide variant	NM_007194.4(CHEK2):c.409C>T (p.Arg137Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	182452
+single nucleotide variant	NM_007194.4(CHEK2):c.1011C>A (p.Tyr337Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	185370
+single nucleotide variant	NM_007194.4(CHEK2):c.683+1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	187334
+single nucleotide variant	NM_007194.4(CHEK2):c.593-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	186800
+single nucleotide variant	NM_007194.4(CHEK2):c.278G>A (p.Trp93Ter)	11200	CHEK2	Pathogenic	GRCh38	187643
+single nucleotide variant	NM_007194.4(CHEK2):c.85C>T (p.Gln29Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	187694
+single nucleotide variant	NM_007194.4(CHEK2):c.593-1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	216003
+single nucleotide variant	NM_007194.4(CHEK2):c.846+1G>C	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	219543
+single nucleotide variant	NM_007194.4(CHEK2):c.792+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	220480
+single nucleotide variant	NM_007194.4(CHEK2):c.320-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	220632
+single nucleotide variant	NM_007194.4(CHEK2):c.1232G>A (p.Trp411Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	234505
+single nucleotide variant	NM_007194.4(CHEK2):c.908+1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	234715
+single nucleotide variant	NM_007194.4(CHEK2):c.205C>T (p.Gln69Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	232837
+single nucleotide variant	NM_007194.4(CHEK2):c.1486C>T (p.Gln496Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	230455
+single nucleotide variant	NM_007194.4(CHEK2):c.1459C>T (p.Gln487Ter)	11200	CHEK2	Pathogenic	GRCh38	231595
+single nucleotide variant	NM_007194.4(CHEK2):c.1376-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	231667
+single nucleotide variant	NM_007194.4(CHEK2):c.1315C>T (p.Gln439Ter)	11200	CHEK2	Pathogenic	GRCh38	230206
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	231770
+single nucleotide variant	NM_007194.4(CHEK2):c.894T>G (p.Tyr298Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	232048
+single nucleotide variant	NM_007194.4(CHEK2):c.792+5G>A	11200	CHEK2	Likely pathogenic	GRCh38	230345
+single nucleotide variant	NM_007194.4(CHEK2):c.304G>T (p.Gly102Ter)	11200	CHEK2	Pathogenic	GRCh38	232547
+single nucleotide variant	NM_007194.4(CHEK2):c.1072C>T (p.Gln358Ter)	11200	CHEK2	Pathogenic	GRCh38	240727
+single nucleotide variant	NM_007194.4(CHEK2):c.847-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	240758
+single nucleotide variant	NM_007194.4(CHEK2):c.683+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	240751
+single nucleotide variant	NM_007194.4(CHEK2):c.208G>T (p.Glu70Ter)	11200	CHEK2	Pathogenic	GRCh38	240741
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	265565
+single nucleotide variant	NM_007194.4(CHEK2):c.1170C>A (p.Tyr390Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	265567
+single nucleotide variant	NM_007194.4(CHEK2):c.909-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	265674
+single nucleotide variant	NM_007194.4(CHEK2):c.902T>A (p.Leu301Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	265694
+single nucleotide variant	NM_007194.4(CHEK2):c.683+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	265545
+single nucleotide variant	NM_007194.4(CHEK2):c.444+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	3266953
+single nucleotide variant	NM_007194.4(CHEK2):c.823G>T (p.Glu275Ter)	11200	CHEK2	Pathogenic	GRCh38	379316
+single nucleotide variant	NM_007194.4(CHEK2):c.1462-1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	410026
+single nucleotide variant	NM_007194.4(CHEK2):c.1376-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	410064
+single nucleotide variant	NM_007194.4(CHEK2):c.779C>A (p.Ser260Ter)	11200	CHEK2	Pathogenic	GRCh38	410048
+single nucleotide variant	NM_007194.4(CHEK2):c.1259+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	410039
+single nucleotide variant	NM_007194.4(CHEK2):c.1096-1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	410056
+single nucleotide variant	NM_007194.4(CHEK2):c.444+2T>C	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	422638
+single nucleotide variant	NM_007194.4(CHEK2):c.28C>T (p.Gln10Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	419362
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	428913
+single nucleotide variant	NM_007194.4(CHEK2):c.846+1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	428910
+single nucleotide variant	NM_007194.4(CHEK2):c.417C>A (p.Tyr139Ter)	11200	CHEK2	Pathogenic	GRCh38	439092
+single nucleotide variant	NM_007194.4(CHEK2):c.852C>A (p.Cys284Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	449826
+single nucleotide variant	NM_007194.4(CHEK2):c.232C>T (p.Gln78Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	452299
+single nucleotide variant	NM_007194.4(CHEK2):c.247C>T (p.Gln83Ter)	11200	CHEK2	Pathogenic	GRCh38	460818
+single nucleotide variant	NM_007194.4(CHEK2):c.1240G>T (p.Gly414Ter)	11200	CHEK2	Pathogenic	GRCh38	460790
+single nucleotide variant	NM_007194.4(CHEK2):c.1096-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	460783
+single nucleotide variant	NM_007194.4(CHEK2):c.1008+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	460771
+single nucleotide variant	NM_007194.4(CHEK2):c.319+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	460824
+single nucleotide variant	NM_007194.4(CHEK2):c.1297C>T (p.Gln433Ter)	11200	CHEK2	Pathogenic	GRCh38	460796
+single nucleotide variant	NM_007194.4(CHEK2):c.1435G>T (p.Glu479Ter)	11200	CHEK2	Pathogenic	GRCh38	481731
+single nucleotide variant	NM_007194.4(CHEK2):c.1238T>G (p.Leu413Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	481071
+single nucleotide variant	NM_007194.4(CHEK2):c.1008+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	479579
+single nucleotide variant	NM_007194.4(CHEK2):c.961G>T (p.Glu321Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	479605
+single nucleotide variant	NM_007194.4(CHEK2):c.909-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	479573
+single nucleotide variant	NM_007194.4(CHEK2):c.629C>G (p.Ser210Ter)	11200	CHEK2	Pathogenic	GRCh38	481728
+single nucleotide variant	NM_007194.4(CHEK2):c.684-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	479534
+single nucleotide variant	NM_007194.4(CHEK2):c.529A>T (p.Lys177Ter)	11200	CHEK2	Pathogenic	GRCh38	485522
+single nucleotide variant	NM_007194.4(CHEK2):c.56C>G (p.Ser19Ter)	11200	CHEK2	Pathogenic	GRCh38	481737
+single nucleotide variant	NM_007194.4(CHEK2):c.372C>A (p.Cys124Ter)	11200	CHEK2	Pathogenic	GRCh38	479575
+single nucleotide variant	NM_007194.4(CHEK2):c.319+1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	481726
+single nucleotide variant	NM_007194.4(CHEK2):c.1008+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	479580
+single nucleotide variant	NM_007194.4(CHEK2):c.908T>A (p.Leu303Ter)	11200	CHEK2	Pathogenic	GRCh38	479545
+single nucleotide variant	NM_007194.4(CHEK2):c.909-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	487405
+single nucleotide variant	NM_007194.4(CHEK2):c.793-2A>G	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	491642
+single nucleotide variant	NM_007194.4(CHEK2):c.100C>T (p.Gln34Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	491586
+single nucleotide variant	NM_007194.4(CHEK2):c.792+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	491638
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	491589
+single nucleotide variant	NM_007194.4(CHEK2):c.757A>T (p.Lys253Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	491635
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	491599
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	491597
+single nucleotide variant	NM_007194.4(CHEK2):c.908+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	496347
+single nucleotide variant	NM_007194.4(CHEK2):c.1259+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	496341
+single nucleotide variant	NM_007194.4(CHEK2):c.339C>G (p.Tyr113Ter)	11200	CHEK2	Pathogenic	GRCh38	530096
+single nucleotide variant	NM_007194.4(CHEK2):c.468C>A (p.Tyr156Ter)	11200	CHEK2	Pathogenic	GRCh38	530095
+single nucleotide variant	NM_007194.4(CHEK2):c.1096-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	530195
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	530187
+single nucleotide variant	NM_007194.4(CHEK2):c.79C>T (p.Gln27Ter)	11200	CHEK2	Pathogenic	GRCh38	530172
+single nucleotide variant	NM_007194.4(CHEK2):c.1510G>T (p.Glu504Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	545987
+single nucleotide variant	NM_007194.4(CHEK2):c.-6-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	548862
+single nucleotide variant	NM_007194.4(CHEK2):c.341G>A (p.Trp114Ter)	11200	CHEK2	Pathogenic	GRCh38	560005
+single nucleotide variant	NM_007194.4(CHEK2):c.1454G>A (p.Trp485Ter)	11200	CHEK2	Pathogenic	GRCh38	566581
+single nucleotide variant	NM_007194.4(CHEK2):c.1465G>T (p.Glu489Ter)	11200	CHEK2	Pathogenic	GRCh38	582976
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	572314
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	573654
+single nucleotide variant	NM_007194.4(CHEK2):c.988C>T (p.Gln330Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	584991
+single nucleotide variant	NM_007194.4(CHEK2):c.625C>T (p.Gln209Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	619676
+single nucleotide variant	NM_007194.4(CHEK2):c.445-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	627954
+single nucleotide variant	NM_007194.4(CHEK2):c.445-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	631187
+single nucleotide variant	NM_007194.4(CHEK2):c.320-1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	631377
+single nucleotide variant	NM_007194.4(CHEK2):c.1355G>A (p.Trp452Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	650644
+single nucleotide variant	NM_007194.4(CHEK2):c.655G>T (p.Glu219Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	658353
+single nucleotide variant	NM_007194.4(CHEK2):c.575C>A (p.Ser192Ter)	11200	CHEK2	Pathogenic	GRCh38	641284
+single nucleotide variant	NM_007194.4(CHEK2):c.408C>A (p.Tyr136Ter)	11200	CHEK2	Pathogenic	GRCh38	665371
+single nucleotide variant	NM_007194.4(CHEK2):c.31C>T (p.Gln11Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	663531
+single nucleotide variant	NM_007194.4(CHEK2):c.319+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	640028
+single nucleotide variant	NM_007194.4(CHEK2):c.592+1G>A	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	651111
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+1G>A	11200	CHEK2	Likely pathogenic	GRCh38	651062
+single nucleotide variant	NM_007194.4(CHEK2):c.793-1G>T	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	801161
+single nucleotide variant	NM_007194.4(CHEK2):c.1397T>A (p.Leu466Ter)	11200	CHEK2	Pathogenic	GRCh38	819102
+single nucleotide variant	NM_007194.4(CHEK2):c.1233G>A (p.Trp411Ter)	11200	CHEK2	Pathogenic	GRCh38	818661
+single nucleotide variant	NM_007194.4(CHEK2):c.1180G>T (p.Glu394Ter)	11200	CHEK2	Pathogenic	GRCh38	818508
+single nucleotide variant	NM_007194.4(CHEK2):c.733A>T (p.Lys245Ter)	11200	CHEK2	Pathogenic	GRCh38	826973
+single nucleotide variant	NM_007194.4(CHEK2):c.697G>T (p.Glu233Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	826744
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	819509
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	819029
+single nucleotide variant	NM_007194.4(CHEK2):c.908+2T>C	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	822988
+single nucleotide variant	NM_007194.4(CHEK2):c.847-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	822474
+single nucleotide variant	NM_007194.4(CHEK2):c.846+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	822465
+single nucleotide variant	NM_007194.4(CHEK2):c.684-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	826660
+single nucleotide variant	NM_007194.4(CHEK2):c.592+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	826059
+single nucleotide variant	NM_007194.4(CHEK2):c.592+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	826058
+single nucleotide variant	NM_007194.4(CHEK2):c.319+3A>C	11200	CHEK2	Pathogenic	GRCh38	823130
+single nucleotide variant	NM_007194.4(CHEK2):c.1230C>A (p.Cys410Ter)	11200	CHEK2	Pathogenic	GRCh38	847853
+single nucleotide variant	NM_007194.4(CHEK2):c.763A>T (p.Lys255Ter)	11200	CHEK2	Pathogenic	GRCh38	851892
+single nucleotide variant	NM_007194.4(CHEK2):c.468C>G (p.Tyr156Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	850015
+single nucleotide variant	NM_007194.4(CHEK2):c.291G>A (p.Trp97Ter)	11200	CHEK2	Pathogenic	GRCh38	836358
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	836113
+single nucleotide variant	NM_007194.4(CHEK2):c.1008+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	836710
+single nucleotide variant	NM_007194.4(CHEK2):c.1043T>G (p.Leu348Ter)	11200	CHEK2	Pathogenic	GRCh38	921230
+single nucleotide variant	NM_007194.4(CHEK2):c.909-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	918406
+single nucleotide variant	NM_007194.4(CHEK2):c.908+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	923866
+single nucleotide variant	NM_007194.4(CHEK2):c.444+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	928268
+single nucleotide variant	NM_007194.4(CHEK2):c.1067C>G (p.Ser356Ter)	11200	CHEK2	Pathogenic	GRCh38	937071
+single nucleotide variant	NM_007194.4(CHEK2):c.792+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	944634
+single nucleotide variant	NM_007194.4(CHEK2):c.792+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	944881
+single nucleotide variant	NM_007194.4(CHEK2):c.1348G>T (p.Glu450Ter)	11200	CHEK2	Pathogenic	GRCh38	954385
+single nucleotide variant	NM_007194.4(CHEK2):c.636T>G (p.Tyr212Ter)	11200	CHEK2	Pathogenic	GRCh38	960172
+single nucleotide variant	NM_007194.4(CHEK2):c.391A>T (p.Lys131Ter)	11200	CHEK2	Pathogenic	GRCh38	955884
+single nucleotide variant	NM_007194.4(CHEK2):c.98C>A (p.Ser33Ter)	11200	CHEK2	Pathogenic	GRCh38	962516
+single nucleotide variant	NM_007194.4(CHEK2):c.298C>T (p.Gln100Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	971464
+single nucleotide variant	NM_007194.4(CHEK2):c.684-2A>T	11200	CHEK2	Likely pathogenic	GRCh38	968247
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	1066796
+single nucleotide variant	NM_007194.4(CHEK2):c.684-2A>G	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1066705
+single nucleotide variant	NM_007194.4(CHEK2):c.1455G>A (p.Trp485Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1073563
+single nucleotide variant	NM_007194.4(CHEK2):c.1432G>T (p.Glu478Ter)	11200	CHEK2	Pathogenic	GRCh38	1071801
+single nucleotide variant	NM_007194.4(CHEK2):c.1400T>A (p.Leu467Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1074094
+single nucleotide variant	NM_007194.4(CHEK2):c.1367C>G (p.Ser456Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1071915
+single nucleotide variant	NM_007194.4(CHEK2):c.1155T>A (p.Cys385Ter)	11200	CHEK2	Pathogenic	GRCh38	1075973
+single nucleotide variant	NM_007194.4(CHEK2):c.919G>T (p.Gly307Ter)	11200	CHEK2	Pathogenic	GRCh38	1069809
+single nucleotide variant	NM_007194.4(CHEK2):c.830T>A (p.Leu277Ter)	11200	CHEK2	Pathogenic	GRCh38	1068535
+single nucleotide variant	NM_007194.4(CHEK2):c.787G>T (p.Glu263Ter)	11200	CHEK2	Pathogenic	GRCh38	1076324
+single nucleotide variant	NM_007194.4(CHEK2):c.290G>A (p.Trp97Ter)	11200	CHEK2	Pathogenic	GRCh38	2584140
+single nucleotide variant	NM_007194.4(CHEK2):c.106C>T (p.Gln36Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1071215
+single nucleotide variant	NM_007194.4(CHEK2):c.369T>G (p.Tyr123Ter)	11200	CHEK2	Pathogenic	GRCh38	3646519
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	1478389
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-2A>T	11200	CHEK2	Likely pathogenic	GRCh38	1346068
+single nucleotide variant	NM_007194.4(CHEK2):c.998T>A (p.Leu333Ter)	11200	CHEK2	Pathogenic	GRCh38	1456051
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	1500095
+single nucleotide variant	NM_007194.4(CHEK2):c.417C>G (p.Tyr139Ter)	11200	CHEK2	Pathogenic	GRCh38	1423536
+single nucleotide variant	NM_007194.4(CHEK2):c.342G>A (p.Trp114Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1453185
+single nucleotide variant	NM_007194.4(CHEK2):c.684-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	1481008
+single nucleotide variant	NM_007194.4(CHEK2):c.320-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	1506291
+single nucleotide variant	NM_007194.4(CHEK2):c.408C>G (p.Tyr136Ter)	11200	CHEK2	Pathogenic	GRCh38	1453624
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	1373986
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	1347501
+single nucleotide variant	NM_007194.4(CHEK2):c.1335C>A (p.Tyr445Ter)	11200	CHEK2	Pathogenic	GRCh38	1405437
+single nucleotide variant	NM_007194.4(CHEK2):c.1376-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	1514824
+single nucleotide variant	NM_007194.4(CHEK2):c.1061T>A (p.Leu354Ter)	11200	CHEK2	Pathogenic	GRCh38	1436346
+single nucleotide variant	NM_007194.4(CHEK2):c.363T>A (p.Cys121Ter)	11200	CHEK2	Pathogenic	GRCh38	1353375
+single nucleotide variant	NM_007194.4(CHEK2):c.319+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	1473193
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	1491378
+single nucleotide variant	NM_007194.4(CHEK2):c.683+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	1518366
+single nucleotide variant	NM_007194.4(CHEK2):c.1006C>T (p.Gln336Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1675879
+single nucleotide variant	NM_007194.4(CHEK2):c.846+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	1692953
+single nucleotide variant	NM_007194.4(CHEK2):c.339C>A (p.Tyr113Ter)	11200	CHEK2	Pathogenic	GRCh38	1730972
+single nucleotide variant	NM_007194.4(CHEK2):c.1151T>A (p.Leu384Ter)	11200	CHEK2	Pathogenic	GRCh38	1734220
+single nucleotide variant	NM_007194.4(CHEK2):c.403A>T (p.Lys135Ter)	11200	CHEK2	Pathogenic	GRCh38	1737265
+single nucleotide variant	NM_007194.4(CHEK2):c.548T>A (p.Leu183Ter)	11200	CHEK2	Pathogenic	GRCh38	1747848
+single nucleotide variant	NM_007194.4(CHEK2):c.1260C>A (p.Cys420Ter)	11200	CHEK2	Pathogenic	GRCh38	1762953
+single nucleotide variant	NM_007194.4(CHEK2):c.883G>T (p.Glu295Ter)	11200	CHEK2	Pathogenic	GRCh38	1764848
+single nucleotide variant	NM_007194.4(CHEK2):c.1272T>A (p.Tyr424Ter)	11200	CHEK2	Pathogenic	GRCh38	1765826
+single nucleotide variant	NM_007194.4(CHEK2):c.1272T>G (p.Tyr424Ter)	11200	CHEK2	Pathogenic	GRCh38	1765856
+single nucleotide variant	NM_007194.4(CHEK2):c.668C>G (p.Ser223Ter)	11200	CHEK2	Pathogenic	GRCh38	1754901
+single nucleotide variant	NM_007194.4(CHEK2):c.730A>T (p.Lys244Ter)	11200	CHEK2	Pathogenic	GRCh38	1758243
+single nucleotide variant	NM_007194.4(CHEK2):c.98C>G (p.Ser33Ter)	11200	CHEK2	Pathogenic	GRCh38	1768544
+single nucleotide variant	NM_007194.4(CHEK2):c.1540C>T (p.Gln514Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	1774842
+single nucleotide variant	NM_007194.4(CHEK2):c.1376-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	1771154
+single nucleotide variant	NM_007194.4(CHEK2):c.235G>T (p.Glu79Ter)	11200	CHEK2	Pathogenic	GRCh38	1790143
+single nucleotide variant	NM_007194.4(CHEK2):c.1238T>A (p.Leu413Ter)	11200	CHEK2	Pathogenic	GRCh38	1801559
+single nucleotide variant	NM_007194.4(CHEK2):c.1067C>A (p.Ser356Ter)	11200	CHEK2	Pathogenic	GRCh38	1801560
+single nucleotide variant	NM_007194.4(CHEK2):c.847-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	1801561
+single nucleotide variant	NM_007194.4(CHEK2):c.629C>A (p.Ser210Ter)	11200	CHEK2	Pathogenic	GRCh38	2138426
+single nucleotide variant	NM_007194.4(CHEK2):c.793-15T>G	11200	CHEK2	Pathogenic	GRCh38	2008577
+single nucleotide variant	NM_007194.4(CHEK2):c.987C>G (p.Tyr329Ter)	11200	CHEK2	Pathogenic	GRCh38	2011895
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	2018612
+single nucleotide variant	NM_007194.4(CHEK2):c.445-2A>T	11200	CHEK2	Likely pathogenic	GRCh38	2011744
+single nucleotide variant	NM_007194.4(CHEK2):c.319G>T (p.Glu107Ter)	11200	CHEK2	Pathogenic	GRCh38	2024261
+single nucleotide variant	NM_007194.4(CHEK2):c.1542+1G>A	11200	CHEK2	Pathogenic	GRCh38	2034586
+single nucleotide variant	NM_007194.4(CHEK2):c.1393A>T (p.Lys465Ter)	11200	CHEK2	Pathogenic	GRCh38	2033510
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+2301G>T	11200	CHEK2	Pathogenic	GRCh38	2035246
+single nucleotide variant	NM_007194.4(CHEK2):c.683+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	2049198
+single nucleotide variant	NM_007194.4(CHEK2):c.324T>A (p.Cys108Ter)	11200	CHEK2	Pathogenic	GRCh38	2100813
+single nucleotide variant	NM_007194.4(CHEK2):c.1375+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	2100282
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-2A>G	11200	CHEK2	Likely pathogenic	GRCh38	2100380
+single nucleotide variant	NM_007194.4(CHEK2):c.1126G>T (p.Gly376Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	2128744
+single nucleotide variant	NM_007194.4(CHEK2):c.894T>A (p.Tyr298Ter)	11200	CHEK2	Pathogenic	GRCh38	2125912
+single nucleotide variant	NM_007194.4(CHEK2):c.1095+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	2134294
+single nucleotide variant	NM_007194.4(CHEK2):c.908+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	2452070
+single nucleotide variant	NM_007194.4(CHEK2):c.670A>T (p.Lys224Ter)	11200	CHEK2	Pathogenic	GRCh38	2566547
+single nucleotide variant	NM_007194.4(CHEK2):c.320-2A>T	11200	CHEK2	Likely pathogenic	GRCh38	2583200
+single nucleotide variant	NM_007194.4(CHEK2):c.592+1G>T	11200	CHEK2	Likely pathogenic	GRCh38	2583230
+single nucleotide variant	NM_007194.4(CHEK2):c.499G>C (p.Gly167Arg)	11200	CHEK2	Likely pathogenic	GRCh38	2583233
+single nucleotide variant	NM_007194.4(CHEK2):c.250G>T (p.Glu84Ter)	11200	CHEK2	Pathogenic	GRCh38	2583293
+single nucleotide variant	NM_007194.4(CHEK2):c.891T>A (p.Tyr297Ter)	11200	CHEK2	Pathogenic	GRCh38	2583295
+single nucleotide variant	NM_007194.4(CHEK2):c.636T>A (p.Tyr212Ter)	11200	CHEK2	Pathogenic	GRCh38	2583305
+single nucleotide variant	NM_007194.4(CHEK2):c.835A>T (p.Lys279Ter)	11200	CHEK2	Pathogenic	GRCh38	2583354
+single nucleotide variant	NM_007194.4(CHEK2):c.575C>G (p.Ser192Ter)	11200	CHEK2	Pathogenic	GRCh38	2583451
+single nucleotide variant	NM_007194.4(CHEK2):c.1075G>T (p.Glu359Ter)	11200	CHEK2	Pathogenic	GRCh38	2583528
+single nucleotide variant	NM_007194.4(CHEK2):c.904G>T (p.Glu302Ter)	11200	CHEK2	Pathogenic	GRCh38	2583565
+single nucleotide variant	NM_007194.4(CHEK2):c.1018G>T (p.Glu340Ter)	11200	CHEK2	Pathogenic	GRCh38	2583585
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	2584103
+single nucleotide variant	NM_007194.4(CHEK2):c.320-1G>A	11200	CHEK2	Likely pathogenic	GRCh38	2584120
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	2584134
+single nucleotide variant	NM_007194.4(CHEK2):c.592+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	2584137
+single nucleotide variant	NM_007194.4(CHEK2):c.1444A>T (p.Arg482Ter)	11200	CHEK2	Pathogenic	GRCh38	2584138
+single nucleotide variant	NM_007194.4(CHEK2):c.1304C>A (p.Ser435Ter)	11200	CHEK2	Pathogenic	GRCh38	2584139
+single nucleotide variant	NM_007194.4(CHEK2):c.1259+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	2584153
+single nucleotide variant	NM_007194.4(CHEK2):c.865A>T (p.Lys289Ter)	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	2584218
+single nucleotide variant	NM_007194.4(CHEK2):c.444+2T>G	11200	CHEK2	Pathogenic/Likely pathogenic	GRCh38	2584223
+single nucleotide variant	NM_007194.4(CHEK2):c.22G>T (p.Glu8Ter)	11200	CHEK2	Pathogenic	GRCh38	2584246
+single nucleotide variant	NM_007194.4(CHEK2):c.1442T>G (p.Leu481Ter)	11200	CHEK2	Pathogenic	GRCh38	2584249
+single nucleotide variant	NM_007194.4(CHEK2):c.792+1G>C	11200	CHEK2	Likely pathogenic	GRCh38	2584267
+single nucleotide variant	NM_007194.4(CHEK2):c.779C>G (p.Ser260Ter)	11200	CHEK2	Pathogenic	GRCh38	2584292
+single nucleotide variant	NM_007194.4(CHEK2):c.1327G>T (p.Gly443Ter)	11200	CHEK2	Pathogenic	GRCh38	2584296
+single nucleotide variant	NM_007194.4(CHEK2):c.1335C>G (p.Tyr445Ter)	11200	CHEK2	Pathogenic	GRCh38	2584305
+single nucleotide variant	NM_007194.4(CHEK2):c.847-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	2584307
+single nucleotide variant	NM_007194.4(CHEK2):c.817G>T (p.Glu273Ter)	11200	CHEK2	Pathogenic	GRCh38	2584308
+single nucleotide variant	NM_007194.4(CHEK2):c.241G>T (p.Glu81Ter)	11200	CHEK2	Pathogenic	GRCh38	2584315
+single nucleotide variant	NM_007194.4(CHEK2):c.592+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	2586650
+single nucleotide variant	NM_007194.4(CHEK2):c.424A>T (p.Lys142Ter)	11200	CHEK2	Pathogenic	GRCh38	2637699
+single nucleotide variant	NM_007194.4(CHEK2):c.1096-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	2713869
+single nucleotide variant	NM_007194.4(CHEK2):c.660C>G (p.Tyr220Ter)	11200	CHEK2	Pathogenic	GRCh38	2755729
+single nucleotide variant	NM_007194.4(CHEK2):c.287T>G (p.Leu96Ter)	11200	CHEK2	Pathogenic	GRCh38	2757107
+single nucleotide variant	NM_007194.4(CHEK2):c.987C>A (p.Tyr329Ter)	11200	CHEK2	Pathogenic	GRCh38	2772116
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-1264C>G	11200	CHEK2	Pathogenic	GRCh38	2762279
+single nucleotide variant	NM_007194.4(CHEK2):c.319+2T>C	11200	CHEK2	Likely pathogenic	GRCh38	2775077
+single nucleotide variant	NM_007194.4(CHEK2):c.647T>G (p.Leu216Ter)	11200	CHEK2	Pathogenic	GRCh38	2809833
+single nucleotide variant	NM_007194.4(CHEK2):c.1367C>A (p.Ser456Ter)	11200	CHEK2	Pathogenic	GRCh38	2821160
+single nucleotide variant	NM_007194.4(CHEK2):c.14C>A (p.Ser5Ter)	11200	CHEK2	Pathogenic	GRCh38	2833847
+single nucleotide variant	NM_007194.4(CHEK2):c.1369G>T (p.Glu457Ter)	11200	CHEK2	Pathogenic	GRCh38	2858718
+single nucleotide variant	NM_007194.4(CHEK2):c.721A>T (p.Lys241Ter)	11200	CHEK2	Pathogenic	GRCh38	2861966
+single nucleotide variant	NM_007194.4(CHEK2):c.593-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	2982425
+single nucleotide variant	NM_007194.4(CHEK2):c.846+2T>G	11200	CHEK2	Likely pathogenic	GRCh38	3009077
+single nucleotide variant	NM_007194.4(CHEK2):c.1102G>C (p.Asp368His)	11200	CHEK2	Likely pathogenic	GRCh38	3148809
+single nucleotide variant	NM_007194.4(CHEK2):c.1501G>T (p.Glu501Ter)	11200	CHEK2	Likely pathogenic	GRCh38	3226027
+single nucleotide variant	NM_007194.4(CHEK2):c.684-430A>T	11200	CHEK2	Likely pathogenic	GRCh38	3226039
+single nucleotide variant	NM_007194.4(CHEK2):c.1172T>A (p.Leu391Ter)	11200	CHEK2	Pathogenic	GRCh38	3492195
+single nucleotide variant	NM_007194.4(CHEK2):c.1461+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	3492199
+single nucleotide variant	NM_007194.4(CHEK2):c.445-1G>T	11200	CHEK2	Likely pathogenic	GRCh38	3492206
+single nucleotide variant	NM_007194.4(CHEK2):c.1008+2T>A	11200	CHEK2	Likely pathogenic	GRCh38	3642994
+single nucleotide variant	NM_007194.4(CHEK2):c.1543-2A>T	11200	CHEK2	Likely pathogenic	GRCh38	3648390
+single nucleotide variant	NM_007194.4(CHEK2):c.832A>T (p.Lys278Ter)	11200	CHEK2	Pathogenic	GRCh38	3650079
+single nucleotide variant	NM_007194.4(CHEK2):c.1151T>G (p.Leu384Ter)	11200	CHEK2	Pathogenic	GRCh38	3663513
+single nucleotide variant	NM_007194.4(CHEK2):c.1477A>T (p.Arg493Ter)	11200	CHEK2	Pathogenic	GRCh38	3724693
+single nucleotide variant	NM_007194.4(CHEK2):c.1304C>G (p.Ser435Ter)	11200	CHEK2	Pathogenic	GRCh38	3722169
+single nucleotide variant	NM_007194.4(CHEK2):c.981T>G (p.Tyr327Ter)	11200	CHEK2	Pathogenic	GRCh38	3727381
+single nucleotide variant	NM_007194.4(CHEK2):c.1009-1G>C	11200	CHEK2	Likely pathogenic	GRCh38	3774440
+single nucleotide variant	NM_007194.4(CHEK2):c.934A>T (p.Lys312Ter)	11200	CHEK2	Likely pathogenic	GRCh38	3774464
+single nucleotide variant	NM_007194.4(CHEK2):c.891T>G (p.Tyr297Ter)	11200	CHEK2	Pathogenic	GRCh38	3832945
+single nucleotide variant	NM_007194.4(CHEK2):c.1372A>T (p.Lys458Ter)	11200	CHEK2	Pathogenic	GRCh38	4002270
+single nucleotide variant	NM_007194.4(CHEK2):c.1170C>G (p.Tyr390Ter)	11200	CHEK2	Pathogenic	GRCh38	4228016
+single nucleotide variant	NM_007194.4(CHEK2):c.394A>T (p.Arg132Ter)	11200	CHEK2	Pathogenic	GRCh38	4634950
+single nucleotide variant	NM_007194.4(CHEK2):c.477C>A (p.Tyr159Ter)	11200	CHEK2	Pathogenic	GRCh38	4634990
+single nucleotide variant	NM_007194.4(CHEK2):c.320-2A>C	11200	CHEK2	Pathogenic	GRCh38	4717034
+single nucleotide variant	NM_007194.4(CHEK2):c.188T>A (p.Leu63Ter)	11200	CHEK2	Pathogenic	GRCh38	4720850
+single nucleotide variant	NM_007194.4(CHEK2):c.444G>C (p.Arg148Ser)	11200	CHEK2	Likely pathogenic	GRCh38	4727805
+single nucleotide variant	NM_007194.4(CHEK2):c.583A>T (p.Arg195Ter)	11200	CHEK2	Pathogenic	GRCh38	4734501
+single nucleotide variant	NM_007194.4(CHEK2):c.684-2A>C	11200	CHEK2	Likely pathogenic	GRCh38	4751492
+single nucleotide variant	NM_007194.4(CHEK2):c.517G>T (p.Glu173Ter)	11200	CHEK2	Pathogenic	GRCh38	4843227
+single nucleotide variant	NM_007194.4(CHEK2):c.589A>T (p.Lys197Ter)	11200	CHEK2	Pathogenic	GRCh38	4843226

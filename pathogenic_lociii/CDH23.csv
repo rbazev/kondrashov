@@ -1,0 +1,383 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_022124.6(CDH23):c.4488G>C (p.Gln1496His)	64072	CDH23	Pathogenic	GRCh38	4915
+single nucleotide variant	NM_022124.6(CDH23):c.5237G>A (p.Arg1746Gln)	64072	CDH23	Pathogenic	GRCh38	4916
+single nucleotide variant	NM_022124.6(CDH23):c.7362+5G>A	64072	CDH23	Pathogenic	GRCh38	4918
+single nucleotide variant	NM_022124.6(CDH23):c.6133G>A (p.Asp2045Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	4919
+single nucleotide variant	NM_022124.6(CDH23):c.6604G>A (p.Asp2202Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	4920
+single nucleotide variant	NM_022124.6(CDH23):c.3880C>T (p.Gln1294Ter)	64072	CDH23	Pathogenic	GRCh38	4921
+single nucleotide variant	NM_022124.6(CDH23):c.6442G>A (p.Asp2148Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	4922
+single nucleotide variant	NM_022124.6(CDH23):c.4021G>A (p.Asp1341Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	4923
+single nucleotide variant	NM_022124.6(CDH23):c.5663T>C (p.Phe1888Ser)	64072	CDH23	Pathogenic	GRCh38	4924
+single nucleotide variant	NM_022124.6(CDH23):c.719C>T (p.Pro240Leu)	64072	CDH23	Pathogenic	GRCh38	4928
+single nucleotide variant	NM_022124.6(CDH23):c.3481C>T (p.Arg1161Ter)	64072	CDH23	Pathogenic	GRCh38	45920
+single nucleotide variant	NM_022124.6(CDH23):c.3628C>T (p.Gln1210Ter)	64072	CDH23	Pathogenic	GRCh38	45926
+single nucleotide variant	NM_022124.6(CDH23):c.3706C>T (p.Arg1236Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	45929
+single nucleotide variant	NM_022124.6(CDH23):c.4309C>T (p.Arg1437Ter)	64072	CDH23	Pathogenic	GRCh38	45943
+single nucleotide variant	NM_022124.6(CDH23):c.5272C>T (p.Gln1758Ter)	64072	CDH23	Likely pathogenic	GRCh38	45972
+single nucleotide variant	NM_022124.6(CDH23):c.5712+1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	45988
+single nucleotide variant	NM_022124.6(CDH23):c.5712G>A (p.Thr1904=)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	45989
+single nucleotide variant	NM_022124.6(CDH23):c.5923+1G>A	64072	CDH23	Pathogenic	GRCh38	45995
+single nucleotide variant	NM_022124.6(CDH23):c.6049+1G>A	64072	CDH23	Pathogenic	GRCh38	45999
+single nucleotide variant	NM_022124.6(CDH23):c.6049G>A (p.Gly2017Ser)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	46000
+single nucleotide variant	NM_022124.6(CDH23):c.6050-9G>A	64072	CDH23	Pathogenic	GRCh38	46001
+single nucleotide variant	NM_022124.6(CDH23):c.7362G>A (p.Thr2454=)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	46029
+single nucleotide variant	NM_022124.6(CDH23):c.7776G>A (p.Trp2592Ter)	64072	CDH23	Pathogenic	GRCh38	46039
+single nucleotide variant	NM_022124.6(CDH23):c.7921G>C (p.Asp2641His)	64072	CDH23	Likely pathogenic	GRCh38	46041
+single nucleotide variant	NM_022124.6(CDH23):c.8781C>A (p.Tyr2927Ter)	64072	CDH23	Pathogenic	GRCh38	46053
+single nucleotide variant	NM_022124.6(CDH23):c.945+1G>T	64072	CDH23	Pathogenic	GRCh38	162876
+single nucleotide variant	NM_022124.6(CDH23):c.7873-2A>T	64072	CDH23	Pathogenic	GRCh38	162945
+single nucleotide variant	NM_022124.6(CDH23):c.6050-15G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	178309
+single nucleotide variant	NM_022124.6(CDH23):c.146-2A>G	64072	CDH23	Pathogenic	GRCh38	197332
+single nucleotide variant	NM_022124.6(CDH23):c.380A>G (p.Asp127Gly)	64072	CDH23	Likely pathogenic	GRCh38	228491
+single nucleotide variant	NM_022124.6(CDH23):c.1449+1G>T	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	228327
+single nucleotide variant	NM_022124.6(CDH23):c.2701G>A (p.Glu901Lys)	64072	CDH23	Likely pathogenic	GRCh38	228248
+single nucleotide variant	NM_022124.6(CDH23):c.7483-1G>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	228329
+single nucleotide variant	NM_022124.6(CDH23):c.9556C>T (p.Arg3186Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	228330
+single nucleotide variant	NM_022124.6(CDH23):c.2398-1G>T	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	236429
+single nucleotide variant	NM_022124.6(CDH23):c.7908C>G (p.Tyr2636Ter)	64072	CDH23	Pathogenic	GRCh38	236430
+single nucleotide variant	NM_022124.6(CDH23):c.288+1G>C	64072	CDH23	Pathogenic	GRCh38	379600
+single nucleotide variant	NM_022124.6(CDH23):c.7054+1G>A	64072	CDH23	Likely pathogenic	GRCh38	391852
+single nucleotide variant	NM_022124.6(CDH23):c.7660+1G>T	64072	CDH23	Pathogenic	GRCh38	379601
+single nucleotide variant	NM_022124.6(CDH23):c.1987-1G>A	64072	CDH23	Pathogenic	GRCh38	397608
+single nucleotide variant	NM_022124.6(CDH23):c.683A>T (p.Asp228Val)	64072	CDH23	Likely pathogenic	GRCh38	402247
+single nucleotide variant	NM_022124.6(CDH23):c.1036C>T (p.Pro346Ser)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	402250
+single nucleotide variant	NM_022124.6(CDH23):c.1037C>T (p.Pro346Leu)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	402251
+single nucleotide variant	NM_022124.6(CDH23):c.1675C>T (p.Pro559Ser)	64072	CDH23	Likely pathogenic	GRCh38	402252
+single nucleotide variant	NM_022124.6(CDH23):c.3181G>A (p.Glu1061Lys)	64072	CDH23	Pathogenic	GRCh38	402253
+single nucleotide variant	NM_022124.6(CDH23):c.5749G>A (p.Glu1917Lys)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	402248
+single nucleotide variant	NM_022124.6(CDH23):c.8204T>C (p.Leu2735Pro)	64072	CDH23	Likely pathogenic	GRCh38	402249
+single nucleotide variant	NM_022124.6(CDH23):c.494G>T (p.Gly165Val)	64072	CDH23	Likely pathogenic	GRCh38	418115
+single nucleotide variant	NM_022124.6(CDH23):c.7225-1G>A	64072	CDH23	Likely pathogenic	GRCh38	422346
+single nucleotide variant	NM_022124.6(CDH23):c.2866G>A (p.Glu956Lys)	64072	CDH23	Pathogenic	GRCh38	444219
+single nucleotide variant	NM_022124.6(CDH23):c.6253+1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	444222
+single nucleotide variant	NM_022124.6(CDH23):c.1934A>G (p.Asp645Gly)	64072	CDH23	Pathogenic	GRCh38	446443
+single nucleotide variant	NM_022124.6(CDH23):c.4877A>C (p.Asp1626Ala)	64072	CDH23	Pathogenic	GRCh38	446444
+single nucleotide variant	NM_022124.6(CDH23):c.5147A>C (p.Gln1716Pro)	64072	CDH23	Pathogenic	GRCh38	446445
+single nucleotide variant	NM_022124.6(CDH23):c.6085C>T (p.Arg2029Trp)	64072	CDH23	Pathogenic	GRCh38	446446
+single nucleotide variant	NM_022124.6(CDH23):c.6712+1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	446448
+single nucleotide variant	NM_022124.6(CDH23):c.7312G>A (p.Glu2438Lys)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	446449
+single nucleotide variant	NM_022124.6(CDH23):c.8222C>A (p.Ser2741Ter)	64072	CDH23	Pathogenic	GRCh38	489005
+single nucleotide variant	NM_022124.6(CDH23):c.2289+1G>A	64072	CDH23	Pathogenic	GRCh38	504507
+single nucleotide variant	NM_022124.6(CDH23):c.8064+1G>T	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	517297
+single nucleotide variant	NM_022124.6(CDH23):c.3241C>T (p.Arg1081Ter)	64072	CDH23	Pathogenic	GRCh38	521399
+single nucleotide variant	NM_022124.6(CDH23):c.2410G>A (p.Asp804Asn)	64072	CDH23	Likely pathogenic	GRCh38	522662
+single nucleotide variant	NM_022124.6(CDH23):c.805C>T (p.Arg269Trp)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1687042
+single nucleotide variant	NM_022124.6(CDH23):c.8560+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2845196
+single nucleotide variant	NM_022124.6(CDH23):c.945+1G>A	64072	CDH23	Pathogenic	GRCh38	585305
+single nucleotide variant	NM_022124.6(CDH23):c.3221-2A>G	64072	CDH23	Pathogenic	GRCh38	595857
+single nucleotide variant	NM_022124.6(CDH23):c.6000C>A (p.Tyr2000Ter)	64072	CDH23	Pathogenic	GRCh38	599084
+single nucleotide variant	NM_022124.6(CDH23):c.3016G>A (p.Glu1006Lys)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	618010
+single nucleotide variant	NM_022124.6(CDH23):c.6083A>C (p.Asp2028Ala)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	619171
+single nucleotide variant	NM_022124.6(CDH23):c.2425G>T (p.Glu809Ter)	64072	CDH23	Pathogenic	GRCh38	620123
+single nucleotide variant	NM_022124.6(CDH23):c.8803C>T (p.Arg2935Ter)	64072	CDH23	Pathogenic	GRCh38	620124
+single nucleotide variant	NM_022124.6(CDH23):c.8061C>G (p.Tyr2687Ter)	64072	CDH23	Likely pathogenic	GRCh38	623156
+single nucleotide variant	NM_022124.6(CDH23):c.9270C>G (p.Tyr3090Ter)	64072	CDH23	Likely pathogenic	GRCh38	623741
+single nucleotide variant	NM_022124.6(CDH23):c.8920G>T (p.Glu2974Ter)	64072	CDH23	Likely pathogenic	GRCh38	627437
+single nucleotide variant	NM_022124.6(CDH23):c.3579+1G>A	64072	CDH23	Pathogenic	GRCh38	627436
+single nucleotide variant	NM_022124.6(CDH23):c.5369-1G>T	64072	CDH23	Pathogenic	GRCh38	627435
+single nucleotide variant	NM_022124.6(CDH23):c.4504C>T (p.Arg1502Ter)	64072	CDH23	Likely pathogenic	GRCh38	636160
+single nucleotide variant	NM_022124.6(CDH23):c.9320-1G>A	64072	CDH23	Likely pathogenic	GRCh38	665868
+single nucleotide variant	NM_022124.6(CDH23):c.2177-2A>G	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	654574
+single nucleotide variant	NM_022124.6(CDH23):c.2206C>T (p.Arg736Ter)	64072	CDH23	Pathogenic	GRCh38	693998
+single nucleotide variant	NM_022124.6(CDH23):c.5311C>T (p.Arg1771Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	812254
+single nucleotide variant	NM_022124.6(CDH23):c.9077+1G>A	64072	CDH23	Pathogenic	GRCh38	813030
+single nucleotide variant	NM_022124.6(CDH23):c.7872G>A (p.Glu2624=)	64072	CDH23	Pathogenic	GRCh38	813418
+single nucleotide variant	NM_022124.6(CDH23):c.2968G>A (p.Asp990Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	861900
+single nucleotide variant	NM_022124.6(CDH23):c.5826T>G (p.Tyr1942Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	848701
+single nucleotide variant	NM_022124.6(CDH23):c.7814A>G (p.Asn2605Ser)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	862821
+single nucleotide variant	NM_022124.6(CDH23):c.5924-1G>A	64072	CDH23	Likely pathogenic	GRCh38	853133
+single nucleotide variant	NM_022124.6(CDH23):c.4210-1G>A	64072	CDH23	Likely pathogenic	GRCh38	855788
+single nucleotide variant	NM_022124.6(CDH23):c.3417C>A (p.Tyr1139Ter)	64072	CDH23	Likely pathogenic	GRCh38	866891
+single nucleotide variant	NM_022124.6(CDH23):c.336+1G>T	64072	CDH23	Likely pathogenic	GRCh38	867202
+single nucleotide variant	NM_022124.6(CDH23):c.2060-1G>A	64072	CDH23	Likely pathogenic	GRCh38	867203
+single nucleotide variant	NM_022124.6(CDH23):c.3369+1G>A	64072	CDH23	Likely pathogenic	GRCh38	865909
+single nucleotide variant	NM_022124.6(CDH23):c.5187+1G>A	64072	CDH23	Likely pathogenic	GRCh38	866906
+single nucleotide variant	NM_022124.6(CDH23):c.6050-1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	866900
+single nucleotide variant	NM_022124.6(CDH23):c.9198+2T>A	64072	CDH23	Likely pathogenic	GRCh38	866890
+single nucleotide variant	NM_022124.6(CDH23):c.7899C>G (p.Tyr2633Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	947267
+single nucleotide variant	NM_022124.6(CDH23):c.6337C>T (p.Gln2113Ter)	64072	CDH23	Pathogenic	GRCh38	934719
+single nucleotide variant	NM_022124.6(CDH23):c.8197C>T (p.Gln2733Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	934378
+single nucleotide variant	NM_022124.6(CDH23):c.336+1G>A	64072	CDH23	Pathogenic	GRCh38	934718
+single nucleotide variant	NM_022124.6(CDH23):c.1752+2T>C	64072	CDH23	Likely pathogenic	GRCh38	943736
+single nucleotide variant	NM_022124.6(CDH23):c.4617+2T>C	64072	CDH23	Likely pathogenic	GRCh38	938376
+single nucleotide variant	NM_022124.6(CDH23):c.628C>T (p.Gln210Ter)	64072	CDH23	Pathogenic	GRCh38	954716
+single nucleotide variant	NM_022124.6(CDH23):c.6319C>T (p.Arg2107Ter)	64072	CDH23	Pathogenic	GRCh38	968742
+single nucleotide variant	NM_022124.6(CDH23):c.145+1G>T	64072	CDH23	Likely pathogenic	GRCh38	964846
+single nucleotide variant	NM_022124.6(CDH23):c.753+1G>A	64072	CDH23	Likely pathogenic	GRCh38	966522
+single nucleotide variant	NM_022124.6(CDH23):c.2334G>A (p.Trp778Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	978271
+single nucleotide variant	NM_022124.6(CDH23):c.5149T>C (p.Cys1717Arg)	64072	CDH23	Likely pathogenic	GRCh38	996633
+single nucleotide variant	NM_022124.6(CDH23):c.271C>T (p.Gln91Ter)	64072	CDH23	Pathogenic	GRCh38	1027560
+single nucleotide variant	NM_022124.6(CDH23):c.3176A>T (p.Asp1059Val)	64072	CDH23	Likely pathogenic	GRCh38	1027558
+single nucleotide variant	NM_022124.6(CDH23):c.7872+1G>A	64072	CDH23	Pathogenic	GRCh38	1027559
+single nucleotide variant	NM_022124.6(CDH23):c.1291-1G>A	64072	CDH23	Pathogenic	GRCh38	1064608
+single nucleotide variant	NM_022124.6(CDH23):c.3215C>A (p.Ala1072Asp)	64072	CDH23	Likely pathogenic	GRCh38	1064874
+single nucleotide variant	NM_022124.6(CDH23):c.871G>A (p.Gly291Arg)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1065907
+single nucleotide variant	NM_022124.6(CDH23):c.1752+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1067771
+single nucleotide variant	NM_022124.6(CDH23):c.1859-1G>T	64072	CDH23	Likely pathogenic	GRCh38	1065914
+single nucleotide variant	NM_022124.6(CDH23):c.2588-1G>T	64072	CDH23	Likely pathogenic	GRCh38	1066845
+single nucleotide variant	NM_022124.6(CDH23):c.4206+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1067735
+single nucleotide variant	NM_022124.6(CDH23):c.5924-2A>C	64072	CDH23	Likely pathogenic	GRCh38	1066743
+single nucleotide variant	NM_022124.6(CDH23):c.6049+1G>T	64072	CDH23	Pathogenic	GRCh38	1067318
+single nucleotide variant	NM_022124.6(CDH23):c.6050-1G>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1066744
+single nucleotide variant	NM_022124.6(CDH23):c.7482+2T>C	64072	CDH23	Likely pathogenic	GRCh38	1067982
+single nucleotide variant	NM_022124.6(CDH23):c.8064+1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1067155
+single nucleotide variant	NM_022124.6(CDH23):c.9199-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1067106
+single nucleotide variant	NM_022124.6(CDH23):c.9278+2T>G	64072	CDH23	Pathogenic	GRCh38	1066661
+single nucleotide variant	NM_022124.6(CDH23):c.9319+1G>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1066040
+single nucleotide variant	NM_022124.6(CDH23):c.9511-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1068109
+single nucleotide variant	NM_022124.6(CDH23):c.65G>A (p.Trp22Ter)	64072	CDH23	Pathogenic	GRCh38	1071750
+single nucleotide variant	NM_022124.6(CDH23):c.214G>T (p.Glu72Ter)	64072	CDH23	Pathogenic	GRCh38	1074713
+single nucleotide variant	NM_022124.6(CDH23):c.871G>T (p.Gly291Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1072295
+single nucleotide variant	NM_022124.6(CDH23):c.2349C>G (p.Tyr783Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1068626
+single nucleotide variant	NM_022124.6(CDH23):c.3655C>T (p.Arg1219Ter)	64072	CDH23	Pathogenic	GRCh38	1073637
+single nucleotide variant	NM_022124.6(CDH23):c.7221C>A (p.Tyr2407Ter)	64072	CDH23	Pathogenic	GRCh38	1071894
+single nucleotide variant	NM_022124.6(CDH23):c.7921G>A (p.Asp2641Asn)	64072	CDH23	Pathogenic	GRCh38	1072139
+single nucleotide variant	NM_022124.6(CDH23):c.8106C>G (p.Tyr2702Ter)	64072	CDH23	Pathogenic	GRCh38	1070249
+single nucleotide variant	NM_022124.6(CDH23):c.8383C>T (p.Arg2795Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1068921
+single nucleotide variant	NM_022124.6(CDH23):c.8432G>A (p.Trp2811Ter)	64072	CDH23	Pathogenic	GRCh38	1071895
+single nucleotide variant	NM_022124.6(CDH23):c.4562A>G (p.Asn1521Ser)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1180612
+single nucleotide variant	NM_022124.6(CDH23):c.5908G>A (p.Glu1970Lys)	64072	CDH23	Likely pathogenic	GRCh38	1180747
+single nucleotide variant	NM_022124.6(CDH23):c.1986+3A>T	64072	CDH23	Likely pathogenic	GRCh38	1184597
+single nucleotide variant	NM_022124.6(CDH23):c.8012G>A (p.Gly2671Asp)	64072	CDH23	Likely pathogenic	GRCh38	1185119
+single nucleotide variant	NM_022124.6(CDH23):c.146-1G>C	64072	CDH23	Pathogenic	GRCh38	1185603
+single nucleotide variant	NM_022124.6(CDH23):c.3371T>G (p.Leu1124Arg)	64072	CDH23	Likely pathogenic	GRCh38	1185615
+single nucleotide variant	NM_022124.6(CDH23):c.3211G>A (p.Glu1071Lys)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1334115
+single nucleotide variant	NM_022124.6(CDH23):c.8140G>T (p.Asp2714Tyr)	64072	CDH23	Likely pathogenic	GRCh38	1334116
+single nucleotide variant	NM_022124.6(CDH23):c.4104+1G>T	64072	CDH23	Likely pathogenic	GRCh38	1335937
+single nucleotide variant	NM_022124.6(CDH23):c.5535C>A (p.Asn1845Lys)	64072	CDH23	Pathogenic	GRCh38	1341497
+single nucleotide variant	NM_022124.6(CDH23):c.1514+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1505957
+single nucleotide variant	NM_022124.6(CDH23):c.738C>G (p.Tyr246Ter)	64072	CDH23	Pathogenic	GRCh38	1381741
+single nucleotide variant	NM_022124.6(CDH23):c.8722+2T>G	64072	CDH23	Likely pathogenic	GRCh38	1496214
+single nucleotide variant	NM_022124.6(CDH23):c.2733+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1525196
+single nucleotide variant	NM_022124.6(CDH23):c.7100G>A (p.Trp2367Ter)	64072	CDH23	Pathogenic	GRCh38	1452351
+single nucleotide variant	NM_022124.6(CDH23):c.7210C>T (p.Gln2404Ter)	64072	CDH23	Pathogenic	GRCh38	1454111
+single nucleotide variant	NM_022124.6(CDH23):c.5368+1G>A	64072	CDH23	Pathogenic	GRCh38	1498367
+single nucleotide variant	NM_022124.6(CDH23):c.1141-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1483383
+single nucleotide variant	NM_022124.6(CDH23):c.8561-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1499781
+single nucleotide variant	NM_022124.6(CDH23):c.6307G>T (p.Glu2103Ter)	64072	CDH23	Pathogenic	GRCh38	1457569
+single nucleotide variant	NM_022124.6(CDH23):c.7225-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1498436
+single nucleotide variant	NM_022124.6(CDH23):c.3430+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1498701
+single nucleotide variant	NM_022124.6(CDH23):c.2059G>T (p.Gly687Ter)	64072	CDH23	Pathogenic	GRCh38	1448126
+single nucleotide variant	NM_022124.6(CDH23):c.5188-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1501003
+single nucleotide variant	NM_022124.6(CDH23):c.5187+2T>C	64072	CDH23	Likely pathogenic	GRCh38	1476780
+single nucleotide variant	NM_022124.6(CDH23):c.3431-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1503611
+single nucleotide variant	NM_022124.6(CDH23):c.1140+1G>C	64072	CDH23	Likely pathogenic	GRCh38	1479158
+single nucleotide variant	NM_022124.6(CDH23):c.8979+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1479207
+single nucleotide variant	NM_022124.6(CDH23):c.8433G>A (p.Trp2811Ter)	64072	CDH23	Pathogenic	GRCh38	1371175
+single nucleotide variant	NM_022124.6(CDH23):c.8179-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1482592
+single nucleotide variant	NM_022124.6(CDH23):c.3579+2T>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1458365
+single nucleotide variant	NM_022124.6(CDH23):c.8308+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1513903
+single nucleotide variant	NM_022124.6(CDH23):c.4903C>T (p.Gln1635Ter)	64072	CDH23	Pathogenic	GRCh38	1430362
+single nucleotide variant	NM_022124.6(CDH23):c.5369-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1484739
+single nucleotide variant	NM_022124.6(CDH23):c.1735C>T (p.Gln579Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	1460205
+single nucleotide variant	NM_022124.6(CDH23):c.7362+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1487959
+single nucleotide variant	NM_022124.6(CDH23):c.7872+2T>C	64072	CDH23	Pathogenic	GRCh38	1514523
+single nucleotide variant	NM_022124.6(CDH23):c.5503-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1471361
+single nucleotide variant	NM_022124.6(CDH23):c.754-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1486628
+single nucleotide variant	NM_022124.6(CDH23):c.4617+1G>A	64072	CDH23	Likely pathogenic	GRCh38	1472985
+single nucleotide variant	NM_022124.6(CDH23):c.3220+1G>T	64072	CDH23	Likely pathogenic	GRCh38	1515317
+single nucleotide variant	NM_022124.6(CDH23):c.4489-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1493114
+single nucleotide variant	NM_022124.6(CDH23):c.4207-1G>C	64072	CDH23	Likely pathogenic	GRCh38	1519855
+single nucleotide variant	NM_022124.6(CDH23):c.5584G>A (p.Glu1862Lys)	64072	CDH23	Likely pathogenic	GRCh38	1685258
+single nucleotide variant	NM_022124.6(CDH23):c.6992T>C (p.Val2331Ala)	64072	CDH23	Likely pathogenic	GRCh38	1687043
+single nucleotide variant	NM_022124.6(CDH23):c.3431-1G>A	64072	CDH23	Pathogenic	GRCh38	1687244
+single nucleotide variant	NM_022124.6(CDH23):c.5369-1G>A	64072	CDH23	Likely pathogenic	GRCh38	1697268
+single nucleotide variant	NM_022124.6(CDH23):c.6379G>T (p.Val2127Phe)	64072	CDH23	Likely pathogenic	GRCh38	1699473
+single nucleotide variant	NM_022124.6(CDH23):c.484G>A (p.Gly162Arg)	64072	CDH23	Pathogenic	GRCh38	2136878
+single nucleotide variant	NM_022124.6(CDH23):c.2752G>A (p.Asp918Asn)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2136881
+single nucleotide variant	NM_022124.6(CDH23):c.3862C>T (p.Gln1288Ter)	64072	CDH23	Pathogenic	GRCh38	2136882
+single nucleotide variant	NM_022124.6(CDH23):c.9489G>A (p.Trp3163Ter)	64072	CDH23	Pathogenic	GRCh38	2136891
+single nucleotide variant	NM_022124.6(CDH23):c.1449+5G>A	64072	CDH23	Likely pathogenic	GRCh38	2159825
+single nucleotide variant	NM_022124.6(CDH23):c.1135-2A>C	64072	CDH23	Likely pathogenic	GRCh38	2154091
+single nucleotide variant	NM_022124.6(CDH23):c.7558G>A (p.Glu2520Lys)	64072	CDH23	Likely pathogenic	GRCh38	2191926
+single nucleotide variant	NM_022124.6(CDH23):c.603C>G (p.Tyr201Ter)	64072	CDH23	Pathogenic	GRCh38	1896503
+single nucleotide variant	NM_022124.6(CDH23):c.8723-2A>G	64072	CDH23	Likely pathogenic	GRCh38	1926921
+single nucleotide variant	NM_022124.6(CDH23):c.2269C>T (p.Gln757Ter)	64072	CDH23	Pathogenic	GRCh38	2002157
+single nucleotide variant	NM_022124.6(CDH23):c.7872+2T>A	64072	CDH23	Likely pathogenic	GRCh38	2003632
+single nucleotide variant	NM_022124.6(CDH23):c.9433C>T (p.Gln3145Ter)	64072	CDH23	Pathogenic	GRCh38	2000925
+single nucleotide variant	NM_022124.6(CDH23):c.1891C>T (p.Gln631Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2017022
+single nucleotide variant	NM_022124.6(CDH23):c.6712+2T>C	64072	CDH23	Likely pathogenic	GRCh38	2025918
+single nucleotide variant	NM_022124.6(CDH23):c.4432G>T (p.Glu1478Ter)	64072	CDH23	Pathogenic	GRCh38	2027298
+single nucleotide variant	NM_022124.6(CDH23):c.5368+2T>C	64072	CDH23	Pathogenic	GRCh38	2023414
+single nucleotide variant	NM_022124.6(CDH23):c.9561C>A (p.Tyr3187Ter)	64072	CDH23	Pathogenic	GRCh38	2028365
+single nucleotide variant	NM_022124.6(CDH23):c.945+1G>C	64072	CDH23	Likely pathogenic	GRCh38	2036791
+single nucleotide variant	NM_022124.6(CDH23):c.2176+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2048393
+single nucleotide variant	NM_022124.6(CDH23):c.9488G>A (p.Trp3163Ter)	64072	CDH23	Pathogenic	GRCh38	2062331
+single nucleotide variant	NM_022124.6(CDH23):c.8106C>A (p.Tyr2702Ter)	64072	CDH23	Pathogenic	GRCh38	2084807
+single nucleotide variant	NM_022124.6(CDH23):c.2289+1G>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2093985
+single nucleotide variant	NM_022124.6(CDH23):c.624+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2094292
+single nucleotide variant	NM_022124.6(CDH23):c.288+2T>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2092018
+single nucleotide variant	NM_022124.6(CDH23):c.1827C>G (p.Tyr609Ter)	64072	CDH23	Pathogenic	GRCh38	2113693
+single nucleotide variant	NM_022124.6(CDH23):c.2755G>T (p.Glu919Ter)	64072	CDH23	Pathogenic	GRCh38	2127558
+single nucleotide variant	NM_022124.6(CDH23):c.6253+2T>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2117564
+single nucleotide variant	NM_022124.6(CDH23):c.9278+2T>A	64072	CDH23	Likely pathogenic	GRCh38	2445692
+single nucleotide variant	NM_022124.6(CDH23):c.6965A>T (p.Asp2322Val)	64072	CDH23	Likely pathogenic	GRCh38	2445640
+single nucleotide variant	NM_022124.6(CDH23):c.7826C>T (p.Pro2609Leu)	64072	CDH23	Likely pathogenic	GRCh38	2445641
+single nucleotide variant	NM_022124.6(CDH23):c.1152C>A (p.Ser384Arg)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2501245
+single nucleotide variant	NM_022124.6(CDH23):c.1570G>A (p.Glu524Lys)	64072	CDH23	Likely pathogenic	GRCh38	2503054
+single nucleotide variant	NM_022124.6(CDH23):c.1134+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2572758
+single nucleotide variant	NM_022124.6(CDH23):c.5067+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2577146
+single nucleotide variant	NM_022124.6(CDH23):c.289-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2578615
+single nucleotide variant	NM_022124.6(CDH23):c.6713-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2631468
+single nucleotide variant	NM_022124.6(CDH23):c.9381-2A>G	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2632950
+single nucleotide variant	NM_022124.6(CDH23):c.5534A>G (p.Asn1845Ser)	64072	CDH23	Likely pathogenic	GRCh38	2680454
+single nucleotide variant	NM_022124.6(CDH23):c.9319+1G>T	64072	CDH23	Pathogenic	GRCh38	2680456
+single nucleotide variant	NM_022124.6(CDH23):c.7101G>A (p.Trp2367Ter)	64072	CDH23	Pathogenic	GRCh38	2680457
+single nucleotide variant	NM_022124.6(CDH23):c.3591C>A (p.Tyr1197Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680458
+single nucleotide variant	NM_022124.6(CDH23):c.5820+2T>C	64072	CDH23	Likely pathogenic	GRCh38	2680463
+single nucleotide variant	NM_022124.6(CDH23):c.4332G>A (p.Trp1444Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680464
+single nucleotide variant	NM_022124.6(CDH23):c.9109C>T (p.Gln3037Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680466
+single nucleotide variant	NM_022124.6(CDH23):c.9264G>A (p.Trp3088Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680469
+single nucleotide variant	NM_022124.6(CDH23):c.5502+2T>G	64072	CDH23	Likely pathogenic	GRCh38	2680477
+single nucleotide variant	NM_022124.6(CDH23):c.6464C>A (p.Ser2155Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680482
+single nucleotide variant	NM_022124.6(CDH23):c.1987-1G>T	64072	CDH23	Likely pathogenic	GRCh38	2680484
+single nucleotide variant	NM_022124.6(CDH23):c.8722+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680487
+single nucleotide variant	NM_022124.6(CDH23):c.2397+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680488
+single nucleotide variant	NM_022124.6(CDH23):c.8590G>T (p.Glu2864Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680492
+single nucleotide variant	NM_022124.6(CDH23):c.4863C>G (p.Tyr1621Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2680494
+single nucleotide variant	NM_022124.6(CDH23):c.8309-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680497
+single nucleotide variant	NM_022124.6(CDH23):c.4207-2A>G	64072	CDH23	Likely pathogenic	GRCh38	2680500
+single nucleotide variant	NM_022124.6(CDH23):c.7908C>A (p.Tyr2636Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2680504
+single nucleotide variant	NM_022124.6(CDH23):c.3769G>T (p.Glu1257Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2680507
+single nucleotide variant	NM_022124.6(CDH23):c.67+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680509
+single nucleotide variant	NM_022124.6(CDH23):c.3634C>T (p.Gln1212Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680510
+single nucleotide variant	NM_022124.6(CDH23):c.1859-2A>G	64072	CDH23	Likely pathogenic	GRCh38	2680512
+single nucleotide variant	NM_022124.6(CDH23):c.3397G>T (p.Glu1133Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680515
+single nucleotide variant	NM_022124.6(CDH23):c.5188-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680519
+single nucleotide variant	NM_022124.6(CDH23):c.2954-2A>G	64072	CDH23	Likely pathogenic	GRCh38	2680523
+single nucleotide variant	NM_022124.6(CDH23):c.9738+1G>T	64072	CDH23	Likely pathogenic	GRCh38	2680524
+single nucleotide variant	NM_022124.6(CDH23):c.2953+1G>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2680525
+single nucleotide variant	NM_022124.6(CDH23):c.7483-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2680526
+single nucleotide variant	NM_022124.6(CDH23):c.2587+1G>C	64072	CDH23	Likely pathogenic	GRCh38	2680527
+single nucleotide variant	NM_022124.6(CDH23):c.66G>A (p.Trp22Ter)	64072	CDH23	Likely pathogenic	GRCh38	2680533
+single nucleotide variant	NM_022124.6(CDH23):c.8020C>T (p.Gln2674Ter)	64072	CDH23	Pathogenic	GRCh38	2698952
+single nucleotide variant	NM_022124.6(CDH23):c.4918G>T (p.Glu1640Ter)	64072	CDH23	Pathogenic	GRCh38	2694599
+single nucleotide variant	NM_022124.6(CDH23):c.7873-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2696421
+single nucleotide variant	NM_022124.6(CDH23):c.6682G>T (p.Glu2228Ter)	64072	CDH23	Pathogenic	GRCh38	2697617
+single nucleotide variant	NM_022124.6(CDH23):c.946-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2708640
+single nucleotide variant	NM_022124.6(CDH23):c.5503-1G>T	64072	CDH23	Likely pathogenic	GRCh38	2717231
+single nucleotide variant	NM_022124.6(CDH23):c.3430+2T>C	64072	CDH23	Likely pathogenic	GRCh38	2711627
+single nucleotide variant	NM_022124.6(CDH23):c.5245G>T (p.Glu1749Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2713476
+single nucleotide variant	NM_022124.6(CDH23):c.4615G>T (p.Glu1539Ter)	64072	CDH23	Pathogenic	GRCh38	2711183
+single nucleotide variant	NM_022124.6(CDH23):c.3715+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2724012
+single nucleotide variant	NM_022124.6(CDH23):c.4565A>T (p.Asp1522Val)	64072	CDH23	Likely pathogenic	GRCh38	2727620
+single nucleotide variant	NM_022124.6(CDH23):c.2587+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2737449
+single nucleotide variant	NM_022124.6(CDH23):c.790G>T (p.Asp264Tyr)	64072	CDH23	Likely pathogenic	GRCh38	2735417
+single nucleotide variant	NM_022124.6(CDH23):c.7480C>T (p.Gln2494Ter)	64072	CDH23	Pathogenic	GRCh38	2751586
+single nucleotide variant	NM_022124.6(CDH23):c.624+2T>C	64072	CDH23	Likely pathogenic	GRCh38	2750435
+single nucleotide variant	NM_022124.6(CDH23):c.832+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2771898
+single nucleotide variant	NM_022124.6(CDH23):c.2290-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2784390
+single nucleotide variant	NM_022124.6(CDH23):c.3106+2T>G	64072	CDH23	Likely pathogenic	GRCh38	2813855
+single nucleotide variant	NM_022124.6(CDH23):c.9633+1G>A	64072	CDH23	Pathogenic	GRCh38	2824291
+single nucleotide variant	NM_022124.6(CDH23):c.3321T>A (p.Tyr1107Ter)	64072	CDH23	Pathogenic	GRCh38	2819985
+single nucleotide variant	NM_022124.6(CDH23):c.2226C>A (p.Tyr742Ter)	64072	CDH23	Pathogenic	GRCh38	2835815
+single nucleotide variant	NM_022124.6(CDH23):c.9078-2A>G	64072	CDH23	Likely pathogenic	GRCh38	2848206
+single nucleotide variant	NM_022124.6(CDH23):c.5821-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2844476
+single nucleotide variant	NM_022124.6(CDH23):c.7580C>A (p.Ser2527Ter)	64072	CDH23	Pathogenic	GRCh38	2856073
+single nucleotide variant	NM_022124.6(CDH23):c.3413G>A (p.Trp1138Ter)	64072	CDH23	Pathogenic	GRCh38	2851838
+single nucleotide variant	NM_022124.6(CDH23):c.7557T>G (p.Tyr2519Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2851982
+single nucleotide variant	NM_022124.6(CDH23):c.2588-1G>A	64072	CDH23	Likely pathogenic	GRCh38	2852032
+single nucleotide variant	NM_022124.6(CDH23):c.7225-2A>C	64072	CDH23	Likely pathogenic	GRCh38	2862674
+single nucleotide variant	NM_022124.6(CDH23):c.4209+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2879385
+single nucleotide variant	NM_022124.6(CDH23):c.8863C>T (p.Gln2955Ter)	64072	CDH23	Pathogenic	GRCh38	2954630
+single nucleotide variant	NM_022124.6(CDH23):c.5502+1G>A	64072	CDH23	Likely pathogenic	GRCh38	2963494
+single nucleotide variant	NM_022124.6(CDH23):c.8847C>G (p.Tyr2949Ter)	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	2971009
+single nucleotide variant	NM_022124.6(CDH23):c.1140+1G>T	64072	CDH23	Likely pathogenic	GRCh38	2975690
+single nucleotide variant	NM_022124.6(CDH23):c.7872+1G>C	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	3002997
+single nucleotide variant	NM_022124.6(CDH23):c.4488+2T>A	64072	CDH23	Pathogenic/Likely pathogenic	GRCh38	3241035
+single nucleotide variant	NM_022124.6(CDH23):c.1579C>T (p.Gln527Ter)	64072	CDH23	Likely pathogenic	GRCh38	3241036
+single nucleotide variant	NM_022124.6(CDH23):c.7661-1G>C	64072	CDH23	Likely pathogenic	GRCh38	3241039
+single nucleotide variant	NM_022124.6(CDH23):c.9078-2A>C	64072	CDH23	Likely pathogenic	GRCh38	3241045
+single nucleotide variant	NM_022124.6(CDH23):c.39G>A (p.Trp13Ter)	64072	CDH23	Likely pathogenic	GRCh38	3241049
+single nucleotide variant	NM_022124.6(CDH23):c.6517G>T (p.Glu2173Ter)	64072	CDH23	Pathogenic	GRCh38	3241050
+single nucleotide variant	NM_022124.6(CDH23):c.7224+1G>T	64072	CDH23	Likely pathogenic	GRCh38	3241051
+single nucleotide variant	NM_022124.6(CDH23):c.2733+1G>C	64072	CDH23	Likely pathogenic	GRCh38	3241053
+single nucleotide variant	NM_022124.6(CDH23):c.9077+2T>C	64072	CDH23	Likely pathogenic	GRCh38	3241055
+single nucleotide variant	NM_022124.6(CDH23):c.3535G>T (p.Glu1179Ter)	64072	CDH23	Likely pathogenic	GRCh38	3241056
+single nucleotide variant	NM_022124.6(CDH23):c.739G>T (p.Glu247Ter)	64072	CDH23	Likely pathogenic	GRCh38	3241057
+single nucleotide variant	NM_022124.6(CDH23):c.6050-2A>G	64072	CDH23	Likely pathogenic	GRCh38	3241058
+single nucleotide variant	NM_022124.6(CDH23):c.1450-2A>G	64072	CDH23	Likely pathogenic	GRCh38	3241060
+single nucleotide variant	NM_022124.6(CDH23):c.1290+1G>A	64072	CDH23	Pathogenic	GRCh38	3248674
+single nucleotide variant	NM_022124.6(CDH23):c.5923+2T>C	64072	CDH23	Pathogenic	GRCh38	3248903
+single nucleotide variant	NM_022124.6(CDH23):c.8560G>A (p.Gly2854Arg)	64072	CDH23	Likely pathogenic	GRCh38	3248961
+single nucleotide variant	NM_022124.6(CDH23):c.3715+2T>A	64072	CDH23	Pathogenic	GRCh38	3250301
+single nucleotide variant	NM_022124.6(CDH23):c.3616C>A (p.Pro1206Thr)	64072	CDH23	Likely pathogenic	GRCh38	3250334
+single nucleotide variant	NM_022124.6(CDH23):c.9585T>G (p.Tyr3195Ter)	64072	CDH23	Pathogenic	GRCh38	3381828
+single nucleotide variant	NM_022124.6(CDH23):c.646C>G (p.Leu216Val)	64072	CDH23	Pathogenic	GRCh38	3383943
+single nucleotide variant	NM_022124.6(CDH23):c.8191C>T (p.Gln2731Ter)	64072	CDH23	Likely pathogenic	GRCh38	3597098
+single nucleotide variant	NM_022124.6(CDH23):c.9511-2A>C	64072	CDH23	Likely pathogenic	GRCh38	3597193
+single nucleotide variant	NM_022124.6(CDH23):c.9634-1G>A	64072	CDH23	Likely pathogenic	GRCh38	3597200
+single nucleotide variant	NM_022124.6(CDH23):c.289-1G>C	64072	CDH23	Likely pathogenic	GRCh38	3596743
+single nucleotide variant	NM_022124.6(CDH23):c.337-2A>G	64072	CDH23	Likely pathogenic	GRCh38	3596749
+single nucleotide variant	NM_022124.6(CDH23):c.833-1G>A	64072	CDH23	Likely pathogenic	GRCh38	3596758
+single nucleotide variant	NM_022124.6(CDH23):c.918C>G (p.Tyr306Ter)	64072	CDH23	Likely pathogenic	GRCh38	3596763
+single nucleotide variant	NM_022124.6(CDH23):c.1395C>A (p.Tyr465Ter)	64072	CDH23	Likely pathogenic	GRCh38	3596773
+single nucleotide variant	NM_022124.6(CDH23):c.2587+1G>T	64072	CDH23	Likely pathogenic	GRCh38	3596801
+single nucleotide variant	NM_022124.6(CDH23):c.2730C>G (p.Tyr910Ter)	64072	CDH23	Likely pathogenic	GRCh38	3596813
+single nucleotide variant	NM_022124.6(CDH23):c.4105-1G>A	64072	CDH23	Likely pathogenic	GRCh38	3596866
+single nucleotide variant	NM_022124.6(CDH23):c.5434G>T (p.Glu1812Ter)	64072	CDH23	Likely pathogenic	GRCh38	3596917
+single nucleotide variant	NM_022124.6(CDH23):c.5985C>A (p.Tyr1995Ter)	64072	CDH23	Pathogenic	GRCh38	3596931
+single nucleotide variant	NM_022124.6(CDH23):c.6254-2A>C	64072	CDH23	Likely pathogenic	GRCh38	3596964
+single nucleotide variant	NM_022124.6(CDH23):c.6973A>T (p.Lys2325Ter)	64072	CDH23	Likely pathogenic	GRCh38	3597017
+single nucleotide variant	NM_022124.6(CDH23):c.7033C>T (p.Gln2345Ter)	64072	CDH23	Likely pathogenic	GRCh38	3597025
+single nucleotide variant	NM_022124.6(CDH23):c.132G>C (p.Glu44Asp)	64072	CDH23	Likely pathogenic	GRCh38	3601133
+single nucleotide variant	NM_022124.6(CDH23):c.145+1G>C	64072	CDH23	Likely pathogenic	GRCh38	3601144
+single nucleotide variant	NM_022124.6(CDH23):c.1765G>A (p.Asp589Asn)	64072	CDH23	Likely pathogenic	GRCh38	3601165
+single nucleotide variant	NM_022124.6(CDH23):c.2333G>A (p.Trp778Ter)	64072	CDH23	Pathogenic	GRCh38	3601185
+single nucleotide variant	NM_022124.6(CDH23):c.2860G>C (p.Asp954His)	64072	CDH23	Likely pathogenic	GRCh38	3601245
+single nucleotide variant	NM_022124.6(CDH23):c.3715+1G>C	64072	CDH23	Pathogenic	GRCh38	3601266
+single nucleotide variant	NM_022124.6(CDH23):c.3923A>T (p.Asp1308Val)	64072	CDH23	Likely pathogenic	GRCh38	3601287
+single nucleotide variant	NM_022124.6(CDH23):c.3934C>T (p.Gln1312Ter)	64072	CDH23	Likely pathogenic	GRCh38	3601298
+single nucleotide variant	NM_022124.6(CDH23):c.428A>C (p.Glu143Ala)	64072	CDH23	Likely pathogenic	GRCh38	3601319
+single nucleotide variant	NM_022124.6(CDH23):c.4306C>T (p.Gln1436Ter)	64072	CDH23	Likely pathogenic	GRCh38	3601328
+single nucleotide variant	NM_022124.6(CDH23):c.5068-1G>A	64072	CDH23	Pathogenic	GRCh38	3601402
+single nucleotide variant	NM_022124.6(CDH23):c.5816G>T (p.Arg1939Met)	64072	CDH23	Likely pathogenic	GRCh38	3601443
+single nucleotide variant	NM_022124.6(CDH23):c.6240G>T (p.Glu2080Asp)	64072	CDH23	Pathogenic	GRCh38	3601471
+single nucleotide variant	NM_022124.6(CDH23):c.6374T>A (p.Ile2125Asn)	64072	CDH23	Likely pathogenic	GRCh38	3601492
+single nucleotide variant	NM_022124.6(CDH23):c.6504T>A (p.Asn2168Lys)	64072	CDH23	Likely pathogenic	GRCh38	3601512
+single nucleotide variant	NM_022124.6(CDH23):c.6713G>A (p.Gly2238Glu)	64072	CDH23	Likely pathogenic	GRCh38	3601546
+single nucleotide variant	NM_022124.6(CDH23):c.6829G>A (p.Ala2277Thr)	64072	CDH23	Likely pathogenic	GRCh38	3601555
+single nucleotide variant	NM_022124.6(CDH23):c.6919G>A (p.Glu2307Lys)	64072	CDH23	Likely pathogenic	GRCh38	3601564
+single nucleotide variant	NM_022124.6(CDH23):c.7225-1G>T	64072	CDH23	Pathogenic	GRCh38	3601593
+single nucleotide variant	NM_022124.6(CDH23):c.7922A>G (p.Asp2641Gly)	64072	CDH23	Likely pathogenic	GRCh38	3601604
+single nucleotide variant	NM_022124.6(CDH23):c.8135T>A (p.Leu2712Gln)	64072	CDH23	Likely pathogenic	GRCh38	3601668
+single nucleotide variant	NM_022124.6(CDH23):c.8317G>T (p.Glu2773Ter)	64072	CDH23	Likely pathogenic	GRCh38	3601679
+single nucleotide variant	NM_022124.6(CDH23):c.8722+1G>T	64072	CDH23	Likely pathogenic	GRCh38	3601701
+single nucleotide variant	NM_022124.6(CDH23):c.9151C>T (p.Gln3051Ter)	64072	CDH23	Pathogenic	GRCh38	3601742
+single nucleotide variant	NM_022124.6(CDH23):c.3715+1G>T	64072	CDH23	Likely pathogenic	GRCh38	3639463
+single nucleotide variant	NM_022124.6(CDH23):c.1450-1G>A	64072	CDH23	Likely pathogenic	GRCh38	3641234
+single nucleotide variant	NM_022124.6(CDH23):c.3716-2A>G	64072	CDH23	Likely pathogenic	GRCh38	3638761
+single nucleotide variant	NM_022124.6(CDH23):c.3322G>T (p.Glu1108Ter)	64072	CDH23	Pathogenic	GRCh38	3642098
+single nucleotide variant	NM_022124.6(CDH23):c.6553G>T (p.Glu2185Ter)	64072	CDH23	Pathogenic	GRCh38	3643236
+single nucleotide variant	NM_022124.6(CDH23):c.2551G>T (p.Glu851Ter)	64072	CDH23	Pathogenic	GRCh38	3651713
+single nucleotide variant	NM_022124.6(CDH23):c.8887G>T (p.Glu2963Ter)	64072	CDH23	Pathogenic	GRCh38	3661814
+single nucleotide variant	NM_022124.6(CDH23):c.2397+1G>C	64072	CDH23	Likely pathogenic	GRCh38	3724300
+single nucleotide variant	NM_022124.6(CDH23):c.6829+2T>C	64072	CDH23	Likely pathogenic	GRCh38	3777309
+single nucleotide variant	NM_022124.6(CDH23):c.6089A>G (p.Glu2030Gly)	64072	CDH23	Likely pathogenic	GRCh38	3898863
+single nucleotide variant	NM_022124.6(CDH23):c.3367C>T (p.Gln1123Ter)	64072	CDH23	Pathogenic	GRCh38	4055753
+single nucleotide variant	NM_022124.6(CDH23):c.8488C>T (p.Gln2830Ter)	64072	CDH23	Likely pathogenic	GRCh38	4064046
+single nucleotide variant	NM_022124.6(CDH23):c.4357C>T (p.Gln1453Ter)	64072	CDH23	Likely pathogenic	GRCh38	4064099
+single nucleotide variant	NM_022124.6(CDH23):c.1987-1G>C	64072	CDH23	Likely pathogenic	GRCh38	4064138
+single nucleotide variant	NM_022124.6(CDH23):c.7918A>T (p.Lys2640Ter)	64072	CDH23	Likely pathogenic	GRCh38	4064195
+single nucleotide variant	NM_022124.6(CDH23):c.2349C>A (p.Tyr783Ter)	64072	CDH23	Pathogenic	GRCh38	4070990
+single nucleotide variant	NM_022124.6(CDH23):c.5368+1G>T	64072	CDH23	Likely pathogenic	GRCh38	4075645
+single nucleotide variant	NM_022124.6(CDH23):c.9634-2A>G	64072	CDH23	Likely pathogenic	GRCh38	4077210
+single nucleotide variant	NM_022124.6(CDH23):c.5750A>G (p.Glu1917Gly)	64072	CDH23	Likely pathogenic	GRCh38	4687931
+single nucleotide variant	NM_022124.6(CDH23):c.7086C>G (p.Tyr2362Ter)	64072	CDH23	Pathogenic	GRCh38	4689732
+single nucleotide variant	NM_022124.6(CDH23):c.9199-2A>C	64072	CDH23	Likely pathogenic	GRCh38	4733370
+single nucleotide variant	NM_022124.6(CDH23):c.67+1G>C	64072	CDH23	Likely pathogenic	GRCh38	4734970
+single nucleotide variant	NM_022124.6(CDH23):c.1281C>A (p.Tyr427Ter)	64072	CDH23	Pathogenic	GRCh38	4724080
+single nucleotide variant	NM_022124.6(CDH23):c.1624G>T (p.Glu542Ter)	64072	CDH23	Pathogenic	GRCh38	4750130
+single nucleotide variant	NM_022124.6(CDH23):c.1384C>T (p.Gln462Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816070
+single nucleotide variant	NM_022124.6(CDH23):c.427G>T (p.Glu143Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816080
+single nucleotide variant	NM_022124.6(CDH23):c.4688T>C (p.Leu1563Pro)	64072	CDH23	Likely pathogenic	GRCh38	4816081
+single nucleotide variant	NM_022124.6(CDH23):c.5712+2T>G	64072	CDH23	Likely pathogenic	GRCh38	4816085
+single nucleotide variant	NM_022124.6(CDH23):c.5892C>G (p.Tyr1964Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816086
+single nucleotide variant	NM_022124.6(CDH23):c.6254-1G>A	64072	CDH23	Likely pathogenic	GRCh38	4816087
+single nucleotide variant	NM_022124.6(CDH23):c.6268C>T (p.Gln2090Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816089
+single nucleotide variant	NM_022124.6(CDH23):c.6999C>A (p.Tyr2333Ter)	64072	CDH23	Pathogenic	GRCh38	4816094
+single nucleotide variant	NM_022124.6(CDH23):c.8064+1G>C	64072	CDH23	Likely pathogenic	GRCh38	4816095
+single nucleotide variant	NM_022124.6(CDH23):c.8707C>T (p.Gln2903Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816096
+single nucleotide variant	NM_022124.6(CDH23):c.9078-1G>C	64072	CDH23	Likely pathogenic	GRCh38	4816097
+single nucleotide variant	NM_022124.6(CDH23):c.946-1G>C	64072	CDH23	Likely pathogenic	GRCh38	4816098
+single nucleotide variant	NM_022124.6(CDH23):c.9666C>A (p.Tyr3222Ter)	64072	CDH23	Likely pathogenic	GRCh38	4816100

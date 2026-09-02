@@ -1,0 +1,103 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000235.4(LIPA):c.599T>C (p.Leu200Pro)	3988	LIPA	Pathogenic	GRCh38	77
+single nucleotide variant	NM_000235.4(LIPA):c.796G>T (p.Gly266Ter)	3988	LIPA	Pathogenic	GRCh38	78
+single nucleotide variant	NM_000235.4(LIPA):c.894+1G>A	3988	LIPA	Pathogenic	GRCh38	81
+single nucleotide variant	NM_000235.4(LIPA):c.129C>G (p.Tyr43Ter)	3988	LIPA	Pathogenic	GRCh38	82
+single nucleotide variant	NM_000235.4(LIPA):c.260G>T (p.Gly87Val)	3988	LIPA	Pathogenic	GRCh38	88770
+single nucleotide variant	NM_000235.4(LIPA):c.894G>A (p.Gln298=)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	203361
+single nucleotide variant	NM_000235.4(LIPA):c.253C>T (p.Gln85Ter)	3988	LIPA	Pathogenic	GRCh38	208594
+single nucleotide variant	NM_000235.4(LIPA):c.894G>C (p.Gln298His)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	430634
+single nucleotide variant	NM_000235.4(LIPA):c.656T>G (p.Leu219Ter)	3988	LIPA	Pathogenic	GRCh38	458507
+single nucleotide variant	NM_000235.4(LIPA):c.428+1G>A	3988	LIPA	Pathogenic	GRCh38	557940
+single nucleotide variant	NM_000235.4(LIPA):c.419G>A (p.Trp140Ter)	3988	LIPA	Pathogenic	GRCh38	554864
+single nucleotide variant	NM_000235.4(LIPA):c.283T>A (p.Trp95Arg)	3988	LIPA	Likely pathogenic	GRCh38	553714
+single nucleotide variant	NM_000235.4(LIPA):c.1024G>A (p.Gly342Arg)	3988	LIPA	Pathogenic	GRCh38	555337
+single nucleotide variant	NM_000235.4(LIPA):c.822+1G>A	3988	LIPA	Likely pathogenic	GRCh38	550739
+single nucleotide variant	NM_000235.4(LIPA):c.676-2A>G	3988	LIPA	Likely pathogenic	GRCh38	554255
+single nucleotide variant	NM_000235.4(LIPA):c.309C>A (p.Ser103Arg)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	554874
+single nucleotide variant	NM_000235.4(LIPA):c.193C>T (p.Arg65Ter)	3988	LIPA	Pathogenic	GRCh38	558291
+single nucleotide variant	NM_000235.4(LIPA):c.111+2T>G	3988	LIPA	Likely pathogenic	GRCh38	554999
+single nucleotide variant	NM_000235.4(LIPA):c.894+2T>C	3988	LIPA	Likely pathogenic	GRCh38	557067
+single nucleotide variant	NM_000235.4(LIPA):c.892C>T (p.Gln298Ter)	3988	LIPA	Pathogenic	GRCh38	556586
+single nucleotide variant	NM_000235.4(LIPA):c.883C>T (p.His295Tyr)	3988	LIPA	Likely pathogenic	GRCh38	556192
+single nucleotide variant	NM_000235.4(LIPA):c.1070T>C (p.Leu357Pro)	3988	LIPA	Likely pathogenic	GRCh38	552474
+single nucleotide variant	NM_000235.4(LIPA):c.960C>A (p.Tyr320Ter)	3988	LIPA	Likely pathogenic	GRCh38	557481
+single nucleotide variant	NM_000235.4(LIPA):c.822+1G>C	3988	LIPA	Pathogenic	GRCh38	595368
+single nucleotide variant	NM_000235.4(LIPA):c.111+1G>A	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	648013
+single nucleotide variant	NM_000235.4(LIPA):c.1163A>G (p.Tyr388Cys)	3988	LIPA	Likely pathogenic	GRCh38	695034
+single nucleotide variant	NM_000235.4(LIPA):c.1079T>A (p.Ile360Asn)	3988	LIPA	Likely pathogenic	GRCh38	695038
+single nucleotide variant	NM_000235.4(LIPA):c.1033G>A (p.Asp345Asn)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695039
+single nucleotide variant	NM_000235.4(LIPA):c.1025G>T (p.Gly342Val)	3988	LIPA	Likely pathogenic	GRCh38	695040
+single nucleotide variant	NM_000235.4(LIPA):c.1024G>T (p.Gly342Trp)	3988	LIPA	Likely pathogenic	GRCh38	695041
+single nucleotide variant	NM_000235.4(LIPA):c.920C>A (p.Ala307Asp)	3988	LIPA	Likely pathogenic	GRCh38	695045
+single nucleotide variant	NM_000235.4(LIPA):c.881T>C (p.Leu294Ser)	3988	LIPA	Likely pathogenic	GRCh38	695046
+single nucleotide variant	NM_000235.4(LIPA):c.871C>G (p.Gln291Glu)	3988	LIPA	Likely pathogenic	GRCh38	695047
+single nucleotide variant	NM_000235.4(LIPA):c.866C>G (p.Ser289Cys)	3988	LIPA	Likely pathogenic	GRCh38	695048
+single nucleotide variant	NM_000235.4(LIPA):c.863C>T (p.Thr288Ile)	3988	LIPA	Likely pathogenic	GRCh38	695049
+single nucleotide variant	NM_000235.4(LIPA):c.605C>T (p.Pro202Leu)	3988	LIPA	Likely pathogenic	GRCh38	695050
+single nucleotide variant	NM_000235.4(LIPA):c.455T>C (p.Leu152Pro)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695052
+single nucleotide variant	NM_000235.4(LIPA):c.435T>A (p.Asp145Glu)	3988	LIPA	Likely pathogenic	GRCh38	695053
+single nucleotide variant	NM_000235.4(LIPA):c.417C>A (p.Phe139Leu)	3988	LIPA	Likely pathogenic	GRCh38	695054
+single nucleotide variant	NM_000235.4(LIPA):c.386A>G (p.His129Arg)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695055
+single nucleotide variant	NM_000235.4(LIPA):c.386A>C (p.His129Pro)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695056
+single nucleotide variant	NM_000235.4(LIPA):c.377C>T (p.Ser126Phe)	3988	LIPA	Likely pathogenic	GRCh38	695057
+single nucleotide variant	NM_000235.4(LIPA):c.356A>G (p.Asn119Ser)	3988	LIPA	Likely pathogenic	GRCh38	695060
+single nucleotide variant	NM_000235.4(LIPA):c.316T>A (p.Phe106Ile)	3988	LIPA	Likely pathogenic	GRCh38	695061
+single nucleotide variant	NM_000235.4(LIPA):c.254A>G (p.Gln85Arg)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695062
+single nucleotide variant	NM_000235.4(LIPA):c.253C>A (p.Gln85Lys)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	695063
+single nucleotide variant	NM_000235.4(LIPA):c.170A>T (p.Asp57Val)	3988	LIPA	Likely pathogenic	GRCh38	695065
+single nucleotide variant	NM_000235.4(LIPA):c.158T>G (p.Val53Gly)	3988	LIPA	Likely pathogenic	GRCh38	695066
+single nucleotide variant	NM_000235.4(LIPA):c.149A>G (p.Glu50Gly)	3988	LIPA	Likely pathogenic	GRCh38	695067
+single nucleotide variant	NM_000235.4(LIPA):c.600G>A (p.Leu200=)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	867231
+single nucleotide variant	NM_000235.4(LIPA):c.406C>T (p.Gln136Ter)	3988	LIPA	Pathogenic	GRCh38	946870
+single nucleotide variant	NM_000235.4(LIPA):c.521C>T (p.Ser174Phe)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	934943
+single nucleotide variant	NM_000235.4(LIPA):c.676-2A>T	3988	LIPA	Pathogenic	GRCh38	939160
+single nucleotide variant	NM_000235.4(LIPA):c.539-2A>G	3988	LIPA	Pathogenic	GRCh38	955545
+single nucleotide variant	NM_000235.4(LIPA):c.826A>T (p.Arg276Ter)	3988	LIPA	Likely pathogenic	GRCh38	983949
+single nucleotide variant	NM_000235.4(LIPA):c.815T>A (p.Leu272Ter)	3988	LIPA	Likely pathogenic	GRCh38	983950
+single nucleotide variant	NM_000235.4(LIPA):c.805G>T (p.Glu269Ter)	3988	LIPA	Likely pathogenic	GRCh38	983951
+single nucleotide variant	NM_000235.4(LIPA):c.160G>T (p.Glu54Ter)	3988	LIPA	Likely pathogenic	GRCh38	983952
+single nucleotide variant	NM_000235.4(LIPA):c.1067T>G (p.Leu356Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	1070183
+single nucleotide variant	NM_000235.4(LIPA):c.45G>A (p.Trp15Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	1284571
+single nucleotide variant	NM_000235.4(LIPA):c.412G>T (p.Glu138Ter)	3988	LIPA	Pathogenic	GRCh38	1323237
+single nucleotide variant	NM_000235.4(LIPA):c.951T>A (p.Tyr317Ter)	3988	LIPA	Pathogenic	GRCh38	1404815
+single nucleotide variant	NM_000235.4(LIPA):c.675+2T>G	3988	LIPA	Likely pathogenic	GRCh38	1517478
+single nucleotide variant	NM_000235.4(LIPA):c.929G>A (p.Trp310Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	1455198
+single nucleotide variant	NM_000235.4(LIPA):c.1024G>C (p.Gly342Arg)	3988	LIPA	Pathogenic	GRCh38	1350454
+single nucleotide variant	NM_000235.4(LIPA):c.652C>T (p.Arg218Ter)	3988	LIPA	Pathogenic	GRCh38	1459866
+single nucleotide variant	NM_000235.4(LIPA):c.647T>A (p.Leu216Ter)	3988	LIPA	Pathogenic	GRCh38	1685926
+single nucleotide variant	NM_000235.4(LIPA):c.226A>T (p.Lys76Ter)	3988	LIPA	Likely pathogenic	GRCh38	1723993
+single nucleotide variant	NM_000235.4(LIPA):c.131G>A (p.Trp44Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	1724570
+single nucleotide variant	NM_000235.4(LIPA):c.871C>T (p.Gln291Ter)	3988	LIPA	Likely pathogenic	GRCh38	1725254
+single nucleotide variant	NM_000235.4(LIPA):c.685G>T (p.Gly229Ter)	3988	LIPA	Likely pathogenic	GRCh38	1725269
+single nucleotide variant	NM_000235.4(LIPA):c.1145A>T (p.Asp382Val)	3988	LIPA	Likely pathogenic	GRCh38	2139863
+single nucleotide variant	NM_000235.4(LIPA):c.984C>A (p.Tyr328Ter)	3988	LIPA	Pathogenic	GRCh38	2145326
+single nucleotide variant	NM_000235.4(LIPA):c.694G>T (p.Glu232Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	2192799
+single nucleotide variant	NM_000235.4(LIPA):c.112-1G>C	3988	LIPA	Likely pathogenic	GRCh38	2002985
+single nucleotide variant	NM_000235.4(LIPA):c.884A>C (p.His295Pro)	3988	LIPA	Likely pathogenic	GRCh38	2025546
+single nucleotide variant	NM_000235.4(LIPA):c.524A>C (p.Gln175Pro)	3988	LIPA	Likely pathogenic	GRCh38	2500772
+single nucleotide variant	NM_000235.4(LIPA):c.1122T>G (p.His374Gln)	3988	LIPA	Likely pathogenic	GRCh38	2505481
+single nucleotide variant	NM_000235.4(LIPA):c.428+2T>C	3988	LIPA	Likely pathogenic	GRCh38	2705768
+single nucleotide variant	NM_000235.4(LIPA):c.822+1G>T	3988	LIPA	Likely pathogenic	GRCh38	2701770
+single nucleotide variant	NM_000235.4(LIPA):c.538+5G>A	3988	LIPA	Likely pathogenic	GRCh38	2735452
+single nucleotide variant	NM_000235.4(LIPA):c.964C>T (p.Gln322Ter)	3988	LIPA	Pathogenic	GRCh38	2808179
+single nucleotide variant	NM_000235.4(LIPA):c.823-1G>A	3988	LIPA	Likely pathogenic	GRCh38	2842811
+single nucleotide variant	NM_000235.4(LIPA):c.823-2A>G	3988	LIPA	Likely pathogenic	GRCh38	2879483
+single nucleotide variant	NM_000235.4(LIPA):c.132G>A (p.Trp44Ter)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	2890181
+single nucleotide variant	NM_000235.4(LIPA):c.229+1G>A	3988	LIPA	Pathogenic	GRCh38	3338830
+single nucleotide variant	NM_000235.4(LIPA):c.883C>A (p.His295Asn)	3988	LIPA	Likely pathogenic	GRCh38	3339391
+single nucleotide variant	NM_000235.4(LIPA):c.894+1G>T	3988	LIPA	Likely pathogenic	GRCh38	3598501
+single nucleotide variant	NM_000235.4(LIPA):c.706C>T (p.Gln236Ter)	3988	LIPA	Likely pathogenic	GRCh38	3598502
+single nucleotide variant	NM_000235.4(LIPA):c.347G>A (p.Trp116Ter)	3988	LIPA	Pathogenic	GRCh38	3572000
+single nucleotide variant	NM_000235.4(LIPA):c.382A>T (p.Lys128Ter)	3988	LIPA	Pathogenic	GRCh38	3729495
+single nucleotide variant	NM_000235.4(LIPA):c.538+1G>A	3988	LIPA	Pathogenic	GRCh38	4069969
+single nucleotide variant	NM_000235.4(LIPA):c.966+2T>G	3988	LIPA	Pathogenic	GRCh38	4081719
+single nucleotide variant	NM_000235.4(LIPA):c.229+3A>C	3988	LIPA	Likely pathogenic	GRCh38	4535576
+single nucleotide variant	NM_000235.4(LIPA):c.294C>A (p.Asn98Lys)	3988	LIPA	Pathogenic/Likely pathogenic	GRCh38	4691978
+single nucleotide variant	NM_000235.4(LIPA):c.340G>T (p.Asp114Tyr)	3988	LIPA	Likely pathogenic	GRCh38	4763837
+single nucleotide variant	NM_000235.4(LIPA):c.1154G>A (p.Trp385Ter)	3988	LIPA	Likely pathogenic	GRCh38	4811079
+single nucleotide variant	NM_000235.4(LIPA):c.1075C>T (p.Gln359Ter)	3988	LIPA	Likely pathogenic	GRCh38	4817953
+single nucleotide variant	NM_000235.4(LIPA):c.230-1G>T	3988	LIPA	Likely pathogenic	GRCh38	4817954
+single nucleotide variant	NM_000235.4(LIPA):c.429-2A>T	3988	LIPA	Likely pathogenic	GRCh38	4817957
+single nucleotide variant	NM_000235.4(LIPA):c.972T>G (p.Tyr324Ter)	3988	LIPA	Likely pathogenic	GRCh38	4817962
+single nucleotide variant	NM_000235.4(LIPA):c.811A>C (p.Asn271His)	3988	LIPA	Likely pathogenic	GRCh38	4848990

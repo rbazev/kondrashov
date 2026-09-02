@@ -1,0 +1,355 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_014946.4(SPAST):c.1085C>G (p.Ser362Cys)	6683	SPAST	Pathogenic	GRCh38	5657
+single nucleotide variant	NM_014946.4(SPAST):c.1343G>A (p.Cys448Tyr)	6683	SPAST	Pathogenic	GRCh38	5658
+single nucleotide variant	NM_014946.4(SPAST):c.1495C>T (p.Arg499Cys)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	5660
+single nucleotide variant	NM_014946.4(SPAST):c.1688-2A>G	6683	SPAST	Pathogenic	GRCh38	5661
+single nucleotide variant	NM_014946.4(SPAST):c.1322A>G (p.Asp441Gly)	6683	SPAST	Pathogenic	GRCh38	5664
+single nucleotide variant	NM_014946.4(SPAST):c.1728+1G>C	6683	SPAST	Pathogenic	GRCh38	5665
+single nucleotide variant	NM_014946.4(SPAST):c.1245+4A>G	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	5666
+single nucleotide variant	NM_014946.4(SPAST):c.1031T>A (p.Ile344Lys)	6683	SPAST	Pathogenic	GRCh38	5668
+single nucleotide variant	NM_014946.4(SPAST):c.1157A>G (p.Asn386Ser)	6683	SPAST	Pathogenic	GRCh38	5669
+single nucleotide variant	NM_014946.4(SPAST):c.1409A>T (p.Asp470Val)	6683	SPAST	Pathogenic	GRCh38	5670
+single nucleotide variant	NM_014946.4(SPAST):c.1684C>G (p.Arg562Gly)	6683	SPAST	Pathogenic	GRCh38	5673
+single nucleotide variant	NM_014946.4(SPAST):c.1216A>G (p.Ile406Val)	6683	SPAST	Pathogenic	GRCh38	5675
+single nucleotide variant	NM_014946.4(SPAST):c.1335C>A (p.Ser445Arg)	6683	SPAST	Pathogenic	GRCh38	5676
+single nucleotide variant	NM_014946.4(SPAST):c.1165A>G (p.Thr389Ala)	6683	SPAST	Pathogenic	GRCh38	188190
+single nucleotide variant	NM_014946.4(SPAST):c.1291C>T (p.Arg431Ter)	6683	SPAST	Pathogenic	GRCh38	188179
+single nucleotide variant	NM_014946.4(SPAST):c.1414-1G>C	6683	SPAST	Pathogenic	GRCh38	188227
+single nucleotide variant	NM_014946.4(SPAST):c.1637G>A (p.Gly546Glu)	6683	SPAST	Pathogenic	GRCh38	188083
+single nucleotide variant	NM_014946.4(SPAST):c.1168A>G (p.Met390Val)	6683	SPAST	Pathogenic	GRCh38	208644
+single nucleotide variant	NM_014946.4(SPAST):c.1417C>T (p.Gln473Ter)	6683	SPAST	Pathogenic	GRCh38	216111
+single nucleotide variant	NM_014946.4(SPAST):c.1685G>A (p.Arg562Gln)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	217004
+single nucleotide variant	NM_014946.4(SPAST):c.1507C>T (p.Arg503Trp)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	219575
+single nucleotide variant	NM_014946.4(SPAST):c.1676G>A (p.Gly559Asp)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	219608
+single nucleotide variant	NM_014946.4(SPAST):c.1634C>G (p.Ser545Ter)	6683	SPAST	Likely pathogenic	GRCh38	225068
+single nucleotide variant	NM_014946.4(SPAST):c.1245+1G>A	6683	SPAST	Pathogenic	GRCh38	226113
+single nucleotide variant	NM_014946.4(SPAST):c.1378C>T (p.Arg460Cys)	6683	SPAST	Pathogenic	GRCh38	240948
+single nucleotide variant	NM_014946.4(SPAST):c.1496G>A (p.Arg499His)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	240950
+single nucleotide variant	NM_014946.4(SPAST):c.1675G>C (p.Gly559Arg)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	240952
+single nucleotide variant	NM_014946.4(SPAST):c.508C>T (p.Gln170Ter)	6683	SPAST	Pathogenic	GRCh38	265647
+single nucleotide variant	NM_014946.4(SPAST):c.1670C>G (p.Ala557Gly)	6683	SPAST	Likely pathogenic	GRCh38	374070
+single nucleotide variant	NM_014946.4(SPAST):c.1066G>A (p.Glu356Lys)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	374641
+single nucleotide variant	NM_014946.4(SPAST):c.415+1G>T	6683	SPAST	Pathogenic	GRCh38	381666
+single nucleotide variant	NM_014946.4(SPAST):c.871-1G>C	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	392516
+single nucleotide variant	NM_014946.4(SPAST):c.1111C>T (p.Leu371Phe)	6683	SPAST	Likely pathogenic	GRCh38	397539
+single nucleotide variant	NM_014946.4(SPAST):c.1173+1G>A	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	409030
+single nucleotide variant	NM_014946.4(SPAST):c.1276C>G (p.Leu426Val)	6683	SPAST	Pathogenic	GRCh38	409031
+single nucleotide variant	NM_014946.4(SPAST):c.1483G>A (p.Ala495Thr)	6683	SPAST	Pathogenic	GRCh38	409032
+single nucleotide variant	NM_014946.4(SPAST):c.127G>T (p.Glu43Ter)	6683	SPAST	Pathogenic	GRCh38	409028
+single nucleotide variant	NM_014946.4(SPAST):c.1477G>T (p.Asp493Tyr)	6683	SPAST	Likely pathogenic	GRCh38	417627
+single nucleotide variant	NM_014946.4(SPAST):c.1225G>A (p.Ala409Thr)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	418502
+single nucleotide variant	NM_014946.4(SPAST):c.1303C>T (p.Pro435Ser)	6683	SPAST	Likely pathogenic	GRCh38	423180
+single nucleotide variant	NM_014946.4(SPAST):c.1729-1G>A	6683	SPAST	Pathogenic	GRCh38	419590
+single nucleotide variant	NM_014946.4(SPAST):c.1133T>A (p.Leu378Gln)	6683	SPAST	Pathogenic	GRCh38	424653
+single nucleotide variant	NM_014946.4(SPAST):c.1169T>C (p.Met390Thr)	6683	SPAST	Likely pathogenic	GRCh38	430454
+single nucleotide variant	NM_014946.4(SPAST):c.1170G>A (p.Met390Ile)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	430448
+single nucleotide variant	NM_014946.4(SPAST):c.1334G>C (p.Ser445Thr)	6683	SPAST	Likely pathogenic	GRCh38	430223
+single nucleotide variant	NM_014946.4(SPAST):c.1714A>G (p.Met572Val)	6683	SPAST	Likely pathogenic	GRCh38	429935
+single nucleotide variant	NM_014946.4(SPAST):c.1112T>G (p.Leu371Arg)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	432721
+single nucleotide variant	NM_014946.4(SPAST):c.1413+1G>T	6683	SPAST	Pathogenic	GRCh38	431996
+single nucleotide variant	NM_014946.4(SPAST):c.1536+1G>C	6683	SPAST	Pathogenic	GRCh38	444494
+single nucleotide variant	NM_014946.4(SPAST):c.734C>G (p.Ser245Ter)	6683	SPAST	Pathogenic	GRCh38	448453
+single nucleotide variant	NM_014946.4(SPAST):c.782C>A (p.Ser261Ter)	6683	SPAST	Pathogenic	GRCh38	448454
+single nucleotide variant	NM_014946.4(SPAST):c.838C>T (p.Gln280Ter)	6683	SPAST	Pathogenic	GRCh38	448456
+single nucleotide variant	NM_014946.4(SPAST):c.871-2A>T	6683	SPAST	Pathogenic	GRCh38	448457
+single nucleotide variant	NM_014946.4(SPAST):c.1196C>T (p.Ser399Leu)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	448442
+single nucleotide variant	NM_014946.4(SPAST):c.1276C>T (p.Leu426Phe)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	448444
+single nucleotide variant	NM_014946.4(SPAST):c.1684C>T (p.Arg562Ter)	6683	SPAST	Pathogenic	GRCh38	448449
+single nucleotide variant	NM_014946.4(SPAST):c.1164G>T (p.Lys388Asn)	6683	SPAST	Pathogenic	GRCh38	450255
+single nucleotide variant	NM_014946.4(SPAST):c.1494-2A>C	6683	SPAST	Pathogenic	GRCh38	468568
+single nucleotide variant	NM_014946.4(SPAST):c.421C>T (p.Gln141Ter)	6683	SPAST	Pathogenic	GRCh38	468571
+single nucleotide variant	NM_014946.4(SPAST):c.870G>A (p.Lys290=)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	468575
+single nucleotide variant	NM_014946.4(SPAST):c.1196C>G (p.Ser399Trp)	6683	SPAST	Pathogenic	GRCh38	468561
+single nucleotide variant	NM_014946.4(SPAST):c.1412G>A (p.Gly471Asp)	6683	SPAST	Pathogenic	GRCh38	468565
+single nucleotide variant	NM_014946.4(SPAST):c.1413+5G>C	6683	SPAST	Likely pathogenic	GRCh38	468566
+single nucleotide variant	NM_014946.4(SPAST):c.1494-1G>C	6683	SPAST	Pathogenic	GRCh38	468567
+single nucleotide variant	NM_014946.4(SPAST):c.1616+1G>C	6683	SPAST	Pathogenic	GRCh38	468570
+single nucleotide variant	NM_014946.4(SPAST):c.1169T>A (p.Met390Lys)	6683	SPAST	Pathogenic	GRCh38	488605
+single nucleotide variant	NM_014946.4(SPAST):c.1484C>T (p.Ala495Val)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	488606
+single nucleotide variant	NM_014946.4(SPAST):c.841G>T (p.Gly281Ter)	6683	SPAST	Pathogenic	GRCh38	489004
+single nucleotide variant	NM_014946.4(SPAST):c.1459A>G (p.Asn487Asp)	6683	SPAST	Likely pathogenic	GRCh38	521854
+single nucleotide variant	NM_014946.4(SPAST):c.870+1G>A	6683	SPAST	Pathogenic	GRCh38	523508
+single nucleotide variant	NM_014946.4(SPAST):c.1039C>T (p.Gln347Ter)	6683	SPAST	Pathogenic	GRCh38	523507
+single nucleotide variant	NM_014946.4(SPAST):c.334G>T (p.Glu112Ter)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	523792
+single nucleotide variant	NM_014946.4(SPAST):c.156T>G (p.Tyr52Ter)	6683	SPAST	Pathogenic	GRCh38	536435
+single nucleotide variant	NM_014946.4(SPAST):c.1252G>T (p.Glu418Ter)	6683	SPAST	Pathogenic	GRCh38	536439
+single nucleotide variant	NM_014946.4(SPAST):c.1103T>C (p.Phe368Ser)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	536436
+single nucleotide variant	NM_014946.4(SPAST):c.1456A>G (p.Thr486Ala)	6683	SPAST	Pathogenic	GRCh38	536441
+single nucleotide variant	NM_014946.4(SPAST):c.1775T>A (p.Ile592Lys)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	536446
+single nucleotide variant	NM_014946.4(SPAST):c.444G>A (p.Trp148Ter)	6683	SPAST	Pathogenic	GRCh38	536448
+single nucleotide variant	NM_014946.4(SPAST):c.1121C>T (p.Pro374Leu)	6683	SPAST	Pathogenic	GRCh38	536437
+single nucleotide variant	NM_014946.4(SPAST):c.1348A>G (p.Arg450Gly)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	536442
+single nucleotide variant	NM_014946.4(SPAST):c.1494G>C (p.Arg498Ser)	6683	SPAST	Pathogenic	GRCh38	536434
+single nucleotide variant	NM_014946.4(SPAST):c.1573C>T (p.Gln525Ter)	6683	SPAST	Pathogenic	GRCh38	536451
+single nucleotide variant	NM_014946.4(SPAST):c.1375A>G (p.Arg459Gly)	6683	SPAST	Pathogenic	GRCh38	559624
+single nucleotide variant	NM_014946.4(SPAST):c.1451G>A (p.Gly484Asp)	6683	SPAST	Likely pathogenic	GRCh38	567369
+single nucleotide variant	NM_014946.4(SPAST):c.1537-11A>G	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	566206
+single nucleotide variant	NM_014946.4(SPAST):c.1729-2A>G	6683	SPAST	Pathogenic	GRCh38	576888
+single nucleotide variant	NM_014946.4(SPAST):c.1258G>C (p.Glu420Gln)	6683	SPAST	Pathogenic	GRCh38	576595
+single nucleotide variant	NM_014946.4(SPAST):c.1494-2A>G	6683	SPAST	Pathogenic	GRCh38	569227
+single nucleotide variant	NM_014946.4(SPAST):c.1139T>C (p.Leu380Pro)	6683	SPAST	Likely pathogenic	GRCh38	566837
+single nucleotide variant	NM_014946.4(SPAST):c.1617-1G>A	6683	SPAST	Pathogenic	GRCh38	574791
+single nucleotide variant	NM_014946.4(SPAST):c.1261A>G (p.Lys421Glu)	6683	SPAST	Likely pathogenic	GRCh38	571473
+single nucleotide variant	NM_014946.4(SPAST):c.1374T>G (p.Ser458Arg)	6683	SPAST	Pathogenic	GRCh38	571926
+single nucleotide variant	NM_014946.4(SPAST):c.1457C>T (p.Thr486Ile)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	578312
+single nucleotide variant	NM_014946.4(SPAST):c.156T>A (p.Tyr52Ter)	6683	SPAST	Pathogenic	GRCh38	586662
+single nucleotide variant	NM_014946.4(SPAST):c.746C>G (p.Ser249Ter)	6683	SPAST	Pathogenic	GRCh38	586665
+single nucleotide variant	NM_014946.4(SPAST):c.1413+5G>A	6683	SPAST	Pathogenic	GRCh38	586660
+single nucleotide variant	NM_014946.4(SPAST):c.1586T>A (p.Leu529Ter)	6683	SPAST	Pathogenic	GRCh38	586663
+single nucleotide variant	NM_014946.4(SPAST):c.1666G>A (p.Ala556Thr)	6683	SPAST	Likely pathogenic	GRCh38	623232
+single nucleotide variant	NM_014946.4(SPAST):c.1174-1G>A	6683	SPAST	Pathogenic	GRCh38	635759
+single nucleotide variant	NM_014946.4(SPAST):c.443G>A (p.Trp148Ter)	6683	SPAST	Pathogenic	GRCh38	642650
+single nucleotide variant	NM_014946.4(SPAST):c.1151C>T (p.Pro384Leu)	6683	SPAST	Pathogenic	GRCh38	660105
+single nucleotide variant	NM_014946.4(SPAST):c.1220G>A (p.Ser407Asn)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	665622
+single nucleotide variant	NM_014946.4(SPAST):c.1238C>T (p.Ser413Leu)	6683	SPAST	Pathogenic	GRCh38	645183
+single nucleotide variant	NM_014946.4(SPAST):c.1360G>A (p.Glu454Lys)	6683	SPAST	Pathogenic	GRCh38	665112
+single nucleotide variant	NM_014946.4(SPAST):c.1005-1G>A	6683	SPAST	Pathogenic	GRCh38	650879
+single nucleotide variant	NM_014946.4(SPAST):c.1688-1G>A	6683	SPAST	Pathogenic	GRCh38	649713
+single nucleotide variant	NM_014946.4(SPAST):c.1107A>G (p.Thr369=)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	758636
+single nucleotide variant	NM_014946.4(SPAST):c.1037G>T (p.Gly346Val)	6683	SPAST	Likely pathogenic	GRCh38	801660
+single nucleotide variant	NM_014946.4(SPAST):c.1174-2A>T	6683	SPAST	Pathogenic	GRCh38	801662
+single nucleotide variant	NM_014946.4(SPAST):c.1496G>T (p.Arg499Leu)	6683	SPAST	Likely pathogenic	GRCh38	801664
+single nucleotide variant	NM_014946.4(SPAST):c.1838A>G (p.Asp613Gly)	6683	SPAST	Likely pathogenic	GRCh38	801665
+single nucleotide variant	NM_014946.4(SPAST):c.1841C>T (p.Thr614Ile)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	801666
+single nucleotide variant	NM_014946.4(SPAST):c.364C>T (p.Gln122Ter)	6683	SPAST	Pathogenic	GRCh38	805513
+single nucleotide variant	NM_014946.4(SPAST):c.943A>T (p.Lys315Ter)	6683	SPAST	Likely pathogenic	GRCh38	805514
+single nucleotide variant	NM_014946.4(SPAST):c.1386A>C (p.Lys462Asn)	6683	SPAST	Likely pathogenic	GRCh38	805508
+single nucleotide variant	NM_014946.4(SPAST):c.1174-1G>C	6683	SPAST	Pathogenic	GRCh38	805506
+single nucleotide variant	NM_014946.4(SPAST):c.1413+1G>A	6683	SPAST	Pathogenic	GRCh38	805511
+single nucleotide variant	NM_014946.4(SPAST):c.1617-2A>G	6683	SPAST	Pathogenic	GRCh38	805512
+single nucleotide variant	NM_014946.4(SPAST):c.1670C>T (p.Ala557Val)	6683	SPAST	Likely pathogenic	GRCh38	808723
+single nucleotide variant	NM_014946.4(SPAST):c.1040A>C (p.Gln347Pro)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	855431
+single nucleotide variant	NM_014946.4(SPAST):c.1067A>G (p.Glu356Gly)	6683	SPAST	Pathogenic	GRCh38	841466
+single nucleotide variant	NM_014946.4(SPAST):c.1159G>A (p.Gly387Arg)	6683	SPAST	Likely pathogenic	GRCh38	847453
+single nucleotide variant	NM_014946.4(SPAST):c.1390G>T (p.Glu464Ter)	6683	SPAST	Pathogenic	GRCh38	848809
+single nucleotide variant	NM_014946.4(SPAST):c.1601T>C (p.Leu534Pro)	6683	SPAST	Pathogenic	GRCh38	849154
+single nucleotide variant	NM_014946.4(SPAST):c.1785C>G (p.Ser595Arg)	6683	SPAST	Likely pathogenic	GRCh38	857953
+single nucleotide variant	NM_014946.4(SPAST):c.683-1G>C	6683	SPAST	Pathogenic	GRCh38	871086
+single nucleotide variant	NM_014946.4(SPAST):c.716T>G (p.Leu239Ter)	6683	SPAST	Pathogenic	GRCh38	871087
+single nucleotide variant	NM_014946.4(SPAST):c.1082C>T (p.Pro361Leu)	6683	SPAST	Pathogenic	GRCh38	871088
+single nucleotide variant	NM_014946.4(SPAST):c.1104C>G (p.Phe368Leu)	6683	SPAST	Pathogenic	GRCh38	871090
+single nucleotide variant	NM_014946.4(SPAST):c.1540A>G (p.Arg514Gly)	6683	SPAST	Pathogenic	GRCh38	871420
+single nucleotide variant	NM_014946.4(SPAST):c.870+1G>T	6683	SPAST	Pathogenic	GRCh38	931483
+single nucleotide variant	NM_014946.4(SPAST):c.1325A>T (p.Glu442Val)	6683	SPAST	Likely pathogenic	GRCh38	945131
+single nucleotide variant	NM_014946.4(SPAST):c.928A>T (p.Lys310Ter)	6683	SPAST	Pathogenic	GRCh38	943590
+single nucleotide variant	NM_014946.4(SPAST):c.1250G>A (p.Gly417Glu)	6683	SPAST	Pathogenic	GRCh38	943524
+single nucleotide variant	NM_014946.4(SPAST):c.1646T>C (p.Leu549Pro)	6683	SPAST	Likely pathogenic	GRCh38	940018
+single nucleotide variant	NM_014946.4(SPAST):c.1004+1G>C	6683	SPAST	Pathogenic	GRCh38	943144
+single nucleotide variant	NM_014946.4(SPAST):c.1537-1G>A	6683	SPAST	Pathogenic	GRCh38	935243
+single nucleotide variant	NM_014946.4(SPAST):c.1098+1G>A	6683	SPAST	Pathogenic	GRCh38	947424
+single nucleotide variant	NM_014946.4(SPAST):c.1493+1G>A	6683	SPAST	Pathogenic	GRCh38	948187
+single nucleotide variant	NM_014946.4(SPAST):c.302C>A (p.Ser101Ter)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	959690
+single nucleotide variant	NM_014946.4(SPAST):c.1322A>T (p.Asp441Val)	6683	SPAST	Likely pathogenic	GRCh38	964496
+single nucleotide variant	NM_014946.4(SPAST):c.1468C>T (p.Gln490Ter)	6683	SPAST	Pathogenic	GRCh38	955753
+single nucleotide variant	NM_014946.4(SPAST):c.1322-2A>G	6683	SPAST	Pathogenic	GRCh38	981626
+single nucleotide variant	NM_014946.4(SPAST):c.238C>T (p.Gln80Ter)	6683	SPAST	Pathogenic	GRCh38	987043
+single nucleotide variant	NM_014946.4(SPAST):c.424A>T (p.Lys142Ter)	6683	SPAST	Pathogenic	GRCh38	986933
+single nucleotide variant	NM_014946.4(SPAST):c.880A>T (p.Lys294Ter)	6683	SPAST	Pathogenic	GRCh38	986861
+single nucleotide variant	NM_014946.4(SPAST):c.1063C>T (p.Gln355Ter)	6683	SPAST	Pathogenic	GRCh38	987085
+single nucleotide variant	NM_014946.4(SPAST):c.1111C>G (p.Leu371Val)	6683	SPAST	Likely pathogenic	GRCh38	986901
+single nucleotide variant	NM_014946.4(SPAST):c.1321G>T (p.Asp441Tyr)	6683	SPAST	Likely pathogenic	GRCh38	987331
+single nucleotide variant	NM_014946.4(SPAST):c.1379G>A (p.Arg460His)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	987211
+single nucleotide variant	NM_014946.4(SPAST):c.1493+2T>A	6683	SPAST	Pathogenic	GRCh38	987203
+single nucleotide variant	NM_014946.4(SPAST):c.1537-1G>T	6683	SPAST	Likely pathogenic	GRCh38	987024
+single nucleotide variant	NM_014946.4(SPAST):c.165C>A (p.Tyr55Ter)	6683	SPAST	Pathogenic	GRCh38	988970
+single nucleotide variant	NM_014946.4(SPAST):c.447T>A (p.Tyr149Ter)	6683	SPAST	Pathogenic	GRCh38	989091
+single nucleotide variant	NM_014946.4(SPAST):c.577C>T (p.Gln193Ter)	6683	SPAST	Pathogenic	GRCh38	989092
+single nucleotide variant	NM_014946.4(SPAST):c.748A>T (p.Lys250Ter)	6683	SPAST	Pathogenic	GRCh38	989093
+single nucleotide variant	NM_014946.4(SPAST):c.807C>G (p.Tyr269Ter)	6683	SPAST	Pathogenic	GRCh38	989094
+single nucleotide variant	NM_014946.4(SPAST):c.870+3A>G	6683	SPAST	Pathogenic	GRCh38	989095
+single nucleotide variant	NM_014946.4(SPAST):c.955A>T (p.Asn319Tyr)	6683	SPAST	Pathogenic	GRCh38	989097
+single nucleotide variant	NM_014946.4(SPAST):c.983T>C (p.Ile328Thr)	6683	SPAST	Pathogenic	GRCh38	989098
+single nucleotide variant	NM_014946.4(SPAST):c.1004+1G>T	6683	SPAST	Pathogenic	GRCh38	989100
+single nucleotide variant	NM_014946.4(SPAST):c.1004+2T>G	6683	SPAST	Pathogenic	GRCh38	989099
+single nucleotide variant	NM_014946.4(SPAST):c.1004+5G>T	6683	SPAST	Pathogenic	GRCh38	989101
+single nucleotide variant	NM_014946.4(SPAST):c.1047G>C (p.Leu349Phe)	6683	SPAST	Pathogenic	GRCh38	989102
+single nucleotide variant	NM_014946.4(SPAST):c.1085C>T (p.Ser362Phe)	6683	SPAST	Pathogenic	GRCh38	989103
+single nucleotide variant	NM_014946.4(SPAST):c.1098+2T>A	6683	SPAST	Pathogenic	GRCh38	989104
+single nucleotide variant	NM_014946.4(SPAST):c.1099-1G>A	6683	SPAST	Pathogenic	GRCh38	989105
+single nucleotide variant	NM_014946.4(SPAST):c.1148C>G (p.Pro383Arg)	6683	SPAST	Pathogenic	GRCh38	989107
+single nucleotide variant	NM_014946.4(SPAST):c.1181C>A (p.Ala394Glu)	6683	SPAST	Pathogenic	GRCh38	989108
+single nucleotide variant	NM_014946.4(SPAST):c.1219A>C (p.Ser407Arg)	6683	SPAST	Pathogenic	GRCh38	989109
+single nucleotide variant	NM_014946.4(SPAST):c.1226C>T (p.Ala409Val)	6683	SPAST	Pathogenic	GRCh38	989110
+single nucleotide variant	NM_014946.4(SPAST):c.1242A>G (p.Lys414=)	6683	SPAST	Pathogenic	GRCh38	989111
+single nucleotide variant	NM_014946.4(SPAST):c.1245+3G>C	6683	SPAST	Pathogenic	GRCh38	989112
+single nucleotide variant	NM_014946.4(SPAST):c.1253A>G (p.Glu418Gly)	6683	SPAST	Pathogenic	GRCh38	989113
+single nucleotide variant	NM_014946.4(SPAST):c.1266G>C (p.Leu422Phe)	6683	SPAST	Pathogenic	GRCh38	989115
+single nucleotide variant	NM_014946.4(SPAST):c.1271G>C (p.Arg424Thr)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	989116
+single nucleotide variant	NM_014946.4(SPAST):c.1306T>C (p.Ser436Pro)	6683	SPAST	Pathogenic	GRCh38	989117
+single nucleotide variant	NM_014946.4(SPAST):c.1307C>A (p.Ser436Tyr)	6683	SPAST	Pathogenic	GRCh38	989118
+single nucleotide variant	NM_014946.4(SPAST):c.1321+1G>A	6683	SPAST	Pathogenic	GRCh38	989120
+single nucleotide variant	NM_014946.4(SPAST):c.1321+2T>G	6683	SPAST	Pathogenic	GRCh38	989119
+single nucleotide variant	NM_014946.4(SPAST):c.1322-2A>C	6683	SPAST	Pathogenic	GRCh38	989173
+single nucleotide variant	NM_014946.4(SPAST):c.1384A>C (p.Lys462Gln)	6683	SPAST	Pathogenic	GRCh38	989175
+single nucleotide variant	NM_014946.4(SPAST):c.1405T>G (p.Phe469Val)	6683	SPAST	Pathogenic	GRCh38	989177
+single nucleotide variant	NM_014946.4(SPAST):c.1462A>G (p.Arg488Gly)	6683	SPAST	Pathogenic	GRCh38	989179
+single nucleotide variant	NM_014946.4(SPAST):c.1466C>T (p.Pro489Leu)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	989181
+single nucleotide variant	NM_014946.4(SPAST):c.1472A>G (p.Glu491Gly)	6683	SPAST	Pathogenic	GRCh38	989182
+single nucleotide variant	NM_014946.4(SPAST):c.1493+1G>T	6683	SPAST	Pathogenic	GRCh38	989184
+single nucleotide variant	NM_014946.4(SPAST):c.1493+2T>C	6683	SPAST	Pathogenic	GRCh38	989183
+single nucleotide variant	NM_014946.4(SPAST):c.1494-1G>A	6683	SPAST	Pathogenic	GRCh38	989185
+single nucleotide variant	NM_014946.4(SPAST):c.1591C>T (p.Gln531Ter)	6683	SPAST	Pathogenic	GRCh38	988975
+single nucleotide variant	NM_014946.4(SPAST):c.1617-2A>T	6683	SPAST	Pathogenic	GRCh38	988978
+single nucleotide variant	NM_014946.4(SPAST):c.1667C>T (p.Ala556Val)	6683	SPAST	Pathogenic	GRCh38	988979
+single nucleotide variant	NM_014946.4(SPAST):c.1688-1G>C	6683	SPAST	Pathogenic	GRCh38	988980
+single nucleotide variant	NM_014946.4(SPAST):c.1741C>T (p.Arg581Ter)	6683	SPAST	Pathogenic	GRCh38	988982
+single nucleotide variant	NM_014946.4(SPAST):c.139A>T (p.Lys47Ter)	6683	SPAST	Pathogenic	GRCh38	994979
+single nucleotide variant	NM_014946.4(SPAST):c.1250G>C (p.Gly417Ala)	6683	SPAST	Likely pathogenic	GRCh38	994784
+single nucleotide variant	NM_014946.4(SPAST):c.1738A>G (p.Ile580Val)	6683	SPAST	Likely pathogenic	GRCh38	996538
+single nucleotide variant	NM_014946.4(SPAST):c.780T>G (p.Leu260=)	6683	SPAST	Pathogenic	GRCh38	996815
+single nucleotide variant	NM_014946.4(SPAST):c.1324G>A (p.Glu442Lys)	6683	SPAST	Likely pathogenic	GRCh38	1010882
+single nucleotide variant	NM_014946.4(SPAST):c.1094C>G (p.Pro365Arg)	6683	SPAST	Likely pathogenic	GRCh38	1013406
+single nucleotide variant	NM_014946.4(SPAST):c.1349G>A (p.Arg450Lys)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1038129
+single nucleotide variant	NM_014946.4(SPAST):c.1606C>T (p.Gln536Ter)	6683	SPAST	Pathogenic	GRCh38	1065559
+single nucleotide variant	NM_014946.4(SPAST):c.1492A>G (p.Arg498Gly)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1066782
+single nucleotide variant	NM_014946.4(SPAST):c.1238C>A (p.Ser413Ter)	6683	SPAST	Pathogenic	GRCh38	1070822
+single nucleotide variant	NM_014946.4(SPAST):c.1250G>T (p.Gly417Val)	6683	SPAST	Pathogenic	GRCh38	1076310
+single nucleotide variant	NM_014946.4(SPAST):c.1728+1G>T	6683	SPAST	Pathogenic	GRCh38	1070647
+single nucleotide variant	NM_014946.4(SPAST):c.1728+2T>G	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1070648
+single nucleotide variant	NM_014946.4(SPAST):c.1849T>G (p.Ter617Glu)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1072408
+single nucleotide variant	NM_014946.4(SPAST):c.1091G>T (p.Arg364Met)	6683	SPAST	Likely pathogenic	GRCh38	1174503
+single nucleotide variant	NM_014946.4(SPAST):c.1537-8T>G	6683	SPAST	Pathogenic	GRCh38	1177433
+single nucleotide variant	NM_014946.4(SPAST):c.1414-2A>T	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1177434
+single nucleotide variant	NM_014946.4(SPAST):c.1729-1G>C	6683	SPAST	Likely pathogenic	GRCh38	1177436
+single nucleotide variant	NM_014946.4(SPAST):c.430C>T (p.Gln144Ter)	6683	SPAST	Pathogenic	GRCh38	1184950
+single nucleotide variant	NM_014946.4(SPAST):c.1411G>A (p.Gly471Ser)	6683	SPAST	Likely pathogenic	GRCh38	1184888
+single nucleotide variant	NM_014946.4(SPAST):c.1322-1G>A	6683	SPAST	Pathogenic	GRCh38	1191560
+single nucleotide variant	NM_014946.4(SPAST):c.1376G>A (p.Arg459Lys)	6683	SPAST	Likely pathogenic	GRCh38	1212849
+single nucleotide variant	NM_014946.4(SPAST):c.1054C>T (p.Gln352Ter)	6683	SPAST	Pathogenic	GRCh38	1256240
+single nucleotide variant	NM_014946.4(SPAST):c.1322-1G>T	6683	SPAST	Pathogenic	GRCh38	1256241
+single nucleotide variant	NM_014946.4(SPAST):c.1344T>A (p.Cys448Ter)	6683	SPAST	Pathogenic	GRCh38	1256242
+single nucleotide variant	NM_014946.4(SPAST):c.1413+6T>C	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1256243
+single nucleotide variant	NM_014946.4(SPAST):c.1536+1G>T	6683	SPAST	Pathogenic	GRCh38	1256244
+single nucleotide variant	NM_014946.4(SPAST):c.1382T>C (p.Leu461Pro)	6683	SPAST	Pathogenic	GRCh38	1298800
+single nucleotide variant	NM_014946.4(SPAST):c.1031T>G (p.Ile344Arg)	6683	SPAST	Likely pathogenic	GRCh38	1308637
+single nucleotide variant	NM_014946.4(SPAST):c.1493G>C (p.Arg498Thr)	6683	SPAST	Likely pathogenic	GRCh38	1335894
+single nucleotide variant	NM_014946.4(SPAST):c.1005-1G>C	6683	SPAST	Pathogenic	GRCh38	1344035
+single nucleotide variant	NM_014946.4(SPAST):c.1091G>C (p.Arg364Thr)	6683	SPAST	Likely pathogenic	GRCh38	1344037
+single nucleotide variant	NM_014946.4(SPAST):c.1151C>G (p.Pro384Arg)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1344039
+single nucleotide variant	NM_014946.4(SPAST):c.1209C>A (p.Phe403Leu)	6683	SPAST	Likely pathogenic	GRCh38	1344041
+single nucleotide variant	NM_014946.4(SPAST):c.1321+1G>T	6683	SPAST	Pathogenic	GRCh38	1344045
+single nucleotide variant	NM_014946.4(SPAST):c.1345G>T (p.Glu449Ter)	6683	SPAST	Likely pathogenic	GRCh38	1344048
+single nucleotide variant	NM_014946.4(SPAST):c.1361A>G (p.Glu454Gly)	6683	SPAST	Likely pathogenic	GRCh38	1344049
+single nucleotide variant	NM_014946.4(SPAST):c.1536G>T (p.Glu512Asp)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1344054
+single nucleotide variant	NM_014946.4(SPAST):c.361A>T (p.Lys121Ter)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1344062
+single nucleotide variant	NM_014946.4(SPAST):c.871-1G>A	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1344071
+single nucleotide variant	NM_014946.4(SPAST):c.1164G>C (p.Lys388Asn)	6683	SPAST	Pathogenic	GRCh38	1454039
+single nucleotide variant	NM_014946.4(SPAST):c.340G>T (p.Glu114Ter)	6683	SPAST	Pathogenic	GRCh38	1442664
+single nucleotide variant	NM_014946.4(SPAST):c.415+1G>A	6683	SPAST	Pathogenic	GRCh38	1442673
+single nucleotide variant	NM_014946.4(SPAST):c.1163A>G (p.Lys388Arg)	6683	SPAST	Pathogenic	GRCh38	1442734
+single nucleotide variant	NM_014946.4(SPAST):c.1081C>T (p.Pro361Ser)	6683	SPAST	Pathogenic	GRCh38	1401411
+single nucleotide variant	NM_014946.4(SPAST):c.1637G>T (p.Gly546Val)	6683	SPAST	Likely pathogenic	GRCh38	1474013
+single nucleotide variant	NM_014946.4(SPAST):c.1304C>T (p.Pro435Leu)	6683	SPAST	Pathogenic	GRCh38	1363767
+single nucleotide variant	NM_014946.4(SPAST):c.153C>G (p.Tyr51Ter)	6683	SPAST	Pathogenic	GRCh38	1369382
+single nucleotide variant	NM_014946.4(SPAST):c.1226C>A (p.Ala409Glu)	6683	SPAST	Pathogenic	GRCh38	1452772
+single nucleotide variant	NM_014946.4(SPAST):c.1005-1G>T	6683	SPAST	Pathogenic	GRCh38	1453046
+single nucleotide variant	NM_014946.4(SPAST):c.1132C>G (p.Leu378Val)	6683	SPAST	Likely pathogenic	GRCh38	1519323
+single nucleotide variant	NM_014946.4(SPAST):c.1616+1G>A	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1455024
+single nucleotide variant	NM_014946.4(SPAST):c.1260G>T (p.Glu420Asp)	6683	SPAST	Likely pathogenic	GRCh38	1348218
+single nucleotide variant	NM_014946.4(SPAST):c.1494-2A>T	6683	SPAST	Pathogenic	GRCh38	1455556
+single nucleotide variant	NM_014946.4(SPAST):c.1636G>C (p.Gly546Arg)	6683	SPAST	Pathogenic	GRCh38	1407156
+single nucleotide variant	NM_014946.4(SPAST):c.514G>T (p.Glu172Ter)	6683	SPAST	Pathogenic	GRCh38	1460436
+single nucleotide variant	NM_014946.4(SPAST):c.1148C>A (p.Pro383Gln)	6683	SPAST	Likely pathogenic	GRCh38	1675775
+single nucleotide variant	NM_014946.4(SPAST):c.1005-2A>C	6683	SPAST	Likely pathogenic	GRCh38	1678557
+single nucleotide variant	NM_014946.4(SPAST):c.1391A>G (p.Glu464Gly)	6683	SPAST	Likely pathogenic	GRCh38	1678841
+single nucleotide variant	NM_014946.4(SPAST):c.1460A>G (p.Asn487Ser)	6683	SPAST	Pathogenic	GRCh38	1679535
+single nucleotide variant	NM_014946.4(SPAST):c.1259A>G (p.Glu420Gly)	6683	SPAST	Pathogenic	GRCh38	1686225
+single nucleotide variant	NM_014946.4(SPAST):c.1268T>G (p.Val423Gly)	6683	SPAST	Likely pathogenic	GRCh38	1693295
+single nucleotide variant	NM_014946.4(SPAST):c.1754T>C (p.Phe585Ser)	6683	SPAST	Likely pathogenic	GRCh38	1694446
+single nucleotide variant	NM_014946.4(SPAST):c.1153G>T (p.Gly385Trp)	6683	SPAST	Likely pathogenic	GRCh38	1701376
+single nucleotide variant	NM_014946.4(SPAST):c.532C>T (p.Gln178Ter)	6683	SPAST	Pathogenic	GRCh38	1703877
+single nucleotide variant	NM_014946.4(SPAST):c.1303C>A (p.Pro435Thr)	6683	SPAST	Likely pathogenic	GRCh38	1709809
+single nucleotide variant	NM_014946.4(SPAST):c.1272G>C (p.Arg424Ser)	6683	SPAST	Likely pathogenic	GRCh38	1723186
+single nucleotide variant	NM_014946.4(SPAST):c.496G>T (p.Gly166Ter)	6683	SPAST	Pathogenic	GRCh38	1800493
+single nucleotide variant	NM_014946.4(SPAST):c.1550T>G (p.Leu517Trp)	6683	SPAST	Pathogenic	GRCh38	1805896
+single nucleotide variant	NM_014946.4(SPAST):c.1642G>C (p.Asp548His)	6683	SPAST	Likely pathogenic	GRCh38	1806214
+single nucleotide variant	NM_014946.4(SPAST):c.1414-2A>G	6683	SPAST	Pathogenic	GRCh38	1807001
+single nucleotide variant	NM_014946.4(SPAST):c.1536+2T>C	6683	SPAST	Pathogenic	GRCh38	1807002
+single nucleotide variant	NM_014946.4(SPAST):c.870G>C (p.Lys290Asn)	6683	SPAST	Pathogenic	GRCh38	1807003
+single nucleotide variant	NM_014946.4(SPAST):c.55C>G (p.Pro19Ala)	6683	SPAST	Likely pathogenic	GRCh38	1810212
+single nucleotide variant	NM_014946.4(SPAST):c.1634C>T (p.Ser545Leu)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	2151928
+single nucleotide variant	NM_014946.4(SPAST):c.1494-16G>A	6683	SPAST	Pathogenic	GRCh38	2199724
+single nucleotide variant	NM_014946.4(SPAST):c.1245+1G>C	6683	SPAST	Pathogenic	GRCh38	2203040
+single nucleotide variant	NM_014946.4(SPAST):c.1300C>T (p.Gln434Ter)	6683	SPAST	Pathogenic	GRCh38	2203042
+single nucleotide variant	NM_014946.4(SPAST):c.1372A>C (p.Ser458Arg)	6683	SPAST	Likely pathogenic	GRCh38	2203043
+single nucleotide variant	NM_014946.4(SPAST):c.1379G>T (p.Arg460Leu)	6683	SPAST	Pathogenic	GRCh38	2203045
+single nucleotide variant	NM_014946.4(SPAST):c.1536+1G>A	6683	SPAST	Pathogenic	GRCh38	2203047
+single nucleotide variant	NM_014946.4(SPAST):c.1710G>T (p.Lys570Asn)	6683	SPAST	Likely pathogenic	GRCh38	1879461
+single nucleotide variant	NM_014946.4(SPAST):c.1525C>T (p.Pro509Ser)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	1997879
+single nucleotide variant	NM_014946.4(SPAST):c.415+1G>C	6683	SPAST	Pathogenic	GRCh38	2015364
+single nucleotide variant	NM_014946.4(SPAST):c.1096G>T (p.Glu366Ter)	6683	SPAST	Pathogenic	GRCh38	2006505
+single nucleotide variant	NM_014946.4(SPAST):c.1646T>A (p.Leu549Gln)	6683	SPAST	Likely pathogenic	GRCh38	2020664
+single nucleotide variant	NM_014946.4(SPAST):c.237C>A (p.Cys79Ter)	6683	SPAST	Pathogenic	GRCh38	2027106
+single nucleotide variant	NM_014946.4(SPAST):c.1112T>C (p.Leu371Pro)	6683	SPAST	Pathogenic	GRCh38	2046361
+single nucleotide variant	NM_014946.4(SPAST):c.1849T>C (p.Ter617Gln)	6683	SPAST	Pathogenic	GRCh38	2044013
+single nucleotide variant	NM_014946.4(SPAST):c.1632C>A (p.Tyr544Ter)	6683	SPAST	Pathogenic	GRCh38	2098702
+single nucleotide variant	NM_014946.4(SPAST):c.1099-1G>C	6683	SPAST	Pathogenic	GRCh38	2117804
+single nucleotide variant	NM_014946.4(SPAST):c.1196C>A (p.Ser399Ter)	6683	SPAST	Likely pathogenic	GRCh38	2433699
+single nucleotide variant	NM_014946.4(SPAST):c.1536+3A>G	6683	SPAST	Likely pathogenic	GRCh38	2572064
+single nucleotide variant	NM_014946.4(SPAST):c.1322-1G>C	6683	SPAST	Pathogenic	GRCh38	2578848
+single nucleotide variant	NM_014946.4(SPAST):c.1246-1G>A	6683	SPAST	Likely pathogenic	GRCh38	2629904
+single nucleotide variant	NM_014946.4(SPAST):c.1099-2A>C	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	2630100
+single nucleotide variant	NM_014946.4(SPAST):c.1235C>T (p.Thr412Ile)	6683	SPAST	Likely pathogenic	GRCh38	2672806
+single nucleotide variant	NM_014946.4(SPAST):c.165C>G (p.Tyr55Ter)	6683	SPAST	Pathogenic	GRCh38	2684014
+single nucleotide variant	NM_014946.4(SPAST):c.870+2T>C	6683	SPAST	Pathogenic	GRCh38	2693431
+single nucleotide variant	NM_014946.4(SPAST):c.782C>G (p.Ser261Ter)	6683	SPAST	Pathogenic	GRCh38	2734148
+single nucleotide variant	NM_014946.4(SPAST):c.1004+5G>C	6683	SPAST	Likely pathogenic	GRCh38	2734149
+single nucleotide variant	NM_014946.4(SPAST):c.1391A>C (p.Glu464Ala)	6683	SPAST	Likely pathogenic	GRCh38	2734151
+single nucleotide variant	NM_014946.4(SPAST):c.1537-2A>T	6683	SPAST	Pathogenic	GRCh38	2734154
+single nucleotide variant	NM_014946.4(SPAST):c.1617-1G>T	6683	SPAST	Pathogenic	GRCh38	2734155
+single nucleotide variant	NM_014946.4(SPAST):c.1664A>G (p.Asp555Gly)	6683	SPAST	Pathogenic	GRCh38	2734157
+single nucleotide variant	NM_014946.4(SPAST):c.1844C>T (p.Thr615Ile)	6683	SPAST	Pathogenic	GRCh38	2734160
+single nucleotide variant	NM_014946.4(SPAST):c.1537-2A>C	6683	SPAST	Pathogenic	GRCh38	2758764
+single nucleotide variant	NM_014946.4(SPAST):c.1166C>T (p.Thr389Ile)	6683	SPAST	Pathogenic	GRCh38	2767964
+single nucleotide variant	NM_014946.4(SPAST):c.1363C>T (p.His455Tyr)	6683	SPAST	Pathogenic	GRCh38	2810687
+single nucleotide variant	NM_014946.4(SPAST):c.16G>T (p.Gly6Ter)	6683	SPAST	Pathogenic	GRCh38	2862316
+single nucleotide variant	NM_014946.4(SPAST):c.1273G>C (p.Ala425Pro)	6683	SPAST	Pathogenic	GRCh38	2883989
+single nucleotide variant	NM_014946.4(SPAST):c.1066G>T (p.Glu356Ter)	6683	SPAST	Pathogenic	GRCh38	2885083
+single nucleotide variant	NM_014946.4(SPAST):c.1775T>G (p.Ile592Arg)	6683	SPAST	Pathogenic	GRCh38	2910138
+single nucleotide variant	NM_014946.4(SPAST):c.469G>T (p.Glu157Ter)	6683	SPAST	Pathogenic	GRCh38	3017618
+single nucleotide variant	NM_014946.4(SPAST):c.1036G>C (p.Gly346Arg)	6683	SPAST	Likely pathogenic	GRCh38	3026606
+single nucleotide variant	NM_014946.4(SPAST):c.1076T>C (p.Ile359Thr)	6683	SPAST	Likely pathogenic	GRCh38	3220857
+single nucleotide variant	NM_014946.4(SPAST):c.1730T>C (p.Met577Thr)	6683	SPAST	Likely pathogenic	GRCh38	3256959
+single nucleotide variant	NM_014946.4(SPAST):c.1158T>G (p.Asn386Lys)	6683	SPAST	Likely pathogenic	GRCh38	3337626
+single nucleotide variant	NM_014946.4(SPAST):c.1130G>A (p.Gly377Glu)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	3340341
+single nucleotide variant	NM_014946.4(SPAST):c.403G>T (p.Glu135Ter)	6683	SPAST	Likely pathogenic	GRCh38	3340614
+single nucleotide variant	NM_014946.4(SPAST):c.1154G>A (p.Gly385Glu)	6683	SPAST	Pathogenic	GRCh38	3346317
+single nucleotide variant	NM_014946.4(SPAST):c.1245+1G>T	6683	SPAST	Pathogenic	GRCh38	3345660
+single nucleotide variant	NM_014946.4(SPAST):c.1636G>A (p.Gly546Arg)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	3378005
+single nucleotide variant	NM_014946.4(SPAST):c.1072G>T (p.Val358Phe)	6683	SPAST	Likely pathogenic	GRCh38	3378020
+single nucleotide variant	NM_014946.4(SPAST):c.1294G>T (p.Glu432Ter)	6683	SPAST	Pathogenic	GRCh38	3379374
+single nucleotide variant	NM_014946.4(SPAST):c.1115G>A (p.Arg372Lys)	6683	SPAST	Likely pathogenic	GRCh38	3381159
+single nucleotide variant	NM_014946.4(SPAST):c.427G>T (p.Glu143Ter)	6683	SPAST	Pathogenic	GRCh38	3381952
+single nucleotide variant	NM_014946.4(SPAST):c.1616+1G>T	6683	SPAST	Pathogenic	GRCh38	3382222
+single nucleotide variant	NM_014946.4(SPAST):c.1413+2T>C	6683	SPAST	Pathogenic	GRCh38	3389875
+single nucleotide variant	NM_014946.4(SPAST):c.1494G>T (p.Arg498Ser)	6683	SPAST	Pathogenic/Likely pathogenic	GRCh38	3571526
+single nucleotide variant	NM_014946.4(SPAST):c.1550T>A (p.Leu517Ter)	6683	SPAST	Pathogenic	GRCh38	3571975
+single nucleotide variant	NM_014946.4(SPAST):c.19C>T (p.Arg7Ter)	6683	SPAST	Pathogenic	GRCh38	3613286
+single nucleotide variant	NM_014946.4(SPAST):c.1099-2A>G	6683	SPAST	Pathogenic	GRCh38	3642242
+single nucleotide variant	NM_014946.4(SPAST):c.1232T>G (p.Leu411Ter)	6683	SPAST	Pathogenic	GRCh38	3721537
+single nucleotide variant	NM_014946.4(SPAST):c.1480G>T (p.Glu494Ter)	6683	SPAST	Pathogenic	GRCh38	3728712
+single nucleotide variant	NM_014946.4(SPAST):c.131C>A (p.Ser44Ter)	6683	SPAST	Pathogenic	GRCh38	3720309
+single nucleotide variant	NM_014946.4(SPAST):c.1504A>T (p.Lys502Ter)	6683	SPAST	Pathogenic	GRCh38	3720313
+single nucleotide variant	NM_014946.4(SPAST):c.1687+2T>A	6683	SPAST	Pathogenic	GRCh38	3720314
+single nucleotide variant	NM_014946.4(SPAST):c.1728+2T>C	6683	SPAST	Pathogenic	GRCh38	3720315
+single nucleotide variant	NM_014946.4(SPAST):c.1702C>T (p.Gln568Ter)	6683	SPAST	Likely pathogenic	GRCh38	3769788
+single nucleotide variant	NM_014946.4(SPAST):c.1246-1G>C	6683	SPAST	Likely pathogenic	GRCh38	3910025
+single nucleotide variant	NM_014946.4(SPAST):c.1795C>T (p.Gln599Ter)	6683	SPAST	Likely pathogenic	GRCh38	4056884
+single nucleotide variant	NM_014946.4(SPAST):c.1098+1G>T	6683	SPAST	Pathogenic	GRCh38	4070582
+single nucleotide variant	NM_014946.4(SPAST):c.1364A>G (p.His455Arg)	6683	SPAST	Likely pathogenic	GRCh38	4077158
+single nucleotide variant	NM_014946.4(SPAST):c.1265T>A (p.Leu422Ter)	6683	SPAST	Likely pathogenic	GRCh38	4086122
+single nucleotide variant	NM_014946.4(SPAST):c.1160G>T (p.Gly387Val)	6683	SPAST	Likely pathogenic	GRCh38	4292587
+single nucleotide variant	NM_014946.4(SPAST):c.1474C>T (p.Leu492Phe)	6683	SPAST	Likely pathogenic	GRCh38	4528246
+single nucleotide variant	NM_014946.4(SPAST):c.1223C>A (p.Ala408Asp)	6683	SPAST	Likely pathogenic	GRCh38	4531859
+single nucleotide variant	NM_014946.4(SPAST):c.1617-2A>C	6683	SPAST	Pathogenic	GRCh38	4531860
+single nucleotide variant	NM_014946.4(SPAST):c.1685G>C (p.Arg562Pro)	6683	SPAST	Pathogenic	GRCh38	4537476
+single nucleotide variant	NM_014946.4(SPAST):c.1634C>A (p.Ser545Ter)	6683	SPAST	Pathogenic	GRCh38	4711964
+single nucleotide variant	NM_014946.4(SPAST):c.1350A>C (p.Arg450Ser)	6683	SPAST	Likely pathogenic	GRCh38	4741781
+single nucleotide variant	NM_014946.4(SPAST):c.1141T>C (p.Phe381Leu)	6683	SPAST	Likely pathogenic	GRCh38	4746955
+single nucleotide variant	NM_014946.4(SPAST):c.1493G>T (p.Arg498Met)	6683	SPAST	Likely pathogenic	GRCh38	4746961
+single nucleotide variant	NM_014946.4(SPAST):c.503-1G>T	6683	SPAST	Likely pathogenic	GRCh38	4813916
+single nucleotide variant	NM_014946.4(SPAST):c.1562T>C (p.Leu521Pro)	6683	SPAST	Likely pathogenic	GRCh38	4845415
+single nucleotide variant	NM_014946.4(SPAST):c.1158T>A (p.Asn386Lys)	6683	SPAST	Likely pathogenic	GRCh38	4850800
+single nucleotide variant	NM_014946.4(SPAST):c.1453G>A (p.Ala485Thr)	6683	SPAST	Likely pathogenic	GRCh38	4850801
+single nucleotide variant	NM_014946.4(SPAST):c.1259A>C (p.Glu420Ala)	6683	SPAST	Likely pathogenic	GRCh38	4854368
+single nucleotide variant	NM_014946.4(SPAST):c.415+2T>G	6683	SPAST	Likely pathogenic	GRCh38	4854478

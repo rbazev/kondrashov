@@ -1,0 +1,308 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000642.3(AGL):c.16C>T (p.Gln6Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1095
+single nucleotide variant	NM_000642.3(AGL):c.2039G>A (p.Trp680Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1096
+single nucleotide variant	NM_000642.3(AGL):c.4260-12A>G	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1099
+single nucleotide variant	NM_000642.3(AGL):c.1735+1G>T	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1100
+single nucleotide variant	NM_000642.3(AGL):c.4342G>C (p.Gly1448Arg)	178	AGL	Pathogenic	GRCh38	1102
+single nucleotide variant	NM_000642.3(AGL):c.1222C>T (p.Arg408Ter)	178	AGL	Pathogenic	GRCh38	1106
+single nucleotide variant	NM_000642.3(AGL):c.3439A>G (p.Arg1147Gly)	178	AGL	Pathogenic	GRCh38	1107
+single nucleotide variant	NM_000642.3(AGL):c.3980G>A (p.Trp1327Ter)	178	AGL	Pathogenic	GRCh38	1108
+single nucleotide variant	NM_000642.3(AGL):c.2590C>T (p.Arg864Ter)	178	AGL	Pathogenic	GRCh38	21215
+single nucleotide variant	NM_000642.3(AGL):c.3682C>T (p.Arg1228Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	21216
+single nucleotide variant	NM_000642.3(AGL):c.94C>T (p.Gln32Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	188818
+single nucleotide variant	NM_000642.3(AGL):c.100C>T (p.Arg34Ter)	178	AGL	Pathogenic	GRCh38	188743
+single nucleotide variant	NM_000642.3(AGL):c.118C>T (p.Gln40Ter)	178	AGL	Pathogenic	GRCh38	189045
+single nucleotide variant	NM_000642.3(AGL):c.664+3A>G	178	AGL	Pathogenic/Likely pathogenic	GRCh38	188994
+single nucleotide variant	NM_000642.3(AGL):c.2309-1G>A	178	AGL	Pathogenic	GRCh38	188804
+single nucleotide variant	NM_000642.3(AGL):c.3297G>A (p.Trp1099Ter)	178	AGL	Pathogenic	GRCh38	188819
+single nucleotide variant	NM_000642.3(AGL):c.3444C>G (p.Tyr1148Ter)	178	AGL	Likely pathogenic	GRCh38	188939
+single nucleotide variant	NM_000642.3(AGL):c.256C>T (p.Gln86Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	196286
+single nucleotide variant	NM_000642.3(AGL):c.611T>A (p.Leu204Ter)	178	AGL	Likely pathogenic	GRCh38	242589
+single nucleotide variant	NM_000642.3(AGL):c.772T>C (p.Ser258Pro)	178	AGL	Likely pathogenic	GRCh38	265986
+single nucleotide variant	NM_000642.3(AGL):c.1282A>G (p.Arg428Gly)	178	AGL	Likely pathogenic	GRCh38	265998
+single nucleotide variant	NM_000642.3(AGL):c.2681+1G>A	178	AGL	Pathogenic	GRCh38	281229
+single nucleotide variant	NM_000642.3(AGL):c.2158-1G>A	178	AGL	Pathogenic	GRCh38	288730
+single nucleotide variant	NM_000642.3(AGL):c.22C>T (p.Arg8Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	370924
+single nucleotide variant	NM_000642.3(AGL):c.104T>G (p.Leu35Ter)	178	AGL	Pathogenic	GRCh38	370535
+single nucleotide variant	NM_000642.3(AGL):c.294-2A>T	178	AGL	Pathogenic/Likely pathogenic	GRCh38	370920
+single nucleotide variant	NM_000642.3(AGL):c.294-1G>C	178	AGL	Likely pathogenic	GRCh38	371500
+single nucleotide variant	NM_000642.3(AGL):c.1078C>T (p.His360Tyr)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	371296
+single nucleotide variant	NM_000642.3(AGL):c.1185+1G>A	178	AGL	Likely pathogenic	GRCh38	371027
+single nucleotide variant	NM_000642.3(AGL):c.1782C>A (p.Tyr594Ter)	178	AGL	Likely pathogenic	GRCh38	370531
+single nucleotide variant	NM_000642.3(AGL):c.2001+2T>C	178	AGL	Likely pathogenic	GRCh38	370710
+single nucleotide variant	NM_000642.3(AGL):c.2605C>T (p.Gln869Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	370127
+single nucleotide variant	NM_000642.3(AGL):c.2681+1G>T	178	AGL	Pathogenic/Likely pathogenic	GRCh38	371344
+single nucleotide variant	NM_000642.3(AGL):c.2929C>T (p.Arg977Ter)	178	AGL	Pathogenic	GRCh38	370992
+single nucleotide variant	NM_000642.3(AGL):c.2950-1G>A	178	AGL	Likely pathogenic	GRCh38	370819
+single nucleotide variant	NM_000642.3(AGL):c.3083+2T>C	178	AGL	Likely pathogenic	GRCh38	371033
+single nucleotide variant	NM_000642.3(AGL):c.3363-1G>A	178	AGL	Likely pathogenic	GRCh38	370470
+single nucleotide variant	NM_000642.3(AGL):c.3836+1G>A	178	AGL	Pathogenic	GRCh38	374346
+single nucleotide variant	NM_000642.3(AGL):c.4353G>T (p.Trp1451Cys)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	374339
+single nucleotide variant	NM_000642.3(AGL):c.1423+1G>T	178	AGL	Pathogenic/Likely pathogenic	GRCh38	389650
+single nucleotide variant	NM_000642.3(AGL):c.1027C>T (p.Arg343Trp)	178	AGL	Likely pathogenic	GRCh38	429532
+single nucleotide variant	NM_000642.3(AGL):c.3652C>T (p.Arg1218Ter)	178	AGL	Pathogenic	GRCh38	456492
+single nucleotide variant	NM_000642.3(AGL):c.4459C>T (p.Arg1487Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	456508
+single nucleotide variant	NM_000642.3(AGL):c.4347+1G>A	178	AGL	Pathogenic	GRCh38	456505
+single nucleotide variant	NM_000642.3(AGL):c.289C>T (p.Gln97Ter)	178	AGL	Pathogenic	GRCh38	497124
+single nucleotide variant	NM_000642.3(AGL):c.378T>A (p.Cys126Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	522549
+single nucleotide variant	NM_000642.3(AGL):c.2001+5G>A	178	AGL	Pathogenic	GRCh38	526568
+single nucleotide variant	NM_000642.3(AGL):c.967C>T (p.Arg323Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	526570
+single nucleotide variant	NM_000642.3(AGL):c.1437C>A (p.Tyr479Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	526564
+single nucleotide variant	NM_000642.3(AGL):c.1614C>G (p.Tyr538Ter)	178	AGL	Pathogenic	GRCh38	526587
+single nucleotide variant	NM_000642.3(AGL):c.82+1G>A	178	AGL	Likely pathogenic	GRCh38	555731
+single nucleotide variant	NM_000642.3(AGL):c.460+1G>A	178	AGL	Likely pathogenic	GRCh38	550726
+single nucleotide variant	NM_000642.3(AGL):c.1082+1G>C	178	AGL	Likely pathogenic	GRCh38	554166
+single nucleotide variant	NM_000642.3(AGL):c.2158-2A>G	178	AGL	Likely pathogenic	GRCh38	557690
+single nucleotide variant	NM_000642.3(AGL):c.3613C>T (p.Gln1205Ter)	178	AGL	Pathogenic	GRCh38	557206
+single nucleotide variant	NM_000642.3(AGL):c.4481+1G>C	178	AGL	Likely pathogenic	GRCh38	557800
+single nucleotide variant	NM_000642.3(AGL):c.3G>C (p.Met1Ile)	178	AGL	Likely pathogenic	GRCh38	551795
+single nucleotide variant	NM_000642.3(AGL):c.1159C>T (p.Arg387Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	553738
+single nucleotide variant	NM_000642.3(AGL):c.121G>T (p.Gly41Ter)	178	AGL	Likely pathogenic	GRCh38	552940
+single nucleotide variant	NM_000642.3(AGL):c.2949+2T>A	178	AGL	Likely pathogenic	GRCh38	554095
+single nucleotide variant	NM_000642.3(AGL):c.3235C>T (p.Gln1079Ter)	178	AGL	Pathogenic	GRCh38	551403
+single nucleotide variant	NM_000642.3(AGL):c.3589-1G>A	178	AGL	Pathogenic/Likely pathogenic	GRCh38	550759
+single nucleotide variant	NM_000642.3(AGL):c.853C>T (p.Arg285Ter)	178	AGL	Pathogenic	GRCh38	550128
+single nucleotide variant	NM_000642.3(AGL):c.4348G>T (p.Glu1450Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	558208
+single nucleotide variant	NM_000642.3(AGL):c.958+1G>A	178	AGL	Pathogenic	GRCh38	550103
+single nucleotide variant	NM_000642.3(AGL):c.1612-1G>C	178	AGL	Likely pathogenic	GRCh38	551092
+single nucleotide variant	NM_000642.3(AGL):c.1589C>G (p.Ser530Ter)	178	AGL	Pathogenic	GRCh38	554746
+single nucleotide variant	NM_000642.3(AGL):c.4481+2T>G	178	AGL	Likely pathogenic	GRCh38	554521
+single nucleotide variant	NM_000642.3(AGL):c.2728C>T (p.Arg910Ter)	178	AGL	Pathogenic	GRCh38	555290
+single nucleotide variant	NM_000642.3(AGL):c.3362+1G>A	178	AGL	Pathogenic/Likely pathogenic	GRCh38	556821
+single nucleotide variant	NM_000642.3(AGL):c.2682-2A>G	178	AGL	Likely pathogenic	GRCh38	555271
+single nucleotide variant	NM_000642.3(AGL):c.2949+2T>C	178	AGL	Likely pathogenic	GRCh38	552111
+single nucleotide variant	NM_000642.3(AGL):c.2950-2A>C	178	AGL	Likely pathogenic	GRCh38	555949
+single nucleotide variant	NM_000642.3(AGL):c.113C>G (p.Thr38Ser)	178	AGL	Likely pathogenic	GRCh38	592136
+single nucleotide variant	NM_000642.3(AGL):c.659A>G (p.His220Arg)	178	AGL	Likely pathogenic	GRCh38	623695
+single nucleotide variant	NM_000642.3(AGL):c.1405C>T (p.Arg469Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	633032
+single nucleotide variant	NM_000642.3(AGL):c.1083-2A>G	178	AGL	Pathogenic	GRCh38	635292
+single nucleotide variant	NM_000642.3(AGL):c.2950-2A>G	178	AGL	Pathogenic	GRCh38	635290
+single nucleotide variant	NM_000642.3(AGL):c.3837-1G>A	178	AGL	Pathogenic	GRCh38	635291
+single nucleotide variant	NM_000642.3(AGL):c.1180G>T (p.Glu394Ter)	178	AGL	Pathogenic	GRCh38	660008
+single nucleotide variant	NM_000642.3(AGL):c.1783C>T (p.Arg595Ter)	178	AGL	Pathogenic	GRCh38	650313
+single nucleotide variant	NM_000642.3(AGL):c.2384C>A (p.Ser795Ter)	178	AGL	Pathogenic	GRCh38	648558
+single nucleotide variant	NM_000642.3(AGL):c.2727C>G (p.Tyr909Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	661921
+single nucleotide variant	NM_000642.3(AGL):c.3179C>G (p.Ser1060Ter)	178	AGL	Pathogenic	GRCh38	661058
+single nucleotide variant	NM_000642.3(AGL):c.3444C>A (p.Tyr1148Ter)	178	AGL	Pathogenic	GRCh38	655389
+single nucleotide variant	NM_000642.3(AGL):c.4525C>T (p.Gln1509Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	656738
+single nucleotide variant	NM_000642.3(AGL):c.576T>G (p.Tyr192Ter)	178	AGL	Pathogenic	GRCh38	801521
+single nucleotide variant	NM_000642.3(AGL):c.2083C>T (p.Gln695Ter)	178	AGL	Pathogenic	GRCh38	801524
+single nucleotide variant	NM_000642.3(AGL):c.3492C>G (p.Tyr1164Ter)	178	AGL	Pathogenic	GRCh38	801525
+single nucleotide variant	NM_000642.3(AGL):c.3637C>T (p.Gln1213Ter)	178	AGL	Pathogenic	GRCh38	801527
+single nucleotide variant	NM_000642.3(AGL):c.595C>T (p.Gln199Ter)	178	AGL	Pathogenic	GRCh38	862529
+single nucleotide variant	NM_000642.3(AGL):c.1571G>A (p.Arg524His)	178	AGL	Pathogenic	GRCh38	844261
+single nucleotide variant	NM_000642.3(AGL):c.2155C>T (p.Gln719Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	856946
+single nucleotide variant	NM_000642.3(AGL):c.4087A>T (p.Lys1363Ter)	178	AGL	Pathogenic	GRCh38	855438
+single nucleotide variant	NM_000642.3(AGL):c.958+1G>T	178	AGL	Pathogenic	GRCh38	844910
+single nucleotide variant	NM_000642.3(AGL):c.1423+1G>C	178	AGL	Pathogenic	GRCh38	841722
+single nucleotide variant	NM_000642.3(AGL):c.3465G>A (p.Trp1155Ter)	178	AGL	Pathogenic	GRCh38	944846
+single nucleotide variant	NM_000642.3(AGL):c.4043T>G (p.Leu1348Ter)	178	AGL	Pathogenic	GRCh38	948080
+single nucleotide variant	NM_000642.3(AGL):c.907C>T (p.Gln303Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	935443
+single nucleotide variant	NM_000642.3(AGL):c.2960G>A (p.Trp987Ter)	178	AGL	Pathogenic	GRCh38	941524
+single nucleotide variant	NM_000642.3(AGL):c.664+2T>C	178	AGL	Likely pathogenic	GRCh38	934563
+single nucleotide variant	NM_000642.3(AGL):c.1900-2A>G	178	AGL	Pathogenic	GRCh38	938502
+single nucleotide variant	NM_000642.3(AGL):c.3589-3C>G	178	AGL	Pathogenic/Likely pathogenic	GRCh38	946692
+single nucleotide variant	NM_000642.3(AGL):c.4193G>A (p.Trp1398Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	953760
+single nucleotide variant	NM_000642.3(AGL):c.2799T>G (p.Tyr933Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	967306
+single nucleotide variant	NM_000642.3(AGL):c.1284-2A>G	178	AGL	Likely pathogenic	GRCh38	969604
+single nucleotide variant	NM_000642.3(AGL):c.4347+1G>C	178	AGL	Pathogenic	GRCh38	968766
+single nucleotide variant	NM_000642.3(AGL):c.4371T>G (p.Tyr1457Ter)	178	AGL	Pathogenic	GRCh38	981458
+single nucleotide variant	NM_000642.3(AGL):c.454G>T (p.Glu152Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	983783
+single nucleotide variant	NM_000642.3(AGL):c.458C>A (p.Ser153Ter)	178	AGL	Likely pathogenic	GRCh38	983784
+single nucleotide variant	NM_000642.3(AGL):c.516C>A (p.Cys172Ter)	178	AGL	Likely pathogenic	GRCh38	983785
+single nucleotide variant	NM_000642.3(AGL):c.680G>A (p.Trp227Ter)	178	AGL	Likely pathogenic	GRCh38	983786
+single nucleotide variant	NM_000642.3(AGL):c.681G>A (p.Trp227Ter)	178	AGL	Likely pathogenic	GRCh38	983787
+single nucleotide variant	NM_000642.3(AGL):c.867G>A (p.Trp289Ter)	178	AGL	Likely pathogenic	GRCh38	984152
+single nucleotide variant	NM_000642.3(AGL):c.991C>T (p.Gln331Ter)	178	AGL	Likely pathogenic	GRCh38	984153
+single nucleotide variant	NM_000642.3(AGL):c.1038T>A (p.Cys346Ter)	178	AGL	Likely pathogenic	GRCh38	984154
+single nucleotide variant	NM_000642.3(AGL):c.1110C>A (p.Cys370Ter)	178	AGL	Likely pathogenic	GRCh38	984155
+single nucleotide variant	NM_000642.3(AGL):c.1417G>T (p.Glu473Ter)	178	AGL	Likely pathogenic	GRCh38	984156
+single nucleotide variant	NM_000642.3(AGL):c.1649T>G (p.Leu550Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	984157
+single nucleotide variant	NM_000642.3(AGL):c.1727T>G (p.Leu576Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	984158
+single nucleotide variant	NM_000642.3(AGL):c.1890T>A (p.Cys630Ter)	178	AGL	Likely pathogenic	GRCh38	984159
+single nucleotide variant	NM_000642.3(AGL):c.2569C>T (p.Gln857Ter)	178	AGL	Likely pathogenic	GRCh38	984277
+single nucleotide variant	NM_000642.3(AGL):c.2738C>A (p.Ser913Ter)	178	AGL	Likely pathogenic	GRCh38	984278
+single nucleotide variant	NM_000642.3(AGL):c.2894G>A (p.Trp965Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	984279
+single nucleotide variant	NM_000642.3(AGL):c.3480T>A (p.Cys1160Ter)	178	AGL	Likely pathogenic	GRCh38	984280
+single nucleotide variant	NM_000642.3(AGL):c.3718G>T (p.Gly1240Ter)	178	AGL	Likely pathogenic	GRCh38	984281
+single nucleotide variant	NM_000642.3(AGL):c.3793G>T (p.Glu1265Ter)	178	AGL	Likely pathogenic	GRCh38	984282
+single nucleotide variant	NM_000642.3(AGL):c.3835A>T (p.Arg1279Ter)	178	AGL	Likely pathogenic	GRCh38	984283
+single nucleotide variant	NM_000642.3(AGL):c.3895G>T (p.Glu1299Ter)	178	AGL	Likely pathogenic	GRCh38	984284
+single nucleotide variant	NM_000642.3(AGL):c.3899T>G (p.Leu1300Ter)	178	AGL	Likely pathogenic	GRCh38	983724
+single nucleotide variant	NM_000642.3(AGL):c.4275T>A (p.Cys1425Ter)	178	AGL	Likely pathogenic	GRCh38	983725
+single nucleotide variant	NM_000642.3(AGL):c.664+1G>C	178	AGL	Likely pathogenic	GRCh38	998104
+single nucleotide variant	NM_000642.3(AGL):c.1612-1G>A	178	AGL	Pathogenic/Likely pathogenic	GRCh38	998105
+single nucleotide variant	NM_000642.3(AGL):c.1788T>G (p.Tyr596Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	998098
+single nucleotide variant	NM_000642.3(AGL):c.1880A>G (p.Asp627Gly)	178	AGL	Likely pathogenic	GRCh38	998107
+single nucleotide variant	NM_000642.3(AGL):c.2497C>T (p.Gln833Ter)	178	AGL	Pathogenic	GRCh38	998099
+single nucleotide variant	NM_000642.3(AGL):c.2949+5G>A	178	AGL	Likely pathogenic	GRCh38	998106
+single nucleotide variant	NM_000642.3(AGL):c.3214G>T (p.Glu1072Ter)	178	AGL	Pathogenic	GRCh38	998100
+single nucleotide variant	NM_000642.3(AGL):c.4126C>T (p.Gln1376Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	998101
+single nucleotide variant	NM_000642.3(AGL):c.4599G>C (p.Ter1533Tyr)	178	AGL	Likely pathogenic	GRCh38	998109
+single nucleotide variant	NM_000642.3(AGL):c.2309-2A>G	178	AGL	Likely pathogenic	GRCh38	1066561
+single nucleotide variant	NM_000642.3(AGL):c.685C>T (p.Gln229Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1069430
+single nucleotide variant	NM_000642.3(AGL):c.955C>T (p.Gln319Ter)	178	AGL	Pathogenic	GRCh38	1071501
+single nucleotide variant	NM_000642.3(AGL):c.1639C>T (p.Gln547Ter)	178	AGL	Pathogenic	GRCh38	1071635
+single nucleotide variant	NM_000642.3(AGL):c.3928G>T (p.Glu1310Ter)	178	AGL	Pathogenic	GRCh38	1070447
+single nucleotide variant	NM_000642.3(AGL):c.4027G>T (p.Glu1343Ter)	178	AGL	Pathogenic	GRCh38	1070429
+single nucleotide variant	NM_000642.3(AGL):c.4115G>A (p.Trp1372Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1075113
+single nucleotide variant	NM_000642.3(AGL):c.4352G>A (p.Trp1451Ter)	178	AGL	Pathogenic	GRCh38	1070714
+single nucleotide variant	NM_000642.3(AGL):c.3439A>T (p.Arg1147Ter)	178	AGL	Likely pathogenic	GRCh38	1120082
+single nucleotide variant	NM_000642.3(AGL):c.2433+1G>A	178	AGL	Likely pathogenic	GRCh38	1177263
+single nucleotide variant	NM_000642.3(AGL):c.1736-11A>G	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1285559
+single nucleotide variant	NM_000642.3(AGL):c.2895G>A (p.Trp965Ter)	178	AGL	Likely pathogenic	GRCh38	1298432
+single nucleotide variant	NM_000642.3(AGL):c.3362+2T>C	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1322918
+single nucleotide variant	NM_000642.3(AGL):c.1383G>A (p.Trp461Ter)	178	AGL	Pathogenic	GRCh38	1341524
+single nucleotide variant	NM_000642.3(AGL):c.3259+1G>A	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1438405
+single nucleotide variant	NM_000642.3(AGL):c.3700+1G>A	178	AGL	Likely pathogenic	GRCh38	1468502
+single nucleotide variant	NM_000642.3(AGL):c.4347+1G>T	178	AGL	Likely pathogenic	GRCh38	1468156
+single nucleotide variant	NM_000642.3(AGL):c.1243A>T (p.Lys415Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1452641
+single nucleotide variant	NM_000642.3(AGL):c.3484C>T (p.Gln1162Ter)	178	AGL	Pathogenic	GRCh38	1454027
+single nucleotide variant	NM_000642.3(AGL):c.2434-1G>T	178	AGL	Likely pathogenic	GRCh38	1478686
+single nucleotide variant	NM_000642.3(AGL):c.3260-2A>T	178	AGL	Likely pathogenic	GRCh38	1484299
+single nucleotide variant	NM_000642.3(AGL):c.2002-1G>C	178	AGL	Likely pathogenic	GRCh38	1511971
+single nucleotide variant	NM_000642.3(AGL):c.3083+1G>A	178	AGL	Likely pathogenic	GRCh38	1485881
+single nucleotide variant	NM_000642.3(AGL):c.4348-2A>T	178	AGL	Likely pathogenic	GRCh38	1513509
+single nucleotide variant	NM_000642.3(AGL):c.4311C>G (p.Tyr1437Ter)	178	AGL	Pathogenic	GRCh38	1404128
+single nucleotide variant	NM_000642.3(AGL):c.3697G>T (p.Glu1233Ter)	178	AGL	Pathogenic	GRCh38	1460168
+single nucleotide variant	NM_000642.3(AGL):c.4162-1G>A	178	AGL	Likely pathogenic	GRCh38	1471379
+single nucleotide variant	NM_000642.3(AGL):c.3374T>G (p.Leu1125Ter)	178	AGL	Pathogenic	GRCh38	1458871
+single nucleotide variant	NM_000642.3(AGL):c.613A>T (p.Lys205Ter)	178	AGL	Pathogenic	GRCh38	1365212
+single nucleotide variant	NM_000642.3(AGL):c.2433+2T>C	178	AGL	Pathogenic	GRCh38	1685509
+single nucleotide variant	NM_000642.3(AGL):c.2950-1G>C	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1685510
+single nucleotide variant	NM_000642.3(AGL):c.1859T>C (p.Leu620Pro)	178	AGL	Likely pathogenic	GRCh38	1705410
+single nucleotide variant	NM_000642.3(AGL):c.1083-1G>A	178	AGL	Pathogenic	GRCh38	1710912
+single nucleotide variant	NM_000642.3(AGL):c.1727T>A (p.Leu576Ter)	178	AGL	Likely pathogenic	GRCh38	1723900
+single nucleotide variant	NM_000642.3(AGL):c.4099G>T (p.Gly1367Ter)	178	AGL	Likely pathogenic	GRCh38	1724370
+single nucleotide variant	NM_000642.3(AGL):c.2623A>T (p.Lys875Ter)	178	AGL	Likely pathogenic	GRCh38	1724463
+single nucleotide variant	NM_000642.3(AGL):c.2692A>T (p.Arg898Ter)	178	AGL	Likely pathogenic	GRCh38	1724498
+single nucleotide variant	NM_000642.3(AGL):c.4295T>A (p.Leu1432Ter)	178	AGL	Likely pathogenic	GRCh38	1724666
+single nucleotide variant	NM_000642.3(AGL):c.4243A>T (p.Lys1415Ter)	178	AGL	Likely pathogenic	GRCh38	1724814
+single nucleotide variant	NM_000642.3(AGL):c.2702T>A (p.Leu901Ter)	178	AGL	Likely pathogenic	GRCh38	1724886
+single nucleotide variant	NM_000642.3(AGL):c.338T>A (p.Leu113Ter)	178	AGL	Likely pathogenic	GRCh38	1724984
+single nucleotide variant	NM_000642.3(AGL):c.1427C>A (p.Ser476Ter)	178	AGL	Likely pathogenic	GRCh38	1725006
+single nucleotide variant	NM_000642.3(AGL):c.408T>A (p.Cys136Ter)	178	AGL	Likely pathogenic	GRCh38	1725071
+single nucleotide variant	NM_000642.3(AGL):c.1907C>G (p.Ser636Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1725162
+single nucleotide variant	NM_000642.3(AGL):c.3223A>T (p.Lys1075Ter)	178	AGL	Likely pathogenic	GRCh38	1725415
+single nucleotide variant	NM_000642.3(AGL):c.1444A>T (p.Arg482Ter)	178	AGL	Likely pathogenic	GRCh38	1725496
+single nucleotide variant	NM_000642.3(AGL):c.3790G>T (p.Gly1264Ter)	178	AGL	Likely pathogenic	GRCh38	1725666
+single nucleotide variant	NM_000642.3(AGL):c.1536C>A (p.Tyr512Ter)	178	AGL	Likely pathogenic	GRCh38	1725908
+single nucleotide variant	NM_000642.3(AGL):c.623G>A (p.Trp208Ter)	178	AGL	Likely pathogenic	GRCh38	1726092
+single nucleotide variant	NM_000642.3(AGL):c.2783G>A (p.Trp928Ter)	178	AGL	Likely pathogenic	GRCh38	1726278
+single nucleotide variant	NM_000642.3(AGL):c.2109T>A (p.Cys703Ter)	178	AGL	Likely pathogenic	GRCh38	1726285
+single nucleotide variant	NM_000642.3(AGL):c.2277C>A (p.Tyr759Ter)	178	AGL	Likely pathogenic	GRCh38	1726618
+single nucleotide variant	NM_000642.3(AGL):c.3450T>A (p.Cys1150Ter)	178	AGL	Likely pathogenic	GRCh38	1726638
+single nucleotide variant	NM_000642.3(AGL):c.3604G>T (p.Glu1202Ter)	178	AGL	Likely pathogenic	GRCh38	1726664
+single nucleotide variant	NM_000642.3(AGL):c.4204G>T (p.Glu1402Ter)	178	AGL	Likely pathogenic	GRCh38	1726712
+single nucleotide variant	NM_000642.3(AGL):c.2740G>T (p.Glu914Ter)	178	AGL	Likely pathogenic	GRCh38	1726988
+single nucleotide variant	NM_000642.3(AGL):c.2707G>T (p.Glu903Ter)	178	AGL	Pathogenic	GRCh38	2201043
+single nucleotide variant	NM_000642.3(AGL):c.2682-8A>G	178	AGL	Pathogenic	GRCh38	2202821
+single nucleotide variant	NM_000642.3(AGL):c.3299G>A (p.Gly1100Glu)	178	AGL	Pathogenic	GRCh38	2202823
+single nucleotide variant	NM_000642.3(AGL):c.4284T>G (p.Tyr1428Ter)	178	AGL	Pathogenic	GRCh38	2202824
+single nucleotide variant	NM_000642.3(AGL):c.1218T>G (p.Tyr406Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	2415255
+single nucleotide variant	NM_000642.3(AGL):c.1283+2T>C	178	AGL	Likely pathogenic	GRCh38	1906150
+single nucleotide variant	NM_000642.3(AGL):c.4260-2A>C	178	AGL	Pathogenic	GRCh38	1968105
+single nucleotide variant	NM_000642.3(AGL):c.3700+2T>C	178	AGL	Likely pathogenic	GRCh38	1998780
+single nucleotide variant	NM_000642.3(AGL):c.293+1G>T	178	AGL	Pathogenic/Likely pathogenic	GRCh38	1999088
+single nucleotide variant	NM_000642.3(AGL):c.3084-1G>A	178	AGL	Likely pathogenic	GRCh38	2023967
+single nucleotide variant	NM_000642.3(AGL):c.2458C>T (p.Gln820Ter)	178	AGL	Pathogenic	GRCh38	2029199
+single nucleotide variant	NM_000642.3(AGL):c.3549T>G (p.Tyr1183Ter)	178	AGL	Pathogenic	GRCh38	2050717
+single nucleotide variant	NM_000642.3(AGL):c.2158-1G>T	178	AGL	Likely pathogenic	GRCh38	2088431
+single nucleotide variant	NM_000642.3(AGL):c.4250T>A (p.Leu1417Ter)	178	AGL	Pathogenic	GRCh38	2104577
+single nucleotide variant	NM_000642.3(AGL):c.654C>A (p.Tyr218Ter)	178	AGL	Pathogenic	GRCh38	2103981
+single nucleotide variant	NM_000642.3(AGL):c.82+1G>T	178	AGL	Likely pathogenic	GRCh38	2112761
+single nucleotide variant	NM_000642.3(AGL):c.2681+2T>G	178	AGL	Pathogenic	GRCh38	2129114
+single nucleotide variant	NM_000642.3(AGL):c.4562C>T (p.Ser1521Leu)	178	AGL	Likely pathogenic	GRCh38	2505206
+single nucleotide variant	NM_000642.3(AGL):c.4260-1G>A	178	AGL	Likely pathogenic	GRCh38	2585090
+single nucleotide variant	NM_000642.3(AGL):c.889A>T (p.Lys297Ter)	178	AGL	Pathogenic	GRCh38	2663830
+single nucleotide variant	NM_000642.3(AGL):c.3302G>A (p.Arg1101Lys)	178	AGL	Likely pathogenic	GRCh38	2663831
+single nucleotide variant	NM_000642.3(AGL):c.2207C>A (p.Ser736Ter)	178	AGL	Likely pathogenic	GRCh38	2674732
+single nucleotide variant	NM_000642.3(AGL):c.557C>G (p.Ser186Ter)	178	AGL	Likely pathogenic	GRCh38	2674743
+single nucleotide variant	NM_000642.3(AGL):c.1447G>T (p.Glu483Ter)	178	AGL	Likely pathogenic	GRCh38	2674776
+single nucleotide variant	NM_000642.3(AGL):c.3091C>T (p.Gln1031Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	2674793
+single nucleotide variant	NM_000642.3(AGL):c.4490G>A (p.Trp1497Ter)	178	AGL	Pathogenic	GRCh38	2674803
+single nucleotide variant	NM_000642.3(AGL):c.2546+1G>T	178	AGL	Pathogenic	GRCh38	2674823
+single nucleotide variant	NM_000642.3(AGL):c.3083+1G>T	178	AGL	Likely pathogenic	GRCh38	2674828
+single nucleotide variant	NM_000642.3(AGL):c.1148C>G (p.Ser383Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	2674837
+single nucleotide variant	NM_000642.3(AGL):c.665-2A>G	178	AGL	Likely pathogenic	GRCh38	2674856
+single nucleotide variant	NM_000642.3(AGL):c.3949+1G>C	178	AGL	Likely pathogenic	GRCh38	2680851
+single nucleotide variant	NM_000642.3(AGL):c.2812+1G>C	178	AGL	Likely pathogenic	GRCh38	2680855
+single nucleotide variant	NM_000642.3(AGL):c.2989C>T (p.Gln997Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	2680889
+single nucleotide variant	NM_000642.3(AGL):c.83-2A>G	178	AGL	Likely pathogenic	GRCh38	2680936
+single nucleotide variant	NM_000642.3(AGL):c.3701-2A>G	178	AGL	Likely pathogenic	GRCh38	2680952
+single nucleotide variant	NM_000642.3(AGL):c.1284-1G>A	178	AGL	Likely pathogenic	GRCh38	2680953
+single nucleotide variant	NM_000642.3(AGL):c.743G>A (p.Trp248Ter)	178	AGL	Likely pathogenic	GRCh38	2680986
+single nucleotide variant	NM_000642.3(AGL):c.3972T>G (p.Tyr1324Ter)	178	AGL	Likely pathogenic	GRCh38	2680999
+single nucleotide variant	NM_000642.3(AGL):c.1423+1G>A	178	AGL	Pathogenic	GRCh38	2681003
+single nucleotide variant	NM_000642.3(AGL):c.958+1G>C	178	AGL	Likely pathogenic	GRCh38	2681010
+single nucleotide variant	NM_000642.3(AGL):c.538G>T (p.Glu180Ter)	178	AGL	Likely pathogenic	GRCh38	2681080
+single nucleotide variant	NM_000642.3(AGL):c.1517G>A (p.Trp506Ter)	178	AGL	Likely pathogenic	GRCh38	2681109
+single nucleotide variant	NM_000642.3(AGL):c.3259+1G>C	178	AGL	Likely pathogenic	GRCh38	2681115
+single nucleotide variant	NM_000642.3(AGL):c.1637T>A (p.Leu546Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	2681124
+single nucleotide variant	NM_000642.3(AGL):c.82+1G>C	178	AGL	Likely pathogenic	GRCh38	2699402
+single nucleotide variant	NM_000642.3(AGL):c.1611+2T>G	178	AGL	Likely pathogenic	GRCh38	2727587
+single nucleotide variant	NM_000642.3(AGL):c.643G>A (p.Asp215Asn)	178	AGL	Likely pathogenic	GRCh38	2733955
+single nucleotide variant	NM_000642.3(AGL):c.2546+1G>A	178	AGL	Pathogenic	GRCh38	2733958
+single nucleotide variant	NM_000642.3(AGL):c.3588+1G>A	178	AGL	Pathogenic	GRCh38	2733960
+single nucleotide variant	NM_000642.3(AGL):c.4161+5G>A	178	AGL	Pathogenic	GRCh38	2733961
+single nucleotide variant	NM_000642.3(AGL):c.4260-1G>T	178	AGL	Pathogenic	GRCh38	2733962
+single nucleotide variant	NM_000642.3(AGL):c.82+2T>G	178	AGL	Likely pathogenic	GRCh38	2746426
+single nucleotide variant	NM_000642.3(AGL):c.2001+1G>T	178	AGL	Likely pathogenic	GRCh38	2756000
+single nucleotide variant	NM_000642.3(AGL):c.4162-2A>T	178	AGL	Likely pathogenic	GRCh38	2771588
+single nucleotide variant	NM_000642.3(AGL):c.4116G>A (p.Trp1372Ter)	178	AGL	Pathogenic	GRCh38	2771854
+single nucleotide variant	NM_000642.3(AGL):c.2157+1G>T	178	AGL	Pathogenic	GRCh38	2766447
+single nucleotide variant	NM_000642.3(AGL):c.388C>T (p.Gln130Ter)	178	AGL	Pathogenic	GRCh38	2793982
+single nucleotide variant	NM_000642.3(AGL):c.3003C>A (p.Tyr1001Ter)	178	AGL	Pathogenic	GRCh38	2817560
+single nucleotide variant	NM_000642.3(AGL):c.3871A>T (p.Lys1291Ter)	178	AGL	Pathogenic	GRCh38	2832404
+single nucleotide variant	NM_000642.3(AGL):c.3470G>A (p.Trp1157Ter)	178	AGL	Pathogenic	GRCh38	2839078
+single nucleotide variant	NM_000642.3(AGL):c.2221C>T (p.Gln741Ter)	178	AGL	Pathogenic	GRCh38	2847627
+single nucleotide variant	NM_000642.3(AGL):c.4339C>T (p.Gln1447Ter)	178	AGL	Pathogenic	GRCh38	2854171
+single nucleotide variant	NM_000642.3(AGL):c.1183C>T (p.Gln395Ter)	178	AGL	Pathogenic	GRCh38	2915339
+single nucleotide variant	NM_000642.3(AGL):c.2308+2T>A	178	AGL	Likely pathogenic	GRCh38	3001398
+single nucleotide variant	NM_000642.3(AGL):c.808G>T (p.Gly270Ter)	178	AGL	Pathogenic/Likely pathogenic	GRCh38	3009716
+single nucleotide variant	NM_000642.3(AGL):c.1972A>T (p.Arg658Ter)	178	AGL	Pathogenic	GRCh38	3023357
+single nucleotide variant	NM_000642.3(AGL):c.1788T>A (p.Tyr596Ter)	178	AGL	Pathogenic	GRCh38	3236358
+single nucleotide variant	NM_000642.3(AGL):c.2493T>A (p.Tyr831Ter)	178	AGL	Likely pathogenic	GRCh38	3239671
+single nucleotide variant	NM_000642.3(AGL):c.1427C>G (p.Ser476Ter)	178	AGL	Likely pathogenic	GRCh38	3241136
+single nucleotide variant	NM_000642.3(AGL):c.3136C>T (p.Gln1046Ter)	178	AGL	Likely pathogenic	GRCh38	3241147
+single nucleotide variant	NM_000642.3(AGL):c.1177C>T (p.Gln393Ter)	178	AGL	Pathogenic	GRCh38	3241180
+single nucleotide variant	NM_000642.3(AGL):c.458C>G (p.Ser153Ter)	178	AGL	Pathogenic	GRCh38	3374993
+single nucleotide variant	NM_000642.3(AGL):c.4481+1G>T	178	AGL	Pathogenic	GRCh38	3648411
+single nucleotide variant	NM_000642.3(AGL):c.3018C>G (p.Tyr1006Ter)	178	AGL	Pathogenic	GRCh38	3641188
+single nucleotide variant	NM_000642.3(AGL):c.958+2T>C	178	AGL	Likely pathogenic	GRCh38	3642521
+single nucleotide variant	NM_000642.3(AGL):c.4125T>A (p.Tyr1375Ter)	178	AGL	Pathogenic	GRCh38	3650737
+single nucleotide variant	NM_000642.3(AGL):c.488T>A (p.Leu163Ter)	178	AGL	Pathogenic	GRCh38	3655808
+single nucleotide variant	NM_000642.3(AGL):c.40G>T (p.Glu14Ter)	178	AGL	Pathogenic	GRCh38	3667946
+single nucleotide variant	NM_000642.3(AGL):c.2320G>T (p.Glu774Ter)	178	AGL	Pathogenic	GRCh38	3666492
+single nucleotide variant	NM_000642.3(AGL):c.1735+1G>A	178	AGL	Pathogenic	GRCh38	3720232
+single nucleotide variant	NM_000642.3(AGL):c.4259+2T>C	178	AGL	Likely pathogenic	GRCh38	3768807
+single nucleotide variant	NM_000642.3(AGL):c.1119G>A (p.Trp373Ter)	178	AGL	Likely pathogenic	GRCh38	3779324
+single nucleotide variant	NM_000642.3(AGL):c.3351T>G (p.Tyr1117Ter)	178	AGL	Likely pathogenic	GRCh38	3896773
+single nucleotide variant	NM_000642.3(AGL):c.259C>T (p.Gln87Ter)	178	AGL	Likely pathogenic	GRCh38	3897066
+single nucleotide variant	NM_000642.3(AGL):c.1274T>A (p.Leu425Ter)	178	AGL	Likely pathogenic	GRCh38	3897067
+single nucleotide variant	NM_000642.3(AGL):c.2157+1G>A	178	AGL	Likely pathogenic	GRCh38	3901853
+single nucleotide variant	NM_000642.3(AGL):c.4037C>A (p.Ser1346Ter)	178	AGL	Likely pathogenic	GRCh38	4067791
+single nucleotide variant	NM_000642.3(AGL):c.619G>T (p.Glu207Ter)	178	AGL	Likely pathogenic	GRCh38	4086172
+single nucleotide variant	NM_000642.3(AGL):c.4492A>T (p.Lys1498Ter)	178	AGL	Likely pathogenic	GRCh38	4281690
+single nucleotide variant	NM_000642.3(AGL):c.3259+927A>G	178	AGL	Pathogenic	GRCh38	4529480
+single nucleotide variant	NM_000642.3(AGL):c.521C>T (p.Ser174Phe)	178	AGL	Likely pathogenic	GRCh38	4541316
+single nucleotide variant	NM_000642.3(AGL):c.2681+1G>C	178	AGL	Pathogenic	GRCh38	4704900
+single nucleotide variant	NM_000642.3(AGL):c.846+1G>A	178	AGL	Likely pathogenic	GRCh38	4725074
+single nucleotide variant	NM_000642.3(AGL):c.1612-2A>C	178	AGL	Likely pathogenic	GRCh38	4730019
+single nucleotide variant	NM_000642.3(AGL):c.3836+1G>C	178	AGL	Likely pathogenic	GRCh38	4727043
+single nucleotide variant	NM_000642.3(AGL):c.1835T>G (p.Leu612Ter)	178	AGL	Pathogenic	GRCh38	4741502
+single nucleotide variant	NM_000642.3(AGL):c.1999C>T (p.Gln667Ter)	178	AGL	Pathogenic	GRCh38	4746871
+single nucleotide variant	NM_000642.3(AGL):c.2293C>T (p.Gln765Ter)	178	AGL	Pathogenic	GRCh38	4746872
+single nucleotide variant	NM_000642.3(AGL):c.461-2A>G	178	AGL	Pathogenic	GRCh38	4768362
+single nucleotide variant	NM_000642.3(AGL):c.3836+2T>C	178	AGL	Likely pathogenic	GRCh38	4770187
+single nucleotide variant	NM_000642.3(AGL):c.1185+1G>T	178	AGL	Likely pathogenic	GRCh38	4777879
+single nucleotide variant	NM_000642.3(AGL):c.1512T>A (p.Tyr504Ter)	178	AGL	Pathogenic	GRCh38	4808430
+single nucleotide variant	NM_000642.3(AGL):c.1083-2A>C	178	AGL	Likely pathogenic	GRCh38	4797301
+single nucleotide variant	NM_000642.3(AGL):c.1611+1G>A	178	AGL	Likely pathogenic	GRCh38	4814430
+single nucleotide variant	NM_000642.3(AGL):c.1899+1G>A	178	AGL	Likely pathogenic	GRCh38	4814435
+single nucleotide variant	NM_000642.3(AGL):c.2384C>G (p.Ser795Ter)	178	AGL	Likely pathogenic	GRCh38	4814438
+single nucleotide variant	NM_000642.3(AGL):c.293+2T>G	178	AGL	Pathogenic	GRCh38	4814440
+single nucleotide variant	NM_000642.3(AGL):c.3625C>T (p.Gln1209Ter)	178	AGL	Pathogenic	GRCh38	4814448
+single nucleotide variant	NM_000642.3(AGL):c.4161+1G>A	178	AGL	Likely pathogenic	GRCh38	4814455
+single nucleotide variant	NM_000642.3(AGL):c.765G>A (p.Trp255Ter)	178	AGL	Pathogenic	GRCh38	4814459
+single nucleotide variant	NM_000642.3(AGL):c.4352G>T (p.Trp1451Leu)	178	AGL	Likely pathogenic	GRCh38	4849716

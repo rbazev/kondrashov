@@ -1,0 +1,109 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000190.4(HMBS):c.33+1G>A	3145	HMBS	Pathogenic	GRCh38	1441
+single nucleotide variant	NM_000190.4(HMBS):c.77G>A (p.Arg26His)	3145	HMBS	Pathogenic	GRCh38	1443
+single nucleotide variant	NM_000190.4(HMBS):c.33+1G>T	3145	HMBS	Pathogenic	GRCh38	1444
+single nucleotide variant	NM_000190.4(HMBS):c.346C>T (p.Arg116Trp)	3145	HMBS	Pathogenic	GRCh38	1445
+single nucleotide variant	NM_000190.4(HMBS):c.500G>A (p.Arg167Gln)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1446
+single nucleotide variant	NM_000190.4(HMBS):c.518G>A (p.Arg173Gln)	3145	HMBS	Pathogenic	GRCh38	1447
+single nucleotide variant	NM_000190.4(HMBS):c.463C>T (p.Gln155Ter)	3145	HMBS	Pathogenic	GRCh38	1448
+single nucleotide variant	NM_000190.4(HMBS):c.446G>A (p.Arg149Gln)	3145	HMBS	Pathogenic	GRCh38	1449
+single nucleotide variant	NM_000190.4(HMBS):c.734T>G (p.Leu245Arg)	3145	HMBS	Pathogenic	GRCh38	1450
+single nucleotide variant	NM_000190.4(HMBS):c.593G>A (p.Trp198Ter)	3145	HMBS	Pathogenic	GRCh38	1453
+single nucleotide variant	NM_000190.4(HMBS):c.91G>A (p.Ala31Thr)	3145	HMBS	Pathogenic	GRCh38	1454
+single nucleotide variant	NM_000190.4(HMBS):c.100C>A (p.Gln34Lys)	3145	HMBS	Pathogenic	GRCh38	1455
+single nucleotide variant	NM_000190.4(HMBS):c.499C>T (p.Arg167Trp)	3145	HMBS	Pathogenic	GRCh38	1456
+single nucleotide variant	NM_000190.4(HMBS):c.500G>T (p.Arg167Leu)	3145	HMBS	Pathogenic	GRCh38	1457
+single nucleotide variant	NM_000190.4(HMBS):c.211-1G>A	3145	HMBS	Pathogenic	GRCh38	1461
+single nucleotide variant	NM_000190.4(HMBS):c.331G>A (p.Gly111Arg)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1464
+single nucleotide variant	NM_000190.4(HMBS):c.499-1G>A	3145	HMBS	Pathogenic	GRCh38	1465
+single nucleotide variant	NM_000190.4(HMBS):c.530T>G (p.Leu177Arg)	3145	HMBS	Pathogenic	GRCh38	1466
+single nucleotide variant	NM_000190.4(HMBS):c.739T>C (p.Cys247Arg)	3145	HMBS	Likely pathogenic	GRCh38	1469
+single nucleotide variant	NM_000190.4(HMBS):c.748G>A (p.Glu250Lys)	3145	HMBS	Pathogenic	GRCh38	1471
+single nucleotide variant	NM_000190.4(HMBS):c.755C>T (p.Ala252Val)	3145	HMBS	Pathogenic	GRCh38	1473
+single nucleotide variant	NM_000190.4(HMBS):c.766C>A (p.His256Asn)	3145	HMBS	Pathogenic	GRCh38	1474
+single nucleotide variant	NM_000190.4(HMBS):c.771+1G>C	3145	HMBS	Pathogenic	GRCh38	1475
+single nucleotide variant	NM_000190.4(HMBS):c.913-1G>A	3145	HMBS	Pathogenic	GRCh38	1476
+single nucleotide variant	NM_000190.4(HMBS):c.266+1G>C	3145	HMBS	Pathogenic	GRCh38	1477
+single nucleotide variant	NM_000190.4(HMBS):c.849G>A (p.Trp283Ter)	3145	HMBS	Pathogenic	GRCh38	1483
+single nucleotide variant	NM_000190.4(HMBS):c.242T>C (p.Leu81Pro)	3145	HMBS	Pathogenic	GRCh38	1485
+single nucleotide variant	NM_000190.4(HMBS):c.445C>T (p.Arg149Ter)	3145	HMBS	Pathogenic	GRCh38	1486
+single nucleotide variant	NM_000190.4(HMBS):c.583C>T (p.Arg195Cys)	3145	HMBS	Pathogenic	GRCh38	161251
+single nucleotide variant	NM_000190.4(HMBS):c.799G>A (p.Val267Met)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	381651
+single nucleotide variant	NM_000190.4(HMBS):c.104C>T (p.Thr35Met)	3145	HMBS	Likely pathogenic	GRCh38	449465
+single nucleotide variant	NM_000190.4(HMBS):c.76C>T (p.Arg26Cys)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	645443
+single nucleotide variant	NM_000190.4(HMBS):c.77G>T (p.Arg26Leu)	3145	HMBS	Pathogenic	GRCh38	665873
+single nucleotide variant	NM_000190.4(HMBS):c.299T>C (p.Leu100Pro)	3145	HMBS	Likely pathogenic	GRCh38	657585
+single nucleotide variant	NM_000190.4(HMBS):c.457C>T (p.Gln153Ter)	3145	HMBS	Pathogenic	GRCh38	652216
+single nucleotide variant	NM_000190.4(HMBS):c.517C>T (p.Arg173Trp)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	649348
+single nucleotide variant	NM_000190.4(HMBS):c.612G>T (p.Gln204His)	3145	HMBS	Pathogenic	GRCh38	652314
+single nucleotide variant	NM_000190.4(HMBS):c.673C>T (p.Arg225Ter)	3145	HMBS	Pathogenic	GRCh38	642877
+single nucleotide variant	NM_000190.4(HMBS):c.719A>G (p.Asp240Gly)	3145	HMBS	Pathogenic	GRCh38	639190
+single nucleotide variant	NM_000190.4(HMBS):c.874C>T (p.Gln292Ter)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	652166
+single nucleotide variant	NM_000190.4(HMBS):c.345-1G>A	3145	HMBS	Pathogenic	GRCh38	664103
+single nucleotide variant	NM_000190.4(HMBS):c.612+1G>A	3145	HMBS	Pathogenic	GRCh38	645478
+single nucleotide variant	NM_000190.4(HMBS):c.160+5G>C	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	694280
+single nucleotide variant	NM_000190.4(HMBS):c.239A>G (p.Glu80Gly)	3145	HMBS	Likely pathogenic	GRCh38	850562
+single nucleotide variant	NM_000190.4(HMBS):c.706G>A (p.Gly236Ser)	3145	HMBS	Likely pathogenic	GRCh38	845662
+single nucleotide variant	NM_000190.4(HMBS):c.992C>T (p.Ala331Val)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	851744
+single nucleotide variant	NM_000190.4(HMBS):c.913-2A>G	3145	HMBS	Pathogenic	GRCh38	855310
+single nucleotide variant	NM_000190.4(HMBS):c.613-1G>T	3145	HMBS	Pathogenic	GRCh38	845819
+single nucleotide variant	NM_000190.4(HMBS):c.771+2T>C	3145	HMBS	Pathogenic	GRCh38	841292
+single nucleotide variant	NM_000190.4(HMBS):c.161-1G>C	3145	HMBS	Pathogenic	GRCh38	842813
+single nucleotide variant	NM_000190.4(HMBS):c.364G>C (p.Ala122Pro)	3145	HMBS	Likely pathogenic	GRCh38	915842
+single nucleotide variant	NM_000190.4(HMBS):c.613-1G>A	3145	HMBS	Pathogenic	GRCh38	931455
+single nucleotide variant	NM_000190.4(HMBS):c.77G>C (p.Arg26Pro)	3145	HMBS	Likely pathogenic	GRCh38	945373
+single nucleotide variant	NM_000190.4(HMBS):c.33+2T>G	3145	HMBS	Pathogenic	GRCh38	944483
+single nucleotide variant	NM_000190.4(HMBS):c.651+2T>C	3145	HMBS	Pathogenic	GRCh38	944324
+single nucleotide variant	NM_000190.4(HMBS):c.913-1G>C	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	971922
+single nucleotide variant	NM_000190.4(HMBS):c.275T>C (p.Leu92Pro)	3145	HMBS	Likely pathogenic	GRCh38	1030657
+single nucleotide variant	NM_000190.4(HMBS):c.826-2A>T	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1030659
+single nucleotide variant	NM_000190.4(HMBS):c.148C>T (p.Gln50Ter)	3145	HMBS	Pathogenic	GRCh38	1075932
+single nucleotide variant	NM_000190.4(HMBS):c.423-1G>A	3145	HMBS	Pathogenic	GRCh38	1074125
+single nucleotide variant	NM_000190.4(HMBS):c.713T>C (p.Leu238Pro)	3145	HMBS	Pathogenic	GRCh38	1073990
+single nucleotide variant	NM_000190.4(HMBS):c.912+2T>C	3145	HMBS	Pathogenic	GRCh38	1075940
+single nucleotide variant	NM_000190.4(HMBS):c.973C>T (p.Arg325Ter)	3145	HMBS	Pathogenic	GRCh38	1070048
+single nucleotide variant	NM_000190.4(HMBS):c.210+1G>C	3145	HMBS	Pathogenic	GRCh38	1120222
+single nucleotide variant	NM_000190.4(HMBS):c.211-1G>T	3145	HMBS	Pathogenic	GRCh38	1164095
+single nucleotide variant	NM_000190.4(HMBS):c.498+1G>A	3145	HMBS	Pathogenic	GRCh38	1366679
+single nucleotide variant	NM_000190.4(HMBS):c.160+1G>T	3145	HMBS	Pathogenic	GRCh38	1453092
+single nucleotide variant	NM_000190.4(HMBS):c.825+1G>A	3145	HMBS	Pathogenic	GRCh38	1453101
+single nucleotide variant	NM_000190.4(HMBS):c.292A>G (p.Lys98Glu)	3145	HMBS	Likely pathogenic	GRCh38	1477603
+single nucleotide variant	NM_000190.4(HMBS):c.500G>C (p.Arg167Pro)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1509204
+single nucleotide variant	NM_000190.4(HMBS):c.266+1G>A	3145	HMBS	Pathogenic	GRCh38	1455325
+single nucleotide variant	NM_000190.4(HMBS):c.652-1G>C	3145	HMBS	Pathogenic	GRCh38	1455621
+single nucleotide variant	NM_000190.4(HMBS):c.87+1G>A	3145	HMBS	Pathogenic	GRCh38	1458075
+single nucleotide variant	NM_000190.4(HMBS):c.87+2T>G	3145	HMBS	Pathogenic	GRCh38	1458076
+single nucleotide variant	NM_000190.4(HMBS):c.826-1G>A	3145	HMBS	Pathogenic	GRCh38	1458084
+single nucleotide variant	NM_000190.4(HMBS):c.940C>T (p.Gln314Ter)	3145	HMBS	Pathogenic	GRCh38	1459861
+single nucleotide variant	NM_000190.4(HMBS):c.538C>T (p.Gln180Ter)	3145	HMBS	Pathogenic	GRCh38	1458930
+single nucleotide variant	NM_000190.4(HMBS):c.181G>T (p.Asp61Tyr)	3145	HMBS	Likely pathogenic	GRCh38	1678604
+single nucleotide variant	NM_000190.4(HMBS):c.754G>C (p.Ala252Pro)	3145	HMBS	Likely pathogenic	GRCh38	1691435
+single nucleotide variant	NM_000190.4(HMBS):c.912+1G>C	3145	HMBS	Pathogenic	GRCh38	1711186
+single nucleotide variant	NM_000190.4(HMBS):c.71G>A (p.Gly24Asp)	3145	HMBS	Likely pathogenic	GRCh38	2137261
+single nucleotide variant	NM_000190.4(HMBS):c.125T>C (p.Leu42Ser)	3145	HMBS	Pathogenic	GRCh38	2137262
+single nucleotide variant	NM_000190.4(HMBS):c.344+2T>C	3145	HMBS	Pathogenic	GRCh38	2137263
+single nucleotide variant	NM_000190.4(HMBS):c.826-1G>T	3145	HMBS	Pathogenic	GRCh38	2019039
+single nucleotide variant	NM_000190.4(HMBS):c.653G>A (p.Gly218Glu)	3145	HMBS	Pathogenic	GRCh38	2030411
+single nucleotide variant	NM_000190.4(HMBS):c.580C>T (p.Gln194Ter)	3145	HMBS	Likely pathogenic	GRCh38	2575055
+single nucleotide variant	NM_000190.4(HMBS):c.518G>C (p.Arg173Pro)	3145	HMBS	Pathogenic	GRCh38	2582784
+single nucleotide variant	NM_000190.4(HMBS):c.499-2A>T	3145	HMBS	Pathogenic	GRCh38	2701545
+single nucleotide variant	NM_000190.4(HMBS):c.88-2A>G	3145	HMBS	Pathogenic	GRCh38	2735767
+single nucleotide variant	NM_000190.4(HMBS):c.295G>A (p.Asp99Asn)	3145	HMBS	Likely pathogenic	GRCh38	2735768
+single nucleotide variant	NM_000190.4(HMBS):c.643G>A (p.Val215Met)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	2735770
+single nucleotide variant	NM_000190.4(HMBS):c.912+1G>A	3145	HMBS	Pathogenic	GRCh38	2735773
+single nucleotide variant	NM_000190.4(HMBS):c.382A>T (p.Lys128Ter)	3145	HMBS	Pathogenic	GRCh38	2815898
+single nucleotide variant	NM_000190.4(HMBS):c.647G>T (p.Gly216Val)	3145	HMBS	Pathogenic	GRCh38	2816209
+single nucleotide variant	NM_000190.4(HMBS):c.251C>A (p.Ala84Asp)	3145	HMBS	Pathogenic	GRCh38	3024100
+single nucleotide variant	NM_000190.4(HMBS):c.413C>T (p.Pro138Leu)	3145	HMBS	Likely pathogenic	GRCh38	3065410
+single nucleotide variant	NM_000190.4(HMBS):c.772-2A>G	3145	HMBS	Pathogenic	GRCh38	3068582
+single nucleotide variant	NM_000190.4(HMBS):c.541C>T (p.Gln181Ter)	3145	HMBS	Likely pathogenic	GRCh38	3342447
+single nucleotide variant	NM_000190.4(HMBS):c.161-3C>G	3145	HMBS	Likely pathogenic	GRCh38	3613684
+single nucleotide variant	NM_000190.4(HMBS):c.88-1G>A	3145	HMBS	Pathogenic	GRCh38	3650398
+single nucleotide variant	NM_000190.4(HMBS):c.33+2T>A	3145	HMBS	Pathogenic	GRCh38	3721099
+single nucleotide variant	NM_000190.4(HMBS):c.1028T>C (p.Leu343Pro)	3145	HMBS	Likely pathogenic	GRCh38	3721103
+single nucleotide variant	NM_000190.4(HMBS):c.33+1G>C	3145	HMBS	Pathogenic	GRCh38	3893244
+single nucleotide variant	NM_000190.4(HMBS):c.826-2A>G	3145	HMBS	Likely pathogenic	GRCh38	4086437
+single nucleotide variant	NM_000190.4(HMBS):c.651+1G>C	3145	HMBS	Likely pathogenic	GRCh38	4541667
+single nucleotide variant	NM_000190.4(HMBS):c.644T>A (p.Val215Glu)	3145	HMBS	Likely pathogenic	GRCh38	4709895
+single nucleotide variant	NM_000190.4(HMBS):c.912+1G>T	3145	HMBS	Pathogenic	GRCh38	4709900
+single nucleotide variant	NM_000190.4(HMBS):c.652-1G>A	3145	HMBS	Pathogenic	GRCh38	4714512

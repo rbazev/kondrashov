@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 import pandas as pd
 import xmltodict as x2d
+from tqdm import tqdm
 import os
 from Bio import AlignIO, Entrez, SeqIO
 from Bio.Seq import Seq
@@ -88,157 +89,182 @@ loci = [
     "VWF",
 ]
 
+
 lociii = ['ABCA12',
-'ACAD9',
-'ACADM',
-'ACADVL',
-'ACAT1',
-'ADA',
-'AGL',
-'AGXT',
-'AHI1',
-'AIRE',
-'ALMS1',
-'ALOX12B',
-'ANK1',
-'ANO5',
-'APC',
-'ARSA',
-'ARSB',
-'ASL',
-'ASPA',
-'ASPM',
-'ATM',
-'ATP7B',
-'BBS2',
-'BCKDHA',
-'BEST1',
-'BLM',
-'BRIP1',
-'BTD',
-'CBS',
-'CC2D2A',
-'CDH23',
-'CEP290',
-'CERKL',
-'CHD7',
-'CHEK2',
-'CLN3',
-'CNGB3',
-'CPS1',
-'CRB1',
-'CTNS',
-'CYP11B1',
-'CYP17A1',
-'CYP27A1',
-'DCLRE1C',
-'DICER1',
-'DUOX2',
-'EHMT1',
-'ELP1',
-'ERCC6',
-'EVC',
-'EVC2',
-'EXT1',
-'EXT2',
-'EYS',
-'FANCA',
-'FANCI',
-'FBN2',
-'FKRP',
-'FLCN',
-'FRAS1',
-'GAA',
-'GALC',
-'GALNS',
-'GALT',
-'GBA1',
-'GBE1',
-'GCDH',
-'GLB1',
-'GNE',
-'GNPTAB',
-'HEXA',
-'HEXB',
-'HGD',
-'HGSNAT',
-'HMBS',
-'HPS3',
-'ITGA2B',
-'IVD',
-'KCNQ1',
-'KRIT1',
-'LDLR',
-'LIPA',
-'LOXHD1',
-'LPL',
-'LRPPRC',
-'LYST',
-'MAN2B1',
-'MCCC1',
-'MCCC2',
-'MED13L',
-'MFN2',
-'MKS1',
-'MMUT',
-'MSH2',
-'MTHFR',
-'MUTYH',
-'NAGLU',
-'NF1',
-'NF2',
-'NIPBL',
-'NPC1',
-'NSD1',
-'OCA2',
-'OPA1',
-'PAH',
-'PALB2',
-'PAX3',
-'PAX6',
-'PCDH15',
-'PCNT',
-'PKHD1',
-'POMGNT1',
-'PRPF31',
-'PYGM',
-'RAD50',
-'RARS2',
-'RECQL4',
-'RP1',
-'RPGRIP1L',
-'SACS',
-'SATB2',
-'SCN4A',
-'SERPING1',
-'SGSH',
-'SI',
-'SLC12A6',
-'SLC25A13',
-'SLC26A4',
-'SMPD1',
-'SPAST',
-'SPG11',
-'SYNE1',
-'TCIRG1',
-'TMC1',
-'TMEM67',
-'TPP1',
-'TSC1',
-'TYR',
-'UNC13D',
-'USH1C',
-'USH2A',
-'VHL',
-'VPS13A',
-'VPS13B',
-'VWF',
-'WFS1',
-'WRN',
-'WT1',
-'XPC',
-'ZEB2',
-'ZFYVE26']
+ 'ABCD1',
+ 'ACAD9',
+ 'ACADM',
+ 'ACADVL',
+ 'ACAT1',
+ 'ADA',
+ 'AGL',
+ 'AGXT',
+ 'AHI1',
+ 'AIRE',
+ 'ALMS1',
+ 'ALOX12B',
+ 'ALPL',
+ 'ANK1',
+ 'ANO5',
+ 'APC',
+ 'AR',
+ 'ARSA',
+ 'ARSB',
+ 'ASL',
+ 'ASPA',
+ 'ASPM',
+ 'ATM',
+ 'ATP7B',
+ 'BBS2',
+ 'BCKDHA',
+ 'BEST1',
+ 'BLM',
+ 'BRIP1',
+ 'BTD',
+ 'BTK',
+ 'CASR',
+ 'CBS',
+ 'CC2D2A',
+ 'CDH23',
+ 'CEP290',
+ 'CERKL',
+ 'CFTR',
+ 'CHD7',
+ 'CHEK2',
+ 'CLN3',
+ 'CNGB3',
+ 'CPS1',
+ 'CRB1',
+ 'CTNS',
+ 'CYBB',
+ 'CYP11B1',
+ 'CYP17A1',
+ 'CYP27A1',
+ 'DCLRE1C',
+ 'DICER1',
+ 'DUOX2',
+ 'EHMT1',
+ 'ELP1',
+ 'ERCC6',
+ 'EVC',
+ 'EVC2',
+ 'EXT1',
+ 'EXT2',
+ 'EYS',
+ 'F7',
+ 'F8',
+ 'F9',
+ 'FANCA',
+ 'FANCI',
+ 'FBN2',
+ 'FKRP',
+ 'FLCN',
+ 'FRAS1',
+ 'G6PD',
+ 'GAA',
+ 'GALC',
+ 'GALNS',
+ 'GALT',
+ 'GBA1',
+ 'GBE1',
+ 'GCDH',
+ 'GJB1',
+ 'GLB1',
+ 'GNE',
+ 'GNPTAB',
+ 'HBB',
+ 'HEXA',
+ 'HEXB',
+ 'HGD',
+ 'HGSNAT',
+ 'HMBS',
+ 'HPRT1',
+ 'HPS3',
+ 'IL2RG',
+ 'ITGA2B',
+ 'IVD',
+ 'KCNH2',
+ 'KCNQ1',
+ 'KRIT1',
+ 'L1CAM',
+ 'LDLR',
+ 'LIPA',
+ 'LOXHD1',
+ 'LPL',
+ 'LRPPRC',
+ 'LYST',
+ 'MAN2B1',
+ 'MCCC1',
+ 'MCCC2',
+ 'MED13L',
+ 'MFN2',
+ 'MKS1',
+ 'MMUT',
+ 'MPZ',
+ 'MSH2',
+ 'MTHFR',
+ 'MUTYH',
+ 'MYH7',
+ 'NAGLU',
+ 'NF1',
+ 'NF2',
+ 'NIPBL',
+ 'NPC1',
+ 'NSD1',
+ 'OCA2',
+ 'OPA1',
+ 'PAH',
+ 'PALB2',
+ 'PAX3',
+ 'PAX6',
+ 'PCDH15',
+ 'PCNT',
+ 'PKHD1',
+ 'PMM2',
+ 'POMGNT1',
+ 'PRPF31',
+ 'PYGM',
+ 'RAD50',
+ 'RARS2',
+ 'RECQL4',
+ 'RHO',
+ 'RP1',
+ 'RPGRIP1L',
+ 'SACS',
+ 'SATB2',
+ 'SCN4A',
+ 'SERPING1',
+ 'SGSH',
+ 'SI',
+ 'SLC12A6',
+ 'SLC25A13',
+ 'SLC26A4',
+ 'SMPD1',
+ 'SPAST',
+ 'SPG11',
+ 'SYNE1',
+ 'TCIRG1',
+ 'TMC1',
+ 'TMEM67',
+ 'TP53',
+ 'TPP1',
+ 'TSC1',
+ 'TTR',
+ 'TYR',
+ 'UNC13D',
+ 'USH1C',
+ 'USH2A',
+ 'VHL',
+ 'VPS13A',
+ 'VPS13B',
+ 'VWF',
+ 'WFS1',
+ 'WRN',
+ 'WT1',
+ 'XPC',
+ 'ZEB2',
+ 'ZFYVE26']
+
 
 ##########################
 ### RefSeq transcripts ###
@@ -1129,29 +1155,50 @@ def get_variant_details(variant_record):
         effect : str
             Phenotypic effect.
     """
+
+    
+
+# Expected naming format: variant name should include amino acid change e.g NM_000033.4(ABCD1):c.1256T>C (p.Val419Ala)    
+# So I'll Include a caveat for variants with differing naming format e.g 'NC_000023.11:g.155022771G>A'
+    
     var_name = variant_record["@VariationName"]
-    var_name_split1 = var_name.split("(")
-    var_name_split2 = var_name_split1[1].split(")")
-    gene_name = var_name_split2[0]
-    transcript = var_name_split1[0]
-    nucl = var_name_split2[1][3:-1]
-    if len(var_name_split1) == 3:
-        prot = var_name_split1[2][2:-1]
-        if prot[-1] == "=":
-            mol_conseq = "synonymous"
-        elif prot[-3:] == "Ter":
-            mol_conseq = "nonsense"
-        else:
-            mol_conseq = "missense"
-    else:
+    if "(" not in var_name:
+        gene_name = "none"
+        transcript = "none"
+        nucl = "none"
         prot = "none"
         mol_conseq = "other"
-    if variant_record["@RecordType"] == "interpreted":
-        rec_type = "InterpretedRecord"
-    elif variant_record["@RecordType"] == "included":
-        rec_type = "IncludedRecord"
-    effect = variant_record[rec_type]["Interpretations"]["Interpretation"]["Description"]
-    return gene_name, transcript, nucl, prot, mol_conseq, effect
+    else:
+        var_name_split1 = var_name.split("(")
+        var_name_split2 = var_name_split1[1].split(")")
+        gene_name = var_name_split2[0]
+        transcript = var_name_split1[0]
+        nucl = var_name_split2[1][3:-1]
+
+        if len(var_name_split1) == 3:
+            prot = var_name_split1[2][2:-1]
+            if prot[-1] == "=":
+                mol_conseq = "synonymous"
+            elif prot[-3:] == "Ter":
+                mol_conseq = "nonsense"
+            else:
+                mol_conseq = "missense"
+        else:
+            prot = "none"
+            mol_conseq = "other"
+
+        '''
+        if variant_record["@RecordType"] == "interpreted":
+            rec_type = "InterpretedRecord"
+        elif variant_record["@RecordType"] == "included":
+            rec_type = "IncludedRecord"
+        elif variant_record["@RecordType"] == "classified":
+            rec_type = "ClassifiedRecord"
+        effect = variant_record[rec_type]["Interpretations"]["Interpretation"]["Description"] 
+        '''
+
+    return gene_name, transcript, nucl, prot, mol_conseq 
+    #return gene_name, transcript, nucl, prot, mol_conseq, effect
 
 
 def get_species(record):
@@ -1517,7 +1564,7 @@ def identify_unique_transcripts(gene):
         Set of unique transcript accessions.
     """
 
-    gene_df = pd.read_csv(f"pathogenic/{gene}.csv")
+    gene_df = pd.read_csv(f"pathogenic_lociii/{gene}.csv", sep= '\t')
     varids = gene_df["VariationID"].astype(str).tolist()
 
     unique_acc = set()
@@ -1525,7 +1572,8 @@ def identify_unique_transcripts(gene):
     for varid in tqdm(varids, desc=f"{gene}: variants"):
         try:
             varrec = get_variant(varid)
-            name, acc, mut, pmut, muttype, status = get_variant_details(varrec)
+            #name, acc, mut, pmut, muttype, status = get_variant_details(varrec)
+            name, acc, mut, pmut, muttype = get_variant_details(varrec)
 
             if acc is not None:
                 unique_acc.add(acc)
@@ -1533,7 +1581,7 @@ def identify_unique_transcripts(gene):
         except Exception as e:
             print(f"Error processing VariantID {varid}: {e}")
 
-    print(f"{gene}: Found {len(unique_acc)} unique transcript(s)")
+    print(f"{gene}: Found {len(unique_acc)} unique transcript(s): {unique_acc}")
     return unique_acc
 
 

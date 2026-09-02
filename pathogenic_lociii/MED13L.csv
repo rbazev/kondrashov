@@ -1,0 +1,150 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_015335.5(MED13L):c.480-1G>T	23389	MED13L	Pathogenic	GRCh38	221557
+single nucleotide variant	NM_015335.5(MED13L):c.6485C>T (p.Thr2162Met)	23389	MED13L	Pathogenic	GRCh38	224153
+single nucleotide variant	NM_015335.5(MED13L):c.5278C>T (p.Arg1760Ter)	23389	MED13L	Pathogenic	GRCh38	280198
+single nucleotide variant	NM_015335.5(MED13L):c.1336C>T (p.Gln446Ter)	23389	MED13L	Pathogenic	GRCh38	280267
+single nucleotide variant	NM_015335.5(MED13L):c.4956-2A>C	23389	MED13L	Pathogenic	GRCh38	374334
+single nucleotide variant	NM_015335.5(MED13L):c.2591T>A (p.Met864Lys)	23389	MED13L	Likely pathogenic	GRCh38	376790
+single nucleotide variant	NM_015335.5(MED13L):c.43G>T (p.Glu15Ter)	23389	MED13L	Likely pathogenic	GRCh38	379895
+single nucleotide variant	NM_015335.5(MED13L):c.4051C>T (p.Gln1351Ter)	23389	MED13L	Pathogenic	GRCh38	392058
+single nucleotide variant	NM_015335.5(MED13L):c.2605C>A (p.Pro869Thr)	23389	MED13L	Likely pathogenic	GRCh38	391487
+single nucleotide variant	NM_015335.5(MED13L):c.5785A>G (p.Lys1929Glu)	23389	MED13L	Likely pathogenic	GRCh38	422146
+single nucleotide variant	NM_015335.5(MED13L):c.5589-1G>A	23389	MED13L	Pathogenic	GRCh38	423638
+single nucleotide variant	NM_015335.5(MED13L):c.2636C>T (p.Pro879Leu)	23389	MED13L	Likely pathogenic	GRCh38	421338
+single nucleotide variant	NM_015335.5(MED13L):c.2633C>T (p.Ser878Phe)	23389	MED13L	Likely pathogenic	GRCh38	421145
+single nucleotide variant	NM_015335.5(MED13L):c.2524C>T (p.Arg842Ter)	23389	MED13L	Pathogenic	GRCh38	418865
+single nucleotide variant	NM_015335.5(MED13L):c.2579A>G (p.Asp860Gly)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	427897
+single nucleotide variant	NM_015335.5(MED13L):c.2930C>T (p.Ala977Val)	23389	MED13L	Pathogenic	GRCh38	429919
+single nucleotide variant	NM_015335.5(MED13L):c.1A>G (p.Met1Val)	23389	MED13L	Pathogenic	GRCh38	430179
+single nucleotide variant	NM_015335.5(MED13L):c.5173C>T (p.Gln1725Ter)	23389	MED13L	Pathogenic	GRCh38	431108
+single nucleotide variant	NM_015335.5(MED13L):c.5588+1G>A	23389	MED13L	Pathogenic	GRCh38	431140
+single nucleotide variant	NM_015335.5(MED13L):c.2597C>T (p.Pro866Leu)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	431916
+single nucleotide variant	NM_015335.5(MED13L):c.2059C>T (p.Gln687Ter)	23389	MED13L	Pathogenic	GRCh38	433184
+single nucleotide variant	NM_015335.5(MED13L):c.6556C>T (p.Gln2186Ter)	23389	MED13L	Likely pathogenic	GRCh38	451351
+single nucleotide variant	NM_015335.5(MED13L):c.6418C>T (p.Gln2140Ter)	23389	MED13L	Pathogenic	GRCh38	452776
+single nucleotide variant	NM_015335.5(MED13L):c.5175G>T (p.Gln1725His)	23389	MED13L	Likely pathogenic	GRCh38	450904
+single nucleotide variant	NM_015335.5(MED13L):c.2600C>T (p.Thr867Ile)	23389	MED13L	Likely pathogenic	GRCh38	488544
+single nucleotide variant	NM_015335.5(MED13L):c.4456C>T (p.Gln1486Ter)	23389	MED13L	Likely pathogenic	GRCh38	489056
+single nucleotide variant	NM_015335.5(MED13L):c.3469C>T (p.Gln1157Ter)	23389	MED13L	Pathogenic	GRCh38	489304
+single nucleotide variant	NM_015335.5(MED13L):c.6336G>A (p.Trp2112Ter)	23389	MED13L	Pathogenic	GRCh38	521253
+single nucleotide variant	NM_015335.5(MED13L):c.6331C>T (p.Gln2111Ter)	23389	MED13L	Pathogenic	GRCh38	521384
+single nucleotide variant	NM_015335.5(MED13L):c.6280C>A (p.Pro2094Thr)	23389	MED13L	Pathogenic	GRCh38	520657
+single nucleotide variant	NM_015335.5(MED13L):c.5033T>A (p.Val1678Asp)	23389	MED13L	Likely pathogenic	GRCh38	521556
+single nucleotide variant	NM_015335.5(MED13L):c.3935-2A>G	23389	MED13L	Likely pathogenic	GRCh38	520560
+single nucleotide variant	NM_015335.5(MED13L):c.2239-2A>G	23389	MED13L	Pathogenic	GRCh38	521269
+single nucleotide variant	NM_015335.5(MED13L):c.1690C>T (p.Arg564Ter)	23389	MED13L	Pathogenic	GRCh38	521154
+single nucleotide variant	NM_015335.5(MED13L):c.1361C>G (p.Ser454Ter)	23389	MED13L	Pathogenic	GRCh38	520839
+single nucleotide variant	NM_015335.5(MED13L):c.626-2A>G	23389	MED13L	Pathogenic	GRCh38	545095
+single nucleotide variant	NM_015335.5(MED13L):c.73-1G>A	23389	MED13L	Pathogenic	GRCh38	545076
+single nucleotide variant	NM_015335.5(MED13L):c.2107C>T (p.Gln703Ter)	23389	MED13L	Pathogenic	GRCh38	545567
+single nucleotide variant	NM_015335.5(MED13L):c.4609C>T (p.Gln1537Ter)	23389	MED13L	Pathogenic	GRCh38	546033
+single nucleotide variant	NM_015335.5(MED13L):c.5965C>T (p.Gln1989Ter)	23389	MED13L	Likely pathogenic	GRCh38	559865
+single nucleotide variant	NM_015335.5(MED13L):c.4077G>A (p.Trp1359Ter)	23389	MED13L	Pathogenic	GRCh38	572855
+single nucleotide variant	NM_015335.5(MED13L):c.3935-1G>A	23389	MED13L	Likely pathogenic	GRCh38	578927
+single nucleotide variant	NM_015335.5(MED13L):c.601C>T (p.Gln201Ter)	23389	MED13L	Pathogenic	GRCh38	568975
+single nucleotide variant	NM_015335.5(MED13L):c.1176-1G>A	23389	MED13L	Likely pathogenic	GRCh38	577695
+single nucleotide variant	NM_015335.5(MED13L):c.6488C>T (p.Ser2163Leu)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	620012
+single nucleotide variant	NM_015335.5(MED13L):c.5866C>T (p.Gln1956Ter)	23389	MED13L	Pathogenic	GRCh38	620310
+single nucleotide variant	NM_015335.5(MED13L):c.4060C>T (p.Gln1354Ter)	23389	MED13L	Pathogenic	GRCh38	620328
+single nucleotide variant	NM_015335.5(MED13L):c.2065C>T (p.Gln689Ter)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	666327
+single nucleotide variant	NM_015335.5(MED13L):c.2345-3C>G	23389	MED13L	Likely pathogenic	GRCh38	691263
+single nucleotide variant	NM_015335.5(MED13L):c.263G>A (p.Trp88Ter)	23389	MED13L	Pathogenic	GRCh38	801022
+single nucleotide variant	NM_015335.5(MED13L):c.6388-2A>G	23389	MED13L	Pathogenic	GRCh38	806954
+single nucleotide variant	NM_015335.5(MED13L):c.4076G>A (p.Trp1359Ter)	23389	MED13L	Pathogenic	GRCh38	817519
+single nucleotide variant	NM_015335.5(MED13L):c.3482C>T (p.Thr1161Ile)	23389	MED13L	Likely pathogenic	GRCh38	827796
+single nucleotide variant	NM_015335.5(MED13L):c.1420G>T (p.Glu474Ter)	23389	MED13L	Pathogenic	GRCh38	871732
+single nucleotide variant	NM_015335.5(MED13L):c.4814C>G (p.Ser1605Ter)	23389	MED13L	Pathogenic	GRCh38	916096
+single nucleotide variant	NM_015335.5(MED13L):c.6367C>T (p.Gln2123Ter)	23389	MED13L	Pathogenic	GRCh38	916305
+single nucleotide variant	NM_015335.5(MED13L):c.745A>T (p.Lys249Ter)	23389	MED13L	Likely pathogenic	GRCh38	931710
+single nucleotide variant	NM_015335.5(MED13L):c.712G>T (p.Glu238Ter)	23389	MED13L	Pathogenic	GRCh38	947607
+single nucleotide variant	NM_015335.5(MED13L):c.995A>G (p.Glu332Gly)	23389	MED13L	Likely pathogenic	GRCh38	973301
+single nucleotide variant	NM_015335.5(MED13L):c.2996+1G>A	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	976193
+single nucleotide variant	NM_015335.5(MED13L):c.1135C>T (p.Arg379Ter)	23389	MED13L	Pathogenic	GRCh38	977626
+single nucleotide variant	NM_015335.5(MED13L):c.4358A>C (p.His1453Pro)	23389	MED13L	Likely pathogenic	GRCh38	978380
+single nucleotide variant	NM_015335.5(MED13L):c.4123G>T (p.Glu1375Ter)	23389	MED13L	Pathogenic	GRCh38	978876
+single nucleotide variant	NM_015335.5(MED13L):c.2605C>T (p.Pro869Ser)	23389	MED13L	Likely pathogenic	GRCh38	978840
+single nucleotide variant	NM_015335.5(MED13L):c.442C>T (p.Arg148Ter)	23389	MED13L	Pathogenic	GRCh38	978877
+single nucleotide variant	NM_015335.5(MED13L):c.395+1G>A	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	978841
+single nucleotide variant	NM_015335.5(MED13L):c.173T>A (p.Leu58Ter)	23389	MED13L	Pathogenic	GRCh38	978839
+single nucleotide variant	NM_015335.5(MED13L):c.5562C>A (p.Cys1854Ter)	23389	MED13L	Pathogenic	GRCh38	982756
+single nucleotide variant	NM_015335.5(MED13L):c.6226-1G>C	23389	MED13L	Pathogenic	GRCh38	984749
+single nucleotide variant	NM_015335.5(MED13L):c.5698C>T (p.Arg1900Ter)	23389	MED13L	Pathogenic	GRCh38	984826
+single nucleotide variant	NM_015335.5(MED13L):c.5365-1G>A	23389	MED13L	Pathogenic	GRCh38	986094
+single nucleotide variant	NM_015335.5(MED13L):c.4338+5G>A	23389	MED13L	Likely pathogenic	GRCh38	994241
+single nucleotide variant	NM_015335.5(MED13L):c.4417C>T (p.Gln1473Ter)	23389	MED13L	Pathogenic	GRCh38	996080
+single nucleotide variant	NM_015335.5(MED13L):c.3409A>C (p.Asn1137His)	23389	MED13L	Likely pathogenic	GRCh38	1013364
+single nucleotide variant	NM_015335.5(MED13L):c.2071C>T (p.Gln691Ter)	23389	MED13L	Pathogenic	GRCh38	1064782
+single nucleotide variant	NM_015335.5(MED13L):c.6583C>T (p.His2195Tyr)	23389	MED13L	Likely pathogenic	GRCh38	1098385
+single nucleotide variant	NM_015335.5(MED13L):c.3154C>T (p.Arg1052Ter)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	1172667
+single nucleotide variant	NM_015335.5(MED13L):c.1A>T (p.Met1Leu)	23389	MED13L	Likely pathogenic	GRCh38	1172658
+single nucleotide variant	NM_015335.5(MED13L):c.4792C>T (p.Gln1598Ter)	23389	MED13L	Likely pathogenic	GRCh38	1184558
+single nucleotide variant	NM_015335.5(MED13L):c.1516C>T (p.Gln506Ter)	23389	MED13L	Pathogenic	GRCh38	1199185
+single nucleotide variant	NM_015335.5(MED13L):c.5695G>A (p.Gly1899Arg)	23389	MED13L	Likely pathogenic	GRCh38	1240004
+single nucleotide variant	NM_015335.5(MED13L):c.553C>T (p.Gln185Ter)	23389	MED13L	Pathogenic	GRCh38	1254719
+single nucleotide variant	NM_015335.5(MED13L):c.1684C>T (p.Gln562Ter)	23389	MED13L	Pathogenic	GRCh38	1300394
+single nucleotide variant	NM_015335.5(MED13L):c.2239-11T>G	23389	MED13L	Likely pathogenic	GRCh38	1320063
+single nucleotide variant	NM_015335.5(MED13L):c.2950C>T (p.Gln984Ter)	23389	MED13L	Pathogenic	GRCh38	1321994
+single nucleotide variant	NM_015335.5(MED13L):c.4213G>T (p.Glu1405Ter)	23389	MED13L	Pathogenic	GRCh38	1330286
+single nucleotide variant	NM_015335.5(MED13L):c.1318C>T (p.Arg440Ter)	23389	MED13L	Pathogenic	GRCh38	1678862
+single nucleotide variant	NM_015335.5(MED13L):c.4041G>A (p.Trp1347Ter)	23389	MED13L	Pathogenic	GRCh38	1685943
+single nucleotide variant	NM_015335.5(MED13L):c.4955G>A (p.Ser1652Asn)	23389	MED13L	Likely pathogenic	GRCh38	1698066
+single nucleotide variant	NM_015335.5(MED13L):c.3205C>T (p.Gln1069Ter)	23389	MED13L	Pathogenic	GRCh38	1699335
+single nucleotide variant	NM_015335.5(MED13L):c.5941C>T (p.Gln1981Ter)	23389	MED13L	Pathogenic	GRCh38	1700209
+single nucleotide variant	NM_015335.5(MED13L):c.329G>A (p.Trp110Ter)	23389	MED13L	Pathogenic	GRCh38	1700210
+single nucleotide variant	NM_015335.5(MED13L):c.1280+1G>A	23389	MED13L	Pathogenic	GRCh38	1706430
+single nucleotide variant	NM_015335.5(MED13L):c.2281C>A (p.His761Asn)	23389	MED13L	Likely pathogenic	GRCh38	1712067
+single nucleotide variant	NM_015335.5(MED13L):c.5364+1G>T	23389	MED13L	Likely pathogenic	GRCh38	1802574
+single nucleotide variant	NM_015335.5(MED13L):c.2013-1G>T	23389	MED13L	Likely pathogenic	GRCh38	1805397
+single nucleotide variant	NM_015335.5(MED13L):c.475A>T (p.Lys159Ter)	23389	MED13L	Pathogenic	GRCh38	1942153
+single nucleotide variant	NM_015335.5(MED13L):c.4136C>T (p.Pro1379Leu)	23389	MED13L	Likely pathogenic	GRCh38	2441703
+single nucleotide variant	NM_015335.5(MED13L):c.6509T>G (p.Leu2170Trp)	23389	MED13L	Likely pathogenic	GRCh38	2443570
+single nucleotide variant	NM_015335.5(MED13L):c.4132G>T (p.Glu1378Ter)	23389	MED13L	Pathogenic	GRCh38	2497747
+single nucleotide variant	NM_015335.5(MED13L):c.3961C>T (p.Gln1321Ter)	23389	MED13L	Pathogenic	GRCh38	2498569
+single nucleotide variant	NM_015335.5(MED13L):c.5039A>G (p.Tyr1680Cys)	23389	MED13L	Likely pathogenic	GRCh38	2500293
+single nucleotide variant	NM_015335.5(MED13L):c.652G>A (p.Gly218Arg)	23389	MED13L	Likely pathogenic	GRCh38	2501411
+single nucleotide variant	NM_015335.5(MED13L):c.5650A>C (p.Ile1884Leu)	23389	MED13L	Likely pathogenic	GRCh38	2575929
+single nucleotide variant	NM_015335.5(MED13L):c.311-1G>A	23389	MED13L	Pathogenic	GRCh38	2576185
+single nucleotide variant	NM_015335.5(MED13L):c.5920C>T (p.Arg1974Ter)	23389	MED13L	Pathogenic	GRCh38	2576424
+single nucleotide variant	NM_015335.5(MED13L):c.6280C>T (p.Pro2094Ser)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	2579461
+single nucleotide variant	NM_015335.5(MED13L):c.3425G>A (p.Gly1142Glu)	23389	MED13L	Likely pathogenic	GRCh38	2636179
+single nucleotide variant	NM_015335.5(MED13L):c.4955+1G>A	23389	MED13L	Likely pathogenic	GRCh38	2762830
+single nucleotide variant	NM_015335.5(MED13L):c.5175+1G>A	23389	MED13L	Likely pathogenic	GRCh38	2780258
+single nucleotide variant	NM_015335.5(MED13L):c.1486G>T (p.Glu496Ter)	23389	MED13L	Pathogenic	GRCh38	2820850
+single nucleotide variant	NM_015335.5(MED13L):c.2110C>T (p.Gln704Ter)	23389	MED13L	Pathogenic	GRCh38	2842211
+single nucleotide variant	NM_015335.5(MED13L):c.338G>T (p.Gly113Val)	23389	MED13L	Likely pathogenic	GRCh38	2921223
+single nucleotide variant	NM_015335.5(MED13L):c.5722G>C (p.Glu1908Gln)	23389	MED13L	Likely pathogenic	GRCh38	3024220
+single nucleotide variant	NM_015335.5(MED13L):c.5950C>T (p.Gln1984Ter)	23389	MED13L	Likely pathogenic	GRCh38	3059583
+single nucleotide variant	NM_015335.5(MED13L):c.2606C>T (p.Pro869Leu)	23389	MED13L	Pathogenic/Likely pathogenic	GRCh38	3062233
+single nucleotide variant	NM_015335.5(MED13L):c.6335G>A (p.Trp2112Ter)	23389	MED13L	Pathogenic	GRCh38	3066081
+single nucleotide variant	NM_015335.5(MED13L):c.2584C>T (p.Gln862Ter)	23389	MED13L	Pathogenic	GRCh38	3251049
+single nucleotide variant	NM_015335.5(MED13L):c.374C>T (p.Ala125Val)	23389	MED13L	Likely pathogenic	GRCh38	3252969
+single nucleotide variant	NM_015335.5(MED13L):c.6277C>T (p.Gln2093Ter)	23389	MED13L	Pathogenic	GRCh38	3254682
+single nucleotide variant	NM_015335.5(MED13L):c.3396C>A (p.Cys1132Ter)	23389	MED13L	Likely pathogenic	GRCh38	3256760
+single nucleotide variant	NM_015335.5(MED13L):c.6372C>A (p.Cys2124Ter)	23389	MED13L	Pathogenic	GRCh38	3294006
+single nucleotide variant	NM_015335.5(MED13L):c.6067+1G>A	23389	MED13L	Likely pathogenic	GRCh38	3294007
+single nucleotide variant	NM_015335.5(MED13L):c.4471G>T (p.Glu1491Ter)	23389	MED13L	Pathogenic	GRCh38	3337281
+single nucleotide variant	NM_015335.5(MED13L):c.6022G>T (p.Ala2008Ser)	23389	MED13L	Likely pathogenic	GRCh38	3340727
+single nucleotide variant	NM_015335.5(MED13L):c.2824C>T (p.Gln942Ter)	23389	MED13L	Likely pathogenic	GRCh38	3345502
+single nucleotide variant	NM_015335.5(MED13L):c.347A>G (p.Tyr116Cys)	23389	MED13L	Likely pathogenic	GRCh38	3366964
+single nucleotide variant	NM_015335.5(MED13L):c.2593T>C (p.Phe865Leu)	23389	MED13L	Likely pathogenic	GRCh38	3376159
+single nucleotide variant	NM_015335.5(MED13L):c.5461C>T (p.Gln1821Ter)	23389	MED13L	Likely pathogenic	GRCh38	3381226
+single nucleotide variant	NM_015335.5(MED13L):c.4003C>T (p.Gln1335Ter)	23389	MED13L	Pathogenic	GRCh38	3394565
+single nucleotide variant	NM_015335.5(MED13L):c.215G>A (p.Trp72Ter)	23389	MED13L	Pathogenic	GRCh38	3544375
+single nucleotide variant	NM_015335.5(MED13L):c.6427G>T (p.Glu2143Ter)	23389	MED13L	Pathogenic	GRCh38	3660889
+single nucleotide variant	NM_015335.5(MED13L):c.6584A>G (p.His2195Arg)	23389	MED13L	Pathogenic	GRCh38	3686713
+single nucleotide variant	NM_015335.5(MED13L):c.5545G>T (p.Glu1849Ter)	23389	MED13L	Pathogenic	GRCh38	3674762
+single nucleotide variant	NM_015335.5(MED13L):c.3487G>A (p.Gly1163Arg)	23389	MED13L	Likely pathogenic	GRCh38	3777144
+single nucleotide variant	NM_015335.5(MED13L):c.6293G>C (p.Gly2098Ala)	23389	MED13L	Likely pathogenic	GRCh38	3774026
+single nucleotide variant	NM_015335.5(MED13L):c.4081C>T (p.Gln1361Ter)	23389	MED13L	Likely pathogenic	GRCh38	3775246
+single nucleotide variant	NM_015335.5(MED13L):c.2345-1G>T	23389	MED13L	Likely pathogenic	GRCh38	3775322
+single nucleotide variant	NM_015335.5(MED13L):c.3703C>T (p.Gln1235Ter)	23389	MED13L	Likely pathogenic	GRCh38	4057275
+single nucleotide variant	NM_015335.5(MED13L):c.5732-2A>C	23389	MED13L	Pathogenic	GRCh38	4075027
+single nucleotide variant	NM_015335.5(MED13L):c.3815G>A (p.Trp1272Ter)	23389	MED13L	Likely pathogenic	GRCh38	4082293
+single nucleotide variant	NM_015335.5(MED13L):c.2569+1G>A	23389	MED13L	Pathogenic	GRCh38	4082576
+single nucleotide variant	NM_015335.5(MED13L):c.5890+1G>C	23389	MED13L	Likely pathogenic	GRCh38	4085877
+single nucleotide variant	NM_015335.5(MED13L):c.450C>G (p.Tyr150Ter)	23389	MED13L	Likely pathogenic	GRCh38	4292597
+single nucleotide variant	NM_015335.5(MED13L):c.4358A>G (p.His1453Arg)	23389	MED13L	Likely pathogenic	GRCh38	4528268
+single nucleotide variant	NM_015335.5(MED13L):c.2T>C (p.Met1Thr)	23389	MED13L	Likely pathogenic	GRCh38	4533185
+single nucleotide variant	NM_015335.5(MED13L):c.3583C>T (p.Gln1195Ter)	23389	MED13L	Likely pathogenic	GRCh38	4538507
+single nucleotide variant	NM_015335.5(MED13L):c.5662C>T (p.Gln1888Ter)	23389	MED13L	Likely pathogenic	GRCh38	4687972
+single nucleotide variant	NM_015335.5(MED13L):c.3484T>C (p.Cys1162Arg)	23389	MED13L	Likely pathogenic	GRCh38	4796482

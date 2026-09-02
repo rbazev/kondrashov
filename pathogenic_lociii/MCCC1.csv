@@ -1,0 +1,108 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020166.5(MCCC1):c.974T>G (p.Met325Arg)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1929
+single nucleotide variant	NM_020166.5(MCCC1):c.1155A>C (p.Arg385Ser)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1930
+single nucleotide variant	NM_020166.5(MCCC1):c.1594G>C (p.Asp532His)	56922	MCCC1	Pathogenic	GRCh38	1931
+single nucleotide variant	NM_020166.5(MCCC1):c.1310T>C (p.Leu437Pro)	56922	MCCC1	Likely pathogenic	GRCh38	1932
+single nucleotide variant	NM_020166.5(MCCC1):c.1604C>T (p.Ser535Phe)	56922	MCCC1	Likely pathogenic	GRCh38	1933
+single nucleotide variant	NM_020166.5(MCCC1):c.1380T>G (p.Ile460Met)	56922	MCCC1	Pathogenic	GRCh38	1935
+single nucleotide variant	NM_020166.5(MCCC1):c.1277T>C (p.Val426Ala)	56922	MCCC1	Likely pathogenic	GRCh38	95939
+single nucleotide variant	NM_020166.5(MCCC1):c.640-1G>A	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	167273
+single nucleotide variant	NM_020166.5(MCCC1):c.137-2A>G	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	167274
+single nucleotide variant	NM_020166.5(MCCC1):c.1114C>T (p.Gln372Ter)	56922	MCCC1	Pathogenic	GRCh38	193913
+single nucleotide variant	NM_020166.5(MCCC1):c.205A>T (p.Lys69Ter)	56922	MCCC1	Pathogenic	GRCh38	196495
+single nucleotide variant	NM_020166.5(MCCC1):c.640-2A>G	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	198578
+single nucleotide variant	NM_020166.5(MCCC1):c.1331G>A (p.Arg444His)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	203796
+single nucleotide variant	NM_020166.5(MCCC1):c.841C>T (p.Arg281Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	203795
+single nucleotide variant	NM_020166.5(MCCC1):c.980C>G (p.Ser327Ter)	56922	MCCC1	Pathogenic	GRCh38	265231
+single nucleotide variant	NM_020166.5(MCCC1):c.639+2T>A	56922	MCCC1	Pathogenic	GRCh38	476398
+single nucleotide variant	NM_020166.5(MCCC1):c.1261C>T (p.Arg421Trp)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	476391
+single nucleotide variant	NM_020166.5(MCCC1):c.863A>G (p.Glu288Gly)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	476400
+single nucleotide variant	NM_020166.5(MCCC1):c.1225C>T (p.Arg409Ter)	56922	MCCC1	Pathogenic	GRCh38	488805
+single nucleotide variant	NM_020166.5(MCCC1):c.945T>A (p.Tyr315Ter)	56922	MCCC1	Pathogenic	GRCh38	488806
+single nucleotide variant	NM_020166.5(MCCC1):c.1930G>T (p.Glu644Ter)	56922	MCCC1	Pathogenic	GRCh38	503626
+single nucleotide variant	NM_020166.5(MCCC1):c.676G>T (p.Glu226Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	523813
+single nucleotide variant	NM_020166.5(MCCC1):c.1A>G (p.Met1Val)	56922	MCCC1	Likely pathogenic	GRCh38	542951
+single nucleotide variant	NM_020166.5(MCCC1):c.1153A>G (p.Arg385Gly)	56922	MCCC1	Likely pathogenic	GRCh38	542952
+single nucleotide variant	NM_020166.5(MCCC1):c.196C>T (p.Arg66Cys)	56922	MCCC1	Likely pathogenic	GRCh38	542949
+single nucleotide variant	NM_020166.5(MCCC1):c.343C>T (p.Gln115Ter)	56922	MCCC1	Pathogenic	GRCh38	570190
+single nucleotide variant	NM_020166.5(MCCC1):c.1303G>A (p.Ala435Thr)	56922	MCCC1	Pathogenic	GRCh38	649327
+single nucleotide variant	NM_020166.5(MCCC1):c.1302T>G (p.Ile434Met)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	664032
+single nucleotide variant	NM_020166.5(MCCC1):c.673C>T (p.Gln225Ter)	56922	MCCC1	Pathogenic	GRCh38	654147
+single nucleotide variant	NM_020166.5(MCCC1):c.1595-1G>C	56922	MCCC1	Likely pathogenic	GRCh38	652022
+single nucleotide variant	NM_020166.5(MCCC1):c.1268-1G>A	56922	MCCC1	Pathogenic	GRCh38	641648
+single nucleotide variant	NM_020166.5(MCCC1):c.89+1G>C	56922	MCCC1	Likely pathogenic	GRCh38	649749
+single nucleotide variant	NM_020166.5(MCCC1):c.455C>T (p.Pro152Leu)	56922	MCCC1	Likely pathogenic	GRCh38	834154
+single nucleotide variant	NM_020166.5(MCCC1):c.90-1G>C	56922	MCCC1	Likely pathogenic	GRCh38	857683
+single nucleotide variant	NM_020166.5(MCCC1):c.1732-1G>T	56922	MCCC1	Likely pathogenic	GRCh38	858761
+single nucleotide variant	NM_020166.5(MCCC1):c.1527C>A (p.Cys509Ter)	56922	MCCC1	Pathogenic	GRCh38	872659
+single nucleotide variant	NM_020166.5(MCCC1):c.1483C>T (p.Gln495Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	873469
+single nucleotide variant	NM_020166.5(MCCC1):c.1722T>G (p.Tyr574Ter)	56922	MCCC1	Pathogenic	GRCh38	951878
+single nucleotide variant	NM_020166.5(MCCC1):c.387C>A (p.Cys129Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	949042
+single nucleotide variant	NM_020166.5(MCCC1):c.639+5G>T	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1067048
+single nucleotide variant	NM_020166.5(MCCC1):c.2T>C (p.Met1Thr)	56922	MCCC1	Pathogenic	GRCh38	1066544
+single nucleotide variant	NM_020166.5(MCCC1):c.1268-2A>G	56922	MCCC1	Pathogenic	GRCh38	1072424
+single nucleotide variant	NM_020166.5(MCCC1):c.1205T>G (p.Leu402Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1074168
+single nucleotide variant	NM_020166.5(MCCC1):c.313C>T (p.Gln105Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1069056
+single nucleotide variant	NM_020166.5(MCCC1):c.123C>A (p.Tyr41Ter)	56922	MCCC1	Pathogenic	GRCh38	1070232
+single nucleotide variant	NM_020166.5(MCCC1):c.1394C>T (p.Thr465Ile)	56922	MCCC1	Likely pathogenic	GRCh38	1199832
+single nucleotide variant	NM_020166.5(MCCC1):c.382G>T (p.Gly128Ter)	56922	MCCC1	Likely pathogenic	GRCh38	1324699
+single nucleotide variant	NM_020166.5(MCCC1):c.955+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	1465815
+single nucleotide variant	NM_020166.5(MCCC1):c.1378-1G>T	56922	MCCC1	Likely pathogenic	GRCh38	1512710
+single nucleotide variant	NM_020166.5(MCCC1):c.1132C>T (p.Gln378Ter)	56922	MCCC1	Pathogenic	GRCh38	1364122
+single nucleotide variant	NM_020166.5(MCCC1):c.1084-1G>C	56922	MCCC1	Likely pathogenic	GRCh38	1499392
+single nucleotide variant	NM_020166.5(MCCC1):c.1264C>T (p.Gln422Ter)	56922	MCCC1	Pathogenic	GRCh38	1457467
+single nucleotide variant	NM_020166.5(MCCC1):c.1908C>G (p.Tyr636Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1370608
+single nucleotide variant	NM_020166.5(MCCC1):c.1594+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	1505606
+single nucleotide variant	NM_020166.5(MCCC1):c.1681+2T>C	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1491957
+single nucleotide variant	NM_020166.5(MCCC1):c.310C>T (p.Gln104Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1438722
+single nucleotide variant	NM_020166.5(MCCC1):c.1074G>A (p.Trp358Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1458455
+single nucleotide variant	NM_020166.5(MCCC1):c.539G>T (p.Gly180Val)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1458456
+single nucleotide variant	NM_020166.5(MCCC1):c.1651A>T (p.Arg551Ter)	56922	MCCC1	Pathogenic	GRCh38	1457124
+single nucleotide variant	NM_020166.5(MCCC1):c.1595-2A>G	56922	MCCC1	Likely pathogenic	GRCh38	1487797
+single nucleotide variant	NM_020166.5(MCCC1):c.1333C>T (p.Gln445Ter)	56922	MCCC1	Pathogenic	GRCh38	1458732
+single nucleotide variant	NM_020166.5(MCCC1):c.89+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	1517219
+single nucleotide variant	NM_020166.5(MCCC1):c.288T>A (p.Tyr96Ter)	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	1804815
+single nucleotide variant	NM_020166.5(MCCC1):c.1870-2A>G	56922	MCCC1	Likely pathogenic	GRCh38	2177386
+single nucleotide variant	NM_020166.5(MCCC1):c.1378-2A>G	56922	MCCC1	Pathogenic/Likely pathogenic	GRCh38	2421141
+single nucleotide variant	NM_020166.5(MCCC1):c.369+2T>C	56922	MCCC1	Likely pathogenic	GRCh38	1895825
+single nucleotide variant	NM_020166.5(MCCC1):c.220C>T (p.Gln74Ter)	56922	MCCC1	Pathogenic	GRCh38	1900449
+single nucleotide variant	NM_020166.5(MCCC1):c.762-2A>G	56922	MCCC1	Pathogenic	GRCh38	1999431
+single nucleotide variant	NM_020166.5(MCCC1):c.1731+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2019034
+single nucleotide variant	NM_020166.5(MCCC1):c.761+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2074545
+single nucleotide variant	NM_020166.5(MCCC1):c.955+1G>T	56922	MCCC1	Likely pathogenic	GRCh38	2129154
+single nucleotide variant	NM_020166.5(MCCC1):c.570C>A (p.Cys190Ter)	56922	MCCC1	Likely pathogenic	GRCh38	2502870
+single nucleotide variant	NM_020166.5(MCCC1):c.1585C>T (p.Gln529Ter)	56922	MCCC1	Likely pathogenic	GRCh38	2676447
+single nucleotide variant	NM_020166.5(MCCC1):c.1682-1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2676449
+single nucleotide variant	NM_020166.5(MCCC1):c.866C>T (p.Ala289Val)	56922	MCCC1	Likely pathogenic	GRCh38	2676453
+single nucleotide variant	NM_020166.5(MCCC1):c.1729C>T (p.Gln577Ter)	56922	MCCC1	Likely pathogenic	GRCh38	2676455
+single nucleotide variant	NM_020166.5(MCCC1):c.1869+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2676457
+single nucleotide variant	NM_020166.5(MCCC1):c.367C>T (p.Gln123Ter)	56922	MCCC1	Likely pathogenic	GRCh38	2676461
+single nucleotide variant	NM_020166.5(MCCC1):c.1873G>T (p.Gly625Ter)	56922	MCCC1	Likely pathogenic	GRCh38	2676462
+single nucleotide variant	NM_020166.5(MCCC1):c.826T>C (p.Cys276Arg)	56922	MCCC1	Likely pathogenic	GRCh38	2676465
+single nucleotide variant	NM_020166.5(MCCC1):c.1750C>T (p.Gln584Ter)	56922	MCCC1	Pathogenic	GRCh38	2676466
+single nucleotide variant	NM_020166.5(MCCC1):c.1681+5G>A	56922	MCCC1	Likely pathogenic	GRCh38	2676469
+single nucleotide variant	NM_020166.5(MCCC1):c.1882G>T (p.Glu628Ter)	56922	MCCC1	Pathogenic	GRCh38	2676471
+single nucleotide variant	NM_020166.5(MCCC1):c.873+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2705110
+single nucleotide variant	NM_020166.5(MCCC1):c.176A>G (p.Glu59Gly)	56922	MCCC1	Likely pathogenic	GRCh38	2699757
+single nucleotide variant	NM_020166.5(MCCC1):c.1777G>T (p.Gly593Ter)	56922	MCCC1	Pathogenic	GRCh38	2857602
+single nucleotide variant	NM_020166.5(MCCC1):c.90-1G>A	56922	MCCC1	Likely pathogenic	GRCh38	2878431
+single nucleotide variant	NM_020166.5(MCCC1):c.273+1G>C	56922	MCCC1	Likely pathogenic	GRCh38	2915992
+single nucleotide variant	NM_020166.5(MCCC1):c.1003G>T (p.Glu335Ter)	56922	MCCC1	Pathogenic	GRCh38	2955980
+single nucleotide variant	NM_020166.5(MCCC1):c.1289A>G (p.Tyr430Cys)	56922	MCCC1	Likely pathogenic	GRCh38	3065949
+single nucleotide variant	NM_020166.5(MCCC1):c.2050-2A>C	56922	MCCC1	Likely pathogenic	GRCh38	3241896
+single nucleotide variant	NM_020166.5(MCCC1):c.1732-2A>C	56922	MCCC1	Likely pathogenic	GRCh38	3588966
+single nucleotide variant	NM_020166.5(MCCC1):c.664C>T (p.Gln222Ter)	56922	MCCC1	Likely pathogenic	GRCh38	3588970
+single nucleotide variant	NM_020166.5(MCCC1):c.639+5G>C	56922	MCCC1	Likely pathogenic	GRCh38	3588971
+single nucleotide variant	NM_020166.5(MCCC1):c.321C>A (p.Tyr107Ter)	56922	MCCC1	Likely pathogenic	GRCh38	3588972
+single nucleotide variant	NM_020166.5(MCCC1):c.369+1G>A	56922	MCCC1	Likely pathogenic	GRCh38	3573503
+single nucleotide variant	NM_020166.5(MCCC1):c.1377+2T>C	56922	MCCC1	Likely pathogenic	GRCh38	3640872
+single nucleotide variant	NM_020166.5(MCCC1):c.1084-2A>C	56922	MCCC1	Likely pathogenic	GRCh38	3664211
+single nucleotide variant	NM_020166.5(MCCC1):c.874-1G>T	56922	MCCC1	Likely pathogenic	GRCh38	3683297
+single nucleotide variant	NM_020166.5(MCCC1):c.761+2T>C	56922	MCCC1	Pathogenic	GRCh38	3725440
+single nucleotide variant	NM_020166.5(MCCC1):c.1084-1G>T	56922	MCCC1	Likely pathogenic	GRCh38	3727210
+single nucleotide variant	NM_020166.5(MCCC1):c.1869+2T>C	56922	MCCC1	Pathogenic	GRCh38	4292847
+single nucleotide variant	NM_020166.5(MCCC1):c.1096G>A (p.Glu366Lys)	56922	MCCC1	Likely pathogenic	GRCh38	4816025
+single nucleotide variant	NM_020166.5(MCCC1):c.1363C>T (p.Leu455Phe)	56922	MCCC1	Likely pathogenic	GRCh38	4816027
+single nucleotide variant	NM_020166.5(MCCC1):c.1558A>T (p.Lys520Ter)	56922	MCCC1	Likely pathogenic	GRCh38	4816030
+single nucleotide variant	NM_020166.5(MCCC1):c.543T>G (p.Tyr181Ter)	56922	MCCC1	Likely pathogenic	GRCh38	4816036
+single nucleotide variant	NM_020166.5(MCCC1):c.873+1G>T	56922	MCCC1	Likely pathogenic	GRCh38	4816039

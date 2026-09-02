@@ -1,0 +1,427 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_017780.4(CHD7):c.3082A>G (p.Ile1028Val)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	2022
+single nucleotide variant	NM_017780.4(CHD7):c.3770T>G (p.Leu1257Arg)	55636	CHD7	Pathogenic	GRCh38	2023
+single nucleotide variant	NM_017780.4(CHD7):c.5418C>G (p.Tyr1806Ter)	55636	CHD7	Pathogenic	GRCh38	2024
+single nucleotide variant	NM_017780.4(CHD7):c.6955C>A (p.Arg2319Ser)	55636	CHD7	Pathogenic	GRCh38	2027
+single nucleotide variant	NM_017780.4(CHD7):c.3811G>T (p.Glu1271Ter)	55636	CHD7	Pathogenic	GRCh38	2028
+single nucleotide variant	NM_017780.4(CHD7):c.6322G>A (p.Gly2108Arg)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	2032
+single nucleotide variant	NM_017780.4(CHD7):c.2501C>T (p.Ser834Phe)	55636	CHD7	Pathogenic	GRCh38	2033
+single nucleotide variant	NM_017780.4(CHD7):c.2442+5G>C	55636	CHD7	Pathogenic	GRCh38	2034
+single nucleotide variant	NM_017780.4(CHD7):c.4795C>T (p.Gln1599Ter)	55636	CHD7	Pathogenic	GRCh38	2038
+single nucleotide variant	NM_017780.4(CHD7):c.2839C>T (p.Arg947Ter)	55636	CHD7	Pathogenic	GRCh38	95781
+single nucleotide variant	NM_017780.4(CHD7):c.5181C>G (p.Tyr1727Ter)	55636	CHD7	Pathogenic	GRCh38	95793
+single nucleotide variant	NM_017780.4(CHD7):c.5405-7G>A	55636	CHD7	Pathogenic	GRCh38	95795
+single nucleotide variant	NM_017780.4(CHD7):c.5895-1G>C	55636	CHD7	Pathogenic	GRCh38	95797
+single nucleotide variant	NM_017780.4(CHD7):c.1246G>T (p.Gly416Ter)	55636	CHD7	Pathogenic	GRCh38	158278
+single nucleotide variant	NM_017780.4(CHD7):c.1480C>T (p.Arg494Ter)	55636	CHD7	Pathogenic	GRCh38	158279
+single nucleotide variant	NM_017780.4(CHD7):c.2613+1G>A	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	158283
+single nucleotide variant	NM_017780.4(CHD7):c.2643T>G (p.Tyr881Ter)	55636	CHD7	Pathogenic	GRCh38	158284
+single nucleotide variant	NM_017780.4(CHD7):c.2815G>T (p.Glu939Ter)	55636	CHD7	Pathogenic	GRCh38	158285
+single nucleotide variant	NM_017780.4(CHD7):c.4318C>T (p.Gln1440Ter)	55636	CHD7	Pathogenic	GRCh38	158294
+single nucleotide variant	NM_017780.4(CHD7):c.4353+3A>G	55636	CHD7	Likely pathogenic	GRCh38	158295
+single nucleotide variant	NM_017780.4(CHD7):c.4480C>T (p.Arg1494Ter)	55636	CHD7	Pathogenic	GRCh38	158296
+single nucleotide variant	NM_017780.4(CHD7):c.5450T>G (p.Phe1817Cys)	55636	CHD7	Likely pathogenic	GRCh38	158301
+single nucleotide variant	NM_017780.4(CHD7):c.5458C>T (p.Arg1820Ter)	55636	CHD7	Pathogenic	GRCh38	158302
+single nucleotide variant	NM_017780.4(CHD7):c.5551G>T (p.Glu1851Ter)	55636	CHD7	Pathogenic	GRCh38	158303
+single nucleotide variant	NM_017780.4(CHD7):c.5666-2A>C	55636	CHD7	Pathogenic	GRCh38	158304
+single nucleotide variant	NM_017780.4(CHD7):c.6157C>T (p.Arg2053Ter)	55636	CHD7	Pathogenic	GRCh38	158307
+single nucleotide variant	NM_017780.4(CHD7):c.6287A>G (p.His2096Arg)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	158309
+single nucleotide variant	NM_017780.4(CHD7):c.6850C>T (p.Arg2284Ter)	55636	CHD7	Pathogenic	GRCh38	158313
+single nucleotide variant	NM_017780.4(CHD7):c.7252C>T (p.Arg2418Ter)	55636	CHD7	Pathogenic	GRCh38	158314
+single nucleotide variant	NM_017780.4(CHD7):c.7891C>T (p.Arg2631Ter)	55636	CHD7	Pathogenic	GRCh38	158320
+single nucleotide variant	NM_017780.4(CHD7):c.7957C>T (p.Arg2653Ter)	55636	CHD7	Pathogenic	GRCh38	158321
+single nucleotide variant	NM_017780.4(CHD7):c.8055G>A (p.Trp2685Ter)	55636	CHD7	Pathogenic	GRCh38	158322
+single nucleotide variant	NM_017780.4(CHD7):c.1090C>T (p.Gln364Ter)	55636	CHD7	Pathogenic	GRCh38	166857
+single nucleotide variant	NM_017780.4(CHD7):c.1369C>T (p.Gln457Ter)	55636	CHD7	Pathogenic	GRCh38	166858
+single nucleotide variant	NM_017780.4(CHD7):c.2933G>A (p.Trp978Ter)	55636	CHD7	Pathogenic	GRCh38	166862
+single nucleotide variant	NM_017780.4(CHD7):c.469C>T (p.Arg157Ter)	55636	CHD7	Pathogenic	GRCh38	195321
+single nucleotide variant	NM_017780.4(CHD7):c.1465C>T (p.Gln489Ter)	55636	CHD7	Pathogenic	GRCh38	195334
+single nucleotide variant	NM_017780.4(CHD7):c.5405-17G>A	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	195978
+single nucleotide variant	NM_017780.4(CHD7):c.6529G>T (p.Glu2177Ter)	55636	CHD7	Pathogenic	GRCh38	196707
+single nucleotide variant	NM_017780.4(CHD7):c.6995G>A (p.Trp2332Ter)	55636	CHD7	Pathogenic	GRCh38	196870
+single nucleotide variant	NM_017780.4(CHD7):c.5023C>T (p.Gln1675Ter)	55636	CHD7	Pathogenic	GRCh38	210719
+single nucleotide variant	NM_017780.4(CHD7):c.3881T>C (p.Leu1294Pro)	55636	CHD7	Pathogenic	GRCh38	218745
+single nucleotide variant	NM_017780.4(CHD7):c.3379-2A>C	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	220434
+single nucleotide variant	NM_017780.4(CHD7):c.6292C>T (p.Arg2098Ter)	55636	CHD7	Pathogenic	GRCh38	226115
+single nucleotide variant	NM_017780.4(CHD7):c.6955C>T (p.Arg2319Cys)	55636	CHD7	Pathogenic	GRCh38	235889
+single nucleotide variant	NM_017780.4(CHD7):c.2836-2A>T	55636	CHD7	Pathogenic	GRCh38	241191
+single nucleotide variant	NM_017780.4(CHD7):c.3768C>G (p.Tyr1256Ter)	55636	CHD7	Pathogenic	GRCh38	241192
+single nucleotide variant	NM_017780.4(CHD7):c.151C>T (p.Gln51Ter)	55636	CHD7	Pathogenic	GRCh38	265398
+single nucleotide variant	NM_017780.4(CHD7):c.550C>T (p.Gln184Ter)	55636	CHD7	Pathogenic	GRCh38	265403
+single nucleotide variant	NM_017780.4(CHD7):c.1714C>T (p.Gln572Ter)	55636	CHD7	Pathogenic	GRCh38	265404
+single nucleotide variant	NM_017780.4(CHD7):c.6613C>T (p.Gln2205Ter)	55636	CHD7	Pathogenic	GRCh38	265638
+single nucleotide variant	NM_017780.4(CHD7):c.2731C>T (p.Leu911Phe)	55636	CHD7	Likely pathogenic	GRCh38	265994
+single nucleotide variant	NM_017780.4(CHD7):c.496C>T (p.Gln166Ter)	55636	CHD7	Pathogenic	GRCh38	267414
+single nucleotide variant	NM_017780.4(CHD7):c.2215G>T (p.Glu739Ter)	55636	CHD7	Pathogenic	GRCh38	267419
+single nucleotide variant	NM_017780.4(CHD7):c.2959C>T (p.Arg987Ter)	55636	CHD7	Pathogenic	GRCh38	267421
+single nucleotide variant	NM_017780.4(CHD7):c.3205C>T (p.Arg1069Ter)	55636	CHD7	Pathogenic	GRCh38	267423
+single nucleotide variant	NM_017780.4(CHD7):c.3526C>T (p.Gln1176Ter)	55636	CHD7	Pathogenic	GRCh38	267425
+single nucleotide variant	NM_017780.4(CHD7):c.3623T>A (p.Val1208Asp)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	267427
+single nucleotide variant	NM_017780.4(CHD7):c.4393C>T (p.Arg1465Ter)	55636	CHD7	Pathogenic	GRCh38	267430
+single nucleotide variant	NM_017780.4(CHD7):c.5833C>T (p.Arg1945Ter)	55636	CHD7	Pathogenic	GRCh38	267434
+single nucleotide variant	NM_017780.4(CHD7):c.6079C>T (p.Arg2027Ter)	55636	CHD7	Pathogenic	GRCh38	267435
+single nucleotide variant	NM_017780.4(CHD7):c.6148C>T (p.Arg2050Ter)	55636	CHD7	Pathogenic	GRCh38	267436
+single nucleotide variant	NM_017780.4(CHD7):c.3089A>G (p.Asn1030Ser)	55636	CHD7	Pathogenic	GRCh38	279758
+single nucleotide variant	NM_017780.4(CHD7):c.4189C>T (p.Gln1397Ter)	55636	CHD7	Pathogenic	GRCh38	279761
+single nucleotide variant	NM_017780.4(CHD7):c.434G>A (p.Trp145Ter)	55636	CHD7	Pathogenic	GRCh38	279753
+single nucleotide variant	NM_017780.4(CHD7):c.5029C>T (p.Arg1677Ter)	55636	CHD7	Pathogenic	GRCh38	279762
+single nucleotide variant	NM_017780.4(CHD7):c.934C>T (p.Arg312Ter)	55636	CHD7	Pathogenic	GRCh38	279757
+single nucleotide variant	NM_017780.4(CHD7):c.3655C>T (p.Arg1219Ter)	55636	CHD7	Pathogenic	GRCh38	279759
+single nucleotide variant	NM_017780.4(CHD7):c.6243C>A (p.Cys2081Ter)	55636	CHD7	Pathogenic	GRCh38	280354
+single nucleotide variant	NM_017780.4(CHD7):c.5315G>A (p.Trp1772Ter)	55636	CHD7	Pathogenic	GRCh38	372320
+single nucleotide variant	NM_017780.4(CHD7):c.6757G>T (p.Glu2253Ter)	55636	CHD7	Pathogenic	GRCh38	372738
+single nucleotide variant	NM_017780.4(CHD7):c.6892C>T (p.Gln2298Ter)	55636	CHD7	Pathogenic	GRCh38	374090
+single nucleotide variant	NM_017780.4(CHD7):c.8063T>G (p.Ile2688Arg)	55636	CHD7	Likely pathogenic	GRCh38	374318
+single nucleotide variant	NM_017780.4(CHD7):c.1552C>T (p.Gln518Ter)	55636	CHD7	Pathogenic	GRCh38	375575
+single nucleotide variant	NM_017780.4(CHD7):c.6175G>T (p.Glu2059Ter)	55636	CHD7	Pathogenic	GRCh38	379722
+single nucleotide variant	NM_017780.4(CHD7):c.1123C>T (p.Gln375Ter)	55636	CHD7	Pathogenic	GRCh38	379790
+single nucleotide variant	NM_017780.4(CHD7):c.3059T>C (p.Leu1020Ser)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	381565
+single nucleotide variant	NM_017780.4(CHD7):c.4609A>T (p.Lys1537Ter)	55636	CHD7	Pathogenic	GRCh38	392465
+single nucleotide variant	NM_017780.4(CHD7):c.1281T>A (p.Tyr427Ter)	55636	CHD7	Pathogenic	GRCh38	379337
+single nucleotide variant	NM_017780.4(CHD7):c.4247C>G (p.Thr1416Arg)	55636	CHD7	Likely pathogenic	GRCh38	391856
+single nucleotide variant	NM_017780.4(CHD7):c.1170T>G (p.Tyr390Ter)	55636	CHD7	Pathogenic	GRCh38	379836
+single nucleotide variant	NM_017780.4(CHD7):c.3093G>C (p.Trp1031Cys)	55636	CHD7	Pathogenic	GRCh38	411188
+single nucleotide variant	NM_017780.4(CHD7):c.3202-3T>G	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	411184
+single nucleotide variant	NM_017780.4(CHD7):c.7285G>T (p.Glu2429Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	411189
+single nucleotide variant	NM_017780.4(CHD7):c.2097-1G>C	55636	CHD7	Pathogenic	GRCh38	411182
+single nucleotide variant	NM_017780.4(CHD7):c.5211-1G>C	55636	CHD7	Pathogenic	GRCh38	411179
+single nucleotide variant	NM_017780.4(CHD7):c.7312C>T (p.Gln2438Ter)	55636	CHD7	Pathogenic	GRCh38	411190
+single nucleotide variant	NM_017780.4(CHD7):c.961G>T (p.Gly321Ter)	55636	CHD7	Pathogenic	GRCh38	419619
+single nucleotide variant	NM_017780.4(CHD7):c.3232C>T (p.His1078Tyr)	55636	CHD7	Likely pathogenic	GRCh38	422043
+single nucleotide variant	NM_017780.4(CHD7):c.3322C>T (p.His1108Tyr)	55636	CHD7	Likely pathogenic	GRCh38	423051
+single nucleotide variant	NM_017780.4(CHD7):c.4407T>G (p.Tyr1469Ter)	55636	CHD7	Pathogenic	GRCh38	419570
+single nucleotide variant	NM_017780.4(CHD7):c.4507G>T (p.Glu1503Ter)	55636	CHD7	Pathogenic	GRCh38	420034
+single nucleotide variant	NM_017780.4(CHD7):c.4533G>A (p.Lys1511=)	55636	CHD7	Likely pathogenic	GRCh38	418125
+single nucleotide variant	NM_017780.4(CHD7):c.6239T>C (p.Leu2080Pro)	55636	CHD7	Likely pathogenic	GRCh38	423762
+single nucleotide variant	NM_017780.4(CHD7):c.7879C>T (p.Arg2627Ter)	55636	CHD7	Pathogenic	GRCh38	418655
+single nucleotide variant	NM_017780.4(CHD7):c.2442+1G>T	55636	CHD7	Pathogenic	GRCh38	426350
+single nucleotide variant	NM_017780.4(CHD7):c.5405-18C>A	55636	CHD7	Pathogenic	GRCh38	428609
+single nucleotide variant	NM_017780.4(CHD7):c.5405-13G>A	55636	CHD7	Pathogenic	GRCh38	428610
+single nucleotide variant	NM_017780.4(CHD7):c.310C>T (p.Gln104Ter)	55636	CHD7	Pathogenic	GRCh38	430014
+single nucleotide variant	NM_017780.4(CHD7):c.5401C>A (p.His1801Asn)	55636	CHD7	Likely pathogenic	GRCh38	430606
+single nucleotide variant	NM_017780.4(CHD7):c.5405-2A>G	55636	CHD7	Pathogenic	GRCh38	430832
+single nucleotide variant	NM_017780.4(CHD7):c.5706C>G (p.Tyr1902Ter)	55636	CHD7	Pathogenic	GRCh38	431034
+single nucleotide variant	NM_017780.4(CHD7):c.3378+5G>T	55636	CHD7	Likely pathogenic	GRCh38	431807
+single nucleotide variant	NM_017780.4(CHD7):c.4112T>G (p.Leu1371Ter)	55636	CHD7	Pathogenic	GRCh38	432973
+single nucleotide variant	NM_017780.4(CHD7):c.7165-4A>G	55636	CHD7	Pathogenic	GRCh38	444870
+single nucleotide variant	NM_017780.4(CHD7):c.760C>T (p.Gln254Ter)	55636	CHD7	Pathogenic	GRCh38	450263
+single nucleotide variant	NM_017780.4(CHD7):c.2086A>T (p.Lys696Ter)	55636	CHD7	Pathogenic	GRCh38	451591
+single nucleotide variant	NM_017780.4(CHD7):c.3302G>A (p.Cys1101Tyr)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	449371
+single nucleotide variant	NM_017780.4(CHD7):c.1735C>T (p.Gln579Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	459542
+single nucleotide variant	NM_017780.4(CHD7):c.3490C>T (p.Gln1164Ter)	55636	CHD7	Pathogenic	GRCh38	459546
+single nucleotide variant	NM_017780.4(CHD7):c.5238C>G (p.Tyr1746Ter)	55636	CHD7	Pathogenic	GRCh38	459551
+single nucleotide variant	NM_017780.4(CHD7):c.7763A>G (p.Asn2588Ser)	55636	CHD7	Pathogenic	GRCh38	459563
+single nucleotide variant	NM_017780.4(CHD7):c.6473C>A (p.Ser2158Ter)	55636	CHD7	Pathogenic	GRCh38	459559
+single nucleotide variant	NM_017780.4(CHD7):c.604C>T (p.Gln202Ter)	55636	CHD7	Pathogenic	GRCh38	459557
+single nucleotide variant	NM_017780.4(CHD7):c.5428C>T (p.Arg1810Ter)	55636	CHD7	Pathogenic	GRCh38	459555
+single nucleotide variant	NM_017780.4(CHD7):c.925C>T (p.Gln309Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	488371
+single nucleotide variant	NM_017780.4(CHD7):c.2440C>T (p.Gln814Ter)	55636	CHD7	Pathogenic	GRCh38	488369
+single nucleotide variant	NM_017780.4(CHD7):c.2915A>G (p.Gln972Arg)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	488372
+single nucleotide variant	NM_017780.4(CHD7):c.3106C>T (p.Arg1036Ter)	55636	CHD7	Pathogenic	GRCh38	488373
+single nucleotide variant	NM_017780.4(CHD7):c.5210+2T>C	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	488368
+single nucleotide variant	NM_017780.4(CHD7):c.5355G>A (p.Trp1785Ter)	55636	CHD7	Pathogenic	GRCh38	488363
+single nucleotide variant	NM_017780.4(CHD7):c.5409T>G (p.Tyr1803Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	488370
+single nucleotide variant	NM_017780.4(CHD7):c.5404G>A (p.Gly1802Ser)	55636	CHD7	Likely pathogenic	GRCh38	488387
+single nucleotide variant	NM_017780.4(CHD7):c.2858G>A (p.Trp953Ter)	55636	CHD7	Pathogenic	GRCh38	488479
+single nucleotide variant	NM_017780.4(CHD7):c.2114C>G (p.Ser705Ter)	55636	CHD7	Pathogenic	GRCh38	489047
+single nucleotide variant	NM_017780.4(CHD7):c.3859C>T (p.Gln1287Ter)	55636	CHD7	Pathogenic	GRCh38	489257
+single nucleotide variant	NM_017780.4(CHD7):c.5968C>T (p.Gln1990Ter)	55636	CHD7	Pathogenic	GRCh38	488680
+single nucleotide variant	NM_017780.4(CHD7):c.6199C>T (p.Gln2067Ter)	55636	CHD7	Pathogenic	GRCh38	488803
+single nucleotide variant	NM_017780.4(CHD7):c.5050+1G>A	55636	CHD7	Pathogenic	GRCh38	503614
+single nucleotide variant	NM_017780.4(CHD7):c.8023G>T (p.Glu2675Ter)	55636	CHD7	Pathogenic	GRCh38	504190
+single nucleotide variant	NM_017780.4(CHD7):c.364C>T (p.Gln122Ter)	55636	CHD7	Pathogenic	GRCh38	504189
+single nucleotide variant	NM_017780.4(CHD7):c.5050G>A (p.Gly1684Ser)	55636	CHD7	Pathogenic	GRCh38	520773
+single nucleotide variant	NM_017780.4(CHD7):c.5534+1G>A	55636	CHD7	Pathogenic	GRCh38	521544
+single nucleotide variant	NM_017780.4(CHD7):c.1513C>T (p.Gln505Ter)	55636	CHD7	Pathogenic	GRCh38	523521
+single nucleotide variant	NM_017780.4(CHD7):c.2867C>A (p.Ser956Ter)	55636	CHD7	Likely pathogenic	GRCh38	523522
+single nucleotide variant	NM_017780.4(CHD7):c.7282C>T (p.Arg2428Ter)	55636	CHD7	Pathogenic	GRCh38	523619
+single nucleotide variant	NM_017780.4(CHD7):c.7971+1G>T	55636	CHD7	Likely pathogenic	GRCh38	529117
+single nucleotide variant	NM_017780.4(CHD7):c.1312C>T (p.Gln438Ter)	55636	CHD7	Pathogenic	GRCh38	529121
+single nucleotide variant	NM_017780.4(CHD7):c.7132G>T (p.Glu2378Ter)	55636	CHD7	Pathogenic	GRCh38	529132
+single nucleotide variant	NM_017780.4(CHD7):c.862C>T (p.Gln288Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	547189
+single nucleotide variant	NM_017780.4(CHD7):c.5210+3A>G	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	547193
+single nucleotide variant	NM_017780.4(CHD7):c.5607+1G>A	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	547194
+single nucleotide variant	NM_017780.4(CHD7):c.6070C>T (p.Arg2024Ter)	55636	CHD7	Pathogenic	GRCh38	547195
+single nucleotide variant	NM_017780.4(CHD7):c.7648G>T (p.Glu2550Ter)	55636	CHD7	Likely pathogenic	GRCh38	547196
+single nucleotide variant	NM_017780.4(CHD7):c.3412C>T (p.Gln1138Ter)	55636	CHD7	Pathogenic	GRCh38	548946
+single nucleotide variant	NM_017780.4(CHD7):c.3379G>T (p.Glu1127Ter)	55636	CHD7	Pathogenic	GRCh38	573842
+single nucleotide variant	NM_017780.4(CHD7):c.4015C>T (p.Arg1339Ter)	55636	CHD7	Pathogenic	GRCh38	592245
+single nucleotide variant	NM_017780.4(CHD7):c.4793C>G (p.Ser1598Ter)	55636	CHD7	Pathogenic	GRCh38	593209
+single nucleotide variant	NM_017780.4(CHD7):c.5971C>T (p.Gln1991Ter)	55636	CHD7	Pathogenic	GRCh38	593811
+single nucleotide variant	NM_017780.4(CHD7):c.378C>A (p.Tyr126Ter)	55636	CHD7	Likely pathogenic	GRCh38	599450
+single nucleotide variant	NM_017780.4(CHD7):c.538C>T (p.Gln180Ter)	55636	CHD7	Pathogenic	GRCh38	618017
+single nucleotide variant	NM_017780.4(CHD7):c.7222G>T (p.Glu2408Ter)	55636	CHD7	Pathogenic	GRCh38	619296
+single nucleotide variant	NM_017780.4(CHD7):c.511C>T (p.Gln171Ter)	55636	CHD7	Pathogenic	GRCh38	620120
+single nucleotide variant	NM_017780.4(CHD7):c.2572C>T (p.Arg858Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	620086
+single nucleotide variant	NM_017780.4(CHD7):c.6454C>T (p.Gln2152Ter)	55636	CHD7	Pathogenic	GRCh38	620332
+single nucleotide variant	NM_017780.4(CHD7):c.7803C>A (p.Tyr2601Ter)	55636	CHD7	Pathogenic	GRCh38	620425
+single nucleotide variant	NM_017780.4(CHD7):c.8015G>A (p.Trp2672Ter)	55636	CHD7	Pathogenic	GRCh38	625860
+single nucleotide variant	NM_017780.4(CHD7):c.5944G>T (p.Gly1982Trp)	55636	CHD7	Likely pathogenic	GRCh38	626914
+single nucleotide variant	NM_017780.4(CHD7):c.3905T>C (p.Leu1302Pro)	55636	CHD7	Pathogenic	GRCh38	626915
+single nucleotide variant	NM_017780.4(CHD7):c.3295T>C (p.Trp1099Arg)	55636	CHD7	Likely pathogenic	GRCh38	638145
+single nucleotide variant	NM_017780.4(CHD7):c.889C>T (p.Gln297Ter)	55636	CHD7	Pathogenic	GRCh38	661514
+single nucleotide variant	NM_017780.4(CHD7):c.1300C>T (p.Gln434Ter)	55636	CHD7	Pathogenic	GRCh38	653661
+single nucleotide variant	NM_017780.4(CHD7):c.2257C>T (p.Gln753Ter)	55636	CHD7	Pathogenic	GRCh38	660551
+single nucleotide variant	NM_017780.4(CHD7):c.7781G>A (p.Trp2594Ter)	55636	CHD7	Pathogenic	GRCh38	651792
+single nucleotide variant	NM_017780.4(CHD7):c.7824T>G (p.Tyr2608Ter)	55636	CHD7	Pathogenic	GRCh38	655421
+single nucleotide variant	NM_017780.4(CHD7):c.6937-2A>G	55636	CHD7	Pathogenic	GRCh38	651945
+single nucleotide variant	NM_017780.4(CHD7):c.2836-1G>A	55636	CHD7	Pathogenic	GRCh38	665863
+single nucleotide variant	NM_017780.4(CHD7):c.8077-1G>C	55636	CHD7	Pathogenic	GRCh38	656743
+single nucleotide variant	NM_017780.4(CHD7):c.4185+1G>A	55636	CHD7	Pathogenic	GRCh38	689639
+single nucleotide variant	NM_017780.4(CHD7):c.3301T>C (p.Cys1101Arg)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	690306
+single nucleotide variant	NM_017780.4(CHD7):c.6561T>A (p.Cys2187Ter)	55636	CHD7	Likely pathogenic	GRCh38	692084
+single nucleotide variant	NM_017780.4(CHD7):c.2520G>A (p.Trp840Ter)	55636	CHD7	Pathogenic	GRCh38	694697
+single nucleotide variant	NM_017780.4(CHD7):c.2957+5G>A	55636	CHD7	Pathogenic	GRCh38	802408
+single nucleotide variant	NM_017780.4(CHD7):c.4195A>G (p.Arg1399Gly)	55636	CHD7	Likely pathogenic	GRCh38	802409
+single nucleotide variant	NM_017780.4(CHD7):c.7246A>T (p.Lys2416Ter)	55636	CHD7	Pathogenic	GRCh38	802412
+single nucleotide variant	NM_017780.4(CHD7):c.2740G>T (p.Glu914Ter)	55636	CHD7	Pathogenic	GRCh38	804691
+single nucleotide variant	NM_017780.4(CHD7):c.5436C>A (p.Asp1812Glu)	55636	CHD7	Likely pathogenic	GRCh38	810292
+single nucleotide variant	NM_017780.4(CHD7):c.559C>T (p.Gln187Ter)	55636	CHD7	Pathogenic	GRCh38	811739
+single nucleotide variant	NM_017780.4(CHD7):c.4654G>T (p.Val1552Phe)	55636	CHD7	Likely pathogenic	GRCh38	811091
+single nucleotide variant	NM_017780.4(CHD7):c.4533+1G>A	55636	CHD7	Pathogenic	GRCh38	816902
+single nucleotide variant	NM_017780.4(CHD7):c.2729C>G (p.Ser910Ter)	55636	CHD7	Pathogenic	GRCh38	836642
+single nucleotide variant	NM_017780.4(CHD7):c.4738G>T (p.Glu1580Ter)	55636	CHD7	Pathogenic	GRCh38	839015
+single nucleotide variant	NM_017780.4(CHD7):c.5110C>T (p.Gln1704Ter)	55636	CHD7	Pathogenic	GRCh38	838744
+single nucleotide variant	NM_017780.4(CHD7):c.5894+5G>A	55636	CHD7	Likely pathogenic	GRCh38	839301
+single nucleotide variant	NM_017780.4(CHD7):c.8077-2A>G	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	862228
+single nucleotide variant	NM_017780.4(CHD7):c.4353+1G>T	55636	CHD7	Pathogenic	GRCh38	854953
+single nucleotide variant	NM_017780.4(CHD7):c.3226A>G (p.Lys1076Glu)	55636	CHD7	Likely pathogenic	GRCh38	916496
+single nucleotide variant	NM_017780.4(CHD7):c.664C>T (p.Gln222Ter)	55636	CHD7	Pathogenic	GRCh38	932478
+single nucleotide variant	NM_017780.4(CHD7):c.5357G>A (p.Trp1786Ter)	55636	CHD7	Pathogenic	GRCh38	951305
+single nucleotide variant	NM_017780.4(CHD7):c.689C>A (p.Ser230Ter)	55636	CHD7	Pathogenic	GRCh38	935346
+single nucleotide variant	NM_017780.4(CHD7):c.3641A>C (p.Gln1214Pro)	55636	CHD7	Pathogenic	GRCh38	941341
+single nucleotide variant	NM_017780.4(CHD7):c.7803C>G (p.Tyr2601Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	935187
+single nucleotide variant	NM_017780.4(CHD7):c.3201+1G>A	55636	CHD7	Likely pathogenic	GRCh38	937560
+single nucleotide variant	NM_017780.4(CHD7):c.5211-2A>G	55636	CHD7	Pathogenic	GRCh38	945371
+single nucleotide variant	NM_017780.4(CHD7):c.6104-2A>T	55636	CHD7	Likely pathogenic	GRCh38	944293
+single nucleotide variant	NM_017780.4(CHD7):c.667G>T (p.Gly223Ter)	55636	CHD7	Pathogenic	GRCh38	971388
+single nucleotide variant	NM_017780.4(CHD7):c.7681G>T (p.Gly2561Ter)	55636	CHD7	Pathogenic	GRCh38	968757
+single nucleotide variant	NM_017780.4(CHD7):c.2238+1G>A	55636	CHD7	Pathogenic	GRCh38	954731
+single nucleotide variant	NM_017780.4(CHD7):c.2613+1G>T	55636	CHD7	Likely pathogenic	GRCh38	955306
+single nucleotide variant	NM_017780.4(CHD7):c.6775+1G>T	55636	CHD7	Pathogenic	GRCh38	971285
+single nucleotide variant	NM_017780.4(CHD7):c.4218C>A (p.Ser1406Arg)	55636	CHD7	Likely pathogenic	GRCh38	973632
+single nucleotide variant	NM_017780.4(CHD7):c.4787A>T (p.Asp1596Val)	55636	CHD7	Likely pathogenic	GRCh38	976043
+single nucleotide variant	NM_017780.4(CHD7):c.3091T>G (p.Trp1031Gly)	55636	CHD7	Pathogenic	GRCh38	981680
+single nucleotide variant	NM_017780.4(CHD7):c.5243T>G (p.Leu1748Arg)	55636	CHD7	Pathogenic	GRCh38	981682
+single nucleotide variant	NM_017780.4(CHD7):c.7078A>T (p.Lys2360Ter)	55636	CHD7	Pathogenic	GRCh38	981685
+single nucleotide variant	NM_017780.4(CHD7):c.6272G>A (p.Trp2091Ter)	55636	CHD7	Pathogenic	GRCh38	982754
+single nucleotide variant	NM_017780.4(CHD7):c.613C>T (p.Gln205Ter)	55636	CHD7	Pathogenic	GRCh38	985852
+single nucleotide variant	NM_017780.4(CHD7):c.3201+1G>T	55636	CHD7	Likely pathogenic	GRCh38	986300
+single nucleotide variant	NM_017780.4(CHD7):c.7971+1G>A	55636	CHD7	Pathogenic	GRCh38	985181
+single nucleotide variant	NM_017780.4(CHD7):c.7782G>A (p.Trp2594Ter)	55636	CHD7	Likely pathogenic	GRCh38	987045
+single nucleotide variant	NM_017780.4(CHD7):c.7456C>T (p.Gln2486Ter)	55636	CHD7	Likely pathogenic	GRCh38	988437
+single nucleotide variant	NM_017780.4(CHD7):c.3547A>C (p.Lys1183Gln)	55636	CHD7	Likely pathogenic	GRCh38	989378
+single nucleotide variant	NM_017780.4(CHD7):c.3522+1G>A	55636	CHD7	Pathogenic	GRCh38	998080
+single nucleotide variant	NM_017780.4(CHD7):c.4669A>G (p.Arg1557Gly)	55636	CHD7	Likely pathogenic	GRCh38	1021391
+single nucleotide variant	NM_017780.4(CHD7):c.5C>A (p.Ala2Glu)	55636	CHD7	Likely pathogenic	GRCh38	1028059
+single nucleotide variant	NM_017780.4(CHD7):c.6193C>T (p.Arg2065Cys)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	1028060
+single nucleotide variant	NM_017780.4(CHD7):c.4994G>A (p.Trp1665Ter)	55636	CHD7	Pathogenic	GRCh38	1032764
+single nucleotide variant	NM_017780.4(CHD7):c.2613G>T (p.Glu871Asp)	55636	CHD7	Likely pathogenic	GRCh38	1065473
+single nucleotide variant	NM_017780.4(CHD7):c.2957+2T>C	55636	CHD7	Pathogenic	GRCh38	1072857
+single nucleotide variant	NM_017780.4(CHD7):c.3378+5G>C	55636	CHD7	Pathogenic	GRCh38	1072858
+single nucleotide variant	NM_017780.4(CHD7):c.4360C>T (p.Gln1454Ter)	55636	CHD7	Pathogenic	GRCh38	1070565
+single nucleotide variant	NM_017780.4(CHD7):c.4906G>T (p.Glu1636Ter)	55636	CHD7	Pathogenic	GRCh38	1075493
+single nucleotide variant	NM_017780.4(CHD7):c.7160C>G (p.Ser2387Ter)	55636	CHD7	Pathogenic	GRCh38	1069783
+single nucleotide variant	NM_017780.4(CHD7):c.7684C>T (p.Gln2562Ter)	55636	CHD7	Pathogenic	GRCh38	1069987
+single nucleotide variant	NM_017780.4(CHD7):c.4353+1G>A	55636	CHD7	Pathogenic	GRCh38	1174939
+single nucleotide variant	NM_017780.4(CHD7):c.6514G>T (p.Glu2172Ter)	55636	CHD7	Pathogenic	GRCh38	1181587
+single nucleotide variant	NM_017780.4(CHD7):c.6217C>T (p.Gln2073Ter)	55636	CHD7	Pathogenic	GRCh38	1185684
+single nucleotide variant	NM_017780.4(CHD7):c.2097-2A>G	55636	CHD7	Pathogenic	GRCh38	1198860
+single nucleotide variant	NM_017780.4(CHD7):c.6574G>T (p.Glu2192Ter)	55636	CHD7	Pathogenic	GRCh38	1203237
+single nucleotide variant	NM_017780.4(CHD7):c.3761A>C (p.His1254Pro)	55636	CHD7	Likely pathogenic	GRCh38	1209155
+single nucleotide variant	NM_017780.4(CHD7):c.4593G>A (p.Trp1531Ter)	55636	CHD7	Pathogenic	GRCh38	1299118
+single nucleotide variant	NM_017780.4(CHD7):c.5677G>T (p.Glu1893Ter)	55636	CHD7	Pathogenic	GRCh38	1301746
+single nucleotide variant	NM_017780.4(CHD7):c.1339C>T (p.Gln447Ter)	55636	CHD7	Likely pathogenic	GRCh38	1301888
+single nucleotide variant	NM_017780.4(CHD7):c.2097-1G>A	55636	CHD7	Pathogenic	GRCh38	1319729
+single nucleotide variant	NM_017780.4(CHD7):c.1603C>T (p.Gln535Ter)	55636	CHD7	Pathogenic	GRCh38	1320236
+single nucleotide variant	NM_017780.4(CHD7):c.3999T>G (p.Tyr1333Ter)	55636	CHD7	Pathogenic	GRCh38	1322078
+single nucleotide variant	NM_017780.4(CHD7):c.7441C>T (p.Gln2481Ter)	55636	CHD7	Pathogenic	GRCh38	1322079
+single nucleotide variant	NM_017780.4(CHD7):c.4036C>T (p.Gln1346Ter)	55636	CHD7	Pathogenic	GRCh38	1328555
+single nucleotide variant	NM_017780.4(CHD7):c.7164+1G>A	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	1333571
+single nucleotide variant	NM_017780.4(CHD7):c.2587C>T (p.Gln863Ter)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	1341361
+single nucleotide variant	NM_017780.4(CHD7):c.6035A>T (p.Glu2012Val)	55636	CHD7	Likely pathogenic	GRCh38	1439188
+single nucleotide variant	NM_017780.4(CHD7):c.5895-2A>T	55636	CHD7	Pathogenic	GRCh38	1454176
+single nucleotide variant	NM_017780.4(CHD7):c.2377-1G>A	55636	CHD7	Likely pathogenic	GRCh38	1473535
+single nucleotide variant	NM_017780.4(CHD7):c.463C>T (p.Gln155Ter)	55636	CHD7	Pathogenic	GRCh38	1419683
+single nucleotide variant	NM_017780.4(CHD7):c.841C>T (p.Gln281Ter)	55636	CHD7	Pathogenic	GRCh38	1452920
+single nucleotide variant	NM_017780.4(CHD7):c.3523-2A>C	55636	CHD7	Likely pathogenic	GRCh38	1519398
+single nucleotide variant	NM_017780.4(CHD7):c.5898G>A (p.Trp1966Ter)	55636	CHD7	Pathogenic	GRCh38	1454692
+single nucleotide variant	NM_017780.4(CHD7):c.6775+1G>A	55636	CHD7	Pathogenic	GRCh38	1457977
+single nucleotide variant	NM_017780.4(CHD7):c.1159C>T (p.Gln387Ter)	55636	CHD7	Pathogenic	GRCh38	1459725
+single nucleotide variant	NM_017780.4(CHD7):c.4354-1G>A	55636	CHD7	Pathogenic	GRCh38	1458788
+single nucleotide variant	NM_017780.4(CHD7):c.634C>T (p.Gln212Ter)	55636	CHD7	Pathogenic	GRCh38	1458900
+single nucleotide variant	NM_017780.4(CHD7):c.2442+1G>A	55636	CHD7	Likely pathogenic	GRCh38	1526239
+single nucleotide variant	NM_017780.4(CHD7):c.5050+1G>C	55636	CHD7	Pathogenic	GRCh38	1685625
+single nucleotide variant	NM_017780.4(CHD7):c.5210+1G>A	55636	CHD7	Likely pathogenic	GRCh38	1687251
+single nucleotide variant	NM_017780.4(CHD7):c.643C>T (p.Gln215Ter)	55636	CHD7	Pathogenic	GRCh38	1697853
+single nucleotide variant	NM_017780.4(CHD7):c.232C>T (p.Gln78Ter)	55636	CHD7	Pathogenic	GRCh38	1697861
+single nucleotide variant	NM_017780.4(CHD7):c.2990T>C (p.Leu997Ser)	55636	CHD7	Likely pathogenic	GRCh38	1698785
+single nucleotide variant	NM_017780.4(CHD7):c.5744G>A (p.Arg1915Gln)	55636	CHD7	Likely pathogenic	GRCh38	1700206
+single nucleotide variant	NM_017780.4(CHD7):c.2095A>G (p.Ser699Gly)	55636	CHD7	Pathogenic	GRCh38	1704136
+single nucleotide variant	NM_017780.4(CHD7):c.4995G>A (p.Trp1665Ter)	55636	CHD7	Likely pathogenic	GRCh38	1705344
+single nucleotide variant	NM_017780.4(CHD7):c.3641A>G (p.Gln1214Arg)	55636	CHD7	Pathogenic	GRCh38	1708814
+single nucleotide variant	NM_017780.4(CHD7):c.2377G>T (p.Glu793Ter)	55636	CHD7	Likely pathogenic	GRCh38	1709604
+single nucleotide variant	NM_017780.4(CHD7):c.3779-2A>G	55636	CHD7	Pathogenic	GRCh38	1734818
+single nucleotide variant	NM_017780.4(CHD7):c.4644+5G>T	55636	CHD7	Likely pathogenic	GRCh38	1742134
+single nucleotide variant	NM_017780.4(CHD7):c.4645-1G>C	55636	CHD7	Likely pathogenic	GRCh38	1742140
+single nucleotide variant	NM_017780.4(CHD7):c.2958-3A>G	55636	CHD7	Likely pathogenic	GRCh38	1798121
+single nucleotide variant	NM_017780.4(CHD7):c.4850+1G>A	55636	CHD7	Pathogenic	GRCh38	1803604
+single nucleotide variant	NM_017780.4(CHD7):c.1663C>T (p.Gln555Ter)	55636	CHD7	Pathogenic	GRCh38	1804083
+single nucleotide variant	NM_017780.4(CHD7):c.5895-1G>A	55636	CHD7	Pathogenic	GRCh38	1804426
+single nucleotide variant	NM_017780.4(CHD7):c.5693T>G (p.Leu1898Ter)	55636	CHD7	Pathogenic	GRCh38	1809741
+single nucleotide variant	NM_017780.4(CHD7):c.1366C>T (p.Gln456Ter)	55636	CHD7	Pathogenic	GRCh38	1810595
+single nucleotide variant	NM_017780.4(CHD7):c.2949G>A (p.Trp983Ter)	55636	CHD7	Pathogenic	GRCh38	2136673
+single nucleotide variant	NM_017780.4(CHD7):c.4375G>T (p.Glu1459Ter)	55636	CHD7	Pathogenic	GRCh38	2136674
+single nucleotide variant	NM_017780.4(CHD7):c.7824T>A (p.Tyr2608Ter)	55636	CHD7	Pathogenic	GRCh38	2136676
+single nucleotide variant	NM_017780.4(CHD7):c.5897G>A (p.Trp1966Ter)	55636	CHD7	Pathogenic	GRCh38	2152044
+single nucleotide variant	NM_017780.4(CHD7):c.4354-6A>G	55636	CHD7	Likely pathogenic	GRCh38	1879843
+single nucleotide variant	NM_017780.4(CHD7):c.5404+2T>C	55636	CHD7	Likely pathogenic	GRCh38	1977664
+single nucleotide variant	NM_017780.4(CHD7):c.3378G>C (p.Leu1126Phe)	55636	CHD7	Pathogenic	GRCh38	2010521
+single nucleotide variant	NM_017780.4(CHD7):c.2948G>A (p.Trp983Ter)	55636	CHD7	Pathogenic	GRCh38	2031623
+single nucleotide variant	NM_017780.4(CHD7):c.91G>T (p.Glu31Ter)	55636	CHD7	Pathogenic	GRCh38	2058464
+single nucleotide variant	NM_017780.4(CHD7):c.5241C>A (p.Tyr1747Ter)	55636	CHD7	Pathogenic	GRCh38	2090743
+single nucleotide variant	NM_017780.4(CHD7):c.1633C>T (p.Gln545Ter)	55636	CHD7	Pathogenic	GRCh38	2106393
+single nucleotide variant	NM_017780.4(CHD7):c.2723G>A (p.Trp908Ter)	55636	CHD7	Pathogenic	GRCh38	2110847
+single nucleotide variant	NM_017780.4(CHD7):c.480C>A (p.Tyr160Ter)	55636	CHD7	Pathogenic	GRCh38	2122701
+single nucleotide variant	NM_017780.4(CHD7):c.2377-2A>G	55636	CHD7	Likely pathogenic	GRCh38	2430624
+single nucleotide variant	NM_017780.4(CHD7):c.2238G>C (p.Gln746His)	55636	CHD7	Likely pathogenic	GRCh38	2441884
+single nucleotide variant	NM_017780.4(CHD7):c.5300+1G>A	55636	CHD7	Pathogenic	GRCh38	2442083
+single nucleotide variant	NM_017780.4(CHD7):c.-174-1G>A	55636	CHD7	Likely pathogenic	GRCh38	2442454
+single nucleotide variant	NM_017780.4(CHD7):c.5101C>T (p.Gln1701Ter)	55636	CHD7	Pathogenic	GRCh38	2444122
+single nucleotide variant	NM_017780.4(CHD7):c.4783C>T (p.Gln1595Ter)	55636	CHD7	Pathogenic	GRCh38	2444171
+single nucleotide variant	NM_017780.4(CHD7):c.1041C>G (p.Tyr347Ter)	55636	CHD7	Pathogenic	GRCh38	2446030
+single nucleotide variant	NM_017780.4(CHD7):c.3378+5G>A	55636	CHD7	Likely pathogenic	GRCh38	2499898
+single nucleotide variant	NM_017780.4(CHD7):c.6371T>C (p.Phe2124Ser)	55636	CHD7	Likely pathogenic	GRCh38	2500730
+single nucleotide variant	NM_017780.4(CHD7):c.6273G>A (p.Trp2091Ter)	55636	CHD7	Pathogenic	GRCh38	2502548
+single nucleotide variant	NM_017780.4(CHD7):c.4336G>T (p.Glu1446Ter)	55636	CHD7	Pathogenic	GRCh38	2502688
+single nucleotide variant	NM_017780.4(CHD7):c.3642G>T (p.Gln1214His)	55636	CHD7	Likely pathogenic	GRCh38	2504603
+single nucleotide variant	NM_017780.4(CHD7):c.3937T>C (p.Ser1313Pro)	55636	CHD7	Likely pathogenic	GRCh38	2505566
+single nucleotide variant	NM_017780.4(CHD7):c.619C>T (p.Gln207Ter)	55636	CHD7	Pathogenic	GRCh38	2506008
+single nucleotide variant	NM_017780.4(CHD7):c.5782C>T (p.Gln1928Ter)	55636	CHD7	Pathogenic	GRCh38	2506473
+single nucleotide variant	NM_017780.4(CHD7):c.451C>T (p.Gln151Ter)	55636	CHD7	Pathogenic	GRCh38	2576066
+single nucleotide variant	NM_017780.4(CHD7):c.3379-2A>G	55636	CHD7	Pathogenic	GRCh38	2576785
+single nucleotide variant	NM_017780.4(CHD7):c.4644+5G>C	55636	CHD7	Likely pathogenic	GRCh38	2577530
+single nucleotide variant	NM_017780.4(CHD7):c.4644+1G>A	55636	CHD7	Pathogenic	GRCh38	2581881
+single nucleotide variant	NM_017780.4(CHD7):c.6936+2T>C	55636	CHD7	Pathogenic	GRCh38	2582618
+single nucleotide variant	NM_017780.4(CHD7):c.4928G>A (p.Cys1643Tyr)	55636	CHD7	Likely pathogenic	GRCh38	2582649
+single nucleotide variant	NM_017780.4(CHD7):c.3523-19A>T	55636	CHD7	Likely pathogenic	GRCh38	2627553
+single nucleotide variant	NM_017780.4(CHD7):c.6923C>A (p.Ser2308Ter)	55636	CHD7	Pathogenic	GRCh38	2630694
+single nucleotide variant	NM_017780.4(CHD7):c.6103+2T>C	55636	CHD7	Likely pathogenic	GRCh38	2634006
+single nucleotide variant	NM_017780.4(CHD7):c.3990-2A>C	55636	CHD7	Likely pathogenic	GRCh38	2637015
+single nucleotide variant	NM_017780.4(CHD7):c.5894+1G>T	55636	CHD7	Likely pathogenic	GRCh38	2637912
+single nucleotide variant	NM_017780.4(CHD7):c.3202-1G>A	55636	CHD7	Pathogenic	GRCh38	2663355
+single nucleotide variant	NM_017780.4(CHD7):c.487C>T (p.Gln163Ter)	55636	CHD7	Pathogenic	GRCh38	2664742
+single nucleotide variant	NM_017780.4(CHD7):c.4133C>T (p.Ala1378Val)	55636	CHD7	Likely pathogenic	GRCh38	2673149
+single nucleotide variant	NM_017780.4(CHD7):c.406C>T (p.Gln136Ter)	55636	CHD7	Pathogenic	GRCh38	2687730
+single nucleotide variant	NM_017780.4(CHD7):c.5436C>G (p.Asp1812Glu)	55636	CHD7	Likely pathogenic	GRCh38	2691345
+single nucleotide variant	NM_017780.4(CHD7):c.7301C>G (p.Ser2434Ter)	55636	CHD7	Pathogenic	GRCh38	2701820
+single nucleotide variant	NM_017780.4(CHD7):c.5608-10T>A	55636	CHD7	Pathogenic	GRCh38	2706934
+single nucleotide variant	NM_017780.4(CHD7):c.1525C>T (p.Gln509Ter)	55636	CHD7	Pathogenic	GRCh38	2710475
+single nucleotide variant	NM_017780.4(CHD7):c.5689G>T (p.Glu1897Ter)	55636	CHD7	Pathogenic	GRCh38	2715467
+single nucleotide variant	NM_017780.4(CHD7):c.3847C>T (p.Gln1283Ter)	55636	CHD7	Pathogenic	GRCh38	2735175
+single nucleotide variant	NM_017780.4(CHD7):c.5534G>A (p.Gly1845Glu)	55636	CHD7	Likely pathogenic	GRCh38	2735177
+single nucleotide variant	NM_017780.4(CHD7):c.4236C>G (p.Tyr1412Ter)	55636	CHD7	Pathogenic	GRCh38	2754683
+single nucleotide variant	NM_017780.4(CHD7):c.6776-1G>A	55636	CHD7	Likely pathogenic	GRCh38	2768781
+single nucleotide variant	NM_017780.4(CHD7):c.2643T>A (p.Tyr881Ter)	55636	CHD7	Pathogenic	GRCh38	2780133
+single nucleotide variant	NM_017780.4(CHD7):c.3989+2T>G	55636	CHD7	Likely pathogenic	GRCh38	2809681
+single nucleotide variant	NM_017780.4(CHD7):c.5708G>A (p.Trp1903Ter)	55636	CHD7	Pathogenic	GRCh38	2863251
+single nucleotide variant	NM_017780.4(CHD7):c.4645-1G>A	55636	CHD7	Pathogenic	GRCh38	2863265
+single nucleotide variant	NM_017780.4(CHD7):c.5209A>T (p.Lys1737Ter)	55636	CHD7	Pathogenic	GRCh38	2860819
+single nucleotide variant	NM_017780.4(CHD7):c.5227C>T (p.Arg1743Cys)	55636	CHD7	Likely pathogenic	GRCh38	2900344
+single nucleotide variant	NM_017780.4(CHD7):c.2908G>T (p.Glu970Ter)	55636	CHD7	Pathogenic	GRCh38	2982278
+single nucleotide variant	NM_017780.4(CHD7):c.5665+1G>A	55636	CHD7	Pathogenic	GRCh38	3040434
+single nucleotide variant	NM_017780.4(CHD7):c.4213C>T (p.Gln1405Ter)	55636	CHD7	Pathogenic	GRCh38	3041909
+single nucleotide variant	NM_017780.4(CHD7):c.4132G>C (p.Ala1378Pro)	55636	CHD7	Pathogenic	GRCh38	3062166
+single nucleotide variant	NM_017780.4(CHD7):c.8509G>T (p.Glu2837Ter)	55636	CHD7	Likely pathogenic	GRCh38	3062235
+single nucleotide variant	NM_017780.4(CHD7):c.7343C>G (p.Ser2448Ter)	55636	CHD7	Pathogenic	GRCh38	3235833
+single nucleotide variant	NM_017780.4(CHD7):c.4863G>A (p.Trp1621Ter)	55636	CHD7	Pathogenic	GRCh38	3237471
+single nucleotide variant	NM_017780.4(CHD7):c.5389G>T (p.Gly1797Ter)	55636	CHD7	Pathogenic	GRCh38	3238745
+single nucleotide variant	NM_017780.4(CHD7):c.1898C>A (p.Ser633Ter)	55636	CHD7	Pathogenic	GRCh38	3238856
+single nucleotide variant	NM_017780.4(CHD7):c.6371T>G (p.Phe2124Cys)	55636	CHD7	Likely pathogenic	GRCh38	3251907
+single nucleotide variant	NM_017780.4(CHD7):c.2835+1G>T	55636	CHD7	Pathogenic	GRCh38	3254564
+single nucleotide variant	NM_017780.4(CHD7):c.5894+1G>A	55636	CHD7	Pathogenic	GRCh38	3254567
+single nucleotide variant	NM_017780.4(CHD7):c.6289G>C (p.Asp2097His)	55636	CHD7	Pathogenic	GRCh38	3254568
+single nucleotide variant	NM_017780.4(CHD7):c.3990-1G>C	55636	CHD7	Pathogenic	GRCh38	3254623
+single nucleotide variant	NM_017780.4(CHD7):c.216T>A (p.Tyr72Ter)	55636	CHD7	Pathogenic	GRCh38	3336623
+single nucleotide variant	NM_017780.4(CHD7):c.3778+1G>A	55636	CHD7	Pathogenic	GRCh38	3338834
+single nucleotide variant	NM_017780.4(CHD7):c.3896T>C (p.Leu1299Pro)	55636	CHD7	Likely pathogenic	GRCh38	3338835
+single nucleotide variant	NM_017780.4(CHD7):c.4034G>A (p.Arg1345His)	55636	CHD7	Pathogenic/Likely pathogenic	GRCh38	3338836
+single nucleotide variant	NM_017780.4(CHD7):c.2371C>T (p.Gln791Ter)	55636	CHD7	Pathogenic	GRCh38	3338889
+single nucleotide variant	NM_017780.4(CHD7):c.995T>G (p.Leu332Ter)	55636	CHD7	Pathogenic	GRCh38	3340187
+single nucleotide variant	NM_017780.4(CHD7):c.4862G>A (p.Trp1621Ter)	55636	CHD7	Pathogenic	GRCh38	3340570
+single nucleotide variant	NM_017780.4(CHD7):c.1882G>T (p.Glu628Ter)	55636	CHD7	Pathogenic	GRCh38	3340862
+single nucleotide variant	NM_017780.4(CHD7):c.6956G>T (p.Arg2319Leu)	55636	CHD7	Pathogenic	GRCh38	3341121
+single nucleotide variant	NM_017780.4(CHD7):c.3242T>A (p.Ile1081Asn)	55636	CHD7	Likely pathogenic	GRCh38	3346449
+single nucleotide variant	NM_017780.4(CHD7):c.3990-1G>A	55636	CHD7	Pathogenic	GRCh38	3345795
+single nucleotide variant	NM_017780.4(CHD7):c.6322G>T (p.Gly2108Trp)	55636	CHD7	Pathogenic	GRCh38	3345880
+single nucleotide variant	NM_017780.4(CHD7):c.3778G>T (p.Gly1260Cys)	55636	CHD7	Likely pathogenic	GRCh38	3348408
+single nucleotide variant	NM_017780.4(CHD7):c.4645-2A>G	55636	CHD7	Pathogenic	GRCh38	3348748
+single nucleotide variant	NM_017780.4(CHD7):c.2515C>T (p.Gln839Ter)	55636	CHD7	Pathogenic	GRCh38	3359017
+single nucleotide variant	NM_017780.4(CHD7):c.1665+1G>A	55636	CHD7	Pathogenic	GRCh38	3359089
+single nucleotide variant	NM_017780.4(CHD7):c.7165-1G>A	55636	CHD7	Likely pathogenic	GRCh38	3359101
+single nucleotide variant	NM_017780.4(CHD7):c.225T>G (p.Tyr75Ter)	55636	CHD7	Pathogenic	GRCh38	3366845
+single nucleotide variant	NM_017780.4(CHD7):c.4853G>A (p.Trp1618Ter)	55636	CHD7	Likely pathogenic	GRCh38	3367161
+single nucleotide variant	NM_017780.4(CHD7):c.4644+1G>T	55636	CHD7	Likely pathogenic	GRCh38	3374743
+single nucleotide variant	NM_017780.4(CHD7):c.4259A>G (p.Tyr1420Cys)	55636	CHD7	Likely pathogenic	GRCh38	3382373
+single nucleotide variant	NM_017780.4(CHD7):c.7165-2A>G	55636	CHD7	Likely pathogenic	GRCh38	3384123
+single nucleotide variant	NM_017780.4(CHD7):c.6104-1G>C	55636	CHD7	Pathogenic	GRCh38	3393041
+single nucleotide variant	NM_017780.4(CHD7):c.5050G>T (p.Gly1684Cys)	55636	CHD7	Likely pathogenic	GRCh38	3595730
+single nucleotide variant	NM_017780.4(CHD7):c.3751T>C (p.Cys1251Arg)	55636	CHD7	Likely pathogenic	GRCh38	3601827
+single nucleotide variant	NM_017780.4(CHD7):c.4186-2A>G	55636	CHD7	Pathogenic	GRCh38	3601838
+single nucleotide variant	NM_017780.4(CHD7):c.920C>G (p.Ser307Ter)	55636	CHD7	Pathogenic	GRCh38	3631188
+single nucleotide variant	NM_017780.4(CHD7):c.4533+1G>C	55636	CHD7	Likely pathogenic	GRCh38	3651212
+single nucleotide variant	NM_017780.4(CHD7):c.2498+5G>A	55636	CHD7	Pathogenic	GRCh38	3654299
+single nucleotide variant	NM_017780.4(CHD7):c.2983A>G (p.Met995Val)	55636	CHD7	Pathogenic	GRCh38	3649855
+single nucleotide variant	NM_017780.4(CHD7):c.2546A>G (p.Asp849Gly)	55636	CHD7	Likely pathogenic	GRCh38	3659687
+single nucleotide variant	NM_017780.4(CHD7):c.2569A>T (p.Lys857Ter)	55636	CHD7	Pathogenic	GRCh38	3717928
+single nucleotide variant	NM_017780.4(CHD7):c.4157C>G (p.Ser1386Ter)	55636	CHD7	Pathogenic	GRCh38	3720828
+single nucleotide variant	NM_017780.4(CHD7):c.2698-1G>T	55636	CHD7	Likely pathogenic	GRCh38	3722529
+single nucleotide variant	NM_017780.4(CHD7):c.8896G>T (p.Ala2966Ser)	55636	CHD7	Likely pathogenic	GRCh38	3765633
+single nucleotide variant	NM_017780.4(CHD7):c.3965T>C (p.Leu1322Pro)	55636	CHD7	Likely pathogenic	GRCh38	3766397
+single nucleotide variant	NM_017780.4(CHD7):c.6973G>T (p.Glu2325Ter)	55636	CHD7	Pathogenic	GRCh38	3766756
+single nucleotide variant	NM_017780.4(CHD7):c.8077-10T>A	55636	CHD7	Likely pathogenic	GRCh38	3775776
+single nucleotide variant	NM_017780.4(CHD7):c.718C>T (p.Gln240Ter)	55636	CHD7	Pathogenic	GRCh38	3777299
+single nucleotide variant	NM_017780.4(CHD7):c.7234G>T (p.Glu2412Ter)	55636	CHD7	Pathogenic	GRCh38	3778772
+single nucleotide variant	NM_017780.4(CHD7):c.689C>G (p.Ser230Ter)	55636	CHD7	Pathogenic	GRCh38	3893659
+single nucleotide variant	NM_017780.4(CHD7):c.6752C>A (p.Ser2251Ter)	55636	CHD7	Likely pathogenic	GRCh38	3899991
+single nucleotide variant	NM_017780.4(CHD7):c.1576C>T (p.Gln526Ter)	55636	CHD7	Pathogenic	GRCh38	3903157
+single nucleotide variant	NM_017780.4(CHD7):c.2719A>G (p.Lys907Glu)	55636	CHD7	Likely pathogenic	GRCh38	3912055
+single nucleotide variant	NM_017780.4(CHD7):c.2753G>A (p.Trp918Ter)	55636	CHD7	Pathogenic	GRCh38	4055752
+single nucleotide variant	NM_017780.4(CHD7):c.2957+2T>G	55636	CHD7	Pathogenic	GRCh38	4072431
+single nucleotide variant	NM_017780.4(CHD7):c.5539G>T (p.Glu1847Ter)	55636	CHD7	Pathogenic	GRCh38	4078035
+single nucleotide variant	NM_017780.4(CHD7):c.6168C>A (p.Tyr2056Ter)	55636	CHD7	Likely pathogenic	GRCh38	4081243
+single nucleotide variant	NM_017780.4(CHD7):c.1933A>T (p.Lys645Ter)	55636	CHD7	Pathogenic	GRCh38	4280645
+single nucleotide variant	NM_017780.4(CHD7):c.6196G>T (p.Glu2066Ter)	55636	CHD7	Pathogenic	GRCh38	4292659
+single nucleotide variant	NM_017780.4(CHD7):c.6103+1G>A	55636	CHD7	Pathogenic	GRCh38	4293215
+single nucleotide variant	NM_017780.4(CHD7):c.5607+2T>C	55636	CHD7	Likely pathogenic	GRCh38	4293302
+single nucleotide variant	NM_017780.4(CHD7):c.5435A>T (p.Asp1812Val)	55636	CHD7	Likely pathogenic	GRCh38	4294445
+single nucleotide variant	NM_017780.4(CHD7):c.2374C>T (p.Gln792Ter)	55636	CHD7	Pathogenic	GRCh38	4526439
+single nucleotide variant	NM_017780.4(CHD7):c.3761A>G (p.His1254Arg)	55636	CHD7	Likely pathogenic	GRCh38	4537911
+single nucleotide variant	NM_017780.4(CHD7):c.7164+1G>T	55636	CHD7	Pathogenic	GRCh38	4538411
+single nucleotide variant	NM_017780.4(CHD7):c.3522+2T>C	55636	CHD7	Likely pathogenic	GRCh38	4540203
+single nucleotide variant	NM_017780.4(CHD7):c.5627C>G (p.Ser1876Ter)	55636	CHD7	Pathogenic	GRCh38	4685511
+single nucleotide variant	NM_017780.4(CHD7):c.3392T>C (p.Leu1131Pro)	55636	CHD7	Likely pathogenic	GRCh38	4686776
+single nucleotide variant	NM_017780.4(CHD7):c.73G>T (p.Gly25Ter)	55636	CHD7	Pathogenic	GRCh38	4713416
+single nucleotide variant	NM_017780.4(CHD7):c.2254A>T (p.Arg752Ter)	55636	CHD7	Pathogenic	GRCh38	4709603
+single nucleotide variant	NM_017780.4(CHD7):c.3273T>A (p.Cys1091Ter)	55636	CHD7	Pathogenic	GRCh38	4729526
+single nucleotide variant	NM_017780.4(CHD7):c.2514T>A (p.Cys838Ter)	55636	CHD7	Pathogenic	GRCh38	4731183
+single nucleotide variant	NM_017780.4(CHD7):c.5772T>G (p.Tyr1924Ter)	55636	CHD7	Pathogenic	GRCh38	4733903
+single nucleotide variant	NM_017780.4(CHD7):c.2096+1G>A	55636	CHD7	Pathogenic	GRCh38	4734020
+single nucleotide variant	NM_017780.4(CHD7):c.2939T>C (p.Leu980Pro)	55636	CHD7	Pathogenic	GRCh38	4746289
+single nucleotide variant	NM_017780.4(CHD7):c.2698-2A>G	55636	CHD7	Likely pathogenic	GRCh38	4796682
+single nucleotide variant	NM_017780.4(CHD7):c.3088A>G (p.Asn1030Asp)	55636	CHD7	Likely pathogenic	GRCh38	4813484
+single nucleotide variant	NM_017780.4(CHD7):c.3062T>G (p.Val1021Gly)	55636	CHD7	Pathogenic	GRCh38	4813799
+single nucleotide variant	NM_017780.4(CHD7):c.4202A>G (p.His1401Arg)	55636	CHD7	Likely pathogenic	GRCh38	4813814
+single nucleotide variant	NM_017780.4(CHD7):c.4186-1G>A	55636	CHD7	Likely pathogenic	GRCh38	4813877
+single nucleotide variant	NM_017780.4(CHD7):c.5050G>C (p.Gly1684Arg)	55636	CHD7	Likely pathogenic	GRCh38	4819029
+single nucleotide variant	NM_017780.4(CHD7):c.5435A>G (p.Asp1812Gly)	55636	CHD7	Pathogenic	GRCh38	4819310
+single nucleotide variant	NM_017780.4(CHD7):c.4909C>T (p.Gln1637Ter)	55636	CHD7	Likely pathogenic	GRCh38	4819311
+single nucleotide variant	NM_017780.4(CHD7):c.4851-2A>G	55636	CHD7	Likely pathogenic	GRCh38	4819314
+single nucleotide variant	NM_017780.4(CHD7):c.2958-19C>G	55636	CHD7	Pathogenic	GRCh38	4819319
+single nucleotide variant	NM_017780.4(CHD7):c.5405G>T (p.Gly1802Val)	55636	CHD7	Pathogenic	GRCh38	4819320
+single nucleotide variant	NM_017780.4(CHD7):c.7157T>A (p.Leu2386Ter)	55636	CHD7	Pathogenic	GRCh38	4819321
+single nucleotide variant	NM_017780.4(CHD7):c.5894+4A>G	55636	CHD7	Likely pathogenic	GRCh38	4819923
+single nucleotide variant	NM_017780.4(CHD7):c.3112T>C (p.Trp1038Arg)	55636	CHD7	Likely pathogenic	GRCh38	4850102
+single nucleotide variant	NM_017780.4(CHD7):c.3522+1G>T	55636	CHD7	Pathogenic	GRCh38	4851963
+single nucleotide variant	NM_017780.4(CHD7):c.5894+2T>G	55636	CHD7	Pathogenic	GRCh38	4852310
+single nucleotide variant	NM_017780.4(CHD7):c.763C>T (p.Gln255Ter)	55636	CHD7	Pathogenic	GRCh38	4855607

@@ -1,0 +1,150 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_153717.3(EVC):c.1886+5G>T	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	5338
+single nucleotide variant	NM_153717.3(EVC):c.2635C>T (p.Gln879Ter)	2121	EVC	Pathogenic	GRCh38	5339
+single nucleotide variant	NM_153717.3(EVC):c.1018C>T (p.Arg340Ter)	2121	EVC	Pathogenic	GRCh38	5340
+single nucleotide variant	NM_153717.3(EVC):c.919T>C (p.Ser307Pro)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	5343
+single nucleotide variant	NM_153717.3(EVC):c.770T>A (p.Leu257Gln)	2121	EVC	Likely pathogenic	GRCh38	191187
+single nucleotide variant	NM_153717.3(EVC):c.802-1G>C	2121	EVC	Likely pathogenic	GRCh38	371398
+single nucleotide variant	NM_153717.3(EVC):c.172C>T (p.Gln58Ter)	2121	EVC	Likely pathogenic	GRCh38	372638
+single nucleotide variant	NM_153717.3(EVC):c.363C>A (p.Tyr121Ter)	2121	EVC	Pathogenic	GRCh38	446662
+single nucleotide variant	NM_153717.3(EVC):c.1668C>G (p.Tyr556Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	446660
+single nucleotide variant	NM_153717.3(EVC):c.2164C>T (p.Gln722Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	451398
+single nucleotide variant	NM_153717.3(EVC):c.1684C>T (p.Gln562Ter)	2121	EVC	Pathogenic	GRCh38	455999
+single nucleotide variant	NM_153717.3(EVC):c.617G>A (p.Ser206Asn)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	456000
+single nucleotide variant	NM_153717.3(EVC):c.2894+3A>G	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	488510
+single nucleotide variant	NM_153717.3(EVC):c.384G>T (p.Arg128=)	2121	EVC	Likely pathogenic	GRCh38	522446
+single nucleotide variant	NM_153717.3(EVC):c.2236C>T (p.Gln746Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	530945
+single nucleotide variant	NM_153717.3(EVC):c.384+5G>C	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	551134
+single nucleotide variant	NM_153717.3(EVC):c.703-1G>A	2121	EVC	Likely pathogenic	GRCh38	553461
+single nucleotide variant	NM_153717.3(EVC):c.801+2T>G	2121	EVC	Likely pathogenic	GRCh38	557972
+single nucleotide variant	NM_153717.3(EVC):c.939+1G>C	2121	EVC	Likely pathogenic	GRCh38	554221
+single nucleotide variant	NM_153717.3(EVC):c.1777-2A>G	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	551792
+single nucleotide variant	NM_153717.3(EVC):c.1777-1G>A	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	554484
+single nucleotide variant	NM_153717.3(EVC):c.1813C>T (p.Gln605Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	555660
+single nucleotide variant	NM_153717.3(EVC):c.2098-1G>A	2121	EVC	Likely pathogenic	GRCh38	554844
+single nucleotide variant	NM_153717.3(EVC):c.2304+2T>C	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	552015
+single nucleotide variant	NM_153717.3(EVC):c.2782+1G>T	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	556536
+single nucleotide variant	NM_153717.3(EVC):c.2T>A (p.Met1Lys)	2121	EVC	Likely pathogenic	GRCh38	558005
+single nucleotide variant	NM_153717.3(EVC):c.134G>A (p.Trp45Ter)	2121	EVC	Likely pathogenic	GRCh38	557822
+single nucleotide variant	NM_153717.3(EVC):c.1678G>T (p.Glu560Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	553266
+single nucleotide variant	NM_153717.3(EVC):c.2097+1G>T	2121	EVC	Likely pathogenic	GRCh38	556814
+single nucleotide variant	NM_153717.3(EVC):c.301-1G>A	2121	EVC	Likely pathogenic	GRCh38	556523
+single nucleotide variant	NM_153717.3(EVC):c.702+1G>A	2121	EVC	Likely pathogenic	GRCh38	553747
+single nucleotide variant	NM_153717.3(EVC):c.1060G>T (p.Glu354Ter)	2121	EVC	Pathogenic	GRCh38	552459
+single nucleotide variant	NM_153717.3(EVC):c.1564-2A>G	2121	EVC	Likely pathogenic	GRCh38	557788
+single nucleotide variant	NM_153717.3(EVC):c.2561+1G>A	2121	EVC	Pathogenic	GRCh38	551032
+single nucleotide variant	NM_153717.3(EVC):c.2688+1G>C	2121	EVC	Likely pathogenic	GRCh38	554228
+single nucleotide variant	NM_153717.3(EVC):c.918C>A (p.Tyr306Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	632443
+single nucleotide variant	NM_153717.3(EVC):c.1489C>T (p.Gln497Ter)	2121	EVC	Pathogenic	GRCh38	632444
+single nucleotide variant	NM_153717.3(EVC):c.2562-2A>G	2121	EVC	Likely pathogenic	GRCh38	646416
+single nucleotide variant	NM_153717.3(EVC):c.758C>G (p.Ser253Ter)	2121	EVC	Pathogenic	GRCh38	804171
+single nucleotide variant	NM_153717.3(EVC):c.2014C>T (p.Gln672Ter)	2121	EVC	Pathogenic	GRCh38	839382
+single nucleotide variant	NM_153717.3(EVC):c.2446C>T (p.Gln816Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	835115
+single nucleotide variant	NM_153717.3(EVC):c.2731C>T (p.Arg911Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	850722
+single nucleotide variant	NM_153717.3(EVC):c.1886+1G>C	2121	EVC	Likely pathogenic	GRCh38	861541
+single nucleotide variant	NM_153717.3(EVC):c.617+1G>A	2121	EVC	Likely pathogenic	GRCh38	845441
+single nucleotide variant	NM_153717.3(EVC):c.2450-1G>A	2121	EVC	Likely pathogenic	GRCh38	917938
+single nucleotide variant	NM_153717.3(EVC):c.612C>A (p.Cys204Ter)	2121	EVC	Pathogenic	GRCh38	951117
+single nucleotide variant	NM_153717.3(EVC):c.2146C>T (p.Gln716Ter)	2121	EVC	Pathogenic	GRCh38	951422
+single nucleotide variant	NM_153717.3(EVC):c.829C>T (p.Gln277Ter)	2121	EVC	Pathogenic	GRCh38	935750
+single nucleotide variant	NM_153717.3(EVC):c.1864C>T (p.Arg622Ter)	2121	EVC	Pathogenic	GRCh38	933487
+single nucleotide variant	NM_153717.3(EVC):c.1886+2T>G	2121	EVC	Likely pathogenic	GRCh38	941560
+single nucleotide variant	NM_153717.3(EVC):c.703-1G>C	2121	EVC	Likely pathogenic	GRCh38	944207
+single nucleotide variant	NM_153717.3(EVC):c.939+1G>A	2121	EVC	Likely pathogenic	GRCh38	951386
+single nucleotide variant	NM_153717.3(EVC):c.2098-2A>G	2121	EVC	Likely pathogenic	GRCh38	951645
+single nucleotide variant	NM_153717.3(EVC):c.973C>T (p.Gln325Ter)	2121	EVC	Pathogenic	GRCh38	968311
+single nucleotide variant	NM_153717.3(EVC):c.1465-1G>A	2121	EVC	Likely pathogenic	GRCh38	998010
+single nucleotide variant	NM_153717.3(EVC):c.175-2A>G	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1066868
+single nucleotide variant	NM_153717.3(EVC):c.539C>A (p.Ser180Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1070697
+single nucleotide variant	NM_153717.3(EVC):c.1021C>T (p.Gln341Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1072936
+single nucleotide variant	NM_153717.3(EVC):c.1228G>T (p.Glu410Ter)	2121	EVC	Pathogenic	GRCh38	1073032
+single nucleotide variant	NM_153717.3(EVC):c.2545C>T (p.Gln849Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1073898
+single nucleotide variant	NM_153717.3(EVC):c.2098-1G>C	2121	EVC	Likely pathogenic	GRCh38	1210402
+single nucleotide variant	NM_153717.3(EVC):c.1771C>T (p.Gln591Ter)	2121	EVC	Likely pathogenic	GRCh38	1324351
+single nucleotide variant	NM_153717.3(EVC):c.1327C>T (p.Arg443Ter)	2121	EVC	Pathogenic	GRCh38	1332830
+single nucleotide variant	NM_153717.3(EVC):c.940-150T>G	2121	EVC	Likely pathogenic	GRCh38	1521416
+single nucleotide variant	NM_153717.3(EVC):c.721A>T (p.Lys241Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1450918
+single nucleotide variant	NM_153717.3(EVC):c.788C>G (p.Ser263Ter)	2121	EVC	Pathogenic	GRCh38	1370178
+single nucleotide variant	NM_153717.3(EVC):c.2488G>T (p.Glu830Ter)	2121	EVC	Pathogenic	GRCh38	1383767
+single nucleotide variant	NM_153717.3(EVC):c.1168C>T (p.Gln390Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1454318
+single nucleotide variant	NM_153717.3(EVC):c.1324C>T (p.Gln442Ter)	2121	EVC	Pathogenic	GRCh38	1390075
+single nucleotide variant	NM_153717.3(EVC):c.2078G>A (p.Trp693Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1453177
+single nucleotide variant	NM_153717.3(EVC):c.25A>T (p.Lys9Ter)	2121	EVC	Pathogenic	GRCh38	1452180
+single nucleotide variant	NM_153717.3(EVC):c.1687G>T (p.Glu563Ter)	2121	EVC	Pathogenic	GRCh38	1453878
+single nucleotide variant	NM_153717.3(EVC):c.1501C>T (p.Gln501Ter)	2121	EVC	Pathogenic	GRCh38	1458525
+single nucleotide variant	NM_153717.3(EVC):c.2698C>T (p.Gln900Ter)	2121	EVC	Pathogenic	GRCh38	1379233
+single nucleotide variant	NM_153717.3(EVC):c.286A>T (p.Lys96Ter)	2121	EVC	Pathogenic	GRCh38	1445523
+single nucleotide variant	NM_153717.3(EVC):c.174+1G>T	2121	EVC	Pathogenic	GRCh38	1458804
+single nucleotide variant	NM_153717.3(EVC):c.1886+5G>A	2121	EVC	Pathogenic	GRCh38	1458810
+single nucleotide variant	NM_153717.3(EVC):c.2191G>T (p.Glu731Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	1725397
+single nucleotide variant	NM_153717.3(EVC):c.857C>A (p.Ser286Ter)	2121	EVC	Likely pathogenic	GRCh38	1725547
+single nucleotide variant	NM_153717.3(EVC):c.2026G>T (p.Glu676Ter)	2121	EVC	Likely pathogenic	GRCh38	1725888
+single nucleotide variant	NM_153717.3(EVC):c.2041G>T (p.Glu681Ter)	2121	EVC	Likely pathogenic	GRCh38	1726064
+single nucleotide variant	NM_153717.3(EVC):c.636T>A (p.Cys212Ter)	2121	EVC	Likely pathogenic	GRCh38	1726186
+single nucleotide variant	NM_153717.3(EVC):c.1290G>A (p.Trp430Ter)	2121	EVC	Likely pathogenic	GRCh38	1726497
+single nucleotide variant	NM_153717.3(EVC):c.2029C>T (p.Gln677Ter)	2121	EVC	Pathogenic	GRCh38	2166067
+single nucleotide variant	NM_153717.3(EVC):c.2079G>A (p.Trp693Ter)	2121	EVC	Pathogenic	GRCh38	2174144
+single nucleotide variant	NM_153717.3(EVC):c.1098+1G>A	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	2203511
+single nucleotide variant	NM_153717.3(EVC):c.2686C>T (p.Gln896Ter)	2121	EVC	Pathogenic	GRCh38	1984753
+single nucleotide variant	NM_153717.3(EVC):c.1099-1G>A	2121	EVC	Likely pathogenic	GRCh38	2012129
+single nucleotide variant	NM_153717.3(EVC):c.1099-2A>C	2121	EVC	Likely pathogenic	GRCh38	2014563
+single nucleotide variant	NM_153717.3(EVC):c.385-1G>A	2121	EVC	Likely pathogenic	GRCh38	2022095
+single nucleotide variant	NM_153717.3(EVC):c.1887-2A>T	2121	EVC	Likely pathogenic	GRCh38	2022291
+single nucleotide variant	NM_153717.3(EVC):c.802-2A>G	2121	EVC	Likely pathogenic	GRCh38	2029056
+single nucleotide variant	NM_153717.3(EVC):c.1776+2T>C	2121	EVC	Likely pathogenic	GRCh38	2028502
+single nucleotide variant	NM_153717.3(EVC):c.2T>C (p.Met1Thr)	2121	EVC	Likely pathogenic	GRCh38	2067635
+single nucleotide variant	NM_153717.3(EVC):c.157C>T (p.Gln53Ter)	2121	EVC	Pathogenic	GRCh38	2094780
+single nucleotide variant	NM_153717.3(EVC):c.1657G>T (p.Glu553Ter)	2121	EVC	Pathogenic	GRCh38	2097815
+single nucleotide variant	NM_153717.3(EVC):c.2379T>G (p.Tyr793Ter)	2121	EVC	Pathogenic	GRCh38	2096839
+single nucleotide variant	NM_153717.3(EVC):c.617+2T>A	2121	EVC	Likely pathogenic	GRCh38	2113589
+single nucleotide variant	NM_153717.3(EVC):c.1084G>T (p.Glu362Ter)	2121	EVC	Pathogenic	GRCh38	2107235
+single nucleotide variant	NM_153717.3(EVC):c.1A>G (p.Met1Val)	2121	EVC	Likely pathogenic	GRCh38	2123597
+single nucleotide variant	NM_153717.3(EVC):c.1572C>G (p.Tyr524Ter)	2121	EVC	Pathogenic	GRCh38	2127152
+single nucleotide variant	NM_153717.3(EVC):c.2329G>T (p.Glu777Ter)	2121	EVC	Pathogenic	GRCh38	2497686
+single nucleotide variant	NM_153717.3(EVC):c.801+1G>T	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	2576547
+single nucleotide variant	NM_153717.3(EVC):c.618-2A>G	2121	EVC	Pathogenic	GRCh38	2635592
+single nucleotide variant	NM_153717.3(EVC):c.653T>G (p.Leu218Ter)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	2929434
+single nucleotide variant	NM_153717.3(EVC):c.2662G>T (p.Glu888Ter)	2121	EVC	Pathogenic	GRCh38	2932390
+single nucleotide variant	NM_153717.3(EVC):c.1A>C (p.Met1Leu)	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	2934557
+single nucleotide variant	NM_153717.3(EVC):c.1777-2A>C	2121	EVC	Pathogenic	GRCh38	2946165
+single nucleotide variant	NM_153717.3(EVC):c.801+2T>C	2121	EVC	Likely pathogenic	GRCh38	2944204
+single nucleotide variant	NM_153717.3(EVC):c.2382C>A (p.Tyr794Ter)	2121	EVC	Pathogenic	GRCh38	2936632
+single nucleotide variant	NM_153717.3(EVC):c.2688+2T>G	2121	EVC	Likely pathogenic	GRCh38	2936899
+single nucleotide variant	NM_153717.3(EVC):c.248C>G (p.Ser83Ter)	2121	EVC	Pathogenic	GRCh38	2944862
+single nucleotide variant	NM_153717.3(EVC):c.2167C>T (p.Gln723Ter)	2121	EVC	Pathogenic	GRCh38	2946836
+single nucleotide variant	NM_153717.3(EVC):c.300+1G>T	2121	EVC	Likely pathogenic	GRCh38	2949409
+single nucleotide variant	NM_153717.3(EVC):c.958C>T (p.Gln320Ter)	2121	EVC	Pathogenic	GRCh38	2954304
+single nucleotide variant	NM_153717.3(EVC):c.2449+2T>C	2121	EVC	Likely pathogenic	GRCh38	2954527
+single nucleotide variant	NM_153717.3(EVC):c.2097+1G>A	2121	EVC	Likely pathogenic	GRCh38	2954096
+single nucleotide variant	NM_153717.3(EVC):c.613G>T (p.Glu205Ter)	2121	EVC	Pathogenic	GRCh38	2953626
+single nucleotide variant	NM_153717.3(EVC):c.1462G>T (p.Glu488Ter)	2121	EVC	Pathogenic	GRCh38	2952992
+single nucleotide variant	NM_153717.3(EVC):c.1363C>T (p.Gln455Ter)	2121	EVC	Likely pathogenic	GRCh38	3065083
+single nucleotide variant	NM_153717.3(EVC):c.220C>T (p.Gln74Ter)	2121	EVC	Likely pathogenic	GRCh38	3590625
+single nucleotide variant	NM_153717.3(EVC):c.384+1G>T	2121	EVC	Likely pathogenic	GRCh38	3590626
+single nucleotide variant	NM_153717.3(EVC):c.618-1G>A	2121	EVC	Pathogenic/Likely pathogenic	GRCh38	3590630
+single nucleotide variant	NM_153717.3(EVC):c.1316-7A>G	2121	EVC	Likely pathogenic	GRCh38	3590635
+single nucleotide variant	NM_153717.3(EVC):c.1981C>T (p.Gln661Ter)	2121	EVC	Likely pathogenic	GRCh38	3590659
+single nucleotide variant	NM_153717.3(EVC):c.2695G>T (p.Glu899Ter)	2121	EVC	Likely pathogenic	GRCh38	3590662
+single nucleotide variant	NM_153717.3(EVC):c.2098G>T (p.Glu700Ter)	2121	EVC	Pathogenic	GRCh38	3755095
+single nucleotide variant	NM_153717.3(EVC):c.918C>G (p.Tyr306Ter)	2121	EVC	Likely pathogenic	GRCh38	3891515
+single nucleotide variant	NM_153717.3(EVC):c.496C>T (p.Gln166Ter)	2121	EVC	Likely pathogenic	GRCh38	4067570
+single nucleotide variant	NM_153717.3(EVC):c.2188C>T (p.Gln730Ter)	2121	EVC	Likely pathogenic	GRCh38	4072420
+single nucleotide variant	NM_153717.3(EVC):c.2158C>T (p.Gln720Ter)	2121	EVC	Likely pathogenic	GRCh38	4082429
+single nucleotide variant	NM_153717.3(EVC):c.1782G>A (p.Trp594Ter)	2121	EVC	Pathogenic	GRCh38	4293065
+single nucleotide variant	NM_153717.3(EVC):c.940-1G>A	2121	EVC	Likely pathogenic	GRCh38	4791344
+single nucleotide variant	NM_153717.3(EVC):c.1273C>T (p.Gln425Ter)	2121	EVC	Likely pathogenic	GRCh38	4816919
+single nucleotide variant	NM_153717.3(EVC):c.1408C>T (p.Gln470Ter)	2121	EVC	Likely pathogenic	GRCh38	4816920
+single nucleotide variant	NM_153717.3(EVC):c.1563+1G>A	2121	EVC	Likely pathogenic	GRCh38	4816921
+single nucleotide variant	NM_153717.3(EVC):c.1563+1G>C	2121	EVC	Likely pathogenic	GRCh38	4816922
+single nucleotide variant	NM_153717.3(EVC):c.1715C>A (p.Ser572Ter)	2121	EVC	Likely pathogenic	GRCh38	4816924
+single nucleotide variant	NM_153717.3(EVC):c.1732C>T (p.Gln578Ter)	2121	EVC	Likely pathogenic	GRCh38	4816925
+single nucleotide variant	NM_153717.3(EVC):c.175-1G>A	2121	EVC	Likely pathogenic	GRCh38	4816926
+single nucleotide variant	NM_153717.3(EVC):c.175-1G>C	2121	EVC	Likely pathogenic	GRCh38	4816927
+single nucleotide variant	NM_153717.3(EVC):c.208G>T (p.Glu70Ter)	2121	EVC	Likely pathogenic	GRCh38	4816929
+single nucleotide variant	NM_153717.3(EVC):c.2383C>T (p.Gln795Ter)	2121	EVC	Likely pathogenic	GRCh38	4816931
+single nucleotide variant	NM_153717.3(EVC):c.248C>A (p.Ser83Ter)	2121	EVC	Likely pathogenic	GRCh38	4816932
+single nucleotide variant	NM_153717.3(EVC):c.2688+1G>A	2121	EVC	Likely pathogenic	GRCh38	4816933
+single nucleotide variant	NM_153717.3(EVC):c.271C>T (p.Gln91Ter)	2121	EVC	Likely pathogenic	GRCh38	4816935
+single nucleotide variant	NM_153717.3(EVC):c.2752A>T (p.Lys918Ter)	2121	EVC	Likely pathogenic	GRCh38	4816936
+single nucleotide variant	NM_153717.3(EVC):c.2782+2T>C	2121	EVC	Pathogenic	GRCh38	4816938
+single nucleotide variant	NM_153717.3(EVC):c.166C>T (p.Arg56Ter)	2121	EVC	Likely pathogenic	GRCh38	4854553

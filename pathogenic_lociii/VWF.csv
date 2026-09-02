@@ -1,0 +1,311 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000552.5(VWF):c.4883T>C (p.Ile1628Thr)	7450	VWF	Pathogenic	GRCh38	284
+single nucleotide variant	NM_000552.5(VWF):c.4789C>T (p.Arg1597Trp)	7450	VWF	Pathogenic	GRCh38	285
+single nucleotide variant	NM_000552.5(VWF):c.4820T>A (p.Val1607Asp)	7450	VWF	Likely pathogenic	GRCh38	286
+single nucleotide variant	NM_000552.5(VWF):c.3939G>C (p.Trp1313Cys)	7450	VWF	Likely pathogenic	GRCh38	287
+single nucleotide variant	NM_000552.5(VWF):c.3916C>T (p.Arg1306Trp)	7450	VWF	Pathogenic	GRCh38	288
+single nucleotide variant	NM_000552.5(VWF):c.3922C>T (p.Arg1308Cys)	7450	VWF	Pathogenic	GRCh38	289
+single nucleotide variant	NM_000552.5(VWF):c.3946G>A (p.Val1316Met)	7450	VWF	Pathogenic	GRCh38	290
+single nucleotide variant	NM_000552.5(VWF):c.4022G>A (p.Arg1341Gln)	7450	VWF	Pathogenic	GRCh38	291
+single nucleotide variant	NM_000552.5(VWF):c.2372C>T (p.Thr791Met)	7450	VWF	Pathogenic	GRCh38	294
+single nucleotide variant	NM_000552.5(VWF):c.2446C>T (p.Arg816Trp)	7450	VWF	Pathogenic	GRCh38	295
+single nucleotide variant	NM_000552.5(VWF):c.2561G>A (p.Arg854Gln)	7450	VWF	Pathogenic	GRCh38	296
+single nucleotide variant	NM_000552.5(VWF):c.4975C>T (p.Arg1659Ter)	7450	VWF	Pathogenic	GRCh38	297
+single nucleotide variant	NM_000552.5(VWF):c.5557C>T (p.Arg1853Ter)	7450	VWF	Pathogenic	GRCh38	298
+single nucleotide variant	NM_000552.5(VWF):c.7603C>T (p.Arg2535Ter)	7450	VWF	Pathogenic	GRCh38	299
+single nucleotide variant	NM_000552.5(VWF):c.3970G>A (p.Gly1324Ser)	7450	VWF	Pathogenic	GRCh38	300
+single nucleotide variant	NM_000552.5(VWF):c.3814T>C (p.Cys1272Arg)	7450	VWF	Pathogenic	GRCh38	301
+single nucleotide variant	NM_000552.5(VWF):c.3940G>C (p.Val1314Leu)	7450	VWF	Pathogenic	GRCh38	302
+single nucleotide variant	NM_000552.5(VWF):c.4541T>G (p.Phe1514Cys)	7450	VWF	Likely pathogenic	GRCh38	304
+single nucleotide variant	NM_000552.5(VWF):c.1648G>A (p.Gly550Arg)	7450	VWF	Pathogenic	GRCh38	305
+single nucleotide variant	NM_000552.5(VWF):c.8317T>C (p.Cys2773Arg)	7450	VWF	Pathogenic	GRCh38	306
+single nucleotide variant	NM_000552.5(VWF):c.3614G>A (p.Arg1205His)	7450	VWF	Pathogenic	GRCh38	308
+single nucleotide variant	NM_000552.5(VWF):c.3445T>C (p.Cys1149Arg)	7450	VWF	Pathogenic	GRCh38	309
+single nucleotide variant	NM_000552.5(VWF):c.3854C>T (p.Ser1285Phe)	7450	VWF	Likely pathogenic	GRCh38	311
+single nucleotide variant	NM_000552.5(VWF):c.2384A>G (p.Tyr795Cys)	7450	VWF	Pathogenic	GRCh38	312
+single nucleotide variant	NM_000552.5(VWF):c.2411G>T (p.Cys804Phe)	7450	VWF	Likely pathogenic	GRCh38	313
+single nucleotide variant	NM_000552.5(VWF):c.7085G>T (p.Cys2362Phe)	7450	VWF	Pathogenic	GRCh38	315
+single nucleotide variant	NM_000552.5(VWF):c.1071C>A (p.Tyr357Ter)	7450	VWF	Pathogenic	GRCh38	316
+single nucleotide variant	NM_000552.5(VWF):c.3178T>C (p.Cys1060Arg)	7450	VWF	Pathogenic	GRCh38	317
+single nucleotide variant	NM_000552.5(VWF):c.1583A>G (p.Asn528Ser)	7450	VWF	Pathogenic	GRCh38	318
+single nucleotide variant	NM_000552.5(VWF):c.3437A>G (p.Tyr1146Cys)	7450	VWF	Pathogenic	GRCh38	31009
+single nucleotide variant	NM_000552.5(VWF):c.2279G>A (p.Arg760His)	7450	VWF	Likely pathogenic	GRCh38	31011
+single nucleotide variant	NM_000552.5(VWF):c.5347T>G (p.Ser1783Ala)	7450	VWF	Likely pathogenic	GRCh38	31012
+single nucleotide variant	NM_000552.5(VWF):c.100C>T (p.Arg34Ter)	7450	VWF	Pathogenic	GRCh38	100171
+single nucleotide variant	NM_000552.5(VWF):c.1093C>T (p.Arg365Ter)	7450	VWF	Pathogenic	GRCh38	100172
+single nucleotide variant	NM_000552.5(VWF):c.1109+2T>C	7450	VWF	Pathogenic	GRCh38	100173
+single nucleotide variant	NM_000552.5(VWF):c.1117C>T (p.Arg373Ter)	7450	VWF	Pathogenic	GRCh38	100175
+single nucleotide variant	NM_000552.5(VWF):c.1534-3C>A	7450	VWF	Likely pathogenic	GRCh38	100183
+single nucleotide variant	NM_000552.5(VWF):c.1930G>T (p.Glu644Ter)	7450	VWF	Pathogenic	GRCh38	100198
+single nucleotide variant	NM_000552.5(VWF):c.2116C>T (p.Gln706Ter)	7450	VWF	Pathogenic	GRCh38	100202
+single nucleotide variant	NM_000552.5(VWF):c.212C>A (p.Ser71Ter)	7450	VWF	Likely pathogenic	GRCh38	100204
+single nucleotide variant	NM_000552.5(VWF):c.2278C>T (p.Arg760Cys)	7450	VWF	Likely pathogenic	GRCh38	100208
+single nucleotide variant	NM_000552.5(VWF):c.2363G>A (p.Cys788Tyr)	7450	VWF	Pathogenic	GRCh38	100217
+single nucleotide variant	NM_000552.5(VWF):c.2443-1G>C	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100222
+single nucleotide variant	NM_000552.5(VWF):c.2447G>A (p.Arg816Gln)	7450	VWF	Likely pathogenic	GRCh38	100223
+single nucleotide variant	NM_000552.5(VWF):c.2560C>T (p.Arg854Trp)	7450	VWF	Likely pathogenic	GRCh38	100228
+single nucleotide variant	NM_000552.5(VWF):c.2635G>A (p.Asp879Asn)	7450	VWF	Pathogenic	GRCh38	100231
+single nucleotide variant	NM_000552.5(VWF):c.2936G>A (p.Ser979Asn)	7450	VWF	Likely pathogenic	GRCh38	100243
+single nucleotide variant	NM_000552.5(VWF):c.3159G>T (p.Gln1053His)	7450	VWF	Likely pathogenic	GRCh38	100247
+single nucleotide variant	NM_000552.5(VWF):c.3179G>A (p.Cys1060Tyr)	7450	VWF	Pathogenic	GRCh38	100248
+single nucleotide variant	NM_000552.5(VWF):c.3232G>A (p.Glu1078Lys)	7450	VWF	Likely pathogenic	GRCh38	100250
+single nucleotide variant	NM_000552.5(VWF):c.3359G>C (p.Trp1120Ser)	7450	VWF	Likely pathogenic	GRCh38	100256
+single nucleotide variant	NM_000552.5(VWF):c.3379+1G>A	7450	VWF	Pathogenic	GRCh38	100257
+single nucleotide variant	NM_000552.5(VWF):c.3389G>T (p.Cys1130Phe)	7450	VWF	Pathogenic	GRCh38	100261
+single nucleotide variant	NM_000552.5(VWF):c.3430T>G (p.Trp1144Gly)	7450	VWF	Pathogenic	GRCh38	100262
+single nucleotide variant	NM_000552.5(VWF):c.3467C>T (p.Thr1156Met)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100264
+single nucleotide variant	NM_000552.5(VWF):c.3538+1G>A	7450	VWF	Pathogenic	GRCh38	100267
+single nucleotide variant	NM_000552.5(VWF):c.3538G>A (p.Gly1180Arg)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100268
+single nucleotide variant	NM_000552.5(VWF):c.3568T>C (p.Cys1190Arg)	7450	VWF	Pathogenic	GRCh38	100269
+single nucleotide variant	NM_000552.5(VWF):c.3614G>T (p.Arg1205Leu)	7450	VWF	Likely pathogenic	GRCh38	100271
+single nucleotide variant	NM_000552.5(VWF):c.3679T>C (p.Cys1227Arg)	7450	VWF	Likely pathogenic	GRCh38	100273
+single nucleotide variant	NM_000552.5(VWF):c.3802C>G (p.His1268Asp)	7450	VWF	Pathogenic	GRCh38	100281
+single nucleotide variant	NM_000552.5(VWF):c.3853T>C (p.Ser1285Pro)	7450	VWF	Pathogenic	GRCh38	100292
+single nucleotide variant	NM_000552.5(VWF):c.3863T>G (p.Leu1288Arg)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100294
+single nucleotide variant	NM_000552.5(VWF):c.3877T>C (p.Phe1293Leu)	7450	VWF	Pathogenic	GRCh38	100295
+single nucleotide variant	NM_000552.5(VWF):c.3917G>A (p.Arg1306Gln)	7450	VWF	Pathogenic	GRCh38	100300
+single nucleotide variant	NM_000552.5(VWF):c.3917G>T (p.Arg1306Leu)	7450	VWF	Pathogenic	GRCh38	100301
+single nucleotide variant	NM_000552.5(VWF):c.3920T>C (p.Leu1307Pro)	7450	VWF	Pathogenic	GRCh38	100302
+single nucleotide variant	NM_000552.5(VWF):c.3925A>G (p.Ile1309Val)	7450	VWF	Pathogenic	GRCh38	100305
+single nucleotide variant	NM_000552.5(VWF):c.3929C>T (p.Ser1310Phe)	7450	VWF	Likely pathogenic	GRCh38	100306
+single nucleotide variant	NM_000552.5(VWF):c.3931C>T (p.Gln1311Ter)	7450	VWF	Pathogenic	GRCh38	100307
+single nucleotide variant	NM_000552.5(VWF):c.3940G>T (p.Val1314Phe)	7450	VWF	Pathogenic	GRCh38	100308
+single nucleotide variant	NM_000552.5(VWF):c.3941T>A (p.Val1314Asp)	7450	VWF	Pathogenic	GRCh38	100309
+single nucleotide variant	NM_000552.5(VWF):c.3943C>T (p.Arg1315Cys)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100310
+single nucleotide variant	NM_000552.5(VWF):c.3944G>A (p.Arg1315His)	7450	VWF	Likely pathogenic	GRCh38	100311
+single nucleotide variant	NM_000552.5(VWF):c.3944G>T (p.Arg1315Leu)	7450	VWF	Likely pathogenic	GRCh38	100312
+single nucleotide variant	NM_000552.5(VWF):c.3971G>C (p.Gly1324Ala)	7450	VWF	Pathogenic	GRCh38	100313
+single nucleotide variant	NM_000552.5(VWF):c.4010C>T (p.Pro1337Leu)	7450	VWF	Likely pathogenic	GRCh38	100314
+single nucleotide variant	NM_000552.5(VWF):c.4021C>T (p.Arg1341Trp)	7450	VWF	Pathogenic	GRCh38	100316
+single nucleotide variant	NM_000552.5(VWF):c.4022G>C (p.Arg1341Pro)	7450	VWF	Likely pathogenic	GRCh38	100317
+single nucleotide variant	NM_000552.5(VWF):c.4022G>T (p.Arg1341Leu)	7450	VWF	Pathogenic	GRCh38	100318
+single nucleotide variant	NM_000552.5(VWF):c.4036C>T (p.Gln1346Ter)	7450	VWF	Pathogenic	GRCh38	100320
+single nucleotide variant	NM_000552.5(VWF):c.4075G>A (p.Glu1359Lys)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100321
+single nucleotide variant	NM_000552.5(VWF):c.4082T>C (p.Leu1361Ser)	7450	VWF	Likely pathogenic	GRCh38	100323
+single nucleotide variant	NM_000552.5(VWF):c.4120C>T (p.Arg1374Cys)	7450	VWF	Pathogenic	GRCh38	100329
+single nucleotide variant	NM_000552.5(VWF):c.4121G>A (p.Arg1374His)	7450	VWF	Pathogenic	GRCh38	100330
+single nucleotide variant	NM_000552.5(VWF):c.4121G>T (p.Arg1374Leu)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100331
+single nucleotide variant	NM_000552.5(VWF):c.4195C>T (p.Arg1399Cys)	7450	VWF	Pathogenic	GRCh38	100337
+single nucleotide variant	NM_000552.5(VWF):c.421G>A (p.Asp141Asn)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100338
+single nucleotide variant	NM_000552.5(VWF):c.4244G>A (p.Gly1415Asp)	7450	VWF	Likely pathogenic	GRCh38	100343
+single nucleotide variant	NM_000552.5(VWF):c.4247T>A (p.Ile1416Asn)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100344
+single nucleotide variant	NM_000552.5(VWF):c.4273A>T (p.Ile1425Phe)	7450	VWF	Likely pathogenic	GRCh38	100346
+single nucleotide variant	NM_000552.5(VWF):c.4309G>A (p.Ala1437Thr)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100347
+single nucleotide variant	NM_000552.5(VWF):c.4382C>T (p.Ala1461Val)	7450	VWF	Pathogenic	GRCh38	100354
+single nucleotide variant	NM_000552.5(VWF):c.4423C>T (p.Gln1475Ter)	7450	VWF	Pathogenic	GRCh38	100359
+single nucleotide variant	NM_000552.5(VWF):c.449T>C (p.Leu150Pro)	7450	VWF	Likely pathogenic	GRCh38	100363
+single nucleotide variant	NM_000552.5(VWF):c.4508T>A (p.Leu1503Gln)	7450	VWF	Likely pathogenic	GRCh38	100364
+single nucleotide variant	NM_000552.5(VWF):c.4517C>T (p.Ser1506Leu)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100369
+single nucleotide variant	NM_000552.5(VWF):c.4626C>G (p.Tyr1542Ter)	7450	VWF	Pathogenic	GRCh38	100375
+single nucleotide variant	NM_000552.5(VWF):c.4628C>T (p.Ser1543Phe)	7450	VWF	Pathogenic	GRCh38	100376
+single nucleotide variant	NM_000552.5(VWF):c.4645G>A (p.Glu1549Lys)	7450	VWF	Likely pathogenic	GRCh38	100379
+single nucleotide variant	NM_000552.5(VWF):c.4667A>G (p.Gln1556Arg)	7450	VWF	Likely pathogenic	GRCh38	100380
+single nucleotide variant	NM_000552.5(VWF):c.4685T>C (p.Leu1562Pro)	7450	VWF	Likely pathogenic	GRCh38	100381
+single nucleotide variant	NM_000552.5(VWF):c.4696C>T (p.Arg1566Ter)	7450	VWF	Pathogenic	GRCh38	100382
+single nucleotide variant	NM_000552.5(VWF):c.4717G>A (p.Gly1573Ser)	7450	VWF	Likely pathogenic	GRCh38	100384
+single nucleotide variant	NM_000552.5(VWF):c.4790G>A (p.Arg1597Gln)	7450	VWF	Pathogenic	GRCh38	100391
+single nucleotide variant	NM_000552.5(VWF):c.4825G>A (p.Gly1609Arg)	7450	VWF	Pathogenic	GRCh38	100395
+single nucleotide variant	NM_000552.5(VWF):c.4885G>A (p.Gly1629Arg)	7450	VWF	Pathogenic	GRCh38	100398
+single nucleotide variant	NM_000552.5(VWF):c.4994T>A (p.Val1665Glu)	7450	VWF	Likely pathogenic	GRCh38	100412
+single nucleotide variant	NM_000552.5(VWF):c.5235G>T (p.Trp1745Cys)	7450	VWF	Likely pathogenic	GRCh38	100421
+single nucleotide variant	NM_000552.5(VWF):c.5321T>C (p.Leu1774Ser)	7450	VWF	Likely pathogenic	GRCh38	100423
+single nucleotide variant	NM_000552.5(VWF):c.533-2A>G	7450	VWF	Pathogenic	GRCh38	100424
+single nucleotide variant	NM_000552.5(VWF):c.5335C>T (p.Arg1779Ter)	7450	VWF	Pathogenic	GRCh38	100425
+single nucleotide variant	NM_000552.5(VWF):c.5380A>G (p.Lys1794Glu)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100427
+single nucleotide variant	NM_000552.5(VWF):c.6385G>T (p.Glu2129Ter)	7450	VWF	Pathogenic	GRCh38	100438
+single nucleotide variant	NM_000552.5(VWF):c.652C>T (p.Gln218Ter)	7450	VWF	Pathogenic	GRCh38	100441
+single nucleotide variant	NM_000552.5(VWF):c.6536C>T (p.Ser2179Phe)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100442
+single nucleotide variant	NM_000552.5(VWF):c.666G>A (p.Trp222Ter)	7450	VWF	Pathogenic	GRCh38	100446
+single nucleotide variant	NM_000552.5(VWF):c.6798+1G>T	7450	VWF	Likely pathogenic	GRCh38	100449
+single nucleotide variant	NM_000552.5(VWF):c.6911G>A (p.Cys2304Tyr)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100451
+single nucleotide variant	NM_000552.5(VWF):c.7082-2A>G	7450	VWF	Likely pathogenic	GRCh38	100457
+single nucleotide variant	NM_000552.5(VWF):c.7300C>T (p.Arg2434Ter)	7450	VWF	Pathogenic	GRCh38	100464
+single nucleotide variant	NM_000552.5(VWF):c.7390C>T (p.Arg2464Cys)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100467
+single nucleotide variant	NM_000552.5(VWF):c.7408C>T (p.Gln2470Ter)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100469
+single nucleotide variant	NM_000552.5(VWF):c.7437G>A (p.Ser2479=)	7450	VWF	Pathogenic	GRCh38	100473
+single nucleotide variant	NM_000552.5(VWF):c.7559A>C (p.Gln2520Pro)	7450	VWF	Likely pathogenic	GRCh38	100477
+single nucleotide variant	NM_000552.5(VWF):c.7630C>T (p.Gln2544Ter)	7450	VWF	Pathogenic	GRCh38	100479
+single nucleotide variant	NM_000552.5(VWF):c.7729+7C>T	7450	VWF	Likely pathogenic	GRCh38	100484
+single nucleotide variant	NM_000552.5(VWF):c.7730-1G>C	7450	VWF	Likely pathogenic	GRCh38	100485
+single nucleotide variant	NM_000552.5(VWF):c.8012G>A (p.Cys2671Tyr)	7450	VWF	Likely pathogenic	GRCh38	100488
+single nucleotide variant	NM_000552.5(VWF):c.8155+3G>C	7450	VWF	Likely pathogenic	GRCh38	100490
+single nucleotide variant	NM_000552.5(VWF):c.817C>T (p.Arg273Trp)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	100493
+single nucleotide variant	NM_000552.5(VWF):c.8216G>A (p.Cys2739Tyr)	7450	VWF	Likely pathogenic	GRCh38	100495
+single nucleotide variant	NM_000552.5(VWF):c.823T>A (p.Cys275Ser)	7450	VWF	Likely pathogenic	GRCh38	100496
+single nucleotide variant	NM_000552.5(VWF):c.823T>C (p.Cys275Arg)	7450	VWF	Likely pathogenic	GRCh38	100497
+single nucleotide variant	NM_000552.5(VWF):c.8318G>C (p.Cys2773Ser)	7450	VWF	Pathogenic	GRCh38	100503
+single nucleotide variant	NM_000552.5(VWF):c.970C>T (p.Arg324Ter)	7450	VWF	Pathogenic	GRCh38	100512
+single nucleotide variant	NM_000552.5(VWF):c.4247T>C (p.Ile1416Thr)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	439338
+single nucleotide variant	NM_000552.5(VWF):c.3613C>T (p.Arg1205Cys)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	439332
+single nucleotide variant	NM_000552.5(VWF):c.4496T>A (p.Val1499Glu)	7450	VWF	Pathogenic	GRCh38	440408
+single nucleotide variant	NM_000552.5(VWF):c.1533+1G>T	7450	VWF	Pathogenic	GRCh38	521600
+single nucleotide variant	NM_000552.5(VWF):c.7464C>T (p.Gly2488=)	7450	VWF	Likely pathogenic	GRCh38	619755
+single nucleotide variant	NM_000552.5(VWF):c.4160G>T (p.Ser1387Ile)	7450	VWF	Likely pathogenic	GRCh38	619751
+single nucleotide variant	NM_000552.5(VWF):c.4006C>T (p.Arg1336Ter)	7450	VWF	Pathogenic	GRCh38	619748
+single nucleotide variant	NM_000552.5(VWF):c.1548T>A (p.Tyr516Ter)	7450	VWF	Pathogenic	GRCh38	619930
+single nucleotide variant	NM_000552.5(VWF):c.7399C>T (p.Gln2467Ter)	7450	VWF	Likely pathogenic	GRCh38	627373
+single nucleotide variant	NM_000552.5(VWF):c.7352G>A (p.Cys2451Tyr)	7450	VWF	Likely pathogenic	GRCh38	627371
+single nucleotide variant	NM_000552.5(VWF):c.7080C>A (p.Cys2360Ter)	7450	VWF	Pathogenic	GRCh38	627363
+single nucleotide variant	NM_000552.5(VWF):c.6488G>A (p.Cys2163Tyr)	7450	VWF	Likely pathogenic	GRCh38	626932
+single nucleotide variant	NM_000552.5(VWF):c.5471C>G (p.Pro1824Arg)	7450	VWF	Likely pathogenic	GRCh38	627334
+single nucleotide variant	NM_000552.5(VWF):c.4931G>A (p.Trp1644Ter)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	627079
+single nucleotide variant	NM_000552.5(VWF):c.4637T>G (p.Val1546Gly)	7450	VWF	Likely pathogenic	GRCh38	627314
+single nucleotide variant	NM_000552.5(VWF):c.4105T>C (p.Phe1369Leu)	7450	VWF	Likely pathogenic	GRCh38	627303
+single nucleotide variant	NM_000552.5(VWF):c.3962A>G (p.Tyr1321Cys)	7450	VWF	Likely pathogenic	GRCh38	627057
+single nucleotide variant	NM_000552.5(VWF):c.3569G>A (p.Cys1190Tyr)	7450	VWF	Pathogenic	GRCh38	626960
+single nucleotide variant	NM_000552.5(VWF):c.3390C>T (p.Cys1130=)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	627186
+single nucleotide variant	NM_000552.5(VWF):c.3314C>A (p.Ala1105Asp)	7450	VWF	Likely pathogenic	GRCh38	626953
+single nucleotide variant	NM_000552.5(VWF):c.2921G>A (p.Trp974Ter)	7450	VWF	Pathogenic	GRCh38	627054
+single nucleotide variant	NM_000552.5(VWF):c.2060G>A (p.Cys687Tyr)	7450	VWF	Likely pathogenic	GRCh38	627034
+single nucleotide variant	NM_000552.5(VWF):c.1974C>G (p.Tyr658Ter)	7450	VWF	Likely pathogenic	GRCh38	627028
+single nucleotide variant	NM_000552.5(VWF):c.1607T>C (p.Leu536Pro)	7450	VWF	Likely pathogenic	GRCh38	627250
+single nucleotide variant	NM_000552.5(VWF):c.993C>A (p.Cys331Ter)	7450	VWF	Likely pathogenic	GRCh38	627168
+single nucleotide variant	NM_000552.5(VWF):c.7730-1G>T	7450	VWF	Likely pathogenic	GRCh38	627375
+single nucleotide variant	NM_000552.5(VWF):c.3675-1G>A	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	627203
+single nucleotide variant	NM_000552.5(VWF):c.1293+2T>C	7450	VWF	Likely pathogenic	GRCh38	627220
+single nucleotide variant	NM_000552.5(VWF):c.8052C>A (p.Tyr2684Ter)	7450	VWF	Likely pathogenic	GRCh38	631686
+single nucleotide variant	NM_000552.5(VWF):c.7056C>T (p.Gly2352=)	7450	VWF	Likely pathogenic	GRCh38	631688
+single nucleotide variant	NM_000552.5(VWF):c.2303G>A (p.Arg768Gln)	7450	VWF	Likely pathogenic	GRCh38	631689
+single nucleotide variant	NM_000552.5(VWF):c.7292G>A (p.Cys2431Tyr)	7450	VWF	Likely pathogenic	GRCh38	806789
+single nucleotide variant	NM_000552.5(VWF):c.3917G>C (p.Arg1306Pro)	7450	VWF	Likely pathogenic	GRCh38	811125
+single nucleotide variant	NM_000552.5(VWF):c.7770+1G>T	7450	VWF	Pathogenic	GRCh38	931248
+single nucleotide variant	NM_000552.5(VWF):c.7580C>A (p.Pro2527His)	7450	VWF	Likely pathogenic	GRCh38	981480
+single nucleotide variant	NM_000552.5(VWF):c.4378C>T (p.Leu1460Phe)	7450	VWF	Likely pathogenic	GRCh38	993159
+single nucleotide variant	NM_000552.5(VWF):c.5235G>A (p.Trp1745Ter)	7450	VWF	Pathogenic	GRCh38	1028345
+single nucleotide variant	NM_000552.5(VWF):c.8155+1G>T	7450	VWF	Likely pathogenic	GRCh38	1065223
+single nucleotide variant	NM_000552.5(VWF):c.7514C>A (p.Ser2505Ter)	7450	VWF	Pathogenic	GRCh38	1065305
+single nucleotide variant	NM_000552.5(VWF):c.6973T>A (p.Cys2325Ser)	7450	VWF	Likely pathogenic	GRCh38	1065291
+single nucleotide variant	NM_000552.5(VWF):c.6847T>C (p.Cys2283Arg)	7450	VWF	Likely pathogenic	GRCh38	1065288
+single nucleotide variant	NM_000552.5(VWF):c.6551G>C (p.Cys2184Ser)	7450	VWF	Likely pathogenic	GRCh38	1065285
+single nucleotide variant	NM_000552.5(VWF):c.6236C>G (p.Ser2079Ter)	7450	VWF	Pathogenic	GRCh38	1065283
+single nucleotide variant	NM_000552.5(VWF):c.5791C>T (p.Gln1931Ter)	7450	VWF	Pathogenic	GRCh38	1065265
+single nucleotide variant	NM_000552.5(VWF):c.5170+1G>A	7450	VWF	Likely pathogenic	GRCh38	1065260
+single nucleotide variant	NM_000552.5(VWF):c.5096C>T (p.Ser1699Phe)	7450	VWF	Likely pathogenic	GRCh38	1065258
+single nucleotide variant	NM_000552.5(VWF):c.4978G>T (p.Glu1660Ter)	7450	VWF	Pathogenic	GRCh38	1065221
+single nucleotide variant	NM_000552.5(VWF):c.4792G>T (p.Glu1598Ter)	7450	VWF	Pathogenic	GRCh38	1065220
+single nucleotide variant	NM_000552.5(VWF):c.3360G>A (p.Trp1120Ter)	7450	VWF	Pathogenic	GRCh38	1065299
+single nucleotide variant	NM_000552.5(VWF):c.2902A>T (p.Lys968Ter)	7450	VWF	Pathogenic	GRCh38	1065293
+single nucleotide variant	NM_000552.5(VWF):c.2753C>G (p.Ser918Ter)	7450	VWF	Pathogenic	GRCh38	1065292
+single nucleotide variant	NM_000552.5(VWF):c.2430C>A (p.Cys810Ter)	7450	VWF	Pathogenic	GRCh38	1065279
+single nucleotide variant	NM_000552.5(VWF):c.2377C>T (p.Gln793Ter)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	1065275
+single nucleotide variant	NM_000552.5(VWF):c.2376C>G (p.Cys792Trp)	7450	VWF	Likely pathogenic	GRCh38	1065274
+single nucleotide variant	NM_000552.5(VWF):c.1693C>T (p.Gln565Ter)	7450	VWF	Pathogenic	GRCh38	1065248
+single nucleotide variant	NM_000552.5(VWF):c.1659G>A (p.Trp553Ter)	7450	VWF	Pathogenic	GRCh38	1065247
+single nucleotide variant	NM_000552.5(VWF):c.1320C>A (p.Cys440Ter)	7450	VWF	Pathogenic	GRCh38	1065244
+single nucleotide variant	NM_000552.5(VWF):c.1130G>A (p.Trp377Ter)	7450	VWF	Pathogenic	GRCh38	1065242
+single nucleotide variant	NM_000552.5(VWF):c.1116C>A (p.Cys372Ter)	7450	VWF	Pathogenic	GRCh38	1065241
+single nucleotide variant	NM_000552.5(VWF):c.646G>T (p.Glu216Ter)	7450	VWF	Pathogenic	GRCh38	1065284
+single nucleotide variant	NM_000552.5(VWF):c.592C>T (p.Gln198Ter)	7450	VWF	Likely pathogenic	GRCh38	1065266
+single nucleotide variant	NM_000552.5(VWF):c.310C>T (p.Gln104Ter)	7450	VWF	Pathogenic	GRCh38	1065295
+single nucleotide variant	NM_000552.5(VWF):c.229C>T (p.Gln77Ter)	7450	VWF	Pathogenic	GRCh38	1065270
+single nucleotide variant	NM_000552.5(VWF):c.1730-1G>T	7450	VWF	Pathogenic	GRCh38	1098437
+single nucleotide variant	NM_000552.5(VWF):c.1110-1G>T	7450	VWF	Pathogenic	GRCh38	1098438
+single nucleotide variant	NM_000552.5(VWF):c.221-2A>C	7450	VWF	Pathogenic	GRCh38	1315522
+single nucleotide variant	NM_000552.5(VWF):c.322A>T (p.Arg108Ter)	7450	VWF	Pathogenic	GRCh38	1315524
+single nucleotide variant	NM_000552.5(VWF):c.323+1G>T	7450	VWF	Pathogenic	GRCh38	1315525
+single nucleotide variant	NM_000552.5(VWF):c.2547-13T>A	7450	VWF	Pathogenic	GRCh38	1315527
+single nucleotide variant	NM_000552.5(VWF):c.2684A>G (p.Gln895Arg)	7450	VWF	Pathogenic	GRCh38	1315528
+single nucleotide variant	NM_000552.5(VWF):c.2968-14A>G	7450	VWF	Pathogenic	GRCh38	1315529
+single nucleotide variant	NM_000552.5(VWF):c.1147G>T (p.Glu383Ter)	7450	VWF	Pathogenic	GRCh38	3332526
+single nucleotide variant	NM_000552.5(VWF):c.2967+2T>C	7450	VWF	Likely pathogenic	GRCh38	1325350
+single nucleotide variant	NM_000552.5(VWF):c.5455+1G>A	7450	VWF	Pathogenic	GRCh38	1330038
+single nucleotide variant	NM_000552.5(VWF):c.5293G>T (p.Gly1765Ter)	7450	VWF	Likely pathogenic	GRCh38	1331644
+single nucleotide variant	NM_000552.5(VWF):c.4892G>A (p.Gly1631Asp)	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	1342155
+single nucleotide variant	NM_000552.5(VWF):c.6551G>A (p.Cys2184Tyr)	7450	VWF	Likely pathogenic	GRCh38	1677275
+single nucleotide variant	NM_000552.5(VWF):c.3923G>T (p.Arg1308Leu)	7450	VWF	Likely pathogenic	GRCh38	1679930
+single nucleotide variant	NM_000552.5(VWF):c.4551C>G (p.Ser1517Arg)	7450	VWF	Likely pathogenic	GRCh38	1683998
+single nucleotide variant	NM_000552.5(VWF):c.4733C>A (p.Thr1578Asn)	7450	VWF	Pathogenic	GRCh38	1683999
+single nucleotide variant	NM_000552.5(VWF):c.3389G>A (p.Cys1130Tyr)	7450	VWF	Likely pathogenic	GRCh38	1684001
+single nucleotide variant	NM_000552.5(VWF):c.4885G>C (p.Gly1629Arg)	7450	VWF	Pathogenic	GRCh38	1684005
+single nucleotide variant	NM_000552.5(VWF):c.2546G>A (p.Cys849Tyr)	7450	VWF	Likely pathogenic	GRCh38	1684006
+single nucleotide variant	NM_000552.5(VWF):c.3928T>C (p.Ser1310Pro)	7450	VWF	Likely pathogenic	GRCh38	1684008
+single nucleotide variant	NM_000552.5(VWF):c.5146G>C (p.Ala1716Pro)	7450	VWF	Likely pathogenic	GRCh38	1684014
+single nucleotide variant	NM_000552.5(VWF):c.4883T>A (p.Ile1628Asn)	7450	VWF	Pathogenic	GRCh38	1684018
+single nucleotide variant	NM_000552.5(VWF):c.2546+3G>C	7450	VWF	Likely pathogenic	GRCh38	1684019
+single nucleotide variant	NM_000552.5(VWF):c.3380-2A>G	7450	VWF	Pathogenic	GRCh38	1684020
+single nucleotide variant	NM_000552.5(VWF):c.4970T>C (p.Leu1657Pro)	7450	VWF	Likely pathogenic	GRCh38	1684030
+single nucleotide variant	NM_000552.5(VWF):c.5087T>G (p.Leu1696Arg)	7450	VWF	Likely pathogenic	GRCh38	1684480
+single nucleotide variant	NM_000552.5(VWF):c.3926T>A (p.Ile1309Asn)	7450	VWF	Likely pathogenic	GRCh38	1684483
+single nucleotide variant	NM_000552.5(VWF):c.1708T>C (p.Cys570Arg)	7450	VWF	Likely pathogenic	GRCh38	1695347
+single nucleotide variant	NM_000552.5(VWF):c.1955G>T (p.Cys652Phe)	7450	VWF	Likely pathogenic	GRCh38	1695348
+single nucleotide variant	NM_000552.5(VWF):c.3108+2T>G	7450	VWF	Pathogenic	GRCh38	1695351
+single nucleotide variant	NM_000552.5(VWF):c.4263C>A (p.Asn1421Lys)	7450	VWF	Likely pathogenic	GRCh38	1695357
+single nucleotide variant	NM_000552.5(VWF):c.4625A>G (p.Tyr1542Cys)	7450	VWF	Likely pathogenic	GRCh38	1695360
+single nucleotide variant	NM_000552.5(VWF):c.4710C>A (p.Tyr1570Ter)	7450	VWF	Pathogenic	GRCh38	1695362
+single nucleotide variant	NM_000552.5(VWF):c.4752C>A (p.Tyr1584Ter)	7450	VWF	Pathogenic	GRCh38	1695363
+single nucleotide variant	NM_000552.5(VWF):c.6743G>A (p.Cys2248Tyr)	7450	VWF	Pathogenic	GRCh38	1695369
+single nucleotide variant	NM_000552.5(VWF):c.4249G>T (p.Gly1417Trp)	7450	VWF	Likely pathogenic	GRCh38	1698737
+single nucleotide variant	NM_000552.5(VWF):c.7563G>A (p.Trp2521Ter)	7450	VWF	Pathogenic	GRCh38	1705678
+single nucleotide variant	NM_000552.5(VWF):c.1156+1G>A	7450	VWF	Likely pathogenic	GRCh38	1723400
+single nucleotide variant	NM_000552.5(VWF):c.8027G>T (p.Cys2676Phe)	7450	VWF	Likely pathogenic	GRCh38	1802814
+single nucleotide variant	NM_000552.5(VWF):c.6798+2T>A	7450	VWF	Pathogenic	GRCh38	1803122
+single nucleotide variant	NM_000552.5(VWF):c.573G>C (p.Trp191Cys)	7450	VWF	Likely pathogenic	GRCh38	1803174
+single nucleotide variant	NM_000552.5(VWF):c.3974C>T (p.Ser1325Phe)	7450	VWF	Likely pathogenic	GRCh38	1809525
+single nucleotide variant	NM_000552.5(VWF):c.221-2A>T	7450	VWF	Pathogenic	GRCh38	2428540
+single nucleotide variant	NM_000552.5(VWF):c.168C>A (p.Tyr56Ter)	7450	VWF	Likely pathogenic	GRCh38	2434603
+single nucleotide variant	NM_000552.5(VWF):c.7090A>T (p.Lys2364Ter)	7450	VWF	Likely pathogenic	GRCh38	2572107
+single nucleotide variant	NM_000552.5(VWF):c.3569G>T (p.Cys1190Phe)	7450	VWF	Likely pathogenic	GRCh38	2572159
+single nucleotide variant	NM_000552.5(VWF):c.3666C>A (p.Cys1222Ter)	7450	VWF	Pathogenic	GRCh38	2572161
+single nucleotide variant	NM_000552.5(VWF):c.4342C>T (p.Gln1448Ter)	7450	VWF	Likely pathogenic	GRCh38	2572655
+single nucleotide variant	NM_000552.5(VWF):c.2067C>A (p.Cys689Ter)	7450	VWF	Pathogenic	GRCh38	2576417
+single nucleotide variant	NM_000552.5(VWF):c.7081+1G>A	7450	VWF	Likely pathogenic	GRCh38	2682124
+single nucleotide variant	NM_000552.5(VWF):c.7159C>T (p.Gln2387Ter)	7450	VWF	Likely pathogenic	GRCh38	2682126
+single nucleotide variant	NM_000552.5(VWF):c.3538+1G>C	7450	VWF	Likely pathogenic	GRCh38	2682243
+single nucleotide variant	NM_000552.5(VWF):c.6697G>T (p.Glu2233Ter)	7450	VWF	Pathogenic	GRCh38	2682446
+single nucleotide variant	NM_000552.5(VWF):c.7057G>A (p.Glu2353Lys)	7450	VWF	Likely pathogenic	GRCh38	2683416
+single nucleotide variant	NM_000552.5(VWF):c.6578G>A (p.Trp2193Ter)	7450	VWF	Likely pathogenic	GRCh38	2683421
+single nucleotide variant	NM_000552.5(VWF):c.6334C>T (p.Gln2112Ter)	7450	VWF	Likely pathogenic	GRCh38	2692181
+single nucleotide variant	NM_000552.5(VWF):c.115G>A (p.Gly39Arg)	7450	VWF	Likely pathogenic	GRCh38	2921117
+single nucleotide variant	NM_000552.5(VWF):c.1231C>T (p.Gln411Ter)	7450	VWF	Likely pathogenic	GRCh38	2921173
+single nucleotide variant	NM_000552.5(VWF):c.4019T>C (p.Leu1340Pro)	7450	VWF	Likely pathogenic	GRCh38	3061402
+single nucleotide variant	NM_000552.5(VWF):c.257T>A (p.Val86Glu)	7450	VWF	Likely pathogenic	GRCh38	3035748
+single nucleotide variant	NM_000552.5(VWF):c.2968-1G>A	7450	VWF	Likely pathogenic	GRCh38	3075892
+single nucleotide variant	NM_000552.5(VWF):c.1181C>G (p.Ser394Ter)	7450	VWF	Likely pathogenic	GRCh38	3075940
+single nucleotide variant	NM_000552.5(VWF):c.1506G>A (p.Trp502Ter)	7450	VWF	Likely pathogenic	GRCh38	3075979
+single nucleotide variant	NM_000552.5(VWF):c.7288-1G>A	7450	VWF	Likely pathogenic	GRCh38	3336432
+single nucleotide variant	NM_000552.5(VWF):c.3613C>A (p.Arg1205Ser)	7450	VWF	Likely pathogenic	GRCh38	3338883
+single nucleotide variant	NM_000552.5(VWF):c.6211C>T (p.Gln2071Ter)	7450	VWF	Pathogenic	GRCh38	3366294
+single nucleotide variant	NM_000552.5(VWF):c.4205A>C (p.Gln1402Pro)	7450	VWF	Likely pathogenic	GRCh38	3366451
+single nucleotide variant	NM_000552.5(VWF):c.7887+1G>A	7450	VWF	Likely pathogenic	GRCh38	3381075
+single nucleotide variant	NM_000552.5(VWF):c.6452A>C (p.His2151Pro)	7450	VWF	Likely pathogenic	GRCh38	3381076
+single nucleotide variant	NM_000552.5(VWF):c.4918G>T (p.Glu1640Ter)	7450	VWF	Likely pathogenic	GRCh38	3381079
+single nucleotide variant	NM_000552.5(VWF):c.4379T>C (p.Leu1460Pro)	7450	VWF	Likely pathogenic	GRCh38	3381080
+single nucleotide variant	NM_000552.5(VWF):c.3360G>C (p.Trp1120Cys)	7450	VWF	Likely pathogenic	GRCh38	3381083
+single nucleotide variant	NM_000552.5(VWF):c.4886G>A (p.Gly1629Glu)	7450	VWF	Pathogenic	GRCh38	3381369
+single nucleotide variant	NM_000552.5(VWF):c.2546G>T (p.Cys849Phe)	7450	VWF	Likely pathogenic	GRCh38	3383989
+single nucleotide variant	NM_000552.5(VWF):c.2637C>A (p.Asp879Glu)	7450	VWF	Likely pathogenic	GRCh38	3390365
+single nucleotide variant	NM_000552.5(VWF):c.4225G>T (p.Val1409Phe)	7450	VWF	Likely pathogenic	GRCh38	3393378
+single nucleotide variant	NM_000552.5(VWF):c.7235C>A (p.Ser2412Ter)	7450	VWF	Likely pathogenic	GRCh38	3572183
+single nucleotide variant	NM_000552.5(VWF):c.8155+6T>A	7450	VWF	Pathogenic/Likely pathogenic	GRCh38	3572188
+single nucleotide variant	NM_000552.5(VWF):c.1534-2A>C	7450	VWF	Likely pathogenic	GRCh38	3572191
+single nucleotide variant	NM_000552.5(VWF):c.6871T>C (p.Cys2291Arg)	7450	VWF	Likely pathogenic	GRCh38	3573008
+single nucleotide variant	NM_000552.5(VWF):c.2494C>T (p.Gln832Ter)	7450	VWF	Likely pathogenic	GRCh38	3765548
+single nucleotide variant	NM_000552.5(VWF):c.6799-1G>T	7450	VWF	Likely pathogenic	GRCh38	3768576
+single nucleotide variant	NM_000552.5(VWF):c.3205C>T (p.Gln1069Ter)	7450	VWF	Pathogenic	GRCh38	3769100
+single nucleotide variant	NM_000552.5(VWF):c.4517C>G (p.Ser1506Trp)	7450	VWF	Likely pathogenic	GRCh38	3911610
+single nucleotide variant	NM_000552.5(VWF):c.4162C>T (p.Gln1388Ter)	7450	VWF	Pathogenic	GRCh38	4075377
+single nucleotide variant	NM_000552.5(VWF):c.3847G>T (p.Asp1283Tyr)	7450	VWF	Likely pathogenic	GRCh38	4077737
+single nucleotide variant	NM_000552.5(VWF):c.3587G>A (p.Cys1196Tyr)	7450	VWF	Likely pathogenic	GRCh38	4294075
+single nucleotide variant	NM_000552.5(VWF):c.8311T>C (p.Cys2771Arg)	7450	VWF	Likely pathogenic	GRCh38	4526083
+single nucleotide variant	NM_000552.5(VWF):c.7332G>A (p.Trp2444Ter)	7450	VWF	Pathogenic	GRCh38	4531429
+single nucleotide variant	NM_000552.5(VWF):c.1110-2A>G	7450	VWF	Pathogenic	GRCh38	4532990
+single nucleotide variant	NM_000552.5(VWF):c.1729+1G>A	7450	VWF	Likely pathogenic	GRCh38	4532996
+single nucleotide variant	NM_000552.5(VWF):c.2968G>T (p.Glu990Ter)	7450	VWF	Likely pathogenic	GRCh38	4533002
+single nucleotide variant	NM_000552.5(VWF):c.5665-1G>A	7450	VWF	Pathogenic	GRCh38	4533014
+single nucleotide variant	NM_000552.5(VWF):c.874+3A>C	7450	VWF	Likely pathogenic	GRCh38	4539316
+single nucleotide variant	NM_000552.5(VWF):c.3538G>C (p.Gly1180Arg)	7450	VWF	Likely pathogenic	GRCh38	4541683
+single nucleotide variant	NM_000552.5(VWF):c.3108+1G>T	7450	VWF	Likely pathogenic	GRCh38	4541685
+single nucleotide variant	NM_000552.5(VWF):c.324-1G>C	7450	VWF	Pathogenic	GRCh38	4685598
+single nucleotide variant	NM_000552.5(VWF):c.6540T>G (p.Tyr2180Ter)	7450	VWF	Likely pathogenic	GRCh38	4686123
+single nucleotide variant	NM_000552.5(VWF):c.7800C>A (p.Cys2600Ter)	7450	VWF	Pathogenic	GRCh38	4687729
+single nucleotide variant	NM_000552.5(VWF):c.7096G>T (p.Glu2366Ter)	7450	VWF	Pathogenic	GRCh38	4689642
+single nucleotide variant	NM_000552.5(VWF):c.2673C>A (p.Tyr891Ter)	7450	VWF	Pathogenic	GRCh38	4689709
+single nucleotide variant	NM_000552.5(VWF):c.3569G>C (p.Cys1190Ser)	7450	VWF	Likely pathogenic	GRCh38	4848043
+single nucleotide variant	NM_000552.5(VWF):c.2554C>T (p.Gln852Ter)	7450	VWF	Likely pathogenic	GRCh38	4849356
+single nucleotide variant	NM_000552.5(VWF):c.3853T>G (p.Ser1285Ala)	7450	VWF	Likely pathogenic	GRCh38	4849420
+single nucleotide variant	NM_000552.5(VWF):c.997+1G>A	7450	VWF	Likely pathogenic	GRCh38	4852405
+single nucleotide variant	NM_000552.5(VWF):c.6766C>T (p.Gln2256Ter)	7450	VWF	Likely pathogenic	GRCh38	4852611
+single nucleotide variant	NM_000552.5(VWF):c.7548+1G>A	7450	VWF	Likely pathogenic	GRCh38	4853437
+single nucleotide variant	NM_000552.5(VWF):c.6709T>C (p.Cys2237Arg)	7450	VWF	Likely pathogenic	GRCh38	4853453
+single nucleotide variant	NM_000552.5(VWF):c.7809C>G (p.Cys2603Trp)	7450	VWF	Likely pathogenic	GRCh38	4853806
+single nucleotide variant	NM_000552.5(VWF):c.7770+1G>A	7450	VWF	Pathogenic	GRCh38	4856105

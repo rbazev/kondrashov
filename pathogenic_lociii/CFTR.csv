@@ -1,0 +1,774 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000492.4(CFTR):c.1477C>T (p.Gln493Ter)	1080	CFTR	Pathogenic	GRCh38	7107
+single nucleotide variant	NM_000492.4(CFTR):c.350G>A (p.Arg117His)	1080	CFTR	Pathogenic	GRCh38	7109
+single nucleotide variant	NM_000492.4(CFTR):c.1040G>C (p.Arg347Pro)	1080	CFTR	Pathogenic	GRCh38	7110
+single nucleotide variant	NM_000492.4(CFTR):c.1364C>A (p.Ala455Glu)	1080	CFTR	Pathogenic	GRCh38	7111
+single nucleotide variant	NM_000492.4(CFTR):c.1585-1G>A	1080	CFTR	Pathogenic	GRCh38	7112
+single nucleotide variant	NM_000492.4(CFTR):c.1679G>C (p.Arg560Thr)	1080	CFTR	Pathogenic	GRCh38	7113
+single nucleotide variant	NM_000492.4(CFTR):c.1687T>A (p.Tyr563Asn)	1080	CFTR	Pathogenic	GRCh38	7114
+single nucleotide variant	NM_000492.4(CFTR):c.1624G>T (p.Gly542Ter)	1080	CFTR	Pathogenic	GRCh38	7115
+single nucleotide variant	NM_000492.4(CFTR):c.1646G>T (p.Ser549Ile)	1080	CFTR	Pathogenic	GRCh38	7117
+single nucleotide variant	NM_000492.4(CFTR):c.1721C>A (p.Pro574His)	1080	CFTR	Pathogenic	GRCh38	7119
+single nucleotide variant	NM_000492.4(CFTR):c.1652G>A (p.Gly551Asp)	1080	CFTR	Pathogenic	GRCh38	7120
+single nucleotide variant	NM_000492.4(CFTR):c.1657C>T (p.Arg553Ter)	1080	CFTR	Pathogenic	GRCh38	7122
+single nucleotide variant	NM_000492.4(CFTR):c.1675G>A (p.Ala559Thr)	1080	CFTR	Pathogenic	GRCh38	7123
+single nucleotide variant	NM_000492.4(CFTR):c.3764C>A (p.Ser1255Ter)	1080	CFTR	Pathogenic	GRCh38	7125
+single nucleotide variant	NM_000492.4(CFTR):c.2538G>A (p.Trp846Ter)	1080	CFTR	Pathogenic	GRCh38	7127
+single nucleotide variant	NM_000492.4(CFTR):c.2738A>G (p.Tyr913Cys)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7128
+single nucleotide variant	NM_000492.4(CFTR):c.3846G>A (p.Trp1282Ter)	1080	CFTR	Pathogenic	GRCh38	7129
+single nucleotide variant	NM_000492.4(CFTR):c.1373G>T (p.Gly458Val)	1080	CFTR	Likely pathogenic	GRCh38	7132
+single nucleotide variant	NM_000492.4(CFTR):c.3947G>A (p.Trp1316Ter)	1080	CFTR	Pathogenic	GRCh38	7133
+single nucleotide variant	NM_000492.4(CFTR):c.3909C>G (p.Asn1303Lys)	1080	CFTR	Pathogenic	GRCh38	7136
+single nucleotide variant	NM_000492.4(CFTR):c.3484C>T (p.Arg1162Ter)	1080	CFTR	Pathogenic	GRCh38	7137
+single nucleotide variant	NM_000492.4(CFTR):c.3717+4A>G	1080	CFTR	Pathogenic	GRCh38	7138
+single nucleotide variant	NM_000492.4(CFTR):c.1000C>T (p.Arg334Trp)	1080	CFTR	Pathogenic	GRCh38	7139
+single nucleotide variant	NM_000492.4(CFTR):c.2551C>T (p.Arg851Ter)	1080	CFTR	Pathogenic	GRCh38	7141
+single nucleotide variant	NM_000492.4(CFTR):c.254G>A (p.Gly85Glu)	1080	CFTR	Pathogenic	GRCh38	7143
+single nucleotide variant	NM_000492.4(CFTR):c.3472C>T (p.Arg1158Ter)	1080	CFTR	Pathogenic	GRCh38	7144
+single nucleotide variant	NM_000492.4(CFTR):c.1558G>T (p.Val520Phe)	1080	CFTR	Pathogenic	GRCh38	7150
+single nucleotide variant	NM_000492.4(CFTR):c.1572C>A (p.Cys524Ter)	1080	CFTR	Pathogenic	GRCh38	7151
+single nucleotide variant	NM_000492.4(CFTR):c.3873G>C (p.Gln1291His)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7152
+single nucleotide variant	NM_000492.4(CFTR):c.933C>G (p.Phe311Leu)	1080	CFTR	Pathogenic	GRCh38	7153
+single nucleotide variant	NM_000492.4(CFTR):c.1475C>T (p.Ser492Phe)	1080	CFTR	Pathogenic	GRCh38	7155
+single nucleotide variant	NM_000492.4(CFTR):c.1679G>A (p.Arg560Lys)	1080	CFTR	Pathogenic	GRCh38	7156
+single nucleotide variant	NM_000492.4(CFTR):c.2479G>T (p.Glu827Ter)	1080	CFTR	Pathogenic	GRCh38	7157
+single nucleotide variant	NM_000492.4(CFTR):c.3197G>A (p.Arg1066His)	1080	CFTR	Pathogenic	GRCh38	7158
+single nucleotide variant	NM_000492.4(CFTR):c.3873+1G>A	1080	CFTR	Pathogenic	GRCh38	7160
+single nucleotide variant	NM_000492.4(CFTR):c.3196C>T (p.Arg1066Cys)	1080	CFTR	Pathogenic	GRCh38	7162
+single nucleotide variant	NM_000492.3(CFTR):c.3718-2477C>T	1080	CFTR	Pathogenic	GRCh38	7166
+single nucleotide variant	NM_000492.4(CFTR):c.3848G>T (p.Arg1283Met)	1080	CFTR	Pathogenic	GRCh38	7167
+single nucleotide variant	NM_000492.4(CFTR):c.1766+1G>A	1080	CFTR	Pathogenic	GRCh38	7168
+single nucleotide variant	NM_000492.4(CFTR):c.1040G>T (p.Arg347Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7171
+single nucleotide variant	NM_000492.4(CFTR):c.2146A>T (p.Lys716Ter)	1080	CFTR	Pathogenic	GRCh38	7174
+single nucleotide variant	NM_000492.4(CFTR):c.2490+1G>A	1080	CFTR	Pathogenic	GRCh38	7175
+single nucleotide variant	NM_000492.4(CFTR):c.3712C>T (p.Gln1238Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7176
+single nucleotide variant	NM_000492.4(CFTR):c.3718-1G>A	1080	CFTR	Pathogenic	GRCh38	7177
+single nucleotide variant	NM_000492.4(CFTR):c.171G>A (p.Trp57Ter)	1080	CFTR	Pathogenic	GRCh38	7179
+single nucleotide variant	NM_000492.4(CFTR):c.3937C>T (p.Gln1313Ter)	1080	CFTR	Pathogenic	GRCh38	7180
+single nucleotide variant	NM_000492.4(CFTR):c.274G>A (p.Glu92Lys)	1080	CFTR	Pathogenic	GRCh38	7181
+single nucleotide variant	NM_000492.4(CFTR):c.1040G>A (p.Arg347His)	1080	CFTR	Pathogenic	GRCh38	7182
+single nucleotide variant	NM_000492.4(CFTR):c.271G>A (p.Gly91Arg)	1080	CFTR	Pathogenic	GRCh38	7183
+single nucleotide variant	NM_000492.4(CFTR):c.274G>T (p.Glu92Ter)	1080	CFTR	Pathogenic	GRCh38	7186
+single nucleotide variant	NM_000492.4(CFTR):c.1438G>T (p.Gly480Cys)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7187
+single nucleotide variant	NM_000492.4(CFTR):c.1013C>T (p.Thr338Ile)	1080	CFTR	Pathogenic	GRCh38	7193
+single nucleotide variant	NM_000492.4(CFTR):c.3266G>A (p.Trp1089Ter)	1080	CFTR	Pathogenic	GRCh38	7194
+single nucleotide variant	NM_000492.4(CFTR):c.326A>G (p.Tyr109Cys)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7197
+single nucleotide variant	NM_000492.4(CFTR):c.1654C>T (p.Gln552Ter)	1080	CFTR	Pathogenic	GRCh38	7201
+single nucleotide variant	NM_000492.4(CFTR):c.1943A>T (p.Asp648Val)	1080	CFTR	Pathogenic	GRCh38	7202
+single nucleotide variant	NM_000492.4(CFTR):c.2128A>T (p.Lys710Ter)	1080	CFTR	Pathogenic	GRCh38	7203
+single nucleotide variant	NM_000492.4(CFTR):c.2668C>T (p.Gln890Ter)	1080	CFTR	Pathogenic	GRCh38	7204
+single nucleotide variant	NM_000492.4(CFTR):c.3194T>C (p.Leu1065Pro)	1080	CFTR	Pathogenic	GRCh38	7208
+single nucleotide variant	NM_000492.4(CFTR):c.3212A>C (p.Gln1071Pro)	1080	CFTR	Likely pathogenic	GRCh38	7209
+single nucleotide variant	NM_000492.4(CFTR):c.3254A>G (p.His1085Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7210
+single nucleotide variant	NM_000492.4(CFTR):c.3276C>G (p.Tyr1092Ter)	1080	CFTR	Pathogenic	GRCh38	7211
+single nucleotide variant	NM_000492.4(CFTR):c.3611G>A (p.Trp1204Ter)	1080	CFTR	Pathogenic	GRCh38	7212
+single nucleotide variant	NM_000492.4(CFTR):c.3700A>G (p.Ile1234Val)	1080	CFTR	Pathogenic	GRCh38	7215
+single nucleotide variant	NM_000492.4(CFTR):c.3907A>C (p.Asn1303His)	1080	CFTR	Pathogenic	GRCh38	7218
+single nucleotide variant	NM_000492.4(CFTR):c.4364C>G (p.Ser1455Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	7223
+single nucleotide variant	NM_000492.3(CFTR):c.-102A=	1080	CFTR	Pathogenic	GRCh38	7226
+single nucleotide variant	NM_000492.4(CFTR):c.19G>T (p.Glu7Ter)	1080	CFTR	Pathogenic	GRCh38	7235
+single nucleotide variant	NM_000492.4(CFTR):c.3731G>T (p.Gly1244Val)	1080	CFTR	Likely pathogenic	GRCh38	53798
+single nucleotide variant	NM_000492.4(CFTR):c.1682C>A (p.Ala561Glu)	1080	CFTR	Pathogenic	GRCh38	7240
+single nucleotide variant	NM_000492.4(CFTR):c.2988+1G>A	1080	CFTR	Pathogenic	GRCh38	7224
+single nucleotide variant	NM_000492.4(CFTR):c.114C>G (p.Tyr38Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	35817
+single nucleotide variant	NM_000492.4(CFTR):c.1367T>C (p.Val456Ala)	1080	CFTR	Pathogenic	GRCh38	35821
+single nucleotide variant	NM_000492.4(CFTR):c.1397C>G (p.Ser466Ter)	1080	CFTR	Pathogenic	GRCh38	35822
+single nucleotide variant	NM_000492.4(CFTR):c.1400T>C (p.Leu467Pro)	1080	CFTR	Pathogenic	GRCh38	35823
+single nucleotide variant	NM_000492.4(CFTR):c.14C>T (p.Pro5Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	35824
+single nucleotide variant	NM_000492.4(CFTR):c.1585-8G>A	1080	CFTR	Pathogenic	GRCh38	35828
+single nucleotide variant	NM_000492.4(CFTR):c.1673T>C (p.Leu558Ser)	1080	CFTR	Pathogenic	GRCh38	35829
+single nucleotide variant	NM_000492.4(CFTR):c.273+3A>C	1080	CFTR	Pathogenic	GRCh38	35846
+single nucleotide variant	NM_000492.4(CFTR):c.2768C>A (p.Ala923Asp)	1080	CFTR	Likely pathogenic	GRCh38	35848
+single nucleotide variant	NM_000492.4(CFTR):c.2909G>A (p.Gly970Asp)	1080	CFTR	Pathogenic	GRCh38	35854
+single nucleotide variant	NM_000492.4(CFTR):c.2932A>T (p.Lys978Ter)	1080	CFTR	Pathogenic	GRCh38	35855
+single nucleotide variant	NM_000492.4(CFTR):c.2988G>A (p.Gln996=)	1080	CFTR	Pathogenic	GRCh38	35857
+single nucleotide variant	NM_000492.4(CFTR):c.2989-2A>T	1080	CFTR	Pathogenic	GRCh38	35858
+single nucleotide variant	NM_000492.4(CFTR):c.3095A>G (p.Tyr1032Cys)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	35861
+single nucleotide variant	NM_000492.4(CFTR):c.3140-26A>G	1080	CFTR	Pathogenic	GRCh38	35864
+single nucleotide variant	NM_000492.4(CFTR):c.370G>C (p.Gly124Arg)	1080	CFTR	Likely pathogenic	GRCh38	35873
+single nucleotide variant	NM_000492.4(CFTR):c.3717+5G>A	1080	CFTR	Pathogenic	GRCh38	35875
+single nucleotide variant	NM_000492.4(CFTR):c.3997G>T (p.Gly1333Trp)	1080	CFTR	Likely pathogenic	GRCh38	35880
+single nucleotide variant	NM_000492.4(CFTR):c.4242+2T>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	35884
+single nucleotide variant	NM_000492.4(CFTR):c.4280T>C (p.Ile1427Thr)	1080	CFTR	Likely pathogenic	GRCh38	35886
+single nucleotide variant	NM_000492.4(CFTR):c.825C>G (p.Tyr275Ter)	1080	CFTR	Pathogenic	GRCh38	35890
+single nucleotide variant	NM_000492.4(CFTR):c.489+1G>T	1080	CFTR	Pathogenic	GRCh38	38799
+single nucleotide variant	NM_000492.4(CFTR):c.579+1G>T	1080	CFTR	Pathogenic	GRCh38	38494
+single nucleotide variant	NM_000492.4(CFTR):c.2657+5G>A	1080	CFTR	Pathogenic	GRCh38	38497
+single nucleotide variant	NM_000492.4(CFTR):c.3276C>A (p.Tyr1092Ter)	1080	CFTR	Pathogenic	GRCh38	38728
+single nucleotide variant	NM_000492.4(CFTR):c.178G>T (p.Glu60Ter)	1080	CFTR	Pathogenic	GRCh38	38730
+single nucleotide variant	NM_000492.4(CFTR):c.366T>A (p.Tyr122Ter)	1080	CFTR	Pathogenic	GRCh38	38833
+single nucleotide variant	NM_000492.4(CFTR):c.3302T>A (p.Met1101Lys)	1080	CFTR	Pathogenic	GRCh38	39516
+single nucleotide variant	NM_000492.4(CFTR):c.223C>T (p.Arg75Ter)	1080	CFTR	Pathogenic	GRCh38	48672
+single nucleotide variant	NM_000492.4(CFTR):c.3587C>G (p.Ser1196Ter)	1080	CFTR	Pathogenic	GRCh38	48674
+single nucleotide variant	NM_000492.4(CFTR):c.274-1G>A	1080	CFTR	Pathogenic	GRCh38	48680
+single nucleotide variant	NM_000492.4(CFTR):c.1680-1G>A	1080	CFTR	Pathogenic	GRCh38	48681
+single nucleotide variant	NM_000492.4(CFTR):c.1766+5G>T	1080	CFTR	Pathogenic	GRCh38	48685
+single nucleotide variant	NM_000492.4(CFTR):c.988G>T (p.Gly330Ter)	1080	CFTR	Pathogenic	GRCh38	48708
+single nucleotide variant	NM_000492.4(CFTR):c.1090T>C (p.Ser364Pro)	1080	CFTR	Likely pathogenic	GRCh38	48714
+single nucleotide variant	NM_000492.4(CFTR):c.1001G>T (p.Arg334Leu)	1080	CFTR	Pathogenic	GRCh38	53160
+single nucleotide variant	NM_000492.4(CFTR):c.1007T>A (p.Ile336Lys)	1080	CFTR	Pathogenic	GRCh38	53162
+single nucleotide variant	NM_000492.4(CFTR):c.1021T>C (p.Ser341Pro)	1080	CFTR	Pathogenic	GRCh38	53167
+single nucleotide variant	NM_000492.4(CFTR):c.1037T>C (p.Leu346Pro)	1080	CFTR	Pathogenic	GRCh38	53171
+single nucleotide variant	NM_000492.4(CFTR):c.1057C>T (p.Gln353Ter)	1080	CFTR	Pathogenic	GRCh38	53175
+single nucleotide variant	NM_000492.4(CFTR):c.1068G>A (p.Trp356Ter)	1080	CFTR	Pathogenic	GRCh38	1706062
+single nucleotide variant	NM_000492.4(CFTR):c.1116+1G>A	1080	CFTR	Pathogenic	GRCh38	53190
+single nucleotide variant	NM_000492.4(CFTR):c.1116+1G>C	1080	CFTR	Pathogenic	GRCh38	53191
+single nucleotide variant	NM_000492.4(CFTR):c.1125A>C (p.Leu375Phe)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53196
+single nucleotide variant	NM_000492.4(CFTR):c.1135G>T (p.Glu379Ter)	1080	CFTR	Pathogenic	GRCh38	53200
+single nucleotide variant	NM_000492.4(CFTR):c.115C>T (p.Gln39Ter)	1080	CFTR	Pathogenic	GRCh38	53204
+single nucleotide variant	NM_000492.4(CFTR):c.11C>A (p.Ser4Ter)	1080	CFTR	Pathogenic	GRCh38	53211
+single nucleotide variant	NM_000492.4(CFTR):c.1202G>A (p.Trp401Ter)	1080	CFTR	Pathogenic	GRCh38	53212
+single nucleotide variant	NM_000492.4(CFTR):c.1203G>A (p.Trp401Ter)	1080	CFTR	Pathogenic	GRCh38	53213
+single nucleotide variant	NM_000492.4(CFTR):c.1209+1G>A	1080	CFTR	Pathogenic	GRCh38	53214
+single nucleotide variant	NM_000492.4(CFTR):c.1209G>A (p.Glu403=)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53215
+single nucleotide variant	NM_000492.4(CFTR):c.1209G>C (p.Glu403Asp)	1080	CFTR	Pathogenic	GRCh38	53216
+single nucleotide variant	NM_000492.4(CFTR):c.1210-1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53217
+single nucleotide variant	NM_000492.4(CFTR):c.1210-2A>C	1080	CFTR	Pathogenic	GRCh38	53218
+single nucleotide variant	NM_000492.4(CFTR):c.1240C>T (p.Gln414Ter)	1080	CFTR	Pathogenic	GRCh38	53222
+single nucleotide variant	NM_000492.4(CFTR):c.131A>G (p.Asp44Gly)	1080	CFTR	Pathogenic	GRCh38	53227
+single nucleotide variant	NM_000492.4(CFTR):c.1366G>T (p.Val456Phe)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53236
+single nucleotide variant	NM_000492.4(CFTR):c.137C>A (p.Ala46Asp)	1080	CFTR	Pathogenic	GRCh38	53238
+single nucleotide variant	NM_000492.4(CFTR):c.1392+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53239
+single nucleotide variant	NM_000492.4(CFTR):c.1392G>T (p.Lys464Asn)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53240
+single nucleotide variant	NM_000492.4(CFTR):c.1393-1G>A	1080	CFTR	Pathogenic	GRCh38	53242
+single nucleotide variant	NM_000492.4(CFTR):c.1393-2A>G	1080	CFTR	Pathogenic	GRCh38	53243
+single nucleotide variant	NM_000492.4(CFTR):c.1397C>A (p.Ser466Ter)	1080	CFTR	Pathogenic	GRCh38	53244
+single nucleotide variant	NM_000492.4(CFTR):c.1405A>G (p.Met469Val)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53248
+single nucleotide variant	NM_000492.4(CFTR):c.1435G>T (p.Glu479Ter)	1080	CFTR	Pathogenic	GRCh38	1772609
+single nucleotide variant	NM_000492.4(CFTR):c.1439G>A (p.Gly480Asp)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53255
+single nucleotide variant	NM_000492.4(CFTR):c.1466C>A (p.Ser489Ter)	1080	CFTR	Pathogenic	GRCh38	53259
+single nucleotide variant	NM_000492.4(CFTR):c.1471T>C (p.Cys491Arg)	1080	CFTR	Pathogenic	GRCh38	53261
+single nucleotide variant	NM_000492.4(CFTR):c.1478A>G (p.Gln493Arg)	1080	CFTR	Likely pathogenic	GRCh38	53263
+single nucleotide variant	NM_000492.4(CFTR):c.1487G>A (p.Trp496Ter)	1080	CFTR	Pathogenic	GRCh38	53265
+single nucleotide variant	NM_000492.4(CFTR):c.148T>C (p.Ser50Pro)	1080	CFTR	Pathogenic	GRCh38	53266
+single nucleotide variant	NM_000492.4(CFTR):c.1501A>G (p.Thr501Ala)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53270
+single nucleotide variant	NM_000492.4(CFTR):c.1505T>C (p.Ile502Thr)	1080	CFTR	Pathogenic	GRCh38	53272
+single nucleotide variant	NM_000492.4(CFTR):c.1510G>T (p.Glu504Ter)	1080	CFTR	Pathogenic	GRCh38	53274
+single nucleotide variant	NM_000492.4(CFTR):c.1538A>G (p.Asp513Gly)	1080	CFTR	Pathogenic	GRCh38	53280
+single nucleotide variant	NM_000492.4(CFTR):c.1573C>T (p.Gln525Ter)	1080	CFTR	Pathogenic	GRCh38	53282
+single nucleotide variant	NM_000492.4(CFTR):c.1585-9412A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53284
+single nucleotide variant	NM_000492.4(CFTR):c.1584+1G>A	1080	CFTR	Pathogenic	GRCh38	53285
+single nucleotide variant	NM_000492.4(CFTR):c.1584+1G>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53286
+single nucleotide variant	NM_000492.4(CFTR):c.1584+2T>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53287
+single nucleotide variant	NM_000492.4(CFTR):c.1585-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53290
+single nucleotide variant	NM_000492.4(CFTR):c.164+1G>A	1080	CFTR	Pathogenic	GRCh38	53303
+single nucleotide variant	NM_000492.4(CFTR):c.164+1G>C	1080	CFTR	Pathogenic	GRCh38	53304
+single nucleotide variant	NM_000492.4(CFTR):c.164+1G>T	1080	CFTR	Pathogenic	GRCh38	53305
+single nucleotide variant	NM_000492.4(CFTR):c.164+2T>C	1080	CFTR	Pathogenic	GRCh38	53306
+single nucleotide variant	NM_000492.4(CFTR):c.1648G>T (p.Gly550Ter)	1080	CFTR	Pathogenic	GRCh38	53312
+single nucleotide variant	NM_000492.4(CFTR):c.165-1G>A	1080	CFTR	Pathogenic	GRCh38	53314
+single nucleotide variant	NM_000492.4(CFTR):c.165-2A>G	1080	CFTR	Pathogenic	GRCh38	53315
+single nucleotide variant	NM_000492.4(CFTR):c.1680-877G>T	1080	CFTR	Pathogenic	GRCh38	53331
+single nucleotide variant	NM_000492.4(CFTR):c.1679+1G>C	1080	CFTR	Pathogenic	GRCh38	53335
+single nucleotide variant	NM_000492.4(CFTR):c.1680-886A>G	1080	CFTR	Pathogenic	GRCh38	53338
+single nucleotide variant	NM_000492.4(CFTR):c.1680A>C (p.Arg560Ser)	1080	CFTR	Pathogenic	GRCh38	53339
+single nucleotide variant	NM_000492.4(CFTR):c.1687T>G (p.Tyr563Asp)	1080	CFTR	Pathogenic	GRCh38	53342
+single nucleotide variant	NM_000492.4(CFTR):c.169T>C (p.Trp57Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53346
+single nucleotide variant	NM_000492.4(CFTR):c.169T>G (p.Trp57Gly)	1080	CFTR	Pathogenic	GRCh38	53347
+single nucleotide variant	NM_000492.4(CFTR):c.1703T>A (p.Leu568Ter)	1080	CFTR	Pathogenic	GRCh38	53348
+single nucleotide variant	NM_000492.4(CFTR):c.1705T>C (p.Tyr569His)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53351
+single nucleotide variant	NM_000492.4(CFTR):c.1705T>G (p.Tyr569Asp)	1080	CFTR	Pathogenic	GRCh38	53352
+single nucleotide variant	NM_000492.4(CFTR):c.1706A>G (p.Tyr569Cys)	1080	CFTR	Pathogenic	GRCh38	53353
+single nucleotide variant	NM_000492.4(CFTR):c.1707T>A (p.Tyr569Ter)	1080	CFTR	Pathogenic	GRCh38	53354
+single nucleotide variant	NM_000492.4(CFTR):c.170G>A (p.Trp57Ter)	1080	CFTR	Pathogenic	GRCh38	53355
+single nucleotide variant	NM_000492.4(CFTR):c.1712T>C (p.Leu571Ser)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53356
+single nucleotide variant	NM_000492.4(CFTR):c.1714G>A (p.Asp572Asn)	1080	CFTR	Likely pathogenic	GRCh38	53358
+single nucleotide variant	NM_000492.4(CFTR):c.1720C>T (p.Pro574Ser)	1080	CFTR	Pathogenic	GRCh38	53359
+single nucleotide variant	NM_000492.4(CFTR):c.172G>A (p.Asp58Asn)	1080	CFTR	Likely pathogenic	GRCh38	53361
+single nucleotide variant	NM_000492.4(CFTR):c.1753G>T (p.Glu585Ter)	1080	CFTR	Pathogenic	GRCh38	53374
+single nucleotide variant	NM_000492.4(CFTR):c.1766+1G>C	1080	CFTR	Pathogenic	GRCh38	53376
+single nucleotide variant	NM_000492.4(CFTR):c.1766+1G>T	1080	CFTR	Pathogenic	GRCh38	53377
+single nucleotide variant	NM_000492.4(CFTR):c.1766+3A>C	1080	CFTR	Pathogenic	GRCh38	53378
+single nucleotide variant	NM_000492.4(CFTR):c.1766+3A>G	1080	CFTR	Pathogenic	GRCh38	53379
+single nucleotide variant	NM_000492.4(CFTR):c.1766+5G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53380
+single nucleotide variant	NM_000492.4(CFTR):c.1766G>A (p.Ser589Asn)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53382
+single nucleotide variant	NM_000492.4(CFTR):c.1766G>T (p.Ser589Ile)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53384
+single nucleotide variant	NM_000492.4(CFTR):c.178G>A (p.Glu60Lys)	1080	CFTR	Pathogenic	GRCh38	53386
+single nucleotide variant	NM_000492.4(CFTR):c.1792A>T (p.Lys598Ter)	1080	CFTR	Pathogenic	GRCh38	1705874
+single nucleotide variant	NM_000492.4(CFTR):c.1801A>T (p.Ile601Phe)	1080	CFTR	Pathogenic	GRCh38	53391
+single nucleotide variant	NM_000492.4(CFTR):c.1802T>C (p.Ile601Thr)	1080	CFTR	Likely pathogenic	GRCh38	53392
+single nucleotide variant	NM_000492.4(CFTR):c.1811C>T (p.Thr604Ile)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53395
+single nucleotide variant	NM_000492.4(CFTR):c.1826A>G (p.His609Arg)	1080	CFTR	Pathogenic	GRCh38	53398
+single nucleotide variant	NM_000492.4(CFTR):c.1837G>A (p.Ala613Thr)	1080	CFTR	Pathogenic	GRCh38	53401
+single nucleotide variant	NM_000492.4(CFTR):c.1841A>G (p.Asp614Gly)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53403
+single nucleotide variant	NM_000492.4(CFTR):c.1853T>C (p.Ile618Thr)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53404
+single nucleotide variant	NM_000492.4(CFTR):c.1859A>C (p.His620Pro)	1080	CFTR	Likely pathogenic	GRCh38	53406
+single nucleotide variant	NM_000492.4(CFTR):c.1882G>A (p.Gly628Arg)	1080	CFTR	Pathogenic	GRCh38	53408
+single nucleotide variant	NM_000492.4(CFTR):c.1882G>C (p.Gly628Arg)	1080	CFTR	Pathogenic	GRCh38	53409
+single nucleotide variant	NM_000492.4(CFTR):c.1909C>T (p.Gln637Ter)	1080	CFTR	Pathogenic	GRCh38	53413
+single nucleotide variant	NM_000492.4(CFTR):c.1966G>T (p.Glu656Ter)	1080	CFTR	Pathogenic	GRCh38	53416
+single nucleotide variant	NM_000492.4(CFTR):c.1990G>T (p.Glu664Ter)	1080	CFTR	Pathogenic	GRCh38	53422
+single nucleotide variant	NM_000492.4(CFTR):c.1A>G (p.Met1Val)	1080	CFTR	Pathogenic	GRCh38	53423
+single nucleotide variant	NM_000492.4(CFTR):c.2017G>T (p.Gly673Ter)	1080	CFTR	Pathogenic	GRCh38	53427
+single nucleotide variant	NM_000492.4(CFTR):c.2036G>A (p.Trp679Ter)	1080	CFTR	Pathogenic	GRCh38	53429
+single nucleotide variant	NM_000492.4(CFTR):c.2053C>T (p.Gln685Ter)	1080	CFTR	Pathogenic	GRCh38	53434
+single nucleotide variant	NM_000492.4(CFTR):c.2125C>T (p.Arg709Ter)	1080	CFTR	Pathogenic	GRCh38	53440
+single nucleotide variant	NM_000492.4(CFTR):c.2143C>T (p.Gln715Ter)	1080	CFTR	Pathogenic	GRCh38	53442
+single nucleotide variant	NM_000492.4(CFTR):c.2156T>A (p.Leu719Ter)	1080	CFTR	Pathogenic	GRCh38	53444
+single nucleotide variant	NM_000492.4(CFTR):c.2158C>T (p.Gln720Ter)	1080	CFTR	Pathogenic	GRCh38	53445
+single nucleotide variant	NM_000492.4(CFTR):c.215C>A (p.Ala72Asp)	1080	CFTR	Likely pathogenic	GRCh38	4064589
+single nucleotide variant	NM_000492.4(CFTR):c.2188G>T (p.Glu730Ter)	1080	CFTR	Pathogenic	GRCh38	53450
+single nucleotide variant	NM_000492.4(CFTR):c.2195T>G (p.Leu732Ter)	1080	CFTR	Pathogenic	GRCh38	53451
+single nucleotide variant	NM_000492.4(CFTR):c.2233G>T (p.Gly745Ter)	1080	CFTR	Pathogenic	GRCh38	53457
+single nucleotide variant	NM_000492.4(CFTR):c.2290C>T (p.Arg764Ter)	1080	CFTR	Pathogenic	GRCh38	53471
+single nucleotide variant	NM_000492.4(CFTR):c.2327C>G (p.Ser776Ter)	1080	CFTR	Pathogenic	GRCh38	53474
+single nucleotide variant	NM_000492.4(CFTR):c.2341C>T (p.Gln781Ter)	1080	CFTR	Pathogenic	GRCh38	1397987
+single nucleotide variant	NM_000492.4(CFTR):c.2353C>T (p.Arg785Ter)	1080	CFTR	Pathogenic	GRCh38	53480
+single nucleotide variant	NM_000492.4(CFTR):c.236G>A (p.Trp79Ter)	1080	CFTR	Pathogenic	GRCh38	53482
+single nucleotide variant	NM_000492.4(CFTR):c.2374C>T (p.Arg792Ter)	1080	CFTR	Pathogenic	GRCh38	53483
+single nucleotide variant	NM_000492.4(CFTR):c.2440C>T (p.Gln814Ter)	1080	CFTR	Pathogenic	GRCh38	53490
+single nucleotide variant	NM_000492.4(CFTR):c.2464G>A (p.Glu822Lys)	1080	CFTR	Likely pathogenic	GRCh38	53491
+single nucleotide variant	NM_000492.4(CFTR):c.2464G>T (p.Glu822Ter)	1080	CFTR	Pathogenic	GRCh38	53492
+single nucleotide variant	NM_000492.4(CFTR):c.2467G>T (p.Glu823Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2680717
+single nucleotide variant	NM_000492.4(CFTR):c.2488A>T (p.Lys830Ter)	1080	CFTR	Pathogenic	GRCh38	53496
+single nucleotide variant	NM_000492.4(CFTR):c.2491-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3241142
+single nucleotide variant	NM_000492.4(CFTR):c.2491G>T (p.Glu831Ter)	1080	CFTR	Pathogenic	GRCh38	53501
+single nucleotide variant	NM_000492.4(CFTR):c.2496C>A (p.Cys832Ter)	1080	CFTR	Pathogenic	GRCh38	53502
+single nucleotide variant	NM_000492.4(CFTR):c.2537G>A (p.Trp846Ter)	1080	CFTR	Pathogenic	GRCh38	53508
+single nucleotide variant	NM_000492.4(CFTR):c.2547C>A (p.Tyr849Ter)	1080	CFTR	Pathogenic	GRCh38	53509
+single nucleotide variant	NM_000492.4(CFTR):c.254G>T (p.Gly85Val)	1080	CFTR	Pathogenic	GRCh38	53510
+single nucleotide variant	NM_000492.4(CFTR):c.2600T>A (p.Leu867Ter)	1080	CFTR	Pathogenic	GRCh38	53521
+single nucleotide variant	NM_000492.4(CFTR):c.2619+2T>A	1080	CFTR	Likely pathogenic	GRCh38	53524
+single nucleotide variant	NM_000492.4(CFTR):c.263T>A (p.Leu88Ter)	1080	CFTR	Pathogenic	GRCh38	53532
+single nucleotide variant	NM_000492.4(CFTR):c.263T>G (p.Leu88Ter)	1080	CFTR	Pathogenic	GRCh38	53534
+single nucleotide variant	NM_000492.4(CFTR):c.2645G>A (p.Trp882Ter)	1080	CFTR	Pathogenic	GRCh38	53535
+single nucleotide variant	NM_000492.4(CFTR):c.2658-1G>T	1080	CFTR	Pathogenic	GRCh38	53539
+single nucleotide variant	NM_000492.4(CFTR):c.273+1G>A	1080	CFTR	Pathogenic	GRCh38	53549
+single nucleotide variant	NM_000492.4(CFTR):c.2735C>A (p.Ser912Ter)	1080	CFTR	Pathogenic	GRCh38	53550
+single nucleotide variant	NM_000492.4(CFTR):c.2739T>A (p.Tyr913Ter)	1080	CFTR	Pathogenic	GRCh38	53552
+single nucleotide variant	NM_000492.4(CFTR):c.274-1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53554
+single nucleotide variant	NM_000492.4(CFTR):c.274-1G>T	1080	CFTR	Pathogenic	GRCh38	53555
+single nucleotide variant	NM_000492.4(CFTR):c.274-2A>G	1080	CFTR	Pathogenic	GRCh38	53556
+single nucleotide variant	NM_000492.4(CFTR):c.2780T>C (p.Leu927Pro)	1080	CFTR	Pathogenic	GRCh38	53568
+single nucleotide variant	NM_000492.4(CFTR):c.2908G>C (p.Gly970Arg)	1080	CFTR	Pathogenic	GRCh38	53590
+single nucleotide variant	NM_000492.4(CFTR):c.2909-1G>A	1080	CFTR	Pathogenic	GRCh38	1322070
+single nucleotide variant	NM_000492.4(CFTR):c.292C>T (p.Gln98Ter)	1080	CFTR	Pathogenic	GRCh38	53600
+single nucleotide variant	NM_000492.4(CFTR):c.2936A>T (p.Asp979Val)	1080	CFTR	Pathogenic	GRCh38	53603
+single nucleotide variant	NM_000492.4(CFTR):c.293A>G (p.Gln98Arg)	1080	CFTR	Pathogenic	GRCh38	53606
+single nucleotide variant	NM_000492.4(CFTR):c.296C>T (p.Pro99Leu)	1080	CFTR	Pathogenic	GRCh38	53610
+single nucleotide variant	NM_000492.4(CFTR):c.2989-1G>A	1080	CFTR	Pathogenic	GRCh38	53613
+single nucleotide variant	NM_000492.4(CFTR):c.2989-2A>G	1080	CFTR	Pathogenic	GRCh38	53614
+single nucleotide variant	NM_000492.4(CFTR):c.2T>A (p.Met1Lys)	1080	CFTR	Pathogenic	GRCh38	53621
+single nucleotide variant	NM_000492.4(CFTR):c.2T>C (p.Met1Thr)	1080	CFTR	Pathogenic	GRCh38	53622
+single nucleotide variant	NM_000492.4(CFTR):c.3014T>G (p.Ile1005Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53626
+single nucleotide variant	NM_000492.4(CFTR):c.3017C>A (p.Ala1006Glu)	1080	CFTR	Pathogenic	GRCh38	53627
+single nucleotide variant	NM_000492.4(CFTR):c.302T>G (p.Leu101Ter)	1080	CFTR	Pathogenic	GRCh38	53633
+single nucleotide variant	NM_000492.4(CFTR):c.305T>C (p.Leu102Pro)	1080	CFTR	Likely pathogenic	GRCh38	53642
+single nucleotide variant	NM_000492.4(CFTR):c.3103C>T (p.Gln1035Ter)	1080	CFTR	Pathogenic	GRCh38	53650
+single nucleotide variant	NM_000492.4(CFTR):c.3107C>A (p.Thr1036Asn)	1080	CFTR	Pathogenic	GRCh38	53652
+single nucleotide variant	NM_000492.4(CFTR):c.3124C>T (p.Gln1042Ter)	1080	CFTR	Pathogenic	GRCh38	53654
+single nucleotide variant	NM_000492.4(CFTR):c.3139+1G>A	1080	CFTR	Pathogenic	GRCh38	53657
+single nucleotide variant	NM_000492.4(CFTR):c.3140-1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53661
+single nucleotide variant	NM_000492.4(CFTR):c.314T>A (p.Ile105Asn)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53665
+single nucleotide variant	NM_000492.4(CFTR):c.3160C>G (p.His1054Asp)	1080	CFTR	Pathogenic	GRCh38	53667
+single nucleotide variant	NM_000492.4(CFTR):c.3181G>C (p.Gly1061Arg)	1080	CFTR	Pathogenic	GRCh38	53672
+single nucleotide variant	NM_000492.4(CFTR):c.3189G>A (p.Trp1063Ter)	1080	CFTR	Pathogenic	GRCh38	53674
+single nucleotide variant	NM_000492.4(CFTR):c.3194T>G (p.Leu1065Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53676
+single nucleotide variant	NM_000492.4(CFTR):c.3196C>A (p.Arg1066Ser)	1080	CFTR	Likely pathogenic	GRCh38	53677
+single nucleotide variant	NM_000492.4(CFTR):c.3197G>T (p.Arg1066Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53678
+single nucleotide variant	NM_000492.4(CFTR):c.3199G>C (p.Ala1067Pro)	1080	CFTR	Likely pathogenic	GRCh38	53679
+single nucleotide variant	NM_000492.4(CFTR):c.3209G>C (p.Arg1070Pro)	1080	CFTR	Likely pathogenic	GRCh38	53686
+single nucleotide variant	NM_000492.4(CFTR):c.3211C>T (p.Gln1071Ter)	1080	CFTR	Pathogenic	GRCh38	53687
+single nucleotide variant	NM_000492.4(CFTR):c.3230T>C (p.Leu1077Pro)	1080	CFTR	Pathogenic	GRCh38	53690
+single nucleotide variant	NM_000492.4(CFTR):c.3278T>C (p.Leu1093Pro)	1080	CFTR	Likely pathogenic	GRCh38	53701
+single nucleotide variant	NM_000492.4(CFTR):c.327T>A (p.Tyr109Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53702
+single nucleotide variant	NM_000492.4(CFTR):c.3292T>C (p.Trp1098Arg)	1080	CFTR	Pathogenic	GRCh38	53707
+single nucleotide variant	NM_000492.4(CFTR):c.3293G>A (p.Trp1098Ter)	1080	CFTR	Pathogenic	GRCh38	53708
+single nucleotide variant	NM_000492.4(CFTR):c.3294G>C (p.Trp1098Cys)	1080	CFTR	Pathogenic	GRCh38	53709
+single nucleotide variant	NM_000492.4(CFTR):c.3299A>C (p.Gln1100Pro)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53711
+single nucleotide variant	NM_000492.4(CFTR):c.3302T>G (p.Met1101Arg)	1080	CFTR	Pathogenic	GRCh38	53712
+single nucleotide variant	NM_000492.4(CFTR):c.3304A>T (p.Arg1102Ter)	1080	CFTR	Pathogenic	GRCh38	53713
+single nucleotide variant	NM_000492.4(CFTR):c.3310G>T (p.Glu1104Ter)	1080	CFTR	Pathogenic	GRCh38	53715
+single nucleotide variant	NM_000492.4(CFTR):c.331C>G (p.Pro111Ala)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53718
+single nucleotide variant	NM_000492.4(CFTR):c.3353C>T (p.Ser1118Phe)	1080	CFTR	Pathogenic	GRCh38	53722
+single nucleotide variant	NM_000492.4(CFTR):c.3367+2T>C	1080	CFTR	Likely pathogenic	GRCh38	4818533
+single nucleotide variant	NM_000492.4(CFTR):c.3367G>C (p.Gly1123Arg)	1080	CFTR	Likely pathogenic	GRCh38	53726
+single nucleotide variant	NM_000492.4(CFTR):c.3368-1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3720772
+single nucleotide variant	NM_000492.4(CFTR):c.3382A>T (p.Arg1128Ter)	1080	CFTR	Pathogenic	GRCh38	1300165
+single nucleotide variant	NM_000492.4(CFTR):c.340A>T (p.Lys114Ter)	1080	CFTR	Pathogenic	GRCh38	4277504
+single nucleotide variant	NM_000492.4(CFTR):c.3410T>G (p.Met1137Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53735
+single nucleotide variant	NM_000492.4(CFTR):c.3419T>A (p.Met1140Lys)	1080	CFTR	Likely pathogenic	GRCh38	53738
+single nucleotide variant	NM_000492.4(CFTR):c.3430C>T (p.Gln1144Ter)	1080	CFTR	Pathogenic	GRCh38	53740
+single nucleotide variant	NM_000492.4(CFTR):c.3435G>A (p.Trp1145Ter)	1080	CFTR	Pathogenic	GRCh38	53741
+single nucleotide variant	NM_000492.4(CFTR):c.3468G>A (p.Leu1156=)	1080	CFTR	Pathogenic	GRCh38	53750
+single nucleotide variant	NM_000492.4(CFTR):c.3469-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53752
+single nucleotide variant	NM_000492.4(CFTR):c.346G>A (p.Glu116Lys)	1080	CFTR	Pathogenic	GRCh38	53754
+single nucleotide variant	NM_000492.4(CFTR):c.3475T>C (p.Ser1159Pro)	1080	CFTR	Pathogenic	GRCh38	53756
+single nucleotide variant	NM_000492.4(CFTR):c.3476C>T (p.Ser1159Phe)	1080	CFTR	Pathogenic	GRCh38	53757
+single nucleotide variant	NM_000492.4(CFTR):c.349C>G (p.Arg117Gly)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53762
+single nucleotide variant	NM_000492.4(CFTR):c.350G>C (p.Arg117Pro)	1080	CFTR	Pathogenic	GRCh38	53764
+single nucleotide variant	NM_000492.4(CFTR):c.350G>T (p.Arg117Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53765
+single nucleotide variant	NM_000492.4(CFTR):c.3529A>T (p.Lys1177Ter)	1080	CFTR	Likely pathogenic	GRCh38	53766
+single nucleotide variant	NM_000492.4(CFTR):c.3546C>G (p.Tyr1182Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53770
+single nucleotide variant	NM_000492.4(CFTR):c.3556C>T (p.Gln1186Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706057
+single nucleotide variant	NM_000492.4(CFTR):c.3612G>A (p.Trp1204Ter)	1080	CFTR	Pathogenic	GRCh38	53779
+single nucleotide variant	NM_000492.4(CFTR):c.3617C>A (p.Ser1206Ter)	1080	CFTR	Pathogenic	GRCh38	53780
+single nucleotide variant	NM_000492.4(CFTR):c.3617C>G (p.Ser1206Ter)	1080	CFTR	Pathogenic	GRCh38	53781
+single nucleotide variant	NM_000492.4(CFTR):c.3717+40A>G	1080	CFTR	Pathogenic	GRCh38	53789
+single nucleotide variant	NM_000492.4(CFTR):c.3717G>A (p.Arg1239=)	1080	CFTR	Pathogenic	GRCh38	53791
+single nucleotide variant	NM_000492.4(CFTR):c.3718-3T>G	1080	CFTR	Pathogenic	GRCh38	53793
+single nucleotide variant	NM_000492.4(CFTR):c.3719T>G (p.Val1240Gly)	1080	CFTR	Pathogenic	GRCh38	53795
+single nucleotide variant	NM_000492.4(CFTR):c.3730G>A (p.Gly1244Arg)	1080	CFTR	Pathogenic	GRCh38	53796
+single nucleotide variant	NM_000492.4(CFTR):c.3737C>T (p.Thr1246Ile)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53799
+single nucleotide variant	NM_000492.4(CFTR):c.3739G>C (p.Gly1247Arg)	1080	CFTR	Likely pathogenic	GRCh38	4818546
+single nucleotide variant	NM_000492.4(CFTR):c.3745G>A (p.Gly1249Arg)	1080	CFTR	Pathogenic	GRCh38	53801
+single nucleotide variant	NM_000492.4(CFTR):c.3761T>G (p.Leu1254Ter)	1080	CFTR	Pathogenic	GRCh38	53805
+single nucleotide variant	NM_000492.4(CFTR):c.377G>A (p.Gly126Asp)	1080	CFTR	Pathogenic	GRCh38	53812
+single nucleotide variant	NM_000492.4(CFTR):c.3822G>A (p.Trp1274Ter)	1080	CFTR	Pathogenic	GRCh38	53817
+single nucleotide variant	NM_000492.4(CFTR):c.3841C>T (p.Gln1281Ter)	1080	CFTR	Pathogenic	GRCh38	53819
+single nucleotide variant	NM_000492.4(CFTR):c.3844T>C (p.Trp1282Arg)	1080	CFTR	Pathogenic	GRCh38	53820
+single nucleotide variant	NM_000492.4(CFTR):c.3844T>G (p.Trp1282Gly)	1080	CFTR	Pathogenic	GRCh38	53821
+single nucleotide variant	NM_000492.4(CFTR):c.3871C>T (p.Gln1291Ter)	1080	CFTR	Pathogenic	GRCh38	53826
+single nucleotide variant	NM_000492.4(CFTR):c.3873+2T>C	1080	CFTR	Pathogenic	GRCh38	53828
+single nucleotide variant	NM_000492.4(CFTR):c.3874-1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53832
+single nucleotide variant	NM_000492.4(CFTR):c.38C>T (p.Ser13Phe)	1080	CFTR	Pathogenic	GRCh38	53845
+single nucleotide variant	NM_000492.4(CFTR):c.3908A>T (p.Asn1303Ile)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53846
+single nucleotide variant	NM_000492.4(CFTR):c.3922G>T (p.Glu1308Ter)	1080	CFTR	Likely pathogenic	GRCh38	53854
+single nucleotide variant	NM_000492.4(CFTR):c.3929G>A (p.Trp1310Ter)	1080	CFTR	Pathogenic	GRCh38	53856
+single nucleotide variant	NM_000492.4(CFTR):c.3963+2T>A	1080	CFTR	Pathogenic	GRCh38	53862
+single nucleotide variant	NM_000492.4(CFTR):c.3964-3C>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53864
+single nucleotide variant	NM_000492.4(CFTR):c.3971T>C (p.Leu1324Pro)	1080	CFTR	Pathogenic	GRCh38	53865
+single nucleotide variant	NM_000492.4(CFTR):c.3G>A (p.Met1Ile)	1080	CFTR	Pathogenic	GRCh38	53869
+single nucleotide variant	NM_000492.4(CFTR):c.4004T>C (p.Leu1335Pro)	1080	CFTR	Pathogenic	GRCh38	53872
+single nucleotide variant	NM_000492.4(CFTR):c.40A>T (p.Lys14Ter)	1080	CFTR	Pathogenic	GRCh38	53888
+single nucleotide variant	NM_000492.4(CFTR):c.4111G>T (p.Glu1371Ter)	1080	CFTR	Pathogenic	GRCh38	53891
+single nucleotide variant	NM_000492.4(CFTR):c.4124A>C (p.His1375Pro)	1080	CFTR	Pathogenic	GRCh38	53895
+single nucleotide variant	NM_000492.4(CFTR):c.4144C>T (p.Gln1382Ter)	1080	CFTR	Pathogenic	GRCh38	53902
+single nucleotide variant	NM_000492.4(CFTR):c.4168C>T (p.Gln1390Ter)	1080	CFTR	Pathogenic	GRCh38	53908
+single nucleotide variant	NM_000492.4(CFTR):c.416A>G (p.His139Arg)	1080	CFTR	Pathogenic	GRCh38	53909
+single nucleotide variant	NM_000492.4(CFTR):c.416A>T (p.His139Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53910
+single nucleotide variant	NM_000492.4(CFTR):c.4201G>T (p.Glu1401Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53919
+single nucleotide variant	NM_000492.4(CFTR):c.4231C>T (p.Gln1411Ter)	1080	CFTR	Pathogenic	GRCh38	53925
+single nucleotide variant	NM_000492.4(CFTR):c.4234C>T (p.Gln1412Ter)	1080	CFTR	Pathogenic	GRCh38	53926
+single nucleotide variant	NM_000492.4(CFTR):c.4242+1G>A	1080	CFTR	Pathogenic	GRCh38	53929
+single nucleotide variant	NM_000492.4(CFTR):c.4242+1G>T	1080	CFTR	Pathogenic	GRCh38	53930
+single nucleotide variant	NM_000492.4(CFTR):c.4252G>T (p.Glu1418Ter)	1080	CFTR	Pathogenic	GRCh38	53934
+single nucleotide variant	NM_000492.4(CFTR):c.434T>A (p.Leu145His)	1080	CFTR	Likely pathogenic	GRCh38	2680711
+single nucleotide variant	NM_000492.4(CFTR):c.4417G>T (p.Glu1473Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53946
+single nucleotide variant	NM_000492.4(CFTR):c.4426C>T (p.Gln1476Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53947
+single nucleotide variant	NM_000492.4(CFTR):c.445G>A (p.Gly149Arg)	1080	CFTR	Pathogenic	GRCh38	53951
+single nucleotide variant	NM_000492.4(CFTR):c.451C>T (p.Gln151Ter)	1080	CFTR	Pathogenic	GRCh38	53954
+single nucleotide variant	NM_000492.4(CFTR):c.454A>G (p.Met152Val)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53955
+single nucleotide variant	NM_000492.4(CFTR):c.481T>G (p.Tyr161Asp)	1080	CFTR	Pathogenic	GRCh38	53965
+single nucleotide variant	NM_000492.4(CFTR):c.484A>G (p.Lys162Glu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53968
+single nucleotide variant	NM_000492.4(CFTR):c.489+2T>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53969
+single nucleotide variant	NM_000492.4(CFTR):c.489+2T>G	1080	CFTR	Pathogenic	GRCh38	53970
+single nucleotide variant	NM_000492.4(CFTR):c.490-1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53974
+single nucleotide variant	NM_000492.4(CFTR):c.490-2A>G	1080	CFTR	Pathogenic	GRCh38	53975
+single nucleotide variant	NM_000492.4(CFTR):c.494T>C (p.Leu165Ser)	1080	CFTR	Pathogenic	GRCh38	53976
+single nucleotide variant	NM_000492.4(CFTR):c.496A>G (p.Lys166Glu)	1080	CFTR	Likely pathogenic	GRCh38	53978
+single nucleotide variant	NM_000492.4(CFTR):c.4C>T (p.Gln2Ter)	1080	CFTR	Pathogenic	GRCh38	53980
+single nucleotide variant	NM_000492.4(CFTR):c.523A>G (p.Ile175Val)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	53986
+single nucleotide variant	NM_000492.4(CFTR):c.53+1G>T	1080	CFTR	Pathogenic	GRCh38	53988
+single nucleotide variant	NM_000492.4(CFTR):c.575A>G (p.Asp192Gly)	1080	CFTR	Pathogenic	GRCh38	54005
+single nucleotide variant	NM_000492.4(CFTR):c.577G>T (p.Glu193Ter)	1080	CFTR	Pathogenic	GRCh38	54007
+single nucleotide variant	NM_000492.4(CFTR):c.579+3A>G	1080	CFTR	Pathogenic	GRCh38	54010
+single nucleotide variant	NM_000492.4(CFTR):c.579+3A>T	1080	CFTR	Likely pathogenic	GRCh38	54011
+single nucleotide variant	NM_000492.4(CFTR):c.579+5G>A	1080	CFTR	Pathogenic	GRCh38	54012
+single nucleotide variant	NM_000492.4(CFTR):c.57G>T (p.Trp19Cys)	1080	CFTR	Likely pathogenic	GRCh38	54013
+single nucleotide variant	NM_000492.4(CFTR):c.580-1G>T	1080	CFTR	Pathogenic	GRCh38	54014
+single nucleotide variant	NM_000492.4(CFTR):c.595C>T (p.His199Tyr)	1080	CFTR	Pathogenic	GRCh38	54018
+single nucleotide variant	NM_000492.4(CFTR):c.596A>G (p.His199Arg)	1080	CFTR	Pathogenic	GRCh38	54019
+single nucleotide variant	NM_000492.4(CFTR):c.597T>G (p.His199Gln)	1080	CFTR	Likely pathogenic	GRCh38	54020
+single nucleotide variant	NM_000492.4(CFTR):c.606G>A (p.Trp202Ter)	1080	CFTR	Pathogenic	GRCh38	54024
+single nucleotide variant	NM_000492.4(CFTR):c.613C>T (p.Pro205Ser)	1080	CFTR	Pathogenic	GRCh38	54026
+single nucleotide variant	NM_000492.4(CFTR):c.619C>T (p.Gln207Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	54029
+single nucleotide variant	NM_000492.4(CFTR):c.647G>A (p.Trp216Ter)	1080	CFTR	Pathogenic	GRCh38	54033
+single nucleotide variant	NM_000492.4(CFTR):c.653T>A (p.Leu218Ter)	1080	CFTR	Pathogenic	GRCh38	54035
+single nucleotide variant	NM_000492.4(CFTR):c.658C>T (p.Gln220Ter)	1080	CFTR	Pathogenic	GRCh38	54036
+single nucleotide variant	NM_000492.4(CFTR):c.675T>A (p.Cys225Ter)	1080	CFTR	Pathogenic	GRCh38	54039
+single nucleotide variant	NM_000492.4(CFTR):c.680T>G (p.Leu227Arg)	1080	CFTR	Pathogenic	GRCh38	54040
+single nucleotide variant	NM_000492.4(CFTR):c.695T>A (p.Val232Asp)	1080	CFTR	Pathogenic	GRCh38	54041
+single nucleotide variant	NM_000492.4(CFTR):c.709C>G (p.Gln237Glu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	54042
+single nucleotide variant	NM_000492.4(CFTR):c.743+1G>A	1080	CFTR	Pathogenic	GRCh38	54051
+single nucleotide variant	NM_000492.4(CFTR):c.743+1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	54052
+single nucleotide variant	NM_000492.4(CFTR):c.79G>A (p.Gly27Arg)	1080	CFTR	Pathogenic	GRCh38	54059
+single nucleotide variant	NM_000492.4(CFTR):c.79G>T (p.Gly27Ter)	1080	CFTR	Pathogenic	GRCh38	54061
+single nucleotide variant	NM_000492.4(CFTR):c.80G>A (p.Gly27Glu)	1080	CFTR	Likely pathogenic	GRCh38	54062
+single nucleotide variant	NM_000492.4(CFTR):c.828C>A (p.Cys276Ter)	1080	CFTR	Pathogenic	GRCh38	54064
+single nucleotide variant	NM_000492.4(CFTR):c.868C>T (p.Gln290Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	54074
+single nucleotide variant	NM_000492.4(CFTR):c.88C>T (p.Gln30Ter)	1080	CFTR	Pathogenic	GRCh38	54081
+single nucleotide variant	NM_000492.4(CFTR):c.912C>G (p.Tyr304Ter)	1080	CFTR	Pathogenic	GRCh38	54083
+single nucleotide variant	NM_000492.4(CFTR):c.940G>C (p.Gly314Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	54088
+single nucleotide variant	NM_000492.4(CFTR):c.959T>A (p.Leu320Ter)	1080	CFTR	Pathogenic	GRCh38	54092
+single nucleotide variant	NM_000492.4(CFTR):c.164+2T>A	1080	CFTR	Likely pathogenic	GRCh38	156327
+single nucleotide variant	NM_000492.4(CFTR):c.830G>A (p.Trp277Ter)	1080	CFTR	Pathogenic	GRCh38	162000
+single nucleotide variant	NM_000492.4(CFTR):c.2443G>T (p.Glu815Ter)	1080	CFTR	Pathogenic	GRCh38	161999
+single nucleotide variant	NM_000492.4(CFTR):c.2700T>A (p.Asn900Lys)	1080	CFTR	Pathogenic	GRCh38	161997
+single nucleotide variant	NM_000492.4(CFTR):c.3963+1G>A	1080	CFTR	Likely pathogenic	GRCh38	161996
+single nucleotide variant	NM_000492.4(CFTR):c.3368-2A>G	1080	CFTR	Pathogenic	GRCh38	188783
+single nucleotide variant	NM_000492.4(CFTR):c.1117-1G>A	1080	CFTR	Pathogenic	GRCh38	209059
+single nucleotide variant	NM_000492.4(CFTR):c.2658-1G>C	1080	CFTR	Pathogenic	GRCh38	209045
+single nucleotide variant	NM_000492.4(CFTR):c.3294G>A (p.Trp1098Ter)	1080	CFTR	Pathogenic	GRCh38	209057
+single nucleotide variant	NM_000492.4(CFTR):c.1679+1G>A	1080	CFTR	Pathogenic	GRCh38	286869
+single nucleotide variant	NM_000492.4(CFTR):c.56G>A (p.Trp19Ter)	1080	CFTR	Pathogenic	GRCh38	370097
+single nucleotide variant	NM_000492.4(CFTR):c.744-2A>G	1080	CFTR	Pathogenic	GRCh38	370635
+single nucleotide variant	NM_000492.4(CFTR):c.865A>T (p.Arg289Ter)	1080	CFTR	Pathogenic	GRCh38	370599
+single nucleotide variant	NM_000492.4(CFTR):c.1209+1G>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	370916
+single nucleotide variant	NM_000492.4(CFTR):c.3368-2A>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	371331
+single nucleotide variant	NM_000492.4(CFTR):c.3533C>A (p.Ser1178Ter)	1080	CFTR	Likely pathogenic	GRCh38	370587
+single nucleotide variant	NM_000492.4(CFTR):c.3963+1G>C	1080	CFTR	Likely pathogenic	GRCh38	370155
+single nucleotide variant	NM_000492.4(CFTR):c.4143C>G (p.Tyr1381Ter)	1080	CFTR	Likely pathogenic	GRCh38	371287
+single nucleotide variant	NM_000492.4(CFTR):c.4272C>G (p.Tyr1424Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	371349
+single nucleotide variant	NM_000492.4(CFTR):c.3276C>R (p.Tyr1092Ter)	1080	CFTR	Pathogenic	GRCh38	375475
+single nucleotide variant	NM_000492.4(CFTR):c.2908+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	411122
+single nucleotide variant	NM_000492.4(CFTR):c.3062C>T (p.Pro1021Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	455774
+single nucleotide variant	NM_000492.4(CFTR):c.57G>A (p.Trp19Ter)	1080	CFTR	Pathogenic	GRCh38	487391
+single nucleotide variant	NM_000492.4(CFTR):c.1647T>A (p.Ser549Arg)	1080	CFTR	Pathogenic	GRCh38	487375
+single nucleotide variant	NM_000492.4(CFTR):c.3468+5G>A	1080	CFTR	Pathogenic	GRCh38	487381
+single nucleotide variant	NM_000492.4(CFTR):c.3988C>T (p.Gln1330Ter)	1080	CFTR	Pathogenic	GRCh38	487390
+single nucleotide variant	NM_000492.4(CFTR):c.1141A>T (p.Lys381Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	492871
+single nucleotide variant	NM_000492.4(CFTR):c.1219G>T (p.Glu407Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	495894
+single nucleotide variant	NM_000492.4(CFTR):c.1394C>A (p.Thr465Asn)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	495896
+single nucleotide variant	NM_000492.4(CFTR):c.273G>C (p.Gly91=)	1080	CFTR	Likely pathogenic	GRCh38	495909
+single nucleotide variant	NM_000492.4(CFTR):c.571T>G (p.Phe191Val)	1080	CFTR	Pathogenic	GRCh38	495953
+single nucleotide variant	NM_000492.4(CFTR):c.870-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	495962
+single nucleotide variant	NM_000492.4(CFTR):c.3874-2A>G	1080	CFTR	Likely pathogenic	GRCh38	495937
+single nucleotide variant	NM_000492.4(CFTR):c.3068T>G (p.Ile1023Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	495923
+single nucleotide variant	NM_000492.4(CFTR):c.2658-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	498029
+single nucleotide variant	NM_000492.4(CFTR):c.2619+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	502041
+single nucleotide variant	NC_000007.14:g.117675861C>T	1080	CFTR	Pathogenic	GRCh38	522676
+single nucleotide variant	NM_000492.4(CFTR):c.1519A>T (p.Ile507Phe)	1080	CFTR	Likely pathogenic	GRCh38	526022
+single nucleotide variant	NM_000492.4(CFTR):c.2620-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	526018
+single nucleotide variant	NM_000492.4(CFTR):c.445G>T (p.Gly149Ter)	1080	CFTR	Likely pathogenic	GRCh38	555190
+single nucleotide variant	NM_000492.4(CFTR):c.835G>T (p.Glu279Ter)	1080	CFTR	Likely pathogenic	GRCh38	554489
+single nucleotide variant	NM_000492.4(CFTR):c.1301C>G (p.Ser434Ter)	1080	CFTR	Pathogenic	GRCh38	554406
+single nucleotide variant	NM_000492.4(CFTR):c.1680-1G>C	1080	CFTR	Pathogenic	GRCh38	550047
+single nucleotide variant	NM_000492.4(CFTR):c.1767-1G>A	1080	CFTR	Likely pathogenic	GRCh38	554196
+single nucleotide variant	NM_000492.4(CFTR):c.1883G>C (p.Gly628Ala)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	555466
+single nucleotide variant	NM_000492.4(CFTR):c.3873+1G>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	551856
+single nucleotide variant	NM_000492.4(CFTR):c.4297G>T (p.Glu1433Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	558578
+single nucleotide variant	NM_000492.4(CFTR):c.1117-2A>G	1080	CFTR	Pathogenic	GRCh38	554034
+single nucleotide variant	NM_000492.4(CFTR):c.1680-883A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	556555
+single nucleotide variant	NM_000492.4(CFTR):c.305T>G (p.Leu102Arg)	1080	CFTR	Pathogenic	GRCh38	554293
+single nucleotide variant	NM_000492.4(CFTR):c.328G>A (p.Asp110Asn)	1080	CFTR	Likely pathogenic	GRCh38	553436
+single nucleotide variant	NM_000492.4(CFTR):c.2491-2A>C	1080	CFTR	Likely pathogenic	GRCh38	554194
+single nucleotide variant	NM_000492.4(CFTR):c.3963+2T>G	1080	CFTR	Likely pathogenic	GRCh38	554799
+single nucleotide variant	NM_000492.4(CFTR):c.4097T>A (p.Ile1366Asn)	1080	CFTR	Pathogenic	GRCh38	551822
+single nucleotide variant	NM_000492.4(CFTR):c.4272C>A (p.Tyr1424Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	555210
+single nucleotide variant	NM_000492.4(CFTR):c.869+3A>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	550999
+single nucleotide variant	NM_000492.4(CFTR):c.869+5G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	552934
+single nucleotide variant	NM_000492.4(CFTR):c.4364C>A (p.Ser1455Ter)	1080	CFTR	Likely pathogenic	GRCh38	555581
+single nucleotide variant	NM_000492.4(CFTR):c.870-1G>C	1080	CFTR	Pathogenic	GRCh38	554875
+single nucleotide variant	NM_000492.4(CFTR):c.1766+2T>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	557448
+single nucleotide variant	NM_000492.4(CFTR):c.3061C>A (p.Pro1021Thr)	1080	CFTR	Likely pathogenic	GRCh38	550702
+single nucleotide variant	NM_000492.4(CFTR):c.1766+2T>C	1080	CFTR	Pathogenic	GRCh38	558608
+single nucleotide variant	NM_000492.4(CFTR):c.3468+1G>A	1080	CFTR	Likely pathogenic	GRCh38	551480
+single nucleotide variant	NM_000492.4(CFTR):c.2395C>T (p.Gln799Ter)	1080	CFTR	Likely pathogenic	GRCh38	552982
+single nucleotide variant	NM_000492.4(CFTR):c.2988+1G>C	1080	CFTR	Likely pathogenic	GRCh38	558688
+single nucleotide variant	NM_000492.4(CFTR):c.613C>A (p.Pro205Thr)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	582431
+single nucleotide variant	NM_000492.4(CFTR):c.869+1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	597514
+single nucleotide variant	NM_000492.4(CFTR):c.2T>G (p.Met1Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618930
+single nucleotide variant	NM_000492.4(CFTR):c.166G>T (p.Glu56Ter)	1080	CFTR	Pathogenic	GRCh38	618926
+single nucleotide variant	NM_000492.4(CFTR):c.274-2A>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618914
+single nucleotide variant	NM_000492.4(CFTR):c.325T>C (p.Tyr109His)	1080	CFTR	Likely pathogenic	GRCh38	618894
+single nucleotide variant	NM_000492.4(CFTR):c.490-1G>T	1080	CFTR	Pathogenic	GRCh38	618941
+single nucleotide variant	NM_000492.4(CFTR):c.580-2A>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618913
+single nucleotide variant	NM_000492.4(CFTR):c.869+1G>T	1080	CFTR	Pathogenic	GRCh38	618944
+single nucleotide variant	NM_000492.4(CFTR):c.950T>A (p.Val317Glu)	1080	CFTR	Likely pathogenic	GRCh38	618893
+single nucleotide variant	NM_000492.4(CFTR):c.1116+1G>T	1080	CFTR	Pathogenic	GRCh38	618920
+single nucleotide variant	NM_000492.4(CFTR):c.1126C>T (p.Gln376Ter)	1080	CFTR	Pathogenic	GRCh38	618921
+single nucleotide variant	NM_000492.4(CFTR):c.1301C>A (p.Ser434Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618946
+single nucleotide variant	NM_000492.4(CFTR):c.1505T>G (p.Ile502Ser)	1080	CFTR	Likely pathogenic	GRCh38	618895
+single nucleotide variant	NM_000492.4(CFTR):c.1525G>C (p.Gly509Arg)	1080	CFTR	Likely pathogenic	GRCh38	618896
+single nucleotide variant	NM_000492.4(CFTR):c.1550A>G (p.Tyr517Cys)	1080	CFTR	Likely pathogenic	GRCh38	618925
+single nucleotide variant	NM_000492.4(CFTR):c.1559T>A (p.Val520Asp)	1080	CFTR	Likely pathogenic	GRCh38	618898
+single nucleotide variant	NM_000492.4(CFTR):c.1687T>C (p.Tyr563His)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618927
+single nucleotide variant	NM_000492.4(CFTR):c.1760T>C (p.Phe587Ser)	1080	CFTR	Likely pathogenic	GRCh38	618900
+single nucleotide variant	NM_000492.4(CFTR):c.1936G>T (p.Gly646Ter)	1080	CFTR	Pathogenic	GRCh38	618908
+single nucleotide variant	NM_000492.4(CFTR):c.2476G>T (p.Glu826Ter)	1080	CFTR	Pathogenic	GRCh38	618929
+single nucleotide variant	NM_000492.4(CFTR):c.3032T>G (p.Leu1011Ter)	1080	CFTR	Pathogenic	GRCh38	618931
+single nucleotide variant	NM_000492.4(CFTR):c.3107C>T (p.Thr1036Ile)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618964
+single nucleotide variant	NM_000492.4(CFTR):c.3110C>A (p.Ser1037Ter)	1080	CFTR	Pathogenic	GRCh38	618932
+single nucleotide variant	NM_000492.4(CFTR):c.3188G>A (p.Trp1063Ter)	1080	CFTR	Pathogenic	GRCh38	618933
+single nucleotide variant	NM_000492.4(CFTR):c.3294G>T (p.Trp1098Cys)	1080	CFTR	Pathogenic	GRCh38	618905
+single nucleotide variant	NM_000492.4(CFTR):c.3367+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618936
+single nucleotide variant	NM_000492.4(CFTR):c.3367+2T>A	1080	CFTR	Pathogenic	GRCh38	618916
+single nucleotide variant	NM_000492.4(CFTR):c.3728T>A (p.Leu1243Ter)	1080	CFTR	Pathogenic	GRCh38	618938
+single nucleotide variant	NM_000492.4(CFTR):c.3739G>A (p.Gly1247Arg)	1080	CFTR	Likely pathogenic	GRCh38	618901
+single nucleotide variant	NM_000492.4(CFTR):c.3745G>C (p.Gly1249Arg)	1080	CFTR	Pathogenic	GRCh38	618945
+single nucleotide variant	NM_000492.4(CFTR):c.3925C>T (p.Gln1309Ter)	1080	CFTR	Pathogenic	GRCh38	618939
+single nucleotide variant	NM_000492.4(CFTR):c.4136+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	618912
+single nucleotide variant	NM_000492.4(CFTR):c.1979C>G (p.Ser660Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	632749
+single nucleotide variant	NM_000492.4(CFTR):c.2988+1G>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	632766
+single nucleotide variant	NM_000492.4(CFTR):c.3717+1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	632759
+single nucleotide variant	NM_000492.4(CFTR):c.44T>C (p.Leu15Pro)	1080	CFTR	Pathogenic	GRCh38	634833
+single nucleotide variant	NM_000492.4(CFTR):c.1358T>C (p.Leu453Ser)	1080	CFTR	Pathogenic	GRCh38	634834
+single nucleotide variant	NM_000492.4(CFTR):c.1420G>A (p.Glu474Lys)	1080	CFTR	Pathogenic	GRCh38	634836
+single nucleotide variant	NM_000492.4(CFTR):c.3806T>A (p.Ile1269Asn)	1080	CFTR	Pathogenic	GRCh38	634832
+single nucleotide variant	NM_000492.4(CFTR):c.1116G>T (p.Gln372His)	1080	CFTR	Likely pathogenic	GRCh38	638165
+single nucleotide variant	NM_000492.4(CFTR):c.1324A>T (p.Lys442Ter)	1080	CFTR	Pathogenic	GRCh38	662942
+single nucleotide variant	NM_000492.4(CFTR):c.2757C>G (p.Tyr919Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	663482
+single nucleotide variant	NM_000492.4(CFTR):c.743+2T>C	1080	CFTR	Likely pathogenic	GRCh38	645792
+single nucleotide variant	NM_000492.4(CFTR):c.1391A>C (p.Lys464Thr)	1080	CFTR	Likely pathogenic	GRCh38	694033
+single nucleotide variant	NM_000492.4(CFTR):c.2600T>G (p.Leu867Ter)	1080	CFTR	Pathogenic	GRCh38	694035
+single nucleotide variant	NM_000492.4(CFTR):c.892A>T (p.Lys298Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	801159
+single nucleotide variant	NM_000492.4(CFTR):c.579+1G>A	1080	CFTR	Pathogenic	GRCh38	801157
+single nucleotide variant	NM_000492.4(CFTR):c.863T>G (p.Leu288Ter)	1080	CFTR	Pathogenic	GRCh38	802356
+single nucleotide variant	NM_000492.4(CFTR):c.4225G>T (p.Glu1409Ter)	1080	CFTR	Pathogenic	GRCh38	802361
+single nucleotide variant	NM_000492.4(CFTR):c.2428A>T (p.Arg810Ter)	1080	CFTR	Pathogenic	GRCh38	811333
+single nucleotide variant	NM_000492.4(CFTR):c.253G>T (p.Gly85Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	813400
+single nucleotide variant	NM_000492.4(CFTR):c.3796G>T (p.Glu1266Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	813448
+single nucleotide variant	NM_000492.4(CFTR):c.808C>T (p.Gln270Ter)	1080	CFTR	Pathogenic	GRCh38	818124
+single nucleotide variant	NM_000492.4(CFTR):c.874G>T (p.Glu292Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	818119
+single nucleotide variant	NM_000492.4(CFTR):c.2065C>T (p.Gln689Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	818146
+single nucleotide variant	NM_000492.4(CFTR):c.2299C>T (p.Gln767Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	818145
+single nucleotide variant	NM_000492.4(CFTR):c.2556T>G (p.Tyr852Ter)	1080	CFTR	Pathogenic	GRCh38	818158
+single nucleotide variant	NM_000492.4(CFTR):c.3838C>T (p.Gln1280Ter)	1080	CFTR	Pathogenic	GRCh38	818125
+single nucleotide variant	NM_000492.4(CFTR):c.4051A>T (p.Lys1351Ter)	1080	CFTR	Pathogenic	GRCh38	818129
+single nucleotide variant	NM_000492.4(CFTR):c.165-2A>C	1080	CFTR	Pathogenic	GRCh38	818131
+single nucleotide variant	NM_000492.4(CFTR):c.490-3T>G	1080	CFTR	Pathogenic	GRCh38	818151
+single nucleotide variant	NM_000492.4(CFTR):c.1209+2T>G	1080	CFTR	Pathogenic	GRCh38	818134
+single nucleotide variant	NM_000492.4(CFTR):c.2989-313A>T	1080	CFTR	Pathogenic	GRCh38	818113
+single nucleotide variant	NM_000492.4(CFTR):c.3468+2T>C	1080	CFTR	Pathogenic	GRCh38	818116
+single nucleotide variant	NM_000492.4(CFTR):c.487A>G (p.Lys163Glu)	1080	CFTR	Pathogenic	GRCh38	858501
+single nucleotide variant	NM_000492.4(CFTR):c.3404T>A (p.Leu1135Ter)	1080	CFTR	Pathogenic	GRCh38	853799
+single nucleotide variant	NM_000492.4(CFTR):c.580-2A>G	1080	CFTR	Pathogenic	GRCh38	837464
+single nucleotide variant	NM_000492.4(CFTR):c.3468+1G>T	1080	CFTR	Likely pathogenic	GRCh38	862841
+single nucleotide variant	NM_000492.4(CFTR):c.3134C>A (p.Ser1045Tyr)	1080	CFTR	Likely pathogenic	GRCh38	917606
+single nucleotide variant	NM_000492.4(CFTR):c.3859G>T (p.Gly1287Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	943683
+single nucleotide variant	NM_000492.4(CFTR):c.1420G>T (p.Glu474Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	962815
+single nucleotide variant	NM_000492.4(CFTR):c.3849G>C (p.Arg1283Ser)	1080	CFTR	Likely pathogenic	GRCh38	971487
+single nucleotide variant	NM_000492.4(CFTR):c.1150G>T (p.Glu384Ter)	1080	CFTR	Likely pathogenic	GRCh38	973863
+single nucleotide variant	NM_000492.4(CFTR):c.1390A>G (p.Lys464Glu)	1080	CFTR	Likely pathogenic	GRCh38	973893
+single nucleotide variant	NM_000492.4(CFTR):c.2490+1G>T	1080	CFTR	Pathogenic	GRCh38	973859
+single nucleotide variant	NM_000492.4(CFTR):c.2988+2T>C	1080	CFTR	Pathogenic	GRCh38	973892
+single nucleotide variant	NM_000492.4(CFTR):c.3874-2A>C	1080	CFTR	Likely pathogenic	GRCh38	981083
+single nucleotide variant	NM_000492.4(CFTR):c.2909-1G>C	1080	CFTR	Pathogenic	GRCh38	982045
+single nucleotide variant	NM_000492.4(CFTR):c.269T>A (p.Leu90Ter)	1080	CFTR	Likely pathogenic	GRCh38	984340
+single nucleotide variant	NM_000492.4(CFTR):c.741C>A (p.Tyr247Ter)	1080	CFTR	Likely pathogenic	GRCh38	984341
+single nucleotide variant	NM_000492.4(CFTR):c.742A>T (p.Arg248Ter)	1080	CFTR	Likely pathogenic	GRCh38	984342
+single nucleotide variant	NM_000492.4(CFTR):c.751A>T (p.Arg251Ter)	1080	CFTR	Likely pathogenic	GRCh38	984343
+single nucleotide variant	NM_000492.4(CFTR):c.817A>T (p.Lys273Ter)	1080	CFTR	Likely pathogenic	GRCh38	984344
+single nucleotide variant	NM_000492.4(CFTR):c.1447A>T (p.Lys483Ter)	1080	CFTR	Likely pathogenic	GRCh38	984345
+single nucleotide variant	NM_000492.4(CFTR):c.1488G>A (p.Trp496Ter)	1080	CFTR	Likely pathogenic	GRCh38	984346
+single nucleotide variant	NM_000492.4(CFTR):c.1540G>T (p.Glu514Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	984347
+single nucleotide variant	NM_000492.4(CFTR):c.1731C>A (p.Tyr577Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	983576
+single nucleotide variant	NM_000492.4(CFTR):c.1861G>T (p.Glu621Ter)	1080	CFTR	Likely pathogenic	GRCh38	983577
+single nucleotide variant	NM_000492.4(CFTR):c.1969A>T (p.Arg657Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	983578
+single nucleotide variant	NM_000492.4(CFTR):c.1997T>A (p.Leu666Ter)	1080	CFTR	Likely pathogenic	GRCh38	983579
+single nucleotide variant	NM_000492.4(CFTR):c.2410G>T (p.Glu804Ter)	1080	CFTR	Likely pathogenic	GRCh38	983580
+single nucleotide variant	NM_000492.4(CFTR):c.2426C>A (p.Ser809Ter)	1080	CFTR	Likely pathogenic	GRCh38	983581
+single nucleotide variant	NM_000492.4(CFTR):c.2617G>T (p.Glu873Ter)	1080	CFTR	Likely pathogenic	GRCh38	983582
+single nucleotide variant	NM_000492.4(CFTR):c.2646G>A (p.Trp882Ter)	1080	CFTR	Likely pathogenic	GRCh38	983583
+single nucleotide variant	NM_000492.4(CFTR):c.3267G>A (p.Trp1089Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	983864
+single nucleotide variant	NM_000492.4(CFTR):c.3587C>A (p.Ser1196Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	983865
+single nucleotide variant	NM_000492.4(CFTR):c.3682G>T (p.Glu1228Ter)	1080	CFTR	Likely pathogenic	GRCh38	983866
+single nucleotide variant	NM_000492.4(CFTR):c.3845G>A (p.Trp1282Ter)	1080	CFTR	Likely pathogenic	GRCh38	983867
+single nucleotide variant	NM_000492.4(CFTR):c.3949A>T (p.Lys1317Ter)	1080	CFTR	Likely pathogenic	GRCh38	983868
+single nucleotide variant	NM_000492.4(CFTR):c.4054C>T (p.Gln1352Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	983869
+single nucleotide variant	NM_000492.4(CFTR):c.2455G>T (p.Glu819Ter)	1080	CFTR	Likely pathogenic	GRCh38	987847
+single nucleotide variant	NM_000492.4(CFTR):c.3220T>C (p.Phe1074Leu)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	993219
+single nucleotide variant	NM_000492.4(CFTR):c.1585-2A>T	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1027585
+single nucleotide variant	NM_000492.4(CFTR):c.1502C>T (p.Thr501Ile)	1080	CFTR	Likely pathogenic	GRCh38	1052121
+single nucleotide variant	NM_000492.4(CFTR):c.327T>G (p.Tyr109Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1065566
+single nucleotide variant	NM_000492.4(CFTR):c.489+1G>A	1080	CFTR	Pathogenic	GRCh38	1069526
+single nucleotide variant	NM_000492.4(CFTR):c.3259G>C (p.Ala1087Pro)	1080	CFTR	Likely pathogenic	GRCh38	1163287
+single nucleotide variant	NM_000492.4(CFTR):c.1132C>T (p.Gln378Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1177286
+single nucleotide variant	NM_000492.4(CFTR):c.2335C>T (p.Gln779Ter)	1080	CFTR	Pathogenic	GRCh38	1185022
+single nucleotide variant	NM_000492.4(CFTR):c.2917C>T (p.Leu973Phe)	1080	CFTR	Pathogenic	GRCh38	1244250
+single nucleotide variant	NM_000492.4(CFTR):c.580G>A (p.Gly194Arg)	1080	CFTR	Pathogenic	GRCh38	1300164
+single nucleotide variant	NM_000492.4(CFTR):c.1766+2T>G	1080	CFTR	Likely pathogenic	GRCh38	1330091
+single nucleotide variant	NM_000492.4(CFTR):c.580G>T (p.Gly194Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1330401
+single nucleotide variant	NM_000492.4(CFTR):c.1655A>C (p.Gln552Pro)	1080	CFTR	Likely pathogenic	GRCh38	1331723
+single nucleotide variant	NM_000492.4(CFTR):c.1652G>T (p.Gly551Val)	1080	CFTR	Likely pathogenic	GRCh38	1333303
+single nucleotide variant	NM_000492.4(CFTR):c.831G>A (p.Trp277Ter)	1080	CFTR	Pathogenic	GRCh38	1373833
+single nucleotide variant	NM_000492.4(CFTR):c.307G>T (p.Gly103Ter)	1080	CFTR	Pathogenic	GRCh38	1353073
+single nucleotide variant	NM_000492.4(CFTR):c.2012T>A (p.Leu671Ter)	1080	CFTR	Pathogenic	GRCh38	1425559
+single nucleotide variant	NM_000492.4(CFTR):c.2872C>T (p.Gln958Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1400413
+single nucleotide variant	NM_000492.4(CFTR):c.503C>G (p.Ser168Ter)	1080	CFTR	Pathogenic	GRCh38	1406009
+single nucleotide variant	NM_000492.4(CFTR):c.931T>C (p.Phe311Leu)	1080	CFTR	Likely pathogenic	GRCh38	1474955
+single nucleotide variant	NM_000492.4(CFTR):c.1551C>G (p.Tyr517Ter)	1080	CFTR	Pathogenic	GRCh38	1677121
+single nucleotide variant	NM_000492.4(CFTR):c.2757C>A (p.Tyr919Ter)	1080	CFTR	Likely pathogenic	GRCh38	1678103
+single nucleotide variant	NM_000492.4(CFTR):c.3907A>T (p.Asn1303Tyr)	1080	CFTR	Likely pathogenic	GRCh38	1685264
+single nucleotide variant	NM_000492.4(CFTR):c.532G>C (p.Gly178Arg)	1080	CFTR	Pathogenic	GRCh38	1685614
+single nucleotide variant	NM_000492.4(CFTR):c.2988+2T>G	1080	CFTR	Pathogenic	GRCh38	1685621
+single nucleotide variant	NM_000492.4(CFTR):c.769G>T (p.Glu257Ter)	1080	CFTR	Pathogenic	GRCh38	1704258
+single nucleotide variant	NM_000492.4(CFTR):c.844G>T (p.Glu282Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1704404
+single nucleotide variant	NM_000492.4(CFTR):c.870-12T>A	1080	CFTR	Pathogenic	GRCh38	1705865
+single nucleotide variant	NM_000492.4(CFTR):c.1517T>A (p.Ile506Asn)	1080	CFTR	Likely pathogenic	GRCh38	1705989
+single nucleotide variant	NM_000492.4(CFTR):c.1735G>C (p.Asp579His)	1080	CFTR	Likely pathogenic	GRCh38	1705994
+single nucleotide variant	NM_000492.4(CFTR):c.1767-2A>G	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1705995
+single nucleotide variant	NM_000492.4(CFTR):c.3140-16T>A	1080	CFTR	Pathogenic	GRCh38	1706001
+single nucleotide variant	NM_000492.4(CFTR):c.3293G>T (p.Trp1098Leu)	1080	CFTR	Likely pathogenic	GRCh38	1706003
+single nucleotide variant	NM_000492.4(CFTR):c.2739T>G (p.Tyr913Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706007
+single nucleotide variant	NM_000492.4(CFTR):c.3469-1G>C	1080	CFTR	Likely pathogenic	GRCh38	1706014
+single nucleotide variant	NM_000492.4(CFTR):c.3469-2A>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706017
+single nucleotide variant	NM_000492.4(CFTR):c.3809A>T (p.Asp1270Val)	1080	CFTR	Likely pathogenic	GRCh38	1706020
+single nucleotide variant	NM_000492.4(CFTR):c.3964-7A>G	1080	CFTR	Likely pathogenic	GRCh38	1706022
+single nucleotide variant	NM_000492.4(CFTR):c.97G>T (p.Glu33Ter)	1080	CFTR	Likely pathogenic	GRCh38	1706023
+single nucleotide variant	NM_000492.4(CFTR):c.1209G>T (p.Glu403Asp)	1080	CFTR	Likely pathogenic	GRCh38	1706040
+single nucleotide variant	NM_000492.4(CFTR):c.535C>T (p.Gln179Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706051
+single nucleotide variant	NM_000492.4(CFTR):c.71T>A (p.Leu24Ter)	1080	CFTR	Likely pathogenic	GRCh38	1706053
+single nucleotide variant	NM_000492.4(CFTR):c.748C>T (p.Gln250Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706054
+single nucleotide variant	NM_000492.4(CFTR):c.3930G>A (p.Trp1310Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1706061
+single nucleotide variant	NM_000492.4(CFTR):c.1688A>G (p.Tyr563Cys)	1080	CFTR	Likely pathogenic	GRCh38	1706063
+single nucleotide variant	NM_000492.4(CFTR):c.1762G>T (p.Glu588Ter)	1080	CFTR	Pathogenic	GRCh38	1706064
+single nucleotide variant	NM_000492.4(CFTR):c.206T>G (p.Leu69Arg)	1080	CFTR	Likely pathogenic	GRCh38	1706067
+single nucleotide variant	NM_000492.4(CFTR):c.1116+2T>A	1080	CFTR	Pathogenic	GRCh38	1706069
+single nucleotide variant	NM_000492.4(CFTR):c.320C>G (p.Ala107Gly)	1080	CFTR	Likely pathogenic	GRCh38	1706074
+single nucleotide variant	NM_000492.4(CFTR):c.2619+2T>C	1080	CFTR	Pathogenic	GRCh38	1708426
+single nucleotide variant	NM_000492.4(CFTR):c.4032T>A (p.Cys1344Ter)	1080	CFTR	Likely pathogenic	GRCh38	1723906
+single nucleotide variant	NM_000492.4(CFTR):c.1673T>A (p.Leu558Ter)	1080	CFTR	Likely pathogenic	GRCh38	1724744
+single nucleotide variant	NM_000492.4(CFTR):c.3547A>T (p.Lys1183Ter)	1080	CFTR	Likely pathogenic	GRCh38	1725242
+single nucleotide variant	NM_000492.4(CFTR):c.3428T>A (p.Leu1143Ter)	1080	CFTR	Likely pathogenic	GRCh38	1725255
+single nucleotide variant	NM_000492.4(CFTR):c.3793G>T (p.Gly1265Ter)	1080	CFTR	Likely pathogenic	GRCh38	1725875
+single nucleotide variant	NM_000492.4(CFTR):c.1663A>T (p.Arg555Ter)	1080	CFTR	Likely pathogenic	GRCh38	1726206
+single nucleotide variant	NM_000492.4(CFTR):c.3836T>A (p.Leu1279Ter)	1080	CFTR	Likely pathogenic	GRCh38	1726616
+single nucleotide variant	NM_000492.4(CFTR):c.283A>T (p.Lys95Ter)	1080	CFTR	Likely pathogenic	GRCh38	1726826
+single nucleotide variant	NM_000492.4(CFTR):c.617T>A (p.Leu206Ter)	1080	CFTR	Likely pathogenic	GRCh38	1726890
+single nucleotide variant	NM_000492.4(CFTR):c.3434G>A (p.Trp1145Ter)	1080	CFTR	Pathogenic	GRCh38	1731404
+single nucleotide variant	NM_000492.4(CFTR):c.3963+1G>T	1080	CFTR	Likely pathogenic	GRCh38	1736532
+single nucleotide variant	NM_000492.4(CFTR):c.490-1G>C	1080	CFTR	Likely pathogenic	GRCh38	1743994
+single nucleotide variant	NM_000492.4(CFTR):c.53+2T>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1746703
+single nucleotide variant	NM_000492.4(CFTR):c.1680A>T (p.Arg560Ser)	1080	CFTR	Pathogenic	GRCh38	1777899
+single nucleotide variant	NM_000492.4(CFTR):c.2885C>A (p.Ser962Ter)	1080	CFTR	Pathogenic	GRCh38	1797214
+single nucleotide variant	NM_000492.4(CFTR):c.1689C>A (p.Tyr563Ter)	1080	CFTR	Pathogenic	GRCh38	2136602
+single nucleotide variant	NM_000492.4(CFTR):c.3743C>G (p.Ser1248Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2136607
+single nucleotide variant	NM_000492.4(CFTR):c.2742T>G (p.Tyr914Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	1929404
+single nucleotide variant	NM_000492.4(CFTR):c.2213T>G (p.Leu738Ter)	1080	CFTR	Pathogenic	GRCh38	1996220
+single nucleotide variant	NM_000492.4(CFTR):c.154A>T (p.Lys52Ter)	1080	CFTR	Pathogenic	GRCh38	2001311
+single nucleotide variant	NM_000492.4(CFTR):c.1733T>C (p.Leu578Pro)	1080	CFTR	Likely pathogenic	GRCh38	2098461
+single nucleotide variant	NM_000492.4(CFTR):c.4230C>A (p.Cys1410Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2116281
+single nucleotide variant	NM_000492.4(CFTR):c.3718-1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2443046
+single nucleotide variant	NM_000492.4(CFTR):c.1526G>T (p.Gly509Val)	1080	CFTR	Likely pathogenic	GRCh38	2443360
+single nucleotide variant	NM_000492.4(CFTR):c.574G>T (p.Asp192Tyr)	1080	CFTR	Likely pathogenic	GRCh38	2443361
+single nucleotide variant	NM_000492.4(CFTR):c.3434G>C (p.Trp1145Ser)	1080	CFTR	Likely pathogenic	GRCh38	2443365
+single nucleotide variant	NM_000492.4(CFTR):c.1117-1G>T	1080	CFTR	Likely pathogenic	GRCh38	2446883
+single nucleotide variant	NM_000492.4(CFTR):c.4408G>T (p.Glu1470Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2503929
+single nucleotide variant	NM_000492.4(CFTR):c.1709T>A (p.Leu570Ter)	1080	CFTR	Pathogenic	GRCh38	2573426
+single nucleotide variant	NM_000492.4(CFTR):c.1675G>C (p.Ala559Pro)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2573429
+single nucleotide variant	NM_000492.4(CFTR):c.3106A>G (p.Thr1036Ala)	1080	CFTR	Likely pathogenic	GRCh38	2577297
+single nucleotide variant	NM_000492.4(CFTR):c.2909-2A>T	1080	CFTR	Likely pathogenic	GRCh38	2579746
+single nucleotide variant	NM_000492.4(CFTR):c.53+1005T>G	1080	CFTR	Likely pathogenic	GRCh38	2579747
+single nucleotide variant	NM_000492.4(CFTR):c.1140T>A (p.Tyr380Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2627425
+single nucleotide variant	NM_000492.4(CFTR):c.1941T>A (p.Cys647Ter)	1080	CFTR	Pathogenic	GRCh38	2657960
+single nucleotide variant	NM_000492.4(CFTR):c.1579G>T (p.Glu527Ter)	1080	CFTR	Likely pathogenic	GRCh38	2664163
+single nucleotide variant	NM_000492.4(CFTR):c.1209+2T>A	1080	CFTR	Likely pathogenic	GRCh38	2664230
+single nucleotide variant	NM_000492.4(CFTR):c.2490+1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2680700
+single nucleotide variant	NM_000492.4(CFTR):c.3469-1304C>G	1080	CFTR	Pathogenic	GRCh38	2680701
+single nucleotide variant	NM_000492.4(CFTR):c.54-1G>A	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2680710
+single nucleotide variant	NM_000492.4(CFTR):c.1067G>A (p.Trp356Ter)	1080	CFTR	Likely pathogenic	GRCh38	2680714
+single nucleotide variant	NM_000492.4(CFTR):c.1210-3C>G	1080	CFTR	Likely pathogenic	GRCh38	2680720
+single nucleotide variant	NM_000492.4(CFTR):c.1351G>T (p.Gly451Ter)	1080	CFTR	Likely pathogenic	GRCh38	2680689
+single nucleotide variant	NM_000492.4(CFTR):c.3904A>T (p.Lys1302Ter)	1080	CFTR	Pathogenic	GRCh38	2680693
+single nucleotide variant	NM_000492.4(CFTR):c.2486T>A (p.Leu829Ter)	1080	CFTR	Pathogenic	GRCh38	2682476
+single nucleotide variant	NM_000492.4(CFTR):c.1155T>A (p.Tyr385Ter)	1080	CFTR	Pathogenic	GRCh38	2702047
+single nucleotide variant	NM_000492.4(CFTR):c.1116+2T>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2716001
+single nucleotide variant	NM_000492.4(CFTR):c.1209+1G>C	1080	CFTR	Pathogenic	GRCh38	2735079
+single nucleotide variant	NM_000492.4(CFTR):c.3739G>T (p.Gly1247Ter)	1080	CFTR	Pathogenic	GRCh38	2735084
+single nucleotide variant	NM_000492.4(CFTR):c.2856G>T (p.Met952Ile)	1080	CFTR	Pathogenic	GRCh38	2768661
+single nucleotide variant	NM_000492.4(CFTR):c.3367+1G>T	1080	CFTR	Likely pathogenic	GRCh38	2812835
+single nucleotide variant	NM_000492.4(CFTR):c.54-1G>T	1080	CFTR	Pathogenic	GRCh38	2822143
+single nucleotide variant	NM_000492.4(CFTR):c.273+2T>C	1080	CFTR	Pathogenic	GRCh38	2829887
+single nucleotide variant	NM_000492.4(CFTR):c.4315C>T (p.Gln1439Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	2846977
+single nucleotide variant	NM_000492.4(CFTR):c.3281C>G (p.Ser1094Ter)	1080	CFTR	Pathogenic	GRCh38	2860604
+single nucleotide variant	NM_000492.4(CFTR):c.933C>A (p.Phe311Leu)	1080	CFTR	Pathogenic	GRCh38	2871602
+single nucleotide variant	NM_000492.4(CFTR):c.330C>G (p.Asp110Glu)	1080	CFTR	Pathogenic	GRCh38	3019253
+single nucleotide variant	NM_000492.4(CFTR):c.3293G>C (p.Trp1098Ser)	1080	CFTR	Pathogenic	GRCh38	3064503
+single nucleotide variant	NM_000492.4(CFTR):c.1769G>C (p.Cys590Ser)	1080	CFTR	Likely pathogenic	GRCh38	3067710
+single nucleotide variant	NM_000492.4(CFTR):c.3546C>A (p.Tyr1182Ter)	1080	CFTR	Likely pathogenic	GRCh38	3075915
+single nucleotide variant	NM_000492.4(CFTR):c.53+1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3241145
+single nucleotide variant	NM_000492.4(CFTR):c.3136G>T (p.Glu1046Ter)	1080	CFTR	Pathogenic	GRCh38	3251539
+single nucleotide variant	NM_000492.4(CFTR):c.1373G>A (p.Gly458Glu)	1080	CFTR	Likely pathogenic	GRCh38	3251984
+single nucleotide variant	NM_000492.4(CFTR):c.273+1G>C	1080	CFTR	Likely pathogenic	GRCh38	3336145
+single nucleotide variant	NM_000492.4(CFTR):c.3181G>A (p.Gly1061Arg)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3336162
+single nucleotide variant	NM_000492.4(CFTR):c.1210-1G>T	1080	CFTR	Pathogenic	GRCh38	3336349
+single nucleotide variant	NM_000492.4(CFTR):c.1534T>C (p.Tyr512His)	1080	CFTR	Likely pathogenic	GRCh38	3336633
+single nucleotide variant	NM_000492.4(CFTR):c.1398A>T (p.Ser466=)	1080	CFTR	Likely pathogenic	GRCh38	3336634
+single nucleotide variant	NM_000492.4(CFTR):c.1574A>C (p.Gln525Pro)	1080	CFTR	Likely pathogenic	GRCh38	3336636
+single nucleotide variant	NM_000492.4(CFTR):c.1447A>G (p.Lys483Glu)	1080	CFTR	Likely pathogenic	GRCh38	3336637
+single nucleotide variant	NM_000492.4(CFTR):c.1529T>G (p.Val510Gly)	1080	CFTR	Likely pathogenic	GRCh38	3336638
+single nucleotide variant	NM_000492.4(CFTR):c.1559T>C (p.Val520Ala)	1080	CFTR	Likely pathogenic	GRCh38	3336652
+single nucleotide variant	NM_000492.4(CFTR):c.1562T>C (p.Ile521Thr)	1080	CFTR	Likely pathogenic	GRCh38	3336653
+single nucleotide variant	NM_000492.4(CFTR):c.1428G>T (p.Glu476Asp)	1080	CFTR	Likely pathogenic	GRCh38	3336654
+single nucleotide variant	NM_000492.4(CFTR):c.1508A>G (p.Lys503Arg)	1080	CFTR	Likely pathogenic	GRCh38	3336655
+single nucleotide variant	NM_000492.4(CFTR):c.1490T>A (p.Ile497Asn)	1080	CFTR	Likely pathogenic	GRCh38	3336656
+single nucleotide variant	NM_000492.4(CFTR):c.1435G>C (p.Glu479Gln)	1080	CFTR	Likely pathogenic	GRCh38	3336657
+single nucleotide variant	NM_000492.4(CFTR):c.1114C>T (p.Gln372Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3339105
+single nucleotide variant	NM_000492.4(CFTR):c.3139+1G>C	1080	CFTR	Likely pathogenic	GRCh38	3375097
+single nucleotide variant	NM_000492.4(CFTR):c.3218A>G (p.Tyr1073Cys)	1080	CFTR	Likely pathogenic	GRCh38	3381026
+single nucleotide variant	NM_000492.4(CFTR):c.3311A>T (p.Glu1104Val)	1080	CFTR	Likely pathogenic	GRCh38	3381027
+single nucleotide variant	NM_000492.4(CFTR):c.1584+675A>G	1080	CFTR	Pathogenic	GRCh38	3385381
+single nucleotide variant	NM_000492.4(CFTR):c.580-1G>C	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3391039
+single nucleotide variant	NM_000492.4(CFTR):c.648G>A (p.Trp216Ter)	1080	CFTR	Likely pathogenic	GRCh38	3594271
+single nucleotide variant	NM_000492.4(CFTR):c.2041G>T (p.Glu681Ter)	1080	CFTR	Likely pathogenic	GRCh38	3594279
+single nucleotide variant	NM_000492.4(CFTR):c.2908+1G>T	1080	CFTR	Likely pathogenic	GRCh38	3594282
+single nucleotide variant	NM_000492.4(CFTR):c.3223G>T (p.Glu1075Ter)	1080	CFTR	Likely pathogenic	GRCh38	3594285
+single nucleotide variant	NM_000492.4(CFTR):c.3373G>T (p.Gly1125Ter)	1080	CFTR	Likely pathogenic	GRCh38	3594287
+single nucleotide variant	NM_000492.4(CFTR):c.2908+1211T>G	1080	CFTR	Pathogenic	GRCh38	3572906
+single nucleotide variant	NM_000492.4(CFTR):c.3940G>T (p.Glu1314Ter)	1080	CFTR	Pathogenic	GRCh38	3613669
+single nucleotide variant	NM_000492.4(CFTR):c.743+2T>A	1080	CFTR	Pathogenic	GRCh38	3628587
+single nucleotide variant	NM_000492.4(CFTR):c.1204G>T (p.Glu402Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	3629912
+single nucleotide variant	NM_000492.4(CFTR):c.2491-1G>T	1080	CFTR	Likely pathogenic	GRCh38	3726416
+single nucleotide variant	NM_000492.4(CFTR):c.3190A>C (p.Thr1064Pro)	1080	CFTR	Likely pathogenic	GRCh38	3765543
+single nucleotide variant	NM_000492.4(CFTR):c.2491-1G>A	1080	CFTR	Likely pathogenic	GRCh38	3768913
+single nucleotide variant	NM_000492.4(CFTR):c.1345G>T (p.Glu449Ter)	1080	CFTR	Pathogenic	GRCh38	3769536
+single nucleotide variant	NM_000492.4(CFTR):c.458G>T (p.Arg153Ile)	1080	CFTR	Likely pathogenic	GRCh38	3778316
+single nucleotide variant	NM_000492.4(CFTR):c.1954C>T (p.Gln652Ter)	1080	CFTR	Pathogenic	GRCh38	3832548
+single nucleotide variant	NM_000492.4(CFTR):c.3873+1G>C	1080	CFTR	Likely pathogenic	GRCh38	3893054
+single nucleotide variant	NM_000492.4(CFTR):c.568A>T (p.Lys190Ter)	1080	CFTR	Pathogenic	GRCh38	3907147
+single nucleotide variant	NM_000492.4(CFTR):c.4137-2A>G	1080	CFTR	Likely pathogenic	GRCh38	3911021
+single nucleotide variant	NM_000492.4(CFTR):c.1526G>A (p.Gly509Asp)	1080	CFTR	Likely pathogenic	GRCh38	3911982
+single nucleotide variant	NM_000492.4(CFTR):c.1731C>G (p.Tyr577Ter)	1080	CFTR	Pathogenic	GRCh38	4064584
+single nucleotide variant	NM_000492.4(CFTR):c.3493A>T (p.Lys1165Ter)	1080	CFTR	Pathogenic	GRCh38	4064596
+single nucleotide variant	NM_000492.4(CFTR):c.237G>A (p.Trp79Ter)	1080	CFTR	Pathogenic	GRCh38	4064621
+single nucleotide variant	NM_000492.4(CFTR):c.252T>A (p.Tyr84Ter)	1080	CFTR	Pathogenic	GRCh38	4064642
+single nucleotide variant	NM_000492.4(CFTR):c.179A>G (p.Glu60Gly)	1080	CFTR	Likely pathogenic	GRCh38	4064643
+single nucleotide variant	NM_000492.4(CFTR):c.85A>T (p.Arg29Ter)	1080	CFTR	Likely pathogenic	GRCh38	4064657
+single nucleotide variant	NM_000492.4(CFTR):c.1412T>G (p.Ile471Ser)	1080	CFTR	Likely pathogenic	GRCh38	4073468
+single nucleotide variant	NM_000492.4(CFTR):c.1455T>G (p.Ser485Arg)	1080	CFTR	Likely pathogenic	GRCh38	4073469
+single nucleotide variant	NM_000492.4(CFTR):c.1468T>G (p.Phe490Val)	1080	CFTR	Likely pathogenic	GRCh38	4073489
+single nucleotide variant	NM_000492.4(CFTR):c.1414A>C (p.Met472Leu)	1080	CFTR	Likely pathogenic	GRCh38	4073500
+single nucleotide variant	NM_000492.4(CFTR):c.1411A>G (p.Ile471Val)	1080	CFTR	Likely pathogenic	GRCh38	4073503
+single nucleotide variant	NM_000492.4(CFTR):c.1558G>C (p.Val520Leu)	1080	CFTR	Likely pathogenic	GRCh38	4073504
+single nucleotide variant	NM_000492.4(CFTR):c.1475C>G (p.Ser492Cys)	1080	CFTR	Likely pathogenic	GRCh38	4073505
+single nucleotide variant	NM_000492.4(CFTR):c.1471T>G (p.Cys491Gly)	1080	CFTR	Likely pathogenic	GRCh38	4073506
+single nucleotide variant	NM_000492.4(CFTR):c.1520T>G (p.Ile507Ser)	1080	CFTR	Likely pathogenic	GRCh38	4073507
+single nucleotide variant	NM_000492.4(CFTR):c.1810A>G (p.Thr604Ala)	1080	CFTR	Likely pathogenic	GRCh38	4278170
+single nucleotide variant	NM_000492.4(CFTR):c.3873+3080T>C	1080	CFTR	Pathogenic	GRCh38	4279028
+single nucleotide variant	NM_000492.4(CFTR):c.2558T>C (p.Ile853Thr)	1080	CFTR	Likely pathogenic	GRCh38	4280024
+single nucleotide variant	NM_000492.4(CFTR):c.2620-2A>T	1080	CFTR	Likely pathogenic	GRCh38	4280623
+single nucleotide variant	NM_000492.4(CFTR):c.1022C>A (p.Ser341Ter)	1080	CFTR	Likely pathogenic	GRCh38	4294462
+single nucleotide variant	NM_000492.4(CFTR):c.3717+2T>A	1080	CFTR	Pathogenic	GRCh38	4532057
+single nucleotide variant	NM_000492.4(CFTR):c.709C>T (p.Gln237Ter)	1080	CFTR	Pathogenic/Likely pathogenic	GRCh38	4535906
+single nucleotide variant	NM_000492.4(CFTR):c.2658-2A>C	1080	CFTR	Likely pathogenic	GRCh38	4536807
+single nucleotide variant	NM_000492.4(CFTR):c.940G>A (p.Gly314Arg)	1080	CFTR	Pathogenic	GRCh38	4688698
+single nucleotide variant	NM_000492.4(CFTR):c.3964-1G>C	1080	CFTR	Likely pathogenic	GRCh38	4689670
+single nucleotide variant	NM_000492.4(CFTR):c.938C>G (p.Ser313Ter)	1080	CFTR	Pathogenic	GRCh38	4796681
+single nucleotide variant	NM_000492.4(CFTR):c.1767-2A>C	1080	CFTR	Pathogenic	GRCh38	4811574
+single nucleotide variant	NM_000492.4(CFTR):c.1075C>T (p.Gln359Ter)	1080	CFTR	Pathogenic	GRCh38	4818460
+single nucleotide variant	NM_000492.4(CFTR):c.1083G>A (p.Trp361Ter)	1080	CFTR	Pathogenic	GRCh38	4818461
+single nucleotide variant	NM_000492.4(CFTR):c.1381G>A (p.Gly461Arg)	1080	CFTR	Likely pathogenic	GRCh38	4818470
+single nucleotide variant	NM_000492.4(CFTR):c.1382G>T (p.Gly461Val)	1080	CFTR	Likely pathogenic	GRCh38	4818471
+single nucleotide variant	NM_000492.4(CFTR):c.1536T>A (p.Tyr512Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818477
+single nucleotide variant	NM_000492.4(CFTR):c.1679+2T>G	1080	CFTR	Pathogenic	GRCh38	4818481
+single nucleotide variant	NM_000492.4(CFTR):c.1712T>G (p.Leu571Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818482
+single nucleotide variant	NM_000492.4(CFTR):c.188C>G (p.Ser63Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818487
+single nucleotide variant	NM_000492.4(CFTR):c.199C>T (p.Pro67Ser)	1080	CFTR	Likely pathogenic	GRCh38	4818493
+single nucleotide variant	NM_000492.4(CFTR):c.2037G>A (p.Trp679Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818495
+single nucleotide variant	NM_000492.4(CFTR):c.2062A>T (p.Lys688Ter)	1080	CFTR	Pathogenic	GRCh38	4818496
+single nucleotide variant	NM_000492.4(CFTR):c.2236G>T (p.Glu746Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818497
+single nucleotide variant	NM_000492.4(CFTR):c.2284C>T (p.Gln762Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818499
+single nucleotide variant	NM_000492.4(CFTR):c.2435T>G (p.Leu812Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818502
+single nucleotide variant	NM_000492.4(CFTR):c.2615C>A (p.Ala872Glu)	1080	CFTR	Likely pathogenic	GRCh38	4818509
+single nucleotide variant	NM_000492.4(CFTR):c.2658-1G>A	1080	CFTR	Pathogenic	GRCh38	4818511
+single nucleotide variant	NM_000492.4(CFTR):c.274-2A>T	1080	CFTR	Pathogenic	GRCh38	4818513
+single nucleotide variant	NM_000492.4(CFTR):c.2761G>T (p.Gly921Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818516
+single nucleotide variant	NM_000492.4(CFTR):c.3112C>T (p.Gln1038Ter)	1080	CFTR	Pathogenic	GRCh38	4818526
+single nucleotide variant	NM_000492.4(CFTR):c.3139+2T>C	1080	CFTR	Pathogenic	GRCh38	4818527
+single nucleotide variant	NM_000492.4(CFTR):c.3181G>T (p.Gly1061Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818529
+single nucleotide variant	NM_000492.4(CFTR):c.3205G>C (p.Gly1069Arg)	1080	CFTR	Likely pathogenic	GRCh38	4818530
+single nucleotide variant	NM_000492.4(CFTR):c.3233T>C (p.Phe1078Ser)	1080	CFTR	Likely pathogenic	GRCh38	4818531
+single nucleotide variant	NM_000492.4(CFTR):c.3310G>A (p.Glu1104Lys)	1080	CFTR	Likely pathogenic	GRCh38	4818532
+single nucleotide variant	NM_000492.4(CFTR):c.3717G>C (p.Arg1239Ser)	1080	CFTR	Likely pathogenic	GRCh38	4818544
+single nucleotide variant	NM_000492.4(CFTR):c.3827C>G (p.Ser1276Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818547
+single nucleotide variant	NM_000492.4(CFTR):c.3909C>A (p.Asn1303Lys)	1080	CFTR	Likely pathogenic	GRCh38	4818550
+single nucleotide variant	NM_000492.4(CFTR):c.4136+1G>T	1080	CFTR	Likely pathogenic	GRCh38	4818551
+single nucleotide variant	NM_000492.4(CFTR):c.4137-1G>A	1080	CFTR	Likely pathogenic	GRCh38	4818552
+single nucleotide variant	NM_000492.4(CFTR):c.4137-1G>C	1080	CFTR	Likely pathogenic	GRCh38	4818553
+single nucleotide variant	NM_000492.4(CFTR):c.4267C>T (p.Gln1423Ter)	1080	CFTR	Likely pathogenic	GRCh38	4818559
+single nucleotide variant	NM_000492.4(CFTR):c.490-2A>C	1080	CFTR	Pathogenic	GRCh38	4818568
+single nucleotide variant	NM_000492.4(CFTR):c.53+1G>A	1080	CFTR	Pathogenic	GRCh38	4818571
+single nucleotide variant	NM_000492.4(CFTR):c.605G>A (p.Trp202Ter)	1080	CFTR	Pathogenic	GRCh38	4818572
+single nucleotide variant	NM_000492.4(CFTR):c.44T>G (p.Leu15Arg)	1080	CFTR	Likely pathogenic	GRCh38	4854625

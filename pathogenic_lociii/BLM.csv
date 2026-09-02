@@ -1,0 +1,222 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000057.4(BLM):c.3107G>T (p.Cys1036Phe)	641	BLM	Pathogenic	GRCh38	5457
+single nucleotide variant	NM_000057.4(BLM):c.1088-2A>G	641	BLM	Likely pathogenic	GRCh38	4815658
+single nucleotide variant	NM_000057.4(BLM):c.2074+1G>T	641	BLM	Likely pathogenic	GRCh38	42066
+single nucleotide variant	NM_000057.4(BLM):c.2098C>T (p.Gln700Ter)	641	BLM	Pathogenic	GRCh38	42067
+single nucleotide variant	NM_000057.4(BLM):c.2406+2T>G	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1331371
+single nucleotide variant	NM_000057.4(BLM):c.2643G>A (p.Trp881Ter)	641	BLM	Pathogenic	GRCh38	42072
+single nucleotide variant	NM_000057.4(BLM):c.311C>A (p.Ser104Ter)	641	BLM	Pathogenic	GRCh38	1683330
+single nucleotide variant	NM_000057.4(BLM):c.3164G>C (p.Cys1055Ser)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	42078
+single nucleotide variant	NM_000057.4(BLM):c.3191A>T (p.Asp1064Val)	641	BLM	Likely pathogenic	GRCh38	3224403
+single nucleotide variant	NM_000057.4(BLM):c.3278C>G (p.Ser1093Ter)	641	BLM	Pathogenic	GRCh38	1453917
+single nucleotide variant	NM_000057.4(BLM):c.3558+1G>A	641	BLM	Pathogenic	GRCh38	2137744
+single nucleotide variant	NM_000057.4(BLM):c.3847C>T (p.Gln1283Ter)	641	BLM	Pathogenic	GRCh38	42089
+single nucleotide variant	NM_000057.4(BLM):c.1642C>T (p.Gln548Ter)	641	BLM	Pathogenic	GRCh38	127478
+single nucleotide variant	NM_000057.4(BLM):c.2695C>T (p.Arg899Ter)	641	BLM	Pathogenic	GRCh38	127491
+single nucleotide variant	NM_000057.4(BLM):c.3415C>T (p.Arg1139Ter)	641	BLM	Pathogenic	GRCh38	156484
+single nucleotide variant	NM_000057.4(BLM):c.1358T>G (p.Leu453Ter)	641	BLM	Pathogenic	GRCh38	182059
+single nucleotide variant	NM_000057.4(BLM):c.2015A>G (p.Gln672Arg)	641	BLM	Likely pathogenic	GRCh38	188963
+single nucleotide variant	NM_000057.4(BLM):c.3558+1G>T	641	BLM	Pathogenic/Likely pathogenic	GRCh38	220019
+single nucleotide variant	NM_000057.4(BLM):c.98+1G>A	641	BLM	Pathogenic/Likely pathogenic	GRCh38	371055
+single nucleotide variant	NM_000057.4(BLM):c.98+1G>T	641	BLM	Pathogenic/Likely pathogenic	GRCh38	370200
+single nucleotide variant	NM_000057.4(BLM):c.1284G>A (p.Trp428Ter)	641	BLM	Pathogenic	GRCh38	371048
+single nucleotide variant	NM_000057.4(BLM):c.2821C>T (p.Gln941Ter)	641	BLM	Likely pathogenic	GRCh38	370702
+single nucleotide variant	NM_000057.4(BLM):c.2824-2A>T	641	BLM	Likely pathogenic	GRCh38	371621
+single nucleotide variant	NM_000057.4(BLM):c.3400G>T (p.Gly1134Ter)	641	BLM	Likely pathogenic	GRCh38	370797
+single nucleotide variant	NM_000057.4(BLM):c.3855C>A (p.Tyr1285Ter)	641	BLM	Likely pathogenic	GRCh38	370736
+single nucleotide variant	NM_000057.4(BLM):c.2875C>T (p.Arg959Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	405266
+single nucleotide variant	NM_000057.4(BLM):c.2308-2A>G	641	BLM	Pathogenic/Likely pathogenic	GRCh38	449542
+single nucleotide variant	NM_000057.4(BLM):c.1933C>T (p.Gln645Ter)	641	BLM	Pathogenic	GRCh38	454091
+single nucleotide variant	NM_000057.4(BLM):c.205G>T (p.Glu69Ter)	641	BLM	Pathogenic	GRCh38	489300
+single nucleotide variant	NM_000057.4(BLM):c.3559-1G>A	641	BLM	Likely pathogenic	GRCh38	524772
+single nucleotide variant	NM_000057.4(BLM):c.1883-2A>G	641	BLM	Likely pathogenic	GRCh38	552729
+single nucleotide variant	NM_000057.4(BLM):c.3937G>T (p.Glu1313Ter)	641	BLM	Likely pathogenic	GRCh38	550180
+single nucleotide variant	NM_000057.4(BLM):c.1087+1G>A	641	BLM	Likely pathogenic	GRCh38	553853
+single nucleotide variant	NM_000057.4(BLM):c.2407-1G>A	641	BLM	Likely pathogenic	GRCh38	552186
+single nucleotide variant	NM_000057.4(BLM):c.3163T>C (p.Cys1055Arg)	641	BLM	Likely pathogenic	GRCh38	549904
+single nucleotide variant	NM_000057.4(BLM):c.1A>C (p.Met1Leu)	641	BLM	Likely pathogenic	GRCh38	558084
+single nucleotide variant	NM_000057.4(BLM):c.1088-1G>A	641	BLM	Likely pathogenic	GRCh38	553777
+single nucleotide variant	NM_000057.4(BLM):c.1220+1G>A	641	BLM	Likely pathogenic	GRCh38	553329
+single nucleotide variant	NM_000057.4(BLM):c.1301C>G (p.Ser434Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	555723
+single nucleotide variant	NM_000057.4(BLM):c.2555+1G>T	641	BLM	Likely pathogenic	GRCh38	557075
+single nucleotide variant	NM_000057.4(BLM):c.99-1G>C	641	BLM	Likely pathogenic	GRCh38	552717
+single nucleotide variant	NM_000057.4(BLM):c.2824-1G>C	641	BLM	Likely pathogenic	GRCh38	551820
+single nucleotide variant	NM_000057.4(BLM):c.3439A>T (p.Lys1147Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	562196
+single nucleotide variant	NM_000057.4(BLM):c.835G>T (p.Glu279Ter)	641	BLM	Pathogenic	GRCh38	582201
+single nucleotide variant	NM_000057.4(BLM):c.1462G>T (p.Glu488Ter)	641	BLM	Pathogenic	GRCh38	577769
+single nucleotide variant	NM_000057.4(BLM):c.2662+2T>C	641	BLM	Likely pathogenic	GRCh38	578006
+single nucleotide variant	NM_000057.4(BLM):c.2258T>A (p.Leu753Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	584888
+single nucleotide variant	NM_000057.4(BLM):c.2663-2A>G	641	BLM	Likely pathogenic	GRCh38	584894
+single nucleotide variant	NM_000057.4(BLM):c.1090A>T (p.Arg364Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	632671
+single nucleotide variant	NM_000057.4(BLM):c.1546G>T (p.Glu516Ter)	641	BLM	Pathogenic	GRCh38	665277
+single nucleotide variant	NM_000057.4(BLM):c.3496C>T (p.Gln1166Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	653629
+single nucleotide variant	NM_000057.4(BLM):c.960-1G>A	641	BLM	Likely pathogenic	GRCh38	643599
+single nucleotide variant	NM_000057.4(BLM):c.98+1G>C	641	BLM	Pathogenic/Likely pathogenic	GRCh38	667391
+single nucleotide variant	NM_000057.4(BLM):c.2809C>T (p.Gln937Ter)	641	BLM	Pathogenic	GRCh38	694003
+single nucleotide variant	NM_000057.4(BLM):c.2193+1G>A	641	BLM	Pathogenic/Likely pathogenic	GRCh38	694326
+single nucleotide variant	NM_000057.4(BLM):c.2005A>T (p.Arg669Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	803130
+single nucleotide variant	NM_000057.4(BLM):c.670C>T (p.Gln224Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	826568
+single nucleotide variant	NM_000057.4(BLM):c.829G>T (p.Glu277Ter)	641	BLM	Pathogenic	GRCh38	827564
+single nucleotide variant	NM_000057.4(BLM):c.1701G>A (p.Trp567Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	819865
+single nucleotide variant	NM_000057.4(BLM):c.1784C>G (p.Ser595Ter)	641	BLM	Pathogenic	GRCh38	820081
+single nucleotide variant	NM_000057.4(BLM):c.3679A>T (p.Lys1227Ter)	641	BLM	Pathogenic	GRCh38	824060
+single nucleotide variant	NM_000057.4(BLM):c.2075-1G>A	641	BLM	Likely pathogenic	GRCh38	820660
+single nucleotide variant	NM_000057.4(BLM):c.2193+1G>T	641	BLM	Likely pathogenic	GRCh38	820840
+single nucleotide variant	NM_000057.4(BLM):c.2556-2A>G	641	BLM	Likely pathogenic	GRCh38	821484
+single nucleotide variant	NM_000057.4(BLM):c.3751+2T>C	641	BLM	Likely pathogenic	GRCh38	830240
+single nucleotide variant	NM_000057.4(BLM):c.2409G>A (p.Trp803Ter)	641	BLM	Pathogenic	GRCh38	854209
+single nucleotide variant	NM_000057.4(BLM):c.2801G>A (p.Trp934Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	850920
+single nucleotide variant	NM_000057.4(BLM):c.3087C>G (p.Tyr1029Ter)	641	BLM	Pathogenic	GRCh38	846968
+single nucleotide variant	NM_000057.4(BLM):c.960-2A>C	641	BLM	Likely pathogenic	GRCh38	853126
+single nucleotide variant	NM_000057.4(BLM):c.799+1G>T	641	BLM	Likely pathogenic	GRCh38	864067
+single nucleotide variant	NM_000057.4(BLM):c.2824-2A>C	641	BLM	Likely pathogenic	GRCh38	859495
+single nucleotide variant	NM_000057.4(BLM):c.1108C>T (p.Gln370Ter)	641	BLM	Pathogenic	GRCh38	872788
+single nucleotide variant	NM_000057.4(BLM):c.760G>T (p.Glu254Ter)	641	BLM	Pathogenic	GRCh38	947591
+single nucleotide variant	NM_000057.4(BLM):c.2702G>A (p.Cys901Tyr)	641	BLM	Likely pathogenic	GRCh38	952488
+single nucleotide variant	NM_000057.4(BLM):c.2556-1G>T	641	BLM	Likely pathogenic	GRCh38	950102
+single nucleotide variant	NM_000057.4(BLM):c.2097C>A (p.Tyr699Ter)	641	BLM	Pathogenic	GRCh38	960606
+single nucleotide variant	NM_000057.4(BLM):c.2221A>T (p.Lys741Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	964589
+single nucleotide variant	NM_000057.4(BLM):c.497C>G (p.Ser166Ter)	641	BLM	Pathogenic	GRCh38	966886
+single nucleotide variant	NM_000057.4(BLM):c.960-1G>T	641	BLM	Likely pathogenic	GRCh38	962674
+single nucleotide variant	NM_000057.4(BLM):c.3020-258A>G	641	BLM	Pathogenic/Likely pathogenic	GRCh38	978065
+single nucleotide variant	NM_000057.4(BLM):c.3379C>T (p.Gln1127Ter)	641	BLM	Pathogenic	GRCh38	978066
+single nucleotide variant	NM_000057.4(BLM):c.1883-1G>A	641	BLM	Likely pathogenic	GRCh38	1068276
+single nucleotide variant	NM_000057.4(BLM):c.2662+2T>G	641	BLM	Likely pathogenic	GRCh38	1066346
+single nucleotide variant	NM_000057.4(BLM):c.2663-1G>C	641	BLM	Likely pathogenic	GRCh38	1066231
+single nucleotide variant	NM_000057.4(BLM):c.589C>T (p.Gln197Ter)	641	BLM	Pathogenic	GRCh38	1073712
+single nucleotide variant	NM_000057.4(BLM):c.689G>A (p.Trp230Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1073759
+single nucleotide variant	NM_000057.4(BLM):c.1492A>T (p.Lys498Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1068806
+single nucleotide variant	NM_000057.4(BLM):c.1628T>G (p.Leu543Ter)	641	BLM	Pathogenic	GRCh38	1076010
+single nucleotide variant	NM_000057.4(BLM):c.1889C>G (p.Ser630Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1073866
+single nucleotide variant	NM_000057.4(BLM):c.2292T>G (p.Tyr764Ter)	641	BLM	Pathogenic	GRCh38	1072379
+single nucleotide variant	NM_000057.4(BLM):c.2410G>T (p.Gly804Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1075171
+single nucleotide variant	NM_000057.4(BLM):c.2592C>G (p.Tyr864Ter)	641	BLM	Pathogenic	GRCh38	1068907
+single nucleotide variant	NM_000057.4(BLM):c.3281C>A (p.Ser1094Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1069727
+single nucleotide variant	NM_000057.4(BLM):c.3634G>T (p.Glu1212Ter)	641	BLM	Pathogenic	GRCh38	1070833
+single nucleotide variant	NM_000057.4(BLM):c.3646A>T (p.Lys1216Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1069740
+single nucleotide variant	NM_000057.4(BLM):c.83C>G (p.Ser28Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1324476
+single nucleotide variant	NM_000057.4(BLM):c.1489C>T (p.Gln497Ter)	641	BLM	Pathogenic	GRCh38	1366642
+single nucleotide variant	NM_000057.4(BLM):c.3678C>A (p.Cys1226Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1450937
+single nucleotide variant	NM_000057.4(BLM):c.2725C>T (p.Gln909Ter)	641	BLM	Pathogenic	GRCh38	1454098
+single nucleotide variant	NM_000057.4(BLM):c.2307+2T>G	641	BLM	Likely pathogenic	GRCh38	1501365
+single nucleotide variant	NM_000057.4(BLM):c.583A>T (p.Lys195Ter)	641	BLM	Pathogenic	GRCh38	1364586
+single nucleotide variant	NM_000057.4(BLM):c.2794C>T (p.Gln932Ter)	641	BLM	Pathogenic	GRCh38	1368846
+single nucleotide variant	NM_000057.4(BLM):c.2595T>A (p.Tyr865Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1396588
+single nucleotide variant	NM_000057.4(BLM):c.74T>G (p.Leu25Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1370948
+single nucleotide variant	NM_000057.4(BLM):c.3863G>A (p.Trp1288Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1409946
+single nucleotide variant	NM_000057.4(BLM):c.2167C>T (p.Gln723Ter)	641	BLM	Pathogenic	GRCh38	1410025
+single nucleotide variant	NM_000057.4(BLM):c.3875-2A>T	641	BLM	Likely pathogenic	GRCh38	1507119
+single nucleotide variant	NM_000057.4(BLM):c.3751+1G>A	641	BLM	Likely pathogenic	GRCh38	1493768
+single nucleotide variant	NM_000057.4(BLM):c.1732A>T (p.Lys578Ter)	641	BLM	Pathogenic	GRCh38	1398983
+single nucleotide variant	NM_000057.4(BLM):c.3864G>A (p.Trp1288Ter)	641	BLM	Pathogenic	GRCh38	1456846
+single nucleotide variant	NM_000057.4(BLM):c.4027C>T (p.Gln1343Ter)	641	BLM	Pathogenic	GRCh38	1413196
+single nucleotide variant	NM_000057.4(BLM):c.2823+2T>A	641	BLM	Likely pathogenic	GRCh38	1510894
+single nucleotide variant	NM_000057.4(BLM):c.919G>T (p.Glu307Ter)	641	BLM	Pathogenic	GRCh38	1350415
+single nucleotide variant	NM_000057.4(BLM):c.2404C>T (p.Gln802Ter)	641	BLM	Pathogenic	GRCh38	1459839
+single nucleotide variant	NM_000057.4(BLM):c.3758T>G (p.Leu1253Ter)	641	BLM	Pathogenic	GRCh38	1432221
+single nucleotide variant	NM_000057.4(BLM):c.1882+1G>C	641	BLM	Likely pathogenic	GRCh38	1499079
+single nucleotide variant	NM_000057.4(BLM):c.3145G>T (p.Gly1049Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1458953
+single nucleotide variant	NM_000057.4(BLM):c.1237G>T (p.Glu413Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1432994
+single nucleotide variant	NM_000057.4(BLM):c.1054G>T (p.Glu352Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1380069
+single nucleotide variant	NM_000057.4(BLM):c.2662+1G>T	641	BLM	Likely pathogenic	GRCh38	1678101
+single nucleotide variant	NM_000057.4(BLM):c.2855G>C (p.Gly952Ala)	641	BLM	Likely pathogenic	GRCh38	1710178
+single nucleotide variant	NM_000057.4(BLM):c.3510T>A (p.Tyr1170Ter)	641	BLM	Pathogenic	GRCh38	1732159
+single nucleotide variant	NM_000057.4(BLM):c.3859G>T (p.Glu1287Ter)	641	BLM	Pathogenic	GRCh38	1735577
+single nucleotide variant	NM_000057.4(BLM):c.3163T>G (p.Cys1055Gly)	641	BLM	Likely pathogenic	GRCh38	1728339
+single nucleotide variant	NM_000057.4(BLM):c.1290C>A (p.Tyr430Ter)	641	BLM	Pathogenic	GRCh38	1769086
+single nucleotide variant	NM_000057.4(BLM):c.1700G>A (p.Trp567Ter)	641	BLM	Pathogenic	GRCh38	1778349
+single nucleotide variant	NM_000057.4(BLM):c.1865C>G (p.Ser622Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1781570
+single nucleotide variant	NM_000057.4(BLM):c.2261C>G (p.Ser754Ter)	641	BLM	Pathogenic	GRCh38	1788637
+single nucleotide variant	NM_000057.4(BLM):c.2555+1G>A	641	BLM	Likely pathogenic	GRCh38	1793000
+single nucleotide variant	NM_000057.4(BLM):c.2555+1G>C	641	BLM	Likely pathogenic	GRCh38	1793001
+single nucleotide variant	NM_000057.4(BLM):c.3118C>T (p.Gln1040Ter)	641	BLM	Pathogenic	GRCh38	2137743
+single nucleotide variant	NM_000057.4(BLM):c.2208T>G (p.Tyr736Ter)	641	BLM	Pathogenic	GRCh38	2148520
+single nucleotide variant	NM_000057.4(BLM):c.461G>A (p.Trp154Ter)	641	BLM	Pathogenic	GRCh38	2157634
+single nucleotide variant	NM_000057.4(BLM):c.646G>T (p.Glu216Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2174647
+single nucleotide variant	NM_000057.4(BLM):c.2075-14T>G	641	BLM	Likely pathogenic	GRCh38	2201215
+single nucleotide variant	NM_000057.4(BLM):c.3839C>G (p.Ser1280Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2418215
+single nucleotide variant	NM_000057.4(BLM):c.28C>T (p.Gln10Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1929462
+single nucleotide variant	NM_000057.4(BLM):c.3991A>T (p.Arg1331Ter)	641	BLM	Pathogenic	GRCh38	1960947
+single nucleotide variant	NM_000057.4(BLM):c.3007A>T (p.Arg1003Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	1998311
+single nucleotide variant	NM_000057.4(BLM):c.2923C>T (p.Gln975Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2000661
+single nucleotide variant	NM_000057.4(BLM):c.3611T>G (p.Leu1204Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2012954
+single nucleotide variant	NM_000057.4(BLM):c.3874+1G>A	641	BLM	Likely pathogenic	GRCh38	2029279
+single nucleotide variant	NM_000057.4(BLM):c.99-1G>T	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2046631
+single nucleotide variant	NM_000057.4(BLM):c.1894C>T (p.Gln632Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2034184
+single nucleotide variant	NM_000057.4(BLM):c.2791C>T (p.Gln931Ter)	641	BLM	Pathogenic	GRCh38	2044705
+single nucleotide variant	NM_000057.4(BLM):c.3358+1G>A	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2033808
+single nucleotide variant	NM_000057.4(BLM):c.2926G>T (p.Glu976Ter)	641	BLM	Pathogenic	GRCh38	2072432
+single nucleotide variant	NM_000057.4(BLM):c.2020G>T (p.Glu674Ter)	641	BLM	Pathogenic	GRCh38	2084209
+single nucleotide variant	NM_000057.4(BLM):c.1220+2T>C	641	BLM	Likely pathogenic	GRCh38	2102271
+single nucleotide variant	NM_000057.4(BLM):c.1832C>G (p.Ser611Ter)	641	BLM	Pathogenic	GRCh38	2111068
+single nucleotide variant	NM_000057.4(BLM):c.1195G>T (p.Glu399Ter)	641	BLM	Pathogenic	GRCh38	2111079
+single nucleotide variant	NM_000057.4(BLM):c.1603A>T (p.Lys535Ter)	641	BLM	Pathogenic	GRCh38	2122349
+single nucleotide variant	NM_000057.4(BLM):c.1093C>T (p.Gln365Ter)	641	BLM	Pathogenic	GRCh38	2123083
+single nucleotide variant	NM_000057.4(BLM):c.3628C>T (p.Gln1210Ter)	641	BLM	Pathogenic	GRCh38	2128331
+single nucleotide variant	NM_000057.4(BLM):c.1537A>T (p.Lys513Ter)	641	BLM	Pathogenic	GRCh38	2130127
+single nucleotide variant	NM_000057.4(BLM):c.99-1G>A	641	BLM	Likely pathogenic	GRCh38	2452531
+single nucleotide variant	NM_000057.4(BLM):c.3090T>A (p.Cys1030Ter)	641	BLM	Pathogenic	GRCh38	2586874
+single nucleotide variant	NM_000057.4(BLM):c.1832C>A (p.Ser611Ter)	641	BLM	Pathogenic	GRCh38	2586880
+single nucleotide variant	NM_000057.4(BLM):c.1515G>A (p.Trp505Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2586882
+single nucleotide variant	NM_000057.4(BLM):c.959+2T>C	641	BLM	Pathogenic	GRCh38	2680163
+single nucleotide variant	NM_000057.4(BLM):c.2407-2A>G	641	BLM	Likely pathogenic	GRCh38	2680165
+single nucleotide variant	NM_000057.4(BLM):c.3359-2A>G	641	BLM	Likely pathogenic	GRCh38	2680167
+single nucleotide variant	NM_000057.4(BLM):c.1220+1G>T	641	BLM	Likely pathogenic	GRCh38	2680169
+single nucleotide variant	NM_000057.4(BLM):c.3359-1G>A	641	BLM	Likely pathogenic	GRCh38	2680174
+single nucleotide variant	NM_000057.4(BLM):c.3358+1G>T	641	BLM	Likely pathogenic	GRCh38	2680177
+single nucleotide variant	NM_000057.4(BLM):c.1087+1G>T	641	BLM	Likely pathogenic	GRCh38	2680179
+single nucleotide variant	NM_000057.4(BLM):c.1450A>T (p.Lys484Ter)	641	BLM	Pathogenic/Likely pathogenic	GRCh38	2680182
+single nucleotide variant	NM_000057.4(BLM):c.418G>T (p.Glu140Ter)	641	BLM	Likely pathogenic	GRCh38	2680185
+single nucleotide variant	NM_000057.4(BLM):c.2642G>A (p.Trp881Ter)	641	BLM	Likely pathogenic	GRCh38	2680188
+single nucleotide variant	NM_000057.4(BLM):c.3975C>A (p.Tyr1325Ter)	641	BLM	Likely pathogenic	GRCh38	2680189
+single nucleotide variant	NM_000057.4(BLM):c.3210+1G>A	641	BLM	Likely pathogenic	GRCh38	2680190
+single nucleotide variant	NM_000057.4(BLM):c.1882+2T>C	641	BLM	Likely pathogenic	GRCh38	2680192
+single nucleotide variant	NM_000057.4(BLM):c.2307+1G>A	641	BLM	Likely pathogenic	GRCh38	2701904
+single nucleotide variant	NM_000057.4(BLM):c.814A>T (p.Lys272Ter)	641	BLM	Pathogenic	GRCh38	2736257
+single nucleotide variant	NM_000057.4(BLM):c.2664T>A (p.Tyr888Ter)	641	BLM	Pathogenic	GRCh38	2759096
+single nucleotide variant	NM_000057.4(BLM):c.1805C>A (p.Ser602Ter)	641	BLM	Pathogenic	GRCh38	2835809
+single nucleotide variant	NM_000057.4(BLM):c.3779T>A (p.Leu1260Ter)	641	BLM	Pathogenic	GRCh38	2866269
+single nucleotide variant	NM_000057.4(BLM):c.3211-2A>G	641	BLM	Likely pathogenic	GRCh38	2862402
+single nucleotide variant	NM_000057.4(BLM):c.799+1G>A	641	BLM	Likely pathogenic	GRCh38	2894750
+single nucleotide variant	NM_000057.4(BLM):c.1051C>T (p.Gln351Ter)	641	BLM	Pathogenic	GRCh38	2909831
+single nucleotide variant	NM_000057.4(BLM):c.557C>A (p.Ser186Ter)	641	BLM	Pathogenic	GRCh38	2955983
+single nucleotide variant	NM_000057.4(BLM):c.1220+2T>G	641	BLM	Likely pathogenic	GRCh38	3017473
+single nucleotide variant	NM_000057.4(BLM):c.3784C>T (p.Gln1262Ter)	641	BLM	Pathogenic	GRCh38	3011339
+single nucleotide variant	NM_000057.4(BLM):c.826G>T (p.Glu276Ter)	641	BLM	Pathogenic	GRCh38	3224923
+single nucleotide variant	NM_000057.4(BLM):c.83C>A (p.Ser28Ter)	641	BLM	Likely pathogenic	GRCh38	3224927
+single nucleotide variant	NM_000057.4(BLM):c.3559-3A>G	641	BLM	Pathogenic	GRCh38	3236168
+single nucleotide variant	NM_000057.4(BLM):c.960-2A>G	641	BLM	Likely pathogenic	GRCh38	3240925
+single nucleotide variant	NM_000057.4(BLM):c.2663-1G>A	641	BLM	Likely pathogenic	GRCh38	3240926
+single nucleotide variant	NM_000057.4(BLM):c.550C>T (p.Gln184Ter)	641	BLM	Likely pathogenic	GRCh38	3240927
+single nucleotide variant	NM_000057.4(BLM):c.3427G>T (p.Glu1143Ter)	641	BLM	Likely pathogenic	GRCh38	3240928
+single nucleotide variant	NM_000057.4(BLM):c.1784C>A (p.Ser595Ter)	641	BLM	Pathogenic	GRCh38	3340249
+single nucleotide variant	NM_000057.4(BLM):c.40G>T (p.Glu14Ter)	641	BLM	Likely pathogenic	GRCh38	3344526
+single nucleotide variant	NM_000057.4(BLM):c.557C>G (p.Ser186Ter)	641	BLM	Pathogenic	GRCh38	3480788
+single nucleotide variant	NM_000057.4(BLM):c.50C>G (p.Ser17Ter)	641	BLM	Pathogenic	GRCh38	3621710
+single nucleotide variant	NM_000057.4(BLM):c.3265C>T (p.Gln1089Ter)	641	BLM	Pathogenic	GRCh38	3626065
+single nucleotide variant	NM_000057.4(BLM):c.1220+1G>C	641	BLM	Likely pathogenic	GRCh38	3640579
+single nucleotide variant	NM_000057.4(BLM):c.1367C>A (p.Ser456Ter)	641	BLM	Pathogenic	GRCh38	3669660
+single nucleotide variant	NM_000057.4(BLM):c.3532C>T (p.Gln1178Ter)	641	BLM	Pathogenic	GRCh38	3663993
+single nucleotide variant	NM_000057.4(BLM):c.2323A>T (p.Arg775Ter)	641	BLM	Pathogenic	GRCh38	3658265
+single nucleotide variant	NM_000057.4(BLM):c.959+1G>A	641	BLM	Likely pathogenic	GRCh38	3698732
+single nucleotide variant	NM_000057.4(BLM):c.91A>T (p.Lys31Ter)	641	BLM	Pathogenic	GRCh38	3727651
+single nucleotide variant	NM_000057.4(BLM):c.2797A>T (p.Lys933Ter)	641	BLM	Pathogenic	GRCh38	3907152
+single nucleotide variant	NM_000057.4(BLM):c.2433C>G (p.Tyr811Ter)	641	BLM	Pathogenic	GRCh38	4708585
+single nucleotide variant	NM_000057.4(BLM):c.317C>A (p.Ser106Ter)	641	BLM	Pathogenic	GRCh38	4710205
+single nucleotide variant	NM_000057.4(BLM):c.2512C>T (p.Gln838Ter)	641	BLM	Pathogenic	GRCh38	4710206
+single nucleotide variant	NM_000057.4(BLM):c.2820T>A (p.Cys940Ter)	641	BLM	Pathogenic	GRCh38	4715125
+single nucleotide variant	NM_000057.4(BLM):c.1753C>T (p.Gln585Ter)	641	BLM	Pathogenic	GRCh38	4712721
+single nucleotide variant	NM_000057.4(BLM):c.1221-2A>T	641	BLM	Likely pathogenic	GRCh38	4727866
+single nucleotide variant	NM_000057.4(BLM):c.2074+2T>C	641	BLM	Likely pathogenic	GRCh38	4733153
+single nucleotide variant	NM_000057.4(BLM):c.1379C>A (p.Ser460Ter)	641	BLM	Pathogenic	GRCh38	4734938
+single nucleotide variant	NM_000057.4(BLM):c.3922G>T (p.Gly1308Ter)	641	BLM	Pathogenic	GRCh38	4735687
+single nucleotide variant	NM_000057.4(BLM):c.1105C>T (p.Gln369Ter)	641	BLM	Pathogenic	GRCh38	4771599
+single nucleotide variant	NM_000057.4(BLM):c.520C>T (p.Gln174Ter)	641	BLM	Pathogenic	GRCh38	4805214
+single nucleotide variant	NM_000057.4(BLM):c.1221-2A>G	641	BLM	Likely pathogenic	GRCh38	4808290
+single nucleotide variant	NM_000057.4(BLM):c.2530C>T (p.Gln844Ter)	641	BLM	Pathogenic	GRCh38	4804473
+single nucleotide variant	NM_000057.4(BLM):c.1790C>G (p.Ser597Ter)	641	BLM	Likely pathogenic	GRCh38	4815709
+single nucleotide variant	NM_000057.4(BLM):c.2254C>T (p.Gln752Ter)	641	BLM	Pathogenic	GRCh38	4815752
+single nucleotide variant	NM_000057.4(BLM):c.2556-2A>C	641	BLM	Likely pathogenic	GRCh38	4815784
+single nucleotide variant	NM_000057.4(BLM):c.2703T>A (p.Cys901Ter)	641	BLM	Likely pathogenic	GRCh38	4815806
+single nucleotide variant	NM_000057.4(BLM):c.3559-1G>T	641	BLM	Likely pathogenic	GRCh38	4815872
+single nucleotide variant	NM_000057.4(BLM):c.3751+1G>T	641	BLM	Likely pathogenic	GRCh38	4815886

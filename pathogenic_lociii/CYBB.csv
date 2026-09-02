@@ -1,0 +1,142 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000397.4(CYBB):c.1244C>A (p.Pro415His)	1536	CYBB	Pathogenic	GRCh38	10920
+single nucleotide variant	NM_000397.4(CYBB):c.1166G>C (p.Gly389Ala)	1536	CYBB	Pathogenic	GRCh38	10921
+single nucleotide variant	NM_000397.4(CYBB):c.217C>T (p.Arg73Ter)	1536	CYBB	Pathogenic	GRCh38	10923
+single nucleotide variant	NM_000397.4(CYBB):c.731G>C (p.Cys244Ser)	1536	CYBB	Pathogenic	GRCh38	10924
+single nucleotide variant	NM_000397.4(CYBB):c.466G>A (p.Ala156Thr)	1536	CYBB	Pathogenic	GRCh38	10925
+single nucleotide variant	NM_000397.4(CYBB):c.302A>G (p.His101Arg)	1536	CYBB	Pathogenic	GRCh38	10926
+single nucleotide variant	NM_000397.4(CYBB):c.911C>G (p.Pro304Arg)	1536	CYBB	Pathogenic	GRCh38	10927
+single nucleotide variant	NM_000397.4(CYBB):c.1462-2A>G	1536	CYBB	Pathogenic	GRCh38	10928
+single nucleotide variant	NM_000397.4(CYBB):c.676C>T (p.Arg226Ter)	1536	CYBB	Pathogenic	GRCh38	10929
+single nucleotide variant	NM_000397.4(CYBB):c.252+5G>A	1536	CYBB	Pathogenic	GRCh38	10930
+single nucleotide variant	NM_000397.4(CYBB):c.1499A>G (p.Asp500Gly)	1536	CYBB	Pathogenic	GRCh38	10931
+single nucleotide variant	NM_000397.4(CYBB):c.301C>T (p.His101Tyr)	1536	CYBB	Likely pathogenic	GRCh38	10932
+single nucleotide variant	NM_000397.4(CYBB):c.252G>A (p.Ala84=)	1536	CYBB	Pathogenic	GRCh38	10933
+single nucleotide variant	NM_000397.4(CYBB):c.907C>A (p.His303Asn)	1536	CYBB	Pathogenic	GRCh38	10936
+single nucleotide variant	NM_000397.4(CYBB):c.483+979G>T	1536	CYBB	Pathogenic	GRCh38	10937
+single nucleotide variant	NM_000397.4(CYBB):c.45+6T>C	1536	CYBB	Pathogenic	GRCh38	10939
+single nucleotide variant	NM_000397.4(CYBB):c.692A>C (p.Gln231Pro)	1536	CYBB	Pathogenic	GRCh38	29969
+single nucleotide variant	NM_000397.4(CYBB):c.532A>C (p.Thr178Pro)	1536	CYBB	Pathogenic	GRCh38	29970
+single nucleotide variant	NM_000397.4(CYBB):c.389G>C (p.Arg130Pro)	1536	CYBB	Pathogenic	GRCh38	35972
+single nucleotide variant	NM_000397.4(CYBB):c.607G>T (p.Glu203Ter)	1536	CYBB	Pathogenic/Likely pathogenic	GRCh38	35974
+single nucleotide variant	NM_000397.4(CYBB):c.1012C>T (p.His338Tyr)	1536	CYBB	Pathogenic	GRCh38	68367
+single nucleotide variant	NM_000397.4(CYBB):c.1016C>A (p.Pro339His)	1536	CYBB	Pathogenic	GRCh38	68368
+single nucleotide variant	NM_000397.4(CYBB):c.1222G>A (p.Gly408Arg)	1536	CYBB	Pathogenic	GRCh38	68376
+single nucleotide variant	NM_000397.4(CYBB):c.1223G>A (p.Gly408Glu)	1536	CYBB	Pathogenic	GRCh38	68377
+single nucleotide variant	NM_000397.4(CYBB):c.1244C>T (p.Pro415Leu)	1536	CYBB	Pathogenic	GRCh38	68378
+single nucleotide variant	NM_000397.4(CYBB):c.1609T>C (p.Cys537Arg)	1536	CYBB	Pathogenic	GRCh38	68386
+single nucleotide variant	NM_000397.4(CYBB):c.170C>A (p.Ala57Glu)	1536	CYBB	Pathogenic	GRCh38	68391
+single nucleotide variant	NM_000397.4(CYBB):c.535G>A (p.Gly179Arg)	1536	CYBB	Pathogenic	GRCh38	68395
+single nucleotide variant	NM_000397.4(CYBB):c.613T>A (p.Phe205Ile)	1536	CYBB	Likely pathogenic	GRCh38	68398
+single nucleotide variant	NM_000397.4(CYBB):c.665A>G (p.His222Arg)	1536	CYBB	Pathogenic	GRCh38	68403
+single nucleotide variant	NM_000397.4(CYBB):c.925G>A (p.Glu309Lys)	1536	CYBB	Pathogenic	GRCh38	68412
+single nucleotide variant	NM_000397.4(CYBB):c.965G>A (p.Gly322Glu)	1536	CYBB	Pathogenic	GRCh38	68413
+single nucleotide variant	NM_000397.4(CYBB):c.66C>A (p.Asn22Lys)	1536	CYBB	Likely pathogenic	GRCh38	208503
+single nucleotide variant	NM_000397.4(CYBB):c.337+1G>T	1536	CYBB	Pathogenic	GRCh38	265087
+single nucleotide variant	NM_000397.4(CYBB):c.448G>T (p.Glu150Ter)	1536	CYBB	Pathogenic	GRCh38	265088
+single nucleotide variant	NM_000397.4(CYBB):c.469C>T (p.Arg157Ter)	1536	CYBB	Pathogenic	GRCh38	265089
+single nucleotide variant	NM_000397.4(CYBB):c.484-2A>T	1536	CYBB	Pathogenic	GRCh38	265090
+single nucleotide variant	NM_000397.4(CYBB):c.868C>T (p.Arg290Ter)	1536	CYBB	Pathogenic	GRCh38	265091
+single nucleotide variant	NM_000397.4(CYBB):c.907C>T (p.His303Tyr)	1536	CYBB	Pathogenic	GRCh38	265092
+single nucleotide variant	NM_000397.4(CYBB):c.1449G>A (p.Trp483Ter)	1536	CYBB	Pathogenic	GRCh38	265093
+single nucleotide variant	NM_000397.4(CYBB):c.1498G>C (p.Asp500His)	1536	CYBB	Pathogenic	GRCh38	265470
+single nucleotide variant	NM_000397.4(CYBB):c.1272G>A (p.Trp424Ter)	1536	CYBB	Pathogenic	GRCh38	279797
+single nucleotide variant	NM_000397.4(CYBB):c.271C>T (p.Arg91Ter)	1536	CYBB	Pathogenic	GRCh38	279794
+single nucleotide variant	NM_000397.4(CYBB):c.898-2A>C	1536	CYBB	Pathogenic	GRCh38	373734
+single nucleotide variant	NM_000397.4(CYBB):c.343C>T (p.His115Tyr)	1536	CYBB	Likely pathogenic	GRCh38	429474
+single nucleotide variant	NM_000397.4(CYBB):c.483+1G>T	1536	CYBB	Pathogenic	GRCh38	430197
+single nucleotide variant	NM_000397.4(CYBB):c.1169C>T (p.Pro390Leu)	1536	CYBB	Likely pathogenic	GRCh38	430219
+single nucleotide variant	NM_000397.4(CYBB):c.141+1G>T	1536	CYBB	Pathogenic	GRCh38	431813
+single nucleotide variant	NM_000397.4(CYBB):c.599C>T (p.Ser200Phe)	1536	CYBB	Likely pathogenic	GRCh38	450884
+single nucleotide variant	NM_000397.4(CYBB):c.1006G>T (p.Glu336Ter)	1536	CYBB	Pathogenic	GRCh38	523790
+single nucleotide variant	NM_000397.4(CYBB):c.1702G>A (p.Glu568Lys)	1536	CYBB	Pathogenic	GRCh38	533556
+single nucleotide variant	NM_000397.4(CYBB):c.781C>T (p.Gln261Ter)	1536	CYBB	Pathogenic	GRCh38	533558
+single nucleotide variant	NM_000397.4(CYBB):c.1315-1G>A	1536	CYBB	Pathogenic	GRCh38	533555
+single nucleotide variant	NM_000397.4(CYBB):c.1011G>A (p.Trp337Ter)	1536	CYBB	Pathogenic	GRCh38	573596
+single nucleotide variant	NM_000397.4(CYBB):c.1085C>T (p.Thr362Ile)	1536	CYBB	Likely pathogenic	GRCh38	632782
+single nucleotide variant	NM_000397.4(CYBB):c.1462-1G>A	1536	CYBB	Likely pathogenic	GRCh38	636980
+single nucleotide variant	NM_000397.4(CYBB):c.1320C>G (p.Tyr440Ter)	1536	CYBB	Pathogenic	GRCh38	659169
+single nucleotide variant	NM_000397.4(CYBB):c.1326C>A (p.Tyr442Ter)	1536	CYBB	Pathogenic	GRCh38	803963
+single nucleotide variant	NM_000397.4(CYBB):c.1333T>C (p.Cys445Arg)	1536	CYBB	Likely pathogenic	GRCh38	810562
+single nucleotide variant	NM_000397.4(CYBB):c.1571C>T (p.Ala524Val)	1536	CYBB	Likely pathogenic	GRCh38	810563
+single nucleotide variant	NM_000397.4(CYBB):c.1275C>G (p.Tyr425Ter)	1536	CYBB	Pathogenic	GRCh38	817514
+single nucleotide variant	NM_000397.4(CYBB):c.1139G>A (p.Trp380Ter)	1536	CYBB	Pathogenic/Likely pathogenic	GRCh38	830059
+single nucleotide variant	NM_000397.4(CYBB):c.58G>A (p.Gly20Arg)	1536	CYBB	Pathogenic	GRCh38	861365
+single nucleotide variant	NM_000397.4(CYBB):c.388C>T (p.Arg130Ter)	1536	CYBB	Pathogenic	GRCh38	862779
+single nucleotide variant	NM_000397.4(CYBB):c.1152-1G>A	1536	CYBB	Likely pathogenic	GRCh38	841765
+single nucleotide variant	NM_000397.4(CYBB):c.483+5G>A	1536	CYBB	Likely pathogenic	GRCh38	856932
+single nucleotide variant	NM_000397.4(CYBB):c.840T>A (p.Tyr280Ter)	1536	CYBB	Pathogenic	GRCh38	947989
+single nucleotide variant	NM_000397.4(CYBB):c.987C>A (p.Cys329Ter)	1536	CYBB	Pathogenic	GRCh38	944826
+single nucleotide variant	NM_000397.4(CYBB):c.1010G>A (p.Trp337Ter)	1536	CYBB	Pathogenic	GRCh38	962575
+single nucleotide variant	NM_000397.4(CYBB):c.1244C>G (p.Pro415Arg)	1536	CYBB	Likely pathogenic	GRCh38	955588
+single nucleotide variant	NM_000397.4(CYBB):c.809G>A (p.Trp270Ter)	1536	CYBB	Pathogenic	GRCh38	993603
+single nucleotide variant	NM_000397.4(CYBB):c.190T>C (p.Cys64Arg)	1536	CYBB	Pathogenic	GRCh38	1012321
+single nucleotide variant	NM_000397.4(CYBB):c.752G>A (p.Trp251Ter)	1536	CYBB	Pathogenic	GRCh38	1012317
+single nucleotide variant	NM_000397.4(CYBB):c.1271G>A (p.Trp424Ter)	1536	CYBB	Pathogenic	GRCh38	1012323
+single nucleotide variant	NM_000397.4(CYBB):c.-65C>G	1536	CYBB	Pathogenic	GRCh38	1048546
+single nucleotide variant	NM_000397.4(CYBB):c.252+5G>C	1536	CYBB	Likely pathogenic	GRCh38	1066112
+single nucleotide variant	NM_000397.4(CYBB):c.3G>A (p.Met1Ile)	1536	CYBB	Pathogenic	GRCh38	1076290
+single nucleotide variant	NM_000397.4(CYBB):c.46-2A>T	1536	CYBB	Pathogenic	GRCh38	1074351
+single nucleotide variant	NM_000397.4(CYBB):c.483+1G>A	1536	CYBB	Pathogenic	GRCh38	1070320
+single nucleotide variant	NM_000397.4(CYBB):c.603C>G (p.Tyr201Ter)	1536	CYBB	Pathogenic	GRCh38	1076169
+single nucleotide variant	NM_000397.4(CYBB):c.675-2A>G	1536	CYBB	Pathogenic	GRCh38	1071577
+single nucleotide variant	NM_000397.4(CYBB):c.1151+1G>A	1536	CYBB	Pathogenic	GRCh38	1071578
+single nucleotide variant	NM_000397.4(CYBB):c.1314+1G>A	1536	CYBB	Pathogenic	GRCh38	1072432
+single nucleotide variant	NM_000397.4(CYBB):c.1519C>T (p.Gln507Ter)	1536	CYBB	Pathogenic	GRCh38	1074313
+single nucleotide variant	NM_000397.4(CYBB):c.1645C>T (p.Gln549Ter)	1536	CYBB	Pathogenic	GRCh38	1074314
+single nucleotide variant	NM_000397.4(CYBB):c.338-1G>C	1536	CYBB	Pathogenic	GRCh38	1187535
+single nucleotide variant	NM_000397.4(CYBB):c.141+1G>A	1536	CYBB	Pathogenic	GRCh38	1193508
+single nucleotide variant	NM_000397.4(CYBB):c.1A>G (p.Met1Val)	1536	CYBB	Pathogenic	GRCh38	1196543
+single nucleotide variant	NM_000397.4(CYBB):c.804+2T>C	1536	CYBB	Pathogenic	GRCh38	1339530
+single nucleotide variant	NM_000397.4(CYBB):c.785T>G (p.Phe262Cys)	1536	CYBB	Likely pathogenic	GRCh38	1339531
+single nucleotide variant	NM_000397.4(CYBB):c.736C>T (p.Gln246Ter)	1536	CYBB	Pathogenic	GRCh38	1367779
+single nucleotide variant	NM_000397.4(CYBB):c.1082G>A (p.Trp361Ter)	1536	CYBB	Pathogenic	GRCh38	1367808
+single nucleotide variant	NM_000397.4(CYBB):c.674+1G>A	1536	CYBB	Pathogenic	GRCh38	1365509
+single nucleotide variant	NM_000397.4(CYBB):c.769T>C (p.Cys257Arg)	1536	CYBB	Pathogenic	GRCh38	1504925
+single nucleotide variant	NM_000397.4(CYBB):c.424T>C (p.Ser142Pro)	1536	CYBB	Likely pathogenic	GRCh38	1504854
+single nucleotide variant	NM_000397.4(CYBB):c.666T>A (p.His222Gln)	1536	CYBB	Pathogenic	GRCh38	1453135
+single nucleotide variant	NM_000397.4(CYBB):c.12G>A (p.Trp4Ter)	1536	CYBB	Pathogenic	GRCh38	1409925
+single nucleotide variant	NM_000397.4(CYBB):c.123C>G (p.Tyr41Ter)	1536	CYBB	Pathogenic	GRCh38	1372263
+single nucleotide variant	NM_000397.4(CYBB):c.141+1G>C	1536	CYBB	Pathogenic	GRCh38	1373374
+single nucleotide variant	NM_000397.4(CYBB):c.1223G>C (p.Gly408Ala)	1536	CYBB	Likely pathogenic	GRCh38	1485565
+single nucleotide variant	NM_000397.4(CYBB):c.1315-1G>C	1536	CYBB	Pathogenic	GRCh38	1378575
+single nucleotide variant	NM_000397.4(CYBB):c.840T>G (p.Tyr280Ter)	1536	CYBB	Pathogenic	GRCh38	1460262
+single nucleotide variant	NM_000397.4(CYBB):c.1152-2A>G	1536	CYBB	Pathogenic	GRCh38	1676152
+single nucleotide variant	NM_000397.4(CYBB):c.1314+1G>C	1536	CYBB	Pathogenic	GRCh38	1699135
+single nucleotide variant	NM_000397.4(CYBB):c.1315-1G>T	1536	CYBB	Likely pathogenic	GRCh38	1704981
+single nucleotide variant	NM_000397.4(CYBB):c.1385A>C (p.Glu462Ala)	1536	CYBB	Likely pathogenic	GRCh38	1706598
+single nucleotide variant	NM_000397.4(CYBB):c.1315-2A>G	1536	CYBB	Pathogenic/Likely pathogenic	GRCh38	1803654
+single nucleotide variant	NM_000397.4(CYBB):c.11G>A (p.Trp4Ter)	1536	CYBB	Pathogenic	GRCh38	2138517
+single nucleotide variant	NM_000397.4(CYBB):c.1328G>A (p.Trp443Ter)	1536	CYBB	Pathogenic	GRCh38	2138522
+single nucleotide variant	NM_000397.4(CYBB):c.1500T>G (p.Asp500Glu)	1536	CYBB	Pathogenic	GRCh38	2138524
+single nucleotide variant	NM_000397.4(CYBB):c.1546T>A (p.Trp516Arg)	1536	CYBB	Pathogenic	GRCh38	2138525
+single nucleotide variant	NM_000397.4(CYBB):c.483G>A (p.Lys161=)	1536	CYBB	Likely pathogenic	GRCh38	2110293
+single nucleotide variant	NM_000397.4(CYBB):c.866G>A (p.Trp289Ter)	1536	CYBB	Pathogenic	GRCh38	2126682
+single nucleotide variant	NM_000397.4(CYBB):c.1610G>T (p.Cys537Phe)	1536	CYBB	Likely pathogenic	GRCh38	2128256
+single nucleotide variant	NM_000397.4(CYBB):c.1014C>G (p.His338Gln)	1536	CYBB	Pathogenic	GRCh38	2135668
+single nucleotide variant	NM_000397.4(CYBB):c.1061A>G (p.His354Arg)	1536	CYBB	Likely pathogenic	GRCh38	2412833
+single nucleotide variant	NM_000397.4(CYBB):c.1151+6T>A	1536	CYBB	Pathogenic	GRCh38	2446362
+single nucleotide variant	NM_000397.4(CYBB):c.1226C>A (p.Ala409Glu)	1536	CYBB	Likely pathogenic	GRCh38	2571361
+single nucleotide variant	NM_000397.4(CYBB):c.1498G>T (p.Asp500Tyr)	1536	CYBB	Pathogenic	GRCh38	2581828
+single nucleotide variant	NM_000397.4(CYBB):c.1151+2T>C	1536	CYBB	Pathogenic	GRCh38	2662988
+single nucleotide variant	NM_000397.4(CYBB):c.45+1G>T	1536	CYBB	Pathogenic	GRCh38	2737182
+single nucleotide variant	NM_000397.4(CYBB):c.160A>G (p.Arg54Gly)	1536	CYBB	Likely pathogenic	GRCh38	2737183
+single nucleotide variant	NM_000397.4(CYBB):c.318G>A (p.Trp106Ter)	1536	CYBB	Pathogenic	GRCh38	2737184
+single nucleotide variant	NM_000397.4(CYBB):c.1234G>A (p.Gly412Arg)	1536	CYBB	Pathogenic	GRCh38	2737190
+single nucleotide variant	NM_000397.4(CYBB):c.1586+1G>A	1536	CYBB	Pathogenic	GRCh38	2737191
+single nucleotide variant	NM_000397.4(CYBB):c.1081T>A (p.Trp361Arg)	1536	CYBB	Likely pathogenic	GRCh38	2809842
+single nucleotide variant	NM_000397.4(CYBB):c.253-1G>C	1536	CYBB	Pathogenic	GRCh38	3063877
+single nucleotide variant	NM_000397.4(CYBB):c.1075G>A (p.Gly359Arg)	1536	CYBB	Pathogenic	GRCh38	3341071
+single nucleotide variant	NM_000397.4(CYBB):c.1027A>C (p.Thr343Pro)	1536	CYBB	Likely pathogenic	GRCh38	3724207
+single nucleotide variant	NM_000397.4(CYBB):c.483+3A>T	1536	CYBB	Likely pathogenic	GRCh38	3768836
+single nucleotide variant	NM_000397.4(CYBB):c.536G>T (p.Gly179Val)	1536	CYBB	Likely pathogenic	GRCh38	4071521
+single nucleotide variant	NM_000397.4(CYBB):c.142-2A>G	1536	CYBB	Likely pathogenic	GRCh38	4487702
+single nucleotide variant	NM_000397.4(CYBB):c.1354G>T (p.Glu452Ter)	1536	CYBB	Likely pathogenic	GRCh38	4487777
+single nucleotide variant	NM_000397.4(CYBB):c.769T>A (p.Cys257Ser)	1536	CYBB	Pathogenic	GRCh38	4536621
+single nucleotide variant	NM_000397.4(CYBB):c.1499A>T (p.Asp500Val)	1536	CYBB	Likely pathogenic	GRCh38	4537382
+single nucleotide variant	NM_000397.4(CYBB):c.99T>A (p.Tyr33Ter)	1536	CYBB	Pathogenic	GRCh38	4710712
+single nucleotide variant	NM_000397.4(CYBB):c.1396C>T (p.Gln466Ter)	1536	CYBB	Pathogenic	GRCh38	4710716
+single nucleotide variant	NM_000397.4(CYBB):c.1586+1G>C	1536	CYBB	Pathogenic	GRCh38	4710719
+single nucleotide variant	NM_000397.4(CYBB):c.483+2T>A	1536	CYBB	Pathogenic	GRCh38	4736166
+single nucleotide variant	NM_000397.4(CYBB):c.935T>A (p.Met312Lys)	1536	CYBB	Likely pathogenic	GRCh38	4820093
+single nucleotide variant	NM_000397.4(CYBB):c.90C>G (p.Tyr30Ter)	1536	CYBB	Likely pathogenic	GRCh38	4850330

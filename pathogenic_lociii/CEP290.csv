@@ -1,0 +1,464 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_025114.4(CEP290):c.21G>T (p.Trp7Cys)	80184	CEP290	Pathogenic	GRCh38	1335
+single nucleotide variant	NM_025114.4(CEP290):c.2991+1655A>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1337
+single nucleotide variant	NM_025114.4(CEP290):c.2249T>G (p.Leu750Ter)	80184	CEP290	Pathogenic	GRCh38	1338
+single nucleotide variant	NM_025114.4(CEP290):c.4723A>T (p.Lys1575Ter)	80184	CEP290	Pathogenic	GRCh38	1339
+single nucleotide variant	NM_025114.4(CEP290):c.613C>T (p.Arg205Ter)	80184	CEP290	Pathogenic	GRCh38	1342
+single nucleotide variant	NM_025114.4(CEP290):c.5704G>T (p.Glu1902Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1345
+single nucleotide variant	NM_025114.4(CEP290):c.180+2T>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	56731
+single nucleotide variant	NM_025114.4(CEP290):c.1984C>T (p.Gln662Ter)	80184	CEP290	Pathogenic	GRCh38	56733
+single nucleotide variant	NM_025114.4(CEP290):c.289G>T (p.Glu97Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	56734
+single nucleotide variant	NM_025114.4(CEP290):c.3814C>T (p.Arg1272Ter)	80184	CEP290	Pathogenic	GRCh38	99852
+single nucleotide variant	NM_025114.4(CEP290):c.4771C>T (p.Gln1591Ter)	80184	CEP290	Pathogenic	GRCh38	99856
+single nucleotide variant	NM_025114.4(CEP290):c.4966G>T (p.Glu1656Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	99857
+single nucleotide variant	NM_025114.4(CEP290):c.1711+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	156377
+single nucleotide variant	NM_025114.4(CEP290):c.3904C>T (p.Gln1302Ter)	80184	CEP290	Pathogenic	GRCh38	156385
+single nucleotide variant	NM_025114.4(CEP290):c.5182G>T (p.Glu1728Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	197044
+single nucleotide variant	NM_025114.4(CEP290):c.4243G>T (p.Glu1415Ter)	80184	CEP290	Likely pathogenic	GRCh38	212730
+single nucleotide variant	NM_025114.4(CEP290):c.6939C>A (p.Tyr2313Ter)	80184	CEP290	Pathogenic	GRCh38	217633
+single nucleotide variant	NM_025114.4(CEP290):c.6072C>A (p.Tyr2024Ter)	80184	CEP290	Pathogenic	GRCh38	217640
+single nucleotide variant	NM_025114.4(CEP290):c.5932C>T (p.Arg1978Ter)	80184	CEP290	Pathogenic	GRCh38	217637
+single nucleotide variant	NM_025114.4(CEP290):c.5344C>T (p.Arg1782Ter)	80184	CEP290	Pathogenic	GRCh38	217636
+single nucleotide variant	NM_025114.4(CEP290):c.4882C>T (p.Gln1628Ter)	80184	CEP290	Pathogenic	GRCh38	217635
+single nucleotide variant	NM_025114.4(CEP290):c.4522C>T (p.Arg1508Ter)	80184	CEP290	Pathogenic	GRCh38	217639
+single nucleotide variant	NM_025114.4(CEP290):c.4393C>T (p.Arg1465Ter)	80184	CEP290	Pathogenic	GRCh38	217626
+single nucleotide variant	NM_025114.4(CEP290):c.1623+1G>A	80184	CEP290	Pathogenic	GRCh38	217631
+single nucleotide variant	NM_025114.4(CEP290):c.654T>G (p.Tyr218Ter)	80184	CEP290	Pathogenic	GRCh38	217630
+single nucleotide variant	NM_025114.4(CEP290):c.103-1G>T	80184	CEP290	Pathogenic	GRCh38	217634
+single nucleotide variant	NM_025114.4(CEP290):c.4801C>T (p.Gln1601Ter)	80184	CEP290	Likely pathogenic	GRCh38	236465
+single nucleotide variant	NM_025114.4(CEP290):c.1781T>A (p.Leu594Ter)	80184	CEP290	Pathogenic	GRCh38	236468
+single nucleotide variant	NM_025114.4(CEP290):c.297+1G>T	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	236464
+single nucleotide variant	NM_025114.4(CEP290):c.148C>T (p.His50Tyr)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	236469
+single nucleotide variant	NM_025114.4(CEP290):c.4811G>A (p.Trp1604Ter)	80184	CEP290	Pathogenic	GRCh38	266097
+single nucleotide variant	NM_025114.4(CEP290):c.3943G>T (p.Glu1315Ter)	80184	CEP290	Pathogenic	GRCh38	280901
+single nucleotide variant	NM_025114.4(CEP290):c.1936C>T (p.Gln646Ter)	80184	CEP290	Pathogenic	GRCh38	279751
+single nucleotide variant	NM_025114.4(CEP290):c.2722C>T (p.Arg908Ter)	80184	CEP290	Pathogenic	GRCh38	281411
+single nucleotide variant	NM_025114.4(CEP290):c.181-2A>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	282257
+single nucleotide variant	NM_025114.4(CEP290):c.5803G>T (p.Glu1935Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	282259
+single nucleotide variant	NM_025114.4(CEP290):c.4437+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	285948
+single nucleotide variant	NM_025114.4(CEP290):c.2668C>T (p.Gln890Ter)	80184	CEP290	Pathogenic	GRCh38	290022
+single nucleotide variant	NM_025114.4(CEP290):c.268A>T (p.Lys90Ter)	80184	CEP290	Likely pathogenic	GRCh38	372612
+single nucleotide variant	NM_025114.4(CEP290):c.451C>T (p.Arg151Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	372761
+single nucleotide variant	NM_025114.4(CEP290):c.3104-2A>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	374210
+single nucleotide variant	NM_025114.4(CEP290):c.2941C>T (p.Gln981Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	373994
+single nucleotide variant	NM_025114.4(CEP290):c.7048C>A (p.Gln2350Lys)	80184	CEP290	Likely pathogenic	GRCh38	374783
+single nucleotide variant	NM_025114.4(CEP290):c.4705-1G>T	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	420091
+single nucleotide variant	NM_025114.4(CEP290):c.3461+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	423910
+single nucleotide variant	NM_025114.4(CEP290):c.1910-11T>G	80184	CEP290	Pathogenic	GRCh38	427860
+single nucleotide variant	NM_025114.4(CEP290):c.1623+5G>A	80184	CEP290	Likely pathogenic	GRCh38	427865
+single nucleotide variant	NM_025114.4(CEP290):c.4813-2A>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	432415
+single nucleotide variant	NM_025114.4(CEP290):c.1066-1G>A	80184	CEP290	Pathogenic	GRCh38	439474
+single nucleotide variant	NM_025114.4(CEP290):c.1915G>T (p.Glu639Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	452628
+single nucleotide variant	NM_025114.4(CEP290):c.1190-2A>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	450433
+single nucleotide variant	NM_025114.4(CEP290):c.6358-1G>A	80184	CEP290	Likely pathogenic	GRCh38	461787
+single nucleotide variant	NM_025114.4(CEP290):c.5212G>T (p.Glu1738Ter)	80184	CEP290	Pathogenic	GRCh38	461785
+single nucleotide variant	NM_025114.4(CEP290):c.1474A>T (p.Lys492Ter)	80184	CEP290	Pathogenic	GRCh38	461774
+single nucleotide variant	NM_025114.4(CEP290):c.180+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	461777
+single nucleotide variant	NM_025114.4(CEP290):c.3097A>T (p.Lys1033Ter)	80184	CEP290	Likely pathogenic	GRCh38	489050
+single nucleotide variant	NM_025114.4(CEP290):c.1709C>G (p.Ser570Ter)	80184	CEP290	Pathogenic	GRCh38	488821
+single nucleotide variant	NM_025114.4(CEP290):c.5012+2T>C	80184	CEP290	Likely pathogenic	GRCh38	497762
+single nucleotide variant	NM_025114.4(CEP290):c.6798G>A (p.Trp2266Ter)	80184	CEP290	Pathogenic	GRCh38	497937
+single nucleotide variant	NM_025114.4(CEP290):c.2911G>T (p.Glu971Ter)	80184	CEP290	Pathogenic	GRCh38	498014
+single nucleotide variant	NM_025114.4(CEP290):c.6364A>T (p.Arg2122Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	503613
+single nucleotide variant	NM_025114.4(CEP290):c.5710-3C>G	80184	CEP290	Likely pathogenic	GRCh38	523535
+single nucleotide variant	NM_025114.4(CEP290):c.1429C>T (p.Arg477Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	523768
+single nucleotide variant	NM_025114.4(CEP290):c.1523-1G>T	80184	CEP290	Likely pathogenic	GRCh38	530919
+single nucleotide variant	NM_025114.4(CEP290):c.1078C>T (p.Arg360Ter)	80184	CEP290	Pathogenic	GRCh38	530911
+single nucleotide variant	NM_025114.4(CEP290):c.6135+2T>A	80184	CEP290	Likely pathogenic	GRCh38	546716
+single nucleotide variant	NM_025114.4(CEP290):c.4960C>T (p.Gln1654Ter)	80184	CEP290	Pathogenic	GRCh38	560436
+single nucleotide variant	NM_025114.4(CEP290):c.508A>T (p.Lys170Ter)	80184	CEP290	Pathogenic	GRCh38	578618
+single nucleotide variant	NM_025114.4(CEP290):c.2251C>T (p.Arg751Ter)	80184	CEP290	Pathogenic	GRCh38	585307
+single nucleotide variant	NM_025114.4(CEP290):c.4704+1G>T	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	591445
+single nucleotide variant	NM_025114.4(CEP290):c.1858G>T (p.Glu620Ter)	80184	CEP290	Pathogenic	GRCh38	591805
+single nucleotide variant	NM_025114.4(CEP290):c.2351T>A (p.Leu784Ter)	80184	CEP290	Likely pathogenic	GRCh38	620363
+single nucleotide variant	NM_025114.4(CEP290):c.5776C>T (p.Arg1926Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	635021
+single nucleotide variant	NM_025114.4(CEP290):c.1606C>T (p.Gln536Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	635030
+single nucleotide variant	NM_025114.4(CEP290):c.6871C>T (p.Gln2291Ter)	80184	CEP290	Pathogenic	GRCh38	636007
+single nucleotide variant	NM_025114.4(CEP290):c.5587-1G>C	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	636006
+single nucleotide variant	NM_025114.4(CEP290):c.5777G>C (p.Arg1926Pro)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	659046
+single nucleotide variant	NM_025114.4(CEP290):c.4186C>T (p.Gln1396Ter)	80184	CEP290	Pathogenic	GRCh38	643269
+single nucleotide variant	NM_025114.4(CEP290):c.4040G>A (p.Trp1347Ter)	80184	CEP290	Pathogenic	GRCh38	662882
+single nucleotide variant	NM_025114.4(CEP290):c.3802C>T (p.Gln1268Ter)	80184	CEP290	Pathogenic	GRCh38	665410
+single nucleotide variant	NM_025114.4(CEP290):c.1645C>T (p.Arg549Ter)	80184	CEP290	Pathogenic	GRCh38	654447
+single nucleotide variant	NM_025114.4(CEP290):c.1072C>T (p.Gln358Ter)	80184	CEP290	Pathogenic	GRCh38	639079
+single nucleotide variant	NM_025114.4(CEP290):c.322C>T (p.Arg108Ter)	80184	CEP290	Pathogenic	GRCh38	654881
+single nucleotide variant	NM_025114.4(CEP290):c.166C>T (p.Gln56Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	664921
+single nucleotide variant	NM_025114.4(CEP290):c.3104-5T>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	665874
+single nucleotide variant	NM_025114.4(CEP290):c.2456A>T (p.Gln819Leu)	80184	CEP290	Likely pathogenic	GRCh38	684613
+single nucleotide variant	NM_025114.4(CEP290):c.6271-8T>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	802875
+single nucleotide variant	NM_025114.4(CEP290):c.4704G>C (p.Glu1568Asp)	80184	CEP290	Likely pathogenic	GRCh38	802876
+single nucleotide variant	NM_025114.4(CEP290):c.1522+1G>C	80184	CEP290	Pathogenic	GRCh38	802878
+single nucleotide variant	NM_025114.4(CEP290):c.881C>G (p.Ser294Ter)	80184	CEP290	Pathogenic	GRCh38	802879
+single nucleotide variant	NM_025114.4(CEP290):c.14T>C (p.Ile5Thr)	80184	CEP290	Likely pathogenic	GRCh38	802881
+single nucleotide variant	NM_025114.4(CEP290):c.7048C>T (p.Gln2350Ter)	80184	CEP290	Pathogenic	GRCh38	806915
+single nucleotide variant	NM_025114.4(CEP290):c.628A>T (p.Lys210Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	806920
+single nucleotide variant	NM_025114.4(CEP290):c.5788A>T (p.Lys1930Ter)	80184	CEP290	Pathogenic	GRCh38	812264
+single nucleotide variant	NM_025114.4(CEP290):c.4029+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	813158
+single nucleotide variant	NM_025114.4(CEP290):c.102+1G>T	80184	CEP290	Pathogenic	GRCh38	813159
+single nucleotide variant	NM_025114.4(CEP290):c.829G>T (p.Glu277Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	813995
+single nucleotide variant	NM_025114.4(CEP290):c.297+1G>A	80184	CEP290	Pathogenic	GRCh38	829993
+single nucleotide variant	NM_025114.4(CEP290):c.6836T>A (p.Leu2279Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	858111
+single nucleotide variant	NM_025114.4(CEP290):c.6634G>T (p.Glu2212Ter)	80184	CEP290	Pathogenic	GRCh38	849268
+single nucleotide variant	NM_025114.4(CEP290):c.3593C>A (p.Ser1198Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	842853
+single nucleotide variant	NM_025114.4(CEP290):c.2605C>T (p.Gln869Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	843406
+single nucleotide variant	NM_025114.4(CEP290):c.1627G>T (p.Glu543Ter)	80184	CEP290	Pathogenic	GRCh38	844541
+single nucleotide variant	NM_025114.4(CEP290):c.367C>T (p.Gln123Ter)	80184	CEP290	Pathogenic	GRCh38	853824
+single nucleotide variant	NM_025114.4(CEP290):c.4030-2A>G	80184	CEP290	Likely pathogenic	GRCh38	839338
+single nucleotide variant	NM_025114.4(CEP290):c.1712-2A>T	80184	CEP290	Likely pathogenic	GRCh38	834368
+single nucleotide variant	NM_025114.4(CEP290):c.1189+1G>A	80184	CEP290	Pathogenic	GRCh38	857949
+single nucleotide variant	NM_025114.4(CEP290):c.3573+2T>C	80184	CEP290	Pathogenic	GRCh38	856191
+single nucleotide variant	NM_025114.4(CEP290):c.6892C>T (p.Gln2298Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	866450
+single nucleotide variant	NM_025114.4(CEP290):c.5254C>T (p.Arg1752Trp)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	866339
+single nucleotide variant	NM_025114.4(CEP290):c.4490C>A (p.Ser1497Ter)	80184	CEP290	Likely pathogenic	GRCh38	866451
+single nucleotide variant	NM_025114.4(CEP290):c.3220G>T (p.Glu1074Ter)	80184	CEP290	Likely pathogenic	GRCh38	866230
+single nucleotide variant	NM_025114.4(CEP290):c.2414T>C (p.Leu805Pro)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	866922
+single nucleotide variant	NM_025114.4(CEP290):c.6012-12T>A	80184	CEP290	Pathogenic	GRCh38	865762
+single nucleotide variant	NM_025114.4(CEP290):c.5586+1G>C	80184	CEP290	Likely pathogenic	GRCh38	866992
+single nucleotide variant	NM_025114.4(CEP290):c.2818-2A>G	80184	CEP290	Likely pathogenic	GRCh38	866227
+single nucleotide variant	NM_025114.4(CEP290):c.6797G>A (p.Trp2266Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	871058
+single nucleotide variant	NM_025114.4(CEP290):c.6031C>T (p.Arg2011Ter)	80184	CEP290	Pathogenic	GRCh38	871059
+single nucleotide variant	NM_025114.4(CEP290):c.1593C>A (p.Tyr531Ter)	80184	CEP290	Pathogenic	GRCh38	871408
+single nucleotide variant	NM_025114.4(CEP290):c.2T>A (p.Met1Lys)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	871409
+single nucleotide variant	NM_025114.4(CEP290):c.1A>G (p.Met1Val)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	871410
+single nucleotide variant	NM_025114.4(CEP290):c.6012-2A>G	80184	CEP290	Pathogenic	GRCh38	931558
+single nucleotide variant	NM_025114.4(CEP290):c.3811C>T (p.Arg1271Ter)	80184	CEP290	Pathogenic	GRCh38	950504
+single nucleotide variant	NM_025114.4(CEP290):c.3520C>T (p.Gln1174Ter)	80184	CEP290	Pathogenic	GRCh38	935922
+single nucleotide variant	NM_025114.4(CEP290):c.1753C>T (p.Gln585Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	934697
+single nucleotide variant	NM_025114.4(CEP290):c.338T>A (p.Leu113Ter)	80184	CEP290	Pathogenic	GRCh38	934120
+single nucleotide variant	NM_025114.4(CEP290):c.5709+1G>A	80184	CEP290	Pathogenic	GRCh38	941423
+single nucleotide variant	NM_025114.4(CEP290):c.3514C>T (p.Gln1172Ter)	80184	CEP290	Pathogenic	GRCh38	959128
+single nucleotide variant	NM_025114.4(CEP290):c.3240T>G (p.Tyr1080Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	963842
+single nucleotide variant	NM_025114.4(CEP290):c.1390G>T (p.Glu464Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	957911
+single nucleotide variant	NM_025114.4(CEP290):c.942+1G>C	80184	CEP290	Likely pathogenic	GRCh38	957827
+single nucleotide variant	NM_025114.4(CEP290):c.251-2A>G	80184	CEP290	Likely pathogenic	GRCh38	963762
+single nucleotide variant	NM_025114.4(CEP290):c.6135+1G>A	80184	CEP290	Pathogenic	GRCh38	977606
+single nucleotide variant	NM_025114.4(CEP290):c.5329C>T (p.Gln1777Ter)	80184	CEP290	Pathogenic	GRCh38	978630
+single nucleotide variant	NM_025114.4(CEP290):c.4714G>A (p.Glu1572Lys)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	982093
+single nucleotide variant	NM_025114.4(CEP290):c.6271-1G>A	80184	CEP290	Likely pathogenic	GRCh38	982525
+single nucleotide variant	NM_025114.4(CEP290):c.3847C>T (p.Gln1283Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	982526
+single nucleotide variant	NM_025114.4(CEP290):c.373G>T (p.Glu125Ter)	80184	CEP290	Pathogenic	GRCh38	986073
+single nucleotide variant	NM_025114.4(CEP290):c.5740G>T (p.Glu1914Ter)	80184	CEP290	Likely pathogenic	GRCh38	986971
+single nucleotide variant	NM_025114.4(CEP290):c.4714G>T (p.Glu1572Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	993032
+single nucleotide variant	NM_025114.4(CEP290):c.2217+2T>C	80184	CEP290	Likely pathogenic	GRCh38	1028871
+single nucleotide variant	NM_025114.4(CEP290):c.3934A>T (p.Arg1312Ter)	80184	CEP290	Pathogenic	GRCh38	1032904
+single nucleotide variant	NM_025114.4(CEP290):c.1523-412C>T	80184	CEP290	Likely pathogenic	GRCh38	1065719
+single nucleotide variant	NM_025114.4(CEP290):c.6357+1G>A	80184	CEP290	Likely pathogenic	GRCh38	1067477
+single nucleotide variant	NM_025114.4(CEP290):c.5586+1G>T	80184	CEP290	Likely pathogenic	GRCh38	1066717
+single nucleotide variant	NM_025114.4(CEP290):c.3309+2T>C	80184	CEP290	Likely pathogenic	GRCh38	1067937
+single nucleotide variant	NM_025114.4(CEP290):c.943-1G>C	80184	CEP290	Likely pathogenic	GRCh38	1067406
+single nucleotide variant	NM_025114.4(CEP290):c.7324G>T (p.Glu2442Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1071910
+single nucleotide variant	NM_025114.4(CEP290):c.7287T>A (p.Tyr2429Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1071318
+single nucleotide variant	NM_025114.4(CEP290):c.6994G>T (p.Glu2332Ter)	80184	CEP290	Pathogenic	GRCh38	1076926
+single nucleotide variant	NM_025114.4(CEP290):c.5941G>T (p.Glu1981Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1075391
+single nucleotide variant	NM_025114.4(CEP290):c.5197C>T (p.Gln1733Ter)	80184	CEP290	Pathogenic	GRCh38	1072258
+single nucleotide variant	NM_025114.4(CEP290):c.4195-1G>T	80184	CEP290	Pathogenic	GRCh38	1074738
+single nucleotide variant	NM_025114.4(CEP290):c.4090G>T (p.Glu1364Ter)	80184	CEP290	Pathogenic	GRCh38	1069582
+single nucleotide variant	NM_025114.4(CEP290):c.3925C>T (p.Gln1309Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1070250
+single nucleotide variant	NM_025114.4(CEP290):c.3922C>T (p.Gln1308Ter)	80184	CEP290	Pathogenic	GRCh38	1072859
+single nucleotide variant	NM_025114.4(CEP290):c.3334C>T (p.Gln1112Ter)	80184	CEP290	Pathogenic	GRCh38	1074721
+single nucleotide variant	NM_025114.4(CEP290):c.3310-2A>G	80184	CEP290	Pathogenic	GRCh38	1071206
+single nucleotide variant	NM_025114.4(CEP290):c.3022G>T (p.Glu1008Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1070079
+single nucleotide variant	NM_025114.4(CEP290):c.2254C>T (p.Gln752Ter)	80184	CEP290	Pathogenic	GRCh38	1070346
+single nucleotide variant	NM_025114.4(CEP290):c.1987A>T (p.Lys663Ter)	80184	CEP290	Pathogenic	GRCh38	1071061
+single nucleotide variant	NM_025114.4(CEP290):c.1165A>T (p.Lys389Ter)	80184	CEP290	Pathogenic	GRCh38	1075783
+single nucleotide variant	NM_025114.4(CEP290):c.1060C>T (p.Gln354Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1073200
+single nucleotide variant	NM_025114.4(CEP290):c.532C>T (p.Gln178Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1074154
+single nucleotide variant	NM_025114.4(CEP290):c.355C>T (p.Gln119Ter)	80184	CEP290	Pathogenic	GRCh38	1071814
+single nucleotide variant	NM_025114.4(CEP290):c.307C>T (p.Gln103Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1073163
+single nucleotide variant	NM_025114.4(CEP290):c.3085G>T (p.Glu1029Ter)	80184	CEP290	Likely pathogenic	GRCh38	1179041
+single nucleotide variant	NM_025114.4(CEP290):c.712G>T (p.Glu238Ter)	80184	CEP290	Pathogenic	GRCh38	1185813
+single nucleotide variant	NM_025114.4(CEP290):c.3167C>A (p.Ser1056Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1324056
+single nucleotide variant	NM_025114.4(CEP290):c.7198C>T (p.Gln2400Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1339724
+single nucleotide variant	NM_025114.4(CEP290):c.3013G>T (p.Glu1005Ter)	80184	CEP290	Pathogenic	GRCh38	1421735
+single nucleotide variant	NM_025114.4(CEP290):c.7264G>T (p.Glu2422Ter)	80184	CEP290	Pathogenic	GRCh38	1448988
+single nucleotide variant	NM_025114.4(CEP290):c.6769C>T (p.Gln2257Ter)	80184	CEP290	Pathogenic	GRCh38	1436801
+single nucleotide variant	NM_025114.4(CEP290):c.2483+1G>A	80184	CEP290	Likely pathogenic	GRCh38	1494607
+single nucleotide variant	NM_025114.4(CEP290):c.1318G>T (p.Glu440Ter)	80184	CEP290	Pathogenic	GRCh38	1396034
+single nucleotide variant	NM_025114.4(CEP290):c.102+2T>G	80184	CEP290	Likely pathogenic	GRCh38	1520674
+single nucleotide variant	NM_025114.4(CEP290):c.6841G>T (p.Glu2281Ter)	80184	CEP290	Pathogenic	GRCh38	1413904
+single nucleotide variant	NM_025114.4(CEP290):c.1798A>T (p.Lys600Ter)	80184	CEP290	Pathogenic	GRCh38	1452602
+single nucleotide variant	NM_025114.4(CEP290):c.6703G>T (p.Glu2235Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1453974
+single nucleotide variant	NM_025114.4(CEP290):c.1359+1G>A	80184	CEP290	Likely pathogenic	GRCh38	1501489
+single nucleotide variant	NM_025114.4(CEP290):c.251-1G>C	80184	CEP290	Likely pathogenic	GRCh38	1501221
+single nucleotide variant	NM_025114.4(CEP290):c.361G>T (p.Glu121Ter)	80184	CEP290	Pathogenic	GRCh38	1365659
+single nucleotide variant	NM_025114.4(CEP290):c.1247T>G (p.Leu416Ter)	80184	CEP290	Pathogenic	GRCh38	1459116
+single nucleotide variant	NM_025114.4(CEP290):c.3573+1G>T	80184	CEP290	Pathogenic	GRCh38	1459405
+single nucleotide variant	NM_025114.4(CEP290):c.2557C>T (p.Gln853Ter)	80184	CEP290	Pathogenic	GRCh38	1392389
+single nucleotide variant	NM_025114.4(CEP290):c.2902C>T (p.Gln968Ter)	80184	CEP290	Pathogenic	GRCh38	1449496
+single nucleotide variant	NM_025114.4(CEP290):c.6187A>T (p.Lys2063Ter)	80184	CEP290	Pathogenic	GRCh38	1368057
+single nucleotide variant	NM_025114.4(CEP290):c.3493C>T (p.Gln1165Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1451514
+single nucleotide variant	NM_025114.4(CEP290):c.3573+1G>C	80184	CEP290	Pathogenic	GRCh38	1506713
+single nucleotide variant	NM_025114.4(CEP290):c.985C>T (p.Gln329Ter)	80184	CEP290	Pathogenic	GRCh38	1453266
+single nucleotide variant	NM_025114.4(CEP290):c.1405A>T (p.Lys469Ter)	80184	CEP290	Pathogenic	GRCh38	1453385
+single nucleotide variant	NM_025114.4(CEP290):c.730G>T (p.Glu244Ter)	80184	CEP290	Pathogenic	GRCh38	1451938
+single nucleotide variant	NM_025114.4(CEP290):c.6439G>T (p.Glu2147Ter)	80184	CEP290	Pathogenic	GRCh38	1454724
+single nucleotide variant	NM_025114.4(CEP290):c.2367+2T>C	80184	CEP290	Likely pathogenic	GRCh38	1481957
+single nucleotide variant	NM_025114.4(CEP290):c.2368-1G>T	80184	CEP290	Pathogenic	GRCh38	1426451
+single nucleotide variant	NM_025114.4(CEP290):c.4705G>T (p.Glu1569Ter)	80184	CEP290	Pathogenic	GRCh38	1453700
+single nucleotide variant	NM_025114.4(CEP290):c.5854A>T (p.Lys1952Ter)	80184	CEP290	Pathogenic	GRCh38	1453772
+single nucleotide variant	NM_025114.4(CEP290):c.942+1G>A	80184	CEP290	Likely pathogenic	GRCh38	1508987
+single nucleotide variant	NM_025114.4(CEP290):c.1065+1G>C	80184	CEP290	Likely pathogenic	GRCh38	1511949
+single nucleotide variant	NM_025114.4(CEP290):c.6961-1G>T	80184	CEP290	Likely pathogenic	GRCh38	1346749
+single nucleotide variant	NM_025114.4(CEP290):c.4763T>G (p.Leu1588Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1401867
+single nucleotide variant	NM_025114.4(CEP290):c.661G>T (p.Glu221Ter)	80184	CEP290	Pathogenic	GRCh38	1428871
+single nucleotide variant	NM_025114.4(CEP290):c.2887G>T (p.Glu963Ter)	80184	CEP290	Pathogenic	GRCh38	1456189
+single nucleotide variant	NM_025114.4(CEP290):c.3240T>A (p.Tyr1080Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1385952
+single nucleotide variant	NM_025114.4(CEP290):c.181-1G>A	80184	CEP290	Likely pathogenic	GRCh38	1495394
+single nucleotide variant	NM_025114.4(CEP290):c.5962G>T (p.Glu1988Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1455287
+single nucleotide variant	NM_025114.4(CEP290):c.4812+1G>A	80184	CEP290	Likely pathogenic	GRCh38	1482889
+single nucleotide variant	NM_025114.4(CEP290):c.4651C>T (p.Gln1551Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1403957
+single nucleotide variant	NM_025114.4(CEP290):c.3G>A (p.Met1Ile)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1458468
+single nucleotide variant	NM_025114.4(CEP290):c.4825C>T (p.Gln1609Ter)	80184	CEP290	Pathogenic	GRCh38	1457867
+single nucleotide variant	NM_025114.4(CEP290):c.190C>T (p.Gln64Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1457893
+single nucleotide variant	NM_025114.4(CEP290):c.5632C>T (p.Gln1878Ter)	80184	CEP290	Pathogenic	GRCh38	1442346
+single nucleotide variant	NM_025114.4(CEP290):c.4041G>A (p.Trp1347Ter)	80184	CEP290	Pathogenic	GRCh38	1457307
+single nucleotide variant	NM_025114.4(CEP290):c.4945C>T (p.Gln1649Ter)	80184	CEP290	Pathogenic	GRCh38	1459869
+single nucleotide variant	NM_025114.4(CEP290):c.4194+2T>A	80184	CEP290	Likely pathogenic	GRCh38	1487578
+single nucleotide variant	NM_025114.4(CEP290):c.2140G>T (p.Glu714Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1406753
+single nucleotide variant	NM_025114.4(CEP290):c.742C>T (p.Gln248Ter)	80184	CEP290	Pathogenic	GRCh38	1365111
+single nucleotide variant	NM_025114.4(CEP290):c.3730G>T (p.Glu1244Ter)	80184	CEP290	Pathogenic	GRCh38	1420360
+single nucleotide variant	NM_025114.4(CEP290):c.4677T>G (p.Tyr1559Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1447314
+single nucleotide variant	NM_025114.4(CEP290):c.3205G>T (p.Glu1069Ter)	80184	CEP290	Pathogenic	GRCh38	1407629
+single nucleotide variant	NM_025114.4(CEP290):c.943-1G>A	80184	CEP290	Likely pathogenic	GRCh38	1492389
+single nucleotide variant	NM_025114.4(CEP290):c.297+2T>C	80184	CEP290	Pathogenic	GRCh38	1675509
+single nucleotide variant	NM_025114.4(CEP290):c.5582T>A (p.Leu1861Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1677235
+single nucleotide variant	NM_025114.4(CEP290):c.2499G>A (p.Trp833Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1696399
+single nucleotide variant	NM_025114.4(CEP290):c.2992-2A>T	80184	CEP290	Likely pathogenic	GRCh38	1723245
+single nucleotide variant	NM_025114.4(CEP290):c.2506G>T (p.Glu836Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1806014
+single nucleotide variant	NM_025114.4(CEP290):c.6640A>T (p.Lys2214Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2137394
+single nucleotide variant	NM_025114.4(CEP290):c.214G>T (p.Glu72Ter)	80184	CEP290	Pathogenic	GRCh38	2137398
+single nucleotide variant	NM_025114.4(CEP290):c.881C>A (p.Ser294Ter)	80184	CEP290	Pathogenic	GRCh38	2142594
+single nucleotide variant	NM_025114.4(CEP290):c.5953G>T (p.Glu1985Ter)	80184	CEP290	Pathogenic	GRCh38	2174672
+single nucleotide variant	NM_025114.4(CEP290):c.5709+2T>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2177340
+single nucleotide variant	NM_025114.4(CEP290):c.5584C>T (p.Gln1862Ter)	80184	CEP290	Pathogenic	GRCh38	2178878
+single nucleotide variant	NM_025114.4(CEP290):c.2217+1G>T	80184	CEP290	Likely pathogenic	GRCh38	2180428
+single nucleotide variant	NM_025114.4(CEP290):c.1681C>T (p.Gln561Ter)	80184	CEP290	Pathogenic	GRCh38	2179324
+single nucleotide variant	NM_025114.4(CEP290):c.853-2A>T	80184	CEP290	Likely pathogenic	GRCh38	2414059
+single nucleotide variant	NM_025114.4(CEP290):c.180G>A (p.Lys60=)	80184	CEP290	Pathogenic	GRCh38	1899461
+single nucleotide variant	NM_025114.4(CEP290):c.587C>G (p.Ser196Ter)	80184	CEP290	Pathogenic	GRCh38	1904180
+single nucleotide variant	NM_025114.4(CEP290):c.2191C>T (p.Gln731Ter)	80184	CEP290	Pathogenic	GRCh38	1929437
+single nucleotide variant	NM_025114.4(CEP290):c.1189+2T>C	80184	CEP290	Pathogenic	GRCh38	1929438
+single nucleotide variant	NM_025114.4(CEP290):c.4933A>T (p.Lys1645Ter)	80184	CEP290	Pathogenic	GRCh38	1925152
+single nucleotide variant	NM_025114.4(CEP290):c.1910-1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	1945139
+single nucleotide variant	NM_025114.4(CEP290):c.853-2A>G	80184	CEP290	Likely pathogenic	GRCh38	1951069
+single nucleotide variant	NM_025114.4(CEP290):c.1816C>T (p.Gln606Ter)	80184	CEP290	Pathogenic	GRCh38	1977386
+single nucleotide variant	NM_025114.4(CEP290):c.1501G>T (p.Glu501Ter)	80184	CEP290	Pathogenic	GRCh38	1991508
+single nucleotide variant	NM_025114.4(CEP290):c.5856-2A>C	80184	CEP290	Likely pathogenic	GRCh38	1993455
+single nucleotide variant	NM_025114.4(CEP290):c.457G>T (p.Glu153Ter)	80184	CEP290	Pathogenic	GRCh38	2000327
+single nucleotide variant	NM_025114.4(CEP290):c.2149C>T (p.Gln717Ter)	80184	CEP290	Pathogenic	GRCh38	1996299
+single nucleotide variant	NM_025114.4(CEP290):c.4069C>T (p.Gln1357Ter)	80184	CEP290	Pathogenic	GRCh38	1999862
+single nucleotide variant	NM_025114.4(CEP290):c.441+1G>C	80184	CEP290	Likely pathogenic	GRCh38	2001573
+single nucleotide variant	NM_025114.4(CEP290):c.6011+2T>G	80184	CEP290	Likely pathogenic	GRCh38	1996005
+single nucleotide variant	NM_025114.4(CEP290):c.5557C>T (p.Gln1853Ter)	80184	CEP290	Pathogenic	GRCh38	1999636
+single nucleotide variant	NM_025114.4(CEP290):c.3571C>T (p.Gln1191Ter)	80184	CEP290	Pathogenic	GRCh38	2000954
+single nucleotide variant	NM_025114.4(CEP290):c.4057G>T (p.Glu1353Ter)	80184	CEP290	Pathogenic	GRCh38	2015916
+single nucleotide variant	NM_025114.4(CEP290):c.5137G>T (p.Glu1713Ter)	80184	CEP290	Pathogenic	GRCh38	2018465
+single nucleotide variant	NM_025114.4(CEP290):c.817C>T (p.Gln273Ter)	80184	CEP290	Pathogenic	GRCh38	2007823
+single nucleotide variant	NM_025114.4(CEP290):c.4194+1G>C	80184	CEP290	Likely pathogenic	GRCh38	2020909
+single nucleotide variant	NM_025114.4(CEP290):c.3451G>T (p.Glu1151Ter)	80184	CEP290	Pathogenic	GRCh38	2026029
+single nucleotide variant	NM_025114.4(CEP290):c.442-1G>A	80184	CEP290	Likely pathogenic	GRCh38	2029561
+single nucleotide variant	NM_025114.4(CEP290):c.5098G>T (p.Glu1700Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2020336
+single nucleotide variant	NM_025114.4(CEP290):c.1065+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2034576
+single nucleotide variant	NM_025114.4(CEP290):c.2992-2A>C	80184	CEP290	Likely pathogenic	GRCh38	2040658
+single nucleotide variant	NM_025114.4(CEP290):c.3721A>T (p.Lys1241Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2033435
+single nucleotide variant	NM_025114.4(CEP290):c.2587-1G>T	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2038423
+single nucleotide variant	NM_025114.4(CEP290):c.102+2T>A	80184	CEP290	Likely pathogenic	GRCh38	2061784
+single nucleotide variant	NM_025114.4(CEP290):c.6270+2T>C	80184	CEP290	Likely pathogenic	GRCh38	2094614
+single nucleotide variant	NM_025114.4(CEP290):c.2737G>T (p.Glu913Ter)	80184	CEP290	Pathogenic	GRCh38	2101349
+single nucleotide variant	NM_025114.4(CEP290):c.1711+2T>A	80184	CEP290	Pathogenic	GRCh38	2088939
+single nucleotide variant	NM_025114.4(CEP290):c.6818+2T>C	80184	CEP290	Likely pathogenic	GRCh38	2094311
+single nucleotide variant	NM_025114.4(CEP290):c.5227-2A>G	80184	CEP290	Likely pathogenic	GRCh38	2093222
+single nucleotide variant	NM_025114.4(CEP290):c.6838A>T (p.Lys2280Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2114918
+single nucleotide variant	NM_025114.4(CEP290):c.4124T>A (p.Leu1375Ter)	80184	CEP290	Pathogenic	GRCh38	2111199
+single nucleotide variant	NM_025114.4(CEP290):c.250+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2123919
+single nucleotide variant	NM_025114.4(CEP290):c.5147C>A (p.Ser1716Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2127525
+single nucleotide variant	NM_025114.4(CEP290):c.6661G>T (p.Glu2221Ter)	80184	CEP290	Pathogenic	GRCh38	2125053
+single nucleotide variant	NM_025114.4(CEP290):c.3574-1G>A	80184	CEP290	Likely pathogenic	GRCh38	2120783
+single nucleotide variant	NM_025114.4(CEP290):c.7081C>T (p.Gln2361Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2429287
+single nucleotide variant	NM_025114.4(CEP290):c.4636C>T (p.Gln1546Ter)	80184	CEP290	Likely pathogenic	GRCh38	2439017
+single nucleotide variant	NM_025114.4(CEP290):c.297+3A>G	80184	CEP290	Likely pathogenic	GRCh38	2499182
+single nucleotide variant	NM_025114.4(CEP290):c.2992-1G>T	80184	CEP290	Likely pathogenic	GRCh38	2501259
+single nucleotide variant	NM_025114.4(CEP290):c.5726T>G (p.Leu1909Ter)	80184	CEP290	Pathogenic	GRCh38	2502417
+single nucleotide variant	NM_025114.4(CEP290):c.5824C>T (p.Gln1942Ter)	80184	CEP290	Pathogenic	GRCh38	2573848
+single nucleotide variant	NM_025114.4(CEP290):c.3574-2A>G	80184	CEP290	Likely pathogenic	GRCh38	2579360
+single nucleotide variant	NM_025114.4(CEP290):c.1039A>T (p.Lys347Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2680568
+single nucleotide variant	NM_025114.4(CEP290):c.6152C>G (p.Ser2051Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680575
+single nucleotide variant	NM_025114.4(CEP290):c.3310-1G>A	80184	CEP290	Pathogenic	GRCh38	2680576
+single nucleotide variant	NM_025114.4(CEP290):c.7024C>T (p.Gln2342Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2680578
+single nucleotide variant	NM_025114.4(CEP290):c.3739C>T (p.Gln1247Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680582
+single nucleotide variant	NM_025114.4(CEP290):c.4943C>G (p.Ser1648Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680584
+single nucleotide variant	NM_025114.4(CEP290):c.6226A>T (p.Lys2076Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680586
+single nucleotide variant	NM_025114.4(CEP290):c.1171G>T (p.Glu391Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680588
+single nucleotide variant	NM_025114.4(CEP290):c.2144T>G (p.Leu715Ter)	80184	CEP290	Pathogenic	GRCh38	2680594
+single nucleotide variant	NM_025114.4(CEP290):c.5012+2T>G	80184	CEP290	Likely pathogenic	GRCh38	2680595
+single nucleotide variant	NM_025114.4(CEP290):c.7209+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2680597
+single nucleotide variant	NM_025114.4(CEP290):c.5011C>T (p.Gln1671Ter)	80184	CEP290	Pathogenic	GRCh38	2680602
+single nucleotide variant	NM_025114.4(CEP290):c.6325G>T (p.Glu2109Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680603
+single nucleotide variant	NM_025114.4(CEP290):c.5794A>T (p.Lys1932Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680606
+single nucleotide variant	NM_025114.4(CEP290):c.2586+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680607
+single nucleotide variant	NM_025114.4(CEP290):c.7256C>G (p.Ser2419Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680608
+single nucleotide variant	NM_025114.4(CEP290):c.2478C>G (p.Tyr826Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680612
+single nucleotide variant	NM_025114.4(CEP290):c.3736G>T (p.Glu1246Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680613
+single nucleotide variant	NM_025114.4(CEP290):c.3418G>T (p.Glu1140Ter)	80184	CEP290	Pathogenic	GRCh38	2680614
+single nucleotide variant	NM_025114.4(CEP290):c.4897C>T (p.Gln1633Ter)	80184	CEP290	Pathogenic	GRCh38	2680615
+single nucleotide variant	NM_025114.4(CEP290):c.2218-2A>G	80184	CEP290	Likely pathogenic	GRCh38	2680616
+single nucleotide variant	NM_025114.4(CEP290):c.3200T>G (p.Leu1067Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680620
+single nucleotide variant	NM_025114.4(CEP290):c.1824+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680624
+single nucleotide variant	NM_025114.4(CEP290):c.5722G>T (p.Glu1908Ter)	80184	CEP290	Pathogenic	GRCh38	2680625
+single nucleotide variant	NM_025114.4(CEP290):c.2992-1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680630
+single nucleotide variant	NM_025114.4(CEP290):c.1909+1G>T	80184	CEP290	Likely pathogenic	GRCh38	2680632
+single nucleotide variant	NM_025114.4(CEP290):c.2217+2T>G	80184	CEP290	Likely pathogenic	GRCh38	2680633
+single nucleotide variant	NM_025114.4(CEP290):c.6270+1G>T	80184	CEP290	Likely pathogenic	GRCh38	2680634
+single nucleotide variant	NM_025114.4(CEP290):c.5855+2T>G	80184	CEP290	Likely pathogenic	GRCh38	2680636
+single nucleotide variant	NM_025114.4(CEP290):c.5012+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680638
+single nucleotide variant	NM_025114.4(CEP290):c.2569A>T (p.Lys857Ter)	80184	CEP290	Pathogenic	GRCh38	2680639
+single nucleotide variant	NM_025114.4(CEP290):c.5855+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680641
+single nucleotide variant	NM_025114.4(CEP290):c.4879G>T (p.Glu1627Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2680643
+single nucleotide variant	NM_025114.4(CEP290):c.3187G>T (p.Glu1063Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680645
+single nucleotide variant	NM_025114.4(CEP290):c.1495G>T (p.Glu499Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680646
+single nucleotide variant	NM_025114.4(CEP290):c.2991+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2680651
+single nucleotide variant	NM_025114.4(CEP290):c.3988G>T (p.Glu1330Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2680656
+single nucleotide variant	NM_025114.4(CEP290):c.1657A>T (p.Lys553Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680657
+single nucleotide variant	NM_025114.4(CEP290):c.584T>G (p.Leu195Ter)	80184	CEP290	Likely pathogenic	GRCh38	2680659
+single nucleotide variant	NM_025114.4(CEP290):c.180+1G>T	80184	CEP290	Pathogenic	GRCh38	2680665
+single nucleotide variant	NM_025114.4(CEP290):c.3309G>A (p.Glu1103=)	80184	CEP290	Pathogenic	GRCh38	2921796
+single nucleotide variant	NM_025114.4(CEP290):c.5092C>T (p.Gln1698Ter)	80184	CEP290	Pathogenic	GRCh38	2922063
+single nucleotide variant	NM_025114.4(CEP290):c.6916A>T (p.Arg2306Ter)	80184	CEP290	Pathogenic	GRCh38	2925497
+single nucleotide variant	NM_025114.4(CEP290):c.3265C>T (p.Gln1089Ter)	80184	CEP290	Pathogenic	GRCh38	2925498
+single nucleotide variant	NM_025114.4(CEP290):c.2695C>T (p.Gln899Ter)	80184	CEP290	Pathogenic	GRCh38	2925499
+single nucleotide variant	NM_025114.4(CEP290):c.2578G>T (p.Glu860Ter)	80184	CEP290	Pathogenic	GRCh38	2925500
+single nucleotide variant	NM_025114.4(CEP290):c.106G>T (p.Glu36Ter)	80184	CEP290	Pathogenic	GRCh38	2925501
+single nucleotide variant	NM_025114.4(CEP290):c.4990G>T (p.Glu1664Ter)	80184	CEP290	Pathogenic	GRCh38	2933630
+single nucleotide variant	NM_025114.4(CEP290):c.2052+1G>A	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2933822
+single nucleotide variant	NM_025114.4(CEP290):c.1360-1G>C	80184	CEP290	Likely pathogenic	GRCh38	2921305
+single nucleotide variant	NM_025114.4(CEP290):c.2258C>A (p.Ser753Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2921427
+single nucleotide variant	NM_025114.4(CEP290):c.5086C>T (p.Gln1696Ter)	80184	CEP290	Pathogenic	GRCh38	2930191
+single nucleotide variant	NM_025114.4(CEP290):c.4561G>T (p.Glu1521Ter)	80184	CEP290	Pathogenic	GRCh38	2922723
+single nucleotide variant	NM_025114.4(CEP290):c.6175C>T (p.Gln2059Ter)	80184	CEP290	Pathogenic	GRCh38	2924743
+single nucleotide variant	NM_025114.4(CEP290):c.3103+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2931324
+single nucleotide variant	NM_025114.4(CEP290):c.4916C>A (p.Ser1639Ter)	80184	CEP290	Pathogenic	GRCh38	2942633
+single nucleotide variant	NM_025114.4(CEP290):c.4453G>T (p.Glu1485Ter)	80184	CEP290	Pathogenic	GRCh38	2942993
+single nucleotide variant	NM_025114.4(CEP290):c.1585C>T (p.Gln529Ter)	80184	CEP290	Pathogenic	GRCh38	2944334
+single nucleotide variant	NM_025114.4(CEP290):c.2587-1G>A	80184	CEP290	Pathogenic	GRCh38	2944573
+single nucleotide variant	NM_025114.4(CEP290):c.1790T>A (p.Leu597Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2944713
+single nucleotide variant	NM_025114.4(CEP290):c.2455C>T (p.Gln819Ter)	80184	CEP290	Pathogenic	GRCh38	2937362
+single nucleotide variant	NM_025114.4(CEP290):c.3577C>T (p.Gln1193Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2938883
+single nucleotide variant	NM_025114.4(CEP290):c.2194C>T (p.Gln732Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2942390
+single nucleotide variant	NM_025114.4(CEP290):c.5221C>T (p.Gln1741Ter)	80184	CEP290	Pathogenic	GRCh38	2944049
+single nucleotide variant	NM_025114.4(CEP290):c.516+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2944126
+single nucleotide variant	NM_025114.4(CEP290):c.6076C>T (p.Gln2026Ter)	80184	CEP290	Pathogenic	GRCh38	2944194
+single nucleotide variant	NM_025114.4(CEP290):c.5416A>T (p.Lys1806Ter)	80184	CEP290	Pathogenic	GRCh38	2945619
+single nucleotide variant	NM_025114.4(CEP290):c.2817+1G>T	80184	CEP290	Likely pathogenic	GRCh38	2945826
+single nucleotide variant	NM_025114.4(CEP290):c.2484-2A>C	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2947348
+single nucleotide variant	NM_025114.4(CEP290):c.441+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2938467
+single nucleotide variant	NM_025114.4(CEP290):c.4576G>T (p.Glu1526Ter)	80184	CEP290	Pathogenic	GRCh38	2938642
+single nucleotide variant	NM_025114.4(CEP290):c.1232C>G (p.Ser411Ter)	80184	CEP290	Pathogenic	GRCh38	2941820
+single nucleotide variant	NM_025114.4(CEP290):c.297+1G>C	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2945512
+single nucleotide variant	NM_025114.4(CEP290):c.4384G>T (p.Glu1462Ter)	80184	CEP290	Pathogenic	GRCh38	2946922
+single nucleotide variant	NM_025114.4(CEP290):c.5754G>A (p.Trp1918Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2947028
+single nucleotide variant	NM_025114.4(CEP290):c.1163T>A (p.Leu388Ter)	80184	CEP290	Pathogenic	GRCh38	2938109
+single nucleotide variant	NM_025114.4(CEP290):c.2052+4A>T	80184	CEP290	Likely pathogenic	GRCh38	2944971
+single nucleotide variant	NM_025114.4(CEP290):c.4704+1G>A	80184	CEP290	Likely pathogenic	GRCh38	2946458
+single nucleotide variant	NM_025114.4(CEP290):c.2615C>A (p.Ser872Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	2946692
+single nucleotide variant	NM_025114.4(CEP290):c.4954G>T (p.Glu1652Ter)	80184	CEP290	Pathogenic	GRCh38	2948221
+single nucleotide variant	NM_025114.4(CEP290):c.2746A>T (p.Lys916Ter)	80184	CEP290	Pathogenic	GRCh38	2949621
+single nucleotide variant	NM_025114.4(CEP290):c.5013-1G>A	80184	CEP290	Likely pathogenic	GRCh38	2949064
+single nucleotide variant	NM_025114.4(CEP290):c.4322C>G (p.Ser1441Ter)	80184	CEP290	Pathogenic	GRCh38	2952569
+single nucleotide variant	NM_025114.4(CEP290):c.4798A>T (p.Lys1600Ter)	80184	CEP290	Pathogenic	GRCh38	2948937
+single nucleotide variant	NM_025114.4(CEP290):c.3992T>A (p.Leu1331Ter)	80184	CEP290	Pathogenic	GRCh38	2950458
+single nucleotide variant	NM_025114.4(CEP290):c.3573+1G>A	80184	CEP290	Pathogenic	GRCh38	2952406
+single nucleotide variant	NM_025114.4(CEP290):c.4812+1G>T	80184	CEP290	Likely pathogenic	GRCh38	2953519
+single nucleotide variant	NM_025114.4(CEP290):c.7130-1G>A	80184	CEP290	Likely pathogenic	GRCh38	2953572
+single nucleotide variant	NM_025114.4(CEP290):c.718A>T (p.Arg240Ter)	80184	CEP290	Pathogenic	GRCh38	2949864
+single nucleotide variant	NM_025114.4(CEP290):c.2554C>T (p.Gln852Ter)	80184	CEP290	Pathogenic	GRCh38	2949889
+single nucleotide variant	NM_025114.4(CEP290):c.3286G>T (p.Glu1096Ter)	80184	CEP290	Pathogenic	GRCh38	2951483
+single nucleotide variant	NM_025114.4(CEP290):c.4201G>T (p.Glu1401Ter)	80184	CEP290	Pathogenic	GRCh38	2953095
+single nucleotide variant	NM_025114.4(CEP290):c.850C>T (p.Gln284Ter)	80184	CEP290	Pathogenic	GRCh38	2953231
+single nucleotide variant	NM_025114.4(CEP290):c.3361G>T (p.Glu1121Ter)	80184	CEP290	Pathogenic	GRCh38	3028254
+single nucleotide variant	NM_025114.4(CEP290):c.1359+1G>T	80184	CEP290	Likely pathogenic	GRCh38	3067977
+single nucleotide variant	NM_025114.4(CEP290):c.6337A>T (p.Lys2113Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241086
+single nucleotide variant	NM_025114.4(CEP290):c.619C>T (p.Gln207Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241088
+single nucleotide variant	NM_025114.4(CEP290):c.1588C>T (p.Gln530Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241089
+single nucleotide variant	NM_025114.4(CEP290):c.2367+1G>A	80184	CEP290	Likely pathogenic	GRCh38	3241090
+single nucleotide variant	NM_025114.4(CEP290):c.7165G>T (p.Glu2389Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241093
+single nucleotide variant	NM_025114.4(CEP290):c.5402T>A (p.Leu1801Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241095
+single nucleotide variant	NM_025114.4(CEP290):c.844C>T (p.Gln282Ter)	80184	CEP290	Pathogenic	GRCh38	3241096
+single nucleotide variant	NM_025114.4(CEP290):c.3462-2A>G	80184	CEP290	Likely pathogenic	GRCh38	3241098
+single nucleotide variant	NM_025114.4(CEP290):c.5856-1G>T	80184	CEP290	Likely pathogenic	GRCh38	3241100
+single nucleotide variant	NM_025114.4(CEP290):c.7240G>T (p.Glu2414Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241103
+single nucleotide variant	NM_025114.4(CEP290):c.3461+2T>G	80184	CEP290	Likely pathogenic	GRCh38	3241104
+single nucleotide variant	NM_025114.4(CEP290):c.3664G>T (p.Glu1222Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241106
+single nucleotide variant	NM_025114.4(CEP290):c.3461+1G>C	80184	CEP290	Likely pathogenic	GRCh38	3241107
+single nucleotide variant	NM_025114.4(CEP290):c.7003C>T (p.Gln2335Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241108
+single nucleotide variant	NM_025114.4(CEP290):c.7035-1G>T	80184	CEP290	Likely pathogenic	GRCh38	3241109
+single nucleotide variant	NM_025114.4(CEP290):c.3016C>T (p.Gln1006Ter)	80184	CEP290	Likely pathogenic	GRCh38	3241115
+single nucleotide variant	NM_025114.4(CEP290):c.1360-2A>C	80184	CEP290	Likely pathogenic	GRCh38	3241128
+single nucleotide variant	NM_025114.4(CEP290):c.5674G>T (p.Val1892Leu)	80184	CEP290	Pathogenic	GRCh38	3249985
+single nucleotide variant	NM_025114.4(CEP290):c.3310-1G>C	80184	CEP290	Pathogenic	GRCh38	3250000
+single nucleotide variant	NM_025114.4(CEP290):c.982C>T (p.Gln328Ter)	80184	CEP290	Pathogenic	GRCh38	3250345
+single nucleotide variant	NM_025114.4(CEP290):c.5364+1G>A	80184	CEP290	Likely pathogenic	GRCh38	3255568
+single nucleotide variant	NM_025114.4(CEP290):c.6964A>T (p.Lys2322Ter)	80184	CEP290	Pathogenic	GRCh38	3575352
+single nucleotide variant	NM_025114.4(CEP290):c.6960+1G>A	80184	CEP290	Likely pathogenic	GRCh38	3575353
+single nucleotide variant	NM_025114.4(CEP290):c.6514A>T (p.Lys2172Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575368
+single nucleotide variant	NM_025114.4(CEP290):c.6358-2A>C	80184	CEP290	Likely pathogenic	GRCh38	3575373
+single nucleotide variant	NM_025114.4(CEP290):c.6270+1G>A	80184	CEP290	Likely pathogenic	GRCh38	3575374
+single nucleotide variant	NM_025114.4(CEP290):c.5881C>T (p.Gln1961Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575383
+single nucleotide variant	NM_025114.4(CEP290):c.5735G>A (p.Trp1912Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575385
+single nucleotide variant	NM_025114.4(CEP290):c.5710-2A>G	80184	CEP290	Likely pathogenic	GRCh38	3575386
+single nucleotide variant	NM_025114.4(CEP290):c.5659C>T (p.Gln1887Ter)	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	3575389
+single nucleotide variant	NM_025114.4(CEP290):c.5125C>T (p.Gln1709Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575399
+single nucleotide variant	NM_025114.4(CEP290):c.4957A>T (p.Arg1653Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575406
+single nucleotide variant	NM_025114.4(CEP290):c.3589A>T (p.Lys1197Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575430
+single nucleotide variant	NM_025114.4(CEP290):c.3200T>A (p.Leu1067Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575440
+single nucleotide variant	NM_025114.4(CEP290):c.2719G>T (p.Glu907Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575451
+single nucleotide variant	NM_025114.4(CEP290):c.2267C>A (p.Ser756Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575459
+single nucleotide variant	NM_025114.4(CEP290):c.1711G>T (p.Gly571Ter)	80184	CEP290	Likely pathogenic	GRCh38	3575468
+single nucleotide variant	NM_025114.4(CEP290):c.1624-1G>C	80184	CEP290	Likely pathogenic	GRCh38	3575470
+single nucleotide variant	NM_025114.4(CEP290):c.566C>G (p.Ser189Ter)	80184	CEP290	Pathogenic	GRCh38	3575490
+single nucleotide variant	NM_025114.4(CEP290):c.6502C>T (p.Gln2168Ter)	80184	CEP290	Pathogenic	GRCh38	3749629
+single nucleotide variant	NM_025114.4(CEP290):c.250+2T>G	80184	CEP290	Pathogenic	GRCh38	3753265
+single nucleotide variant	NM_025114.4(CEP290):c.6241C>T (p.Gln2081Ter)	80184	CEP290	Pathogenic	GRCh38	3754816
+single nucleotide variant	NM_025114.4(CEP290):c.4813-1G>C	80184	CEP290	Likely pathogenic	GRCh38	3755082
+single nucleotide variant	NM_025114.4(CEP290):c.4435G>T (p.Glu1479Ter)	80184	CEP290	Pathogenic	GRCh38	3751156
+single nucleotide variant	NM_025114.4(CEP290):c.4249C>T (p.Gln1417Ter)	80184	CEP290	Pathogenic	GRCh38	3754512
+single nucleotide variant	NM_025114.4(CEP290):c.7209+2T>G	80184	CEP290	Pathogenic/Likely pathogenic	GRCh38	3756390
+single nucleotide variant	NM_025114.4(CEP290):c.2587-2A>G	80184	CEP290	Pathogenic	GRCh38	3759172
+single nucleotide variant	NM_025114.4(CEP290):c.6985G>T (p.Glu2329Ter)	80184	CEP290	Pathogenic	GRCh38	3757534
+single nucleotide variant	NM_025114.4(CEP290):c.5013-2A>C	80184	CEP290	Likely pathogenic	GRCh38	3757652
+single nucleotide variant	NM_025114.4(CEP290):c.20G>A (p.Trp7Ter)	80184	CEP290	Pathogenic	GRCh38	3750098
+single nucleotide variant	NM_025114.4(CEP290):c.1820C>A (p.Ser607Ter)	80184	CEP290	Pathogenic	GRCh38	3750343
+single nucleotide variant	NM_025114.4(CEP290):c.1024C>T (p.Gln342Ter)	80184	CEP290	Pathogenic	GRCh38	3763789
+single nucleotide variant	NM_025114.4(CEP290):c.2818-657T>G	80184	CEP290	Pathogenic	GRCh38	3774377
+single nucleotide variant	NM_025114.4(CEP290):c.2848C>T (p.Gln950Ter)	80184	CEP290	Likely pathogenic	GRCh38	4064285
+single nucleotide variant	NM_025114.4(CEP290):c.2213T>A (p.Leu738Ter)	80184	CEP290	Likely pathogenic	GRCh38	4064304
+single nucleotide variant	NM_025114.4(CEP290):c.1636G>T (p.Glu546Ter)	80184	CEP290	Likely pathogenic	GRCh38	4081239
+single nucleotide variant	NM_025114.4(CEP290):c.1108C>T (p.Gln370Ter)	80184	CEP290	Likely pathogenic	GRCh38	4294525
+single nucleotide variant	NM_025114.4(CEP290):c.1909+1G>A	80184	CEP290	Likely pathogenic	GRCh38	4784297
+single nucleotide variant	NM_025114.4(CEP290):c.4018G>T (p.Gly1340Ter)	80184	CEP290	Pathogenic	GRCh38	4783905
+single nucleotide variant	NM_025114.4(CEP290):c.3985G>T (p.Glu1329Ter)	80184	CEP290	Pathogenic	GRCh38	4787147
+single nucleotide variant	NM_025114.4(CEP290):c.2498G>A (p.Trp833Ter)	80184	CEP290	Pathogenic	GRCh38	4794453
+single nucleotide variant	NM_025114.4(CEP290):c.4141G>T (p.Glu1381Ter)	80184	CEP290	Pathogenic	GRCh38	4791949
+single nucleotide variant	NM_025114.4(CEP290):c.102+1G>A	80184	CEP290	Likely pathogenic	GRCh38	4816192
+single nucleotide variant	NM_025114.4(CEP290):c.1672C>T (p.Gln558Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816193
+single nucleotide variant	NM_025114.4(CEP290):c.1910-2A>G	80184	CEP290	Pathogenic	GRCh38	4816194
+single nucleotide variant	NM_025114.4(CEP290):c.2052+1G>T	80184	CEP290	Pathogenic	GRCh38	4816195
+single nucleotide variant	NM_025114.4(CEP290):c.2483+1G>T	80184	CEP290	Likely pathogenic	GRCh38	4816198
+single nucleotide variant	NM_025114.4(CEP290):c.2483+2T>C	80184	CEP290	Likely pathogenic	GRCh38	4816199
+single nucleotide variant	NM_025114.4(CEP290):c.256C>T (p.Gln86Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816200
+single nucleotide variant	NM_025114.4(CEP290):c.3104-1G>C	80184	CEP290	Likely pathogenic	GRCh38	4816205
+single nucleotide variant	NM_025114.4(CEP290):c.34A>T (p.Lys12Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816208
+single nucleotide variant	NM_025114.4(CEP290):c.376C>T (p.Gln126Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816211
+single nucleotide variant	NM_025114.4(CEP290):c.392T>A (p.Leu131Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816213
+single nucleotide variant	NM_025114.4(CEP290):c.4183C>T (p.Gln1395Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816214
+single nucleotide variant	NM_025114.4(CEP290):c.4427C>A (p.Ser1476Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816216
+single nucleotide variant	NM_025114.4(CEP290):c.4677T>A (p.Tyr1559Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816218
+single nucleotide variant	NM_025114.4(CEP290):c.5332C>T (p.Gln1778Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816221
+single nucleotide variant	NM_025114.4(CEP290):c.5623G>T (p.Glu1875Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816227
+single nucleotide variant	NM_025114.4(CEP290):c.5709+1G>T	80184	CEP290	Likely pathogenic	GRCh38	4816228
+single nucleotide variant	NM_025114.4(CEP290):c.6135+1G>C	80184	CEP290	Likely pathogenic	GRCh38	4816231
+single nucleotide variant	NM_025114.4(CEP290):c.6817A>T (p.Arg2273Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816236
+single nucleotide variant	NM_025114.4(CEP290):c.7035-1G>C	80184	CEP290	Likely pathogenic	GRCh38	4816238
+single nucleotide variant	NM_025114.4(CEP290):c.7171C>T (p.Gln2391Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816239
+single nucleotide variant	NM_025114.4(CEP290):c.83T>A (p.Leu28Ter)	80184	CEP290	Likely pathogenic	GRCh38	4816241
+single nucleotide variant	NM_025114.4(CEP290):c.4705-2A>G	80184	CEP290	Likely pathogenic	GRCh38	4850357
+single nucleotide variant	NM_025114.4(CEP290):c.1513G>T (p.Glu505Ter)	80184	CEP290	Pathogenic	GRCh38	4853621

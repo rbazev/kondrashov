@@ -1,0 +1,405 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000478.6(ALPL):c.535G>A (p.Ala179Thr)	249	ALPL	Pathogenic	GRCh38	13662
+single nucleotide variant	NM_000478.6(ALPL):c.211C>T (p.Arg71Cys)	249	ALPL	Pathogenic	GRCh38	13663
+single nucleotide variant	NM_000478.6(ALPL):c.881A>C (p.Asp294Ala)	249	ALPL	Pathogenic	GRCh38	13664
+single nucleotide variant	NM_000478.6(ALPL):c.212G>C (p.Arg71Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13665
+single nucleotide variant	NM_000478.6(ALPL):c.620A>C (p.Gln207Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13666
+single nucleotide variant	NM_000478.6(ALPL):c.98C>T (p.Ala33Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13667
+single nucleotide variant	NM_000478.6(ALPL):c.892G>A (p.Glu298Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13669
+single nucleotide variant	NM_000478.6(ALPL):c.1133A>T (p.Asp378Val)	249	ALPL	Pathogenic	GRCh38	13671
+single nucleotide variant	NM_000478.6(ALPL):c.1001G>A (p.Gly334Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13672
+single nucleotide variant	NM_000478.6(ALPL):c.979T>C (p.Phe327Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13673
+single nucleotide variant	NM_000478.6(ALPL):c.407G>A (p.Arg136His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13675
+single nucleotide variant	NM_000478.6(ALPL):c.485G>T (p.Gly162Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13676
+single nucleotide variant	NM_000478.6(ALPL):c.346G>A (p.Ala116Thr)	249	ALPL	Pathogenic	GRCh38	13677
+single nucleotide variant	NM_000478.6(ALPL):c.648+1G>A	249	ALPL	Pathogenic	GRCh38	13678
+single nucleotide variant	NM_000478.6(ALPL):c.1250A>G (p.Asn417Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13679
+single nucleotide variant	NM_000478.6(ALPL):c.323C>T (p.Pro108Leu)	249	ALPL	Pathogenic	GRCh38	13680
+single nucleotide variant	NM_000478.6(ALPL):c.1366G>A (p.Gly456Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13681
+single nucleotide variant	NM_000478.6(ALPL):c.746G>T (p.Gly249Val)	249	ALPL	Pathogenic	GRCh38	13682
+single nucleotide variant	NM_000478.6(ALPL):c.526G>A (p.Ala176Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	13683
+single nucleotide variant	NM_000478.6(ALPL):c.814C>T (p.Arg272Cys)	249	ALPL	Pathogenic	GRCh38	13684
+single nucleotide variant	NM_000478.6(ALPL):c.215T>C (p.Ile72Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	188928
+single nucleotide variant	NM_000478.6(ALPL):c.542C>T (p.Ser181Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	188798
+single nucleotide variant	NM_000478.6(ALPL):c.667C>T (p.Arg223Trp)	249	ALPL	Pathogenic	GRCh38	189001
+single nucleotide variant	NM_000478.6(ALPL):c.791A>G (p.Lys264Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	188750
+single nucleotide variant	NM_000478.6(ALPL):c.809G>A (p.Trp270Ter)	249	ALPL	Pathogenic	GRCh38	189023
+single nucleotide variant	NM_000478.6(ALPL):c.871G>A (p.Glu291Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	188792
+single nucleotide variant	NM_000478.6(ALPL):c.891C>A (p.Tyr297Ter)	249	ALPL	Pathogenic	GRCh38	189102
+single nucleotide variant	NM_000478.6(ALPL):c.61+2T>G	249	ALPL	Likely pathogenic	GRCh38	370303
+single nucleotide variant	NM_000478.6(ALPL):c.88C>T (p.Arg30Ter)	249	ALPL	Pathogenic	GRCh38	370232
+single nucleotide variant	NM_000478.6(ALPL):c.130C>T (p.Gln44Ter)	249	ALPL	Pathogenic	GRCh38	370178
+single nucleotide variant	NM_000478.6(ALPL):c.297+2T>A	249	ALPL	Likely pathogenic	GRCh38	371477
+single nucleotide variant	NM_000478.6(ALPL):c.997+2T>G	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	371591
+single nucleotide variant	NM_000478.6(ALPL):c.998-2A>G	249	ALPL	Likely pathogenic	GRCh38	370603
+single nucleotide variant	NM_000478.6(ALPL):c.1144G>A (p.Val382Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	371163
+single nucleotide variant	NM_000478.6(ALPL):c.1363G>A (p.Gly455Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	371400
+single nucleotide variant	NM_000478.6(ALPL):c.1426G>T (p.Glu476Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	371313
+single nucleotide variant	NM_000478.6(ALPL):c.668G>A (p.Arg223Gln)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	381586
+single nucleotide variant	NM_000478.6(ALPL):c.227A>G (p.Gln76Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	381585
+single nucleotide variant	NM_000478.6(ALPL):c.1403C>T (p.Ala468Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	427766
+single nucleotide variant	NM_000478.6(ALPL):c.340G>A (p.Ala114Thr)	249	ALPL	Pathogenic	GRCh38	449399
+single nucleotide variant	NM_000478.6(ALPL):c.815G>A (p.Arg272His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	495882
+single nucleotide variant	NM_000478.6(ALPL):c.188G>T (p.Gly63Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	500024
+single nucleotide variant	NM_000478.6(ALPL):c.550C>T (p.Arg184Trp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	521379
+single nucleotide variant	NM_000478.6(ALPL):c.87G>A (p.Trp29Ter)	249	ALPL	Pathogenic	GRCh38	551645
+single nucleotide variant	NM_000478.6(ALPL):c.497C>T (p.Thr166Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	558036
+single nucleotide variant	NM_000478.6(ALPL):c.262G>A (p.Glu88Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	550163
+single nucleotide variant	NM_000478.6(ALPL):c.422C>A (p.Thr141Asn)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	551980
+single nucleotide variant	NM_000478.6(ALPL):c.862+1G>A	249	ALPL	Pathogenic	GRCh38	553756
+single nucleotide variant	NM_000478.6(ALPL):c.1039C>T (p.Gln347Ter)	249	ALPL	Pathogenic	GRCh38	550707
+single nucleotide variant	NM_000478.6(ALPL):c.318G>C (p.Gln106His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	553805
+single nucleotide variant	NM_000478.6(ALPL):c.368C>A (p.Ala123Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	555231
+single nucleotide variant	NM_000478.6(ALPL):c.407G>C (p.Arg136Pro)	249	ALPL	Likely pathogenic	GRCh38	551666
+single nucleotide variant	NM_000478.6(ALPL):c.1333T>C (p.Ser445Pro)	249	ALPL	Pathogenic	GRCh38	552418
+single nucleotide variant	NM_000478.6(ALPL):c.1375G>T (p.Val459Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	558598
+single nucleotide variant	NM_000478.6(ALPL):c.334G>A (p.Gly112Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	549969
+single nucleotide variant	NM_000478.6(ALPL):c.629A>G (p.His210Arg)	249	ALPL	Likely pathogenic	GRCh38	556859
+single nucleotide variant	NM_000478.6(ALPL):c.670A>G (p.Lys224Glu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	550127
+single nucleotide variant	NM_000478.6(ALPL):c.1042G>A (p.Ala348Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	555880
+single nucleotide variant	NM_000478.6(ALPL):c.1132G>C (p.Asp378His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	556746
+single nucleotide variant	NM_000478.6(ALPL):c.1324C>T (p.Gln442Ter)	249	ALPL	Likely pathogenic	GRCh38	551920
+single nucleotide variant	NM_000478.6(ALPL):c.1375G>A (p.Val459Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	554044
+single nucleotide variant	NM_000478.6(ALPL):c.880G>T (p.Asp294Tyr)	249	ALPL	Likely pathogenic	GRCh38	553092
+single nucleotide variant	NM_000478.6(ALPL):c.1010A>G (p.Asp337Gly)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	553154
+single nucleotide variant	NM_000478.6(ALPL):c.1471G>A (p.Gly491Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	551446
+single nucleotide variant	NM_000478.6(ALPL):c.658G>A (p.Gly220Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	554408
+single nucleotide variant	NM_000478.6(ALPL):c.661G>C (p.Gly221Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	558588
+single nucleotide variant	NM_000478.6(ALPL):c.1171C>T (p.Arg391Cys)	249	ALPL	Pathogenic	GRCh38	550442
+single nucleotide variant	NM_000478.6(ALPL):c.1172G>A (p.Arg391His)	249	ALPL	Pathogenic	GRCh38	550626
+single nucleotide variant	NM_000478.6(ALPL):c.1285G>A (p.Glu429Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	558387
+single nucleotide variant	NM_000478.6(ALPL):c.1460C>T (p.Ala487Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	556895
+single nucleotide variant	NM_000478.6(ALPL):c.994G>T (p.Glu332Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	591139
+single nucleotide variant	NM_000478.6(ALPL):c.395C>T (p.Ala132Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	594951
+single nucleotide variant	NM_000478.6(ALPL):c.1142A>G (p.His381Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	623122
+single nucleotide variant	NM_000478.6(ALPL):c.923C>G (p.Ser308Ter)	249	ALPL	Pathogenic	GRCh38	661538
+single nucleotide variant	NM_000478.6(ALPL):c.299C>T (p.Thr100Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	812034
+single nucleotide variant	NM_000478.6(ALPL):c.331G>A (p.Ala111Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	829876
+single nucleotide variant	NM_000478.6(ALPL):c.1417G>A (p.Gly473Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	845286
+single nucleotide variant	NM_000478.6(ALPL):c.1426G>A (p.Glu476Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	844755
+single nucleotide variant	NM_000478.6(ALPL):c.997+1G>T	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	853798
+single nucleotide variant	NM_000478.6(ALPL):c.1282C>T (p.Arg428Ter)	249	ALPL	Pathogenic	GRCh38	929188
+single nucleotide variant	NM_000478.6(ALPL):c.571G>T (p.Glu191Ter)	249	ALPL	Pathogenic	GRCh38	931472
+single nucleotide variant	NM_000478.6(ALPL):c.1400T>C (p.Met467Thr)	249	ALPL	Likely pathogenic	GRCh38	930908
+single nucleotide variant	NM_000478.6(ALPL):c.997+2T>A	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	930227
+single nucleotide variant	NM_000478.6(ALPL):c.824T>C (p.Leu275Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	943632
+single nucleotide variant	NM_000478.6(ALPL):c.1077C>G (p.Ile359Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	940683
+single nucleotide variant	NM_000478.6(ALPL):c.1162T>C (p.Tyr388His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	937925
+single nucleotide variant	NM_000478.6(ALPL):c.406C>T (p.Arg136Cys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	964572
+single nucleotide variant	NM_000478.6(ALPL):c.949A>T (p.Ile317Phe)	249	ALPL	Likely pathogenic	GRCh38	960105
+single nucleotide variant	NM_000478.6(ALPL):c.575T>C (p.Met192Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	968006
+single nucleotide variant	NM_000478.6(ALPL):c.1348C>T (p.Arg450Cys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	971527
+single nucleotide variant	NM_000478.6(ALPL):c.94C>T (p.Gln32Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	974971
+single nucleotide variant	NM_000478.6(ALPL):c.119C>T (p.Ala40Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	975919
+single nucleotide variant	NM_000478.6(ALPL):c.500C>A (p.Thr167Lys)	249	ALPL	Likely pathogenic	GRCh38	975889
+single nucleotide variant	NM_000478.6(ALPL):c.500C>T (p.Thr167Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	975901
+single nucleotide variant	NM_000478.6(ALPL):c.1190-2A>T	249	ALPL	Pathogenic	GRCh38	976090
+single nucleotide variant	NM_000478.6(ALPL):c.617A>G (p.Tyr206Cys)	249	ALPL	Likely pathogenic	GRCh38	978707
+single nucleotide variant	NM_000478.6(ALPL):c.738G>T (p.Arg246Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	984475
+single nucleotide variant	NM_000478.6(ALPL):c.1283G>C (p.Arg428Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	992375
+single nucleotide variant	NM_000478.6(ALPL):c.1022A>G (p.His341Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1003680
+single nucleotide variant	NM_000478.6(ALPL):c.1415A>G (p.His472Arg)	249	ALPL	Likely pathogenic	GRCh38	1003872
+single nucleotide variant	NM_000478.6(ALPL):c.1228T>C (p.Phe410Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1020192
+single nucleotide variant	NM_000478.6(ALPL):c.1328C>T (p.Ala443Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1030812
+single nucleotide variant	NM_000478.6(ALPL):c.655A>G (p.Met219Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1047062
+single nucleotide variant	NM_000478.6(ALPL):c.661G>T (p.Gly221Cys)	249	ALPL	Likely pathogenic	GRCh38	1035693
+single nucleotide variant	NM_000478.6(ALPL):c.335G>C (p.Gly112Ala)	249	ALPL	Pathogenic	GRCh38	1064140
+single nucleotide variant	NM_000478.6(ALPL):c.508A>G (p.Asn170Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1067343
+single nucleotide variant	NM_000478.6(ALPL):c.1145T>A (p.Val382Asp)	249	ALPL	Likely pathogenic	GRCh38	1066326
+single nucleotide variant	NM_000478.6(ALPL):c.182-2A>G	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076697
+single nucleotide variant	NM_000478.6(ALPL):c.203C>T (p.Thr68Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076060
+single nucleotide variant	NM_000478.6(ALPL):c.212G>A (p.Arg71His)	249	ALPL	Pathogenic	GRCh38	1070177
+single nucleotide variant	NM_000478.6(ALPL):c.223G>A (p.Gly75Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1070178
+single nucleotide variant	NM_000478.6(ALPL):c.303C>A (p.Tyr101Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076087
+single nucleotide variant	NM_000478.6(ALPL):c.484G>A (p.Gly162Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076159
+single nucleotide variant	NM_000478.6(ALPL):c.532T>C (p.Tyr178His)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076160
+single nucleotide variant	NM_000478.6(ALPL):c.558G>A (p.Trp186Ter)	249	ALPL	Pathogenic	GRCh38	1073912
+single nucleotide variant	NM_000478.6(ALPL):c.659G>C (p.Gly220Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1076161
+single nucleotide variant	NM_000478.6(ALPL):c.886C>T (p.Gln296Ter)	249	ALPL	Pathogenic	GRCh38	1071140
+single nucleotide variant	NM_000478.6(ALPL):c.976G>C (p.Gly326Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1074126
+single nucleotide variant	NM_000478.6(ALPL):c.997G>T (p.Gly333Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1074643
+single nucleotide variant	NM_000478.6(ALPL):c.1240C>A (p.Leu414Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1072423
+single nucleotide variant	NM_000478.6(ALPL):c.1166C>A (p.Thr389Asn)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1224321
+single nucleotide variant	NM_000478.6(ALPL):c.657G>T (p.Met219Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1224381
+single nucleotide variant	NM_000478.6(ALPL):c.1427A>C (p.Glu476Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1300140
+single nucleotide variant	NM_000478.6(ALPL):c.874C>A (p.Pro292Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1323883
+single nucleotide variant	NM_000478.6(ALPL):c.542C>G (p.Ser181Trp)	249	ALPL	Likely pathogenic	GRCh38	1327158
+single nucleotide variant	NM_000478.6(ALPL):c.1479C>A (p.Asn493Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1327508
+single nucleotide variant	NM_000478.6(ALPL):c.1360C>T (p.His454Tyr)	249	ALPL	Likely pathogenic	GRCh38	1334593
+single nucleotide variant	NM_000478.6(ALPL):c.361G>A (p.Val121Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1334794
+single nucleotide variant	NM_000478.6(ALPL):c.601T>C (p.Cys201Arg)	249	ALPL	Likely pathogenic	GRCh38	1334795
+single nucleotide variant	NM_000478.6(ALPL):c.214A>G (p.Ile72Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1334796
+single nucleotide variant	NM_000478.6(ALPL):c.247G>T (p.Glu83Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1339258
+single nucleotide variant	NM_000478.6(ALPL):c.1418G>A (p.Gly473Asp)	249	ALPL	Likely pathogenic	GRCh38	1344542
+single nucleotide variant	NM_000478.6(ALPL):c.284T>A (p.Val95Glu)	249	ALPL	Likely pathogenic	GRCh38	1476440
+single nucleotide variant	NM_000478.6(ALPL):c.1A>G (p.Met1Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1382079
+single nucleotide variant	NM_000478.6(ALPL):c.346G>T (p.Ala116Ser)	249	ALPL	Likely pathogenic	GRCh38	1466600
+single nucleotide variant	NM_000478.6(ALPL):c.551G>A (p.Arg184Gln)	249	ALPL	Pathogenic	GRCh38	1439050
+single nucleotide variant	NM_000478.6(ALPL):c.422C>T (p.Thr141Ile)	249	ALPL	Likely pathogenic	GRCh38	1465466
+single nucleotide variant	NM_000478.6(ALPL):c.536C>T (p.Ala179Val)	249	ALPL	Likely pathogenic	GRCh38	1520525
+single nucleotide variant	NM_000478.6(ALPL):c.395C>G (p.Ala132Gly)	249	ALPL	Likely pathogenic	GRCh38	1496301
+single nucleotide variant	NM_000478.6(ALPL):c.1183A>G (p.Ile395Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1452498
+single nucleotide variant	NM_000478.6(ALPL):c.1163A>G (p.Tyr388Cys)	249	ALPL	Likely pathogenic	GRCh38	1480030
+single nucleotide variant	NM_000478.6(ALPL):c.459G>A (p.Trp153Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1387764
+single nucleotide variant	NM_000478.6(ALPL):c.1367G>A (p.Gly456Glu)	249	ALPL	Likely pathogenic	GRCh38	1511003
+single nucleotide variant	NM_000478.6(ALPL):c.1427A>G (p.Glu476Gly)	249	ALPL	Likely pathogenic	GRCh38	1511156
+single nucleotide variant	NM_000478.6(ALPL):c.649-1G>A	249	ALPL	Likely pathogenic	GRCh38	1473817
+single nucleotide variant	NM_000478.6(ALPL):c.1007T>C (p.Ile336Thr)	249	ALPL	Likely pathogenic	GRCh38	1347877
+single nucleotide variant	NM_000478.6(ALPL):c.1367G>C (p.Gly456Ala)	249	ALPL	Pathogenic	GRCh38	1457398
+single nucleotide variant	NM_000478.6(ALPL):c.815G>T (p.Arg272Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1457567
+single nucleotide variant	NM_000478.6(ALPL):c.980T>G (p.Phe327Cys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1457572
+single nucleotide variant	NM_000478.6(ALPL):c.1231A>G (p.Thr411Ala)	249	ALPL	Pathogenic	GRCh38	1457576
+single nucleotide variant	NM_000478.6(ALPL):c.1402G>A (p.Ala468Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1457578
+single nucleotide variant	NM_000478.6(ALPL):c.1444C>A (p.His482Asn)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1457579
+single nucleotide variant	NM_000478.6(ALPL):c.1195G>T (p.Ala399Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1498560
+single nucleotide variant	NM_000478.6(ALPL):c.1268T>C (p.Val423Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1498590
+single nucleotide variant	NM_000478.6(ALPL):c.1130C>T (p.Ala377Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1472480
+single nucleotide variant	NM_000478.6(ALPL):c.1164C>A (p.Tyr388Ter)	249	ALPL	Pathogenic	GRCh38	1425963
+single nucleotide variant	NM_000478.6(ALPL):c.572A>G (p.Glu191Gly)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1455023
+single nucleotide variant	NM_000478.6(ALPL):c.1015G>A (p.Gly339Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1455036
+single nucleotide variant	NM_000478.6(ALPL):c.1120G>A (p.Val374Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1455037
+single nucleotide variant	NM_000478.6(ALPL):c.1276G>A (p.Gly426Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1455042
+single nucleotide variant	NM_000478.6(ALPL):c.1336G>A (p.Ala446Thr)	249	ALPL	Likely pathogenic	GRCh38	1510101
+single nucleotide variant	NM_000478.6(ALPL):c.1402G>T (p.Ala468Ser)	249	ALPL	Likely pathogenic	GRCh38	1510120
+single nucleotide variant	NM_000478.6(ALPL):c.1426G>C (p.Glu476Gln)	249	ALPL	Likely pathogenic	GRCh38	1347313
+single nucleotide variant	NM_000478.6(ALPL):c.1023T>A (p.His341Gln)	249	ALPL	Pathogenic	GRCh38	1458303
+single nucleotide variant	NM_000478.6(ALPL):c.118G>A (p.Ala40Thr)	249	ALPL	Likely pathogenic	GRCh38	1469393
+single nucleotide variant	NM_000478.6(ALPL):c.1354G>A (p.Glu452Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1405036
+single nucleotide variant	NM_000478.6(ALPL):c.394G>A (p.Ala132Thr)	249	ALPL	Likely pathogenic	GRCh38	1489679
+single nucleotide variant	NM_000478.6(ALPL):c.534C>A (p.Tyr178Ter)	249	ALPL	Pathogenic	GRCh38	1353756
+single nucleotide variant	NM_000478.6(ALPL):c.896T>C (p.Leu299Pro)	249	ALPL	Pathogenic	GRCh38	1435973
+single nucleotide variant	NM_000478.6(ALPL):c.931G>A (p.Glu311Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1436006
+single nucleotide variant	NM_000478.6(ALPL):c.1364G>A (p.Gly455Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1464855
+single nucleotide variant	NM_000478.6(ALPL):c.302A>G (p.Tyr101Cys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1679809
+single nucleotide variant	NM_000478.6(ALPL):c.889T>A (p.Tyr297Asn)	249	ALPL	Likely pathogenic	GRCh38	1679902
+single nucleotide variant	NM_000478.6(ALPL):c.705G>T (p.Glu235Asp)	249	ALPL	Likely pathogenic	GRCh38	1679948
+single nucleotide variant	NM_000478.6(ALPL):c.1376T>C (p.Val459Ala)	249	ALPL	Likely pathogenic	GRCh38	1686656
+single nucleotide variant	NM_000478.6(ALPL):c.1190G>T (p.Gly397Val)	249	ALPL	Likely pathogenic	GRCh38	1686657
+single nucleotide variant	NM_000478.6(ALPL):c.1051G>T (p.Glu351Ter)	249	ALPL	Likely pathogenic	GRCh38	1725008
+single nucleotide variant	NM_000478.6(ALPL):c.110T>C (p.Leu37Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2202712
+single nucleotide variant	NM_000478.6(ALPL):c.512A>G (p.His171Arg)	249	ALPL	Pathogenic	GRCh38	2202713
+single nucleotide variant	NM_000478.6(ALPL):c.662G>T (p.Gly221Val)	249	ALPL	Likely pathogenic	GRCh38	2202716
+single nucleotide variant	NM_000478.6(ALPL):c.871G>T (p.Glu291Ter)	249	ALPL	Pathogenic	GRCh38	2202717
+single nucleotide variant	NM_000478.6(ALPL):c.874C>T (p.Pro292Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2202718
+single nucleotide variant	NM_000478.6(ALPL):c.883A>G (p.Met295Val)	249	ALPL	Likely pathogenic	GRCh38	2202719
+single nucleotide variant	NM_000478.6(ALPL):c.1184T>C (p.Ile395Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2202722
+single nucleotide variant	NM_000478.6(ALPL):c.278C>T (p.Pro93Leu)	249	ALPL	Likely pathogenic	GRCh38	2414632
+single nucleotide variant	NM_000478.6(ALPL):c.1283G>A (p.Arg428Gln)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1916167
+single nucleotide variant	NM_000478.6(ALPL):c.518C>T (p.Thr173Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1928080
+single nucleotide variant	NM_000478.6(ALPL):c.1000G>A (p.Gly334Ser)	249	ALPL	Likely pathogenic	GRCh38	1932270
+single nucleotide variant	NM_000478.6(ALPL):c.1396C>G (p.Pro466Ala)	249	ALPL	Likely pathogenic	GRCh38	1968490
+single nucleotide variant	NM_000478.6(ALPL):c.517A>G (p.Thr173Ala)	249	ALPL	Likely pathogenic	GRCh38	1996668
+single nucleotide variant	NM_000478.6(ALPL):c.792+1G>C	249	ALPL	Likely pathogenic	GRCh38	2003520
+single nucleotide variant	NM_000478.6(ALPL):c.855C>G (p.Tyr285Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	1994421
+single nucleotide variant	NM_000478.6(ALPL):c.182G>A (p.Gly61Glu)	249	ALPL	Likely pathogenic	GRCh38	2012612
+single nucleotide variant	NM_000478.6(ALPL):c.1429C>A (p.Gln477Lys)	249	ALPL	Pathogenic	GRCh38	2021042
+single nucleotide variant	NM_000478.6(ALPL):c.1018C>T (p.His340Tyr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2032693
+single nucleotide variant	NM_000478.6(ALPL):c.1165A>C (p.Thr389Pro)	249	ALPL	Likely pathogenic	GRCh38	2021873
+single nucleotide variant	NM_000478.6(ALPL):c.681C>A (p.Tyr227Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2035636
+single nucleotide variant	NM_000478.6(ALPL):c.1240C>G (p.Leu414Val)	249	ALPL	Likely pathogenic	GRCh38	2111543
+single nucleotide variant	NM_000478.6(ALPL):c.386G>A (p.Gly129Glu)	249	ALPL	Likely pathogenic	GRCh38	2431806
+single nucleotide variant	NM_000478.6(ALPL):c.152C>T (p.Ala51Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2573416
+single nucleotide variant	NM_000478.6(ALPL):c.29T>C (p.Ile10Thr)	249	ALPL	Likely pathogenic	GRCh38	2573417
+single nucleotide variant	NM_000478.6(ALPL):c.1259G>C (p.Gly420Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2576975
+single nucleotide variant	NM_000478.6(ALPL):c.952C>T (p.Gln318Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2627376
+single nucleotide variant	NM_000478.6(ALPL):c.1022A>T (p.His341Leu)	249	ALPL	Likely pathogenic	GRCh38	2634721
+single nucleotide variant	NM_000478.6(ALPL):c.1161A>G (p.Gly387=)	249	ALPL	Likely pathogenic	GRCh38	2661899
+single nucleotide variant	NM_000478.6(ALPL):c.244G>A (p.Gly82Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2664685
+single nucleotide variant	NM_000478.6(ALPL):c.244G>C (p.Gly82Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2664863
+single nucleotide variant	NM_000478.6(ALPL):c.527C>T (p.Ala176Val)	249	ALPL	Likely pathogenic	GRCh38	2664865
+single nucleotide variant	NM_000478.6(ALPL):c.1328C>G (p.Ala443Gly)	249	ALPL	Likely pathogenic	GRCh38	2664877
+single nucleotide variant	NM_000478.6(ALPL):c.1247G>T (p.Gly416Val)	249	ALPL	Likely pathogenic	GRCh38	2664936
+single nucleotide variant	NM_000478.6(ALPL):c.1132G>T (p.Asp378Tyr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2664937
+single nucleotide variant	NM_000478.6(ALPL):c.1157G>A (p.Gly386Asp)	249	ALPL	Likely pathogenic	GRCh38	2664938
+single nucleotide variant	NM_000478.6(ALPL):c.659G>T (p.Gly220Val)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2664952
+single nucleotide variant	NM_000478.6(ALPL):c.511C>G (p.His171Asp)	249	ALPL	Likely pathogenic	GRCh38	2665006
+single nucleotide variant	NM_000478.6(ALPL):c.1259G>A (p.Gly420Asp)	249	ALPL	Likely pathogenic	GRCh38	2665102
+single nucleotide variant	NM_000478.6(ALPL):c.1258G>A (p.Gly420Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2665103
+single nucleotide variant	NM_000478.6(ALPL):c.707A>G (p.Tyr236Cys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2666835
+single nucleotide variant	NM_000478.6(ALPL):c.534C>G (p.Tyr178Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676497
+single nucleotide variant	NM_000478.6(ALPL):c.413G>C (p.Arg138Pro)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676516
+single nucleotide variant	NM_000478.6(ALPL):c.211C>A (p.Arg71Ser)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676552
+single nucleotide variant	NM_000478.6(ALPL):c.382G>A (p.Val128Met)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676585
+single nucleotide variant	NM_000478.6(ALPL):c.226C>T (p.Gln76Ter)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676587
+single nucleotide variant	NM_000478.6(ALPL):c.1277G>A (p.Gly426Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2676588
+single nucleotide variant	NM_000478.6(ALPL):c.648+1G>T	249	ALPL	Pathogenic	GRCh38	2676591
+single nucleotide variant	NM_000478.6(ALPL):c.351C>G (p.Tyr117Ter)	249	ALPL	Likely pathogenic	GRCh38	2676624
+single nucleotide variant	NM_000478.6(ALPL):c.1196C>T (p.Ala399Val)	249	ALPL	Likely pathogenic	GRCh38	2676678
+single nucleotide variant	NM_000478.6(ALPL):c.298-1G>A	249	ALPL	Pathogenic	GRCh38	2676694
+single nucleotide variant	NM_000478.6(ALPL):c.1489T>A (p.Cys497Ser)	249	ALPL	Likely pathogenic	GRCh38	2671573
+single nucleotide variant	NM_000478.6(ALPL):c.768G>A (p.Trp256Ter)	249	ALPL	Pathogenic	GRCh38	2671812
+single nucleotide variant	NM_000478.6(ALPL):c.802T>C (p.Phe268Leu)	249	ALPL	Likely pathogenic	GRCh38	2671815
+single nucleotide variant	NM_000478.6(ALPL):c.561C>A (p.Tyr187Ter)	249	ALPL	Pathogenic	GRCh38	2682631
+single nucleotide variant	NM_000478.6(ALPL):c.3G>C (p.Met1Ile)	249	ALPL	Pathogenic	GRCh38	2700107
+single nucleotide variant	NM_000478.6(ALPL):c.792+1G>A	249	ALPL	Likely pathogenic	GRCh38	2708731
+single nucleotide variant	NM_000478.6(ALPL):c.1267G>A (p.Val423Met)	249	ALPL	Likely pathogenic	GRCh38	2739618
+single nucleotide variant	NM_000478.6(ALPL):c.211C>G (p.Arg71Gly)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2733837
+single nucleotide variant	NM_000478.6(ALPL):c.443C>T (p.Thr148Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2733839
+single nucleotide variant	NM_000478.6(ALPL):c.919C>T (p.Pro307Ser)	249	ALPL	Likely pathogenic	GRCh38	2733843
+single nucleotide variant	NM_000478.6(ALPL):c.1016G>A (p.Gly339Glu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2733845
+single nucleotide variant	NM_000478.6(ALPL):c.1112C>T (p.Thr371Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2733849
+single nucleotide variant	NM_000478.6(ALPL):c.1217A>G (p.Asp406Gly)	249	ALPL	Likely pathogenic	GRCh38	2733852
+single nucleotide variant	NM_000478.6(ALPL):c.1468A>T (p.Ile490Phe)	249	ALPL	Likely pathogenic	GRCh38	2733856
+single nucleotide variant	NM_000478.6(ALPL):c.473-1G>A	249	ALPL	Likely pathogenic	GRCh38	2753212
+single nucleotide variant	NM_000478.6(ALPL):c.659G>A (p.Gly220Glu)	249	ALPL	Likely pathogenic	GRCh38	2761086
+single nucleotide variant	NM_000478.6(ALPL):c.529G>T (p.Ala177Ser)	249	ALPL	Likely pathogenic	GRCh38	2782530
+single nucleotide variant	NM_000478.6(ALPL):c.98C>G (p.Ala33Gly)	249	ALPL	Likely pathogenic	GRCh38	2779957
+single nucleotide variant	NM_000478.6(ALPL):c.881A>G (p.Asp294Gly)	249	ALPL	Likely pathogenic	GRCh38	2800155
+single nucleotide variant	NM_000478.6(ALPL):c.305A>T (p.Asn102Ile)	249	ALPL	Likely pathogenic	GRCh38	2793037
+single nucleotide variant	NM_000478.6(ALPL):c.1075A>G (p.Ile359Val)	249	ALPL	Likely pathogenic	GRCh38	2796307
+single nucleotide variant	NM_000478.6(ALPL):c.520C>T (p.Pro174Ser)	249	ALPL	Likely pathogenic	GRCh38	2811192
+single nucleotide variant	NM_000478.6(ALPL):c.1397C>G (p.Pro466Arg)	249	ALPL	Likely pathogenic	GRCh38	2816173
+single nucleotide variant	NM_000478.6(ALPL):c.1356G>T (p.Glu452Asp)	249	ALPL	Likely pathogenic	GRCh38	2820741
+single nucleotide variant	NM_000478.6(ALPL):c.550C>G (p.Arg184Gly)	249	ALPL	Likely pathogenic	GRCh38	2828679
+single nucleotide variant	NM_000478.6(ALPL):c.894G>T (p.Glu298Asp)	249	ALPL	Likely pathogenic	GRCh38	2823135
+single nucleotide variant	NM_000478.6(ALPL):c.784A>T (p.Arg262Ter)	249	ALPL	Pathogenic	GRCh38	2830075
+single nucleotide variant	NM_000478.6(ALPL):c.981C>G (p.Phe327Leu)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2840424
+single nucleotide variant	NM_000478.6(ALPL):c.862+2T>G	249	ALPL	Likely pathogenic	GRCh38	2831618
+single nucleotide variant	NM_000478.6(ALPL):c.187G>T (p.Gly63Cys)	249	ALPL	Likely pathogenic	GRCh38	2836742
+single nucleotide variant	NM_000478.6(ALPL):c.571G>C (p.Glu191Gln)	249	ALPL	Likely pathogenic	GRCh38	2846601
+single nucleotide variant	NM_000478.6(ALPL):c.1171C>A (p.Arg391Ser)	249	ALPL	Likely pathogenic	GRCh38	2851216
+single nucleotide variant	NM_000478.6(ALPL):c.716A>G (p.Asp239Gly)	249	ALPL	Likely pathogenic	GRCh38	2860473
+single nucleotide variant	NM_000478.6(ALPL):c.62-1G>A	249	ALPL	Likely pathogenic	GRCh38	2860222
+single nucleotide variant	NM_000478.6(ALPL):c.891C>G (p.Tyr297Ter)	249	ALPL	Pathogenic	GRCh38	2881811
+single nucleotide variant	NM_000478.6(ALPL):c.1241T>C (p.Leu414Pro)	249	ALPL	Likely pathogenic	GRCh38	2893967
+single nucleotide variant	NM_000478.6(ALPL):c.880G>A (p.Asp294Asn)	249	ALPL	Pathogenic	GRCh38	2890088
+single nucleotide variant	NM_000478.6(ALPL):c.344C>T (p.Thr115Ile)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	2900306
+single nucleotide variant	NM_000478.6(ALPL):c.1309+5G>A	249	ALPL	Likely pathogenic	GRCh38	3016826
+single nucleotide variant	NM_000478.6(ALPL):c.1327G>A (p.Ala443Thr)	249	ALPL	Likely pathogenic	GRCh38	3024105
+single nucleotide variant	NM_000478.6(ALPL):c.871G>C (p.Glu291Gln)	249	ALPL	Likely pathogenic	GRCh38	3024107
+single nucleotide variant	NM_000478.6(ALPL):c.173T>C (p.Leu58Pro)	249	ALPL	Likely pathogenic	GRCh38	3068278
+single nucleotide variant	NM_000478.6(ALPL):c.1465T>A (p.Cys489Ser)	249	ALPL	Pathogenic	GRCh38	3234084
+single nucleotide variant	NM_000478.6(ALPL):c.1322A>C (p.Tyr441Ser)	249	ALPL	Likely pathogenic	GRCh38	3234675
+single nucleotide variant	NM_000478.6(ALPL):c.319G>A (p.Val107Ile)	249	ALPL	Likely pathogenic	GRCh38	3235878
+single nucleotide variant	NM_000478.6(ALPL):c.583G>T (p.Glu195Ter)	249	ALPL	Likely pathogenic	GRCh38	3241860
+single nucleotide variant	NM_000478.6(ALPL):c.1156G>C (p.Gly386Arg)	249	ALPL	Likely pathogenic	GRCh38	3256537
+single nucleotide variant	NM_000478.6(ALPL):c.164T>A (p.Ile55Asn)	249	ALPL	Likely pathogenic	GRCh38	3363176
+single nucleotide variant	NM_000478.6(ALPL):c.181+1G>T	249	ALPL	Likely pathogenic	GRCh38	3370322
+single nucleotide variant	NM_000478.6(ALPL):c.804C>G (p.Phe268Leu)	249	ALPL	Likely pathogenic	GRCh38	3381202
+single nucleotide variant	NM_000478.6(ALPL):c.1466G>T (p.Cys489Phe)	249	ALPL	Pathogenic	GRCh38	3381203
+single nucleotide variant	NM_000478.6(ALPL):c.1150A>C (p.Thr384Pro)	249	ALPL	Likely pathogenic	GRCh38	3383143
+single nucleotide variant	NM_000478.6(ALPL):c.662G>C (p.Gly221Ala)	249	ALPL	Likely pathogenic	GRCh38	3580017
+single nucleotide variant	NM_000478.6(ALPL):c.677T>G (p.Met226Arg)	249	ALPL	Likely pathogenic	GRCh38	3580029
+single nucleotide variant	NM_000478.6(ALPL):c.678G>A (p.Met226Ile)	249	ALPL	Likely pathogenic	GRCh38	3580031
+single nucleotide variant	NM_000478.6(ALPL):c.708T>A (p.Tyr236Ter)	249	ALPL	Likely pathogenic	GRCh38	3580035
+single nucleotide variant	NM_000478.6(ALPL):c.62-1G>C	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3579701
+single nucleotide variant	NM_000478.6(ALPL):c.332C>T (p.Ala111Val)	249	ALPL	Likely pathogenic	GRCh38	3600321
+single nucleotide variant	NM_000478.6(ALPL):c.1015G>C (p.Gly339Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3629478
+single nucleotide variant	NM_000478.6(ALPL):c.197C>G (p.Thr66Arg)	249	ALPL	Likely pathogenic	GRCh38	3633515
+single nucleotide variant	NM_000478.6(ALPL):c.401C>G (p.Thr134Ser)	249	ALPL	Likely pathogenic	GRCh38	3633517
+single nucleotide variant	NM_000478.6(ALPL):c.1223A>G (p.Lys408Arg)	249	ALPL	Pathogenic	GRCh38	3633518
+single nucleotide variant	NM_000478.6(ALPL):c.297+1G>T	249	ALPL	Pathogenic	GRCh38	3673513
+single nucleotide variant	NM_000478.6(ALPL):c.2T>C (p.Met1Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3676992
+single nucleotide variant	NM_000478.6(ALPL):c.916G>T (p.Asp306Tyr)	249	ALPL	Likely pathogenic	GRCh38	3687905
+single nucleotide variant	NM_000478.6(ALPL):c.181+1G>A	249	ALPL	Likely pathogenic	GRCh38	3688821
+single nucleotide variant	NM_000478.6(ALPL):c.305A>C (p.Asn102Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3701231
+single nucleotide variant	NM_000478.6(ALPL):c.1471G>C (p.Gly491Arg)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3713031
+single nucleotide variant	NM_000478.6(ALPL):c.781C>T (p.Pro261Ser)	249	ALPL	Likely pathogenic	GRCh38	3713118
+single nucleotide variant	NM_000478.6(ALPL):c.653T>C (p.Ile218Thr)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3720172
+single nucleotide variant	NM_000478.6(ALPL):c.1133A>G (p.Asp378Gly)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3720176
+single nucleotide variant	NM_000478.6(ALPL):c.1165A>G (p.Thr389Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3720177
+single nucleotide variant	NM_000478.6(ALPL):c.1366G>T (p.Gly456Trp)	249	ALPL	Likely pathogenic	GRCh38	3720179
+single nucleotide variant	NM_000478.6(ALPL):c.485G>A (p.Gly162Asp)	249	ALPL	Likely pathogenic	GRCh38	3717679
+single nucleotide variant	NM_000478.6(ALPL):c.463A>T (p.Lys155Ter)	249	ALPL	Pathogenic	GRCh38	3727633
+single nucleotide variant	NM_000478.6(ALPL):c.511C>T (p.His171Tyr)	249	ALPL	Pathogenic	GRCh38	3765634
+single nucleotide variant	NM_000478.6(ALPL):c.977G>T (p.Gly326Val)	249	ALPL	Likely pathogenic	GRCh38	3768042
+single nucleotide variant	NM_000478.6(ALPL):c.228G>T (p.Gln76His)	249	ALPL	Likely pathogenic	GRCh38	3768270
+single nucleotide variant	NM_000478.6(ALPL):c.182-1G>A	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3775111
+single nucleotide variant	NM_000478.6(ALPL):c.181+2T>C	249	ALPL	Likely pathogenic	GRCh38	3895604
+single nucleotide variant	NM_000478.6(ALPL):c.917A>T (p.Asp306Val)	249	ALPL	Pathogenic	GRCh38	3895919
+single nucleotide variant	NM_000478.6(ALPL):c.306C>A (p.Asn102Lys)	249	ALPL	Likely pathogenic	GRCh38	3897563
+single nucleotide variant	NM_000478.6(ALPL):c.82T>G (p.Tyr28Asp)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	3907173
+single nucleotide variant	NM_000478.6(ALPL):c.1334C>G (p.Ser445Cys)	249	ALPL	Likely pathogenic	GRCh38	4060121
+single nucleotide variant	NM_000478.6(ALPL):c.297+1G>A	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	4060211
+single nucleotide variant	NM_000478.6(ALPL):c.1307A>G (p.Tyr436Cys)	249	ALPL	Likely pathogenic	GRCh38	4060319
+single nucleotide variant	NM_000478.6(ALPL):c.317A>G (p.Gln106Arg)	249	ALPL	Likely pathogenic	GRCh38	4086794
+single nucleotide variant	NM_000478.6(ALPL):c.327C>A (p.Asp109Glu)	249	ALPL	Likely pathogenic	GRCh38	4086795
+single nucleotide variant	NM_000478.6(ALPL):c.334G>C (p.Gly112Arg)	249	ALPL	Likely pathogenic	GRCh38	4086796
+single nucleotide variant	NM_000478.6(ALPL):c.50C>T (p.Ser17Phe)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	4086798
+single nucleotide variant	NM_000478.6(ALPL):c.401C>A (p.Thr134Asn)	249	ALPL	Likely pathogenic	GRCh38	4086804
+single nucleotide variant	NM_000478.6(ALPL):c.407G>T (p.Arg136Leu)	249	ALPL	Likely pathogenic	GRCh38	4086805
+single nucleotide variant	NM_000478.6(ALPL):c.442A>G (p.Thr148Ala)	249	ALPL	Likely pathogenic	GRCh38	4086806
+single nucleotide variant	NM_000478.6(ALPL):c.457T>A (p.Trp153Arg)	249	ALPL	Likely pathogenic	GRCh38	4086808
+single nucleotide variant	NM_000478.6(ALPL):c.461C>T (p.Ala154Val)	249	ALPL	Likely pathogenic	GRCh38	4086809
+single nucleotide variant	NM_000478.6(ALPL):c.472+1G>A	249	ALPL	Pathogenic	GRCh38	4086811
+single nucleotide variant	NM_000478.6(ALPL):c.473-2A>G	249	ALPL	Pathogenic	GRCh38	4086813
+single nucleotide variant	NM_000478.6(ALPL):c.83A>G (p.Tyr28Cys)	249	ALPL	Pathogenic	GRCh38	4086815
+single nucleotide variant	NM_000478.6(ALPL):c.85T>C (p.Trp29Arg)	249	ALPL	Pathogenic	GRCh38	4086817
+single nucleotide variant	NM_000478.6(ALPL):c.562T>C (p.Ser188Pro)	249	ALPL	Pathogenic	GRCh38	4086818
+single nucleotide variant	NM_000478.6(ALPL):c.595C>T (p.Gln199Ter)	249	ALPL	Pathogenic	GRCh38	4086821
+single nucleotide variant	NM_000478.6(ALPL):c.634A>T (p.Ile212Phe)	249	ALPL	Likely pathogenic	GRCh38	4086823
+single nucleotide variant	NM_000478.6(ALPL):c.678G>T (p.Met226Ile)	249	ALPL	Likely pathogenic	GRCh38	4086826
+single nucleotide variant	NM_000478.6(ALPL):c.704A>G (p.Glu235Gly)	249	ALPL	Likely pathogenic	GRCh38	4086827
+single nucleotide variant	NM_000478.6(ALPL):c.708T>G (p.Tyr236Ter)	249	ALPL	Pathogenic	GRCh38	4086828
+single nucleotide variant	NM_000478.6(ALPL):c.862+1G>C	249	ALPL	Pathogenic	GRCh38	4086835
+single nucleotide variant	NM_000478.6(ALPL):c.863G>C (p.Gly288Ala)	249	ALPL	Likely pathogenic	GRCh38	4086838
+single nucleotide variant	NM_000478.6(ALPL):c.865C>T (p.Leu289Phe)	249	ALPL	Likely pathogenic	GRCh38	4086839
+single nucleotide variant	NM_000478.6(ALPL):c.870C>G (p.Phe290Leu)	249	ALPL	Likely pathogenic	GRCh38	4086840
+single nucleotide variant	NM_000478.6(ALPL):c.875C>T (p.Pro292Leu)	249	ALPL	Likely pathogenic	GRCh38	4086841
+single nucleotide variant	NM_000478.6(ALPL):c.885G>A (p.Met295Ile)	249	ALPL	Likely pathogenic	GRCh38	4086844
+single nucleotide variant	NM_000478.6(ALPL):c.889T>G (p.Tyr297Asp)	249	ALPL	Likely pathogenic	GRCh38	4086845
+single nucleotide variant	NM_000478.6(ALPL):c.889T>C (p.Tyr297His)	249	ALPL	Likely pathogenic	GRCh38	4086846
+single nucleotide variant	NM_000478.6(ALPL):c.982T>C (p.Phe328Leu)	249	ALPL	Likely pathogenic	GRCh38	4086850
+single nucleotide variant	NM_000478.6(ALPL):c.998-1G>A	249	ALPL	Pathogenic	GRCh38	4086851
+single nucleotide variant	NM_000478.6(ALPL):c.998-1G>T	249	ALPL	Pathogenic	GRCh38	4086852
+single nucleotide variant	NM_000478.6(ALPL):c.139A>C (p.Asn47His)	249	ALPL	Likely pathogenic	GRCh38	4086854
+single nucleotide variant	NM_000478.6(ALPL):c.1000G>C (p.Gly334Arg)	249	ALPL	Likely pathogenic	GRCh38	4086855
+single nucleotide variant	NM_000478.6(ALPL):c.1009G>A (p.Asp337Asn)	249	ALPL	Likely pathogenic	GRCh38	4086856
+single nucleotide variant	NM_000478.6(ALPL):c.1019A>C (p.His340Pro)	249	ALPL	Likely pathogenic	GRCh38	4086858
+single nucleotide variant	NM_000478.6(ALPL):c.1023T>G (p.His341Gln)	249	ALPL	Pathogenic	GRCh38	4086859
+single nucleotide variant	NM_000478.6(ALPL):c.1043C>A (p.Ala348Asp)	249	ALPL	Likely pathogenic	GRCh38	4086860
+single nucleotide variant	NM_000478.6(ALPL):c.1052A>G (p.Glu351Gly)	249	ALPL	Likely pathogenic	GRCh38	4086863
+single nucleotide variant	NM_000478.6(ALPL):c.1112C>A (p.Thr371Asn)	249	ALPL	Likely pathogenic	GRCh38	4086868
+single nucleotide variant	NM_000478.6(ALPL):c.1135C>A (p.His379Asn)	249	ALPL	Likely pathogenic	GRCh38	4086869
+single nucleotide variant	NM_000478.6(ALPL):c.1156G>T (p.Gly386Cys)	249	ALPL	Likely pathogenic	GRCh38	4086871
+single nucleotide variant	NM_000478.6(ALPL):c.1178A>G (p.Asn393Ser)	249	ALPL	Likely pathogenic	GRCh38	4086873
+single nucleotide variant	NM_000478.6(ALPL):c.3G>A (p.Met1Ile)	249	ALPL	Pathogenic	GRCh38	4086874
+single nucleotide variant	NM_000478.6(ALPL):c.1216G>A (p.Asp406Asn)	249	ALPL	Likely pathogenic	GRCh38	4086879
+single nucleotide variant	NM_000478.6(ALPL):c.182-2A>C	249	ALPL	Pathogenic	GRCh38	4086881
+single nucleotide variant	NM_000478.6(ALPL):c.1259G>T (p.Gly420Val)	249	ALPL	Likely pathogenic	GRCh38	4086883
+single nucleotide variant	NM_000478.6(ALPL):c.1277G>C (p.Gly426Ala)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	4086886
+single nucleotide variant	NM_000478.6(ALPL):c.1276G>T (p.Gly426Cys)	249	ALPL	Likely pathogenic	GRCh38	4086887
+single nucleotide variant	NM_000478.6(ALPL):c.1287G>T (p.Glu429Asp)	249	ALPL	Likely pathogenic	GRCh38	4086888
+single nucleotide variant	NM_000478.6(ALPL):c.1289A>G (p.Asn430Ser)	249	ALPL	Pathogenic	GRCh38	4086889
+single nucleotide variant	NM_000478.6(ALPL):c.1309+2T>C	249	ALPL	Pathogenic	GRCh38	4086891
+single nucleotide variant	NM_000478.6(ALPL):c.186G>C (p.Met62Ile)	249	ALPL	Pathogenic	GRCh38	4086893
+single nucleotide variant	NM_000478.6(ALPL):c.1323C>A (p.Tyr441Ter)	249	ALPL	Pathogenic	GRCh38	4086894
+single nucleotide variant	NM_000478.6(ALPL):c.1328C>A (p.Ala443Glu)	249	ALPL	Likely pathogenic	GRCh38	4086895
+single nucleotide variant	NM_000478.6(ALPL):c.186G>A (p.Met62Ile)	249	ALPL	Likely pathogenic	GRCh38	4086897
+single nucleotide variant	NM_000478.6(ALPL):c.1361A>G (p.His454Arg)	249	ALPL	Pathogenic	GRCh38	4086898
+single nucleotide variant	NM_000478.6(ALPL):c.1397C>T (p.Pro466Leu)	249	ALPL	Pathogenic	GRCh38	4086900
+single nucleotide variant	NM_000478.6(ALPL):c.184A>G (p.Met62Val)	249	ALPL	Likely pathogenic	GRCh38	4086902
+single nucleotide variant	NM_000478.6(ALPL):c.1433A>T (p.Asn478Ile)	249	ALPL	Pathogenic	GRCh38	4086903
+single nucleotide variant	NM_000478.6(ALPL):c.187G>C (p.Gly63Arg)	249	ALPL	Likely pathogenic	GRCh38	4086904
+single nucleotide variant	NM_000478.6(ALPL):c.1466G>C (p.Cys489Ser)	249	ALPL	Likely pathogenic	GRCh38	4086906
+single nucleotide variant	NM_000478.6(ALPL):c.1489T>C (p.Cys497Arg)	249	ALPL	Likely pathogenic	GRCh38	4086907
+single nucleotide variant	NM_000478.6(ALPL):c.1490G>A (p.Cys497Tyr)	249	ALPL	Likely pathogenic	GRCh38	4086908
+single nucleotide variant	NM_000478.6(ALPL):c.205G>A (p.Ala69Thr)	249	ALPL	Likely pathogenic	GRCh38	4086912
+single nucleotide variant	NM_000478.6(ALPL):c.224G>A (p.Gly75Asp)	249	ALPL	Likely pathogenic	GRCh38	4086915
+single nucleotide variant	NM_000478.6(ALPL):c.17T>A (p.Leu6Ter)	249	ALPL	Pathogenic	GRCh38	4086917
+single nucleotide variant	NM_000478.6(ALPL):c.250G>A (p.Glu84Lys)	249	ALPL	Pathogenic/Likely pathogenic	GRCh38	4086920
+single nucleotide variant	NM_000478.6(ALPL):c.251A>T (p.Glu84Val)	249	ALPL	Likely pathogenic	GRCh38	4086921
+single nucleotide variant	NM_000478.6(ALPL):c.253A>C (p.Thr85Pro)	249	ALPL	Likely pathogenic	GRCh38	4086922
+single nucleotide variant	NM_000478.6(ALPL):c.277C>T (p.Pro93Ser)	249	ALPL	Likely pathogenic	GRCh38	4086923
+single nucleotide variant	NM_000478.6(ALPL):c.298-2A>G	249	ALPL	Pathogenic	GRCh38	4086926
+single nucleotide variant	NM_000478.6(ALPL):c.298-1G>C	249	ALPL	Pathogenic	GRCh38	4086927
+single nucleotide variant	NM_000478.6(ALPL):c.301T>G (p.Tyr101Asp)	249	ALPL	Likely pathogenic	GRCh38	4086928
+single nucleotide variant	NM_000478.6(ALPL):c.622C>T (p.Leu208Phe)	249	ALPL	Likely pathogenic	GRCh38	4294345
+single nucleotide variant	NM_000478.6(ALPL):c.863-2A>G	249	ALPL	Likely pathogenic	GRCh38	4280611
+single nucleotide variant	NM_000478.6(ALPL):c.704A>T (p.Glu235Val)	249	ALPL	Likely pathogenic	GRCh38	4294344
+single nucleotide variant	NM_000478.6(ALPL):c.883A>C (p.Met295Leu)	249	ALPL	Likely pathogenic	GRCh38	4526606
+single nucleotide variant	NM_000478.6(ALPL):c.1151C>A (p.Thr384Lys)	249	ALPL	Likely pathogenic	GRCh38	4542551
+single nucleotide variant	NM_000478.6(ALPL):c.533A>G (p.Tyr178Cys)	249	ALPL	Pathogenic	GRCh38	4687950
+single nucleotide variant	NM_000478.6(ALPL):c.1339G>C (p.Val447Leu)	249	ALPL	Likely pathogenic	GRCh38	4707949
+single nucleotide variant	NM_000478.6(ALPL):c.882C>A (p.Asp294Glu)	249	ALPL	Likely pathogenic	GRCh38	4768519
+single nucleotide variant	NM_000478.6(ALPL):c.1129G>A (p.Ala377Thr)	249	ALPL	Likely pathogenic	GRCh38	4802043
+single nucleotide variant	NM_000478.6(ALPL):c.226C>G (p.Gln76Glu)	249	ALPL	Likely pathogenic	GRCh38	4799861
+single nucleotide variant	NM_000478.6(ALPL):c.437A>C (p.Glu146Ala)	249	ALPL	Likely pathogenic	GRCh38	4799863
+single nucleotide variant	NM_000478.6(ALPL):c.880G>C (p.Asp294His)	249	ALPL	Likely pathogenic	GRCh38	4799865
+single nucleotide variant	NM_000478.6(ALPL):c.917A>G (p.Asp306Gly)	249	ALPL	Likely pathogenic	GRCh38	4799866
+single nucleotide variant	NM_000478.6(ALPL):c.1021C>T (p.His341Tyr)	249	ALPL	Likely pathogenic	GRCh38	4799867
+single nucleotide variant	NM_000478.6(ALPL):c.1066G>T (p.Asp356Tyr)	249	ALPL	Pathogenic	GRCh38	4799870
+single nucleotide variant	NM_000478.6(ALPL):c.1178A>T (p.Asn393Ile)	249	ALPL	Likely pathogenic	GRCh38	4799872
+single nucleotide variant	NM_000478.6(ALPL):c.1179C>G (p.Asn393Lys)	249	ALPL	Likely pathogenic	GRCh38	4799873
+single nucleotide variant	NM_000478.6(ALPL):c.436G>T (p.Glu146Ter)	249	ALPL	Likely pathogenic	GRCh38	4818420
+single nucleotide variant	NM_000478.6(ALPL):c.1187T>C (p.Phe396Ser)	249	ALPL	Likely pathogenic	GRCh38	4819289
