@@ -1637,7 +1637,7 @@ def write_best_species_matches(gene, reference_seq, aligner, outfile):
         Reference Human sequence(s), from clinvar variants: (hum_sequences[0])
 
     """
-    infile = f"fasta/{gene}.fasta"
+    infile = f"fasta_lociii/{gene}.fasta"
     #outfile = f"fasta/{gene}_match.fasta"
 
     records = list(SeqIO.parse(infile, "fasta"))

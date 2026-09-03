@@ -14,11 +14,9 @@ The analysis has the following components:
 
 3. [find_closest.ipynb](find_closest_Mary.ipynb) Identify variants that are most similar to reference human protein within the various species
 
- 
+4. [align.ipynb](align.ipynb) align orthologous sequences in each `*.fasta` file and save it to a `*.aln` file.
 
-1. [align.ipynb](align.ipynb) align orthologous sequences in each `*.fasta` file and save it to a `*.aln` file.
+5. [find_CPDs.ipynb](find_CPDs.ipynb) find putative CPDs.
 
+6. [clean_up.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
 
-1. [clean_up.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
-
-1. [find_CPDs.ipynb](find_CPDs.ipynb) find putative CPDs.
