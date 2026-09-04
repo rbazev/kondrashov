@@ -6,6 +6,12 @@ Attempt to repeat the following study:
 incompatibilities in protein evolution. *Proc. Natl. Acad. Sci. U. S. A.*
 99(23): 14878–83, 2002.](https://www.pnas.org/doi/10.1073/pnas.232565499)
 
+
+
+
+
+
+
 The analysis has the following components:
 
 1. [orthologs.ipynb](orthologs.ipynb) collect primate orthologs of each human gene from NCBI, remove redundant sequences, save them to a `*.fasta` file.  
@@ -19,4 +25,3 @@ The analysis has the following components:
 5. [find_CPDs.ipynb](find_CPDs.ipynb) find putative CPDs.
 
 6. [clean_up.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
-

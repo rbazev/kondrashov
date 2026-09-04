@@ -559,7 +559,7 @@ def get_transcripts_from_variants(gene, pathogenic_only):
     """
     # Clinvar files of interest are in 'pathogenic' folder
     if pathogenic_only:
-        vardata = pd.read_csv("pathogenic/" + gene + ".csv")
+        vardata = pd.read_csv("pathogenic_lociii/" + gene + ".csv")
     else:
         vardata = pd.read_table("clinvar/" + gene + ".txt.txt", sep="\t")
     vartranscripts = []
@@ -1637,7 +1637,7 @@ def write_best_species_matches(gene, reference_seq, aligner, outfile):
         Reference Human sequence(s), from clinvar variants: (hum_sequences[0])
 
     """
-    infile = f"fasta_lociii/{gene}.fasta"
+    infile = f"fasta_lociii_rodentia/{gene}.fasta"
     #outfile = f"fasta/{gene}_match.fasta"
 
     records = list(SeqIO.parse(infile, "fasta"))
