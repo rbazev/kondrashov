@@ -518,7 +518,7 @@ def get_all_changes(gene, transcript, pathogenic_only):
     #else:
     #    vardata = pd.read_table("clinvar/" + gene + "_clinvar.txt.txt", sep="\t")()
     if pathogenic_only:
-        vardata = pd.read_csv("pathogenic/" + gene + ".csv")
+        vardata = pd.read_csv("pathogenic_lociii/" + gene + ".csv", sep= "\t")
     else:
         vardata = pd.read_csv(gene + ".csv")
     n = len(vardata)
@@ -559,7 +559,7 @@ def get_transcripts_from_variants(gene, pathogenic_only):
     """
     # Clinvar files of interest are in 'pathogenic' folder
     if pathogenic_only:
-        vardata = pd.read_csv("pathogenic_lociii/" + gene + ".csv")
+        vardata = pd.read_csv("pathogenic_lociii/" + gene + ".csv", sep= "\t")
     else:
         vardata = pd.read_table("clinvar/" + gene + ".txt.txt", sep="\t")
     vartranscripts = []
