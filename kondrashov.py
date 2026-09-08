@@ -49,7 +49,8 @@ one_letter = {
     "Tyr": "Y",
     "Val": "V",
     "Ter": "*",
-    "=": "="
+    "=": "=",
+    "Xaa": "X",
 }
 
 
@@ -632,20 +633,20 @@ def get_aln_positions(gene, protein):
     list
         Sites (starting at 0).
     """
-    for filename in os.listdir("fasta_match"):
+    for filename in os.listdir("fasta_lociii_match"):
         if not filename.startswith(gene + "_"):
             continue
-        filepath = os.path.join("fasta_match", filename)
+        filepath = os.path.join("fasta_lociii_match", filename)
         for record in SeqIO.parse(filepath, "fasta"):
             recordid = record.description.split(" ")[0]
             if recordid == protein:
                 fasta = record
                 break
 
-    for filename in os.listdir("aln_match"):
+    for filename in os.listdir("aln_lociii_match"):
         if not filename.startswith(gene + "_"):
             continue
-        filepath = os.path.join("aln_match", filename)
+        filepath = os.path.join("aln_lociii_match", filename)
         align = AlignIO.read(filepath, "fasta")
         for record in align:
             if record.id == protein:
