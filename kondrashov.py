@@ -1321,8 +1321,8 @@ def get_alleles(gene, protein, site, verbose=True):
 
 def get_alleles_with_species(gene, protein, site):
 
-    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
-    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{protein}_match.fasta")
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{protein}_match.aln")
 
     for record in SeqIO.parse(fasta_file, "fasta"):
         recordid = record.description.split(" ")[0]
