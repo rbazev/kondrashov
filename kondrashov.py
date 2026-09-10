@@ -686,7 +686,7 @@ def remove_element(x, element):
         pass
 
 
-
+'''
 def get_variable_sites(gene, protein, verbose):
     import os
     """
@@ -709,17 +709,19 @@ def get_variable_sites(gene, protein, verbose):
     variable = {}
     if verbose:
         print("Orig\tAln\tHuman\tOthers")
+
     for record in SeqIO.parse("fasta/{0}.fasta".format(gene), "fasta"):
         recordid = record.description.split(" ")[0]
         if recordid == protein:
             fasta = record
             break
-    align = AlignIO.read("aln/{0}.aln".format(gene), "fasta")
 
+    align = AlignIO.read("aln/{0}.aln".format(gene), "fasta")
     for record in align:
         if record.id == protein:
             aln = record
             break
+
     alni = get_aln_positions(gene, protein)
     L = len(fasta)
     for i in range(L):
@@ -732,14 +734,14 @@ def get_variable_sites(gene, protein, verbose):
         if n > 1:
             variable.update({i + 1: alleles})
             if verbose:
-                print(i + 1, j + 1, fasta[i], alleles, sep="\t")
+                print(gene, protein, j + 1, fasta[i], alleles, sep="\t")
     return variable
-
+'''
 
 
 # modified to fit naming stlye in fasta_match/ and aln_match/ directories
 # this does not work for genes with more than one reference protein, I keep getting this 'index out of range error'
-'''def get_variable_sites(gene, protein, verbose):
+def get_variable_sites(gene, protein, verbose):
     """
     Identify sites that are variable among the sequences in the alignment.
 
@@ -759,44 +761,43 @@ def get_variable_sites(gene, protein, verbose):
     """
     variable = {}
     if verbose:
-        print("Orig\tAln\tHuman\tOthers")
+        print("gene\tprotein\tOrig\tAln\tHuman\tOthers")
 
-    for filename in os.listdir("fasta_match"):
-        if not filename.startswith(gene + "_"):
-            continue
-        filepath = os.path.join("fasta_match", filename)
-        for record in SeqIO.parse(filepath, "fasta"):
-            recordid = record.description.split(" ")[0]
-            if recordid == protein:
-                fasta = record
-                break
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{protein}_match.fasta")
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split()[0]
+        if recordid == protein:
+            fasta = record
+            break
+    if fasta is None:
+        raise ValueError(f"{protein} not found in {fasta_file}")  
 
 
-    for filename in os.listdir("aln_match"):
-        if not filename.startswith(gene + "_"):
-            continue
-        filepath = os.path.join("aln_match", filename)
-        align = AlignIO.read(filepath, "fasta")
-        for record in align:
-            if record.id == protein:
-                aln = record
-                break
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{protein}_match.aln")    
+    align = AlignIO.read(aln_file, "fasta")
+    for record in align:
+        if record.id == protein:
+            aln = record
+            break
+    if aln is None:
+        raise ValueError(f"{protein} not found in {aln_file}")
 
-        alni = get_aln_positions(gene, protein)
-        L = len(fasta)
-        for i in range(L):
-            j = alni[i]
-            counts = pd.Series(list(align[:, j])).value_counts()
-            alleles = counts.index.tolist()
-            remove_element(alleles, "-")
-            n = len(alleles)
-            remove_element(alleles, fasta[i])
-            if n > 1:
-                variable.update({i + 1: alleles})
-                if verbose:
-                    print(i + 1, j + 1, fasta[i], alleles, sep="\t")
-        return variable
-'''
+        
+    alni = get_aln_positions(gene, protein)
+    L = len(fasta)
+    for i in range(L):
+        j = alni[i]
+        counts = pd.Series(list(align[:, j])).value_counts()
+        alleles = counts.index.tolist()
+        remove_element(alleles, "-")
+        n = len(alleles)
+        remove_element(alleles, fasta[i])
+        if n > 1:
+            variable.update({i + 1: alleles})
+            if verbose:
+                print(gene, protein, i + 1, j + 1, fasta[i], alleles, sep="\t")
+    return variable
+
 
 
 
