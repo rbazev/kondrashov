@@ -1425,14 +1425,14 @@ def get_species_with_allele(gene, protein, site, allele):
     list
         (species, protein ID) : tup
     """
-    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{protein}_match.fasta")
     for record in SeqIO.parse(fasta_file, "fasta"):
         recordid = record.description.split(" ")[0]
         if recordid == protein:
             fasta = record
             break
 
-    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{protein}_match.aln")
     align = AlignIO.read(aln_file, "fasta")
     for record in align:
         if record.id == protein:
