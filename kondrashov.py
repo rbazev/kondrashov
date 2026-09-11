@@ -1283,8 +1283,8 @@ def get_alleles(gene, protein, site, verbose=True):
     verbose : type
         Description of parameter `verbose`.
     """
-    fasta_file = os.path.join("fasta_match", f"{gene}_{protein}_match.fasta")
-    aln_file = os.path.join("aln_match", f"{gene}_{protein}_match.aln")
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{protein}_match.fasta")
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{protein}_match.aln")
 
     for record in SeqIO.parse(fasta_file, "fasta"):
         recordid = record.description.split(" ")[0]
@@ -1486,14 +1486,14 @@ def get_species_with_allele(gene, protein, site, allele):
 
 
 def local_compare_to_human(gene, human, site, nonhuman):
-    fasta_file = os.path.join("fasta_match", f"{gene}_{human}_match.fasta")
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{human}_match.fasta")
     for record in SeqIO.parse(fasta_file, "fasta"):
         recordid = record.description.split(" ")[0]
         if recordid == human:
             fasta = record
             break
 
-    aln_file = os.path.join("aln_match", f"{gene}_{human}_match.aln")
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{human}_match.aln")
     align = AlignIO.read(aln_file, "fasta")
     L = len(align[0].seq)
     for record in align:
@@ -1517,6 +1517,7 @@ def local_compare_to_human(gene, human, site, nonhuman):
         else:
             print(delta, "outside sequence")
             out += 1
+        
     return diff, gaps, out
 
 
