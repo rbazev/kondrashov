@@ -1,0 +1,506 @@
+ACADM NP_000007.1 29 L Aotus nancymaae XP_064228588.1
+diff: 2  gaps: 0 out: 0
+ACADM NP_000007.1 29 L Saimiri boliviensis XP_039329541.1
+diff: 2  gaps: 0 out: 0
+ACADM NP_000007.1 29 L Callithrix jacchus XP_035107801.2
+diff: 2  gaps: 0 out: 0
+ACADM NP_000007.1 29 L Sapajus apella XP_032152462.1
+diff: 2  gaps: 0 out: 0
+ACADM NP_000007.1 31 H Otolemur garnettii XP_012657175.1
+diff: 5  gaps: 0 out: 0
+ACADM NP_000007.1 31 H Nycticebus coucang XP_053447073.1
+diff: 6  gaps: 0 out: 0
+ACADM NP_000007.1 103 L Lemur catta XP_045403682.1
+diff: 3  gaps: 0 out: 0
+ACADM NP_000007.1 29 Q Hylobates moloch XP_032011454.1
+diff: 0  gaps: 0 out: 0
+ACADVL NP_000009.1 174 M Propithecus coquereli XP_012511118.1
+diff: 3  gaps: 0 out: 0
+ACADVL NP_000009.1 219 S Symphalangus syndactylus XP_055114570.1
+diff: 0  gaps: 0 out: 0
+ACADVL NP_000009.1 219 S Nomascus leucogenys XP_003282188.3
+diff: 0  gaps: 0 out: 0
+ACADVL NP_000009.1 219 S Hylobates moloch XP_031995619.2
+diff: 0  gaps: 0 out: 0
+ACADVL NP_000009.1 219 S Pan troglodytes XP_016786900.1
+diff: 1  gaps: 0 out: 0
+ACADVL NP_000009.1 219 S Pan paniscus XP_003810154.1
+diff: 0  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Nycticebus coucang XP_053423543.1
+diff: 2  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Otolemur garnettii XP_003791220.1
+diff: 2  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Propithecus coquereli XP_012511118.1
+diff: 2  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Microcebus murinus XP_012632557.1
+diff: 2  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Lemur catta XP_045426011.1
+diff: 2  gaps: 0 out: 0
+ACADVL NP_000009.1 286 K Eulemur rufifrons XP_069338073.1
+diff: 2  gaps: 0 out: 0
+ACAT1 NP_000010.1 1 L Mandrillus leucophaeus XP_011840136.1
+diff: 19  gaps: 10 out: 0
+ACAT1 NP_000010.1 1 L Mandrillus leucophaeus XP_011840136.1
+diff: 19  gaps: 10 out: 0
+ADA NP_000013.2 15 P Rhinopithecus bieti XP_017733490.1
+diff: 19  gaps: 11 out: 0
+ADA NP_000013.2 17 P Rhinopithecus bieti XP_017733490.1
+diff: 19  gaps: 11 out: 0
+AGXT NP_000021.1 156 A Otolemur garnettii XP_003798296.1
+diff: 1  gaps: 0 out: 0
+AGXT NP_000021.1 260 C Rhinopithecus bieti XP_017716141.1
+diff: 7  gaps: 4 out: 0
+AGXT NP_000021.1 82 A Pongo pygmaeus XP_054334986.2
+diff: 0  gaps: 0 out: 0
+AGXT NP_000021.1 82 A Pongo abelii NP_001125018.1
+diff: 0  gaps: 0 out: 0
+AHI1 NP_001128302.1 383 G Propithecus coquereli XP_012520629.1
+diff: 12  gaps: 10 out: 0
+AIRE NP_000374.1 21 V Colobus angolensis palliatus XP_011809621.1
+diff: 16  gaps: 0 out: 0
+AIRE NP_000374.1 1 T Eulemur rufifrons XP_069332773.1
+diff: 14  gaps: 10 out: 0
+ALMS1 NP_001365383.1 2378 F Nycticebus coucang XP_053444271.1
+diff: 5  gaps: 0 out: 0
+ALMS1 NP_001365383.1 2378 F Otolemur garnettii XP_023371049.1
+diff: 6  gaps: 0 out: 0
+ALMS1 NP_001365383.1 1155 Y Carlito syrichta XP_008054818.1
+diff: 10  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1155 Y Nycticebus coucang XP_053444271.1
+diff: 10  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1155 Y Otolemur garnettii XP_023371049.1
+diff: 11  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1155 Y Microcebus murinus XP_075857006.1
+diff: 9  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1155 Y Eulemur rufifrons XP_069350271.1
+diff: 11  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1155 Y Lemur catta XP_045405824.1
+diff: 10  gaps: 1 out: 0
+ALMS1 NP_001365383.1 1459 S Carlito syrichta XP_008054818.1
+diff: 10  gaps: 0 out: 0
+ALMS1 NP_001365383.1 2465 L Carlito syrichta XP_008054818.1
+diff: 0  gaps: 0 out: 0
+ALPL NP_000469.3 51 V Mandrillus leucophaeus XP_011845537.1
+diff: 19  gaps: 10 out: 0
+ALPL NP_000469.3 82 R Mandrillus leucophaeus XP_011845537.1
+diff: 15  gaps: 7 out: 0
+ALPL NP_000469.3 82 R Mandrillus leucophaeus XP_011845537.1
+diff: 15  gaps: 7 out: 0
+ALPL NP_000469.3 85 P Mandrillus leucophaeus XP_011845537.1
+diff: 17  gaps: 10 out: 0
+ALPL NP_000469.3 93 S Cebus imitator XP_037586579.1
+diff: 7  gaps: 0 out: 0
+ALPL NP_000469.3 295 L Otolemur garnettii XP_012657049.2
+diff: 1  gaps: 0 out: 0
+ARSB NP_000037.2 97 R Carlito syrichta XP_021566074.1
+diff: 17  gaps: 0 out: 0
+ARSB NP_000037.2 85 H Carlito syrichta XP_021566074.1
+diff: 18  gaps: 3 out: 0
+ARSB NP_000037.2 152 Q Carlito syrichta XP_021566074.1
+diff: 0  gaps: 0 out: 0
+ARSB NP_000037.2 95 W Carlito syrichta XP_021566074.1
+diff: 18  gaps: 0 out: 0
+ASL NP_000039.2 113 W Colobus angolensis palliatus XP_011807504.1
+diff: 1  gaps: 0 out: 0
+ASL NP_000039.2 146 P Cebus imitator XP_037587702.1
+diff: 11  gaps: 4 out: 0
+ASL NP_000039.2 241 K Mandrillus leucophaeus XP_011848271.1
+diff: 10  gaps: 8 out: 0
+ATP7B NP_000044.2 969 Q Nomascus leucogenys XP_030669295.1
+diff: 0  gaps: 0 out: 0
+ATP7B NP_000044.2 335 E Microcebus murinus XP_012638109.2
+diff: 5  gaps: 0 out: 0
+ATP7B NP_000044.2 335 E Propithecus coquereli XP_012504526.1
+diff: 4  gaps: 0 out: 0
+ATP7B NP_000044.2 335 E Eulemur rufifrons XP_069323793.1
+diff: 4  gaps: 0 out: 0
+ATP7B NP_000044.2 335 E Lemur catta XP_045423253.1
+diff: 5  gaps: 0 out: 0
+BCKDHA NP_000700.1 438 H Macaca thibetana thibetana XP_050624431.1
+8 outside sequence
+9 outside sequence
+10 outside sequence
+diff: 16  gaps: 7 out: 3
+BEST1 NP_004174.1 15 D Pan troglodytes XP_054518318.1
+diff: 19  gaps: 6 out: 0
+BEST1 NP_004174.1 17 Y Pan troglodytes XP_054518318.1
+diff: 19  gaps: 8 out: 0
+BTD NP_001268652.2 489 S Carlito syrichta XP_021563154.1
+diff: 16  gaps: 0 out: 0
+BTD NP_001268652.2 282 R Carlito syrichta XP_021563154.1
+diff: 4  gaps: 0 out: 0
+CBS NP_000062.1 65 L Cercocebus atys XP_011892990.1
+diff: 14  gaps: 0 out: 0
+CFTR NP_000483.3 13 F Otolemur garnettii XP_003789873.1
+diff: 4  gaps: 0 out: 0
+CFTR NP_000483.3 1 R Theropithecus gelada XP_086586259.1
+diff: 17  gaps: 12 out: 0
+CLN3 NP_000077.1 295 K Pan paniscus XP_063453494.1
+diff: 1  gaps: 0 out: 0
+CNGB3 NP_061971.3 309 L Propithecus coquereli XP_012499049.1
+diff: 12  gaps: 1 out: 0
+CNGB3 NP_061971.3 296 S Carlito syrichta XP_008053089.1
+diff: 2  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Aotus nancymaae XP_012326453.2
+diff: 0  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Saimiri boliviensis XP_003940551.1
+diff: 0  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Callithrix jacchus XP_002759095.4
+diff: 0  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Sapajus apella XP_032105821.1
+diff: 0  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Cebus imitator XP_017377292.1
+diff: 0  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Microcebus murinus XP_075860790.1
+diff: 2  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Propithecus coquereli XP_012499049.1
+diff: 5  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Eulemur rufifrons XP_069322362.1
+diff: 3  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Lemur catta XP_045416454.1
+diff: 4  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Nycticebus coucang XP_053414642.1
+diff: 3  gaps: 0 out: 0
+CNGB3 NP_061971.3 296 S Otolemur garnettii XP_012665089.1
+diff: 3  gaps: 0 out: 0
+CPS1 NP_001116105.2 1173 P ammonia], mitochondrial, partia XP_012516669.1
+diff: 17  gaps: 0 out: 0
+CRB1 NP_957705.1 564 N Nycticebus coucang XP_053462326.1
+diff: 3  gaps: 0 out: 0
+CRB1 NP_957705.1 611 P Rhinopithecus bieti XP_017720122.1
+diff: 5  gaps: 0 out: 0
+CRB1 NP_957705.1 539 R Lemur catta XP_045392469.1
+diff: 10  gaps: 0 out: 0
+CRB1 NP_957705.1 539 R Propithecus coquereli XP_012505915.1
+diff: 6  gaps: 0 out: 0
+CYP11B1 NP_000488.3 88 I Propithecus coquereli XP_012503461.1
+diff: 17  gaps: 6 out: 0
+CYP17A1 NP_000093.1 82 D Carlito syrichta XP_021564209.1
+diff: 18  gaps: 10 out: 0
+ERCC6 NP_000115.1 1042 L Nycticebus coucang XP_053440248.1
+diff: 4  gaps: 0 out: 0
+EYS NP_001136272.1 2502 R Cercocebus atys XP_011923757.1
+diff: 3  gaps: 0 out: 0
+F8 NP_000123.1 2038 S Callithrix jacchus XP_078219844.1
+diff: 0  gaps: 0 out: 0
+F8 NP_000123.1 2157 S Aotus nancymaae XP_064227599.1
+diff: 0  gaps: 0 out: 0
+F9 NP_000124.1 75 Q Otolemur garnettii XP_023373463.1
+diff: 2  gaps: 0 out: 0
+FANCA NP_000126.2 936 K Propithecus coquereli XP_012512613.1
+diff: 16  gaps: 7 out: 0
+FANCA NP_000126.2 358 R Macaca nemestrina XP_070939801.1
+diff: 13  gaps: 1 out: 0
+G6PD NP_000393.4 3 W Nomascus leucogenys XP_030663505.1
+diff: 18  gaps: 8 out: 0
+G6PD NP_000393.4 3 W Pongo pygmaeus XP_054326588.1
+diff: 1  gaps: 0 out: 0
+G6PD NP_000393.4 3 W Microcebus murinus XP_012613637.1
+diff: 2  gaps: 0 out: 0
+G6PD NP_000393.4 3 W Eulemur rufifrons XP_069320023.1
+diff: 2  gaps: 0 out: 0
+G6PD NP_000393.4 3 W Lemur catta XP_045394214.1
+diff: 2  gaps: 0 out: 0
+G6PD NP_000393.4 3 W Propithecus coquereli XP_012517460.1
+diff: 3  gaps: 0 out: 0
+GALC NP_000144.2 1 V Cercocebus atys XP_011939001.1
+diff: 9  gaps: 8 out: 0
+GALNS NP_000503.1 318 V Carlito syrichta XP_021563077.1
+diff: 0  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Nycticebus coucang XP_053410980.1
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Otolemur garnettii XP_003800850.1
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Microcebus murinus XP_020138298.2
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Propithecus coquereli XP_012513141.1
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Eulemur rufifrons XP_069312442.1
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 388 N Lemur catta XP_045389780.1
+diff: 3  gaps: 0 out: 0
+GALNS NP_000503.1 94 L Piliocolobus tephrosceles XP_026303165.1
+diff: 17  gaps: 0 out: 0
+GALNS NP_000503.1 496 S Pan paniscus XP_054956462.1
+diff: 11  gaps: 5 out: 0
+GALNS NP_000503.1 113 V Colobus angolensis palliatus XP_011783466.1
+diff: 13  gaps: 1 out: 0
+GALT NP_000146.2 223 H Trachypithecus francoisi XP_033094120.1
+diff: 0  gaps: 0 out: 0
+GALT NP_000146.2 223 H Cercocebus atys XP_011924618.1
+diff: 0  gaps: 0 out: 0
+GALT NP_000146.2 223 H Gorilla gorilla gorilla XP_004048011.1
+diff: 0  gaps: 0 out: 0
+GALT NP_000146.2 223 H Nomascus leucogenys XP_003263433.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 502 C Papio anubis XP_031509384.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 535 H Hylobates moloch XP_058295195.1
+2 outside sequence
+3 outside sequence
+4 outside sequence
+5 outside sequence
+6 outside sequence
+7 outside sequence
+8 outside sequence
+9 outside sequence
+10 outside sequence
+diff: 0  gaps: 0 out: 9
+GBA1 NP_000148.2 227 S Cercocebus atys XP_011932225.1
+diff: 4  gaps: 0 out: 0
+GBA1 NP_000148.2 227 S Papio anubis XP_031509384.1
+diff: 4  gaps: 0 out: 0
+GBA1 NP_000148.2 351 C Cercocebus atys XP_011932225.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 350 R Sapajus apella XP_032129097.1
+diff: 3  gaps: 0 out: 0
+GBA1 NP_000148.2 416 S Cercocebus atys XP_011932225.1
+diff: 1  gaps: 0 out: 0
+GBA1 NP_000148.2 416 S Papio anubis XP_031509384.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 426 L Rhinopithecus roxellana XP_030791629.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 230 G Cercocebus atys XP_011932225.1
+diff: 4  gaps: 0 out: 0
+GBA1 NP_000148.2 230 G Papio anubis XP_031509384.1
+diff: 4  gaps: 0 out: 0
+GBA1 NP_000148.2 351 C Cercocebus atys XP_011932225.1
+diff: 0  gaps: 0 out: 0
+GBA1 NP_000148.2 391 A Cercocebus atys XP_011932225.1
+diff: 6  gaps: 3 out: 0
+GCDH NP_000150.1 298 T Carlito syrichta XP_008046221.1
+diff: 2  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Callithrix jacchus XP_008985624.1
+diff: 0  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Saimiri boliviensis XP_010327765.1
+diff: 0  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Aotus nancymaae XP_012291293.1
+diff: 0  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Sapajus apella XP_032121802.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Cebus imitator XP_017353272.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Propithecus coquereli XP_012496843.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Microcebus murinus XP_012645886.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Eulemur rufifrons XP_069333769.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 298 T Lemur catta XP_045406285.1
+diff: 1  gaps: 0 out: 0
+GCDH NP_000150.1 191 R Papio anubis XP_031515710.1
+diff: 14  gaps: 2 out: 0
+HBB NP_000509.1 102 Q Microcebus murinus XP_012642085.1
+diff: 1  gaps: 0 out: 0
+HGD NP_000178.2 53 Q Cercocebus atys XP_011923849.1
+diff: 0  gaps: 0 out: 0
+KCNQ1 NP_000209.2 114 P Propithecus coquereli XP_012520406.1
+diff: 18  gaps: 0 out: 0
+KCNQ1 NP_000209.2 115 G Carlito syrichta XP_008056392.1
+diff: 16  gaps: 2 out: 0
+KCNQ1 NP_000209.2 125 D Carlito syrichta XP_008056392.1
+diff: 12  gaps: 1 out: 0
+KCNQ1 NP_000209.2 117 S Colobus angolensis palliatus XP_011785491.1
+diff: 17  gaps: 0 out: 0
+KCNQ1 NP_000209.2 117 S Mandrillus leucophaeus XP_011843587.1
+diff: 15  gaps: 0 out: 0
+KCNQ1 NP_000209.2 119 S Carlito syrichta XP_008056392.1
+diff: 17  gaps: 3 out: 0
+LDLR NP_000518.1 46 S Colobus angolensis palliatus XP_011810343.1
+diff: 17  gaps: 8 out: 0
+LDLR NP_000518.1 583 D Microcebus murinus XP_020139390.1
+diff: 12  gaps: 1 out: 0
+LDLR NP_000518.1 579 G Microcebus murinus XP_020139390.1
+diff: 13  gaps: 3 out: 0
+LDLR NP_000518.1 88 K Carlito syrichta XP_021573646.1
+diff: 2  gaps: 0 out: 0
+LDLR NP_000518.1 301 V Propithecus coquereli XP_012496802.1
+diff: 18  gaps: 6 out: 0
+NAGLU NP_000254.2 35 P Mandrillus leucophaeus XP_011854414.1
+diff: 14  gaps: 0 out: 0
+NAGLU NP_000254.2 309 F Pongo pygmaeus XP_054313588.1
+diff: 0  gaps: 0 out: 0
+NAGLU NP_000254.2 309 F Pongo abelii XP_002827555.2
+diff: 0  gaps: 0 out: 0
+NAGLU NP_000254.2 1 L Mandrillus leucophaeus XP_011854414.1
+-10 outside sequence
+diff: 17  gaps: 9 out: 1
+NPC1 NP_000262.2 372 W Pan troglodytes XP_024206757.2
+diff: 0  gaps: 0 out: 0
+NPC1 NP_000262.2 167 L Propithecus coquereli XP_012518129.1
+diff: 0  gaps: 0 out: 0
+OCA2 NP_000266.2 780 S Propithecus coquereli XP_012503455.1
+diff: 4  gaps: 0 out: 0
+PAH NP_000268.1 164 T Papio anubis XP_021778512.2
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 164 T Macaca thibetana thibetana XP_050606181.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 164 T Theropithecus gelada XP_025258879.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 164 T Macaca mulatta XP_001094859.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 164 T Macaca fascicularis XP_005572100.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 176 Q Aotus nancymaae XP_012324641.2
+diff: 1  gaps: 0 out: 0
+PAH NP_000268.1 176 Q Saimiri boliviensis XP_003929669.1
+diff: 1  gaps: 0 out: 0
+PAH NP_000268.1 176 Q Callithrix jacchus XP_002752958.1
+diff: 1  gaps: 0 out: 0
+PAH NP_000268.1 413 H Pongo pygmaeus XP_054301667.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 413 H Aotus nancymaae XP_012324641.2
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 413 H Sapajus apella XP_032155339.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 413 H Saimiri boliviensis XP_003929669.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 413 H Callithrix jacchus XP_002752958.1
+diff: 0  gaps: 0 out: 0
+PAH NP_000268.1 156 G Lemur catta XP_045409048.1
+diff: 1  gaps: 0 out: 0
+PAX3 NP_852123.1 271 P Gorilla gorilla gorilla XP_004033320.2
+diff: 17  gaps: 9 out: 0
+PAX6 NP_001245391.1 1 L Mandrillus leucophaeus XP_011820972.1
+diff: 3  gaps: 0 out: 0
+PKHD1 NP_619639.3 760 H Piliocolobus tephrosceles XP_023068761.1
+diff: 1  gaps: 0 out: 0
+PKHD1 NP_619639.3 760 H Colobus angolensis palliatus XP_011815634.1
+diff: 0  gaps: 0 out: 0
+PKHD1 NP_619639.3 760 H Trachypithecus francoisi XP_033073315.1
+diff: 0  gaps: 0 out: 0
+PKHD1 NP_619639.3 760 H Rhinopithecus bieti XP_017705097.1
+diff: 0  gaps: 0 out: 0
+PKHD1 NP_619639.3 760 H Rhinopithecus roxellana XP_010362548.2
+diff: 0  gaps: 0 out: 0
+PMM2 NP_000294.1 237 R Hylobates moloch XP_032001228.1
+diff: 15  gaps: 8 out: 0
+PMM2 NP_000294.1 237 R Pongo abelii XP_054389417.1
+diff: 17  gaps: 4 out: 0
+PMM2 NP_000294.1 239 S Pongo abelii XP_054389417.1
+diff: 17  gaps: 4 out: 0
+RECQL4 NP_004251.4 1021 W Aotus nancymaae XP_064240796.1
+diff: 4  gaps: 0 out: 0
+RECQL4 NP_004251.4 1021 W Callithrix jacchus XP_002759208.1
+diff: 5  gaps: 0 out: 0
+RECQL4 NP_004251.4 1021 W Saimiri boliviensis XP_039320673.1
+diff: 6  gaps: 0 out: 0
+RECQL4 NP_004251.4 1021 W Sapajus apella XP_032112419.1
+diff: 3  gaps: 0 out: 0
+RECQL4 NP_004251.4 1021 W Cebus imitator XP_017367191.1
+diff: 3  gaps: 0 out: 0
+RP1 NP_006260.1 793 G Hylobates moloch XP_032615653.1
+diff: 0  gaps: 0 out: 0
+SACS NP_055178.3 1 T Saimiri boliviensis XP_074244032.1
+diff: 4  gaps: 2 out: 0
+SLC26A4 NP_000432.1 422 I Carlito syrichta XP_021565405.1
+diff: 1  gaps: 0 out: 0
+SLC26A4 NP_000432.1 422 I Nycticebus coucang XP_053465235.1
+diff: 1  gaps: 0 out: 0
+SLC26A4 NP_000432.1 422 I Otolemur garnettii XP_003782839.2
+diff: 1  gaps: 0 out: 0
+SLC26A4 NP_000432.1 422 I Propithecus coquereli XP_012505772.1
+diff: 2  gaps: 0 out: 0
+SLC26A4 NP_000432.1 422 I Eulemur rufifrons XP_069318278.1
+diff: 1  gaps: 0 out: 0
+SLC26A4 NP_000432.1 422 I Lemur catta XP_045421398.1
+diff: 1  gaps: 0 out: 0
+SYNE1 NP_892006.3 815 T Nycticebus coucang XP_053446481.1
+diff: 1  gaps: 0 out: 0
+SYNE1 NP_892006.3 815 T Otolemur garnettii XP_003797918.1
+diff: 1  gaps: 0 out: 0
+TMEM67 NP_714915.3 92 R Microcebus murinus XP_012628320.1
+diff: 3  gaps: 0 out: 0
+TTR NP_000362.1 142 I Chlorocebus sabaeus XP_007972558.2
+6 outside sequence
+7 outside sequence
+8 outside sequence
+9 outside sequence
+10 outside sequence
+diff: 0  gaps: 0 out: 5
+TTR NP_000362.1 127 V Saimiri boliviensis XP_010333768.1
+diff: 3  gaps: 0 out: 0
+TTR NP_000362.1 127 V Sapajus apella XP_032149005.1
+diff: 3  gaps: 0 out: 0
+TTR NP_000362.1 127 V Callithrix jacchus NP_001254679.1
+diff: 2  gaps: 0 out: 0
+TTR NP_000362.1 127 V Aotus nancymaae XP_012302669.1
+diff: 2  gaps: 0 out: 0
+TTR NP_000362.1 82 K Mandrillus leucophaeus XP_011829762.1
+diff: 0  gaps: 0 out: 0
+TTR NP_000362.1 77 R Carlito syrichta XP_008071577.1
+diff: 3  gaps: 0 out: 0
+TTR NP_000362.1 126 I Saimiri boliviensis XP_010333768.1
+diff: 4  gaps: 0 out: 0
+TTR NP_000362.1 126 I Sapajus apella XP_032149005.1
+diff: 4  gaps: 0 out: 0
+TTR NP_000362.1 126 I Callithrix jacchus NP_001254679.1
+diff: 3  gaps: 0 out: 0
+TTR NP_000362.1 126 I Aotus nancymaae XP_012302669.1
+diff: 2  gaps: 0 out: 0
+USH2A NP_996816.3 3719 C Cercocebus atys XP_011896095.1
+diff: 1  gaps: 0 out: 0
+VHL NP_000542.1 151 L Pan paniscus XP_024783971.1
+diff: 19  gaps: 1 out: 0
+VHL NP_000542.1 132 P Pan paniscus XP_024783971.1
+diff: 15  gaps: 8 out: 0
+VHL NP_000542.1 154 A Pan paniscus XP_024783971.1
+diff: 19  gaps: 0 out: 0
+VHL NP_000542.1 114 S Carlito syrichta XP_008057847.1
+diff: 9  gaps: 6 out: 0
+VHL NP_000542.1 161 G Pan paniscus XP_024783971.1
+diff: 18  gaps: 4 out: 0
+VHL NP_000542.1 170 L Pan paniscus XP_024783971.1
+diff: 19  gaps: 8 out: 0
+VWF NP_000543.3 528 S Carlito syrichta XP_021573487.1
+diff: 15  gaps: 10 out: 0
+WT1 NP_077744.4 341 G Carlito syrichta XP_021562474.1
+diff: 1  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Callithrix jacchus XP_009006128.2
+diff: 1  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Otolemur garnettii XP_012656774.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Nycticebus coucang XP_053418132.1
+diff: 1  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Sapajus apella XP_032139544.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Saimiri boliviensis XP_039326885.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Aotus nancymaae XP_012307709.2
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Microcebus murinus XP_075857497.1
+diff: 9  gaps: 9 out: 0
+WT1 NP_077744.4 341 G Pongo pygmaeus XP_054297593.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Pan troglodytes NP_001422862.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Macaca mulatta NP_001422864.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Propithecus coquereli XP_012505037.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Macaca fascicularis XP_065384406.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Rhinopithecus bieti XP_017705228.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Theropithecus gelada XP_025212117.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Macaca thibetana thibetana XP_050614982.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Piliocolobus tephrosceles XP_031789677.1
+diff: 9  gaps: 9 out: 0
+WT1 NP_077744.4 341 G Macaca nemestrina XP_070931006.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Pongo abelii XP_024111035.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Nomascus leucogenys XP_030684745.1
+diff: 9  gaps: 9 out: 0
+WT1 NP_077744.4 341 G Gorilla gorilla gorilla XP_055212506.1
+diff: 9  gaps: 9 out: 0
+WT1 NP_077744.4 341 G Symphalangus syndactylus XP_055137999.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Eulemur rufifrons XP_069325873.1
+diff: 0  gaps: 0 out: 0
+WT1 NP_077744.4 341 G Hylobates moloch XP_032023887.1
+diff: 0  gaps: 0 out: 0
+ZEB2 NP_055610.1 1049 R Pongo abelii NP_001125020.1
+diff: 0  gaps: 0 out: 0

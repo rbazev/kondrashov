@@ -1509,7 +1509,8 @@ def local_compare_to_human(gene, human, site, nonhuman):
     gaps = 0
     for delta in range(-10, 11):
         if 0 <= j + delta < L:
-            print(delta, aln.seq[j + delta], nonaln.seq[j + delta])
+            vvx = delta
+            #print(delta, aln.seq[j + delta], nonaln.seq[j + delta])
             if (delta != 0) and (aln.seq[j + delta] != nonaln.seq[j + delta]):
                 diff += 1
                 if (aln.seq[j + delta] == "-") or (nonaln.seq[j + delta] == "-"):
@@ -1517,7 +1518,7 @@ def local_compare_to_human(gene, human, site, nonhuman):
         else:
             print(delta, "outside sequence")
             out += 1
-        
+
     return diff, gaps, out
 
 
