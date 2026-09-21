@@ -1523,6 +1523,71 @@ def local_compare_to_human(gene, human, site, nonhuman):
 
 
 
+def classify_flanking_regions(gene, human, site, nonhuman):
+    fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{human}_match.fasta")
+    for record in SeqIO.parse(fasta_file, "fasta"):
+        recordid = record.description.split(" ")[0]
+        if recordid == human:
+            fasta = record
+            break
+
+    aln_file = os.path.join("aln_lociii_match", f"{gene}_{human}_match.aln")
+    align = AlignIO.read(aln_file, "fasta")
+    L = len(align[0].seq)
+    for record in align:
+        if record.id == human:
+            aln = record
+        elif record.id == nonhuman:
+            nonaln = record
+    i = site - 1
+    alni = get_aln_positions(gene, human)
+    j = alni[i]
+    diff = 0
+    out = 0
+    gaps = 0
+    position_results = {}
+
+    for delta in range(-10, 11):
+        if 0 <= j + delta < L:
+            human_aa = aln.seq[j + delta]
+            species_aa = nonaln.seq[j + delta]
+            #print(delta, human_aa, species_aa)
+
+            if delta == 0:
+                status = "CPD"
+            elif human_aa == "-" or species_aa == "-":
+                status = "gap"
+                gaps += 1
+            elif human_aa == species_aa:
+                status = "match"
+            else:
+                status = "different"
+                diff += 1    
+
+
+            # Store the comparison
+            position_results[delta] = {
+            "human": human_aa,
+            "species": species_aa,
+            "status": status
+            }
+
+            # Don't count the CPD itself
+            if delta != 0:
+                if human_aa == "-" or species_aa == "-":
+                    gaps += 1
+                elif human_aa != species_aa:
+                    diff += 1
+        else:
+            #print(delta, "outside sequence")
+            out += 1
+            position_results[delta] = {
+            "human": None,
+            "species": None,
+            "status": "outside"
+            }
+    return diff, gaps, out, position_results
+
 
 
 
