@@ -3,7 +3,7 @@ from datetime import datetime
 from pathlib import Path
 import pandas as pd
 import xmltodict as x2d
-from tqdm import tqdm
+#from tqdm import tqdm
 import os
 from Bio import AlignIO, Entrez, SeqIO
 from Bio.Seq import Seq
@@ -1759,7 +1759,8 @@ def identify_unique_transcripts(gene):
 
     unique_acc = set()
 
-    for varid in tqdm(varids, desc=f"{gene}: variants"):
+    #for varid in tqdm(varids, desc=f"{gene}: variants", disable = True):
+    for varid in varids:
         try:
             varrec = get_variant(varid)
             #name, acc, mut, pmut, muttype, status = get_variant_details(varrec)
@@ -1769,10 +1770,12 @@ def identify_unique_transcripts(gene):
                 unique_acc.add(acc)
 
         except Exception as e:
-            print(f"Error processing VariantID {varid}: {e}")
+            ext = e
+            #print(f"Error processing VariantID {varid}: {e}")
 
-    print(f"{gene}: Found {len(unique_acc)} unique transcript(s): {unique_acc}")
-    return unique_acc
+    #print(f"{gene}: Found {len(unique_acc)} unique transcript(s): {unique_acc}")
+    print(f"'{gene}': {unique_acc},")
+    #return unique_acc
 
 
 
