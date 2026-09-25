@@ -1,0 +1,51 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_018489.3(ASH1L):c.2170G>T (p.Ala724Ser)	55870	ASH1L	Pathogenic	GRCh38	446511
+single nucleotide variant	NM_018489.3(ASH1L):c.6238G>A (p.Val2080Ile)	55870	ASH1L	Pathogenic	GRCh38	446512
+single nucleotide variant	NM_018489.3(ASH1L):c.6427G>T (p.Glu2143Ter)	55870	ASH1L	Pathogenic	GRCh38	446516
+single nucleotide variant	NM_018489.3(ASH1L):c.8356G>C (p.Ala2786Pro)	55870	ASH1L	Pathogenic	GRCh38	446517
+single nucleotide variant	NM_018489.3(ASH1L):c.4579C>T (p.Arg1527Ter)	55870	ASH1L	Pathogenic	GRCh38	620260
+single nucleotide variant	NM_018489.3(ASH1L):c.5506C>T (p.Gln1836Ter)	55870	ASH1L	Pathogenic	GRCh38	633576
+single nucleotide variant	NM_018489.3(ASH1L):c.1013C>A (p.Ser338Ter)	55870	ASH1L	Pathogenic	GRCh38	1047928
+single nucleotide variant	NM_018489.3(ASH1L):c.790G>T (p.Gly264Ter)	55870	ASH1L	Pathogenic	GRCh38	1216975
+single nucleotide variant	NM_018489.3(ASH1L):c.3838C>T (p.Arg1280Ter)	55870	ASH1L	Pathogenic/Likely pathogenic	GRCh38	1285512
+single nucleotide variant	NM_018489.3(ASH1L):c.6826C>T (p.Arg2276Ter)	55870	ASH1L	Pathogenic	GRCh38	1317483
+single nucleotide variant	NM_018489.3(ASH1L):c.5269C>T (p.Arg1757Ter)	55870	ASH1L	Likely pathogenic	GRCh38	1334572
+single nucleotide variant	NM_018489.3(ASH1L):c.1907C>G (p.Ser636Ter)	55870	ASH1L	Likely pathogenic	GRCh38	1684510
+single nucleotide variant	NM_018489.3(ASH1L):c.7603C>T (p.Arg2535Ter)	55870	ASH1L	Pathogenic	GRCh38	1706432
+single nucleotide variant	NM_018489.3(ASH1L):c.7957C>T (p.Arg2653Ter)	55870	ASH1L	Likely pathogenic	GRCh38	1709239
+single nucleotide variant	NM_018489.3(ASH1L):c.4289G>T (p.Gly1430Val)	55870	ASH1L	Likely pathogenic	GRCh38	1805299
+single nucleotide variant	NM_018489.3(ASH1L):c.6502G>T (p.Glu2168Ter)	55870	ASH1L	Pathogenic	GRCh38	1997605
+single nucleotide variant	NM_018489.3(ASH1L):c.5575C>T (p.Gln1859Ter)	55870	ASH1L	Likely pathogenic	GRCh38	2441694
+single nucleotide variant	NM_018489.3(ASH1L):c.7098G>A (p.Trp2366Ter)	55870	ASH1L	Pathogenic	GRCh38	2442664
+single nucleotide variant	NM_018489.3(ASH1L):c.160C>T (p.Arg54Ter)	55870	ASH1L	Likely pathogenic	GRCh38	2497754
+single nucleotide variant	NM_018489.3(ASH1L):c.7804G>T (p.Val2602Leu)	55870	ASH1L	Likely pathogenic	GRCh38	2502826
+single nucleotide variant	NM_018489.3(ASH1L):c.7252C>T (p.Arg2418Ter)	55870	ASH1L	Pathogenic	GRCh38	2503251
+single nucleotide variant	NM_018489.3(ASH1L):c.6366C>A (p.Cys2122Ter)	55870	ASH1L	Pathogenic	GRCh38	2543541
+single nucleotide variant	NM_018489.3(ASH1L):c.5325C>A (p.Cys1775Ter)	55870	ASH1L	Pathogenic	GRCh38	2573017
+single nucleotide variant	NM_018489.3(ASH1L):c.8071C>T (p.Arg2691Ter)	55870	ASH1L	Likely pathogenic	GRCh38	2577976
+single nucleotide variant	NM_018489.3(ASH1L):c.6640C>T (p.Arg2214Ter)	55870	ASH1L	Pathogenic	GRCh38	2582343
+single nucleotide variant	NM_018489.3(ASH1L):c.6136C>T (p.Gln2046Ter)	55870	ASH1L	Likely pathogenic	GRCh38	2627869
+single nucleotide variant	NM_018489.3(ASH1L):c.7357T>C (p.Ser2453Pro)	55870	ASH1L	Likely pathogenic	GRCh38	2637244
+single nucleotide variant	NM_018489.3(ASH1L):c.2113C>T (p.Gln705Ter)	55870	ASH1L	Pathogenic	GRCh38	2692609
+single nucleotide variant	NM_018489.3(ASH1L):c.6019C>T (p.Arg2007Ter)	55870	ASH1L	Likely pathogenic	GRCh38	3028905
+single nucleotide variant	NM_018489.3(ASH1L):c.1651G>T (p.Gly551Ter)	55870	ASH1L	Pathogenic	GRCh38	3130304
+single nucleotide variant	NM_018489.3(ASH1L):c.3937C>T (p.Arg1313Ter)	55870	ASH1L	Pathogenic	GRCh38	3254958
+single nucleotide variant	NM_018489.3(ASH1L):c.4739C>G (p.Ser1580Ter)	55870	ASH1L	Likely pathogenic	GRCh38	3255571
+single nucleotide variant	NM_018489.3(ASH1L):c.4584T>G (p.Tyr1528Ter)	55870	ASH1L	Likely pathogenic	GRCh38	3362505
+single nucleotide variant	NM_018489.3(ASH1L):c.3916C>T (p.Arg1306Ter)	55870	ASH1L	Pathogenic	GRCh38	3370481
+single nucleotide variant	NM_018489.3(ASH1L):c.7189C>T (p.Arg2397Ter)	55870	ASH1L	Pathogenic	GRCh38	3382380
+single nucleotide variant	NM_018489.3(ASH1L):c.4024C>T (p.Arg1342Ter)	55870	ASH1L	Pathogenic	GRCh38	3390586
+single nucleotide variant	NM_018489.3(ASH1L):c.6436C>T (p.Arg2146Ter)	55870	ASH1L	Pathogenic	GRCh38	3435994
+single nucleotide variant	NM_018489.3(ASH1L):c.8500C>T (p.Arg2834Ter)	55870	ASH1L	Pathogenic	GRCh38	3436077
+single nucleotide variant	NM_018489.3(ASH1L):c.1450C>T (p.Arg484Ter)	55870	ASH1L	Pathogenic	GRCh38	3600654
+single nucleotide variant	NM_018489.3(ASH1L):c.1456G>T (p.Glu486Ter)	55870	ASH1L	Pathogenic	GRCh38	3602971
+single nucleotide variant	NM_018489.3(ASH1L):c.6759T>G (p.Tyr2253Ter)	55870	ASH1L	Likely pathogenic	GRCh38	3775490
+single nucleotide variant	NM_018489.3(ASH1L):c.2332C>T (p.Arg778Ter)	55870	ASH1L	Pathogenic/Likely pathogenic	GRCh38	3900409
+single nucleotide variant	NM_018489.3(ASH1L):c.7261C>T (p.Arg2421Ter)	55870	ASH1L	Pathogenic	GRCh38	3903177
+single nucleotide variant	NM_018489.3(ASH1L):c.6178-2A>G	55870	ASH1L	Pathogenic	GRCh38	4075766
+single nucleotide variant	NM_018489.3(ASH1L):c.8731C>T (p.Arg2911Ter)	55870	ASH1L	Pathogenic	GRCh38	4526922
+single nucleotide variant	NM_018489.3(ASH1L):c.6103+2T>C	55870	ASH1L	Pathogenic	GRCh38	4687948
+single nucleotide variant	NM_018489.3(ASH1L):c.6223+2T>G	55870	ASH1L	Pathogenic	GRCh38	4796660
+single nucleotide variant	NM_018489.3(ASH1L):c.8707C>T (p.Gln2903Ter)	55870	ASH1L	Likely pathogenic	GRCh38	4813822
+single nucleotide variant	NM_018489.3(ASH1L):c.3961C>T (p.Arg1321Ter)	55870	ASH1L	Likely pathogenic	GRCh38	4881999
+single nucleotide variant	NM_018489.3(ASH1L):c.7978C>T (p.Gln2660Ter)	55870	ASH1L	Likely pathogenic	GRCh38	4890779

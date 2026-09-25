@@ -14,7 +14,7 @@ single nucleotide variant	NM_004183.4(BEST1):c.949G>A (p.Val317Met)	7439	BEST1	P
 single nucleotide variant	NM_004183.4(BEST1):c.122T>C (p.Leu41Pro)	7439	BEST1	Pathogenic/Likely pathogenic	GRCh38	2743
 single nucleotide variant	NM_004183.4(BEST1):c.256G>A (p.Val86Met)	7439	BEST1	Pathogenic	GRCh38	2744
 single nucleotide variant	NM_004183.4(BEST1):c.715G>A (p.Val239Met)	7439	BEST1	Likely pathogenic	GRCh38	2745
-single nucleotide variant	NM_004183.4(BEST1):c.614T>C (p.Ile205Thr)	7439	BEST1	Pathogenic	GRCh38	2747
+single nucleotide variant	NM_004183.4(BEST1):c.614T>C (p.Ile205Thr)	7439	BEST1	Pathogenic/Likely pathogenic	GRCh38	2747
 single nucleotide variant	NM_004183.4(BEST1):c.680A>G (p.Tyr227Cys)	7439	BEST1	Pathogenic/Likely pathogenic	GRCh38	2749
 single nucleotide variant	NM_004183.4(BEST1):c.704T>C (p.Val235Ala)	7439	BEST1	Pathogenic	GRCh38	2751
 single nucleotide variant	NM_004183.4(BEST1):c.173A>T (p.Gln58Leu)	7439	BEST1	Likely pathogenic	GRCh38	99687
@@ -277,3 +277,5 @@ single nucleotide variant	NM_004183.4(BEST1):c.242T>G (p.Val81Gly)	7439	BEST1	Li
 single nucleotide variant	NM_004183.4(BEST1):c.895G>C (p.Gly299Arg)	7439	BEST1	Likely pathogenic	GRCh38	4800408
 single nucleotide variant	NM_004183.4(BEST1):c.90G>C (p.Lys30Asn)	7439	BEST1	Likely pathogenic	GRCh38	4820272
 single nucleotide variant	NM_004183.4(BEST1):c.868-2A>G	7439	BEST1	Pathogenic	GRCh38	4851980
+single nucleotide variant	NM_004183.4(BEST1):c.682G>T (p.Asp228Tyr)	7439	BEST1	Likely pathogenic	GRCh38	4882983
+single nucleotide variant	NM_004183.4(BEST1):c.8T>C (p.Ile3Thr)	7439	BEST1	Likely pathogenic	GRCh38	4887830

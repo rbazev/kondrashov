@@ -20,7 +20,6 @@ single nucleotide variant	NM_006005.3(WFS1):c.873C>G (p.Tyr291Ter)	7466	WFS1	Pat
 single nucleotide variant	NM_006005.3(WFS1):c.2369C>A (p.Ser790Ter)	7466	WFS1	Pathogenic	GRCh38	212614
 single nucleotide variant	NM_006005.3(WFS1):c.505G>A (p.Glu169Lys)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	215376
 single nucleotide variant	NM_006005.3(WFS1):c.631G>A (p.Asp211Asn)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	215378
-single nucleotide variant	NM_006005.3(WFS1):c.2194C>T (p.Arg732Cys)	7466	WFS1	Likely pathogenic	GRCh38	215396
 single nucleotide variant	NM_006005.3(WFS1):c.2254G>T (p.Glu752Ter)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	215399
 single nucleotide variant	NM_006005.3(WFS1):c.2425G>A (p.Glu809Lys)	7466	WFS1	Pathogenic	GRCh38	215413
 single nucleotide variant	NM_006005.3(WFS1):c.2508G>C (p.Lys836Asn)	7466	WFS1	Likely pathogenic	GRCh38	228313
@@ -70,7 +69,6 @@ single nucleotide variant	NM_006005.3(WFS1):c.631+2T>G	7466	WFS1	Pathogenic/Like
 single nucleotide variant	NM_006005.3(WFS1):c.2206G>A (p.Gly736Ser)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	1328696
 single nucleotide variant	NM_006005.3(WFS1):c.1180G>T (p.Glu394Ter)	7466	WFS1	Pathogenic	GRCh38	1332693
 single nucleotide variant	NM_006005.3(WFS1):c.2205C>G (p.Tyr735Ter)	7466	WFS1	Pathogenic	GRCh38	1453615
-single nucleotide variant	NM_006005.3(WFS1):c.962C>G (p.Thr321Arg)	7466	WFS1	Likely pathogenic	GRCh38	1481097
 single nucleotide variant	NM_006005.3(WFS1):c.1619G>A (p.Trp540Ter)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	1456380
 single nucleotide variant	NM_006005.3(WFS1):c.2099G>A (p.Trp700Ter)	7466	WFS1	Pathogenic	GRCh38	1456386
 single nucleotide variant	NM_006005.3(WFS1):c.2586G>T (p.Lys862Asn)	7466	WFS1	Likely pathogenic	GRCh38	1523010
@@ -124,6 +122,7 @@ single nucleotide variant	NM_006005.3(WFS1):c.2100G>C (p.Trp700Cys)	7466	WFS1	Pa
 single nucleotide variant	NM_006005.3(WFS1):c.2033G>A (p.Trp678Ter)	7466	WFS1	Likely pathogenic	GRCh38	3031401
 single nucleotide variant	NM_006005.3(WFS1):c.2038G>C (p.Glu680Gln)	7466	WFS1	Likely pathogenic	GRCh38	3250050
 single nucleotide variant	NM_006005.3(WFS1):c.1297G>C (p.Ala433Pro)	7466	WFS1	Likely pathogenic	GRCh38	3250063
+single nucleotide variant	NM_006005.3(WFS1):c.2141A>T (p.Asn714Ile)	7466	WFS1	Likely pathogenic	GRCh38	3252699
 single nucleotide variant	NM_006005.3(WFS1):c.2266C>G (p.Arg756Gly)	7466	WFS1	Likely pathogenic	GRCh38	3338037
 single nucleotide variant	NM_006005.3(WFS1):c.2586G>C (p.Lys862Asn)	7466	WFS1	Likely pathogenic	GRCh38	3338038
 single nucleotide variant	NM_006005.3(WFS1):c.874C>T (p.Pro292Ser)	7466	WFS1	Likely pathogenic	GRCh38	3377398
@@ -135,7 +134,7 @@ single nucleotide variant	NM_006005.3(WFS1):c.2336T>G (p.Val779Gly)	7466	WFS1	Li
 single nucleotide variant	NM_006005.3(WFS1):c.631+1G>A	7466	WFS1	Likely pathogenic	GRCh38	3572489
 single nucleotide variant	NM_006005.3(WFS1):c.2020G>T (p.Gly674Trp)	7466	WFS1	Pathogenic	GRCh38	3618121
 single nucleotide variant	NM_006005.3(WFS1):c.2115G>T (p.Lys705Asn)	7466	WFS1	Pathogenic	GRCh38	3637013
-single nucleotide variant	NM_006005.3(WFS1):c.2402A>G (p.Asp801Gly)	7466	WFS1	Pathogenic	GRCh38	3637018
+single nucleotide variant	NM_006005.3(WFS1):c.2402A>G (p.Asp801Gly)	7466	WFS1	Pathogenic/Likely pathogenic	GRCh38	3637018
 single nucleotide variant	NM_006005.3(WFS1):c.1998G>A (p.Trp666Ter)	7466	WFS1	Pathogenic	GRCh38	3641318
 single nucleotide variant	NM_006005.3(WFS1):c.2284A>T (p.Lys762Ter)	7466	WFS1	Pathogenic	GRCh38	3714958
 single nucleotide variant	NM_006005.3(WFS1):c.1048T>A (p.Phe350Ile)	7466	WFS1	Likely pathogenic	GRCh38	3718608

@@ -1,0 +1,56 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1671-1G>T	26047	CNTNAP2	Pathogenic	GRCh38	5495
+single nucleotide variant	NM_014141.6(CNTNAP2):c.252G>A (p.Trp84Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	76757
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2153G>A (p.Trp718Ter)	26047	CNTNAP2	Pathogenic	GRCh38	95560
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1346C>G (p.Ser449Ter)	26047	CNTNAP2	Pathogenic	GRCh38	205241
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1447C>T (p.Arg483Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	205244
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1819C>T (p.Gln607Ter)	26047	CNTNAP2	Pathogenic	GRCh38	280860
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1076C>G (p.Ser359Ter)	26047	CNTNAP2	Pathogenic	GRCh38	379816
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2050C>T (p.Gln684Ter)	26047	CNTNAP2	Pathogenic	GRCh38	379268
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3382-2A>C	26047	CNTNAP2	Likely pathogenic	GRCh38	426876
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1480G>T (p.Glu494Ter)	26047	CNTNAP2	Pathogenic	GRCh38	438340
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2046C>A (p.Cys682Ter)	26047	CNTNAP2	Pathogenic	GRCh38	438345
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2391T>G (p.Tyr797Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	451949
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1778-1G>C	26047	CNTNAP2	Likely pathogenic	GRCh38	562153
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3408C>A (p.Tyr1136Ter)	26047	CNTNAP2	Pathogenic	GRCh38	590180
+single nucleotide variant	NM_014141.6(CNTNAP2):c.97+1G>A	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	638371
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1785C>G (p.Tyr595Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	804408
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3331C>T (p.Gln1111Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	810206
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3262C>T (p.Arg1088Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	845872
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1399G>T (p.Glu467Ter)	26047	CNTNAP2	Pathogenic	GRCh38	933348
+single nucleotide variant	NM_014141.6(CNTNAP2):c.498G>A (p.Trp166Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	974852
+single nucleotide variant	NM_014141.6(CNTNAP2):c.97+3A>T	26047	CNTNAP2	Likely pathogenic	GRCh38	981320
+single nucleotide variant	NM_014141.6(CNTNAP2):c.694C>T (p.Gln232Ter)	26047	CNTNAP2	Pathogenic	GRCh38	987316
+single nucleotide variant	NM_014141.6(CNTNAP2):c.98-1G>A	26047	CNTNAP2	Likely pathogenic	GRCh38	1068303
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2646G>A (p.Trp882Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	1075757
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3283C>T (p.Arg1095Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	1163876
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2151C>A (p.Tyr717Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1164026
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2884G>T (p.Gly962Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1322100
+single nucleotide variant	NM_014141.6(CNTNAP2):c.402+1G>C	26047	CNTNAP2	Likely pathogenic	GRCh38	1473750
+single nucleotide variant	NM_014141.6(CNTNAP2):c.682G>T (p.Gly228Ter)	26047	CNTNAP2	Pathogenic/Likely pathogenic	GRCh38	1370808
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2011C>T (p.Gln671Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1398096
+single nucleotide variant	NM_014141.6(CNTNAP2):c.401G>A (p.Trp134Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1371355
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2117G>A (p.Trp706Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1385730
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2910T>A (p.Tyr970Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1455600
+single nucleotide variant	NM_014141.6(CNTNAP2):c.551G>A (p.Trp184Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1526249
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1349-2A>G	26047	CNTNAP2	Likely pathogenic	GRCh38	1700186
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2101G>T (p.Gly701Ter)	26047	CNTNAP2	Pathogenic	GRCh38	1785929
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1777+2T>C	26047	CNTNAP2	Pathogenic	GRCh38	1802571
+single nucleotide variant	NM_014141.6(CNTNAP2):c.610A>T (p.Lys204Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2004789
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2929G>T (p.Gly977Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2091799
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3028G>T (p.Glu1010Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	2577952
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1348+1G>A	26047	CNTNAP2	Likely pathogenic	GRCh38	2691868
+single nucleotide variant	NM_014141.6(CNTNAP2):c.208+1G>A	26047	CNTNAP2	Likely pathogenic	GRCh38	2753253
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1108G>T (p.Glu370Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2770913
+single nucleotide variant	NM_014141.6(CNTNAP2):c.402G>A (p.Trp134Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2766373
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3256C>T (p.Gln1086Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2818271
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2197G>T (p.Glu733Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2820014
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1349-1G>A	26047	CNTNAP2	Likely pathogenic	GRCh38	2846319
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1084-2A>C	26047	CNTNAP2	Likely pathogenic	GRCh38	2866177
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1807A>T (p.Lys603Ter)	26047	CNTNAP2	Pathogenic	GRCh38	2870284
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3011-2A>C	26047	CNTNAP2	Likely pathogenic	GRCh38	3367045
+single nucleotide variant	NM_014141.6(CNTNAP2):c.889C>T (p.Gln297Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	3594426
+single nucleotide variant	NM_014141.6(CNTNAP2):c.1719G>A (p.Trp573Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	3594427
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2383+1G>A	26047	CNTNAP2	Likely pathogenic	GRCh38	3594428
+single nucleotide variant	NM_014141.6(CNTNAP2):c.2641C>T (p.Gln881Ter)	26047	CNTNAP2	Likely pathogenic	GRCh38	3911042
+single nucleotide variant	NM_014141.6(CNTNAP2):c.3248-2A>G	26047	CNTNAP2	Likely pathogenic	GRCh38	4713318

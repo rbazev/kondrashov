@@ -1,0 +1,85 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000501.4(ELN):c.1324C>T (p.Gln442Ter)	2006	ELN	Pathogenic	GRCh38	16722
+single nucleotide variant	NM_000501.4(ELN):c.450C>G (p.Tyr150Ter)	2006	ELN	Pathogenic	GRCh38	16731
+single nucleotide variant	NM_000501.4(ELN):c.526A>T (p.Lys176Ter)	2006	ELN	Pathogenic	GRCh38	16732
+single nucleotide variant	NM_000501.4(ELN):c.1858+5G>C	2006	ELN	Pathogenic	GRCh38	29690
+single nucleotide variant	NM_000501.4(ELN):c.800-3C>G	2006	ELN	Pathogenic	GRCh38	43586
+single nucleotide variant	NM_000501.4(ELN):c.800-2A>G	2006	ELN	Pathogenic	GRCh38	163387
+single nucleotide variant	NM_000501.4(ELN):c.1097-1G>A	2006	ELN	Pathogenic	GRCh38	163389
+single nucleotide variant	NM_000501.4(ELN):c.1785T>A (p.Tyr595Ter)	2006	ELN	Pathogenic	GRCh38	163396
+single nucleotide variant	NM_000501.4(ELN):c.1858G>T (p.Gly620Ter)	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	163397
+single nucleotide variant	NM_000501.4(ELN):c.1918+1G>A	2006	ELN	Pathogenic	GRCh38	163398
+single nucleotide variant	NM_000501.4(ELN):c.889+2T>C	2006	ELN	Pathogenic	GRCh38	177951
+single nucleotide variant	NM_000501.4(ELN):c.890-2A>G	2006	ELN	Pathogenic	GRCh38	177997
+single nucleotide variant	NM_000501.4(ELN):c.2T>C (p.Met1Thr)	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	213185
+single nucleotide variant	NM_000501.4(ELN):c.618T>A (p.Tyr206Ter)	2006	ELN	Pathogenic	GRCh38	213174
+single nucleotide variant	NM_000501.4(ELN):c.814G>T (p.Gly272Ter)	2006	ELN	Pathogenic	GRCh38	4292483
+single nucleotide variant	NM_000501.4(ELN):c.1282G>T (p.Gly428Ter)	2006	ELN	Pathogenic	GRCh38	213178
+single nucleotide variant	NM_000501.4(ELN):c.1859-1G>A	2006	ELN	Likely pathogenic	GRCh38	213181
+single nucleotide variant	NM_000501.4(ELN):c.2132-7C>A	2006	ELN	Likely pathogenic	GRCh38	213184
+single nucleotide variant	NM_000501.4(ELN):c.450C>A (p.Tyr150Ter)	2006	ELN	Pathogenic	GRCh38	265394
+single nucleotide variant	NM_000501.4(ELN):c.631C>T (p.Pro211Ser)	2006	ELN	Pathogenic	GRCh38	419450
+single nucleotide variant	NM_000501.4(ELN):c.889+1G>A	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	418181
+single nucleotide variant	NM_000501.4(ELN):c.643+1G>A	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	429600
+single nucleotide variant	NM_000501.4(ELN):c.2031C>G (p.Tyr677Ter)	2006	ELN	Likely pathogenic	GRCh38	451699
+single nucleotide variant	NM_000501.4(ELN):c.634A>T (p.Lys212Ter)	2006	ELN	Pathogenic	GRCh38	504955
+single nucleotide variant	NM_000501.4(ELN):c.1357+1G>T	2006	ELN	Likely pathogenic	GRCh38	521602
+single nucleotide variant	NM_000501.4(ELN):c.944A>G (p.Lys315Arg)	2006	ELN	Pathogenic	GRCh38	524218
+single nucleotide variant	NM_000501.4(ELN):c.690T>A (p.Tyr230Ter)	2006	ELN	Pathogenic	GRCh38	581885
+single nucleotide variant	NM_000501.4(ELN):c.163+2T>C	2006	ELN	Pathogenic	GRCh38	652801
+single nucleotide variant	NM_000501.4(ELN):c.686-1G>A	2006	ELN	Likely pathogenic	GRCh38	644475
+single nucleotide variant	NM_000501.4(ELN):c.391C>T (p.Gln131Ter)	2006	ELN	Pathogenic	GRCh38	852728
+single nucleotide variant	NM_000501.4(ELN):c.1149C>A (p.Tyr383Ter)	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	835472
+single nucleotide variant	NM_000501.4(ELN):c.542-2A>T	2006	ELN	Likely pathogenic	GRCh38	836610
+single nucleotide variant	NM_000501.4(ELN):c.1919-1G>A	2006	ELN	Likely pathogenic	GRCh38	857053
+single nucleotide variant	NM_000501.4(ELN):c.1576+1G>A	2006	ELN	Likely pathogenic	GRCh38	858672
+single nucleotide variant	NM_000501.4(ELN):c.686-2A>G	2006	ELN	Likely pathogenic	GRCh38	950844
+single nucleotide variant	NM_000501.4(ELN):c.377-1G>T	2006	ELN	Likely pathogenic	GRCh38	967960
+single nucleotide variant	NM_000501.4(ELN):c.643+1G>C	2006	ELN	Likely pathogenic	GRCh38	976202
+single nucleotide variant	NM_000501.4(ELN):c.890-1G>A	2006	ELN	Pathogenic	GRCh38	995872
+single nucleotide variant	NM_000501.4(ELN):c.82+1G>A	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	1067515
+single nucleotide variant	NM_000501.4(ELN):c.889+1G>C	2006	ELN	Likely pathogenic	GRCh38	1066323
+single nucleotide variant	NM_000501.4(ELN):c.82+1G>C	2006	ELN	Pathogenic	GRCh38	1071495
+single nucleotide variant	NM_000501.4(ELN):c.948T>A (p.Tyr316Ter)	2006	ELN	Pathogenic	GRCh38	1076945
+single nucleotide variant	NM_000501.4(ELN):c.800-1G>A	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	1254893
+single nucleotide variant	NM_000501.4(ELN):c.133G>A (p.Gly45Arg)	2006	ELN	Likely pathogenic	GRCh38	1311305
+single nucleotide variant	NM_000501.4(ELN):c.1228G>T (p.Gly410Ter)	2006	ELN	Likely pathogenic	GRCh38	1324326
+single nucleotide variant	NM_000501.4(ELN):c.572-1G>A	2006	ELN	Likely pathogenic	GRCh38	1326836
+single nucleotide variant	NM_000501.4(ELN):c.1351A>T (p.Lys451Ter)	2006	ELN	Pathogenic	GRCh38	1382426
+single nucleotide variant	NM_000501.4(ELN):c.1168G>T (p.Gly390Ter)	2006	ELN	Pathogenic	GRCh38	1445727
+single nucleotide variant	NM_000501.4(ELN):c.1747+100G>C	2006	ELN	Likely pathogenic	GRCh38	1995066
+single nucleotide variant	NM_000501.4(ELN):c.1654G>T (p.Gly552Ter)	2006	ELN	Pathogenic	GRCh38	2017099
+single nucleotide variant	NM_000501.4(ELN):c.326-1G>T	2006	ELN	Likely pathogenic	GRCh38	2039821
+single nucleotide variant	NM_000501.4(ELN):c.1414+1G>C	2006	ELN	Likely pathogenic	GRCh38	2035410
+single nucleotide variant	NM_000501.4(ELN):c.377-2A>G	2006	ELN	Pathogenic/Likely pathogenic	GRCh38	2098445
+single nucleotide variant	NM_000501.4(ELN):c.134-1G>A	2006	ELN	Likely pathogenic	GRCh38	2440030
+single nucleotide variant	NM_000501.4(ELN):c.684T>A (p.Tyr228Ter)	2006	ELN	Likely pathogenic	GRCh38	2629687
+single nucleotide variant	NM_000501.4(ELN):c.364G>T (p.Gly122Ter)	2006	ELN	Pathogenic	GRCh38	2724257
+single nucleotide variant	NM_000501.4(ELN):c.1A>G (p.Met1Val)	2006	ELN	Pathogenic	GRCh38	2735031
+single nucleotide variant	NM_000501.4(ELN):c.163+2T>A	2006	ELN	Pathogenic	GRCh38	2763339
+single nucleotide variant	NM_000501.4(ELN):c.2033-1G>C	2006	ELN	Likely pathogenic	GRCh38	2832881
+single nucleotide variant	NM_000501.4(ELN):c.1576+2T>A	2006	ELN	Likely pathogenic	GRCh38	2855305
+single nucleotide variant	NM_000501.4(ELN):c.746-2A>T	2006	ELN	Likely pathogenic	GRCh38	2915879
+single nucleotide variant	NM_000501.4(ELN):c.1859-2A>T	2006	ELN	Likely pathogenic	GRCh38	3042657
+single nucleotide variant	NM_000501.4(ELN):c.1957G>T (p.Gly653Ter)	2006	ELN	Pathogenic	GRCh38	3076023
+single nucleotide variant	NM_000501.4(ELN):c.133+1G>T	2006	ELN	Likely pathogenic	GRCh38	3254767
+single nucleotide variant	NM_000501.4(ELN):c.44T>C (p.Leu15Pro)	2006	ELN	Likely pathogenic	GRCh38	3337074
+single nucleotide variant	NM_000501.4(ELN):c.673A>T (p.Lys225Ter)	2006	ELN	Pathogenic	GRCh38	3343934
+single nucleotide variant	NM_000501.4(ELN):c.2T>A (p.Met1Lys)	2006	ELN	Likely pathogenic	GRCh38	3377152
+single nucleotide variant	NM_000501.4(ELN):c.163+1G>T	2006	ELN	Pathogenic	GRCh38	3390559
+single nucleotide variant	NM_000501.4(ELN):c.1747+48G>T	2006	ELN	Pathogenic	GRCh38	3633668
+single nucleotide variant	NM_000501.4(ELN):c.82+2T>A	2006	ELN	Pathogenic	GRCh38	3648792
+single nucleotide variant	NM_000501.4(ELN):c.799+1G>A	2006	ELN	Likely pathogenic	GRCh38	3654025
+single nucleotide variant	NM_000501.4(ELN):c.832G>T (p.Gly278Ter)	2006	ELN	Pathogenic	GRCh38	3660853
+single nucleotide variant	NM_000501.4(ELN):c.1618C>G (p.Leu540Val)	2006	ELN	Pathogenic	GRCh38	3661346
+single nucleotide variant	NM_000501.4(ELN):c.1621+1G>C	2006	ELN	Likely pathogenic	GRCh38	3708481
+single nucleotide variant	NM_000501.4(ELN):c.1858+1G>A	2006	ELN	Likely pathogenic	GRCh38	3775791
+single nucleotide variant	NM_000501.4(ELN):c.889+1G>T	2006	ELN	Likely pathogenic	GRCh38	4070608
+single nucleotide variant	NM_000501.4(ELN):c.469+2T>C	2006	ELN	Likely pathogenic	GRCh38	4339340
+single nucleotide variant	NM_000501.4(ELN):c.799+2T>C	2006	ELN	Likely pathogenic	GRCh38	4718351
+single nucleotide variant	NM_000501.4(ELN):c.326-1G>A	2006	ELN	Likely pathogenic	GRCh38	4766197
+single nucleotide variant	NM_000501.4(ELN):c.1786+1G>A	2006	ELN	Likely pathogenic	GRCh38	4767277
+single nucleotide variant	NM_000501.4(ELN):c.376+1G>T	2006	ELN	Likely pathogenic	GRCh38	4809325
+single nucleotide variant	NM_000501.4(ELN):c.71C>T (p.Ser24Phe)	2006	ELN	Likely pathogenic	GRCh38	4857004
+single nucleotide variant	NM_000501.4(ELN):c.1942G>T (p.Gly648Ter)	2006	ELN	Pathogenic	GRCh38	4886980
+single nucleotide variant	NM_000501.4(ELN):c.1918+2T>G	2006	ELN	Likely pathogenic	GRCh38	4887371

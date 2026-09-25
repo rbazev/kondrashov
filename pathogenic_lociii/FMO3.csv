@@ -1,0 +1,69 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001002294.3(FMO3):c.913G>T (p.Glu305Ter)	2328	FMO3	Pathogenic	GRCh38	16304
+single nucleotide variant	NM_001002294.3(FMO3):c.198G>T (p.Met66Ile)	2328	FMO3	Likely pathogenic	GRCh38	16306
+single nucleotide variant	NM_001002294.3(FMO3):c.458C>T (p.Pro153Leu)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	16308
+single nucleotide variant	NM_001002294.3(FMO3):c.1474C>T (p.Arg492Trp)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	16309
+single nucleotide variant	NM_001002294.3(FMO3):c.442G>T (p.Gly148Ter)	2328	FMO3	Pathogenic	GRCh38	16310
+single nucleotide variant	NM_001002294.3(FMO3):c.940G>T (p.Glu314Ter)	2328	FMO3	Pathogenic	GRCh38	16312
+single nucleotide variant	NM_001002294.3(FMO3):c.182A>G (p.Asn61Ser)	2328	FMO3	Likely pathogenic	GRCh38	16313
+single nucleotide variant	NM_001002294.3(FMO3):c.1302G>A (p.Met434Ile)	2328	FMO3	Likely pathogenic	GRCh38	16314
+single nucleotide variant	NM_001002294.3(FMO3):c.94G>A (p.Glu32Lys)	2328	FMO3	Likely pathogenic	GRCh38	16316
+single nucleotide variant	NM_001002294.3(FMO3):c.132+1G>T	2328	FMO3	Likely pathogenic	GRCh38	260067
+single nucleotide variant	NM_001002294.3(FMO3):c.859G>T (p.Glu287Ter)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	379574
+single nucleotide variant	NM_001002294.3(FMO3):c.370C>T (p.Gln124Ter)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	562008
+single nucleotide variant	NM_001002294.3(FMO3):c.442G>A (p.Gly148Arg)	2328	FMO3	Likely pathogenic	GRCh38	562009
+single nucleotide variant	NM_001002294.3(FMO3):c.929C>T (p.Ser310Leu)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	631576
+single nucleotide variant	NM_001002294.3(FMO3):c.713G>A (p.Arg238Gln)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	874042
+single nucleotide variant	NM_001002294.3(FMO3):c.667C>T (p.Arg223Trp)	2328	FMO3	Likely pathogenic	GRCh38	1321151
+single nucleotide variant	NM_001002294.3(FMO3):c.622G>T (p.Glu208Ter)	2328	FMO3	Pathogenic	GRCh38	1322927
+single nucleotide variant	NM_001002294.3(FMO3):c.122G>A (p.Trp41Ter)	2328	FMO3	Pathogenic	GRCh38	4888645
+single nucleotide variant	NM_001002294.3(FMO3):c.584C>T (p.Ser195Leu)	2328	FMO3	Likely pathogenic	GRCh38	2503941
+single nucleotide variant	NM_001002294.3(FMO3):c.1408C>T (p.Gln470Ter)	2328	FMO3	Pathogenic	GRCh38	2627164
+single nucleotide variant	NM_001002294.3(FMO3):c.151A>G (p.Arg51Gly)	2328	FMO3	Likely pathogenic	GRCh38	2662180
+single nucleotide variant	NM_001002294.3(FMO3):c.625C>T (p.Gln209Ter)	2328	FMO3	Pathogenic	GRCh38	2694513
+single nucleotide variant	NM_001002294.3(FMO3):c.1005C>A (p.Tyr335Ter)	2328	FMO3	Pathogenic	GRCh38	2692638
+single nucleotide variant	NM_001002294.3(FMO3):c.712C>T (p.Arg238Ter)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	2719491
+single nucleotide variant	NM_001002294.3(FMO3):c.775C>T (p.Gln259Ter)	2328	FMO3	Pathogenic	GRCh38	2734480
+single nucleotide variant	NM_001002294.3(FMO3):c.209C>T (p.Pro70Leu)	2328	FMO3	Pathogenic	GRCh38	2734029
+single nucleotide variant	NM_001002294.3(FMO3):c.668G>A (p.Arg223Gln)	2328	FMO3	Likely pathogenic	GRCh38	2734030
+single nucleotide variant	NM_001002294.3(FMO3):c.778A>G (p.Met260Val)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	2734031
+single nucleotide variant	NM_001002294.3(FMO3):c.1262G>T (p.Gly421Val)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	2734033
+single nucleotide variant	NM_001002294.3(FMO3):c.1498C>T (p.Arg500Ter)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	2734034
+single nucleotide variant	NM_001002294.3(FMO3):c.170C>G (p.Ser57Ter)	2328	FMO3	Pathogenic	GRCh38	2744460
+single nucleotide variant	NM_001002294.3(FMO3):c.584C>A (p.Ser195Ter)	2328	FMO3	Pathogenic	GRCh38	2746410
+single nucleotide variant	NM_001002294.3(FMO3):c.484+2T>G	2328	FMO3	Likely pathogenic	GRCh38	2751924
+single nucleotide variant	NM_001002294.3(FMO3):c.628-1G>A	2328	FMO3	Likely pathogenic	GRCh38	2770970
+single nucleotide variant	NM_001002294.3(FMO3):c.1231G>T (p.Glu411Ter)	2328	FMO3	Pathogenic	GRCh38	2770296
+single nucleotide variant	NM_001002294.3(FMO3):c.1257G>A (p.Trp419Ter)	2328	FMO3	Pathogenic	GRCh38	2764607
+single nucleotide variant	NM_001002294.3(FMO3):c.133-2A>G	2328	FMO3	Likely pathogenic	GRCh38	2822685
+single nucleotide variant	NM_001002294.3(FMO3):c.321+1G>T	2328	FMO3	Likely pathogenic	GRCh38	2837854
+single nucleotide variant	NM_001002294.3(FMO3):c.484+1G>A	2328	FMO3	Likely pathogenic	GRCh38	2841690
+single nucleotide variant	NM_001002294.3(FMO3):c.1184-2A>G	2328	FMO3	Likely pathogenic	GRCh38	2854152
+single nucleotide variant	NM_001002294.3(FMO3):c.692G>A (p.Trp231Ter)	2328	FMO3	Pathogenic	GRCh38	2852024
+single nucleotide variant	NM_001002294.3(FMO3):c.1A>G (p.Met1Val)	2328	FMO3	Pathogenic/Likely pathogenic	GRCh38	2898902
+single nucleotide variant	NM_001002294.3(FMO3):c.406G>T (p.Glu136Ter)	2328	FMO3	Pathogenic	GRCh38	2993513
+single nucleotide variant	NM_001002294.3(FMO3):c.10A>T (p.Lys4Ter)	2328	FMO3	Pathogenic	GRCh38	3013899
+single nucleotide variant	NM_001002294.3(FMO3):c.828-2A>G	2328	FMO3	Likely pathogenic	GRCh38	3064195
+single nucleotide variant	NM_001002294.3(FMO3):c.571G>T (p.Gly191Cys)	2328	FMO3	Likely pathogenic	GRCh38	3251858
+single nucleotide variant	NM_001002294.3(FMO3):c.419T>C (p.Phe140Ser)	2328	FMO3	Likely pathogenic	GRCh38	3366396
+single nucleotide variant	NM_001002294.3(FMO3):c.132+1G>A	2328	FMO3	Likely pathogenic	GRCh38	3573932
+single nucleotide variant	NM_001002294.3(FMO3):c.262C>T (p.Gln88Ter)	2328	FMO3	Likely pathogenic	GRCh38	3573948
+single nucleotide variant	NM_001002294.3(FMO3):c.375G>A (p.Trp125Ter)	2328	FMO3	Likely pathogenic	GRCh38	3573955
+single nucleotide variant	NM_001002294.3(FMO3):c.768C>A (p.Tyr256Ter)	2328	FMO3	Likely pathogenic	GRCh38	3573995
+single nucleotide variant	NM_001002294.3(FMO3):c.828-2A>T	2328	FMO3	Likely pathogenic	GRCh38	3574004
+single nucleotide variant	NM_001002294.3(FMO3):c.841G>T (p.Glu281Ter)	2328	FMO3	Likely pathogenic	GRCh38	3574006
+single nucleotide variant	NM_001002294.3(FMO3):c.1159C>G (p.Arg387Gly)	2328	FMO3	Likely pathogenic	GRCh38	3574020
+single nucleotide variant	NM_001002294.3(FMO3):c.1159C>T (p.Arg387Cys)	2328	FMO3	Likely pathogenic	GRCh38	3574022
+single nucleotide variant	NM_001002294.3(FMO3):c.1164G>A (p.Trp388Ter)	2328	FMO3	Likely pathogenic	GRCh38	3574029
+single nucleotide variant	NM_001002294.3(FMO3):c.1256G>A (p.Trp419Ter)	2328	FMO3	Likely pathogenic	GRCh38	3574043
+single nucleotide variant	NM_001002294.3(FMO3):c.1306G>T (p.Glu436Ter)	2328	FMO3	Likely pathogenic	GRCh38	3574059
+single nucleotide variant	NM_001002294.3(FMO3):c.762G>A (p.Trp254Ter)	2328	FMO3	Pathogenic	GRCh38	3639272
+single nucleotide variant	NM_001002294.3(FMO3):c.628-2A>G	2328	FMO3	Likely pathogenic	GRCh38	3640860
+single nucleotide variant	NM_001002294.3(FMO3):c.1045G>T (p.Glu349Ter)	2328	FMO3	Pathogenic	GRCh38	3640617
+single nucleotide variant	NM_001002294.3(FMO3):c.989G>A (p.Gly330Glu)	2328	FMO3	Likely pathogenic	GRCh38	3779673
+single nucleotide variant	NM_001002294.3(FMO3):c.3G>A (p.Met1Ile)	2328	FMO3	Likely pathogenic	GRCh38	4081684
+single nucleotide variant	NM_001002294.3(FMO3):c.694G>T (p.Asp232Tyr)	2328	FMO3	Likely pathogenic	GRCh38	4750109
+single nucleotide variant	NM_001002294.3(FMO3):c.1102G>T (p.Val368Leu)	2328	FMO3	Pathogenic	GRCh38	4888482
+single nucleotide variant	NM_001002294.3(FMO3):c.371A>G (p.Gln124Arg)	2328	FMO3	Likely pathogenic	GRCh38	4889505
+single nucleotide variant	NM_001002294.3(FMO3):c.1491G>A (p.Met497Ile)	2328	FMO3	Likely pathogenic	GRCh38	4890143
+single nucleotide variant	NM_001002294.3(FMO3):c.322-2A>G	2328	FMO3	Likely pathogenic	GRCh38	4890148

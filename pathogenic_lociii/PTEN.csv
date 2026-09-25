@@ -1,0 +1,516 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000314.8(PTEN):c.386G>A (p.Gly129Glu)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	7812
+single nucleotide variant	NM_000314.8(PTEN):c.697C>T (p.Arg233Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	7813
+single nucleotide variant	NM_000314.8(PTEN):c.469G>T (p.Glu157Ter)	5728	PTEN	Pathogenic	GRCh38	7814
+single nucleotide variant	NM_000314.8(PTEN):c.510T>A (p.Ser170Arg)	5728	PTEN	Pathogenic	GRCh38	7815
+single nucleotide variant	NM_000314.8(PTEN):c.368A>G (p.His123Arg)	5728	PTEN	Pathogenic	GRCh38	7816
+single nucleotide variant	NM_000314.8(PTEN):c.370T>C (p.Cys124Arg)	5728	PTEN	Pathogenic	GRCh38	7817
+single nucleotide variant	NM_000314.8(PTEN):c.388C>T (p.Arg130Ter)	5728	PTEN	Pathogenic	GRCh38	7819
+single nucleotide variant	NM_000314.8(PTEN):c.253+1G>A	5728	PTEN	Pathogenic	GRCh38	7820
+single nucleotide variant	NM_000314.8(PTEN):c.492+2T>G	5728	PTEN	Pathogenic	GRCh38	7821
+single nucleotide variant	NM_000314.8(PTEN):c.104T>G (p.Met35Arg)	5728	PTEN	Pathogenic	GRCh38	7825
+single nucleotide variant	NM_000314.8(PTEN):c.209T>C (p.Leu70Pro)	5728	PTEN	Likely pathogenic	GRCh38	7826
+single nucleotide variant	NM_000314.8(PTEN):c.640C>T (p.Gln214Ter)	5728	PTEN	Pathogenic	GRCh38	7827
+single nucleotide variant	NM_000314.8(PTEN):c.766G>T (p.Glu256Ter)	5728	PTEN	Pathogenic	GRCh38	7828
+single nucleotide variant	NM_000314.8(PTEN):c.389G>A (p.Arg130Gln)	5728	PTEN	Pathogenic	GRCh38	7829
+single nucleotide variant	NM_000314.8(PTEN):c.564T>A (p.Tyr188Ter)	5728	PTEN	Likely pathogenic	GRCh38	7831
+single nucleotide variant	NM_000314.8(PTEN):c.335T>C (p.Leu112Pro)	5728	PTEN	Pathogenic	GRCh38	7832
+single nucleotide variant	NM_000314.8(PTEN):c.1003C>T (p.Arg335Ter)	5728	PTEN	Pathogenic	GRCh38	7833
+single nucleotide variant	NM_000314.8(PTEN):c.633C>A (p.Cys211Ter)	5728	PTEN	Pathogenic	GRCh38	7836
+single nucleotide variant	NM_000314.8(PTEN):c.181C>G (p.His61Asp)	5728	PTEN	Likely pathogenic	GRCh38	7841
+single nucleotide variant	NM_000314.8(PTEN):c.278A>G (p.His93Arg)	5728	PTEN	Pathogenic	GRCh38	7848
+single nucleotide variant	NM_000314.8(PTEN):c.755A>G (p.Asp252Gly)	5728	PTEN	Pathogenic	GRCh38	7849
+single nucleotide variant	NM_000314.8(PTEN):c.722T>C (p.Phe241Ser)	5728	PTEN	Likely pathogenic	GRCh38	7850
+single nucleotide variant	NM_000314.8(PTEN):c.395G>T (p.Gly132Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	7852
+single nucleotide variant	NM_000314.8(PTEN):c.500C>A (p.Thr167Asn)	5728	PTEN	Likely pathogenic	GRCh38	39668
+single nucleotide variant	NM_000314.8(PTEN):c.392C>T (p.Thr131Ile)	5728	PTEN	Pathogenic	GRCh38	39669
+single nucleotide variant	NM_000314.8(PTEN):c.286C>T (p.Pro96Ser)	5728	PTEN	Pathogenic	GRCh38	92819
+single nucleotide variant	NM_000314.8(PTEN):c.331T>C (p.Trp111Arg)	5728	PTEN	Pathogenic	GRCh38	92820
+single nucleotide variant	NM_000314.8(PTEN):c.395G>A (p.Gly132Asp)	5728	PTEN	Pathogenic	GRCh38	92822
+single nucleotide variant	NM_000314.8(PTEN):c.44G>T (p.Arg15Ile)	5728	PTEN	Likely pathogenic	GRCh38	4530405
+single nucleotide variant	NM_000314.8(PTEN):c.463T>A (p.Tyr155Asn)	5728	PTEN	Likely pathogenic	GRCh38	1742096
+single nucleotide variant	NM_000314.8(PTEN):c.379G>A (p.Gly127Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	139568
+single nucleotide variant	NM_000314.8(PTEN):c.493-2A>G	5728	PTEN	Pathogenic	GRCh38	141485
+single nucleotide variant	NM_000314.8(PTEN):c.389G>C (p.Arg130Pro)	5728	PTEN	Pathogenic	GRCh38	142018
+single nucleotide variant	NM_000314.8(PTEN):c.48T>A (p.Tyr16Ter)	5728	PTEN	Pathogenic	GRCh38	142027
+single nucleotide variant	NM_000314.8(PTEN):c.520T>A (p.Tyr174Asn)	5728	PTEN	Likely pathogenic	GRCh38	142220
+single nucleotide variant	NM_000314.8(PTEN):c.314G>A (p.Cys105Tyr)	5728	PTEN	Pathogenic	GRCh38	142261
+single nucleotide variant	NM_000314.8(PTEN):c.737C>T (p.Pro246Leu)	5728	PTEN	Pathogenic	GRCh38	142269
+single nucleotide variant	NM_000314.8(PTEN):c.403A>G (p.Ile135Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	142287
+single nucleotide variant	NM_000314.8(PTEN):c.802-2A>T	5728	PTEN	Pathogenic	GRCh38	142423
+single nucleotide variant	NM_000314.8(PTEN):c.598T>G (p.Phe200Val)	5728	PTEN	Likely pathogenic	GRCh38	142452
+single nucleotide variant	NM_000314.8(PTEN):c.493G>T (p.Gly165Ter)	5728	PTEN	Pathogenic	GRCh38	142636
+single nucleotide variant	NM_000314.8(PTEN):c.822G>A (p.Trp274Ter)	5728	PTEN	Pathogenic	GRCh38	142640
+single nucleotide variant	NM_000314.8(PTEN):c.634+2T>G	5728	PTEN	Pathogenic	GRCh38	167550
+single nucleotide variant	NM_000314.8(PTEN):c.781C>T (p.Gln261Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	183073
+single nucleotide variant	NM_000314.8(PTEN):c.70G>A (p.Asp24Asn)	5728	PTEN	Pathogenic	GRCh38	185200
+single nucleotide variant	NM_000314.8(PTEN):c.70G>C (p.Asp24His)	5728	PTEN	Pathogenic	GRCh38	186005
+single nucleotide variant	NM_000314.8(PTEN):c.165-1G>A	5728	PTEN	Likely pathogenic	GRCh38	187590
+single nucleotide variant	NM_000314.8(PTEN):c.170T>G (p.Leu57Trp)	5728	PTEN	Likely pathogenic	GRCh38	185713
+single nucleotide variant	NM_000314.8(PTEN):c.370T>G (p.Cys124Gly)	5728	PTEN	Pathogenic	GRCh38	185817
+single nucleotide variant	NM_000314.8(PTEN):c.406T>C (p.Cys136Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	183726
+single nucleotide variant	NM_000314.8(PTEN):c.475A>G (p.Arg159Gly)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	186094
+single nucleotide variant	NM_000314.8(PTEN):c.518G>C (p.Arg173Pro)	5728	PTEN	Pathogenic	GRCh38	185195
+single nucleotide variant	NM_000314.8(PTEN):c.540C>G (p.Tyr180Ter)	5728	PTEN	Pathogenic	GRCh38	186153
+single nucleotide variant	NM_000314.8(PTEN):c.733C>T (p.Gln245Ter)	5728	PTEN	Pathogenic	GRCh38	186396
+single nucleotide variant	NM_000314.8(PTEN):c.830C>T (p.Thr277Ile)	5728	PTEN	Pathogenic	GRCh38	184277
+single nucleotide variant	NM_000314.8(PTEN):c.850G>T (p.Glu284Ter)	5728	PTEN	Pathogenic	GRCh38	186293
+single nucleotide variant	NM_000314.8(PTEN):c.892C>T (p.Gln298Ter)	5728	PTEN	Pathogenic	GRCh38	187657
+single nucleotide variant	NM_000314.8(PTEN):c.964A>T (p.Lys322Ter)	5728	PTEN	Likely pathogenic	GRCh38	185213
+single nucleotide variant	NM_000314.8(PTEN):c.1026+1G>A	5728	PTEN	Pathogenic	GRCh38	183722
+single nucleotide variant	NM_000314.8(PTEN):c.49C>T (p.Gln17Ter)	5728	PTEN	Pathogenic	GRCh38	189458
+single nucleotide variant	NM_000314.8(PTEN):c.70G>T (p.Asp24Tyr)	5728	PTEN	Pathogenic	GRCh38	189398
+single nucleotide variant	NM_000314.8(PTEN):c.77C>T (p.Thr26Ile)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	189399
+single nucleotide variant	NM_000314.8(PTEN):c.79T>A (p.Tyr27Asn)	5728	PTEN	Likely pathogenic	GRCh38	2735432
+single nucleotide variant	NM_000314.8(PTEN):c.80-1G>C	5728	PTEN	Pathogenic	GRCh38	189462
+single nucleotide variant	NM_000314.8(PTEN):c.106G>C (p.Gly36Arg)	5728	PTEN	Likely pathogenic	GRCh38	189400
+single nucleotide variant	NM_000314.8(PTEN):c.139A>G (p.Arg47Gly)	5728	PTEN	Pathogenic	GRCh38	189401
+single nucleotide variant	NM_000314.8(PTEN):c.182A>G (p.His61Arg)	5728	PTEN	Likely pathogenic	GRCh38	189402
+single nucleotide variant	NM_000314.8(PTEN):c.202T>C (p.Tyr68His)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	189474
+single nucleotide variant	NM_000314.8(PTEN):c.253+1G>T	5728	PTEN	Pathogenic	GRCh38	189475
+single nucleotide variant	NM_000314.8(PTEN):c.277C>G (p.His93Asp)	5728	PTEN	Likely pathogenic	GRCh38	189482
+single nucleotide variant	NM_000314.8(PTEN):c.284C>T (p.Pro95Leu)	5728	PTEN	Pathogenic	GRCh38	189403
+single nucleotide variant	NM_000314.8(PTEN):c.289C>T (p.Gln97Ter)	5728	PTEN	Pathogenic	GRCh38	189483
+single nucleotide variant	NM_000314.8(PTEN):c.320A>G (p.Asp107Gly)	5728	PTEN	Likely pathogenic	GRCh38	1728902
+single nucleotide variant	NM_000314.8(PTEN):c.367C>T (p.His123Tyr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	189486
+single nucleotide variant	NM_000314.8(PTEN):c.385G>A (p.Gly129Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	189484
+single nucleotide variant	NM_000314.8(PTEN):c.407G>A (p.Cys136Tyr)	5728	PTEN	Pathogenic	GRCh38	189406
+single nucleotide variant	NM_000314.8(PTEN):c.437T>A (p.Leu146Ter)	5728	PTEN	Pathogenic	GRCh38	189488
+single nucleotide variant	NM_000314.8(PTEN):c.448G>T (p.Glu150Ter)	5728	PTEN	Pathogenic	GRCh38	189489
+single nucleotide variant	NM_000314.8(PTEN):c.493-1G>A	5728	PTEN	Pathogenic	GRCh38	189409
+single nucleotide variant	NM_000314.8(PTEN):c.494G>T (p.Gly165Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1341516
+single nucleotide variant	NM_000314.8(PTEN):c.511C>T (p.Gln171Ter)	5728	PTEN	Pathogenic	GRCh38	189411
+single nucleotide variant	NM_000314.8(PTEN):c.512A>G (p.Gln171Arg)	5728	PTEN	Likely pathogenic	GRCh38	189412
+single nucleotide variant	NM_000314.8(PTEN):c.517C>T (p.Arg173Cys)	5728	PTEN	Pathogenic	GRCh38	189500
+single nucleotide variant	NM_000314.8(PTEN):c.599T>C (p.Phe200Ser)	5728	PTEN	Likely pathogenic	GRCh38	189414
+single nucleotide variant	NM_000314.8(PTEN):c.610C>G (p.Pro204Ala)	5728	PTEN	Pathogenic	GRCh38	189415
+single nucleotide variant	NM_000314.8(PTEN):c.801+1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	189420
+single nucleotide variant	NM_000314.8(PTEN):c.802-2A>G	5728	PTEN	Pathogenic	GRCh38	189509
+single nucleotide variant	NM_000314.8(PTEN):c.821G>A (p.Trp274Ter)	5728	PTEN	Pathogenic	GRCh38	1762511
+single nucleotide variant	NM_000314.8(PTEN):c.919G>T (p.Glu307Ter)	5728	PTEN	Pathogenic	GRCh38	189423
+single nucleotide variant	NM_000314.8(PTEN):c.1026+1G>C	5728	PTEN	Pathogenic	GRCh38	189511
+single nucleotide variant	NM_000314.8(PTEN):c.71A>G (p.Asp24Gly)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	208723
+single nucleotide variant	NM_000314.8(PTEN):c.422A>C (p.His141Pro)	5728	PTEN	Likely pathogenic	GRCh38	216422
+single nucleotide variant	NM_000314.8(PTEN):c.437T>G (p.Leu146Ter)	5728	PTEN	Pathogenic	GRCh38	216068
+single nucleotide variant	NM_000314.8(PTEN):c.860C>G (p.Ser287Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	216987
+single nucleotide variant	NM_000314.8(PTEN):c.521A>G (p.Tyr174Cys)	5728	PTEN	Likely pathogenic	GRCh38	220007
+single nucleotide variant	NM_000314.8(PTEN):c.740T>C (p.Leu247Ser)	5728	PTEN	Likely pathogenic	GRCh38	223142
+single nucleotide variant	NM_000314.8(PTEN):c.118G>T (p.Glu40Ter)	5728	PTEN	Pathogenic	GRCh38	224545
+single nucleotide variant	NM_000314.8(PTEN):c.408T>G (p.Cys136Trp)	5728	PTEN	Pathogenic	GRCh38	224543
+single nucleotide variant	NM_000314.8(PTEN):c.486C>G (p.Asp162Glu)	5728	PTEN	Likely pathogenic	GRCh38	224544
+single nucleotide variant	NM_000314.8(PTEN):c.67T>G (p.Leu23Val)	5728	PTEN	Likely pathogenic	GRCh38	234830
+single nucleotide variant	NM_000314.8(PTEN):c.76A>C (p.Thr26Pro)	5728	PTEN	Pathogenic	GRCh38	234410
+single nucleotide variant	NM_000314.8(PTEN):c.242T>G (p.Phe81Cys)	5728	PTEN	Likely pathogenic	GRCh38	234710
+single nucleotide variant	NM_000314.8(PTEN):c.492+2T>C	5728	PTEN	Pathogenic	GRCh38	234620
+single nucleotide variant	NM_000314.8(PTEN):c.635-1G>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	234446
+single nucleotide variant	NM_000314.8(PTEN):c.945T>A (p.Tyr315Ter)	5728	PTEN	Pathogenic	GRCh38	234509
+single nucleotide variant	NM_000314.8(PTEN):c.64G>C (p.Asp22His)	5728	PTEN	Likely pathogenic	GRCh38	233456
+single nucleotide variant	NM_000314.8(PTEN):c.103A>G (p.Met35Val)	5728	PTEN	Pathogenic	GRCh38	231916
+single nucleotide variant	NM_000314.8(PTEN):c.112C>A (p.Pro38Thr)	5728	PTEN	Likely pathogenic	GRCh38	229912
+single nucleotide variant	NM_000314.8(PTEN):c.144C>G (p.Asn48Lys)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	231771
+single nucleotide variant	NM_000314.8(PTEN):c.203A>G (p.Tyr68Cys)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	233777
+single nucleotide variant	NM_000314.8(PTEN):c.209+1G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	229705
+single nucleotide variant	NM_000314.8(PTEN):c.371G>A (p.Cys124Tyr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	233631
+single nucleotide variant	NM_000314.8(PTEN):c.509G>T (p.Ser170Ile)	5728	PTEN	Pathogenic	GRCh38	233590
+single nucleotide variant	NM_000314.8(PTEN):c.750T>A (p.Cys250Ter)	5728	PTEN	Pathogenic	GRCh38	232528
+single nucleotide variant	NM_000314.8(PTEN):c.1212A>T (p.Ter404Cys)	5728	PTEN	Pathogenic	GRCh38	234144
+single nucleotide variant	NM_000314.8(PTEN):c.531T>G (p.Tyr177Ter)	5728	PTEN	Pathogenic	GRCh38	235334
+single nucleotide variant	NM_000314.8(PTEN):c.195C>G (p.Tyr65Ter)	5728	PTEN	Pathogenic	GRCh38	237643
+single nucleotide variant	NM_000314.8(PTEN):c.209+2T>A	5728	PTEN	Pathogenic	GRCh38	237644
+single nucleotide variant	NM_000314.8(PTEN):c.877G>T (p.Gly293Ter)	5728	PTEN	Pathogenic	GRCh38	237654
+single nucleotide variant	NM_000314.8(PTEN):c.633C>G (p.Cys211Trp)	5728	PTEN	Pathogenic	GRCh38	279878
+single nucleotide variant	NM_000314.8(PTEN):c.80A>C (p.Tyr27Ser)	5728	PTEN	Likely pathogenic	GRCh38	280724
+single nucleotide variant	NM_000314.8(PTEN):c.634+5G>A	5728	PTEN	Pathogenic	GRCh38	280031
+single nucleotide variant	NM_000314.8(PTEN):c.140G>A (p.Arg47Lys)	5728	PTEN	Likely pathogenic	GRCh38	373446
+single nucleotide variant	NM_000314.8(PTEN):c.1027-1G>A	5728	PTEN	Pathogenic	GRCh38	372482
+single nucleotide variant	NM_000314.8(PTEN):c.320A>T (p.Asp107Val)	5728	PTEN	Pathogenic	GRCh38	372481
+single nucleotide variant	NM_000314.8(PTEN):c.388C>G (p.Arg130Gly)	5728	PTEN	Pathogenic	GRCh38	375958
+single nucleotide variant	NM_000314.8(PTEN):c.477G>T (p.Arg159Ser)	5728	PTEN	Likely pathogenic	GRCh38	375959
+single nucleotide variant	NM_000314.8(PTEN):c.518G>A (p.Arg173His)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	376032
+single nucleotide variant	NM_000314.8(PTEN):c.389G>T (p.Arg130Leu)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	376509
+single nucleotide variant	NM_000314.8(PTEN):c.254-1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	377376
+single nucleotide variant	NM_000314.8(PTEN):c.164+1G>T	5728	PTEN	Pathogenic	GRCh38	381529
+single nucleotide variant	NM_000314.8(PTEN):c.430A>T (p.Lys144Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	379501
+single nucleotide variant	NM_000314.8(PTEN):c.445C>T (p.Gln149Ter)	5728	PTEN	Pathogenic	GRCh38	404164
+single nucleotide variant	NM_000314.8(PTEN):c.945T>G (p.Tyr315Ter)	5728	PTEN	Pathogenic	GRCh38	404157
+single nucleotide variant	NM_000314.8(PTEN):c.293T>G (p.Leu98Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	404143
+single nucleotide variant	NM_000314.8(PTEN):c.44G>A (p.Arg15Lys)	5728	PTEN	Likely pathogenic	GRCh38	404147
+single nucleotide variant	NM_000314.8(PTEN):c.176C>G (p.Ser59Ter)	5728	PTEN	Pathogenic	GRCh38	404151
+single nucleotide variant	NM_000314.8(PTEN):c.675T>G (p.Tyr225Ter)	5728	PTEN	Pathogenic	GRCh38	404162
+single nucleotide variant	NM_000314.8(PTEN):c.80A>G (p.Tyr27Cys)	5728	PTEN	Likely pathogenic	GRCh38	404160
+single nucleotide variant	NM_000314.8(PTEN):c.464A>G (p.Tyr155Cys)	5728	PTEN	Pathogenic	GRCh38	404168
+single nucleotide variant	NM_000314.8(PTEN):c.45A>T (p.Arg15Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	419769
+single nucleotide variant	NM_000314.8(PTEN):c.46T>G (p.Tyr16Asp)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	422899
+single nucleotide variant	NM_000314.8(PTEN):c.113C>G (p.Pro38Arg)	5728	PTEN	Pathogenic	GRCh38	424262
+single nucleotide variant	NM_000314.8(PTEN):c.209+1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	418434
+single nucleotide variant	NM_000314.8(PTEN):c.323T>C (p.Leu108Pro)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	418436
+single nucleotide variant	NM_000314.8(PTEN):c.947T>C (p.Leu316Pro)	5728	PTEN	Likely pathogenic	GRCh38	418653
+single nucleotide variant	NM_000314.8(PTEN):c.35A>C (p.Asn12Thr)	5728	PTEN	Pathogenic	GRCh38	427586
+single nucleotide variant	NM_000314.8(PTEN):c.131G>A (p.Gly44Asp)	5728	PTEN	Pathogenic	GRCh38	427582
+single nucleotide variant	NM_000314.8(PTEN):c.164+1G>C	5728	PTEN	Pathogenic	GRCh38	427583
+single nucleotide variant	NM_000314.8(PTEN):c.165-2A>G	5728	PTEN	Pathogenic	GRCh38	427584
+single nucleotide variant	NM_000314.8(PTEN):c.253+1G>C	5728	PTEN	Pathogenic	GRCh38	427585
+single nucleotide variant	NM_000314.8(PTEN):c.316G>T (p.Glu106Ter)	5728	PTEN	Pathogenic	GRCh38	427579
+single nucleotide variant	NM_000314.8(PTEN):c.369C>G (p.His123Gln)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427587
+single nucleotide variant	NM_000314.8(PTEN):c.401T>C (p.Met134Thr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427588
+single nucleotide variant	NM_000314.8(PTEN):c.416T>G (p.Leu139Ter)	5728	PTEN	Pathogenic	GRCh38	427590
+single nucleotide variant	NM_000314.8(PTEN):c.605C>T (p.Thr202Ile)	5728	PTEN	Pathogenic	GRCh38	427595
+single nucleotide variant	NM_000314.8(PTEN):c.635-3C>G	5728	PTEN	Likely pathogenic	GRCh38	427599
+single nucleotide variant	NM_000314.8(PTEN):c.635-1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427598
+single nucleotide variant	NM_000314.8(PTEN):c.667A>T (p.Lys223Ter)	5728	PTEN	Pathogenic	GRCh38	427591
+single nucleotide variant	NM_000314.8(PTEN):c.821G>T (p.Trp274Leu)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427600
+single nucleotide variant	NM_000314.8(PTEN):c.1027-2A>G	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427581
+single nucleotide variant	NM_000314.8(PTEN):c.165-1G>C	5728	PTEN	Pathogenic	GRCh38	427613
+single nucleotide variant	NM_000314.8(PTEN):c.209+5G>A	5728	PTEN	Pathogenic	GRCh38	427614
+single nucleotide variant	NM_000314.8(PTEN):c.210-1G>A	5728	PTEN	Pathogenic	GRCh38	427616
+single nucleotide variant	NM_000314.8(PTEN):c.253+5G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427618
+single nucleotide variant	NM_000314.8(PTEN):c.253+5G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427617
+single nucleotide variant	NM_000314.8(PTEN):c.492+1G>T	5728	PTEN	Pathogenic	GRCh38	427619
+single nucleotide variant	NM_000314.8(PTEN):c.634+1G>C	5728	PTEN	Pathogenic	GRCh38	427620
+single nucleotide variant	NM_000314.8(PTEN):c.634+2T>C	5728	PTEN	Pathogenic	GRCh38	427621
+single nucleotide variant	NM_000314.8(PTEN):c.634+4A>T	5728	PTEN	Pathogenic	GRCh38	427622
+single nucleotide variant	NM_000314.8(PTEN):c.634+5G>C	5728	PTEN	Pathogenic	GRCh38	427623
+single nucleotide variant	NM_000314.8(PTEN):c.1027-2A>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	427624
+single nucleotide variant	NM_000314.8(PTEN):c.44G>C (p.Arg15Thr)	5728	PTEN	Likely pathogenic	GRCh38	428243
+single nucleotide variant	NM_000314.8(PTEN):c.45A>C (p.Arg15Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428194
+single nucleotide variant	NM_000314.8(PTEN):c.59G>T (p.Gly20Val)	5728	PTEN	Likely pathogenic	GRCh38	428266
+single nucleotide variant	NM_000314.8(PTEN):c.104T>C (p.Met35Thr)	5728	PTEN	Likely pathogenic	GRCh38	428244
+single nucleotide variant	NM_000314.8(PTEN):c.138C>A (p.Tyr46Ter)	5728	PTEN	Pathogenic	GRCh38	428261
+single nucleotide variant	NM_000314.8(PTEN):c.195C>A (p.Tyr65Ter)	5728	PTEN	Pathogenic	GRCh38	428269
+single nucleotide variant	NM_000314.8(PTEN):c.210-1G>C	5728	PTEN	Likely pathogenic	GRCh38	428260
+single nucleotide variant	NM_000314.8(PTEN):c.210-1G>T	5728	PTEN	Likely pathogenic	GRCh38	428278
+single nucleotide variant	NM_000314.8(PTEN):c.275A>C (p.Asp92Ala)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428196
+single nucleotide variant	NM_000314.8(PTEN):c.328C>T (p.Gln110Ter)	5728	PTEN	Pathogenic	GRCh38	428203
+single nucleotide variant	NM_000314.8(PTEN):c.355G>C (p.Val119Leu)	5728	PTEN	Likely pathogenic	GRCh38	428226
+single nucleotide variant	NM_000314.8(PTEN):c.355G>T (p.Val119Phe)	5728	PTEN	Likely pathogenic	GRCh38	428193
+single nucleotide variant	NM_000314.8(PTEN):c.367C>G (p.His123Asp)	5728	PTEN	Pathogenic	GRCh38	428277
+single nucleotide variant	NM_000314.8(PTEN):c.377C>T (p.Ala126Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428234
+single nucleotide variant	NM_000314.8(PTEN):c.380G>A (p.Gly127Glu)	5728	PTEN	Likely pathogenic	GRCh38	428225
+single nucleotide variant	NM_000314.8(PTEN):c.384G>C (p.Lys128Asn)	5728	PTEN	Likely pathogenic	GRCh38	428220
+single nucleotide variant	NM_000314.8(PTEN):c.402G>T (p.Met134Ile)	5728	PTEN	Likely pathogenic	GRCh38	428267
+single nucleotide variant	NM_000314.8(PTEN):c.404T>A (p.Ile135Lys)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428235
+single nucleotide variant	NM_000314.8(PTEN):c.463T>C (p.Tyr155His)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428237
+single nucleotide variant	NM_000314.8(PTEN):c.493G>A (p.Gly165Arg)	5728	PTEN	Pathogenic	GRCh38	428256
+single nucleotide variant	NM_000314.8(PTEN):c.518G>T (p.Arg173Leu)	5728	PTEN	Likely pathogenic	GRCh38	428258
+single nucleotide variant	NM_000314.8(PTEN):c.545T>A (p.Leu182Ter)	5728	PTEN	Pathogenic	GRCh38	428232
+single nucleotide variant	NM_000314.8(PTEN):c.545T>G (p.Leu182Ter)	5728	PTEN	Pathogenic	GRCh38	428241
+single nucleotide variant	NM_000314.8(PTEN):c.740T>G (p.Leu247Ter)	5728	PTEN	Pathogenic	GRCh38	428210
+single nucleotide variant	NM_000314.8(PTEN):c.761A>C (p.Lys254Thr)	5728	PTEN	Likely pathogenic	GRCh38	428207
+single nucleotide variant	NM_000314.8(PTEN):c.801+2T>A	5728	PTEN	Pathogenic	GRCh38	428250
+single nucleotide variant	NM_000314.8(PTEN):c.815A>C (p.His272Pro)	5728	PTEN	Likely pathogenic	GRCh38	428223
+single nucleotide variant	NM_000314.8(PTEN):c.830C>G (p.Thr277Arg)	5728	PTEN	Likely pathogenic	GRCh38	428268
+single nucleotide variant	NM_000314.8(PTEN):c.860C>A (p.Ser287Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428238
+single nucleotide variant	NM_000314.8(PTEN):c.865A>T (p.Lys289Ter)	5728	PTEN	Pathogenic	GRCh38	428198
+single nucleotide variant	NM_000314.8(PTEN):c.895G>T (p.Glu299Ter)	5728	PTEN	Pathogenic	GRCh38	428263
+single nucleotide variant	NM_000314.8(PTEN):c.959T>G (p.Leu320Ter)	5728	PTEN	Pathogenic	GRCh38	428253
+single nucleotide variant	NM_000314.8(PTEN):c.1026+2T>G	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	428197
+single nucleotide variant	NM_000314.8(PTEN):c.1212A>C (p.Ter404Cys)	5728	PTEN	Likely pathogenic	GRCh38	428265
+single nucleotide variant	NM_000314.8(PTEN):c.401T>G (p.Met134Arg)	5728	PTEN	Likely pathogenic	GRCh38	431829
+single nucleotide variant	NM_000314.8(PTEN):c.479C>T (p.Thr160Ile)	5728	PTEN	Likely pathogenic	GRCh38	431851
+single nucleotide variant	NM_000314.8(PTEN):c.487A>T (p.Lys163Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	432049
+single nucleotide variant	NM_000314.8(PTEN):c.196A>T (p.Lys66Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	437440
+single nucleotide variant	NM_000314.8(PTEN):c.635-1G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	440223
+single nucleotide variant	NM_000314.8(PTEN):c.721T>C (p.Phe241Leu)	5728	PTEN	Likely pathogenic	GRCh38	440220
+single nucleotide variant	NM_000314.8(PTEN):c.249C>A (p.Cys83Ter)	5728	PTEN	Pathogenic	GRCh38	446475
+single nucleotide variant	NM_000314.8(PTEN):c.287C>T (p.Pro96Leu)	5728	PTEN	Likely pathogenic	GRCh38	449089
+single nucleotide variant	NM_000314.8(PTEN):c.1212A>G (p.Ter404Trp)	5728	PTEN	Likely pathogenic	GRCh38	449272
+single nucleotide variant	NM_000314.8(PTEN):c.204C>G (p.Tyr68Ter)	5728	PTEN	Pathogenic	GRCh38	468673
+single nucleotide variant	NM_000314.8(PTEN):c.259C>T (p.Gln87Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	468678
+single nucleotide variant	NM_000314.8(PTEN):c.278A>C (p.His93Pro)	5728	PTEN	Likely pathogenic	GRCh38	468680
+single nucleotide variant	NM_000314.8(PTEN):c.376G>A (p.Ala126Thr)	5728	PTEN	Likely pathogenic	GRCh38	468683
+single nucleotide variant	NM_000314.8(PTEN):c.465T>A (p.Tyr155Ter)	5728	PTEN	Pathogenic	GRCh38	468686
+single nucleotide variant	NM_000314.8(PTEN):c.64G>T (p.Asp22Tyr)	5728	PTEN	Likely pathogenic	GRCh38	468706
+single nucleotide variant	NM_000314.8(PTEN):c.253+2T>A	5728	PTEN	Pathogenic	GRCh38	468676
+single nucleotide variant	NM_000314.8(PTEN):c.274G>T (p.Asp92Tyr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	468679
+single nucleotide variant	NM_000314.8(PTEN):c.493-2A>C	5728	PTEN	Pathogenic	GRCh38	468692
+single nucleotide variant	NM_000314.8(PTEN):c.37A>T (p.Lys13Ter)	5728	PTEN	Pathogenic	GRCh38	468682
+single nucleotide variant	NM_000314.8(PTEN):c.209+6T>G	5728	PTEN	Pathogenic	GRCh38	468674
+single nucleotide variant	NM_000314.8(PTEN):c.593T>A (p.Met198Lys)	5728	PTEN	Likely pathogenic	GRCh38	468702
+single nucleotide variant	NM_000314.8(PTEN):c.625G>T (p.Gly209Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	468703
+single nucleotide variant	NM_000314.8(PTEN):c.319G>T (p.Asp107Tyr)	5728	PTEN	Pathogenic	GRCh38	484614
+single nucleotide variant	NM_000314.8(PTEN):c.497T>A (p.Val166Glu)	5728	PTEN	Likely pathogenic	GRCh38	486974
+single nucleotide variant	NM_000314.8(PTEN):c.522T>A (p.Tyr174Ter)	5728	PTEN	Pathogenic	GRCh38	486227
+single nucleotide variant	NM_000314.8(PTEN):c.333G>A (p.Trp111Ter)	5728	PTEN	Pathogenic	GRCh38	484609
+single nucleotide variant	NM_000314.8(PTEN):c.1A>G (p.Met1Val)	5728	PTEN	Pathogenic	GRCh38	484600
+single nucleotide variant	NM_000314.8(PTEN):c.220A>T (p.Arg74Ter)	5728	PTEN	Pathogenic	GRCh38	484618
+single nucleotide variant	NM_000314.8(PTEN):c.425G>C (p.Arg142Pro)	5728	PTEN	Likely pathogenic	GRCh38	486225
+single nucleotide variant	NM_000314.8(PTEN):c.1027-1G>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	481153
+single nucleotide variant	NM_000314.8(PTEN):c.1034T>C (p.Leu345Pro)	5728	PTEN	Pathogenic	GRCh38	484605
+single nucleotide variant	NM_000314.8(PTEN):c.107G>A (p.Gly36Glu)	5728	PTEN	Pathogenic	GRCh38	486972
+single nucleotide variant	NM_000314.8(PTEN):c.127G>T (p.Glu43Ter)	5728	PTEN	Pathogenic	GRCh38	486228
+single nucleotide variant	NM_000314.8(PTEN):c.356T>G (p.Val119Gly)	5728	PTEN	Likely pathogenic	GRCh38	484619
+single nucleotide variant	NM_000314.8(PTEN):c.493-2A>T	5728	PTEN	Likely pathogenic	GRCh38	484611
+single nucleotide variant	NM_000314.8(PTEN):c.758T>A (p.Ile253Asn)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	480942
+single nucleotide variant	NM_000314.8(PTEN):c.1008C>G (p.Tyr336Ter)	5728	PTEN	Pathogenic	GRCh38	481172
+single nucleotide variant	NM_000314.8(PTEN):c.940G>T (p.Glu314Ter)	5728	PTEN	Pathogenic	GRCh38	492350
+single nucleotide variant	NM_000314.8(PTEN):c.149T>C (p.Ile50Thr)	5728	PTEN	Pathogenic	GRCh38	492727
+single nucleotide variant	NM_000314.8(PTEN):c.287C>G (p.Pro96Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	492730
+single nucleotide variant	NM_000314.8(PTEN):c.528T>G (p.Tyr176Ter)	5728	PTEN	Likely pathogenic	GRCh38	492732
+single nucleotide variant	NM_000314.8(PTEN):c.565A>T (p.Arg189Ter)	5728	PTEN	Pathogenic	GRCh38	492733
+single nucleotide variant	NM_000314.8(PTEN):c.19G>T (p.Glu7Ter)	5728	PTEN	Pathogenic	GRCh38	493079
+single nucleotide variant	NM_000314.8(PTEN):c.522T>G (p.Tyr174Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	517520
+single nucleotide variant	NM_000314.8(PTEN):c.277C>A (p.His93Asn)	5728	PTEN	Likely pathogenic	GRCh38	523356
+single nucleotide variant	NM_000314.8(PTEN):c.202T>G (p.Tyr68Asp)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	536540
+single nucleotide variant	NM_000314.8(PTEN):c.801G>T (p.Lys267Asn)	5728	PTEN	Pathogenic	GRCh38	536549
+single nucleotide variant	NM_000314.8(PTEN):c.48T>G (p.Tyr16Ter)	5728	PTEN	Pathogenic	GRCh38	536556
+single nucleotide variant	NM_000314.8(PTEN):c.752G>T (p.Gly251Val)	5728	PTEN	Likely pathogenic	GRCh38	536548
+single nucleotide variant	NM_000314.8(PTEN):c.87T>A (p.Tyr29Ter)	5728	PTEN	Pathogenic	GRCh38	536545
+single nucleotide variant	NM_000314.8(PTEN):c.228T>G (p.Tyr76Ter)	5728	PTEN	Pathogenic	GRCh38	546013
+single nucleotide variant	NM_000314.8(PTEN):c.264T>A (p.Tyr88Ter)	5728	PTEN	Pathogenic	GRCh38	545958
+single nucleotide variant	NM_000314.8(PTEN):c.414T>G (p.Tyr138Ter)	5728	PTEN	Pathogenic	GRCh38	545959
+single nucleotide variant	NM_000314.8(PTEN):c.464A>C (p.Tyr155Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	547759
+single nucleotide variant	NM_000314.8(PTEN):c.508A>C (p.Ser170Arg)	5728	PTEN	Pathogenic	GRCh38	569301
+single nucleotide variant	NM_000314.8(PTEN):c.275A>G (p.Asp92Gly)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	565960
+single nucleotide variant	NM_000314.8(PTEN):c.530A>G (p.Tyr177Cys)	5728	PTEN	Likely pathogenic	GRCh38	580948
+single nucleotide variant	NM_000314.8(PTEN):c.720C>G (p.Tyr240Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	572503
+single nucleotide variant	NM_000314.8(PTEN):c.755A>T (p.Asp252Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	575811
+single nucleotide variant	NM_000314.8(PTEN):c.829A>G (p.Thr277Ala)	5728	PTEN	Pathogenic	GRCh38	571869
+single nucleotide variant	NM_000314.8(PTEN):c.929A>G (p.Asp310Gly)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	566673
+single nucleotide variant	NM_000314.8(PTEN):c.959T>A (p.Leu320Ter)	5728	PTEN	Pathogenic	GRCh38	575793
+single nucleotide variant	NM_000314.8(PTEN):c.144C>A (p.Asn48Lys)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	580731
+single nucleotide variant	NM_000314.8(PTEN):c.210-2A>G	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	576440
+single nucleotide variant	NM_000314.8(PTEN):c.385G>C (p.Gly129Arg)	5728	PTEN	Pathogenic	GRCh38	804339
+single nucleotide variant	NM_000314.8(PTEN):c.740T>A (p.Leu247Ter)	5728	PTEN	Pathogenic	GRCh38	580498
+single nucleotide variant	NM_000314.8(PTEN):c.209+2T>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	584751
+single nucleotide variant	NM_000314.8(PTEN):c.635-2A>G	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	594139
+single nucleotide variant	NM_000314.8(PTEN):c.402G>C (p.Met134Ile)	5728	PTEN	Likely pathogenic	GRCh38	619908
+single nucleotide variant	NM_000314.8(PTEN):c.764T>A (p.Val255Glu)	5728	PTEN	Likely pathogenic	GRCh38	623214
+single nucleotide variant	NM_000314.8(PTEN):c.654C>A (p.Cys218Ter)	5728	PTEN	Pathogenic	GRCh38	631516
+single nucleotide variant	NM_000314.8(PTEN):c.635-2A>C	5728	PTEN	Pathogenic	GRCh38	635375
+single nucleotide variant	NM_000314.8(PTEN):c.1026+1G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	635377
+single nucleotide variant	NM_000314.8(PTEN):c.1027-2A>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	635376
+single nucleotide variant	NM_000314.8(PTEN):c.16A>G (p.Lys6Glu)	5728	PTEN	Pathogenic	GRCh38	644390
+single nucleotide variant	NM_000314.8(PTEN):c.170T>A (p.Leu57Ter)	5728	PTEN	Pathogenic	GRCh38	651305
+single nucleotide variant	NM_000314.8(PTEN):c.277C>T (p.His93Tyr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	646993
+single nucleotide variant	NM_000314.8(PTEN):c.302T>A (p.Ile101Asn)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	648578
+single nucleotide variant	NM_000314.8(PTEN):c.476G>A (p.Arg159Lys)	5728	PTEN	Pathogenic	GRCh38	646006
+single nucleotide variant	NM_000314.8(PTEN):c.796A>T (p.Lys266Ter)	5728	PTEN	Pathogenic	GRCh38	647926
+single nucleotide variant	NM_000314.8(PTEN):c.802-1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	689447
+single nucleotide variant	NM_000314.8(PTEN):c.635-3C>A	5728	PTEN	Likely pathogenic	GRCh38	692205
+single nucleotide variant	NM_000314.8(PTEN):c.68T>G (p.Leu23Ter)	5728	PTEN	Pathogenic	GRCh38	826697
+single nucleotide variant	NM_000314.8(PTEN):c.100G>C (p.Ala34Pro)	5728	PTEN	Pathogenic	GRCh38	822002
+single nucleotide variant	NM_000314.8(PTEN):c.113C>T (p.Pro38Leu)	5728	PTEN	Pathogenic	GRCh38	818421
+single nucleotide variant	NM_000314.8(PTEN):c.213T>G (p.Cys71Trp)	5728	PTEN	Likely pathogenic	GRCh38	820795
+single nucleotide variant	NM_000314.8(PTEN):c.302T>C (p.Ile101Thr)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	822660
+single nucleotide variant	NM_000314.8(PTEN):c.370T>A (p.Cys124Ser)	5728	PTEN	Likely pathogenic	GRCh38	824108
+single nucleotide variant	NM_000314.8(PTEN):c.510T>G (p.Ser170Arg)	5728	PTEN	Pathogenic	GRCh38	825458
+single nucleotide variant	NM_000314.8(PTEN):c.542T>C (p.Leu181Pro)	5728	PTEN	Pathogenic	GRCh38	825730
+single nucleotide variant	NM_000314.8(PTEN):c.564T>G (p.Tyr188Ter)	5728	PTEN	Pathogenic	GRCh38	825875
+single nucleotide variant	NM_000314.8(PTEN):c.1137T>G (p.Tyr379Ter)	5728	PTEN	Likely pathogenic	GRCh38	818395
+single nucleotide variant	NM_000314.8(PTEN):c.209+2T>G	5728	PTEN	Likely pathogenic	GRCh38	820695
+single nucleotide variant	NM_000314.8(PTEN):c.210-2A>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	820721
+single nucleotide variant	NM_000314.8(PTEN):c.493-1G>C	5728	PTEN	Pathogenic	GRCh38	825303
+single nucleotide variant	NM_000314.8(PTEN):c.634+1G>A	5728	PTEN	Pathogenic	GRCh38	826335
+single nucleotide variant	NM_000314.8(PTEN):c.801+1G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	827393
+single nucleotide variant	NM_000314.8(PTEN):c.802-1G>T	5728	PTEN	Pathogenic	GRCh38	827401
+single nucleotide variant	NM_000314.8(PTEN):c.37A>C (p.Lys13Gln)	5728	PTEN	Likely pathogenic	GRCh38	846550
+single nucleotide variant	NM_000314.8(PTEN):c.176C>A (p.Ser59Ter)	5728	PTEN	Pathogenic	GRCh38	847797
+single nucleotide variant	NM_000314.8(PTEN):c.383A>G (p.Lys128Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	864223
+single nucleotide variant	NM_000314.8(PTEN):c.386G>T (p.Gly129Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	856036
+single nucleotide variant	NM_000314.8(PTEN):c.394G>A (p.Gly132Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	856796
+single nucleotide variant	NM_000314.8(PTEN):c.511C>G (p.Gln171Glu)	5728	PTEN	Likely pathogenic	GRCh38	844941
+single nucleotide variant	NM_000314.8(PTEN):c.686C>G (p.Ser229Ter)	5728	PTEN	Pathogenic	GRCh38	835735
+single nucleotide variant	NM_000314.8(PTEN):c.977A>G (p.Asp326Gly)	5728	PTEN	Likely pathogenic	GRCh38	857109
+single nucleotide variant	NM_000314.8(PTEN):c.164+2T>G	5728	PTEN	Pathogenic	GRCh38	860189
+single nucleotide variant	NM_000314.8(PTEN):c.254-21G>C	5728	PTEN	Likely pathogenic	GRCh38	873326
+single nucleotide variant	NM_000314.8(PTEN):c.529T>A (p.Tyr177Asn)	5728	PTEN	Likely pathogenic	GRCh38	873327
+single nucleotide variant	NM_000314.8(PTEN):c.158T>C (p.Val53Ala)	5728	PTEN	Likely pathogenic	GRCh38	916219
+single nucleotide variant	NM_000314.8(PTEN):c.888T>A (p.Cys296Ter)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	917617
+single nucleotide variant	NM_000314.8(PTEN):c.35A>T (p.Asn12Ile)	5728	PTEN	Likely pathogenic	GRCh38	944445
+single nucleotide variant	NM_000314.8(PTEN):c.77C>A (p.Thr26Asn)	5728	PTEN	Likely pathogenic	GRCh38	949068
+single nucleotide variant	NM_000314.8(PTEN):c.509G>A (p.Ser170Asn)	5728	PTEN	Likely pathogenic	GRCh38	951765
+single nucleotide variant	NM_000314.8(PTEN):c.91A>G (p.Asn31Asp)	5728	PTEN	Likely pathogenic	GRCh38	943637
+single nucleotide variant	NM_000314.8(PTEN):c.212G>A (p.Cys71Tyr)	5728	PTEN	Pathogenic	GRCh38	936561
+single nucleotide variant	NM_000314.8(PTEN):c.164+1G>A	5728	PTEN	Pathogenic	GRCh38	933378
+single nucleotide variant	NM_000314.8(PTEN):c.801+1G>C	5728	PTEN	Pathogenic	GRCh38	933785
+single nucleotide variant	NM_000314.8(PTEN):c.382A>G (p.Lys128Glu)	5728	PTEN	Likely pathogenic	GRCh38	958105
+single nucleotide variant	NM_000314.8(PTEN):c.253+5G>C	5728	PTEN	Likely pathogenic	GRCh38	968699
+single nucleotide variant	NM_000314.8(PTEN):c.529T>C (p.Tyr177His)	5728	PTEN	Likely pathogenic	GRCh38	974864
+single nucleotide variant	NM_000314.8(PTEN):c.269T>C (p.Phe90Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	976246
+single nucleotide variant	NM_000314.8(PTEN):c.103A>C (p.Met35Leu)	5728	PTEN	Likely pathogenic	GRCh38	976722
+single nucleotide variant	NM_000314.8(PTEN):c.37A>G (p.Lys13Glu)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	988004
+single nucleotide variant	NM_000314.8(PTEN):c.113C>A (p.Pro38His)	5728	PTEN	Likely pathogenic	GRCh38	1012092
+single nucleotide variant	NM_000314.8(PTEN):c.801G>C (p.Lys267Asn)	5728	PTEN	Pathogenic	GRCh38	1014805
+single nucleotide variant	NM_000314.8(PTEN):c.209+5G>C	5728	PTEN	Likely pathogenic	GRCh38	1042020
+single nucleotide variant	NM_000314.8(PTEN):c.276C>G (p.Asp92Glu)	5728	PTEN	Likely pathogenic	GRCh38	1043062
+single nucleotide variant	NM_000314.8(PTEN):c.959T>C (p.Leu320Ser)	5728	PTEN	Likely pathogenic	GRCh38	1043063
+single nucleotide variant	NM_000314.8(PTEN):c.75G>C (p.Leu25Phe)	5728	PTEN	Pathogenic	GRCh38	1068214
+single nucleotide variant	NM_000314.8(PTEN):c.80-2A>C	5728	PTEN	Likely pathogenic	GRCh38	1066605
+single nucleotide variant	NM_000314.8(PTEN):c.376G>C (p.Ala126Pro)	5728	PTEN	Pathogenic	GRCh38	1067089
+single nucleotide variant	NM_000314.8(PTEN):c.493G>C (p.Gly165Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1067498
+single nucleotide variant	NM_000314.8(PTEN):c.523G>A (p.Val175Met)	5728	PTEN	Pathogenic	GRCh38	1067224
+single nucleotide variant	NM_000314.8(PTEN):c.746T>G (p.Val249Gly)	5728	PTEN	Likely pathogenic	GRCh38	1066565
+single nucleotide variant	NM_000314.8(PTEN):c.1026G>T (p.Lys342Asn)	5728	PTEN	Likely pathogenic	GRCh38	1067478
+single nucleotide variant	NM_000314.8(PTEN):c.184A>T (p.Lys62Ter)	5728	PTEN	Pathogenic	GRCh38	1069915
+single nucleotide variant	NM_000314.8(PTEN):c.250A>T (p.Arg84Ter)	5728	PTEN	Pathogenic	GRCh38	1075939
+single nucleotide variant	NM_000314.8(PTEN):c.304A>T (p.Lys102Ter)	5728	PTEN	Pathogenic	GRCh38	1074078
+single nucleotide variant	NM_000314.8(PTEN):c.492+1G>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1072198
+single nucleotide variant	NM_000314.8(PTEN):c.461T>G (p.Phe154Cys)	5728	PTEN	Likely pathogenic	GRCh38	1175130
+single nucleotide variant	NM_000314.8(PTEN):c.517C>G (p.Arg173Gly)	5728	PTEN	Pathogenic	GRCh38	1176553
+single nucleotide variant	NM_000314.8(PTEN):c.209+4A>G	5728	PTEN	Pathogenic	GRCh38	1182096
+single nucleotide variant	NM_000314.8(PTEN):c.379G>T (p.Gly127Ter)	5728	PTEN	Pathogenic	GRCh38	1195176
+single nucleotide variant	NM_000314.8(PTEN):c.204C>A (p.Tyr68Ter)	5728	PTEN	Pathogenic	GRCh38	1195871
+single nucleotide variant	NM_000314.8(PTEN):c.511C>A (p.Gln171Lys)	5728	PTEN	Pathogenic	GRCh38	1198486
+single nucleotide variant	NM_000314.8(PTEN):c.298C>T (p.Leu100Phe)	5728	PTEN	Likely pathogenic	GRCh38	1207213
+single nucleotide variant	NM_000314.8(PTEN):c.492+1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1212448
+single nucleotide variant	NM_000314.8(PTEN):c.-136G>C	5728	PTEN	Pathogenic	GRCh38	1264324
+single nucleotide variant	NM_000314.8(PTEN):c.634+1G>T	5728	PTEN	Pathogenic	GRCh38	1317879
+single nucleotide variant	NM_000314.8(PTEN):c.601G>T (p.Glu201Ter)	5728	PTEN	Pathogenic	GRCh38	1320461
+single nucleotide variant	NM_000314.8(PTEN):c.209+5G>T	5728	PTEN	Likely pathogenic	GRCh38	1320862
+single nucleotide variant	NM_000314.8(PTEN):c.493-1G>T	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1333638
+single nucleotide variant	NM_000314.8(PTEN):c.106G>A (p.Gly36Arg)	5728	PTEN	Likely pathogenic	GRCh38	1334551
+single nucleotide variant	NM_000314.8(PTEN):c.373A>G (p.Lys125Glu)	5728	PTEN	Pathogenic	GRCh38	1338262
+single nucleotide variant	NM_000314.8(PTEN):c.634+5G>T	5728	PTEN	Likely pathogenic	GRCh38	1338631
+single nucleotide variant	NM_000314.8(PTEN):c.178A>T (p.Lys60Ter)	5728	PTEN	Pathogenic	GRCh38	1339947
+single nucleotide variant	NM_000314.8(PTEN):c.465T>G (p.Tyr155Ter)	5728	PTEN	Pathogenic	GRCh38	1388819
+single nucleotide variant	NM_000314.8(PTEN):c.287C>A (p.Pro96Gln)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1457597
+single nucleotide variant	NM_000314.8(PTEN):c.801+2T>C	5728	PTEN	Pathogenic	GRCh38	1393293
+single nucleotide variant	NM_000314.8(PTEN):c.334C>G (p.Leu112Val)	5728	PTEN	Likely pathogenic	GRCh38	1406308
+single nucleotide variant	NM_000314.8(PTEN):c.165-9T>A	5728	PTEN	Likely pathogenic	GRCh38	1393794
+single nucleotide variant	NM_000314.8(PTEN):c.43A>T (p.Arg15Ter)	5728	PTEN	Pathogenic	GRCh38	1422662
+single nucleotide variant	NM_000314.8(PTEN):c.634+2T>A	5728	PTEN	Pathogenic	GRCh38	1451649
+single nucleotide variant	NM_000314.8(PTEN):c.115G>A (p.Ala39Thr)	5728	PTEN	Likely pathogenic	GRCh38	1506231
+single nucleotide variant	NM_000314.8(PTEN):c.79+1G>C	5728	PTEN	Likely pathogenic	GRCh38	1507218
+single nucleotide variant	NM_000314.8(PTEN):c.106G>T (p.Gly36Ter)	5728	PTEN	Pathogenic	GRCh38	1456749
+single nucleotide variant	NM_000314.8(PTEN):c.71A>T (p.Asp24Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1511392
+single nucleotide variant	NM_000314.8(PTEN):c.3G>A (p.Met1Ile)	5728	PTEN	Pathogenic	GRCh38	1457954
+single nucleotide variant	NM_000314.8(PTEN):c.143A>G (p.Asn48Ser)	5728	PTEN	Pathogenic	GRCh38	1379224
+single nucleotide variant	NM_000314.8(PTEN):c.2T>C (p.Met1Thr)	5728	PTEN	Pathogenic	GRCh38	1686106
+single nucleotide variant	NM_000314.8(PTEN):c.198G>T (p.Lys66Asn)	5728	PTEN	Likely pathogenic	GRCh38	1691744
+single nucleotide variant	NM_000314.8(PTEN):c.709A>T (p.Lys237Ter)	5728	PTEN	Pathogenic	GRCh38	1692371
+single nucleotide variant	NM_000314.8(PTEN):c.912C>A (p.Cys304Ter)	5728	PTEN	Pathogenic	GRCh38	1700398
+single nucleotide variant	NM_000314.8(PTEN):c.136T>C (p.Tyr46His)	5728	PTEN	Likely pathogenic	GRCh38	1701143
+single nucleotide variant	NM_000314.8(PTEN):c.422A>T (p.His141Leu)	5728	PTEN	Likely pathogenic	GRCh38	1708039
+single nucleotide variant	NM_000314.8(PTEN):c.228T>A (p.Tyr76Ter)	5728	PTEN	Pathogenic	GRCh38	1722926
+single nucleotide variant	NM_000314.8(PTEN):c.372T>G (p.Cys124Trp)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1734391
+single nucleotide variant	NM_000314.8(PTEN):c.407G>T (p.Cys136Phe)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1737618
+single nucleotide variant	NM_000314.8(PTEN):c.313T>G (p.Cys105Gly)	5728	PTEN	Likely pathogenic	GRCh38	1728081
+single nucleotide variant	NM_000314.8(PTEN):c.509G>C (p.Ser170Thr)	5728	PTEN	Likely pathogenic	GRCh38	1745325
+single nucleotide variant	NM_000314.8(PTEN):c.1211G>C (p.Ter404Ser)	5728	PTEN	Likely pathogenic	GRCh38	1750526
+single nucleotide variant	NM_000314.8(PTEN):c.584T>C (p.Phe195Ser)	5728	PTEN	Likely pathogenic	GRCh38	1750073
+single nucleotide variant	NM_000314.8(PTEN):c.675T>A (p.Tyr225Ter)	5728	PTEN	Pathogenic	GRCh38	1755303
+single nucleotide variant	NM_000314.8(PTEN):c.165-2A>T	5728	PTEN	Pathogenic	GRCh38	1777276
+single nucleotide variant	NM_000314.8(PTEN):c.1030A>T (p.Lys344Ter)	5728	PTEN	Pathogenic	GRCh38	1770991
+single nucleotide variant	NM_000314.8(PTEN):c.167T>C (p.Phe56Ser)	5728	PTEN	Likely pathogenic	GRCh38	1777889
+single nucleotide variant	NM_000314.8(PTEN):c.1008C>A (p.Tyr336Ter)	5728	PTEN	Pathogenic	GRCh38	1790285
+single nucleotide variant	NM_000314.8(PTEN):c.209+2047A>G	5728	PTEN	Likely pathogenic	GRCh38	1785727
+single nucleotide variant	NM_000314.8(PTEN):c.210-12C>G	5728	PTEN	Likely pathogenic	GRCh38	1785916
+single nucleotide variant	NM_000314.8(PTEN):c.275A>T (p.Asp92Val)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	1795656
+single nucleotide variant	NM_000314.8(PTEN):c.374A>G (p.Lys125Arg)	5728	PTEN	Likely pathogenic	GRCh38	1803052
+single nucleotide variant	NM_000314.8(PTEN):c.634+4A>G	5728	PTEN	Likely pathogenic	GRCh38	1804419
+single nucleotide variant	NM_000314.8(PTEN):c.157G>A (p.Val53Ile)	5728	PTEN	Pathogenic	GRCh38	2136907
+single nucleotide variant	NM_000314.8(PTEN):c.209+1G>C	5728	PTEN	Pathogenic	GRCh38	2136908
+single nucleotide variant	NM_000314.8(PTEN):c.540C>A (p.Tyr180Ter)	5728	PTEN	Pathogenic	GRCh38	2136910
+single nucleotide variant	NM_000314.8(PTEN):c.853G>T (p.Glu285Ter)	5728	PTEN	Pathogenic	GRCh38	2136911
+single nucleotide variant	NM_000314.8(PTEN):c.56A>T (p.Asp19Val)	5728	PTEN	Pathogenic	GRCh38	2001733
+single nucleotide variant	NM_000314.8(PTEN):c.116C>T (p.Ala39Val)	5728	PTEN	Likely pathogenic	GRCh38	2022313
+single nucleotide variant	NM_000314.8(PTEN):c.400A>G (p.Met134Val)	5728	PTEN	Pathogenic	GRCh38	2033861
+single nucleotide variant	NM_000314.8(PTEN):c.79+1G>A	5728	PTEN	Likely pathogenic	GRCh38	2106630
+single nucleotide variant	NM_000314.8(PTEN):c.209+6T>A	5728	PTEN	Pathogenic	GRCh38	2109004
+single nucleotide variant	NM_000314.8(PTEN):c.688G>T (p.Gly230Ter)	5728	PTEN	Pathogenic	GRCh38	2131002
+single nucleotide variant	NM_000314.8(PTEN):c.200T>G (p.Ile67Arg)	5728	PTEN	Likely pathogenic	GRCh38	2429351
+single nucleotide variant	NM_000314.8(PTEN):c.371G>C (p.Cys124Ser)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	2447220
+single nucleotide variant	NM_000314.8(PTEN):c.332G>A (p.Trp111Ter)	5728	PTEN	Pathogenic	GRCh38	2447221
+single nucleotide variant	NM_000314.8(PTEN):c.1027-1852A>G	5728	PTEN	Likely pathogenic	GRCh38	2447222
+single nucleotide variant	NM_000314.8(PTEN):c.994A>T (p.Lys332Ter)	5728	PTEN	Pathogenic	GRCh38	2452980
+single nucleotide variant	NM_000314.8(PTEN):c.976G>A (p.Asp326Asn)	5728	PTEN	Pathogenic	GRCh38	2498032
+single nucleotide variant	NM_000314.8(PTEN):c.196A>G (p.Lys66Glu)	5728	PTEN	Likely pathogenic	GRCh38	2499958
+single nucleotide variant	NM_000314.8(PTEN):c.343G>T (p.Asp115Tyr)	5728	PTEN	Likely pathogenic	GRCh38	2502137
+single nucleotide variant	NM_000314.8(PTEN):c.827A>G (p.Asn276Ser)	5728	PTEN	Pathogenic	GRCh38	2502345
+single nucleotide variant	NM_000314.8(PTEN):c.361G>A (p.Ala121Thr)	5728	PTEN	Likely pathogenic	GRCh38	2502558
+single nucleotide variant	NM_000314.8(PTEN):c.589A>T (p.Lys197Ter)	5728	PTEN	Pathogenic	GRCh38	2503327
+single nucleotide variant	NM_000314.8(PTEN):c.322C>T (p.Leu108Phe)	5728	PTEN	Likely pathogenic	GRCh38	2562403
+single nucleotide variant	NM_000314.8(PTEN):c.138C>G (p.Tyr46Ter)	5728	PTEN	Pathogenic	GRCh38	2562404
+single nucleotide variant	NM_000314.8(PTEN):c.43A>G (p.Arg15Gly)	5728	PTEN	Likely pathogenic	GRCh38	2561216
+single nucleotide variant	NM_000314.8(PTEN):c.191A>C (p.His64Pro)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	2574362
+single nucleotide variant	NM_000314.8(PTEN):c.661A>T (p.Lys221Ter)	5728	PTEN	Pathogenic	GRCh38	2574568
+single nucleotide variant	NM_000314.8(PTEN):c.493-9349A>G	5728	PTEN	Likely pathogenic	GRCh38	2587202
+single nucleotide variant	NM_000314.8(PTEN):c.760A>T (p.Lys254Ter)	5728	PTEN	Pathogenic	GRCh38	2624868
+single nucleotide variant	NM_000314.8(PTEN):c.353A>C (p.His118Pro)	5728	PTEN	Likely pathogenic	GRCh38	2624869
+single nucleotide variant	NM_000314.8(PTEN):c.313T>C (p.Cys105Arg)	5728	PTEN	Likely pathogenic	GRCh38	2628372
+single nucleotide variant	NM_000314.8(PTEN):c.655C>T (p.Gln219Ter)	5728	PTEN	Pathogenic	GRCh38	2630888
+single nucleotide variant	NM_000314.8(PTEN):c.80A>T (p.Tyr27Phe)	5728	PTEN	Pathogenic	GRCh38	2663192
+single nucleotide variant	NM_000314.8(PTEN):c.1026+2T>C	5728	PTEN	Likely pathogenic	GRCh38	2673893
+single nucleotide variant	NM_000314.8(PTEN):c.1026+2T>A	5728	PTEN	Likely pathogenic	GRCh38	2673901
+single nucleotide variant	NM_000314.8(PTEN):c.1027-1G>T	5728	PTEN	Likely pathogenic	GRCh38	2673917
+single nucleotide variant	NM_000314.8(PTEN):c.871G>T (p.Glu291Ter)	5728	PTEN	Pathogenic	GRCh38	2673922
+single nucleotide variant	NM_000314.8(PTEN):c.802-1G>C	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	2673923
+single nucleotide variant	NM_000314.8(PTEN):c.1024A>T (p.Lys342Ter)	5728	PTEN	Pathogenic	GRCh38	2673929
+single nucleotide variant	NM_000314.8(PTEN):c.2T>G (p.Met1Arg)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	2674279
+single nucleotide variant	NM_000314.8(PTEN):c.379G>C (p.Gly127Arg)	5728	PTEN	Likely pathogenic	GRCh38	2674283
+single nucleotide variant	NM_000314.8(PTEN):c.362C>A (p.Ala121Glu)	5728	PTEN	Likely pathogenic	GRCh38	2674284
+single nucleotide variant	NM_000314.8(PTEN):c.335T>G (p.Leu112Arg)	5728	PTEN	Pathogenic	GRCh38	2674303
+single nucleotide variant	NM_000314.8(PTEN):c.264T>G (p.Tyr88Ter)	5728	PTEN	Pathogenic	GRCh38	2674308
+single nucleotide variant	NM_000314.8(PTEN):c.271G>T (p.Glu91Ter)	5728	PTEN	Pathogenic	GRCh38	2674312
+single nucleotide variant	NM_000314.8(PTEN):c.164+2T>A	5728	PTEN	Pathogenic	GRCh38	2674316
+single nucleotide variant	NM_000314.8(PTEN):c.31A>T (p.Arg11Ter)	5728	PTEN	Pathogenic	GRCh38	2674322
+single nucleotide variant	NM_000314.8(PTEN):c.340G>T (p.Glu114Ter)	5728	PTEN	Pathogenic	GRCh38	2674336
+single nucleotide variant	NM_000314.8(PTEN):c.724G>T (p.Glu242Ter)	5728	PTEN	Pathogenic	GRCh38	2674344
+single nucleotide variant	NM_000314.8(PTEN):c.490A>T (p.Lys164Ter)	5728	PTEN	Pathogenic	GRCh38	2674347
+single nucleotide variant	NM_000314.8(PTEN):c.686C>A (p.Ser229Ter)	5728	PTEN	Pathogenic	GRCh38	2674361
+single nucleotide variant	NM_000314.8(PTEN):c.419T>A (p.Leu140Ter)	5728	PTEN	Pathogenic	GRCh38	2674368
+single nucleotide variant	NM_000314.8(PTEN):c.121A>T (p.Arg41Ter)	5728	PTEN	Pathogenic	GRCh38	2674372
+single nucleotide variant	NM_000314.8(PTEN):c.720C>A (p.Tyr240Ter)	5728	PTEN	Pathogenic	GRCh38	2674374
+single nucleotide variant	NM_000314.8(PTEN):c.81T>A (p.Tyr27Ter)	5728	PTEN	Pathogenic	GRCh38	2674382
+single nucleotide variant	NM_000314.8(PTEN):c.448G>A (p.Glu150Lys)	5728	PTEN	Likely pathogenic	GRCh38	2687521
+single nucleotide variant	NM_000314.8(PTEN):c.361G>C (p.Ala121Pro)	5728	PTEN	Likely pathogenic	GRCh38	2687614
+single nucleotide variant	NM_000314.8(PTEN):c.395G>C (p.Gly132Ala)	5728	PTEN	Pathogenic	GRCh38	2687617
+single nucleotide variant	NM_000314.8(PTEN):c.165-2A>C	5728	PTEN	Pathogenic	GRCh38	2767402
+single nucleotide variant	NM_000314.8(PTEN):c.323T>G (p.Leu108Arg)	5728	PTEN	Likely pathogenic	GRCh38	2764628
+single nucleotide variant	NM_000314.8(PTEN):c.210-2A>T	5728	PTEN	Pathogenic	GRCh38	2858163
+single nucleotide variant	NM_000314.8(PTEN):c.581T>A (p.Leu194Ter)	5728	PTEN	Pathogenic	GRCh38	2884029
+single nucleotide variant	NM_000314.8(PTEN):c.661A>G (p.Lys221Glu)	5728	PTEN	Likely pathogenic	GRCh38	3026433
+single nucleotide variant	NM_000314.8(PTEN):c.1A>T (p.Met1Leu)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	3148533
+single nucleotide variant	NM_000314.8(PTEN):c.182A>C (p.His61Pro)	5728	PTEN	Likely pathogenic	GRCh38	3231146
+single nucleotide variant	NM_000314.8(PTEN):c.65A>T (p.Asp22Val)	5728	PTEN	Likely pathogenic	GRCh38	3231166
+single nucleotide variant	NM_000314.8(PTEN):c.14T>C (p.Ile5Thr)	5728	PTEN	Likely pathogenic	GRCh38	3254879
+single nucleotide variant	NM_000314.8(PTEN):c.356T>C (p.Val119Ala)	5728	PTEN	Likely pathogenic	GRCh38	3256748
+single nucleotide variant	NM_000314.8(PTEN):c.62T>C (p.Phe21Ser)	5728	PTEN	Pathogenic	GRCh38	3338761
+single nucleotide variant	NM_000314.8(PTEN):c.410C>A (p.Ala137Glu)	5728	PTEN	Likely pathogenic	GRCh38	3340217
+single nucleotide variant	NM_000314.8(PTEN):c.1A>C (p.Met1Leu)	5728	PTEN	Pathogenic	GRCh38	3340277
+single nucleotide variant	NM_000314.8(PTEN):c.764T>G (p.Val255Gly)	5728	PTEN	Likely pathogenic	GRCh38	3381971
+single nucleotide variant	NM_000314.8(PTEN):c.165-34A>G	5728	PTEN	Likely pathogenic	GRCh38	3427428
+single nucleotide variant	NM_000314.8(PTEN):c.367C>A (p.His123Asn)	5728	PTEN	Likely pathogenic	GRCh38	3572467
+single nucleotide variant	NM_000314.8(PTEN):c.209+4A>C	5728	PTEN	Pathogenic	GRCh38	3637460
+single nucleotide variant	NM_000314.8(PTEN):c.373A>T (p.Lys125Ter)	5728	PTEN	Pathogenic	GRCh38	3654598
+single nucleotide variant	NM_000314.8(PTEN):c.52G>T (p.Glu18Ter)	5728	PTEN	Pathogenic	GRCh38	3650080
+single nucleotide variant	NM_000314.8(PTEN):c.333G>T (p.Trp111Cys)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	3669092
+single nucleotide variant	NM_000314.8(PTEN):c.105G>T (p.Met35Ile)	5728	PTEN	Likely pathogenic	GRCh38	3663585
+single nucleotide variant	NM_000314.8(PTEN):c.475A>T (p.Arg159Trp)	5728	PTEN	Pathogenic	GRCh38	3667044
+single nucleotide variant	NM_000314.8(PTEN):c.385G>T (p.Gly129Ter)	5728	PTEN	Pathogenic	GRCh38	3726581
+single nucleotide variant	NM_000314.8(PTEN):c.703G>T (p.Glu235Ter)	5728	PTEN	Pathogenic	GRCh38	3764883
+single nucleotide variant	NM_000314.8(PTEN):c.293T>C (p.Leu98Pro)	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	3767590
+single nucleotide variant	NM_000314.8(PTEN):c.*65T>A	5728	PTEN	Likely pathogenic	GRCh38	3780923
+single nucleotide variant	NM_000314.8(PTEN):c.-1001T>C	5728	PTEN	Likely pathogenic	GRCh38	3780925
+single nucleotide variant	NM_000314.8(PTEN):c.-1111A>G	5728	PTEN	Likely pathogenic	GRCh38	3780926
+single nucleotide variant	NM_000314.8(PTEN):c.-1178C>T	5728	PTEN	Likely pathogenic	GRCh38	3780927
+single nucleotide variant	NM_000314.8(PTEN):c.-1239A>G	5728	PTEN	Likely pathogenic	GRCh38	3780928
+single nucleotide variant	NM_000314.8(PTEN):c.-854C>G	5728	PTEN	Likely pathogenic	GRCh38	3780929
+single nucleotide variant	NM_000314.8(PTEN):c.-896T>C	5728	PTEN	Likely pathogenic	GRCh38	3780930
+single nucleotide variant	NM_000314.8(PTEN):c.-921G>T	5728	PTEN	Likely pathogenic	GRCh38	3780931
+single nucleotide variant	NM_000314.8(PTEN):c.17A>T (p.Lys6Ile)	5728	PTEN	Likely pathogenic	GRCh38	3903209
+single nucleotide variant	NM_000314.8(PTEN):c.534T>G (p.Tyr178Ter)	5728	PTEN	Pathogenic	GRCh38	4056257
+single nucleotide variant	NM_000314.8(PTEN):c.80-1G>A	5728	PTEN	Pathogenic/Likely pathogenic	GRCh38	4071798
+single nucleotide variant	NM_000314.8(PTEN):c.136T>A (p.Tyr46Asn)	5728	PTEN	Likely pathogenic	GRCh38	4075814
+single nucleotide variant	NM_000314.8(PTEN):c.862G>T (p.Glu288Ter)	5728	PTEN	Likely pathogenic	GRCh38	4293030
+single nucleotide variant	NM_000314.8(PTEN):c.274G>A (p.Asp92Asn)	5728	PTEN	Likely pathogenic	GRCh38	4527406
+single nucleotide variant	NM_000314.8(PTEN):c.520T>G (p.Tyr174Asp)	5728	PTEN	Pathogenic	GRCh38	4538586
+single nucleotide variant	NM_000314.8(PTEN):c.217G>T (p.Glu73Ter)	5728	PTEN	Likely pathogenic	GRCh38	4539666
+single nucleotide variant	NM_000314.8(PTEN):c.361G>T (p.Ala121Ser)	5728	PTEN	Likely pathogenic	GRCh38	4677133
+single nucleotide variant	NM_000314.8(PTEN):c.95T>G (p.Ile32Ser)	5728	PTEN	Likely pathogenic	GRCh38	4744225
+single nucleotide variant	NM_000314.8(PTEN):c.181C>T (p.His61Tyr)	5728	PTEN	Likely pathogenic	GRCh38	4813809
+single nucleotide variant	NM_000314.8(PTEN):c.270T>A (p.Phe90Leu)	5728	PTEN	Likely pathogenic	GRCh38	4819386
+single nucleotide variant	NM_000314.8(PTEN):c.532T>A (p.Tyr178Asn)	5728	PTEN	Likely pathogenic	GRCh38	4825152
+single nucleotide variant	NM_000314.8(PTEN):c.976G>C (p.Asp326His)	5728	PTEN	Likely pathogenic	GRCh38	4825154
+single nucleotide variant	NM_000314.8(PTEN):c.371G>T (p.Cys124Phe)	5728	PTEN	Pathogenic	GRCh38	4841103
+single nucleotide variant	NM_000314.8(PTEN):c.492+2T>A	5728	PTEN	Likely pathogenic	GRCh38	4841123
+single nucleotide variant	NM_000314.8(PTEN):c.254-2A>C	5728	PTEN	Likely pathogenic	GRCh38	4852439
+single nucleotide variant	NM_000314.8(PTEN):c.368A>T (p.His123Leu)	5728	PTEN	Likely pathogenic	GRCh38	4852443
+single nucleotide variant	NM_000314.8(PTEN):c.455T>A (p.Leu152Gln)	5728	PTEN	Likely pathogenic	GRCh38	4852444
+single nucleotide variant	NM_000314.8(PTEN):c.374A>C (p.Lys125Thr)	5728	PTEN	Pathogenic	GRCh38	4879828
+single nucleotide variant	NM_000314.8(PTEN):c.423T>G (p.His141Gln)	5728	PTEN	Likely pathogenic	GRCh38	4880000
+single nucleotide variant	NM_000314.8(PTEN):c.463T>G (p.Tyr155Asp)	5728	PTEN	Likely pathogenic	GRCh38	4880001
+single nucleotide variant	NM_000314.8(PTEN):c.479C>A (p.Thr160Asn)	5728	PTEN	Likely pathogenic	GRCh38	4880002
+single nucleotide variant	NM_000314.8(PTEN):c.279T>G (p.His93Gln)	5728	PTEN	Likely pathogenic	GRCh38	4880006
+single nucleotide variant	NM_000314.8(PTEN):c.314G>C (p.Cys105Ser)	5728	PTEN	Likely pathogenic	GRCh38	4880007
+single nucleotide variant	NM_000314.8(PTEN):c.238A>G (p.Lys80Glu)	5728	PTEN	Likely pathogenic	GRCh38	4884410

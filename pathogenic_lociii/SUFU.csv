@@ -1,0 +1,54 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_016169.4(SUFU):c.1022+1G>A	51684	SUFU	Pathogenic	GRCh38	3571
+single nucleotide variant	NM_016169.4(SUFU):c.1023-2A>T	51684	SUFU	Likely pathogenic	GRCh38	406381
+single nucleotide variant	NM_016169.4(SUFU):c.436C>T (p.Arg146Ter)	51684	SUFU	Pathogenic	GRCh38	406388
+single nucleotide variant	NM_016169.4(SUFU):c.847G>T (p.Glu283Ter)	51684	SUFU	Likely pathogenic	GRCh38	432340
+single nucleotide variant	NM_016169.4(SUFU):c.527A>G (p.His176Arg)	51684	SUFU	Pathogenic	GRCh38	446157
+single nucleotide variant	NM_016169.4(SUFU):c.175A>T (p.Lys59Ter)	51684	SUFU	Pathogenic	GRCh38	581907
+single nucleotide variant	NM_016169.4(SUFU):c.454+1G>A	51684	SUFU	Pathogenic	GRCh38	571265
+single nucleotide variant	NM_016169.4(SUFU):c.824G>A (p.Trp275Ter)	51684	SUFU	Pathogenic	GRCh38	578241
+single nucleotide variant	NM_016169.4(SUFU):c.684-2A>G	51684	SUFU	Likely pathogenic	GRCh38	647265
+single nucleotide variant	NM_016169.4(SUFU):c.597+1G>C	51684	SUFU	Likely pathogenic	GRCh38	666029
+single nucleotide variant	NM_016169.4(SUFU):c.825G>A (p.Trp275Ter)	51684	SUFU	Pathogenic	GRCh38	827539
+single nucleotide variant	NM_016169.4(SUFU):c.895C>T (p.Arg299Ter)	51684	SUFU	Pathogenic	GRCh38	822842
+single nucleotide variant	NM_016169.4(SUFU):c.1290G>A (p.Trp430Ter)	51684	SUFU	Pathogenic	GRCh38	818817
+single nucleotide variant	NM_016169.4(SUFU):c.597+1G>A	51684	SUFU	Likely pathogenic	GRCh38	826085
+single nucleotide variant	NM_016169.4(SUFU):c.1296+1635C>A	51684	SUFU	Likely pathogenic	GRCh38	917943
+single nucleotide variant	NM_016169.4(SUFU):c.1365+1G>A	51684	SUFU	Likely pathogenic	GRCh38	1042780
+single nucleotide variant	NM_016169.4(SUFU):c.683+1G>A	51684	SUFU	Likely pathogenic	GRCh38	1066211
+single nucleotide variant	NM_016169.4(SUFU):c.408G>A (p.Trp136Ter)	51684	SUFU	Pathogenic	GRCh38	1072313
+single nucleotide variant	NM_016169.4(SUFU):c.637C>T (p.Gln213Ter)	51684	SUFU	Pathogenic	GRCh38	1068514
+single nucleotide variant	NM_016169.4(SUFU):c.1391G>A (p.Trp464Ter)	51684	SUFU	Likely pathogenic	GRCh38	1184595
+single nucleotide variant	NM_016169.4(SUFU):c.177G>T (p.Lys59Asn)	51684	SUFU	Likely pathogenic	GRCh38	1320879
+single nucleotide variant	NM_016169.4(SUFU):c.317+1G>A	51684	SUFU	Likely pathogenic	GRCh38	1494504
+single nucleotide variant	NM_016169.4(SUFU):c.318-1G>C	51684	SUFU	Likely pathogenic	GRCh38	1468373
+single nucleotide variant	NM_016169.4(SUFU):c.157C>T (p.Gln53Ter)	51684	SUFU	Pathogenic	GRCh38	1453994
+single nucleotide variant	NM_016169.4(SUFU):c.886C>T (p.Gln296Ter)	51684	SUFU	Pathogenic	GRCh38	1428202
+single nucleotide variant	NM_016169.4(SUFU):c.182+3A>C	51684	SUFU	Likely pathogenic	GRCh38	1435326
+single nucleotide variant	NM_016169.4(SUFU):c.183-2A>C	51684	SUFU	Likely pathogenic	GRCh38	1478847
+single nucleotide variant	NM_016169.4(SUFU):c.182+1G>A	51684	SUFU	Likely pathogenic	GRCh38	1506214
+single nucleotide variant	NM_016169.4(SUFU):c.683+5G>A	51684	SUFU	Likely pathogenic	GRCh38	1755682
+single nucleotide variant	NM_016169.4(SUFU):c.911-8C>A	51684	SUFU	Likely pathogenic	GRCh38	1765861
+single nucleotide variant	NM_016169.4(SUFU):c.642G>A (p.Trp214Ter)	51684	SUFU	Pathogenic	GRCh38	2136929
+single nucleotide variant	NM_016169.4(SUFU):c.556C>T (p.Gln186Ter)	51684	SUFU	Pathogenic	GRCh38	2151018
+single nucleotide variant	NM_016169.4(SUFU):c.1157+1G>A	51684	SUFU	Likely pathogenic	GRCh38	2133897
+single nucleotide variant	NM_016169.4(SUFU):c.222C>G (p.Tyr74Ter)	51684	SUFU	Pathogenic	GRCh38	2135261
+single nucleotide variant	NM_016169.4(SUFU):c.2T>A (p.Met1Lys)	51684	SUFU	Likely pathogenic	GRCh38	2566871
+single nucleotide variant	NM_016169.4(SUFU):c.183-1G>T	51684	SUFU	Likely pathogenic	GRCh38	2925459
+single nucleotide variant	NM_016169.4(SUFU):c.911-1G>T	51684	SUFU	Likely pathogenic	GRCh38	2943914
+single nucleotide variant	NM_016169.4(SUFU):c.256G>T (p.Glu86Ter)	51684	SUFU	Pathogenic	GRCh38	2945856
+single nucleotide variant	NM_016169.4(SUFU):c.1272C>G (p.Tyr424Ter)	51684	SUFU	Pathogenic	GRCh38	3226862
+single nucleotide variant	NM_016169.4(SUFU):c.1294C>T (p.Gln432Ter)	51684	SUFU	Pathogenic	GRCh38	3754927
+single nucleotide variant	NM_016169.4(SUFU):c.1365+2T>G	51684	SUFU	Likely pathogenic	GRCh38	3755144
+single nucleotide variant	NM_016169.4(SUFU):c.684-2A>T	51684	SUFU	Likely pathogenic	GRCh38	3776287
+single nucleotide variant	NM_016169.4(SUFU):c.595C>T (p.Gln199Ter)	51684	SUFU	Pathogenic	GRCh38	3802909
+single nucleotide variant	NM_016169.4(SUFU):c.928G>T (p.Glu310Ter)	51684	SUFU	Pathogenic	GRCh38	3963848
+single nucleotide variant	NM_016169.4(SUFU):c.910+1G>A	51684	SUFU	Likely pathogenic	GRCh38	3963853
+single nucleotide variant	NM_016169.4(SUFU):c.756+1G>T	51684	SUFU	Likely pathogenic	GRCh38	4177534
+single nucleotide variant	NM_016169.4(SUFU):c.1123C>T (p.Gln375Ter)	51684	SUFU	Pathogenic	GRCh38	4277724
+single nucleotide variant	NM_016169.4(SUFU):c.1023-2A>G	51684	SUFU	Likely pathogenic	GRCh38	4359419
+single nucleotide variant	NM_016169.4(SUFU):c.183G>A (p.Trp61Ter)	51684	SUFU	Pathogenic	GRCh38	4551697
+single nucleotide variant	NM_016169.4(SUFU):c.598-1G>T	51684	SUFU	Likely pathogenic	GRCh38	4759330
+single nucleotide variant	NM_016169.4(SUFU):c.1240G>T (p.Glu414Ter)	51684	SUFU	Pathogenic	GRCh38	4787073
+single nucleotide variant	NM_016169.4(SUFU):c.699G>A (p.Trp233Ter)	51684	SUFU	Pathogenic	GRCh38	4786983
+single nucleotide variant	NM_016169.4(SUFU):c.683+1G>T	51684	SUFU	Likely pathogenic	GRCh38	4865244

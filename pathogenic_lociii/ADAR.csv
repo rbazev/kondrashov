@@ -1,0 +1,64 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001111.5(ADAR):c.1420C>T (p.Arg474Ter)	103	ADAR	Pathogenic	GRCh38	14817
+single nucleotide variant	NM_001111.5(ADAR):c.2768T>C (p.Leu923Pro)	103	ADAR	Pathogenic	GRCh38	14818
+single nucleotide variant	NM_001111.5(ADAR):c.2854A>T (p.Lys952Ter)	103	ADAR	Pathogenic	GRCh38	14819
+single nucleotide variant	NM_001111.5(ADAR):c.3494T>C (p.Phe1165Ser)	103	ADAR	Pathogenic	GRCh38	14820
+single nucleotide variant	NM_001111.5(ADAR):c.2077C>T (p.Gln693Ter)	103	ADAR	Pathogenic	GRCh38	14821
+single nucleotide variant	NM_001111.5(ADAR):c.2608G>A (p.Ala870Thr)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39456
+single nucleotide variant	NM_001111.5(ADAR):c.3337G>C (p.Asp1113His)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39457
+single nucleotide variant	NM_001111.5(ADAR):c.3019G>A (p.Gly1007Arg)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39458
+single nucleotide variant	NM_001111.5(ADAR):c.3335A>T (p.Tyr1112Phe)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39459
+single nucleotide variant	NM_001111.5(ADAR):c.2997G>T (p.Lys999Asn)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39460
+single nucleotide variant	NM_001111.5(ADAR):c.2615T>C (p.Ile872Thr)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	39461
+single nucleotide variant	NM_001111.5(ADAR):c.1630C>T (p.Arg544Ter)	103	ADAR	Pathogenic	GRCh38	126560
+single nucleotide variant	NM_001111.5(ADAR):c.2669-1G>C	103	ADAR	Pathogenic	GRCh38	419608
+single nucleotide variant	NM_001111.5(ADAR):c.3020-3C>G	103	ADAR	Likely pathogenic	GRCh38	427090
+single nucleotide variant	NM_001111.5(ADAR):c.3215G>T (p.Ser1072Ile)	103	ADAR	Likely pathogenic	GRCh38	488463
+single nucleotide variant	NM_001111.5(ADAR):c.1675C>T (p.Gln559Ter)	103	ADAR	Pathogenic	GRCh38	499262
+single nucleotide variant	NM_001111.5(ADAR):c.3143T>C (p.Leu1048Pro)	103	ADAR	Likely pathogenic	GRCh38	801551
+single nucleotide variant	NM_001111.5(ADAR):c.3286C>T (p.Arg1096Ter)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	985814
+single nucleotide variant	NM_001111.5(ADAR):c.2885+2T>C	103	ADAR	Pathogenic	GRCh38	985481
+single nucleotide variant	NM_001111.5(ADAR):c.2344C>T (p.Gln782Ter)	103	ADAR	Pathogenic	GRCh38	1073320
+single nucleotide variant	NM_001111.5(ADAR):c.3202+1G>A	103	ADAR	Pathogenic	GRCh38	1184494
+single nucleotide variant	NM_001111.5(ADAR):c.2763-2A>G	103	ADAR	Likely pathogenic	GRCh38	1184495
+single nucleotide variant	NM_001111.5(ADAR):c.758G>A (p.Trp253Ter)	103	ADAR	Likely pathogenic	GRCh38	1184496
+single nucleotide variant	NM_001111.5(ADAR):c.2079+1G>C	103	ADAR	Pathogenic	GRCh38	1322858
+single nucleotide variant	NM_001111.5(ADAR):c.763C>T (p.Gln255Ter)	103	ADAR	Pathogenic	GRCh38	1451454
+single nucleotide variant	NM_001111.5(ADAR):c.85C>T (p.Gln29Ter)	103	ADAR	Pathogenic	GRCh38	1356340
+single nucleotide variant	NM_001111.5(ADAR):c.982C>T (p.Arg328Ter)	103	ADAR	Pathogenic	GRCh38	1456115
+single nucleotide variant	NM_001111.5(ADAR):c.3443+2T>A	103	ADAR	Likely pathogenic	GRCh38	1695514
+single nucleotide variant	NM_001111.5(ADAR):c.3040G>T (p.Glu1014Ter)	103	ADAR	Pathogenic	GRCh38	2202845
+single nucleotide variant	NM_001111.5(ADAR):c.520C>T (p.Arg174Ter)	103	ADAR	Pathogenic	GRCh38	1973592
+single nucleotide variant	NM_001111.5(ADAR):c.1602-2A>G	103	ADAR	Likely pathogenic	GRCh38	1993205
+single nucleotide variant	NM_001111.5(ADAR):c.1786-1G>C	103	ADAR	Likely pathogenic	GRCh38	2006136
+single nucleotide variant	NM_001111.5(ADAR):c.133G>T (p.Glu45Ter)	103	ADAR	Pathogenic	GRCh38	2016140
+single nucleotide variant	NM_001111.5(ADAR):c.3402T>A (p.Tyr1134Ter)	103	ADAR	Pathogenic	GRCh38	2023208
+single nucleotide variant	NM_001111.5(ADAR):c.2885+1G>A	103	ADAR	Likely pathogenic	GRCh38	2444054
+single nucleotide variant	NM_001111.5(ADAR):c.3102G>A (p.Met1034Ile)	103	ADAR	Likely pathogenic	GRCh38	2571694
+single nucleotide variant	NM_001111.5(ADAR):c.1798C>T (p.Gln600Ter)	103	ADAR	Pathogenic	GRCh38	2574234
+single nucleotide variant	NM_001111.5(ADAR):c.1600C>T (p.Arg534Ter)	103	ADAR	Pathogenic	GRCh38	2633764
+single nucleotide variant	NM_001111.5(ADAR):c.1483A>T (p.Lys495Ter)	103	ADAR	Likely pathogenic	GRCh38	2628407
+single nucleotide variant	NM_001111.5(ADAR):c.1601+1G>T	103	ADAR	Likely pathogenic	GRCh38	2639374
+single nucleotide variant	NM_001111.5(ADAR):c.1267C>T (p.Gln423Ter)	103	ADAR	Likely pathogenic	GRCh38	2690506
+single nucleotide variant	NM_001111.5(ADAR):c.3125G>A (p.Arg1042His)	103	ADAR	Pathogenic	GRCh38	2925295
+single nucleotide variant	NM_001111.5(ADAR):c.1472C>G (p.Ser491Ter)	103	ADAR	Pathogenic	GRCh38	2925298
+single nucleotide variant	NM_001111.5(ADAR):c.3232C>T (p.Arg1078Cys)	103	ADAR	Pathogenic	GRCh38	2925166
+single nucleotide variant	NM_001111.5(ADAR):c.391C>T (p.Gln131Ter)	103	ADAR	Pathogenic	GRCh38	2942810
+single nucleotide variant	NM_001111.5(ADAR):c.1576C>T (p.Gln526Ter)	103	ADAR	Pathogenic	GRCh38	2946309
+single nucleotide variant	NM_001111.5(ADAR):c.3233G>T (p.Arg1078Leu)	103	ADAR	Pathogenic	GRCh38	2935628
+single nucleotide variant	NM_001111.5(ADAR):c.2763-1G>A	103	ADAR	Likely pathogenic	GRCh38	2952788
+single nucleotide variant	NM_001111.5(ADAR):c.3364A>C (p.Lys1122Gln)	103	ADAR	Likely pathogenic	GRCh38	3066100
+single nucleotide variant	NM_001111.5(ADAR):c.3019G>C (p.Gly1007Arg)	103	ADAR	Likely pathogenic	GRCh38	3239322
+single nucleotide variant	NM_001111.5(ADAR):c.1078C>T (p.Arg360Ter)	103	ADAR	Pathogenic/Likely pathogenic	GRCh38	3375734
+single nucleotide variant	NM_001111.5(ADAR):c.3019+1G>A	103	ADAR	Likely pathogenic	GRCh38	3757594
+single nucleotide variant	NM_001111.5(ADAR):c.2245C>T (p.Gln749Ter)	103	ADAR	Pathogenic	GRCh38	3757205
+single nucleotide variant	NM_001111.5(ADAR):c.325C>T (p.Gln109Ter)	103	ADAR	Pathogenic	GRCh38	3763896
+single nucleotide variant	NM_001111.5(ADAR):c.3316-1G>T	103	ADAR	Pathogenic	GRCh38	4075404
+single nucleotide variant	NM_001111.5(ADAR):c.3147A>T (p.Gln1049His)	103	ADAR	Likely pathogenic	GRCh38	4075409
+single nucleotide variant	NM_001111.5(ADAR):c.585G>A (p.Trp195Ter)	103	ADAR	Likely pathogenic	GRCh38	4075411
+single nucleotide variant	NM_001111.5(ADAR):c.3203-1G>C	103	ADAR	Likely pathogenic	GRCh38	4081090
+single nucleotide variant	NM_001111.5(ADAR):c.953T>A (p.Leu318Ter)	103	ADAR	Pathogenic	GRCh38	4085593
+single nucleotide variant	NM_001111.5(ADAR):c.16-2A>G	103	ADAR	Likely pathogenic	GRCh38	4784378
+single nucleotide variant	NM_001111.5(ADAR):c.3140G>A (p.Gly1047Asp)	103	ADAR	Pathogenic	GRCh38	4783517
+single nucleotide variant	NM_001111.5(ADAR):c.3020-1G>A	103	ADAR	Pathogenic	GRCh38	4783518
+single nucleotide variant	NM_001111.5(ADAR):c.2270+1G>A	103	ADAR	Likely pathogenic	GRCh38	4813819

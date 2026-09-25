@@ -1,0 +1,109 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000182.5(HADHA):c.1528G>C (p.Glu510Gln)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	100085
+single nucleotide variant	NM_000182.5(HADHA):c.1132C>T (p.Gln378Ter)	3030	HADHA	Pathogenic	GRCh38	8729
+single nucleotide variant	NM_000182.5(HADHA):c.180+1G>A	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	8730
+single nucleotide variant	NM_000182.5(HADHA):c.180+3A>G	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	8731
+single nucleotide variant	NM_000182.5(HADHA):c.1678C>T (p.Arg560Ter)	3030	HADHA	Pathogenic	GRCh38	8732
+single nucleotide variant	NM_000182.5(HADHA):c.1025T>C (p.Leu342Pro)	3030	HADHA	Pathogenic	GRCh38	8734
+single nucleotide variant	NM_000182.5(HADHA):c.914T>A (p.Ile305Asn)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	8736
+single nucleotide variant	NM_000182.5(HADHA):c.871C>T (p.Arg291Ter)	3030	HADHA	Pathogenic	GRCh38	8737
+single nucleotide variant	NM_000182.5(HADHA):c.157C>T (p.Arg53Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	92594
+single nucleotide variant	NM_000182.5(HADHA):c.703C>T (p.Arg235Trp)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	188987
+single nucleotide variant	NM_000182.5(HADHA):c.919-2A>G	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	193564
+single nucleotide variant	NM_000182.5(HADHA):c.1918C>T (p.Gln640Ter)	3030	HADHA	Pathogenic	GRCh38	194808
+single nucleotide variant	NM_000182.5(HADHA):c.2146+1G>A	3030	HADHA	Pathogenic	GRCh38	194917
+single nucleotide variant	NM_000182.5(HADHA):c.403A>G (p.Lys135Glu)	3030	HADHA	Likely pathogenic	GRCh38	197642
+single nucleotide variant	NM_000182.5(HADHA):c.407C>G (p.Pro136Arg)	3030	HADHA	Likely pathogenic	GRCh38	203746
+single nucleotide variant	NM_000182.5(HADHA):c.2146+2T>C	3030	HADHA	Likely pathogenic	GRCh38	370251
+single nucleotide variant	NM_000182.5(HADHA):c.2071G>T (p.Glu691Ter)	3030	HADHA	Likely pathogenic	GRCh38	371259
+single nucleotide variant	NM_000182.5(HADHA):c.1690-2A>G	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	370079
+single nucleotide variant	NM_000182.5(HADHA):c.1237A>T (p.Lys413Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	370401
+single nucleotide variant	NM_000182.5(HADHA):c.1221-1G>C	3030	HADHA	Likely pathogenic	GRCh38	370098
+single nucleotide variant	NM_000182.5(HADHA):c.453+1G>A	3030	HADHA	Likely pathogenic	GRCh38	370347
+single nucleotide variant	NM_000182.5(HADHA):c.240G>A (p.Trp80Ter)	3030	HADHA	Pathogenic	GRCh38	370220
+single nucleotide variant	NM_000182.5(HADHA):c.1A>G (p.Met1Val)	3030	HADHA	Likely pathogenic	GRCh38	371639
+single nucleotide variant	NM_000182.5(HADHA):c.1885G>A (p.Gly629Ser)	3030	HADHA	Likely pathogenic	GRCh38	429373
+single nucleotide variant	NM_000182.5(HADHA):c.1195C>T (p.Arg399Ter)	3030	HADHA	Pathogenic	GRCh38	449455
+single nucleotide variant	NM_000182.5(HADHA):c.676+2T>C	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	495728
+single nucleotide variant	NM_000182.5(HADHA):c.2000+1G>C	3030	HADHA	Pathogenic	GRCh38	554318
+single nucleotide variant	NM_000182.5(HADHA):c.800-1G>T	3030	HADHA	Pathogenic	GRCh38	550378
+single nucleotide variant	NM_000182.5(HADHA):c.315-1G>A	3030	HADHA	Pathogenic	GRCh38	554431
+single nucleotide variant	NM_000182.5(HADHA):c.3G>A (p.Met1Ile)	3030	HADHA	Likely pathogenic	GRCh38	553089
+single nucleotide variant	NM_000182.5(HADHA):c.2220T>A (p.Tyr740Ter)	3030	HADHA	Pathogenic	GRCh38	552556
+single nucleotide variant	NM_000182.5(HADHA):c.1493A>G (p.His498Arg)	3030	HADHA	Likely pathogenic	GRCh38	555246
+single nucleotide variant	NM_000182.5(HADHA):c.1479+1G>T	3030	HADHA	Likely pathogenic	GRCh38	552402
+single nucleotide variant	NM_000182.5(HADHA):c.677-1G>A	3030	HADHA	Likely pathogenic	GRCh38	558129
+single nucleotide variant	NM_000182.5(HADHA):c.64C>T (p.Arg22Ter)	3030	HADHA	Likely pathogenic	GRCh38	556688
+single nucleotide variant	NM_000182.5(HADHA):c.1712T>C (p.Leu571Pro)	3030	HADHA	Likely pathogenic	GRCh38	550418
+single nucleotide variant	NM_000182.5(HADHA):c.1645A>G (p.Arg549Gly)	3030	HADHA	Likely pathogenic	GRCh38	689365
+single nucleotide variant	NM_000182.5(HADHA):c.1689+2T>G	3030	HADHA	Pathogenic	GRCh38	801655
+single nucleotide variant	NM_000182.5(HADHA):c.539C>T (p.Pro180Leu)	3030	HADHA	Likely pathogenic	GRCh38	816540
+single nucleotide variant	NM_000182.5(HADHA):c.574-2A>G	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	835948
+single nucleotide variant	NM_000182.5(HADHA):c.2027G>A (p.Arg676His)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	948895
+single nucleotide variant	NM_000182.5(HADHA):c.676+1G>A	3030	HADHA	Pathogenic	GRCh38	944315
+single nucleotide variant	NM_000182.5(HADHA):c.1513A>T (p.Lys505Ter)	3030	HADHA	Likely pathogenic	GRCh38	984355
+single nucleotide variant	NM_000182.5(HADHA):c.1168A>T (p.Lys390Ter)	3030	HADHA	Likely pathogenic	GRCh38	983584
+single nucleotide variant	NM_000182.5(HADHA):c.960T>A (p.Tyr320Ter)	3030	HADHA	Likely pathogenic	GRCh38	983585
+single nucleotide variant	NM_000182.5(HADHA):c.862G>T (p.Glu288Ter)	3030	HADHA	Likely pathogenic	GRCh38	983586
+single nucleotide variant	NM_000182.5(HADHA):c.859G>T (p.Glu287Ter)	3030	HADHA	Likely pathogenic	GRCh38	983587
+single nucleotide variant	NM_000182.5(HADHA):c.667G>T (p.Glu223Ter)	3030	HADHA	Likely pathogenic	GRCh38	983588
+single nucleotide variant	NM_000182.5(HADHA):c.640A>T (p.Lys214Ter)	3030	HADHA	Likely pathogenic	GRCh38	983589
+single nucleotide variant	NM_000182.5(HADHA):c.474C>A (p.Tyr158Ter)	3030	HADHA	Likely pathogenic	GRCh38	983590
+single nucleotide variant	NM_000182.5(HADHA):c.451G>T (p.Glu151Ter)	3030	HADHA	Likely pathogenic	GRCh38	983591
+single nucleotide variant	NM_000182.5(HADHA):c.439G>T (p.Gly147Ter)	3030	HADHA	Likely pathogenic	GRCh38	983871
+single nucleotide variant	NM_000182.5(HADHA):c.359C>A (p.Ser120Ter)	3030	HADHA	Likely pathogenic	GRCh38	983872
+single nucleotide variant	NM_000182.5(HADHA):c.340C>T (p.Gln114Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	983873
+single nucleotide variant	NM_000182.5(HADHA):c.2026C>T (p.Arg676Cys)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	1065948
+single nucleotide variant	NM_000182.5(HADHA):c.1528G>T (p.Glu510Ter)	3030	HADHA	Pathogenic	GRCh38	1075355
+single nucleotide variant	NM_000182.5(HADHA):c.2198T>C (p.Leu733Pro)	3030	HADHA	Likely pathogenic	GRCh38	1493594
+single nucleotide variant	NM_000182.5(HADHA):c.556C>T (p.Gln186Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	1373566
+single nucleotide variant	NM_000182.5(HADHA):c.2020C>T (p.Gln674Ter)	3030	HADHA	Pathogenic	GRCh38	1452112
+single nucleotide variant	NM_000182.5(HADHA):c.976-1G>T	3030	HADHA	Likely pathogenic	GRCh38	1482399
+single nucleotide variant	NM_000182.5(HADHA):c.2208T>A (p.Tyr736Ter)	3030	HADHA	Pathogenic	GRCh38	1427255
+single nucleotide variant	NM_000182.5(HADHA):c.1204C>T (p.Gln402Ter)	3030	HADHA	Pathogenic	GRCh38	1455608
+single nucleotide variant	NM_000182.5(HADHA):c.2200A>T (p.Lys734Ter)	3030	HADHA	Pathogenic	GRCh38	1390752
+single nucleotide variant	NM_000182.5(HADHA):c.1480-1G>C	3030	HADHA	Likely pathogenic	GRCh38	1491269
+single nucleotide variant	NM_000182.5(HADHA):c.1086-2A>T	3030	HADHA	Likely pathogenic	GRCh38	1490688
+single nucleotide variant	NM_000182.5(HADHA):c.918+2T>A	3030	HADHA	Pathogenic	GRCh38	1695860
+single nucleotide variant	NM_000182.5(HADHA):c.717C>A (p.Tyr239Ter)	3030	HADHA	Likely pathogenic	GRCh38	1725709
+single nucleotide variant	NM_000182.5(HADHA):c.1891A>T (p.Lys631Ter)	3030	HADHA	Likely pathogenic	GRCh38	1726289
+single nucleotide variant	NM_000182.5(HADHA):c.314+2T>G	3030	HADHA	Likely pathogenic	GRCh38	2178770
+single nucleotide variant	NM_000182.5(HADHA):c.2000+1G>A	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	1979591
+single nucleotide variant	NM_000182.5(HADHA):c.1336G>T (p.Glu446Ter)	3030	HADHA	Pathogenic	GRCh38	2046757
+single nucleotide variant	NM_000182.5(HADHA):c.1029C>A (p.Tyr343Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	2035761
+single nucleotide variant	NM_000182.5(HADHA):c.469C>T (p.Gln157Ter)	3030	HADHA	Pathogenic	GRCh38	2107593
+single nucleotide variant	NM_000182.5(HADHA):c.67+1G>A	3030	HADHA	Likely pathogenic	GRCh38	2675980
+single nucleotide variant	NM_000182.5(HADHA):c.919-1G>A	3030	HADHA	Likely pathogenic	GRCh38	2675962
+single nucleotide variant	NM_000182.5(HADHA):c.1221-2A>G	3030	HADHA	Likely pathogenic	GRCh38	2675965
+single nucleotide variant	NM_000182.5(HADHA):c.315-2A>T	3030	HADHA	Pathogenic	GRCh38	2675966
+single nucleotide variant	NM_000182.5(HADHA):c.658C>T (p.Gln220Ter)	3030	HADHA	Likely pathogenic	GRCh38	2675967
+single nucleotide variant	NM_000182.5(HADHA):c.976-2A>G	3030	HADHA	Likely pathogenic	GRCh38	2675972
+single nucleotide variant	NM_000182.5(HADHA):c.874A>T (p.Lys292Ter)	3030	HADHA	Likely pathogenic	GRCh38	2675974
+single nucleotide variant	NM_000182.5(HADHA):c.314+1G>C	3030	HADHA	Likely pathogenic	GRCh38	2675978
+single nucleotide variant	NM_000182.5(HADHA):c.181-1G>A	3030	HADHA	Likely pathogenic	GRCh38	2675979
+single nucleotide variant	NM_000182.5(HADHA):c.573+1G>A	3030	HADHA	Likely pathogenic	GRCh38	2922404
+single nucleotide variant	NM_000182.5(HADHA):c.1917T>A (p.Tyr639Ter)	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	2927833
+single nucleotide variant	NM_000182.5(HADHA):c.1220+1G>T	3030	HADHA	Likely pathogenic	GRCh38	2934549
+single nucleotide variant	NM_000182.5(HADHA):c.677-2A>G	3030	HADHA	Likely pathogenic	GRCh38	2947730
+single nucleotide variant	NM_000182.5(HADHA):c.815C>A (p.Ala272Asp)	3030	HADHA	Likely pathogenic	GRCh38	2934851
+single nucleotide variant	NM_000182.5(HADHA):c.1261G>T (p.Glu421Ter)	3030	HADHA	Pathogenic	GRCh38	2935068
+single nucleotide variant	NM_000182.5(HADHA):c.841C>T (p.Gln281Ter)	3030	HADHA	Pathogenic	GRCh38	2939655
+single nucleotide variant	NM_000182.5(HADHA):c.1689+2T>C	3030	HADHA	Pathogenic/Likely pathogenic	GRCh38	2954233
+single nucleotide variant	NM_000182.5(HADHA):c.799+1G>A	3030	HADHA	Likely pathogenic	GRCh38	2948846
+single nucleotide variant	NM_000182.5(HADHA):c.573+2T>C	3030	HADHA	Likely pathogenic	GRCh38	3241725
+single nucleotide variant	NM_000182.5(HADHA):c.302G>T (p.Gly101Val)	3030	HADHA	Likely pathogenic	GRCh38	3254781
+single nucleotide variant	NM_000182.5(HADHA):c.110-1G>A	3030	HADHA	Likely pathogenic	GRCh38	3370419
+single nucleotide variant	NM_000182.5(HADHA):c.278C>G (p.Ser93Ter)	3030	HADHA	Pathogenic	GRCh38	3385116
+single nucleotide variant	NM_000182.5(HADHA):c.1689+1G>T	3030	HADHA	Likely pathogenic	GRCh38	3586240
+single nucleotide variant	NM_000182.5(HADHA):c.1036C>T (p.Gln346Ter)	3030	HADHA	Likely pathogenic	GRCh38	3586243
+single nucleotide variant	NM_000182.5(HADHA):c.1621-2A>G	3030	HADHA	Likely pathogenic	GRCh38	3895662
+single nucleotide variant	NM_000182.5(HADHA):c.370C>T (p.Gln124Ter)	3030	HADHA	Likely pathogenic	GRCh38	3899292
+single nucleotide variant	NM_000182.5(HADHA):c.446G>T (p.Gly149Val)	3030	HADHA	Likely pathogenic	GRCh38	4069005
+single nucleotide variant	NM_000182.5(HADHA):c.1885+2T>G	3030	HADHA	Likely pathogenic	GRCh38	4081701
+single nucleotide variant	NM_000182.5(HADHA):c.315-1G>T	3030	HADHA	Likely pathogenic	GRCh38	4081702
+single nucleotide variant	NM_000182.5(HADHA):c.1885+2T>A	3030	HADHA	Likely pathogenic	GRCh38	4787201
+single nucleotide variant	NM_000182.5(HADHA):c.1690-1G>A	3030	HADHA	Likely pathogenic	GRCh38	4785205
+single nucleotide variant	NM_000182.5(HADHA):c.314+2T>C	3030	HADHA	Likely pathogenic	GRCh38	4791042
+single nucleotide variant	NM_000182.5(HADHA):c.1529A>G (p.Glu510Gly)	3030	HADHA	Likely pathogenic	GRCh38	4817869
+single nucleotide variant	NM_000182.5(HADHA):c.1600A>T (p.Lys534Ter)	3030	HADHA	Likely pathogenic	GRCh38	4817870
+single nucleotide variant	NM_000182.5(HADHA):c.2132C>T (p.Pro711Leu)	3030	HADHA	Likely pathogenic	GRCh38	4852411

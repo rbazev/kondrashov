@@ -1,0 +1,132 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_022552.5(DNMT3A):c.1943T>C (p.Leu648Pro)	1788	DNMT3A	Pathogenic	GRCh38	139616
+single nucleotide variant	NM_022552.5(DNMT3A):c.929T>A (p.Ile310Asn)	1788	DNMT3A	Pathogenic	GRCh38	139617
+single nucleotide variant	NM_022552.5(DNMT3A):c.1643T>A (p.Met548Lys)	1788	DNMT3A	Pathogenic	GRCh38	139618
+single nucleotide variant	NM_022552.5(DNMT3A):c.2705T>C (p.Phe902Ser)	1788	DNMT3A	Pathogenic	GRCh38	139619
+single nucleotide variant	NM_022552.5(DNMT3A):c.1204C>T (p.Gln402Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	208338
+single nucleotide variant	NM_022552.5(DNMT3A):c.892G>T (p.Gly298Trp)	1788	DNMT3A	Pathogenic	GRCh38	208714
+single nucleotide variant	NM_022552.5(DNMT3A):c.895A>C (p.Lys299Gln)	1788	DNMT3A	Likely pathogenic	GRCh38	266030
+single nucleotide variant	NM_022552.5(DNMT3A):c.1608C>G (p.Tyr536Ter)	1788	DNMT3A	Pathogenic	GRCh38	280341
+single nucleotide variant	NM_022552.5(DNMT3A):c.2711C>T (p.Pro904Leu)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	372798
+single nucleotide variant	NM_022552.5(DNMT3A):c.2645G>A (p.Arg882His)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	375881
+single nucleotide variant	NM_022552.5(DNMT3A):c.2644C>T (p.Arg882Cys)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	375882
+single nucleotide variant	NM_022552.5(DNMT3A):c.2213T>G (p.Leu738Arg)	1788	DNMT3A	Likely pathogenic	GRCh38	391574
+single nucleotide variant	NM_022552.5(DNMT3A):c.2311C>T (p.Arg771Ter)	1788	DNMT3A	Pathogenic	GRCh38	419534
+single nucleotide variant	NM_022552.5(DNMT3A):c.1748G>A (p.Cys583Tyr)	1788	DNMT3A	Pathogenic	GRCh38	423541
+single nucleotide variant	NM_022552.5(DNMT3A):c.1628G>A (p.Gly543Asp)	1788	DNMT3A	Pathogenic	GRCh38	420791
+single nucleotide variant	NM_022552.5(DNMT3A):c.1015-2A>G	1788	DNMT3A	Likely pathogenic	GRCh38	424352
+single nucleotide variant	NM_022552.5(DNMT3A):c.901C>T (p.Arg301Trp)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	432039
+single nucleotide variant	NM_022552.5(DNMT3A):c.2312G>A (p.Arg771Gln)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	438287
+single nucleotide variant	NM_022552.5(DNMT3A):c.2478+1G>T	1788	DNMT3A	Likely pathogenic	GRCh38	452755
+single nucleotide variant	NM_022552.5(DNMT3A):c.2536C>T (p.Gln846Ter)	1788	DNMT3A	Pathogenic	GRCh38	521889
+single nucleotide variant	NM_022552.5(DNMT3A):c.2086C>T (p.Gln696Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	559654
+single nucleotide variant	NM_022552.5(DNMT3A):c.1634A>G (p.Glu545Gly)	1788	DNMT3A	Likely pathogenic	GRCh38	559889
+single nucleotide variant	NM_022552.5(DNMT3A):c.2525A>G (p.Gln842Arg)	1788	DNMT3A	Likely pathogenic	GRCh38	620042
+single nucleotide variant	NM_022552.5(DNMT3A):c.920C>T (p.Pro307Leu)	1788	DNMT3A	Likely pathogenic	GRCh38	620043
+single nucleotide variant	NM_022552.5(DNMT3A):c.617G>A (p.Trp206Ter)	1788	DNMT3A	Pathogenic	GRCh38	620247
+single nucleotide variant	NM_022552.5(DNMT3A):c.2710C>T (p.Pro904Ser)	1788	DNMT3A	Likely pathogenic	GRCh38	635110
+single nucleotide variant	NM_022552.5(DNMT3A):c.2495C>T (p.Thr832Ile)	1788	DNMT3A	Likely pathogenic	GRCh38	648721
+single nucleotide variant	NM_022552.5(DNMT3A):c.2385G>A (p.Trp795Ter)	1788	DNMT3A	Pathogenic	GRCh38	656461
+single nucleotide variant	NM_022552.5(DNMT3A):c.2309C>T (p.Ser770Leu)	1788	DNMT3A	Pathogenic	GRCh38	644499
+single nucleotide variant	NM_022552.5(DNMT3A):c.2063G>A (p.Arg688His)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	650730
+single nucleotide variant	NM_022552.5(DNMT3A):c.7G>T (p.Ala3Ser)	1788	DNMT3A	Likely pathogenic	GRCh38	800326
+single nucleotide variant	NM_022552.5(DNMT3A):c.988T>C (p.Trp330Arg)	1788	DNMT3A	Pathogenic	GRCh38	801331
+single nucleotide variant	NM_022552.5(DNMT3A):c.997G>A (p.Asp333Asn)	1788	DNMT3A	Likely pathogenic	GRCh38	801332
+single nucleotide variant	NM_022552.5(DNMT3A):c.1851+1G>C	1788	DNMT3A	Pathogenic	GRCh38	872725
+single nucleotide variant	NM_022552.5(DNMT3A):c.1443C>A (p.Tyr481Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	872726
+single nucleotide variant	NM_022552.5(DNMT3A):c.958C>T (p.Arg320Ter)	1788	DNMT3A	Pathogenic	GRCh38	955045
+single nucleotide variant	NM_022552.5(DNMT3A):c.1363A>T (p.Lys455Ter)	1788	DNMT3A	Pathogenic	GRCh38	970008
+single nucleotide variant	NM_022552.5(DNMT3A):c.2146G>A (p.Val716Ile)	1788	DNMT3A	Pathogenic	GRCh38	977200
+single nucleotide variant	NM_022552.5(DNMT3A):c.1668G>C (p.Arg556Ser)	1788	DNMT3A	Likely pathogenic	GRCh38	978383
+single nucleotide variant	NM_022552.5(DNMT3A):c.1937-2A>G	1788	DNMT3A	Pathogenic	GRCh38	979198
+single nucleotide variant	NM_022552.5(DNMT3A):c.2722T>A (p.Tyr908Asn)	1788	DNMT3A	Likely pathogenic	GRCh38	981260
+single nucleotide variant	NM_022552.5(DNMT3A):c.1643T>C (p.Met548Thr)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	985328
+single nucleotide variant	NM_022552.5(DNMT3A):c.448+1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	986959
+single nucleotide variant	NM_022552.5(DNMT3A):c.2726T>C (p.Phe909Ser)	1788	DNMT3A	Pathogenic	GRCh38	992315
+single nucleotide variant	NM_022552.5(DNMT3A):c.427C>T (p.Arg143Ter)	1788	DNMT3A	Pathogenic	GRCh38	1027657
+single nucleotide variant	NM_022552.5(DNMT3A):c.1004A>G (p.Lys335Arg)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	1065568
+single nucleotide variant	NM_022552.5(DNMT3A):c.1792C>T (p.Arg598Ter)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	1070654
+single nucleotide variant	NM_022552.5(DNMT3A):c.1490G>T (p.Cys497Phe)	1788	DNMT3A	Likely pathogenic	GRCh38	1098321
+single nucleotide variant	NM_022552.5(DNMT3A):c.1757G>T (p.Cys586Phe)	1788	DNMT3A	Pathogenic	GRCh38	1173066
+single nucleotide variant	NM_022552.5(DNMT3A):c.2207G>A (p.Arg736His)	1788	DNMT3A	Pathogenic	GRCh38	1194481
+single nucleotide variant	NM_022552.5(DNMT3A):c.1851+3G>C	1788	DNMT3A	Likely pathogenic	GRCh38	1199225
+single nucleotide variant	NM_022552.5(DNMT3A):c.2478+1G>A	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	1210909
+single nucleotide variant	NM_022552.5(DNMT3A):c.1907T>A (p.Val636Glu)	1788	DNMT3A	Likely pathogenic	GRCh38	1213129
+single nucleotide variant	NM_022552.5(DNMT3A):c.890G>A (p.Trp297Ter)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	1285401
+single nucleotide variant	NM_022552.5(DNMT3A):c.855+1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	1285593
+single nucleotide variant	NM_022552.5(DNMT3A):c.1555-1G>A	1788	DNMT3A	Pathogenic	GRCh38	1320067
+single nucleotide variant	NM_022552.5(DNMT3A):c.2693T>C (p.Ile898Thr)	1788	DNMT3A	Likely pathogenic	GRCh38	1321927
+single nucleotide variant	NM_022552.5(DNMT3A):c.1554+1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	2981249
+single nucleotide variant	NM_022552.5(DNMT3A):c.2173+1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	1324288
+single nucleotide variant	NM_022552.5(DNMT3A):c.2322+1G>A	1788	DNMT3A	Pathogenic	GRCh38	1330229
+single nucleotide variant	NM_022552.5(DNMT3A):c.1647C>A (p.Cys549Ter)	1788	DNMT3A	Pathogenic	GRCh38	1332907
+single nucleotide variant	NM_022552.5(DNMT3A):c.2409-1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	1349362
+single nucleotide variant	NM_022552.5(DNMT3A):c.2678G>A (p.Trp893Ter)	1788	DNMT3A	Pathogenic	GRCh38	1486678
+single nucleotide variant	NM_022552.5(DNMT3A):c.1978T>C (p.Tyr660His)	1788	DNMT3A	Likely pathogenic	GRCh38	1679101
+single nucleotide variant	NM_022552.5(DNMT3A):c.1676G>A (p.Cys559Tyr)	1788	DNMT3A	Likely pathogenic	GRCh38	1685302
+single nucleotide variant	NM_022552.5(DNMT3A):c.1906G>A (p.Val636Met)	1788	DNMT3A	Likely pathogenic	GRCh38	1694950
+single nucleotide variant	NM_022552.5(DNMT3A):c.905G>C (p.Gly302Ala)	1788	DNMT3A	Likely pathogenic	GRCh38	1695907
+single nucleotide variant	NM_022552.5(DNMT3A):c.1243C>T (p.Gln415Ter)	1788	DNMT3A	Pathogenic	GRCh38	1699425
+single nucleotide variant	NM_022552.5(DNMT3A):c.917G>A (p.Trp306Ter)	1788	DNMT3A	Pathogenic	GRCh38	1701889
+single nucleotide variant	NM_022552.5(DNMT3A):c.1585G>A (p.Asp529Asn)	1788	DNMT3A	Likely pathogenic	GRCh38	1708274
+single nucleotide variant	NM_022552.5(DNMT3A):c.2311C>G (p.Arg771Gly)	1788	DNMT3A	Likely pathogenic	GRCh38	1709413
+single nucleotide variant	NM_022552.5(DNMT3A):c.1555-1G>T	1788	DNMT3A	Pathogenic	GRCh38	1711493
+single nucleotide variant	NM_022552.5(DNMT3A):c.2186G>A (p.Arg729Gln)	1788	DNMT3A	Likely pathogenic	GRCh38	1801370
+single nucleotide variant	NM_022552.5(DNMT3A):c.2245C>T (p.Arg749Cys)	1788	DNMT3A	Pathogenic	GRCh38	2203023
+single nucleotide variant	NM_022552.5(DNMT3A):c.629G>A (p.Trp210Ter)	1788	DNMT3A	Pathogenic	GRCh38	2031023
+single nucleotide variant	NM_022552.5(DNMT3A):c.853G>T (p.Glu285Ter)	1788	DNMT3A	Pathogenic	GRCh38	2104480
+single nucleotide variant	NM_022552.5(DNMT3A):c.1405G>T (p.Glu469Ter)	1788	DNMT3A	Pathogenic	GRCh38	2255497
+single nucleotide variant	NM_022552.5(DNMT3A):c.639G>A (p.Glu213=)	1788	DNMT3A	Likely pathogenic	GRCh38	2310869
+single nucleotide variant	NM_022552.5(DNMT3A):c.745C>T (p.Gln249Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	2430002
+single nucleotide variant	NM_022552.5(DNMT3A):c.1627G>A (p.Gly543Ser)	1788	DNMT3A	Likely pathogenic	GRCh38	2431485
+single nucleotide variant	NM_022552.5(DNMT3A):c.2479-1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	2444428
+single nucleotide variant	NM_022552.5(DNMT3A):c.2597+1G>A	1788	DNMT3A	Pathogenic	GRCh38	2501699
+single nucleotide variant	NM_022552.5(DNMT3A):c.1481G>C (p.Cys494Ser)	1788	DNMT3A	Pathogenic	GRCh38	2501700
+single nucleotide variant	NM_022552.5(DNMT3A):c.1258A>T (p.Lys420Ter)	1788	DNMT3A	Pathogenic	GRCh38	2575076
+single nucleotide variant	NM_022552.5(DNMT3A):c.1279G>T (p.Glu427Ter)	1788	DNMT3A	Pathogenic	GRCh38	2575173
+single nucleotide variant	NM_022552.5(DNMT3A):c.1916T>C (p.Leu639Pro)	1788	DNMT3A	Likely pathogenic	GRCh38	2578846
+single nucleotide variant	NM_022552.5(DNMT3A):c.2177G>T (p.Gly726Val)	1788	DNMT3A	Pathogenic	GRCh38	2580938
+single nucleotide variant	NM_022552.5(DNMT3A):c.1661G>C (p.Cys554Ser)	1788	DNMT3A	Likely pathogenic	GRCh38	2584521
+single nucleotide variant	NM_022552.5(DNMT3A):c.2580G>A (p.Trp860Ter)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	2606701
+single nucleotide variant	NM_022552.5(DNMT3A):c.1803G>A (p.Trp601Ter)	1788	DNMT3A	Pathogenic	GRCh38	2635178
+single nucleotide variant	NM_022552.5(DNMT3A):c.1319G>A (p.Trp440Ter)	1788	DNMT3A	Pathogenic	GRCh38	2681245
+single nucleotide variant	NM_022552.5(DNMT3A):c.1667+1G>A	1788	DNMT3A	Likely pathogenic	GRCh38	2727286
+single nucleotide variant	NM_022552.5(DNMT3A):c.457C>T (p.Gln153Ter)	1788	DNMT3A	Pathogenic	GRCh38	2756141
+single nucleotide variant	NM_022552.5(DNMT3A):c.2259G>A (p.Trp753Ter)	1788	DNMT3A	Pathogenic	GRCh38	2781711
+single nucleotide variant	NM_022552.5(DNMT3A):c.1523T>C (p.Leu508Pro)	1788	DNMT3A	Pathogenic/Likely pathogenic	GRCh38	2907310
+single nucleotide variant	NM_022552.5(DNMT3A):c.1802G>A (p.Trp601Ter)	1788	DNMT3A	Pathogenic	GRCh38	3026200
+single nucleotide variant	NM_022552.5(DNMT3A):c.1627G>C (p.Gly543Arg)	1788	DNMT3A	Pathogenic	GRCh38	3062230
+single nucleotide variant	NM_022552.5(DNMT3A):c.1684T>G (p.Cys562Gly)	1788	DNMT3A	Pathogenic	GRCh38	3064273
+single nucleotide variant	NM_022552.5(DNMT3A):c.1925G>T (p.Gly642Val)	1788	DNMT3A	Likely pathogenic	GRCh38	3064274
+single nucleotide variant	NM_022552.5(DNMT3A):c.1267G>T (p.Glu423Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	3064275
+single nucleotide variant	NM_022552.5(DNMT3A):c.1430-1G>C	1788	DNMT3A	Likely pathogenic	GRCh38	3064276
+single nucleotide variant	NM_022552.5(DNMT3A):c.2598-1G>C	1788	DNMT3A	Likely pathogenic	GRCh38	3065661
+single nucleotide variant	NM_022552.5(DNMT3A):c.916T>C (p.Trp306Arg)	1788	DNMT3A	Likely pathogenic	GRCh38	3066131
+single nucleotide variant	NM_022552.5(DNMT3A):c.2105A>G (p.Asp702Gly)	1788	DNMT3A	Likely pathogenic	GRCh38	3220864
+single nucleotide variant	NM_022552.5(DNMT3A):c.1669T>C (p.Cys557Arg)	1788	DNMT3A	Likely pathogenic	GRCh38	3254982
+single nucleotide variant	NM_022552.5(DNMT3A):c.2409-2A>T	1788	DNMT3A	Pathogenic	GRCh38	3256560
+single nucleotide variant	NM_022552.5(DNMT3A):c.2606G>C (p.Gly869Ala)	1788	DNMT3A	Likely pathogenic	GRCh38	3273244
+single nucleotide variant	NM_022552.5(DNMT3A):c.2597+1G>T	1788	DNMT3A	Likely pathogenic	GRCh38	3337046
+single nucleotide variant	NM_022552.5(DNMT3A):c.2330C>A (p.Pro777His)	1788	DNMT3A	Likely pathogenic	GRCh38	3337047
+single nucleotide variant	NM_022552.5(DNMT3A):c.892G>C (p.Gly298Arg)	1788	DNMT3A	Pathogenic	GRCh38	3343895
+single nucleotide variant	NM_022552.5(DNMT3A):c.981G>A (p.Trp327Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	3345904
+single nucleotide variant	NM_022552.5(DNMT3A):c.2096G>A (p.Gly699Asp)	1788	DNMT3A	Likely pathogenic	GRCh38	3368984
+single nucleotide variant	NM_022552.5(DNMT3A):c.2408+2T>C	1788	DNMT3A	Likely pathogenic	GRCh38	3383961
+single nucleotide variant	NM_022552.5(DNMT3A):c.742C>T (p.Gln248Ter)	1788	DNMT3A	Pathogenic	GRCh38	3603360
+single nucleotide variant	NM_022552.5(DNMT3A):c.1227G>A (p.Trp409Ter)	1788	DNMT3A	Pathogenic	GRCh38	3608977
+single nucleotide variant	NM_022552.5(DNMT3A):c.2384G>A (p.Trp795Ter)	1788	DNMT3A	Pathogenic	GRCh38	3674188
+single nucleotide variant	NM_022552.5(DNMT3A):c.2093G>A (p.Trp698Ter)	1788	DNMT3A	Pathogenic	GRCh38	3695646
+single nucleotide variant	NM_022552.5(DNMT3A):c.1066C>T (p.Gln356Ter)	1788	DNMT3A	Pathogenic	GRCh38	3714438
+single nucleotide variant	NM_022552.5(DNMT3A):c.2386G>T (p.Gly796Cys)	1788	DNMT3A	Likely pathogenic	GRCh38	3841813
+single nucleotide variant	NM_022552.5(DNMT3A):c.1906G>T (p.Val636Leu)	1788	DNMT3A	Likely pathogenic	GRCh38	3897189
+single nucleotide variant	NM_022552.5(DNMT3A):c.1988C>A (p.Ser663Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	3897873
+single nucleotide variant	NM_022552.5(DNMT3A):c.980G>A (p.Trp327Ter)	1788	DNMT3A	Pathogenic	GRCh38	4056408
+single nucleotide variant	NM_022552.5(DNMT3A):c.1118T>C (p.Leu373Pro)	1788	DNMT3A	Likely pathogenic	GRCh38	4076104
+single nucleotide variant	NM_022552.5(DNMT3A):c.2207G>T (p.Arg736Leu)	1788	DNMT3A	Likely pathogenic	GRCh38	4280600
+single nucleotide variant	NM_022552.5(DNMT3A):c.896A>T (p.Lys299Ile)	1788	DNMT3A	Pathogenic	GRCh38	4280678
+single nucleotide variant	NM_022552.5(DNMT3A):c.2099C>T (p.Pro700Leu)	1788	DNMT3A	Likely pathogenic	GRCh38	4282349
+single nucleotide variant	NM_022552.5(DNMT3A):c.989G>T (p.Trp330Leu)	1788	DNMT3A	Likely pathogenic	GRCh38	4294545
+single nucleotide variant	NM_022552.5(DNMT3A):c.1095C>A (p.Tyr365Ter)	1788	DNMT3A	Pathogenic	GRCh38	4533296
+single nucleotide variant	NM_022552.5(DNMT3A):c.2479-1G>T	1788	DNMT3A	Likely pathogenic	GRCh38	4737480
+single nucleotide variant	NM_022552.5(DNMT3A):c.2458G>T (p.Glu820Ter)	1788	DNMT3A	Pathogenic	GRCh38	4771080
+single nucleotide variant	NM_022552.5(DNMT3A):c.1453C>T (p.Gln485Ter)	1788	DNMT3A	Likely pathogenic	GRCh38	4850797

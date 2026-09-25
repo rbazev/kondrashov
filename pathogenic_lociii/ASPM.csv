@@ -35,7 +35,7 @@ single nucleotide variant	NM_018136.5(ASPM):c.2791C>T (p.Arg931Ter)	259266	ASPM	
 single nucleotide variant	NM_018136.5(ASPM):c.3327T>G (p.Tyr1109Ter)	259266	ASPM	Pathogenic	GRCh38	157803
 single nucleotide variant	NM_018136.5(ASPM):c.3830G>A (p.Trp1277Ter)	259266	ASPM	Pathogenic	GRCh38	157812
 single nucleotide variant	NM_018136.5(ASPM):c.5196T>A (p.Cys1732Ter)	259266	ASPM	Pathogenic	GRCh38	157829
-single nucleotide variant	NM_018136.5(ASPM):c.5233C>T (p.Arg1745Ter)	259266	ASPM	Pathogenic	GRCh38	157831
+single nucleotide variant	NM_018136.5(ASPM):c.5233C>T (p.Arg1745Ter)	259266	ASPM	Pathogenic/Likely pathogenic	GRCh38	157831
 single nucleotide variant	NM_018136.5(ASPM):c.7612C>T (p.Gln2538Ter)	259266	ASPM	Pathogenic	GRCh38	157873
 single nucleotide variant	NM_018136.5(ASPM):c.7825C>T (p.Gln2609Ter)	259266	ASPM	Pathogenic	GRCh38	157880
 single nucleotide variant	NM_018136.5(ASPM):c.8017C>T (p.Gln2673Ter)	259266	ASPM	Pathogenic	GRCh38	157885
@@ -150,3 +150,6 @@ single nucleotide variant	NM_018136.5(ASPM):c.646G>T (p.Glu216Ter)	259266	ASPM	L
 single nucleotide variant	NM_018136.5(ASPM):c.3168+2T>C	259266	ASPM	Likely pathogenic	GRCh38	4845758
 single nucleotide variant	NM_018136.5(ASPM):c.7999C>T (p.Gln2667Ter)	259266	ASPM	Pathogenic	GRCh38	4846919
 single nucleotide variant	NM_018136.5(ASPM):c.934C>T (p.Gln312Ter)	259266	ASPM	Likely pathogenic	GRCh38	4854253
+single nucleotide variant	NM_018136.5(ASPM):c.5364C>G (p.Tyr1788Ter)	259266	ASPM	Likely pathogenic	GRCh38	4880357
+single nucleotide variant	NM_018136.5(ASPM):c.4116T>G (p.Tyr1372Ter)	259266	ASPM	Likely pathogenic	GRCh38	4881919
+single nucleotide variant	NM_018136.5(ASPM):c.3871-1G>A	259266	ASPM	Likely pathogenic	GRCh38	4885168

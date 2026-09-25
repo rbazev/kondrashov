@@ -48,7 +48,7 @@ single nucleotide variant	NM_000383.4(AIRE):c.1095+2T>C	326	AIRE	Pathogenic/Like
 single nucleotide variant	NM_000383.4(AIRE):c.260T>C (p.Leu87Pro)	326	AIRE	Likely pathogenic	GRCh38	805994
 single nucleotide variant	NM_000383.4(AIRE):c.607C>T (p.Arg203Ter)	326	AIRE	Pathogenic/Likely pathogenic	GRCh38	848152
 single nucleotide variant	NM_000383.4(AIRE):c.1503+1G>T	326	AIRE	Pathogenic/Likely pathogenic	GRCh38	861267
-single nucleotide variant	NM_000383.4(AIRE):c.322C>T (p.Gln108Ter)	326	AIRE	Pathogenic	GRCh38	950721
+single nucleotide variant	NM_000383.4(AIRE):c.322C>T (p.Gln108Ter)	326	AIRE	Pathogenic/Likely pathogenic	GRCh38	950721
 single nucleotide variant	NM_000383.4(AIRE):c.1549G>T (p.Glu517Ter)	326	AIRE	Pathogenic	GRCh38	973619
 single nucleotide variant	NM_000383.4(AIRE):c.481A>T (p.Lys161Ter)	326	AIRE	Likely pathogenic	GRCh38	983804
 single nucleotide variant	NM_000383.4(AIRE):c.637C>T (p.Gln213Ter)	326	AIRE	Likely pathogenic	GRCh38	983805
@@ -59,6 +59,7 @@ single nucleotide variant	NM_000383.4(AIRE):c.307+2T>G	326	AIRE	Likely pathogeni
 single nucleotide variant	NM_000383.4(AIRE):c.1278+1G>A	326	AIRE	Likely pathogenic	GRCh38	1068340
 single nucleotide variant	NM_000383.4(AIRE):c.560C>G (p.Ser187Ter)	326	AIRE	Pathogenic	GRCh38	1074719
 single nucleotide variant	NM_000383.4(AIRE):c.784C>T (p.Gln262Ter)	326	AIRE	Pathogenic	GRCh38	1075834
+single nucleotide variant	NM_000383.4(AIRE):c.995+3G>T	326	AIRE	Likely pathogenic	GRCh38	4884225
 single nucleotide variant	NM_000383.4(AIRE):c.1182C>A (p.Tyr394Ter)	326	AIRE	Pathogenic	GRCh38	1071086
 single nucleotide variant	NM_000383.4(AIRE):c.2T>A (p.Met1Lys)	326	AIRE	Pathogenic	GRCh38	1322985
 single nucleotide variant	NM_000383.4(AIRE):c.1429G>T (p.Gly477Ter)	326	AIRE	Pathogenic	GRCh38	1441280
@@ -119,3 +120,6 @@ single nucleotide variant	NM_000383.4(AIRE):c.1400+2T>A	326	AIRE	Pathogenic	GRCh
 single nucleotide variant	NM_000383.4(AIRE):c.1592G>A (p.Trp531Ter)	326	AIRE	Likely pathogenic	GRCh38	4818291
 single nucleotide variant	NM_000383.4(AIRE):c.307+2T>C	326	AIRE	Likely pathogenic	GRCh38	4818292
 single nucleotide variant	NM_000383.4(AIRE):c.995+2T>C	326	AIRE	Likely pathogenic	GRCh38	4818294
+single nucleotide variant	NM_000383.4(AIRE):c.905G>A (p.Cys302Tyr)	326	AIRE	Likely pathogenic	GRCh38	4884226
+single nucleotide variant	NM_000383.4(AIRE):c.798+2T>G	326	AIRE	Likely pathogenic	GRCh38	4889983
+single nucleotide variant	NM_000383.4(AIRE):c.1278+1G>T	326	AIRE	Likely pathogenic	GRCh38	4889984

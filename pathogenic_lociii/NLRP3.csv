@@ -1,0 +1,65 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001243133.2(NLRP3):c.1316C>T (p.Ala439Val)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	4370
+single nucleotide variant	NM_001243133.2(NLRP3):c.1880A>G (p.Glu627Gly)	114548	NLRP3	Likely pathogenic	GRCh38	4372
+single nucleotide variant	NM_001243133.2(NLRP3):c.1055C>T (p.Ala352Val)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	4373
+single nucleotide variant	NM_001243133.2(NLRP3):c.778C>T (p.Arg260Ter)	114548	NLRP3	Pathogenic	GRCh38	4374
+single nucleotide variant	NM_001243133.2(NLRP3):c.1705G>C (p.Gly569Arg)	114548	NLRP3	Likely pathogenic	GRCh38	4375
+single nucleotide variant	NM_001243133.2(NLRP3):c.1718T>C (p.Phe573Ser)	114548	NLRP3	Pathogenic	GRCh38	4376
+single nucleotide variant	NM_001243133.2(NLRP3):c.907G>A (p.Asp303Asn)	114548	NLRP3	Pathogenic	GRCh38	4377
+single nucleotide variant	NM_001243133.2(NLRP3):c.926T>C (p.Phe309Ser)	114548	NLRP3	Pathogenic	GRCh38	4378
+single nucleotide variant	NM_001243133.2(NLRP3):c.1058T>C (p.Leu353Pro)	114548	NLRP3	Pathogenic	GRCh38	4379
+single nucleotide variant	NM_001243133.2(NLRP3):c.1043C>T (p.Thr348Met)	114548	NLRP3	Pathogenic	GRCh38	97909
+single nucleotide variant	NM_001243133.2(NLRP3):c.1054G>A (p.Ala352Thr)	114548	NLRP3	Likely pathogenic	GRCh38	97912
+single nucleotide variant	NM_001243133.2(NLRP3):c.1121C>A (p.Ala374Asp)	114548	NLRP3	Likely pathogenic	GRCh38	97915
+single nucleotide variant	NM_001243133.2(NLRP3):c.1213A>C (p.Thr405Pro)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97916
+single nucleotide variant	NM_001243133.2(NLRP3):c.1307C>T (p.Thr436Ile)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97924
+single nucleotide variant	NM_001243133.2(NLRP3):c.1315G>A (p.Ala439Thr)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97925
+single nucleotide variant	NM_001243133.2(NLRP3):c.1568T>G (p.Phe523Cys)	114548	NLRP3	Pathogenic	GRCh38	97936
+single nucleotide variant	NM_001243133.2(NLRP3):c.1573G>A (p.Glu525Lys)	114548	NLRP3	Pathogenic	GRCh38	97939
+single nucleotide variant	NM_001243133.2(NLRP3):c.1699G>A (p.Glu567Lys)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97944
+single nucleotide variant	NM_001243133.2(NLRP3):c.1706G>C (p.Gly569Ala)	114548	NLRP3	Pathogenic	GRCh38	97945
+single nucleotide variant	NM_001243133.2(NLRP3):c.1709A>G (p.Tyr570Cys)	114548	NLRP3	Pathogenic	GRCh38	97946
+single nucleotide variant	NM_001243133.2(NLRP3):c.1985T>C (p.Met662Thr)	114548	NLRP3	Likely pathogenic	GRCh38	97953
+single nucleotide variant	NM_001243133.2(NLRP3):c.2263G>C (p.Gly755Arg)	114548	NLRP3	Likely pathogenic	GRCh38	97958
+single nucleotide variant	NM_001243133.2(NLRP3):c.2264G>C (p.Gly755Ala)	114548	NLRP3	Likely pathogenic	GRCh38	97959
+single nucleotide variant	NM_001243133.2(NLRP3):c.2576A>G (p.Tyr859Cys)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97960
+single nucleotide variant	NM_001243133.2(NLRP3):c.515T>C (p.Ile172Thr)	114548	NLRP3	Likely pathogenic	GRCh38	97964
+single nucleotide variant	NM_001243133.2(NLRP3):c.785T>G (p.Val262Gly)	114548	NLRP3	Likely pathogenic	GRCh38	97972
+single nucleotide variant	NM_001243133.2(NLRP3):c.790C>G (p.Leu264Val)	114548	NLRP3	Likely pathogenic	GRCh38	97973
+single nucleotide variant	NM_001243133.2(NLRP3):c.902G>A (p.Gly301Asp)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97978
+single nucleotide variant	NM_001243133.2(NLRP3):c.907G>C (p.Asp303His)	114548	NLRP3	Pathogenic	GRCh38	97979
+single nucleotide variant	NM_001243133.2(NLRP3):c.908A>G (p.Asp303Gly)	114548	NLRP3	Pathogenic	GRCh38	97980
+single nucleotide variant	NM_001243133.2(NLRP3):c.910G>A (p.Glu304Lys)	114548	NLRP3	Pathogenic	GRCh38	97981
+single nucleotide variant	NM_001243133.2(NLRP3):c.914T>C (p.Leu305Pro)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	97982
+single nucleotide variant	NM_001243133.2(NLRP3):c.920G>T (p.Gly307Val)	114548	NLRP3	Pathogenic	GRCh38	97985
+single nucleotide variant	NM_001243133.2(NLRP3):c.931G>A (p.Glu311Lys)	114548	NLRP3	Pathogenic	GRCh38	97987
+single nucleotide variant	NM_001243133.2(NLRP3):c.977G>A (p.Gly326Glu)	114548	NLRP3	Pathogenic	GRCh38	97992
+single nucleotide variant	NM_001243133.2(NLRP3):c.1705G>A (p.Gly569Arg)	114548	NLRP3	Pathogenic	GRCh38	234301
+single nucleotide variant	NM_001243133.2(NLRP3):c.1799A>G (p.Gln600Arg)	114548	NLRP3	Likely pathogenic	GRCh38	374002
+single nucleotide variant	NM_001243133.2(NLRP3):c.919G>C (p.Gly307Arg)	114548	NLRP3	Likely pathogenic	GRCh38	393082
+single nucleotide variant	NM_001243133.2(NLRP3):c.1065A>C (p.Lys355Asn)	114548	NLRP3	Pathogenic	GRCh38	429285
+single nucleotide variant	NM_001243133.2(NLRP3):c.1783A>G (p.Ser595Gly)	114548	NLRP3	Likely pathogenic	GRCh38	449311
+single nucleotide variant	NM_001243133.2(NLRP3):c.55G>C (p.Asp19His)	114548	NLRP3	Likely pathogenic	GRCh38	495298
+single nucleotide variant	NM_001243133.2(NLRP3):c.1976T>G (p.Met659Arg)	114548	NLRP3	Pathogenic	GRCh38	643124
+single nucleotide variant	NM_001243133.2(NLRP3):c.905T>G (p.Phe302Cys)	114548	NLRP3	Pathogenic	GRCh38	837881
+single nucleotide variant	NM_001243133.2(NLRP3):c.1217T>C (p.Met406Thr)	114548	NLRP3	Pathogenic	GRCh38	849794
+single nucleotide variant	NM_001243133.2(NLRP3):c.1000A>G (p.Ile334Val)	114548	NLRP3	Likely pathogenic	GRCh38	934291
+single nucleotide variant	NM_001243133.2(NLRP3):c.1218G>A (p.Met406Ile)	114548	NLRP3	Likely pathogenic	GRCh38	1066319
+single nucleotide variant	NM_001243133.2(NLRP3):c.2575T>C (p.Tyr859His)	114548	NLRP3	Pathogenic/Likely pathogenic	GRCh38	1188124
+single nucleotide variant	NM_001243133.2(NLRP3):c.1700A>C (p.Glu567Ala)	114548	NLRP3	Likely pathogenic	GRCh38	1487108
+single nucleotide variant	NM_001243133.2(NLRP3):c.29G>T (p.Arg10Met)	114548	NLRP3	Pathogenic	GRCh38	2691257
+single nucleotide variant	NM_001243133.2(NLRP3):c.1562T>A (p.Met521Lys)	114548	NLRP3	Likely pathogenic	GRCh38	1694432
+single nucleotide variant	NM_001243133.2(NLRP3):c.1690G>A (p.Gly564Ser)	114548	NLRP3	Likely pathogenic	GRCh38	1694555
+single nucleotide variant	NM_001243133.2(NLRP3):c.1700A>G (p.Glu567Gly)	114548	NLRP3	Likely pathogenic	GRCh38	1700698
+single nucleotide variant	NM_001243133.2(NLRP3):c.1322A>G (p.Tyr441Cys)	114548	NLRP3	Likely pathogenic	GRCh38	1809712
+single nucleotide variant	NM_001243133.2(NLRP3):c.2263G>A (p.Gly755Arg)	114548	NLRP3	Pathogenic	GRCh38	2203018
+single nucleotide variant	NM_001243133.2(NLRP3):c.1706G>A (p.Gly569Glu)	114548	NLRP3	Likely pathogenic	GRCh38	2055218
+single nucleotide variant	NM_001243133.2(NLRP3):c.1305G>C (p.Lys435Asn)	114548	NLRP3	Pathogenic	GRCh38	2109144
+single nucleotide variant	NM_001243133.2(NLRP3):c.1712T>G (p.Leu571Trp)	114548	NLRP3	Likely pathogenic	GRCh38	2579697
+single nucleotide variant	NM_001243133.2(NLRP3):c.908A>C (p.Asp303Ala)	114548	NLRP3	Likely pathogenic	GRCh38	3381130
+single nucleotide variant	NM_001243133.2(NLRP3):c.1706G>T (p.Gly569Val)	114548	NLRP3	Likely pathogenic	GRCh38	3406171
+single nucleotide variant	NM_001243133.2(NLRP3):c.1698C>G (p.Phe566Leu)	114548	NLRP3	Pathogenic	GRCh38	3633876
+single nucleotide variant	NM_001243133.2(NLRP3):c.1792A>T (p.Ile598Phe)	114548	NLRP3	Likely pathogenic	GRCh38	4527007
+single nucleotide variant	NM_001243133.2(NLRP3):c.1695A>C (p.Lys565Asn)	114548	NLRP3	Likely pathogenic	GRCh38	4539502
+single nucleotide variant	NM_001243133.2(NLRP3):c.914T>G (p.Leu305Arg)	114548	NLRP3	Likely pathogenic	GRCh38	4823495
+single nucleotide variant	NM_001243133.2(NLRP3):c.1696T>C (p.Phe566Leu)	114548	NLRP3	Likely pathogenic	GRCh38	4857755

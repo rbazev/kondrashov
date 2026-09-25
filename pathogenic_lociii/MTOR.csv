@@ -1,0 +1,54 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004958.4(MTOR):c.5930C>A (p.Thr1977Lys)	2475	MTOR	Pathogenic	GRCh38	156702
+single nucleotide variant	NM_004958.4(MTOR):c.6644C>T (p.Ser2215Phe)	2475	MTOR	Pathogenic	GRCh38	156703
+single nucleotide variant	NM_004958.4(MTOR):c.7255G>A (p.Glu2419Lys)	2475	MTOR	Pathogenic	GRCh38	156709
+single nucleotide variant	NM_004958.4(MTOR):c.4448G>T (p.Cys1483Phe)	2475	MTOR	Pathogenic	GRCh38	190121
+single nucleotide variant	NM_004958.4(MTOR):c.5395G>A (p.Glu1799Lys)	2475	MTOR	Pathogenic	GRCh38	217823
+single nucleotide variant	NM_004958.4(MTOR):c.5663T>G (p.Phe1888Cys)	2475	MTOR	Pathogenic/Likely pathogenic	GRCh38	224083
+single nucleotide variant	NM_004958.4(MTOR):c.4785G>A (p.Met1595Ile)	2475	MTOR	Pathogenic	GRCh38	224088
+single nucleotide variant	NM_004958.4(MTOR):c.6981G>A (p.Met2327Ile)	2475	MTOR	Pathogenic	GRCh38	242349
+single nucleotide variant	NM_004958.4(MTOR):c.4447T>C (p.Cys1483Arg)	2475	MTOR	Pathogenic	GRCh38	374796
+single nucleotide variant	NM_004958.4(MTOR):c.6644C>A (p.Ser2215Tyr)	2475	MTOR	Pathogenic	GRCh38	376129
+single nucleotide variant	NM_004958.4(MTOR):c.4379T>C (p.Leu1460Pro)	2475	MTOR	Pathogenic	GRCh38	376130
+single nucleotide variant	NM_004958.4(MTOR):c.4448G>A (p.Cys1483Tyr)	2475	MTOR	Pathogenic	GRCh38	376453
+single nucleotide variant	NM_004958.4(MTOR):c.7500T>G (p.Ile2500Met)	2475	MTOR	Likely pathogenic	GRCh38	376455
+single nucleotide variant	NM_004958.4(MTOR):c.7292T>C (p.Leu2431Pro)	2475	MTOR	Likely pathogenic	GRCh38	391346
+single nucleotide variant	NM_004958.4(MTOR):c.7280T>C (p.Leu2427Pro)	2475	MTOR	Pathogenic	GRCh38	417723
+single nucleotide variant	NM_004958.4(MTOR):c.7280T>A (p.Leu2427Gln)	2475	MTOR	Pathogenic	GRCh38	417724
+single nucleotide variant	NM_004958.4(MTOR):c.4366T>G (p.Trp1456Gly)	2475	MTOR	Pathogenic	GRCh38	417727
+single nucleotide variant	NM_004958.4(MTOR):c.6643T>C (p.Ser2215Pro)	2475	MTOR	Likely pathogenic	GRCh38	451914
+single nucleotide variant	NM_004958.4(MTOR):c.7238G>T (p.Ser2413Ile)	2475	MTOR	Pathogenic	GRCh38	520633
+single nucleotide variant	NM_004958.4(MTOR):c.5930C>T (p.Thr1977Ile)	2475	MTOR	Pathogenic	GRCh38	584432
+single nucleotide variant	NM_004958.4(MTOR):c.7216G>A (p.Val2406Met)	2475	MTOR	Pathogenic/Likely pathogenic	GRCh38	626213
+single nucleotide variant	NM_004958.4(MTOR):c.5660G>T (p.Gly1887Val)	2475	MTOR	Likely pathogenic	GRCh38	871053
+single nucleotide variant	NM_004958.4(MTOR):c.7501A>T (p.Ile2501Phe)	2475	MTOR	Pathogenic	GRCh38	981176
+single nucleotide variant	NM_004958.4(MTOR):c.6050T>C (p.Ile2017Thr)	2475	MTOR	Likely pathogenic	GRCh38	981175
+single nucleotide variant	NM_004958.4(MTOR):c.4556C>T (p.Ala1519Val)	2475	MTOR	Likely pathogenic	GRCh38	981174
+single nucleotide variant	NM_004958.4(MTOR):c.4356A>T (p.Lys1452Asn)	2475	MTOR	Likely pathogenic	GRCh38	981173
+single nucleotide variant	NM_004958.4(MTOR):c.6227G>A (p.Arg2076Gln)	2475	MTOR	Likely pathogenic	GRCh38	1065618
+single nucleotide variant	NM_004958.4(MTOR):c.5930C>G (p.Thr1977Arg)	2475	MTOR	Pathogenic	GRCh38	1296989
+single nucleotide variant	NM_004958.4(MTOR):c.4468T>C (p.Trp1490Arg)	2475	MTOR	Likely pathogenic	GRCh38	1296993
+single nucleotide variant	NM_004958.4(MTOR):c.5005G>T (p.Ala1669Ser)	2475	MTOR	Likely pathogenic	GRCh38	1296997
+single nucleotide variant	NM_004958.4(MTOR):c.5380G>A (p.Ala1794Thr)	2475	MTOR	Likely pathogenic	GRCh38	1310128
+single nucleotide variant	NM_004958.4(MTOR):c.7076G>A (p.Gly2359Glu)	2475	MTOR	Likely pathogenic	GRCh38	1315046
+single nucleotide variant	NM_004958.4(MTOR):c.5912C>T (p.Ala1971Val)	2475	MTOR	Likely pathogenic	GRCh38	1320130
+single nucleotide variant	NM_004958.4(MTOR):c.6457A>G (p.Ile2153Val)	2475	MTOR	Likely pathogenic	GRCh38	1339560
+single nucleotide variant	NM_004958.4(MTOR):c.4298T>C (p.Leu1433Ser)	2475	MTOR	Likely pathogenic	GRCh38	1685378
+single nucleotide variant	NM_004958.4(MTOR):c.5664C>A (p.Phe1888Leu)	2475	MTOR	Likely pathogenic	GRCh38	2129739
+single nucleotide variant	NM_004958.4(MTOR):c.4451T>C (p.Leu1484Pro)	2475	MTOR	Likely pathogenic	GRCh38	2430395
+single nucleotide variant	NM_004958.4(MTOR):c.4184A>G (p.Lys1395Arg)	2475	MTOR	Pathogenic	GRCh38	2579952
+single nucleotide variant	NM_004958.4(MTOR):c.4376C>A (p.Ala1459Asp)	2475	MTOR	Pathogenic	GRCh38	2672094
+single nucleotide variant	NM_004958.4(MTOR):c.5662T>C (p.Phe1888Leu)	2475	MTOR	Likely pathogenic	GRCh38	2672097
+single nucleotide variant	NM_004958.4(MTOR):c.4250T>C (p.Ile1417Thr)	2475	MTOR	Likely pathogenic	GRCh38	3399624
+single nucleotide variant	NM_004958.4(MTOR):c.5408A>C (p.His1803Pro)	2475	MTOR	Likely pathogenic	GRCh38	3731617
+single nucleotide variant	NM_004958.4(MTOR):c.5917A>T (p.Ile1973Phe)	2475	MTOR	Likely pathogenic	GRCh38	3764881
+single nucleotide variant	NM_004958.4(MTOR):c.7535A>G (p.Asp2512Gly)	2475	MTOR	Likely pathogenic	GRCh38	3765844
+single nucleotide variant	NM_004958.4(MTOR):c.4550C>T (p.Ala1517Val)	2475	MTOR	Likely pathogenic	GRCh38	3771641
+single nucleotide variant	NM_004958.4(MTOR):c.4348T>G (p.Tyr1450Asp)	2475	MTOR	Pathogenic	GRCh38	3774491
+single nucleotide variant	NM_004958.4(MTOR):c.4702A>G (p.Arg1568Gly)	2475	MTOR	Likely pathogenic	GRCh38	3775749
+single nucleotide variant	NM_004958.4(MTOR):c.6306C>A (p.Asp2102Glu)	2475	MTOR	Likely pathogenic	GRCh38	4279701
+single nucleotide variant	NM_004958.4(MTOR):c.4961T>C (p.Leu1654Pro)	2475	MTOR	Likely pathogenic	GRCh38	4293751
+single nucleotide variant	NM_004958.4(MTOR):c.6659T>C (p.Leu2220Pro)	2475	MTOR	Likely pathogenic	GRCh38	4537408
+single nucleotide variant	NM_004958.4(MTOR):c.5860G>A (p.Gly1954Arg)	2475	MTOR	Likely pathogenic	GRCh38	4856201
+single nucleotide variant	NM_004958.4(MTOR):c.7280T>G (p.Leu2427Arg)	2475	MTOR	Pathogenic	GRCh38	4857587
+single nucleotide variant	NM_004958.4(MTOR):c.4375G>C (p.Ala1459Pro)	2475	MTOR	Likely pathogenic	GRCh38	4879362

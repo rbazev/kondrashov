@@ -1,0 +1,60 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_130849.4(SLC39A4):c.475-19G>A	55630	SLC39A4	Pathogenic	GRCh38	3536
+single nucleotide variant	NM_130849.4(SLC39A4):c.599C>T (p.Pro200Leu)	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	3537
+single nucleotide variant	NM_130849.4(SLC39A4):c.1576G>A (p.Gly526Arg)	55630	SLC39A4	Pathogenic	GRCh38	3538
+single nucleotide variant	NM_130849.4(SLC39A4):c.1120G>A (p.Gly374Arg)	55630	SLC39A4	Likely pathogenic	GRCh38	3539
+single nucleotide variant	NM_130849.4(SLC39A4):c.318C>A (p.Asn106Lys)	55630	SLC39A4	Pathogenic	GRCh38	3540
+single nucleotide variant	NM_130849.4(SLC39A4):c.989G>A (p.Gly330Asp)	55630	SLC39A4	Pathogenic	GRCh38	3542
+single nucleotide variant	NM_130849.4(SLC39A4):c.283C>T (p.Arg95Cys)	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	3544
+single nucleotide variant	NM_130849.4(SLC39A4):c.909G>C (p.Gln303His)	55630	SLC39A4	Pathogenic	GRCh38	3545
+single nucleotide variant	NM_130849.4(SLC39A4):c.493C>T (p.Gln165Ter)	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	390605
+single nucleotide variant	NM_130849.4(SLC39A4):c.295G>A (p.Ala99Thr)	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	810336
+single nucleotide variant	NM_130849.4(SLC39A4):c.1627+1G>T	55630	SLC39A4	Likely pathogenic	GRCh38	845017
+single nucleotide variant	NM_130849.4(SLC39A4):c.1149+2T>C	55630	SLC39A4	Likely pathogenic	GRCh38	969229
+single nucleotide variant	NM_130849.4(SLC39A4):c.1628-2A>C	55630	SLC39A4	Likely pathogenic	GRCh38	1065974
+single nucleotide variant	NM_130849.4(SLC39A4):c.1419+2T>G	55630	SLC39A4	Likely pathogenic	GRCh38	1068118
+single nucleotide variant	NM_130849.4(SLC39A4):c.192+1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	1066004
+single nucleotide variant	NM_130849.4(SLC39A4):c.1308C>A (p.Cys436Ter)	55630	SLC39A4	Pathogenic	GRCh38	1068496
+single nucleotide variant	NM_130849.4(SLC39A4):c.1203G>A (p.Trp401Ter)	55630	SLC39A4	Pathogenic	GRCh38	1069887
+single nucleotide variant	NM_130849.4(SLC39A4):c.853C>T (p.Gln285Ter)	55630	SLC39A4	Pathogenic	GRCh38	1076820
+single nucleotide variant	NM_130849.4(SLC39A4):c.674C>A (p.Ser225Ter)	55630	SLC39A4	Pathogenic	GRCh38	1070005
+single nucleotide variant	NM_130849.4(SLC39A4):c.1357C>T (p.Gln453Ter)	55630	SLC39A4	Pathogenic	GRCh38	1448897
+single nucleotide variant	NM_130849.4(SLC39A4):c.1202G>A (p.Trp401Ter)	55630	SLC39A4	Pathogenic	GRCh38	1386590
+single nucleotide variant	NM_130849.4(SLC39A4):c.475-2A>G	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	1481691
+single nucleotide variant	NM_130849.4(SLC39A4):c.193-2A>G	55630	SLC39A4	Likely pathogenic	GRCh38	1470463
+single nucleotide variant	NM_130849.4(SLC39A4):c.192+19G>A	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	1455861
+single nucleotide variant	NM_130849.4(SLC39A4):c.1763G>A (p.Trp588Ter)	55630	SLC39A4	Pathogenic/Likely pathogenic	GRCh38	1457500
+single nucleotide variant	NM_130849.4(SLC39A4):c.1287+1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	1472529
+single nucleotide variant	NM_130849.4(SLC39A4):c.668-2A>G	55630	SLC39A4	Likely pathogenic	GRCh38	1516083
+single nucleotide variant	NM_130849.4(SLC39A4):c.976+1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	1476953
+single nucleotide variant	NM_130849.4(SLC39A4):c.1287+1G>T	55630	SLC39A4	Likely pathogenic	GRCh38	1503893
+single nucleotide variant	NM_130849.4(SLC39A4):c.309C>A (p.Tyr103Ter)	55630	SLC39A4	Pathogenic	GRCh38	1451263
+single nucleotide variant	NM_130849.4(SLC39A4):c.1568G>A (p.Trp523Ter)	55630	SLC39A4	Pathogenic	GRCh38	1372849
+single nucleotide variant	NM_130849.4(SLC39A4):c.646G>T (p.Glu216Ter)	55630	SLC39A4	Pathogenic	GRCh38	1373036
+single nucleotide variant	NM_130849.4(SLC39A4):c.977-1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	1484281
+single nucleotide variant	NM_130849.4(SLC39A4):c.1628-2A>G	55630	SLC39A4	Likely pathogenic	GRCh38	1512048
+single nucleotide variant	NM_130849.4(SLC39A4):c.667+1G>T	55630	SLC39A4	Likely pathogenic	GRCh38	1482823
+single nucleotide variant	NM_130849.4(SLC39A4):c.1287+2T>C	55630	SLC39A4	Likely pathogenic	GRCh38	1469665
+single nucleotide variant	NM_130849.4(SLC39A4):c.1475-1G>T	55630	SLC39A4	Likely pathogenic	GRCh38	1514631
+single nucleotide variant	NM_130849.4(SLC39A4):c.977-2A>C	55630	SLC39A4	Likely pathogenic	GRCh38	2122936
+single nucleotide variant	NM_130849.4(SLC39A4):c.1888G>C (p.Gly630Arg)	55630	SLC39A4	Likely pathogenic	GRCh38	2433455
+single nucleotide variant	NM_130849.4(SLC39A4):c.1475-2A>G	55630	SLC39A4	Likely pathogenic	GRCh38	2757666
+single nucleotide variant	NM_130849.4(SLC39A4):c.1149+1G>T	55630	SLC39A4	Likely pathogenic	GRCh38	2759353
+single nucleotide variant	NM_130849.4(SLC39A4):c.1643T>A (p.Leu548Ter)	55630	SLC39A4	Pathogenic	GRCh38	2844913
+single nucleotide variant	NM_130849.4(SLC39A4):c.1149+1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	2872661
+single nucleotide variant	NM_130849.4(SLC39A4):c.106C>T (p.Gln36Ter)	55630	SLC39A4	Pathogenic	GRCh38	2972627
+single nucleotide variant	NM_130849.4(SLC39A4):c.442C>T (p.Gln148Ter)	55630	SLC39A4	Pathogenic	GRCh38	2986121
+single nucleotide variant	NM_130849.4(SLC39A4):c.878G>A (p.Trp293Ter)	55630	SLC39A4	Pathogenic	GRCh38	3020968
+single nucleotide variant	NM_130849.4(SLC39A4):c.1627+1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	3595439
+single nucleotide variant	NM_130849.4(SLC39A4):c.1475-1G>A	55630	SLC39A4	Likely pathogenic	GRCh38	3595440
+single nucleotide variant	NM_130849.4(SLC39A4):c.1287+1G>C	55630	SLC39A4	Likely pathogenic	GRCh38	3595441
+single nucleotide variant	NM_130849.4(SLC39A4):c.1150-1G>C	55630	SLC39A4	Likely pathogenic	GRCh38	3595444
+single nucleotide variant	NM_130849.4(SLC39A4):c.2T>C (p.Met1Thr)	55630	SLC39A4	Likely pathogenic	GRCh38	3595446
+single nucleotide variant	NM_130849.4(SLC39A4):c.239C>A (p.Ser80Ter)	55630	SLC39A4	Likely pathogenic	GRCh38	4061796
+single nucleotide variant	NM_130849.4(SLC39A4):c.1288-1G>C	55630	SLC39A4	Pathogenic	GRCh38	4533375
+single nucleotide variant	NM_130849.4(SLC39A4):c.976+2T>C	55630	SLC39A4	Likely pathogenic	GRCh38	4733977
+single nucleotide variant	NM_130849.4(SLC39A4):c.143T>G (p.Leu48Ter)	55630	SLC39A4	Pathogenic	GRCh38	4816454
+single nucleotide variant	NM_130849.4(SLC39A4):c.205G>T (p.Glu69Ter)	55630	SLC39A4	Likely pathogenic	GRCh38	4816461
+single nucleotide variant	NM_130849.4(SLC39A4):c.356G>A (p.Trp119Ter)	55630	SLC39A4	Likely pathogenic	GRCh38	4816467
+single nucleotide variant	NM_130849.4(SLC39A4):c.425G>A (p.Trp142Ter)	55630	SLC39A4	Likely pathogenic	GRCh38	4816469
+single nucleotide variant	NM_130849.4(SLC39A4):c.1589C>A (p.Ser530Ter)	55630	SLC39A4	Likely pathogenic	GRCh38	4879850

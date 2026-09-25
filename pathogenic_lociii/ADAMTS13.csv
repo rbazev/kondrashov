@@ -1,0 +1,84 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_139027.6(ADAMTS13):c.286C>G (p.His96Asp)	11093	ADAMTS13	Pathogenic	GRCh38	5798
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2851T>G (p.Cys951Gly)	11093	ADAMTS13	Pathogenic	GRCh38	5799
+single nucleotide variant	NM_139027.6(ADAMTS13):c.304C>T (p.Arg102Cys)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	5800
+single nucleotide variant	NM_139027.6(ADAMTS13):c.587C>T (p.Thr196Ile)	11093	ADAMTS13	Pathogenic	GRCh38	5801
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1193G>A (p.Arg398His)	11093	ADAMTS13	Likely pathogenic	GRCh38	5802
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3070T>G (p.Cys1024Gly)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	5803
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3470G>A (p.Cys1157Tyr)	11093	ADAMTS13	Pathogenic	GRCh38	5808
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2074C>T (p.Arg692Cys)	11093	ADAMTS13	Pathogenic	GRCh38	5809
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1345C>T (p.Gln449Ter)	11093	ADAMTS13	Pathogenic	GRCh38	5811
+single nucleotide variant	NM_139027.6(ADAMTS13):c.803G>C (p.Arg268Pro)	11093	ADAMTS13	Pathogenic	GRCh38	5812
+single nucleotide variant	NM_139027.6(ADAMTS13):c.414+1G>A	11093	ADAMTS13	Pathogenic	GRCh38	5817
+single nucleotide variant	NM_139027.6(ADAMTS13):c.749C>T (p.Ala250Val)	11093	ADAMTS13	Pathogenic	GRCh38	5818
+single nucleotide variant	NM_139027.6(ADAMTS13):c.331-1G>A	11093	ADAMTS13	Pathogenic	GRCh38	5819
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1045C>T (p.Arg349Cys)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	68799
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1058C>T (p.Pro353Leu)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	68800
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1520G>A (p.Arg507Gln)	11093	ADAMTS13	Pathogenic	GRCh38	68802
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1787C>T (p.Ala596Val)	11093	ADAMTS13	Pathogenic	GRCh38	68805
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2017A>T (p.Ile673Phe)	11093	ADAMTS13	Likely pathogenic	GRCh38	68809
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2272T>C (p.Cys758Arg)	11093	ADAMTS13	Likely pathogenic	GRCh38	68810
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3178C>T (p.Arg1060Trp)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	68815
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3367C>T (p.Arg1123Cys)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	68816
+single nucleotide variant	NM_139027.6(ADAMTS13):c.356C>T (p.Ser119Phe)	11093	ADAMTS13	Likely pathogenic	GRCh38	68817
+single nucleotide variant	NM_139027.6(ADAMTS13):c.577C>T (p.Arg193Trp)	11093	ADAMTS13	Likely pathogenic	GRCh38	68823
+single nucleotide variant	NM_139027.6(ADAMTS13):c.695T>A (p.Leu232Gln)	11093	ADAMTS13	Likely pathogenic	GRCh38	68825
+single nucleotide variant	NM_139027.6(ADAMTS13):c.702C>A (p.His234Gln)	11093	ADAMTS13	Likely pathogenic	GRCh38	68826
+single nucleotide variant	NM_139027.6(ADAMTS13):c.703G>C (p.Asp235His)	11093	ADAMTS13	Likely pathogenic	GRCh38	68827
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3044+1G>A	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	379656
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1585-1G>C	11093	ADAMTS13	Likely pathogenic	GRCh38	438663
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2209T>C (p.Cys737Arg)	11093	ADAMTS13	Pathogenic	GRCh38	559588
+single nucleotide variant	NM_139027.6(ADAMTS13):c.330+1G>A	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	632036
+single nucleotide variant	NM_139027.6(ADAMTS13):c.415-1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	667364
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1315G>T (p.Glu439Ter)	11093	ADAMTS13	Pathogenic	GRCh38	988818
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1177C>T (p.Arg393Ter)	11093	ADAMTS13	Pathogenic	GRCh38	1163033
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2068G>A (p.Ala690Thr)	11093	ADAMTS13	Likely pathogenic	GRCh38	1163035
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3488G>A (p.Arg1163Gln)	11093	ADAMTS13	Likely pathogenic	GRCh38	1163512
+single nucleotide variant	NM_139027.6(ADAMTS13):c.330+2T>C	11093	ADAMTS13	Likely pathogenic	GRCh38	1179187
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2130C>G (p.Cys710Trp)	11093	ADAMTS13	Likely pathogenic	GRCh38	1220526
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1492C>T (p.Arg498Cys)	11093	ADAMTS13	Likely pathogenic	GRCh38	1323853
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3724+1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	3065399
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3482T>C (p.Ile1161Thr)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	1343360
+single nucleotide variant	NM_139027.6(ADAMTS13):c.84G>A (p.Trp28Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	1677266
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3251G>A (p.Cys1084Tyr)	11093	ADAMTS13	Likely pathogenic	GRCh38	1700238
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1192C>T (p.Arg398Cys)	11093	ADAMTS13	Likely pathogenic	GRCh38	1700239
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3242G>A (p.Trp1081Ter)	11093	ADAMTS13	Pathogenic	GRCh38	1705385
+single nucleotide variant	NM_139027.6(ADAMTS13):c.85G>T (p.Gly29Ter)	11093	ADAMTS13	Pathogenic	GRCh38	1705645
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1169G>A (p.Trp390Ter)	11093	ADAMTS13	Pathogenic	GRCh38	1804165
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2728C>T (p.Arg910Ter)	11093	ADAMTS13	Pathogenic	GRCh38	2136833
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2861+1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	2009350
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1705+1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	2500705
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1921G>A (p.Glu641Lys)	11093	ADAMTS13	Likely pathogenic	GRCh38	2585552
+single nucleotide variant	NM_139027.6(ADAMTS13):c.849G>A (p.Trp283Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	2637008
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1244+1G>C	11093	ADAMTS13	Likely pathogenic	GRCh38	2632867
+single nucleotide variant	NM_139027.6(ADAMTS13):c.305G>A (p.Arg102His)	11093	ADAMTS13	Likely pathogenic	GRCh38	2683660
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2317C>T (p.Gln773Ter)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	2683661
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3448C>T (p.Arg1150Ter)	11093	ADAMTS13	Pathogenic	GRCh38	2735365
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3567G>A (p.Trp1189Ter)	11093	ADAMTS13	Pathogenic	GRCh38	2735366
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3724+1G>T	11093	ADAMTS13	Likely pathogenic	GRCh38	2860327
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2050C>T (p.Gln684Ter)	11093	ADAMTS13	Pathogenic/Likely pathogenic	GRCh38	2997683
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1584+1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	3010771
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3547G>A (p.Gly1183Arg)	11093	ADAMTS13	Pathogenic	GRCh38	3065326
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3657C>A (p.Cys1219Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	3234066
+single nucleotide variant	NM_139027.6(ADAMTS13):c.167T>G (p.Leu56Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	3346102
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2865G>A (p.Trp955Ter)	11093	ADAMTS13	Pathogenic	GRCh38	3362788
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1192C>G (p.Arg398Gly)	11093	ADAMTS13	Likely pathogenic	GRCh38	3389518
+single nucleotide variant	NM_139027.6(ADAMTS13):c.280C>T (p.Gln94Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	3596616
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1787-1G>A	11093	ADAMTS13	Likely pathogenic	GRCh38	3596674
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2173C>T (p.Gln725Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	3596689
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2237G>A (p.Trp746Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	3596691
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2104+1G>C	11093	ADAMTS13	Likely pathogenic	GRCh38	3649789
+single nucleotide variant	NM_139027.6(ADAMTS13):c.130C>T (p.Gln44Ter)	11093	ADAMTS13	Pathogenic	GRCh38	3720917
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3469T>C (p.Cys1157Arg)	11093	ADAMTS13	Likely pathogenic	GRCh38	3894576
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2153T>A (p.Leu718Ter)	11093	ADAMTS13	Pathogenic	GRCh38	3894581
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1097G>A (p.Cys366Tyr)	11093	ADAMTS13	Likely pathogenic	GRCh38	4278583
+single nucleotide variant	NM_139027.6(ADAMTS13):c.578G>A (p.Arg193Gln)	11093	ADAMTS13	Pathogenic	GRCh38	4541497
+single nucleotide variant	NM_139027.6(ADAMTS13):c.915C>A (p.Tyr305Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	4541499
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1851C>G (p.Tyr617Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	4541504
+single nucleotide variant	NM_139027.6(ADAMTS13):c.2281G>A (p.Gly761Ser)	11093	ADAMTS13	Likely pathogenic	GRCh38	4541506
+single nucleotide variant	NM_139027.6(ADAMTS13):c.687-2A>G	11093	ADAMTS13	Likely pathogenic	GRCh38	4709713
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1A>G (p.Met1Val)	11093	ADAMTS13	Pathogenic	GRCh38	4713131
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3G>A (p.Met1Ile)	11093	ADAMTS13	Pathogenic	GRCh38	4799136
+single nucleotide variant	NM_139027.6(ADAMTS13):c.3548-2A>C	11093	ADAMTS13	Likely pathogenic	GRCh38	4804250
+single nucleotide variant	NM_139027.6(ADAMTS13):c.1094G>A (p.Trp365Ter)	11093	ADAMTS13	Pathogenic	GRCh38	4849209
+single nucleotide variant	NM_139027.6(ADAMTS13):c.618G>A (p.Trp206Ter)	11093	ADAMTS13	Likely pathogenic	GRCh38	4881571

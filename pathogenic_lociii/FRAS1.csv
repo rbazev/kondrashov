@@ -20,7 +20,7 @@ single nucleotide variant	NM_025074.7(FRAS1):c.2894G>T (p.Cys965Phe)	80144	FRAS1
 single nucleotide variant	NM_025074.7(FRAS1):c.516G>A (p.Trp172Ter)	80144	FRAS1	Pathogenic	GRCh38	635334
 single nucleotide variant	NM_025074.7(FRAS1):c.3973C>T (p.Gln1325Ter)	80144	FRAS1	Likely pathogenic	GRCh38	809635
 single nucleotide variant	NM_025074.7(FRAS1):c.285C>A (p.Cys95Ter)	80144	FRAS1	Pathogenic	GRCh38	916637
-single nucleotide variant	NM_025074.7(FRAS1):c.619C>T (p.Arg207Ter)	80144	FRAS1	Pathogenic	GRCh38	916645
+single nucleotide variant	NM_025074.7(FRAS1):c.619C>T (p.Arg207Ter)	80144	FRAS1	Pathogenic/Likely pathogenic	GRCh38	916645
 single nucleotide variant	NM_025074.7(FRAS1):c.1121G>A (p.Trp374Ter)	80144	FRAS1	Pathogenic	GRCh38	916650
 single nucleotide variant	NM_025074.7(FRAS1):c.1153C>T (p.Arg385Ter)	80144	FRAS1	Pathogenic	GRCh38	916647
 single nucleotide variant	NM_025074.7(FRAS1):c.2010T>A (p.Cys670Ter)	80144	FRAS1	Pathogenic	GRCh38	916655
@@ -179,3 +179,5 @@ single nucleotide variant	NM_025074.7(FRAS1):c.9116-1G>A	80144	FRAS1	Likely path
 single nucleotide variant	NM_025074.7(FRAS1):c.6764-2A>G	80144	FRAS1	Likely pathogenic	GRCh38	4780914
 single nucleotide variant	NM_025074.7(FRAS1):c.6445C>T (p.Gln2149Ter)	80144	FRAS1	Pathogenic	GRCh38	4779905
 single nucleotide variant	NM_025074.7(FRAS1):c.2133T>A (p.Cys711Ter)	80144	FRAS1	Likely pathogenic	GRCh38	4851780
+single nucleotide variant	NM_025074.7(FRAS1):c.10756C>T (p.Gln3586Ter)	80144	FRAS1	Likely pathogenic	GRCh38	4886470
+single nucleotide variant	NM_025074.7(FRAS1):c.499C>T (p.Gln167Ter)	80144	FRAS1	Likely pathogenic	GRCh38	4889658

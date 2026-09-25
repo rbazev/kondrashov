@@ -1,0 +1,242 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000545.8(HNF1A):c.1340C>T (p.Pro447Leu)	6927	HNF1A	Pathogenic	GRCh38	14928
+single nucleotide variant	NM_000545.8(HNF1A):c.365A>G (p.Tyr122Cys)	6927	HNF1A	Likely pathogenic	GRCh38	14930
+single nucleotide variant	NM_000545.8(HNF1A):c.815G>A (p.Arg272His)	6927	HNF1A	Pathogenic	GRCh38	14931
+single nucleotide variant	NG_011731.2:g.4741A>C	6927	HNF1A	Pathogenic	GRCh38	14933
+single nucleotide variant	NM_000545.8(HNF1A):c.714-1G>A	6927	HNF1A	Likely pathogenic	GRCh38	14941
+single nucleotide variant	NM_000545.8(HNF1A):c.335C>T (p.Pro112Leu)	6927	HNF1A	Pathogenic	GRCh38	14942
+single nucleotide variant	NM_000545.8(HNF1A):c.391C>T (p.Arg131Trp)	6927	HNF1A	Pathogenic	GRCh38	14943
+single nucleotide variant	NM_000545.8(HNF1A):c.827C>A (p.Ala276Asp)	6927	HNF1A	Pathogenic	GRCh38	14945
+single nucleotide variant	NM_000545.8(HNF1A):c.1A>G (p.Met1Val)	6927	HNF1A	Pathogenic	GRCh38	36814
+single nucleotide variant	NM_000545.8(HNF1A):c.281C>T (p.Pro94Leu)	6927	HNF1A	Likely pathogenic	GRCh38	36816
+single nucleotide variant	NM_000545.5(HNF1A):c.598C>T (p.Arg200Trp)	6927	HNF1A	Pathogenic	GRCh38	36824
+single nucleotide variant	NM_000545.8(HNF1A):c.670C>T (p.Pro224Ser)	6927	HNF1A	Likely pathogenic	GRCh38	36826
+single nucleotide variant	NM_000545.8(HNF1A):c.790G>T (p.Val264Phe)	6927	HNF1A	Likely pathogenic	GRCh38	36830
+single nucleotide variant	NM_000545.8(HNF1A):c.803T>C (p.Phe268Ser)	6927	HNF1A	Likely pathogenic	GRCh38	36831
+single nucleotide variant	NM_000545.8(HNF1A):c.827C>G (p.Ala276Gly)	6927	HNF1A	Likely pathogenic	GRCh38	36832
+single nucleotide variant	NM_000545.8(HNF1A):c.608G>A (p.Arg203His)	6927	HNF1A	Pathogenic	GRCh38	129235
+single nucleotide variant	NM_000545.8(HNF1A):c.779C>T (p.Thr260Met)	6927	HNF1A	Pathogenic	GRCh38	265436
+single nucleotide variant	NM_000545.8(HNF1A):c.811C>T (p.Arg271Trp)	6927	HNF1A	Pathogenic	GRCh38	265193
+single nucleotide variant	NM_000545.8(HNF1A):c.526C>T (p.Gln176Ter)	6927	HNF1A	Pathogenic	GRCh38	372380
+single nucleotide variant	NM_000545.8(HNF1A):c.511C>T (p.Arg171Ter)	6927	HNF1A	Pathogenic	GRCh38	377965
+single nucleotide variant	NM_000545.8(HNF1A):c.686G>A (p.Arg229Gln)	6927	HNF1A	Pathogenic	GRCh38	379904
+single nucleotide variant	NM_000545.8(HNF1A):c.599G>A (p.Arg200Gln)	6927	HNF1A	Pathogenic	GRCh38	381588
+single nucleotide variant	NM_000545.8(HNF1A):c.788G>A (p.Arg263His)	6927	HNF1A	Pathogenic	GRCh38	379138
+single nucleotide variant	NM_000545.8(HNF1A):c.616T>A (p.Trp206Arg)	6927	HNF1A	Likely pathogenic	GRCh38	393434
+single nucleotide variant	NM_000545.8(HNF1A):c.685C>T (p.Arg229Ter)	6927	HNF1A	Pathogenic	GRCh38	420064
+single nucleotide variant	NM_000545.8(HNF1A):c.475C>T (p.Arg159Trp)	6927	HNF1A	Pathogenic	GRCh38	429750
+single nucleotide variant	NM_000545.8(HNF1A):c.1501+1G>A	6927	HNF1A	Likely pathogenic	GRCh38	430837
+single nucleotide variant	NM_000545.8(HNF1A):c.326+2T>G	6927	HNF1A	Pathogenic	GRCh38	447486
+single nucleotide variant	NM_000545.8(HNF1A):c.392G>T (p.Arg131Leu)	6927	HNF1A	Likely pathogenic	GRCh38	447488
+single nucleotide variant	NM_000545.8(HNF1A):c.434C>T (p.Ser145Phe)	6927	HNF1A	Pathogenic	GRCh38	447489
+single nucleotide variant	NM_000545.8(HNF1A):c.485T>C (p.Leu162Pro)	6927	HNF1A	Likely pathogenic	GRCh38	447490
+single nucleotide variant	NM_000545.8(HNF1A):c.494G>A (p.Trp165Ter)	6927	HNF1A	Pathogenic	GRCh38	447491
+single nucleotide variant	NM_000545.8(HNF1A):c.620G>A (p.Gly207Asp)	6927	HNF1A	Pathogenic	GRCh38	447496
+single nucleotide variant	NM_000545.8(HNF1A):c.814C>T (p.Arg272Cys)	6927	HNF1A	Pathogenic	GRCh38	447503
+single nucleotide variant	NM_000545.8(HNF1A):c.527-1G>A	6927	HNF1A	Pathogenic	GRCh38	449035
+single nucleotide variant	NM_000545.8(HNF1A):c.812G>A (p.Arg271Gln)	6927	HNF1A	Pathogenic	GRCh38	449403
+single nucleotide variant	NM_000545.8(HNF1A):c.1489C>T (p.Gln497Ter)	6927	HNF1A	Pathogenic	GRCh38	489311
+single nucleotide variant	NM_000545.8(HNF1A):c.1A>T (p.Met1Leu)	6927	HNF1A	Pathogenic	GRCh38	502525
+single nucleotide variant	NM_000545.8(HNF1A):c.1378C>T (p.Gln460Ter)	6927	HNF1A	Pathogenic	GRCh38	523856
+single nucleotide variant	NM_000545.8(HNF1A):c.787C>T (p.Arg263Cys)	6927	HNF1A	Pathogenic	GRCh38	562367
+single nucleotide variant	NM_000545.8(HNF1A):c.19C>T (p.Gln7Ter)	6927	HNF1A	Pathogenic	GRCh38	562372
+single nucleotide variant	NM_000545.8(HNF1A):c.392G>A (p.Arg131Gln)	6927	HNF1A	Pathogenic	GRCh38	562373
+single nucleotide variant	NM_000545.8(HNF1A):c.59G>T (p.Gly20Val)	6927	HNF1A	Likely pathogenic	GRCh38	562409
+single nucleotide variant	NM_000545.8(HNF1A):c.370C>T (p.Gln124Ter)	6927	HNF1A	Likely pathogenic	GRCh38	586791
+single nucleotide variant	NM_000545.8(HNF1A):c.476G>A (p.Arg159Gln)	6927	HNF1A	Pathogenic	GRCh38	586792
+single nucleotide variant	NM_000545.8(HNF1A):c.626C>A (p.Ala209Glu)	6927	HNF1A	Likely pathogenic	GRCh38	586794
+single nucleotide variant	NM_000545.8(HNF1A):c.956-1G>A	6927	HNF1A	Pathogenic	GRCh38	586798
+single nucleotide variant	NM_000545.8(HNF1A):c.1483C>T (p.Gln495Ter)	6927	HNF1A	Pathogenic	GRCh38	586785
+single nucleotide variant	NM_000545.8(HNF1A):c.956-1G>C	6927	HNF1A	Pathogenic	GRCh38	617646
+single nucleotide variant	NM_000545.8(HNF1A):c.160C>T (p.Arg54Ter)	6927	HNF1A	Pathogenic	GRCh38	805632
+single nucleotide variant	NM_000545.8(HNF1A):c.1531C>T (p.Gln511Ter)	6927	HNF1A	Likely pathogenic	GRCh38	805631
+single nucleotide variant	NM_000545.8(HNF1A):c.526+1G>A	6927	HNF1A	Pathogenic	GRCh38	846588
+single nucleotide variant	NM_000545.8(HNF1A):c.1768+1G>A	6927	HNF1A	Pathogenic	GRCh38	871739
+single nucleotide variant	NM_000545.8(HNF1A):c.1310-1G>A	6927	HNF1A	Likely pathogenic	GRCh38	916727
+single nucleotide variant	NM_000545.8(HNF1A):c.404A>C (p.Asp135Ala)	6927	HNF1A	Likely pathogenic	GRCh38	918061
+single nucleotide variant	NM_000545.8(HNF1A):c.639C>G (p.Ile213Met)	6927	HNF1A	Likely pathogenic	GRCh38	918062
+single nucleotide variant	NM_000545.8(HNF1A):c.52G>T (p.Glu18Ter)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	929078
+single nucleotide variant	NM_000545.8(HNF1A):c.1624-2A>G	6927	HNF1A	Likely pathogenic	GRCh38	931202
+single nucleotide variant	NM_000545.8(HNF1A):c.343G>T (p.Val115Leu)	6927	HNF1A	Likely pathogenic	GRCh38	972751
+single nucleotide variant	NM_000545.8(HNF1A):c.748C>T (p.Gln250Ter)	6927	HNF1A	Pathogenic	GRCh38	972754
+single nucleotide variant	NM_000545.8(HNF1A):c.1396C>T (p.Gln466Ter)	6927	HNF1A	Pathogenic	GRCh38	972766
+single nucleotide variant	NM_000545.8(HNF1A):c.1501G>A (p.Ala501Thr)	6927	HNF1A	Pathogenic	GRCh38	972780
+single nucleotide variant	NM_000545.8(HNF1A):c.1502-6G>A	6927	HNF1A	Pathogenic	GRCh38	972783
+single nucleotide variant	NM_000545.8(HNF1A):c.367C>G (p.Leu123Val)	6927	HNF1A	Likely pathogenic	GRCh38	994547
+single nucleotide variant	NM_000545.8(HNF1A):c.388C>T (p.Gln130Ter)	6927	HNF1A	Pathogenic	GRCh38	994548
+single nucleotide variant	NM_000545.8(HNF1A):c.58G>A (p.Gly20Arg)	6927	HNF1A	Pathogenic	GRCh38	1033090
+single nucleotide variant	NM_000545.8(HNF1A):c.737T>G (p.Val246Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1173962
+single nucleotide variant	NM_000545.8(HNF1A):c.1310-2A>G	6927	HNF1A	Likely pathogenic	GRCh38	1179147
+single nucleotide variant	NM_000545.8(HNF1A):c.608G>T (p.Arg203Leu)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	1256577
+single nucleotide variant	NM_000545.8(HNF1A):c.1781G>T (p.Ser594Ile)	6927	HNF1A	Pathogenic	GRCh38	1315998
+single nucleotide variant	NM_000545.8(HNF1A):c.461T>C (p.Met154Thr)	6927	HNF1A	Likely pathogenic	GRCh38	1317657
+single nucleotide variant	NM_000545.8(HNF1A):c.319C>A (p.Leu107Ile)	6927	HNF1A	Pathogenic	GRCh38	1327593
+single nucleotide variant	NM_000545.8(HNF1A):c.736G>T (p.Val246Leu)	6927	HNF1A	Pathogenic	GRCh38	1327596
+single nucleotide variant	NM_000545.8(HNF1A):c.59G>C (p.Gly20Ala)	6927	HNF1A	Likely pathogenic	GRCh38	1327597
+single nucleotide variant	NM_000545.8(HNF1A):c.59G>A (p.Gly20Glu)	6927	HNF1A	Likely pathogenic	GRCh38	1327598
+single nucleotide variant	NM_000545.8(HNF1A):c.58G>C (p.Gly20Arg)	6927	HNF1A	Pathogenic	GRCh38	1327599
+single nucleotide variant	NM_000545.8(HNF1A):c.781G>A (p.Glu261Lys)	6927	HNF1A	Likely pathogenic	GRCh38	1327600
+single nucleotide variant	NM_000545.8(HNF1A):c.429C>G (p.His143Gln)	6927	HNF1A	Likely pathogenic	GRCh38	1327604
+single nucleotide variant	NM_000545.8(HNF1A):c.722G>A (p.Cys241Tyr)	6927	HNF1A	Likely pathogenic	GRCh38	1327605
+single nucleotide variant	NM_000545.8(HNF1A):c.427C>T (p.His143Tyr)	6927	HNF1A	Pathogenic	GRCh38	1327606
+single nucleotide variant	NM_000545.8(HNF1A):c.721T>G (p.Cys241Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1327608
+single nucleotide variant	NM_000545.8(HNF1A):c.721T>C (p.Cys241Arg)	6927	HNF1A	Likely pathogenic	GRCh38	1327609
+single nucleotide variant	NM_000545.8(HNF1A):c.802T>A (p.Phe268Ile)	6927	HNF1A	Likely pathogenic	GRCh38	1327611
+single nucleotide variant	NM_000545.8(HNF1A):c.802T>C (p.Phe268Leu)	6927	HNF1A	Likely pathogenic	GRCh38	1327612
+single nucleotide variant	NM_000545.8(HNF1A):c.368T>C (p.Leu123Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1327615
+single nucleotide variant	NM_000545.8(HNF1A):c.425C>A (p.Ser142Tyr)	6927	HNF1A	Likely pathogenic	GRCh38	1327616
+single nucleotide variant	NM_000545.8(HNF1A):c.425C>T (p.Ser142Phe)	6927	HNF1A	Pathogenic	GRCh38	1327620
+single nucleotide variant	NM_000545.8(HNF1A):c.956-1G>T	6927	HNF1A	Pathogenic	GRCh38	1327621
+single nucleotide variant	NM_000545.8(HNF1A):c.685C>G (p.Arg229Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1334142
+single nucleotide variant	NM_000545.8(HNF1A):c.709A>C (p.Asn237His)	6927	HNF1A	Likely pathogenic	GRCh38	1334143
+single nucleotide variant	NM_000545.8(HNF1A):c.709A>G (p.Asn237Asp)	6927	HNF1A	Pathogenic	GRCh38	1334144
+single nucleotide variant	NM_000545.8(HNF1A):c.320T>G (p.Leu107Arg)	6927	HNF1A	Pathogenic	GRCh38	1334148
+single nucleotide variant	NM_000545.8(HNF1A):c.320T>C (p.Leu107Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1334149
+single nucleotide variant	NM_000545.8(HNF1A):c.819A>T (p.Lys273Asn)	6927	HNF1A	Pathogenic	GRCh38	1335121
+single nucleotide variant	NM_000545.8(HNF1A):c.146C>A (p.Ser49Tyr)	6927	HNF1A	Likely pathogenic	GRCh38	1337740
+single nucleotide variant	NM_000545.8(HNF1A):c.607C>T (p.Arg203Cys)	6927	HNF1A	Pathogenic	GRCh38	1338381
+single nucleotide variant	NM_000545.8(HNF1A):c.526+1G>C	6927	HNF1A	Pathogenic	GRCh38	1338446
+single nucleotide variant	NM_000545.8(HNF1A):c.472A>T (p.Lys158Ter)	6927	HNF1A	Pathogenic	GRCh38	1338456
+single nucleotide variant	NM_000545.8(HNF1A):c.415C>T (p.Leu139Phe)	6927	HNF1A	Likely pathogenic	GRCh38	1338462
+single nucleotide variant	NM_000545.8(HNF1A):c.431T>G (p.Leu144Arg)	6927	HNF1A	Likely pathogenic	GRCh38	1338510
+single nucleotide variant	NM_000545.8(HNF1A):c.326+1G>T	6927	HNF1A	Pathogenic	GRCh38	1338520
+single nucleotide variant	NM_000545.8(HNF1A):c.811C>G (p.Arg271Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1338730
+single nucleotide variant	NM_000545.8(HNF1A):c.1A>C (p.Met1Leu)	6927	HNF1A	Likely pathogenic	GRCh38	1342948
+single nucleotide variant	NM_000545.8(HNF1A):c.2T>C (p.Met1Thr)	6927	HNF1A	Pathogenic	GRCh38	1342949
+single nucleotide variant	NM_000545.8(HNF1A):c.16A>T (p.Ser6Cys)	6927	HNF1A	Likely pathogenic	GRCh38	1342950
+single nucleotide variant	NM_000545.8(HNF1A):c.17G>A (p.Ser6Asn)	6927	HNF1A	Pathogenic	GRCh38	1342951
+single nucleotide variant	NM_000545.8(HNF1A):c.82C>T (p.Gln28Ter)	6927	HNF1A	Likely pathogenic	GRCh38	1342952
+single nucleotide variant	NM_000545.8(HNF1A):c.833G>A (p.Arg278Gln)	6927	HNF1A	Likely pathogenic	GRCh38	1342955
+single nucleotide variant	NM_000545.8(HNF1A):c.366C>A (p.Tyr122Ter)	6927	HNF1A	Pathogenic	GRCh38	1365349
+single nucleotide variant	NM_000545.8(HNF1A):c.661C>T (p.Gln221Ter)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	1451668
+single nucleotide variant	NM_000545.8(HNF1A):c.397G>A (p.Val133Met)	6927	HNF1A	Likely pathogenic	GRCh38	1479078
+single nucleotide variant	NM_000545.8(HNF1A):c.748C>G (p.Gln250Glu)	6927	HNF1A	Likely pathogenic	GRCh38	1492025
+single nucleotide variant	NM_000545.8(HNF1A):c.511C>G (p.Arg171Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1384058
+single nucleotide variant	NM_000545.8(HNF1A):c.338G>A (p.Trp113Ter)	6927	HNF1A	Pathogenic	GRCh38	1526021
+single nucleotide variant	NM_000545.8(HNF1A):c.35T>G (p.Leu12Arg)	6927	HNF1A	Likely pathogenic	GRCh38	1675051
+single nucleotide variant	NM_000545.8(HNF1A):c.25C>T (p.Gln9Ter)	6927	HNF1A	Pathogenic	GRCh38	1675060
+single nucleotide variant	NM_000545.8(HNF1A):c.28A>C (p.Thr10Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1675061
+single nucleotide variant	NM_000545.8(HNF1A):c.34C>G (p.Leu12Val)	6927	HNF1A	Likely pathogenic	GRCh38	1675062
+single nucleotide variant	NM_000545.8(HNF1A):c.34C>T (p.Leu12Phe)	6927	HNF1A	Likely pathogenic	GRCh38	1675063
+single nucleotide variant	NM_000545.8(HNF1A):c.1136C>G (p.Pro379Arg)	6927	HNF1A	Pathogenic	GRCh38	1675516
+single nucleotide variant	NM_000545.8(HNF1A):c.77T>C (p.Leu26Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1676683
+single nucleotide variant	NM_000545.8(HNF1A):c.217G>T (p.Glu73Ter)	6927	HNF1A	Likely pathogenic	GRCh38	1676694
+single nucleotide variant	NM_000545.8(HNF1A):c.259A>T (p.Lys87Ter)	6927	HNF1A	Likely pathogenic	GRCh38	1676695
+single nucleotide variant	NM_000545.8(HNF1A):c.475C>G (p.Arg159Gly)	6927	HNF1A	Likely pathogenic	GRCh38	1676704
+single nucleotide variant	NM_000545.8(HNF1A):c.94G>T (p.Glu32Ter)	6927	HNF1A	Pathogenic	GRCh38	1676705
+single nucleotide variant	NM_000545.8(HNF1A):c.607C>A (p.Arg203Ser)	6927	HNF1A	Pathogenic	GRCh38	1676706
+single nucleotide variant	NM_000545.8(HNF1A):c.98C>T (p.Pro33Leu)	6927	HNF1A	Likely pathogenic	GRCh38	1676707
+single nucleotide variant	NM_000545.8(HNF1A):c.686G>C (p.Arg229Pro)	6927	HNF1A	Pathogenic	GRCh38	1676708
+single nucleotide variant	NM_000545.8(HNF1A):c.710A>G (p.Asn237Ser)	6927	HNF1A	Likely pathogenic	GRCh38	1676710
+single nucleotide variant	NM_000545.8(HNF1A):c.121G>T (p.Glu41Ter)	6927	HNF1A	Pathogenic	GRCh38	1676712
+single nucleotide variant	NM_000545.8(HNF1A):c.745T>C (p.Ser249Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1676716
+single nucleotide variant	NM_000545.8(HNF1A):c.788G>T (p.Arg263Leu)	6927	HNF1A	Pathogenic	GRCh38	1676718
+single nucleotide variant	NM_000545.8(HNF1A):c.814C>A (p.Arg272Ser)	6927	HNF1A	Pathogenic	GRCh38	1676722
+single nucleotide variant	NM_000545.8(HNF1A):c.26A>T (p.Gln9Leu)	6927	HNF1A	Likely pathogenic	GRCh38	1679550
+single nucleotide variant	NM_000545.8(HNF1A):c.327-2A>T	6927	HNF1A	Pathogenic	GRCh38	1687072
+single nucleotide variant	NM_000545.8(HNF1A):c.327-1G>T	6927	HNF1A	Pathogenic	GRCh38	1687073
+single nucleotide variant	NM_000545.8(HNF1A):c.1501+5G>C	6927	HNF1A	Likely pathogenic	GRCh38	1687076
+single nucleotide variant	NM_000545.8(HNF1A):c.1623+1G>A	6927	HNF1A	Pathogenic	GRCh38	1687078
+single nucleotide variant	NM_000545.8(HNF1A):c.1501+1G>T	6927	HNF1A	Likely pathogenic	GRCh38	1687080
+single nucleotide variant	NM_000545.8(HNF1A):c.1556C>T (p.Pro519Leu)	6927	HNF1A	Pathogenic	GRCh38	1693221
+single nucleotide variant	NM_000545.8(HNF1A):c.326+1G>C	6927	HNF1A	Pathogenic	GRCh38	1693222
+single nucleotide variant	NM_000545.8(HNF1A):c.326+1G>A	6927	HNF1A	Pathogenic	GRCh38	1693223
+single nucleotide variant	NM_000545.8(HNF1A):c.619G>T (p.Gly207Cys)	6927	HNF1A	Likely pathogenic	GRCh38	1699995
+single nucleotide variant	NM_000545.8(HNF1A):c.1193A>C (p.Gln398Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1700664
+single nucleotide variant	NM_000545.8(HNF1A):c.1469T>G (p.Met490Arg)	6927	HNF1A	Likely pathogenic	GRCh38	1700666
+single nucleotide variant	NM_000545.8(HNF1A):c.1623+1G>T	6927	HNF1A	Pathogenic	GRCh38	1700668
+single nucleotide variant	NM_000545.8(HNF1A):c.1726C>T (p.Gln576Ter)	6927	HNF1A	Pathogenic	GRCh38	1700670
+single nucleotide variant	NM_000545.8(HNF1A):c.347C>T (p.Ala116Val)	6927	HNF1A	Pathogenic	GRCh38	1700671
+single nucleotide variant	NM_000545.8(HNF1A):c.754C>T (p.Gln252Ter)	6927	HNF1A	Pathogenic	GRCh38	1711353
+single nucleotide variant	NM_000545.8(HNF1A):c.358A>G (p.Lys120Glu)	6927	HNF1A	Likely pathogenic	GRCh38	1732973
+single nucleotide variant	NM_000545.8(HNF1A):c.526+1G>T	6927	HNF1A	Pathogenic	GRCh38	1746441
+single nucleotide variant	NM_000545.8(HNF1A):c.527-1G>C	6927	HNF1A	Likely pathogenic	GRCh38	1746519
+single nucleotide variant	NM_000545.8(HNF1A):c.695T>C (p.Leu232Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1756327
+single nucleotide variant	NM_000545.8(HNF1A):c.955+2T>C	6927	HNF1A	Likely pathogenic	GRCh38	1767359
+single nucleotide variant	NM_000545.8(HNF1A):c.150C>A (p.Cys50Ter)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	1774157
+single nucleotide variant	NM_000545.8(HNF1A):c.160C>G (p.Arg54Gly)	6927	HNF1A	Pathogenic	GRCh38	1802525
+single nucleotide variant	NM_000545.8(HNF1A):c.1522G>T (p.Glu508Ter)	6927	HNF1A	Pathogenic	GRCh38	1803148
+single nucleotide variant	NM_000545.8(HNF1A):c.956-2A>G	6927	HNF1A	Pathogenic	GRCh38	1804169
+single nucleotide variant	NM_000545.8(HNF1A):c.327-1G>A	6927	HNF1A	Pathogenic	GRCh38	1804170
+single nucleotide variant	NM_000545.8(HNF1A):c.654T>A (p.Tyr218Ter)	6927	HNF1A	Likely pathogenic	GRCh38	1807435
+single nucleotide variant	NM_000545.8(HNF1A):c.377A>G (p.His126Arg)	6927	HNF1A	Pathogenic	GRCh38	2149072
+single nucleotide variant	NM_000545.8(HNF1A):c.416T>C (p.Leu139Pro)	6927	HNF1A	Likely pathogenic	GRCh38	1940407
+single nucleotide variant	NM_000545.8(HNF1A):c.262G>T (p.Glu88Ter)	6927	HNF1A	Pathogenic	GRCh38	2035581
+single nucleotide variant	NM_000545.8(HNF1A):c.211G>T (p.Glu71Ter)	6927	HNF1A	Pathogenic	GRCh38	2086630
+single nucleotide variant	NM_000545.8(HNF1A):c.523C>T (p.Gln175Ter)	6927	HNF1A	Pathogenic	GRCh38	2575051
+single nucleotide variant	NM_000545.8(HNF1A):c.526+5G>A	6927	HNF1A	Pathogenic	GRCh38	2580866
+single nucleotide variant	NM_000545.8(HNF1A):c.955+5G>C	6927	HNF1A	Likely pathogenic	GRCh38	2580868
+single nucleotide variant	NM_000545.8(HNF1A):c.1501+4A>G	6927	HNF1A	Likely pathogenic	GRCh38	2580870
+single nucleotide variant	NM_000545.8(HNF1A):c.1623G>A (p.Gln541=)	6927	HNF1A	Likely pathogenic	GRCh38	2580871
+single nucleotide variant	NM_000545.8(HNF1A):c.779C>G (p.Thr260Arg)	6927	HNF1A	Likely pathogenic	GRCh38	2581120
+single nucleotide variant	NM_000545.8(HNF1A):c.779C>A (p.Thr260Lys)	6927	HNF1A	Likely pathogenic	GRCh38	2581121
+single nucleotide variant	NM_000545.8(HNF1A):c.360G>C (p.Lys120Asn)	6927	HNF1A	Likely pathogenic	GRCh38	2581123
+single nucleotide variant	NM_000545.8(HNF1A):c.373C>T (p.Gln125Ter)	6927	HNF1A	Pathogenic	GRCh38	2587710
+single nucleotide variant	NM_000545.8(HNF1A):c.544C>T (p.Gln182Ter)	6927	HNF1A	Pathogenic	GRCh38	2627337
+single nucleotide variant	NM_000545.8(HNF1A):c.697G>C (p.Val233Leu)	6927	HNF1A	Pathogenic	GRCh38	2682654
+single nucleotide variant	NM_000545.8(HNF1A):c.517G>A (p.Val173Met)	6927	HNF1A	Likely pathogenic	GRCh38	2691838
+single nucleotide variant	NM_000545.8(HNF1A):c.646C>T (p.Gln216Ter)	6927	HNF1A	Pathogenic	GRCh38	2691840
+single nucleotide variant	NM_000545.8(HNF1A):c.653A>G (p.Tyr218Cys)	6927	HNF1A	Pathogenic	GRCh38	2691841
+single nucleotide variant	NM_000545.8(HNF1A):c.676A>G (p.Lys226Glu)	6927	HNF1A	Likely pathogenic	GRCh38	2691843
+single nucleotide variant	NM_000545.8(HNF1A):c.697G>T (p.Val233Leu)	6927	HNF1A	Likely pathogenic	GRCh38	2691846
+single nucleotide variant	NM_000545.8(HNF1A):c.498C>A (p.Tyr166Ter)	6927	HNF1A	Likely pathogenic	GRCh38	2746579
+single nucleotide variant	NM_000545.8(HNF1A):c.801G>A (p.Trp267Ter)	6927	HNF1A	Pathogenic	GRCh38	2735985
+single nucleotide variant	NM_000545.8(HNF1A):c.1417C>T (p.Gln473Ter)	6927	HNF1A	Pathogenic	GRCh38	2735987
+single nucleotide variant	NM_000545.8(HNF1A):c.769A>C (p.Asn257His)	6927	HNF1A	Likely pathogenic	GRCh38	2758582
+single nucleotide variant	NM_000545.8(HNF1A):c.1107+1G>C	6927	HNF1A	Pathogenic	GRCh38	2755528
+single nucleotide variant	NM_000545.8(HNF1A):c.493T>A (p.Trp165Arg)	6927	HNF1A	Likely pathogenic	GRCh38	2772482
+single nucleotide variant	NM_000545.8(HNF1A):c.166G>T (p.Glu56Ter)	6927	HNF1A	Pathogenic	GRCh38	2865059
+single nucleotide variant	NM_000545.8(HNF1A):c.319C>G (p.Leu107Val)	6927	HNF1A	Pathogenic	GRCh38	3024563
+single nucleotide variant	NM_000545.8(HNF1A):c.1768+2T>G	6927	HNF1A	Likely pathogenic	GRCh38	3033231
+single nucleotide variant	NM_000545.8(HNF1A):c.1324C>T (p.Gln442Ter)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	3237529
+single nucleotide variant	NM_000545.8(HNF1A):c.388C>G (p.Gln130Glu)	6927	HNF1A	Likely pathogenic	GRCh38	3238980
+single nucleotide variant	NM_000545.8(HNF1A):c.390G>T (p.Gln130His)	6927	HNF1A	Likely pathogenic	GRCh38	3238981
+single nucleotide variant	NM_000545.8(HNF1A):c.394G>A (p.Glu132Lys)	6927	HNF1A	Pathogenic	GRCh38	3238982
+single nucleotide variant	NM_000545.8(HNF1A):c.395A>T (p.Glu132Val)	6927	HNF1A	Likely pathogenic	GRCh38	3238983
+single nucleotide variant	NM_000545.8(HNF1A):c.637A>T (p.Ile213Phe)	6927	HNF1A	Likely pathogenic	GRCh38	3238985
+single nucleotide variant	NM_000545.8(HNF1A):c.751G>A (p.Ala251Thr)	6927	HNF1A	Likely pathogenic	GRCh38	3252774
+single nucleotide variant	NM_000545.8(HNF1A):c.838A>T (p.Lys280Ter)	6927	HNF1A	Pathogenic	GRCh38	3336431
+single nucleotide variant	NM_000545.8(HNF1A):c.671C>A (p.Pro224His)	6927	HNF1A	Pathogenic	GRCh38	3338324
+single nucleotide variant	NM_000545.8(HNF1A):c.694C>G (p.Leu232Val)	6927	HNF1A	Likely pathogenic	GRCh38	3338655
+single nucleotide variant	NM_000545.8(HNF1A):c.1624-1G>A	6927	HNF1A	Likely pathogenic	GRCh38	3338656
+single nucleotide variant	NM_000545.8(HNF1A):c.1623+2T>C	6927	HNF1A	Likely pathogenic	GRCh38	3338659
+single nucleotide variant	NM_000545.8(HNF1A):c.1768+1G>T	6927	HNF1A	Likely pathogenic	GRCh38	3338660
+single nucleotide variant	NM_000545.8(HNF1A):c.1768+1G>C	6927	HNF1A	Likely pathogenic	GRCh38	3338661
+single nucleotide variant	NM_000545.8(HNF1A):c.1108-1G>A	6927	HNF1A	Likely pathogenic	GRCh38	3348953
+single nucleotide variant	NM_000545.8(HNF1A):c.700G>T (p.Glu234Ter)	6927	HNF1A	Likely pathogenic	GRCh38	3358870
+single nucleotide variant	NM_000545.8(HNF1A):c.339G>A (p.Trp113Ter)	6927	HNF1A	Pathogenic	GRCh38	3358871
+single nucleotide variant	NM_000545.8(HNF1A):c.415C>G (p.Leu139Val)	6927	HNF1A	Likely pathogenic	GRCh38	3358873
+single nucleotide variant	NM_000545.8(HNF1A):c.715G>A (p.Ala239Thr)	6927	HNF1A	Likely pathogenic	GRCh38	3370452
+single nucleotide variant	NM_000545.8(HNF1A):c.298C>T (p.Gln100Ter)	6927	HNF1A	Likely pathogenic	GRCh38	3383342
+single nucleotide variant	NM_000545.8(HNF1A):c.770A>C (p.Asn257Thr)	6927	HNF1A	Likely pathogenic	GRCh38	3383934
+single nucleotide variant	NM_000545.8(HNF1A):c.1217C>T (p.Ala406Val)	6927	HNF1A	Likely pathogenic	GRCh38	3384229
+single nucleotide variant	NM_000545.8(HNF1A):c.3G>A (p.Met1Ile)	6927	HNF1A	Likely pathogenic	GRCh38	3574278
+single nucleotide variant	NM_000545.8(HNF1A):c.1456C>T (p.Gln486Ter)	6927	HNF1A	Pathogenic	GRCh38	3574303
+single nucleotide variant	NM_000545.8(HNF1A):c.460A>G (p.Met154Val)	6927	HNF1A	Likely pathogenic	GRCh38	3602125
+single nucleotide variant	NM_000545.8(HNF1A):c.472A>G (p.Lys158Glu)	6927	HNF1A	Likely pathogenic	GRCh38	3602126
+single nucleotide variant	NM_000545.8(HNF1A):c.498C>G (p.Tyr166Ter)	6927	HNF1A	Likely pathogenic	GRCh38	3602127
+single nucleotide variant	NM_000545.8(HNF1A):c.346G>A (p.Ala116Thr)	6927	HNF1A	Likely pathogenic	GRCh38	3602129
+single nucleotide variant	NM_000545.8(HNF1A):c.508C>T (p.Gln170Ter)	6927	HNF1A	Pathogenic	GRCh38	3615874
+single nucleotide variant	NM_000545.8(HNF1A):c.654T>G (p.Tyr218Ter)	6927	HNF1A	Pathogenic	GRCh38	3646255
+single nucleotide variant	NM_000545.8(HNF1A):c.1819C>T (p.Gln607Ter)	6927	HNF1A	Pathogenic	GRCh38	3673260
+single nucleotide variant	NM_000545.8(HNF1A):c.676A>T (p.Lys226Ter)	6927	HNF1A	Pathogenic	GRCh38	3727086
+single nucleotide variant	NM_000545.8(HNF1A):c.1502-2A>G	6927	HNF1A	Likely pathogenic	GRCh38	3721199
+single nucleotide variant	NM_000545.8(HNF1A):c.955+2T>A	6927	HNF1A	Likely pathogenic	GRCh38	3723006
+single nucleotide variant	NM_000545.8(HNF1A):c.349A>G (p.Lys117Glu)	6927	HNF1A	Likely pathogenic	GRCh38	3767145
+single nucleotide variant	NM_000545.8(HNF1A):c.108C>A (p.Tyr36Ter)	6927	HNF1A	Pathogenic/Likely pathogenic	GRCh38	3858203
+single nucleotide variant	NM_000545.8(HNF1A):c.607C>G (p.Arg203Gly)	6927	HNF1A	Likely pathogenic	GRCh38	3900757
+single nucleotide variant	NM_000545.8(HNF1A):c.391C>G (p.Arg131Gly)	6927	HNF1A	Likely pathogenic	GRCh38	3907084
+single nucleotide variant	NM_000545.8(HNF1A):c.1509C>G (p.Tyr503Ter)	6927	HNF1A	Pathogenic	GRCh38	3907574
+single nucleotide variant	NM_000545.8(HNF1A):c.1501G>T (p.Ala501Ser)	6927	HNF1A	Likely pathogenic	GRCh38	4279637
+single nucleotide variant	NM_000545.8(HNF1A):c.439C>G (p.His147Asp)	6927	HNF1A	Likely pathogenic	GRCh38	4531185
+single nucleotide variant	NM_000545.8(HNF1A):c.326+2T>C	6927	HNF1A	Likely pathogenic	GRCh38	4532379
+single nucleotide variant	NM_000545.8(HNF1A):c.598C>G (p.Arg200Gly)	6927	HNF1A	Likely pathogenic	GRCh38	4687885
+single nucleotide variant	NM_000545.8(HNF1A):c.337T>G (p.Trp113Gly)	6927	HNF1A	Likely pathogenic	GRCh38	4746419
+single nucleotide variant	NM_000545.8(HNF1A):c.618G>T (p.Trp206Cys)	6927	HNF1A	Likely pathogenic	GRCh38	4742486
+single nucleotide variant	NM_000545.8(HNF1A):c.421C>T (p.Gln141Ter)	6927	HNF1A	Pathogenic	GRCh38	4750594
+single nucleotide variant	NM_000545.8(HNF1A):c.430C>G (p.Leu144Val)	6927	HNF1A	Likely pathogenic	GRCh38	4822925
+single nucleotide variant	NM_000545.8(HNF1A):c.842T>C (p.Leu281Pro)	6927	HNF1A	Likely pathogenic	GRCh38	4845627
+single nucleotide variant	NM_000545.8(HNF1A):c.392G>C (p.Arg131Pro)	6927	HNF1A	Pathogenic	GRCh38	4851404
+single nucleotide variant	NM_000545.8(HNF1A):c.886G>T (p.Gly296Ter)	6927	HNF1A	Likely pathogenic	GRCh38	4850207
+single nucleotide variant	NM_000545.8(HNF1A):c.791T>C (p.Val264Ala)	6927	HNF1A	Likely pathogenic	GRCh38	4850551
+single nucleotide variant	NM_000545.8(HNF1A):c.620G>T (p.Gly207Val)	6927	HNF1A	Likely pathogenic	GRCh38	4852138

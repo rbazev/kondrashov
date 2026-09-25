@@ -1,0 +1,92 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_033028.5(BBS4):c.884G>C (p.Arg295Pro)	585	BBS4	Pathogenic	GRCh38	9145
+single nucleotide variant	NM_033028.5(BBS4):c.157-2A>G	585	BBS4	Pathogenic	GRCh38	9147
+single nucleotide variant	NM_033028.5(BBS4):c.1091C>A (p.Ala364Glu)	585	BBS4	Likely pathogenic	GRCh38	9148
+single nucleotide variant	NM_033028.5(BBS4):c.220+1G>C	585	BBS4	Pathogenic	GRCh38	21729
+single nucleotide variant	NM_033028.5(BBS4):c.406-2A>C	585	BBS4	Pathogenic	GRCh38	21730
+single nucleotide variant	NM_033028.5(BBS4):c.406-2A>G	585	BBS4	Pathogenic	GRCh38	217435
+single nucleotide variant	NM_033028.5(BBS4):c.712-1G>A	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	236484
+single nucleotide variant	NM_033028.5(BBS4):c.172C>T (p.Gln58Ter)	585	BBS4	Pathogenic	GRCh38	266089
+single nucleotide variant	NM_033028.5(BBS4):c.1106+2T>A	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	280217
+single nucleotide variant	NM_033028.5(BBS4):c.587+1G>A	585	BBS4	Likely pathogenic	GRCh38	4889990
+single nucleotide variant	NM_033028.5(BBS4):c.883C>T (p.Arg295Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	397593
+single nucleotide variant	NM_033028.5(BBS4):c.513T>A (p.Tyr171Ter)	585	BBS4	Pathogenic	GRCh38	412296
+single nucleotide variant	NM_033028.5(BBS4):c.638T>A (p.Leu213Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	412298
+single nucleotide variant	NM_033028.5(BBS4):c.830G>T (p.Gly277Val)	585	BBS4	Likely pathogenic	GRCh38	412297
+single nucleotide variant	NM_033028.5(BBS4):c.2T>C (p.Met1Thr)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	445809
+single nucleotide variant	NM_033028.5(BBS4):c.960T>A (p.Tyr320Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	531832
+single nucleotide variant	NM_033028.5(BBS4):c.76+1G>T	585	BBS4	Pathogenic	GRCh38	585186
+single nucleotide variant	NM_033028.5(BBS4):c.157-3C>G	585	BBS4	Pathogenic	GRCh38	585184
+single nucleotide variant	NM_033028.5(BBS4):c.626G>A (p.Gly209Glu)	585	BBS4	Pathogenic	GRCh38	662070
+single nucleotide variant	NM_033028.5(BBS4):c.791G>T (p.Cys264Phe)	585	BBS4	Likely pathogenic	GRCh38	800967
+single nucleotide variant	NM_033028.5(BBS4):c.424G>A (p.Gly142Arg)	585	BBS4	Likely pathogenic	GRCh38	812226
+single nucleotide variant	NM_033028.5(BBS4):c.129T>G (p.Tyr43Ter)	585	BBS4	Pathogenic	GRCh38	813020
+single nucleotide variant	NM_033028.5(BBS4):c.1248+1G>T	585	BBS4	Pathogenic	GRCh38	841735
+single nucleotide variant	NM_033028.5(BBS4):c.642+3A>G	585	BBS4	Likely pathogenic	GRCh38	866551
+single nucleotide variant	NM_033028.5(BBS4):c.1A>G (p.Met1Val)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	886465
+single nucleotide variant	NM_033028.5(BBS4):c.333-1G>C	585	BBS4	Likely pathogenic	GRCh38	966277
+single nucleotide variant	NM_033028.5(BBS4):c.24+1G>T	585	BBS4	Likely pathogenic	GRCh38	1067554
+single nucleotide variant	NM_033028.5(BBS4):c.1036+1G>A	585	BBS4	Likely pathogenic	GRCh38	1068030
+single nucleotide variant	NM_033028.5(BBS4):c.952C>T (p.Gln318Ter)	585	BBS4	Pathogenic	GRCh38	1068968
+single nucleotide variant	NM_033028.5(BBS4):c.1248+2T>C	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	1068712
+single nucleotide variant	NM_033028.5(BBS4):c.187C>T (p.Gln63Ter)	585	BBS4	Pathogenic	GRCh38	1172704
+single nucleotide variant	NM_033028.5(BBS4):c.1375C>T (p.Gln459Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	1179101
+single nucleotide variant	NM_033028.5(BBS4):c.24+1G>A	585	BBS4	Likely pathogenic	GRCh38	1504738
+single nucleotide variant	NM_033028.5(BBS4):c.623T>A (p.Leu208Ter)	585	BBS4	Pathogenic	GRCh38	1398623
+single nucleotide variant	NM_033028.5(BBS4):c.711+1G>A	585	BBS4	Likely pathogenic	GRCh38	1515532
+single nucleotide variant	NM_033028.5(BBS4):c.332+8T>C	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	1606564
+single nucleotide variant	NM_033028.5(BBS4):c.220G>A (p.Ala74Thr)	585	BBS4	Pathogenic	GRCh38	1700584
+single nucleotide variant	NM_033028.5(BBS4):c.1180C>T (p.Gln394Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2137734
+single nucleotide variant	NM_033028.5(BBS4):c.1264C>T (p.Gln422Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2185519
+single nucleotide variant	NM_033028.5(BBS4):c.642+1G>A	585	BBS4	Likely pathogenic	GRCh38	2195801
+single nucleotide variant	NM_033028.5(BBS4):c.10G>T (p.Glu4Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2197130
+single nucleotide variant	NM_033028.5(BBS4):c.220+1G>A	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2198631
+single nucleotide variant	NM_033028.5(BBS4):c.1083C>A (p.Tyr361Ter)	585	BBS4	Pathogenic	GRCh38	1922198
+single nucleotide variant	NM_033028.5(BBS4):c.333-2A>C	585	BBS4	Likely pathogenic	GRCh38	1939366
+single nucleotide variant	NM_033028.5(BBS4):c.67C>T (p.Gln23Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	1964049
+single nucleotide variant	NM_033028.5(BBS4):c.1248+1G>A	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2014919
+single nucleotide variant	NM_033028.5(BBS4):c.76+2T>C	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2058675
+single nucleotide variant	NM_033028.5(BBS4):c.640C>T (p.Gln214Ter)	585	BBS4	Pathogenic	GRCh38	2060354
+single nucleotide variant	NM_033028.5(BBS4):c.642+1G>T	585	BBS4	Likely pathogenic	GRCh38	2112164
+single nucleotide variant	NM_033028.5(BBS4):c.1037-1G>A	585	BBS4	Likely pathogenic	GRCh38	2436778
+single nucleotide variant	NM_033028.5(BBS4):c.405G>A (p.Trp135Ter)	585	BBS4	Likely pathogenic	GRCh38	2680033
+single nucleotide variant	NM_033028.5(BBS4):c.406G>T (p.Glu136Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2680035
+single nucleotide variant	NM_033028.5(BBS4):c.295C>T (p.Gln99Ter)	585	BBS4	Likely pathogenic	GRCh38	2680036
+single nucleotide variant	NM_033028.5(BBS4):c.642+2T>G	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2680037
+single nucleotide variant	NM_033028.5(BBS4):c.1185T>A (p.Tyr395Ter)	585	BBS4	Likely pathogenic	GRCh38	2680038
+single nucleotide variant	NM_033028.5(BBS4):c.1106+2T>C	585	BBS4	Likely pathogenic	GRCh38	2680039
+single nucleotide variant	NM_033028.5(BBS4):c.55C>T (p.Gln19Ter)	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2680040
+single nucleotide variant	NM_033028.5(BBS4):c.95T>A (p.Leu32Ter)	585	BBS4	Likely pathogenic	GRCh38	2680047
+single nucleotide variant	NM_033028.5(BBS4):c.864+1G>A	585	BBS4	Likely pathogenic	GRCh38	2680048
+single nucleotide variant	NM_033028.5(BBS4):c.1118T>A (p.Leu373Ter)	585	BBS4	Likely pathogenic	GRCh38	2680051
+single nucleotide variant	NM_033028.5(BBS4):c.31C>T (p.Gln11Ter)	585	BBS4	Pathogenic	GRCh38	2680053
+single nucleotide variant	NM_033028.5(BBS4):c.103C>T (p.Gln35Ter)	585	BBS4	Likely pathogenic	GRCh38	2680054
+single nucleotide variant	NM_033028.5(BBS4):c.1037-2A>G	585	BBS4	Likely pathogenic	GRCh38	2680055
+single nucleotide variant	NM_033028.5(BBS4):c.1106+1G>A	585	BBS4	Likely pathogenic	GRCh38	2680056
+single nucleotide variant	NM_033028.5(BBS4):c.1308G>A (p.Trp436Ter)	585	BBS4	Likely pathogenic	GRCh38	2680057
+single nucleotide variant	NM_033028.5(BBS4):c.346A>T (p.Lys116Ter)	585	BBS4	Pathogenic	GRCh38	2700655
+single nucleotide variant	NM_033028.5(BBS4):c.332+1G>T	585	BBS4	Likely pathogenic	GRCh38	2692645
+single nucleotide variant	NM_033028.5(BBS4):c.435C>A (p.Tyr145Ter)	585	BBS4	Pathogenic	GRCh38	2755879
+single nucleotide variant	NM_033028.5(BBS4):c.459+1G>A	585	BBS4	Pathogenic/Likely pathogenic	GRCh38	2791174
+single nucleotide variant	NM_033028.5(BBS4):c.157-1G>T	585	BBS4	Pathogenic	GRCh38	2842391
+single nucleotide variant	NM_033028.5(BBS4):c.24+2T>G	585	BBS4	Likely pathogenic	GRCh38	2849475
+single nucleotide variant	NM_033028.5(BBS4):c.110G>A (p.Trp37Ter)	585	BBS4	Likely pathogenic	GRCh38	3033438
+single nucleotide variant	NM_033028.5(BBS4):c.1249-2A>C	585	BBS4	Likely pathogenic	GRCh38	3240892
+single nucleotide variant	NM_033028.5(BBS4):c.460-2A>T	585	BBS4	Likely pathogenic	GRCh38	3240894
+single nucleotide variant	NM_033028.5(BBS4):c.1159G>T (p.Glu387Ter)	585	BBS4	Likely pathogenic	GRCh38	3240898
+single nucleotide variant	NM_033028.5(BBS4):c.25A>T (p.Arg9Ter)	585	BBS4	Likely pathogenic	GRCh38	3345245
+single nucleotide variant	NM_033028.5(BBS4):c.1450+1G>A	585	BBS4	Likely pathogenic	GRCh38	3344022
+single nucleotide variant	NM_033028.5(BBS4):c.77-1G>T	585	BBS4	Likely pathogenic	GRCh38	3348132
+single nucleotide variant	NM_033028.5(BBS4):c.156+1G>A	585	BBS4	Likely pathogenic	GRCh38	3577625
+single nucleotide variant	NM_033028.5(BBS4):c.693T>G (p.Tyr231Ter)	585	BBS4	Likely pathogenic	GRCh38	3577639
+single nucleotide variant	NM_033028.5(BBS4):c.864+2T>C	585	BBS4	Likely pathogenic	GRCh38	3577643
+single nucleotide variant	NM_033028.5(BBS4):c.1352C>A (p.Ser451Ter)	585	BBS4	Likely pathogenic	GRCh38	3577651
+single nucleotide variant	NM_033028.5(BBS4):c.76+1G>A	585	BBS4	Pathogenic	GRCh38	3614126
+single nucleotide variant	NM_033028.5(BBS4):c.1185T>G (p.Tyr395Ter)	585	BBS4	Pathogenic	GRCh38	3647901
+single nucleotide variant	NM_033028.5(BBS4):c.912G>A (p.Trp304Ter)	585	BBS4	Pathogenic	GRCh38	3650161
+single nucleotide variant	NM_033028.5(BBS4):c.77-2A>G	585	BBS4	Likely pathogenic	GRCh38	3729916
+single nucleotide variant	NM_033028.5(BBS4):c.643-2A>T	585	BBS4	Likely pathogenic	GRCh38	4710801
+single nucleotide variant	NM_033028.5(BBS4):c.1360A>T (p.Lys454Ter)	585	BBS4	Pathogenic	GRCh38	4732984
+single nucleotide variant	NM_033028.5(BBS4):c.405+2T>G	585	BBS4	Likely pathogenic	GRCh38	4804378
+single nucleotide variant	NM_033028.5(BBS4):c.924T>A (p.Tyr308Ter)	585	BBS4	Pathogenic	GRCh38	4852525
+single nucleotide variant	NM_033028.5(BBS4):c.1152C>A (p.Asn384Lys)	585	BBS4	Likely pathogenic	GRCh38	4890320

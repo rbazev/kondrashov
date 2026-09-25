@@ -1,0 +1,79 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000248.4(MITF):c.33+1G>A	4286	MITF	Pathogenic	GRCh38	14270
+single nucleotide variant	NM_001354604.2(MITF):c.763-2A>C	4286	MITF	Pathogenic	GRCh38	14271
+single nucleotide variant	NM_001354604.2(MITF):c.1069T>C (p.Ser357Pro)	4286	MITF	Pathogenic	GRCh38	14273
+single nucleotide variant	NM_001354604.2(MITF):c.951C>G (p.Asn317Lys)	4286	MITF	Pathogenic	GRCh38	14275
+single nucleotide variant	NM_001354604.2(MITF):c.961C>T (p.Arg321Ter)	4286	MITF	Pathogenic	GRCh38	14276
+single nucleotide variant	NM_001354604.2(MITF):c.704C>G (p.Ser235Ter)	4286	MITF	Pathogenic	GRCh38	228364
+single nucleotide variant	NM_001354604.2(MITF):c.1043G>A (p.Trp348Ter)	4286	MITF	Pathogenic	GRCh38	228362
+single nucleotide variant	NM_001354604.2(MITF):c.1129C>T (p.Arg377Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	228363
+single nucleotide variant	NM_001354604.2(MITF):c.1084C>T (p.Arg362Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	372755
+single nucleotide variant	NM_001354604.2(MITF):c.794A>G (p.Tyr265Cys)	4286	MITF	Likely pathogenic	GRCh38	373914
+single nucleotide variant	NM_001354604.2(MITF):c.939G>C (p.Lys313Asn)	4286	MITF	Pathogenic	GRCh38	375215
+single nucleotide variant	NM_001354604.2(MITF):c.970A>G (p.Arg324Gly)	4286	MITF	Pathogenic	GRCh38	375216
+single nucleotide variant	NM_001354604.2(MITF):c.956-1G>A	4286	MITF	Pathogenic	GRCh38	375217
+single nucleotide variant	NM_001354604.2(MITF):c.1230G>A (p.Thr410=)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	381604
+single nucleotide variant	NM_001354604.2(MITF):c.1180-2A>G	4286	MITF	Likely pathogenic	GRCh38	425300
+single nucleotide variant	NM_001354604.2(MITF):c.947A>G (p.His316Arg)	4286	MITF	Pathogenic	GRCh38	432664
+single nucleotide variant	NM_001354604.2(MITF):c.649C>T (p.Arg217Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	488040
+single nucleotide variant	NM_001354604.2(MITF):c.1022C>G (p.Ser341Ter)	4286	MITF	Pathogenic	GRCh38	504220
+single nucleotide variant	NM_001354604.2(MITF):c.1031+1G>A	4286	MITF	Pathogenic	GRCh38	545015
+single nucleotide variant	NM_001354604.2(MITF):c.997G>T (p.Glu333Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	545016
+single nucleotide variant	NM_001354604.2(MITF):c.925G>A (p.Glu309Lys)	4286	MITF	Likely pathogenic	GRCh38	545452
+single nucleotide variant	NM_001354604.2(MITF):c.355-1062G>C	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	545639
+single nucleotide variant	NM_001354604.2(MITF):c.953T>C (p.Leu318Pro)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	547531
+single nucleotide variant	NM_001354604.2(MITF):c.1031+4A>C	4286	MITF	Likely pathogenic	GRCh38	547534
+single nucleotide variant	NM_001354604.2(MITF):c.931C>T (p.Gln311Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	620508
+single nucleotide variant	NM_001354604.2(MITF):c.956-2A>G	4286	MITF	Pathogenic	GRCh38	849660
+single nucleotide variant	NM_001354604.2(MITF):c.397C>T (p.Gln133Ter)	4286	MITF	Pathogenic	GRCh38	872077
+single nucleotide variant	NM_001354604.2(MITF):c.808C>T (p.Leu270=)	4286	MITF	Pathogenic	GRCh38	976411
+single nucleotide variant	NM_000248.4(MITF):c.1A>G (p.Met1Val)	4286	MITF	Likely pathogenic	GRCh38	981831
+single nucleotide variant	NM_001354604.2(MITF):c.928A>G (p.Arg310Gly)	4286	MITF	Likely pathogenic	GRCh38	995918
+single nucleotide variant	NM_001354604.2(MITF):c.1096C>T (p.Arg366Ter)	4286	MITF	Pathogenic	GRCh38	995922
+single nucleotide variant	NM_001354604.2(MITF):c.1198C>T (p.Arg400Ter)	4286	MITF	Pathogenic	GRCh38	995923
+single nucleotide variant	NM_001354604.2(MITF):c.1273G>T (p.Glu425Ter)	4286	MITF	Pathogenic	GRCh38	995924
+single nucleotide variant	NM_001354604.2(MITF):c.1093C>T (p.Gln365Ter)	4286	MITF	Pathogenic	GRCh38	996799
+single nucleotide variant	NM_001354604.2(MITF):c.1052G>A (p.Gly351Glu)	4286	MITF	Likely pathogenic	GRCh38	1048556
+single nucleotide variant	NM_001354604.2(MITF):c.1070C>A (p.Ser357Tyr)	4286	MITF	Likely pathogenic	GRCh38	1202629
+single nucleotide variant	NM_001354604.2(MITF):c.955+1G>C	4286	MITF	Pathogenic	GRCh38	1297077
+single nucleotide variant	NM_001354604.2(MITF):c.1061T>G (p.Leu354Ter)	4286	MITF	Pathogenic	GRCh38	1324720
+single nucleotide variant	NM_001354604.2(MITF):c.666+1G>A	4286	MITF	Likely pathogenic	GRCh38	2943395
+single nucleotide variant	NM_001354604.2(MITF):c.387C>A (p.Tyr129Ter)	4286	MITF	Likely pathogenic	GRCh38	1526071
+single nucleotide variant	NM_001354604.2(MITF):c.955+1G>T	4286	MITF	Likely pathogenic	GRCh38	1526191
+single nucleotide variant	NM_001354604.2(MITF):c.1032-1G>C	4286	MITF	Likely pathogenic	GRCh38	1810185
+single nucleotide variant	NM_001354604.2(MITF):c.764T>A (p.Leu255Ter)	4286	MITF	Pathogenic	GRCh38	2020473
+single nucleotide variant	NM_001354604.2(MITF):c.956T>G (p.Ile319Ser)	4286	MITF	Likely pathogenic	GRCh38	2579410
+single nucleotide variant	NM_001354604.2(MITF):c.440T>G (p.Leu147Ter)	4286	MITF	Pathogenic/Likely pathogenic	GRCh38	2947585
+single nucleotide variant	NM_001354604.2(MITF):c.762+1G>A	4286	MITF	Likely pathogenic	GRCh38	2949158
+single nucleotide variant	NM_000248.4(MITF):c.30T>G (p.Tyr10Ter)	4286	MITF	Likely pathogenic	GRCh38	3338391
+single nucleotide variant	NM_001354604.2(MITF):c.1031+1G>C	4286	MITF	Likely pathogenic	GRCh38	3338628
+single nucleotide variant	NM_001354604.2(MITF):c.955+1G>A	4286	MITF	Likely pathogenic	GRCh38	3367419
+single nucleotide variant	NM_001354604.2(MITF):c.957T>G (p.Ile319Met)	4286	MITF	Likely pathogenic	GRCh38	3381833
+single nucleotide variant	NM_001354604.2(MITF):c.959A>G (p.Glu320Gly)	4286	MITF	Pathogenic	GRCh38	3382232
+single nucleotide variant	NM_001354604.2(MITF):c.984T>A (p.Asn328Lys)	4286	MITF	Likely pathogenic	GRCh38	3387802
+single nucleotide variant	NM_001354604.2(MITF):c.763-1G>A	4286	MITF	Pathogenic	GRCh38	3601247
+single nucleotide variant	NM_001354604.2(MITF):c.802C>T (p.Gln268Ter)	4286	MITF	Pathogenic	GRCh38	3601249
+single nucleotide variant	NM_001354604.2(MITF):c.880+1G>A	4286	MITF	Likely pathogenic	GRCh38	3601255
+single nucleotide variant	NM_001354604.2(MITF):c.880+2T>C	4286	MITF	Likely pathogenic	GRCh38	3601256
+single nucleotide variant	NM_001354604.2(MITF):c.934A>T (p.Lys312Ter)	4286	MITF	Pathogenic	GRCh38	3601258
+single nucleotide variant	NM_001354604.2(MITF):c.946C>G (p.His316Asp)	4286	MITF	Pathogenic	GRCh38	3601259
+single nucleotide variant	NM_001354604.2(MITF):c.948C>A (p.His316Gln)	4286	MITF	Pathogenic	GRCh38	3601260
+single nucleotide variant	NM_001354604.2(MITF):c.951C>A (p.Asn317Lys)	4286	MITF	Likely pathogenic	GRCh38	3601262
+single nucleotide variant	NM_001354604.2(MITF):c.961C>G (p.Arg321Gly)	4286	MITF	Likely pathogenic	GRCh38	3601263
+single nucleotide variant	NM_001354604.2(MITF):c.962G>T (p.Arg321Leu)	4286	MITF	Likely pathogenic	GRCh38	3601264
+single nucleotide variant	NM_001354604.2(MITF):c.970A>T (p.Arg324Ter)	4286	MITF	Pathogenic	GRCh38	3601267
+single nucleotide variant	NM_001354604.2(MITF):c.1001T>G (p.Leu334Arg)	4286	MITF	Likely pathogenic	GRCh38	3601270
+single nucleotide variant	NM_001354604.2(MITF):c.1051G>A (p.Gly351Arg)	4286	MITF	Likely pathogenic	GRCh38	3601272
+single nucleotide variant	NM_001354604.2(MITF):c.1105C>T (p.Gln369Ter)	4286	MITF	Pathogenic	GRCh38	3601274
+single nucleotide variant	NM_001354604.2(MITF):c.1179+1G>A	4286	MITF	Pathogenic	GRCh38	3601275
+single nucleotide variant	NM_001354604.2(MITF):c.795T>A (p.Tyr265Ter)	4286	MITF	Pathogenic	GRCh38	3759605
+single nucleotide variant	NM_001354604.2(MITF):c.1179+2T>C	4286	MITF	Pathogenic	GRCh38	3755923
+single nucleotide variant	NM_001354604.2(MITF):c.1132C>T (p.Gln378Ter)	4286	MITF	Pathogenic	GRCh38	3760181
+single nucleotide variant	NM_001354604.2(MITF):c.971G>A (p.Arg324Lys)	4286	MITF	Pathogenic	GRCh38	3774375
+single nucleotide variant	NM_001354604.2(MITF):c.980T>C (p.Ile327Thr)	4286	MITF	Likely pathogenic	GRCh38	4074957
+single nucleotide variant	NM_001354604.2(MITF):c.412C>T (p.Gln138Ter)	4286	MITF	Pathogenic	GRCh38	4784662
+single nucleotide variant	NM_001354604.2(MITF):c.426C>G (p.Tyr142Ter)	4286	MITF	Pathogenic	GRCh38	4786768
+single nucleotide variant	NM_001354604.2(MITF):c.881-2A>G	4286	MITF	Likely pathogenic	GRCh38	4791339
+single nucleotide variant	NM_001354604.2(MITF):c.971G>C (p.Arg324Thr)	4286	MITF	Likely pathogenic	GRCh38	4860084
+single nucleotide variant	NM_001354604.2(MITF):c.1135A>T (p.Lys379Ter)	4286	MITF	Likely pathogenic	GRCh38	4871873
+single nucleotide variant	NM_001354604.2(MITF):c.1032-2A>G	4286	MITF	Pathogenic	GRCh38	4879962

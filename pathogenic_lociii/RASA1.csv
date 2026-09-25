@@ -1,0 +1,120 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002890.3(RASA1):c.1193G>T (p.Arg398Leu)	5921	RASA1	Pathogenic	GRCh38	15996
+single nucleotide variant	NM_002890.3(RASA1):c.1198A>G (p.Lys400Glu)	5921	RASA1	Pathogenic	GRCh38	15997
+single nucleotide variant	NM_002890.3(RASA1):c.1619G>A (p.Cys540Tyr)	5921	RASA1	Pathogenic	GRCh38	16000
+single nucleotide variant	NM_002890.3(RASA1):c.853C>T (p.Arg285Ter)	5921	RASA1	Pathogenic	GRCh38	16001
+single nucleotide variant	NM_002890.3(RASA1):c.829-9G>A	5921	RASA1	Pathogenic	GRCh38	16002
+single nucleotide variant	NM_002890.3(RASA1):c.2131C>T (p.Arg711Ter)	5921	RASA1	Pathogenic	GRCh38	213660
+single nucleotide variant	NM_002890.3(RASA1):c.2690+1G>A	5921	RASA1	Pathogenic	GRCh38	213661
+single nucleotide variant	NM_002890.3(RASA1):c.2164G>T (p.Glu722Ter)	5921	RASA1	Pathogenic	GRCh38	280556
+single nucleotide variant	NM_002890.3(RASA1):c.539+5G>A	5921	RASA1	Likely pathogenic	GRCh38	373353
+single nucleotide variant	NM_002890.3(RASA1):c.3055C>T (p.Gln1019Ter)	5921	RASA1	Pathogenic/Likely pathogenic	GRCh38	411713
+single nucleotide variant	NM_002890.3(RASA1):c.2847+1G>A	5921	RASA1	Likely pathogenic	GRCh38	411711
+single nucleotide variant	NM_002890.3(RASA1):c.1447A>T (p.Lys483Ter)	5921	RASA1	Likely pathogenic	GRCh38	432154
+single nucleotide variant	NM_002890.3(RASA1):c.1534C>T (p.Arg512Ter)	5921	RASA1	Pathogenic	GRCh38	440233
+single nucleotide variant	NM_002890.3(RASA1):c.2035C>T (p.Arg679Ter)	5921	RASA1	Pathogenic	GRCh38	440234
+single nucleotide variant	NM_002890.3(RASA1):c.2604-2A>C	5921	RASA1	Pathogenic	GRCh38	440238
+single nucleotide variant	NM_002890.3(RASA1):c.1453+1G>T	5921	RASA1	Pathogenic	GRCh38	449619
+single nucleotide variant	NM_002890.3(RASA1):c.2125C>T (p.Arg709Ter)	5921	RASA1	Pathogenic	GRCh38	449560
+single nucleotide variant	NM_002890.3(RASA1):c.2707C>T (p.Arg903Ter)	5921	RASA1	Pathogenic	GRCh38	464861
+single nucleotide variant	NM_002890.3(RASA1):c.1659C>A (p.Tyr553Ter)	5921	RASA1	Pathogenic	GRCh38	464854
+single nucleotide variant	NM_002890.3(RASA1):c.656C>G (p.Ser219Ter)	5921	RASA1	Pathogenic	GRCh38	464870
+single nucleotide variant	NM_002890.3(RASA1):c.2506G>T (p.Glu836Ter)	5921	RASA1	Pathogenic	GRCh38	504107
+single nucleotide variant	NM_002890.3(RASA1):c.1935-3T>G	5921	RASA1	Likely pathogenic	GRCh38	533451
+single nucleotide variant	NM_002890.3(RASA1):c.2603+1G>A	5921	RASA1	Pathogenic	GRCh38	533449
+single nucleotide variant	NM_002890.3(RASA1):c.2245C>T (p.Arg749Ter)	5921	RASA1	Pathogenic	GRCh38	565648
+single nucleotide variant	NM_002890.3(RASA1):c.1698+2T>C	5921	RASA1	Likely pathogenic	GRCh38	572119
+single nucleotide variant	NM_002890.3(RASA1):c.3043G>T (p.Glu1015Ter)	5921	RASA1	Pathogenic	GRCh38	581667
+single nucleotide variant	NM_002890.3(RASA1):c.1248T>G (p.Tyr416Ter)	5921	RASA1	Pathogenic	GRCh38	618856
+single nucleotide variant	NM_002890.3(RASA1):c.1279C>T (p.Arg427Ter)	5921	RASA1	Pathogenic	GRCh38	618858
+single nucleotide variant	NM_002890.3(RASA1):c.2365C>T (p.Arg789Ter)	5921	RASA1	Pathogenic	GRCh38	620150
+single nucleotide variant	NM_002890.3(RASA1):c.1192C>T (p.Arg398Ter)	5921	RASA1	Pathogenic	GRCh38	652988
+single nucleotide variant	NM_002890.3(RASA1):c.1052G>A (p.Trp351Ter)	5921	RASA1	Pathogenic	GRCh38	838893
+single nucleotide variant	NM_002890.3(RASA1):c.1222C>T (p.Gln408Ter)	5921	RASA1	Pathogenic	GRCh38	853434
+single nucleotide variant	NM_002890.3(RASA1):c.1777-2A>T	5921	RASA1	Likely pathogenic	GRCh38	858307
+single nucleotide variant	NM_002890.3(RASA1):c.1934+2T>G	5921	RASA1	Pathogenic	GRCh38	851184
+single nucleotide variant	NM_002890.3(RASA1):c.2925+1G>A	5921	RASA1	Likely pathogenic	GRCh38	931156
+single nucleotide variant	NM_002890.3(RASA1):c.365C>A (p.Ser122Ter)	5921	RASA1	Pathogenic	GRCh38	952905
+single nucleotide variant	NM_002890.3(RASA1):c.2182G>T (p.Glu728Ter)	5921	RASA1	Pathogenic	GRCh38	952946
+single nucleotide variant	NM_002890.3(RASA1):c.3028C>T (p.Arg1010Ter)	5921	RASA1	Pathogenic	GRCh38	949975
+single nucleotide variant	NM_002890.3(RASA1):c.1332+2T>G	5921	RASA1	Pathogenic	GRCh38	945919
+single nucleotide variant	NM_002890.3(RASA1):c.492C>A (p.Tyr164Ter)	5921	RASA1	Pathogenic	GRCh38	957547
+single nucleotide variant	NM_002890.3(RASA1):c.2184+1G>T	5921	RASA1	Pathogenic	GRCh38	986133
+single nucleotide variant	NM_002890.3(RASA1):c.1103-1G>T	5921	RASA1	Pathogenic	GRCh38	987898
+single nucleotide variant	NM_002890.3(RASA1):c.2925+1G>T	5921	RASA1	Pathogenic	GRCh38	1012514
+single nucleotide variant	NM_002890.3(RASA1):c.2366G>A (p.Arg789Gln)	5921	RASA1	Pathogenic	GRCh38	1045761
+single nucleotide variant	NM_002890.3(RASA1):c.539+1G>C	5921	RASA1	Likely pathogenic	GRCh38	1067059
+single nucleotide variant	NM_002890.3(RASA1):c.828+1G>A	5921	RASA1	Likely pathogenic	GRCh38	1065978
+single nucleotide variant	NM_002890.3(RASA1):c.543G>A (p.Trp181Ter)	5921	RASA1	Pathogenic	GRCh38	1172580
+single nucleotide variant	NM_002890.3(RASA1):c.768C>A (p.Tyr256Ter)	5921	RASA1	Pathogenic	GRCh38	1172581
+single nucleotide variant	NM_002890.3(RASA1):c.2422C>T (p.Gln808Ter)	5921	RASA1	Pathogenic	GRCh38	1200888
+single nucleotide variant	NM_002890.3(RASA1):c.1870C>T (p.Gln624Ter)	5921	RASA1	Pathogenic	GRCh38	1316663
+single nucleotide variant	NM_002890.3(RASA1):c.828+5G>T	5921	RASA1	Pathogenic	GRCh38	1524107
+single nucleotide variant	NM_002890.3(RASA1):c.2012-1G>A	5921	RASA1	Likely pathogenic	GRCh38	1486980
+single nucleotide variant	NM_002890.3(RASA1):c.2487+2T>G	5921	RASA1	Likely pathogenic	GRCh38	1345735
+single nucleotide variant	NM_002890.3(RASA1):c.540-2A>C	5921	RASA1	Likely pathogenic	GRCh38	1346633
+single nucleotide variant	NM_002890.3(RASA1):c.1336C>T (p.Gln446Ter)	5921	RASA1	Pathogenic	GRCh38	1458184
+single nucleotide variant	NM_002890.3(RASA1):c.1698+1G>A	5921	RASA1	Pathogenic	GRCh38	1690399
+single nucleotide variant	NM_002890.3(RASA1):c.2184+1G>C	5921	RASA1	Pathogenic	GRCh38	1691328
+single nucleotide variant	NM_002890.3(RASA1):c.2012-2A>G	5921	RASA1	Pathogenic/Likely pathogenic	GRCh38	1691329
+single nucleotide variant	NM_002890.3(RASA1):c.2655G>A (p.Trp885Ter)	5921	RASA1	Pathogenic	GRCh38	1699012
+single nucleotide variant	NM_002890.3(RASA1):c.2239C>T (p.Gln747Ter)	5921	RASA1	Pathogenic	GRCh38	1706602
+single nucleotide variant	NM_002890.3(RASA1):c.2011+1G>C	5921	RASA1	Likely pathogenic	GRCh38	1784420
+single nucleotide variant	NM_002890.3(RASA1):c.693-1G>C	5921	RASA1	Likely pathogenic	GRCh38	1806124
+single nucleotide variant	NM_002890.3(RASA1):c.1429A>T (p.Lys477Ter)	5921	RASA1	Pathogenic	GRCh38	2024470
+single nucleotide variant	NM_002890.3(RASA1):c.539+4A>G	5921	RASA1	Pathogenic	GRCh38	2051636
+single nucleotide variant	NM_002890.3(RASA1):c.828+1G>T	5921	RASA1	Likely pathogenic	GRCh38	2068977
+single nucleotide variant	NM_002890.3(RASA1):c.1916C>G (p.Ser639Ter)	5921	RASA1	Pathogenic	GRCh38	2084347
+single nucleotide variant	NM_002890.3(RASA1):c.1053G>A (p.Trp351Ter)	5921	RASA1	Pathogenic	GRCh38	2091621
+single nucleotide variant	NM_002890.3(RASA1):c.1253+2T>C	5921	RASA1	Likely pathogenic	GRCh38	2104148
+single nucleotide variant	NM_002890.3(RASA1):c.2011+1G>T	5921	RASA1	Likely pathogenic	GRCh38	2117937
+single nucleotide variant	NM_002890.3(RASA1):c.2011+6T>G	5921	RASA1	Likely pathogenic	GRCh38	2497971
+single nucleotide variant	NM_002890.3(RASA1):c.1611-2A>G	5921	RASA1	Likely pathogenic	GRCh38	2630571
+single nucleotide variant	NM_002890.3(RASA1):c.1804G>T (p.Glu602Ter)	5921	RASA1	Likely pathogenic	GRCh38	2630035
+single nucleotide variant	NM_002890.3(RASA1):c.2184+1G>A	5921	RASA1	Likely pathogenic	GRCh38	2630115
+single nucleotide variant	NM_002890.3(RASA1):c.841A>T (p.Arg281Ter)	5921	RASA1	Pathogenic	GRCh38	2706090
+single nucleotide variant	NM_002890.3(RASA1):c.496G>T (p.Glu166Ter)	5921	RASA1	Pathogenic	GRCh38	2732232
+single nucleotide variant	NM_002890.3(RASA1):c.3060+1G>A	5921	RASA1	Likely pathogenic	GRCh38	2719763
+single nucleotide variant	NM_002890.3(RASA1):c.957G>A (p.Trp319Ter)	5921	RASA1	Pathogenic	GRCh38	2734736
+single nucleotide variant	NM_002890.3(RASA1):c.426C>G (p.Tyr142Ter)	5921	RASA1	Pathogenic	GRCh38	2746283
+single nucleotide variant	NM_002890.3(RASA1):c.2488-1G>A	5921	RASA1	Likely pathogenic	GRCh38	2750046
+single nucleotide variant	NM_002890.3(RASA1):c.2011+1G>A	5921	RASA1	Likely pathogenic	GRCh38	2758799
+single nucleotide variant	NM_002890.3(RASA1):c.2691-1G>C	5921	RASA1	Likely pathogenic	GRCh38	2769068
+single nucleotide variant	NM_002890.3(RASA1):c.2136C>G (p.Tyr712Ter)	5921	RASA1	Pathogenic	GRCh38	2814807
+single nucleotide variant	NM_002890.3(RASA1):c.539+2T>G	5921	RASA1	Likely pathogenic	GRCh38	2805701
+single nucleotide variant	NM_002890.3(RASA1):c.1556T>G (p.Leu519Ter)	5921	RASA1	Pathogenic	GRCh38	2814367
+single nucleotide variant	NM_002890.3(RASA1):c.2926-14C>G	5921	RASA1	Pathogenic	GRCh38	2852613
+single nucleotide variant	NM_002890.3(RASA1):c.2691-1G>T	5921	RASA1	Pathogenic/Likely pathogenic	GRCh38	2921092
+single nucleotide variant	NM_002890.3(RASA1):c.1453+2T>C	5921	RASA1	Likely pathogenic	GRCh38	2998551
+single nucleotide variant	NM_002890.3(RASA1):c.1934+2T>C	5921	RASA1	Pathogenic	GRCh38	3250851
+single nucleotide variant	NM_002890.3(RASA1):c.1050-1G>A	5921	RASA1	Pathogenic	GRCh38	3340430
+single nucleotide variant	NM_002890.3(RASA1):c.2345-1G>C	5921	RASA1	Pathogenic	GRCh38	3340434
+single nucleotide variant	NM_002890.3(RASA1):c.1333-1G>T	5921	RASA1	Pathogenic	GRCh38	3340436
+single nucleotide variant	NM_002890.3(RASA1):c.2590G>T (p.Glu864Ter)	5921	RASA1	Likely pathogenic	GRCh38	3362905
+single nucleotide variant	NM_002890.3(RASA1):c.2616T>G (p.Tyr872Ter)	5921	RASA1	Pathogenic	GRCh38	3600447
+single nucleotide variant	NM_002890.3(RASA1):c.1969A>C (p.Thr657Pro)	5921	RASA1	Likely pathogenic	GRCh38	3602622
+single nucleotide variant	NM_002890.3(RASA1):c.899+1G>A	5921	RASA1	Likely pathogenic	GRCh38	3632922
+single nucleotide variant	NM_002890.3(RASA1):c.217G>T (p.Gly73Ter)	5921	RASA1	Pathogenic	GRCh38	3660323
+single nucleotide variant	NM_002890.3(RASA1):c.1049+2T>A	5921	RASA1	Likely pathogenic	GRCh38	3725371
+single nucleotide variant	NM_002890.3(RASA1):c.2062G>T (p.Glu688Ter)	5921	RASA1	Pathogenic	GRCh38	3717711
+single nucleotide variant	NM_002890.3(RASA1):c.1507C>T (p.Gln503Ter)	5921	RASA1	Pathogenic	GRCh38	3720629
+single nucleotide variant	NM_002890.3(RASA1):c.1254-1G>A	5921	RASA1	Likely pathogenic	GRCh38	3729651
+single nucleotide variant	NM_002890.3(RASA1):c.1253+2T>G	5921	RASA1	Likely pathogenic	GRCh38	3773866
+single nucleotide variant	NM_002890.3(RASA1):c.1717C>T (p.Gln573Ter)	5921	RASA1	Pathogenic	GRCh38	3774502
+single nucleotide variant	NM_002890.3(RASA1):c.2476C>T (p.Gln826Ter)	5921	RASA1	Pathogenic	GRCh38	3774521
+single nucleotide variant	NM_002890.3(RASA1):c.829-2A>G	5921	RASA1	Likely pathogenic	GRCh38	3897699
+single nucleotide variant	NM_002890.3(RASA1):c.1733T>G (p.Leu578Ter)	5921	RASA1	Pathogenic	GRCh38	3942977
+single nucleotide variant	NM_002890.3(RASA1):c.934G>T (p.Glu312Ter)	5921	RASA1	Pathogenic	GRCh38	3942978
+single nucleotide variant	NM_002890.3(RASA1):c.829-1G>T	5921	RASA1	Likely pathogenic	GRCh38	4070938
+single nucleotide variant	NM_002890.3(RASA1):c.463G>T (p.Glu155Ter)	5921	RASA1	Pathogenic	GRCh38	4279976
+single nucleotide variant	NM_002890.3(RASA1):c.1278T>G (p.Tyr426Ter)	5921	RASA1	Likely pathogenic	GRCh38	4291876
+single nucleotide variant	NM_002890.3(RASA1):c.2498C>A (p.Ser833Ter)	5921	RASA1	Likely pathogenic	GRCh38	4293697
+single nucleotide variant	NM_002890.3(RASA1):c.1050-1G>T	5921	RASA1	Likely pathogenic	GRCh38	4318739
+single nucleotide variant	NM_002890.3(RASA1):c.1332+1G>T	5921	RASA1	Pathogenic	GRCh38	4716727
+single nucleotide variant	NM_002890.3(RASA1):c.2185-1G>C	5921	RASA1	Likely pathogenic	GRCh38	4724421
+single nucleotide variant	NM_002890.3(RASA1):c.1049+1G>A	5921	RASA1	Likely pathogenic	GRCh38	4732509
+single nucleotide variant	NM_002890.3(RASA1):c.2555T>C (p.Leu852Pro)	5921	RASA1	Likely pathogenic	GRCh38	4734176
+single nucleotide variant	NM_002890.3(RASA1):c.1528G>T (p.Glu510Ter)	5921	RASA1	Pathogenic	GRCh38	4809484
+single nucleotide variant	NM_002890.3(RASA1):c.1777-1G>C	5921	RASA1	Likely pathogenic	GRCh38	4813447
+single nucleotide variant	NM_002890.3(RASA1):c.2344+2T>G	5921	RASA1	Likely pathogenic	GRCh38	4849226
+single nucleotide variant	NM_002890.3(RASA1):c.899+1G>T	5921	RASA1	Likely pathogenic	GRCh38	4851567

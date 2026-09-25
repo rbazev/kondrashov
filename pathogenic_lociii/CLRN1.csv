@@ -1,0 +1,57 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_052995.2(CLRN1):c.300T>G (p.Tyr100Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	4392
+single nucleotide variant	NM_174878.3(CLRN1):c.359T>A (p.Met120Lys)	7401	CLRN1	Likely pathogenic	GRCh38	4393
+single nucleotide variant	NM_174878.3(CLRN1):c.449T>C (p.Leu150Pro)	7401	CLRN1	Likely pathogenic	GRCh38	4396
+single nucleotide variant	NM_174878.3(CLRN1):c.189C>A (p.Tyr63Ter)	7401	CLRN1	Pathogenic	GRCh38	4397
+single nucleotide variant	NM_174878.3(CLRN1):c.92C>T (p.Pro31Leu)	7401	CLRN1	Pathogenic	GRCh38	30575
+single nucleotide variant	NM_174878.3(CLRN1):c.127G>A (p.Gly43Arg)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	48142
+single nucleotide variant	NM_174878.3(CLRN1):c.368C>A (p.Ala123Asp)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	48146
+single nucleotide variant	NM_174878.3(CLRN1):c.98G>A (p.Trp33Ter)	7401	CLRN1	Likely pathogenic	GRCh38	236488
+single nucleotide variant	NM_174878.3(CLRN1):c.619C>T (p.Arg207Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	371628
+single nucleotide variant	NM_174878.3(CLRN1):c.13C>T (p.Gln5Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	371376
+single nucleotide variant	NM_174878.3(CLRN1):c.541C>T (p.Gln181Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	552163
+single nucleotide variant	NM_174878.3(CLRN1):c.40G>T (p.Gly14Ter)	7401	CLRN1	Pathogenic	GRCh38	558249
+single nucleotide variant	NM_174878.3(CLRN1):c.184C>T (p.Gln62Ter)	7401	CLRN1	Likely pathogenic	GRCh38	556984
+single nucleotide variant	NM_174878.3(CLRN1):c.2T>C (p.Met1Thr)	7401	CLRN1	Likely pathogenic	GRCh38	555368
+single nucleotide variant	NM_174878.3(CLRN1):c.3G>A (p.Met1Ile)	7401	CLRN1	Likely pathogenic	GRCh38	552903
+single nucleotide variant	NM_174878.3(CLRN1):c.323T>C (p.Leu108Pro)	7401	CLRN1	Pathogenic	GRCh38	633701
+single nucleotide variant	NM_174878.3(CLRN1):c.434-2A>T	7401	CLRN1	Likely pathogenic	GRCh38	636163
+single nucleotide variant	NM_174878.3(CLRN1):c.433+1G>A	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	638640
+single nucleotide variant	NM_174878.3(CLRN1):c.128G>T (p.Gly43Val)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	802016
+single nucleotide variant	NM_174878.3(CLRN1):c.65T>A (p.Leu22His)	7401	CLRN1	Pathogenic	GRCh38	812104
+single nucleotide variant	NM_174878.3(CLRN1):c.437C>A (p.Ser146Tyr)	7401	CLRN1	Likely pathogenic	GRCh38	812271
+single nucleotide variant	NM_174878.3(CLRN1):c.419T>A (p.Leu140Ter)	7401	CLRN1	Pathogenic	GRCh38	847350
+single nucleotide variant	NM_174878.3(CLRN1):c.67G>T (p.Gly23Ter)	7401	CLRN1	Pathogenic	GRCh38	838097
+single nucleotide variant	NM_174878.3(CLRN1):c.254-649T>G	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	834124
+single nucleotide variant	NM_174878.3(CLRN1):c.154C>T (p.Gln52Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	865795
+single nucleotide variant	NM_174878.3(CLRN1):c.254-2A>G	7401	CLRN1	Likely pathogenic	GRCh38	932234
+single nucleotide variant	NM_174878.3(CLRN1):c.570G>A (p.Trp190Ter)	7401	CLRN1	Pathogenic	GRCh38	933810
+single nucleotide variant	NM_174878.3(CLRN1):c.606T>G (p.Asn202Lys)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	971183
+single nucleotide variant	NM_174878.3(CLRN1):c.188A>C (p.Tyr63Ser)	7401	CLRN1	Pathogenic	GRCh38	992423
+single nucleotide variant	NM_174878.3(CLRN1):c.697T>C (p.Ter233Arg)	7401	CLRN1	Likely pathogenic	GRCh38	1185681
+single nucleotide variant	NM_174878.3(CLRN1):c.190G>A (p.Gly64Arg)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	1331448
+single nucleotide variant	NM_174878.3(CLRN1):c.433+1G>C	7401	CLRN1	Pathogenic	GRCh38	1453129
+single nucleotide variant	NM_174878.3(CLRN1):c.563C>A (p.Ser188Ter)	7401	CLRN1	Pathogenic	GRCh38	1451157
+single nucleotide variant	NM_174878.3(CLRN1):c.513T>A (p.Tyr171Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	1455146
+single nucleotide variant	NM_174878.3(CLRN1):c.253+1G>A	7401	CLRN1	Likely pathogenic	GRCh38	1511878
+single nucleotide variant	NM_174878.3(CLRN1):c.253+6T>C	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	1706269
+single nucleotide variant	NM_174878.3(CLRN1):c.494C>T (p.Ser165Leu)	7401	CLRN1	Likely pathogenic	GRCh38	2154685
+single nucleotide variant	NM_174878.3(CLRN1):c.149C>A (p.Ser50Ter)	7401	CLRN1	Pathogenic	GRCh38	2203455
+single nucleotide variant	NM_174878.3(CLRN1):c.190G>C (p.Gly64Arg)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	1966493
+single nucleotide variant	NM_174878.3(CLRN1):c.528T>A (p.Tyr176Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	2040098
+single nucleotide variant	NM_174878.3(CLRN1):c.95T>A (p.Leu32Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	2680840
+single nucleotide variant	NM_174878.3(CLRN1):c.271A>T (p.Lys91Ter)	7401	CLRN1	Likely pathogenic	GRCh38	2680844
+single nucleotide variant	NM_174878.3(CLRN1):c.555T>A (p.Tyr185Ter)	7401	CLRN1	Pathogenic/Likely pathogenic	GRCh38	2680846
+single nucleotide variant	NM_174878.3(CLRN1):c.433+1G>T	7401	CLRN1	Likely pathogenic	GRCh38	2680848
+single nucleotide variant	NM_174878.3(CLRN1):c.496G>T (p.Glu166Ter)	7401	CLRN1	Likely pathogenic	GRCh38	2680850
+single nucleotide variant	NM_174878.3(CLRN1):c.127G>C (p.Gly43Arg)	7401	CLRN1	Pathogenic	GRCh38	2800316
+single nucleotide variant	NM_174878.3(CLRN1):c.254-2A>T	7401	CLRN1	Likely pathogenic	GRCh38	2836611
+single nucleotide variant	NM_174878.3(CLRN1):c.60T>A (p.Cys20Ter)	7401	CLRN1	Pathogenic	GRCh38	2839908
+single nucleotide variant	NM_174878.3(CLRN1):c.253+2T>C	7401	CLRN1	Pathogenic	GRCh38	3027587
+single nucleotide variant	NM_174878.3(CLRN1):c.458T>G (p.Ile153Arg)	7401	CLRN1	Likely pathogenic	GRCh38	3249975
+single nucleotide variant	NM_174878.3(CLRN1):c.569G>A (p.Trp190Ter)	7401	CLRN1	Likely pathogenic	GRCh38	3588695
+single nucleotide variant	NM_174878.3(CLRN1):c.118T>C (p.Cys40Arg)	7401	CLRN1	Likely pathogenic	GRCh38	3601045
+single nucleotide variant	NM_174878.3(CLRN1):c.293A>T (p.His98Leu)	7401	CLRN1	Likely pathogenic	GRCh38	3601047
+single nucleotide variant	NM_174878.3(CLRN1):c.10C>T (p.Gln4Ter)	7401	CLRN1	Likely pathogenic	GRCh38	4816960
+single nucleotide variant	NM_174878.3(CLRN1):c.127G>T (p.Gly43Ter)	7401	CLRN1	Likely pathogenic	GRCh38	4816961
+single nucleotide variant	NM_174878.3(CLRN1):c.230G>T (p.Gly77Val)	7401	CLRN1	Likely pathogenic	GRCh38	4885539

@@ -1,0 +1,74 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001206744.2(TPO):c.1618C>T (p.Arg540Ter)	7173	TPO	Pathogenic	GRCh38	4042
+single nucleotide variant	NM_001206744.2(TPO):c.1339A>T (p.Ile447Phe)	7173	TPO	Pathogenic	GRCh38	4043
+single nucleotide variant	NM_001206744.2(TPO):c.1357T>G (p.Tyr453Asp)	7173	TPO	Pathogenic	GRCh38	4044
+single nucleotide variant	NM_001206744.2(TPO):c.1768G>A (p.Gly590Ser)	7173	TPO	Pathogenic	GRCh38	4045
+single nucleotide variant	NM_001206744.2(TPO):c.2395G>A (p.Glu799Lys)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	4046
+single nucleotide variant	NM_001206744.2(TPO):c.1943G>A (p.Arg648Gln)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	4048
+single nucleotide variant	NM_001206744.2(TPO):c.1978C>G (p.Gln660Glu)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	4053
+single nucleotide variant	NM_001206744.2(TPO):c.524G>A (p.Arg175Gln)	7173	TPO	Likely pathogenic	GRCh38	331307
+single nucleotide variant	NM_001206744.2(TPO):c.1558C>T (p.His520Tyr)	7173	TPO	Likely pathogenic	GRCh38	374178
+single nucleotide variant	NM_001206744.2(TPO):c.1994G>A (p.Arg665Gln)	7173	TPO	Likely pathogenic	GRCh38	374344
+single nucleotide variant	NM_001206744.2(TPO):c.2394C>A (p.Asn798Lys)	7173	TPO	Likely pathogenic	GRCh38	430384
+single nucleotide variant	NM_001206744.2(TPO):c.1804C>T (p.Arg602Cys)	7173	TPO	Likely pathogenic	GRCh38	449779
+single nucleotide variant	NM_001206744.2(TPO):c.719A>G (p.Asp240Gly)	7173	TPO	Likely pathogenic	GRCh38	869101
+single nucleotide variant	NM_001206744.2(TPO):c.2315A>G (p.Tyr772Cys)	7173	TPO	Likely pathogenic	GRCh38	916543
+single nucleotide variant	NM_001206744.2(TPO):c.866T>C (p.Phe289Ser)	7173	TPO	Pathogenic	GRCh38	988647
+single nucleotide variant	NM_001206744.2(TPO):c.214C>T (p.Gln72Ter)	7173	TPO	Pathogenic	GRCh38	1028337
+single nucleotide variant	NM_001206744.2(TPO):c.1477G>A (p.Gly493Ser)	7173	TPO	Pathogenic	GRCh38	1064772
+single nucleotide variant	NM_001206744.2(TPO):c.391T>C (p.Ser131Pro)	7173	TPO	Likely pathogenic	GRCh38	1065534
+single nucleotide variant	NM_001206744.2(TPO):c.2578G>A (p.Gly860Arg)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	1254323
+single nucleotide variant	NM_001206744.2(TPO):c.1786G>T (p.Glu596Ter)	7173	TPO	Pathogenic	GRCh38	1333570
+single nucleotide variant	NM_001206744.2(TPO):c.1159G>A (p.Gly387Arg)	7173	TPO	Likely pathogenic	GRCh38	1687271
+single nucleotide variant	NM_001206744.2(TPO):c.2473T>C (p.Cys825Arg)	7173	TPO	Likely pathogenic	GRCh38	1687484
+single nucleotide variant	NM_001206744.2(TPO):c.265C>T (p.Arg89Ter)	7173	TPO	Pathogenic	GRCh38	1701830
+single nucleotide variant	NM_001206744.2(TPO):c.1009G>A (p.Glu337Lys)	7173	TPO	Likely pathogenic	GRCh38	2573441
+single nucleotide variant	NM_001206744.2(TPO):c.1768+1G>A	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	2576884
+single nucleotide variant	NM_001206744.2(TPO):c.2492T>G (p.Leu831Ter)	7173	TPO	Pathogenic	GRCh38	2581320
+single nucleotide variant	NM_001206744.2(TPO):c.2311G>A (p.Gly771Arg)	7173	TPO	Likely pathogenic	GRCh38	2628496
+single nucleotide variant	NM_001206744.2(TPO):c.455G>A (p.Arg152Lys)	7173	TPO	Likely pathogenic	GRCh38	2664754
+single nucleotide variant	NM_001206744.2(TPO):c.2619G>A (p.Trp873Ter)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	2664755
+single nucleotide variant	NM_001206744.2(TPO):c.1904G>A (p.Trp635Ter)	7173	TPO	Pathogenic	GRCh38	2723607
+single nucleotide variant	NM_001206744.2(TPO):c.523C>T (p.Arg175Ter)	7173	TPO	Pathogenic	GRCh38	2734125
+single nucleotide variant	NM_001206744.2(TPO):c.1581G>T (p.Trp527Cys)	7173	TPO	Pathogenic	GRCh38	2734128
+single nucleotide variant	NM_001206744.2(TPO):c.1682C>T (p.Thr561Met)	7173	TPO	Likely pathogenic	GRCh38	2734129
+single nucleotide variant	NM_001206744.2(TPO):c.1993C>T (p.Arg665Trp)	7173	TPO	Pathogenic	GRCh38	2734130
+single nucleotide variant	NM_001206744.2(TPO):c.2059G>T (p.Glu687Ter)	7173	TPO	Pathogenic	GRCh38	2734131
+single nucleotide variant	NM_001206744.2(TPO):c.2266T>C (p.Cys756Arg)	7173	TPO	Pathogenic	GRCh38	2734132
+single nucleotide variant	NM_001206744.2(TPO):c.179+1G>A	7173	TPO	Likely pathogenic	GRCh38	2748164
+single nucleotide variant	NM_001206744.2(TPO):c.2215+1G>A	7173	TPO	Likely pathogenic	GRCh38	2768638
+single nucleotide variant	NM_001206744.2(TPO):c.295C>T (p.Gln99Ter)	7173	TPO	Pathogenic	GRCh38	2770499
+single nucleotide variant	NM_001206744.2(TPO):c.95-1G>C	7173	TPO	Likely pathogenic	GRCh38	2793960
+single nucleotide variant	NM_001206744.2(TPO):c.1525C>T (p.Gln509Ter)	7173	TPO	Pathogenic	GRCh38	2795477
+single nucleotide variant	NM_001206744.2(TPO):c.1586T>G (p.Leu529Ter)	7173	TPO	Pathogenic	GRCh38	2806730
+single nucleotide variant	NM_001206744.2(TPO):c.1769-1G>T	7173	TPO	Likely pathogenic	GRCh38	2830934
+single nucleotide variant	NM_001206744.2(TPO):c.1718T>A (p.Leu573Ter)	7173	TPO	Pathogenic	GRCh38	2838546
+single nucleotide variant	NM_001206744.2(TPO):c.1339-2A>G	7173	TPO	Likely pathogenic	GRCh38	2845094
+single nucleotide variant	NM_001206744.2(TPO):c.613-1G>A	7173	TPO	Likely pathogenic	GRCh38	2867676
+single nucleotide variant	NM_001206744.2(TPO):c.2688C>A (p.Cys896Ter)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	2896074
+single nucleotide variant	NM_001206744.2(TPO):c.2215+2T>C	7173	TPO	Likely pathogenic	GRCh38	2896348
+single nucleotide variant	NM_001206744.2(TPO):c.2386+2T>G	7173	TPO	Likely pathogenic	GRCh38	2910136
+single nucleotide variant	NM_001206744.2(TPO):c.350-2A>C	7173	TPO	Likely pathogenic	GRCh38	2963454
+single nucleotide variant	NM_001206744.2(TPO):c.612+1G>A	7173	TPO	Likely pathogenic	GRCh38	2965494
+single nucleotide variant	NM_001206744.2(TPO):c.565C>T (p.Arg189Ter)	7173	TPO	Pathogenic	GRCh38	2967093
+single nucleotide variant	NM_001206744.2(TPO):c.2044C>T (p.Gln682Ter)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	2979940
+single nucleotide variant	NM_001206744.2(TPO):c.778C>T (p.Gln260Ter)	7173	TPO	Pathogenic	GRCh38	2989633
+single nucleotide variant	NM_001206744.2(TPO):c.1039G>T (p.Glu347Ter)	7173	TPO	Pathogenic/Likely pathogenic	GRCh38	3002279
+single nucleotide variant	NM_001206744.2(TPO):c.2748G>A (p.Gln916=)	7173	TPO	Likely pathogenic	GRCh38	3061154
+single nucleotide variant	NM_001206744.2(TPO):c.179+2T>C	7173	TPO	Likely pathogenic	GRCh38	3584371
+single nucleotide variant	NM_001206744.2(TPO):c.453C>A (p.Tyr151Ter)	7173	TPO	Likely pathogenic	GRCh38	3584377
+single nucleotide variant	NM_001206744.2(TPO):c.482+1G>A	7173	TPO	Likely pathogenic	GRCh38	3584378
+single nucleotide variant	NM_001206744.2(TPO):c.543T>G (p.Tyr181Ter)	7173	TPO	Likely pathogenic	GRCh38	3584379
+single nucleotide variant	NM_001206744.2(TPO):c.736C>T (p.Gln246Ter)	7173	TPO	Likely pathogenic	GRCh38	3584380
+single nucleotide variant	NM_001206744.2(TPO):c.796C>T (p.Gln266Ter)	7173	TPO	Pathogenic	GRCh38	3584382
+single nucleotide variant	NM_001206744.2(TPO):c.870C>A (p.Tyr290Ter)	7173	TPO	Likely pathogenic	GRCh38	3584383
+single nucleotide variant	NM_001206744.2(TPO):c.1598-2A>C	7173	TPO	Likely pathogenic	GRCh38	3584386
+single nucleotide variant	NM_001206744.2(TPO):c.2618+1G>T	7173	TPO	Likely pathogenic	GRCh38	3584394
+single nucleotide variant	NM_001206744.2(TPO):c.2749-1G>A	7173	TPO	Likely pathogenic	GRCh38	3584481
+single nucleotide variant	NM_001206744.2(TPO):c.94G>T (p.Gly32Ter)	7173	TPO	Pathogenic	GRCh38	3641193
+single nucleotide variant	NM_001206744.2(TPO):c.483-1G>A	7173	TPO	Likely pathogenic	GRCh38	3631615
+single nucleotide variant	NM_001206744.2(TPO):c.1339-1G>T	7173	TPO	Likely pathogenic	GRCh38	3697242
+single nucleotide variant	NM_001206744.2(TPO):c.875C>T (p.Ser292Phe)	7173	TPO	Pathogenic	GRCh38	3769373
+single nucleotide variant	NM_001206744.2(TPO):c.2714C>A (p.Ser905Ter)	7173	TPO	Likely pathogenic	GRCh38	4071620
+single nucleotide variant	NM_001206744.2(TPO):c.1235G>A (p.Arg412His)	7173	TPO	Likely pathogenic	GRCh38	4537011
+single nucleotide variant	NM_001206744.2(TPO):c.1303C>T (p.Gln435Ter)	7173	TPO	Pathogenic	GRCh38	4710691

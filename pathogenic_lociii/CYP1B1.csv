@@ -1,0 +1,75 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000104.4(CYP1B1):c.182G>A (p.Gly61Glu)	1545	CYP1B1	Pathogenic	GRCh38	7730
+single nucleotide variant	NM_000104.4(CYP1B1):c.1093G>T (p.Gly365Trp)	1545	CYP1B1	Likely pathogenic	GRCh38	7732
+single nucleotide variant	NM_000104.4(CYP1B1):c.1405C>T (p.Arg469Trp)	1545	CYP1B1	Pathogenic	GRCh38	7733
+single nucleotide variant	NM_000104.4(CYP1B1):c.1120G>A (p.Asp374Asn)	1545	CYP1B1	Likely pathogenic	GRCh38	7734
+single nucleotide variant	NM_000104.4(CYP1B1):c.1159G>A (p.Glu387Lys)	1545	CYP1B1	Pathogenic	GRCh38	7735
+single nucleotide variant	NM_000104.4(CYP1B1):c.2T>C (p.Met1Thr)	1545	CYP1B1	Pathogenic	GRCh38	7736
+single nucleotide variant	NM_000104.4(CYP1B1):c.171G>A (p.Trp57Ter)	1545	CYP1B1	Pathogenic	GRCh38	7737
+single nucleotide variant	NM_000104.4(CYP1B1):c.694G>C (p.Gly232Arg)	1545	CYP1B1	Likely pathogenic	GRCh38	7740
+single nucleotide variant	NM_000104.4(CYP1B1):c.1267A>T (p.Asn423Tyr)	1545	CYP1B1	Likely pathogenic	GRCh38	7743
+single nucleotide variant	NM_000104.4(CYP1B1):c.783C>A (p.Phe261Leu)	1545	CYP1B1	Likely pathogenic	GRCh38	30223
+single nucleotide variant	NM_000104.4(CYP1B1):c.1409G>A (p.Cys470Tyr)	1545	CYP1B1	Likely pathogenic	GRCh38	96699
+single nucleotide variant	NM_000104.4(CYP1B1):c.1168C>T (p.Arg390Cys)	1545	CYP1B1	Pathogenic	GRCh38	335952
+single nucleotide variant	NM_000104.4(CYP1B1):c.1302G>A (p.Trp434Ter)	1545	CYP1B1	Pathogenic	GRCh38	456638
+single nucleotide variant	NM_000104.4(CYP1B1):c.1330C>T (p.Arg444Ter)	1545	CYP1B1	Pathogenic	GRCh38	523782
+single nucleotide variant	NM_000104.4(CYP1B1):c.1169G>A (p.Arg390His)	1545	CYP1B1	Pathogenic	GRCh38	592512
+single nucleotide variant	NM_000104.4(CYP1B1):c.349C>T (p.Arg117Trp)	1545	CYP1B1	Likely pathogenic	GRCh38	813356
+single nucleotide variant	NM_000104.4(CYP1B1):c.1331G>A (p.Arg444Gln)	1545	CYP1B1	Pathogenic	GRCh38	845455
+single nucleotide variant	NM_000104.4(CYP1B1):c.517G>A (p.Glu173Lys)	1545	CYP1B1	Pathogenic	GRCh38	917724
+single nucleotide variant	NM_000104.4(CYP1B1):c.1460T>C (p.Leu487Pro)	1545	CYP1B1	Pathogenic	GRCh38	973774
+single nucleotide variant	NM_000104.4(CYP1B1):c.1044-3C>G	1545	CYP1B1	Pathogenic	GRCh38	973773
+single nucleotide variant	NM_000104.4(CYP1B1):c.1081G>T (p.Asp361Tyr)	1545	CYP1B1	Likely pathogenic	GRCh38	1065602
+single nucleotide variant	NM_000104.4(CYP1B1):c.840C>A (p.Cys280Ter)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	1076484
+single nucleotide variant	NM_000104.4(CYP1B1):c.578C>T (p.Pro193Leu)	1545	CYP1B1	Likely pathogenic	GRCh38	1172842
+single nucleotide variant	NM_000104.4(CYP1B1):c.1A>G (p.Met1Val)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	1203967
+single nucleotide variant	NM_000104.4(CYP1B1):c.1310C>T (p.Pro437Leu)	1545	CYP1B1	Pathogenic	GRCh38	1254629
+single nucleotide variant	NM_000104.4(CYP1B1):c.517G>T (p.Glu173Ter)	1545	CYP1B1	Pathogenic	GRCh38	1322184
+single nucleotide variant	NM_000104.4(CYP1B1):c.1198C>T (p.Pro400Ser)	1545	CYP1B1	Likely pathogenic	GRCh38	1331361
+single nucleotide variant	NM_000104.4(CYP1B1):c.710C>A (p.Ala237Glu)	1545	CYP1B1	Likely pathogenic	GRCh38	1338800
+single nucleotide variant	NM_000104.4(CYP1B1):c.1044-2A>G	1545	CYP1B1	Pathogenic	GRCh38	1339135
+single nucleotide variant	NM_000104.4(CYP1B1):c.1090G>A (p.Val364Met)	1545	CYP1B1	Pathogenic	GRCh38	1339668
+single nucleotide variant	NM_000104.4(CYP1B1):c.1063C>T (p.Arg355Ter)	1545	CYP1B1	Pathogenic	GRCh38	1412564
+single nucleotide variant	NM_000104.4(CYP1B1):c.55C>T (p.Gln19Ter)	1545	CYP1B1	Pathogenic	GRCh38	1442930
+single nucleotide variant	NM_000104.4(CYP1B1):c.1102C>T (p.Arg368Cys)	1545	CYP1B1	Likely pathogenic	GRCh38	1489392
+single nucleotide variant	NM_000104.4(CYP1B1):c.717C>A (p.Ser239Arg)	1545	CYP1B1	Likely pathogenic	GRCh38	1805500
+single nucleotide variant	NM_000104.4(CYP1B1):c.1168C>A (p.Arg390Ser)	1545	CYP1B1	Pathogenic	GRCh38	2203048
+single nucleotide variant	NM_000104.4(CYP1B1):c.350G>T (p.Arg117Leu)	1545	CYP1B1	Pathogenic	GRCh38	2098650
+single nucleotide variant	NM_000104.4(CYP1B1):c.317C>A (p.Ala106Asp)	1545	CYP1B1	Pathogenic	GRCh38	2577219
+single nucleotide variant	NM_000104.4(CYP1B1):c.1064G>C (p.Arg355Pro)	1545	CYP1B1	Likely pathogenic	GRCh38	2628045
+single nucleotide variant	NM_000104.4(CYP1B1):c.58C>T (p.Gln20Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	2681132
+single nucleotide variant	NM_000104.4(CYP1B1):c.575A>T (p.Asp192Val)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	2681133
+single nucleotide variant	NM_000104.4(CYP1B1):c.994C>T (p.Gln332Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	2681136
+single nucleotide variant	NM_000104.4(CYP1B1):c.1023G>A (p.Trp341Ter)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	2681139
+single nucleotide variant	NM_000104.4(CYP1B1):c.256C>T (p.Gln86Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	2681122
+single nucleotide variant	NM_000104.4(CYP1B1):c.1153C>T (p.Leu385Phe)	1545	CYP1B1	Likely pathogenic	GRCh38	2681123
+single nucleotide variant	NM_000104.4(CYP1B1):c.1075G>T (p.Glu359Ter)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	2681125
+single nucleotide variant	NM_000104.4(CYP1B1):c.170G>A (p.Trp57Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	2681128
+single nucleotide variant	NM_000104.4(CYP1B1):c.872A>G (p.Asp291Gly)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	2681130
+single nucleotide variant	NM_000104.4(CYP1B1):c.490C>T (p.Gln164Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	2681131
+single nucleotide variant	NM_000104.4(CYP1B1):c.2T>G (p.Met1Arg)	1545	CYP1B1	Pathogenic	GRCh38	2705933
+single nucleotide variant	NM_000104.4(CYP1B1):c.243C>G (p.Tyr81Ter)	1545	CYP1B1	Pathogenic	GRCh38	2734165
+single nucleotide variant	NM_000104.4(CYP1B1):c.1057C>T (p.Gln353Ter)	1545	CYP1B1	Pathogenic	GRCh38	2849349
+single nucleotide variant	NM_000104.4(CYP1B1):c.218C>A (p.Ser73Ter)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	2860750
+single nucleotide variant	NM_000104.4(CYP1B1):c.783C>G (p.Phe261Leu)	1545	CYP1B1	Likely pathogenic	GRCh38	2895658
+single nucleotide variant	NM_000104.4(CYP1B1):c.83C>A (p.Ser28Ter)	1545	CYP1B1	Pathogenic	GRCh38	3236111
+single nucleotide variant	NM_000104.4(CYP1B1):c.1147G>A (p.Ala383Thr)	1545	CYP1B1	Likely pathogenic	GRCh38	3236696
+single nucleotide variant	NM_000104.4(CYP1B1):c.1333T>A (p.Phe445Ile)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	3236697
+single nucleotide variant	NM_000104.4(CYP1B1):c.1412T>G (p.Ile471Ser)	1545	CYP1B1	Likely pathogenic	GRCh38	3251434
+single nucleotide variant	NM_000104.4(CYP1B1):c.781T>C (p.Phe261Leu)	1545	CYP1B1	Likely pathogenic	GRCh38	3339803
+single nucleotide variant	NM_000104.4(CYP1B1):c.395T>G (p.Met132Arg)	1545	CYP1B1	Likely pathogenic	GRCh38	3586582
+single nucleotide variant	NM_000104.4(CYP1B1):c.350G>C (p.Arg117Pro)	1545	CYP1B1	Likely pathogenic	GRCh38	3586583
+single nucleotide variant	NM_000104.4(CYP1B1):c.325C>T (p.Gln109Ter)	1545	CYP1B1	Pathogenic	GRCh38	3720317
+single nucleotide variant	NM_000104.4(CYP1B1):c.1022G>A (p.Trp341Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	3779556
+single nucleotide variant	NM_000104.4(CYP1B1):c.608A>G (p.Asn203Ser)	1545	CYP1B1	Likely pathogenic	GRCh38	3779557
+single nucleotide variant	NM_000104.4(CYP1B1):c.3G>A (p.Met1Ile)	1545	CYP1B1	Pathogenic/Likely pathogenic	GRCh38	3896352
+single nucleotide variant	NM_000104.4(CYP1B1):c.722T>A (p.Val241Glu)	1545	CYP1B1	Likely pathogenic	GRCh38	4070518
+single nucleotide variant	NM_000104.4(CYP1B1):c.732G>A (p.Met244Ile)	1545	CYP1B1	Likely pathogenic	GRCh38	4070527
+single nucleotide variant	NM_000104.4(CYP1B1):c.181G>T (p.Gly61Ter)	1545	CYP1B1	Likely pathogenic	GRCh38	4081304
+single nucleotide variant	NM_000104.4(CYP1B1):c.784G>T (p.Glu262Ter)	1545	CYP1B1	Pathogenic	GRCh38	4530667
+single nucleotide variant	NM_000104.4(CYP1B1):c.1044-1G>C	1545	CYP1B1	Pathogenic	GRCh38	4530669
+single nucleotide variant	NM_000104.4(CYP1B1):c.1454C>T (p.Ser485Phe)	1545	CYP1B1	Pathogenic	GRCh38	4530671
+single nucleotide variant	NM_000104.4(CYP1B1):c.1568G>C (p.Arg523Thr)	1545	CYP1B1	Pathogenic	GRCh38	4530672
+single nucleotide variant	NM_000104.4(CYP1B1):c.353C>G (p.Pro118Arg)	1545	CYP1B1	Likely pathogenic	GRCh38	4535961
+single nucleotide variant	NM_000104.4(CYP1B1):c.625T>C (p.Cys209Arg)	1545	CYP1B1	Pathogenic	GRCh38	4746965
+single nucleotide variant	NM_000104.4(CYP1B1):c.1084C>T (p.Gln362Ter)	1545	CYP1B1	Pathogenic	GRCh38	4851973

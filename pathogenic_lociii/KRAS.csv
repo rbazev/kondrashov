@@ -1,0 +1,81 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004985.5(KRAS):c.34G>T (p.Gly12Cys)	3845	KRAS	Likely pathogenic	GRCh38	12578
+single nucleotide variant	NM_004985.5(KRAS):c.34G>C (p.Gly12Arg)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	12579
+single nucleotide variant	NM_004985.5(KRAS):c.38G>A (p.Gly13Asp)	3845	KRAS	Pathogenic	GRCh38	12580
+single nucleotide variant	NM_033360.4(KRAS):c.175G>A (p.Ala59Thr)	3845	KRAS	Pathogenic	GRCh38	12581
+single nucleotide variant	NM_004985.5(KRAS):c.35G>A (p.Gly12Asp)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	12582
+single nucleotide variant	NM_004985.5(KRAS):c.35G>T (p.Gly12Val)	3845	KRAS	Pathogenic	GRCh38	12583
+single nucleotide variant	NM_004985.5(KRAS):c.34G>A (p.Gly12Ser)	3845	KRAS	Pathogenic	GRCh38	12584
+single nucleotide variant	NM_004985.5(KRAS):c.178G>C (p.Gly60Arg)	3845	KRAS	Pathogenic	GRCh38	12586
+single nucleotide variant	NM_004985.5(KRAS):c.458A>T (p.Asp153Val)	3845	KRAS	Pathogenic	GRCh38	12587
+single nucleotide variant	NM_004985.5(KRAS):c.173C>T (p.Thr58Ile)	3845	KRAS	Pathogenic	GRCh38	12588
+single nucleotide variant	NM_004985.5(KRAS):c.40G>A (p.Val14Ile)	3845	KRAS	Pathogenic	GRCh38	12589
+single nucleotide variant	NM_004985.5(KRAS):c.101C>G (p.Pro34Arg)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	12590
+single nucleotide variant	NM_033360.4(KRAS):c.*9T>G	3845	KRAS	Pathogenic	GRCh38	12591
+single nucleotide variant	NM_004985.5(KRAS):c.37G>C (p.Gly13Arg)	3845	KRAS	Pathogenic	GRCh38	12593
+single nucleotide variant	NM_033360.4(KRAS):c.15A>T (p.Lys5Asn)	3845	KRAS	Pathogenic	GRCh38	12594
+single nucleotide variant	NM_033360.4(KRAS):c.*22C>G	3845	KRAS	Pathogenic	GRCh38	12595
+single nucleotide variant	NM_004985.5(KRAS):c.13A>G (p.Lys5Glu)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	12596
+single nucleotide variant	NM_033360.4(KRAS):c.178G>A (p.Gly60Ser)	3845	KRAS	Pathogenic	GRCh38	12597
+single nucleotide variant	NM_033360.4(KRAS):c.211T>C (p.Tyr71His)	3845	KRAS	Pathogenic	GRCh38	31940
+single nucleotide variant	NM_033360.4(KRAS):c.439A>G (p.Lys147Glu)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	31941
+single nucleotide variant	NM_033360.4(KRAS):c.64C>G (p.Gln22Glu)	3845	KRAS	Pathogenic	GRCh38	40451
+single nucleotide variant	NM_004985.5(KRAS):c.65A>G (p.Gln22Arg)	3845	KRAS	Pathogenic	GRCh38	40452
+single nucleotide variant	NM_033360.4(KRAS):c.65A>T (p.Gln22Leu)	3845	KRAS	Likely pathogenic	GRCh38	40453
+single nucleotide variant	NM_004985.5(KRAS):c.101C>T (p.Pro34Leu)	3845	KRAS	Pathogenic	GRCh38	40454
+single nucleotide variant	NM_033360.4(KRAS):c.355G>A (p.Asp119Asn)	3845	KRAS	Likely pathogenic	GRCh38	40460
+single nucleotide variant	NM_004985.5(KRAS):c.458A>G (p.Asp153Gly)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	40465
+single nucleotide variant	NM_004985.5(KRAS):c.182A>T (p.Gln61Leu)	3845	KRAS	Pathogenic	GRCh38	45116
+single nucleotide variant	NM_004985.5(KRAS):c.183A>T (p.Gln61His)	3845	KRAS	Pathogenic	GRCh38	45117
+single nucleotide variant	NM_004985.5(KRAS):c.35G>C (p.Gly12Ala)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	45122
+single nucleotide variant	NM_004985.5(KRAS):c.37G>T (p.Gly13Cys)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	45123
+single nucleotide variant	NM_004985.5(KRAS):c.38G>T (p.Gly13Val)	3845	KRAS	Pathogenic	GRCh38	45124
+single nucleotide variant	NM_004985.5(KRAS):c.454G>T (p.Val152Phe)	3845	KRAS	Likely pathogenic	GRCh38	45126
+single nucleotide variant	NM_004985.5(KRAS):c.466T>G (p.Phe156Val)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	45127
+single nucleotide variant	NM_033360.4(KRAS):c.347A>G (p.Asn116Ser)	3845	KRAS	Likely pathogenic	GRCh38	156338
+single nucleotide variant	NM_004985.5(KRAS):c.466T>A (p.Phe156Ile)	3845	KRAS	Pathogenic	GRCh38	163758
+single nucleotide variant	NM_004985.5(KRAS):c.290G>A (p.Arg97Lys)	3845	KRAS	Likely pathogenic	GRCh38	163761
+single nucleotide variant	NM_004985.5(KRAS):c.214A>T (p.Met72Leu)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	179141
+single nucleotide variant	NM_004985.5(KRAS):c.181C>A (p.Gln61Lys)	3845	KRAS	Pathogenic	GRCh38	177777
+single nucleotide variant	NM_004985.5(KRAS):c.108A>G (p.Ile36Met)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	163768
+single nucleotide variant	NM_004985.5(KRAS):c.179G>T (p.Gly60Val)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	163766
+single nucleotide variant	NM_004985.5(KRAS):c.39C>A (p.Gly13=)	3845	KRAS	Likely pathogenic	GRCh38	163769
+single nucleotide variant	NM_004985.5(KRAS):c.57G>C (p.Leu19Phe)	3845	KRAS	Pathogenic	GRCh38	217822
+single nucleotide variant	NM_033360.4(KRAS):c.175G>T (p.Ala59Ser)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	222075
+single nucleotide variant	NM_004985.5(KRAS):c.211T>G (p.Tyr71Asp)	3845	KRAS	Likely pathogenic	GRCh38	228267
+single nucleotide variant	NM_033360.4(KRAS):c.15A>C (p.Lys5Asn)	3845	KRAS	Pathogenic	GRCh38	372705
+single nucleotide variant	NM_004985.5(KRAS):c.437C>T (p.Ala146Val)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	375962
+single nucleotide variant	NM_033360.4(KRAS):c.436G>C (p.Ala146Pro)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	375963
+single nucleotide variant	NM_033360.4(KRAS):c.351A>T (p.Lys117Asn)	3845	KRAS	Likely pathogenic	GRCh38	375964
+single nucleotide variant	NM_033360.4(KRAS):c.351A>C (p.Lys117Asn)	3845	KRAS	Pathogenic	GRCh38	375965
+single nucleotide variant	NM_033360.4(KRAS):c.57G>T (p.Leu19Phe)	3845	KRAS	Likely pathogenic	GRCh38	376034
+single nucleotide variant	NM_033360.4(KRAS):c.64C>A (p.Gln22Lys)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	376325
+single nucleotide variant	NM_033360.4(KRAS):c.440A>G (p.Lys147Arg)	3845	KRAS	Pathogenic	GRCh38	431103
+single nucleotide variant	NM_033360.4(KRAS):c.194G>T (p.Ser65Ile)	3845	KRAS	Likely pathogenic	GRCh38	438796
+single nucleotide variant	NM_033360.4(KRAS):c.44G>T (p.Gly15Val)	3845	KRAS	Likely pathogenic	GRCh38	452631
+single nucleotide variant	NM_033360.4(KRAS):c.*11G>A	3845	KRAS	Pathogenic	GRCh38	561755
+single nucleotide variant	NM_004985.5(KRAS):c.451-5642A>T	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	637030
+single nucleotide variant	NM_004985.5(KRAS):c.221C>T (p.Thr74Ile)	3845	KRAS	Likely pathogenic	GRCh38	981550
+single nucleotide variant	NM_033360.4(KRAS):c.458A>C (p.Glu153Ala)	3845	KRAS	Likely pathogenic	GRCh38	981551
+single nucleotide variant	NM_004985.5(KRAS):c.461A>G (p.Asp154Gly)	3845	KRAS	Likely pathogenic	GRCh38	981803
+single nucleotide variant	NM_004985.5(KRAS):c.214A>C (p.Met72Leu)	3845	KRAS	Pathogenic	GRCh38	1016209
+single nucleotide variant	NM_004985.5(KRAS):c.346A>C (p.Asn116His)	3845	KRAS	Pathogenic	GRCh38	1219824
+single nucleotide variant	NM_004985.5(KRAS):c.445A>T (p.Arg149Ter)	3845	KRAS	Likely pathogenic	GRCh38	1327505
+single nucleotide variant	NM_004985.5(KRAS):c.229G>T (p.Gly77Cys)	3845	KRAS	Likely pathogenic	GRCh38	1676497
+single nucleotide variant	NM_004985.5(KRAS):c.53C>T (p.Ala18Val)	3845	KRAS	Pathogenic	GRCh38	1695421
+single nucleotide variant	NM_004985.5(KRAS):c.440A>T (p.Lys147Met)	3845	KRAS	Likely pathogenic	GRCh38	1803998
+single nucleotide variant	NM_004985.5(KRAS):c.13A>C (p.Lys5Gln)	3845	KRAS	Likely pathogenic	GRCh38	2010214
+single nucleotide variant	NM_004985.5(KRAS):c.20T>A (p.Val7Glu)	3845	KRAS	Likely pathogenic	GRCh38	2503842
+single nucleotide variant	NM_004985.5(KRAS):c.148A>C (p.Thr50Pro)	3845	KRAS	Likely pathogenic	GRCh38	2575733
+single nucleotide variant	NM_004985.5(KRAS):c.101C>A (p.Pro34Gln)	3845	KRAS	Likely pathogenic	GRCh38	2630513
+single nucleotide variant	NM_004985.5(KRAS):c.467T>C (p.Phe156Ser)	3845	KRAS	Pathogenic	GRCh38	2716407
+single nucleotide variant	NM_004985.5(KRAS):c.441G>T (p.Lys147Asn)	3845	KRAS	Likely pathogenic	GRCh38	2752227
+single nucleotide variant	NM_004985.5(KRAS):c.202A>G (p.Arg68Gly)	3845	KRAS	Likely pathogenic	GRCh38	2828010
+single nucleotide variant	NM_004985.5(KRAS):c.350A>C (p.Lys117Thr)	3845	KRAS	Likely pathogenic	GRCh38	3224559
+single nucleotide variant	NM_004985.5(KRAS):c.202A>T (p.Arg68Trp)	3845	KRAS	Likely pathogenic	GRCh38	3238829
+single nucleotide variant	NM_004985.5(KRAS):c.158T>G (p.Leu53Trp)	3845	KRAS	Likely pathogenic	GRCh38	3775823
+single nucleotide variant	NM_004985.5(KRAS):c.350A>G (p.Lys117Arg)	3845	KRAS	Likely pathogenic	GRCh38	4279977
+single nucleotide variant	NM_004985.5(KRAS):c.59C>T (p.Thr20Met)	3845	KRAS	Likely pathogenic	GRCh38	4689816
+single nucleotide variant	NM_004985.5(KRAS):c.204G>C (p.Arg68Ser)	3845	KRAS	Pathogenic/Likely pathogenic	GRCh38	4698285
+single nucleotide variant	NM_004985.5(KRAS):c.454G>A (p.Val152Ile)	3845	KRAS	Likely pathogenic	GRCh38	4871712
+single nucleotide variant	NM_004985.5(KRAS):c.457G>C (p.Asp153His)	3845	KRAS	Likely pathogenic	GRCh38	4887018

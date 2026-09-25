@@ -1,0 +1,52 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001018005.2(TPM1):c.539A>G (p.Glu180Gly)	7168	TPM1	Pathogenic	GRCh38	12455
+single nucleotide variant	NM_001018005.2(TPM1):c.523G>A (p.Asp175Asn)	7168	TPM1	Pathogenic	GRCh38	12456
+single nucleotide variant	NM_001018005.2(TPM1):c.284T>C (p.Val95Ala)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	12457
+single nucleotide variant	NM_001018005.2(TPM1):c.184G>C (p.Glu62Gln)	7168	TPM1	Likely pathogenic	GRCh38	31876
+single nucleotide variant	NM_001018005.2(TPM1):c.188C>T (p.Ala63Val)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	31877
+single nucleotide variant	NM_001018005.2(TPM1):c.539A>T (p.Glu180Val)	7168	TPM1	Likely pathogenic	GRCh38	31880
+single nucleotide variant	NM_001018005.2(TPM1):c.574G>A (p.Glu192Lys)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	31882
+single nucleotide variant	NM_001018005.2(TPM1):c.644C>T (p.Ser215Leu)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	31883
+single nucleotide variant	NM_001018005.2(TPM1):c.688G>A (p.Asp230Asn)	7168	TPM1	Pathogenic	GRCh38	31884
+single nucleotide variant	NM_001018005.2(TPM1):c.479G>A (p.Arg160His)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	31899
+single nucleotide variant	NM_001018005.2(TPM1):c.742A>G (p.Lys248Glu)	7168	TPM1	Pathogenic	GRCh38	31901
+single nucleotide variant	NM_001018005.2(TPM1):c.23T>G (p.Met8Arg)	7168	TPM1	Likely pathogenic	GRCh38	43406
+single nucleotide variant	NM_001018005.2(TPM1):c.341A>G (p.Glu114Gly)	7168	TPM1	Likely pathogenic	GRCh38	43415
+single nucleotide variant	NM_001018005.2(TPM1):c.423G>C (p.Met141Ile)	7168	TPM1	Likely pathogenic	GRCh38	43417
+single nucleotide variant	NM_001018005.2(TPM1):c.475G>A (p.Asp159Asn)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	43420
+single nucleotide variant	NM_001018005.2(TPM1):c.416A>T (p.Glu139Val)	7168	TPM1	Likely pathogenic	GRCh38	177896
+single nucleotide variant	NM_001018005.2(TPM1):c.559G>C (p.Glu187Gln)	7168	TPM1	Likely pathogenic	GRCh38	177659
+single nucleotide variant	NM_001018005.2(TPM1):c.276C>G (p.Ile92Met)	7168	TPM1	Pathogenic	GRCh38	181684
+single nucleotide variant	NM_001018005.2(TPM1):c.496G>A (p.Ala166Thr)	7168	TPM1	Likely pathogenic	GRCh38	228297
+single nucleotide variant	NM_001018005.2(TPM1):c.412G>A (p.Glu138Lys)	7168	TPM1	Likely pathogenic	GRCh38	242912
+single nucleotide variant	NM_001018005.2(TPM1):c.519G>C (p.Glu173Asp)	7168	TPM1	Likely pathogenic	GRCh38	254158
+single nucleotide variant	NM_001018005.2(TPM1):c.250G>A (p.Asp84Asn)	7168	TPM1	Likely pathogenic	GRCh38	264474
+single nucleotide variant	NM_001018005.2(TPM1):c.686C>T (p.Ser229Phe)	7168	TPM1	Likely pathogenic	GRCh38	370040
+single nucleotide variant	NM_001018005.2(TPM1):c.388A>G (p.Ile130Val)	7168	TPM1	Likely pathogenic	GRCh38	370041
+single nucleotide variant	NM_001018005.2(TPM1):c.289G>C (p.Glu97Gln)	7168	TPM1	Likely pathogenic	GRCh38	418523
+single nucleotide variant	NM_001018005.2(TPM1):c.163G>T (p.Asp55Tyr)	7168	TPM1	Likely pathogenic	GRCh38	691666
+single nucleotide variant	NM_001018005.2(TPM1):c.749A>T (p.Glu250Val)	7168	TPM1	Likely pathogenic	GRCh38	691667
+single nucleotide variant	NM_001018005.2(TPM1):c.179A>G (p.Tyr60Cys)	7168	TPM1	Likely pathogenic	GRCh38	803101
+single nucleotide variant	NM_001018005.2(TPM1):c.128T>C (p.Leu43Pro)	7168	TPM1	Likely pathogenic	GRCh38	871069
+single nucleotide variant	NM_001018005.2(TPM1):c.616T>G (p.Ser206Ala)	7168	TPM1	Likely pathogenic	GRCh38	962919
+single nucleotide variant	NM_001018005.2(TPM1):c.251A>C (p.Asp84Ala)	7168	TPM1	Likely pathogenic	GRCh38	987049
+single nucleotide variant	NM_001018005.2(TPM1):c.538G>A (p.Glu180Lys)	7168	TPM1	Likely pathogenic	GRCh38	1002513
+single nucleotide variant	NM_001018005.2(TPM1):c.598G>C (p.Val200Leu)	7168	TPM1	Likely pathogenic	GRCh38	1012347
+single nucleotide variant	NM_001018005.2(TPM1):c.710C>G (p.Thr237Ser)	7168	TPM1	Pathogenic	GRCh38	1067773
+single nucleotide variant	NM_001018005.2(TPM1):c.292G>A (p.Glu98Lys)	7168	TPM1	Pathogenic/Likely pathogenic	GRCh38	1472862
+single nucleotide variant	NM_001018005.2(TPM1):c.541G>C (p.Glu181Gln)	7168	TPM1	Likely pathogenic	GRCh38	1721605
+single nucleotide variant	NM_001018005.2(TPM1):c.656A>T (p.Asp219Val)	7168	TPM1	Likely pathogenic	GRCh38	1727219
+single nucleotide variant	NM_001018005.2(TPM1):c.161A>C (p.Glu54Ala)	7168	TPM1	Likely pathogenic	GRCh38	2834088
+single nucleotide variant	NM_001018005.2(TPM1):c.433G>A (p.Glu145Lys)	7168	TPM1	Likely pathogenic	GRCh38	2833135
+single nucleotide variant	NM_001018005.2(TPM1):c.430C>G (p.Gln144Glu)	7168	TPM1	Likely pathogenic	GRCh38	3075681
+single nucleotide variant	NM_001018005.2(TPM1):c.497C>T (p.Ala166Val)	7168	TPM1	Pathogenic	GRCh38	3340563
+single nucleotide variant	NM_001018005.2(TPM1):c.296T>C (p.Leu99Ser)	7168	TPM1	Likely pathogenic	GRCh38	3381178
+single nucleotide variant	NM_001018005.2(TPM1):c.461T>C (p.Ile154Thr)	7168	TPM1	Likely pathogenic	GRCh38	3460488
+single nucleotide variant	NM_001018005.2(TPM1):c.791A>G (p.Lys264Arg)	7168	TPM1	Likely pathogenic	GRCh38	3775259
+single nucleotide variant	NM_001018005.2(TPM1):c.42C>G (p.Asp14Glu)	7168	TPM1	Likely pathogenic	GRCh38	3780971
+single nucleotide variant	NM_001018005.2(TPM1):c.615G>T (p.Lys205Asn)	7168	TPM1	Likely pathogenic	GRCh38	3895282
+single nucleotide variant	NM_001018005.2(TPM1):c.476A>C (p.Asp159Ala)	7168	TPM1	Likely pathogenic	GRCh38	3897044
+single nucleotide variant	NM_001018005.2(TPM1):c.724G>A (p.Ala242Thr)	7168	TPM1	Likely pathogenic	GRCh38	4085578
+single nucleotide variant	NM_001018005.2(TPM1):c.281T>A (p.Leu94Gln)	7168	TPM1	Pathogenic	GRCh38	4277488
+single nucleotide variant	NM_001018005.2(TPM1):c.435G>T (p.Glu145Asp)	7168	TPM1	Likely pathogenic	GRCh38	4688011
+single nucleotide variant	NM_001018005.2(TPM1):c.553C>T (p.Leu185Phe)	7168	TPM1	Pathogenic	GRCh38	4763869

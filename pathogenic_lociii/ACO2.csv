@@ -1,0 +1,51 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001098.3(ACO2):c.336C>G (p.Ser112Arg)	50	ACO2	Pathogenic	GRCh38	29584
+single nucleotide variant	NM_001098.3(ACO2):c.250C>T (p.Arg84Ter)	50	ACO2	Pathogenic	GRCh38	64477
+single nucleotide variant	NM_001098.3(ACO2):c.776G>A (p.Gly259Asp)	50	ACO2	Pathogenic	GRCh38	189312
+single nucleotide variant	NM_001098.3(ACO2):c.2208G>C (p.Lys736Asn)	50	ACO2	Pathogenic	GRCh38	189313
+single nucleotide variant	NM_001098.3(ACO2):c.1181G>A (p.Gly394Glu)	50	ACO2	Likely pathogenic	GRCh38	224988
+single nucleotide variant	NM_001098.3(ACO2):c.1722G>C (p.Trp574Cys)	50	ACO2	Likely pathogenic	GRCh38	225015
+single nucleotide variant	NM_001098.3(ACO2):c.34C>T (p.Gln12Ter)	50	ACO2	Pathogenic	GRCh38	430056
+single nucleotide variant	NM_001098.3(ACO2):c.172C>T (p.Arg58Ter)	50	ACO2	Pathogenic	GRCh38	441075
+single nucleotide variant	NM_001098.3(ACO2):c.1390G>T (p.Glu464Ter)	50	ACO2	Pathogenic/Likely pathogenic	GRCh38	803705
+single nucleotide variant	NM_001098.3(ACO2):c.2011C>T (p.Arg671Trp)	50	ACO2	Pathogenic/Likely pathogenic	GRCh38	916188
+single nucleotide variant	NM_001098.3(ACO2):c.1240T>G (p.Phe414Val)	50	ACO2	Pathogenic	GRCh38	978053
+single nucleotide variant	NM_001098.3(ACO2):c.1787A>G (p.His596Arg)	50	ACO2	Pathogenic	GRCh38	978054
+single nucleotide variant	NM_001098.3(ACO2):c.1132C>T (p.Arg378Ter)	50	ACO2	Pathogenic/Likely pathogenic	GRCh38	1061997
+single nucleotide variant	NM_001098.3(ACO2):c.1091T>C (p.Val364Ala)	50	ACO2	Pathogenic	GRCh38	1120200
+single nucleotide variant	NM_001098.3(ACO2):c.865G>C (p.Glu289Gln)	50	ACO2	Likely pathogenic	GRCh38	1184574
+single nucleotide variant	NM_001098.3(ACO2):c.927G>C (p.Lys309Asn)	50	ACO2	Likely pathogenic	GRCh38	1184575
+single nucleotide variant	NM_001098.3(ACO2):c.1507G>T (p.Gly503Ter)	50	ACO2	Pathogenic	GRCh38	1213918
+single nucleotide variant	NC_000022.11:g.41468643T>C	50	ACO2	Pathogenic	GRCh38	1301231
+single nucleotide variant	NM_001098.3(ACO2):c.1971G>A (p.Trp657Ter)	50	ACO2	Pathogenic	GRCh38	1454123
+single nucleotide variant	NM_001098.3(ACO2):c.525+1G>A	50	ACO2	Pathogenic	GRCh38	1470169
+single nucleotide variant	NM_001098.3(ACO2):c.1416C>G (p.Tyr472Ter)	50	ACO2	Pathogenic	GRCh38	1401215
+single nucleotide variant	NM_001098.3(ACO2):c.499A>T (p.Lys167Ter)	50	ACO2	Pathogenic	GRCh38	1420778
+single nucleotide variant	NM_001098.3(ACO2):c.1033-2A>T	50	ACO2	Likely pathogenic	GRCh38	1503732
+single nucleotide variant	NM_001098.3(ACO2):c.526-2A>G	50	ACO2	Likely pathogenic	GRCh38	1506722
+single nucleotide variant	NM_001098.3(ACO2):c.173+1G>T	50	ACO2	Likely pathogenic	GRCh38	1521202
+single nucleotide variant	NM_001098.3(ACO2):c.1119G>A (p.Trp373Ter)	50	ACO2	Pathogenic	GRCh38	1413151
+single nucleotide variant	NM_001098.3(ACO2):c.1483-2A>G	50	ACO2	Likely pathogenic	GRCh38	1513443
+single nucleotide variant	NM_001098.3(ACO2):c.1002T>A (p.Tyr334Ter)	50	ACO2	Pathogenic	GRCh38	1435000
+single nucleotide variant	NM_001098.3(ACO2):c.1032+1G>T	50	ACO2	Likely pathogenic	GRCh38	1492681
+single nucleotide variant	NM_001098.3(ACO2):c.1776T>A (p.Cys592Ter)	50	ACO2	Pathogenic	GRCh38	1679318
+single nucleotide variant	NM_001098.3(ACO2):c.940+5G>C	50	ACO2	Pathogenic	GRCh38	1711154
+single nucleotide variant	NM_001098.3(ACO2):c.260C>T (p.Ser87Leu)	50	ACO2	Likely pathogenic	GRCh38	2176547
+single nucleotide variant	NM_001098.3(ACO2):c.397C>T (p.Gln133Ter)	50	ACO2	Pathogenic	GRCh38	1994002
+single nucleotide variant	NM_001098.3(ACO2):c.1912C>T (p.Gln638Ter)	50	ACO2	Pathogenic	GRCh38	2031049
+single nucleotide variant	NM_001098.3(ACO2):c.135T>G (p.Tyr45Ter)	50	ACO2	Pathogenic	GRCh38	2043392
+single nucleotide variant	NM_001098.3(ACO2):c.1139-1G>T	50	ACO2	Likely pathogenic	GRCh38	2053643
+single nucleotide variant	NM_001098.3(ACO2):c.36+2T>A	50	ACO2	Likely pathogenic	GRCh38	2073456
+single nucleotide variant	NM_001098.3(ACO2):c.36G>A (p.Gln12=)	50	ACO2	Likely pathogenic	GRCh38	2506954
+single nucleotide variant	NM_001098.3(ACO2):c.1032+2T>C	50	ACO2	Likely pathogenic	GRCh38	2780457
+single nucleotide variant	NM_001098.3(ACO2):c.665G>A (p.Trp222Ter)	50	ACO2	Pathogenic	GRCh38	2785690
+single nucleotide variant	NM_001098.3(ACO2):c.325C>T (p.Gln109Ter)	50	ACO2	Pathogenic	GRCh38	2862912
+single nucleotide variant	NM_001098.3(ACO2):c.569G>A (p.Gly190Asp)	50	ACO2	Likely pathogenic	GRCh38	3065644
+single nucleotide variant	NM_001098.3(ACO2):c.1300C>T (p.Gln434Ter)	50	ACO2	Pathogenic	GRCh38	3249330
+single nucleotide variant	NM_001098.3(ACO2):c.2209-1G>T	50	ACO2	Likely pathogenic	GRCh38	3250059
+single nucleotide variant	NM_001098.3(ACO2):c.1371-1G>C	50	ACO2	Pathogenic	GRCh38	3250075
+single nucleotide variant	NM_001098.3(ACO2):c.1360C>T (p.Gln454Ter)	50	ACO2	Pathogenic	GRCh38	3250099
+single nucleotide variant	NM_001098.3(ACO2):c.1492G>A (p.Ala498Thr)	50	ACO2	Likely pathogenic	GRCh38	3767184
+single nucleotide variant	NM_001098.3(ACO2):c.664T>C (p.Trp222Arg)	50	ACO2	Likely pathogenic	GRCh38	3897935
+single nucleotide variant	NM_001098.3(ACO2):c.1738G>T (p.Glu580Ter)	50	ACO2	Pathogenic	GRCh38	4723681
+single nucleotide variant	NM_001098.3(ACO2):c.1482+1G>T	50	ACO2	Pathogenic	GRCh38	4849567

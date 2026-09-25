@@ -1,0 +1,59 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_018941.4(CLN8):c.70C>G (p.Arg24Gly)	2055	CLN8	Pathogenic	GRCh38	2802
+single nucleotide variant	NM_018941.4(CLN8):c.789G>C (p.Trp263Cys)	2055	CLN8	Pathogenic	GRCh38	2803
+single nucleotide variant	NM_018941.4(CLN8):c.610C>T (p.Arg204Cys)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	2804
+single nucleotide variant	NM_018941.4(CLN8):c.88G>C (p.Ala30Pro)	2055	CLN8	Pathogenic	GRCh38	2806
+single nucleotide variant	NM_018941.4(CLN8):c.209G>A (p.Arg70His)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	56704
+single nucleotide variant	NM_018941.4(CLN8):c.227A>G (p.Gln76Arg)	2055	CLN8	Likely pathogenic	GRCh38	56705
+single nucleotide variant	NM_018941.4(CLN8):c.320T>G (p.Ile107Ser)	2055	CLN8	Likely pathogenic	GRCh38	56706
+single nucleotide variant	NM_018941.4(CLN8):c.464C>T (p.Ala155Val)	2055	CLN8	Likely pathogenic	GRCh38	56708
+single nucleotide variant	NM_018941.4(CLN8):c.473A>G (p.Tyr158Cys)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	56710
+single nucleotide variant	NM_018941.4(CLN8):c.581A>G (p.Gln194Arg)	2055	CLN8	Likely pathogenic	GRCh38	56714
+single nucleotide variant	NM_018941.4(CLN8):c.766C>G (p.Gln256Glu)	2055	CLN8	Likely pathogenic	GRCh38	56719
+single nucleotide variant	NM_018941.4(CLN8):c.709G>A (p.Gly237Arg)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	188917
+single nucleotide variant	NM_018941.4(CLN8):c.499G>T (p.Glu167Ter)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	205194
+single nucleotide variant	NM_018941.4(CLN8):c.208C>T (p.Arg70Cys)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	242453
+single nucleotide variant	NM_018941.4(CLN8):c.788G>A (p.Trp263Ter)	2055	CLN8	Pathogenic	GRCh38	241289
+single nucleotide variant	NM_018941.4(CLN8):c.543+1G>T	2055	CLN8	Likely pathogenic	GRCh38	371199
+single nucleotide variant	NM_018941.4(CLN8):c.464C>A (p.Ala155Asp)	2055	CLN8	Likely pathogenic	GRCh38	422177
+single nucleotide variant	NM_018941.4(CLN8):c.1A>G (p.Met1Val)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	487522
+single nucleotide variant	NM_018941.4(CLN8):c.92G>A (p.Gly31Asp)	2055	CLN8	Likely pathogenic	GRCh38	521986
+single nucleotide variant	NM_018941.4(CLN8):c.763C>T (p.Gln255Ter)	2055	CLN8	Pathogenic	GRCh38	558594
+single nucleotide variant	NM_018941.4(CLN8):c.283A>T (p.Lys95Ter)	2055	CLN8	Pathogenic	GRCh38	555198
+single nucleotide variant	NM_018941.4(CLN8):c.306G>A (p.Trp102Ter)	2055	CLN8	Likely pathogenic	GRCh38	551061
+single nucleotide variant	NM_018941.4(CLN8):c.398T>A (p.Leu133Ter)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	558034
+single nucleotide variant	NM_018941.4(CLN8):c.544-2A>G	2055	CLN8	Likely pathogenic	GRCh38	552952
+single nucleotide variant	NM_018941.4(CLN8):c.2T>C (p.Met1Thr)	2055	CLN8	Likely pathogenic	GRCh38	555468
+single nucleotide variant	NM_018941.4(CLN8):c.226C>T (p.Gln76Ter)	2055	CLN8	Pathogenic	GRCh38	556399
+single nucleotide variant	NM_018941.4(CLN8):c.312G>A (p.Trp104Ter)	2055	CLN8	Pathogenic	GRCh38	556335
+single nucleotide variant	NM_018941.4(CLN8):c.611G>A (p.Arg204His)	2055	CLN8	Likely pathogenic	GRCh38	557767
+single nucleotide variant	NM_018941.4(CLN8):c.295C>T (p.Gln99Ter)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	654163
+single nucleotide variant	NM_018941.4(CLN8):c.473A>C (p.Tyr158Ser)	2055	CLN8	Likely pathogenic	GRCh38	802387
+single nucleotide variant	NM_018941.4(CLN8):c.311G>A (p.Trp104Ter)	2055	CLN8	Pathogenic	GRCh38	852440
+single nucleotide variant	NM_018941.4(CLN8):c.130C>T (p.Gln44Ter)	2055	CLN8	Pathogenic	GRCh38	1069263
+single nucleotide variant	NM_018941.4(CLN8):c.29C>G (p.Ser10Ter)	2055	CLN8	Pathogenic/Likely pathogenic	GRCh38	1389933
+single nucleotide variant	NM_018941.4(CLN8):c.635G>A (p.Trp212Ter)	2055	CLN8	Pathogenic	GRCh38	1415411
+single nucleotide variant	NM_018941.4(CLN8):c.126C>A (p.Cys42Ter)	2055	CLN8	Pathogenic	GRCh38	1453381
+single nucleotide variant	NM_018941.4(CLN8):c.543+1G>A	2055	CLN8	Pathogenic	GRCh38	1452827
+single nucleotide variant	NM_018941.4(CLN8):c.105C>G (p.Tyr35Ter)	2055	CLN8	Pathogenic	GRCh38	1451868
+single nucleotide variant	NM_018941.4(CLN8):c.539T>A (p.Leu180Ter)	2055	CLN8	Pathogenic	GRCh38	1454579
+single nucleotide variant	NM_018941.4(CLN8):c.544-1G>T	2055	CLN8	Likely pathogenic	GRCh38	1809612
+single nucleotide variant	NM_018941.4(CLN8):c.71G>T (p.Arg24Leu)	2055	CLN8	Likely pathogenic	GRCh38	2157339
+single nucleotide variant	NM_018941.4(CLN8):c.159C>A (p.Tyr53Ter)	2055	CLN8	Pathogenic	GRCh38	2168382
+single nucleotide variant	NM_018941.4(CLN8):c.610C>G (p.Arg204Gly)	2055	CLN8	Likely pathogenic	GRCh38	1919167
+single nucleotide variant	NM_018941.4(CLN8):c.766C>T (p.Gln256Ter)	2055	CLN8	Pathogenic	GRCh38	1958204
+single nucleotide variant	NM_018941.4(CLN8):c.709G>C (p.Gly237Arg)	2055	CLN8	Likely pathogenic	GRCh38	2100686
+single nucleotide variant	NM_018941.4(CLN8):c.447C>A (p.Cys149Ter)	2055	CLN8	Pathogenic	GRCh38	2627378
+single nucleotide variant	NM_018941.4(CLN8):c.607T>C (p.Cys203Arg)	2055	CLN8	Likely pathogenic	GRCh38	2627629
+single nucleotide variant	NM_018941.4(CLN8):c.530G>A (p.Trp177Ter)	2055	CLN8	Pathogenic	GRCh38	2693100
+single nucleotide variant	NM_018941.4(CLN8):c.1A>T (p.Met1Leu)	2055	CLN8	Pathogenic	GRCh38	2749928
+single nucleotide variant	NM_018941.4(CLN8):c.627C>G (p.Tyr209Ter)	2055	CLN8	Pathogenic	GRCh38	2757008
+single nucleotide variant	NM_018941.4(CLN8):c.377T>A (p.Leu126Ter)	2055	CLN8	Pathogenic	GRCh38	2824675
+single nucleotide variant	NM_018941.4(CLN8):c.757A>G (p.Lys253Glu)	2055	CLN8	Likely pathogenic	GRCh38	3234119
+single nucleotide variant	NM_018941.4(CLN8):c.609C>A (p.Cys203Ter)	2055	CLN8	Likely pathogenic	GRCh38	3595453
+single nucleotide variant	NM_018941.4(CLN8):c.191G>A (p.Trp64Ter)	2055	CLN8	Pathogenic	GRCh38	3642414
+single nucleotide variant	NM_018941.4(CLN8):c.551G>A (p.Trp184Ter)	2055	CLN8	Pathogenic	GRCh38	3704394
+single nucleotide variant	NM_018941.4(CLN8):c.620T>G (p.Leu207Arg)	2055	CLN8	Likely pathogenic	GRCh38	3720796
+single nucleotide variant	NM_018941.4(CLN8):c.248G>A (p.Trp83Ter)	2055	CLN8	Pathogenic	GRCh38	4721338
+single nucleotide variant	NM_018941.4(CLN8):c.298C>T (p.Gln100Ter)	2055	CLN8	Pathogenic	GRCh38	4737598
+single nucleotide variant	NM_018941.4(CLN8):c.1A>C (p.Met1Leu)	2055	CLN8	Pathogenic	GRCh38	4803834

@@ -86,7 +86,7 @@ single nucleotide variant	NM_001172509.2(SATB2):c.700+1G>A	23314	SATB2	Likely pa
 single nucleotide variant	NM_001172509.2(SATB2):c.1175G>T (p.Gly392Val)	23314	SATB2	Likely pathogenic	GRCh38	2635127
 single nucleotide variant	NM_001172509.2(SATB2):c.913C>T (p.Gln305Ter)	23314	SATB2	Pathogenic	GRCh38	2671963
 single nucleotide variant	NM_001172509.2(SATB2):c.1741-2A>C	23314	SATB2	Likely pathogenic	GRCh38	2690694
-single nucleotide variant	NM_001172509.2(SATB2):c.346G>A (p.Gly116Arg)	23314	SATB2	Pathogenic	GRCh38	2820987
+single nucleotide variant	NM_001172509.2(SATB2):c.346G>A (p.Gly116Arg)	23314	SATB2	Pathogenic/Likely pathogenic	GRCh38	2820987
 single nucleotide variant	NM_001172509.2(SATB2):c.170-2A>G	23314	SATB2	Likely pathogenic	GRCh38	2823923
 single nucleotide variant	NM_001172509.2(SATB2):c.866T>G (p.Leu289Ter)	23314	SATB2	Likely pathogenic	GRCh38	3024331
 single nucleotide variant	NM_001172509.2(SATB2):c.368G>A (p.Trp123Ter)	23314	SATB2	Pathogenic	GRCh38	3050676
@@ -113,6 +113,6 @@ single nucleotide variant	NM_001172509.2(SATB2):c.728C>A (p.Ser243Ter)	23314	SAT
 single nucleotide variant	NM_001172509.2(SATB2):c.287T>C (p.Leu96Pro)	23314	SATB2	Likely pathogenic	GRCh38	4532614
 single nucleotide variant	NM_001172509.2(SATB2):c.598-1G>A	23314	SATB2	Likely pathogenic	GRCh38	4717876
 single nucleotide variant	NM_001172509.2(SATB2):c.572T>G (p.Leu191Ter)	23314	SATB2	Pathogenic	GRCh38	4818981
-single nucleotide variant	NM_001172509.2(SATB2):c.1147G>A (p.Ala383Thr)	23314	SATB2	Likely pathogenic	GRCh38	4819806
 single nucleotide variant	NM_001172509.2(SATB2):c.1930G>C (p.Ala644Pro)	23314	SATB2	Likely pathogenic	GRCh38	4833035
 single nucleotide variant	NM_001172509.2(SATB2):c.1190T>G (p.Ile397Ser)	23314	SATB2	Likely pathogenic	GRCh38	4852192
+single nucleotide variant	NM_001172509.2(SATB2):c.1172A>G (p.Gln391Arg)	23314	SATB2	Pathogenic	GRCh38	4888068

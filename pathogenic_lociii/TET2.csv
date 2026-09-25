@@ -1,0 +1,64 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001127208.3(TET2):c.1864C>T (p.Gln622Ter)	54790	TET2	Pathogenic/Likely pathogenic	GRCh38	1176034
+single nucleotide variant	NM_001127208.3(TET2):c.3589A>G (p.Lys1197Glu)	54790	TET2	Pathogenic	GRCh38	1176035
+single nucleotide variant	NM_001127208.3(TET2):c.3562A>T (p.Lys1188Ter)	54790	TET2	Pathogenic	GRCh38	1679818
+single nucleotide variant	NM_001127208.3(TET2):c.1588C>T (p.Gln530Ter)	54790	TET2	Likely pathogenic	GRCh38	1695103
+single nucleotide variant	NM_001127208.3(TET2):c.4210C>T (p.Arg1404Ter)	54790	TET2	Pathogenic	GRCh38	2190715
+single nucleotide variant	NM_001127208.3(TET2):c.4393C>T (p.Arg1465Ter)	54790	TET2	Pathogenic	GRCh38	1899776
+single nucleotide variant	NM_001127208.3(TET2):c.1630C>T (p.Arg544Ter)	54790	TET2	Pathogenic/Likely pathogenic	GRCh38	1967918
+single nucleotide variant	NM_001127208.3(TET2):c.2697T>G (p.Tyr899Ter)	54790	TET2	Pathogenic	GRCh38	1998748
+single nucleotide variant	NM_001127208.3(TET2):c.3765C>A (p.Tyr1255Ter)	54790	TET2	Pathogenic	GRCh38	2033736
+single nucleotide variant	NM_001127208.3(TET2):c.3061C>T (p.Gln1021Ter)	54790	TET2	Pathogenic	GRCh38	2131122
+single nucleotide variant	NM_001127208.3(TET2):c.1061C>G (p.Ser354Ter)	54790	TET2	Pathogenic	GRCh38	2133052
+single nucleotide variant	NM_001127208.3(TET2):c.3409+1G>A	54790	TET2	Likely pathogenic	GRCh38	2681588
+single nucleotide variant	NM_001127208.3(TET2):c.3954+5G>A	54790	TET2	Pathogenic	GRCh38	2681589
+single nucleotide variant	NM_001127208.3(TET2):c.3955-2A>G	54790	TET2	Likely pathogenic	GRCh38	2681590
+single nucleotide variant	NM_001127208.3(TET2):c.340C>T (p.Gln114Ter)	54790	TET2	Pathogenic	GRCh38	2681594
+single nucleotide variant	NM_001127208.3(TET2):c.3571C>T (p.Gln1191Ter)	54790	TET2	Pathogenic	GRCh38	2681595
+single nucleotide variant	NM_001127208.3(TET2):c.2224C>T (p.Gln742Ter)	54790	TET2	Pathogenic	GRCh38	2681597
+single nucleotide variant	NM_001127208.3(TET2):c.2227C>T (p.Gln743Ter)	54790	TET2	Pathogenic	GRCh38	2681598
+single nucleotide variant	NM_001127208.3(TET2):c.1648C>T (p.Arg550Ter)	54790	TET2	Pathogenic	GRCh38	2681601
+single nucleotide variant	NM_001127208.3(TET2):c.5393C>G (p.Ser1798Ter)	54790	TET2	Pathogenic	GRCh38	2681603
+single nucleotide variant	NM_001127208.3(TET2):c.1526C>G (p.Ser509Ter)	54790	TET2	Pathogenic	GRCh38	2681604
+single nucleotide variant	NM_001127208.3(TET2):c.576C>A (p.Tyr192Ter)	54790	TET2	Pathogenic	GRCh38	2681605
+single nucleotide variant	NM_001127208.3(TET2):c.3202C>T (p.Gln1068Ter)	54790	TET2	Pathogenic	GRCh38	2702318
+single nucleotide variant	NM_001127208.3(TET2):c.1860C>G (p.Tyr620Ter)	54790	TET2	Pathogenic	GRCh38	2703329
+single nucleotide variant	NM_001127208.3(TET2):c.2428C>T (p.Gln810Ter)	54790	TET2	Pathogenic	GRCh38	2709096
+single nucleotide variant	NM_001127208.3(TET2):c.3496G>T (p.Glu1166Ter)	54790	TET2	Pathogenic	GRCh38	2725392
+single nucleotide variant	NM_001127208.3(TET2):c.2141C>G (p.Ser714Ter)	54790	TET2	Pathogenic	GRCh38	2746680
+single nucleotide variant	NM_001127208.3(TET2):c.4429G>T (p.Glu1477Ter)	54790	TET2	Pathogenic	GRCh38	2752962
+single nucleotide variant	NM_001127208.3(TET2):c.3594+1G>C	54790	TET2	Likely pathogenic	GRCh38	2771954
+single nucleotide variant	NM_001127208.3(TET2):c.1930C>T (p.Gln644Ter)	54790	TET2	Pathogenic	GRCh38	2808802
+single nucleotide variant	NM_001127208.3(TET2):c.1337T>G (p.Leu446Ter)	54790	TET2	Pathogenic	GRCh38	2802851
+single nucleotide variant	NM_001127208.3(TET2):c.949C>T (p.Gln317Ter)	54790	TET2	Pathogenic	GRCh38	2804562
+single nucleotide variant	NM_001127208.3(TET2):c.2525C>G (p.Ser842Ter)	54790	TET2	Pathogenic	GRCh38	2816605
+single nucleotide variant	NM_001127208.3(TET2):c.553C>T (p.Gln185Ter)	54790	TET2	Pathogenic	GRCh38	2819430
+single nucleotide variant	NM_001127208.3(TET2):c.2020C>T (p.Gln674Ter)	54790	TET2	Pathogenic	GRCh38	2837951
+single nucleotide variant	NM_001127208.3(TET2):c.3250C>T (p.Gln1084Ter)	54790	TET2	Pathogenic	GRCh38	2856415
+single nucleotide variant	NM_001127208.3(TET2):c.346C>T (p.Gln116Ter)	54790	TET2	Pathogenic	GRCh38	2873113
+single nucleotide variant	NM_001127208.3(TET2):c.2185C>T (p.Gln729Ter)	54790	TET2	Pathogenic	GRCh38	2995016
+single nucleotide variant	NM_001127208.3(TET2):c.832C>T (p.Gln278Ter)	54790	TET2	Pathogenic	GRCh38	3000171
+single nucleotide variant	NM_001127208.3(TET2):c.3088C>T (p.Gln1030Ter)	54790	TET2	Pathogenic	GRCh38	3017694
+single nucleotide variant	NM_001127208.3(TET2):c.1264G>T (p.Gly422Ter)	54790	TET2	Pathogenic	GRCh38	3017246
+single nucleotide variant	NM_001127208.3(TET2):c.1954C>T (p.Gln652Ter)	54790	TET2	Pathogenic	GRCh38	3621564
+single nucleotide variant	NM_001127208.3(TET2):c.3149C>A (p.Ser1050Ter)	54790	TET2	Pathogenic	GRCh38	3651863
+single nucleotide variant	NM_001127208.3(TET2):c.2884C>T (p.Gln962Ter)	54790	TET2	Pathogenic	GRCh38	3657812
+single nucleotide variant	NM_001127208.3(TET2):c.4045-2A>C	54790	TET2	Likely pathogenic	GRCh38	3660550
+single nucleotide variant	NM_001127208.3(TET2):c.4183-1G>C	54790	TET2	Likely pathogenic	GRCh38	3660845
+single nucleotide variant	NM_001127208.3(TET2):c.2176C>T (p.Gln726Ter)	54790	TET2	Pathogenic	GRCh38	3668400
+single nucleotide variant	NM_001127208.3(TET2):c.3151C>T (p.Gln1051Ter)	54790	TET2	Pathogenic	GRCh38	3681107
+single nucleotide variant	NM_001127208.3(TET2):c.1249C>T (p.Gln417Ter)	54790	TET2	Pathogenic	GRCh38	3696786
+single nucleotide variant	NM_001127208.3(TET2):c.3594+1G>T	54790	TET2	Likely pathogenic	GRCh38	3691064
+single nucleotide variant	NM_001127208.3(TET2):c.2596C>T (p.Gln866Ter)	54790	TET2	Pathogenic	GRCh38	3698077
+single nucleotide variant	NM_001127208.3(TET2):c.3594+1G>A	54790	TET2	Likely pathogenic	GRCh38	3687387
+single nucleotide variant	NM_001127208.3(TET2):c.2646C>A (p.Cys882Ter)	54790	TET2	Pathogenic	GRCh38	3723289
+single nucleotide variant	NM_001127208.3(TET2):c.3646C>T (p.Arg1216Ter)	54790	TET2	Pathogenic	GRCh38	3765062
+single nucleotide variant	NM_001127208.3(TET2):c.2671C>T (p.Gln891Ter)	54790	TET2	Likely pathogenic	GRCh38	3766617
+single nucleotide variant	NM_001127208.3(TET2):c.3100C>T (p.Gln1034Ter)	54790	TET2	Likely pathogenic	GRCh38	4085333
+single nucleotide variant	NM_001127208.3(TET2):c.2457T>A (p.Tyr819Ter)	54790	TET2	Pathogenic	GRCh38	4726589
+single nucleotide variant	NM_001127208.3(TET2):c.1720C>T (p.Gln574Ter)	54790	TET2	Pathogenic	GRCh38	4733822
+single nucleotide variant	NM_001127208.3(TET2):c.1576C>T (p.Gln526Ter)	54790	TET2	Pathogenic	GRCh38	4750524
+single nucleotide variant	NM_001127208.3(TET2):c.3247C>T (p.Gln1083Ter)	54790	TET2	Pathogenic	GRCh38	4767774
+single nucleotide variant	NM_001127208.3(TET2):c.4011T>A (p.Tyr1337Ter)	54790	TET2	Pathogenic	GRCh38	4772713
+single nucleotide variant	NM_001127208.3(TET2):c.2689C>T (p.Gln897Ter)	54790	TET2	Pathogenic	GRCh38	4822805
+single nucleotide variant	NM_001127208.3(TET2):c.2321C>A (p.Ser774Ter)	54790	TET2	Likely pathogenic	GRCh38	4880617

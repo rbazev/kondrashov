@@ -1,0 +1,65 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000266.4(NDP):c.224C>G (p.Ser75Cys)	4693	NDP	Likely pathogenic	GRCh38	10680
+single nucleotide variant	NM_000266.4(NDP):c.179T>A (p.Val60Glu)	4693	NDP	Pathogenic	GRCh38	10681
+single nucleotide variant	NM_000266.4(NDP):c.131A>G (p.Tyr44Cys)	4693	NDP	Likely pathogenic	GRCh38	10682
+single nucleotide variant	NM_000266.4(NDP):c.287G>A (p.Cys96Tyr)	4693	NDP	Pathogenic	GRCh38	10683
+single nucleotide variant	NM_000266.4(NDP):c.370C>T (p.Leu124Phe)	4693	NDP	Pathogenic	GRCh38	10684
+single nucleotide variant	NM_000266.4(NDP):c.206G>C (p.Cys69Ser)	4693	NDP	Pathogenic	GRCh38	10685
+single nucleotide variant	NM_000266.4(NDP):c.384C>A (p.Cys128Ter)	4693	NDP	Pathogenic	GRCh38	10686
+single nucleotide variant	NM_000266.4(NDP):c.1A>G (p.Met1Val)	4693	NDP	Pathogenic	GRCh38	10687
+single nucleotide variant	NM_000266.4(NDP):c.361C>T (p.Arg121Trp)	4693	NDP	Pathogenic/Likely pathogenic	GRCh38	10688
+single nucleotide variant	NM_000266.4(NDP):c.38T>G (p.Leu13Arg)	4693	NDP	Pathogenic	GRCh38	10689
+single nucleotide variant	NM_000266.4(NDP):c.181C>T (p.Leu61Phe)	4693	NDP	Pathogenic	GRCh38	10690
+single nucleotide variant	NM_000266.4(NDP):c.125A>G (p.His42Arg)	4693	NDP	Pathogenic	GRCh38	10691
+single nucleotide variant	NM_000266.4(NDP):c.313G>A (p.Ala105Thr)	4693	NDP	Pathogenic	GRCh38	10693
+single nucleotide variant	NM_000266.4(NDP):c.328T>G (p.Cys110Gly)	4693	NDP	Pathogenic	GRCh38	10694
+single nucleotide variant	NM_000266.4(NDP):c.362G>T (p.Arg121Leu)	4693	NDP	Pathogenic	GRCh38	10695
+single nucleotide variant	NM_000266.4(NDP):c.288C>G (p.Cys96Trp)	4693	NDP	Pathogenic	GRCh38	10696
+single nucleotide variant	NM_000266.4(NDP):c.134T>A (p.Val45Glu)	4693	NDP	Pathogenic	GRCh38	10697
+single nucleotide variant	NM_000266.4(NDP):c.218C>A (p.Ser73Ter)	4693	NDP	Pathogenic	GRCh38	10698
+single nucleotide variant	NM_000266.4(NDP):c.302C>T (p.Ser101Phe)	4693	NDP	Pathogenic	GRCh38	10699
+single nucleotide variant	NM_000266.4(NDP):c.109C>T (p.Arg37Ter)	4693	NDP	Pathogenic/Likely pathogenic	GRCh38	92699
+single nucleotide variant	NM_000266.4(NDP):c.220C>T (p.Arg74Cys)	4693	NDP	Pathogenic	GRCh38	167326
+single nucleotide variant	NM_000266.4(NDP):c.325C>T (p.Arg109Ter)	4693	NDP	Pathogenic	GRCh38	285135
+single nucleotide variant	NM_000266.4(NDP):c.155T>A (p.Leu52Ter)	4693	NDP	Pathogenic/Likely pathogenic	GRCh38	285413
+single nucleotide variant	NM_000266.4(NDP):c.314C>T (p.Ala105Val)	4693	NDP	Likely pathogenic	GRCh38	374014
+single nucleotide variant	NM_000266.4(NDP):c.268C>T (p.Arg90Cys)	4693	NDP	Likely pathogenic	GRCh38	373948
+single nucleotide variant	NM_000266.4(NDP):c.267C>G (p.Phe89Leu)	4693	NDP	Likely pathogenic	GRCh38	378238
+single nucleotide variant	NM_000266.4(NDP):c.200G>T (p.Gly67Val)	4693	NDP	Likely pathogenic	GRCh38	522928
+single nucleotide variant	NM_000266.4(NDP):c.393C>A (p.Cys131Ter)	4693	NDP	Likely pathogenic	GRCh38	962350
+single nucleotide variant	NM_000266.4(NDP):c.112C>T (p.Arg38Cys)	4693	NDP	Pathogenic	GRCh38	987301
+single nucleotide variant	NM_000266.4(NDP):c.196G>T (p.Glu66Ter)	4693	NDP	Pathogenic	GRCh38	1072592
+single nucleotide variant	NM_000266.4(NDP):c.355A>C (p.Thr119Pro)	4693	NDP	Likely pathogenic	GRCh38	1172720
+single nucleotide variant	NM_000266.4(NDP):c.58G>T (p.Gly20Ter)	4693	NDP	Pathogenic	GRCh38	1213861
+single nucleotide variant	NM_000266.4(NDP):c.329G>T (p.Cys110Phe)	4693	NDP	Likely pathogenic	GRCh38	1219131
+single nucleotide variant	NM_000266.4(NDP):c.242T>C (p.Phe81Ser)	4693	NDP	Likely pathogenic	GRCh38	1339550
+single nucleotide variant	NM_000266.4(NDP):c.196G>A (p.Glu66Lys)	4693	NDP	Pathogenic	GRCh38	1511645
+single nucleotide variant	NM_000266.4(NDP):c.288C>A (p.Cys96Ter)	4693	NDP	Pathogenic	GRCh38	1459580
+single nucleotide variant	NM_000266.4(NDP):c.307C>G (p.Leu103Val)	4693	NDP	Likely pathogenic	GRCh38	1805158
+single nucleotide variant	NM_000266.4(NDP):c.338G>A (p.Gly113Asp)	4693	NDP	Likely pathogenic	GRCh38	2138555
+single nucleotide variant	NM_000266.4(NDP):c.335G>A (p.Gly112Glu)	4693	NDP	Pathogenic	GRCh38	2138556
+single nucleotide variant	NM_000266.4(NDP):c.118A>G (p.Met40Val)	4693	NDP	Likely pathogenic	GRCh38	2169644
+single nucleotide variant	NM_000266.4(NDP):c.174+1G>A	4693	NDP	Pathogenic	GRCh38	2021859
+single nucleotide variant	NM_000266.4(NDP):c.388G>T (p.Glu130Ter)	4693	NDP	Likely pathogenic	GRCh38	2430453
+single nucleotide variant	NM_000266.4(NDP):c.310A>T (p.Lys104Ter)	4693	NDP	Pathogenic	GRCh38	2693748
+single nucleotide variant	NM_000266.4(NDP):c.368T>A (p.Ile123Asn)	4693	NDP	Likely pathogenic	GRCh38	2737210
+single nucleotide variant	NM_000266.4(NDP):c.343C>T (p.Arg115Ter)	4693	NDP	Pathogenic	GRCh38	2737212
+single nucleotide variant	NM_000266.4(NDP):c.295C>T (p.Gln99Ter)	4693	NDP	Pathogenic	GRCh38	2737214
+single nucleotide variant	NM_000266.4(NDP):c.199G>T (p.Gly67Trp)	4693	NDP	Pathogenic	GRCh38	3237510
+single nucleotide variant	NM_000266.4(NDP):c.181C>A (p.Leu61Ile)	4693	NDP	Likely pathogenic	GRCh38	3242164
+single nucleotide variant	NM_000266.4(NDP):c.162G>C (p.Lys54Asn)	4693	NDP	Pathogenic	GRCh38	3248708
+single nucleotide variant	NM_000266.4(NDP):c.362G>A (p.Arg121Gln)	4693	NDP	Pathogenic	GRCh38	3249058
+single nucleotide variant	NM_000266.4(NDP):c.310A>C (p.Lys104Gln)	4693	NDP	Pathogenic	GRCh38	3249783
+single nucleotide variant	NM_000266.4(NDP):c.330C>A (p.Cys110Ter)	4693	NDP	Pathogenic	GRCh38	3249823
+single nucleotide variant	NM_000266.4(NDP):c.378T>A (p.Cys126Ter)	4693	NDP	Pathogenic	GRCh38	3249907
+single nucleotide variant	NM_000266.4(NDP):c.174+1G>C	4693	NDP	Pathogenic	GRCh38	3338823
+single nucleotide variant	NM_000266.4(NDP):c.384C>G (p.Cys128Trp)	4693	NDP	Pathogenic	GRCh38	3381811
+single nucleotide variant	NM_000266.4(NDP):c.143T>C (p.Ile48Thr)	4693	NDP	Likely pathogenic	GRCh38	3390853
+single nucleotide variant	NM_000266.4(NDP):c.265T>C (p.Phe89Leu)	4693	NDP	Pathogenic	GRCh38	3653663
+single nucleotide variant	NM_000266.4(NDP):c.128A>G (p.His43Arg)	4693	NDP	Likely pathogenic	GRCh38	3898476
+single nucleotide variant	NM_000266.4(NDP):c.329G>A (p.Cys110Tyr)	4693	NDP	Likely pathogenic	GRCh38	4085992
+single nucleotide variant	NM_000266.4(NDP):c.376T>C (p.Cys126Arg)	4693	NDP	Likely pathogenic	GRCh38	4710739
+single nucleotide variant	NM_000266.4(NDP):c.353C>A (p.Ala118Asp)	4693	NDP	Pathogenic	GRCh38	4710741
+single nucleotide variant	NM_000266.4(NDP):c.122G>A (p.Arg41Lys)	4693	NDP	Pathogenic	GRCh38	4710743
+single nucleotide variant	NM_000266.4(NDP):c.181C>G (p.Leu61Val)	4693	NDP	Likely pathogenic	GRCh38	4711426
+single nucleotide variant	NM_000266.4(NDP):c.159C>G (p.Tyr53Ter)	4693	NDP	Pathogenic/Likely pathogenic	GRCh38	4850071

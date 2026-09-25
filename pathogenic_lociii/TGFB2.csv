@@ -1,0 +1,56 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003238.6(TGFB2):c.1013C>A (p.Pro338His)	7042	TGFB2	Pathogenic	GRCh38	37085
+single nucleotide variant	NM_003238.6(TGFB2):c.687C>A (p.Cys229Ter)	7042	TGFB2	Pathogenic	GRCh38	37088
+single nucleotide variant	NM_003238.6(TGFB2):c.544C>T (p.Gln182Ter)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	180536
+single nucleotide variant	NM_003238.6(TGFB2):c.583G>T (p.Glu195Ter)	7042	TGFB2	Pathogenic	GRCh38	213841
+single nucleotide variant	NM_003238.6(TGFB2):c.895C>T (p.Arg299Trp)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	213845
+single nucleotide variant	NM_003238.6(TGFB2):c.953G>T (p.Cys318Phe)	7042	TGFB2	Likely pathogenic	GRCh38	213846
+single nucleotide variant	NM_003238.6(TGFB2):c.391C>T (p.Arg131Ter)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	222832
+single nucleotide variant	NM_003238.6(TGFB2):c.297C>A (p.Tyr99Ter)	7042	TGFB2	Pathogenic	GRCh38	224874
+single nucleotide variant	NM_003238.6(TGFB2):c.904C>T (p.Arg302Cys)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	224872
+single nucleotide variant	NM_003238.6(TGFB2):c.904C>A (p.Arg302Ser)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	239515
+single nucleotide variant	NM_003238.6(TGFB2):c.644-2A>G	7042	TGFB2	Likely pathogenic	GRCh38	372857
+single nucleotide variant	NM_003238.6(TGFB2):c.896G>A (p.Arg299Gln)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	381708
+single nucleotide variant	NM_003238.6(TGFB2):c.1140C>G (p.Cys380Trp)	7042	TGFB2	Likely pathogenic	GRCh38	382809
+single nucleotide variant	NM_003238.6(TGFB2):c.213C>A (p.Tyr71Ter)	7042	TGFB2	Pathogenic	GRCh38	379573
+single nucleotide variant	NM_003238.6(TGFB2):c.932G>A (p.Arg311Lys)	7042	TGFB2	Likely pathogenic	GRCh38	418514
+single nucleotide variant	NM_003238.6(TGFB2):c.905G>A (p.Arg302His)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	440982
+single nucleotide variant	NM_003238.6(TGFB2):c.346+1G>A	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	453158
+single nucleotide variant	NM_003238.6(TGFB2):c.932+1G>A	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	449107
+single nucleotide variant	NM_003238.6(TGFB2):c.958C>T (p.Arg320Cys)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	495213
+single nucleotide variant	NM_003238.6(TGFB2):c.1023C>A (p.Tyr341Ter)	7042	TGFB2	Pathogenic	GRCh38	520197
+single nucleotide variant	NM_003238.6(TGFB2):c.1139G>T (p.Cys380Phe)	7042	TGFB2	Likely pathogenic	GRCh38	520201
+single nucleotide variant	NM_003238.6(TGFB2):c.346+1G>T	7042	TGFB2	Likely pathogenic	GRCh38	575492
+single nucleotide variant	NM_003238.6(TGFB2):c.1062G>A (p.Trp354Ter)	7042	TGFB2	Pathogenic	GRCh38	576624
+single nucleotide variant	NM_003238.6(TGFB2):c.346+1G>C	7042	TGFB2	Likely pathogenic	GRCh38	636492
+single nucleotide variant	NM_003238.6(TGFB2):c.297C>G (p.Tyr99Ter)	7042	TGFB2	Pathogenic	GRCh38	837843
+single nucleotide variant	NM_003238.6(TGFB2):c.1086+2T>C	7042	TGFB2	Likely pathogenic	GRCh38	917703
+single nucleotide variant	NM_003238.6(TGFB2):c.490C>T (p.Gln164Ter)	7042	TGFB2	Pathogenic	GRCh38	965178
+single nucleotide variant	NM_003238.6(TGFB2):c.274G>T (p.Glu92Ter)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	1075660
+single nucleotide variant	NM_003238.6(TGFB2):c.404C>G (p.Ser135Ter)	7042	TGFB2	Pathogenic	GRCh38	1076183
+single nucleotide variant	NM_003238.6(TGFB2):c.463C>T (p.Gln155Ter)	7042	TGFB2	Likely pathogenic	GRCh38	1254587
+single nucleotide variant	NM_003238.6(TGFB2):c.1012C>A (p.Pro338Thr)	7042	TGFB2	Pathogenic	GRCh38	1300138
+single nucleotide variant	NM_003238.6(TGFB2):c.145A>T (p.Lys49Ter)	7042	TGFB2	Pathogenic	GRCh38	1451388
+single nucleotide variant	NM_003238.6(TGFB2):c.171T>A (p.Tyr57Ter)	7042	TGFB2	Pathogenic	GRCh38	1452940
+single nucleotide variant	NM_003238.6(TGFB2):c.754+1G>A	7042	TGFB2	Likely pathogenic	GRCh38	1709165
+single nucleotide variant	NM_003238.6(TGFB2):c.933-1G>A	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	1804996
+single nucleotide variant	NM_003238.6(TGFB2):c.127C>T (p.Gln43Ter)	7042	TGFB2	Pathogenic	GRCh38	1804997
+single nucleotide variant	NM_003238.6(TGFB2):c.589G>T (p.Glu197Ter)	7042	TGFB2	Pathogenic	GRCh38	2151918
+single nucleotide variant	NM_003238.6(TGFB2):c.655G>T (p.Gly219Ter)	7042	TGFB2	Pathogenic	GRCh38	2002460
+single nucleotide variant	NM_003238.6(TGFB2):c.817A>T (p.Lys273Ter)	7042	TGFB2	Likely pathogenic	GRCh38	2442942
+single nucleotide variant	NM_003238.6(TGFB2):c.1101T>G (p.Tyr367Ter)	7042	TGFB2	Likely pathogenic	GRCh38	2452017
+single nucleotide variant	NM_003238.6(TGFB2):c.643+1G>A	7042	TGFB2	Pathogenic	GRCh38	2576784
+single nucleotide variant	NM_003238.6(TGFB2):c.933-2A>C	7042	TGFB2	Likely pathogenic	GRCh38	2699581
+single nucleotide variant	NM_003238.6(TGFB2):c.678T>A (p.Cys226Ter)	7042	TGFB2	Pathogenic	GRCh38	2730244
+single nucleotide variant	NM_003238.6(TGFB2):c.301A>T (p.Lys101Ter)	7042	TGFB2	Pathogenic	GRCh38	2846615
+single nucleotide variant	NM_003238.6(TGFB2):c.995G>A (p.Trp332Ter)	7042	TGFB2	Likely pathogenic	GRCh38	3075818
+single nucleotide variant	NM_003238.6(TGFB2):c.511-1G>C	7042	TGFB2	Likely pathogenic	GRCh38	3344939
+single nucleotide variant	NM_003238.6(TGFB2):c.814A>T (p.Lys272Ter)	7042	TGFB2	Pathogenic/Likely pathogenic	GRCh38	3360082
+single nucleotide variant	NM_003238.6(TGFB2):c.235C>T (p.Gln79Ter)	7042	TGFB2	Pathogenic	GRCh38	3629834
+single nucleotide variant	NM_003238.6(TGFB2):c.625G>T (p.Glu209Ter)	7042	TGFB2	Likely pathogenic	GRCh38	4536230
+single nucleotide variant	NM_003238.6(TGFB2):c.940C>T (p.Gln314Ter)	7042	TGFB2	Pathogenic	GRCh38	4537839
+single nucleotide variant	NM_003238.6(TGFB2):c.1042G>A (p.Gly348Arg)	7042	TGFB2	Pathogenic	GRCh38	4635575
+single nucleotide variant	NM_003238.6(TGFB2):c.1239C>A (p.Cys413Ter)	7042	TGFB2	Likely pathogenic	GRCh38	4686182
+single nucleotide variant	NM_003238.6(TGFB2):c.644-1G>C	7042	TGFB2	Likely pathogenic	GRCh38	4721672
+single nucleotide variant	NM_003238.6(TGFB2):c.268G>T (p.Glu90Ter)	7042	TGFB2	Pathogenic	GRCh38	4730781
+single nucleotide variant	NM_003238.6(TGFB2):c.510+1G>A	7042	TGFB2	Likely pathogenic	GRCh38	4727313

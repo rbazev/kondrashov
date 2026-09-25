@@ -1,0 +1,70 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003919.3(SGCE):c.289C>T (p.Arg97Ter)	8910	SGCE	Pathogenic	GRCh38	5768
+single nucleotide variant	NM_003919.3(SGCE):c.304C>T (p.Arg102Ter)	8910	SGCE	Pathogenic	GRCh38	5769
+single nucleotide variant	NM_003919.3(SGCE):c.587T>G (p.Leu196Arg)	8910	SGCE	Pathogenic	GRCh38	5773
+single nucleotide variant	NM_003919.3(SGCE):c.1114C>T (p.Arg372Ter)	8910	SGCE	Pathogenic	GRCh38	5776
+single nucleotide variant	NM_003919.3(SGCE):c.709C>T (p.Arg237Ter)	8910	SGCE	Pathogenic	GRCh38	94384
+single nucleotide variant	NM_003919.3(SGCE):c.299G>A (p.Trp100Ter)	8910	SGCE	Pathogenic	GRCh38	280479
+single nucleotide variant	NM_003919.3(SGCE):c.232+1G>T	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	372800
+single nucleotide variant	NM_003919.3(SGCE):c.551T>C (p.Leu184Pro)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	420156
+single nucleotide variant	NM_003919.3(SGCE):c.193G>T (p.Glu65Ter)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	425421
+single nucleotide variant	NM_003919.3(SGCE):c.707T>G (p.Leu236Ter)	8910	SGCE	Likely pathogenic	GRCh38	444724
+single nucleotide variant	NM_003919.3(SGCE):c.402C>A (p.Tyr134Ter)	8910	SGCE	Pathogenic	GRCh38	448357
+single nucleotide variant	NM_003919.3(SGCE):c.733C>T (p.Gln245Ter)	8910	SGCE	Pathogenic	GRCh38	532786
+single nucleotide variant	NM_003919.3(SGCE):c.727C>T (p.Gln243Ter)	8910	SGCE	Pathogenic	GRCh38	532790
+single nucleotide variant	NM_003919.3(SGCE):c.841C>T (p.Gln281Ter)	8910	SGCE	Pathogenic	GRCh38	575722
+single nucleotide variant	NM_003919.3(SGCE):c.838A>T (p.Lys280Ter)	8910	SGCE	Pathogenic	GRCh38	586568
+single nucleotide variant	NM_003919.3(SGCE):c.232+1G>A	8910	SGCE	Pathogenic	GRCh38	586564
+single nucleotide variant	NM_003919.3(SGCE):c.810G>A (p.Trp270Ter)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	624290
+single nucleotide variant	NM_003919.3(SGCE):c.463+1G>A	8910	SGCE	Pathogenic	GRCh38	654935
+single nucleotide variant	NM_003919.3(SGCE):c.793C>T (p.Gln265Ter)	8910	SGCE	Pathogenic	GRCh38	802337
+single nucleotide variant	NM_003919.3(SGCE):c.812G>A (p.Cys271Tyr)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	807490
+single nucleotide variant	NM_003919.3(SGCE):c.742T>A (p.Cys248Ser)	8910	SGCE	Likely pathogenic	GRCh38	807491
+single nucleotide variant	NM_003919.3(SGCE):c.314A>G (p.Gln105Arg)	8910	SGCE	Pathogenic	GRCh38	807492
+single nucleotide variant	NM_003919.3(SGCE):c.170T>G (p.Leu57Arg)	8910	SGCE	Likely pathogenic	GRCh38	807493
+single nucleotide variant	NM_003919.3(SGCE):c.663-1G>A	8910	SGCE	Pathogenic	GRCh38	916287
+single nucleotide variant	NM_003919.3(SGCE):c.109+2T>C	8910	SGCE	Pathogenic	GRCh38	1067508
+single nucleotide variant	NM_003919.3(SGCE):c.942C>A (p.Tyr314Ter)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	1069378
+single nucleotide variant	NM_003919.3(SGCE):c.109+1G>A	8910	SGCE	Pathogenic	GRCh38	1069379
+single nucleotide variant	NM_003919.3(SGCE):c.662G>T (p.Gly221Val)	8910	SGCE	Pathogenic	GRCh38	1172914
+single nucleotide variant	NM_003919.3(SGCE):c.751G>T (p.Glu251Ter)	8910	SGCE	Pathogenic	GRCh38	1321115
+single nucleotide variant	NM_003919.3(SGCE):c.391-1G>A	8910	SGCE	Pathogenic	GRCh38	1342071
+single nucleotide variant	NM_003919.3(SGCE):c.463+2T>A	8910	SGCE	Pathogenic	GRCh38	1426795
+single nucleotide variant	NM_003919.3(SGCE):c.663-2A>T	8910	SGCE	Pathogenic	GRCh38	1454062
+single nucleotide variant	NM_003919.3(SGCE):c.1065-2A>G	8910	SGCE	Likely pathogenic	GRCh38	1497970
+single nucleotide variant	NM_003919.3(SGCE):c.895G>T (p.Gly299Ter)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	1446049
+single nucleotide variant	NM_003919.3(SGCE):c.662+2T>A	8910	SGCE	Likely pathogenic	GRCh38	1503913
+single nucleotide variant	NM_003919.3(SGCE):c.813C>A (p.Cys271Ter)	8910	SGCE	Pathogenic	GRCh38	1451845
+single nucleotide variant	NM_003919.3(SGCE):c.903C>A (p.Tyr301Ter)	8910	SGCE	Pathogenic	GRCh38	1451374
+single nucleotide variant	NM_003919.3(SGCE):c.344A>G (p.Tyr115Cys)	8910	SGCE	Pathogenic	GRCh38	1454493
+single nucleotide variant	NM_003919.3(SGCE):c.942C>G (p.Tyr314Ter)	8910	SGCE	Pathogenic	GRCh38	1429282
+single nucleotide variant	NM_003919.3(SGCE):c.153C>G (p.Tyr51Ter)	8910	SGCE	Pathogenic	GRCh38	1404117
+single nucleotide variant	NM_003919.3(SGCE):c.825+1G>A	8910	SGCE	Pathogenic	GRCh38	1678758
+single nucleotide variant	NM_003919.3(SGCE):c.778A>T (p.Lys260Ter)	8910	SGCE	Pathogenic	GRCh38	1804048
+single nucleotide variant	NM_003919.3(SGCE):c.491T>C (p.Phe164Ser)	8910	SGCE	Likely pathogenic	GRCh38	1804050
+single nucleotide variant	NM_003919.3(SGCE):c.272T>G (p.Leu91Ter)	8910	SGCE	Pathogenic	GRCh38	1804051
+single nucleotide variant	NM_003919.3(SGCE):c.826-1G>A	8910	SGCE	Pathogenic	GRCh38	1807450
+single nucleotide variant	NM_003919.3(SGCE):c.903C>G (p.Tyr301Ter)	8910	SGCE	Pathogenic	GRCh38	1807452
+single nucleotide variant	NM_003919.3(SGCE):c.158C>A (p.Ser53Ter)	8910	SGCE	Pathogenic	GRCh38	2036303
+single nucleotide variant	NM_003919.3(SGCE):c.825+1G>T	8910	SGCE	Pathogenic	GRCh38	2034998
+single nucleotide variant	NM_003919.3(SGCE):c.662+1G>C	8910	SGCE	Likely pathogenic	GRCh38	2090651
+single nucleotide variant	NM_003919.3(SGCE):c.391-1G>T	8910	SGCE	Pathogenic	GRCh38	2102830
+single nucleotide variant	NM_003919.3(SGCE):c.809G>A (p.Trp270Ter)	8910	SGCE	Pathogenic	GRCh38	2123174
+single nucleotide variant	NM_003919.3(SGCE):c.390+2T>C	8910	SGCE	Likely pathogenic	GRCh38	2748117
+single nucleotide variant	NM_003919.3(SGCE):c.110-1G>T	8910	SGCE	Likely pathogenic	GRCh38	2828645
+single nucleotide variant	NM_003919.3(SGCE):c.232+1G>C	8910	SGCE	Pathogenic	GRCh38	2830926
+single nucleotide variant	NM_003919.3(SGCE):c.235G>T (p.Glu79Ter)	8910	SGCE	Pathogenic	GRCh38	2846085
+single nucleotide variant	NM_003919.3(SGCE):c.1024C>T (p.Arg342Ter)	8910	SGCE	Pathogenic/Likely pathogenic	GRCh38	3021840
+single nucleotide variant	NM_003919.3(SGCE):c.680G>T (p.Gly227Val)	8910	SGCE	Likely pathogenic	GRCh38	3383960
+single nucleotide variant	NM_003919.3(SGCE):c.391-2A>T	8910	SGCE	Pathogenic	GRCh38	3659092
+single nucleotide variant	NM_003919.3(SGCE):c.923T>A (p.Leu308Ter)	8910	SGCE	Pathogenic	GRCh38	3728399
+single nucleotide variant	NM_003919.3(SGCE):c.208G>T (p.Glu70Ter)	8910	SGCE	Pathogenic	GRCh38	3720764
+single nucleotide variant	NM_003919.3(SGCE):c.1037+5G>C	8910	SGCE	Likely pathogenic	GRCh38	3730843
+single nucleotide variant	NM_003919.3(SGCE):c.463+5G>A	8910	SGCE	Likely pathogenic	GRCh38	3906933
+single nucleotide variant	NM_003919.3(SGCE):c.663-3C>A	8910	SGCE	Pathogenic	GRCh38	3912069
+single nucleotide variant	NM_003919.3(SGCE):c.904A>T (p.Lys302Ter)	8910	SGCE	Pathogenic	GRCh38	4084970
+single nucleotide variant	NM_003919.3(SGCE):c.232G>A (p.Gly78Ser)	8910	SGCE	Likely pathogenic	GRCh38	4530640
+single nucleotide variant	NM_003919.3(SGCE):c.109+1G>T	8910	SGCE	Pathogenic	GRCh38	4530778
+single nucleotide variant	NM_003919.3(SGCE):c.109+5G>C	8910	SGCE	Likely pathogenic	GRCh38	4709519
+single nucleotide variant	NM_003919.3(SGCE):c.406A>G (p.Arg136Gly)	8910	SGCE	Likely pathogenic	GRCh38	4795220
+single nucleotide variant	NM_003919.3(SGCE):c.1038-2A>G	8910	SGCE	Likely pathogenic	GRCh38	4855428

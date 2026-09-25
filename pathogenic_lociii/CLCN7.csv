@@ -1,0 +1,71 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001287.6(CLCN7):c.1663C>T (p.Gln555Ter)	1186	CLCN7	Pathogenic	GRCh38	6860
+single nucleotide variant	NM_001287.6(CLCN7):c.2285G>A (p.Arg762Gln)	1186	CLCN7	Pathogenic	GRCh38	6861
+single nucleotide variant	NM_001287.6(CLCN7):c.2297T>C (p.Leu766Pro)	1186	CLCN7	Pathogenic	GRCh38	6862
+single nucleotide variant	NM_001287.6(CLCN7):c.2299C>T (p.Arg767Trp)	1186	CLCN7	Pathogenic	GRCh38	6863
+single nucleotide variant	NM_001287.6(CLCN7):c.781A>T (p.Ile261Phe)	1186	CLCN7	Pathogenic	GRCh38	6865
+single nucleotide variant	NM_001287.6(CLCN7):c.296A>G (p.Tyr99Cys)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	56890
+single nucleotide variant	NM_001287.6(CLCN7):c.643G>A (p.Gly215Arg)	1186	CLCN7	Pathogenic	GRCh38	65635
+single nucleotide variant	NM_001287.6(CLCN7):c.857G>A (p.Arg286Gln)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	438670
+single nucleotide variant	NM_001287.6(CLCN7):c.295T>C (p.Tyr99His)	1186	CLCN7	Likely pathogenic	GRCh38	452973
+single nucleotide variant	NM_001287.6(CLCN7):c.2250+1G>T	1186	CLCN7	Pathogenic	GRCh38	585308
+single nucleotide variant	NM_001287.6(CLCN7):c.1617+119G>A	1186	CLCN7	Pathogenic	GRCh38	827681
+single nucleotide variant	NM_001287.6(CLCN7):c.1841T>G (p.Leu614Arg)	1186	CLCN7	Likely pathogenic	GRCh38	867226
+single nucleotide variant	NM_001287.6(CLCN7):c.139C>T (p.Gln47Ter)	1186	CLCN7	Pathogenic	GRCh38	871455
+single nucleotide variant	NM_001287.6(CLCN7):c.952T>C (p.Phe318Leu)	1186	CLCN7	Pathogenic	GRCh38	1012215
+single nucleotide variant	NM_001287.6(CLCN7):c.739-18G>A	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	1029299
+single nucleotide variant	NM_001287.6(CLCN7):c.1561G>A (p.Gly521Arg)	1186	CLCN7	Pathogenic	GRCh38	1065115
+single nucleotide variant	NM_001287.6(CLCN7):c.856C>T (p.Arg286Trp)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	1068483
+single nucleotide variant	NM_001287.6(CLCN7):c.2332G>T (p.Val778Phe)	1186	CLCN7	Likely pathogenic	GRCh38	1172575
+single nucleotide variant	NM_001287.6(CLCN7):c.1077C>A (p.Asn359Lys)	1186	CLCN7	Likely pathogenic	GRCh38	1334479
+single nucleotide variant	NM_001287.6(CLCN7):c.742G>T (p.Gly248Trp)	1186	CLCN7	Likely pathogenic	GRCh38	1496616
+single nucleotide variant	NM_001287.6(CLCN7):c.2284C>T (p.Arg762Trp)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	1443367
+single nucleotide variant	NM_001287.6(CLCN7):c.2250G>C (p.Gln750His)	1186	CLCN7	Likely pathogenic	GRCh38	1348047
+single nucleotide variant	NM_001287.6(CLCN7):c.1576C>T (p.Arg526Trp)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	1453929
+single nucleotide variant	NM_001287.6(CLCN7):c.746C>T (p.Pro249Leu)	1186	CLCN7	Pathogenic	GRCh38	1453932
+single nucleotide variant	NM_001287.6(CLCN7):c.1353+1G>A	1186	CLCN7	Likely pathogenic	GRCh38	1483197
+single nucleotide variant	NM_001287.6(CLCN7):c.718G>A (p.Gly240Arg)	1186	CLCN7	Pathogenic	GRCh38	1458929
+single nucleotide variant	NM_001287.6(CLCN7):c.141+1G>T	1186	CLCN7	Likely pathogenic	GRCh38	1489996
+single nucleotide variant	NM_001287.6(CLCN7):c.2231C>T (p.Ser744Phe)	1186	CLCN7	Likely pathogenic	GRCh38	1519955
+single nucleotide variant	NM_001287.6(CLCN7):c.994A>G (p.Met332Val)	1186	CLCN7	Likely pathogenic	GRCh38	1526273
+single nucleotide variant	NM_001287.6(CLCN7):c.1752G>A (p.Met584Ile)	1186	CLCN7	Likely pathogenic	GRCh38	1675595
+single nucleotide variant	NM_001287.6(CLCN7):c.1125C>G (p.Ile375Met)	1186	CLCN7	Likely pathogenic	GRCh38	1684672
+single nucleotide variant	NM_001287.6(CLCN7):c.1681C>T (p.Arg561Trp)	1186	CLCN7	Likely pathogenic	GRCh38	1684674
+single nucleotide variant	NM_001287.6(CLCN7):c.1562G>C (p.Gly521Ala)	1186	CLCN7	Pathogenic	GRCh38	1685638
+single nucleotide variant	NM_001287.6(CLCN7):c.1448-2A>G	1186	CLCN7	Likely pathogenic	GRCh38	1802224
+single nucleotide variant	NM_001287.6(CLCN7):c.1577G>A (p.Arg526Gln)	1186	CLCN7	Likely pathogenic	GRCh38	2137753
+single nucleotide variant	NM_001287.6(CLCN7):c.869C>T (p.Ser290Phe)	1186	CLCN7	Pathogenic	GRCh38	2137755
+single nucleotide variant	NM_001287.6(CLCN7):c.811C>T (p.Arg271Ter)	1186	CLCN7	Pathogenic	GRCh38	2137756
+single nucleotide variant	NM_001287.6(CLCN7):c.1194G>A (p.Trp398Ter)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	1932544
+single nucleotide variant	NM_001287.6(CLCN7):c.899C>T (p.Ala300Val)	1186	CLCN7	Likely pathogenic	GRCh38	1954490
+single nucleotide variant	NM_001287.6(CLCN7):c.213+1G>A	1186	CLCN7	Likely pathogenic	GRCh38	1972388
+single nucleotide variant	NM_001287.6(CLCN7):c.822+2T>C	1186	CLCN7	Likely pathogenic	GRCh38	1998953
+single nucleotide variant	NM_001287.6(CLCN7):c.676-1G>A	1186	CLCN7	Likely pathogenic	GRCh38	2018354
+single nucleotide variant	NM_001287.6(CLCN7):c.381G>A (p.Trp127Ter)	1186	CLCN7	Pathogenic	GRCh38	2025971
+single nucleotide variant	NM_001287.6(CLCN7):c.2030G>C (p.Gly677Ala)	1186	CLCN7	Likely pathogenic	GRCh38	2027675
+single nucleotide variant	NM_001287.6(CLCN7):c.1127C>T (p.Pro376Leu)	1186	CLCN7	Likely pathogenic	GRCh38	2663264
+single nucleotide variant	NM_001287.6(CLCN7):c.1304C>T (p.Ser435Leu)	1186	CLCN7	Likely pathogenic	GRCh38	2664511
+single nucleotide variant	NM_001287.6(CLCN7):c.896C>T (p.Ala299Val)	1186	CLCN7	Likely pathogenic	GRCh38	2736271
+single nucleotide variant	NM_001287.6(CLCN7):c.746C>G (p.Pro249Arg)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	2736273
+single nucleotide variant	NM_001287.6(CLCN7):c.637C>T (p.Leu213Phe)	1186	CLCN7	Pathogenic	GRCh38	2736274
+single nucleotide variant	NM_001287.6(CLCN7):c.377G>A (p.Arg126His)	1186	CLCN7	Likely pathogenic	GRCh38	2780306
+single nucleotide variant	NM_001287.6(CLCN7):c.2014-2A>G	1186	CLCN7	Likely pathogenic	GRCh38	2819010
+single nucleotide variant	NM_001287.6(CLCN7):c.2073+1G>C	1186	CLCN7	Likely pathogenic	GRCh38	2818191
+single nucleotide variant	NM_001287.6(CLCN7):c.282T>G (p.Tyr94Ter)	1186	CLCN7	Pathogenic	GRCh38	2840563
+single nucleotide variant	NM_001287.6(CLCN7):c.259G>T (p.Glu87Ter)	1186	CLCN7	Pathogenic	GRCh38	2846756
+single nucleotide variant	NM_001287.6(CLCN7):c.746C>A (p.Pro249Gln)	1186	CLCN7	Likely pathogenic	GRCh38	2907478
+single nucleotide variant	NM_001287.6(CLCN7):c.214-1G>A	1186	CLCN7	Likely pathogenic	GRCh38	2987108
+single nucleotide variant	NM_001287.6(CLCN7):c.163C>T (p.Arg55Ter)	1186	CLCN7	Pathogenic/Likely pathogenic	GRCh38	3004669
+single nucleotide variant	NM_001287.6(CLCN7):c.1394C>A (p.Ala465Asp)	1186	CLCN7	Likely pathogenic	GRCh38	3064765
+single nucleotide variant	NM_001287.6(CLCN7):c.1669+1G>C	1186	CLCN7	Likely pathogenic	GRCh38	3065777
+single nucleotide variant	NM_001287.6(CLCN7):c.1806C>G (p.Tyr602Ter)	1186	CLCN7	Likely pathogenic	GRCh38	3233378
+single nucleotide variant	NM_001287.6(CLCN7):c.1883+1G>A	1186	CLCN7	Likely pathogenic	GRCh38	3578465
+single nucleotide variant	NM_001287.6(CLCN7):c.142-1G>A	1186	CLCN7	Likely pathogenic	GRCh38	3625245
+single nucleotide variant	NM_001287.6(CLCN7):c.2251-2A>G	1186	CLCN7	Likely pathogenic	GRCh38	3658162
+single nucleotide variant	NM_001287.6(CLCN7):c.484+2T>C	1186	CLCN7	Likely pathogenic	GRCh38	3682469
+single nucleotide variant	NM_001287.6(CLCN7):c.1884-2A>T	1186	CLCN7	Likely pathogenic	GRCh38	3688761
+single nucleotide variant	NM_001287.6(CLCN7):c.2250+1G>A	1186	CLCN7	Pathogenic	GRCh38	3721940
+single nucleotide variant	NM_001287.6(CLCN7):c.2134C>T (p.Arg712Ter)	1186	CLCN7	Pathogenic	GRCh38	3721941
+single nucleotide variant	NM_001287.6(CLCN7):c.797C>G (p.Ser266Ter)	1186	CLCN7	Pathogenic	GRCh38	3901171
+single nucleotide variant	NM_001287.6(CLCN7):c.981+1G>A	1186	CLCN7	Likely pathogenic	GRCh38	4694046
+single nucleotide variant	NM_001287.6(CLCN7):c.643G>C (p.Gly215Arg)	1186	CLCN7	Likely pathogenic	GRCh38	4887999

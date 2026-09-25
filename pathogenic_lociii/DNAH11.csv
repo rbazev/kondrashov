@@ -1,0 +1,354 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001277115.2(DNAH11):c.8533C>T (p.Arg2845Ter)	8701	DNAH11	Pathogenic	GRCh38	6474
+single nucleotide variant	NM_001277115.2(DNAH11):c.12363C>G (p.Tyr4121Ter)	8701	DNAH11	Pathogenic	GRCh38	6475
+single nucleotide variant	NM_001277115.2(DNAH11):c.8698C>T (p.Arg2900Ter)	8701	DNAH11	Pathogenic	GRCh38	36981
+single nucleotide variant	NM_001277115.2(DNAH11):c.8746C>T (p.Gln2916Ter)	8701	DNAH11	Pathogenic	GRCh38	208572
+single nucleotide variant	NM_001277115.2(DNAH11):c.4333C>T (p.Arg1445Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	228332
+single nucleotide variant	NM_001277115.2(DNAH11):c.6244C>T (p.Arg2082Ter)	8701	DNAH11	Pathogenic	GRCh38	228333
+single nucleotide variant	NM_001277115.2(DNAH11):c.3122G>A (p.Trp1041Ter)	8701	DNAH11	Pathogenic	GRCh38	238906
+single nucleotide variant	NM_001277115.2(DNAH11):c.4438C>T (p.Arg1480Ter)	8701	DNAH11	Pathogenic	GRCh38	238918
+single nucleotide variant	NM_001277115.2(DNAH11):c.4621C>T (p.Arg1541Ter)	8701	DNAH11	Pathogenic	GRCh38	238921
+single nucleotide variant	NM_001277115.2(DNAH11):c.4944+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	238923
+single nucleotide variant	NM_001277115.2(DNAH11):c.8610C>G (p.Tyr2870Ter)	8701	DNAH11	Pathogenic	GRCh38	238935
+single nucleotide variant	NM_001277115.2(DNAH11):c.10324C>T (p.Gln3442Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	238887
+single nucleotide variant	NM_001277115.2(DNAH11):c.11381T>A (p.Leu3794Ter)	8701	DNAH11	Pathogenic	GRCh38	238890
+single nucleotide variant	NM_001277115.2(DNAH11):c.11967+5G>A	8701	DNAH11	Likely pathogenic	GRCh38	238892
+single nucleotide variant	NM_001277115.2(DNAH11):c.5924+1G>C	8701	DNAH11	Pathogenic	GRCh38	265099
+single nucleotide variant	NM_001277115.2(DNAH11):c.9706C>T (p.Arg3236Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	283798
+single nucleotide variant	NM_001277115.2(DNAH11):c.6546G>C (p.Lys2182Asn)	8701	DNAH11	Likely pathogenic	GRCh38	283898
+single nucleotide variant	NM_001277115.2(DNAH11):c.4818-2A>G	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	289323
+single nucleotide variant	NM_001277115.2(DNAH11):c.6727C>T (p.Arg2243Ter)	8701	DNAH11	Pathogenic	GRCh38	289324
+single nucleotide variant	NM_001277115.2(DNAH11):c.6664C>T (p.Arg2222Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	359645
+single nucleotide variant	NM_001277115.2(DNAH11):c.9244A>T (p.Lys3082Ter)	8701	DNAH11	Likely pathogenic	GRCh38	374447
+single nucleotide variant	NM_001277115.2(DNAH11):c.8563G>A (p.Gly2855Arg)	8701	DNAH11	Likely pathogenic	GRCh38	410833
+single nucleotide variant	NM_001277115.2(DNAH11):c.10789C>T (p.Gln3597Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	410859
+single nucleotide variant	NM_001277115.2(DNAH11):c.11165T>C (p.Leu3722Pro)	8701	DNAH11	Likely pathogenic	GRCh38	410870
+single nucleotide variant	NM_001277115.2(DNAH11):c.8673+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	410782
+single nucleotide variant	NM_001277115.2(DNAH11):c.13075C>T (p.Arg4359Ter)	8701	DNAH11	Pathogenic	GRCh38	410858
+single nucleotide variant	NM_001277115.2(DNAH11):c.1426-2A>G	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	419646
+single nucleotide variant	NM_001277115.2(DNAH11):c.2T>G (p.Met1Arg)	8701	DNAH11	Likely pathogenic	GRCh38	444714
+single nucleotide variant	NM_001277115.2(DNAH11):c.13321C>T (p.Gln4441Ter)	8701	DNAH11	Pathogenic	GRCh38	454658
+single nucleotide variant	NM_001277115.2(DNAH11):c.546T>A (p.Cys182Ter)	8701	DNAH11	Pathogenic	GRCh38	454685
+single nucleotide variant	NM_001277115.2(DNAH11):c.4567C>T (p.Gln1523Ter)	8701	DNAH11	Pathogenic	GRCh38	454676
+single nucleotide variant	NM_001277115.2(DNAH11):c.5778+1G>A	8701	DNAH11	Pathogenic	GRCh38	454688
+single nucleotide variant	NM_001277115.2(DNAH11):c.6004C>T (p.Arg2002Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	454691
+single nucleotide variant	NM_001277115.2(DNAH11):c.6130C>T (p.Arg2044Ter)	8701	DNAH11	Pathogenic	GRCh38	454692
+single nucleotide variant	NM_001277115.2(DNAH11):c.12934-1G>T	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	454652
+single nucleotide variant	NM_001277115.2(DNAH11):c.13069C>T (p.Arg4357Ter)	8701	DNAH11	Pathogenic	GRCh38	454655
+single nucleotide variant	NM_001277115.2(DNAH11):c.1A>G (p.Met1Val)	8701	DNAH11	Likely pathogenic	GRCh38	454666
+single nucleotide variant	NM_001277115.2(DNAH11):c.1486A>T (p.Lys496Ter)	8701	DNAH11	Pathogenic	GRCh38	454662
+single nucleotide variant	NM_001277115.2(DNAH11):c.1593+1G>A	8701	DNAH11	Pathogenic	GRCh38	454663
+single nucleotide variant	NM_001277115.2(DNAH11):c.5368G>T (p.Glu1790Ter)	8701	DNAH11	Pathogenic	GRCh38	454684
+single nucleotide variant	NM_001277115.2(DNAH11):c.6265G>T (p.Glu2089Ter)	8701	DNAH11	Pathogenic	GRCh38	454695
+single nucleotide variant	NM_001277115.2(DNAH11):c.7279C>T (p.Gln2427Ter)	8701	DNAH11	Pathogenic	GRCh38	454703
+single nucleotide variant	NM_001277115.2(DNAH11):c.10332+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	454629
+single nucleotide variant	NM_001277115.2(DNAH11):c.12196-2A>G	8701	DNAH11	Pathogenic	GRCh38	454648
+single nucleotide variant	NM_001277115.2(DNAH11):c.9924+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	525434
+single nucleotide variant	NM_001277115.2(DNAH11):c.13183C>T (p.Arg4395Ter)	8701	DNAH11	Pathogenic	GRCh38	525271
+single nucleotide variant	NM_001277115.2(DNAH11):c.13429G>T (p.Glu4477Ter)	8701	DNAH11	Pathogenic	GRCh38	525306
+single nucleotide variant	NM_001277115.2(DNAH11):c.10048A>T (p.Arg3350Ter)	8701	DNAH11	Pathogenic	GRCh38	525307
+single nucleotide variant	NM_001277115.2(DNAH11):c.3544C>T (p.Arg1182Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	577162
+single nucleotide variant	NM_001277115.2(DNAH11):c.11373+1G>A	8701	DNAH11	Pathogenic	GRCh38	568379
+single nucleotide variant	NM_001277115.2(DNAH11):c.3133C>T (p.Arg1045Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	620379
+single nucleotide variant	NM_001277115.2(DNAH11):c.11533C>T (p.Arg3845Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	620303
+single nucleotide variant	NM_001277115.2(DNAH11):c.7646-1G>T	8701	DNAH11	Likely pathogenic	GRCh38	624276
+single nucleotide variant	NM_001277115.2(DNAH11):c.5047G>T (p.Glu1683Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	632000
+single nucleotide variant	NM_001277115.2(DNAH11):c.1311T>A (p.Tyr437Ter)	8701	DNAH11	Pathogenic	GRCh38	663179
+single nucleotide variant	NM_001277115.2(DNAH11):c.3208G>T (p.Glu1070Ter)	8701	DNAH11	Pathogenic	GRCh38	654459
+single nucleotide variant	NM_001277115.2(DNAH11):c.6506C>T (p.Ser2169Leu)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	658037
+single nucleotide variant	NM_001277115.2(DNAH11):c.8141C>G (p.Ser2714Ter)	8701	DNAH11	Pathogenic	GRCh38	653305
+single nucleotide variant	NM_001277115.2(DNAH11):c.10286G>A (p.Arg3429His)	8701	DNAH11	Likely pathogenic	GRCh38	665934
+single nucleotide variant	NM_001277115.2(DNAH11):c.12232A>T (p.Lys4078Ter)	8701	DNAH11	Pathogenic	GRCh38	642923
+single nucleotide variant	NM_001277115.2(DNAH11):c.13171C>T (p.Gln4391Ter)	8701	DNAH11	Pathogenic	GRCh38	652933
+single nucleotide variant	NM_001277115.2(DNAH11):c.5328+3A>G	8701	DNAH11	Likely pathogenic	GRCh38	663567
+single nucleotide variant	NM_001277115.2(DNAH11):c.7266+1G>A	8701	DNAH11	Pathogenic	GRCh38	644117
+single nucleotide variant	NM_001277115.2(DNAH11):c.7267-1G>T	8701	DNAH11	Likely pathogenic	GRCh38	804400
+single nucleotide variant	NM_001277115.2(DNAH11):c.1358G>A (p.Trp453Ter)	8701	DNAH11	Pathogenic	GRCh38	838553
+single nucleotide variant	NM_001277115.2(DNAH11):c.2569C>T (p.Arg857Ter)	8701	DNAH11	Pathogenic	GRCh38	845439
+single nucleotide variant	NM_001277115.2(DNAH11):c.3220G>T (p.Glu1074Ter)	8701	DNAH11	Pathogenic	GRCh38	837408
+single nucleotide variant	NM_001277115.2(DNAH11):c.12697C>T (p.Gln4233Ter)	8701	DNAH11	Pathogenic	GRCh38	837205
+single nucleotide variant	NM_001277115.2(DNAH11):c.13008G>A (p.Trp4336Ter)	8701	DNAH11	Pathogenic	GRCh38	842993
+single nucleotide variant	NM_001277115.2(DNAH11):c.13306G>A (p.Ala4436Thr)	8701	DNAH11	Pathogenic	GRCh38	853422
+single nucleotide variant	NM_001277115.2(DNAH11):c.6181-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	853614
+single nucleotide variant	NM_001277115.2(DNAH11):c.3426-1G>A	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	853420
+single nucleotide variant	NM_001277115.2(DNAH11):c.785C>G (p.Ser262Ter)	8701	DNAH11	Pathogenic	GRCh38	869374
+single nucleotide variant	NM_001277115.2(DNAH11):c.9523G>T (p.Glu3175Ter)	8701	DNAH11	Pathogenic	GRCh38	869384
+single nucleotide variant	NM_001277115.2(DNAH11):c.10260C>G (p.Tyr3420Ter)	8701	DNAH11	Pathogenic	GRCh38	869376
+single nucleotide variant	NM_001277115.2(DNAH11):c.11968-1G>C	8701	DNAH11	Pathogenic	GRCh38	869377
+single nucleotide variant	NM_001277115.2(DNAH11):c.6983+1G>A	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	873476
+single nucleotide variant	NM_001277115.2(DNAH11):c.13373C>T (p.Pro4458Leu)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	916128
+single nucleotide variant	NM_001277115.2(DNAH11):c.6706G>C (p.Gly2236Arg)	8701	DNAH11	Likely pathogenic	GRCh38	949194
+single nucleotide variant	NM_001277115.2(DNAH11):c.10264G>A (p.Gly3422Arg)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	952311
+single nucleotide variant	NM_001277115.2(DNAH11):c.12310C>T (p.Arg4104Ter)	8701	DNAH11	Pathogenic	GRCh38	952407
+single nucleotide variant	NM_001277115.2(DNAH11):c.3117C>G (p.Tyr1039Ter)	8701	DNAH11	Pathogenic	GRCh38	939683
+single nucleotide variant	NM_001277115.2(DNAH11):c.5593C>T (p.Arg1865Ter)	8701	DNAH11	Pathogenic	GRCh38	937769
+single nucleotide variant	NM_001277115.2(DNAH11):c.10036C>T (p.Arg3346Ter)	8701	DNAH11	Pathogenic	GRCh38	943280
+single nucleotide variant	NM_001277115.2(DNAH11):c.1710+1G>C	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	934058
+single nucleotide variant	NM_001277115.2(DNAH11):c.10691+5G>C	8701	DNAH11	Likely pathogenic	GRCh38	952401
+single nucleotide variant	NM_001277115.2(DNAH11):c.6541A>G (p.Ser2181Gly)	8701	DNAH11	Likely pathogenic	GRCh38	956931
+single nucleotide variant	NM_001277115.2(DNAH11):c.5199G>A (p.Trp1733Ter)	8701	DNAH11	Pathogenic	GRCh38	971123
+single nucleotide variant	NM_001277115.2(DNAH11):c.983-1G>T	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	962440
+single nucleotide variant	NM_001277115.2(DNAH11):c.3766-8A>G	8701	DNAH11	Likely pathogenic	GRCh38	958550
+single nucleotide variant	NM_001277115.2(DNAH11):c.11203-1G>C	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	969771
+single nucleotide variant	NM_001277115.2(DNAH11):c.7441-1G>C	8701	DNAH11	Pathogenic	GRCh38	1012303
+single nucleotide variant	NM_001277115.2(DNAH11):c.9454A>T (p.Lys3152Ter)	8701	DNAH11	Pathogenic	GRCh38	1012320
+single nucleotide variant	NM_001277115.2(DNAH11):c.3223C>T (p.Gln1075Ter)	8701	DNAH11	Pathogenic	GRCh38	1030335
+single nucleotide variant	NM_001277115.2(DNAH11):c.5845C>T (p.Arg1949Ter)	8701	DNAH11	Pathogenic	GRCh38	1750036
+single nucleotide variant	NM_001277115.2(DNAH11):c.13163-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	1050558
+single nucleotide variant	NM_001277115.2(DNAH11):c.5639C>A (p.Thr1880Asn)	8701	DNAH11	Likely pathogenic	GRCh38	1063863
+single nucleotide variant	NM_001277115.2(DNAH11):c.2671A>G (p.Asn891Asp)	8701	DNAH11	Pathogenic	GRCh38	1067300
+single nucleotide variant	NM_001277115.2(DNAH11):c.4254+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	1067390
+single nucleotide variant	NM_001277115.2(DNAH11):c.4254+5G>C	8701	DNAH11	Pathogenic	GRCh38	1066542
+single nucleotide variant	NM_001277115.2(DNAH11):c.5218C>T (p.Gln1740Ter)	8701	DNAH11	Pathogenic	GRCh38	1073225
+single nucleotide variant	NM_001277115.2(DNAH11):c.5924+2T>A	8701	DNAH11	Pathogenic	GRCh38	1076012
+single nucleotide variant	NM_001277115.2(DNAH11):c.9478C>T (p.Arg3160Ter)	8701	DNAH11	Pathogenic	GRCh38	1073850
+single nucleotide variant	NM_001277115.2(DNAH11):c.11188C>T (p.Gln3730Ter)	8701	DNAH11	Pathogenic	GRCh38	1068707
+single nucleotide variant	NM_001277115.2(DNAH11):c.3256-2A>C	8701	DNAH11	Likely pathogenic	GRCh38	1324267
+single nucleotide variant	NM_001277115.2(DNAH11):c.3766-2A>C	8701	DNAH11	Likely pathogenic	GRCh38	4278111
+single nucleotide variant	NM_001277115.2(DNAH11):c.8511-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	1324269
+single nucleotide variant	NM_001277115.2(DNAH11):c.9451G>T (p.Glu3151Ter)	8701	DNAH11	Pathogenic	GRCh38	1338961
+single nucleotide variant	NM_001277115.2(DNAH11):c.5247G>A (p.Trp1749Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1339540
+single nucleotide variant	NM_001277115.2(DNAH11):c.5329-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	1521998
+single nucleotide variant	NM_001277115.2(DNAH11):c.13096C>T (p.Gln4366Ter)	8701	DNAH11	Pathogenic	GRCh38	1386377
+single nucleotide variant	NM_001277115.2(DNAH11):c.8444T>G (p.Leu2815Ter)	8701	DNAH11	Pathogenic	GRCh38	1426697
+single nucleotide variant	NM_001277115.2(DNAH11):c.9896G>C (p.Trp3299Ser)	8701	DNAH11	Pathogenic	GRCh38	1426708
+single nucleotide variant	NM_001277115.2(DNAH11):c.5094+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	1505310
+single nucleotide variant	NM_001277115.2(DNAH11):c.3901G>T (p.Glu1301Ter)	8701	DNAH11	Pathogenic	GRCh38	1433676
+single nucleotide variant	NM_001277115.2(DNAH11):c.2406G>A (p.Trp802Ter)	8701	DNAH11	Pathogenic	GRCh38	1453371
+single nucleotide variant	NM_001277115.2(DNAH11):c.3020T>G (p.Leu1007Ter)	8701	DNAH11	Pathogenic	GRCh38	1452056
+single nucleotide variant	NM_001277115.2(DNAH11):c.12724G>T (p.Glu4242Ter)	8701	DNAH11	Pathogenic	GRCh38	1456213
+single nucleotide variant	NM_001277115.2(DNAH11):c.5622-1G>T	8701	DNAH11	Pathogenic	GRCh38	1432278
+single nucleotide variant	NM_001277115.2(DNAH11):c.10153G>T (p.Glu3385Ter)	8701	DNAH11	Pathogenic	GRCh38	1408912
+single nucleotide variant	NM_001277115.2(DNAH11):c.10027-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	1490837
+single nucleotide variant	NM_001277115.2(DNAH11):c.3253C>T (p.Gln1085Ter)	8701	DNAH11	Likely pathogenic	GRCh38	1678873
+single nucleotide variant	NM_001277115.2(DNAH11):c.2923G>T (p.Glu975Ter)	8701	DNAH11	Pathogenic	GRCh38	1685752
+single nucleotide variant	NM_001277115.2(DNAH11):c.346C>T (p.Gln116Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1731721
+single nucleotide variant	NM_001277115.2(DNAH11):c.4425C>A (p.Tyr1475Ter)	8701	DNAH11	Pathogenic	GRCh38	1740508
+single nucleotide variant	NM_001277115.2(DNAH11):c.10166-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	1743864
+single nucleotide variant	NM_001277115.2(DNAH11):c.11929G>T (p.Glu3977Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1745170
+single nucleotide variant	NM_001277115.2(DNAH11):c.4504C>T (p.Gln1502Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1741069
+single nucleotide variant	NM_001277115.2(DNAH11):c.6406C>T (p.Gln2136Ter)	8701	DNAH11	Pathogenic	GRCh38	1753354
+single nucleotide variant	NM_001277115.2(DNAH11):c.1247C>A (p.Ser416Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1759768
+single nucleotide variant	NM_001277115.2(DNAH11):c.9430C>T (p.Gln3144Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1767001
+single nucleotide variant	NM_001277115.2(DNAH11):c.2965C>T (p.Arg989Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	1798212
+single nucleotide variant	NM_001277115.2(DNAH11):c.13130C>T (p.Ser4377Phe)	8701	DNAH11	Likely pathogenic	GRCh38	1803290
+single nucleotide variant	NM_001277115.2(DNAH11):c.12064G>C (p.Ala4022Pro)	8701	DNAH11	Likely pathogenic	GRCh38	1804935
+single nucleotide variant	NM_001277115.2(DNAH11):c.7999C>T (p.Gln2667Ter)	8701	DNAH11	Pathogenic	GRCh38	1805664
+single nucleotide variant	NM_001277115.2(DNAH11):c.4552C>T (p.Gln1518Ter)	8701	DNAH11	Pathogenic	GRCh38	1810037
+single nucleotide variant	NM_001277115.2(DNAH11):c.10569-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	1810169
+single nucleotide variant	NM_001277115.2(DNAH11):c.4273G>T (p.Glu1425Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2158417
+single nucleotide variant	NM_001277115.2(DNAH11):c.11570G>A (p.Trp3857Ter)	8701	DNAH11	Pathogenic	GRCh38	2172519
+single nucleotide variant	NM_001277115.2(DNAH11):c.10333-1G>A	8701	DNAH11	Pathogenic	GRCh38	1907578
+single nucleotide variant	NM_001277115.2(DNAH11):c.7727A>G (p.Asp2576Gly)	8701	DNAH11	Pathogenic	GRCh38	1918817
+single nucleotide variant	NM_001277115.2(DNAH11):c.6530G>A (p.Gly2177Asp)	8701	DNAH11	Pathogenic	GRCh38	1986315
+single nucleotide variant	NM_001277115.2(DNAH11):c.11203-2A>G	8701	DNAH11	Pathogenic	GRCh38	1985549
+single nucleotide variant	NM_001277115.2(DNAH11):c.6763T>C (p.Trp2255Arg)	8701	DNAH11	Likely pathogenic	GRCh38	1978239
+single nucleotide variant	NM_001277115.2(DNAH11):c.4378-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2001742
+single nucleotide variant	NM_001277115.2(DNAH11):c.7915-1G>A	8701	DNAH11	Pathogenic	GRCh38	2013720
+single nucleotide variant	NM_001277115.2(DNAH11):c.10311G>A (p.Trp3437Ter)	8701	DNAH11	Pathogenic	GRCh38	2017280
+single nucleotide variant	NM_001277115.2(DNAH11):c.6693C>G (p.Tyr2231Ter)	8701	DNAH11	Pathogenic	GRCh38	2037634
+single nucleotide variant	NM_001277115.2(DNAH11):c.10260C>A (p.Tyr3420Ter)	8701	DNAH11	Pathogenic	GRCh38	2051269
+single nucleotide variant	NM_001277115.2(DNAH11):c.7812G>A (p.Trp2604Ter)	8701	DNAH11	Pathogenic	GRCh38	2062070
+single nucleotide variant	NM_001277115.2(DNAH11):c.4009C>T (p.Arg1337Ter)	8701	DNAH11	Pathogenic	GRCh38	2061830
+single nucleotide variant	NM_001277115.2(DNAH11):c.3601G>T (p.Glu1201Ter)	8701	DNAH11	Likely pathogenic	GRCh38	2431565
+single nucleotide variant	NM_001277115.2(DNAH11):c.11839+1G>A	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2435935
+single nucleotide variant	NM_001277115.2(DNAH11):c.4922C>G (p.Ser1641Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2435939
+single nucleotide variant	NM_001277115.2(DNAH11):c.3425+2T>A	8701	DNAH11	Likely pathogenic	GRCh38	2499481
+single nucleotide variant	NM_001277115.2(DNAH11):c.3040C>T (p.Gln1014Ter)	8701	DNAH11	Pathogenic	GRCh38	2500287
+single nucleotide variant	NM_001277115.2(DNAH11):c.880C>T (p.Gln294Ter)	8701	DNAH11	Likely pathogenic	GRCh38	2580176
+single nucleotide variant	NM_001277115.2(DNAH11):c.9483+2T>A	8701	DNAH11	Likely pathogenic	GRCh38	2585052
+single nucleotide variant	NM_001277115.2(DNAH11):c.12748A>T (p.Lys4250Ter)	8701	DNAH11	Likely pathogenic	GRCh38	2585053
+single nucleotide variant	NM_001277115.2(DNAH11):c.4044G>A (p.Trp1348Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2632475
+single nucleotide variant	NM_001277115.2(DNAH11):c.2170-1G>A	8701	DNAH11	Pathogenic	GRCh38	2631442
+single nucleotide variant	NM_001277115.2(DNAH11):c.11202+1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2629347
+single nucleotide variant	NM_001277115.2(DNAH11):c.6547-963G>A	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	3068449
+single nucleotide variant	NM_001277115.2(DNAH11):c.5506C>T (p.Arg1836Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2689025
+single nucleotide variant	NM_001277115.2(DNAH11):c.6468+2T>G	8701	DNAH11	Likely pathogenic	GRCh38	2700097
+single nucleotide variant	NM_001277115.2(DNAH11):c.9181C>T (p.Gln3061Ter)	8701	DNAH11	Pathogenic	GRCh38	2696418
+single nucleotide variant	NM_001277115.2(DNAH11):c.11496+1G>T	8701	DNAH11	Pathogenic	GRCh38	2701326
+single nucleotide variant	NM_001277115.2(DNAH11):c.4012-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2701106
+single nucleotide variant	NM_001277115.2(DNAH11):c.5622-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2710579
+single nucleotide variant	NM_001277115.2(DNAH11):c.589A>T (p.Lys197Ter)	8701	DNAH11	Pathogenic	GRCh38	2706889
+single nucleotide variant	NM_001277115.2(DNAH11):c.5131C>T (p.Gln1711Ter)	8701	DNAH11	Pathogenic	GRCh38	2706930
+single nucleotide variant	NM_001277115.2(DNAH11):c.3279T>G (p.Tyr1093Ter)	8701	DNAH11	Pathogenic	GRCh38	2707068
+single nucleotide variant	NM_001277115.2(DNAH11):c.5924+1G>A	8701	DNAH11	Pathogenic	GRCh38	2708602
+single nucleotide variant	NM_001277115.2(DNAH11):c.8932C>T (p.Gln2978Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2715095
+single nucleotide variant	NM_001277115.2(DNAH11):c.8221G>T (p.Glu2741Ter)	8701	DNAH11	Pathogenic	GRCh38	2715138
+single nucleotide variant	NM_001277115.2(DNAH11):c.6042-1G>T	8701	DNAH11	Likely pathogenic	GRCh38	2718147
+single nucleotide variant	NM_001277115.2(DNAH11):c.11425C>T (p.Arg3809Ter)	8701	DNAH11	Pathogenic	GRCh38	2723132
+single nucleotide variant	NM_001277115.2(DNAH11):c.6733C>T (p.Gln2245Ter)	8701	DNAH11	Pathogenic	GRCh38	2724682
+single nucleotide variant	NM_001277115.2(DNAH11):c.9598-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2731369
+single nucleotide variant	NM_001277115.2(DNAH11):c.13420C>T (p.Gln4474Ter)	8701	DNAH11	Pathogenic	GRCh38	2724033
+single nucleotide variant	NM_001277115.2(DNAH11):c.10026+1G>A	8701	DNAH11	Pathogenic	GRCh38	2730990
+single nucleotide variant	NM_001277115.2(DNAH11):c.8926C>T (p.Arg2976Ter)	8701	DNAH11	Pathogenic	GRCh38	2731045
+single nucleotide variant	NM_001277115.2(DNAH11):c.11761G>T (p.Glu3921Ter)	8701	DNAH11	Pathogenic	GRCh38	2731209
+single nucleotide variant	NM_001277115.2(DNAH11):c.7978C>T (p.Gln2660Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2737990
+single nucleotide variant	NM_001277115.2(DNAH11):c.752C>G (p.Ser251Ter)	8701	DNAH11	Pathogenic	GRCh38	2735825
+single nucleotide variant	NM_001277115.2(DNAH11):c.4791T>A (p.Tyr1597Ter)	8701	DNAH11	Pathogenic	GRCh38	2744408
+single nucleotide variant	NM_001277115.2(DNAH11):c.1846C>T (p.Gln616Ter)	8701	DNAH11	Pathogenic	GRCh38	2735573
+single nucleotide variant	NM_001277115.2(DNAH11):c.2839C>T (p.Gln947Ter)	8701	DNAH11	Pathogenic	GRCh38	2745855
+single nucleotide variant	NM_001277115.2(DNAH11):c.2491C>T (p.Gln831Ter)	8701	DNAH11	Pathogenic	GRCh38	2734974
+single nucleotide variant	NM_001277115.2(DNAH11):c.4726-1G>A	8701	DNAH11	Pathogenic	GRCh38	2734975
+single nucleotide variant	NM_001277115.2(DNAH11):c.7914G>C (p.Gln2638His)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2734976
+single nucleotide variant	NM_001277115.2(DNAH11):c.9436G>T (p.Glu3146Ter)	8701	DNAH11	Pathogenic	GRCh38	2734978
+single nucleotide variant	NM_001277115.2(DNAH11):c.2199T>A (p.Tyr733Ter)	8701	DNAH11	Pathogenic	GRCh38	2740387
+single nucleotide variant	NM_001277115.2(DNAH11):c.685G>T (p.Glu229Ter)	8701	DNAH11	Pathogenic	GRCh38	2743541
+single nucleotide variant	NM_001277115.2(DNAH11):c.2998C>T (p.Gln1000Ter)	8701	DNAH11	Pathogenic	GRCh38	2761863
+single nucleotide variant	NM_001277115.2(DNAH11):c.3000+1G>T	8701	DNAH11	Likely pathogenic	GRCh38	2751200
+single nucleotide variant	NM_001277115.2(DNAH11):c.2665G>T (p.Glu889Ter)	8701	DNAH11	Pathogenic	GRCh38	2757787
+single nucleotide variant	NM_001277115.2(DNAH11):c.12088G>T (p.Glu4030Ter)	8701	DNAH11	Pathogenic	GRCh38	2750504
+single nucleotide variant	NM_001277115.2(DNAH11):c.6977G>A (p.Trp2326Ter)	8701	DNAH11	Pathogenic	GRCh38	2757574
+single nucleotide variant	NM_001277115.2(DNAH11):c.11053G>T (p.Glu3685Ter)	8701	DNAH11	Pathogenic	GRCh38	2760886
+single nucleotide variant	NM_001277115.2(DNAH11):c.1558C>T (p.Gln520Ter)	8701	DNAH11	Pathogenic	GRCh38	2748571
+single nucleotide variant	NM_001277115.2(DNAH11):c.6834+1G>T	8701	DNAH11	Pathogenic	GRCh38	2751727
+single nucleotide variant	NM_001277115.2(DNAH11):c.2170-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2772388
+single nucleotide variant	NM_001277115.2(DNAH11):c.4726-2A>G	8701	DNAH11	Pathogenic	GRCh38	2772406
+single nucleotide variant	NM_001277115.2(DNAH11):c.7027A>T (p.Lys2343Ter)	8701	DNAH11	Pathogenic	GRCh38	2763582
+single nucleotide variant	NM_001277115.2(DNAH11):c.10476G>A (p.Trp3492Ter)	8701	DNAH11	Pathogenic	GRCh38	2768284
+single nucleotide variant	NM_001277115.2(DNAH11):c.7914+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2773177
+single nucleotide variant	NM_001277115.2(DNAH11):c.2668G>T (p.Glu890Ter)	8701	DNAH11	Pathogenic	GRCh38	2766279
+single nucleotide variant	NM_001277115.2(DNAH11):c.6835-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2768066
+single nucleotide variant	NM_001277115.2(DNAH11):c.2234C>G (p.Ser745Ter)	8701	DNAH11	Pathogenic	GRCh38	2769408
+single nucleotide variant	NM_001277115.2(DNAH11):c.3939C>G (p.Tyr1313Ter)	8701	DNAH11	Pathogenic	GRCh38	2787874
+single nucleotide variant	NM_001277115.2(DNAH11):c.3425+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2785723
+single nucleotide variant	NM_001277115.2(DNAH11):c.5005C>T (p.Gln1669Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2786785
+single nucleotide variant	NM_001277115.2(DNAH11):c.4471C>T (p.Gln1491Ter)	8701	DNAH11	Pathogenic	GRCh38	2788819
+single nucleotide variant	NM_001277115.2(DNAH11):c.2667+1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2795058
+single nucleotide variant	NM_001277115.2(DNAH11):c.1804G>T (p.Glu602Ter)	8701	DNAH11	Pathogenic	GRCh38	2800091
+single nucleotide variant	NM_001277115.2(DNAH11):c.7264C>T (p.Gln2422Ter)	8701	DNAH11	Pathogenic	GRCh38	2793121
+single nucleotide variant	NM_001277115.2(DNAH11):c.4005T>A (p.Tyr1335Ter)	8701	DNAH11	Pathogenic	GRCh38	2797932
+single nucleotide variant	NM_001277115.2(DNAH11):c.6546+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2798304
+single nucleotide variant	NM_001277115.2(DNAH11):c.2275-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	2799701
+single nucleotide variant	NM_001277115.2(DNAH11):c.8412G>A (p.Trp2804Ter)	8701	DNAH11	Pathogenic	GRCh38	2801151
+single nucleotide variant	NM_001277115.2(DNAH11):c.5822G>A (p.Trp1941Ter)	8701	DNAH11	Pathogenic	GRCh38	2803272
+single nucleotide variant	NM_001277115.2(DNAH11):c.1194+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2808636
+single nucleotide variant	NM_001277115.2(DNAH11):c.3255+1G>T	8701	DNAH11	Likely pathogenic	GRCh38	2804487
+single nucleotide variant	NM_001277115.2(DNAH11):c.1A>C (p.Met1Leu)	8701	DNAH11	Likely pathogenic	GRCh38	2817469
+single nucleotide variant	NM_001277115.2(DNAH11):c.692+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2817627
+single nucleotide variant	NM_001277115.2(DNAH11):c.13281C>A (p.Tyr4427Ter)	8701	DNAH11	Pathogenic	GRCh38	2824412
+single nucleotide variant	NM_001277115.2(DNAH11):c.2320A>T (p.Lys774Ter)	8701	DNAH11	Pathogenic	GRCh38	2817034
+single nucleotide variant	NM_001277115.2(DNAH11):c.8674-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2820297
+single nucleotide variant	NM_001277115.2(DNAH11):c.4933C>T (p.Gln1645Ter)	8701	DNAH11	Pathogenic	GRCh38	2829081
+single nucleotide variant	NM_001277115.2(DNAH11):c.6274-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2816466
+single nucleotide variant	NM_001277115.2(DNAH11):c.13303+1G>T	8701	DNAH11	Pathogenic	GRCh38	2821506
+single nucleotide variant	NM_001277115.2(DNAH11):c.4377+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2824676
+single nucleotide variant	NM_001277115.2(DNAH11):c.3952C>T (p.Gln1318Ter)	8701	DNAH11	Pathogenic	GRCh38	2837832
+single nucleotide variant	NM_001277115.2(DNAH11):c.10165+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2841548
+single nucleotide variant	NM_001277115.2(DNAH11):c.7440+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2842885
+single nucleotide variant	NM_001277115.2(DNAH11):c.600T>A (p.Tyr200Ter)	8701	DNAH11	Pathogenic	GRCh38	2843107
+single nucleotide variant	NM_001277115.2(DNAH11):c.1857T>A (p.Cys619Ter)	8701	DNAH11	Pathogenic	GRCh38	2835964
+single nucleotide variant	NM_001277115.2(DNAH11):c.10531G>T (p.Gly3511Ter)	8701	DNAH11	Pathogenic	GRCh38	2842652
+single nucleotide variant	NM_001277115.2(DNAH11):c.12195+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2835186
+single nucleotide variant	NM_001277115.2(DNAH11):c.9042G>A (p.Trp3014Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2838661
+single nucleotide variant	NM_001277115.2(DNAH11):c.9511C>T (p.Gln3171Ter)	8701	DNAH11	Pathogenic	GRCh38	2836614
+single nucleotide variant	NM_001277115.2(DNAH11):c.7299G>A (p.Trp2433Ter)	8701	DNAH11	Pathogenic	GRCh38	2843811
+single nucleotide variant	NM_001277115.2(DNAH11):c.5094+2T>G	8701	DNAH11	Likely pathogenic	GRCh38	2845625
+single nucleotide variant	NM_001277115.2(DNAH11):c.130G>T (p.Glu44Ter)	8701	DNAH11	Pathogenic	GRCh38	2853570
+single nucleotide variant	NM_001277115.2(DNAH11):c.4396C>T (p.Gln1466Ter)	8701	DNAH11	Pathogenic	GRCh38	2857193
+single nucleotide variant	NM_001277115.2(DNAH11):c.8904G>A (p.Trp2968Ter)	8701	DNAH11	Pathogenic	GRCh38	2846850
+single nucleotide variant	NM_001277115.2(DNAH11):c.2069G>A (p.Trp690Ter)	8701	DNAH11	Pathogenic	GRCh38	2848433
+single nucleotide variant	NM_001277115.2(DNAH11):c.11112T>A (p.Cys3704Ter)	8701	DNAH11	Pathogenic	GRCh38	2856525
+single nucleotide variant	NM_001277115.2(DNAH11):c.2346C>G (p.Tyr782Ter)	8701	DNAH11	Pathogenic	GRCh38	2864864
+single nucleotide variant	NM_001277115.2(DNAH11):c.749G>A (p.Trp250Ter)	8701	DNAH11	Pathogenic	GRCh38	2868411
+single nucleotide variant	NM_001277115.2(DNAH11):c.982+1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2864600
+single nucleotide variant	NM_001277115.2(DNAH11):c.8798-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2860619
+single nucleotide variant	NM_001277115.2(DNAH11):c.7266+1G>T	8701	DNAH11	Pathogenic	GRCh38	2870905
+single nucleotide variant	NM_001277115.2(DNAH11):c.10897-2A>T	8701	DNAH11	Likely pathogenic	GRCh38	2860120
+single nucleotide variant	NM_001277115.2(DNAH11):c.5095-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2863394
+single nucleotide variant	NM_001277115.2(DNAH11):c.11690+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2875121
+single nucleotide variant	NM_001277115.2(DNAH11):c.1930C>T (p.Arg644Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2871335
+single nucleotide variant	NM_001277115.2(DNAH11):c.3380G>A (p.Trp1127Ter)	8701	DNAH11	Pathogenic	GRCh38	2874694
+single nucleotide variant	NM_001277115.2(DNAH11):c.10332+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2877342
+single nucleotide variant	NM_001277115.2(DNAH11):c.13313G>A (p.Trp4438Ter)	8701	DNAH11	Pathogenic	GRCh38	2890820
+single nucleotide variant	NM_001277115.2(DNAH11):c.10333-1G>C	8701	DNAH11	Pathogenic	GRCh38	2887101
+single nucleotide variant	NM_001277115.2(DNAH11):c.8525G>A (p.Arg2842Gln)	8701	DNAH11	Likely pathogenic	GRCh38	2888641
+single nucleotide variant	NM_001277115.2(DNAH11):c.4096-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	2892430
+single nucleotide variant	NM_001277115.2(DNAH11):c.9265C>T (p.Gln3089Ter)	8701	DNAH11	Pathogenic	GRCh38	2893718
+single nucleotide variant	NM_001277115.2(DNAH11):c.8798-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	2895495
+single nucleotide variant	NM_001277115.2(DNAH11):c.7811+1G>C	8701	DNAH11	Likely pathogenic	GRCh38	2895637
+single nucleotide variant	NM_001277115.2(DNAH11):c.10691+1G>T	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2897275
+single nucleotide variant	NM_001277115.2(DNAH11):c.12970C>T (p.Gln4324Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	2902383
+single nucleotide variant	NM_001277115.2(DNAH11):c.25G>T (p.Glu9Ter)	8701	DNAH11	Pathogenic	GRCh38	2903087
+single nucleotide variant	NM_001277115.2(DNAH11):c.3853-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	2910901
+single nucleotide variant	NM_001277115.2(DNAH11):c.8940+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	2964436
+single nucleotide variant	NM_001277115.2(DNAH11):c.3772C>T (p.Gln1258Ter)	8701	DNAH11	Pathogenic	GRCh38	2969411
+single nucleotide variant	NM_001277115.2(DNAH11):c.10616T>G (p.Leu3539Ter)	8701	DNAH11	Pathogenic	GRCh38	2981534
+single nucleotide variant	NM_001277115.2(DNAH11):c.7507G>T (p.Gly2503Ter)	8701	DNAH11	Pathogenic	GRCh38	2981562
+single nucleotide variant	NM_001277115.2(DNAH11):c.3648+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	2982271
+single nucleotide variant	NM_001277115.2(DNAH11):c.12213C>A (p.Cys4071Ter)	8701	DNAH11	Pathogenic	GRCh38	2983743
+single nucleotide variant	NM_001277115.2(DNAH11):c.4944+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	3000184
+single nucleotide variant	NM_001277115.2(DNAH11):c.4658C>G (p.Ser1553Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	3012481
+single nucleotide variant	NM_001277115.2(DNAH11):c.7438C>T (p.Gln2480Ter)	8701	DNAH11	Pathogenic	GRCh38	3014239
+single nucleotide variant	NM_001277115.2(DNAH11):c.5779-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	3017615
+single nucleotide variant	NM_001277115.2(DNAH11):c.693-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	3019952
+single nucleotide variant	NM_001277115.2(DNAH11):c.4095+1G>A	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	3026645
+single nucleotide variant	NM_001277115.2(DNAH11):c.11615G>A (p.Trp3872Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3062245
+single nucleotide variant	NM_001277115.2(DNAH11):c.11986A>T (p.Lys3996Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3065596
+single nucleotide variant	NM_001277115.2(DNAH11):c.2956C>T (p.Gln986Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3234932
+single nucleotide variant	NM_001277115.2(DNAH11):c.7915-2A>G	8701	DNAH11	Likely pathogenic	GRCh38	3344457
+single nucleotide variant	NM_001277115.2(DNAH11):c.31C>T (p.Arg11Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3355200
+single nucleotide variant	NM_001277115.2(DNAH11):c.9952C>T (p.Gln3318Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3594488
+single nucleotide variant	NM_001277115.2(DNAH11):c.10569-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	3594489
+single nucleotide variant	NM_001277115.2(DNAH11):c.5249G>A (p.Trp1750Ter)	8701	DNAH11	Pathogenic	GRCh38	3604008
+single nucleotide variant	NM_001277115.2(DNAH11):c.5250G>A (p.Trp1750Ter)	8701	DNAH11	Pathogenic	GRCh38	3612784
+single nucleotide variant	NM_001277115.2(DNAH11):c.13162+1G>C	8701	DNAH11	Likely pathogenic	GRCh38	3625486
+single nucleotide variant	NM_001277115.2(DNAH11):c.9597+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	3619470
+single nucleotide variant	NM_001277115.2(DNAH11):c.12369C>A (p.Tyr4123Ter)	8701	DNAH11	Pathogenic	GRCh38	3645380
+single nucleotide variant	NM_001277115.2(DNAH11):c.11496+1G>C	8701	DNAH11	Pathogenic	GRCh38	3659409
+single nucleotide variant	NM_001277115.2(DNAH11):c.9336+1G>T	8701	DNAH11	Pathogenic	GRCh38	3673385
+single nucleotide variant	NM_001277115.2(DNAH11):c.11741T>A (p.Leu3914Ter)	8701	DNAH11	Pathogenic	GRCh38	3671798
+single nucleotide variant	NM_001277115.2(DNAH11):c.3442G>T (p.Glu1148Ter)	8701	DNAH11	Pathogenic	GRCh38	3675179
+single nucleotide variant	NM_001277115.2(DNAH11):c.127G>T (p.Glu43Ter)	8701	DNAH11	Pathogenic	GRCh38	3687647
+single nucleotide variant	NM_001277115.2(DNAH11):c.10026+1G>C	8701	DNAH11	Pathogenic	GRCh38	3706246
+single nucleotide variant	NM_001277115.2(DNAH11):c.9742-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	3712473
+single nucleotide variant	NM_001277115.2(DNAH11):c.8411G>A (p.Trp2804Ter)	8701	DNAH11	Pathogenic	GRCh38	3703576
+single nucleotide variant	NM_001277115.2(DNAH11):c.10898T>A (p.Leu3633Ter)	8701	DNAH11	Pathogenic	GRCh38	3716600
+single nucleotide variant	NM_001277115.2(DNAH11):c.11198T>A (p.Leu3733Ter)	8701	DNAH11	Pathogenic	GRCh38	3728236
+single nucleotide variant	NM_001277115.2(DNAH11):c.12751-1G>A	8701	DNAH11	Pathogenic	GRCh38	3722020
+single nucleotide variant	NM_001277115.2(DNAH11):c.1974-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	3776908
+single nucleotide variant	NM_001277115.2(DNAH11):c.2169+2T>C	8701	DNAH11	Likely pathogenic	GRCh38	3776910
+single nucleotide variant	NM_001277115.2(DNAH11):c.2712G>A (p.Trp904Ter)	8701	DNAH11	Pathogenic	GRCh38	3776912
+single nucleotide variant	NM_001277115.2(DNAH11):c.3727G>T (p.Glu1243Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3776915
+single nucleotide variant	NM_001277115.2(DNAH11):c.3898C>T (p.Gln1300Ter)	8701	DNAH11	Pathogenic	GRCh38	3776917
+single nucleotide variant	NM_001277115.2(DNAH11):c.4012-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	3776918
+single nucleotide variant	NM_001277115.2(DNAH11):c.4130G>A (p.Trp1377Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3776919
+single nucleotide variant	NM_001277115.2(DNAH11):c.4669C>T (p.Arg1557Ter)	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	3776922
+single nucleotide variant	NM_001277115.2(DNAH11):c.4942C>T (p.Gln1648Ter)	8701	DNAH11	Pathogenic	GRCh38	3776923
+single nucleotide variant	NM_001277115.2(DNAH11):c.5328+1G>T	8701	DNAH11	Likely pathogenic	GRCh38	3776924
+single nucleotide variant	NM_001277115.2(DNAH11):c.7134+1G>A	8701	DNAH11	Pathogenic	GRCh38	3776932
+single nucleotide variant	NM_001277115.2(DNAH11):c.8005C>T (p.Gln2669Ter)	8701	DNAH11	Pathogenic	GRCh38	3776935
+single nucleotide variant	NM_001277115.2(DNAH11):c.8632C>T (p.Gln2878Ter)	8701	DNAH11	Likely pathogenic	GRCh38	3776939
+single nucleotide variant	NM_001277115.2(DNAH11):c.9103-2A>C	8701	DNAH11	Likely pathogenic	GRCh38	3776940
+single nucleotide variant	NM_001277115.2(DNAH11):c.12507+1G>C	8701	DNAH11	Pathogenic	GRCh38	3776947
+single nucleotide variant	NM_001277115.2(DNAH11):c.7440+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	3899481
+single nucleotide variant	NM_001277115.2(DNAH11):c.4629G>A (p.Trp1543Ter)	8701	DNAH11	Pathogenic	GRCh38	3901113
+single nucleotide variant	NM_001277115.2(DNAH11):c.13147C>T (p.Gln4383Ter)	8701	DNAH11	Pathogenic	GRCh38	4075254
+single nucleotide variant	NM_001277115.2(DNAH11):c.886C>T (p.Gln296Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4278312
+single nucleotide variant	NM_001277115.2(DNAH11):c.9336+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4535701
+single nucleotide variant	NM_001277115.2(DNAH11):c.13300G>T (p.Glu4434Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4603098
+single nucleotide variant	NM_001277115.2(DNAH11):c.4817+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4604005
+single nucleotide variant	NM_001277115.2(DNAH11):c.12193C>T (p.Gln4065Ter)	8701	DNAH11	Pathogenic	GRCh38	4704285
+single nucleotide variant	NM_001277115.2(DNAH11):c.6684-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4692728
+single nucleotide variant	NM_001277115.2(DNAH11):c.13254T>G (p.Tyr4418Ter)	8701	DNAH11	Pathogenic	GRCh38	4703788
+single nucleotide variant	NM_001277115.2(DNAH11):c.1116G>A (p.Trp372Ter)	8701	DNAH11	Pathogenic	GRCh38	4718629
+single nucleotide variant	NM_001277115.2(DNAH11):c.7135-1G>C	8701	DNAH11	Likely pathogenic	GRCh38	4712647
+single nucleotide variant	NM_001277115.2(DNAH11):c.13495G>T (p.Glu4499Ter)	8701	DNAH11	Pathogenic	GRCh38	4723553
+single nucleotide variant	NM_001277115.2(DNAH11):c.7267-2A>C	8701	DNAH11	Likely pathogenic	GRCh38	4730053
+single nucleotide variant	NM_001277115.2(DNAH11):c.10896+1G>T	8701	DNAH11	Pathogenic/Likely pathogenic	GRCh38	4728046
+single nucleotide variant	NM_001277115.2(DNAH11):c.11616G>A (p.Trp3872Ter)	8701	DNAH11	Pathogenic	GRCh38	4736128
+single nucleotide variant	NM_001277115.2(DNAH11):c.11690+1G>T	8701	DNAH11	Likely pathogenic	GRCh38	4723893
+single nucleotide variant	NM_001277115.2(DNAH11):c.10525A>T (p.Lys3509Ter)	8701	DNAH11	Pathogenic	GRCh38	4725333
+single nucleotide variant	NM_001277115.2(DNAH11):c.976G>T (p.Glu326Ter)	8701	DNAH11	Pathogenic	GRCh38	4730588
+single nucleotide variant	NM_001277115.2(DNAH11):c.5328+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4743712
+single nucleotide variant	NM_001277115.2(DNAH11):c.8797+1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4771409
+single nucleotide variant	NM_001277115.2(DNAH11):c.2346C>A (p.Tyr782Ter)	8701	DNAH11	Pathogenic	GRCh38	4772354
+single nucleotide variant	NM_001277115.2(DNAH11):c.6984-1G>A	8701	DNAH11	Likely pathogenic	GRCh38	4766869
+single nucleotide variant	NM_001277115.2(DNAH11):c.4628G>A (p.Trp1543Ter)	8701	DNAH11	Pathogenic	GRCh38	4808827
+single nucleotide variant	NM_001277115.2(DNAH11):c.11990G>A (p.Trp3997Ter)	8701	DNAH11	Pathogenic	GRCh38	4806397
+single nucleotide variant	NM_001277115.2(DNAH11):c.5094+1G>T	8701	DNAH11	Pathogenic	GRCh38	4804285
+single nucleotide variant	NM_001277115.2(DNAH11):c.3989G>A (p.Trp1330Ter)	8701	DNAH11	Pathogenic	GRCh38	4808099
+single nucleotide variant	NM_001277115.2(DNAH11):c.4498C>T (p.Gln1500Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4818930
+single nucleotide variant	NM_001277115.2(DNAH11):c.11083G>T (p.Glu3695Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4820191
+single nucleotide variant	NM_001277115.2(DNAH11):c.6475C>T (p.Gln2159Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4820192
+single nucleotide variant	NM_001277115.2(DNAH11):c.2622C>G (p.Tyr874Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4851855
+single nucleotide variant	NM_001277115.2(DNAH11):c.790C>T (p.Gln264Ter)	8701	DNAH11	Likely pathogenic	GRCh38	4856233

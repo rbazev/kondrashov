@@ -1,0 +1,58 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000349.3(STAR):c.772C>T (p.Gln258Ter)	6770	STAR	Pathogenic	GRCh38	8987
+single nucleotide variant	NM_000349.3(STAR):c.545G>T (p.Arg182Leu)	6770	STAR	Pathogenic	GRCh38	8988
+single nucleotide variant	NM_000349.3(STAR):c.749G>A (p.Trp250Ter)	6770	STAR	Pathogenic	GRCh38	8991
+single nucleotide variant	NM_000349.3(STAR):c.650G>C (p.Arg217Thr)	6770	STAR	Pathogenic	GRCh38	8992
+single nucleotide variant	NM_000349.3(STAR):c.653C>T (p.Ala218Val)	6770	STAR	Pathogenic	GRCh38	8993
+single nucleotide variant	NM_000349.3(STAR):c.545G>A (p.Arg182His)	6770	STAR	Pathogenic	GRCh38	8995
+single nucleotide variant	NM_000349.3(STAR):c.559G>A (p.Val187Met)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	8996
+single nucleotide variant	NM_000349.3(STAR):c.562C>T (p.Arg188Cys)	6770	STAR	Pathogenic	GRCh38	8997
+single nucleotide variant	NM_000349.3(STAR):c.577C>T (p.Arg193Ter)	6770	STAR	Pathogenic	GRCh38	35553
+single nucleotide variant	NM_000349.3(STAR):c.745-1G>C	6770	STAR	Likely pathogenic	GRCh38	448534
+single nucleotide variant	NM_000349.3(STAR):c.505G>A (p.Glu169Lys)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	448533
+single nucleotide variant	NM_000349.3(STAR):c.779T>C (p.Leu260Pro)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	553482
+single nucleotide variant	NM_000349.3(STAR):c.544C>T (p.Arg182Cys)	6770	STAR	Pathogenic	GRCh38	550550
+single nucleotide variant	NM_000349.3(STAR):c.179-2A>G	6770	STAR	Likely pathogenic	GRCh38	555439
+single nucleotide variant	NM_000349.3(STAR):c.178+1G>C	6770	STAR	Likely pathogenic	GRCh38	557688
+single nucleotide variant	NM_000349.3(STAR):c.651-1G>C	6770	STAR	Likely pathogenic	GRCh38	558210
+single nucleotide variant	NM_000349.3(STAR):c.574C>T (p.Arg192Cys)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	551230
+single nucleotide variant	NM_000349.3(STAR):c.814C>T (p.Arg272Cys)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	550766
+single nucleotide variant	NM_000349.3(STAR):c.229C>T (p.Gln77Ter)	6770	STAR	Pathogenic	GRCh38	553713
+single nucleotide variant	NM_000349.3(STAR):c.64+2T>C	6770	STAR	Likely pathogenic	GRCh38	557853
+single nucleotide variant	NM_000349.3(STAR):c.64+1G>T	6770	STAR	Pathogenic	GRCh38	550998
+single nucleotide variant	NM_000349.3(STAR):c.661G>A (p.Gly221Ser)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	661662
+single nucleotide variant	NM_000349.3(STAR):c.42C>A (p.Tyr14Ter)	6770	STAR	Pathogenic	GRCh38	943469
+single nucleotide variant	NM_000349.3(STAR):c.824T>C (p.Leu275Pro)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	957675
+single nucleotide variant	NM_000349.3(STAR):c.307-1G>A	6770	STAR	Likely pathogenic	GRCh38	1066647
+single nucleotide variant	NM_000349.3(STAR):c.144G>A (p.Trp48Ter)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	1074325
+single nucleotide variant	NM_000349.3(STAR):c.76C>T (p.Gln26Ter)	6770	STAR	Pathogenic	GRCh38	1068479
+single nucleotide variant	NM_000349.3(STAR):c.64+1G>A	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	1070762
+single nucleotide variant	NM_000349.3(STAR):c.650+1G>A	6770	STAR	Likely pathogenic	GRCh38	1325150
+single nucleotide variant	NM_000349.3(STAR):c.815G>A (p.Arg272His)	6770	STAR	Likely pathogenic	GRCh38	1334169
+single nucleotide variant	NM_000349.3(STAR):c.319A>T (p.Lys107Ter)	6770	STAR	Pathogenic	GRCh38	1439981
+single nucleotide variant	NM_000349.3(STAR):c.441G>A (p.Trp147Ter)	6770	STAR	Pathogenic	GRCh38	1452094
+single nucleotide variant	NM_000349.3(STAR):c.650+2T>A	6770	STAR	Likely pathogenic	GRCh38	1345686
+single nucleotide variant	NM_000349.3(STAR):c.465+2T>C	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	1428946
+single nucleotide variant	NM_000349.3(STAR):c.436G>T (p.Glu146Ter)	6770	STAR	Likely pathogenic	GRCh38	1725060
+single nucleotide variant	NM_000349.3(STAR):c.475A>T (p.Lys159Ter)	6770	STAR	Likely pathogenic	GRCh38	1726590
+single nucleotide variant	NM_000349.3(STAR):c.306+1G>A	6770	STAR	Likely pathogenic	GRCh38	1811118
+single nucleotide variant	NM_000349.3(STAR):c.674T>C (p.Met225Thr)	6770	STAR	Likely pathogenic	GRCh38	2577277
+single nucleotide variant	NM_000349.3(STAR):c.367G>A (p.Glu123Lys)	6770	STAR	Likely pathogenic	GRCh38	2633643
+single nucleotide variant	NM_000349.3(STAR):c.637A>T (p.Lys213Ter)	6770	STAR	Pathogenic	GRCh38	2739260
+single nucleotide variant	NM_000349.3(STAR):c.307-1G>C	6770	STAR	Likely pathogenic	GRCh38	2771282
+single nucleotide variant	NM_000349.3(STAR):c.402T>A (p.Tyr134Ter)	6770	STAR	Pathogenic	GRCh38	2782096
+single nucleotide variant	NM_000349.3(STAR):c.723G>A (p.Trp241Ter)	6770	STAR	Pathogenic	GRCh38	2830333
+single nucleotide variant	NM_000349.3(STAR):c.306+1G>T	6770	STAR	Likely pathogenic	GRCh38	2848064
+single nucleotide variant	NM_000349.3(STAR):c.472C>T (p.Gln158Ter)	6770	STAR	Pathogenic	GRCh38	2995568
+single nucleotide variant	NM_000349.3(STAR):c.544C>A (p.Arg182Ser)	6770	STAR	Likely pathogenic	GRCh38	3251758
+single nucleotide variant	NM_000349.3(STAR):c.744+1G>A	6770	STAR	Likely pathogenic	GRCh38	3595555
+single nucleotide variant	NM_000349.3(STAR):c.652G>A (p.Ala218Thr)	6770	STAR	Likely pathogenic	GRCh38	3595558
+single nucleotide variant	NM_000349.3(STAR):c.651-2A>G	6770	STAR	Likely pathogenic	GRCh38	3595559
+single nucleotide variant	NM_000349.3(STAR):c.288G>A (p.Trp96Ter)	6770	STAR	Likely pathogenic	GRCh38	3595570
+single nucleotide variant	NM_000349.3(STAR):c.37T>C (p.Ser13Pro)	6770	STAR	Pathogenic/Likely pathogenic	GRCh38	4062011
+single nucleotide variant	NM_000349.3(STAR):c.444C>A (p.Asn148Lys)	6770	STAR	Likely pathogenic	GRCh38	4062012
+single nucleotide variant	NM_000349.3(STAR):c.143G>A (p.Trp48Ter)	6770	STAR	Likely pathogenic	GRCh38	4818219
+single nucleotide variant	NM_000349.3(STAR):c.465+2T>A	6770	STAR	Pathogenic	GRCh38	4818220
+single nucleotide variant	NM_000349.3(STAR):c.470T>C (p.Leu157Pro)	6770	STAR	Likely pathogenic	GRCh38	4818221
+single nucleotide variant	NM_000349.3(STAR):c.659A>G (p.His220Arg)	6770	STAR	Likely pathogenic	GRCh38	4818225
+single nucleotide variant	NM_000349.3(STAR):c.672C>A (p.Cys224Ter)	6770	STAR	Likely pathogenic	GRCh38	4818226

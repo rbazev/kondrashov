@@ -1,0 +1,102 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000500.9(CYP21A2):c.518T>A (p.Ile173Asn)	1589	CYP21A2	Pathogenic	GRCh38	12150
+single nucleotide variant	NM_000500.9(CYP21A2):c.844G>T (p.Val282Leu)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	12151
+single nucleotide variant	NM_000500.9(CYP21A2):c.92C>T (p.Pro31Leu)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	12153
+single nucleotide variant	NM_000500.9(CYP21A2):c.293-13C>G	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	12155
+single nucleotide variant	NM_000500.9(CYP21A2):c.874G>A (p.Gly292Ser)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	12156
+single nucleotide variant	NM_000500.9(CYP21A2):c.1360C>T (p.Pro454Ser)	1589	CYP21A2	Pathogenic	GRCh38	12159
+single nucleotide variant	NM_000500.9(CYP21A2):c.939+1G>C	1589	CYP21A2	Pathogenic	GRCh38	12168
+single nucleotide variant	NM_000500.9(CYP21A2):c.1019G>A (p.Arg340His)	1589	CYP21A2	Pathogenic	GRCh38	1341485
+single nucleotide variant	NM_000500.9(CYP21A2):c.1217G>A (p.Trp406Ter)	1589	CYP21A2	Pathogenic	GRCh38	12171
+single nucleotide variant	NM_000500.9(CYP21A2):c.1280G>A (p.Arg427His)	1589	CYP21A2	Pathogenic	GRCh38	12175
+single nucleotide variant	NM_000500.9(CYP21A2):c.293-2A>G	1589	CYP21A2	Pathogenic	GRCh38	12177
+single nucleotide variant	NM_000500.9(CYP21A2):c.1225C>T (p.Arg409Cys)	1589	CYP21A2	Pathogenic	GRCh38	12179
+single nucleotide variant	NM_000500.9(CYP21A2):c.1126G>A (p.Gly376Ser)	1589	CYP21A2	Pathogenic	GRCh38	12181
+single nucleotide variant	NM_000500.9(CYP21A2):c.710T>A (p.Ile237Asn)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	242761
+single nucleotide variant	NM_000500.9(CYP21A2):c.377C>G (p.Ser126Ter)	1589	CYP21A2	Pathogenic	GRCh38	375321
+single nucleotide variant	NM_000500.9(CYP21A2):c.274A>G (p.Arg92Gly)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	448906
+single nucleotide variant	NM_000500.9(CYP21A2):c.1118G>A (p.Ser373Asn)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	448899
+single nucleotide variant	NM_000500.9(CYP21A2):c.1136T>A (p.Ile379Asn)	1589	CYP21A2	Likely pathogenic	GRCh38	448904
+single nucleotide variant	NM_000500.9(CYP21A2):c.1279C>T (p.Arg427Cys)	1589	CYP21A2	Pathogenic	GRCh38	585748
+single nucleotide variant	NM_000500.9(CYP21A2):c.1451G>A (p.Arg484Gln)	1589	CYP21A2	Pathogenic	GRCh38	585750
+single nucleotide variant	NM_000500.9(CYP21A2):c.1447C>T (p.Pro483Ser)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	596309
+single nucleotide variant	NM_000500.9(CYP21A2):c.850A>G (p.Met284Val)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	800926
+single nucleotide variant	NM_000500.9(CYP21A2):c.509G>A (p.Cys170Tyr)	1589	CYP21A2	Pathogenic	GRCh38	800621
+single nucleotide variant	NM_000500.9(CYP21A2):c.525C>A (p.Tyr175Ter)	1589	CYP21A2	Pathogenic	GRCh38	800622
+single nucleotide variant	NM_000500.9(CYP21A2):c.559T>G (p.Leu187Val)	1589	CYP21A2	Likely pathogenic	GRCh38	800625
+single nucleotide variant	NM_000500.9(CYP21A2):c.754G>A (p.Gly252Ser)	1589	CYP21A2	Likely pathogenic	GRCh38	800632
+single nucleotide variant	NM_000500.9(CYP21A2):c.782T>C (p.Met261Thr)	1589	CYP21A2	Likely pathogenic	GRCh38	800634
+single nucleotide variant	NM_000500.9(CYP21A2):c.782T>G (p.Met261Arg)	1589	CYP21A2	Likely pathogenic	GRCh38	800633
+single nucleotide variant	NM_000500.9(CYP21A2):c.1272C>A (p.Cys424Ter)	1589	CYP21A2	Pathogenic	GRCh38	800601
+single nucleotide variant	NM_000500.9(CYP21A2):c.1291G>A (p.Gly431Ser)	1589	CYP21A2	Pathogenic	GRCh38	800602
+single nucleotide variant	NM_000500.9(CYP21A2):c.60G>A (p.Trp20Ter)	1589	CYP21A2	Pathogenic	GRCh38	804727
+single nucleotide variant	NM_000500.9(CYP21A2):c.1273G>A (p.Gly425Ser)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	804725
+single nucleotide variant	NM_000500.9(CYP21A2):c.-113G>A	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	987867
+single nucleotide variant	NM_000500.9(CYP21A2):c.92C>A (p.Pro31Gln)	1589	CYP21A2	Pathogenic	GRCh38	988330
+single nucleotide variant	NM_000500.9(CYP21A2):c.169G>A (p.Gly57Arg)	1589	CYP21A2	Likely pathogenic	GRCh38	988420
+single nucleotide variant	NM_000500.9(CYP21A2):c.418G>A (p.Val140Met)	1589	CYP21A2	Likely pathogenic	GRCh38	988507
+single nucleotide variant	NM_000500.9(CYP21A2):c.515T>A (p.Ile172Asn)	1589	CYP21A2	Pathogenic	GRCh38	988339
+single nucleotide variant	NM_000500.9(CYP21A2):c.955C>G (p.Gln319Glu)	1589	CYP21A2	Pathogenic	GRCh38	988370
+single nucleotide variant	NM_000500.9(CYP21A2):c.1051G>A (p.Ala351Thr)	1589	CYP21A2	Likely pathogenic	GRCh38	988384
+single nucleotide variant	NM_000500.9(CYP21A2):c.1066C>T (p.Leu356=)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	988286
+single nucleotide variant	NM_000500.9(CYP21A2):c.1096C>T (p.His366Tyr)	1589	CYP21A2	Pathogenic	GRCh38	988353
+single nucleotide variant	NM_000500.9(CYP21A2):c.1444C>T (p.Gln482Ter)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	988506
+single nucleotide variant	NM_000500.9(CYP21A2):c.1118+2T>C	1589	CYP21A2	Pathogenic	GRCh38	997808
+single nucleotide variant	NM_000500.9(CYP21A2):c.614G>A (p.Trp205Ter)	1589	CYP21A2	Likely pathogenic	GRCh38	1705550
+single nucleotide variant	NM_000500.9(CYP21A2):c.651+2T>G	1589	CYP21A2	Pathogenic	GRCh38	1119979
+single nucleotide variant	NM_000500.9(CYP21A2):c.949C>T (p.Arg317Ter)	1589	CYP21A2	Pathogenic	GRCh38	1174727
+single nucleotide variant	NM_000500.9(CYP21A2):c.1274G>T (p.Gly425Val)	1589	CYP21A2	Likely pathogenic	GRCh38	1264327
+single nucleotide variant	NM_000500.9(CYP21A2):c.1451G>C (p.Arg484Pro)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	1264335
+single nucleotide variant	NM_000500.9(CYP21A2):c.1042G>A (p.Ala348Thr)	1589	CYP21A2	Likely pathogenic	GRCh38	1264337
+single nucleotide variant	NM_000500.9(CYP21A2):c.652-1G>A	1589	CYP21A2	Likely pathogenic	GRCh38	1345036
+single nucleotide variant	NM_000500.9(CYP21A2):c.1118+1G>A	1589	CYP21A2	Likely pathogenic	GRCh38	1345039
+single nucleotide variant	NM_000500.9(CYP21A2):c.1450C>T (p.Arg484Trp)	1589	CYP21A2	Pathogenic	GRCh38	1455875
+single nucleotide variant	NM_000500.9(CYP21A2):c.1024C>T (p.Arg342Trp)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	1422248
+single nucleotide variant	NM_000500.9(CYP21A2):c.1A>G (p.Met1Val)	1589	CYP21A2	Pathogenic	GRCh38	1451630
+single nucleotide variant	NM_000500.9(CYP21A2):c.116A>T (p.His39Leu)	1589	CYP21A2	Pathogenic	GRCh38	1451631
+single nucleotide variant	NM_000500.9(CYP21A2):c.124C>T (p.Gln42Ter)	1589	CYP21A2	Pathogenic	GRCh38	1458325
+single nucleotide variant	NM_000500.9(CYP21A2):c.874G>C (p.Gly292Arg)	1589	CYP21A2	Likely pathogenic	GRCh38	1498831
+single nucleotide variant	NM_000500.9(CYP21A2):c.1063C>T (p.Arg355Cys)	1589	CYP21A2	Likely pathogenic	GRCh38	1675313
+single nucleotide variant	NM_000500.9(CYP21A2):c.292+1G>A	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	1687149
+single nucleotide variant	NM_000500.9(CYP21A2):c.341C>T (p.Ser114Phe)	1589	CYP21A2	Likely pathogenic	GRCh38	1705450
+single nucleotide variant	NM_000500.9(CYP21A2):c.397C>T (p.Arg133Cys)	1589	CYP21A2	Likely pathogenic	GRCh38	1807426
+single nucleotide variant	NM_000500.9(CYP21A2):c.847C>A (p.His283Asn)	1589	CYP21A2	Likely pathogenic	GRCh38	2136374
+single nucleotide variant	NM_000500.9(CYP21A2):c.1333C>T (p.Arg445Ter)	1589	CYP21A2	Pathogenic	GRCh38	2136376
+single nucleotide variant	NM_000500.9(CYP21A2):c.1108C>T (p.Arg370Trp)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	2084270
+single nucleotide variant	NM_000500.9(CYP21A2):c.1064G>A (p.Arg355His)	1589	CYP21A2	Likely pathogenic	GRCh38	2503931
+single nucleotide variant	NM_000500.9(CYP21A2):c.91C>T (p.Pro31Ser)	1589	CYP21A2	Likely pathogenic	GRCh38	2573056
+single nucleotide variant	NM_000500.9(CYP21A2):c.497C>G (p.Ser166Cys)	1589	CYP21A2	Likely pathogenic	GRCh38	2573057
+single nucleotide variant	NM_000500.9(CYP21A2):c.1298C>T (p.Pro433Leu)	1589	CYP21A2	Likely pathogenic	GRCh38	2627163
+single nucleotide variant	NM_000500.9(CYP21A2):c.1160C>T (p.Pro387Leu)	1589	CYP21A2	Likely pathogenic	GRCh38	2635968
+single nucleotide variant	NM_000500.9(CYP21A2):c.484G>T (p.Glu162Ter)	1589	CYP21A2	Pathogenic	GRCh38	2734841
+single nucleotide variant	NM_000500.9(CYP21A2):c.1011C>G (p.Tyr337Ter)	1589	CYP21A2	Pathogenic	GRCh38	2734843
+single nucleotide variant	NM_000500.9(CYP21A2):c.1226G>T (p.Arg409Leu)	1589	CYP21A2	Pathogenic	GRCh38	3030523
+single nucleotide variant	NM_000500.9(CYP21A2):c.233T>C (p.Ile78Thr)	1589	CYP21A2	Pathogenic	GRCh38	3032291
+single nucleotide variant	NM_000500.9(CYP21A2):c.68G>A (p.Trp23Ter)	1589	CYP21A2	Pathogenic/Likely pathogenic	GRCh38	3064076
+single nucleotide variant	NM_000500.9(CYP21A2):c.59G>A (p.Trp20Ter)	1589	CYP21A2	Pathogenic	GRCh38	3254748
+single nucleotide variant	NM_000500.9(CYP21A2):c.449G>C (p.Arg150Pro)	1589	CYP21A2	Likely pathogenic	GRCh38	3339653
+single nucleotide variant	NM_000500.9(CYP21A2):c.341C>A (p.Ser114Tyr)	1589	CYP21A2	Likely pathogenic	GRCh38	3347624
+single nucleotide variant	NM_000500.9(CYP21A2):c.958G>T (p.Glu320Ter)	1589	CYP21A2	Pathogenic	GRCh38	3347521
+single nucleotide variant	NM_000500.9(CYP21A2):c.292+5G>A	1589	CYP21A2	Pathogenic	GRCh38	3354998
+single nucleotide variant	NM_000500.9(CYP21A2):c.535G>A (p.Gly179Arg)	1589	CYP21A2	Pathogenic	GRCh38	3356669
+single nucleotide variant	NM_000500.9(CYP21A2):c.1294G>A (p.Glu432Lys)	1589	CYP21A2	Likely pathogenic	GRCh38	3382047
+single nucleotide variant	NM_000500.9(CYP21A2):c.-126C>T	1589	CYP21A2	Likely pathogenic	GRCh38	3383066
+single nucleotide variant	NM_000500.9(CYP21A2):c.-110T>C	1589	CYP21A2	Likely pathogenic	GRCh38	3383067
+single nucleotide variant	NM_000500.9(CYP21A2):c.1131C>G (p.Tyr377Ter)	1589	CYP21A2	Likely pathogenic	GRCh38	3384201
+single nucleotide variant	NM_000500.9(CYP21A2):c.1025G>C (p.Arg342Pro)	1589	CYP21A2	Pathogenic	GRCh38	3572102
+single nucleotide variant	NM_000500.9(CYP21A2):c.508T>C (p.Cys170Arg)	1589	CYP21A2	Likely pathogenic	GRCh38	3896660
+single nucleotide variant	NM_000500.9(CYP21A2):c.925C>T (p.Leu309Phe)	1589	CYP21A2	Likely pathogenic	GRCh38	3907234
+single nucleotide variant	NM_000500.9(CYP21A2):c.1301T>C (p.Leu434Pro)	1589	CYP21A2	Likely pathogenic	GRCh38	4075783
+single nucleotide variant	NM_000500.9(CYP21A2):c.738+2T>C	1589	CYP21A2	Likely pathogenic	GRCh38	4075796
+single nucleotide variant	NM_000500.9(CYP21A2):c.1088C>T (p.Ala363Val)	1589	CYP21A2	Likely pathogenic	GRCh38	4538550
+single nucleotide variant	NM_000500.9(CYP21A2):c.905C>A (p.Ser302Tyr)	1589	CYP21A2	Pathogenic	GRCh38	4848081
+single nucleotide variant	NM_000500.9(CYP21A2):c.940A>G (p.Ile314Val)	1589	CYP21A2	Likely pathogenic	GRCh38	4889498
+single nucleotide variant	NM_000500.9(CYP21A2):c.1009T>G (p.Tyr337Asp)	1589	CYP21A2	Likely pathogenic	GRCh38	4889499
+single nucleotide variant	NM_000500.9(CYP21A2):c.1109G>A (p.Arg370Gln)	1589	CYP21A2	Likely pathogenic	GRCh38	4889500
+single nucleotide variant	NM_000500.9(CYP21A2):c.1003G>A (p.Val335Ile)	1589	CYP21A2	Likely pathogenic	GRCh38	4889520
+single nucleotide variant	NM_000500.9(CYP21A2):c.772A>T (p.Met258Leu)	1589	CYP21A2	Likely pathogenic	GRCh38	4889604
+single nucleotide variant	NM_000500.9(CYP21A2):c.2T>A (p.Met1Lys)	1589	CYP21A2	Likely pathogenic	GRCh38	4890098
+single nucleotide variant	NM_000500.9(CYP21A2):c.1159C>T (p.Pro387Ser)	1589	CYP21A2	Pathogenic	GRCh38	4890426
+single nucleotide variant	NM_000500.9(CYP21A2):c.1315C>T (p.Leu439Phe)	1589	CYP21A2	Pathogenic	GRCh38	4890427
+single nucleotide variant	NM_000500.9(CYP21A2):c.1307G>A (p.Arg436His)	1589	CYP21A2	Pathogenic	GRCh38	4890626
+single nucleotide variant	NM_000500.9(CYP21A2):c.1423C>T (p.Gln475Ter)	1589	CYP21A2	Pathogenic	GRCh38	4890627

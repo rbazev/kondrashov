@@ -1,0 +1,91 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000204.5(CFI):c.1420C>T (p.Arg474Ter)	3426	CFI	Pathogenic/Likely pathogenic	GRCh38	12121
+single nucleotide variant	NM_000204.5(CFI):c.1571A>T (p.Asp524Val)	3426	CFI	Pathogenic	GRCh38	12122
+single nucleotide variant	NM_000204.5(CFI):c.1637G>A (p.Trp546Ter)	3426	CFI	Pathogenic	GRCh38	12123
+single nucleotide variant	NM_000204.5(CFI):c.728G>A (p.Gly243Asp)	3426	CFI	Pathogenic	GRCh38	12124
+single nucleotide variant	NM_000204.5(CFI):c.559C>T (p.Arg187Ter)	3426	CFI	Pathogenic/Likely pathogenic	GRCh38	631934
+single nucleotide variant	NM_000204.5(CFI):c.1118G>C (p.Cys373Ser)	3426	CFI	Likely pathogenic	GRCh38	829988
+single nucleotide variant	NM_000204.5(CFI):c.850T>G (p.Cys284Gly)	3426	CFI	Likely pathogenic	GRCh38	829894
+single nucleotide variant	NM_000204.5(CFI):c.1458G>A (p.Trp486Ter)	3426	CFI	Likely pathogenic	GRCh38	2631786
+single nucleotide variant	NM_000204.5(CFI):c.1429+1G>C	3426	CFI	Pathogenic/Likely pathogenic	GRCh38	1066334
+single nucleotide variant	NM_000204.5(CFI):c.328+1G>A	3426	CFI	Likely pathogenic	GRCh38	1068291
+single nucleotide variant	NM_000204.5(CFI):c.1638G>A (p.Trp546Ter)	3426	CFI	Likely pathogenic	GRCh38	1179053
+single nucleotide variant	NM_000204.5(CFI):c.57+1G>C	3426	CFI	Likely pathogenic	GRCh38	1343352
+single nucleotide variant	NM_000204.5(CFI):c.329-2A>G	3426	CFI	Likely pathogenic	GRCh38	1511292
+single nucleotide variant	NM_000204.5(CFI):c.772G>A (p.Ala258Thr)	3426	CFI	Pathogenic/Likely pathogenic	GRCh38	1451295
+single nucleotide variant	NM_000204.5(CFI):c.1139A>G (p.His380Arg)	3426	CFI	Pathogenic/Likely pathogenic	GRCh38	2203560
+single nucleotide variant	NM_000204.5(CFI):c.434G>A (p.Trp145Ter)	3426	CFI	Pathogenic	GRCh38	2203565
+single nucleotide variant	NM_000204.5(CFI):c.76G>T (p.Glu26Ter)	3426	CFI	Pathogenic	GRCh38	2022570
+single nucleotide variant	NM_000204.5(CFI):c.1149-1G>A	3426	CFI	Pathogenic	GRCh38	2577424
+single nucleotide variant	NM_000204.5(CFI):c.658+1G>A	3426	CFI	Likely pathogenic	GRCh38	2627275
+single nucleotide variant	NM_000204.5(CFI):c.1384C>T (p.Gln462Ter)	3426	CFI	Likely pathogenic	GRCh38	2683647
+single nucleotide variant	NM_000204.5(CFI):c.310G>T (p.Gly104Ter)	3426	CFI	Pathogenic	GRCh38	2744663
+single nucleotide variant	NM_000204.5(CFI):c.145C>T (p.Gln49Ter)	3426	CFI	Pathogenic	GRCh38	2792277
+single nucleotide variant	NM_000204.5(CFI):c.445G>T (p.Glu149Ter)	3426	CFI	Pathogenic	GRCh38	2881087
+single nucleotide variant	NM_000204.5(CFI):c.1033C>T (p.Arg345Ter)	3426	CFI	Pathogenic	GRCh38	2902474
+single nucleotide variant	NM_000204.5(CFI):c.1487C>T (p.Ser496Phe)	3426	CFI	Likely pathogenic	GRCh38	3236801
+single nucleotide variant	NM_000204.5(CFI):c.905-1G>C	3426	CFI	Likely pathogenic	GRCh38	3589758
+single nucleotide variant	NM_000204.5(CFI):c.773-1G>A	3426	CFI	Likely pathogenic	GRCh38	3589760
+single nucleotide variant	NM_000204.5(CFI):c.772+1G>T	3426	CFI	Likely pathogenic	GRCh38	3589761
+single nucleotide variant	NM_000204.5(CFI):c.748C>T (p.Gln250Ter)	3426	CFI	Likely pathogenic	GRCh38	3589763
+single nucleotide variant	NM_000204.5(CFI):c.57+1G>A	3426	CFI	Likely pathogenic	GRCh38	3589781
+single nucleotide variant	NM_000204.5(CFI):c.1630G>A (p.Val544Met)	3426	CFI	Likely pathogenic	GRCh38	4277676
+single nucleotide variant	NM_000204.5(CFI):c.1149-2A>G	3426	CFI	Pathogenic, low penetrance	GRCh38	4280420
+single nucleotide variant	NM_000204.5(CFI):c.1066G>C (p.Ala356Pro)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280429
+single nucleotide variant	NM_000204.5(CFI):c.316T>C (p.Cys106Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280432
+single nucleotide variant	NM_000204.5(CFI):c.587G>C (p.Cys196Ser)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280433
+single nucleotide variant	NM_000204.5(CFI):c.685T>C (p.Cys229Arg)	3426	CFI	Likely pathogenic	GRCh38	4280434
+single nucleotide variant	NM_000204.5(CFI):c.739T>G (p.Cys247Gly)	3426	CFI	Pathogenic	GRCh38	4280435
+single nucleotide variant	NM_000204.5(CFI):c.979T>C (p.Cys327Arg)	3426	CFI	Likely pathogenic	GRCh38	4280436
+single nucleotide variant	NM_000204.5(CFI):c.160T>C (p.Cys54Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280442
+single nucleotide variant	NM_000204.5(CFI):c.200G>T (p.Cys67Phe)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280446
+single nucleotide variant	NM_000204.5(CFI):c.199T>C (p.Cys67Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280447
+single nucleotide variant	NM_000204.5(CFI):c.491A>T (p.Asp164Val)	3426	CFI	Likely pathogenic	GRCh38	4280449
+single nucleotide variant	NM_000204.5(CFI):c.725A>C (p.Asp242Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280451
+single nucleotide variant	NM_000204.5(CFI):c.737A>C (p.Asp246Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280452
+single nucleotide variant	NM_000204.5(CFI):c.747C>A (p.Asp249Glu)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280454
+single nucleotide variant	NM_000204.5(CFI):c.755A>C (p.Asp252Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280455
+single nucleotide variant	NM_000204.5(CFI):c.866A>T (p.Asp289Val)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280456
+single nucleotide variant	NM_000204.5(CFI):c.930C>A (p.Asp310Glu)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280457
+single nucleotide variant	NM_000204.5(CFI):c.1287C>G (p.Asp429Glu)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280458
+single nucleotide variant	NM_000204.5(CFI):c.1543G>A (p.Asp515Asn)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280460
+single nucleotide variant	NM_000204.5(CFI):c.1555G>T (p.Asp519Tyr)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280461
+single nucleotide variant	NM_000204.5(CFI):c.758A>C (p.Glu253Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280462
+single nucleotide variant	NM_000204.5(CFI):c.869A>C (p.Glu290Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280467
+single nucleotide variant	NM_000204.5(CFI):c.245T>C (p.Phe82Ser)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280471
+single nucleotide variant	NM_000204.5(CFI):c.129C>A (p.Cys43Ter)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280472
+single nucleotide variant	NM_000204.5(CFI):c.373G>A (p.Gly125Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280473
+single nucleotide variant	NM_000204.5(CFI):c.472G>A (p.Gly158Arg)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280474
+single nucleotide variant	NM_000204.5(CFI):c.563G>C (p.Gly188Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280477
+single nucleotide variant	NM_000204.5(CFI):c.727G>C (p.Gly243Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280478
+single nucleotide variant	NM_000204.5(CFI):c.728G>T (p.Gly243Val)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280479
+single nucleotide variant	NM_000204.5(CFI):c.839G>A (p.Gly280Asp)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280484
+single nucleotide variant	NM_000204.5(CFI):c.982G>A (p.Gly328Arg)	3426	CFI	Likely pathogenic	GRCh38	4280485
+single nucleotide variant	NM_000204.5(CFI):c.1045G>A (p.Gly349Arg)	3426	CFI	Pathogenic	GRCh38	4280486
+single nucleotide variant	NM_000204.5(CFI):c.1639G>A (p.Gly547Arg)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280487
+single nucleotide variant	NM_000204.5(CFI):c.212G>T (p.Gly71Val)	3426	CFI	Likely pathogenic	GRCh38	4280491
+single nucleotide variant	NM_000204.5(CFI):c.1109T>A (p.Ile370Asn)	3426	CFI	Likely pathogenic	GRCh38	4280496
+single nucleotide variant	NM_000204.5(CFI):c.1297A>G (p.Ile433Val)	3426	CFI	Likely pathogenic	GRCh38	4280497
+single nucleotide variant	NM_000204.5(CFI):c.1565A>C (p.Lys522Thr)	3426	CFI	Likely pathogenic	GRCh38	4280512
+single nucleotide variant	NM_000204.5(CFI):c.1265A>C (p.Asn422Thr)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280518
+single nucleotide variant	NM_000204.5(CFI):c.1204C>T (p.Pro402Ser)	3426	CFI	Likely pathogenic	GRCh38	4280522
+single nucleotide variant	NM_000204.5(CFI):c.1582C>A (p.Pro528Thr)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280524
+single nucleotide variant	NM_000204.5(CFI):c.651G>C (p.Gln217His)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280527
+single nucleotide variant	NM_000204.5(CFI):c.748C>A (p.Gln250Lys)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280529
+single nucleotide variant	NM_000204.5(CFI):c.162C>A (p.Cys54Ter)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280531
+single nucleotide variant	NM_000204.5(CFI):c.605G>T (p.Arg202Ile)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280532
+single nucleotide variant	NM_000204.5(CFI):c.355G>T (p.Gly119Ter)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280538
+single nucleotide variant	NM_000204.5(CFI):c.1573T>G (p.Ser525Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280543
+single nucleotide variant	NM_000204.5(CFI):c.269G>A (p.Ser90Asn)	3426	CFI	Likely pathogenic	GRCh38	4280546
+single nucleotide variant	NM_000204.5(CFI):c.386T>G (p.Val129Gly)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280552
+single nucleotide variant	NM_000204.5(CFI):c.689T>A (p.Val230Glu)	3426	CFI	Likely pathogenic	GRCh38	4280554
+single nucleotide variant	NM_000204.5(CFI):c.1628T>C (p.Val543Ala)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280559
+single nucleotide variant	NM_000204.5(CFI):c.1122G>T (p.Trp374Cys)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280563
+single nucleotide variant	NM_000204.5(CFI):c.709C>T (p.Gln237Ter)	3426	CFI	Likely pathogenic, low penetrance	GRCh38	4280564
+single nucleotide variant	NM_000204.5(CFI):c.1367G>T (p.Trp456Leu)	3426	CFI	Likely pathogenic	GRCh38	4280565
+single nucleotide variant	NM_000204.5(CFI):c.904G>T (p.Glu302Ter)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280569
+single nucleotide variant	NM_000204.5(CFI):c.913G>T (p.Glu305Ter)	3426	CFI	Pathogenic, low penetrance	GRCh38	4280570
+single nucleotide variant	NM_000204.5(CFI):c.883+1G>C	3426	CFI	Likely pathogenic	GRCh38	4727175
+single nucleotide variant	NM_000204.5(CFI):c.883+2T>A	3426	CFI	Likely pathogenic	GRCh38	4743842
+single nucleotide variant	NM_000204.5(CFI):c.796T>C (p.Cys266Arg)	3426	CFI	Likely pathogenic	GRCh38	4796780
+single nucleotide variant	NM_000204.5(CFI):c.1148+1G>T	3426	CFI	Likely pathogenic	GRCh38	4855422

@@ -1,0 +1,58 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000142.5(FGFR3):c.1138G>A (p.Gly380Arg)	2261	FGFR3	Pathogenic	GRCh38	16327
+single nucleotide variant	NM_000142.5(FGFR3):c.1138G>C (p.Gly380Arg)	2261	FGFR3	Pathogenic	GRCh38	16328
+single nucleotide variant	NM_000142.5(FGFR3):c.1172C>A (p.Ala391Glu)	2261	FGFR3	Pathogenic	GRCh38	16329
+single nucleotide variant	NM_000142.5(FGFR3):c.1123G>T (p.Gly375Cys)	2261	FGFR3	Pathogenic	GRCh38	16330
+single nucleotide variant	NM_000142.5(FGFR3):c.1948A>G (p.Lys650Glu)	2261	FGFR3	Pathogenic	GRCh38	16331
+single nucleotide variant	NM_000142.5(FGFR3):c.742C>T (p.Arg248Cys)	2261	FGFR3	Pathogenic	GRCh38	16332
+single nucleotide variant	NM_000142.5(FGFR3):c.1111A>T (p.Ser371Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16333
+single nucleotide variant	NM_000142.5(FGFR3):c.2419T>G (p.Ter807Gly)	2261	FGFR3	Pathogenic	GRCh38	16334
+single nucleotide variant	NM_000142.5(FGFR3):c.2419T>A (p.Ter807Arg)	2261	FGFR3	Pathogenic	GRCh38	16335
+single nucleotide variant	NM_000142.5(FGFR3):c.2421A>T (p.Ter807Cys)	2261	FGFR3	Pathogenic	GRCh38	16336
+single nucleotide variant	NM_000142.5(FGFR3):c.1620C>A (p.Asn540Lys)	2261	FGFR3	Pathogenic	GRCh38	16337
+single nucleotide variant	NM_000142.5(FGFR3):c.1620C>G (p.Asn540Lys)	2261	FGFR3	Pathogenic	GRCh38	16338
+single nucleotide variant	NM_000142.5(FGFR3):c.746C>G (p.Ser249Cys)	2261	FGFR3	Pathogenic	GRCh38	16339
+single nucleotide variant	NM_000142.5(FGFR3):c.749C>G (p.Pro250Arg)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16340
+single nucleotide variant	NM_000142.5(FGFR3):c.1949A>T (p.Lys650Met)	2261	FGFR3	Pathogenic	GRCh38	16341
+single nucleotide variant	NM_000142.5(FGFR3):c.1118A>G (p.Tyr373Cys)	2261	FGFR3	Pathogenic	GRCh38	16342
+single nucleotide variant	NM_000142.5(FGFR3):c.1619A>C (p.Asn540Thr)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16344
+single nucleotide variant	NM_000142.5(FGFR3):c.1950G>T (p.Lys650Asn)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16346
+single nucleotide variant	NM_000142.5(FGFR3):c.1950G>C (p.Lys650Asn)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16347
+single nucleotide variant	NM_000142.5(FGFR3):c.1948A>C (p.Lys650Gln)	2261	FGFR3	Pathogenic	GRCh38	16348
+single nucleotide variant	NM_000142.5(FGFR3):c.1619A>G (p.Asn540Ser)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16349
+single nucleotide variant	NM_000142.5(FGFR3):c.964G>A (p.Glu322Lys)	2261	FGFR3	Pathogenic	GRCh38	16351
+single nucleotide variant	NM_000142.5(FGFR3):c.1862G>A (p.Arg621His)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16355
+single nucleotide variant	NM_000142.5(FGFR3):c.835A>T (p.Ser279Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16356
+single nucleotide variant	NM_000142.5(FGFR3):c.833A>G (p.Tyr278Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16357
+single nucleotide variant	NM_000142.5(FGFR3):c.251C>T (p.Ser84Leu)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	16358
+single nucleotide variant	NM_000142.5(FGFR3):c.1108G>T (p.Gly370Cys)	2261	FGFR3	Pathogenic	GRCh38	16359
+single nucleotide variant	NM_000142.5(FGFR3):c.2419T>C (p.Ter807Arg)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	65561
+single nucleotide variant	NM_000142.5(FGFR3):c.2420G>T (p.Ter807Leu)	2261	FGFR3	Pathogenic	GRCh38	65562
+single nucleotide variant	NM_000142.5(FGFR3):c.2421A>C (p.Ter807Cys)	2261	FGFR3	Pathogenic	GRCh38	65563
+single nucleotide variant	NM_000142.5(FGFR3):c.2421A>G (p.Ter807Trp)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	65564
+single nucleotide variant	NM_000142.5(FGFR3):c.791C>T (p.Thr264Met)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	1680030
+single nucleotide variant	NM_000142.5(FGFR3):c.1142T>A (p.Val381Glu)	2261	FGFR3	Likely pathogenic	GRCh38	4857846
+single nucleotide variant	NM_000142.5(FGFR3):c.1949A>C (p.Lys650Thr)	2261	FGFR3	Pathogenic	GRCh38	65855
+single nucleotide variant	NM_000142.5(FGFR3):c.970C>G (p.Leu324Val)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	1680048
+single nucleotide variant	NM_000142.5(FGFR3):c.1637C>A (p.Thr546Lys)	2261	FGFR3	Likely pathogenic	GRCh38	156545
+single nucleotide variant	NM_000142.5(FGFR3):c.1618A>G (p.Asn540Asp)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	374828
+single nucleotide variant	NM_000142.5(FGFR3):c.2287C>T (p.Leu763=)	2261	FGFR3	Likely pathogenic	GRCh38	627445
+single nucleotide variant	NM_000142.5(FGFR3):c.1052C>T (p.Ser351Phe)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	649812
+single nucleotide variant	NM_000142.5(FGFR3):c.2420G>C (p.Ter807Ser)	2261	FGFR3	Pathogenic	GRCh38	994395
+single nucleotide variant	NM_000142.5(FGFR3):c.1954A>G (p.Thr652Ala)	2261	FGFR3	Pathogenic	GRCh38	1065490
+single nucleotide variant	NM_000142.5(FGFR3):c.1618A>C (p.Asn540His)	2261	FGFR3	Likely pathogenic	GRCh38	1325830
+single nucleotide variant	NM_000142.5(FGFR3):c.1144G>A (p.Gly382Ser)	2261	FGFR3	Likely pathogenic	GRCh38	1332776
+single nucleotide variant	NM_000142.5(FGFR3):c.1043C>G (p.Ser348Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	1526266
+single nucleotide variant	NM_000142.5(FGFR3):c.1183C>A (p.Leu395Ile)	2261	FGFR3	Likely pathogenic	GRCh38	1679899
+single nucleotide variant	NM_000142.5(FGFR3):c.802G>T (p.Gly268Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	1680033
+single nucleotide variant	NM_000142.5(FGFR3):c.1031C>G (p.Ser344Cys)	2261	FGFR3	Pathogenic/Likely pathogenic	GRCh38	2203500
+single nucleotide variant	NM_000142.5(FGFR3):c.977T>G (p.Leu326Trp)	2261	FGFR3	Likely pathogenic	GRCh38	2502296
+single nucleotide variant	NM_000142.5(FGFR3):c.1910G>A (p.Gly637Glu)	2261	FGFR3	Pathogenic	GRCh38	2582277
+single nucleotide variant	NM_000142.5(FGFR3):c.2089G>A (p.Gly697Ser)	2261	FGFR3	Pathogenic	GRCh38	2582278
+single nucleotide variant	NM_000142.5(FGFR3):c.1144G>T (p.Gly382Cys)	2261	FGFR3	Likely pathogenic	GRCh38	4819622
+single nucleotide variant	NM_000142.5(FGFR3):c.1649C>A (p.Pro550His)	2261	FGFR3	Likely pathogenic	GRCh38	4857786
+single nucleotide variant	NM_000142.5(FGFR3):c.649A>T (p.Ser217Cys)	2261	FGFR3	Likely pathogenic	GRCh38	4857824
+single nucleotide variant	NM_000142.5(FGFR3):c.784A>C (p.Asn262His)	2261	FGFR3	Likely pathogenic	GRCh38	4857829
+single nucleotide variant	NM_000142.5(FGFR3):c.805A>T (p.Ser269Cys)	2261	FGFR3	Likely pathogenic	GRCh38	4857831
+single nucleotide variant	NM_000142.5(FGFR3):c.971T>A (p.Leu324His)	2261	FGFR3	Likely pathogenic	GRCh38	4857838
+single nucleotide variant	NM_000142.5(FGFR3):c.1145G>A (p.Gly382Asp)	2261	FGFR3	Likely pathogenic	GRCh38	4857847

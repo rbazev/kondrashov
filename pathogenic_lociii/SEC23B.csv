@@ -1,0 +1,63 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006363.6(SEC23B):c.325G>A (p.Glu109Lys)	10483	SEC23B	Pathogenic	GRCh38	1222
+single nucleotide variant	NM_006363.6(SEC23B):c.40C>T (p.Arg14Trp)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	1223
+single nucleotide variant	NM_006363.6(SEC23B):c.790C>T (p.Arg264Ter)	10483	SEC23B	Pathogenic	GRCh38	1225
+single nucleotide variant	NM_006363.6(SEC23B):c.970C>T (p.Arg324Ter)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	1226
+single nucleotide variant	NM_006363.6(SEC23B):c.649C>T (p.Arg217Ter)	10483	SEC23B	Pathogenic	GRCh38	1227
+single nucleotide variant	NM_006363.6(SEC23B):c.1571C>T (p.Ala524Val)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	95384
+single nucleotide variant	NM_006363.6(SEC23B):c.689+1G>A	10483	SEC23B	Pathogenic	GRCh38	95389
+single nucleotide variant	NM_006363.6(SEC23B):c.1648C>T (p.Arg550Ter)	10483	SEC23B	Pathogenic	GRCh38	167668
+single nucleotide variant	NM_006363.6(SEC23B):c.1489C>T (p.Arg497Cys)	10483	SEC23B	Pathogenic	GRCh38	167667
+single nucleotide variant	NM_006363.6(SEC23B):c.1404+5G>A	10483	SEC23B	Likely pathogenic	GRCh38	532195
+single nucleotide variant	NM_006363.6(SEC23B):c.1507C>T (p.Arg503Ter)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	570596
+single nucleotide variant	NM_006363.6(SEC23B):c.1201C>T (p.Arg401Ter)	10483	SEC23B	Pathogenic	GRCh38	632368
+single nucleotide variant	NM_006363.6(SEC23B):c.2237C>A (p.Thr746Asn)	10483	SEC23B	Likely pathogenic	GRCh38	812899
+single nucleotide variant	NM_006363.6(SEC23B):c.1561C>T (p.Gln521Ter)	10483	SEC23B	Pathogenic	GRCh38	994247
+single nucleotide variant	NM_006363.6(SEC23B):c.1603C>T (p.Arg535Ter)	10483	SEC23B	Pathogenic	GRCh38	1358676
+single nucleotide variant	NM_006363.6(SEC23B):c.2101C>T (p.Arg701Cys)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	1515145
+single nucleotide variant	NM_006363.6(SEC23B):c.367C>T (p.Arg123Ter)	10483	SEC23B	Pathogenic	GRCh38	1686174
+single nucleotide variant	NM_006363.6(SEC23B):c.640C>T (p.Gln214Ter)	10483	SEC23B	Pathogenic	GRCh38	1806373
+single nucleotide variant	NM_006363.6(SEC23B):c.366+1G>A	10483	SEC23B	Likely pathogenic	GRCh38	2018584
+single nucleotide variant	NM_006363.6(SEC23B):c.221+1G>A	10483	SEC23B	Likely pathogenic	GRCh38	2922360
+single nucleotide variant	NM_006363.6(SEC23B):c.568C>T (p.Arg190Ter)	10483	SEC23B	Pathogenic	GRCh38	2925646
+single nucleotide variant	NM_006363.6(SEC23B):c.938G>A (p.Arg313His)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	2925647
+single nucleotide variant	NM_006363.6(SEC23B):c.953T>C (p.Ile318Thr)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	2925648
+single nucleotide variant	NM_006363.6(SEC23B):c.1589G>A (p.Arg530Gln)	10483	SEC23B	Likely pathogenic	GRCh38	2925650
+single nucleotide variant	NM_006363.6(SEC23B):c.2152C>T (p.Arg718Ter)	10483	SEC23B	Pathogenic	GRCh38	2925652
+single nucleotide variant	NM_006363.6(SEC23B):c.1741C>T (p.Gln581Ter)	10483	SEC23B	Pathogenic	GRCh38	2932853
+single nucleotide variant	NM_006363.6(SEC23B):c.1402C>T (p.Gln468Ter)	10483	SEC23B	Pathogenic	GRCh38	2921892
+single nucleotide variant	NM_006363.6(SEC23B):c.1015C>T (p.Arg339Ter)	10483	SEC23B	Pathogenic	GRCh38	2925278
+single nucleotide variant	NM_006363.6(SEC23B):c.762G>A (p.Trp254Ter)	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	2930623
+single nucleotide variant	NM_006363.6(SEC23B):c.235C>T (p.Arg79Ter)	10483	SEC23B	Pathogenic	GRCh38	2923149
+single nucleotide variant	NM_006363.6(SEC23B):c.835-2A>G	10483	SEC23B	Pathogenic/Likely pathogenic	GRCh38	2922725
+single nucleotide variant	NM_006363.6(SEC23B):c.689+1G>C	10483	SEC23B	Pathogenic	GRCh38	2922899
+single nucleotide variant	NM_006363.6(SEC23B):c.279+1G>A	10483	SEC23B	Likely pathogenic	GRCh38	2935878
+single nucleotide variant	NM_006363.6(SEC23B):c.2212C>T (p.Gln738Ter)	10483	SEC23B	Pathogenic	GRCh38	2939496
+single nucleotide variant	NM_006363.6(SEC23B):c.367-1G>T	10483	SEC23B	Likely pathogenic	GRCh38	2946424
+single nucleotide variant	NM_006363.6(SEC23B):c.249G>A (p.Trp83Ter)	10483	SEC23B	Pathogenic	GRCh38	2940684
+single nucleotide variant	NM_006363.6(SEC23B):c.592A>T (p.Lys198Ter)	10483	SEC23B	Pathogenic	GRCh38	2944168
+single nucleotide variant	NM_006363.6(SEC23B):c.689+1G>T	10483	SEC23B	Pathogenic	GRCh38	2939603
+single nucleotide variant	NM_006363.6(SEC23B):c.1314+1G>A	10483	SEC23B	Likely pathogenic	GRCh38	2944994
+single nucleotide variant	NM_006363.6(SEC23B):c.2202T>A (p.Tyr734Ter)	10483	SEC23B	Pathogenic	GRCh38	2946593
+single nucleotide variant	NM_006363.6(SEC23B):c.1109+1G>C	10483	SEC23B	Likely pathogenic	GRCh38	2951022
+single nucleotide variant	NM_006363.6(SEC23B):c.1660C>T (p.Arg554Ter)	10483	SEC23B	Pathogenic	GRCh38	2950689
+single nucleotide variant	NM_006363.6(SEC23B):c.1905+1G>A	10483	SEC23B	Likely pathogenic	GRCh38	2952986
+single nucleotide variant	NM_006363.6(SEC23B):c.1570G>A (p.Ala524Thr)	10483	SEC23B	Likely pathogenic	GRCh38	3256941
+single nucleotide variant	NM_006363.6(SEC23B):c.221+2T>C	10483	SEC23B	Pathogenic	GRCh38	3257448
+single nucleotide variant	NM_006363.6(SEC23B):c.367-1G>A	10483	SEC23B	Likely pathogenic	GRCh38	3340327
+single nucleotide variant	NM_006363.6(SEC23B):c.1733T>C (p.Leu578Pro)	10483	SEC23B	Pathogenic	GRCh38	3356778
+single nucleotide variant	NM_006363.6(SEC23B):c.994-1G>T	10483	SEC23B	Likely pathogenic	GRCh38	3362374
+single nucleotide variant	NM_006363.6(SEC23B):c.279+2T>C	10483	SEC23B	Pathogenic	GRCh38	3377292
+single nucleotide variant	NM_006363.6(SEC23B):c.454C>T (p.Gln152Ter)	10483	SEC23B	Likely pathogenic	GRCh38	3587096
+single nucleotide variant	NM_006363.6(SEC23B):c.664C>T (p.Gln222Ter)	10483	SEC23B	Likely pathogenic	GRCh38	3587097
+single nucleotide variant	NM_006363.6(SEC23B):c.1512-2A>T	10483	SEC23B	Likely pathogenic	GRCh38	3748985
+single nucleotide variant	NM_006363.6(SEC23B):c.1512-2A>G	10483	SEC23B	Likely pathogenic	GRCh38	3896699
+single nucleotide variant	NM_006363.6(SEC23B):c.1334C>G (p.Thr445Arg)	10483	SEC23B	Likely pathogenic	GRCh38	3896700
+single nucleotide variant	NM_006363.6(SEC23B):c.1736A>G (p.Tyr579Cys)	10483	SEC23B	Likely pathogenic	GRCh38	3896701
+single nucleotide variant	NM_006363.6(SEC23B):c.1968T>G (p.Phe656Leu)	10483	SEC23B	Likely pathogenic	GRCh38	3896704
+single nucleotide variant	NM_006363.6(SEC23B):c.1517C>T (p.Ala506Val)	10483	SEC23B	Likely pathogenic	GRCh38	4077492
+single nucleotide variant	NM_006363.6(SEC23B):c.2148+1G>T	10483	SEC23B	Likely pathogenic	GRCh38	4281619
+single nucleotide variant	NM_006363.6(SEC23B):c.658C>T (p.Gln220Ter)	10483	SEC23B	Likely pathogenic	GRCh38	4281620
+single nucleotide variant	NM_006363.6(SEC23B):c.1906-2A>T	10483	SEC23B	Likely pathogenic	GRCh38	4531745
+single nucleotide variant	NM_006363.6(SEC23B):c.1314+1G>T	10483	SEC23B	Likely pathogenic	GRCh38	4785286
+single nucleotide variant	NM_006363.6(SEC23B):c.1109+1G>A	10483	SEC23B	Pathogenic	GRCh38	4851994

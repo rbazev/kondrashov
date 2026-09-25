@@ -1,0 +1,61 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002435.3(MPI):c.656G>A (p.Arg219Gln)	4351	MPI	Pathogenic	GRCh38	14345
+single nucleotide variant	NM_002435.3(MPI):c.305C>T (p.Ser102Leu)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	14346
+single nucleotide variant	NM_002435.3(MPI):c.413T>C (p.Met138Thr)	4351	MPI	Likely pathogenic	GRCh38	14347
+single nucleotide variant	NM_002435.3(MPI):c.884G>A (p.Arg295His)	4351	MPI	Likely pathogenic	GRCh38	14349
+single nucleotide variant	NM_002435.3(MPI):c.1205A>G (p.Glu402Gly)	4351	MPI	Pathogenic	GRCh38	218094
+single nucleotide variant	NM_002435.3(MPI):c.1253G>A (p.Arg418His)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	218095
+single nucleotide variant	NM_002435.3(MPI):c.145-1G>A	4351	MPI	Likely pathogenic	GRCh38	370541
+single nucleotide variant	NM_002435.3(MPI):c.488-1G>A	4351	MPI	Likely pathogenic	GRCh38	371308
+single nucleotide variant	NM_002435.3(MPI):c.488-1G>C	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	371556
+single nucleotide variant	NM_002435.3(MPI):c.652A>T (p.Lys218Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	370355
+single nucleotide variant	NM_002435.3(MPI):c.727C>T (p.Gln243Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	370615
+single nucleotide variant	NM_002435.3(MPI):c.13C>T (p.Arg5Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	554184
+single nucleotide variant	NM_002435.3(MPI):c.345+1G>A	4351	MPI	Likely pathogenic	GRCh38	556169
+single nucleotide variant	NM_002435.3(MPI):c.844+1G>A	4351	MPI	Likely pathogenic	GRCh38	554263
+single nucleotide variant	NM_002435.3(MPI):c.166C>T (p.Arg56Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	851479
+single nucleotide variant	NM_002435.3(MPI):c.1193T>C (p.Ile398Thr)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	860729
+single nucleotide variant	NM_002435.3(MPI):c.845-2A>G	4351	MPI	Likely pathogenic	GRCh38	834890
+single nucleotide variant	NM_002435.3(MPI):c.169G>A (p.Gly57Arg)	4351	MPI	Likely pathogenic	GRCh38	1012293
+single nucleotide variant	NM_002435.3(MPI):c.145-1G>C	4351	MPI	Likely pathogenic	GRCh38	1066765
+single nucleotide variant	NM_002435.3(MPI):c.844+2T>G	4351	MPI	Likely pathogenic	GRCh38	1470996
+single nucleotide variant	NM_002435.3(MPI):c.1053+2T>C	4351	MPI	Pathogenic	GRCh38	1451527
+single nucleotide variant	NM_002435.3(MPI):c.718C>T (p.Gln240Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	1456895
+single nucleotide variant	NM_002435.3(MPI):c.150G>A (p.Trp50Ter)	4351	MPI	Pathogenic	GRCh38	1376774
+single nucleotide variant	NM_002435.3(MPI):c.251C>G (p.Ser84Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	1405458
+single nucleotide variant	NM_002435.3(MPI):c.613G>T (p.Glu205Ter)	4351	MPI	Pathogenic	GRCh38	1961516
+single nucleotide variant	NM_002435.3(MPI):c.1040T>C (p.Ile347Thr)	4351	MPI	Likely pathogenic	GRCh38	2498621
+single nucleotide variant	NM_002435.3(MPI):c.844+2T>C	4351	MPI	Likely pathogenic	GRCh38	2676651
+single nucleotide variant	NM_002435.3(MPI):c.391G>A (p.Asp131Asn)	4351	MPI	Likely pathogenic	GRCh38	2676654
+single nucleotide variant	NM_002435.3(MPI):c.679G>T (p.Gly227Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	2676657
+single nucleotide variant	NM_002435.3(MPI):c.16+1G>T	4351	MPI	Likely pathogenic	GRCh38	2676658
+single nucleotide variant	NM_002435.3(MPI):c.487+1G>A	4351	MPI	Likely pathogenic	GRCh38	2676659
+single nucleotide variant	NM_002435.3(MPI):c.17-2A>G	4351	MPI	Likely pathogenic	GRCh38	2676660
+single nucleotide variant	NM_002435.3(MPI):c.251C>A (p.Ser84Ter)	4351	MPI	Likely pathogenic	GRCh38	2676665
+single nucleotide variant	NM_002435.3(MPI):c.764A>G (p.Tyr255Cys)	4351	MPI	Likely pathogenic	GRCh38	2676668
+single nucleotide variant	NM_002435.3(MPI):c.43C>T (p.Gln15Ter)	4351	MPI	Pathogenic	GRCh38	2769293
+single nucleotide variant	NM_002435.3(MPI):c.16+1G>A	4351	MPI	Likely pathogenic	GRCh38	2780303
+single nucleotide variant	NM_002435.3(MPI):c.222G>A (p.Trp74Ter)	4351	MPI	Pathogenic	GRCh38	2824025
+single nucleotide variant	NM_002435.3(MPI):c.841G>T (p.Gly281Ter)	4351	MPI	Pathogenic	GRCh38	2859220
+single nucleotide variant	NM_002435.3(MPI):c.144+1G>A	4351	MPI	Likely pathogenic	GRCh38	2896452
+single nucleotide variant	NM_002435.3(MPI):c.144+2T>C	4351	MPI	Likely pathogenic	GRCh38	2992098
+single nucleotide variant	NM_002435.3(MPI):c.1120C>T (p.Gln374Ter)	4351	MPI	Pathogenic/Likely pathogenic	GRCh38	2994645
+single nucleotide variant	NM_002435.3(MPI):c.1030G>C (p.Asp344His)	4351	MPI	Likely pathogenic	GRCh38	3069177
+single nucleotide variant	NM_002435.3(MPI):c.16+2T>C	4351	MPI	Likely pathogenic	GRCh38	3239735
+single nucleotide variant	NM_002435.3(MPI):c.436C>T (p.Gln146Ter)	4351	MPI	Likely pathogenic	GRCh38	3239736
+single nucleotide variant	NM_002435.3(MPI):c.1051G>T (p.Glu351Ter)	4351	MPI	Likely pathogenic	GRCh38	3239739
+single nucleotide variant	NM_002435.3(MPI):c.17-2A>C	4351	MPI	Likely pathogenic	GRCh38	3239740
+single nucleotide variant	NM_002435.3(MPI):c.634C>T (p.Gln212Ter)	4351	MPI	Likely pathogenic	GRCh38	3239743
+single nucleotide variant	NM_002435.3(MPI):c.1252C>T (p.Arg418Cys)	4351	MPI	Likely pathogenic	GRCh38	3358349
+single nucleotide variant	NM_002435.3(MPI):c.253A>T (p.Lys85Ter)	4351	MPI	Likely pathogenic	GRCh38	3577712
+single nucleotide variant	NM_002435.3(MPI):c.488-2A>G	4351	MPI	Likely pathogenic	GRCh38	3577714
+single nucleotide variant	NM_002435.3(MPI):c.1077C>G (p.Tyr359Ter)	4351	MPI	Likely pathogenic	GRCh38	3577719
+single nucleotide variant	NM_002435.3(MPI):c.845-1G>C	4351	MPI	Likely pathogenic	GRCh38	3721792
+single nucleotide variant	NM_002435.3(MPI):c.845-1G>T	4351	MPI	Likely pathogenic	GRCh38	4057863
+single nucleotide variant	NM_002435.3(MPI):c.145-2A>G	4351	MPI	Likely pathogenic	GRCh38	4815034
+single nucleotide variant	NM_002435.3(MPI):c.149G>A (p.Trp50Ter)	4351	MPI	Likely pathogenic	GRCh38	4815035
+single nucleotide variant	NM_002435.3(MPI):c.16+1G>C	4351	MPI	Likely pathogenic	GRCh38	4815036
+single nucleotide variant	NM_002435.3(MPI):c.583C>T (p.Gln195Ter)	4351	MPI	Likely pathogenic	GRCh38	4815041
+single nucleotide variant	NM_002435.3(MPI):c.655C>T (p.Arg219Trp)	4351	MPI	Likely pathogenic	GRCh38	4815042
+single nucleotide variant	NM_002435.3(MPI):c.671-1G>C	4351	MPI	Pathogenic	GRCh38	4888521
+single nucleotide variant	NM_002435.3(MPI):c.1024G>T (p.Val342Leu)	4351	MPI	Likely pathogenic	GRCh38	4890343

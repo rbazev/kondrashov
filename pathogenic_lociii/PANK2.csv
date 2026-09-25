@@ -1,0 +1,88 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001386393.1(PANK2):c.1231G>A (p.Gly411Arg)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	4548
+single nucleotide variant	NM_001386393.1(PANK2):c.240C>G (p.Tyr80Ter)	80025	PANK2	Pathogenic	GRCh38	4549
+single nucleotide variant	NM_001386393.1(PANK2):c.460C>T (p.Arg154Trp)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	4550
+single nucleotide variant	NM_001386393.1(PANK2):c.526C>T (p.Arg176Cys)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	4551
+single nucleotide variant	NM_001386393.1(PANK2):c.1082G>A (p.Ser361Asn)	80025	PANK2	Likely pathogenic	GRCh38	4552
+single nucleotide variant	NM_001386393.1(PANK2):c.721T>C (p.Ser241Pro)	80025	PANK2	Pathogenic	GRCh38	4553
+single nucleotide variant	NM_001386393.1(PANK2):c.1111C>T (p.Arg371Ter)	80025	PANK2	Pathogenic	GRCh38	4557
+single nucleotide variant	NM_001386393.1(PANK2):c.980T>C (p.Met327Thr)	80025	PANK2	Pathogenic	GRCh38	4558
+single nucleotide variant	NM_001386393.1(PANK2):c.1083-1G>T	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	4559
+single nucleotide variant	NM_001386393.1(PANK2):c.203C>A (p.Ser68Ter)	80025	PANK2	Pathogenic	GRCh38	4561
+single nucleotide variant	NM_001386393.1(PANK2):c.962T>C (p.Phe321Ser)	80025	PANK2	Pathogenic	GRCh38	191359
+single nucleotide variant	NM_001386393.1(PANK2):c.-21G>T	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	284671
+single nucleotide variant	NM_001386393.1(PANK2):c.564G>A (p.Met188Ile)	80025	PANK2	Pathogenic	GRCh38	374126
+single nucleotide variant	NM_001386393.1(PANK2):c.739C>T (p.Arg247Trp)	80025	PANK2	Pathogenic	GRCh38	374127
+single nucleotide variant	NM_001386393.1(PANK2):c.*40G>C	80025	PANK2	Likely pathogenic	GRCh38	430728
+single nucleotide variant	NM_001386393.1(PANK2):c.905+1G>T	80025	PANK2	Pathogenic	GRCh38	431115
+single nucleotide variant	NM_001386393.1(PANK2):c.606T>A (p.Cys202Ter)	80025	PANK2	Pathogenic	GRCh38	437451
+single nucleotide variant	NM_001386393.1(PANK2):c.350A>G (p.Tyr117Cys)	80025	PANK2	Pathogenic	GRCh38	456525
+single nucleotide variant	NM_001386393.1(PANK2):c.906-2A>C	80025	PANK2	Pathogenic	GRCh38	526627
+single nucleotide variant	NM_001386393.1(PANK2):c.881A>T (p.Asn294Ile)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	648367
+single nucleotide variant	NM_001386393.1(PANK2):c.1082+1G>C	80025	PANK2	Likely pathogenic	GRCh38	652533
+single nucleotide variant	NM_001386393.1(PANK2):c.1207-3C>G	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	648878
+single nucleotide variant	NM_001386393.1(PANK2):c.1021C>T (p.Arg341Ter)	80025	PANK2	Pathogenic	GRCh38	667397
+single nucleotide variant	NM_001386393.1(PANK2):c.740G>C (p.Arg247Pro)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	803594
+single nucleotide variant	NM_001386393.1(PANK2):c.1151T>C (p.Leu384Ser)	80025	PANK2	Likely pathogenic	GRCh38	803595
+single nucleotide variant	NM_001386393.1(PANK2):c.756C>A (p.Tyr252Ter)	80025	PANK2	Pathogenic	GRCh38	807648
+single nucleotide variant	NM_001386393.1(PANK2):c.1336T>C (p.Tyr446His)	80025	PANK2	Likely pathogenic	GRCh38	945272
+single nucleotide variant	NM_001386393.1(PANK2):c.115G>T (p.Glu39Ter)	80025	PANK2	Pathogenic	GRCh38	937503
+single nucleotide variant	NM_001386393.1(PANK2):c.651+1G>C	80025	PANK2	Likely pathogenic	GRCh38	985806
+single nucleotide variant	NM_001386393.1(PANK2):c.461G>A (p.Arg154Gln)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	987134
+single nucleotide variant	NM_001386393.1(PANK2):c.906-1G>A	80025	PANK2	Likely pathogenic	GRCh38	987135
+single nucleotide variant	NM_001386393.1(PANK2):c.905+1G>C	80025	PANK2	Pathogenic	GRCh38	1030294
+single nucleotide variant	NM_001386393.1(PANK2):c.353T>C (p.Phe118Ser)	80025	PANK2	Pathogenic	GRCh38	1068023
+single nucleotide variant	NM_001386393.1(PANK2):c.766C>A (p.Pro256Thr)	80025	PANK2	Likely pathogenic	GRCh38	1098283
+single nucleotide variant	NM_001386393.1(PANK2):c.1277A>G (p.Tyr426Cys)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	1321409
+single nucleotide variant	NM_001386393.1(PANK2):c.682G>T (p.Glu228Ter)	80025	PANK2	Pathogenic	GRCh38	1323413
+single nucleotide variant	NM_001386393.1(PANK2):c.584C>T (p.Ser195Leu)	80025	PANK2	Likely pathogenic	GRCh38	1335457
+single nucleotide variant	NM_001386393.1(PANK2):c.944T>C (p.Leu315Pro)	80025	PANK2	Pathogenic	GRCh38	1416528
+single nucleotide variant	NM_001386393.1(PANK2):c.652-1G>C	80025	PANK2	Pathogenic	GRCh38	1458749
+single nucleotide variant	NM_001386393.1(PANK2):c.664C>T (p.Gln222Ter)	80025	PANK2	Pathogenic	GRCh38	1696025
+single nucleotide variant	NM_001386393.1(PANK2):c.885C>G (p.Tyr295Ter)	80025	PANK2	Pathogenic	GRCh38	2138325
+single nucleotide variant	NM_001386393.1(PANK2):c.1094T>C (p.Met365Thr)	80025	PANK2	Pathogenic	GRCh38	2138326
+single nucleotide variant	NM_001386393.1(PANK2):c.1370T>A (p.Leu457Ter)	80025	PANK2	Pathogenic	GRCh38	1933981
+single nucleotide variant	NM_001386393.1(PANK2):c.1258G>A (p.Ala420Thr)	80025	PANK2	Pathogenic	GRCh38	2444001
+single nucleotide variant	NM_001386393.1(PANK2):c.325G>A (p.Gly109Ser)	80025	PANK2	Likely pathogenic	GRCh38	2500822
+single nucleotide variant	NM_001386393.1(PANK2):c.1172T>A (p.Ile391Asn)	80025	PANK2	Pathogenic	GRCh38	2506108
+single nucleotide variant	NM_001386393.1(PANK2):c.1129G>A (p.Glu377Lys)	80025	PANK2	Pathogenic	GRCh38	2578555
+single nucleotide variant	NM_001386393.1(PANK2):c.652-2A>G	80025	PANK2	Likely pathogenic	GRCh38	2585485
+single nucleotide variant	NM_001386393.1(PANK2):c.1009G>T (p.Asp337Tyr)	80025	PANK2	Likely pathogenic	GRCh38	2627790
+single nucleotide variant	NM_001386393.1(PANK2):c.104C>A (p.Ser35Ter)	80025	PANK2	Pathogenic	GRCh38	2634258
+single nucleotide variant	NM_001386393.1(PANK2):c.1061C>G (p.Pro354Arg)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	2663128
+single nucleotide variant	NM_001386393.1(PANK2):c.1196C>T (p.Ala399Val)	80025	PANK2	Likely pathogenic	GRCh38	2671967
+single nucleotide variant	NM_001386393.1(PANK2):c.118C>T (p.Gln40Ter)	80025	PANK2	Pathogenic	GRCh38	2719723
+single nucleotide variant	NM_001386393.1(PANK2):c.308G>A (p.Trp103Ter)	80025	PANK2	Pathogenic	GRCh38	2731213
+single nucleotide variant	NM_001386393.1(PANK2):c.299-1G>A	80025	PANK2	Likely pathogenic	GRCh38	2736937
+single nucleotide variant	NM_001386393.1(PANK2):c.445G>A (p.Gly149Arg)	80025	PANK2	Likely pathogenic	GRCh38	2736938
+single nucleotide variant	NM_001386393.1(PANK2):c.635A>G (p.Glu212Gly)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	2736940
+single nucleotide variant	NM_001386393.1(PANK2):c.636G>T (p.Glu212Asp)	80025	PANK2	Pathogenic/Likely pathogenic	GRCh38	2736941
+single nucleotide variant	NM_001386393.1(PANK2):c.1139C>T (p.Ala380Val)	80025	PANK2	Likely pathogenic	GRCh38	2736942
+single nucleotide variant	NM_001386393.1(PANK2):c.1145C>T (p.Ala382Val)	80025	PANK2	Pathogenic	GRCh38	2736943
+single nucleotide variant	NM_001386393.1(PANK2):c.1172T>C (p.Ile391Thr)	80025	PANK2	Pathogenic	GRCh38	2736944
+single nucleotide variant	NM_001386393.1(PANK2):c.1184C>A (p.Ala395Glu)	80025	PANK2	Likely pathogenic	GRCh38	2736945
+single nucleotide variant	NM_001386393.1(PANK2):c.1264C>T (p.Arg422Trp)	80025	PANK2	Likely pathogenic	GRCh38	2736946
+single nucleotide variant	NM_001386393.1(PANK2):c.1330G>A (p.Glu444Lys)	80025	PANK2	Likely pathogenic	GRCh38	2736947
+single nucleotide variant	NM_001386393.1(PANK2):c.1357C>T (p.Leu453Phe)	80025	PANK2	Likely pathogenic	GRCh38	2786445
+single nucleotide variant	NM_001386393.1(PANK2):c.1025A>C (p.Asp342Ala)	80025	PANK2	Likely pathogenic	GRCh38	2834194
+single nucleotide variant	NM_001386393.1(PANK2):c.1083-1G>A	80025	PANK2	Pathogenic	GRCh38	2869523
+single nucleotide variant	NM_001386393.1(PANK2):c.1358T>A (p.Leu453His)	80025	PANK2	Pathogenic	GRCh38	2869524
+single nucleotide variant	NM_001386393.1(PANK2):c.1025A>T (p.Asp342Val)	80025	PANK2	Likely pathogenic	GRCh38	3001570
+single nucleotide variant	NM_001386393.1(PANK2):c.817T>C (p.Tyr273His)	80025	PANK2	Likely pathogenic	GRCh38	2997374
+single nucleotide variant	NM_001386393.1(PANK2):c.1358T>C (p.Leu453Pro)	80025	PANK2	Likely pathogenic	GRCh38	3374963
+single nucleotide variant	NM_001386393.1(PANK2):c.1169A>T (p.Asn390Ile)	80025	PANK2	Likely pathogenic	GRCh38	3587217
+single nucleotide variant	NM_001386393.1(PANK2):c.673A>G (p.Lys225Glu)	80025	PANK2	Pathogenic	GRCh38	3723695
+single nucleotide variant	NM_001386393.1(PANK2):c.838A>T (p.Ile280Phe)	80025	PANK2	Pathogenic	GRCh38	3768705
+single nucleotide variant	NM_001386393.1(PANK2):c.442T>C (p.Tyr148His)	80025	PANK2	Likely pathogenic	GRCh38	3897646
+single nucleotide variant	NM_001386393.1(PANK2):c.535A>T (p.Thr179Ser)	80025	PANK2	Likely pathogenic	GRCh38	3897657
+single nucleotide variant	NM_001386393.1(PANK2):c.1180A>G (p.Ile394Val)	80025	PANK2	Likely pathogenic	GRCh38	3897664
+single nucleotide variant	NM_001386393.1(PANK2):c.299-6383A>G	80025	PANK2	Pathogenic	GRCh38	3897665
+single nucleotide variant	NM_001386393.1(PANK2):c.736G>T (p.Gly246Ter)	80025	PANK2	Pathogenic	GRCh38	3897667
+single nucleotide variant	NM_001386393.1(PANK2):c.651+633C>T	80025	PANK2	Pathogenic	GRCh38	3897668
+single nucleotide variant	NM_001386393.1(PANK2):c.298+2T>C	80025	PANK2	Likely pathogenic	GRCh38	3899882
+single nucleotide variant	NM_001386393.1(PANK2):c.1333-2A>G	80025	PANK2	Likely pathogenic	GRCh38	4086254
+single nucleotide variant	NM_001386393.1(PANK2):c.1219G>A (p.Val407Met)	80025	PANK2	Pathogenic	GRCh38	4087704
+single nucleotide variant	NM_001386393.1(PANK2):c.265C>T (p.Gln89Ter)	80025	PANK2	Pathogenic	GRCh38	4088019
+single nucleotide variant	NM_001386393.1(PANK2):c.806T>A (p.Leu269Ter)	80025	PANK2	Pathogenic	GRCh38	4734475
+single nucleotide variant	NM_001386393.1(PANK2):c.968A>C (p.Glu323Ala)	80025	PANK2	Likely pathogenic	GRCh38	4879398
+single nucleotide variant	NM_001386393.1(PANK2):c.821C>T (p.Pro274Leu)	80025	PANK2	Pathogenic	GRCh38	4884831

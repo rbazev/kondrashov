@@ -1,0 +1,62 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006618.5(KDM5B):c.4109T>G (p.Leu1370Ter)	10765	KDM5B	Likely pathogenic	GRCh38	560600
+single nucleotide variant	NM_006618.5(KDM5B):c.787C>T (p.Pro263Ser)	10765	KDM5B	Pathogenic	GRCh38	560602
+single nucleotide variant	NM_006618.5(KDM5B):c.895C>T (p.Arg299Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	626239
+single nucleotide variant	NM_006618.5(KDM5B):c.551T>G (p.Leu184Ter)	10765	KDM5B	Pathogenic	GRCh38	859886
+single nucleotide variant	NM_006618.5(KDM5B):c.1822-1G>A	10765	KDM5B	Likely pathogenic	GRCh38	985770
+single nucleotide variant	NM_006618.5(KDM5B):c.2251C>T (p.Arg751Ter)	10765	KDM5B	Likely pathogenic	GRCh38	1184541
+single nucleotide variant	NM_006618.5(KDM5B):c.2945+1G>A	10765	KDM5B	Likely pathogenic	GRCh38	1192275
+single nucleotide variant	NM_006618.5(KDM5B):c.3424-2A>G	10765	KDM5B	Pathogenic	GRCh38	1319834
+single nucleotide variant	NM_006618.5(KDM5B):c.3841C>T (p.Arg1281Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	1683797
+single nucleotide variant	NM_006618.5(KDM5B):c.2265C>A (p.Tyr755Ter)	10765	KDM5B	Pathogenic	GRCh38	1686735
+single nucleotide variant	NM_006618.5(KDM5B):c.775C>T (p.Arg259Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	1690558
+single nucleotide variant	NM_006618.5(KDM5B):c.2198+1G>C	10765	KDM5B	Pathogenic	GRCh38	1694541
+single nucleotide variant	NM_006618.5(KDM5B):c.808+2T>C	10765	KDM5B	Likely pathogenic	GRCh38	1699558
+single nucleotide variant	NM_006618.5(KDM5B):c.1321C>T (p.Arg441Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	1699572
+single nucleotide variant	NM_006618.5(KDM5B):c.1708C>T (p.Arg570Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	1803645
+single nucleotide variant	NM_006618.5(KDM5B):c.3139C>T (p.Arg1047Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	1804411
+single nucleotide variant	NM_006618.5(KDM5B):c.4276C>T (p.Arg1426Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	2222508
+single nucleotide variant	NM_006618.5(KDM5B):c.2173T>C (p.Cys725Arg)	10765	KDM5B	Likely pathogenic	GRCh38	2228515
+single nucleotide variant	NM_006618.5(KDM5B):c.1538G>A (p.Trp513Ter)	10765	KDM5B	Pathogenic	GRCh38	2309603
+single nucleotide variant	NM_006618.5(KDM5B):c.2950C>T (p.Arg984Ter)	10765	KDM5B	Pathogenic	GRCh38	2395103
+single nucleotide variant	NM_006618.5(KDM5B):c.418G>T (p.Glu140Ter)	10765	KDM5B	Likely pathogenic	GRCh38	2440966
+single nucleotide variant	NM_006618.5(KDM5B):c.205-2A>G	10765	KDM5B	Likely pathogenic	GRCh38	2502651
+single nucleotide variant	NM_006618.5(KDM5B):c.2265C>G (p.Tyr755Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	2576173
+single nucleotide variant	NM_006618.5(KDM5B):c.3423+1G>C	10765	KDM5B	Likely pathogenic	GRCh38	2579297
+single nucleotide variant	NM_006618.5(KDM5B):c.3640C>T (p.Arg1214Ter)	10765	KDM5B	Likely pathogenic	GRCh38	2630485
+single nucleotide variant	NM_006618.5(KDM5B):c.3544C>T (p.Gln1182Ter)	10765	KDM5B	Likely pathogenic	GRCh38	2633332
+single nucleotide variant	NM_006618.5(KDM5B):c.3935C>G (p.Ser1312Ter)	10765	KDM5B	Likely pathogenic	GRCh38	2637045
+single nucleotide variant	NM_006618.5(KDM5B):c.1354G>T (p.Glu452Ter)	10765	KDM5B	Pathogenic	GRCh38	2639803
+single nucleotide variant	NM_006618.5(KDM5B):c.2589+1G>A	10765	KDM5B	Likely pathogenic	GRCh38	3065927
+single nucleotide variant	NM_006618.5(KDM5B):c.4132C>T (p.Gln1378Ter)	10765	KDM5B	Likely pathogenic	GRCh38	3236595
+single nucleotide variant	NM_006618.5(KDM5B):c.1520C>G (p.Ser507Ter)	10765	KDM5B	Likely pathogenic	GRCh38	3238651
+single nucleotide variant	NM_006618.5(KDM5B):c.117G>A (p.Trp39Ter)	10765	KDM5B	Likely pathogenic	GRCh38	3337211
+single nucleotide variant	NM_006618.5(KDM5B):c.941T>G (p.Leu314Ter)	10765	KDM5B	Pathogenic	GRCh38	3341020
+single nucleotide variant	NM_006618.5(KDM5B):c.316C>T (p.Gln106Ter)	10765	KDM5B	Likely pathogenic	GRCh38	3345311
+single nucleotide variant	NM_006618.5(KDM5B):c.3757C>T (p.Arg1253Ter)	10765	KDM5B	Pathogenic/Likely pathogenic	GRCh38	3360314
+single nucleotide variant	NM_006618.5(KDM5B):c.3423+2T>C	10765	KDM5B	Likely pathogenic	GRCh38	3368747
+single nucleotide variant	NM_006618.5(KDM5B):c.280G>A (p.Glu94Lys)	10765	KDM5B	Likely pathogenic	GRCh38	3376849
+single nucleotide variant	NM_006618.5(KDM5B):c.1514G>A (p.Ser505Asn)	10765	KDM5B	Likely pathogenic	GRCh38	3376927
+single nucleotide variant	NM_006618.5(KDM5B):c.80T>C (p.Leu27Pro)	10765	KDM5B	Likely pathogenic	GRCh38	3379371
+single nucleotide variant	NM_006618.5(KDM5B):c.685C>T (p.Arg229Ter)	10765	KDM5B	Pathogenic	GRCh38	3379373
+single nucleotide variant	NM_006618.5(KDM5B):c.1701+1G>T	10765	KDM5B	Likely pathogenic	GRCh38	3393440
+single nucleotide variant	NM_006618.5(KDM5B):c.1539-1G>A	10765	KDM5B	Pathogenic	GRCh38	3602227
+single nucleotide variant	NM_006618.5(KDM5B):c.85C>T (p.Pro29Ser)	10765	KDM5B	Likely pathogenic	GRCh38	3769598
+single nucleotide variant	NM_006618.5(KDM5B):c.2016+1G>A	10765	KDM5B	Likely pathogenic	GRCh38	3777134
+single nucleotide variant	NM_006618.5(KDM5B):c.1538+1G>A	10765	KDM5B	Likely pathogenic	GRCh38	3774970
+single nucleotide variant	NM_006618.5(KDM5B):c.456G>A (p.Trp152Ter)	10765	KDM5B	Likely pathogenic	GRCh38	3905897
+single nucleotide variant	NM_006618.5(KDM5B):c.688C>T (p.Arg230Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4056542
+single nucleotide variant	NM_006618.5(KDM5B):c.624C>G (p.Tyr208Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4071599
+single nucleotide variant	NM_006618.5(KDM5B):c.4144C>T (p.Arg1382Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4071617
+single nucleotide variant	NM_006618.5(KDM5B):c.3608G>A (p.Cys1203Tyr)	10765	KDM5B	Likely pathogenic	GRCh38	4081997
+single nucleotide variant	NM_006618.5(KDM5B):c.919-2A>G	10765	KDM5B	Likely pathogenic	GRCh38	4292851
+single nucleotide variant	NM_006618.5(KDM5B):c.2446C>T (p.Gln816Ter)	10765	KDM5B	Pathogenic	GRCh38	4531371
+single nucleotide variant	NM_006618.5(KDM5B):c.454T>G (p.Trp152Gly)	10765	KDM5B	Likely pathogenic	GRCh38	4531375
+single nucleotide variant	NM_006618.5(KDM5B):c.4198C>T (p.Arg1400Ter)	10765	KDM5B	Pathogenic	GRCh38	4688410
+single nucleotide variant	NM_006618.5(KDM5B):c.1457G>A (p.Trp486Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4759252
+single nucleotide variant	NM_006618.5(KDM5B):c.4422T>G (p.Tyr1474Ter)	10765	KDM5B	Pathogenic	GRCh38	4813831
+single nucleotide variant	NM_006618.5(KDM5B):c.3585C>A (p.Cys1195Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4813832
+single nucleotide variant	NM_006618.5(KDM5B):c.2345T>G (p.Leu782Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4813833
+single nucleotide variant	NM_006618.5(KDM5B):c.3133C>T (p.Arg1045Ter)	10765	KDM5B	Pathogenic	GRCh38	4822496
+single nucleotide variant	NM_006618.5(KDM5B):c.394C>T (p.Gln132Ter)	10765	KDM5B	Pathogenic	GRCh38	4845460
+single nucleotide variant	NM_006618.5(KDM5B):c.3907A>T (p.Lys1303Ter)	10765	KDM5B	Likely pathogenic	GRCh38	4881905

@@ -88,7 +88,7 @@ single nucleotide variant	NM_133259.4(LRPPRC):c.508A>T (p.Lys170Ter)	10128	LRPPR
 single nucleotide variant	NM_133259.4(LRPPRC):c.1378G>T (p.Glu460Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	1726760
 single nucleotide variant	NM_133259.4(LRPPRC):c.883A>T (p.Lys295Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	1726819
 single nucleotide variant	NM_133259.4(LRPPRC):c.1277T>A (p.Leu426Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	1726967
-single nucleotide variant	NM_133259.4(LRPPRC):c.3989C>G (p.Ser1330Ter)	10128	LRPPRC	Pathogenic	GRCh38	1925538
+single nucleotide variant	NM_133259.4(LRPPRC):c.3989C>G (p.Ser1330Ter)	10128	LRPPRC	Pathogenic/Likely pathogenic	GRCh38	1925538
 single nucleotide variant	NM_133259.4(LRPPRC):c.3253C>T (p.Gln1085Ter)	10128	LRPPRC	Pathogenic	GRCh38	1956664
 single nucleotide variant	NM_133259.4(LRPPRC):c.1369+1G>C	10128	LRPPRC	Likely pathogenic	GRCh38	1962810
 single nucleotide variant	NM_133259.4(LRPPRC):c.2944C>T (p.Gln982Ter)	10128	LRPPRC	Pathogenic	GRCh38	2003159
@@ -160,6 +160,7 @@ single nucleotide variant	NM_133259.4(LRPPRC):c.1670G>A (p.Trp557Ter)	10128	LRPP
 single nucleotide variant	NM_133259.4(LRPPRC):c.1677+3A>T	10128	LRPPRC	Likely pathogenic	GRCh38	3776778
 single nucleotide variant	NM_133259.4(LRPPRC):c.979A>T (p.Lys327Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4070256
 single nucleotide variant	NM_133259.4(LRPPRC):c.2897-2A>G	10128	LRPPRC	Likely pathogenic	GRCh38	4081499
+single nucleotide variant	NM_133259.4(LRPPRC):c.3901-2A>G	10128	LRPPRC	Likely pathogenic	GRCh38	4514273
 single nucleotide variant	NM_133259.4(LRPPRC):c.117T>G (p.Tyr39Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4816479
 single nucleotide variant	NM_133259.4(LRPPRC):c.1899C>G (p.Tyr633Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4816482
 single nucleotide variant	NM_133259.4(LRPPRC):c.1A>G (p.Met1Val)	10128	LRPPRC	Likely pathogenic	GRCh38	4816483
@@ -168,3 +169,12 @@ single nucleotide variant	NM_133259.4(LRPPRC):c.2629+2T>G	10128	LRPPRC	Likely pa
 single nucleotide variant	NM_133259.4(LRPPRC):c.2806-1G>C	10128	LRPPRC	Likely pathogenic	GRCh38	4816488
 single nucleotide variant	NM_133259.4(LRPPRC):c.2T>C (p.Met1Thr)	10128	LRPPRC	Likely pathogenic	GRCh38	4816490
 single nucleotide variant	NM_133259.4(LRPPRC):c.526G>T (p.Glu176Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4816494
+single nucleotide variant	NM_133259.4(LRPPRC):c.2839C>T (p.Gln947Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4886953
+single nucleotide variant	NM_133259.4(LRPPRC):c.2182G>T (p.Glu728Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4889710
+single nucleotide variant	NM_133259.4(LRPPRC):c.1291A>T (p.Lys431Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4889711
+single nucleotide variant	NM_133259.4(LRPPRC):c.1083C>A (p.Cys361Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4889712
+single nucleotide variant	NM_133259.4(LRPPRC):c.539C>A (p.Ser180Ter)	10128	LRPPRC	Likely pathogenic	GRCh38	4889713
+single nucleotide variant	NM_133259.4(LRPPRC):c.3710-2A>G	10128	LRPPRC	Likely pathogenic	GRCh38	4889930
+single nucleotide variant	NM_133259.4(LRPPRC):c.1678-1G>C	10128	LRPPRC	Likely pathogenic	GRCh38	4889931
+single nucleotide variant	NM_133259.4(LRPPRC):c.1583-2A>G	10128	LRPPRC	Likely pathogenic	GRCh38	4889932
+single nucleotide variant	NM_133259.4(LRPPRC):c.864+1G>T	10128	LRPPRC	Likely pathogenic	GRCh38	4890030

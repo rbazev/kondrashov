@@ -1,0 +1,61 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_152618.3(BBS12):c.1063C>T (p.Arg355Ter)	166379	BBS12	Pathogenic	GRCh38	1147
+single nucleotide variant	NM_152618.3(BBS12):c.865G>C (p.Ala289Pro)	166379	BBS12	Likely pathogenic	GRCh38	1150
+single nucleotide variant	NM_152618.3(BBS12):c.323C>G (p.Pro108Arg)	166379	BBS12	Pathogenic	GRCh38	68065
+single nucleotide variant	NM_152618.3(BBS12):c.1704G>A (p.Trp568Ter)	166379	BBS12	Pathogenic	GRCh38	195415
+single nucleotide variant	NM_152618.3(BBS12):c.2023C>T (p.Arg675Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	347505
+single nucleotide variant	NM_152618.3(BBS12):c.104C>A (p.Ser35Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	462963
+single nucleotide variant	NM_152618.3(BBS12):c.1375C>T (p.Gln459Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	531820
+single nucleotide variant	NM_152618.3(BBS12):c.682C>T (p.Gln228Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	550788
+single nucleotide variant	NM_152618.3(BBS12):c.1619G>T (p.Gly540Val)	166379	BBS12	Pathogenic	GRCh38	550609
+single nucleotide variant	NM_152618.3(BBS12):c.1616G>T (p.Gly539Val)	166379	BBS12	Likely pathogenic	GRCh38	555332
+single nucleotide variant	NM_152618.3(BBS12):c.1749C>G (p.Tyr583Ter)	166379	BBS12	Likely pathogenic	GRCh38	556380
+single nucleotide variant	NM_152618.3(BBS12):c.640C>T (p.Arg214Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	558497
+single nucleotide variant	NM_152618.3(BBS12):c.760G>T (p.Glu254Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	555983
+single nucleotide variant	NM_152618.3(BBS12):c.1949C>G (p.Ser650Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	553671
+single nucleotide variant	NM_152618.3(BBS12):c.1502C>T (p.Thr501Met)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	585190
+single nucleotide variant	NM_152618.3(BBS12):c.250G>A (p.Gly84Arg)	166379	BBS12	Likely pathogenic	GRCh38	627533
+single nucleotide variant	NM_152618.3(BBS12):c.1223A>G (p.Lys408Arg)	166379	BBS12	Likely pathogenic	GRCh38	636151
+single nucleotide variant	NM_152618.3(BBS12):c.1225G>A (p.Val409Met)	166379	BBS12	Likely pathogenic	GRCh38	659369
+single nucleotide variant	NM_152618.3(BBS12):c.789C>A (p.Tyr263Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	867113
+single nucleotide variant	NM_152618.3(BBS12):c.898C>T (p.Gln300Ter)	166379	BBS12	Pathogenic	GRCh38	959685
+single nucleotide variant	NM_152618.3(BBS12):c.1616G>A (p.Gly539Asp)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	974416
+single nucleotide variant	NM_152618.3(BBS12):c.1627G>A (p.Glu543Lys)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	1043917
+single nucleotide variant	NM_152618.3(BBS12):c.172G>T (p.Glu58Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	1075926
+single nucleotide variant	NM_152618.3(BBS12):c.445C>T (p.Gln149Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	1069707
+single nucleotide variant	NM_152618.3(BBS12):c.1827C>G (p.Tyr609Ter)	166379	BBS12	Pathogenic	GRCh38	1069432
+single nucleotide variant	NM_152618.3(BBS12):c.2053C>T (p.Gln685Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	1069940
+single nucleotide variant	NM_152618.3(BBS12):c.1972C>T (p.Gln658Ter)	166379	BBS12	Likely pathogenic	GRCh38	1323970
+single nucleotide variant	NM_152618.3(BBS12):c.1048C>T (p.Gln350Ter)	166379	BBS12	Pathogenic	GRCh38	1455603
+single nucleotide variant	NM_152618.3(BBS12):c.1733C>A (p.Ser578Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	1458879
+single nucleotide variant	NM_152618.3(BBS12):c.1724G>A (p.Trp575Ter)	166379	BBS12	Pathogenic	GRCh38	1447228
+single nucleotide variant	NM_152618.3(BBS12):c.1799C>G (p.Ser600Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	2069346
+single nucleotide variant	NM_152618.3(BBS12):c.1786C>T (p.Gln596Ter)	166379	BBS12	Pathogenic	GRCh38	2498301
+single nucleotide variant	NM_152618.3(BBS12):c.1589T>C (p.Leu530Pro)	166379	BBS12	Pathogenic	GRCh38	2637734
+single nucleotide variant	NM_152618.3(BBS12):c.1560G>A (p.Trp520Ter)	166379	BBS12	Likely pathogenic	GRCh38	2679991
+single nucleotide variant	NM_152618.3(BBS12):c.1339G>T (p.Glu447Ter)	166379	BBS12	Likely pathogenic	GRCh38	2679992
+single nucleotide variant	NM_152618.3(BBS12):c.1910T>A (p.Leu637Ter)	166379	BBS12	Likely pathogenic	GRCh38	2679994
+single nucleotide variant	NM_152618.3(BBS12):c.1531C>T (p.Gln511Ter)	166379	BBS12	Likely pathogenic	GRCh38	2679996
+single nucleotide variant	NM_152618.3(BBS12):c.1537C>T (p.Gln513Ter)	166379	BBS12	Likely pathogenic	GRCh38	2679999
+single nucleotide variant	NM_152618.3(BBS12):c.494C>G (p.Ser165Ter)	166379	BBS12	Likely pathogenic	GRCh38	2680000
+single nucleotide variant	NM_152618.3(BBS12):c.1145T>A (p.Leu382Ter)	166379	BBS12	Likely pathogenic	GRCh38	2680002
+single nucleotide variant	NM_152618.3(BBS12):c.1204C>T (p.Gln402Ter)	166379	BBS12	Pathogenic	GRCh38	2691568
+single nucleotide variant	NM_152618.3(BBS12):c.1246G>T (p.Gly416Ter)	166379	BBS12	Pathogenic	GRCh38	2762263
+single nucleotide variant	NM_152618.3(BBS12):c.1188G>A (p.Trp396Ter)	166379	BBS12	Pathogenic	GRCh38	2819218
+single nucleotide variant	NM_152618.3(BBS12):c.1559G>A (p.Trp520Ter)	166379	BBS12	Pathogenic	GRCh38	2830112
+single nucleotide variant	NM_152618.3(BBS12):c.202C>T (p.Gln68Ter)	166379	BBS12	Pathogenic/Likely pathogenic	GRCh38	2899879
+single nucleotide variant	NM_152618.3(BBS12):c.1042G>T (p.Glu348Ter)	166379	BBS12	Likely pathogenic	GRCh38	3240872
+single nucleotide variant	NM_152618.3(BBS12):c.376G>T (p.Glu126Ter)	166379	BBS12	Likely pathogenic	GRCh38	3242547
+single nucleotide variant	NM_152618.3(BBS12):c.1638T>A (p.Cys546Ter)	166379	BBS12	Pathogenic	GRCh38	3249066
+single nucleotide variant	NM_152618.3(BBS12):c.243T>A (p.Tyr81Ter)	166379	BBS12	Pathogenic	GRCh38	3346522
+single nucleotide variant	NM_152618.3(BBS12):c.367T>C (p.Cys123Arg)	166379	BBS12	Likely pathogenic	GRCh38	3544432
+single nucleotide variant	NM_152618.3(BBS12):c.1566T>A (p.Cys522Ter)	166379	BBS12	Likely pathogenic	GRCh38	3589837
+single nucleotide variant	NM_152618.3(BBS12):c.1572T>A (p.Tyr524Ter)	166379	BBS12	Likely pathogenic	GRCh38	3589838
+single nucleotide variant	NM_152618.3(BBS12):c.1697C>G (p.Ser566Ter)	166379	BBS12	Likely pathogenic	GRCh38	3589843
+single nucleotide variant	NM_152618.3(BBS12):c.638C>G (p.Ser213Ter)	166379	BBS12	Pathogenic	GRCh38	3639473
+single nucleotide variant	NM_152618.3(BBS12):c.1421G>A (p.Trp474Ter)	166379	BBS12	Pathogenic	GRCh38	4081837
+single nucleotide variant	NM_152618.3(BBS12):c.1615G>T (p.Gly539Cys)	166379	BBS12	Likely pathogenic	GRCh38	4755467
+single nucleotide variant	NM_152618.3(BBS12):c.2133G>C (p.Ter711Tyr)	166379	BBS12	Likely pathogenic	GRCh38	4816886
+single nucleotide variant	NM_152618.3(BBS12):c.850A>T (p.Lys284Ter)	166379	BBS12	Likely pathogenic	GRCh38	4816892
+single nucleotide variant	NM_152618.3(BBS12):c.592G>T (p.Glu198Ter)	166379	BBS12	Likely pathogenic	GRCh38	4889570
+single nucleotide variant	NM_152618.3(BBS12):c.877C>T (p.Gln293Ter)	166379	BBS12	Likely pathogenic	GRCh38	4889573

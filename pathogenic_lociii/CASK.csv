@@ -1,0 +1,133 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001367721.1(CASK):c.1915C>T (p.Arg639Ter)	8573	CASK	Pathogenic	GRCh38	11530
+single nucleotide variant	NM_001367721.1(CASK):c.915G>A (p.Lys305=)	8573	CASK	Pathogenic	GRCh38	11531
+single nucleotide variant	NM_001367721.1(CASK):c.83G>T (p.Arg28Leu)	8573	CASK	Pathogenic	GRCh38	11532
+single nucleotide variant	NM_001367721.1(CASK):c.2129A>G (p.Asp710Gly)	8573	CASK	Likely pathogenic	GRCh38	11534
+single nucleotide variant	NM_001367721.1(CASK):c.2755T>C (p.Trp919Arg)	8573	CASK	Pathogenic	GRCh38	11535
+single nucleotide variant	NM_001367721.1(CASK):c.2183A>G (p.Tyr728Cys)	8573	CASK	Likely pathogenic	GRCh38	29937
+single nucleotide variant	NM_001367721.1(CASK):c.316C>T (p.Arg106Ter)	8573	CASK	Pathogenic	GRCh38	29939
+single nucleotide variant	NM_001367721.1(CASK):c.1639C>T (p.Gln547Ter)	8573	CASK	Pathogenic	GRCh38	29941
+single nucleotide variant	NM_001367721.1(CASK):c.2041C>T (p.Arg681Ter)	8573	CASK	Pathogenic	GRCh38	158069
+single nucleotide variant	NM_001367721.1(CASK):c.2074C>T (p.Gln692Ter)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	158070
+single nucleotide variant	NM_001367721.1(CASK):c.2485C>T (p.Gln829Ter)	8573	CASK	Pathogenic	GRCh38	158074
+single nucleotide variant	NM_001367721.1(CASK):c.430-2A>T	8573	CASK	Pathogenic	GRCh38	158077
+single nucleotide variant	NM_001367721.1(CASK):c.708+1G>A	8573	CASK	Pathogenic	GRCh38	158082
+single nucleotide variant	NM_001367721.1(CASK):c.82C>T (p.Arg28Ter)	8573	CASK	Pathogenic	GRCh38	158086
+single nucleotide variant	NM_001367721.1(CASK):c.880C>T (p.Gln294Ter)	8573	CASK	Pathogenic	GRCh38	158087
+single nucleotide variant	NM_001367721.1(CASK):c.1976G>A (p.Gly659Asp)	8573	CASK	Pathogenic	GRCh38	180215
+single nucleotide variant	NM_001367721.1(CASK):c.79C>T (p.Arg27Ter)	8573	CASK	Pathogenic	GRCh38	195200
+single nucleotide variant	NM_001367721.1(CASK):c.2392C>T (p.Gln798Ter)	8573	CASK	Pathogenic	GRCh38	210585
+single nucleotide variant	NM_001367721.1(CASK):c.2318-2A>G	8573	CASK	Pathogenic	GRCh38	216899
+single nucleotide variant	NM_001367721.1(CASK):c.1465C>T (p.Arg489Trp)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	254208
+single nucleotide variant	NM_001367721.1(CASK):c.2527A>T (p.Lys843Ter)	8573	CASK	Pathogenic	GRCh38	265594
+single nucleotide variant	NM_001367721.1(CASK):c.2521-2A>G	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	265316
+single nucleotide variant	NM_001367721.1(CASK):c.2344G>T (p.Glu782Ter)	8573	CASK	Pathogenic	GRCh38	265323
+single nucleotide variant	NM_001367721.1(CASK):c.2100G>A (p.Trp700Ter)	8573	CASK	Pathogenic	GRCh38	265654
+single nucleotide variant	NM_001367721.1(CASK):c.609G>A (p.Trp203Ter)	8573	CASK	Pathogenic	GRCh38	265320
+single nucleotide variant	NM_001367721.1(CASK):c.2645T>G (p.Leu882Ter)	8573	CASK	Pathogenic	GRCh38	279991
+single nucleotide variant	NM_001367721.1(CASK):c.429+1G>A	8573	CASK	Pathogenic	GRCh38	279730
+single nucleotide variant	NM_001367721.1(CASK):c.2383C>T (p.Gln795Ter)	8573	CASK	Pathogenic	GRCh38	373139
+single nucleotide variant	NM_001367721.1(CASK):c.1582G>A (p.Gly528Ser)	8573	CASK	Likely pathogenic	GRCh38	372683
+single nucleotide variant	NM_001367721.1(CASK):c.2018C>T (p.Pro673Leu)	8573	CASK	Likely pathogenic	GRCh38	390566
+single nucleotide variant	NM_001367721.1(CASK):c.1504-2A>C	8573	CASK	Pathogenic	GRCh38	392425
+single nucleotide variant	NM_001367721.1(CASK):c.493G>C (p.Val165Leu)	8573	CASK	Likely pathogenic	GRCh38	383841
+single nucleotide variant	NM_001367721.1(CASK):c.2425G>A (p.Gly809Ser)	8573	CASK	Likely pathogenic	GRCh38	424258
+single nucleotide variant	NM_001367721.1(CASK):c.1837C>T (p.Arg613Ter)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	418109
+single nucleotide variant	NM_001367721.1(CASK):c.1586C>A (p.Thr529Lys)	8573	CASK	Likely pathogenic	GRCh38	420307
+single nucleotide variant	NM_001367721.1(CASK):c.1480C>T (p.Gln494Ter)	8573	CASK	Pathogenic	GRCh38	424249
+single nucleotide variant	NM_001367721.1(CASK):c.763C>T (p.Arg255Cys)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	421141
+single nucleotide variant	NM_001367721.1(CASK):c.59+2T>C	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	423284
+single nucleotide variant	NM_001367721.1(CASK):c.660C>G (p.Tyr220Ter)	8573	CASK	Pathogenic	GRCh38	432242
+single nucleotide variant	NM_001367721.1(CASK):c.626T>C (p.Leu209Pro)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	432816
+single nucleotide variant	NM_001367721.1(CASK):c.496G>C (p.Ala166Pro)	8573	CASK	Likely pathogenic	GRCh38	432074
+single nucleotide variant	NM_001367721.1(CASK):c.2604+1G>T	8573	CASK	Pathogenic	GRCh38	433537
+single nucleotide variant	NM_001367721.1(CASK):c.1864G>T (p.Glu622Ter)	8573	CASK	Pathogenic	GRCh38	434587
+single nucleotide variant	NM_001367721.1(CASK):c.846C>G (p.Tyr282Ter)	8573	CASK	Pathogenic	GRCh38	434588
+single nucleotide variant	NM_001367721.1(CASK):c.1033+1G>A	8573	CASK	Likely pathogenic	GRCh38	445354
+single nucleotide variant	NM_001367721.1(CASK):c.2317+1G>A	8573	CASK	Pathogenic	GRCh38	446289
+single nucleotide variant	NM_001367721.1(CASK):c.1315-7A>G	8573	CASK	Pathogenic	GRCh38	446287
+single nucleotide variant	NM_001367721.1(CASK):c.109C>T (p.Gln37Ter)	8573	CASK	Pathogenic	GRCh38	446288
+single nucleotide variant	NM_001367721.1(CASK):c.2155+2T>C	8573	CASK	Pathogenic	GRCh38	451175
+single nucleotide variant	NM_001367721.1(CASK):c.1592A>C (p.His531Pro)	8573	CASK	Likely pathogenic	GRCh38	470207
+single nucleotide variant	NM_001367721.1(CASK):c.846C>A (p.Tyr282Ter)	8573	CASK	Pathogenic	GRCh38	489049
+single nucleotide variant	NM_001367721.1(CASK):c.1A>T (p.Met1Leu)	8573	CASK	Pathogenic	GRCh38	489154
+single nucleotide variant	NM_001367721.1(CASK):c.1609C>T (p.Arg537Ter)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	503609
+single nucleotide variant	NM_001367721.1(CASK):c.2065A>T (p.Lys689Ter)	8573	CASK	Pathogenic	GRCh38	520620
+single nucleotide variant	NM_001367721.1(CASK):c.2155+1G>C	8573	CASK	Likely pathogenic	GRCh38	523666
+single nucleotide variant	NM_001367721.1(CASK):c.2757G>A (p.Trp919Ter)	8573	CASK	Pathogenic	GRCh38	523767
+single nucleotide variant	NM_001367721.1(CASK):c.2040-1G>A	8573	CASK	Likely pathogenic	GRCh38	559631
+single nucleotide variant	NM_001367721.1(CASK):c.305A>G (p.Glu102Gly)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	575647
+single nucleotide variant	NM_001367721.1(CASK):c.1015+1G>C	8573	CASK	Pathogenic	GRCh38	587865
+single nucleotide variant	NM_001367721.1(CASK):c.2561T>C (p.Val854Ala)	8573	CASK	Likely pathogenic	GRCh38	619127
+single nucleotide variant	NM_001367721.1(CASK):c.2156-1G>A	8573	CASK	Likely pathogenic	GRCh38	632600
+single nucleotide variant	NM_001367721.1(CASK):c.533-2A>G	8573	CASK	Pathogenic	GRCh38	632601
+single nucleotide variant	NM_001367721.1(CASK):c.824G>A (p.Trp275Ter)	8573	CASK	Pathogenic	GRCh38	638400
+single nucleotide variant	NM_001367721.1(CASK):c.2429G>A (p.Ser810Asn)	8573	CASK	Pathogenic	GRCh38	803983
+single nucleotide variant	NM_001367721.1(CASK):c.1466G>A (p.Arg489Gln)	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	810578
+single nucleotide variant	NM_001367721.1(CASK):c.36C>A (p.Tyr12Ter)	8573	CASK	Likely pathogenic	GRCh38	810580
+single nucleotide variant	NM_001367721.1(CASK):c.359A>G (p.His120Arg)	8573	CASK	Likely pathogenic	GRCh38	813732
+single nucleotide variant	NM_001367721.1(CASK):c.1970G>A (p.Trp657Ter)	8573	CASK	Pathogenic	GRCh38	813943
+single nucleotide variant	NM_001367721.1(CASK):c.721C>T (p.Gln241Ter)	8573	CASK	Pathogenic	GRCh38	871196
+single nucleotide variant	NM_001367721.1(CASK):c.1843-2A>T	8573	CASK	Pathogenic	GRCh38	916508
+single nucleotide variant	NM_001367721.1(CASK):c.916-1G>A	8573	CASK	Pathogenic	GRCh38	930346
+single nucleotide variant	NM_001367721.1(CASK):c.725G>A (p.Trp242Ter)	8573	CASK	Likely pathogenic	GRCh38	976007
+single nucleotide variant	NM_001367721.1(CASK):c.490G>C (p.Gly164Arg)	8573	CASK	Likely pathogenic	GRCh38	981292
+single nucleotide variant	NM_001367721.1(CASK):c.1898G>A (p.Cys633Tyr)	8573	CASK	Likely pathogenic	GRCh38	987472
+single nucleotide variant	NM_001367721.1(CASK):c.37G>T (p.Glu13Ter)	8573	CASK	Pathogenic	GRCh38	987471
+single nucleotide variant	NM_001367721.1(CASK):c.1579C>T (p.Gln527Ter)	8573	CASK	Pathogenic	GRCh38	989350
+single nucleotide variant	NM_001367721.1(CASK):c.938C>G (p.Ser313Ter)	8573	CASK	Pathogenic	GRCh38	1076957
+single nucleotide variant	NM_001367721.1(CASK):c.487T>C (p.Phe163Leu)	8573	CASK	Likely pathogenic	GRCh38	1172654
+single nucleotide variant	NM_001367721.1(CASK):c.437G>A (p.Cys146Tyr)	8573	CASK	Pathogenic	GRCh38	1205490
+single nucleotide variant	NM_001367721.1(CASK):c.588C>G (p.Tyr196Ter)	8573	CASK	Pathogenic	GRCh38	1299183
+single nucleotide variant	NM_001367721.1(CASK):c.1424G>T (p.Ser475Ile)	8573	CASK	Likely pathogenic	GRCh38	1319147
+single nucleotide variant	NM_001367721.1(CASK):c.2155G>A (p.Val719Met)	8573	CASK	Likely pathogenic	GRCh38	1326849
+single nucleotide variant	NM_001367721.1(CASK):c.173-1G>T	8573	CASK	Likely pathogenic	GRCh38	1327823
+single nucleotide variant	NM_001367721.1(CASK):c.1582+1G>A	8573	CASK	Likely pathogenic	GRCh38	1333658
+single nucleotide variant	NM_001367721.1(CASK):c.915+1G>A	8573	CASK	Likely pathogenic	GRCh38	1333907
+single nucleotide variant	NM_001367721.1(CASK):c.2317+5G>A	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	1343138
+single nucleotide variant	NM_001367721.1(CASK):c.356+1G>T	8573	CASK	Likely pathogenic	GRCh38	1343235
+single nucleotide variant	NM_001367721.1(CASK):c.2138T>A (p.Leu713Ter)	8573	CASK	Pathogenic	GRCh38	1440705
+single nucleotide variant	NM_001367721.1(CASK):c.2237-2A>G	8573	CASK	Likely pathogenic	GRCh38	1473691
+single nucleotide variant	NM_001367721.1(CASK):c.2040-2A>G	8573	CASK	Pathogenic	GRCh38	1460206
+single nucleotide variant	NM_001367721.1(CASK):c.1972C>T (p.Gln658Ter)	8573	CASK	Pathogenic	GRCh38	1676383
+single nucleotide variant	NM_001367721.1(CASK):c.506T>G (p.Leu169Ter)	8573	CASK	Likely pathogenic	GRCh38	1687308
+single nucleotide variant	NM_001367721.1(CASK):c.825G>A (p.Trp275Ter)	8573	CASK	Pathogenic	GRCh38	1692990
+single nucleotide variant	NM_001367721.1(CASK):c.2039+1G>A	8573	CASK	Pathogenic	GRCh38	1699292
+single nucleotide variant	NM_001367721.1(CASK):c.1A>G (p.Met1Val)	8573	CASK	Pathogenic	GRCh38	1784171
+single nucleotide variant	NM_001367721.1(CASK):c.2647C>T (p.Gln883Ter)	8573	CASK	Pathogenic	GRCh38	2138554
+single nucleotide variant	NM_001367721.1(CASK):c.608G>A (p.Trp203Ter)	8573	CASK	Pathogenic	GRCh38	2121448
+single nucleotide variant	NM_001367721.1(CASK):c.497C>A (p.Ala166Asp)	8573	CASK	Pathogenic	GRCh38	2429864
+single nucleotide variant	NM_001367721.1(CASK):c.2521-6A>G	8573	CASK	Pathogenic	GRCh38	2431222
+single nucleotide variant	NM_001367721.1(CASK):c.589G>T (p.Gly197Ter)	8573	CASK	Pathogenic	GRCh38	2441639
+single nucleotide variant	NM_001367721.1(CASK):c.1155+1G>T	8573	CASK	Likely pathogenic	GRCh38	2443088
+single nucleotide variant	NM_001367721.1(CASK):c.2169A>G (p.Leu723=)	8573	CASK	Likely pathogenic	GRCh38	2444142
+single nucleotide variant	NM_001367721.1(CASK):c.1583-1G>T	8573	CASK	Likely pathogenic	GRCh38	2444343
+single nucleotide variant	NM_001367721.1(CASK):c.1015+1G>A	8573	CASK	Pathogenic	GRCh38	2446196
+single nucleotide variant	NM_001367721.1(CASK):c.1999G>T (p.Gly667Ter)	8573	CASK	Likely pathogenic	GRCh38	2585235
+single nucleotide variant	NM_001367721.1(CASK):c.2080C>T (p.Gln694Ter)	8573	CASK	Pathogenic	GRCh38	2626912
+single nucleotide variant	NM_001367721.1(CASK):c.1668+5G>A	8573	CASK	Likely pathogenic	GRCh38	2632769
+single nucleotide variant	NM_001367721.1(CASK):c.1189C>T (p.Gln397Ter)	8573	CASK	Pathogenic	GRCh38	2697063
+single nucleotide variant	NM_001367721.1(CASK):c.1315-1G>A	8573	CASK	Pathogenic/Likely pathogenic	GRCh38	2763139
+single nucleotide variant	NM_001367721.1(CASK):c.532+2T>C	8573	CASK	Likely pathogenic	GRCh38	2815824
+single nucleotide variant	NM_001367721.1(CASK):c.173-1G>A	8573	CASK	Likely pathogenic	GRCh38	3062309
+single nucleotide variant	NM_001367721.1(CASK):c.1843-1G>A	8573	CASK	Pathogenic	GRCh38	3075664
+single nucleotide variant	NM_001367721.1(CASK):c.464C>T (p.Ser155Leu)	8573	CASK	Likely pathogenic	GRCh38	3254723
+single nucleotide variant	NM_001367721.1(CASK):c.2236+1G>C	8573	CASK	Likely pathogenic	GRCh38	3376284
+single nucleotide variant	NM_001367721.1(CASK):c.2658T>G (p.Tyr886Ter)	8573	CASK	Likely pathogenic	GRCh38	3572977
+single nucleotide variant	NM_001367721.1(CASK):c.2059A>G (p.Met687Val)	8573	CASK	Likely pathogenic	GRCh38	3645694
+single nucleotide variant	NM_001367721.1(CASK):c.2632G>T (p.Glu878Ter)	8573	CASK	Pathogenic	GRCh38	3650620
+single nucleotide variant	NM_001367721.1(CASK):c.184G>A (p.Glu62Lys)	8573	CASK	Likely pathogenic	GRCh38	4072125
+single nucleotide variant	NM_001367721.1(CASK):c.708+2T>G	8573	CASK	Pathogenic	GRCh38	4087720
+single nucleotide variant	NM_001367721.1(CASK):c.1231G>T (p.Glu411Ter)	8573	CASK	Pathogenic	GRCh38	4282385
+single nucleotide variant	NM_001367721.1(CASK):c.1234-1G>C	8573	CASK	Likely pathogenic	GRCh38	4291837
+single nucleotide variant	NM_001367721.1(CASK):c.1807-1G>T	8573	CASK	Likely pathogenic	GRCh38	4489342
+single nucleotide variant	NM_001367721.1(CASK):c.2448T>G (p.Tyr816Ter)	8573	CASK	Pathogenic	GRCh38	4715720
+single nucleotide variant	NM_001367721.1(CASK):c.430-1G>A	8573	CASK	Likely pathogenic	GRCh38	4723833
+single nucleotide variant	NM_001367721.1(CASK):c.396C>A (p.Cys132Ter)	8573	CASK	Likely pathogenic	GRCh38	4759222
+single nucleotide variant	NM_001367721.1(CASK):c.916-2A>T	8573	CASK	Likely pathogenic	GRCh38	4795944
+single nucleotide variant	NM_001367721.1(CASK):c.59+5G>A	8573	CASK	Likely pathogenic	GRCh38	4854753
+single nucleotide variant	NM_001367721.1(CASK):c.1233+1G>T	8573	CASK	Likely pathogenic	GRCh38	4854873
+single nucleotide variant	NM_001367721.1(CASK):c.796A>G (p.Thr266Ala)	8573	CASK	Likely pathogenic	GRCh38	4879779
+single nucleotide variant	NM_001367721.1(CASK):c.356+1G>C	8573	CASK	Pathogenic	GRCh38	4879780
+single nucleotide variant	NM_001367721.1(CASK):c.1295T>G (p.Leu432Ter)	8573	CASK	Likely pathogenic	GRCh38	4885767
+single nucleotide variant	NM_001367721.1(CASK):c.2119C>T (p.Gln707Ter)	8573	CASK	Likely pathogenic	GRCh38	4890765

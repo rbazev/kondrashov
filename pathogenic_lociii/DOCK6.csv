@@ -1,0 +1,57 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020812.4(DOCK6):c.4107-1G>C	57572	DOCK6	Pathogenic	GRCh38	55815
+single nucleotide variant	NM_020812.4(DOCK6):c.788T>A (p.Val263Asp)	57572	DOCK6	Pathogenic	GRCh38	253046
+single nucleotide variant	NM_020812.4(DOCK6):c.5939+2T>C	57572	DOCK6	Pathogenic	GRCh38	253047
+single nucleotide variant	NM_020812.4(DOCK6):c.4491+1G>A	57572	DOCK6	Pathogenic	GRCh38	498405
+single nucleotide variant	NM_020812.4(DOCK6):c.705C>G (p.Tyr235Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	499282
+single nucleotide variant	NM_020812.4(DOCK6):c.3562C>T (p.Gln1188Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	499360
+single nucleotide variant	NM_020812.4(DOCK6):c.4576C>T (p.Arg1526Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	504926
+single nucleotide variant	NM_020812.4(DOCK6):c.4480G>T (p.Glu1494Ter)	57572	DOCK6	Pathogenic	GRCh38	522048
+single nucleotide variant	NM_020812.4(DOCK6):c.1462C>T (p.Arg488Ter)	57572	DOCK6	Pathogenic	GRCh38	620465
+single nucleotide variant	NM_020812.4(DOCK6):c.387C>G (p.Tyr129Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	620466
+single nucleotide variant	NM_020812.4(DOCK6):c.1024-2A>T	57572	DOCK6	Likely pathogenic	GRCh38	650992
+single nucleotide variant	NM_020812.4(DOCK6):c.4012C>T (p.Arg1338Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	1319695
+single nucleotide variant	NM_020812.4(DOCK6):c.1987C>T (p.Gln663Ter)	57572	DOCK6	Likely pathogenic	GRCh38	1028688
+single nucleotide variant	NM_020812.4(DOCK6):c.1104+2T>C	57572	DOCK6	Likely pathogenic	GRCh38	2955860
+single nucleotide variant	NM_020812.4(DOCK6):c.667C>T (p.Arg223Ter)	57572	DOCK6	Pathogenic	GRCh38	2164601
+single nucleotide variant	NM_020812.4(DOCK6):c.4751+1G>A	57572	DOCK6	Pathogenic	GRCh38	1174785
+single nucleotide variant	NM_020812.4(DOCK6):c.1972-2A>G	57572	DOCK6	Likely pathogenic	GRCh38	1187972
+single nucleotide variant	NM_020812.4(DOCK6):c.5100C>G (p.Tyr1700Ter)	57572	DOCK6	Pathogenic	GRCh38	1319693
+single nucleotide variant	NM_020812.4(DOCK6):c.1396C>T (p.Arg466Ter)	57572	DOCK6	Pathogenic	GRCh38	1320059
+single nucleotide variant	NM_020812.4(DOCK6):c.4106+1G>A	57572	DOCK6	Pathogenic	GRCh38	1322762
+single nucleotide variant	NM_020812.4(DOCK6):c.5764C>T (p.Gln1922Ter)	57572	DOCK6	Likely pathogenic	GRCh38	1335924
+single nucleotide variant	NM_020812.4(DOCK6):c.2719-1G>C	57572	DOCK6	Likely pathogenic	GRCh38	1467749
+single nucleotide variant	NM_020812.4(DOCK6):c.4203+2T>C	57572	DOCK6	Likely pathogenic	GRCh38	1676533
+single nucleotide variant	NM_020812.4(DOCK6):c.550C>T (p.Arg184Ter)	57572	DOCK6	Pathogenic/Likely pathogenic	GRCh38	1705622
+single nucleotide variant	NM_020812.4(DOCK6):c.3241-1G>A	57572	DOCK6	Likely pathogenic	GRCh38	1810235
+single nucleotide variant	NM_020812.4(DOCK6):c.1832+1G>A	57572	DOCK6	Likely pathogenic	GRCh38	2186245
+single nucleotide variant	NM_020812.4(DOCK6):c.5452-2A>G	57572	DOCK6	Likely pathogenic	GRCh38	1908387
+single nucleotide variant	NM_020812.4(DOCK6):c.3997C>T (p.Gln1333Ter)	57572	DOCK6	Pathogenic	GRCh38	1912499
+single nucleotide variant	NM_020812.4(DOCK6):c.44+2T>C	57572	DOCK6	Likely pathogenic	GRCh38	2020542
+single nucleotide variant	NM_020812.4(DOCK6):c.5997C>A (p.Tyr1999Ter)	57572	DOCK6	Pathogenic	GRCh38	2098760
+single nucleotide variant	NM_020812.4(DOCK6):c.3380+2T>G	57572	DOCK6	Likely pathogenic	GRCh38	2133115
+single nucleotide variant	NM_020812.4(DOCK6):c.5231G>A (p.Trp1744Ter)	57572	DOCK6	Pathogenic	GRCh38	2576806
+single nucleotide variant	NM_020812.4(DOCK6):c.1971+1G>T	57572	DOCK6	Likely pathogenic	GRCh38	2703783
+single nucleotide variant	NM_020812.4(DOCK6):c.3241-2A>T	57572	DOCK6	Likely pathogenic	GRCh38	2764748
+single nucleotide variant	NM_020812.4(DOCK6):c.3241-1G>C	57572	DOCK6	Likely pathogenic	GRCh38	2799855
+single nucleotide variant	NM_020812.4(DOCK6):c.807-1G>A	57572	DOCK6	Likely pathogenic	GRCh38	2872746
+single nucleotide variant	NM_020812.4(DOCK6):c.1105-1G>T	57572	DOCK6	Likely pathogenic	GRCh38	2885079
+single nucleotide variant	NM_020812.4(DOCK6):c.2096G>A (p.Trp699Ter)	57572	DOCK6	Pathogenic	GRCh38	3044096
+single nucleotide variant	NM_020812.4(DOCK6):c.5451+1G>A	57572	DOCK6	Likely pathogenic	GRCh38	3690276
+single nucleotide variant	NM_020812.4(DOCK6):c.44+1G>T	57572	DOCK6	Likely pathogenic	GRCh38	3700135
+single nucleotide variant	NM_020812.4(DOCK6):c.4058G>A (p.Trp1353Ter)	57572	DOCK6	Pathogenic	GRCh38	3700877
+single nucleotide variant	NM_020812.4(DOCK6):c.2160+1G>A	57572	DOCK6	Likely pathogenic	GRCh38	3725107
+single nucleotide variant	NM_020812.4(DOCK6):c.2393-2A>C	57572	DOCK6	Likely pathogenic	GRCh38	3717270
+single nucleotide variant	NM_020812.4(DOCK6):c.806+1G>C	57572	DOCK6	Likely pathogenic	GRCh38	3729053
+single nucleotide variant	NM_020812.4(DOCK6):c.276C>A (p.Cys92Ter)	57572	DOCK6	Likely pathogenic	GRCh38	3779279
+single nucleotide variant	NM_020812.4(DOCK6):c.3241-1G>T	57572	DOCK6	Pathogenic	GRCh38	3893259
+single nucleotide variant	NM_020812.4(DOCK6):c.5362-1G>A	57572	DOCK6	Likely pathogenic	GRCh38	4081347
+single nucleotide variant	NM_020812.4(DOCK6):c.1481-2A>G	57572	DOCK6	Likely pathogenic	GRCh38	4293020
+single nucleotide variant	NM_020812.4(DOCK6):c.378-2A>G	57572	DOCK6	Likely pathogenic	GRCh38	4533238
+single nucleotide variant	NM_020812.4(DOCK6):c.3994C>T (p.Arg1332Ter)	57572	DOCK6	Pathogenic	GRCh38	4695063
+single nucleotide variant	NM_020812.4(DOCK6):c.3381-1G>A	57572	DOCK6	Likely pathogenic	GRCh38	4711679
+single nucleotide variant	NM_020812.4(DOCK6):c.4106+2T>C	57572	DOCK6	Pathogenic	GRCh38	4751065
+single nucleotide variant	NM_020812.4(DOCK6):c.2505C>A (p.Tyr835Ter)	57572	DOCK6	Pathogenic	GRCh38	4750179
+single nucleotide variant	NM_020812.4(DOCK6):c.4708G>T (p.Glu1570Ter)	57572	DOCK6	Likely pathogenic	GRCh38	4813489
+single nucleotide variant	NM_020812.4(DOCK6):c.4282C>T (p.Gln1428Ter)	57572	DOCK6	Likely pathogenic	GRCh38	4845801
+single nucleotide variant	NM_020812.4(DOCK6):c.5324C>A (p.Ser1775Ter)	57572	DOCK6	Likely pathogenic	GRCh38	4884201

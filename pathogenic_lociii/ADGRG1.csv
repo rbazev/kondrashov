@@ -1,0 +1,75 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_201525.4(ADGRG1):c.1167+3G>C	9289	ADGRG1	Likely pathogenic	GRCh38	5826
+single nucleotide variant	NM_201525.4(ADGRG1):c.621-1G>C	9289	ADGRG1	Pathogenic	GRCh38	5827
+single nucleotide variant	NM_201525.4(ADGRG1):c.1036T>A (p.Cys346Ser)	9289	ADGRG1	Likely pathogenic	GRCh38	5830
+single nucleotide variant	NM_201525.4(ADGRG1):c.1675C>T (p.Arg559Trp)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	5831
+single nucleotide variant	NM_201525.4(ADGRG1):c.272G>C (p.Cys91Ser)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	5832
+single nucleotide variant	NM_201525.4(ADGRG1):c.263A>G (p.Tyr88Cys)	9289	ADGRG1	Pathogenic	GRCh38	5833
+single nucleotide variant	NM_201525.4(ADGRG1):c.265C>T (p.His89Tyr)	9289	ADGRG1	Pathogenic	GRCh38	158628
+single nucleotide variant	NM_201525.4(ADGRG1):c.286C>T (p.Arg96Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	158629
+single nucleotide variant	NM_201525.4(ADGRG1):c.620+1G>A	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	158634
+single nucleotide variant	NM_201525.4(ADGRG1):c.768G>C (p.Glu256Asp)	9289	ADGRG1	Likely pathogenic	GRCh38	158637
+single nucleotide variant	NM_201525.4(ADGRG1):c.1408C>T (p.Arg470Ter)	9289	ADGRG1	Pathogenic	GRCh38	158618
+single nucleotide variant	NM_201525.4(ADGRG1):c.1515T>G (p.Tyr505Ter)	9289	ADGRG1	Pathogenic	GRCh38	158621
+single nucleotide variant	NM_201525.4(ADGRG1):c.1850G>C (p.Trp617Ser)	9289	ADGRG1	Likely pathogenic	GRCh38	158625
+single nucleotide variant	NM_201525.4(ADGRG1):c.1952G>A (p.Trp651Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	158627
+single nucleotide variant	NM_201525.4(ADGRG1):c.10C>T (p.Gln4Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	189231
+single nucleotide variant	NM_201525.4(ADGRG1):c.367C>T (p.Gln123Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	381530
+single nucleotide variant	NM_201525.4(ADGRG1):c.235C>T (p.Arg79Ter)	9289	ADGRG1	Pathogenic	GRCh38	430049
+single nucleotide variant	NM_201525.4(ADGRG1):c.1352A>G (p.Asp451Gly)	9289	ADGRG1	Likely pathogenic	GRCh38	520821
+single nucleotide variant	NM_201525.4(ADGRG1):c.898C>T (p.Gln300Ter)	9289	ADGRG1	Pathogenic	GRCh38	617503
+single nucleotide variant	NM_201525.4(ADGRG1):c.811C>T (p.Arg271Ter)	9289	ADGRG1	Pathogenic	GRCh38	620113
+single nucleotide variant	NM_201525.4(ADGRG1):c.407T>A (p.Leu136Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	662811
+single nucleotide variant	NM_201525.4(ADGRG1):c.113G>A (p.Arg38Gln)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	862927
+single nucleotide variant	NM_201525.4(ADGRG1):c.1656C>A (p.Tyr552Ter)	9289	ADGRG1	Pathogenic	GRCh38	859444
+single nucleotide variant	NM_201525.4(ADGRG1):c.1925C>T (p.Ser642Phe)	9289	ADGRG1	Likely pathogenic	GRCh38	977829
+single nucleotide variant	NM_201525.4(ADGRG1):c.1553G>A (p.Trp518Ter)	9289	ADGRG1	Pathogenic	GRCh38	1074225
+single nucleotide variant	NM_201525.4(ADGRG1):c.1141C>T (p.His381Tyr)	9289	ADGRG1	Likely pathogenic	GRCh38	1300175
+single nucleotide variant	NM_201525.4(ADGRG1):c.562C>T (p.Gln188Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	1438127
+single nucleotide variant	NM_201525.4(ADGRG1):c.900+1G>A	9289	ADGRG1	Likely pathogenic	GRCh38	1468313
+single nucleotide variant	NM_201525.4(ADGRG1):c.739C>T (p.Gln247Ter)	9289	ADGRG1	Pathogenic	GRCh38	1452354
+single nucleotide variant	NM_201525.4(ADGRG1):c.1468G>A (p.Glu490Lys)	9289	ADGRG1	Likely pathogenic	GRCh38	1522425
+single nucleotide variant	NM_201525.4(ADGRG1):c.1486C>T (p.Arg496Ter)	9289	ADGRG1	Pathogenic	GRCh38	1369485
+single nucleotide variant	NM_201525.4(ADGRG1):c.621-1G>T	9289	ADGRG1	Likely pathogenic	GRCh38	1517611
+single nucleotide variant	NM_201525.4(ADGRG1):c.531C>A (p.Cys177Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	1451570
+single nucleotide variant	NM_201525.4(ADGRG1):c.316G>A (p.Gly106Ser)	9289	ADGRG1	Likely pathogenic	GRCh38	1479682
+single nucleotide variant	NM_201525.4(ADGRG1):c.1888C>T (p.Gln630Ter)	9289	ADGRG1	Pathogenic	GRCh38	1456486
+single nucleotide variant	NM_201525.4(ADGRG1):c.317G>A (p.Gly106Asp)	9289	ADGRG1	Likely pathogenic	GRCh38	1487597
+single nucleotide variant	NM_201525.4(ADGRG1):c.1006C>T (p.Gln336Ter)	9289	ADGRG1	Pathogenic	GRCh38	1458590
+single nucleotide variant	NM_201525.4(ADGRG1):c.580C>T (p.Gln194Ter)	9289	ADGRG1	Pathogenic	GRCh38	1694450
+single nucleotide variant	NM_201525.4(ADGRG1):c.105C>A (p.Cys35Ter)	9289	ADGRG1	Pathogenic	GRCh38	2137834
+single nucleotide variant	NM_201525.4(ADGRG1):c.1017+2T>A	9289	ADGRG1	Likely pathogenic	GRCh38	1953765
+single nucleotide variant	NM_201525.4(ADGRG1):c.279C>A (p.Tyr93Ter)	9289	ADGRG1	Pathogenic	GRCh38	1974309
+single nucleotide variant	NM_201525.4(ADGRG1):c.1131C>A (p.Cys377Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	2025254
+single nucleotide variant	NM_201525.4(ADGRG1):c.772G>T (p.Glu258Ter)	9289	ADGRG1	Pathogenic	GRCh38	2028121
+single nucleotide variant	NM_201525.4(ADGRG1):c.1012C>T (p.Gln338Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	2087510
+single nucleotide variant	NM_201525.4(ADGRG1):c.1457G>A (p.Trp486Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	2573550
+single nucleotide variant	NM_201525.4(ADGRG1):c.209C>T (p.Pro70Leu)	9289	ADGRG1	Pathogenic	GRCh38	2579668
+single nucleotide variant	NM_201525.4(ADGRG1):c.429G>A (p.Trp143Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	2627974
+single nucleotide variant	NM_201525.4(ADGRG1):c.315T>G (p.Tyr105Ter)	9289	ADGRG1	Pathogenic	GRCh38	2707147
+single nucleotide variant	NM_201525.4(ADGRG1):c.432G>A (p.Trp144Ter)	9289	ADGRG1	Pathogenic	GRCh38	2762364
+single nucleotide variant	NM_201525.4(ADGRG1):c.428G>A (p.Trp143Ter)	9289	ADGRG1	Pathogenic	GRCh38	2784492
+single nucleotide variant	NM_201525.4(ADGRG1):c.1064-2A>G	9289	ADGRG1	Likely pathogenic	GRCh38	2785910
+single nucleotide variant	NM_201525.4(ADGRG1):c.1792C>T (p.Gln598Ter)	9289	ADGRG1	Pathogenic	GRCh38	2859765
+single nucleotide variant	NM_201525.4(ADGRG1):c.1933+1G>T	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	2983670
+single nucleotide variant	NM_201525.4(ADGRG1):c.769-1G>A	9289	ADGRG1	Likely pathogenic	GRCh38	2999186
+single nucleotide variant	NM_201525.4(ADGRG1):c.14C>A (p.Ser5Ter)	9289	ADGRG1	Pathogenic	GRCh38	3021034
+single nucleotide variant	NM_201525.4(ADGRG1):c.488-2A>G	9289	ADGRG1	Likely pathogenic	GRCh38	3014721
+single nucleotide variant	NM_201525.4(ADGRG1):c.781G>T (p.Glu261Ter)	9289	ADGRG1	Pathogenic	GRCh38	3362665
+single nucleotide variant	NM_201525.4(ADGRG1):c.1046G>C (p.Trp349Ser)	9289	ADGRG1	Likely pathogenic	GRCh38	3366627
+single nucleotide variant	NM_201525.4(ADGRG1):c.264C>A (p.Tyr88Ter)	9289	ADGRG1	Likely pathogenic	GRCh38	3581088
+single nucleotide variant	NM_201525.4(ADGRG1):c.1000C>T (p.Gln334Ter)	9289	ADGRG1	Likely pathogenic	GRCh38	3581091
+single nucleotide variant	NM_201525.4(ADGRG1):c.1063+1G>A	9289	ADGRG1	Likely pathogenic	GRCh38	3581092
+single nucleotide variant	NM_201525.4(ADGRG1):c.1254C>A (p.Cys418Ter)	9289	ADGRG1	Likely pathogenic	GRCh38	3581093
+single nucleotide variant	NM_201525.4(ADGRG1):c.1485C>A (p.Tyr495Ter)	9289	ADGRG1	Pathogenic	GRCh38	3613696
+single nucleotide variant	NM_201525.4(ADGRG1):c.1281C>A (p.Cys427Ter)	9289	ADGRG1	Pathogenic/Likely pathogenic	GRCh38	3638695
+single nucleotide variant	NM_201525.4(ADGRG1):c.900+1G>T	9289	ADGRG1	Likely pathogenic	GRCh38	3721849
+single nucleotide variant	NM_201525.4(ADGRG1):c.721C>T (p.Gln241Ter)	9289	ADGRG1	Pathogenic	GRCh38	3775176
+single nucleotide variant	NM_201525.4(ADGRG1):c.1286+2T>A	9289	ADGRG1	Likely pathogenic	GRCh38	4413361
+single nucleotide variant	NM_201525.4(ADGRG1):c.938T>A (p.Leu313Ter)	9289	ADGRG1	Pathogenic	GRCh38	4727236
+single nucleotide variant	NM_201525.4(ADGRG1):c.1064-1G>A	9289	ADGRG1	Likely pathogenic	GRCh38	4815444
+single nucleotide variant	NM_201525.4(ADGRG1):c.1933+1G>A	9289	ADGRG1	Likely pathogenic	GRCh38	4815449
+single nucleotide variant	NM_201525.4(ADGRG1):c.1933+2T>C	9289	ADGRG1	Likely pathogenic	GRCh38	4815450
+single nucleotide variant	NM_201525.4(ADGRG1):c.65-2A>C	9289	ADGRG1	Likely pathogenic	GRCh38	4815452
+single nucleotide variant	NM_201525.4(ADGRG1):c.979G>T (p.Glu327Ter)	9289	ADGRG1	Likely pathogenic	GRCh38	4815455
+single nucleotide variant	NM_201525.4(ADGRG1):c.1851G>A (p.Trp617Ter)	9289	ADGRG1	Likely pathogenic	GRCh38	4851790

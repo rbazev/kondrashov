@@ -78,7 +78,7 @@ single nucleotide variant	NM_000048.4(ASL):c.1080G>C (p.Met360Ile)	435	ASL	Likel
 single nucleotide variant	NM_000048.4(ASL):c.556C>T (p.Arg186Trp)	435	ASL	Pathogenic/Likely pathogenic	GRCh38	1050820
 single nucleotide variant	NM_000048.4(ASL):c.502C>A (p.Arg168Ser)	435	ASL	Likely pathogenic	GRCh38	1064860
 single nucleotide variant	NM_000048.4(ASL):c.349-1G>A	435	ASL	Pathogenic/Likely pathogenic	GRCh38	1066380
-single nucleotide variant	NM_000048.4(ASL):c.221G>A (p.Trp74Ter)	435	ASL	Pathogenic	GRCh38	1075343
+single nucleotide variant	NM_000048.4(ASL):c.221G>A (p.Trp74Ter)	435	ASL	Pathogenic/Likely pathogenic	GRCh38	1075343
 single nucleotide variant	NM_000048.4(ASL):c.1133T>G (p.Val378Gly)	435	ASL	Likely pathogenic	GRCh38	1299071
 single nucleotide variant	NM_000048.4(ASL):c.1143+2T>G	435	ASL	Likely pathogenic	GRCh38	1328179
 single nucleotide variant	NM_000048.4(ASL):c.34C>T (p.Arg12Trp)	435	ASL	Likely pathogenic	GRCh38	1518921
@@ -156,6 +156,7 @@ single nucleotide variant	NM_000048.4(ASL):c.525-1G>A	435	ASL	Likely pathogenic	
 single nucleotide variant	NM_000048.4(ASL):c.206A>G (p.Lys69Arg)	435	ASL	Likely pathogenic	GRCh38	3240461
 single nucleotide variant	NM_000048.4(ASL):c.656-2A>T	435	ASL	Likely pathogenic	GRCh38	3240483
 single nucleotide variant	NM_000048.4(ASL):c.680T>C (p.Leu227Pro)	435	ASL	Pathogenic	GRCh38	3250959
+single nucleotide variant	NM_000048.4(ASL):c.622C>T (p.Pro208Ser)	435	ASL	Pathogenic	GRCh38	3347046
 single nucleotide variant	NM_000048.4(ASL):c.754C>T (p.His252Tyr)	435	ASL	Likely pathogenic	GRCh38	3393176
 single nucleotide variant	NM_000048.4(ASL):c.175G>T (p.Glu59Ter)	435	ASL	Likely pathogenic	GRCh38	3594751
 single nucleotide variant	NM_000048.4(ASL):c.749T>A (p.Met250Lys)	435	ASL	Likely pathogenic	GRCh38	3594754
@@ -175,3 +176,10 @@ single nucleotide variant	NM_000048.4(ASL):c.718+1G>T	435	ASL	Likely pathogenic	
 single nucleotide variant	NM_000048.4(ASL):c.913G>A (p.Gly305Arg)	435	ASL	Likely pathogenic	GRCh38	4818369
 single nucleotide variant	NM_000048.4(ASL):c.925G>C (p.Gly309Arg)	435	ASL	Likely pathogenic	GRCh38	4818372
 single nucleotide variant	NM_000048.4(ASL):c.961T>A (p.Tyr321Asn)	435	ASL	Likely pathogenic	GRCh38	4818373
+single nucleotide variant	NM_000048.4(ASL):c.1231C>T (p.Gln411Ter)	435	ASL	Pathogenic	GRCh38	4888538
+single nucleotide variant	NM_000048.4(ASL):c.991G>A (p.Ala331Thr)	435	ASL	Likely pathogenic	GRCh38	4889493
+single nucleotide variant	NM_000048.4(ASL):c.799G>T (p.Glu267Ter)	435	ASL	Likely pathogenic	GRCh38	4889561
+single nucleotide variant	NM_000048.4(ASL):c.1213C>T (p.Leu405Phe)	435	ASL	Likely pathogenic	GRCh38	4890393
+single nucleotide variant	NM_000048.4(ASL):c.727C>T (p.Leu243=)	435	ASL	Pathogenic	GRCh38	4890609
+single nucleotide variant	NM_000048.4(ASL):c.784C>T (p.Leu262Phe)	435	ASL	Pathogenic	GRCh38	4890610
+single nucleotide variant	NM_000048.4(ASL):c.1003G>A (p.Val335Met)	435	ASL	Likely pathogenic	GRCh38	4890612

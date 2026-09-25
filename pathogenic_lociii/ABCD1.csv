@@ -79,9 +79,7 @@ single nucleotide variant	NM_000033.4(ABCD1):c.662A>C (p.Asp221Ala)	215	ABCD1	Li
 single nucleotide variant	NM_000033.4(ABCD1):c.80A>C (p.Tyr27Ser)	215	ABCD1	Likely pathogenic	GRCh38	623112
 single nucleotide variant	NM_000033.4(ABCD1):c.487C>T (p.Arg163Cys)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	623113
 single nucleotide variant	NM_000033.4(ABCD1):c.593C>T (p.Thr198Met)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	623114
-single nucleotide variant	NM_000033.4(ABCD1):c.1165C>T (p.Arg389Cys)	215	ABCD1	Likely pathogenic	GRCh38	623115
-single nucleotide variant	NM_000033.4(ABCD1):c.1186G>A (p.Ala396Thr)	215	ABCD1	Likely pathogenic	GRCh38	623116
-single nucleotide variant	NM_000033.4(ABCD1):c.1597A>C (p.Lys533Gln)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	623117
+single nucleotide variant	NM_000033.4(ABCD1):c.1165C>T (p.Arg389Cys)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	623115
 single nucleotide variant	NM_000033.4(ABCD1):c.1973C>T (p.Thr658Ile)	215	ABCD1	Likely pathogenic	GRCh38	623118
 single nucleotide variant	NM_000033.4(ABCD1):c.900G>C (p.Glu300Asp)	215	ABCD1	Likely pathogenic	GRCh38	624451
 single nucleotide variant	NM_000033.4(ABCD1):c.346G>C (p.Gly116Arg)	215	ABCD1	Pathogenic	GRCh38	665836
@@ -145,7 +143,7 @@ single nucleotide variant	NM_000033.4(ABCD1):c.1247C>G (p.Thr416Arg)	215	ABCD1	P
 single nucleotide variant	NM_000033.4(ABCD1):c.873G>C (p.Glu291Asp)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	1067768
 single nucleotide variant	NM_000033.4(ABCD1):c.1442T>C (p.Ile481Thr)	215	ABCD1	Likely pathogenic	GRCh38	1066681
 single nucleotide variant	NM_000033.4(ABCD1):c.785C>G (p.Ser262Trp)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	1075691
-single nucleotide variant	NM_000033.4(ABCD1):c.965T>C (p.Leu322Pro)	215	ABCD1	Pathogenic	GRCh38	1068643
+single nucleotide variant	NM_000033.4(ABCD1):c.965T>C (p.Leu322Pro)	215	ABCD1	Pathogenic/Likely pathogenic	GRCh38	1068643
 single nucleotide variant	NM_000033.4(ABCD1):c.1138G>T (p.Glu380Ter)	215	ABCD1	Pathogenic	GRCh38	1072909
 single nucleotide variant	NM_000033.4(ABCD1):c.1780G>C (p.Gly594Arg)	215	ABCD1	Pathogenic	GRCh38	1076801
 single nucleotide variant	NM_000033.4(ABCD1):c.1817C>A (p.Ser606Ter)	215	ABCD1	Pathogenic	GRCh38	1073700
@@ -326,3 +324,5 @@ single nucleotide variant	NM_000033.4(ABCD1):c.1976A>G (p.His659Arg)	215	ABCD1	L
 single nucleotide variant	NM_000033.4(ABCD1):c.796G>C (p.Gly266Arg)	215	ABCD1	Likely pathogenic	GRCh38	4818088
 single nucleotide variant	NM_000033.4(ABCD1):c.274G>C (p.Gly92Arg)	215	ABCD1	Likely pathogenic	GRCh38	4849478
 single nucleotide variant	NM_000033.4(ABCD1):c.1256T>C (p.Val419Ala)	215	ABCD1	Pathogenic	GRCh38	4851269
+single nucleotide variant	NM_000033.4(ABCD1):c.886T>G (p.Tyr296Asp)	215	ABCD1	Likely pathogenic	GRCh38	4885746
+single nucleotide variant	NM_000033.4(ABCD1):c.1619T>G (p.Phe540Cys)	215	ABCD1	Likely pathogenic	GRCh38	4887817

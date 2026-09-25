@@ -1,0 +1,512 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_172107.4(KCNQ2):c.851A>G (p.Tyr284Cys)	3785	KCNQ2	Pathogenic	GRCh38	7381
+single nucleotide variant	NM_172107.4(KCNQ2):c.916G>A (p.Ala306Thr)	3785	KCNQ2	Pathogenic	GRCh38	7382
+single nucleotide variant	NM_172107.4(KCNQ2):c.640C>T (p.Arg214Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	7385
+single nucleotide variant	NM_172107.4(KCNQ2):c.619C>T (p.Arg207Trp)	3785	KCNQ2	Pathogenic	GRCh38	7386
+single nucleotide variant	NM_172107.4(KCNQ2):c.1662G>T (p.Lys554Asn)	3785	KCNQ2	Pathogenic	GRCh38	7388
+single nucleotide variant	NM_172107.4(KCNQ2):c.740C>G (p.Ser247Trp)	3785	KCNQ2	Pathogenic	GRCh38	7389
+single nucleotide variant	NM_172107.4(KCNQ2):c.620G>A (p.Arg207Gln)	3785	KCNQ2	Pathogenic	GRCh38	7391
+single nucleotide variant	NM_172107.4(KCNQ2):c.1016T>G (p.Leu339Arg)	3785	KCNQ2	Pathogenic	GRCh38	21755
+single nucleotide variant	NM_172107.4(KCNQ2):c.1057C>G (p.Arg353Gly)	3785	KCNQ2	Pathogenic	GRCh38	21756
+single nucleotide variant	NM_172107.4(KCNQ2):c.1076C>A (p.Thr359Lys)	3785	KCNQ2	Pathogenic	GRCh38	21757
+single nucleotide variant	NM_172107.4(KCNQ2):c.1217+2T>G	3785	KCNQ2	Pathogenic	GRCh38	21760
+single nucleotide variant	NM_172107.4(KCNQ2):c.1342C>T (p.Arg448Ter)	3785	KCNQ2	Pathogenic	GRCh38	21762
+single nucleotide variant	NM_172107.4(KCNQ2):c.1525+1G>A	3785	KCNQ2	Pathogenic	GRCh38	21763
+single nucleotide variant	NM_172107.4(KCNQ2):c.1658G>A (p.Arg553Gln)	3785	KCNQ2	Pathogenic	GRCh38	21767
+single nucleotide variant	NM_172107.4(KCNQ2):c.1742G>A (p.Arg581Gln)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	21769
+single nucleotide variant	NM_172107.4(KCNQ2):c.1A>G (p.Met1Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	21774
+single nucleotide variant	NM_172107.4(KCNQ2):c.2T>C (p.Met1Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	21783
+single nucleotide variant	NM_172107.4(KCNQ2):c.365C>T (p.Ser122Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	21787
+single nucleotide variant	NM_172107.4(KCNQ2):c.587C>T (p.Ala196Val)	3785	KCNQ2	Pathogenic	GRCh38	21792
+single nucleotide variant	NM_172107.4(KCNQ2):c.622A>G (p.Met208Val)	3785	KCNQ2	Pathogenic	GRCh38	21793
+single nucleotide variant	NM_172107.4(KCNQ2):c.635A>G (p.Asp212Gly)	3785	KCNQ2	Pathogenic	GRCh38	21794
+single nucleotide variant	NM_172107.4(KCNQ2):c.637C>T (p.Arg213Trp)	3785	KCNQ2	Pathogenic	GRCh38	21795
+single nucleotide variant	NM_172107.4(KCNQ2):c.684C>A (p.His228Gln)	3785	KCNQ2	Pathogenic	GRCh38	21797
+single nucleotide variant	NM_172107.4(KCNQ2):c.727C>T (p.Leu243Phe)	3785	KCNQ2	Pathogenic	GRCh38	21798
+single nucleotide variant	NM_172107.4(KCNQ2):c.749T>G (p.Val250Gly)	3785	KCNQ2	Pathogenic	GRCh38	21800
+single nucleotide variant	NM_172107.4(KCNQ2):c.773A>G (p.Asn258Ser)	3785	KCNQ2	Pathogenic	GRCh38	21801
+single nucleotide variant	NM_172107.4(KCNQ2):c.807G>A (p.Trp269Ter)	3785	KCNQ2	Pathogenic	GRCh38	21802
+single nucleotide variant	NM_172107.4(KCNQ2):c.881C>G (p.Ala294Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	21805
+single nucleotide variant	NM_172107.4(KCNQ2):c.997C>T (p.Arg333Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	21809
+single nucleotide variant	NM_172107.4(KCNQ2):c.998G>A (p.Arg333Gln)	3785	KCNQ2	Pathogenic	GRCh38	21810
+single nucleotide variant	NM_172107.4(KCNQ2):c.1764-6C>A	3785	KCNQ2	Pathogenic	GRCh38	21815
+single nucleotide variant	NM_172107.4(KCNQ2):c.638G>A (p.Arg213Gln)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	39760
+single nucleotide variant	NM_172107.4(KCNQ2):c.1636A>G (p.Met546Val)	3785	KCNQ2	Pathogenic	GRCh38	39761
+single nucleotide variant	NM_172107.4(KCNQ2):c.869G>A (p.Gly290Asp)	3785	KCNQ2	Pathogenic	GRCh38	39762
+single nucleotide variant	NM_172107.4(KCNQ2):c.1381C>T (p.Gln461Ter)	3785	KCNQ2	Pathogenic	GRCh38	2028979
+single nucleotide variant	NM_172107.4(KCNQ2):c.794C>T (p.Ala265Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	120176
+single nucleotide variant	NM_172107.4(KCNQ2):c.821C>T (p.Thr274Met)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	167208
+single nucleotide variant	NM_172107.4(KCNQ2):c.793G>A (p.Ala265Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	197891
+single nucleotide variant	NM_172107.4(KCNQ2):c.2245G>T (p.Glu749Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205931
+single nucleotide variant	NM_172107.4(KCNQ2):c.1887+1G>T	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205950
+single nucleotide variant	NM_172107.4(KCNQ2):c.1764-1G>C	3785	KCNQ2	Pathogenic	GRCh38	205910
+single nucleotide variant	NM_172107.4(KCNQ2):c.1742G>T (p.Arg581Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	205920
+single nucleotide variant	NM_172107.4(KCNQ2):c.1734G>C (p.Met578Ile)	3785	KCNQ2	Pathogenic	GRCh38	205919
+single nucleotide variant	NM_172107.4(KCNQ2):c.1721G>A (p.Gly574Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	205918
+single nucleotide variant	NM_172107.4(KCNQ2):c.1687G>A (p.Asp563Asn)	3785	KCNQ2	Pathogenic	GRCh38	205917
+single nucleotide variant	NM_172107.4(KCNQ2):c.1682C>T (p.Pro561Leu)	3785	KCNQ2	Pathogenic	GRCh38	205916
+single nucleotide variant	NM_172107.4(KCNQ2):c.1678C>T (p.Arg560Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205915
+single nucleotide variant	NM_172107.4(KCNQ2):c.1666A>G (p.Lys556Glu)	3785	KCNQ2	Pathogenic	GRCh38	205914
+single nucleotide variant	NM_172107.4(KCNQ2):c.1657C>T (p.Arg553Trp)	3785	KCNQ2	Pathogenic	GRCh38	205913
+single nucleotide variant	NM_172107.4(KCNQ2):c.1639C>T (p.Arg547Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205912
+single nucleotide variant	NM_172107.4(KCNQ2):c.1632-1G>A	3785	KCNQ2	Pathogenic	GRCh38	205909
+single nucleotide variant	NM_172107.4(KCNQ2):c.1079G>A (p.Trp360Ter)	3785	KCNQ2	Pathogenic	GRCh38	1357778
+single nucleotide variant	NM_172107.4(KCNQ2):c.1058G>A (p.Arg353His)	3785	KCNQ2	Pathogenic	GRCh38	205899
+single nucleotide variant	NM_172107.4(KCNQ2):c.1057C>T (p.Arg353Cys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205898
+single nucleotide variant	NM_172107.4(KCNQ2):c.1049A>T (p.Asn350Ile)	3785	KCNQ2	Likely pathogenic	GRCh38	205897
+single nucleotide variant	NM_172107.4(KCNQ2):c.1020C>G (p.Ile340Met)	3785	KCNQ2	Likely pathogenic	GRCh38	205896
+single nucleotide variant	NM_172107.4(KCNQ2):c.1010C>G (p.Ala337Gly)	3785	KCNQ2	Pathogenic	GRCh38	205894
+single nucleotide variant	NM_172107.4(KCNQ2):c.1009G>A (p.Ala337Thr)	3785	KCNQ2	Pathogenic	GRCh38	205893
+single nucleotide variant	NM_172107.4(KCNQ2):c.1004C>T (p.Pro335Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205892
+single nucleotide variant	NM_172107.4(KCNQ2):c.995G>A (p.Arg332Lys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205891
+single nucleotide variant	NM_172107.4(KCNQ2):c.916G>C (p.Ala306Pro)	3785	KCNQ2	Pathogenic	GRCh38	205888
+single nucleotide variant	NM_172107.4(KCNQ2):c.915C>A (p.Phe305Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205887
+single nucleotide variant	NM_172107.4(KCNQ2):c.881C>T (p.Ala294Val)	3785	KCNQ2	Pathogenic	GRCh38	205886
+single nucleotide variant	NM_172107.4(KCNQ2):c.848A>G (p.Lys283Arg)	3785	KCNQ2	Pathogenic	GRCh38	205885
+single nucleotide variant	NM_172107.4(KCNQ2):c.844G>A (p.Asp282Asn)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205884
+single nucleotide variant	NM_172107.4(KCNQ2):c.818T>A (p.Ile273Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	205883
+single nucleotide variant	NM_172107.4(KCNQ2):c.809G>A (p.Trp270Ter)	3785	KCNQ2	Pathogenic	GRCh38	205882
+single nucleotide variant	NM_172107.4(KCNQ2):c.806G>T (p.Trp269Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	205881
+single nucleotide variant	NM_172107.4(KCNQ2):c.790T>A (p.Tyr264Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	205880
+single nucleotide variant	NM_172107.4(KCNQ2):c.740C>T (p.Ser247Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205878
+single nucleotide variant	NM_172107.4(KCNQ2):c.692A>G (p.Glu231Gly)	3785	KCNQ2	Pathogenic	GRCh38	205876
+single nucleotide variant	NM_172107.4(KCNQ2):c.636C>A (p.Asp212Glu)	3785	KCNQ2	Pathogenic	GRCh38	205874
+single nucleotide variant	NM_172107.4(KCNQ2):c.628C>T (p.Arg210Cys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205873
+single nucleotide variant	NM_172107.4(KCNQ2):c.612G>T (p.Gln204His)	3785	KCNQ2	Likely pathogenic	GRCh38	205872
+single nucleotide variant	NM_172107.4(KCNQ2):c.611A>G (p.Gln204Arg)	3785	KCNQ2	Pathogenic	GRCh38	205870
+single nucleotide variant	NM_172107.4(KCNQ2):c.601C>T (p.Arg201Cys)	3785	KCNQ2	Pathogenic	GRCh38	205869
+single nucleotide variant	NM_172107.4(KCNQ2):c.599T>C (p.Leu200Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	205868
+single nucleotide variant	NM_172107.4(KCNQ2):c.593G>A (p.Arg198Gln)	3785	KCNQ2	Pathogenic	GRCh38	205867
+single nucleotide variant	NM_172107.4(KCNQ2):c.583T>C (p.Ser195Pro)	3785	KCNQ2	Pathogenic	GRCh38	205866
+single nucleotide variant	NM_172107.4(KCNQ2):c.578C>A (p.Ala193Asp)	3785	KCNQ2	Pathogenic	GRCh38	205865
+single nucleotide variant	NM_172107.4(KCNQ2):c.431G>A (p.Arg144Gln)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205864
+single nucleotide variant	NM_172107.4(KCNQ2):c.380A>G (p.Tyr127Cys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	205863
+single nucleotide variant	NM_172107.4(KCNQ2):c.297-2A>G	3785	KCNQ2	Pathogenic	GRCh38	205861
+single nucleotide variant	NM_172107.4(KCNQ2):c.294C>G (p.Tyr98Ter)	3785	KCNQ2	Pathogenic	GRCh38	205860
+single nucleotide variant	NM_172107.4(KCNQ2):c.222C>G (p.Tyr74Ter)	3785	KCNQ2	Pathogenic	GRCh38	205859
+single nucleotide variant	NM_172107.4(KCNQ2):c.710A>G (p.Tyr237Cys)	3785	KCNQ2	Pathogenic	GRCh38	208758
+single nucleotide variant	NM_172107.4(KCNQ2):c.693G>C (p.Glu231Asp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	208761
+single nucleotide variant	NM_172107.4(KCNQ2):c.704C>T (p.Ala235Val)	3785	KCNQ2	Likely pathogenic	GRCh38	211235
+single nucleotide variant	NM_172107.4(KCNQ2):c.693G>T (p.Glu231Asp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	211234
+single nucleotide variant	NM_172107.4(KCNQ2):c.841G>T (p.Gly281Trp)	3785	KCNQ2	Pathogenic	GRCh38	216949
+single nucleotide variant	NM_172107.4(KCNQ2):c.2147C>T (p.Thr716Ile)	3785	KCNQ2	Pathogenic	GRCh38	219239
+single nucleotide variant	NM_172107.4(KCNQ2):c.943G>C (p.Gly315Arg)	3785	KCNQ2	Pathogenic	GRCh38	219237
+single nucleotide variant	NM_172107.4(KCNQ2):c.917C>T (p.Ala306Val)	3785	KCNQ2	Pathogenic	GRCh38	219235
+single nucleotide variant	NM_172107.4(KCNQ2):c.850T>G (p.Tyr284Asp)	3785	KCNQ2	Pathogenic	GRCh38	219234
+single nucleotide variant	NM_172107.4(KCNQ2):c.803T>C (p.Leu268Pro)	3785	KCNQ2	Pathogenic	GRCh38	219236
+single nucleotide variant	NM_172107.4(KCNQ2):c.775G>T (p.Asp259Tyr)	3785	KCNQ2	Pathogenic	GRCh38	219240
+single nucleotide variant	NM_172107.4(KCNQ2):c.388G>A (p.Glu130Lys)	3785	KCNQ2	Pathogenic	GRCh38	219238
+single nucleotide variant	NM_172107.4(KCNQ2):c.319C>T (p.Leu107Phe)	3785	KCNQ2	Pathogenic	GRCh38	219241
+single nucleotide variant	NM_172107.4(KCNQ2):c.1639C>G (p.Arg547Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	226112
+single nucleotide variant	NM_172107.4(KCNQ2):c.1741C>G (p.Arg581Gly)	3785	KCNQ2	Pathogenic	GRCh38	265380
+single nucleotide variant	NM_172107.4(KCNQ2):c.629G>A (p.Arg210His)	3785	KCNQ2	Pathogenic	GRCh38	279931
+single nucleotide variant	NM_172107.4(KCNQ2):c.629G>C (p.Arg210Pro)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	280614
+single nucleotide variant	NM_172107.4(KCNQ2):c.1118+2T>C	3785	KCNQ2	Pathogenic	GRCh38	283350
+single nucleotide variant	NM_172107.4(KCNQ2):c.1732A>G (p.Met578Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	369807
+single nucleotide variant	NM_172107.4(KCNQ2):c.1658G>T (p.Arg553Leu)	3785	KCNQ2	Pathogenic	GRCh38	369805
+single nucleotide variant	NM_172107.4(KCNQ2):c.1631+1G>A	3785	KCNQ2	Pathogenic	GRCh38	369801
+single nucleotide variant	NM_172107.4(KCNQ2):c.1621A>G (p.Arg541Gly)	3785	KCNQ2	Pathogenic	GRCh38	369800
+single nucleotide variant	NM_172107.4(KCNQ2):c.1247+1G>A	3785	KCNQ2	Pathogenic	GRCh38	369791
+single nucleotide variant	NM_172107.4(KCNQ2):c.1085A>G (p.Tyr362Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	369784
+single nucleotide variant	NM_172107.4(KCNQ2):c.1051C>T (p.Leu351Phe)	3785	KCNQ2	Pathogenic	GRCh38	369779
+single nucleotide variant	NM_172107.4(KCNQ2):c.1051C>G (p.Leu351Val)	3785	KCNQ2	Likely pathogenic	GRCh38	369778
+single nucleotide variant	NM_172107.4(KCNQ2):c.1030T>C (p.Trp344Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	369777
+single nucleotide variant	NM_172107.4(KCNQ2):c.973A>G (p.Arg325Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	369775
+single nucleotide variant	NM_172107.4(KCNQ2):c.926C>T (p.Ala309Val)	3785	KCNQ2	Pathogenic	GRCh38	369772
+single nucleotide variant	NM_172107.4(KCNQ2):c.911T>C (p.Phe304Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	369771
+single nucleotide variant	NM_172107.4(KCNQ2):c.901G>A (p.Gly301Ser)	3785	KCNQ2	Pathogenic	GRCh38	369770
+single nucleotide variant	NM_172107.4(KCNQ2):c.886A>C (p.Thr296Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	369769
+single nucleotide variant	NM_172107.4(KCNQ2):c.868G>A (p.Gly290Ser)	3785	KCNQ2	Pathogenic	GRCh38	369768
+single nucleotide variant	NM_172107.4(KCNQ2):c.827C>T (p.Thr276Ile)	3785	KCNQ2	Pathogenic	GRCh38	369764
+single nucleotide variant	NM_172107.4(KCNQ2):c.802C>T (p.Leu268Phe)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	369763
+single nucleotide variant	NM_172107.4(KCNQ2):c.757G>A (p.Ala253Thr)	3785	KCNQ2	Likely pathogenic	GRCh38	369761
+single nucleotide variant	NM_172107.4(KCNQ2):c.649A>G (p.Thr217Ala)	3785	KCNQ2	Pathogenic	GRCh38	369757
+single nucleotide variant	NM_172107.4(KCNQ2):c.613A>G (p.Ile205Val)	3785	KCNQ2	Pathogenic	GRCh38	369755
+single nucleotide variant	NM_172107.4(KCNQ2):c.608T>C (p.Leu203Pro)	3785	KCNQ2	Pathogenic	GRCh38	369754
+single nucleotide variant	NM_172107.4(KCNQ2):c.602G>A (p.Arg201His)	3785	KCNQ2	Pathogenic	GRCh38	369753
+single nucleotide variant	NM_172107.4(KCNQ2):c.566G>T (p.Gly189Val)	3785	KCNQ2	Pathogenic	GRCh38	369751
+single nucleotide variant	NM_172107.4(KCNQ2):c.523G>C (p.Val175Leu)	3785	KCNQ2	Pathogenic	GRCh38	369748
+single nucleotide variant	NM_172107.4(KCNQ2):c.475G>A (p.Gly159Arg)	3785	KCNQ2	Pathogenic	GRCh38	369746
+single nucleotide variant	NM_172107.4(KCNQ2):c.471G>A (p.Trp157Ter)	3785	KCNQ2	Pathogenic	GRCh38	369744
+single nucleotide variant	NM_172107.4(KCNQ2):c.341C>T (p.Thr114Ile)	3785	KCNQ2	Likely pathogenic	GRCh38	369742
+single nucleotide variant	NM_172107.4(KCNQ2):c.340A>G (p.Thr114Ala)	3785	KCNQ2	Pathogenic	GRCh38	369741
+single nucleotide variant	NM_172107.4(KCNQ2):c.1679G>A (p.Arg560Gln)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	372677
+single nucleotide variant	NM_172107.4(KCNQ2):c.776A>G (p.Asp259Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	373573
+single nucleotide variant	NM_172107.4(KCNQ2):c.935T>C (p.Leu312Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	373802
+single nucleotide variant	NM_172107.4(KCNQ2):c.287A>C (p.His96Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	372576
+single nucleotide variant	NM_172107.4(KCNQ2):c.743T>C (p.Phe248Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	372909
+single nucleotide variant	NM_172107.4(KCNQ2):c.641G>C (p.Arg214Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	373698
+single nucleotide variant	NM_172107.4(KCNQ2):c.1067T>G (p.Leu356Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	373925
+single nucleotide variant	NM_172107.4(KCNQ2):c.816+1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	374488
+single nucleotide variant	NM_172107.4(KCNQ2):c.873G>T (p.Arg291Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	375517
+single nucleotide variant	NM_172107.4(KCNQ2):c.798T>A (p.Asp266Glu)	3785	KCNQ2	Pathogenic	GRCh38	375518
+single nucleotide variant	NM_172107.4(KCNQ2):c.1686C>A (p.Tyr562Ter)	3785	KCNQ2	Pathogenic	GRCh38	379891
+single nucleotide variant	NM_172107.4(KCNQ2):c.956A>G (p.Lys319Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	393264
+single nucleotide variant	NM_172107.4(KCNQ2):c.657G>C (p.Lys219Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	391958
+single nucleotide variant	NM_172107.4(KCNQ2):c.631A>G (p.Met211Val)	3785	KCNQ2	Likely pathogenic	GRCh38	392705
+single nucleotide variant	NM_172107.4(KCNQ2):c.833T>A (p.Ile278Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	390326
+single nucleotide variant	NM_172107.4(KCNQ2):c.1734G>A (p.Met578Ile)	3785	KCNQ2	Pathogenic	GRCh38	1458160
+single nucleotide variant	NM_172107.4(KCNQ2):c.875T>C (p.Leu292Pro)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	405208
+single nucleotide variant	NM_172107.4(KCNQ2):c.1204G>T (p.Gly402Ter)	3785	KCNQ2	Pathogenic	GRCh38	419629
+single nucleotide variant	NM_172107.4(KCNQ2):c.986T>C (p.Phe329Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	423623
+single nucleotide variant	NM_172107.4(KCNQ2):c.940T>C (p.Ser314Pro)	3785	KCNQ2	Pathogenic	GRCh38	421323
+single nucleotide variant	NM_172107.4(KCNQ2):c.842G>A (p.Gly281Glu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	421991
+single nucleotide variant	NM_172107.4(KCNQ2):c.819C>G (p.Ile273Met)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	422481
+single nucleotide variant	NM_172107.4(KCNQ2):c.691G>C (p.Glu231Gln)	3785	KCNQ2	Pathogenic	GRCh38	419718
+single nucleotide variant	NM_172107.4(KCNQ2):c.635A>T (p.Asp212Val)	3785	KCNQ2	Likely pathogenic	GRCh38	420930
+single nucleotide variant	NM_172107.4(KCNQ2):c.506G>T (p.Cys169Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	418726
+single nucleotide variant	NM_172107.4(KCNQ2):c.311T>C (p.Phe104Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	424370
+single nucleotide variant	NM_172107.4(KCNQ2):c.811G>C (p.Gly271Arg)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	425271
+single nucleotide variant	NM_172107.4(KCNQ2):c.1093C>T (p.Arg365Ter)	3785	KCNQ2	Pathogenic	GRCh38	426132
+single nucleotide variant	NM_172107.4(KCNQ2):c.544G>A (p.Val182Met)	3785	KCNQ2	Likely pathogenic	GRCh38	427046
+single nucleotide variant	NM_172107.4(KCNQ2):c.1700T>A (p.Val567Asp)	3785	KCNQ2	Pathogenic	GRCh38	429666
+single nucleotide variant	NM_172107.4(KCNQ2):c.1687G>T (p.Asp563Tyr)	3785	KCNQ2	Pathogenic	GRCh38	429424
+single nucleotide variant	NM_172107.4(KCNQ2):c.1508C>G (p.Ser503Ter)	3785	KCNQ2	Pathogenic	GRCh38	430015
+single nucleotide variant	NM_172107.4(KCNQ2):c.932T>A (p.Ile311Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	429385
+single nucleotide variant	NM_172107.4(KCNQ2):c.902G>T (p.Gly301Val)	3785	KCNQ2	Likely pathogenic	GRCh38	430386
+single nucleotide variant	NM_172107.4(KCNQ2):c.844G>C (p.Asp282His)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	430396
+single nucleotide variant	NM_172107.4(KCNQ2):c.833T>C (p.Ile278Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	429212
+single nucleotide variant	NM_172107.4(KCNQ2):c.902G>A (p.Gly301Asp)	3785	KCNQ2	Pathogenic	GRCh38	431095
+single nucleotide variant	NM_172107.4(KCNQ2):c.764A>G (p.Lys255Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	432713
+single nucleotide variant	NM_172107.4(KCNQ2):c.682C>T (p.His228Tyr)	3785	KCNQ2	Likely pathogenic	GRCh38	432161
+single nucleotide variant	NM_172107.4(KCNQ2):c.476G>T (p.Gly159Val)	3785	KCNQ2	Pathogenic	GRCh38	438297
+single nucleotide variant	NM_172107.4(KCNQ2):c.1733T>C (p.Met578Thr)	3785	KCNQ2	Likely pathogenic	GRCh38	452187
+single nucleotide variant	NM_172107.4(KCNQ2):c.654G>A (p.Trp218Ter)	3785	KCNQ2	Pathogenic	GRCh38	451602
+single nucleotide variant	NM_172107.4(KCNQ2):c.505T>C (p.Cys169Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	450447
+single nucleotide variant	NM_172107.4(KCNQ2):c.430C>T (p.Arg144Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	452487
+single nucleotide variant	NM_172107.4(KCNQ2):c.285C>A (p.Tyr95Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	449910
+single nucleotide variant	NM_172107.4(KCNQ2):c.994A>G (p.Arg332Gly)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	461424
+single nucleotide variant	NM_172107.4(KCNQ2):c.515A>G (p.Asp172Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	461422
+single nucleotide variant	NM_172107.4(KCNQ2):c.915C>G (p.Phe305Leu)	3785	KCNQ2	Pathogenic	GRCh38	461423
+single nucleotide variant	NM_172107.4(KCNQ2):c.841G>C (p.Gly281Arg)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	488538
+single nucleotide variant	NM_172107.4(KCNQ2):c.927+1G>A	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	489239
+single nucleotide variant	NM_172107.4(KCNQ2):c.1016T>A (p.Leu339Gln)	3785	KCNQ2	Likely pathogenic	GRCh38	495272
+single nucleotide variant	NM_172107.4(KCNQ2):c.829A>T (p.Thr277Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	495250
+single nucleotide variant	NM_172107.4(KCNQ2):c.778C>T (p.His260Tyr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	495248
+single nucleotide variant	NM_172107.4(KCNQ2):c.2T>A (p.Met1Lys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	497690
+single nucleotide variant	NM_172107.4(KCNQ2):c.1816A>T (p.Lys606Ter)	3785	KCNQ2	Pathogenic	GRCh38	504307
+single nucleotide variant	NM_172107.4(KCNQ2):c.769G>T (p.Glu257Ter)	3785	KCNQ2	Pathogenic	GRCh38	504313
+single nucleotide variant	NM_172107.4(KCNQ2):c.430C>G (p.Arg144Gly)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	520399
+single nucleotide variant	NM_172107.4(KCNQ2):c.869G>T (p.Gly290Val)	3785	KCNQ2	Pathogenic	GRCh38	523563
+single nucleotide variant	NM_172107.4(KCNQ2):c.1086C>G (p.Tyr362Ter)	3785	KCNQ2	Pathogenic	GRCh38	530424
+single nucleotide variant	NM_172107.4(KCNQ2):c.1003C>T (p.Pro335Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	530528
+single nucleotide variant	NM_172107.4(KCNQ2):c.724T>G (p.Cys242Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	545120
+single nucleotide variant	NM_172107.4(KCNQ2):c.1658G>C (p.Arg553Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	560650
+single nucleotide variant	NM_172107.4(KCNQ2):c.26G>A (p.Gly9Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	562034
+single nucleotide variant	NM_172107.4(KCNQ2):c.817-10G>A	3785	KCNQ2	Pathogenic	GRCh38	579506
+single nucleotide variant	NM_172107.4(KCNQ2):c.928G>A (p.Gly310Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	576538
+single nucleotide variant	NM_172107.4(KCNQ2):c.774C>G (p.Asn258Lys)	3785	KCNQ2	Pathogenic	GRCh38	566350
+single nucleotide variant	NM_172107.4(KCNQ2):c.1218-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	569913
+single nucleotide variant	NM_172107.4(KCNQ2):c.812G>A (p.Gly271Asp)	3785	KCNQ2	Pathogenic	GRCh38	565381
+single nucleotide variant	NM_172107.4(KCNQ2):c.788C>T (p.Thr263Ile)	3785	KCNQ2	Pathogenic	GRCh38	571819
+single nucleotide variant	NM_172107.4(KCNQ2):c.2029C>T (p.Arg677Trp)	3785	KCNQ2	Likely pathogenic	GRCh38	582756
+single nucleotide variant	NM_172107.4(KCNQ2):c.641G>A (p.Arg214Gln)	3785	KCNQ2	Pathogenic	GRCh38	578032
+single nucleotide variant	NM_172107.4(KCNQ2):c.839A>G (p.Tyr280Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	589856
+single nucleotide variant	NM_172107.4(KCNQ2):c.584C>T (p.Ser195Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	590184
+single nucleotide variant	NM_172107.4(KCNQ2):c.992A>C (p.Lys331Thr)	3785	KCNQ2	Likely pathogenic	GRCh38	618186
+single nucleotide variant	NM_172107.4(KCNQ2):c.1080G>T (p.Trp360Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	637022
+single nucleotide variant	NM_172107.4(KCNQ2):c.829A>C (p.Thr277Pro)	3785	KCNQ2	Pathogenic	GRCh38	643905
+single nucleotide variant	NM_172107.4(KCNQ2):c.830C>A (p.Thr277Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	665007
+single nucleotide variant	NM_172107.4(KCNQ2):c.847A>G (p.Lys283Glu)	3785	KCNQ2	Likely pathogenic	GRCh38	648864
+single nucleotide variant	NM_172107.4(KCNQ2):c.1003C>G (p.Pro335Ala)	3785	KCNQ2	Pathogenic	GRCh38	646824
+single nucleotide variant	NM_172107.4(KCNQ2):c.927+1G>C	3785	KCNQ2	Pathogenic	GRCh38	658781
+single nucleotide variant	NM_172107.4(KCNQ2):c.727C>G (p.Leu243Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	692002
+single nucleotide variant	NM_172107.4(KCNQ2):c.1149-1G>T	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	803620
+single nucleotide variant	NM_172107.4(KCNQ2):c.1050C>A (p.Asn350Lys)	3785	KCNQ2	Likely pathogenic	GRCh38	803621
+single nucleotide variant	NM_172107.4(KCNQ2):c.649A>C (p.Thr217Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	803623
+single nucleotide variant	NM_172107.4(KCNQ2):c.617T>C (p.Leu206Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	803624
+single nucleotide variant	NM_172107.4(KCNQ2):c.553G>A (p.Ala185Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	809271
+single nucleotide variant	NM_172107.4(KCNQ2):c.949G>A (p.Ala317Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	812166
+single nucleotide variant	NM_172107.4(KCNQ2):c.626T>C (p.Ile209Thr)	3785	KCNQ2	Pathogenic	GRCh38	812512
+single nucleotide variant	NM_172107.4(KCNQ2):c.845A>T (p.Asp282Val)	3785	KCNQ2	Pathogenic	GRCh38	812789
+single nucleotide variant	NM_172107.4(KCNQ2):c.590T>C (p.Leu197Pro)	3785	KCNQ2	Pathogenic	GRCh38	812790
+single nucleotide variant	NM_172107.4(KCNQ2):c.2425C>T (p.Gln809Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	813752
+single nucleotide variant	NM_172107.4(KCNQ2):c.1663T>C (p.Phe555Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	813758
+single nucleotide variant	NM_172107.4(KCNQ2):c.1411C>T (p.Gln471Ter)	3785	KCNQ2	Pathogenic	GRCh38	813737
+single nucleotide variant	NM_172107.4(KCNQ2):c.739T>C (p.Ser247Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	813771
+single nucleotide variant	NM_172107.4(KCNQ2):c.650C>T (p.Thr217Ile)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	813779
+single nucleotide variant	NM_172107.4(KCNQ2):c.2092C>T (p.Gln698Ter)	3785	KCNQ2	Pathogenic	GRCh38	817541
+single nucleotide variant	NM_172107.4(KCNQ2):c.1041C>G (p.Tyr347Ter)	3785	KCNQ2	Pathogenic	GRCh38	817529
+single nucleotide variant	NM_172107.4(KCNQ2):c.1080G>A (p.Trp360Ter)	3785	KCNQ2	Pathogenic	GRCh38	818228
+single nucleotide variant	NM_172107.4(KCNQ2):c.1708C>T (p.Gln570Ter)	3785	KCNQ2	Pathogenic	GRCh38	857615
+single nucleotide variant	NM_172107.4(KCNQ2):c.1688A>G (p.Asp563Gly)	3785	KCNQ2	Pathogenic	GRCh38	836158
+single nucleotide variant	NM_172107.4(KCNQ2):c.1686C>G (p.Tyr562Ter)	3785	KCNQ2	Pathogenic	GRCh38	854847
+single nucleotide variant	NM_172107.4(KCNQ2):c.1023G>C (p.Gln341His)	3785	KCNQ2	Pathogenic	GRCh38	856627
+single nucleotide variant	NM_172107.4(KCNQ2):c.810G>T (p.Trp270Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	851253
+single nucleotide variant	NM_172107.4(KCNQ2):c.797A>G (p.Asp266Gly)	3785	KCNQ2	Pathogenic	GRCh38	852899
+single nucleotide variant	NM_172107.4(KCNQ2):c.667T>C (p.Ser223Pro)	3785	KCNQ2	Pathogenic	GRCh38	841056
+single nucleotide variant	NM_172107.4(KCNQ2):c.1217+1G>T	3785	KCNQ2	Pathogenic	GRCh38	863917
+single nucleotide variant	NM_172107.4(KCNQ2):c.581C>T (p.Thr194Ile)	3785	KCNQ2	Likely pathogenic	GRCh38	870206
+single nucleotide variant	NM_172107.4(KCNQ2):c.1149-2A>G	3785	KCNQ2	Pathogenic	GRCh38	870205
+single nucleotide variant	NM_172107.4(KCNQ2):c.746T>C (p.Leu249Pro)	3785	KCNQ2	Pathogenic	GRCh38	870318
+single nucleotide variant	NM_172107.4(KCNQ2):c.854C>T (p.Pro285Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	871424
+single nucleotide variant	NM_172107.4(KCNQ2):c.748G>T (p.Val250Leu)	3785	KCNQ2	Pathogenic	GRCh38	872260
+single nucleotide variant	NM_172107.4(KCNQ2):c.394G>A (p.Val132Met)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	872263
+single nucleotide variant	NM_172107.4(KCNQ2):c.232C>T (p.Gln78Ter)	3785	KCNQ2	Pathogenic	GRCh38	933133
+single nucleotide variant	NM_172107.4(KCNQ2):c.1619T>G (p.Ile540Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	947411
+single nucleotide variant	NM_172107.4(KCNQ2):c.1452G>A (p.Trp484Ter)	3785	KCNQ2	Pathogenic	GRCh38	945819
+single nucleotide variant	NM_172107.4(KCNQ2):c.1444A>T (p.Lys482Ter)	3785	KCNQ2	Pathogenic	GRCh38	944466
+single nucleotide variant	NM_172107.4(KCNQ2):c.1042G>A (p.Ala348Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	950074
+single nucleotide variant	NM_172107.4(KCNQ2):c.782T>G (p.Phe261Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	946410
+single nucleotide variant	NM_172107.4(KCNQ2):c.767G>T (p.Gly256Val)	3785	KCNQ2	Pathogenic	GRCh38	945463
+single nucleotide variant	NM_172107.4(KCNQ2):c.635A>C (p.Asp212Ala)	3785	KCNQ2	Pathogenic	GRCh38	944385
+single nucleotide variant	NM_172107.4(KCNQ2):c.302T>A (p.Leu101His)	3785	KCNQ2	Likely pathogenic	GRCh38	944053
+single nucleotide variant	NM_172107.4(KCNQ2):c.1638G>A (p.Met546Ile)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	934692
+single nucleotide variant	NM_172107.4(KCNQ2):c.1540G>T (p.Gly514Ter)	3785	KCNQ2	Pathogenic	GRCh38	941301
+single nucleotide variant	NM_172107.4(KCNQ2):c.908C>G (p.Ser303Cys)	3785	KCNQ2	Pathogenic	GRCh38	942443
+single nucleotide variant	NM_172107.4(KCNQ2):c.827C>A (p.Thr276Asn)	3785	KCNQ2	Pathogenic	GRCh38	941582
+single nucleotide variant	NM_172107.4(KCNQ2):c.689A>T (p.Lys230Met)	3785	KCNQ2	Likely pathogenic	GRCh38	933711
+single nucleotide variant	NM_172107.4(KCNQ2):c.33C>A (p.Tyr11Ter)	3785	KCNQ2	Pathogenic	GRCh38	934077
+single nucleotide variant	NM_172107.4(KCNQ2):c.387+5G>A	3785	KCNQ2	Pathogenic	GRCh38	934962
+single nucleotide variant	NM_172107.4(KCNQ2):c.1065C>A (p.Asp355Glu)	3785	KCNQ2	Likely pathogenic	GRCh38	963965
+single nucleotide variant	NM_172107.4(KCNQ2):c.273G>A (p.Trp91Ter)	3785	KCNQ2	Pathogenic	GRCh38	953565
+single nucleotide variant	NM_172107.4(KCNQ2):c.927+2T>C	3785	KCNQ2	Pathogenic	GRCh38	969273
+single nucleotide variant	NM_172107.4(KCNQ2):c.683A>G (p.His228Arg)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	972975
+single nucleotide variant	NM_172107.4(KCNQ2):c.1046C>T (p.Thr349Ile)	3785	KCNQ2	Likely pathogenic	GRCh38	975417
+single nucleotide variant	NM_172107.4(KCNQ2):c.787A>G (p.Thr263Ala)	3785	KCNQ2	Likely pathogenic	GRCh38	975414
+single nucleotide variant	NM_172107.4(KCNQ2):c.286C>A (p.His96Asn)	3785	KCNQ2	Pathogenic	GRCh38	975416
+single nucleotide variant	NM_172107.4(KCNQ2):c.1089C>G (p.Tyr363Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	976093
+single nucleotide variant	NM_172107.4(KCNQ2):c.1064A>T (p.Asp355Val)	3785	KCNQ2	Likely pathogenic	GRCh38	976159
+single nucleotide variant	NM_172107.4(KCNQ2):c.853C>T (p.Pro285Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	975869
+single nucleotide variant	NM_172107.4(KCNQ2):c.766G>A (p.Gly256Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	975979
+single nucleotide variant	NM_172107.4(KCNQ2):c.762G>C (p.Glu254Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	976223
+single nucleotide variant	NM_172107.4(KCNQ2):c.757G>T (p.Ala253Ser)	3785	KCNQ2	Pathogenic	GRCh38	975904
+single nucleotide variant	NM_172107.4(KCNQ2):c.816+2T>A	3785	KCNQ2	Likely pathogenic	GRCh38	975996
+single nucleotide variant	NM_172107.4(KCNQ2):c.297-1G>C	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	976136
+single nucleotide variant	NM_172107.4(KCNQ2):c.578C>T (p.Ala193Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	977299
+single nucleotide variant	NM_172107.4(KCNQ2):c.562C>A (p.Gln188Lys)	3785	KCNQ2	Likely pathogenic	GRCh38	978712
+single nucleotide variant	NM_172107.4(KCNQ2):c.838T>C (p.Tyr280His)	3785	KCNQ2	Pathogenic	GRCh38	982412
+single nucleotide variant	NM_172107.4(KCNQ2):c.584C>G (p.Ser195Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	982654
+single nucleotide variant	NM_172107.4(KCNQ2):c.1089C>A (p.Tyr363Ter)	3785	KCNQ2	Pathogenic	GRCh38	993825
+single nucleotide variant	NM_172107.4(KCNQ2):c.880G>T (p.Ala294Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	1002473
+single nucleotide variant	NM_172107.4(KCNQ2):c.1720G>A (p.Gly574Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1022468
+single nucleotide variant	NM_172107.4(KCNQ2):c.560C>T (p.Ser187Phe)	3785	KCNQ2	Pathogenic	GRCh38	1020770
+single nucleotide variant	NM_172107.4(KCNQ2):c.1420G>T (p.Glu474Ter)	3785	KCNQ2	Pathogenic	GRCh38	1029260
+single nucleotide variant	NM_172107.4(KCNQ2):c.1025C>T (p.Ser342Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	1044294
+single nucleotide variant	NM_172107.4(KCNQ2):c.670G>C (p.Val224Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	1048634
+single nucleotide variant	NM_172107.4(KCNQ2):c.911T>G (p.Phe304Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	1060320
+single nucleotide variant	NM_172107.4(KCNQ2):c.1749G>C (p.Lys583Asn)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1068430
+single nucleotide variant	NM_172107.4(KCNQ2):c.1618A>G (p.Ile540Val)	3785	KCNQ2	Likely pathogenic	GRCh38	1067283
+single nucleotide variant	NM_172107.4(KCNQ2):c.1024-2A>C	3785	KCNQ2	Pathogenic	GRCh38	1066163
+single nucleotide variant	NM_172107.4(KCNQ2):c.970C>T (p.His324Tyr)	3785	KCNQ2	Likely pathogenic	GRCh38	1066649
+single nucleotide variant	NM_172107.4(KCNQ2):c.917C>A (p.Ala306Glu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1066055
+single nucleotide variant	NM_172107.4(KCNQ2):c.691-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	1066089
+single nucleotide variant	NM_172107.4(KCNQ2):c.593G>C (p.Arg198Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1066808
+single nucleotide variant	NM_172107.4(KCNQ2):c.514+1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	1067057
+single nucleotide variant	NM_172107.4(KCNQ2):c.388-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	1068159
+single nucleotide variant	NM_172107.4(KCNQ2):c.2305G>T (p.Glu769Ter)	3785	KCNQ2	Pathogenic	GRCh38	1073802
+single nucleotide variant	NM_172107.4(KCNQ2):c.1118+2T>G	3785	KCNQ2	Pathogenic	GRCh38	1073519
+single nucleotide variant	NM_172107.4(KCNQ2):c.1064A>G (p.Asp355Gly)	3785	KCNQ2	Pathogenic	GRCh38	1074630
+single nucleotide variant	NM_172107.4(KCNQ2):c.792C>A (p.Tyr264Ter)	3785	KCNQ2	Pathogenic	GRCh38	1076678
+single nucleotide variant	NM_172107.4(KCNQ2):c.734T>C (p.Leu245Pro)	3785	KCNQ2	Pathogenic	GRCh38	1074752
+single nucleotide variant	NM_172107.4(KCNQ2):c.653G>A (p.Trp218Ter)	3785	KCNQ2	Pathogenic	GRCh38	1072506
+single nucleotide variant	NM_172107.4(KCNQ2):c.437G>A (p.Trp146Ter)	3785	KCNQ2	Pathogenic	GRCh38	1074100
+single nucleotide variant	NM_172107.4(KCNQ2):c.955A>G (p.Lys319Glu)	3785	KCNQ2	Likely pathogenic	GRCh38	1077102
+single nucleotide variant	NM_172107.4(KCNQ2):c.1617C>T (p.Ser539=)	3785	KCNQ2	Likely pathogenic	GRCh38	1077142
+single nucleotide variant	NM_172107.4(KCNQ2):c.878T>C (p.Leu293Pro)	3785	KCNQ2	Pathogenic	GRCh38	1164059
+single nucleotide variant	NM_172107.4(KCNQ2):c.816+1G>T	3785	KCNQ2	Pathogenic	GRCh38	1175998
+single nucleotide variant	NM_172107.4(KCNQ2):c.823C>G (p.Leu275Val)	3785	KCNQ2	Likely pathogenic	GRCh38	1177922
+single nucleotide variant	NM_172107.4(KCNQ2):c.340A>C (p.Thr114Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1197529
+single nucleotide variant	NM_172107.4(KCNQ2):c.1007C>T (p.Ala336Val)	3785	KCNQ2	Likely pathogenic	GRCh38	1202917
+single nucleotide variant	NM_172107.4(KCNQ2):c.478C>T (p.Arg160Trp)	3785	KCNQ2	Likely pathogenic	GRCh38	1215427
+single nucleotide variant	NM_172107.4(KCNQ2):c.514+5G>C	3785	KCNQ2	Likely pathogenic	GRCh38	1215841
+single nucleotide variant	NM_172107.4(KCNQ2):c.806G>C (p.Trp269Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	1285561
+single nucleotide variant	NM_172107.4(KCNQ2):c.1681C>T (p.Pro561Ser)	3785	KCNQ2	Pathogenic	GRCh38	1301899
+single nucleotide variant	NM_172107.4(KCNQ2):c.482T>C (p.Leu161Pro)	3785	KCNQ2	Pathogenic	GRCh38	1307528
+single nucleotide variant	NM_172107.4(KCNQ2):c.706T>C (p.Trp236Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	1320124
+single nucleotide variant	NM_172107.4(KCNQ2):c.753C>G (p.Tyr251Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1324608
+single nucleotide variant	NM_172107.4(KCNQ2):c.533C>T (p.Ala178Val)	3785	KCNQ2	Likely pathogenic	GRCh38	1326315
+single nucleotide variant	NM_172107.4(KCNQ2):c.1045A>C (p.Thr349Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1326317
+single nucleotide variant	NM_172107.4(KCNQ2):c.1123C>T (p.Gln375Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1326320
+single nucleotide variant	NM_172107.4(KCNQ2):c.617T>G (p.Leu206Arg)	3785	KCNQ2	Pathogenic	GRCh38	1326322
+single nucleotide variant	NM_172107.4(KCNQ2):c.668C>T (p.Ser223Phe)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1326326
+single nucleotide variant	NM_172107.4(KCNQ2):c.936G>T (p.Leu312Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	1329944
+single nucleotide variant	NM_172107.4(KCNQ2):c.316T>G (p.Cys106Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	1332854
+single nucleotide variant	NM_172107.4(KCNQ2):c.1045A>G (p.Thr349Ala)	3785	KCNQ2	Likely pathogenic	GRCh38	1335466
+single nucleotide variant	NM_172107.4(KCNQ2):c.388-2A>G	3785	KCNQ2	Likely pathogenic	GRCh38	1343225
+single nucleotide variant	NM_172107.4(KCNQ2):c.834T>G (p.Ile278Met)	3785	KCNQ2	Likely pathogenic	GRCh38	1467031
+single nucleotide variant	NM_172107.4(KCNQ2):c.690+1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	1466379
+single nucleotide variant	NM_172107.4(KCNQ2):c.592C>T (p.Arg198Trp)	3785	KCNQ2	Likely pathogenic	GRCh38	1479754
+single nucleotide variant	NM_172107.4(KCNQ2):c.817-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	1479875
+single nucleotide variant	NM_172107.4(KCNQ2):c.419A>C (p.Glu140Ala)	3785	KCNQ2	Likely pathogenic	GRCh38	1509652
+single nucleotide variant	NM_172107.4(KCNQ2):c.1631+2T>C	3785	KCNQ2	Pathogenic	GRCh38	1454249
+single nucleotide variant	NM_172107.4(KCNQ2):c.811G>A (p.Gly271Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1522201
+single nucleotide variant	NM_172107.4(KCNQ2):c.1052T>G (p.Leu351Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	1470373
+single nucleotide variant	NM_172107.4(KCNQ2):c.1067T>A (p.Leu356Gln)	3785	KCNQ2	Pathogenic	GRCh38	1388731
+single nucleotide variant	NM_172107.4(KCNQ2):c.387+2T>C	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1500993
+single nucleotide variant	NM_172107.4(KCNQ2):c.1480C>T (p.Gln494Ter)	3785	KCNQ2	Pathogenic	GRCh38	1452788
+single nucleotide variant	NM_172107.4(KCNQ2):c.749T>C (p.Val250Ala)	3785	KCNQ2	Pathogenic	GRCh38	1490541
+single nucleotide variant	NM_172107.4(KCNQ2):c.686G>T (p.Ser229Ile)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1451904
+single nucleotide variant	NM_172107.4(KCNQ2):c.308T>A (p.Val103Asp)	3785	KCNQ2	Pathogenic	GRCh38	1426976
+single nucleotide variant	NM_172107.4(KCNQ2):c.722T>C (p.Leu241Pro)	3785	KCNQ2	Pathogenic	GRCh38	1357963
+single nucleotide variant	NM_172107.4(KCNQ2):c.1732A>C (p.Met578Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	1483056
+single nucleotide variant	NM_172107.4(KCNQ2):c.1375C>T (p.Gln459Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1458320
+single nucleotide variant	NM_172107.4(KCNQ2):c.1679G>C (p.Arg560Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1469749
+single nucleotide variant	NM_172107.4(KCNQ2):c.832A>T (p.Ile278Phe)	3785	KCNQ2	Pathogenic	GRCh38	1349168
+single nucleotide variant	NM_172107.4(KCNQ2):c.1168C>T (p.Gln390Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1459931
+single nucleotide variant	NM_172107.4(KCNQ2):c.680C>T (p.Ala227Val)	3785	KCNQ2	Likely pathogenic	GRCh38	1515195
+single nucleotide variant	NM_172107.4(KCNQ2):c.354T>G (p.Tyr118Ter)	3785	KCNQ2	Pathogenic	GRCh38	1459671
+single nucleotide variant	NM_172107.4(KCNQ2):c.792C>G (p.Tyr264Ter)	3785	KCNQ2	Pathogenic	GRCh38	1431389
+single nucleotide variant	NM_172107.4(KCNQ2):c.927+1G>T	3785	KCNQ2	Pathogenic	GRCh38	1458660
+single nucleotide variant	NM_172107.4(KCNQ2):c.626T>G (p.Ile209Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1463576
+single nucleotide variant	NM_172107.4(KCNQ2):c.569A>T (p.Asn190Ile)	3785	KCNQ2	Pathogenic	GRCh38	1526159
+single nucleotide variant	NM_172107.4(KCNQ2):c.49G>T (p.Glu17Ter)	3785	KCNQ2	Pathogenic	GRCh38	1676605
+single nucleotide variant	NM_172107.4(KCNQ2):c.401T>A (p.Ile134Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	1683753
+single nucleotide variant	NM_172107.4(KCNQ2):c.725G>A (p.Cys242Tyr)	3785	KCNQ2	Likely pathogenic	GRCh38	1683778
+single nucleotide variant	NM_172107.4(KCNQ2):c.761A>C (p.Glu254Ala)	3785	KCNQ2	Pathogenic	GRCh38	1685897
+single nucleotide variant	NM_172107.4(KCNQ2):c.700A>G (p.Thr234Ala)	3785	KCNQ2	Pathogenic	GRCh38	1685898
+single nucleotide variant	NM_172107.4(KCNQ2):c.638G>T (p.Arg213Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1685899
+single nucleotide variant	NM_172107.4(KCNQ2):c.3G>A (p.Met1Ile)	3785	KCNQ2	Pathogenic	GRCh38	1685900
+single nucleotide variant	NM_172107.4(KCNQ2):c.695T>C (p.Leu232Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1690836
+single nucleotide variant	NM_172107.4(KCNQ2):c.242T>C (p.Leu81Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1691227
+single nucleotide variant	NM_172107.4(KCNQ2):c.652T>A (p.Trp218Arg)	3785	KCNQ2	Pathogenic	GRCh38	1691450
+single nucleotide variant	NM_172107.4(KCNQ2):c.380A>T (p.Tyr127Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	1697296
+single nucleotide variant	NM_172107.4(KCNQ2):c.807G>T (p.Trp269Cys)	3785	KCNQ2	Pathogenic	GRCh38	1700189
+single nucleotide variant	NM_172107.4(KCNQ2):c.836G>A (p.Gly279Asp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1701799
+single nucleotide variant	NM_172107.4(KCNQ2):c.1657C>G (p.Arg553Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	1705411
+single nucleotide variant	NM_172107.4(KCNQ2):c.757G>C (p.Ala253Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1708357
+single nucleotide variant	NM_172107.4(KCNQ2):c.922C>T (p.Pro308Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	1709043
+single nucleotide variant	NM_172107.4(KCNQ2):c.1632-6C>A	3785	KCNQ2	Likely pathogenic	GRCh38	1709128
+single nucleotide variant	NM_172107.4(KCNQ2):c.850T>C (p.Tyr284His)	3785	KCNQ2	Pathogenic	GRCh38	1709240
+single nucleotide variant	NM_172107.4(KCNQ2):c.1027G>C (p.Ala343Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	1709746
+single nucleotide variant	NM_172107.4(KCNQ2):c.1666A>C (p.Lys556Gln)	3785	KCNQ2	Likely pathogenic	GRCh38	1710128
+single nucleotide variant	NM_172107.4(KCNQ2):c.1027G>A (p.Ala343Thr)	3785	KCNQ2	Pathogenic	GRCh38	1716319
+single nucleotide variant	NM_172107.4(KCNQ2):c.1616G>A (p.Ser539Asn)	3785	KCNQ2	Pathogenic	GRCh38	1721353
+single nucleotide variant	NM_172107.4(KCNQ2):c.647G>T (p.Gly216Val)	3785	KCNQ2	Pathogenic	GRCh38	1723652
+single nucleotide variant	NM_172107.4(KCNQ2):c.868G>T (p.Gly290Cys)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	1803794
+single nucleotide variant	NM_172107.4(KCNQ2):c.835G>A (p.Gly279Ser)	3785	KCNQ2	Pathogenic	GRCh38	1805714
+single nucleotide variant	NM_172107.4(KCNQ2):c.523G>T (p.Val175Leu)	3785	KCNQ2	Pathogenic	GRCh38	2138369
+single nucleotide variant	NM_172107.4(KCNQ2):c.826A>C (p.Thr276Pro)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2152330
+single nucleotide variant	NM_172107.4(KCNQ2):c.1632-11C>G	3785	KCNQ2	Likely pathogenic	GRCh38	1879538
+single nucleotide variant	NM_172107.4(KCNQ2):c.461A>G (p.Tyr154Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	1904331
+single nucleotide variant	NM_172107.4(KCNQ2):c.704C>G (p.Ala235Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	1959325
+single nucleotide variant	NM_172107.4(KCNQ2):c.943G>A (p.Gly315Arg)	3785	KCNQ2	Pathogenic	GRCh38	1962872
+single nucleotide variant	NM_172107.4(KCNQ2):c.601C>G (p.Arg201Gly)	3785	KCNQ2	Pathogenic	GRCh38	1992305
+single nucleotide variant	NM_172107.4(KCNQ2):c.272G>A (p.Trp91Ter)	3785	KCNQ2	Pathogenic	GRCh38	1994420
+single nucleotide variant	NM_172107.4(KCNQ2):c.1684T>A (p.Tyr562Asn)	3785	KCNQ2	Pathogenic	GRCh38	2001199
+single nucleotide variant	NM_172107.4(KCNQ2):c.1764-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	2012199
+single nucleotide variant	NM_172107.4(KCNQ2):c.1640G>T (p.Arg547Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	2005878
+single nucleotide variant	NM_172107.4(KCNQ2):c.658C>A (p.Leu220Met)	3785	KCNQ2	Pathogenic	GRCh38	2027411
+single nucleotide variant	NM_172107.4(KCNQ2):c.1021C>T (p.Gln341Ter)	3785	KCNQ2	Pathogenic	GRCh38	2031668
+single nucleotide variant	NM_172107.4(KCNQ2):c.387+1G>A	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2034758
+single nucleotide variant	NM_172107.4(KCNQ2):c.296+5G>C	3785	KCNQ2	Likely pathogenic	GRCh38	2067537
+single nucleotide variant	NM_172107.4(KCNQ2):c.1525+2T>C	3785	KCNQ2	Pathogenic	GRCh38	2086620
+single nucleotide variant	NM_172107.4(KCNQ2):c.830C>G (p.Thr277Ser)	3785	KCNQ2	Pathogenic	GRCh38	2074244
+single nucleotide variant	NM_172107.4(KCNQ2):c.1865G>C (p.Arg622Pro)	3785	KCNQ2	Pathogenic	GRCh38	2081170
+single nucleotide variant	NM_172107.4(KCNQ2):c.634G>A (p.Asp212Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	2097600
+single nucleotide variant	NM_172107.4(KCNQ2):c.1665C>G (p.Phe555Leu)	3785	KCNQ2	Pathogenic	GRCh38	2099169
+single nucleotide variant	NM_172107.4(KCNQ2):c.718T>G (p.Phe240Val)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2122866
+single nucleotide variant	NM_172107.4(KCNQ2):c.563A>G (p.Gln188Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	2124658
+single nucleotide variant	NM_172107.4(KCNQ2):c.797A>T (p.Asp266Val)	3785	KCNQ2	Likely pathogenic	GRCh38	2442145
+single nucleotide variant	NM_172107.4(KCNQ2):c.566G>A (p.Gly189Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	2442361
+single nucleotide variant	NM_172107.4(KCNQ2):c.836G>T (p.Gly279Val)	3785	KCNQ2	Likely pathogenic	GRCh38	2444145
+single nucleotide variant	NM_172107.4(KCNQ2):c.436T>C (p.Trp146Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	2444440
+single nucleotide variant	NM_172107.4(KCNQ2):c.1163T>C (p.Leu388Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	2446048
+single nucleotide variant	NM_172107.4(KCNQ2):c.1137C>A (p.Tyr379Ter)	3785	KCNQ2	Pathogenic	GRCh38	2498892
+single nucleotide variant	NM_172107.4(KCNQ2):c.388-1G>C	3785	KCNQ2	Pathogenic	GRCh38	2498893
+single nucleotide variant	NM_172107.4(KCNQ2):c.829A>G (p.Thr277Ala)	3785	KCNQ2	Pathogenic	GRCh38	2500737
+single nucleotide variant	NM_172107.4(KCNQ2):c.1525G>T (p.Glu509Ter)	3785	KCNQ2	Likely pathogenic	GRCh38	2503448
+single nucleotide variant	NM_172107.4(KCNQ2):c.458G>A (p.Arg153Gln)	3785	KCNQ2	Pathogenic	GRCh38	2504931
+single nucleotide variant	NM_172107.4(KCNQ2):c.1148+2T>A	3785	KCNQ2	Likely pathogenic	GRCh38	2570650
+single nucleotide variant	NM_172107.4(KCNQ2):c.1078T>G (p.Trp360Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	2571143
+single nucleotide variant	NM_172107.4(KCNQ2):c.766G>T (p.Gly256Trp)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2571144
+single nucleotide variant	NM_172107.4(KCNQ2):c.923C>T (p.Pro308Leu)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2572483
+single nucleotide variant	NM_172107.4(KCNQ2):c.830C>T (p.Thr277Ile)	3785	KCNQ2	Pathogenic	GRCh38	2573141
+single nucleotide variant	NM_172107.4(KCNQ2):c.846C>A (p.Asp282Glu)	3785	KCNQ2	Pathogenic	GRCh38	2573143
+single nucleotide variant	NM_172107.4(KCNQ2):c.937G>A (p.Gly313Arg)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2584390
+single nucleotide variant	NM_172107.4(KCNQ2):c.920T>C (p.Leu307Pro)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2584409
+single nucleotide variant	NM_172107.4(KCNQ2):c.256G>A (p.Glu86Lys)	3785	KCNQ2	Likely pathogenic	GRCh38	2626765
+single nucleotide variant	NM_172107.4(KCNQ2):c.379T>G (p.Tyr127Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	2652535
+single nucleotide variant	NM_172107.4(KCNQ2):c.1873A>T (p.Lys625Ter)	3785	KCNQ2	Pathogenic	GRCh38	2695163
+single nucleotide variant	NM_172107.4(KCNQ2):c.2154G>A (p.Trp718Ter)	3785	KCNQ2	Pathogenic	GRCh38	2703769
+single nucleotide variant	NM_172107.4(KCNQ2):c.816+2T>G	3785	KCNQ2	Likely pathogenic	GRCh38	2700058
+single nucleotide variant	NM_172107.4(KCNQ2):c.673G>T (p.Val225Phe)	3785	KCNQ2	Pathogenic	GRCh38	2702661
+single nucleotide variant	NM_172107.4(KCNQ2):c.1024-1G>A	3785	KCNQ2	Pathogenic	GRCh38	2710265
+single nucleotide variant	NM_172107.4(KCNQ2):c.685A>G (p.Ser229Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	2708146
+single nucleotide variant	NM_172107.4(KCNQ2):c.1301+2T>G	3785	KCNQ2	Likely pathogenic	GRCh38	2725901
+single nucleotide variant	NM_172107.4(KCNQ2):c.714C>G (p.Ile238Met)	3785	KCNQ2	Likely pathogenic	GRCh38	2743802
+single nucleotide variant	NM_172107.4(KCNQ2):c.1667A>G (p.Lys556Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	2749889
+single nucleotide variant	NM_172107.4(KCNQ2):c.725G>T (p.Cys242Phe)	3785	KCNQ2	Pathogenic	GRCh38	2758496
+single nucleotide variant	NM_172107.4(KCNQ2):c.733C>G (p.Leu245Val)	3785	KCNQ2	Likely pathogenic	GRCh38	2757951
+single nucleotide variant	NM_172107.4(KCNQ2):c.1302-1G>T	3785	KCNQ2	Pathogenic	GRCh38	2757450
+single nucleotide variant	NM_172107.4(KCNQ2):c.796G>C (p.Asp266His)	3785	KCNQ2	Pathogenic	GRCh38	2748243
+single nucleotide variant	NM_172107.4(KCNQ2):c.1023+2T>C	3785	KCNQ2	Likely pathogenic	GRCh38	2765601
+single nucleotide variant	NM_172107.4(KCNQ2):c.1302-1G>A	3785	KCNQ2	Likely pathogenic	GRCh38	2770956
+single nucleotide variant	NM_172107.4(KCNQ2):c.1771C>T (p.Gln591Ter)	3785	KCNQ2	Pathogenic	GRCh38	2780447
+single nucleotide variant	NM_172107.4(KCNQ2):c.1735C>G (p.Leu579Val)	3785	KCNQ2	Likely pathogenic	GRCh38	2780448
+single nucleotide variant	NM_172107.4(KCNQ2):c.796G>A (p.Asp266Asn)	3785	KCNQ2	Likely pathogenic	GRCh38	2808341
+single nucleotide variant	NM_172107.4(KCNQ2):c.514+2T>C	3785	KCNQ2	Likely pathogenic	GRCh38	2809902
+single nucleotide variant	NM_172107.4(KCNQ2):c.998G>T (p.Arg333Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	2817426
+single nucleotide variant	NM_172107.4(KCNQ2):c.817-2A>G	3785	KCNQ2	Likely pathogenic	GRCh38	2819107
+single nucleotide variant	NM_172107.4(KCNQ2):c.874C>T (p.Leu292Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	2822011
+single nucleotide variant	NM_172107.4(KCNQ2):c.914T>C (p.Phe305Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	2818350
+single nucleotide variant	NM_172107.4(KCNQ2):c.1520C>A (p.Ser507Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	2842320
+single nucleotide variant	NM_172107.4(KCNQ2):c.652T>C (p.Trp218Arg)	3785	KCNQ2	Pathogenic	GRCh38	2843971
+single nucleotide variant	NM_172107.4(KCNQ2):c.1048A>T (p.Asn350Tyr)	3785	KCNQ2	Likely pathogenic	GRCh38	2847465
+single nucleotide variant	NM_172107.4(KCNQ2):c.1689C>A (p.Asp563Glu)	3785	KCNQ2	Pathogenic	GRCh38	2855247
+single nucleotide variant	NM_172107.4(KCNQ2):c.682C>G (p.His228Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	2857655
+single nucleotide variant	NM_172107.4(KCNQ2):c.1A>T (p.Met1Leu)	3785	KCNQ2	Pathogenic	GRCh38	2862833
+single nucleotide variant	NM_172107.4(KCNQ2):c.296+2T>C	3785	KCNQ2	Likely pathogenic	GRCh38	2880678
+single nucleotide variant	NM_172107.4(KCNQ2):c.737C>T (p.Ala246Val)	3785	KCNQ2	Pathogenic	GRCh38	3014015
+single nucleotide variant	NM_172107.4(KCNQ2):c.358A>T (p.Lys120Ter)	3785	KCNQ2	Pathogenic	GRCh38	3032629
+single nucleotide variant	NM_172107.4(KCNQ2):c.569A>G (p.Asn190Ser)	3785	KCNQ2	Pathogenic	GRCh38	3068827
+single nucleotide variant	NM_172107.4(KCNQ2):c.763A>C (p.Lys255Gln)	3785	KCNQ2	Likely pathogenic	GRCh38	3069190
+single nucleotide variant	NM_172107.4(KCNQ2):c.1644C>A (p.Phe548Leu)	3785	KCNQ2	Likely pathogenic	GRCh38	3235879
+single nucleotide variant	NM_172107.4(KCNQ2):c.820A>T (p.Thr274Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	3236070
+single nucleotide variant	NM_172107.4(KCNQ2):c.2251T>G (p.Ser751Ala)	3785	KCNQ2	Likely pathogenic	GRCh38	3248555
+single nucleotide variant	NM_172107.4(KCNQ2):c.1055C>G (p.Ser352Trp)	3785	KCNQ2	Likely pathogenic	GRCh38	3252037
+single nucleotide variant	NM_172107.4(KCNQ2):c.1156C>G (p.Pro386Ala)	3785	KCNQ2	Likely pathogenic	GRCh38	3252508
+single nucleotide variant	NM_172107.4(KCNQ2):c.853C>A (p.Pro285Thr)	3785	KCNQ2	Pathogenic	GRCh38	3254539
+single nucleotide variant	NM_172107.4(KCNQ2):c.881C>A (p.Ala294Glu)	3785	KCNQ2	Pathogenic	GRCh38	3254540
+single nucleotide variant	NM_172107.4(KCNQ2):c.816+2T>C	3785	KCNQ2	Likely pathogenic	GRCh38	3257721
+single nucleotide variant	NM_172107.4(KCNQ2):c.564G>C (p.Gln188His)	3785	KCNQ2	Likely pathogenic	GRCh38	3258077
+single nucleotide variant	NM_172107.4(KCNQ2):c.662T>C (p.Leu221Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	3336897
+single nucleotide variant	NM_172107.4(KCNQ2):c.811G>T (p.Gly271Cys)	3785	KCNQ2	Likely pathogenic	GRCh38	3337205
+single nucleotide variant	NM_172107.4(KCNQ2):c.908C>T (p.Ser303Phe)	3785	KCNQ2	Pathogenic	GRCh38	3343904
+single nucleotide variant	NM_172107.4(KCNQ2):c.904G>T (p.Val302Phe)	3785	KCNQ2	Likely pathogenic	GRCh38	3382512
+single nucleotide variant	NM_172107.4(KCNQ2):c.1030T>A (p.Trp344Arg)	3785	KCNQ2	Pathogenic	GRCh38	3382550
+single nucleotide variant	NM_172107.4(KCNQ2):c.1756C>T (p.Gln586Ter)	3785	KCNQ2	Pathogenic	GRCh38	3572903
+single nucleotide variant	NM_172107.4(KCNQ2):c.1040A>G (p.Tyr347Cys)	3785	KCNQ2	Pathogenic	GRCh38	3637731
+single nucleotide variant	NM_172107.4(KCNQ2):c.880G>A (p.Ala294Thr)	3785	KCNQ2	Likely pathogenic	GRCh38	3637736
+single nucleotide variant	NM_172107.4(KCNQ2):c.572T>C (p.Val191Ala)	3785	KCNQ2	Pathogenic	GRCh38	3637737
+single nucleotide variant	NM_172107.4(KCNQ2):c.568A>C (p.Asn190His)	3785	KCNQ2	Likely pathogenic	GRCh38	3637738
+single nucleotide variant	NM_172107.4(KCNQ2):c.423C>G (p.Tyr141Ter)	3785	KCNQ2	Pathogenic	GRCh38	3636760
+single nucleotide variant	NM_172107.4(KCNQ2):c.1763+5G>C	3785	KCNQ2	Pathogenic	GRCh38	3661924
+single nucleotide variant	NM_172107.4(KCNQ2):c.689A>G (p.Lys230Arg)	3785	KCNQ2	Pathogenic	GRCh38	3661649
+single nucleotide variant	NM_172107.4(KCNQ2):c.297-3C>G	3785	KCNQ2	Pathogenic	GRCh38	3721888
+single nucleotide variant	NM_172107.4(KCNQ2):c.438G>A (p.Trp146Ter)	3785	KCNQ2	Pathogenic	GRCh38	3724751
+single nucleotide variant	NM_172107.4(KCNQ2):c.196A>T (p.Lys66Ter)	3785	KCNQ2	Pathogenic	GRCh38	3729375
+single nucleotide variant	NM_172107.4(KCNQ2):c.1696G>A (p.Asp566Asn)	3785	KCNQ2	Pathogenic	GRCh38	3720584
+single nucleotide variant	NM_172107.4(KCNQ2):c.551C>A (p.Ala184Asp)	3785	KCNQ2	Pathogenic	GRCh38	3730937
+single nucleotide variant	NM_172107.4(KCNQ2):c.389A>G (p.Glu130Gly)	3785	KCNQ2	Pathogenic	GRCh38	3775018
+single nucleotide variant	NM_172107.4(KCNQ2):c.770A>G (p.Glu257Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	3775609
+single nucleotide variant	NM_172107.4(KCNQ2):c.1081C>T (p.Gln361Ter)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	3775845
+single nucleotide variant	NM_172107.4(KCNQ2):c.632T>C (p.Met211Thr)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	3776183
+single nucleotide variant	NM_172107.4(KCNQ2):c.14C>A (p.Ser5Ter)	3785	KCNQ2	Pathogenic	GRCh38	3776334
+single nucleotide variant	NM_172107.4(KCNQ2):c.592C>G (p.Arg198Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	3862992
+single nucleotide variant	NM_172107.4(KCNQ2):c.1316T>A (p.Leu439Ter)	3785	KCNQ2	Pathogenic	GRCh38	3862993
+single nucleotide variant	NM_172107.4(KCNQ2):c.1877T>G (p.Val626Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	3903273
+single nucleotide variant	NM_172107.4(KCNQ2):c.772A>G (p.Asn258Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	4071957
+single nucleotide variant	NM_172107.4(KCNQ2):c.668C>A (p.Ser223Tyr)	3785	KCNQ2	Likely pathogenic	GRCh38	4073662
+single nucleotide variant	NM_172107.4(KCNQ2):c.296+4A>G	3785	KCNQ2	Likely pathogenic	GRCh38	4073669
+single nucleotide variant	NM_172107.4(KCNQ2):c.859A>G (p.Thr287Ala)	3785	KCNQ2	Pathogenic	GRCh38	4083395
+single nucleotide variant	NM_172107.4(KCNQ2):c.318C>A (p.Cys106Ter)	3785	KCNQ2	Likely pathogenic	GRCh38	4277415
+single nucleotide variant	NM_172107.4(KCNQ2):c.1744A>G (p.Ile582Val)	3785	KCNQ2	Likely pathogenic	GRCh38	4277618
+single nucleotide variant	NM_172107.4(KCNQ2):c.587C>G (p.Ala196Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	4278615
+single nucleotide variant	NM_172107.4(KCNQ2):c.637C>G (p.Arg213Gly)	3785	KCNQ2	Likely pathogenic	GRCh38	4291746
+single nucleotide variant	NM_172107.4(KCNQ2):c.655A>T (p.Lys219Ter)	3785	KCNQ2	Likely pathogenic	GRCh38	4292232
+single nucleotide variant	NM_172107.4(KCNQ2):c.644G>T (p.Gly215Val)	3785	KCNQ2	Likely pathogenic	GRCh38	4292951
+single nucleotide variant	NM_172107.4(KCNQ2):c.793G>T (p.Ala265Ser)	3785	KCNQ2	Pathogenic/Likely pathogenic	GRCh38	4294458
+single nucleotide variant	NM_172107.4(KCNQ2):c.564G>T (p.Gln188His)	3785	KCNQ2	Likely pathogenic	GRCh38	4294467
+single nucleotide variant	NM_172107.4(KCNQ2):c.901G>T (p.Gly301Cys)	3785	KCNQ2	Pathogenic	GRCh38	4294524
+single nucleotide variant	NM_172107.4(KCNQ2):c.961C>T (p.Gln321Ter)	3785	KCNQ2	Pathogenic	GRCh38	4533319
+single nucleotide variant	NM_172107.4(KCNQ2):c.7C>T (p.Gln3Ter)	3785	KCNQ2	Pathogenic	GRCh38	4718575
+single nucleotide variant	NM_172107.4(KCNQ2):c.285C>G (p.Tyr95Ter)	3785	KCNQ2	Pathogenic	GRCh38	4735532
+single nucleotide variant	NM_172107.4(KCNQ2):c.1058G>C (p.Arg353Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	4803153
+single nucleotide variant	NM_172107.4(KCNQ2):c.1040A>C (p.Tyr347Ser)	3785	KCNQ2	Likely pathogenic	GRCh38	4803154
+single nucleotide variant	NM_172107.4(KCNQ2):c.734T>G (p.Leu245Arg)	3785	KCNQ2	Likely pathogenic	GRCh38	4803157
+single nucleotide variant	NM_172107.4(KCNQ2):c.716G>A (p.Gly239Asp)	3785	KCNQ2	Likely pathogenic	GRCh38	4803158
+single nucleotide variant	NM_172107.4(KCNQ2):c.708G>A (p.Trp236Ter)	3785	KCNQ2	Pathogenic	GRCh38	4823837
+single nucleotide variant	NM_172107.4(KCNQ2):c.406G>A (p.Val136Met)	3785	KCNQ2	Likely pathogenic	GRCh38	4839067
+single nucleotide variant	NM_172107.4(KCNQ2):c.620G>C (p.Arg207Pro)	3785	KCNQ2	Likely pathogenic	GRCh38	4855328
+single nucleotide variant	NM_172107.4(KCNQ2):c.1006G>A (p.Ala336Thr)	3785	KCNQ2	Likely pathogenic	GRCh38	4856160

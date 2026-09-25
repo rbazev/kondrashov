@@ -101,7 +101,7 @@ single nucleotide variant	NM_001378615.1(CC2D2A):c.124-1G>C	57545	CC2D2A	Likely 
 single nucleotide variant	NM_001378615.1(CC2D2A):c.4465G>C (p.Asp1489His)	57545	CC2D2A	Pathogenic	GRCh38	1957318
 single nucleotide variant	NM_001378615.1(CC2D2A):c.2774G>T (p.Arg925Leu)	57545	CC2D2A	Likely pathogenic	GRCh38	1979504
 single nucleotide variant	NM_001378615.1(CC2D2A):c.1467-1G>A	57545	CC2D2A	Likely pathogenic	GRCh38	2003576
-single nucleotide variant	NM_001378615.1(CC2D2A):c.4569T>A (p.Cys1523Ter)	57545	CC2D2A	Pathogenic	GRCh38	2016927
+single nucleotide variant	NM_001378615.1(CC2D2A):c.4569T>A (p.Cys1523Ter)	57545	CC2D2A	Pathogenic/Likely pathogenic	GRCh38	2016927
 single nucleotide variant	NM_001378615.1(CC2D2A):c.4065+1G>A	57545	CC2D2A	Likely pathogenic	GRCh38	2014459
 single nucleotide variant	NM_001378615.1(CC2D2A):c.3820C>T (p.Gln1274Ter)	57545	CC2D2A	Pathogenic	GRCh38	2025640
 single nucleotide variant	NM_001378615.1(CC2D2A):c.1466+1G>A	57545	CC2D2A	Likely pathogenic	GRCh38	2021214
@@ -193,3 +193,4 @@ single nucleotide variant	NM_001378615.1(CC2D2A):c.4112T>C (p.Leu1371Pro)	57545	
 single nucleotide variant	NM_001378615.1(CC2D2A):c.3433C>T (p.Gln1145Ter)	57545	CC2D2A	Likely pathogenic	GRCh38	4814217
 single nucleotide variant	NM_001378615.1(CC2D2A):c.4314+1G>A	57545	CC2D2A	Pathogenic	GRCh38	4854076
 single nucleotide variant	NM_001378615.1(CC2D2A):c.4532G>A (p.Trp1511Ter)	57545	CC2D2A	Likely pathogenic	GRCh38	4854754
+single nucleotide variant	NM_001378615.1(CC2D2A):c.1998C>A (p.Cys666Ter)	57545	CC2D2A	Pathogenic	GRCh38	4887421

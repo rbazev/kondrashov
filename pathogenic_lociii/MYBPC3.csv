@@ -1,0 +1,417 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624G>C (p.Glu542Gln)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	8608
+single nucleotide variant	NM_000256.3(MYBPC3):c.2309-26A>G	4607	MYBPC3	Pathogenic	GRCh38	8610
+single nucleotide variant	NM_000256.3(MYBPC3):c.175A>G (p.Thr59Ala)	4607	MYBPC3	Pathogenic	GRCh38	8614
+single nucleotide variant	NM_000256.3(MYBPC3):c.3286G>T (p.Glu1096Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	8616
+single nucleotide variant	NM_000256.3(MYBPC3):c.2459G>A (p.Arg820Gln)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	8617
+single nucleotide variant	NM_000256.3(MYBPC3):c.906-1G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	8619
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+2T>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	8621
+single nucleotide variant	NM_000256.3(MYBPC3):c.2308G>A (p.Asp770Asn)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	36604
+single nucleotide variant	NM_000256.3(MYBPC3):c.2374T>C (p.Trp792Arg)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	36605
+single nucleotide variant	NM_000256.3(MYBPC3):c.3408C>A (p.Tyr1136Ter)	4607	MYBPC3	Pathogenic	GRCh38	36611
+single nucleotide variant	NM_000256.3(MYBPC3):c.932C>A (p.Ser311Ter)	4607	MYBPC3	Pathogenic	GRCh38	36615
+single nucleotide variant	NM_000256.3(MYBPC3):c.2827C>T (p.Arg943Ter)	4607	MYBPC3	Pathogenic	GRCh38	37039
+single nucleotide variant	NM_000256.3(MYBPC3):c.1156G>T (p.Glu386Ter)	4607	MYBPC3	Pathogenic	GRCh38	42507
+single nucleotide variant	NM_000256.3(MYBPC3):c.1224-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42511
+single nucleotide variant	NM_000256.3(MYBPC3):c.1227-13G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42513
+single nucleotide variant	NM_000256.3(MYBPC3):c.1273C>T (p.Gln425Ter)	4607	MYBPC3	Pathogenic	GRCh38	42517
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351+2T>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42525
+single nucleotide variant	NM_000256.3(MYBPC3):c.1458-1G>A	4607	MYBPC3	Pathogenic	GRCh38	42532
+single nucleotide variant	NM_000256.3(MYBPC3):c.1483C>G (p.Arg495Gly)	4607	MYBPC3	Likely pathogenic	GRCh38	42537
+single nucleotide variant	NM_000256.3(MYBPC3):c.1504C>T (p.Arg502Trp)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42540
+single nucleotide variant	NM_000256.3(MYBPC3):c.1505G>A (p.Arg502Gln)	4607	MYBPC3	Pathogenic	GRCh38	42541
+single nucleotide variant	NM_000256.3(MYBPC3):c.1575T>G (p.Tyr525Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42547
+single nucleotide variant	NM_000256.3(MYBPC3):c.1591G>C (p.Gly531Arg)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42550
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+4A>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42556
+single nucleotide variant	NM_000256.3(MYBPC3):c.1693A>T (p.Lys565Ter)	4607	MYBPC3	Pathogenic	GRCh38	42560
+single nucleotide variant	NM_000256.3(MYBPC3):c.1897+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42582
+single nucleotide variant	NM_000256.3(MYBPC3):c.1928-2A>G	4607	MYBPC3	Pathogenic	GRCh38	42585
+single nucleotide variant	NM_000256.3(MYBPC3):c.2048G>A (p.Trp683Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42591
+single nucleotide variant	NM_000256.3(MYBPC3):c.2182G>T (p.Glu728Ter)	4607	MYBPC3	Pathogenic	GRCh38	42605
+single nucleotide variant	NM_000256.3(MYBPC3):c.2308+1G>A	4607	MYBPC3	Pathogenic	GRCh38	42610
+single nucleotide variant	NM_000256.3(MYBPC3):c.2308+1G>T	4607	MYBPC3	Pathogenic	GRCh38	42611
+single nucleotide variant	NM_000256.3(MYBPC3):c.2309-2A>G	4607	MYBPC3	Pathogenic	GRCh38	42613
+single nucleotide variant	NM_000256.3(MYBPC3):c.2454G>A (p.Trp818Ter)	4607	MYBPC3	Pathogenic	GRCh38	42622
+single nucleotide variant	NM_000256.3(MYBPC3):c.2541C>G (p.Tyr847Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42636
+single nucleotide variant	NM_000256.3(MYBPC3):c.2670G>A (p.Trp890Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42650
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42666
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905+1G>C	4607	MYBPC3	Pathogenic	GRCh38	42667
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905C>T (p.Gln969Ter)	4607	MYBPC3	Pathogenic	GRCh38	42669
+single nucleotide variant	NM_000256.3(MYBPC3):c.3181C>T (p.Gln1061Ter)	4607	MYBPC3	Pathogenic	GRCh38	42690
+single nucleotide variant	NM_000256.3(MYBPC3):c.3190+2T>G	4607	MYBPC3	Pathogenic	GRCh38	42691
+single nucleotide variant	NM_000256.3(MYBPC3):c.3233G>A (p.Trp1078Ter)	4607	MYBPC3	Pathogenic	GRCh38	42692
+single nucleotide variant	NM_000256.3(MYBPC3):c.3253G>T (p.Glu1085Ter)	4607	MYBPC3	Pathogenic	GRCh38	42696
+single nucleotide variant	NM_000256.3(MYBPC3):c.3293G>A (p.Trp1098Ter)	4607	MYBPC3	Pathogenic	GRCh38	42701
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+5G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42706
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+5G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42707
+single nucleotide variant	NM_000256.3(MYBPC3):c.3490+1G>A	4607	MYBPC3	Pathogenic	GRCh38	42715
+single nucleotide variant	NM_000256.3(MYBPC3):c.3491-2A>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42717
+single nucleotide variant	NM_000256.3(MYBPC3):c.3627+1G>A	4607	MYBPC3	Pathogenic	GRCh38	42728
+single nucleotide variant	NM_000256.3(MYBPC3):c.3694A>T (p.Lys1232Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42733
+single nucleotide variant	NM_000256.3(MYBPC3):c.3697C>T (p.Gln1233Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42735
+single nucleotide variant	NM_000256.3(MYBPC3):c.3815-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42746
+single nucleotide variant	NM_000256.3(MYBPC3):c.506-1G>T	4607	MYBPC3	Pathogenic	GRCh38	42764
+single nucleotide variant	NM_000256.3(MYBPC3):c.506-2A>C	4607	MYBPC3	Pathogenic	GRCh38	42765
+single nucleotide variant	NM_000256.3(MYBPC3):c.613C>T (p.Gln205Ter)	4607	MYBPC3	Pathogenic	GRCh38	42774
+single nucleotide variant	NM_000256.3(MYBPC3):c.655-1G>A	4607	MYBPC3	Pathogenic	GRCh38	42783
+single nucleotide variant	NM_000256.3(MYBPC3):c.655G>C (p.Val219Leu)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42784
+single nucleotide variant	NM_000256.3(MYBPC3):c.772+1G>A	4607	MYBPC3	Pathogenic	GRCh38	42790
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42791
+single nucleotide variant	NM_000256.3(MYBPC3):c.772G>A (p.Glu258Lys)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42792
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+2T>C	4607	MYBPC3	Pathogenic	GRCh38	42795
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+5G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42796
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-10C>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42805
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-2A>G	4607	MYBPC3	Pathogenic	GRCh38	42806
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-9G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	42807
+single nucleotide variant	NM_000256.3(MYBPC3):c.1469G>T (p.Gly490Val)	4607	MYBPC3	Pathogenic	GRCh38	64617
+single nucleotide variant	NM_000256.3(MYBPC3):c.1224-19G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	138326
+single nucleotide variant	NM_000256.3(MYBPC3):c.3190+5G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	155808
+single nucleotide variant	NM_000256.3(MYBPC3):c.3642G>A (p.Trp1214Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	162506
+single nucleotide variant	NM_000256.3(MYBPC3):c.3753T>G (p.Tyr1251Ter)	4607	MYBPC3	Pathogenic	GRCh38	177818
+single nucleotide variant	NM_000256.3(MYBPC3):c.3372C>A (p.Cys1124Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	177701
+single nucleotide variant	NM_000256.3(MYBPC3):c.3331-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	177742
+single nucleotide variant	NM_000256.3(MYBPC3):c.3129C>A (p.Tyr1043Ter)	4607	MYBPC3	Pathogenic	GRCh38	164048
+single nucleotide variant	NM_000256.3(MYBPC3):c.2994+2T>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	164051
+single nucleotide variant	NM_000256.3(MYBPC3):c.2965G>T (p.Glu989Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	164053
+single nucleotide variant	NM_000256.3(MYBPC3):c.2953A>T (p.Lys985Ter)	4607	MYBPC3	Pathogenic	GRCh38	177956
+single nucleotide variant	NM_000256.3(MYBPC3):c.2920C>T (p.Gln974Ter)	4607	MYBPC3	Pathogenic	GRCh38	164055
+single nucleotide variant	NM_000256.3(MYBPC3):c.2906-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	177811
+single nucleotide variant	NM_000256.3(MYBPC3):c.2737+2T>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	164063
+single nucleotide variant	NM_000256.3(MYBPC3):c.2437A>T (p.Lys813Ter)	4607	MYBPC3	Pathogenic	GRCh38	177641
+single nucleotide variant	NM_000256.3(MYBPC3):c.2391C>A (p.Tyr797Ter)	4607	MYBPC3	Pathogenic	GRCh38	179435
+single nucleotide variant	NM_000256.3(MYBPC3):c.2149-1G>A	4607	MYBPC3	Pathogenic	GRCh38	177814
+single nucleotide variant	NM_000256.3(MYBPC3):c.1869C>A (p.Cys623Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	164095
+single nucleotide variant	NM_000256.3(MYBPC3):c.1484G>A (p.Arg495Gln)	4607	MYBPC3	Likely pathogenic	GRCh38	164113
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351+1G>A	4607	MYBPC3	Pathogenic	GRCh38	164119
+single nucleotide variant	NM_000256.3(MYBPC3):c.1210C>T (p.Gln404Ter)	4607	MYBPC3	Pathogenic	GRCh38	177796
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090+1G>T	4607	MYBPC3	Pathogenic	GRCh38	177686
+single nucleotide variant	NM_000256.3(MYBPC3):c.1000G>T (p.Glu334Ter)	4607	MYBPC3	Pathogenic	GRCh38	177850
+single nucleotide variant	NM_000256.3(MYBPC3):c.999C>G (p.Tyr333Ter)	4607	MYBPC3	Pathogenic	GRCh38	177706
+single nucleotide variant	NM_000256.3(MYBPC3):c.979C>T (p.Gln327Ter)	4607	MYBPC3	Pathogenic	GRCh38	164135
+single nucleotide variant	NM_000256.3(MYBPC3):c.3335G>A (p.Trp1112Ter)	4607	MYBPC3	Pathogenic	GRCh38	177680
+single nucleotide variant	NM_000256.3(MYBPC3):c.3190+1G>A	4607	MYBPC3	Pathogenic	GRCh38	177837
+single nucleotide variant	NM_000256.3(MYBPC3):c.2747G>A (p.Trp916Ter)	4607	MYBPC3	Pathogenic	GRCh38	177835
+single nucleotide variant	NM_000256.3(MYBPC3):c.2737+1G>C	4607	MYBPC3	Pathogenic	GRCh38	177766
+single nucleotide variant	NM_000256.3(MYBPC3):c.2541C>A (p.Tyr847Ter)	4607	MYBPC3	Pathogenic	GRCh38	177852
+single nucleotide variant	NM_000256.3(MYBPC3):c.1924C>T (p.Gln642Ter)	4607	MYBPC3	Pathogenic	GRCh38	177705
+single nucleotide variant	NM_000256.3(MYBPC3):c.1790G>A (p.Arg597Gln)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	164098
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+2T>C	4607	MYBPC3	Pathogenic	GRCh38	164107
+single nucleotide variant	NM_000256.3(MYBPC3):c.1591G>A (p.Gly531Arg)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	164109
+single nucleotide variant	NM_000256.3(MYBPC3):c.1483C>T (p.Arg495Trp)	4607	MYBPC3	Likely pathogenic	GRCh38	164114
+single nucleotide variant	NM_000256.3(MYBPC3):c.1457+5G>C	4607	MYBPC3	Likely pathogenic	GRCh38	164116
+single nucleotide variant	NM_000256.3(MYBPC3):c.1343T>C (p.Phe448Ser)	4607	MYBPC3	Likely pathogenic	GRCh38	177685
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090+1G>A	4607	MYBPC3	Pathogenic	GRCh38	177668
+single nucleotide variant	NM_000256.3(MYBPC3):c.966G>A (p.Trp322Ter)	4607	MYBPC3	Pathogenic	GRCh38	164136
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+1G>C	4607	MYBPC3	Pathogenic	GRCh38	178946
+single nucleotide variant	NM_000256.3(MYBPC3):c.505+5G>C	4607	MYBPC3	Likely pathogenic	GRCh38	164151
+single nucleotide variant	NM_000256.3(MYBPC3):c.343G>T (p.Gly115Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	164155
+single nucleotide variant	NM_000256.3(MYBPC3):c.3775C>T (p.Gln1259Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181024
+single nucleotide variant	NM_000256.3(MYBPC3):c.3773T>G (p.Leu1258Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181023
+single nucleotide variant	NM_000256.3(MYBPC3):c.3732C>A (p.Cys1244Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181019
+single nucleotide variant	NM_000256.3(MYBPC3):c.3713T>C (p.Leu1238Pro)	4607	MYBPC3	Likely pathogenic	GRCh38	181136
+single nucleotide variant	NM_000256.3(MYBPC3):c.3664G>T (p.Gly1222Ter)	4607	MYBPC3	Pathogenic	GRCh38	181016
+single nucleotide variant	NM_000256.3(MYBPC3):c.3641G>A (p.Trp1214Ter)	4607	MYBPC3	Pathogenic	GRCh38	181015
+single nucleotide variant	NM_000256.3(MYBPC3):c.3553C>T (p.Gln1185Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181133
+single nucleotide variant	NC_000011.10:g.47332705G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181010
+single nucleotide variant	NM_000256.3(MYBPC3):c.3490+1G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181008
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+2T>C	4607	MYBPC3	Pathogenic	GRCh38	181007
+single nucleotide variant	NM_000256.3(MYBPC3):c.3034C>T (p.Gln1012Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180997
+single nucleotide variant	NM_000256.3(MYBPC3):c.3021G>A (p.Trp1007Ter)	4607	MYBPC3	Pathogenic	GRCh38	181135
+single nucleotide variant	NM_000256.3(MYBPC3):c.2995-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180995
+single nucleotide variant	NM_000256.3(MYBPC3):c.2992C>T (p.Gln998Ter)	4607	MYBPC3	Pathogenic	GRCh38	180993
+single nucleotide variant	NM_000256.3(MYBPC3):c.2893C>T (p.Gln965Ter)	4607	MYBPC3	Pathogenic	GRCh38	180986
+single nucleotide variant	NM_000256.3(MYBPC3):c.2748G>A (p.Trp916Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180982
+single nucleotide variant	NM_000256.3(MYBPC3):c.2324C>G (p.Pro775Arg)	4607	MYBPC3	Likely pathogenic	GRCh38	180967
+single nucleotide variant	NM_000256.3(MYBPC3):c.1898-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180958
+single nucleotide variant	NM_000256.3(MYBPC3):c.1897+4A>C	4607	MYBPC3	Likely pathogenic	GRCh38	180957
+single nucleotide variant	NM_000256.3(MYBPC3):c.1826C>T (p.Ala609Val)	4607	MYBPC3	Likely pathogenic	GRCh38	180953
+single nucleotide variant	NM_000256.3(MYBPC3):c.1791-2A>C	4607	MYBPC3	Pathogenic	GRCh38	180949
+single nucleotide variant	NM_000256.3(MYBPC3):c.1731G>A (p.Trp577Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180943
+single nucleotide variant	NM_000256.3(MYBPC3):c.1522C>T (p.Gln508Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180941
+single nucleotide variant	NM_000256.3(MYBPC3):c.1457G>A (p.Trp486Ter)	4607	MYBPC3	Pathogenic	GRCh38	180937
+single nucleotide variant	NM_000256.3(MYBPC3):c.1447C>T (p.Gln483Ter)	4607	MYBPC3	Pathogenic	GRCh38	1772817
+single nucleotide variant	NM_000256.3(MYBPC3):c.1405C>T (p.Gln469Ter)	4607	MYBPC3	Pathogenic	GRCh38	180934
+single nucleotide variant	NM_000256.3(MYBPC3):c.1387C>T (p.Gln463Ter)	4607	MYBPC3	Pathogenic	GRCh38	180933
+single nucleotide variant	NM_000256.3(MYBPC3):c.1252A>T (p.Lys418Ter)	4607	MYBPC3	Pathogenic	GRCh38	180927
+single nucleotide variant	NM_000256.3(MYBPC3):c.1227-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	180925
+single nucleotide variant	NM_000256.3(MYBPC3):c.1223+2T>G	4607	MYBPC3	Pathogenic	GRCh38	181068
+single nucleotide variant	NM_000256.3(MYBPC3):c.1223+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181066
+single nucleotide variant	NM_000256.3(MYBPC3):c.1201C>T (p.Gln401Ter)	4607	MYBPC3	Pathogenic	GRCh38	181064
+single nucleotide variant	NM_000256.3(MYBPC3):c.1188G>A (p.Trp396Ter)	4607	MYBPC3	Pathogenic	GRCh38	181141
+single nucleotide variant	NM_000256.3(MYBPC3):c.1120C>T (p.Gln374Ter)	4607	MYBPC3	Pathogenic	GRCh38	181061
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090+2T>G	4607	MYBPC3	Pathogenic	GRCh38	181059
+single nucleotide variant	NM_000256.3(MYBPC3):c.1015C>T (p.Gln339Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181056
+single nucleotide variant	NM_000256.3(MYBPC3):c.901A>T (p.Lys301Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181054
+single nucleotide variant	NM_000256.3(MYBPC3):c.852-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181053
+single nucleotide variant	NM_000256.3(MYBPC3):c.654+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	3723266
+single nucleotide variant	NM_000256.3(MYBPC3):c.571T>C (p.Trp191Arg)	4607	MYBPC3	Likely pathogenic	GRCh38	181045
+single nucleotide variant	NM_000256.3(MYBPC3):c.553A>T (p.Lys185Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181044
+single nucleotide variant	NM_000256.3(MYBPC3):c.484C>T (p.Gln162Ter)	4607	MYBPC3	Pathogenic	GRCh38	181038
+single nucleotide variant	NM_000256.3(MYBPC3):c.416C>G (p.Ser139Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	181138
+single nucleotide variant	NM_000256.3(MYBPC3):c.410C>G (p.Ser137Ter)	4607	MYBPC3	Pathogenic	GRCh38	181137
+single nucleotide variant	NM_000256.3(MYBPC3):c.237C>G (p.Tyr79Ter)	4607	MYBPC3	Pathogenic	GRCh38	181132
+single nucleotide variant	NM_000256.3(MYBPC3):c.235T>A (p.Tyr79Asn)	4607	MYBPC3	Likely pathogenic	GRCh38	180990
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351G>T (p.Glu451Ter)	4607	MYBPC3	Pathogenic	GRCh38	1770618
+single nucleotide variant	NM_000256.3(MYBPC3):c.1224-52G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	188544
+single nucleotide variant	NM_000256.3(MYBPC3):c.655G>T (p.Val219Phe)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	188531
+single nucleotide variant	NM_000256.3(MYBPC3):c.3611T>C (p.Val1204Ala)	4607	MYBPC3	Likely pathogenic	GRCh38	191020
+single nucleotide variant	NM_000256.3(MYBPC3):c.270C>G (p.Phe90Leu)	4607	MYBPC3	Likely pathogenic	GRCh38	191021
+single nucleotide variant	NM_000256.3(MYBPC3):c.2065C>T (p.Gln689Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	216055
+single nucleotide variant	NM_000256.3(MYBPC3):c.2414-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	216967
+single nucleotide variant	NM_000256.3(MYBPC3):c.3300C>A (p.Tyr1100Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	217485
+single nucleotide variant	NM_000256.3(MYBPC3):c.2376G>A (p.Trp792Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	217484
+single nucleotide variant	NM_000256.3(MYBPC3):c.2371C>T (p.Gln791Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	217478
+single nucleotide variant	NM_000256.3(MYBPC3):c.1302C>A (p.Tyr434Ter)	4607	MYBPC3	Pathogenic	GRCh38	217827
+single nucleotide variant	NM_000256.3(MYBPC3):c.3331-2A>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	222710
+single nucleotide variant	NM_000256.3(MYBPC3):c.3163A>T (p.Lys1055Ter)	4607	MYBPC3	Pathogenic	GRCh38	222702
+single nucleotide variant	NM_000256.3(MYBPC3):c.1575T>A (p.Tyr525Ter)	4607	MYBPC3	Pathogenic	GRCh38	222700
+single nucleotide variant	NM_000256.3(MYBPC3):c.229G>T (p.Gly77Ter)	4607	MYBPC3	Pathogenic	GRCh38	222699
+single nucleotide variant	NM_000256.3(MYBPC3):c.1075G>T (p.Glu359Ter)	4607	MYBPC3	Pathogenic	GRCh38	228367
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+3G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	228869
+single nucleotide variant	NM_000256.3(MYBPC3):c.851+1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	235023
+single nucleotide variant	NM_000256.3(MYBPC3):c.2727C>A (p.Cys909Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	263484
+single nucleotide variant	NM_000256.3(MYBPC3):c.2158G>T (p.Glu720Ter)	4607	MYBPC3	Pathogenic	GRCh38	264065
+single nucleotide variant	NM_000256.3(MYBPC3):c.906-1G>A	4607	MYBPC3	Pathogenic	GRCh38	279971
+single nucleotide variant	NM_000256.3(MYBPC3):c.1458G>A (p.Trp486Ter)	4607	MYBPC3	Pathogenic	GRCh38	372678
+single nucleotide variant	NM_000256.3(MYBPC3):c.3257G>A (p.Trp1086Ter)	4607	MYBPC3	Pathogenic	GRCh38	373084
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351+1G>C	4607	MYBPC3	Pathogenic	GRCh38	379619
+single nucleotide variant	NM_000256.3(MYBPC3):c.2265C>A (p.Asn755Lys)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	407308
+single nucleotide variant	NM_000256.3(MYBPC3):c.2308G>C (p.Asp770His)	4607	MYBPC3	Likely pathogenic	GRCh38	407327
+single nucleotide variant	NM_000256.3(MYBPC3):c.237C>A (p.Tyr79Ter)	4607	MYBPC3	Pathogenic	GRCh38	407333
+single nucleotide variant	NM_000256.3(MYBPC3):c.2148+1G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	417931
+single nucleotide variant	NM_000256.3(MYBPC3):c.2603-1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	419380
+single nucleotide variant	NM_000256.3(MYBPC3):c.1621C>T (p.Gln541Ter)	4607	MYBPC3	Pathogenic	GRCh38	419964
+single nucleotide variant	NM_000256.3(MYBPC3):c.747C>A (p.Cys249Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	418352
+single nucleotide variant	NM_000256.3(MYBPC3):c.3781G>T (p.Glu1261Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	427017
+single nucleotide variant	NM_000256.3(MYBPC3):c.3740A>G (p.Asp1247Gly)	4607	MYBPC3	Likely pathogenic	GRCh38	427135
+single nucleotide variant	NM_000256.3(MYBPC3):c.1225A>T (p.Lys409Ter)	4607	MYBPC3	Pathogenic	GRCh38	427807
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624G>T (p.Glu542Ter)	4607	MYBPC3	Pathogenic	GRCh38	430571
+single nucleotide variant	NM_000256.3(MYBPC3):c.208G>T (p.Glu70Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	429923
+single nucleotide variant	NM_000256.3(MYBPC3):c.2906-1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	432151
+single nucleotide variant	NM_000256.3(MYBPC3):c.2719G>T (p.Glu907Ter)	4607	MYBPC3	Pathogenic	GRCh38	432126
+single nucleotide variant	NM_000256.3(MYBPC3):c.2602+2T>G	4607	MYBPC3	Likely pathogenic	GRCh38	432413
+single nucleotide variant	NM_000256.3(MYBPC3):c.2738-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	449610
+single nucleotide variant	NM_000256.3(MYBPC3):c.2526C>A (p.Tyr842Ter)	4607	MYBPC3	Pathogenic	GRCh38	450582
+single nucleotide variant	NC_000011.10:g.47338688G>C	4607	MYBPC3	Likely pathogenic	GRCh38	449067
+single nucleotide variant	NM_000256.3(MYBPC3):c.2067+1G>A	4607	MYBPC3	Pathogenic	GRCh38	449066
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090G>A (p.Ala364Thr)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	454301
+single nucleotide variant	NM_000256.3(MYBPC3):c.2526C>G (p.Tyr842Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	488796
+single nucleotide variant	NM_000256.3(MYBPC3):c.2391C>G (p.Tyr797Ter)	4607	MYBPC3	Pathogenic	GRCh38	489060
+single nucleotide variant	NM_000256.3(MYBPC3):c.1303C>T (p.Gln435Ter)	4607	MYBPC3	Pathogenic	GRCh38	488797
+single nucleotide variant	NM_000256.3(MYBPC3):c.165C>A (p.Tyr55Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	488847
+single nucleotide variant	NM_000256.3(MYBPC3):c.3491-2A>C	4607	MYBPC3	Likely pathogenic	GRCh38	520269
+single nucleotide variant	NM_000256.3(MYBPC3):c.3331-1G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	519194
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+1G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	520283
+single nucleotide variant	NM_000256.3(MYBPC3):c.3294G>A (p.Trp1098Ter)	4607	MYBPC3	Pathogenic	GRCh38	520341
+single nucleotide variant	NM_000256.3(MYBPC3):c.1927G>T (p.Glu643Ter)	4607	MYBPC3	Pathogenic	GRCh38	520359
+single nucleotide variant	NM_000256.3(MYBPC3):c.660T>G (p.Tyr220Ter)	4607	MYBPC3	Pathogenic	GRCh38	520326
+single nucleotide variant	NM_000256.3(MYBPC3):c.1458-1G>C	4607	MYBPC3	Pathogenic	GRCh38	522220
+single nucleotide variant	NM_000256.3(MYBPC3):c.2149-1G>T	4607	MYBPC3	Pathogenic	GRCh38	522435
+single nucleotide variant	NM_000256.3(MYBPC3):c.2950C>T (p.Gln984Ter)	4607	MYBPC3	Pathogenic	GRCh38	525030
+single nucleotide variant	NM_000256.3(MYBPC3):c.506-1G>A	4607	MYBPC3	Pathogenic	GRCh38	525018
+single nucleotide variant	NM_000256.3(MYBPC3):c.292G>T (p.Glu98Ter)	4607	MYBPC3	Pathogenic	GRCh38	525015
+single nucleotide variant	NM_000256.3(MYBPC3):c.1790+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	525038
+single nucleotide variant	NM_000256.3(MYBPC3):c.852-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	572149
+single nucleotide variant	NM_000256.3(MYBPC3):c.3357C>A (p.Tyr1119Ter)	4607	MYBPC3	Pathogenic	GRCh38	579276
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+2T>A	4607	MYBPC3	Pathogenic	GRCh38	567968
+single nucleotide variant	NM_000256.3(MYBPC3):c.2374T>A (p.Trp792Arg)	4607	MYBPC3	Likely pathogenic	GRCh38	578612
+single nucleotide variant	NM_000256.3(MYBPC3):c.2614G>T (p.Glu872Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	619255
+single nucleotide variant	NM_000256.3(MYBPC3):c.2281C>T (p.Gln761Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	619253
+single nucleotide variant	NM_000256.3(MYBPC3):c.711C>A (p.Tyr237Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	619250
+single nucleotide variant	NM_000256.3(MYBPC3):c.2737+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	619256
+single nucleotide variant	NM_000256.3(MYBPC3):c.1227-1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	619251
+single nucleotide variant	NM_000256.3(MYBPC3):c.2453G>A (p.Trp818Ter)	4607	MYBPC3	Pathogenic	GRCh38	620091
+single nucleotide variant	NM_000256.3(MYBPC3):c.1644C>G (p.Tyr548Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	620569
+single nucleotide variant	NM_000256.3(MYBPC3):c.2635G>T (p.Glu879Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	623771
+single nucleotide variant	NM_000256.3(MYBPC3):c.711C>G (p.Tyr237Ter)	4607	MYBPC3	Pathogenic	GRCh38	626783
+single nucleotide variant	NM_000256.3(MYBPC3):c.2572A>C (p.Ser858Arg)	4607	MYBPC3	Likely pathogenic	GRCh38	635763
+single nucleotide variant	NM_000256.3(MYBPC3):c.3588C>A (p.Tyr1196Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	636536
+single nucleotide variant	NM_000256.3(MYBPC3):c.3157G>T (p.Glu1053Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	636723
+single nucleotide variant	NM_000256.3(MYBPC3):c.1457+2T>G	4607	MYBPC3	Likely pathogenic	GRCh38	636562
+single nucleotide variant	NM_000256.3(MYBPC3):c.655-2A>C	4607	MYBPC3	Pathogenic	GRCh38	636516
+single nucleotide variant	NM_000256.3(MYBPC3):c.3627+2T>G	4607	MYBPC3	Pathogenic	GRCh38	656071
+single nucleotide variant	NM_000256.3(MYBPC3):c.773-2A>T	4607	MYBPC3	Likely pathogenic	GRCh38	667410
+single nucleotide variant	NM_000256.3(MYBPC3):c.622C>T (p.Gln208Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	667411
+single nucleotide variant	NM_000256.3(MYBPC3):c.1625-2A>G	4607	MYBPC3	Pathogenic	GRCh38	684781
+single nucleotide variant	NM_000256.3(MYBPC3):c.1927+600C>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	692114
+single nucleotide variant	NM_000256.3(MYBPC3):c.1227-1G>C	4607	MYBPC3	Pathogenic	GRCh38	692124
+single nucleotide variant	NM_000256.3(MYBPC3):c.1224-80G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	693982
+single nucleotide variant	NM_000256.3(MYBPC3):c.2738-2A>T	4607	MYBPC3	Likely pathogenic	GRCh38	810742
+single nucleotide variant	NM_000256.3(MYBPC3):c.2413+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	810754
+single nucleotide variant	NM_000256.3(MYBPC3):c.25+1G>A	4607	MYBPC3	Pathogenic	GRCh38	810740
+single nucleotide variant	NM_000256.3(MYBPC3):c.3258G>A (p.Trp1086Ter)	4607	MYBPC3	Pathogenic	GRCh38	816955
+single nucleotide variant	NM_000256.3(MYBPC3):c.3408C>G (p.Tyr1136Ter)	4607	MYBPC3	Pathogenic	GRCh38	851340
+single nucleotide variant	NM_000256.3(MYBPC3):c.1119C>G (p.Tyr373Ter)	4607	MYBPC3	Pathogenic	GRCh38	856666
+single nucleotide variant	NM_000256.3(MYBPC3):c.3191-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	845154
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+1G>T	4607	MYBPC3	Pathogenic	GRCh38	850376
+single nucleotide variant	NM_000256.3(MYBPC3):c.1223+1G>T	4607	MYBPC3	Pathogenic	GRCh38	861189
+single nucleotide variant	NM_000256.3(MYBPC3):c.1223+2T>C	4607	MYBPC3	Pathogenic	GRCh38	843383
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090+453C>T	4607	MYBPC3	Likely pathogenic	GRCh38	870077
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-1G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	870078
+single nucleotide variant	NM_000256.3(MYBPC3):c.587G>A (p.Trp196Ter)	4607	MYBPC3	Pathogenic	GRCh38	919810
+single nucleotide variant	NM_000256.3(MYBPC3):c.2603-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	922805
+single nucleotide variant	NM_000256.3(MYBPC3):c.3330+2T>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	933202
+single nucleotide variant	NM_000256.3(MYBPC3):c.3572C>A (p.Ser1191Ter)	4607	MYBPC3	Pathogenic	GRCh38	951054
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905+2T>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	938851
+single nucleotide variant	NM_000256.3(MYBPC3):c.1458-1G>T	4607	MYBPC3	Pathogenic	GRCh38	949225
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351G>C (p.Glu451Gln)	4607	MYBPC3	Pathogenic	GRCh38	959497
+single nucleotide variant	NM_000256.3(MYBPC3):c.999C>A (p.Tyr333Ter)	4607	MYBPC3	Pathogenic	GRCh38	960010
+single nucleotide variant	NM_000256.3(MYBPC3):c.1183A>T (p.Lys395Ter)	4607	MYBPC3	Pathogenic	GRCh38	978357
+single nucleotide variant	NM_000256.3(MYBPC3):c.506-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	987456
+single nucleotide variant	NM_000256.3(MYBPC3):c.2994+1G>A	4607	MYBPC3	Pathogenic	GRCh38	1027654
+single nucleotide variant	NM_000256.3(MYBPC3):c.2132G>A (p.Trp711Ter)	4607	MYBPC3	Pathogenic	GRCh38	1027653
+single nucleotide variant	NM_000256.3(MYBPC3):c.3191-1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	1068244
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+1G>T	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1067323
+single nucleotide variant	NM_000256.3(MYBPC3):c.3424C>T (p.Gln1142Ter)	4607	MYBPC3	Pathogenic	GRCh38	1073146
+single nucleotide variant	NM_000256.3(MYBPC3):c.3357C>G (p.Tyr1119Ter)	4607	MYBPC3	Pathogenic	GRCh38	1074948
+single nucleotide variant	NM_000256.3(MYBPC3):c.2164G>T (p.Glu722Ter)	4607	MYBPC3	Pathogenic	GRCh38	1074339
+single nucleotide variant	NM_000256.3(MYBPC3):c.1831G>T (p.Glu611Ter)	4607	MYBPC3	Pathogenic	GRCh38	1076719
+single nucleotide variant	NM_000256.3(MYBPC3):c.1730G>A (p.Trp577Ter)	4607	MYBPC3	Pathogenic	GRCh38	1069890
+single nucleotide variant	NM_000256.3(MYBPC3):c.1546G>T (p.Glu516Ter)	4607	MYBPC3	Pathogenic	GRCh38	1069891
+single nucleotide variant	NM_000256.3(MYBPC3):c.1420G>T (p.Glu474Ter)	4607	MYBPC3	Pathogenic	GRCh38	1069892
+single nucleotide variant	NM_000256.3(MYBPC3):c.1791-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1163048
+single nucleotide variant	NM_000256.3(MYBPC3):c.926+1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	1186955
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+1G>A	4607	MYBPC3	Pathogenic	GRCh38	1284521
+single nucleotide variant	NM_000256.3(MYBPC3):c.2941C>T (p.Gln981Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	1298512
+single nucleotide variant	NM_000256.3(MYBPC3):c.2148+1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1301741
+single nucleotide variant	NM_000256.3(MYBPC3):c.3331-26T>G	4607	MYBPC3	Likely pathogenic	GRCh38	1320039
+single nucleotide variant	NM_000256.3(MYBPC3):c.2149-2A>G	4607	MYBPC3	Pathogenic	GRCh38	1327787
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351+2T>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1329379
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+1G>C	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1329381
+single nucleotide variant	NM_000256.3(MYBPC3):c.2149-2A>C	4607	MYBPC3	Pathogenic	GRCh38	1333356
+single nucleotide variant	NM_000256.3(MYBPC3):c.655-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1333490
+single nucleotide variant	NM_000256.3(MYBPC3):c.1609G>T (p.Glu537Ter)	4607	MYBPC3	Pathogenic	GRCh38	1333510
+single nucleotide variant	NM_000256.3(MYBPC3):c.1927+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	1333968
+single nucleotide variant	NM_000256.3(MYBPC3):c.178G>T (p.Glu60Ter)	4607	MYBPC3	Pathogenic	GRCh38	1424922
+single nucleotide variant	NM_000256.3(MYBPC3):c.2603-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1465603
+single nucleotide variant	NM_000256.3(MYBPC3):c.2494G>T (p.Glu832Ter)	4607	MYBPC3	Pathogenic	GRCh38	1454298
+single nucleotide variant	NM_000256.3(MYBPC3):c.926+2T>C	4607	MYBPC3	Likely pathogenic	GRCh38	1498187
+single nucleotide variant	NM_000256.3(MYBPC3):c.2761C>T (p.Gln921Ter)	4607	MYBPC3	Pathogenic	GRCh38	1362183
+single nucleotide variant	NM_000256.3(MYBPC3):c.3129C>G (p.Tyr1043Ter)	4607	MYBPC3	Pathogenic	GRCh38	1451679
+single nucleotide variant	NM_000256.3(MYBPC3):c.1091-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1506519
+single nucleotide variant	NM_000256.3(MYBPC3):c.3773T>A (p.Leu1258Ter)	4607	MYBPC3	Pathogenic	GRCh38	1452999
+single nucleotide variant	NM_000256.3(MYBPC3):c.403A>T (p.Lys135Ter)	4607	MYBPC3	Pathogenic	GRCh38	1453071
+single nucleotide variant	NM_000256.3(MYBPC3):c.2906-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1345676
+single nucleotide variant	NM_000256.3(MYBPC3):c.1278C>A (p.Cys426Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1374928
+single nucleotide variant	NM_000256.3(MYBPC3):c.1953C>A (p.Cys651Ter)	4607	MYBPC3	Pathogenic	GRCh38	1389170
+single nucleotide variant	NM_000256.3(MYBPC3):c.1903A>T (p.Lys635Ter)	4607	MYBPC3	Pathogenic	GRCh38	1404109
+single nucleotide variant	NM_000256.3(MYBPC3):c.407-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1487885
+single nucleotide variant	NM_000256.3(MYBPC3):c.406+1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1515089
+single nucleotide variant	NM_000256.3(MYBPC3):c.965G>A (p.Trp322Ter)	4607	MYBPC3	Pathogenic	GRCh38	1365234
+single nucleotide variant	NM_000256.3(MYBPC3):c.890C>G (p.Ser297Ter)	4607	MYBPC3	Pathogenic	GRCh38	1460336
+single nucleotide variant	NM_000256.3(MYBPC3):c.787G>T (p.Gly263Ter)	4607	MYBPC3	Pathogenic	GRCh38	1460339
+single nucleotide variant	NM_000256.3(MYBPC3):c.1645C>T (p.Gln549Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1687205
+single nucleotide variant	NM_000256.3(MYBPC3):c.773-1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	1690368
+single nucleotide variant	NM_000256.3(MYBPC3):c.2068-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1698372
+single nucleotide variant	NM_000256.3(MYBPC3):c.3234G>A (p.Trp1078Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1700491
+single nucleotide variant	NM_000256.3(MYBPC3):c.3805G>T (p.Glu1269Ter)	4607	MYBPC3	Pathogenic	GRCh38	1705335
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-8G>A	4607	MYBPC3	Likely pathogenic	GRCh38	1723021
+single nucleotide variant	NM_000256.3(MYBPC3):c.3208C>T (p.Gln1070Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1728884
+single nucleotide variant	NM_000256.3(MYBPC3):c.3190+5G>C	4607	MYBPC3	Likely pathogenic	GRCh38	1728661
+single nucleotide variant	NM_000256.3(MYBPC3):c.3491-1G>A	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	1731937
+single nucleotide variant	NM_000256.3(MYBPC3):c.862G>T (p.Glu288Ter)	4607	MYBPC3	Pathogenic	GRCh38	1764101
+single nucleotide variant	NM_000256.3(MYBPC3):c.1597C>T (p.Gln533Ter)	4607	MYBPC3	Pathogenic	GRCh38	1776028
+single nucleotide variant	NM_000256.3(MYBPC3):c.1308C>A (p.Cys436Ter)	4607	MYBPC3	Pathogenic	GRCh38	1769560
+single nucleotide variant	NM_000256.3(MYBPC3):c.2364C>A (p.Cys788Ter)	4607	MYBPC3	Pathogenic	GRCh38	1790193
+single nucleotide variant	NM_000256.3(MYBPC3):c.1091-2A>C	4607	MYBPC3	Pathogenic	GRCh38	1789325
+single nucleotide variant	NM_000256.3(MYBPC3):c.29C>A (p.Ser10Ter)	4607	MYBPC3	Pathogenic	GRCh38	1798631
+single nucleotide variant	NM_000256.3(MYBPC3):c.1877C>G (p.Ser626Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	1801830
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905+2T>C	4607	MYBPC3	Pathogenic	GRCh38	2137070
+single nucleotide variant	NM_000256.3(MYBPC3):c.1790+1G>C	4607	MYBPC3	Pathogenic	GRCh38	2137078
+single nucleotide variant	NM_000256.3(MYBPC3):c.1352-1G>A	4607	MYBPC3	Pathogenic	GRCh38	2137082
+single nucleotide variant	NM_000256.3(MYBPC3):c.3331-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	1878689
+single nucleotide variant	NM_000256.3(MYBPC3):c.2068-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	1990793
+single nucleotide variant	NM_000256.3(MYBPC3):c.505+1G>C	4607	MYBPC3	Likely pathogenic	GRCh38	2004272
+single nucleotide variant	NM_000256.3(MYBPC3):c.2738-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	2060811
+single nucleotide variant	NM_000256.3(MYBPC3):c.505+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	2091607
+single nucleotide variant	NM_000256.3(MYBPC3):c.688C>T (p.Gln230Ter)	4607	MYBPC3	Pathogenic	GRCh38	2109962
+single nucleotide variant	NM_000256.3(MYBPC3):c.2603-1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	2125400
+single nucleotide variant	NM_000256.3(MYBPC3):c.573G>A (p.Trp191Ter)	4607	MYBPC3	Pathogenic	GRCh38	2124940
+single nucleotide variant	NM_000256.3(MYBPC3):c.1187G>A (p.Trp396Ter)	4607	MYBPC3	Pathogenic	GRCh38	2428930
+single nucleotide variant	NM_000256.3(MYBPC3):c.26-1G>T	4607	MYBPC3	Pathogenic	GRCh38	2444293
+single nucleotide variant	NM_000256.3(MYBPC3):c.482C>G (p.Pro161Arg)	4607	MYBPC3	Likely pathogenic	GRCh38	2444426
+single nucleotide variant	NM_000256.3(MYBPC3):c.2905+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	2444514
+single nucleotide variant	NM_000256.3(MYBPC3):c.2584C>T (p.Gln862Ter)	4607	MYBPC3	Pathogenic	GRCh38	2448101
+single nucleotide variant	NM_000256.3(MYBPC3):c.710A>G (p.Tyr237Cys)	4607	MYBPC3	Likely pathogenic	GRCh38	2496735
+single nucleotide variant	NM_000256.3(MYBPC3):c.1329T>A (p.Cys443Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	2505346
+single nucleotide variant	NM_000256.3(MYBPC3):c.2413+2T>A	4607	MYBPC3	Likely pathogenic	GRCh38	2563086
+single nucleotide variant	NM_000256.3(MYBPC3):c.1302C>G (p.Tyr434Ter)	4607	MYBPC3	Pathogenic	GRCh38	2572994
+single nucleotide variant	NM_000256.3(MYBPC3):c.1280C>A (p.Ser427Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	2574108
+single nucleotide variant	NM_000256.3(MYBPC3):c.3020G>A (p.Trp1007Ter)	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	2577004
+single nucleotide variant	NM_000256.3(MYBPC3):c.806C>A (p.Ser269Ter)	4607	MYBPC3	Pathogenic	GRCh38	2578656
+single nucleotide variant	NM_000256.3(MYBPC3):c.2602+1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	2580978
+single nucleotide variant	NM_000256.3(MYBPC3):c.226C>T (p.Gln76Ter)	4607	MYBPC3	Pathogenic	GRCh38	2582595
+single nucleotide variant	NM_000256.3(MYBPC3):c.1625-2A>C	4607	MYBPC3	Pathogenic	GRCh38	2691202
+single nucleotide variant	NM_000256.3(MYBPC3):c.3466G>T (p.Glu1156Ter)	4607	MYBPC3	Pathogenic	GRCh38	2702912
+single nucleotide variant	NM_000256.3(MYBPC3):c.1699G>T (p.Glu567Ter)	4607	MYBPC3	Pathogenic	GRCh38	2719504
+single nucleotide variant	NM_000256.3(MYBPC3):c.2414-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	2735592
+single nucleotide variant	NM_000256.3(MYBPC3):c.1096C>T (p.Gln366Ter)	4607	MYBPC3	Pathogenic	GRCh38	2735597
+single nucleotide variant	NM_000256.3(MYBPC3):c.1090+1G>C	4607	MYBPC3	Pathogenic	GRCh38	2735598
+single nucleotide variant	NM_000256.3(MYBPC3):c.852-2A>C	4607	MYBPC3	Likely pathogenic	GRCh38	2760797
+single nucleotide variant	NM_000256.3(MYBPC3):c.3815-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	2758819
+single nucleotide variant	NM_000256.3(MYBPC3):c.53C>A (p.Ser18Ter)	4607	MYBPC3	Pathogenic	GRCh38	2773777
+single nucleotide variant	NM_000256.3(MYBPC3):c.25+1G>C	4607	MYBPC3	Pathogenic	GRCh38	2798109
+single nucleotide variant	NM_000256.3(MYBPC3):c.772+2T>C	4607	MYBPC3	Pathogenic	GRCh38	2829431
+single nucleotide variant	NM_000256.3(MYBPC3):c.2236G>T (p.Glu746Ter)	4607	MYBPC3	Pathogenic	GRCh38	2864180
+single nucleotide variant	NM_000256.3(MYBPC3):c.165C>G (p.Tyr55Ter)	4607	MYBPC3	Pathogenic	GRCh38	2861984
+single nucleotide variant	NM_000256.3(MYBPC3):c.1227-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	2911821
+single nucleotide variant	NM_000256.3(MYBPC3):c.407-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	2971865
+single nucleotide variant	NM_000256.3(MYBPC3):c.772G>T (p.Glu258Ter)	4607	MYBPC3	Pathogenic	GRCh38	3020531
+single nucleotide variant	NM_000256.3(MYBPC3):c.1898-1G>T	4607	MYBPC3	Pathogenic	GRCh38	3773673
+single nucleotide variant	NM_000256.3(MYBPC3):c.3190+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	3072403
+single nucleotide variant	NM_000256.3(MYBPC3):c.2050C>T (p.Gln684Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3075779
+single nucleotide variant	NM_000256.3(MYBPC3):c.1711G>T (p.Glu571Ter)	4607	MYBPC3	Pathogenic	GRCh38	3230870
+single nucleotide variant	NM_000256.3(MYBPC3):c.2375G>A (p.Trp792Ter)	4607	MYBPC3	Pathogenic	GRCh38	3230876
+single nucleotide variant	NM_000256.3(MYBPC3):c.577A>T (p.Lys193Ter)	4607	MYBPC3	Pathogenic	GRCh38	3230890
+single nucleotide variant	NM_000256.3(MYBPC3):c.1102A>T (p.Lys368Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3257731
+single nucleotide variant	NM_000256.3(MYBPC3):c.2133G>A (p.Trp711Ter)	4607	MYBPC3	Pathogenic	GRCh38	3297207
+single nucleotide variant	NM_000256.3(MYBPC3):c.385G>T (p.Glu129Ter)	4607	MYBPC3	Pathogenic	GRCh38	3297211
+single nucleotide variant	NM_000256.3(MYBPC3):c.2413+1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	3337344
+single nucleotide variant	NM_000256.3(MYBPC3):c.2783C>A (p.Ser928Ter)	4607	MYBPC3	Pathogenic	GRCh38	3338109
+single nucleotide variant	NM_000256.3(MYBPC3):c.2309-3C>G	4607	MYBPC3	Pathogenic	GRCh38	3340524
+single nucleotide variant	NM_000256.3(MYBPC3):c.3191-2A>C	4607	MYBPC3	Pathogenic	GRCh38	3340828
+single nucleotide variant	NM_000256.3(MYBPC3):c.505+2T>A	4607	MYBPC3	Likely pathogenic	GRCh38	3362864
+single nucleotide variant	NM_000256.3(MYBPC3):c.2068-9T>A	4607	MYBPC3	Pathogenic	GRCh38	3370308
+single nucleotide variant	NM_000256.3(MYBPC3):c.1855G>T (p.Glu619Ter)	4607	MYBPC3	Pathogenic	GRCh38	3376641
+single nucleotide variant	NM_000256.3(MYBPC3):c.1927+337G>T	4607	MYBPC3	Likely pathogenic	GRCh38	3376667
+single nucleotide variant	NM_000256.3(MYBPC3):c.2743G>T (p.Glu915Ter)	4607	MYBPC3	Pathogenic	GRCh38	3376852
+single nucleotide variant	NM_000256.3(MYBPC3):c.109G>T (p.Gly37Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3382080
+single nucleotide variant	NM_000256.3(MYBPC3):c.3130C>T (p.Gln1044Ter)	4607	MYBPC3	Pathogenic	GRCh38	3387098
+single nucleotide variant	NM_000256.3(MYBPC3):c.133G>T (p.Gly45Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3400409
+single nucleotide variant	NM_000256.3(MYBPC3):c.2401C>T (p.Gln801Ter)	4607	MYBPC3	Pathogenic	GRCh38	3400414
+single nucleotide variant	NM_000256.3(MYBPC3):c.1790+1G>T	4607	MYBPC3	Pathogenic	GRCh38	3638614
+single nucleotide variant	NM_000256.3(MYBPC3):c.1842C>G (p.Tyr614Ter)	4607	MYBPC3	Pathogenic	GRCh38	3658412
+single nucleotide variant	NM_000256.3(MYBPC3):c.293-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	3681967
+single nucleotide variant	NM_000256.3(MYBPC3):c.1352-2A>G	4607	MYBPC3	Pathogenic/Likely pathogenic	GRCh38	3721775
+single nucleotide variant	NM_000256.3(MYBPC3):c.773-1G>A	4607	MYBPC3	Likely pathogenic	GRCh38	3725737
+single nucleotide variant	NM_000256.3(MYBPC3):c.2425G>T (p.Glu809Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3775587
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-3C>A	4607	MYBPC3	Likely pathogenic	GRCh38	3775974
+single nucleotide variant	NM_000256.3(MYBPC3):c.115A>T (p.Lys39Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3776210
+single nucleotide variant	NM_000256.3(MYBPC3):c.2794A>T (p.Lys932Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	3779984
+single nucleotide variant	NM_000256.3(MYBPC3):c.588G>A (p.Trp196Ter)	4607	MYBPC3	Pathogenic	GRCh38	3876125
+single nucleotide variant	NM_000256.3(MYBPC3):c.505+5G>T	4607	MYBPC3	Likely pathogenic	GRCh38	3895167
+single nucleotide variant	NM_000256.3(MYBPC3):c.2308+227G>A	4607	MYBPC3	Likely pathogenic	GRCh38	3906261
+single nucleotide variant	NM_000256.3(MYBPC3):c.3779G>T (p.Gly1260Val)	4607	MYBPC3	Likely pathogenic	GRCh38	3911480
+single nucleotide variant	NM_000256.3(MYBPC3):c.1842C>A (p.Tyr614Ter)	4607	MYBPC3	Pathogenic	GRCh38	3915208
+single nucleotide variant	NM_000256.3(MYBPC3):c.1644C>A (p.Tyr548Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	4071971
+single nucleotide variant	NM_000256.3(MYBPC3):c.1576G>C (p.Ala526Pro)	4607	MYBPC3	Pathogenic	GRCh38	4072134
+single nucleotide variant	NM_000256.3(MYBPC3):c.852-2A>T	4607	MYBPC3	Likely pathogenic	GRCh38	4076442
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624G>A (p.Glu542Lys)	4607	MYBPC3	Likely pathogenic	GRCh38	4083454
+single nucleotide variant	NM_000256.3(MYBPC3):c.822-1G>T	4607	MYBPC3	Likely pathogenic	GRCh38	4086456
+single nucleotide variant	NM_000256.3(MYBPC3):c.3191-2A>G	4607	MYBPC3	Likely pathogenic	GRCh38	4277248
+single nucleotide variant	NM_000256.3(MYBPC3):c.927-2A>T	4607	MYBPC3	Pathogenic	GRCh38	4682011
+single nucleotide variant	NM_000256.3(MYBPC3):c.127C>T (p.Gln43Ter)	4607	MYBPC3	Pathogenic	GRCh38	4692570
+single nucleotide variant	NM_000256.3(MYBPC3):c.2998A>T (p.Lys1000Ter)	4607	MYBPC3	Pathogenic	GRCh38	4715481
+single nucleotide variant	NM_000256.3(MYBPC3):c.2738-2A>C	4607	MYBPC3	Pathogenic	GRCh38	4709825
+single nucleotide variant	NM_000256.3(MYBPC3):c.524C>G (p.Ser175Ter)	4607	MYBPC3	Pathogenic	GRCh38	4719483
+single nucleotide variant	NM_000256.3(MYBPC3):c.639C>G (p.Tyr213Ter)	4607	MYBPC3	Pathogenic	GRCh38	4763849
+single nucleotide variant	NM_000256.3(MYBPC3):c.994G>T (p.Glu332Ter)	4607	MYBPC3	Likely pathogenic	GRCh38	4845294
+single nucleotide variant	NM_000256.3(MYBPC3):c.821+5G>T	4607	MYBPC3	Likely pathogenic	GRCh38	4849595
+single nucleotide variant	NM_000256.3(MYBPC3):c.1224-1G>C	4607	MYBPC3	Pathogenic	GRCh38	4854359
+single nucleotide variant	NM_000256.3(MYBPC3):c.1624+2T>G	4607	MYBPC3	Pathogenic	GRCh38	4856614
+single nucleotide variant	NM_000256.3(MYBPC3):c.1558G>T (p.Glu520Ter)	4607	MYBPC3	Pathogenic	GRCh38	4856615
+single nucleotide variant	NM_000256.3(MYBPC3):c.1351+1G>T	4607	MYBPC3	Pathogenic	GRCh38	4856616
+single nucleotide variant	NM_000256.3(MYBPC3):c.1078A>T (p.Lys360Ter)	4607	MYBPC3	Pathogenic	GRCh38	4856617
+single nucleotide variant	NM_000256.3(MYBPC3):c.3148G>T (p.Glu1050Ter)	4607	MYBPC3	Pathogenic	GRCh38	4856624
+single nucleotide variant	NM_000256.3(MYBPC3):c.2215G>T (p.Glu739Ter)	4607	MYBPC3	Pathogenic	GRCh38	4856628
+single nucleotide variant	NM_000256.3(MYBPC3):c.2247C>A (p.Tyr749Ter)	4607	MYBPC3	Pathogenic	GRCh38	4860512

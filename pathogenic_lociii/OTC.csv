@@ -1,0 +1,376 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000531.6(OTC):c.422G>A (p.Arg141Gln)	5009	OTC	Pathogenic	GRCh38	10987
+single nucleotide variant	NM_000531.6(OTC):c.421C>T (p.Arg141Ter)	5009	OTC	Pathogenic	GRCh38	10988
+single nucleotide variant	NM_000531.6(OTC):c.332T>C (p.Leu111Pro)	5009	OTC	Pathogenic	GRCh38	10989
+single nucleotide variant	NM_000531.6(OTC):c.646C>G (p.Gln216Glu)	5009	OTC	Pathogenic	GRCh38	10990
+single nucleotide variant	NM_000531.6(OTC):c.460G>T (p.Glu154Ter)	5009	OTC	Pathogenic	GRCh38	10991
+single nucleotide variant	NM_000531.6(OTC):c.134T>C (p.Leu45Pro)	5009	OTC	Pathogenic	GRCh38	10992
+single nucleotide variant	NM_000531.6(OTC):c.77G>A (p.Arg26Gln)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	10993
+single nucleotide variant	NM_000531.6(OTC):c.717+2T>C	5009	OTC	Pathogenic	GRCh38	10996
+single nucleotide variant	NM_000531.6(OTC):c.387-2A>T	5009	OTC	Pathogenic	GRCh38	10998
+single nucleotide variant	NM_000531.6(OTC):c.829C>T (p.Arg277Trp)	5009	OTC	Pathogenic	GRCh38	10999
+single nucleotide variant	NM_000531.6(OTC):c.674C>T (p.Pro225Leu)	5009	OTC	Pathogenic	GRCh38	11000
+single nucleotide variant	NM_000531.6(OTC):c.259G>A (p.Glu87Lys)	5009	OTC	Pathogenic	GRCh38	11001
+single nucleotide variant	NM_000531.6(OTC):c.148G>T (p.Gly50Ter)	5009	OTC	Pathogenic	GRCh38	11002
+single nucleotide variant	NM_000531.6(OTC):c.484G>A (p.Gly162Arg)	5009	OTC	Pathogenic	GRCh38	11003
+single nucleotide variant	NM_000531.6(OTC):c.236G>A (p.Gly79Glu)	5009	OTC	Likely pathogenic	GRCh38	11006
+single nucleotide variant	NM_000531.6(OTC):c.281G>C (p.Arg94Thr)	5009	OTC	Pathogenic	GRCh38	11007
+single nucleotide variant	NM_000531.6(OTC):c.912G>T (p.Leu304Phe)	5009	OTC	Pathogenic	GRCh38	11008
+single nucleotide variant	NM_000531.6(OTC):c.1033T>G (p.Tyr345Asp)	5009	OTC	Pathogenic	GRCh38	11009
+single nucleotide variant	NM_000531.6(OTC):c.386G>A (p.Arg129His)	5009	OTC	Pathogenic	GRCh38	11010
+single nucleotide variant	NM_000531.6(OTC):c.444G>C (p.Leu148Phe)	5009	OTC	Pathogenic	GRCh38	11011
+single nucleotide variant	NM_000531.6(OTC):c.617T>G (p.Met206Arg)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	11012
+single nucleotide variant	NM_000531.6(OTC):c.118C>T (p.Arg40Cys)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	11013
+single nucleotide variant	NM_000531.6(OTC):c.119G>A (p.Arg40His)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	11014
+single nucleotide variant	NM_000531.6(OTC):c.238A>G (p.Lys80Glu)	5009	OTC	Pathogenic	GRCh38	93219
+single nucleotide variant	NM_000531.6(OTC):c.540+2T>C	5009	OTC	Pathogenic	GRCh38	93221
+single nucleotide variant	NM_000531.6(OTC):c.1005+1G>T	5009	OTC	Likely pathogenic	GRCh38	97089
+single nucleotide variant	NM_000531.6(OTC):c.1005+2T>C	5009	OTC	Pathogenic	GRCh38	97090
+single nucleotide variant	NM_000531.6(OTC):c.1006-1G>A	5009	OTC	Pathogenic	GRCh38	97092
+single nucleotide variant	NM_000531.6(OTC):c.1006-3C>G	5009	OTC	Pathogenic	GRCh38	97093
+single nucleotide variant	NM_000531.6(OTC):c.1006G>T (p.Ala336Ser)	5009	OTC	Pathogenic	GRCh38	97094
+single nucleotide variant	NM_000531.6(OTC):c.1009G>C (p.Val337Leu)	5009	OTC	Likely pathogenic	GRCh38	97095
+single nucleotide variant	NM_000531.6(OTC):c.1018T>C (p.Ser340Pro)	5009	OTC	Pathogenic	GRCh38	97097
+single nucleotide variant	NM_000531.6(OTC):c.1022T>C (p.Leu341Pro)	5009	OTC	Pathogenic	GRCh38	97098
+single nucleotide variant	NM_000531.6(OTC):c.1034A>G (p.Tyr345Cys)	5009	OTC	Pathogenic	GRCh38	97101
+single nucleotide variant	NM_000531.6(OTC):c.1039C>A (p.Pro347Thr)	5009	OTC	Likely pathogenic	GRCh38	97102
+single nucleotide variant	NM_000531.6(OTC):c.1042C>T (p.Gln348Ter)	5009	OTC	Pathogenic	GRCh38	97103
+single nucleotide variant	NM_000531.6(OTC):c.106C>T (p.Gln36Ter)	5009	OTC	Pathogenic	GRCh38	97105
+single nucleotide variant	NM_000531.6(OTC):c.115G>T (p.Gly39Cys)	5009	OTC	Pathogenic	GRCh38	97106
+single nucleotide variant	NM_000531.6(OTC):c.122A>G (p.Asp41Gly)	5009	OTC	Likely pathogenic	GRCh38	97107
+single nucleotide variant	NM_000531.6(OTC):c.127C>T (p.Leu43Phe)	5009	OTC	Pathogenic	GRCh38	97108
+single nucleotide variant	NM_000531.6(OTC):c.131C>T (p.Thr44Ile)	5009	OTC	Pathogenic	GRCh38	97109
+single nucleotide variant	NM_000531.6(OTC):c.133C>G (p.Leu45Val)	5009	OTC	Pathogenic	GRCh38	97110
+single nucleotide variant	NM_000531.6(OTC):c.140A>T (p.Asn47Ile)	5009	OTC	Pathogenic	GRCh38	97113
+single nucleotide variant	NM_000531.6(OTC):c.143T>C (p.Phe48Ser)	5009	OTC	Pathogenic	GRCh38	97115
+single nucleotide variant	NM_000531.6(OTC):c.154G>A (p.Glu52Lys)	5009	OTC	Pathogenic	GRCh38	97118
+single nucleotide variant	NM_000531.6(OTC):c.154G>T (p.Glu52Ter)	5009	OTC	Pathogenic	GRCh38	97119
+single nucleotide variant	NM_000531.6(OTC):c.155A>G (p.Glu52Gly)	5009	OTC	Pathogenic	GRCh38	97120
+single nucleotide variant	NM_000531.6(OTC):c.156A>T (p.Glu52Asp)	5009	OTC	Likely pathogenic	GRCh38	97121
+single nucleotide variant	NM_000531.6(OTC):c.158T>C (p.Ile53Thr)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97122
+single nucleotide variant	NM_000531.6(OTC):c.158T>G (p.Ile53Ser)	5009	OTC	Pathogenic	GRCh38	97123
+single nucleotide variant	NM_000531.6(OTC):c.163T>G (p.Tyr55Asp)	5009	OTC	Pathogenic	GRCh38	97124
+single nucleotide variant	NM_000531.6(OTC):c.167T>C (p.Met56Thr)	5009	OTC	Likely pathogenic	GRCh38	97125
+single nucleotide variant	NM_000531.6(OTC):c.170T>A (p.Leu57Gln)	5009	OTC	Pathogenic	GRCh38	97126
+single nucleotide variant	NM_000531.6(OTC):c.174G>A (p.Trp58Ter)	5009	OTC	Pathogenic	GRCh38	97127
+single nucleotide variant	NM_000531.6(OTC):c.179C>T (p.Ser60Leu)	5009	OTC	Pathogenic	GRCh38	97128
+single nucleotide variant	NM_000531.6(OTC):c.1A>G (p.Met1Val)	5009	OTC	Likely pathogenic	GRCh38	97130
+single nucleotide variant	NM_000531.6(OTC):c.1A>T (p.Met1Leu)	5009	OTC	Pathogenic	GRCh38	97131
+single nucleotide variant	NM_000531.6(OTC):c.200T>G (p.Ile67Arg)	5009	OTC	Pathogenic	GRCh38	97132
+single nucleotide variant	NM_000531.6(OTC):c.205C>T (p.Gln69Ter)	5009	OTC	Pathogenic	GRCh38	97133
+single nucleotide variant	NM_000531.6(OTC):c.216+1G>A	5009	OTC	Pathogenic	GRCh38	97134
+single nucleotide variant	NM_000531.6(OTC):c.216+1G>T	5009	OTC	Pathogenic	GRCh38	97135
+single nucleotide variant	NM_000531.6(OTC):c.217-1G>A	5009	OTC	Pathogenic	GRCh38	97136
+single nucleotide variant	NM_000531.6(OTC):c.231G>T (p.Leu77Phe)	5009	OTC	Pathogenic	GRCh38	97138
+single nucleotide variant	NM_000531.6(OTC):c.232C>T (p.Gln78Ter)	5009	OTC	Pathogenic	GRCh38	97139
+single nucleotide variant	NM_000531.6(OTC):c.240G>T (p.Lys80Asn)	5009	OTC	Pathogenic	GRCh38	97140
+single nucleotide variant	NM_000531.6(OTC):c.245T>G (p.Leu82Ter)	5009	OTC	Pathogenic	GRCh38	97142
+single nucleotide variant	NM_000531.6(OTC):c.247G>C (p.Gly83Arg)	5009	OTC	Pathogenic	GRCh38	97143
+single nucleotide variant	NM_000531.6(OTC):c.248G>A (p.Gly83Asp)	5009	OTC	Pathogenic	GRCh38	97144
+single nucleotide variant	NM_000531.6(OTC):c.264A>T (p.Lys88Asn)	5009	OTC	Pathogenic	GRCh38	97145
+single nucleotide variant	NM_000531.6(OTC):c.268A>G (p.Ser90Gly)	5009	OTC	Pathogenic	GRCh38	97146
+single nucleotide variant	NM_000531.6(OTC):c.269G>A (p.Ser90Asn)	5009	OTC	Pathogenic	GRCh38	97147
+single nucleotide variant	NM_000531.6(OTC):c.270T>G (p.Ser90Arg)	5009	OTC	Pathogenic	GRCh38	97148
+single nucleotide variant	NM_000531.6(OTC):c.274C>G (p.Arg92Gly)	5009	OTC	Pathogenic	GRCh38	97150
+single nucleotide variant	NM_000531.6(OTC):c.274C>T (p.Arg92Ter)	5009	OTC	Pathogenic	GRCh38	97151
+single nucleotide variant	NM_000531.6(OTC):c.275G>A (p.Arg92Gln)	5009	OTC	Pathogenic	GRCh38	97152
+single nucleotide variant	NM_000531.6(OTC):c.275G>C (p.Arg92Pro)	5009	OTC	Pathogenic	GRCh38	97153
+single nucleotide variant	NM_000531.6(OTC):c.275G>T (p.Arg92Leu)	5009	OTC	Pathogenic	GRCh38	97154
+single nucleotide variant	NM_000531.6(OTC):c.277A>G (p.Thr93Ala)	5009	OTC	Pathogenic	GRCh38	97155
+single nucleotide variant	NM_000531.6(OTC):c.284T>C (p.Leu95Ser)	5009	OTC	Pathogenic	GRCh38	97156
+single nucleotide variant	NM_000531.6(OTC):c.298+1G>A	5009	OTC	Pathogenic	GRCh38	97159
+single nucleotide variant	NM_000531.6(OTC):c.298+1G>T	5009	OTC	Pathogenic	GRCh38	97160
+single nucleotide variant	NM_000531.6(OTC):c.299G>A (p.Gly100Asp)	5009	OTC	Pathogenic	GRCh38	97163
+single nucleotide variant	NM_000531.6(OTC):c.2T>C (p.Met1Thr)	5009	OTC	Pathogenic	GRCh38	97164
+single nucleotide variant	NM_000531.6(OTC):c.305C>A (p.Ala102Glu)	5009	OTC	Pathogenic	GRCh38	97165
+single nucleotide variant	NM_000531.6(OTC):c.314G>T (p.Gly105Val)	5009	OTC	Pathogenic	GRCh38	97166
+single nucleotide variant	NM_000531.6(OTC):c.316G>A (p.Gly106Arg)	5009	OTC	Pathogenic	GRCh38	97167
+single nucleotide variant	NM_000531.6(OTC):c.317G>A (p.Gly106Glu)	5009	OTC	Pathogenic	GRCh38	97168
+single nucleotide variant	NM_000531.6(OTC):c.317G>T (p.Gly106Val)	5009	OTC	Pathogenic	GRCh38	97169
+single nucleotide variant	NM_000531.6(OTC):c.350A>G (p.His117Arg)	5009	OTC	Pathogenic	GRCh38	97171
+single nucleotide variant	NM_000531.6(OTC):c.350A>T (p.His117Leu)	5009	OTC	Pathogenic	GRCh38	97172
+single nucleotide variant	NM_000531.6(OTC):c.386+1G>A	5009	OTC	Pathogenic	GRCh38	97178
+single nucleotide variant	NM_000531.6(OTC):c.386+1G>T	5009	OTC	Pathogenic	GRCh38	97179
+single nucleotide variant	NM_000531.6(OTC):c.386+2T>C	5009	OTC	Pathogenic	GRCh38	97180
+single nucleotide variant	NM_000531.6(OTC):c.386G>C (p.Arg129Pro)	5009	OTC	Pathogenic	GRCh38	97181
+single nucleotide variant	NM_000531.6(OTC):c.386G>T (p.Arg129Leu)	5009	OTC	Pathogenic	GRCh38	97182
+single nucleotide variant	NM_000531.6(OTC):c.387-2A>C	5009	OTC	Pathogenic	GRCh38	97183
+single nucleotide variant	NM_000531.6(OTC):c.387-2A>G	5009	OTC	Pathogenic	GRCh38	97184
+single nucleotide variant	NM_000531.6(OTC):c.392T>C (p.Leu131Ser)	5009	OTC	Pathogenic	GRCh38	97186
+single nucleotide variant	NM_000531.6(OTC):c.394T>C (p.Ser132Pro)	5009	OTC	Pathogenic	GRCh38	97187
+single nucleotide variant	NM_000531.6(OTC):c.395C>T (p.Ser132Phe)	5009	OTC	Pathogenic	GRCh38	97188
+single nucleotide variant	NM_000531.6(OTC):c.3G>A (p.Met1Ile)	5009	OTC	Pathogenic	GRCh38	97189
+single nucleotide variant	NM_000531.6(OTC):c.404C>A (p.Ala135Glu)	5009	OTC	Pathogenic	GRCh38	97191
+single nucleotide variant	NM_000531.6(OTC):c.407A>T (p.Asp136Val)	5009	OTC	Pathogenic	GRCh38	97192
+single nucleotide variant	NM_000531.6(OTC):c.416T>C (p.Leu139Ser)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97195
+single nucleotide variant	NM_000531.6(OTC):c.418G>C (p.Ala140Pro)	5009	OTC	Likely pathogenic	GRCh38	97196
+single nucleotide variant	NM_000531.6(OTC):c.421C>G (p.Arg141Gly)	5009	OTC	Pathogenic	GRCh38	97197
+single nucleotide variant	NM_000531.6(OTC):c.422G>C (p.Arg141Pro)	5009	OTC	Likely pathogenic	GRCh38	97198
+single nucleotide variant	NM_000531.6(OTC):c.425T>A (p.Val142Glu)	5009	OTC	Pathogenic	GRCh38	97199
+single nucleotide variant	NM_000531.6(OTC):c.430A>T (p.Lys144Ter)	5009	OTC	Pathogenic	GRCh38	97200
+single nucleotide variant	NM_000531.6(OTC):c.437C>G (p.Ser146Ter)	5009	OTC	Pathogenic	GRCh38	97201
+single nucleotide variant	NM_000531.6(OTC):c.443T>C (p.Leu148Ser)	5009	OTC	Likely pathogenic	GRCh38	97202
+single nucleotide variant	NM_000531.6(OTC):c.443T>G (p.Leu148Trp)	5009	OTC	Pathogenic	GRCh38	97203
+single nucleotide variant	NM_000531.6(OTC):c.444G>T (p.Leu148Phe)	5009	OTC	Pathogenic	GRCh38	97204
+single nucleotide variant	NM_000531.6(OTC):c.455C>T (p.Ala152Val)	5009	OTC	Pathogenic	GRCh38	97207
+single nucleotide variant	NM_000531.6(OTC):c.463G>C (p.Ala155Pro)	5009	OTC	Pathogenic	GRCh38	97208
+single nucleotide variant	NM_000531.6(OTC):c.463G>T (p.Ala155Ser)	5009	OTC	Pathogenic	GRCh38	97209
+single nucleotide variant	NM_000531.6(OTC):c.476T>C (p.Ile159Thr)	5009	OTC	Pathogenic	GRCh38	97211
+single nucleotide variant	NM_000531.6(OTC):c.479T>A (p.Ile160Asn)	5009	OTC	Pathogenic	GRCh38	97212
+single nucleotide variant	NM_000531.6(OTC):c.479T>C (p.Ile160Thr)	5009	OTC	Pathogenic	GRCh38	97213
+single nucleotide variant	NM_000531.6(OTC):c.479T>G (p.Ile160Ser)	5009	OTC	Pathogenic	GRCh38	97214
+single nucleotide variant	NM_000531.6(OTC):c.481A>G (p.Asn161Asp)	5009	OTC	Pathogenic	GRCh38	97215
+single nucleotide variant	NM_000531.6(OTC):c.482A>G (p.Asn161Ser)	5009	OTC	Pathogenic	GRCh38	97216
+single nucleotide variant	NM_000531.6(OTC):c.484G>C (p.Gly162Arg)	5009	OTC	Pathogenic	GRCh38	97217
+single nucleotide variant	NM_000531.6(OTC):c.485G>A (p.Gly162Glu)	5009	OTC	Pathogenic	GRCh38	97218
+single nucleotide variant	NM_000531.6(OTC):c.491C>G (p.Ser164Ter)	5009	OTC	Pathogenic	GRCh38	97220
+single nucleotide variant	NM_000531.6(OTC):c.493G>T (p.Asp165Tyr)	5009	OTC	Pathogenic	GRCh38	97221
+single nucleotide variant	NM_000531.6(OTC):c.501C>A (p.Tyr167Ter)	5009	OTC	Pathogenic	GRCh38	97222
+single nucleotide variant	NM_000531.6(OTC):c.501C>G (p.Tyr167Ter)	5009	OTC	Pathogenic	GRCh38	97223
+single nucleotide variant	NM_000531.6(OTC):c.503A>C (p.His168Pro)	5009	OTC	Pathogenic	GRCh38	97224
+single nucleotide variant	NM_000531.6(OTC):c.503A>G (p.His168Arg)	5009	OTC	Pathogenic	GRCh38	97225
+single nucleotide variant	NM_000531.6(OTC):c.504T>A (p.His168Gln)	5009	OTC	Pathogenic	GRCh38	97226
+single nucleotide variant	NM_000531.6(OTC):c.505C>G (p.Pro169Ala)	5009	OTC	Pathogenic	GRCh38	97227
+single nucleotide variant	NM_000531.6(OTC):c.506C>T (p.Pro169Leu)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97228
+single nucleotide variant	NM_000531.6(OTC):c.514A>T (p.Ile172Phe)	5009	OTC	Pathogenic	GRCh38	97229
+single nucleotide variant	NM_000531.6(OTC):c.516C>G (p.Ile172Met)	5009	OTC	Pathogenic	GRCh38	97230
+single nucleotide variant	NM_000531.6(OTC):c.520G>C (p.Ala174Pro)	5009	OTC	Pathogenic	GRCh38	97231
+single nucleotide variant	NM_000531.6(OTC):c.524A>G (p.Asp175Gly)	5009	OTC	Pathogenic	GRCh38	97232
+single nucleotide variant	NM_000531.6(OTC):c.524A>T (p.Asp175Val)	5009	OTC	Pathogenic	GRCh38	97233
+single nucleotide variant	NM_000531.6(OTC):c.526T>C (p.Tyr176His)	5009	OTC	Pathogenic	GRCh38	97234
+single nucleotide variant	NM_000531.6(OTC):c.527A>G (p.Tyr176Cys)	5009	OTC	Pathogenic	GRCh38	97235
+single nucleotide variant	NM_000531.6(OTC):c.533C>T (p.Thr178Met)	5009	OTC	Pathogenic	GRCh38	97237
+single nucleotide variant	NM_000531.6(OTC):c.536T>C (p.Leu179Pro)	5009	OTC	Pathogenic	GRCh38	97238
+single nucleotide variant	NM_000531.6(OTC):c.540+1G>C	5009	OTC	Pathogenic	GRCh38	97240
+single nucleotide variant	NM_000531.6(OTC):c.540+2T>A	5009	OTC	Pathogenic	GRCh38	97241
+single nucleotide variant	NM_000531.6(OTC):c.540G>C (p.Gln180His)	5009	OTC	Pathogenic	GRCh38	97242
+single nucleotide variant	NM_000531.6(OTC):c.541-2A>G	5009	OTC	Pathogenic	GRCh38	97243
+single nucleotide variant	NM_000531.6(OTC):c.542A>G (p.Glu181Gly)	5009	OTC	Pathogenic	GRCh38	97244
+single nucleotide variant	NM_000531.6(OTC):c.545A>T (p.His182Leu)	5009	OTC	Pathogenic	GRCh38	97245
+single nucleotide variant	NM_000531.6(OTC):c.547T>G (p.Tyr183Asp)	5009	OTC	Pathogenic	GRCh38	97246
+single nucleotide variant	NM_000531.6(OTC):c.548A>G (p.Tyr183Cys)	5009	OTC	Pathogenic	GRCh38	97247
+single nucleotide variant	NM_000531.6(OTC):c.562G>C (p.Gly188Arg)	5009	OTC	Likely pathogenic	GRCh38	97248
+single nucleotide variant	NM_000531.6(OTC):c.563G>T (p.Gly188Val)	5009	OTC	Likely pathogenic	GRCh38	97249
+single nucleotide variant	NM_000531.6(OTC):c.571C>T (p.Leu191Phe)	5009	OTC	Pathogenic	GRCh38	97250
+single nucleotide variant	NM_000531.6(OTC):c.576C>G (p.Ser192Arg)	5009	OTC	Pathogenic	GRCh38	97251
+single nucleotide variant	NM_000531.6(OTC):c.577T>C (p.Trp193Arg)	5009	OTC	Likely pathogenic	GRCh38	97252
+single nucleotide variant	NM_000531.6(OTC):c.577T>G (p.Trp193Gly)	5009	OTC	Pathogenic	GRCh38	97253
+single nucleotide variant	NM_000531.6(OTC):c.578G>A (p.Trp193Ter)	5009	OTC	Pathogenic	GRCh38	97254
+single nucleotide variant	NM_000531.6(OTC):c.583G>A (p.Gly195Arg)	5009	OTC	Pathogenic	GRCh38	97255
+single nucleotide variant	NM_000531.6(OTC):c.586G>A (p.Asp196Asn)	5009	OTC	Pathogenic	GRCh38	97257
+single nucleotide variant	NM_000531.6(OTC):c.586G>T (p.Asp196Tyr)	5009	OTC	Likely pathogenic	GRCh38	97258
+single nucleotide variant	NM_000531.6(OTC):c.587A>T (p.Asp196Val)	5009	OTC	Pathogenic	GRCh38	97259
+single nucleotide variant	NM_000531.6(OTC):c.589G>A (p.Gly197Arg)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97260
+single nucleotide variant	NM_000531.6(OTC):c.590G>A (p.Gly197Glu)	5009	OTC	Pathogenic	GRCh38	97261
+single nucleotide variant	NM_000531.6(OTC):c.593A>T (p.Asn198Ile)	5009	OTC	Pathogenic	GRCh38	97262
+single nucleotide variant	NM_000531.6(OTC):c.594C>A (p.Asn198Lys)	5009	OTC	Pathogenic	GRCh38	97263
+single nucleotide variant	NM_000531.6(OTC):c.595A>G (p.Asn199Asp)	5009	OTC	Pathogenic	GRCh38	97264
+single nucleotide variant	NM_000531.6(OTC):c.596A>G (p.Asn199Ser)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97265
+single nucleotide variant	NM_000531.6(OTC):c.602T>C (p.Leu201Pro)	5009	OTC	Likely pathogenic	GRCh38	97266
+single nucleotide variant	NM_000531.6(OTC):c.604C>T (p.His202Tyr)	5009	OTC	Pathogenic	GRCh38	97267
+single nucleotide variant	NM_000531.6(OTC):c.605A>C (p.His202Pro)	5009	OTC	Pathogenic	GRCh38	97268
+single nucleotide variant	NM_000531.6(OTC):c.608C>G (p.Ser203Cys)	5009	OTC	Pathogenic	GRCh38	97269
+single nucleotide variant	NM_000531.6(OTC):c.613A>G (p.Met205Val)	5009	OTC	Pathogenic	GRCh38	97270
+single nucleotide variant	NM_000531.6(OTC):c.618G>C (p.Met206Ile)	5009	OTC	Pathogenic	GRCh38	97271
+single nucleotide variant	NM_000531.6(OTC):c.620G>A (p.Ser207Asn)	5009	OTC	Pathogenic	GRCh38	97272
+single nucleotide variant	NM_000531.6(OTC):c.621C>A (p.Ser207Arg)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97273
+single nucleotide variant	NM_000531.6(OTC):c.622G>A (p.Ala208Thr)	5009	OTC	Pathogenic	GRCh38	97274
+single nucleotide variant	NM_000531.6(OTC):c.626C>T (p.Ala209Val)	5009	OTC	Pathogenic	GRCh38	97275
+single nucleotide variant	NM_000531.6(OTC):c.628A>C (p.Lys210Gln)	5009	OTC	Pathogenic	GRCh38	97276
+single nucleotide variant	NM_000531.6(OTC):c.640C>T (p.His214Tyr)	5009	OTC	Likely pathogenic	GRCh38	97277
+single nucleotide variant	NM_000531.6(OTC):c.643C>T (p.Leu215Phe)	5009	OTC	Pathogenic	GRCh38	97278
+single nucleotide variant	NM_000531.6(OTC):c.650C>A (p.Ala217Glu)	5009	OTC	Pathogenic	GRCh38	97280
+single nucleotide variant	NM_000531.6(OTC):c.658C>G (p.Pro220Ala)	5009	OTC	Pathogenic	GRCh38	97281
+single nucleotide variant	NM_000531.6(OTC):c.659C>T (p.Pro220Leu)	5009	OTC	Likely pathogenic	GRCh38	97282
+single nucleotide variant	NM_000531.6(OTC):c.663+1G>A	5009	OTC	Pathogenic	GRCh38	97283
+single nucleotide variant	NM_000531.6(OTC):c.663+1G>T	5009	OTC	Pathogenic	GRCh38	97284
+single nucleotide variant	NM_000531.6(OTC):c.663+2T>C	5009	OTC	Pathogenic	GRCh38	97285
+single nucleotide variant	NM_000531.6(OTC):c.663G>A (p.Lys221=)	5009	OTC	Pathogenic	GRCh38	97286
+single nucleotide variant	NM_000531.6(OTC):c.663G>C (p.Lys221Asn)	5009	OTC	Pathogenic	GRCh38	97287
+single nucleotide variant	NM_000531.6(OTC):c.664-1G>A	5009	OTC	Pathogenic	GRCh38	97288
+single nucleotide variant	NM_000531.6(OTC):c.673C>A (p.Pro225Thr)	5009	OTC	Pathogenic	GRCh38	97290
+single nucleotide variant	NM_000531.6(OTC):c.674C>G (p.Pro225Arg)	5009	OTC	Pathogenic	GRCh38	97291
+single nucleotide variant	NM_000531.6(OTC):c.67C>T (p.Arg23Ter)	5009	OTC	Pathogenic	GRCh38	97292
+single nucleotide variant	NM_000531.6(OTC):c.698C>T (p.Ala233Val)	5009	OTC	Likely pathogenic	GRCh38	97293
+single nucleotide variant	NM_000531.6(OTC):c.700G>T (p.Glu234Ter)	5009	OTC	Pathogenic	GRCh38	97294
+single nucleotide variant	NM_000531.6(OTC):c.716A>G (p.Glu239Gly)	5009	OTC	Pathogenic	GRCh38	97295
+single nucleotide variant	NM_000531.6(OTC):c.716A>T (p.Glu239Val)	5009	OTC	Pathogenic	GRCh38	97296
+single nucleotide variant	NM_000531.6(OTC):c.717+1G>A	5009	OTC	Pathogenic	GRCh38	97297
+single nucleotide variant	NM_000531.6(OTC):c.717+1G>T	5009	OTC	Pathogenic	GRCh38	97298
+single nucleotide variant	NM_000531.6(OTC):c.717+3A>G	5009	OTC	Pathogenic	GRCh38	97299
+single nucleotide variant	NM_000531.6(OTC):c.717G>A (p.Glu239=)	5009	OTC	Likely pathogenic	GRCh38	97301
+single nucleotide variant	NM_000531.6(OTC):c.717G>C (p.Glu239Asp)	5009	OTC	Likely pathogenic	GRCh38	97302
+single nucleotide variant	NM_000531.6(OTC):c.718-2A>G	5009	OTC	Pathogenic	GRCh38	97303
+single nucleotide variant	NM_000531.6(OTC):c.725C>T (p.Thr242Ile)	5009	OTC	Pathogenic	GRCh38	97305
+single nucleotide variant	NM_000531.6(OTC):c.731T>A (p.Leu244Gln)	5009	OTC	Pathogenic	GRCh38	97306
+single nucleotide variant	NM_000531.6(OTC):c.740C>A (p.Thr247Lys)	5009	OTC	Pathogenic	GRCh38	97308
+single nucleotide variant	NM_000531.6(OTC):c.757G>A (p.Ala253Thr)	5009	OTC	Pathogenic	GRCh38	97309
+single nucleotide variant	NM_000531.6(OTC):c.757G>C (p.Ala253Pro)	5009	OTC	Pathogenic	GRCh38	97310
+single nucleotide variant	NM_000531.6(OTC):c.764A>C (p.His255Pro)	5009	OTC	Pathogenic	GRCh38	97312
+single nucleotide variant	NM_000531.6(OTC):c.77+1G>A	5009	OTC	Pathogenic	GRCh38	97313
+single nucleotide variant	NM_000531.6(OTC):c.77+1G>T	5009	OTC	Pathogenic	GRCh38	97314
+single nucleotide variant	NM_000531.6(OTC):c.77+4A>C	5009	OTC	Pathogenic	GRCh38	97316
+single nucleotide variant	NM_000531.6(OTC):c.779T>C (p.Leu260Ser)	5009	OTC	Pathogenic	GRCh38	97318
+single nucleotide variant	NM_000531.6(OTC):c.77G>C (p.Arg26Pro)	5009	OTC	Pathogenic	GRCh38	97319
+single nucleotide variant	NM_000531.6(OTC):c.78-1G>C	5009	OTC	Pathogenic	GRCh38	97320
+single nucleotide variant	NM_000531.6(OTC):c.78-3C>G	5009	OTC	Pathogenic	GRCh38	97321
+single nucleotide variant	NM_000531.6(OTC):c.785C>A (p.Thr262Lys)	5009	OTC	Pathogenic	GRCh38	97322
+single nucleotide variant	NM_000531.6(OTC):c.785C>T (p.Thr262Ile)	5009	OTC	Likely pathogenic	GRCh38	97323
+single nucleotide variant	NM_000531.6(OTC):c.787G>A (p.Asp263Asn)	5009	OTC	Pathogenic	GRCh38	97324
+single nucleotide variant	NM_000531.6(OTC):c.788A>G (p.Asp263Gly)	5009	OTC	Likely pathogenic	GRCh38	97325
+single nucleotide variant	NM_000531.6(OTC):c.790A>G (p.Thr264Ala)	5009	OTC	Pathogenic	GRCh38	97326
+single nucleotide variant	NM_000531.6(OTC):c.791C>A (p.Thr264Asn)	5009	OTC	Pathogenic	GRCh38	97327
+single nucleotide variant	NM_000531.6(OTC):c.794G>T (p.Trp265Leu)	5009	OTC	Pathogenic	GRCh38	97330
+single nucleotide variant	NM_000531.6(OTC):c.795G>A (p.Trp265Ter)	5009	OTC	Pathogenic	GRCh38	97331
+single nucleotide variant	NM_000531.6(OTC):c.799A>C (p.Ser267Arg)	5009	OTC	Pathogenic	GRCh38	97332
+single nucleotide variant	NM_000531.6(OTC):c.803T>C (p.Met268Thr)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97333
+single nucleotide variant	NM_000531.6(OTC):c.806G>A (p.Gly269Glu)	5009	OTC	Pathogenic	GRCh38	97334
+single nucleotide variant	NM_000531.6(OTC):c.808C>T (p.Gln270Ter)	5009	OTC	Pathogenic	GRCh38	97335
+single nucleotide variant	NM_000531.6(OTC):c.809A>C (p.Gln270Pro)	5009	OTC	Pathogenic	GRCh38	97336
+single nucleotide variant	NM_000531.6(OTC):c.830G>A (p.Arg277Gln)	5009	OTC	Pathogenic	GRCh38	97339
+single nucleotide variant	NM_000531.6(OTC):c.830G>T (p.Arg277Leu)	5009	OTC	Likely pathogenic	GRCh38	97340
+single nucleotide variant	NM_000531.6(OTC):c.835C>T (p.Gln279Ter)	5009	OTC	Pathogenic	GRCh38	97341
+single nucleotide variant	NM_000531.6(OTC):c.867+1G>A	5009	OTC	Pathogenic	GRCh38	97342
+single nucleotide variant	NM_000531.6(OTC):c.867+1G>T	5009	OTC	Likely pathogenic	GRCh38	97343
+single nucleotide variant	NM_000531.6(OTC):c.867G>T (p.Lys289Asn)	5009	OTC	Pathogenic	GRCh38	97344
+single nucleotide variant	NM_000531.6(OTC):c.893G>C (p.Trp298Ser)	5009	OTC	Pathogenic	GRCh38	97349
+single nucleotide variant	NM_000531.6(OTC):c.903A>T (p.Leu301Phe)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97350
+single nucleotide variant	NM_000531.6(OTC):c.904C>T (p.His302Tyr)	5009	OTC	Pathogenic	GRCh38	97351
+single nucleotide variant	NM_000531.6(OTC):c.905A>G (p.His302Arg)	5009	OTC	Pathogenic	GRCh38	97352
+single nucleotide variant	NM_000531.6(OTC):c.905A>T (p.His302Leu)	5009	OTC	Pathogenic	GRCh38	97353
+single nucleotide variant	NM_000531.6(OTC):c.906C>G (p.His302Gln)	5009	OTC	Pathogenic	GRCh38	97354
+single nucleotide variant	NM_000531.6(OTC):c.907T>C (p.Cys303Arg)	5009	OTC	Pathogenic	GRCh38	97356
+single nucleotide variant	NM_000531.6(OTC):c.907T>G (p.Cys303Gly)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97357
+single nucleotide variant	NM_000531.6(OTC):c.908G>A (p.Cys303Tyr)	5009	OTC	Pathogenic	GRCh38	97358
+single nucleotide variant	NM_000531.6(OTC):c.914C>A (p.Pro305His)	5009	OTC	Pathogenic	GRCh38	97359
+single nucleotide variant	NM_000531.6(OTC):c.914C>G (p.Pro305Arg)	5009	OTC	Pathogenic	GRCh38	97360
+single nucleotide variant	NM_000531.6(OTC):c.928G>T (p.Glu310Ter)	5009	OTC	Pathogenic	GRCh38	97361
+single nucleotide variant	NM_000531.6(OTC):c.929A>G (p.Glu310Gly)	5009	OTC	Pathogenic	GRCh38	97362
+single nucleotide variant	NM_000531.6(OTC):c.943G>T (p.Val315Phe)	5009	OTC	Likely pathogenic	GRCh38	97365
+single nucleotide variant	NM_000531.6(OTC):c.944T>A (p.Val315Asp)	5009	OTC	Pathogenic	GRCh38	97366
+single nucleotide variant	NM_000531.6(OTC):c.944T>G (p.Val315Gly)	5009	OTC	Pathogenic	GRCh38	97367
+single nucleotide variant	NM_000531.6(OTC):c.947T>C (p.Phe316Ser)	5009	OTC	Pathogenic	GRCh38	97368
+single nucleotide variant	NM_000531.6(OTC):c.94C>T (p.Gln32Ter)	5009	OTC	Pathogenic	GRCh38	97369
+single nucleotide variant	NM_000531.6(OTC):c.953C>T (p.Ser318Phe)	5009	OTC	Likely pathogenic	GRCh38	97370
+single nucleotide variant	NM_000531.6(OTC):c.958C>T (p.Arg320Ter)	5009	OTC	Pathogenic	GRCh38	97371
+single nucleotide variant	NM_000531.6(OTC):c.959G>T (p.Arg320Leu)	5009	OTC	Pathogenic	GRCh38	97372
+single nucleotide variant	NM_000531.6(OTC):c.962C>A (p.Ser321Ter)	5009	OTC	Pathogenic	GRCh38	97373
+single nucleotide variant	NM_000531.6(OTC):c.982G>T (p.Glu328Ter)	5009	OTC	Pathogenic	GRCh38	97375
+single nucleotide variant	NM_000531.6(OTC):c.988A>G (p.Arg330Gly)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	97376
+single nucleotide variant	NM_000531.6(OTC):c.991A>T (p.Lys331Ter)	5009	OTC	Pathogenic	GRCh38	97377
+single nucleotide variant	NM_000531.6(OTC):c.994T>A (p.Trp332Arg)	5009	OTC	Pathogenic	GRCh38	97378
+single nucleotide variant	NM_000531.6(OTC):c.995G>A (p.Trp332Ter)	5009	OTC	Pathogenic	GRCh38	97379
+single nucleotide variant	NM_000531.6(OTC):c.996G>A (p.Trp332Ter)	5009	OTC	Pathogenic	GRCh38	97380
+single nucleotide variant	NM_000531.6(OTC):c.615G>C (p.Met205Ile)	5009	OTC	Likely pathogenic	GRCh38	203866
+single nucleotide variant	NM_000531.6(OTC):c.254T>C (p.Ile85Thr)	5009	OTC	Likely pathogenic	GRCh38	236191
+single nucleotide variant	NM_000531.6(OTC):c.634G>T (p.Gly212Ter)	5009	OTC	Pathogenic	GRCh38	419686
+single nucleotide variant	NM_000531.6(OTC):c.868-2A>T	5009	OTC	Likely pathogenic	GRCh38	423272
+single nucleotide variant	NM_000531.6(OTC):c.365A>G (p.Glu122Gly)	5009	OTC	Likely pathogenic	GRCh38	429661
+single nucleotide variant	NM_000531.6(OTC):c.673C>T (p.Pro225Ser)	5009	OTC	Likely pathogenic	GRCh38	429918
+single nucleotide variant	NM_000531.6(OTC):c.517C>G (p.Leu173Val)	5009	OTC	Pathogenic	GRCh38	430717
+single nucleotide variant	NM_000531.6(OTC):c.298+2T>G	5009	OTC	Pathogenic	GRCh38	451770
+single nucleotide variant	NM_000531.6(OTC):c.540+1G>T	5009	OTC	Pathogenic	GRCh38	449675
+single nucleotide variant	NM_000531.6(OTC):c.540+265G>A	5009	OTC	Pathogenic	GRCh38	449382
+single nucleotide variant	NM_000531.6(OTC):c.-106C>A	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	487338
+single nucleotide variant	NC_000023.11:g.38352558A>G	5009	OTC	Likely pathogenic	GRCh38	487341
+single nucleotide variant	NC_000023.11:g.38352555G>A	5009	OTC	Likely pathogenic	GRCh38	487342
+single nucleotide variant	NC_000023.11:g.38352540T>G	5009	OTC	Likely pathogenic	GRCh38	487480
+single nucleotide variant	NM_000531.6(OTC):c.593A>G (p.Asn198Ser)	5009	OTC	Pathogenic	GRCh38	529422
+single nucleotide variant	NM_000531.6(OTC):c.867+1126A>G	5009	OTC	Likely pathogenic	GRCh38	571311
+single nucleotide variant	NM_000531.6(OTC):c.1019C>T (p.Ser340Phe)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	618259
+single nucleotide variant	NM_000531.6(OTC):c.961T>C (p.Ser321Pro)	5009	OTC	Likely pathogenic	GRCh38	623201
+single nucleotide variant	NM_000531.6(OTC):c.387-1G>A	5009	OTC	Pathogenic	GRCh38	803976
+single nucleotide variant	NM_000531.6(OTC):c.491C>T (p.Ser164Leu)	5009	OTC	Likely pathogenic	GRCh38	803977
+single nucleotide variant	NM_000531.6(OTC):c.485G>T (p.Gly162Val)	5009	OTC	Likely pathogenic	GRCh38	862420
+single nucleotide variant	NM_000531.6(OTC):c.535C>T (p.Leu179Phe)	5009	OTC	Pathogenic	GRCh38	840206
+single nucleotide variant	NM_000531.6(OTC):c.614T>A (p.Met205Lys)	5009	OTC	Likely pathogenic	GRCh38	863271
+single nucleotide variant	NM_000531.6(OTC):c.1028C>G (p.Thr343Arg)	5009	OTC	Likely pathogenic	GRCh38	859988
+single nucleotide variant	NM_000531.6(OTC):c.652G>C (p.Ala218Pro)	5009	OTC	Pathogenic	GRCh38	870314
+single nucleotide variant	NM_000531.6(OTC):c.635G>T (p.Gly212Val)	5009	OTC	Pathogenic	GRCh38	870315
+single nucleotide variant	NM_000531.6(OTC):c.584G>C (p.Gly195Ala)	5009	OTC	Pathogenic	GRCh38	870316
+single nucleotide variant	NM_000531.6(OTC):c.488T>G (p.Leu163Arg)	5009	OTC	Pathogenic	GRCh38	870317
+single nucleotide variant	NM_000531.6(OTC):c.473C>T (p.Pro158Leu)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	870322
+single nucleotide variant	NM_000531.6(OTC):c.298G>T (p.Gly100Cys)	5009	OTC	Pathogenic	GRCh38	870323
+single nucleotide variant	NM_000531.6(OTC):c.214G>A (p.Glu72Lys)	5009	OTC	Pathogenic	GRCh38	870324
+single nucleotide variant	NM_000531.6(OTC):c.77+5G>C	5009	OTC	Likely pathogenic	GRCh38	870325
+single nucleotide variant	NM_000531.6(OTC):c.766G>T (p.Gly256Ter)	5009	OTC	Pathogenic	GRCh38	870326
+single nucleotide variant	NM_000531.6(OTC):c.327T>A (p.Cys109Ter)	5009	OTC	Pathogenic	GRCh38	870327
+single nucleotide variant	NM_000531.6(OTC):c.740C>G (p.Thr247Arg)	5009	OTC	Pathogenic	GRCh38	870329
+single nucleotide variant	NM_000531.6(OTC):c.944T>C (p.Val315Ala)	5009	OTC	Pathogenic	GRCh38	870330
+single nucleotide variant	NM_000531.6(OTC):c.946T>G (p.Phe316Val)	5009	OTC	Pathogenic	GRCh38	870331
+single nucleotide variant	NM_000531.6(OTC):c.1015G>A (p.Val339Met)	5009	OTC	Likely pathogenic	GRCh38	870333
+single nucleotide variant	NM_000531.6(OTC):c.116G>C (p.Gly39Ala)	5009	OTC	Pathogenic	GRCh38	915469
+single nucleotide variant	NM_000531.6(OTC):c.217-2A>G	5009	OTC	Pathogenic	GRCh38	915470
+single nucleotide variant	NM_000531.6(OTC):c.128T>C (p.Leu43Pro)	5009	OTC	Pathogenic	GRCh38	933230
+single nucleotide variant	NM_000531.6(OTC):c.604C>G (p.His202Asp)	5009	OTC	Likely pathogenic	GRCh38	949644
+single nucleotide variant	NM_000531.6(OTC):c.959G>C (p.Arg320Pro)	5009	OTC	Pathogenic	GRCh38	935343
+single nucleotide variant	NM_000531.6(OTC):c.626C>A (p.Ala209Glu)	5009	OTC	Pathogenic	GRCh38	955152
+single nucleotide variant	NM_000531.6(OTC):c.403G>C (p.Ala135Pro)	5009	OTC	Likely pathogenic	GRCh38	965917
+single nucleotide variant	NM_000531.6(OTC):c.617T>A (p.Met206Lys)	5009	OTC	Likely pathogenic	GRCh38	968929
+single nucleotide variant	NM_000531.6(OTC):c.588T>A (p.Asp196Glu)	5009	OTC	Likely pathogenic	GRCh38	999435
+single nucleotide variant	NM_000531.6(OTC):c.731T>C (p.Leu244Pro)	5009	OTC	Likely pathogenic	GRCh38	1028819
+single nucleotide variant	NM_000531.6(OTC):c.629A>C (p.Lys210Thr)	5009	OTC	Likely pathogenic	GRCh38	1034539
+single nucleotide variant	NM_000531.6(OTC):c.488T>A (p.Leu163Gln)	5009	OTC	Likely pathogenic	GRCh38	1065346
+single nucleotide variant	NM_000531.6(OTC):c.505C>T (p.Pro169Ser)	5009	OTC	Pathogenic	GRCh38	1066964
+single nucleotide variant	NM_000531.6(OTC):c.674C>A (p.Pro225Gln)	5009	OTC	Likely pathogenic	GRCh38	1067355
+single nucleotide variant	NM_000531.6(OTC):c.429T>A (p.Tyr143Ter)	5009	OTC	Pathogenic	GRCh38	1072591
+single nucleotide variant	NM_000531.6(OTC):c.618G>A (p.Met206Ile)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	1297045
+single nucleotide variant	NM_000531.6(OTC):c.241T>C (p.Ser81Pro)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	1504390
+single nucleotide variant	NM_000531.6(OTC):c.562G>A (p.Gly188Ser)	5009	OTC	Likely pathogenic	GRCh38	1485148
+single nucleotide variant	NM_000531.6(OTC):c.904C>G (p.His302Asp)	5009	OTC	Likely pathogenic	GRCh38	1501921
+single nucleotide variant	NM_000531.6(OTC):c.614T>C (p.Met205Thr)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	1354801
+single nucleotide variant	NM_000531.6(OTC):c.395C>A (p.Ser132Tyr)	5009	OTC	Pathogenic	GRCh38	1454810
+single nucleotide variant	NM_000531.6(OTC):c.478A>T (p.Ile160Phe)	5009	OTC	Likely pathogenic	GRCh38	1486154
+single nucleotide variant	NM_000531.6(OTC):c.78-1G>T	5009	OTC	Likely pathogenic	GRCh38	1469574
+single nucleotide variant	NM_000531.6(OTC):c.579G>T (p.Trp193Cys)	5009	OTC	Pathogenic	GRCh38	1406820
+single nucleotide variant	NM_000531.6(OTC):c.540+1G>A	5009	OTC	Pathogenic	GRCh38	1458773
+single nucleotide variant	NM_000531.6(OTC):c.758C>A (p.Ala253Glu)	5009	OTC	Likely pathogenic	GRCh38	1490787
+single nucleotide variant	NM_000531.6(OTC):c.539A>C (p.Gln180Pro)	5009	OTC	Likely pathogenic	GRCh38	1502715
+single nucleotide variant	NM_000531.6(OTC):c.299-2A>G	5009	OTC	Likely pathogenic	GRCh38	1520164
+single nucleotide variant	NM_000531.6(OTC):c.77G>T (p.Arg26Leu)	5009	OTC	Likely pathogenic	GRCh38	1685390
+single nucleotide variant	NM_000531.6(OTC):c.962C>T (p.Ser321Leu)	5009	OTC	Likely pathogenic	GRCh38	1708452
+single nucleotide variant	NM_000531.6(OTC):c.179C>A (p.Ser60Ter)	5009	OTC	Likely pathogenic	GRCh38	1724397
+single nucleotide variant	NM_000531.6(OTC):c.826A>T (p.Lys276Ter)	5009	OTC	Likely pathogenic	GRCh38	1724440
+single nucleotide variant	NM_000531.6(OTC):c.262A>T (p.Lys88Ter)	5009	OTC	Likely pathogenic	GRCh38	1726222
+single nucleotide variant	NM_000531.6(OTC):c.208A>T (p.Lys70Ter)	5009	OTC	Likely pathogenic	GRCh38	1726266
+single nucleotide variant	NM_000531.6(OTC):c.814G>T (p.Glu272Ter)	5009	OTC	Likely pathogenic	GRCh38	1726569
+single nucleotide variant	NM_000531.6(OTC):c.179C>G (p.Ser60Ter)	5009	OTC	Pathogenic	GRCh38	1780328
+single nucleotide variant	NM_000531.6(OTC):c.663G>T (p.Lys221Asn)	5009	OTC	Pathogenic/Likely pathogenic	GRCh38	1804689
+single nucleotide variant	NM_000531.6(OTC):c.1039C>T (p.Pro347Ser)	5009	OTC	Pathogenic	GRCh38	2138547
+single nucleotide variant	NM_000531.6(OTC):c.628A>G (p.Lys210Glu)	5009	OTC	Likely pathogenic	GRCh38	1878295
+single nucleotide variant	NM_000531.6(OTC):c.376G>A (p.Asp126Asn)	5009	OTC	Likely pathogenic	GRCh38	1973524
+single nucleotide variant	NM_000531.6(OTC):c.803T>A (p.Met268Lys)	5009	OTC	Likely pathogenic	GRCh38	2029961
+single nucleotide variant	NM_000531.6(OTC):c.929A>T (p.Glu310Val)	5009	OTC	Pathogenic	GRCh38	2036350
+single nucleotide variant	NM_000531.6(OTC):c.350A>C (p.His117Pro)	5009	OTC	Likely pathogenic	GRCh38	2099211
+single nucleotide variant	NM_000531.6(OTC):c.629A>T (p.Lys210Ile)	5009	OTC	Likely pathogenic	GRCh38	2100993
+single nucleotide variant	NM_000531.6(OTC):c.1034A>T (p.Tyr345Phe)	5009	OTC	Likely pathogenic	GRCh38	2110985
+single nucleotide variant	NM_000531.6(OTC):c.134T>G (p.Leu45Arg)	5009	OTC	Likely pathogenic	GRCh38	2128932
+single nucleotide variant	NM_000531.6(OTC):c.853C>T (p.Gln285Ter)	5009	OTC	Pathogenic	GRCh38	2573437
+single nucleotide variant	NM_000531.6(OTC):c.523G>T (p.Asp175Tyr)	5009	OTC	Likely pathogenic	GRCh38	2582389
+single nucleotide variant	NM_000531.6(OTC):c.78-2A>G	5009	OTC	Pathogenic	GRCh38	2582607
+single nucleotide variant	NM_000531.6(OTC):c.607T>C (p.Ser203Pro)	5009	OTC	Likely pathogenic	GRCh38	2584418
+single nucleotide variant	NM_000531.6(OTC):c.437C>A (p.Ser146Ter)	5009	OTC	Pathogenic	GRCh38	2584533
+single nucleotide variant	NM_000531.6(OTC):c.596A>T (p.Asn199Ile)	5009	OTC	Pathogenic	GRCh38	2629679
+single nucleotide variant	NM_000531.6(OTC):c.717G>T (p.Glu239Asp)	5009	OTC	Likely pathogenic	GRCh38	2664686
+single nucleotide variant	NM_000531.6(OTC):c.563G>C (p.Gly188Ala)	5009	OTC	Likely pathogenic	GRCh38	2677425
+single nucleotide variant	NM_000531.6(OTC):c.1006-2A>G	5009	OTC	Likely pathogenic	GRCh38	2677428
+single nucleotide variant	NM_000531.6(OTC):c.477T>G (p.Ile159Met)	5009	OTC	Likely pathogenic	GRCh38	2671947
+single nucleotide variant	NM_000531.6(OTC):c.119G>T (p.Arg40Leu)	5009	OTC	Likely pathogenic	GRCh38	2737202
+single nucleotide variant	NM_000531.6(OTC):c.943G>A (p.Val315Ile)	5009	OTC	Likely pathogenic	GRCh38	2781000
+single nucleotide variant	NM_000531.6(OTC):c.480C>G (p.Ile160Met)	5009	OTC	Likely pathogenic	GRCh38	2835027
+single nucleotide variant	NM_000531.6(OTC):c.502C>T (p.His168Tyr)	5009	OTC	Likely pathogenic	GRCh38	3062236
+single nucleotide variant	NM_000531.6(OTC):c.116G>T (p.Gly39Val)	5009	OTC	Likely pathogenic	GRCh38	3238734
+single nucleotide variant	NM_000531.6(OTC):c.386+5G>A	5009	OTC	Pathogenic	GRCh38	3338845
+single nucleotide variant	NM_000531.6(OTC):c.85C>T (p.Gln29Ter)	5009	OTC	Likely pathogenic	GRCh38	3598280
+single nucleotide variant	NM_000531.6(OTC):c.523G>C (p.Asp175His)	5009	OTC	Likely pathogenic	GRCh38	3634886
+single nucleotide variant	NM_000531.6(OTC):c.299-1G>A	5009	OTC	Likely pathogenic	GRCh38	3677200
+single nucleotide variant	NM_000531.6(OTC):c.190A>T (p.Lys64Ter)	5009	OTC	Pathogenic	GRCh38	3722022
+single nucleotide variant	NM_000531.6(OTC):c.278C>G (p.Thr93Arg)	5009	OTC	Likely pathogenic	GRCh38	3765622
+single nucleotide variant	NM_000531.6(OTC):c.386+7663T>G	5009	OTC	Likely pathogenic	GRCh38	4072311
+single nucleotide variant	NM_000531.6(OTC):c.541G>A (p.Glu181Lys)	5009	OTC	Likely pathogenic	GRCh38	4281614
+single nucleotide variant	NM_000531.6(OTC):c.994T>C (p.Trp332Arg)	5009	OTC	Pathogenic	GRCh38	4710732
+single nucleotide variant	NM_000531.6(OTC):c.81T>A (p.Cys27Ter)	5009	OTC	Likely pathogenic	GRCh38	4795883
+single nucleotide variant	NM_000531.6(OTC):c.943G>C (p.Val315Leu)	5009	OTC	Likely pathogenic	GRCh38	4801006
+single nucleotide variant	NM_000531.6(OTC):c.513G>C (p.Gln171His)	5009	OTC	Likely pathogenic	GRCh38	4849564
+single nucleotide variant	NM_000531.6(OTC):c.987C>G (p.Asn329Lys)	5009	OTC	Likely pathogenic	GRCh38	4850882
+single nucleotide variant	NM_000531.6(OTC):c.911T>A (p.Leu304Ter)	5009	OTC	Likely pathogenic	GRCh38	4855296

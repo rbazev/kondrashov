@@ -14,6 +14,7 @@ single nucleotide variant	NM_000166.6(GJB1):c.254C>G (p.Ser85Cys)	2705	GJB1	Path
 single nucleotide variant	NM_000166.6(GJB1):c.164C>T (p.Thr55Ile)	2705	GJB1	Pathogenic/Likely pathogenic	GRCh38	10446
 single nucleotide variant	NM_001097642.3(GJB1):c.-16-511G>C	2705	GJB1	Pathogenic	GRCh38	10449
 single nucleotide variant	NM_000166.6(GJB1):c.407T>C (p.Val136Ala)	2705	GJB1	Pathogenic	GRCh38	10451
+single nucleotide variant	NM_000166.6(GJB1):c.145T>C (p.Ser49Pro)	2705	GJB1	Likely pathogenic	GRCh38	21080
 single nucleotide variant	NM_000166.6(GJB1):c.187G>A (p.Val63Ile)	2705	GJB1	Pathogenic	GRCh38	21081
 single nucleotide variant	NM_000166.6(GJB1):c.223C>T (p.Arg75Trp)	2705	GJB1	Pathogenic/Likely pathogenic	GRCh38	21082
 single nucleotide variant	NM_000166.6(GJB1):c.43C>T (p.Arg15Trp)	2705	GJB1	Pathogenic	GRCh38	21084
@@ -165,7 +166,7 @@ single nucleotide variant	NM_000166.6(GJB1):c.462T>A (p.Tyr154Ter)	2705	GJB1	Pat
 single nucleotide variant	NM_000166.6(GJB1):c.-16-1G>A	2705	GJB1	Likely pathogenic	GRCh38	2138603
 single nucleotide variant	NM_000166.6(GJB1):c.3G>C (p.Met1Ile)	2705	GJB1	Pathogenic	GRCh38	2138604
 single nucleotide variant	NM_000166.6(GJB1):c.413G>C (p.Ser138Thr)	2705	GJB1	Likely pathogenic	GRCh38	2000090
-single nucleotide variant	NM_000166.6(GJB1):c.184A>C (p.Ser62Arg)	2705	GJB1	Pathogenic	GRCh38	2016455
+single nucleotide variant	NM_000166.6(GJB1):c.184A>C (p.Ser62Arg)	2705	GJB1	Pathogenic/Likely pathogenic	GRCh38	2016455
 single nucleotide variant	NM_000166.6(GJB1):c.192C>A (p.Cys64Ter)	2705	GJB1	Pathogenic	GRCh38	2027099
 single nucleotide variant	NM_000166.6(GJB1):c.186C>A (p.Ser62Arg)	2705	GJB1	Pathogenic	GRCh38	2030048
 single nucleotide variant	NM_000166.6(GJB1):c.372G>T (p.Lys124Asn)	2705	GJB1	Pathogenic	GRCh38	2085595
@@ -200,3 +201,5 @@ single nucleotide variant	NM_000166.6(GJB1):c.104T>A (p.Val35Glu)	2705	GJB1	Like
 single nucleotide variant	NM_000166.6(GJB1):c.453T>A (p.Tyr151Ter)	2705	GJB1	Pathogenic	GRCh38	4755490
 single nucleotide variant	NM_000166.6(GJB1):c.-17+1G>T	2705	GJB1	Likely pathogenic	GRCh38	4819372
 single nucleotide variant	NM_000166.6(GJB1):c.72G>A (p.Trp24Ter)	2705	GJB1	Pathogenic	GRCh38	4820223
+single nucleotide variant	NM_000166.6(GJB1):c.70T>G (p.Trp24Gly)	2705	GJB1	Pathogenic	GRCh38	4876759
+single nucleotide variant	NM_000166.6(GJB1):c.185G>T (p.Ser62Ile)	2705	GJB1	Likely pathogenic	GRCh38	4880336

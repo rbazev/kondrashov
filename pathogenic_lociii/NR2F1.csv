@@ -1,0 +1,93 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_005654.6(NR2F1):c.344G>C (p.Arg115Pro)	7025	NR2F1	Pathogenic	GRCh38	126493
+single nucleotide variant	NM_005654.6(NR2F1):c.339C>A (p.Ser113Arg)	7025	NR2F1	Pathogenic	GRCh38	126494
+single nucleotide variant	NM_005654.6(NR2F1):c.755T>C (p.Leu252Pro)	7025	NR2F1	Likely pathogenic	GRCh38	126495
+single nucleotide variant	NM_005654.6(NR2F1):c.335G>A (p.Arg112Lys)	7025	NR2F1	Likely pathogenic	GRCh38	126496
+single nucleotide variant	NM_005654.6(NR2F1):c.382T>C (p.Cys128Arg)	7025	NR2F1	Likely pathogenic	GRCh38	216974
+single nucleotide variant	NM_005654.6(NR2F1):c.262G>A (p.Val88Met)	7025	NR2F1	Pathogenic	GRCh38	265667
+single nucleotide variant	NM_005654.6(NR2F1):c.417A>T (p.Gln139His)	7025	NR2F1	Pathogenic	GRCh38	280458
+single nucleotide variant	NM_005654.6(NR2F1):c.2T>C (p.Met1Thr)	7025	NR2F1	Pathogenic	GRCh38	279855
+single nucleotide variant	NM_005654.6(NR2F1):c.424C>T (p.Arg142Cys)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	280552
+single nucleotide variant	NM_005654.6(NR2F1):c.413G>A (p.Cys138Tyr)	7025	NR2F1	Pathogenic	GRCh38	375371
+single nucleotide variant	NM_005654.6(NR2F1):c.365G>C (p.Cys122Ser)	7025	NR2F1	Likely pathogenic	GRCh38	385748
+single nucleotide variant	NM_005654.6(NR2F1):c.1217T>C (p.Met406Thr)	7025	NR2F1	Pathogenic	GRCh38	417902
+single nucleotide variant	NM_005654.6(NR2F1):c.1A>G (p.Met1Val)	7025	NR2F1	Pathogenic	GRCh38	424105
+single nucleotide variant	NM_005654.6(NR2F1):c.1050C>A (p.Cys350Ter)	7025	NR2F1	Likely pathogenic	GRCh38	423875
+single nucleotide variant	NM_005654.6(NR2F1):c.278C>A (p.Ser93Ter)	7025	NR2F1	Likely pathogenic	GRCh38	425351
+single nucleotide variant	NM_005654.6(NR2F1):c.317G>A (p.Cys106Tyr)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	430195
+single nucleotide variant	NM_005654.6(NR2F1):c.323G>T (p.Ser108Ile)	7025	NR2F1	Likely pathogenic	GRCh38	432011
+single nucleotide variant	NM_005654.6(NR2F1):c.1115T>C (p.Leu372Pro)	7025	NR2F1	Likely pathogenic	GRCh38	438609
+single nucleotide variant	NM_005654.6(NR2F1):c.290A>C (p.His97Pro)	7025	NR2F1	Pathogenic	GRCh38	451033
+single nucleotide variant	NM_005654.6(NR2F1):c.313G>A (p.Gly105Ser)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	452994
+single nucleotide variant	NM_005654.6(NR2F1):c.425G>A (p.Arg142His)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	520777
+single nucleotide variant	NM_005654.6(NR2F1):c.425G>T (p.Arg142Leu)	7025	NR2F1	Likely pathogenic	GRCh38	520623
+single nucleotide variant	NM_005654.6(NR2F1):c.289C>G (p.His97Asp)	7025	NR2F1	Likely pathogenic	GRCh38	559635
+single nucleotide variant	NM_005654.6(NR2F1):c.403C>T (p.Arg135Cys)	7025	NR2F1	Pathogenic	GRCh38	559633
+single nucleotide variant	NM_005654.6(NR2F1):c.353T>G (p.Leu118Ter)	7025	NR2F1	Pathogenic	GRCh38	620402
+single nucleotide variant	NM_005654.6(NR2F1):c.289C>T (p.His97Tyr)	7025	NR2F1	Likely pathogenic	GRCh38	666290
+single nucleotide variant	NM_005654.6(NR2F1):c.1117C>T (p.Arg373Ter)	7025	NR2F1	Pathogenic	GRCh38	800977
+single nucleotide variant	NM_005654.6(NR2F1):c.452T>C (p.Met151Thr)	7025	NR2F1	Likely pathogenic	GRCh38	813799
+single nucleotide variant	NM_005654.6(NR2F1):c.453G>C (p.Met151Ile)	7025	NR2F1	Likely pathogenic	GRCh38	827762
+single nucleotide variant	NM_005654.6(NR2F1):c.256T>C (p.Cys86Arg)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	928681
+single nucleotide variant	NM_005654.6(NR2F1):c.169C>T (p.Gln57Ter)	7025	NR2F1	Pathogenic	GRCh38	931846
+single nucleotide variant	NM_005654.6(NR2F1):c.463+1G>A	7025	NR2F1	Likely pathogenic	GRCh38	930513
+single nucleotide variant	NM_005654.6(NR2F1):c.323G>A (p.Ser108Asn)	7025	NR2F1	Likely pathogenic	GRCh38	1700110
+single nucleotide variant	NM_005654.6(NR2F1):c.437G>A (p.Cys146Tyr)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	976204
+single nucleotide variant	NM_005654.6(NR2F1):c.327C>A (p.Phe109Leu)	7025	NR2F1	Likely pathogenic	GRCh38	976672
+single nucleotide variant	NM_005654.6(NR2F1):c.452T>A (p.Met151Lys)	7025	NR2F1	Pathogenic	GRCh38	988711
+single nucleotide variant	NM_005654.6(NR2F1):c.286A>G (p.Lys96Glu)	7025	NR2F1	Pathogenic	GRCh38	1048563
+single nucleotide variant	NM_005654.6(NR2F1):c.513C>G (p.Tyr171Ter)	7025	NR2F1	Pathogenic	GRCh38	1048564
+single nucleotide variant	NM_005654.6(NR2F1):c.82C>T (p.Gln28Ter)	7025	NR2F1	Pathogenic	GRCh38	1048565
+single nucleotide variant	NM_005654.6(NR2F1):c.953A>G (p.Glu318Gly)	7025	NR2F1	Likely pathogenic	GRCh38	1068140
+single nucleotide variant	NM_005654.6(NR2F1):c.320A>G (p.Lys107Arg)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	1098337
+single nucleotide variant	NM_005654.6(NR2F1):c.292T>C (p.Tyr98His)	7025	NR2F1	Likely pathogenic	GRCh38	1308649
+single nucleotide variant	NM_005654.6(NR2F1):c.244C>T (p.Gln82Ter)	7025	NR2F1	Likely pathogenic	GRCh38	1320179
+single nucleotide variant	NM_005654.6(NR2F1):c.497C>T (p.Pro166Leu)	7025	NR2F1	Likely pathogenic	GRCh38	1320275
+single nucleotide variant	NM_005654.6(NR2F1):c.328T>C (p.Phe110Leu)	7025	NR2F1	Likely pathogenic	GRCh38	1335584
+single nucleotide variant	NM_005654.6(NR2F1):c.331A>G (p.Lys111Glu)	7025	NR2F1	Likely pathogenic	GRCh38	1338805
+single nucleotide variant	NM_005654.6(NR2F1):c.1181T>G (p.Val394Gly)	7025	NR2F1	Likely pathogenic	GRCh38	1685384
+single nucleotide variant	NM_005654.6(NR2F1):c.952G>T (p.Glu318Ter)	7025	NR2F1	Likely pathogenic	GRCh38	1695136
+single nucleotide variant	NM_005654.6(NR2F1):c.827T>A (p.Leu276Ter)	7025	NR2F1	Pathogenic	GRCh38	1699474
+single nucleotide variant	NM_005654.6(NR2F1):c.704G>T (p.Arg235Leu)	7025	NR2F1	Pathogenic	GRCh38	1700111
+single nucleotide variant	NM_005654.6(NR2F1):c.1A>C (p.Met1Leu)	7025	NR2F1	Pathogenic	GRCh38	1700379
+single nucleotide variant	NM_005654.6(NR2F1):c.278C>T (p.Ser93Leu)	7025	NR2F1	Likely pathogenic	GRCh38	1701063
+single nucleotide variant	NM_005654.6(NR2F1):c.319A>G (p.Lys107Glu)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	1706592
+single nucleotide variant	NM_005654.6(NR2F1):c.907C>T (p.Gln303Ter)	7025	NR2F1	Pathogenic	GRCh38	1711198
+single nucleotide variant	NM_005654.6(NR2F1):c.335G>C (p.Arg112Thr)	7025	NR2F1	Likely pathogenic	GRCh38	1711605
+single nucleotide variant	NM_005654.6(NR2F1):c.307T>C (p.Cys103Arg)	7025	NR2F1	Pathogenic	GRCh38	1804906
+single nucleotide variant	NM_005654.6(NR2F1):c.265T>G (p.Cys89Gly)	7025	NR2F1	Likely pathogenic	GRCh38	1806195
+single nucleotide variant	NM_005654.6(NR2F1):c.442A>T (p.Lys148Ter)	7025	NR2F1	Pathogenic	GRCh38	1992335
+single nucleotide variant	NM_005654.6(NR2F1):c.991+2T>A	7025	NR2F1	Pathogenic	GRCh38	2042153
+single nucleotide variant	NM_005654.6(NR2F1):c.121C>T (p.Gln41Ter)	7025	NR2F1	Pathogenic	GRCh38	2123487
+single nucleotide variant	NM_005654.6(NR2F1):c.365G>A (p.Cys122Tyr)	7025	NR2F1	Likely pathogenic	GRCh38	2229340
+single nucleotide variant	NM_005654.6(NR2F1):c.1184G>C (p.Gly395Ala)	7025	NR2F1	Likely pathogenic	GRCh38	2429893
+single nucleotide variant	NM_005654.6(NR2F1):c.424C>G (p.Arg142Gly)	7025	NR2F1	Likely pathogenic	GRCh38	2446036
+single nucleotide variant	NM_005654.6(NR2F1):c.282C>A (p.Ser94Arg)	7025	NR2F1	Pathogenic	GRCh38	2572229
+single nucleotide variant	NM_005654.6(NR2F1):c.3G>A (p.Met1Ile)	7025	NR2F1	Pathogenic	GRCh38	2683748
+single nucleotide variant	NM_005654.6(NR2F1):c.340G>C (p.Val114Leu)	7025	NR2F1	Likely pathogenic	GRCh38	2692412
+single nucleotide variant	NM_005654.6(NR2F1):c.453G>A (p.Met151Ile)	7025	NR2F1	Pathogenic/Likely pathogenic	GRCh38	3024254
+single nucleotide variant	NM_005654.6(NR2F1):c.1096C>T (p.Arg366Cys)	7025	NR2F1	Likely pathogenic	GRCh38	3024259
+single nucleotide variant	NM_005654.6(NR2F1):c.284G>A (p.Gly95Asp)	7025	NR2F1	Likely pathogenic	GRCh38	3049842
+single nucleotide variant	NM_005654.6(NR2F1):c.404G>A (p.Arg135His)	7025	NR2F1	Likely pathogenic	GRCh38	3201928
+single nucleotide variant	NM_005654.6(NR2F1):c.274A>T (p.Lys92Ter)	7025	NR2F1	Pathogenic	GRCh38	3254585
+single nucleotide variant	NM_005654.6(NR2F1):c.310G>C (p.Glu104Gln)	7025	NR2F1	Likely pathogenic	GRCh38	3337410
+single nucleotide variant	NM_005654.6(NR2F1):c.404G>T (p.Arg135Leu)	7025	NR2F1	Likely pathogenic	GRCh38	3337411
+single nucleotide variant	NM_005654.6(NR2F1):c.2T>A (p.Met1Lys)	7025	NR2F1	Pathogenic	GRCh38	3375751
+single nucleotide variant	NM_005654.6(NR2F1):c.311A>T (p.Glu104Val)	7025	NR2F1	Likely pathogenic	GRCh38	3377109
+single nucleotide variant	NM_005654.6(NR2F1):c.314G>C (p.Gly105Ala)	7025	NR2F1	Likely pathogenic	GRCh38	3392504
+single nucleotide variant	NM_005654.6(NR2F1):c.1075C>T (p.Gln359Ter)	7025	NR2F1	Pathogenic	GRCh38	3407655
+single nucleotide variant	NM_005654.6(NR2F1):c.421T>G (p.Cys141Gly)	7025	NR2F1	Likely pathogenic	GRCh38	3731609
+single nucleotide variant	NM_005654.6(NR2F1):c.404G>C (p.Arg135Pro)	7025	NR2F1	Pathogenic	GRCh38	3897853
+single nucleotide variant	NM_005654.6(NR2F1):c.758G>T (p.Arg253Leu)	7025	NR2F1	Likely pathogenic	GRCh38	3899546
+single nucleotide variant	NM_005654.6(NR2F1):c.1159C>T (p.Gln387Ter)	7025	NR2F1	Likely pathogenic	GRCh38	3910641
+single nucleotide variant	NM_005654.6(NR2F1):c.364T>C (p.Cys122Arg)	7025	NR2F1	Likely pathogenic	GRCh38	4073687
+single nucleotide variant	NM_005654.6(NR2F1):c.394C>T (p.Gln132Ter)	7025	NR2F1	Pathogenic	GRCh38	4074707
+single nucleotide variant	NM_005654.6(NR2F1):c.1112T>C (p.Leu371Pro)	7025	NR2F1	Likely pathogenic	GRCh38	4081939
+single nucleotide variant	NM_005654.6(NR2F1):c.415C>T (p.Gln139Ter)	7025	NR2F1	Pathogenic	GRCh38	4086074
+single nucleotide variant	NM_005654.6(NR2F1):c.293A>G (p.Tyr98Cys)	7025	NR2F1	Likely pathogenic	GRCh38	4532008
+single nucleotide variant	NM_005654.6(NR2F1):c.115G>T (p.Glu39Ter)	7025	NR2F1	Pathogenic	GRCh38	4532356
+single nucleotide variant	NM_005654.6(NR2F1):c.609C>A (p.Tyr203Ter)	7025	NR2F1	Pathogenic	GRCh38	4734207
+single nucleotide variant	NM_005654.6(NR2F1):c.466G>T (p.Val156Phe)	7025	NR2F1	Likely pathogenic	GRCh38	4820629
+single nucleotide variant	NM_005654.6(NR2F1):c.962G>A (p.Cys321Tyr)	7025	NR2F1	Likely pathogenic	GRCh38	4849659
+single nucleotide variant	NM_005654.6(NR2F1):c.957C>G (p.Tyr319Ter)	7025	NR2F1	Likely pathogenic	GRCh38	4854352
+single nucleotide variant	NM_005654.6(NR2F1):c.365G>T (p.Cys122Phe)	7025	NR2F1	Pathogenic	GRCh38	4879735

@@ -1,0 +1,58 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000222.3(KIT):c.1990G>A (p.Gly664Arg)	3815	KIT	Pathogenic	GRCh38	13843
+single nucleotide variant	NM_000222.3(KIT):c.1747G>A (p.Glu583Lys)	3815	KIT	Likely pathogenic	GRCh38	13849
+single nucleotide variant	NM_000222.3(KIT):c.1879+1G>A	3815	KIT	Pathogenic	GRCh38	13851
+single nucleotide variant	NM_000222.3(KIT):c.1676T>A (p.Val559Asp)	3815	KIT	Pathogenic	GRCh38	13856
+single nucleotide variant	NM_000222.3(KIT):c.2386A>G (p.Arg796Gly)	3815	KIT	Pathogenic	GRCh38	13858
+single nucleotide variant	NM_000222.3(KIT):c.2539A>C (p.Thr847Pro)	3815	KIT	Pathogenic	GRCh38	13861
+single nucleotide variant	NM_000222.3(KIT):c.2515G>A (p.Glu839Lys)	3815	KIT	Pathogenic	GRCh38	13862
+single nucleotide variant	NM_000222.3(KIT):c.2446G>C (p.Asp816His)	3815	KIT	Pathogenic	GRCh38	13863
+single nucleotide variant	NM_000222.3(KIT):c.1751T>G (p.Phe584Cys)	3815	KIT	Pathogenic	GRCh38	13864
+single nucleotide variant	NM_000222.3(KIT):c.1676T>C (p.Val559Ala)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	13865
+single nucleotide variant	NM_000222.3(KIT):c.1924A>G (p.Lys642Glu)	3815	KIT	Pathogenic	GRCh38	13866
+single nucleotide variant	NM_000222.3(KIT):c.1859T>C (p.Val620Ala)	3815	KIT	Pathogenic	GRCh38	35502
+single nucleotide variant	NM_000222.3(KIT):c.1669T>C (p.Trp557Arg)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	375909
+single nucleotide variant	NM_000222.3(KIT):c.1679T>A (p.Val560Asp)	3815	KIT	Likely pathogenic	GRCh38	375914
+single nucleotide variant	NM_000222.3(KIT):c.1727T>C (p.Leu576Pro)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	375919
+single nucleotide variant	NM_000222.3(KIT):c.1965T>A (p.Asn655Lys)	3815	KIT	Pathogenic	GRCh38	375923
+single nucleotide variant	NM_000222.3(KIT):c.1965T>G (p.Asn655Lys)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	375924
+single nucleotide variant	NM_000222.3(KIT):c.2458G>T (p.Asp820Tyr)	3815	KIT	Pathogenic	GRCh38	375928
+single nucleotide variant	NM_000222.3(KIT):c.2465A>T (p.Asn822Ile)	3815	KIT	Pathogenic	GRCh38	375930
+single nucleotide variant	NM_000222.3(KIT):c.2466T>G (p.Asn822Lys)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	375932
+single nucleotide variant	NM_000222.3(KIT):c.2485G>C (p.Ala829Pro)	3815	KIT	Pathogenic	GRCh38	375933
+single nucleotide variant	NM_000222.3(KIT):c.2000T>G (p.Leu667Arg)	3815	KIT	Likely pathogenic	GRCh38	393590
+single nucleotide variant	NM_000222.3(KIT):c.1598C>A (p.Ala533Asp)	3815	KIT	Pathogenic	GRCh38	545643
+single nucleotide variant	NM_000222.3(KIT):c.1861G>A (p.Ala621Thr)	3815	KIT	Pathogenic/Likely pathogenic	GRCh38	565576
+single nucleotide variant	NM_000222.3(KIT):c.1279C>T (p.Gln427Ter)	3815	KIT	Likely pathogenic	GRCh38	620302
+single nucleotide variant	NM_000222.3(KIT):c.1526A>T (p.Lys509Ile)	3815	KIT	Pathogenic	GRCh38	651292
+single nucleotide variant	NM_000222.3(KIT):c.1775-2A>G	3815	KIT	Likely pathogenic	GRCh38	639481
+single nucleotide variant	NM_000222.3(KIT):c.2362-1G>A	3815	KIT	Likely pathogenic	GRCh38	664383
+single nucleotide variant	NM_000222.3(KIT):c.756+1G>A	3815	KIT	Pathogenic	GRCh38	648178
+single nucleotide variant	NM_000222.3(KIT):c.568C>T (p.Gln190Ter)	3815	KIT	Pathogenic	GRCh38	949598
+single nucleotide variant	NM_000222.3(KIT):c.1540+2T>C	3815	KIT	Likely pathogenic	GRCh38	963726
+single nucleotide variant	NM_000222.3(KIT):c.1232-1G>A	3815	KIT	Likely pathogenic	GRCh38	1067561
+single nucleotide variant	NM_000222.3(KIT):c.1126G>T (p.Glu376Ter)	3815	KIT	Pathogenic	GRCh38	1071467
+single nucleotide variant	NM_000222.3(KIT):c.2080C>T (p.Gln694Ter)	3815	KIT	Pathogenic	GRCh38	1450203
+single nucleotide variant	NM_000222.3(KIT):c.1666C>T (p.Gln556Ter)	3815	KIT	Pathogenic	GRCh38	1451608
+single nucleotide variant	NM_000222.3(KIT):c.1482C>A (p.Tyr494Ter)	3815	KIT	Pathogenic	GRCh38	1451251
+single nucleotide variant	NM_000222.3(KIT):c.1540+1G>A	3815	KIT	Likely pathogenic	GRCh38	1509906
+single nucleotide variant	NM_000222.3(KIT):c.1541-1G>A	3815	KIT	Likely pathogenic	GRCh38	1516247
+single nucleotide variant	NM_000222.3(KIT):c.2494C>T (p.Pro832Ser)	3815	KIT	Likely pathogenic	GRCh38	1718828
+single nucleotide variant	NM_000222.3(KIT):c.2142-1G>A	3815	KIT	Likely pathogenic	GRCh38	2035526
+single nucleotide variant	NM_000222.3(KIT):c.1540+1G>T	3815	KIT	Likely pathogenic	GRCh38	2129188
+single nucleotide variant	NM_000222.3(KIT):c.2422A>T (p.Ile808Phe)	3815	KIT	Likely pathogenic	GRCh38	2579851
+single nucleotide variant	NM_000222.3(KIT):c.2648T>C (p.Ile883Thr)	3815	KIT	Likely pathogenic	GRCh38	2749186
+single nucleotide variant	NM_000222.3(KIT):c.757-2A>T	3815	KIT	Likely pathogenic	GRCh38	2770541
+single nucleotide variant	NM_000222.3(KIT):c.1823C>A (p.Ala608Asp)	3815	KIT	Likely pathogenic	GRCh38	3065265
+single nucleotide variant	NM_000222.3(KIT):c.2700T>A (p.Tyr900Ter)	3815	KIT	Pathogenic	GRCh38	3066083
+single nucleotide variant	NM_000222.3(KIT):c.1774+1G>T	3815	KIT	Likely pathogenic	GRCh38	3067845
+single nucleotide variant	NM_000222.3(KIT):c.2484+1G>A	3815	KIT	Pathogenic	GRCh38	3342507
+single nucleotide variant	NM_000222.3(KIT):c.2142-2A>G	3815	KIT	Likely pathogenic	GRCh38	3647912
+single nucleotide variant	NM_000222.3(KIT):c.1036C>T (p.Gln346Ter)	3815	KIT	Pathogenic	GRCh38	3720578
+single nucleotide variant	NM_000222.3(KIT):c.1647G>C (p.Gln549His)	3815	KIT	Likely pathogenic	GRCh38	3901185
+single nucleotide variant	NM_000222.3(KIT):c.1880-1G>A	3815	KIT	Pathogenic	GRCh38	4292892
+single nucleotide variant	NM_000222.3(KIT):c.2424T>G (p.Ile808Met)	3815	KIT	Pathogenic	GRCh38	4538531
+single nucleotide variant	NM_000222.3(KIT):c.1801G>A (p.Gly601Arg)	3815	KIT	Likely pathogenic	GRCh38	4747396
+single nucleotide variant	NM_000222.3(KIT):c.438T>A (p.Tyr146Ter)	3815	KIT	Pathogenic	GRCh38	4761558
+single nucleotide variant	NM_000222.3(KIT):c.620-2A>G	3815	KIT	Pathogenic	GRCh38	4813231
+single nucleotide variant	NM_000222.3(KIT):c.2395C>T (p.Leu799Phe)	3815	KIT	Likely pathogenic	GRCh38	4887046

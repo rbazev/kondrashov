@@ -259,7 +259,7 @@ single nucleotide variant	NM_000053.4(ATP7B):c.3809A>T (p.Asn1270Ile)	540	ATP7B	
 single nucleotide variant	NM_000053.4(ATP7B):c.3412+1G>C	540	ATP7B	Likely pathogenic	GRCh38	1687721
 single nucleotide variant	NM_000053.4(ATP7B):c.3060+2T>C	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	1701223
 single nucleotide variant	NM_000053.4(ATP7B):c.413T>A (p.Leu138Ter)	540	ATP7B	Likely pathogenic	GRCh38	1724364
-single nucleotide variant	NM_000053.4(ATP7B):c.3757C>T (p.Gln1253Ter)	540	ATP7B	Likely pathogenic	GRCh38	1724985
+single nucleotide variant	NM_000053.4(ATP7B):c.3757C>T (p.Gln1253Ter)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	1724985
 single nucleotide variant	NM_000053.4(ATP7B):c.3312C>A (p.Cys1104Ter)	540	ATP7B	Likely pathogenic	GRCh38	1725681
 single nucleotide variant	NM_000053.4(ATP7B):c.3265G>T (p.Gly1089Ter)	540	ATP7B	Likely pathogenic	GRCh38	1725955
 single nucleotide variant	NM_000053.4(ATP7B):c.1497T>A (p.Cys499Ter)	540	ATP7B	Likely pathogenic	GRCh38	1726466
@@ -339,7 +339,7 @@ single nucleotide variant	NM_000053.4(ATP7B):c.3815C>A (p.Ser1272Tyr)	540	ATP7B	
 single nucleotide variant	NM_000053.4(ATP7B):c.4356G>A (p.Trp1452Ter)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	2793157
 single nucleotide variant	NM_000053.4(ATP7B):c.3532A>C (p.Thr1178Pro)	540	ATP7B	Likely pathogenic	GRCh38	2794286
 single nucleotide variant	NM_000053.4(ATP7B):c.52-1G>A	540	ATP7B	Likely pathogenic	GRCh38	2834472
-single nucleotide variant	NM_000053.4(ATP7B):c.4355G>A (p.Trp1452Ter)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	2846900
+single nucleotide variant	NM_000053.4(ATP7B):c.4355G>A (p.Trp1452Ter)	540	ATP7B	Pathogenic	GRCh38	2846900
 single nucleotide variant	NM_000053.4(ATP7B):c.2763T>G (p.Ser921Arg)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	2879092
 single nucleotide variant	NM_000053.4(ATP7B):c.1612C>T (p.Gln538Ter)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	2883489
 single nucleotide variant	NM_000053.4(ATP7B):c.1869+1G>A	540	ATP7B	Likely pathogenic	GRCh38	2982315
@@ -392,6 +392,7 @@ single nucleotide variant	NM_000053.4(ATP7B):c.1869+2T>G	540	ATP7B	Likely pathog
 single nucleotide variant	NM_000053.4(ATP7B):c.3091A>G (p.Thr1031Ala)	540	ATP7B	Likely pathogenic	GRCh38	4063582
 single nucleotide variant	NM_000053.4(ATP7B):c.3800A>T (p.Asp1267Val)	540	ATP7B	Likely pathogenic	GRCh38	4063508
 single nucleotide variant	NM_000053.4(ATP7B):c.682C>T (p.Gln228Ter)	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	4063517
+single nucleotide variant	NM_000053.4(ATP7B):c.3331G>A (p.Gly1111Ser)	540	ATP7B	Likely pathogenic	GRCh38	4063519
 single nucleotide variant	NM_000053.4(ATP7B):c.1285+1G>T	540	ATP7B	Likely pathogenic	GRCh38	4063530
 single nucleotide variant	NM_000053.4(ATP7B):c.1946+2T>C	540	ATP7B	Pathogenic/Likely pathogenic	GRCh38	4081832
 single nucleotide variant	NM_000053.4(ATP7B):c.3962T>A (p.Ile1321Lys)	540	ATP7B	Likely pathogenic	GRCh38	4087727
@@ -423,3 +424,29 @@ single nucleotide variant	NM_000053.4(ATP7B):c.4109C>T (p.Ser1370Phe)	540	ATP7B	
 single nucleotide variant	NM_000053.4(ATP7B):c.1004G>A (p.Gly335Glu)	540	ATP7B	Pathogenic	GRCh38	4852546
 single nucleotide variant	NM_000053.4(ATP7B):c.1462C>T (p.Gln488Ter)	540	ATP7B	Pathogenic	GRCh38	4852547
 single nucleotide variant	NM_000053.4(ATP7B):c.4128T>G (p.Tyr1376Ter)	540	ATP7B	Pathogenic	GRCh38	4852558
+single nucleotide variant	NM_000053.4(ATP7B):c.2260G>A (p.Glu754Lys)	540	ATP7B	Likely pathogenic	GRCh38	4873956
+single nucleotide variant	NM_000053.4(ATP7B):c.3086C>G (p.Thr1029Ser)	540	ATP7B	Likely pathogenic	GRCh38	4883500
+single nucleotide variant	NM_000053.4(ATP7B):c.3161G>A (p.Arg1054Lys)	540	ATP7B	Pathogenic	GRCh38	4888513
+single nucleotide variant	NM_000053.4(ATP7B):c.2636C>T (p.Ala879Val)	540	ATP7B	Pathogenic	GRCh38	4888514
+single nucleotide variant	NM_000053.4(ATP7B):c.2257G>C (p.Ala753Pro)	540	ATP7B	Pathogenic	GRCh38	4888524
+single nucleotide variant	NM_000053.4(ATP7B):c.3340G>A (p.Ala1114Thr)	540	ATP7B	Pathogenic	GRCh38	4888539
+single nucleotide variant	NM_000053.4(ATP7B):c.3001G>A (p.Val1001Met)	540	ATP7B	Pathogenic	GRCh38	4888540
+single nucleotide variant	NM_000053.4(ATP7B):c.2404G>A (p.Glu802Lys)	540	ATP7B	Pathogenic	GRCh38	4888541
+single nucleotide variant	NM_000053.4(ATP7B):c.3524A>C (p.Lys1175Thr)	540	ATP7B	Pathogenic	GRCh38	4888617
+single nucleotide variant	NM_000053.4(ATP7B):c.3881C>G (p.Ala1294Gly)	540	ATP7B	Likely pathogenic	GRCh38	4888643
+single nucleotide variant	NM_000053.4(ATP7B):c.4074C>G (p.Ala1358=)	540	ATP7B	Likely pathogenic	GRCh38	4888653
+single nucleotide variant	NM_000053.4(ATP7B):c.4219G>A (p.Asp1407Asn)	540	ATP7B	Likely pathogenic	GRCh38	4888658
+single nucleotide variant	NM_000053.4(ATP7B):c.3792G>A (p.Met1264Ile)	540	ATP7B	Likely pathogenic	GRCh38	4889565
+single nucleotide variant	NM_000053.4(ATP7B):c.3361A>T (p.Ser1121Cys)	540	ATP7B	Likely pathogenic	GRCh38	4889566
+single nucleotide variant	NM_000053.4(ATP7B):c.1486G>T (p.Gly496Cys)	540	ATP7B	Likely pathogenic	GRCh38	4889567
+single nucleotide variant	NM_000053.4(ATP7B):c.4133A>T (p.Lys1378Met)	540	ATP7B	Likely pathogenic	GRCh38	4890126
+single nucleotide variant	NM_000053.4(ATP7B):c.3649G>A (p.Val1217Ile)	540	ATP7B	Likely pathogenic	GRCh38	4890403
+single nucleotide variant	NM_000053.4(ATP7B):c.3461T>C (p.Leu1154Pro)	540	ATP7B	Likely pathogenic	GRCh38	4890413
+single nucleotide variant	NM_000053.4(ATP7B):c.4288C>T (p.Leu1430=)	540	ATP7B	Pathogenic	GRCh38	4890461
+single nucleotide variant	NM_000053.4(ATP7B):c.3540C>A (p.Ile1180=)	540	ATP7B	Pathogenic	GRCh38	4890465
+single nucleotide variant	NM_000053.4(ATP7B):c.3343C>T (p.His1115Tyr)	540	ATP7B	Pathogenic	GRCh38	4890468
+single nucleotide variant	NM_000053.4(ATP7B):c.3331G>C (p.Gly1111Arg)	540	ATP7B	Pathogenic	GRCh38	4890469
+single nucleotide variant	NM_000053.4(ATP7B):c.2665C>T (p.His889Tyr)	540	ATP7B	Pathogenic	GRCh38	4890471
+single nucleotide variant	NM_000053.4(ATP7B):c.2402C>T (p.Thr801Ile)	540	ATP7B	Likely pathogenic	GRCh38	4890473
+single nucleotide variant	NM_000053.4(ATP7B):c.1146C>A (p.Ser382=)	540	ATP7B	Pathogenic	GRCh38	4890477
+single nucleotide variant	NM_000053.4(ATP7B):c.1963C>T (p.Leu655=)	540	ATP7B	Pathogenic	GRCh38	4890655

@@ -6,7 +6,7 @@ single nucleotide variant	NM_000277.3(PAH):c.977G>A (p.Trp326Ter)	5053	PAH	Patho
 single nucleotide variant	NM_000277.3(PAH):c.838G>A (p.Glu280Lys)	5053	PAH	Pathogenic	GRCh38	580
 single nucleotide variant	NM_000277.3(PAH):c.331C>T (p.Arg111Ter)	5053	PAH	Pathogenic	GRCh38	581
 single nucleotide variant	NM_000277.3(PAH):c.782G>A (p.Arg261Gln)	5053	PAH	Pathogenic	GRCh38	582
-single nucleotide variant	NM_000277.3(PAH):c.261C>A (p.Ser87Arg)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	583
+single nucleotide variant	NM_000277.3(PAH):c.261C>A (p.Ser87Arg)	5053	PAH	Pathogenic	GRCh38	583
 single nucleotide variant	NM_000277.3(PAH):c.754C>T (p.Arg252Trp)	5053	PAH	Pathogenic	GRCh38	584
 single nucleotide variant	NM_000277.3(PAH):c.1A>G (p.Met1Val)	5053	PAH	Pathogenic	GRCh38	586
 single nucleotide variant	NM_000277.3(PAH):c.473G>A (p.Arg158Gln)	5053	PAH	Pathogenic	GRCh38	587
@@ -87,6 +87,8 @@ single nucleotide variant	NM_000277.3(PAH):c.1030G>A (p.Gly344Ser)	5053	PAH	Like
 single nucleotide variant	NM_000277.3(PAH):c.1031G>A (p.Gly344Asp)	5053	PAH	Likely pathogenic	GRCh38	102481
 single nucleotide variant	NM_000277.3(PAH):c.1033G>A (p.Ala345Thr)	5053	PAH	Likely pathogenic	GRCh38	102483
 single nucleotide variant	NM_000277.3(PAH):c.1033G>T (p.Ala345Ser)	5053	PAH	Pathogenic	GRCh38	102484
+single nucleotide variant	NM_000277.3(PAH):c.1036G>A (p.Gly346Arg)	5053	PAH	Likely pathogenic	GRCh38	102485
+single nucleotide variant	NM_000277.3(PAH):c.1036G>C (p.Gly346Arg)	5053	PAH	Likely pathogenic	GRCh38	102486
 single nucleotide variant	NM_000277.3(PAH):c.1039C>T (p.Leu347Phe)	5053	PAH	Likely pathogenic	GRCh38	102488
 single nucleotide variant	NM_000277.3(PAH):c.1045T>G (p.Ser349Ala)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	102490
 single nucleotide variant	NM_000277.3(PAH):c.1046C>A (p.Ser349Ter)	5053	PAH	Likely pathogenic	GRCh38	102491
@@ -185,6 +187,7 @@ single nucleotide variant	NM_000277.3(PAH):c.386A>G (p.Asp129Gly)	5053	PAH	Likel
 single nucleotide variant	NM_000277.3(PAH):c.400C>T (p.Gln134Ter)	5053	PAH	Pathogenic	GRCh38	102664
 single nucleotide variant	NM_000277.3(PAH):c.428A>G (p.Asp143Gly)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	102666
 single nucleotide variant	NM_000277.3(PAH):c.434A>T (p.Asp145Val)	5053	PAH	Likely pathogenic	GRCh38	102667
+single nucleotide variant	NM_000277.3(PAH):c.436C>T (p.His146Tyr)	5053	PAH	Pathogenic	GRCh38	102668
 single nucleotide variant	NM_000277.3(PAH):c.439C>T (p.Pro147Ser)	5053	PAH	Likely pathogenic	GRCh38	102669
 single nucleotide variant	NM_000277.3(PAH):c.440C>T (p.Pro147Leu)	5053	PAH	Likely pathogenic	GRCh38	102670
 single nucleotide variant	NM_000277.3(PAH):c.441+1G>A	5053	PAH	Pathogenic	GRCh38	102671
@@ -237,6 +240,7 @@ single nucleotide variant	NM_000277.3(PAH):c.608G>A (p.Cys203Tyr)	5053	PAH	Likel
 single nucleotide variant	NM_000277.3(PAH):c.609C>G (p.Cys203Trp)	5053	PAH	Likely pathogenic	GRCh38	102755
 single nucleotide variant	NM_000277.3(PAH):c.612T>G (p.Tyr204Ter)	5053	PAH	Pathogenic	GRCh38	102758
 single nucleotide variant	NM_000277.3(PAH):c.613G>A (p.Glu205Lys)	5053	PAH	Likely pathogenic	GRCh38	102759
+single nucleotide variant	NM_000277.3(PAH):c.614A>C (p.Glu205Ala)	5053	PAH	Likely pathogenic	GRCh38	102760
 single nucleotide variant	NM_000277.3(PAH):c.617A>G (p.Tyr206Cys)	5053	PAH	Likely pathogenic	GRCh38	102762
 single nucleotide variant	NM_000277.3(PAH):c.618C>G (p.Tyr206Ter)	5053	PAH	Pathogenic	GRCh38	102763
 single nucleotide variant	NM_000277.3(PAH):c.619A>G (p.Asn207Asp)	5053	PAH	Likely pathogenic	GRCh38	102764
@@ -309,7 +313,7 @@ single nucleotide variant	NM_000277.3(PAH):c.832A>G (p.Thr278Ala)	5053	PAH	Likel
 single nucleotide variant	NM_000277.3(PAH):c.833C>A (p.Thr278Asn)	5053	PAH	Pathogenic	GRCh38	102862
 single nucleotide variant	NM_000277.3(PAH):c.833C>T (p.Thr278Ile)	5053	PAH	Pathogenic	GRCh38	102863
 single nucleotide variant	NM_000277.3(PAH):c.838G>C (p.Glu280Gln)	5053	PAH	Likely pathogenic	GRCh38	102864
-single nucleotide variant	NM_000277.3(PAH):c.839A>G (p.Glu280Gly)	5053	PAH	Pathogenic	GRCh38	102866
+single nucleotide variant	NM_000277.3(PAH):c.839A>G (p.Glu280Gly)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	102866
 single nucleotide variant	NM_000277.3(PAH):c.842+1G>T	5053	PAH	Pathogenic	GRCh38	102869
 single nucleotide variant	NM_000277.3(PAH):c.842+3G>C	5053	PAH	Likely pathogenic	GRCh38	102871
 single nucleotide variant	NM_000277.3(PAH):c.842+5G>A	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	102872
@@ -387,7 +391,7 @@ single nucleotide variant	NM_000277.3(PAH):c.1316-2A>G	5053	PAH	Likely pathogeni
 single nucleotide variant	NM_000277.3(PAH):c.978G>A (p.Trp326Ter)	5053	PAH	Pathogenic	GRCh38	439229
 single nucleotide variant	NM_000277.3(PAH):c.842+4A>G	5053	PAH	Likely pathogenic	GRCh38	439228
 single nucleotide variant	NM_000277.3(PAH):c.934G>T (p.Gly312Cys)	5053	PAH	Likely pathogenic	GRCh38	446506
-single nucleotide variant	NM_000277.3(PAH):c.1037G>A (p.Gly346Glu)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	458078
+single nucleotide variant	NM_000277.3(PAH):c.1037G>A (p.Gly346Glu)	5053	PAH	Likely pathogenic	GRCh38	458078
 single nucleotide variant	NM_000277.3(PAH):c.865G>A (p.Gly289Arg)	5053	PAH	Pathogenic	GRCh38	458082
 single nucleotide variant	NM_000277.3(PAH):c.835C>G (p.Pro279Ala)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	458081
 single nucleotide variant	NM_000277.3(PAH):c.226G>T (p.Glu76Ter)	5053	PAH	Pathogenic	GRCh38	495789
@@ -569,8 +573,7 @@ single nucleotide variant	NM_000277.3(PAH):c.666T>G (p.Asp222Glu)	5053	PAH	Likel
 single nucleotide variant	NM_000277.3(PAH):c.805A>G (p.Ile269Val)	5053	PAH	Likely pathogenic	GRCh38	1524199
 single nucleotide variant	NM_000277.3(PAH):c.125A>G (p.Lys42Arg)	5053	PAH	Likely pathogenic	GRCh38	1498472
 single nucleotide variant	NM_000277.3(PAH):c.435C>A (p.Asp145Glu)	5053	PAH	Likely pathogenic	GRCh38	1503089
-single nucleotide variant	NM_000277.3(PAH):c.557C>T (p.Thr186Ile)	5053	PAH	Pathogenic	GRCh38	1504560
-single nucleotide variant	NM_000277.3(PAH):c.212G>C (p.Arg71Pro)	5053	PAH	Likely pathogenic	GRCh38	1480944
+single nucleotide variant	NM_000277.3(PAH):c.557C>T (p.Thr186Ile)	5053	PAH	Likely pathogenic	GRCh38	1504560
 single nucleotide variant	NM_000277.3(PAH):c.157C>A (p.Arg53Ser)	5053	PAH	Likely pathogenic	GRCh38	1478759
 single nucleotide variant	NM_000277.3(PAH):c.632C>A (p.Pro211Gln)	5053	PAH	Likely pathogenic	GRCh38	1480414
 single nucleotide variant	NM_000277.3(PAH):c.168+2T>A	5053	PAH	Pathogenic	GRCh38	1455173
@@ -614,7 +617,6 @@ single nucleotide variant	NM_000277.3(PAH):c.1172G>T (p.Ser391Ile)	5053	PAH	Path
 single nucleotide variant	NM_000277.3(PAH):c.839A>C (p.Glu280Ala)	5053	PAH	Pathogenic	GRCh38	2137406
 single nucleotide variant	NM_000277.3(PAH):c.521T>A (p.Ile174Asn)	5053	PAH	Likely pathogenic	GRCh38	2137408
 single nucleotide variant	NM_000277.3(PAH):c.361T>C (p.Phe121Leu)	5053	PAH	Pathogenic	GRCh38	2137411
-single nucleotide variant	NM_000277.3(PAH):c.211C>T (p.Arg71Cys)	5053	PAH	Likely pathogenic	GRCh38	2137414
 single nucleotide variant	NM_000277.3(PAH):c.827T>C (p.Met276Thr)	5053	PAH	Pathogenic/Likely pathogenic	GRCh38	2152159
 single nucleotide variant	NM_000277.3(PAH):c.641A>G (p.Glu214Gly)	5053	PAH	Likely pathogenic	GRCh38	2152160
 single nucleotide variant	NM_000277.3(PAH):c.670A>G (p.Ile224Val)	5053	PAH	Likely pathogenic	GRCh38	2153853
@@ -688,3 +690,8 @@ single nucleotide variant	NM_000277.3(PAH):c.965C>A (p.Ala322Asp)	5053	PAH	Patho
 single nucleotide variant	NM_000277.3(PAH):c.757G>T (p.Asp253Tyr)	5053	PAH	Likely pathogenic	GRCh38	4822157
 single nucleotide variant	NM_000277.3(PAH):c.829T>C (p.Tyr277His)	5053	PAH	Likely pathogenic	GRCh38	4851289
 single nucleotide variant	NM_000277.3(PAH):c.509+2T>G	5053	PAH	Pathogenic	GRCh38	4851991
+single nucleotide variant	NM_000277.3(PAH):c.749C>T (p.Ser250Phe)	5053	PAH	Likely pathogenic	GRCh38	4857330
+single nucleotide variant	NM_000277.3(PAH):c.878T>C (p.Leu293Ser)	5053	PAH	Likely pathogenic	GRCh38	4857331
+single nucleotide variant	NM_000277.3(PAH):c.746T>C (p.Leu249Pro)	5053	PAH	Pathogenic	GRCh38	4888579
+single nucleotide variant	NM_000277.3(PAH):c.722G>C (p.Arg241Pro)	5053	PAH	Likely pathogenic	GRCh38	4889513
+single nucleotide variant	NM_000277.3(PAH):c.1076C>A (p.Ser359Ter)	5053	PAH	Likely pathogenic	GRCh38	4889764

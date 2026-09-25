@@ -1,0 +1,63 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_203447.4(DOCK8):c.1418A>G (p.Lys473Arg)	81704	DOCK8	Pathogenic	GRCh38	949
+single nucleotide variant	NM_203447.4(DOCK8):c.1797+61A>C	81704	DOCK8	Likely pathogenic	GRCh38	191234
+single nucleotide variant	NM_203447.4(DOCK8):c.949C>T (p.Arg317Ter)	81704	DOCK8	Pathogenic	GRCh38	279929
+single nucleotide variant	NM_203447.4(DOCK8):c.2606-1G>A	81704	DOCK8	Pathogenic	GRCh38	280306
+single nucleotide variant	NM_203447.4(DOCK8):c.1648C>T (p.Arg550Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	372856
+single nucleotide variant	NM_203447.4(DOCK8):c.2971-1G>A	81704	DOCK8	Pathogenic	GRCh38	379134
+single nucleotide variant	NM_203447.4(DOCK8):c.4162C>T (p.Arg1388Ter)	81704	DOCK8	Pathogenic	GRCh38	523786
+single nucleotide variant	NM_203447.4(DOCK8):c.5132C>A (p.Ser1711Ter)	81704	DOCK8	Pathogenic	GRCh38	523787
+single nucleotide variant	NM_203447.4(DOCK8):c.2779-2A>C	81704	DOCK8	Likely pathogenic	GRCh38	536604
+single nucleotide variant	NM_203447.4(DOCK8):c.3530+1G>A	81704	DOCK8	Likely pathogenic	GRCh38	572901
+single nucleotide variant	NM_203447.4(DOCK8):c.1680-2A>G	81704	DOCK8	Likely pathogenic	GRCh38	572171
+single nucleotide variant	NM_203447.4(DOCK8):c.5386C>T (p.Arg1796Ter)	81704	DOCK8	Pathogenic	GRCh38	576864
+single nucleotide variant	NM_203447.4(DOCK8):c.6071G>A (p.Cys2024Tyr)	81704	DOCK8	Likely pathogenic	GRCh38	827705
+single nucleotide variant	NM_203447.4(DOCK8):c.1963C>T (p.Gln655Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	941448
+single nucleotide variant	NM_203447.4(DOCK8):c.3841-1G>T	81704	DOCK8	Likely pathogenic	GRCh38	1066408
+single nucleotide variant	NM_203447.4(DOCK8):c.1498C>T (p.Arg500Ter)	81704	DOCK8	Pathogenic	GRCh38	1069888
+single nucleotide variant	NM_203447.4(DOCK8):c.5161C>T (p.Gln1721Ter)	81704	DOCK8	Pathogenic	GRCh38	1071622
+single nucleotide variant	NM_203447.4(DOCK8):c.4153+1G>A	81704	DOCK8	Pathogenic	GRCh38	1197276
+single nucleotide variant	NM_203447.4(DOCK8):c.4241+1G>A	81704	DOCK8	Pathogenic	GRCh38	1301836
+single nucleotide variant	NM_203447.4(DOCK8):c.53+1G>A	81704	DOCK8	Likely pathogenic	GRCh38	1502020
+single nucleotide variant	NM_203447.4(DOCK8):c.6115C>T (p.Gln2039Ter)	81704	DOCK8	Pathogenic	GRCh38	1367934
+single nucleotide variant	NM_203447.4(DOCK8):c.2464G>T (p.Glu822Ter)	81704	DOCK8	Pathogenic	GRCh38	1451794
+single nucleotide variant	NM_203447.4(DOCK8):c.2007+2T>G	81704	DOCK8	Likely pathogenic	GRCh38	1685303
+single nucleotide variant	NM_203447.4(DOCK8):c.1174C>T (p.Gln392Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	1696050
+single nucleotide variant	NM_203447.4(DOCK8):c.2206-2A>G	81704	DOCK8	Pathogenic	GRCh38	1711107
+single nucleotide variant	NM_203447.4(DOCK8):c.5287C>T (p.Arg1763Ter)	81704	DOCK8	Pathogenic	GRCh38	1711108
+single nucleotide variant	NM_203447.4(DOCK8):c.4070C>A (p.Ser1357Ter)	81704	DOCK8	Pathogenic	GRCh38	2136719
+single nucleotide variant	NM_203447.4(DOCK8):c.1868+1G>A	81704	DOCK8	Likely pathogenic	GRCh38	2177449
+single nucleotide variant	NM_203447.4(DOCK8):c.4201G>T (p.Glu1401Ter)	81704	DOCK8	Pathogenic	GRCh38	1879728
+single nucleotide variant	NM_203447.4(DOCK8):c.1125+1G>A	81704	DOCK8	Pathogenic	GRCh38	1911994
+single nucleotide variant	NM_203447.4(DOCK8):c.310C>T (p.Gln104Ter)	81704	DOCK8	Pathogenic	GRCh38	2012489
+single nucleotide variant	NM_203447.4(DOCK8):c.4974C>G (p.Tyr1658Ter)	81704	DOCK8	Pathogenic	GRCh38	2025009
+single nucleotide variant	NM_203447.4(DOCK8):c.3550A>T (p.Lys1184Ter)	81704	DOCK8	Pathogenic	GRCh38	2033221
+single nucleotide variant	NM_203447.4(DOCK8):c.4626+76A>G	81704	DOCK8	Likely pathogenic	GRCh38	2054020
+single nucleotide variant	NM_203447.4(DOCK8):c.4024-2A>G	81704	DOCK8	Likely pathogenic	GRCh38	2121705
+single nucleotide variant	NM_203447.4(DOCK8):c.1357G>T (p.Glu453Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	2584447
+single nucleotide variant	NM_203447.4(DOCK8):c.4626+1G>A	81704	DOCK8	Likely pathogenic	GRCh38	2671793
+single nucleotide variant	NM_203447.4(DOCK8):c.741+2T>C	81704	DOCK8	Likely pathogenic	GRCh38	2801666
+single nucleotide variant	NM_203447.4(DOCK8):c.5490+2T>C	81704	DOCK8	Likely pathogenic	GRCh38	2794217
+single nucleotide variant	NM_203447.4(DOCK8):c.510C>A (p.Cys170Ter)	81704	DOCK8	Pathogenic	GRCh38	2851743
+single nucleotide variant	NM_203447.4(DOCK8):c.4215G>A (p.Trp1405Ter)	81704	DOCK8	Pathogenic	GRCh38	2867127
+single nucleotide variant	NM_203447.4(DOCK8):c.6022C>T (p.Arg2008Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	2868856
+single nucleotide variant	NM_203447.4(DOCK8):c.157-1G>T	81704	DOCK8	Likely pathogenic	GRCh38	3043917
+single nucleotide variant	NM_203447.4(DOCK8):c.1797+1G>T	81704	DOCK8	Pathogenic	GRCh38	3065780
+single nucleotide variant	NM_203447.4(DOCK8):c.4154-1G>C	81704	DOCK8	Likely pathogenic	GRCh38	3256925
+single nucleotide variant	NM_203447.4(DOCK8):c.529-2A>G	81704	DOCK8	Likely pathogenic	GRCh38	3597248
+single nucleotide variant	NM_203447.4(DOCK8):c.5132C>G (p.Ser1711Ter)	81704	DOCK8	Pathogenic	GRCh38	3650833
+single nucleotide variant	NM_203447.4(DOCK8):c.2986C>T (p.Gln996Ter)	81704	DOCK8	Pathogenic/Likely pathogenic	GRCh38	3650373
+single nucleotide variant	NM_203447.4(DOCK8):c.5567T>A (p.Leu1856Ter)	81704	DOCK8	Pathogenic	GRCh38	3663858
+single nucleotide variant	NM_203447.4(DOCK8):c.742-1G>A	81704	DOCK8	Likely pathogenic	GRCh38	3683597
+single nucleotide variant	NM_203447.4(DOCK8):c.5428C>T (p.Gln1810Ter)	81704	DOCK8	Pathogenic	GRCh38	3704182
+single nucleotide variant	NM_203447.4(DOCK8):c.726C>G (p.Tyr242Ter)	81704	DOCK8	Pathogenic	GRCh38	3722999
+single nucleotide variant	NM_203447.4(DOCK8):c.643C>T (p.Gln215Ter)	81704	DOCK8	Pathogenic	GRCh38	3769377
+single nucleotide variant	NM_203447.4(DOCK8):c.1798-1G>A	81704	DOCK8	Likely pathogenic	GRCh38	4071527
+single nucleotide variant	NM_203447.4(DOCK8):c.5625T>G (p.Tyr1875Ter)	81704	DOCK8	Pathogenic	GRCh38	4277903
+single nucleotide variant	NM_203447.4(DOCK8):c.115C>T (p.Arg39Ter)	81704	DOCK8	Pathogenic	GRCh38	4700905
+single nucleotide variant	NM_203447.4(DOCK8):c.1869-2A>G	81704	DOCK8	Likely pathogenic	GRCh38	4735409
+single nucleotide variant	NM_203447.4(DOCK8):c.1044+1G>C	81704	DOCK8	Likely pathogenic	GRCh38	4729690
+single nucleotide variant	NM_203447.4(DOCK8):c.3235-1G>C	81704	DOCK8	Likely pathogenic	GRCh38	4732449
+single nucleotide variant	NM_203447.4(DOCK8):c.156+2T>C	81704	DOCK8	Likely pathogenic	GRCh38	4770573
+single nucleotide variant	NM_203447.4(DOCK8):c.4242-1G>C	81704	DOCK8	Likely pathogenic	GRCh38	4811373
+single nucleotide variant	NM_203447.4(DOCK8):c.528+1G>A	81704	DOCK8	Likely pathogenic	GRCh38	4879764

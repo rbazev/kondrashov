@@ -1,0 +1,903 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001009944.3(PKD1):c.12138+1G>C	5310	PKD1	Pathogenic	GRCh38	8195
+single nucleotide variant	NM_001009944.3(PKD1):c.12124C>T (p.Gln4042Ter)	5310	PKD1	Pathogenic	GRCh38	8196
+single nucleotide variant	NM_001009944.3(PKD1):c.12682C>T (p.Arg4228Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	8198
+single nucleotide variant	NM_001009944.3(PKD1):c.11512C>T (p.Gln3838Ter)	5310	PKD1	Pathogenic	GRCh38	8199
+single nucleotide variant	NM_001009944.3(PKD1):c.12261T>A (p.Cys4087Ter)	5310	PKD1	Pathogenic	GRCh38	8200
+single nucleotide variant	NM_001009944.3(PKD1):c.11457C>A (p.Tyr3819Ter)	5310	PKD1	Pathogenic	GRCh38	8201
+single nucleotide variant	NM_001009944.3(PKD1):c.12036G>A (p.Trp4012Ter)	5310	PKD1	Pathogenic	GRCh38	8202
+single nucleotide variant	NM_001009944.3(PKD1):c.3296-1G>A	5310	PKD1	Likely pathogenic	GRCh38	8204
+single nucleotide variant	NM_001009944.3(PKD1):c.2534T>C (p.Leu845Ser)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	8206
+single nucleotide variant	NM_001009944.3(PKD1):c.5764C>T (p.Gln1922Ter)	5310	PKD1	Pathogenic	GRCh38	8207
+single nucleotide variant	NM_001009944.3(PKD1):c.12420G>A (p.Trp4140Ter)	5310	PKD1	Likely pathogenic	GRCh38	8209
+single nucleotide variant	NM_001009944.3(PKD1):c.9829C>T (p.Arg3277Cys)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	192320
+single nucleotide variant	NM_001009944.3(PKD1):c.7546C>T (p.Arg2516Cys)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	208710
+single nucleotide variant	NM_001009944.3(PKD1):c.1722+2T>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	280669
+single nucleotide variant	NM_001009944.3(PKD1):c.10583G>A (p.Trp3528Ter)	5310	PKD1	Pathogenic	GRCh38	369676
+single nucleotide variant	NM_001009944.3(PKD1):c.3543T>A (p.Tyr1181Ter)	5310	PKD1	Pathogenic	GRCh38	369967
+single nucleotide variant	NM_001009944.3(PKD1):c.1523G>T (p.Cys508Phe)	5310	PKD1	Likely pathogenic	GRCh38	372821
+single nucleotide variant	NM_001009944.3(PKD1):c.1259A>G (p.Tyr420Cys)	5310	PKD1	Likely pathogenic	GRCh38	372708
+single nucleotide variant	NM_001009944.3(PKD1):c.11524T>C (p.Trp3842Arg)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	374187
+single nucleotide variant	NM_001009944.3(PKD1):c.9185T>A (p.Val3062Asp)	5310	PKD1	Likely pathogenic	GRCh38	374044
+single nucleotide variant	NM_001009944.3(PKD1):c.5086C>T (p.Gln1696Ter)	5310	PKD1	Pathogenic	GRCh38	373937
+single nucleotide variant	NM_001009944.3(PKD1):c.4846G>T (p.Glu1616Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	374119
+single nucleotide variant	NM_001009944.3(PKD1):c.3520C>T (p.Gln1174Ter)	5310	PKD1	Pathogenic	GRCh38	374102
+single nucleotide variant	NM_001009944.3(PKD1):c.11277C>G (p.Tyr3759Ter)	5310	PKD1	Pathogenic	GRCh38	397604
+single nucleotide variant	NM_001009944.3(PKD1):c.9568G>T (p.Gly3190Trp)	5310	PKD1	Likely pathogenic	GRCh38	397594
+single nucleotide variant	NM_001009944.3(PKD1):c.6299C>A (p.Ser2100Ter)	5310	PKD1	Pathogenic	GRCh38	397586
+single nucleotide variant	NM_001009944.3(PKD1):c.1295C>A (p.Ala432Glu)	5310	PKD1	Likely pathogenic	GRCh38	397587
+single nucleotide variant	NM_001009944.3(PKD1):c.10420C>T (p.Gln3474Ter)	5310	PKD1	Pathogenic	GRCh38	419960
+single nucleotide variant	NM_001009944.3(PKD1):c.6913C>T (p.Gln2305Ter)	5310	PKD1	Pathogenic	GRCh38	419272
+single nucleotide variant	NM_001009944.3(PKD1):c.1687C>T (p.Gln563Ter)	5310	PKD1	Pathogenic	GRCh38	419961
+single nucleotide variant	NM_001009944.3(PKD1):c.12683G>C (p.Arg4228Pro)	5310	PKD1	Likely pathogenic	GRCh38	425086
+single nucleotide variant	NM_001009944.3(PKD1):c.696T>G (p.Cys232Trp)	5310	PKD1	Likely pathogenic	GRCh38	427736
+single nucleotide variant	NM_001009944.3(PKD1):c.9398-1G>A	5310	PKD1	Likely pathogenic	GRCh38	432351
+single nucleotide variant	NM_001009944.3(PKD1):c.215+1G>C	5310	PKD1	Pathogenic	GRCh38	432433
+single nucleotide variant	NM_001009944.3(PKD1):c.12712C>T (p.Gln4238Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	434010
+single nucleotide variant	NM_001009944.3(PKD1):c.12445-2A>C	5310	PKD1	Pathogenic	GRCh38	434008
+single nucleotide variant	NM_001009944.3(PKD1):c.12010C>T (p.Gln4004Ter)	5310	PKD1	Pathogenic	GRCh38	434006
+single nucleotide variant	NM_001009944.3(PKD1):c.11461C>T (p.Gln3821Ter)	5310	PKD1	Pathogenic	GRCh38	434003
+single nucleotide variant	NM_001009944.3(PKD1):c.8095C>T (p.Gln2699Ter)	5310	PKD1	Pathogenic	GRCh38	433984
+single nucleotide variant	NM_001009944.3(PKD1):c.7137C>G (p.Tyr2379Ter)	5310	PKD1	Pathogenic	GRCh38	433977
+single nucleotide variant	NM_001009944.3(PKD1):c.6832G>A (p.Gly2278Arg)	5310	PKD1	Likely pathogenic	GRCh38	433975
+single nucleotide variant	NM_001009944.3(PKD1):c.6487C>T (p.Arg2163Ter)	5310	PKD1	Pathogenic	GRCh38	433972
+single nucleotide variant	NM_001009944.3(PKD1):c.6307C>T (p.Gln2103Ter)	5310	PKD1	Pathogenic	GRCh38	433971
+single nucleotide variant	NM_001009944.3(PKD1):c.6199C>T (p.Gln2067Ter)	5310	PKD1	Pathogenic	GRCh38	433970
+single nucleotide variant	NM_001009944.3(PKD1):c.2215C>T (p.Arg739Trp)	5310	PKD1	Pathogenic	GRCh38	433952
+single nucleotide variant	NM_001009944.3(PKD1):c.1583A>G (p.Tyr528Cys)	5310	PKD1	Pathogenic	GRCh38	433946
+single nucleotide variant	NM_001009944.3(PKD1):c.11078C>A (p.Ser3693Ter)	5310	PKD1	Likely pathogenic	GRCh38	438684
+single nucleotide variant	NM_001009944.3(PKD1):c.9397+3G>C	5310	PKD1	Pathogenic	GRCh38	438679
+single nucleotide variant	NM_001009944.3(PKD1):c.7428C>A (p.Cys2476Ter)	5310	PKD1	Pathogenic	GRCh38	438680
+single nucleotide variant	NM_001009944.3(PKD1):c.11713-1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	440137
+single nucleotide variant	NM_001009944.3(PKD1):c.11156G>A (p.Arg3719Gln)	5310	PKD1	Pathogenic	GRCh38	440073
+single nucleotide variant	NM_001009944.3(PKD1):c.8905C>T (p.Gln2969Ter)	5310	PKD1	Pathogenic	GRCh38	440091
+single nucleotide variant	NM_001009944.3(PKD1):c.4258G>T (p.Glu1420Ter)	5310	PKD1	Pathogenic	GRCh38	440112
+single nucleotide variant	NM_001009944.3(PKD1):c.3285C>A (p.Tyr1095Ter)	5310	PKD1	Pathogenic	GRCh38	440095
+single nucleotide variant	NM_001009944.3(PKD1):c.2932C>T (p.Gln978Ter)	5310	PKD1	Pathogenic	GRCh38	440123
+single nucleotide variant	NM_001009944.3(PKD1):c.2152C>T (p.Gln718Ter)	5310	PKD1	Pathogenic	GRCh38	440133
+single nucleotide variant	NM_001009944.3(PKD1):c.8704C>T (p.Gln2902Ter)	5310	PKD1	Pathogenic	GRCh38	441260
+single nucleotide variant	NM_001009944.3(PKD1):c.12031C>T (p.Gln4011Ter)	5310	PKD1	Pathogenic	GRCh38	447961
+single nucleotide variant	NM_001009944.3(PKD1):c.11944C>T (p.Gln3982Ter)	5310	PKD1	Pathogenic	GRCh38	447959
+single nucleotide variant	NM_001009944.3(PKD1):c.11713-2A>G	5310	PKD1	Pathogenic	GRCh38	447955
+single nucleotide variant	NM_001009944.3(PKD1):c.11412-2A>C	5310	PKD1	Pathogenic	GRCh38	447951
+single nucleotide variant	NM_001009944.3(PKD1):c.11176T>C (p.Trp3726Arg)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	447949
+single nucleotide variant	NM_001009944.3(PKD1):c.10618+2T>G	5310	PKD1	Pathogenic	GRCh38	447946
+single nucleotide variant	NM_001009944.3(PKD1):c.8218G>T (p.Gly2740Ter)	5310	PKD1	Pathogenic	GRCh38	448015
+single nucleotide variant	NM_001009944.3(PKD1):c.8162-1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	448014
+single nucleotide variant	NM_001009944.3(PKD1):c.7164C>G (p.Tyr2388Ter)	5310	PKD1	Pathogenic	GRCh38	448000
+single nucleotide variant	NM_001009944.3(PKD1):c.7126C>T (p.Gln2376Ter)	5310	PKD1	Pathogenic	GRCh38	447999
+single nucleotide variant	NM_001009944.3(PKD1):c.1148C>A (p.Ser383Ter)	5310	PKD1	Pathogenic	GRCh38	488407
+single nucleotide variant	NM_001009944.3(PKD1):c.10348G>T (p.Glu3450Ter)	5310	PKD1	Likely pathogenic	GRCh38	488408
+single nucleotide variant	NM_001009944.3(PKD1):c.7268C>A (p.Ser2423Tyr)	5310	PKD1	Likely pathogenic	GRCh38	496638
+single nucleotide variant	NM_001009944.3(PKD1):c.2854-2A>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	521112
+single nucleotide variant	NM_001009944.3(PKD1):c.9867C>A (p.Cys3289Ter)	5310	PKD1	Pathogenic	GRCh38	522410
+single nucleotide variant	NM_001009944.3(PKD1):c.8762A>G (p.His2921Arg)	5310	PKD1	Likely pathogenic	GRCh38	522514
+single nucleotide variant	NM_001009944.3(PKD1):c.7861G>T (p.Glu2621Ter)	5310	PKD1	Pathogenic	GRCh38	522439
+single nucleotide variant	NM_001009944.3(PKD1):c.6197T>C (p.Leu2066Pro)	5310	PKD1	Likely pathogenic	GRCh38	522407
+single nucleotide variant	NM_001009944.3(PKD1):c.3436T>G (p.Phe1146Val)	5310	PKD1	Likely pathogenic	GRCh38	522475
+single nucleotide variant	NM_001009944.3(PKD1):c.1584C>A (p.Tyr528Ter)	5310	PKD1	Pathogenic	GRCh38	522520
+single nucleotide variant	NM_001009944.3(PKD1):c.488G>T (p.Gly163Val)	5310	PKD1	Likely pathogenic	GRCh38	522473
+single nucleotide variant	NM_001009944.3(PKD1):c.12035G>A (p.Trp4012Ter)	5310	PKD1	Pathogenic	GRCh38	523384
+single nucleotide variant	NM_001009944.3(PKD1):c.6877C>T (p.Pro2293Ser)	5310	PKD1	Likely pathogenic	GRCh38	523388
+single nucleotide variant	NM_001009944.3(PKD1):c.6031C>T (p.Gln2011Ter)	5310	PKD1	Pathogenic	GRCh38	523776
+single nucleotide variant	NM_001009944.3(PKD1):c.8447T>C (p.Leu2816Pro)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	562235
+single nucleotide variant	NM_001009944.3(PKD1):c.4306C>T (p.Arg1436Ter)	5310	PKD1	Pathogenic	GRCh38	562236
+single nucleotide variant	NM_001009944.3(PKD1):c.9547C>T (p.Arg3183Ter)	5310	PKD1	Pathogenic	GRCh38	562249
+single nucleotide variant	NM_001009944.3(PKD1):c.10151C>G (p.Ser3384Ter)	5310	PKD1	Pathogenic	GRCh38	562255
+single nucleotide variant	NM_001009944.3(PKD1):c.4861C>T (p.Gln1621Ter)	5310	PKD1	Pathogenic	GRCh38	562258
+single nucleotide variant	NM_001009944.3(PKD1):c.9563A>T (p.Asn3188Ile)	5310	PKD1	Likely pathogenic	GRCh38	562261
+single nucleotide variant	NM_001009944.3(PKD1):c.7288C>T (p.Arg2430Ter)	5310	PKD1	Pathogenic	GRCh38	562262
+single nucleotide variant	NM_001009944.3(PKD1):c.5707C>T (p.Gln1903Ter)	5310	PKD1	Pathogenic	GRCh38	562264
+single nucleotide variant	NM_001009944.3(PKD1):c.8698C>T (p.Gln2900Ter)	5310	PKD1	Pathogenic	GRCh38	562271
+single nucleotide variant	NM_001009944.3(PKD1):c.1722+1G>A	5310	PKD1	Pathogenic	GRCh38	562275
+single nucleotide variant	NM_001009944.3(PKD1):c.8017-2A>G	5310	PKD1	Pathogenic	GRCh38	562279
+single nucleotide variant	NM_001009944.3(PKD1):c.12444G>C (p.Glu4148Asp)	5310	PKD1	Likely pathogenic	GRCh38	562280
+single nucleotide variant	NM_001009944.3(PKD1):c.5937C>A (p.Cys1979Ter)	5310	PKD1	Likely pathogenic	GRCh38	562297
+single nucleotide variant	NM_001009944.3(PKD1):c.5878C>T (p.Gln1960Ter)	5310	PKD1	Pathogenic	GRCh38	562298
+single nucleotide variant	NM_001009944.3(PKD1):c.7493G>A (p.Trp2498Ter)	5310	PKD1	Pathogenic	GRCh38	562300
+single nucleotide variant	NM_001009944.3(PKD1):c.2180T>C (p.Leu727Pro)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	562302
+single nucleotide variant	NM_001009944.3(PKD1):c.12718G>T (p.Glu4240Ter)	5310	PKD1	Likely pathogenic	GRCh38	562309
+single nucleotide variant	NM_001009944.3(PKD1):c.7327G>T (p.Gly2443Ter)	5310	PKD1	Pathogenic	GRCh38	562312
+single nucleotide variant	NM_001009944.3(PKD1):c.7490-2A>T	5310	PKD1	Pathogenic	GRCh38	562314
+single nucleotide variant	NM_001009944.3(PKD1):c.11257C>T (p.Arg3753Trp)	5310	PKD1	Pathogenic	GRCh38	562323
+single nucleotide variant	NM_001009944.3(PKD1):c.1420C>T (p.Gln474Ter)	5310	PKD1	Pathogenic	GRCh38	562325
+single nucleotide variant	NM_001009944.3(PKD1):c.12691C>T (p.Gln4231Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	562326
+single nucleotide variant	NM_001009944.3(PKD1):c.9558C>G (p.His3186Gln)	5310	PKD1	Likely pathogenic	GRCh38	562336
+single nucleotide variant	NM_001009944.3(PKD1):c.3955G>A (p.Gly1319Arg)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	562341
+single nucleotide variant	NM_001009944.3(PKD1):c.8423T>C (p.Ile2808Thr)	5310	PKD1	Likely pathogenic	GRCh38	562345
+single nucleotide variant	NM_001009944.3(PKD1):c.2098-1G>C	5310	PKD1	Pathogenic	GRCh38	562361
+single nucleotide variant	NM_001009944.3(PKD1):c.10084C>T (p.Gln3362Ter)	5310	PKD1	Pathogenic	GRCh38	586237
+single nucleotide variant	NM_001009944.3(PKD1):c.7204C>T (p.Arg2402Ter)	5310	PKD1	Pathogenic	GRCh38	586294
+single nucleotide variant	NM_001009944.3(PKD1):c.6727C>T (p.Gln2243Ter)	5310	PKD1	Pathogenic	GRCh38	586289
+single nucleotide variant	NM_001009944.3(PKD1):c.4444C>T (p.Gln1482Ter)	5310	PKD1	Pathogenic	GRCh38	586276
+single nucleotide variant	NM_001009944.3(PKD1):c.3296-1G>C	5310	PKD1	Pathogenic	GRCh38	586268
+single nucleotide variant	NM_001009944.3(PKD1):c.2269C>T (p.Gln757Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	586258
+single nucleotide variant	NM_001009944.3(PKD1):c.3G>A (p.Met1Ile)	5310	PKD1	Pathogenic	GRCh38	586273
+single nucleotide variant	NM_001009944.3(PKD1):c.6806C>G (p.Ser2269Ter)	5310	PKD1	Pathogenic	GRCh38	590791
+single nucleotide variant	NM_001009944.3(PKD1):c.8873C>A (p.Ser2958Ter)	5310	PKD1	Pathogenic	GRCh38	599089
+single nucleotide variant	NM_001009944.3(PKD1):c.404G>A (p.Trp135Ter)	5310	PKD1	Pathogenic	GRCh38	599102
+single nucleotide variant	NM_001009944.3(PKD1):c.5366C>G (p.Ser1789Ter)	5310	PKD1	Pathogenic	GRCh38	617551
+single nucleotide variant	NM_001009944.3(PKD1):c.12724C>T (p.Gln4242Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	618309
+single nucleotide variant	NM_001009944.3(PKD1):c.12354C>A (p.Tyr4118Ter)	5310	PKD1	Pathogenic	GRCh38	618297
+single nucleotide variant	NM_001009944.3(PKD1):c.10724G>A (p.Trp3575Ter)	5310	PKD1	Pathogenic	GRCh38	618307
+single nucleotide variant	NM_001009944.3(PKD1):c.10540C>T (p.Gln3514Ter)	5310	PKD1	Pathogenic	GRCh38	618311
+single nucleotide variant	NM_001009944.3(PKD1):c.8590G>T (p.Glu2864Ter)	5310	PKD1	Pathogenic	GRCh38	618820
+single nucleotide variant	NM_001009944.3(PKD1):c.8560C>T (p.Gln2854Ter)	5310	PKD1	Pathogenic	GRCh38	618310
+single nucleotide variant	NM_001009944.3(PKD1):c.7987C>T (p.Gln2663Ter)	5310	PKD1	Pathogenic	GRCh38	618315
+single nucleotide variant	NM_001009944.3(PKD1):c.7666C>T (p.Gln2556Ter)	5310	PKD1	Pathogenic	GRCh38	618320
+single nucleotide variant	NM_001009944.3(PKD1):c.7268C>T (p.Ser2423Phe)	5310	PKD1	Likely pathogenic	GRCh38	618813
+single nucleotide variant	NM_001009944.3(PKD1):c.7109G>C (p.Cys2370Ser)	5310	PKD1	Likely pathogenic	GRCh38	618312
+single nucleotide variant	NM_001009944.3(PKD1):c.7108T>C (p.Cys2370Arg)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	618799
+single nucleotide variant	NM_001009944.3(PKD1):c.6736C>T (p.Gln2246Ter)	5310	PKD1	Pathogenic	GRCh38	618317
+single nucleotide variant	NM_001009944.3(PKD1):c.4177C>T (p.Gln1393Ter)	5310	PKD1	Pathogenic	GRCh38	618796
+single nucleotide variant	NM_001009944.3(PKD1):c.1198C>T (p.Arg400Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	618300
+single nucleotide variant	NM_001009944.3(PKD1):c.1141G>A (p.Gly381Ser)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	618805
+single nucleotide variant	NM_001009944.3(PKD1):c.6586C>T (p.Gln2196Ter)	5310	PKD1	Pathogenic	GRCh38	620104
+single nucleotide variant	NM_001009944.3(PKD1):c.6916-9G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	623209
+single nucleotide variant	NM_001009944.3(PKD1):c.8896G>T (p.Glu2966Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	623354
+single nucleotide variant	NM_001009944.3(PKD1):c.5627C>G (p.Ser1876Ter)	5310	PKD1	Likely pathogenic	GRCh38	625859
+single nucleotide variant	NM_001009944.3(PKD1):c.11156+1G>C	5310	PKD1	Pathogenic	GRCh38	635438
+single nucleotide variant	NM_001009944.3(PKD1):c.5830G>T (p.Gly1944Ter)	5310	PKD1	Likely pathogenic	GRCh38	635520
+single nucleotide variant	NM_001009944.3(PKD1):c.3482G>A (p.Trp1161Ter)	5310	PKD1	Pathogenic	GRCh38	635437
+single nucleotide variant	NM_001009944.3(PKD1):c.12061C>T (p.Arg4021Ter)	5310	PKD1	Pathogenic	GRCh38	636627
+single nucleotide variant	NM_001009944.3(PKD1):c.11122G>T (p.Glu3708Ter)	5310	PKD1	Likely pathogenic	GRCh38	636532
+single nucleotide variant	NM_001009944.3(PKD1):c.10377C>G (p.Tyr3459Ter)	5310	PKD1	Likely pathogenic	GRCh38	636489
+single nucleotide variant	NM_001009944.3(PKD1):c.9431G>C (p.Gly3144Ala)	5310	PKD1	Likely pathogenic	GRCh38	636953
+single nucleotide variant	NM_001009944.3(PKD1):c.9298C>T (p.Gln3100Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636981
+single nucleotide variant	NM_001009944.3(PKD1):c.8973C>A (p.Tyr2991Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636810
+single nucleotide variant	NM_001009944.3(PKD1):c.8933T>C (p.Phe2978Ser)	5310	PKD1	Likely pathogenic	GRCh38	636661
+single nucleotide variant	NM_001009944.3(PKD1):c.7984C>T (p.Gln2662Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636940
+single nucleotide variant	NM_001009944.3(PKD1):c.7915C>T (p.Arg2639Ter)	5310	PKD1	Pathogenic	GRCh38	636809
+single nucleotide variant	NM_001009944.3(PKD1):c.7856T>G (p.Leu2619Arg)	5310	PKD1	Likely pathogenic	GRCh38	636731
+single nucleotide variant	NM_001009944.3(PKD1):c.7587G>C (p.Lys2529Asn)	5310	PKD1	Likely pathogenic	GRCh38	636793
+single nucleotide variant	NM_001009944.3(PKD1):c.5279G>A (p.Trp1760Ter)	5310	PKD1	Likely pathogenic	GRCh38	636790
+single nucleotide variant	NM_001009944.3(PKD1):c.4957C>T (p.Gln1653Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636665
+single nucleotide variant	NM_001009944.3(PKD1):c.4616G>A (p.Trp1539Ter)	5310	PKD1	Pathogenic	GRCh38	636799
+single nucleotide variant	NM_001009944.3(PKD1):c.4551C>A (p.Tyr1517Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636869
+single nucleotide variant	NM_001009944.3(PKD1):c.4447C>T (p.Gln1483Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636605
+single nucleotide variant	NM_001009944.3(PKD1):c.2012C>G (p.Ser671Ter)	5310	PKD1	Likely pathogenic	GRCh38	636862
+single nucleotide variant	NM_001009944.3(PKD1):c.1097C>A (p.Ser366Ter)	5310	PKD1	Likely pathogenic	GRCh38	636647
+single nucleotide variant	NM_001009944.3(PKD1):c.412C>T (p.Arg138Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	636925
+single nucleotide variant	NM_001009944.3(PKD1):c.8016+2T>C	5310	PKD1	Likely pathogenic	GRCh38	636838
+single nucleotide variant	NM_001009944.3(PKD1):c.8767C>T (p.Gln2923Ter)	5310	PKD1	Pathogenic	GRCh38	803161
+single nucleotide variant	NM_001009944.3(PKD1):c.4906C>T (p.Gln1636Ter)	5310	PKD1	Pathogenic	GRCh38	803166
+single nucleotide variant	NM_001009944.3(PKD1):c.2048G>A (p.Trp683Ter)	5310	PKD1	Pathogenic	GRCh38	803172
+single nucleotide variant	NM_001009944.3(PKD1):c.11525G>A (p.Trp3842Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	805142
+single nucleotide variant	NM_001009944.3(PKD1):c.8049C>A (p.Cys2683Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	805187
+single nucleotide variant	NM_001009944.3(PKD1):c.7833C>G (p.Tyr2611Ter)	5310	PKD1	Pathogenic	GRCh38	805184
+single nucleotide variant	NM_001009944.3(PKD1):c.4797C>A (p.Tyr1599Ter)	5310	PKD1	Pathogenic	GRCh38	805167
+single nucleotide variant	NM_001009944.3(PKD1):c.12139-1G>T	5310	PKD1	Likely pathogenic	GRCh38	805146
+single nucleotide variant	NM_001009944.3(PKD1):c.11017-10C>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	805137
+single nucleotide variant	NM_001009944.3(PKD1):c.1723-1G>A	5310	PKD1	Pathogenic	GRCh38	805152
+single nucleotide variant	NM_001009944.3(PKD1):c.12381C>G (p.Tyr4127Ter)	5310	PKD1	Pathogenic	GRCh38	811724
+single nucleotide variant	NM_001009944.3(PKD1):c.10821+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	811786
+single nucleotide variant	NM_001009944.3(PKD1):c.9585G>A (p.Trp3195Ter)	5310	PKD1	Pathogenic	GRCh38	811842
+single nucleotide variant	NM_001009944.3(PKD1):c.7214G>A (p.Trp2405Ter)	5310	PKD1	Pathogenic	GRCh38	811806
+single nucleotide variant	NM_001009944.3(PKD1):c.6795C>A (p.Tyr2265Ter)	5310	PKD1	Pathogenic	GRCh38	811234
+single nucleotide variant	NM_001009944.3(PKD1):c.3792C>A (p.Tyr1264Ter)	5310	PKD1	Pathogenic	GRCh38	811875
+single nucleotide variant	NM_001009944.3(PKD1):c.3346C>T (p.Gln1116Ter)	5310	PKD1	Pathogenic	GRCh38	811713
+single nucleotide variant	NM_001009944.3(PKD1):c.1201+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	811176
+single nucleotide variant	NM_001009944.3(PKD1):c.11783G>A (p.Trp3928Ter)	5310	PKD1	Pathogenic	GRCh38	816944
+single nucleotide variant	NM_001009944.3(PKD1):c.10588C>T (p.Gln3530Ter)	5310	PKD1	Pathogenic	GRCh38	816946
+single nucleotide variant	NM_001009944.3(PKD1):c.12391G>T (p.Glu4131Ter)	5310	PKD1	Pathogenic	GRCh38	828104
+single nucleotide variant	NM_001009944.3(PKD1):c.322G>T (p.Glu108Ter)	5310	PKD1	Pathogenic	GRCh38	829954
+single nucleotide variant	NM_001009944.3(PKD1):c.8299C>T (p.Arg2767Cys)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	871751
+single nucleotide variant	NM_001009944.3(PKD1):c.7927C>T (p.Arg2643Cys)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	871752
+single nucleotide variant	NM_001009944.3(PKD1):c.6084C>A (p.Tyr2028Ter)	5310	PKD1	Pathogenic	GRCh38	872310
+single nucleotide variant	NM_001009944.3(PKD1):c.3058C>T (p.Gln1020Ter)	5310	PKD1	Pathogenic	GRCh38	872314
+single nucleotide variant	NM_001009944.3(PKD1):c.744C>A (p.Cys248Ter)	5310	PKD1	Pathogenic	GRCh38	872316
+single nucleotide variant	NM_001009944.3(PKD1):c.12673C>T (p.Gln4225Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	873339
+single nucleotide variant	NM_001009944.3(PKD1):c.11752G>T (p.Glu3918Ter)	5310	PKD1	Pathogenic	GRCh38	873338
+single nucleotide variant	NM_001009944.3(PKD1):c.11343C>G (p.Tyr3781Ter)	5310	PKD1	Pathogenic	GRCh38	873379
+single nucleotide variant	NM_001009944.3(PKD1):c.11119C>T (p.Gln3707Ter)	5310	PKD1	Pathogenic	GRCh38	873392
+single nucleotide variant	NM_001009944.3(PKD1):c.8056C>T (p.Gln2686Ter)	5310	PKD1	Pathogenic	GRCh38	873328
+single nucleotide variant	NM_001009944.3(PKD1):c.8045C>A (p.Ser2682Ter)	5310	PKD1	Pathogenic	GRCh38	873404
+single nucleotide variant	NM_001009944.3(PKD1):c.8008C>T (p.Gln2670Ter)	5310	PKD1	Pathogenic	GRCh38	873361
+single nucleotide variant	NM_001009944.3(PKD1):c.7903G>T (p.Glu2635Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	873367
+single nucleotide variant	NM_001009944.3(PKD1):c.7369G>T (p.Glu2457Ter)	5310	PKD1	Pathogenic	GRCh38	873366
+single nucleotide variant	NM_001009944.3(PKD1):c.7215G>T (p.Trp2405Cys)	5310	PKD1	Likely pathogenic	GRCh38	873380
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+9C>T	5310	PKD1	Pathogenic	GRCh38	873360
+single nucleotide variant	NM_001009944.3(PKD1):c.6846C>A (p.Tyr2282Ter)	5310	PKD1	Pathogenic	GRCh38	873382
+single nucleotide variant	NM_001009944.3(PKD1):c.6493C>T (p.Gln2165Ter)	5310	PKD1	Pathogenic	GRCh38	873331
+single nucleotide variant	NM_001009944.3(PKD1):c.6367C>T (p.Gln2123Ter)	5310	PKD1	Pathogenic	GRCh38	873330
+single nucleotide variant	NM_001009944.3(PKD1):c.3349C>T (p.Gln1117Ter)	5310	PKD1	Pathogenic	GRCh38	873333
+single nucleotide variant	NM_001009944.3(PKD1):c.3184C>T (p.Gln1062Ter)	5310	PKD1	Pathogenic	GRCh38	873385
+single nucleotide variant	NM_001009944.3(PKD1):c.2534T>A (p.Leu845Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	873390
+single nucleotide variant	NM_001009944.3(PKD1):c.1303C>T (p.Gln435Ter)	5310	PKD1	Pathogenic	GRCh38	873334
+single nucleotide variant	NM_001009944.3(PKD1):c.99C>A (p.Cys33Ter)	5310	PKD1	Pathogenic	GRCh38	873351
+single nucleotide variant	NM_001009944.3(PKD1):c.12139-2A>C	5310	PKD1	Pathogenic	GRCh38	873329
+single nucleotide variant	NM_001009944.3(PKD1):c.11411+1G>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	873371
+single nucleotide variant	NM_001009944.3(PKD1):c.8017-1G>C	5310	PKD1	Pathogenic	GRCh38	873394
+single nucleotide variant	NM_001009944.3(PKD1):c.2097+2T>C	5310	PKD1	Pathogenic	GRCh38	873344
+single nucleotide variant	NM_001009944.3(PKD1):c.1606+5G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	873342
+single nucleotide variant	NM_001009944.3(PKD1):c.288-2A>G	5310	PKD1	Pathogenic	GRCh38	873364
+single nucleotide variant	NM_001009944.3(PKD1):c.10387A>T (p.Lys3463Ter)	5310	PKD1	Pathogenic	GRCh38	916104
+single nucleotide variant	NM_001009944.3(PKD1):c.5884C>T (p.Gln1962Ter)	5310	PKD1	Pathogenic	GRCh38	916425
+single nucleotide variant	NM_001009944.3(PKD1):c.7292T>A (p.Leu2431Gln)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	917544
+single nucleotide variant	NM_001009944.3(PKD1):c.2702G>A (p.Trp901Ter)	5310	PKD1	Pathogenic	GRCh38	917542
+single nucleotide variant	NM_001009944.3(PKD1):c.1307G>T (p.Cys436Phe)	5310	PKD1	Likely pathogenic	GRCh38	972697
+single nucleotide variant	NM_001009944.3(PKD1):c.678G>A (p.Glu226=)	5310	PKD1	Pathogenic	GRCh38	972676
+single nucleotide variant	NM_001009944.3(PKD1):c.8162-2A>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972682
+single nucleotide variant	NM_001009944.3(PKD1):c.9592C>T (p.Gln3198Ter)	5310	PKD1	Pathogenic	GRCh38	972846
+single nucleotide variant	NM_001009944.3(PKD1):c.9568G>A (p.Gly3190Arg)	5310	PKD1	Likely pathogenic	GRCh38	972842
+single nucleotide variant	NM_001009944.3(PKD1):c.8251C>T (p.Gln2751Ter)	5310	PKD1	Pathogenic	GRCh38	972861
+single nucleotide variant	NM_001009944.3(PKD1):c.7642G>T (p.Glu2548Ter)	5310	PKD1	Pathogenic	GRCh38	972850
+single nucleotide variant	NM_001009944.3(PKD1):c.7008C>G (p.Tyr2336Ter)	5310	PKD1	Pathogenic	GRCh38	972839
+single nucleotide variant	NM_001009944.3(PKD1):c.3883G>T (p.Glu1295Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972858
+single nucleotide variant	NM_001009944.3(PKD1):c.3631G>T (p.Glu1211Ter)	5310	PKD1	Likely pathogenic	GRCh38	972855
+single nucleotide variant	NM_001009944.3(PKD1):c.3441C>G (p.Tyr1147Ter)	5310	PKD1	Pathogenic	GRCh38	972835
+single nucleotide variant	NM_001009944.3(PKD1):c.3202C>T (p.Gln1068Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972875
+single nucleotide variant	NM_001009944.3(PKD1):c.2096C>A (p.Ser699Ter)	5310	PKD1	Likely pathogenic	GRCh38	972852
+single nucleotide variant	NM_001009944.3(PKD1):c.1260C>G (p.Tyr420Ter)	5310	PKD1	Likely pathogenic	GRCh38	972823
+single nucleotide variant	NM_001009944.3(PKD1):c.12004-2A>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972876
+single nucleotide variant	NM_001009944.3(PKD1):c.11712+1G>C	5310	PKD1	Likely pathogenic	GRCh38	972877
+single nucleotide variant	NM_001009944.3(PKD1):c.9398-1G>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972834
+single nucleotide variant	NM_001009944.3(PKD1):c.7489+5G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	972832
+single nucleotide variant	NM_001009944.3(PKD1):c.12373C>T (p.Gln4125Ter)	5310	PKD1	Pathogenic	GRCh38	974402
+single nucleotide variant	NM_001009944.3(PKD1):c.11863C>T (p.Gln3955Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	974399
+single nucleotide variant	NM_001009944.3(PKD1):c.11457C>G (p.Tyr3819Ter)	5310	PKD1	Pathogenic	GRCh38	974534
+single nucleotide variant	NM_001009944.3(PKD1):c.11416T>G (p.Trp3806Gly)	5310	PKD1	Likely pathogenic	GRCh38	974532
+single nucleotide variant	NM_001009944.3(PKD1):c.10946C>G (p.Pro3649Arg)	5310	PKD1	Likely pathogenic	GRCh38	974528
+single nucleotide variant	NM_001009944.3(PKD1):c.10694T>G (p.Leu3565Arg)	5310	PKD1	Likely pathogenic	GRCh38	974526
+single nucleotide variant	NM_001009944.3(PKD1):c.9454C>G (p.Arg3152Gly)	5310	PKD1	Likely pathogenic	GRCh38	974539
+single nucleotide variant	NM_001009944.3(PKD1):c.9365T>G (p.Ile3122Ser)	5310	PKD1	Likely pathogenic	GRCh38	974538
+single nucleotide variant	NM_001009944.3(PKD1):c.7921C>T (p.Gln2641Ter)	5310	PKD1	Pathogenic	GRCh38	974504
+single nucleotide variant	NM_001009944.3(PKD1):c.7816C>T (p.Gln2606Ter)	5310	PKD1	Pathogenic	GRCh38	974503
+single nucleotide variant	NM_001009944.3(PKD1):c.6701T>A (p.Val2234Glu)	5310	PKD1	Likely pathogenic	GRCh38	974499
+single nucleotide variant	NM_001009944.3(PKD1):c.3607C>T (p.Gln1203Ter)	5310	PKD1	Pathogenic	GRCh38	974447
+single nucleotide variant	NM_001009944.3(PKD1):c.3067C>T (p.Gln1023Ter)	5310	PKD1	Pathogenic	GRCh38	974445
+single nucleotide variant	NM_001009944.3(PKD1):c.2542C>T (p.Gln848Ter)	5310	PKD1	Pathogenic	GRCh38	974443
+single nucleotide variant	NM_001009944.3(PKD1):c.2113C>T (p.Gln705Ter)	5310	PKD1	Pathogenic	GRCh38	974442
+single nucleotide variant	NM_001009944.3(PKD1):c.1810C>T (p.Gln604Ter)	5310	PKD1	Pathogenic	GRCh38	974407
+single nucleotide variant	NM_001009944.3(PKD1):c.1700C>G (p.Ser567Ter)	5310	PKD1	Pathogenic	GRCh38	974406
+single nucleotide variant	NM_001009944.3(PKD1):c.1265T>C (p.Leu422Pro)	5310	PKD1	Likely pathogenic	GRCh38	974403
+single nucleotide variant	NM_001009944.3(PKD1):c.566C>G (p.Ser189Ter)	5310	PKD1	Pathogenic	GRCh38	974497
+single nucleotide variant	NM_001009944.3(PKD1):c.380T>G (p.Phe127Cys)	5310	PKD1	Likely pathogenic	GRCh38	974448
+single nucleotide variant	NM_001009944.3(PKD1):c.10822-1G>C	5310	PKD1	Pathogenic	GRCh38	974527
+single nucleotide variant	NM_001009944.3(PKD1):c.9568+1G>C	5310	PKD1	Pathogenic	GRCh38	974541
+single nucleotide variant	NM_001009944.3(PKD1):c.3295+1G>T	5310	PKD1	Pathogenic	GRCh38	974446
+single nucleotide variant	NM_001009944.3(PKD1):c.1202-2A>T	5310	PKD1	Pathogenic	GRCh38	974400
+single nucleotide variant	NM_001009944.3(PKD1):c.11693C>A (p.Ser3898Ter)	5310	PKD1	Pathogenic	GRCh38	975082
+single nucleotide variant	NM_001009944.3(PKD1):c.10810G>A (p.Glu3604Lys)	5310	PKD1	Likely pathogenic	GRCh38	975083
+single nucleotide variant	NM_001009944.3(PKD1):c.12444+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	975069
+single nucleotide variant	NM_001009944.3(PKD1):c.655C>T (p.Gln219Ter)	5310	PKD1	Likely pathogenic	GRCh38	976019
+single nucleotide variant	NM_001009944.3(PKD1):c.9894G>A (p.Trp3298Ter)	5310	PKD1	Pathogenic	GRCh38	976841
+single nucleotide variant	NM_001009944.3(PKD1):c.6534C>A (p.Cys2178Ter)	5310	PKD1	Pathogenic	GRCh38	976824
+single nucleotide variant	NM_001009944.3(PKD1):c.2986-1G>A	5310	PKD1	Pathogenic	GRCh38	977303
+single nucleotide variant	NM_001009944.3(PKD1):c.3250C>T (p.Gln1084Ter)	5310	PKD1	Pathogenic	GRCh38	981528
+single nucleotide variant	NM_001009944.3(PKD1):c.12365G>A (p.Trp4122Ter)	5310	PKD1	Pathogenic	GRCh38	985685
+single nucleotide variant	NM_001009944.3(PKD1):c.8791+1G>A	5310	PKD1	Pathogenic	GRCh38	986356
+single nucleotide variant	NM_001009944.3(PKD1):c.11375C>A (p.Ser3792Ter)	5310	PKD1	Pathogenic	GRCh38	992451
+single nucleotide variant	NM_001009944.3(PKD1):c.3729G>A (p.Trp1243Ter)	5310	PKD1	Pathogenic	GRCh38	992460
+single nucleotide variant	NM_001009944.3(PKD1):c.7271C>G (p.Thr2424Arg)	5310	PKD1	Likely pathogenic	GRCh38	992998
+single nucleotide variant	NM_001009944.3(PKD1):c.12721C>T (p.Gln4241Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	993934
+single nucleotide variant	NM_001009944.3(PKD1):c.9562A>G (p.Asn3188Asp)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	993742
+single nucleotide variant	NM_001009944.3(PKD1):c.6871C>T (p.Gln2291Ter)	5310	PKD1	Pathogenic	GRCh38	993350
+single nucleotide variant	NM_001009944.3(PKD1):c.1903C>T (p.Gln635Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	993410
+single nucleotide variant	NM_001009944.3(PKD1):c.12711C>G (p.Tyr4237Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	994713
+single nucleotide variant	NM_001009944.3(PKD1):c.9800G>A (p.Trp3267Ter)	5310	PKD1	Pathogenic	GRCh38	994721
+single nucleotide variant	NM_001009944.3(PKD1):c.9033C>G (p.Tyr3011Ter)	5310	PKD1	Likely pathogenic	GRCh38	994678
+single nucleotide variant	NM_001009944.3(PKD1):c.7060C>T (p.Gln2354Ter)	5310	PKD1	Pathogenic	GRCh38	995205
+single nucleotide variant	NM_001009944.3(PKD1):c.5678G>A (p.Trp1893Ter)	5310	PKD1	Pathogenic	GRCh38	995200
+single nucleotide variant	NM_001009944.3(PKD1):c.5395C>T (p.Gln1799Ter)	5310	PKD1	Pathogenic	GRCh38	995197
+single nucleotide variant	NM_001009944.3(PKD1):c.4387C>T (p.Gln1463Ter)	5310	PKD1	Pathogenic	GRCh38	995156
+single nucleotide variant	NM_001009944.3(PKD1):c.12658G>T (p.Glu4220Ter)	5310	PKD1	Pathogenic	GRCh38	997404
+single nucleotide variant	NM_001009944.3(PKD1):c.12178C>T (p.Gln4060Ter)	5310	PKD1	Pathogenic	GRCh38	997169
+single nucleotide variant	NM_001009944.3(PKD1):c.11889G>A (p.Trp3963Ter)	5310	PKD1	Pathogenic	GRCh38	997309
+single nucleotide variant	NM_001009944.3(PKD1):c.11884C>T (p.Gln3962Ter)	5310	PKD1	Pathogenic	GRCh38	997175
+single nucleotide variant	NM_001009944.3(PKD1):c.11784G>A (p.Trp3928Ter)	5310	PKD1	Pathogenic	GRCh38	997396
+single nucleotide variant	NM_001009944.3(PKD1):c.11766G>A (p.Trp3922Ter)	5310	PKD1	Pathogenic	GRCh38	997191
+single nucleotide variant	NM_001009944.3(PKD1):c.11712+2T>C	5310	PKD1	Pathogenic	GRCh38	997241
+single nucleotide variant	NM_001009944.3(PKD1):c.11178G>A (p.Trp3726Ter)	5310	PKD1	Pathogenic	GRCh38	997399
+single nucleotide variant	NM_001009944.3(PKD1):c.11157-1G>A	5310	PKD1	Pathogenic	GRCh38	997190
+single nucleotide variant	NM_001009944.3(PKD1):c.10725G>A (p.Trp3575Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	997310
+single nucleotide variant	NM_001009944.3(PKD1):c.8470C>T (p.Gln2824Ter)	5310	PKD1	Pathogenic	GRCh38	997172
+single nucleotide variant	NM_001009944.3(PKD1):c.8388T>G (p.Tyr2796Ter)	5310	PKD1	Pathogenic	GRCh38	997240
+single nucleotide variant	NM_001009944.3(PKD1):c.7864-1G>T	5310	PKD1	Pathogenic	GRCh38	997134
+single nucleotide variant	NM_001009944.3(PKD1):c.7804C>T (p.Gln2602Ter)	5310	PKD1	Pathogenic	GRCh38	997261
+single nucleotide variant	NM_001009944.3(PKD1):c.6560G>A (p.Trp2187Ter)	5310	PKD1	Pathogenic	GRCh38	997397
+single nucleotide variant	NM_001009944.3(PKD1):c.6472C>T (p.Gln2158Ter)	5310	PKD1	Pathogenic	GRCh38	997260
+single nucleotide variant	NM_001009944.3(PKD1):c.6406C>T (p.Gln2136Ter)	5310	PKD1	Pathogenic	GRCh38	997174
+single nucleotide variant	NM_001009944.3(PKD1):c.6021C>A (p.Tyr2007Ter)	5310	PKD1	Pathogenic	GRCh38	997213
+single nucleotide variant	NM_001009944.3(PKD1):c.5923C>T (p.Gln1975Ter)	5310	PKD1	Pathogenic	GRCh38	997170
+single nucleotide variant	NM_001009944.3(PKD1):c.5510G>A (p.Trp1837Ter)	5310	PKD1	Pathogenic	GRCh38	997402
+single nucleotide variant	NM_001009944.3(PKD1):c.5221G>T (p.Glu1741Ter)	5310	PKD1	Pathogenic	GRCh38	997398
+single nucleotide variant	NM_001009944.3(PKD1):c.4197G>A (p.Trp1399Ter)	5310	PKD1	Pathogenic	GRCh38	997135
+single nucleotide variant	NM_001009944.3(PKD1):c.4168C>T (p.Gln1390Ter)	5310	PKD1	Pathogenic	GRCh38	997218
+single nucleotide variant	NM_001009944.3(PKD1):c.3728G>A (p.Trp1243Ter)	5310	PKD1	Pathogenic	GRCh38	997406
+single nucleotide variant	NM_001009944.3(PKD1):c.3295+2T>G	5310	PKD1	Pathogenic	GRCh38	997243
+single nucleotide variant	NM_001009944.3(PKD1):c.2914A>T (p.Lys972Ter)	5310	PKD1	Pathogenic	GRCh38	997381
+single nucleotide variant	NM_001009944.3(PKD1):c.2660G>A (p.Trp887Ter)	5310	PKD1	Pathogenic	GRCh38	997140
+single nucleotide variant	NM_001009944.3(PKD1):c.2528C>G (p.Ser843Ter)	5310	PKD1	Pathogenic	GRCh38	997215
+single nucleotide variant	NM_001009944.3(PKD1):c.2250G>A (p.Trp750Ter)	5310	PKD1	Pathogenic	GRCh38	997405
+single nucleotide variant	NM_001009944.3(PKD1):c.1849+1G>T	5310	PKD1	Pathogenic	GRCh38	997137
+single nucleotide variant	NM_001009944.3(PKD1):c.359+2T>G	5310	PKD1	Pathogenic	GRCh38	997379
+single nucleotide variant	NM_001009944.3(PKD1):c.304A>T (p.Lys102Ter)	5310	PKD1	Pathogenic	GRCh38	997113
+single nucleotide variant	NM_001009944.3(PKD1):c.111C>A (p.Cys37Ter)	5310	PKD1	Pathogenic	GRCh38	997355
+single nucleotide variant	NM_001009944.3(PKD1):c.629G>A (p.Cys210Tyr)	5310	PKD1	Likely pathogenic	GRCh38	997539
+single nucleotide variant	NM_001009944.3(PKD1):c.290A>G (p.Asp97Gly)	5310	PKD1	Likely pathogenic	GRCh38	998164
+single nucleotide variant	NM_001009944.3(PKD1):c.11263C>T (p.Gln3755Ter)	5310	PKD1	Pathogenic	GRCh38	1013090
+single nucleotide variant	NM_001009944.3(PKD1):c.3984G>C (p.Trp1328Cys)	5310	PKD1	Likely pathogenic	GRCh38	1027382
+single nucleotide variant	NM_001009944.3(PKD1):c.5637C>A (p.Tyr1879Ter)	5310	PKD1	Pathogenic	GRCh38	1030954
+single nucleotide variant	NM_001009944.3(PKD1):c.5290G>T (p.Glu1764Ter)	5310	PKD1	Pathogenic	GRCh38	1048641
+single nucleotide variant	NM_001009944.3(PKD1):c.11723T>C (p.Leu3908Pro)	5310	PKD1	Pathogenic	GRCh38	1064647
+single nucleotide variant	NM_001009944.3(PKD1):c.1606+1G>A	5310	PKD1	Pathogenic	GRCh38	1172882
+single nucleotide variant	NM_001009944.3(PKD1):c.6282G>A (p.Trp2094Ter)	5310	PKD1	Pathogenic	GRCh38	1177417
+single nucleotide variant	NM_001009944.3(PKD1):c.12004-2A>C	5310	PKD1	Likely pathogenic	GRCh38	1179201
+single nucleotide variant	NM_001009944.3(PKD1):c.11557G>T (p.Glu3853Ter)	5310	PKD1	Pathogenic	GRCh38	1179204
+single nucleotide variant	NM_001009944.3(PKD1):c.11537+2T>A	5310	PKD1	Likely pathogenic	GRCh38	1179205
+single nucleotide variant	NM_001009944.3(PKD1):c.10168C>T (p.Gln3390Ter)	5310	PKD1	Pathogenic	GRCh38	1179107
+single nucleotide variant	NM_001009944.3(PKD1):c.9924-1G>C	5310	PKD1	Likely pathogenic	GRCh38	1179067
+single nucleotide variant	NM_001009944.3(PKD1):c.9691G>T (p.Glu3231Ter)	5310	PKD1	Pathogenic	GRCh38	1179071
+single nucleotide variant	NM_001009944.3(PKD1):c.6424C>T (p.Gln2142Ter)	5310	PKD1	Pathogenic	GRCh38	1179077
+single nucleotide variant	NM_001009944.3(PKD1):c.2716G>T (p.Glu906Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1179091
+single nucleotide variant	NM_001009944.3(PKD1):c.2097+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1179052
+single nucleotide variant	NM_001009944.3(PKD1):c.1202-1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1179200
+single nucleotide variant	NM_001009944.3(PKD1):c.272C>A (p.Ser91Ter)	5310	PKD1	Pathogenic	GRCh38	1179089
+single nucleotide variant	NM_001009944.3(PKD1):c.1202-2A>G	5310	PKD1	Pathogenic	GRCh38	1184624
+single nucleotide variant	NM_001009944.3(PKD1):c.9047A>G (p.Gln3016Arg)	5310	PKD1	Likely pathogenic	GRCh38	1212131
+single nucleotide variant	NM_001009944.3(PKD1):c.6040C>T (p.Gln2014Ter)	5310	PKD1	Pathogenic	GRCh38	1253802
+single nucleotide variant	NM_001009944.3(PKD1):c.8823C>G (p.Tyr2941Ter)	5310	PKD1	Pathogenic	GRCh38	1254656
+single nucleotide variant	NM_001009944.3(PKD1):c.11555T>C (p.Leu3852Pro)	5310	PKD1	Likely pathogenic	GRCh38	1254751
+single nucleotide variant	NM_001009944.3(PKD1):c.6184C>T (p.Gln2062Ter)	5310	PKD1	Pathogenic	GRCh38	1254781
+single nucleotide variant	NM_001009944.3(PKD1):c.6555C>A (p.Tyr2185Ter)	5310	PKD1	Pathogenic	GRCh38	1255640
+single nucleotide variant	NM_001009944.3(PKD1):c.2839C>T (p.Gln947Ter)	5310	PKD1	Pathogenic	GRCh38	1255641
+single nucleotide variant	NM_001009944.3(PKD1):c.3865G>A (p.Val1289Met)	5310	PKD1	Likely pathogenic	GRCh38	1255644
+single nucleotide variant	NM_001009944.3(PKD1):c.5679G>A (p.Trp1893Ter)	5310	PKD1	Pathogenic	GRCh38	1255646
+single nucleotide variant	NM_001009944.3(PKD1):c.6391A>C (p.Ser2131Arg)	5310	PKD1	Pathogenic	GRCh38	1255649
+single nucleotide variant	NM_001009944.3(PKD1):c.11016+1G>A	5310	PKD1	Pathogenic	GRCh38	1255651
+single nucleotide variant	NM_001009944.3(PKD1):c.9543G>C (p.Lys3181Asn)	5310	PKD1	Likely pathogenic	GRCh38	1255654
+single nucleotide variant	NM_001009944.3(PKD1):c.278T>C (p.Leu93Pro)	5310	PKD1	Likely pathogenic	GRCh38	1255655
+single nucleotide variant	NM_001009944.3(PKD1):c.5065G>T (p.Glu1689Ter)	5310	PKD1	Pathogenic	GRCh38	1255660
+single nucleotide variant	NM_001009944.3(PKD1):c.10462C>T (p.Gln3488Ter)	5310	PKD1	Pathogenic	GRCh38	1255661
+single nucleotide variant	NM_001009944.3(PKD1):c.10306C>T (p.Gln3436Ter)	5310	PKD1	Likely pathogenic	GRCh38	1255662
+single nucleotide variant	NM_001009944.3(PKD1):c.640T>A (p.Cys214Ser)	5310	PKD1	Likely pathogenic	GRCh38	1255666
+single nucleotide variant	NM_001009944.3(PKD1):c.9611A>G (p.Asp3204Gly)	5310	PKD1	Likely pathogenic	GRCh38	1255669
+single nucleotide variant	NM_001009944.3(PKD1):c.11530G>C (p.Asp3844His)	5310	PKD1	Likely pathogenic	GRCh38	1255673
+single nucleotide variant	NM_001009944.3(PKD1):c.11452G>T (p.Gly3818Cys)	5310	PKD1	Likely pathogenic	GRCh38	1255674
+single nucleotide variant	NM_001009944.3(PKD1):c.9398-2A>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1255677
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+2T>G	5310	PKD1	Pathogenic	GRCh38	1255679
+single nucleotide variant	NM_001009944.3(PKD1):c.6915+1G>A	5310	PKD1	Pathogenic	GRCh38	1255680
+single nucleotide variant	NM_001009944.3(PKD1):c.359+3A>T	5310	PKD1	Likely pathogenic	GRCh38	1255681
+single nucleotide variant	NM_001009944.3(PKD1):c.11270-1G>A	5310	PKD1	Pathogenic	GRCh38	1255683
+single nucleotide variant	NM_001009944.3(PKD1):c.10259G>A (p.Trp3420Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1256432
+single nucleotide variant	NM_001009944.3(PKD1):c.7483T>C (p.Cys2495Arg)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1256449
+single nucleotide variant	NM_001009944.3(PKD1):c.9568+1G>T	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1256455
+single nucleotide variant	NM_001009944.3(PKD1):c.7555C>T (p.Gln2519Ter)	5310	PKD1	Pathogenic	GRCh38	1284930
+single nucleotide variant	NM_001009944.3(PKD1):c.2853+1G>A	5310	PKD1	Pathogenic	GRCh38	1298648
+single nucleotide variant	NM_001009944.3(PKD1):c.9201+1G>A	5310	PKD1	Pathogenic	GRCh38	1299529
+single nucleotide variant	NM_001009944.3(PKD1):c.9986C>T (p.Ser3329Phe)	5310	PKD1	Likely pathogenic	GRCh38	1299610
+single nucleotide variant	NM_001009944.3(PKD1):c.3542A>G (p.Tyr1181Cys)	5310	PKD1	Likely pathogenic	GRCh38	1303018
+single nucleotide variant	NM_001009944.3(PKD1):c.2439C>A (p.Cys813Ter)	5310	PKD1	Pathogenic	GRCh38	1321572
+single nucleotide variant	NM_001009944.3(PKD1):c.5622G>A (p.Trp1874Ter)	5310	PKD1	Pathogenic	GRCh38	1328019
+single nucleotide variant	NM_001009944.3(PKD1):c.7120A>T (p.Lys2374Ter)	5310	PKD1	Pathogenic	GRCh38	1328051
+single nucleotide variant	NM_001009944.3(PKD1):c.11156+1G>T	5310	PKD1	Pathogenic	GRCh38	1328296
+single nucleotide variant	NM_001009944.3(PKD1):c.11156+2T>C	5310	PKD1	Likely pathogenic	GRCh38	1328422
+single nucleotide variant	NM_001009944.3(PKD1):c.694T>C (p.Cys232Arg)	5310	PKD1	Likely pathogenic	GRCh38	1330257
+single nucleotide variant	NM_001009944.3(PKD1):c.9202-1G>A	5310	PKD1	Likely pathogenic	GRCh38	1333533
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1333749
+single nucleotide variant	NM_001009944.3(PKD1):c.5159G>A (p.Trp1720Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1339640
+single nucleotide variant	NM_001009944.3(PKD1):c.458C>A (p.Ala153Asp)	5310	PKD1	Likely pathogenic	GRCh38	1345043
+single nucleotide variant	NM_001009944.3(PKD1):c.5722C>T (p.Gln1908Ter)	5310	PKD1	Pathogenic	GRCh38	1526112
+single nucleotide variant	NM_001009944.3(PKD1):c.1723-1G>C	5310	PKD1	Likely pathogenic	GRCh38	1526404
+single nucleotide variant	NM_001009944.3(PKD1):c.10051-1G>T	5310	PKD1	Likely pathogenic	GRCh38	1527895
+single nucleotide variant	NM_001009944.3(PKD1):c.7535T>G (p.Leu2512Arg)	5310	PKD1	Likely pathogenic	GRCh38	1527898
+single nucleotide variant	NM_001009944.3(PKD1):c.6115C>T (p.Gln2039Ter)	5310	PKD1	Pathogenic	GRCh38	1678608
+single nucleotide variant	NM_001009944.3(PKD1):c.11384G>A (p.Trp3795Ter)	5310	PKD1	Pathogenic	GRCh38	1683829
+single nucleotide variant	NM_001009944.3(PKD1):c.1722+1G>T	5310	PKD1	Likely pathogenic	GRCh38	1685405
+single nucleotide variant	NM_001009944.3(PKD1):c.4929C>G (p.Tyr1643Ter)	5310	PKD1	Pathogenic	GRCh38	1686072
+single nucleotide variant	NM_001009944.3(PKD1):c.4241G>C (p.Trp1414Ser)	5310	PKD1	Likely pathogenic	GRCh38	1687410
+single nucleotide variant	NM_001009944.3(PKD1):c.1309C>T (p.Gln437Ter)	5310	PKD1	Pathogenic	GRCh38	1687443
+single nucleotide variant	NM_001009944.3(PKD1):c.2089C>T (p.Gln697Ter)	5310	PKD1	Pathogenic	GRCh38	1687587
+single nucleotide variant	NM_001009944.3(PKD1):c.4551C>G (p.Tyr1517Ter)	5310	PKD1	Pathogenic	GRCh38	1693009
+single nucleotide variant	NM_001009944.3(PKD1):c.10700C>T (p.Ala3567Val)	5310	PKD1	Likely pathogenic	GRCh38	1694780
+single nucleotide variant	NM_001009944.3(PKD1):c.6982G>T (p.Glu2328Ter)	5310	PKD1	Pathogenic	GRCh38	1698939
+single nucleotide variant	NM_001009944.3(PKD1):c.10087C>T (p.Gln3363Ter)	5310	PKD1	Pathogenic	GRCh38	1699188
+single nucleotide variant	NM_001009944.3(PKD1):c.11017-25A>C	5310	PKD1	Likely pathogenic	GRCh38	1699193
+single nucleotide variant	NM_001009944.3(PKD1):c.4617G>A (p.Trp1539Ter)	5310	PKD1	Pathogenic	GRCh38	1699332
+single nucleotide variant	NM_001009944.3(PKD1):c.6795C>G (p.Tyr2265Ter)	5310	PKD1	Pathogenic	GRCh38	1699499
+single nucleotide variant	NM_001009944.3(PKD1):c.10658G>A (p.Trp3553Ter)	5310	PKD1	Pathogenic	GRCh38	1699513
+single nucleotide variant	NM_001009944.3(PKD1):c.12167G>A (p.Trp4056Ter)	5310	PKD1	Pathogenic	GRCh38	1699911
+single nucleotide variant	NM_001009944.3(PKD1):c.1548G>A (p.Trp516Ter)	5310	PKD1	Pathogenic	GRCh38	1699912
+single nucleotide variant	NM_001009944.3(PKD1):c.4214G>A (p.Trp1405Ter)	5310	PKD1	Pathogenic	GRCh38	1699913
+single nucleotide variant	NM_001009944.3(PKD1):c.3561C>G (p.Tyr1187Ter)	5310	PKD1	Pathogenic	GRCh38	1701271
+single nucleotide variant	NM_001009944.3(PKD1):c.3165G>A (p.Trp1055Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1705337
+single nucleotide variant	NM_001009944.3(PKD1):c.9046C>T (p.Gln3016Ter)	5310	PKD1	Pathogenic	GRCh38	1706384
+single nucleotide variant	NM_001009944.3(PKD1):c.9005C>A (p.Ser3002Ter)	5310	PKD1	Pathogenic	GRCh38	1707241
+single nucleotide variant	NM_001009944.3(PKD1):c.12577C>T (p.Gln4193Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1707900
+single nucleotide variant	NM_001009944.3(PKD1):c.5006G>A (p.Trp1669Ter)	5310	PKD1	Pathogenic	GRCh38	1708003
+single nucleotide variant	NM_001009944.3(PKD1):c.8161+1G>T	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1709231
+single nucleotide variant	NM_001009944.3(PKD1):c.2545G>A (p.Val849Met)	5310	PKD1	Pathogenic	GRCh38	1711173
+single nucleotide variant	NM_001009944.3(PKD1):c.616C>T (p.Gln206Ter)	5310	PKD1	Pathogenic	GRCh38	1711174
+single nucleotide variant	NM_001009944.3(PKD1):c.5155G>C (p.Gly1719Arg)	5310	PKD1	Pathogenic	GRCh38	1711176
+single nucleotide variant	NM_001009944.3(PKD1):c.8098G>A (p.Ala2700Thr)	5310	PKD1	Pathogenic	GRCh38	1711178
+single nucleotide variant	NM_001009944.3(PKD1):c.5637C>G (p.Tyr1879Ter)	5310	PKD1	Pathogenic	GRCh38	1712847
+single nucleotide variant	NM_001009944.3(PKD1):c.12624T>A (p.Cys4208Ter)	5310	PKD1	Likely pathogenic	GRCh38	1723014
+single nucleotide variant	NM_001009944.3(PKD1):c.11657G>C (p.Arg3886Pro)	5310	PKD1	Likely pathogenic	GRCh38	1723147
+single nucleotide variant	NM_001009944.3(PKD1):c.2684C>A (p.Ser895Ter)	5310	PKD1	Pathogenic	GRCh38	1723653
+single nucleotide variant	NM_001009944.3(PKD1):c.11017-25A>G	5310	PKD1	Likely pathogenic	GRCh38	1800458
+single nucleotide variant	NM_001009944.3(PKD1):c.10118C>A (p.Ser3373Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1800461
+single nucleotide variant	NM_001009944.3(PKD1):c.9616C>T (p.Gln3206Ter)	5310	PKD1	Pathogenic	GRCh38	1800869
+single nucleotide variant	NM_001009944.3(PKD1):c.6491C>G (p.Ser2164Ter)	5310	PKD1	Pathogenic	GRCh38	1801031
+single nucleotide variant	NM_001009944.3(PKD1):c.215+2T>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1801709
+single nucleotide variant	NM_001009944.3(PKD1):c.11257C>G (p.Arg3753Gly)	5310	PKD1	Likely pathogenic	GRCh38	1803270
+single nucleotide variant	NM_001009944.3(PKD1):c.12004-1G>C	5310	PKD1	Likely pathogenic	GRCh38	1804568
+single nucleotide variant	NM_001009944.3(PKD1):c.1987C>T (p.Gln663Ter)	5310	PKD1	Pathogenic	GRCh38	1805166
+single nucleotide variant	NM_001009944.3(PKD1):c.1660C>T (p.Gln554Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1805239
+single nucleotide variant	NM_001009944.3(PKD1):c.8645G>A (p.Trp2882Ter)	5310	PKD1	Pathogenic	GRCh38	1805462
+single nucleotide variant	NM_001009944.3(PKD1):c.9051C>A (p.Tyr3017Ter)	5310	PKD1	Pathogenic	GRCh38	1805890
+single nucleotide variant	NM_001009944.3(PKD1):c.9383G>A (p.Trp3128Ter)	5310	PKD1	Pathogenic	GRCh38	1805914
+single nucleotide variant	NM_001009944.3(PKD1):c.11538-2A>C	5310	PKD1	Pathogenic	GRCh38	1806154
+single nucleotide variant	NM_001009944.3(PKD1):c.9559G>T (p.Asp3187Tyr)	5310	PKD1	Likely pathogenic	GRCh38	1806190
+single nucleotide variant	NM_001009944.3(PKD1):c.3162-1G>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	1806298
+single nucleotide variant	NM_001009944.3(PKD1):c.10822-3C>G	5310	PKD1	Likely pathogenic	GRCh38	1806303
+single nucleotide variant	NM_001009944.3(PKD1):c.11935C>T (p.Gln3979Ter)	5310	PKD1	Pathogenic	GRCh38	1806306
+single nucleotide variant	NM_001009944.3(PKD1):c.4888C>T (p.Gln1630Ter)	5310	PKD1	Pathogenic	GRCh38	1806351
+single nucleotide variant	NM_001009944.3(PKD1):c.1385+1G>T	5310	PKD1	Pathogenic	GRCh38	1806361
+single nucleotide variant	NM_001009944.3(PKD1):c.4242G>A (p.Trp1414Ter)	5310	PKD1	Pathogenic	GRCh38	1807323
+single nucleotide variant	NM_001009944.3(PKD1):c.12323G>A (p.Trp4108Ter)	5310	PKD1	Pathogenic	GRCh38	1809969
+single nucleotide variant	NM_001009944.3(PKD1):c.1386-2A>G	5310	PKD1	Pathogenic	GRCh38	1810711
+single nucleotide variant	NM_001009944.3(PKD1):c.862C>T (p.Gln288Ter)	5310	PKD1	Pathogenic	GRCh38	1878915
+single nucleotide variant	NM_001009944.3(PKD1):c.7704-2A>G	5310	PKD1	Pathogenic	GRCh38	1879320
+single nucleotide variant	NM_001009944.3(PKD1):c.7313T>C (p.Leu2438Pro)	5310	PKD1	Likely pathogenic	GRCh38	1992364
+single nucleotide variant	NM_001009944.3(PKD1):c.9340C>T (p.Gln3114Ter)	5310	PKD1	Pathogenic	GRCh38	2328900
+single nucleotide variant	NM_001009944.3(PKD1):c.7864-1G>A	5310	PKD1	Likely pathogenic	GRCh38	2428940
+single nucleotide variant	NM_001009944.3(PKD1):c.5516G>A (p.Trp1839Ter)	5310	PKD1	Pathogenic	GRCh38	2429377
+single nucleotide variant	NM_001009944.3(PKD1):c.1297C>T (p.Gln433Ter)	5310	PKD1	Pathogenic	GRCh38	2429501
+single nucleotide variant	NM_001009944.3(PKD1):c.3295+1G>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2430563
+single nucleotide variant	NM_001009944.3(PKD1):c.9569-1G>A	5310	PKD1	Likely pathogenic	GRCh38	2430705
+single nucleotide variant	NM_001009944.3(PKD1):c.5366C>A (p.Ser1789Ter)	5310	PKD1	Likely pathogenic	GRCh38	2430757
+single nucleotide variant	NM_001009944.3(PKD1):c.11423G>A (p.Trp3808Ter)	5310	PKD1	Pathogenic	GRCh38	2431737
+single nucleotide variant	NM_001009944.3(PKD1):c.9584G>A (p.Trp3195Ter)	5310	PKD1	Pathogenic	GRCh38	2437838
+single nucleotide variant	NM_001009944.3(PKD1):c.9355A>T (p.Lys3119Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2444175
+single nucleotide variant	NM_001009944.3(PKD1):c.7045G>T (p.Glu2349Ter)	5310	PKD1	Pathogenic	GRCh38	2446441
+single nucleotide variant	NM_001009944.3(PKD1):c.11816G>A (p.Trp3939Ter)	5310	PKD1	Pathogenic	GRCh38	2500361
+single nucleotide variant	NM_001009944.3(PKD1):c.10764G>A (p.Trp3588Ter)	5310	PKD1	Likely pathogenic	GRCh38	2500646
+single nucleotide variant	NM_001009944.3(PKD1):c.8300G>C (p.Arg2767Pro)	5310	PKD1	Likely pathogenic	GRCh38	2501563
+single nucleotide variant	NM_001009944.3(PKD1):c.445C>T (p.Gln149Ter)	5310	PKD1	Pathogenic	GRCh38	2504222
+single nucleotide variant	NM_001009944.3(PKD1):c.9760C>T (p.Gln3254Ter)	5310	PKD1	Pathogenic	GRCh38	2505026
+single nucleotide variant	NM_001009944.3(PKD1):c.155C>A (p.Ser52Ter)	5310	PKD1	Pathogenic	GRCh38	2505898
+single nucleotide variant	NM_001009944.3(PKD1):c.7704-1G>A	5310	PKD1	Likely pathogenic	GRCh38	2506236
+single nucleotide variant	NM_001009944.3(PKD1):c.8900C>G (p.Ser2967Ter)	5310	PKD1	Pathogenic	GRCh38	2506237
+single nucleotide variant	NM_001009944.3(PKD1):c.10842C>G (p.Tyr3614Ter)	5310	PKD1	Pathogenic	GRCh38	2506776
+single nucleotide variant	NM_001009944.3(PKD1):c.1132C>T (p.Gln378Ter)	5310	PKD1	Likely pathogenic	GRCh38	2572640
+single nucleotide variant	NM_001009944.3(PKD1):c.8350C>T (p.Gln2784Ter)	5310	PKD1	Pathogenic	GRCh38	2574212
+single nucleotide variant	NM_001009944.3(PKD1):c.11385G>A (p.Trp3795Ter)	5310	PKD1	Pathogenic	GRCh38	2574723
+single nucleotide variant	NM_001009944.3(PKD1):c.2622C>A (p.Cys874Ter)	5310	PKD1	Pathogenic	GRCh38	2575812
+single nucleotide variant	NM_001009944.3(PKD1):c.8016+1G>A	5310	PKD1	Likely pathogenic	GRCh38	2577021
+single nucleotide variant	NM_001009944.3(PKD1):c.7066-1G>C	5310	PKD1	Pathogenic	GRCh38	2577430
+single nucleotide variant	NM_001009944.3(PKD1):c.3441C>A (p.Tyr1147Ter)	5310	PKD1	Pathogenic	GRCh38	2577431
+single nucleotide variant	NM_001009944.3(PKD1):c.3162-1G>A	5310	PKD1	Pathogenic	GRCh38	2577437
+single nucleotide variant	NM_001009944.3(PKD1):c.1429G>T (p.Glu477Ter)	5310	PKD1	Pathogenic	GRCh38	2577453
+single nucleotide variant	NM_001009944.3(PKD1):c.3161+1G>C	5310	PKD1	Pathogenic	GRCh38	2577459
+single nucleotide variant	NM_001009944.3(PKD1):c.2050A>T (p.Arg684Ter)	5310	PKD1	Pathogenic	GRCh38	2578268
+single nucleotide variant	NM_001009944.3(PKD1):c.7489+1G>A	5310	PKD1	Pathogenic	GRCh38	2579295
+single nucleotide variant	NM_001009944.3(PKD1):c.5989C>T (p.Gln1997Ter)	5310	PKD1	Pathogenic	GRCh38	2579530
+single nucleotide variant	NM_001009944.3(PKD1):c.8566C>T (p.Gln2856Ter)	5310	PKD1	Pathogenic	GRCh38	2582131
+single nucleotide variant	NM_001009944.3(PKD1):c.2095T>C (p.Ser699Pro)	5310	PKD1	Likely pathogenic	GRCh38	2582216
+single nucleotide variant	NM_001009944.3(PKD1):c.2854-1G>T	5310	PKD1	Likely pathogenic	GRCh38	2613205
+single nucleotide variant	NM_001009944.3(PKD1):c.8428G>T (p.Glu2810Ter)	5310	PKD1	Pathogenic	GRCh38	2619414
+single nucleotide variant	NM_001009944.3(PKD1):c.10233G>A (p.Trp3411Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2627962
+single nucleotide variant	NM_001009944.3(PKD1):c.4230C>A (p.Tyr1410Ter)	5310	PKD1	Pathogenic	GRCh38	2629040
+single nucleotide variant	NM_001009944.3(PKD1):c.10619-2A>G	5310	PKD1	Pathogenic	GRCh38	2632584
+single nucleotide variant	NM_001009944.3(PKD1):c.7213T>G (p.Trp2405Gly)	5310	PKD1	Likely pathogenic	GRCh38	2634378
+single nucleotide variant	NM_001009944.3(PKD1):c.7114T>G (p.Ser2372Ala)	5310	PKD1	Likely pathogenic	GRCh38	2634380
+single nucleotide variant	NM_001009944.3(PKD1):c.1529G>C (p.Arg510Pro)	5310	PKD1	Likely pathogenic	GRCh38	2636123
+single nucleotide variant	NM_001009944.3(PKD1):c.12382G>T (p.Glu4128Ter)	5310	PKD1	Pathogenic	GRCh38	2630198
+single nucleotide variant	NM_001009944.3(PKD1):c.5495G>T (p.Gly1832Val)	5310	PKD1	Likely pathogenic	GRCh38	2632161
+single nucleotide variant	NM_001009944.3(PKD1):c.1663G>T (p.Gly555Ter)	5310	PKD1	Pathogenic	GRCh38	2632166
+single nucleotide variant	NM_001009944.3(PKD1):c.9397+1G>C	5310	PKD1	Pathogenic	GRCh38	2632171
+single nucleotide variant	NM_001009944.3(PKD1):c.6281G>A (p.Trp2094Ter)	5310	PKD1	Pathogenic	GRCh38	2633864
+single nucleotide variant	NM_001009944.3(PKD1):c.6504C>A (p.Tyr2168Ter)	5310	PKD1	Pathogenic	GRCh38	2629862
+single nucleotide variant	NM_001009944.3(PKD1):c.7066-2A>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2631515
+single nucleotide variant	NM_001009944.3(PKD1):c.11248C>T (p.Arg3750Trp)	5310	PKD1	Likely pathogenic	GRCh38	2631710
+single nucleotide variant	NM_001009944.3(PKD1):c.7672C>T (p.Gln2558Ter)	5310	PKD1	Pathogenic	GRCh38	2635368
+single nucleotide variant	NM_001009944.3(PKD1):c.4897G>T (p.Glu1633Ter)	5310	PKD1	Likely pathogenic	GRCh38	2631215
+single nucleotide variant	NM_001009944.3(PKD1):c.9670G>T (p.Glu3224Ter)	5310	PKD1	Pathogenic	GRCh38	2631330
+single nucleotide variant	NM_001009944.3(PKD1):c.11773G>T (p.Glu3925Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2634604
+single nucleotide variant	NM_001009944.3(PKD1):c.7209+1G>C	5310	PKD1	Likely pathogenic	GRCh38	2672606
+single nucleotide variant	NM_001009944.3(PKD1):c.604G>T (p.Glu202Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2683676
+single nucleotide variant	NM_001009944.3(PKD1):c.416G>A (p.Trp139Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2683677
+single nucleotide variant	NM_001009944.3(PKD1):c.7484G>A (p.Cys2495Tyr)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2683946
+single nucleotide variant	NM_001009944.3(PKD1):c.9013C>T (p.Gln3005Ter)	5310	PKD1	Pathogenic	GRCh38	2684298
+single nucleotide variant	NM_001009944.3(PKD1):c.6139G>A (p.Gly2047Ser)	5310	PKD1	Likely pathogenic	GRCh38	2690991
+single nucleotide variant	NM_001009944.3(PKD1):c.9850T>C (p.Cys3284Arg)	5310	PKD1	Likely pathogenic	GRCh38	2690992
+single nucleotide variant	NM_001009944.3(PKD1):c.695G>C (p.Cys232Ser)	5310	PKD1	Pathogenic	GRCh38	2691260
+single nucleotide variant	NM_001009944.3(PKD1):c.11519A>C (p.His3840Pro)	5310	PKD1	Likely pathogenic	GRCh38	2691262
+single nucleotide variant	NM_001009944.3(PKD1):c.12013C>T (p.Gln4005Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	2691382
+single nucleotide variant	NM_001009944.3(PKD1):c.12381C>A (p.Tyr4127Ter)	5310	PKD1	Pathogenic	GRCh38	2692309
+single nucleotide variant	NM_001009944.3(PKD1):c.417G>C (p.Trp139Cys)	5310	PKD1	Likely pathogenic	GRCh38	2692331
+single nucleotide variant	NM_001009944.3(PKD1):c.3161+5G>C	5310	PKD1	Likely pathogenic	GRCh38	2920658
+single nucleotide variant	NM_001009944.3(PKD1):c.5478G>A (p.Trp1826Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3024074
+single nucleotide variant	NM_001009944.3(PKD1):c.10397C>G (p.Ser3466Ter)	5310	PKD1	Pathogenic	GRCh38	3033138
+single nucleotide variant	NM_001009944.3(PKD1):c.4745G>A (p.Trp1582Ter)	5310	PKD1	Pathogenic	GRCh38	3061073
+single nucleotide variant	NM_001009944.3(PKD1):c.12739C>T (p.Gln4247Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3061238
+single nucleotide variant	NM_001009944.3(PKD1):c.7118G>A (p.Cys2373Tyr)	5310	PKD1	Likely pathogenic	GRCh38	3032634
+single nucleotide variant	NM_001009944.3(PKD1):c.12407G>C (p.Arg4136Thr)	5310	PKD1	Likely pathogenic	GRCh38	3032639
+single nucleotide variant	NM_001009944.3(PKD1):c.1589G>A (p.Cys530Tyr)	5310	PKD1	Pathogenic	GRCh38	3030284
+single nucleotide variant	NM_001009944.3(PKD1):c.5609A>G (p.Asn1870Ser)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3033860
+single nucleotide variant	NM_001009944.3(PKD1):c.5431G>A (p.Glu1811Lys)	5310	PKD1	Pathogenic	GRCh38	3035778
+single nucleotide variant	NM_001009944.3(PKD1):c.3802C>T (p.Gln1268Ter)	5310	PKD1	Pathogenic	GRCh38	3035403
+single nucleotide variant	NM_001009944.3(PKD1):c.12020G>A (p.Arg4007His)	5310	PKD1	Likely pathogenic	GRCh38	3061802
+single nucleotide variant	NM_001009944.3(PKD1):c.9411C>G (p.His3137Gln)	5310	PKD1	Likely pathogenic	GRCh38	3063587
+single nucleotide variant	NM_001009944.3(PKD1):c.10321C>T (p.Gln3441Ter)	5310	PKD1	Pathogenic	GRCh38	3064111
+single nucleotide variant	NM_001009944.3(PKD1):c.2484C>A (p.Tyr828Ter)	5310	PKD1	Likely pathogenic	GRCh38	3065371
+single nucleotide variant	NM_001009944.3(PKD1):c.7115C>G (p.Ser2372Cys)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3065804
+single nucleotide variant	NM_001009944.3(PKD1):c.215+1G>T	5310	PKD1	Pathogenic	GRCh38	3066337
+single nucleotide variant	NM_001009944.3(PKD1):c.1606+2T>G	5310	PKD1	Pathogenic	GRCh38	3068323
+single nucleotide variant	NM_001009944.3(PKD1):c.512T>A (p.Leu171Ter)	5310	PKD1	Pathogenic	GRCh38	3068391
+single nucleotide variant	NM_001009944.3(PKD1):c.4196G>A (p.Trp1399Ter)	5310	PKD1	Likely pathogenic	GRCh38	3075855
+single nucleotide variant	NM_001009944.3(PKD1):c.796C>T (p.Gln266Ter)	5310	PKD1	Pathogenic	GRCh38	3148956
+single nucleotide variant	NM_001009944.3(PKD1):c.11526G>A (p.Trp3842Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3213429
+single nucleotide variant	NM_001009944.3(PKD1):c.3706C>T (p.Gln1236Ter)	5310	PKD1	Pathogenic	GRCh38	3213466
+single nucleotide variant	NM_001009944.3(PKD1):c.7138G>T (p.Glu2380Ter)	5310	PKD1	Pathogenic	GRCh38	3213505
+single nucleotide variant	NM_001009944.3(PKD1):c.9302T>A (p.Leu3101Ter)	5310	PKD1	Pathogenic	GRCh38	3233729
+single nucleotide variant	NM_001009944.3(PKD1):c.7704-1G>C	5310	PKD1	Pathogenic	GRCh38	3235158
+single nucleotide variant	NM_001009944.3(PKD1):c.6021C>G (p.Tyr2007Ter)	5310	PKD1	Pathogenic	GRCh38	3235209
+single nucleotide variant	NM_001009944.3(PKD1):c.11253G>T (p.Gln3751His)	5310	PKD1	Likely pathogenic	GRCh38	3235235
+single nucleotide variant	NM_001009944.3(PKD1):c.4521G>A (p.Trp1507Ter)	5310	PKD1	Pathogenic	GRCh38	3235999
+single nucleotide variant	NM_001009944.3(PKD1):c.12004-1G>A	5310	PKD1	Pathogenic	GRCh38	3236112
+single nucleotide variant	NM_001009944.3(PKD1):c.3162-1G>T	5310	PKD1	Pathogenic	GRCh38	3236176
+single nucleotide variant	NM_001009944.3(PKD1):c.1850-1G>A	5310	PKD1	Pathogenic	GRCh38	3236375
+single nucleotide variant	NM_001009944.3(PKD1):c.7664T>G (p.Val2555Gly)	5310	PKD1	Likely pathogenic	GRCh38	3236758
+single nucleotide variant	NM_001009944.3(PKD1):c.6360C>A (p.Tyr2120Ter)	5310	PKD1	Pathogenic	GRCh38	3236771
+single nucleotide variant	NM_001009944.3(PKD1):c.9430G>C (p.Gly3144Arg)	5310	PKD1	Likely pathogenic	GRCh38	3236778
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+224C>G	5310	PKD1	Pathogenic	GRCh38	3237349
+single nucleotide variant	NM_001009944.3(PKD1):c.6684C>G (p.Tyr2228Ter)	5310	PKD1	Pathogenic	GRCh38	3248538
+single nucleotide variant	NM_001009944.3(PKD1):c.11537+1G>A	5310	PKD1	Likely pathogenic	GRCh38	3252556
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+1G>C	5310	PKD1	Likely pathogenic	GRCh38	3252585
+single nucleotide variant	NM_001009944.3(PKD1):c.10423C>T (p.Gln3475Ter)	5310	PKD1	Pathogenic	GRCh38	3254601
+single nucleotide variant	NM_001009944.3(PKD1):c.11269+1G>T	5310	PKD1	Likely pathogenic	GRCh38	3254602
+single nucleotide variant	NM_001009944.3(PKD1):c.706C>T (p.Gln236Ter)	5310	PKD1	Pathogenic	GRCh38	3254609
+single nucleotide variant	NM_001009944.3(PKD1):c.9543G>T (p.Lys3181Asn)	5310	PKD1	Likely pathogenic	GRCh38	3254843
+single nucleotide variant	NM_001009944.3(PKD1):c.5744C>A (p.Ser1915Ter)	5310	PKD1	Pathogenic	GRCh38	3254852
+single nucleotide variant	NM_001009944.3(PKD1):c.628T>C (p.Cys210Arg)	5310	PKD1	Likely pathogenic	GRCh38	3254856
+single nucleotide variant	NM_001009944.3(PKD1):c.1607-2A>C	5310	PKD1	Likely pathogenic	GRCh38	3254868
+single nucleotide variant	NM_001009944.3(PKD1):c.1291C>T (p.Gln431Ter)	5310	PKD1	Pathogenic	GRCh38	3254914
+single nucleotide variant	NM_001009944.3(PKD1):c.10618+2T>C	5310	PKD1	Pathogenic	GRCh38	3255032
+single nucleotide variant	NM_001009944.3(PKD1):c.5266G>T (p.Glu1756Ter)	5310	PKD1	Pathogenic	GRCh38	3256635
+single nucleotide variant	NM_001009944.3(PKD1):c.7703+1G>T	5310	PKD1	Likely pathogenic	GRCh38	3306824
+single nucleotide variant	NM_001009944.3(PKD1):c.6331G>T (p.Glu2111Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3306847
+single nucleotide variant	NM_001009944.3(PKD1):c.2684C>G (p.Ser895Ter)	5310	PKD1	Pathogenic	GRCh38	3335823
+single nucleotide variant	NM_001009944.3(PKD1):c.1684C>T (p.Gln562Ter)	5310	PKD1	Pathogenic	GRCh38	3335827
+single nucleotide variant	NM_001009944.3(PKD1):c.6232C>T (p.Gln2078Ter)	5310	PKD1	Pathogenic	GRCh38	3335832
+single nucleotide variant	NM_001009944.3(PKD1):c.11711C>A (p.Ser3904Ter)	5310	PKD1	Pathogenic	GRCh38	3335833
+single nucleotide variant	NM_001009944.3(PKD1):c.8646G>A (p.Trp2882Ter)	5310	PKD1	Pathogenic	GRCh38	3335834
+single nucleotide variant	NM_001009944.3(PKD1):c.8363C>A (p.Ser2788Ter)	5310	PKD1	Pathogenic	GRCh38	3335836
+single nucleotide variant	NM_001009944.3(PKD1):c.6804G>A (p.Trp2268Ter)	5310	PKD1	Pathogenic	GRCh38	3335839
+single nucleotide variant	NM_001009944.3(PKD1):c.5482C>T (p.Gln1828Ter)	5310	PKD1	Pathogenic	GRCh38	3335841
+single nucleotide variant	NM_001009944.3(PKD1):c.4534G>T (p.Glu1512Ter)	5310	PKD1	Pathogenic	GRCh38	3335843
+single nucleotide variant	NM_001009944.3(PKD1):c.12273G>A (p.Trp4091Ter)	5310	PKD1	Pathogenic	GRCh38	3335851
+single nucleotide variant	NM_001009944.3(PKD1):c.1357C>T (p.Gln453Ter)	5310	PKD1	Pathogenic	GRCh38	3335854
+single nucleotide variant	NM_001009944.3(PKD1):c.11354G>A (p.Trp3785Ter)	5310	PKD1	Pathogenic	GRCh38	3335857
+single nucleotide variant	NM_001009944.3(PKD1):c.1938G>A (p.Trp646Ter)	5310	PKD1	Pathogenic	GRCh38	3335861
+single nucleotide variant	NM_001009944.3(PKD1):c.10405+1G>T	5310	PKD1	Pathogenic	GRCh38	3335865
+single nucleotide variant	NM_001009944.3(PKD1):c.8792-2A>G	5310	PKD1	Pathogenic	GRCh38	3335866
+single nucleotide variant	NM_001009944.3(PKD1):c.7703+1G>A	5310	PKD1	Pathogenic	GRCh38	3335869
+single nucleotide variant	NM_001009944.3(PKD1):c.7761G>A (p.Trp2587Ter)	5310	PKD1	Pathogenic	GRCh38	3335876
+single nucleotide variant	NM_001009944.3(PKD1):c.7485C>A (p.Cys2495Ter)	5310	PKD1	Pathogenic	GRCh38	3335885
+single nucleotide variant	NM_001009944.3(PKD1):c.2726T>G (p.Val909Gly)	5310	PKD1	Likely pathogenic	GRCh38	3337469
+single nucleotide variant	NM_001009944.3(PKD1):c.1547G>A (p.Trp516Ter)	5310	PKD1	Pathogenic	GRCh38	3337471
+single nucleotide variant	NM_001009944.3(PKD1):c.2285G>A (p.Trp762Ter)	5310	PKD1	Likely pathogenic	GRCh38	3338586
+single nucleotide variant	NM_001009944.3(PKD1):c.11614G>T (p.Glu3872Ter)	5310	PKD1	Pathogenic	GRCh38	3338780
+single nucleotide variant	NM_001009944.3(PKD1):c.11104C>T (p.Gln3702Ter)	5310	PKD1	Pathogenic	GRCh38	3338781
+single nucleotide variant	NM_001009944.3(PKD1):c.9555G>A (p.Trp3185Ter)	5310	PKD1	Pathogenic	GRCh38	3338783
+single nucleotide variant	NM_001009944.3(PKD1):c.3213C>G (p.Tyr1071Ter)	5310	PKD1	Pathogenic	GRCh38	3338785
+single nucleotide variant	NM_001009944.3(PKD1):c.1937G>A (p.Trp646Ter)	5310	PKD1	Pathogenic	GRCh38	3338786
+single nucleotide variant	NM_001009944.3(PKD1):c.11712+1G>A	5310	PKD1	Pathogenic	GRCh38	3340329
+single nucleotide variant	NM_001009944.3(PKD1):c.6915+2T>C	5310	PKD1	Pathogenic	GRCh38	3340730
+single nucleotide variant	NM_001009944.3(PKD1):c.4520G>A (p.Trp1507Ter)	5310	PKD1	Pathogenic	GRCh38	3340856
+single nucleotide variant	NM_001009944.3(PKD1):c.6760G>T (p.Glu2254Ter)	5310	PKD1	Pathogenic	GRCh38	3340954
+single nucleotide variant	NM_001009944.3(PKD1):c.1606+5G>T	5310	PKD1	Likely pathogenic	GRCh38	3341087
+single nucleotide variant	NM_001009944.3(PKD1):c.7209+2T>C	5310	PKD1	Likely pathogenic	GRCh38	3345178
+single nucleotide variant	NM_001009944.3(PKD1):c.664G>C (p.Ala222Pro)	5310	PKD1	Likely pathogenic	GRCh38	3345337
+single nucleotide variant	NM_001009944.3(PKD1):c.9202-1G>T	5310	PKD1	Pathogenic	GRCh38	3346480
+single nucleotide variant	NM_001009944.3(PKD1):c.3741G>C (p.Met1247Ile)	5310	PKD1	Likely pathogenic	GRCh38	3344275
+single nucleotide variant	NM_001009944.3(PKD1):c.4881T>A (p.Tyr1627Ter)	5310	PKD1	Pathogenic	GRCh38	3356709
+single nucleotide variant	NM_001009944.3(PKD1):c.3181G>T (p.Glu1061Ter)	5310	PKD1	Pathogenic	GRCh38	3360851
+single nucleotide variant	NM_001009944.3(PKD1):c.9503T>C (p.Phe3168Ser)	5310	PKD1	Likely pathogenic	GRCh38	3362384
+single nucleotide variant	NM_001009944.3(PKD1):c.5517G>A (p.Trp1839Ter)	5310	PKD1	Likely pathogenic	GRCh38	3362499
+single nucleotide variant	NM_001009944.3(PKD1):c.5255G>A (p.Trp1752Ter)	5310	PKD1	Pathogenic	GRCh38	3362522
+single nucleotide variant	NM_001009944.3(PKD1):c.10405+1G>A	5310	PKD1	Pathogenic	GRCh38	3373661
+single nucleotide variant	NM_001009944.3(PKD1):c.1830C>G (p.Tyr610Ter)	5310	PKD1	Likely pathogenic	GRCh38	3374738
+single nucleotide variant	NM_001009944.3(PKD1):c.9852C>A (p.Cys3284Ter)	5310	PKD1	Pathogenic	GRCh38	3376518
+single nucleotide variant	NM_001009944.3(PKD1):c.1189G>T (p.Glu397Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3376519
+single nucleotide variant	NM_001009944.3(PKD1):c.12445-1G>T	5310	PKD1	Pathogenic	GRCh38	3376911
+single nucleotide variant	NM_001009944.3(PKD1):c.9335G>A (p.Cys3112Tyr)	5310	PKD1	Likely pathogenic	GRCh38	3376932
+single nucleotide variant	NM_001009944.3(PKD1):c.11277C>A (p.Tyr3759Ter)	5310	PKD1	Pathogenic	GRCh38	3376933
+single nucleotide variant	NM_001009944.3(PKD1):c.4797C>G (p.Tyr1599Ter)	5310	PKD1	Pathogenic	GRCh38	3376942
+single nucleotide variant	NM_001009944.3(PKD1):c.690C>A (p.Cys230Ter)	5310	PKD1	Pathogenic	GRCh38	3376943
+single nucleotide variant	NM_001009944.3(PKD1):c.4712C>A (p.Ser1571Ter)	5310	PKD1	Pathogenic	GRCh38	3376946
+single nucleotide variant	NM_001009944.3(PKD1):c.5160G>A (p.Trp1720Ter)	5310	PKD1	Pathogenic	GRCh38	3376948
+single nucleotide variant	NM_001009944.3(PKD1):c.7928G>C (p.Arg2643Pro)	5310	PKD1	Likely pathogenic	GRCh38	3378011
+single nucleotide variant	NM_001009944.3(PKD1):c.6916-1G>C	5310	PKD1	Likely pathogenic	GRCh38	3381137
+single nucleotide variant	NM_001009944.3(PKD1):c.1607-1G>T	5310	PKD1	Likely pathogenic	GRCh38	3381141
+single nucleotide variant	NM_001009944.3(PKD1):c.1308T>A (p.Cys436Ter)	5310	PKD1	Likely pathogenic	GRCh38	3381142
+single nucleotide variant	NM_001009944.3(PKD1):c.11418G>A (p.Trp3806Ter)	5310	PKD1	Pathogenic	GRCh38	3381450
+single nucleotide variant	NM_001009944.3(PKD1):c.117C>A (p.Cys39Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3381851
+single nucleotide variant	NM_001009944.3(PKD1):c.7298T>G (p.Leu2433Arg)	5310	PKD1	Likely pathogenic	GRCh38	3381960
+single nucleotide variant	NM_001009944.3(PKD1):c.6562G>T (p.Glu2188Ter)	5310	PKD1	Pathogenic	GRCh38	3381976
+single nucleotide variant	NM_001009944.3(PKD1):c.4156C>T (p.Gln1386Ter)	5310	PKD1	Pathogenic	GRCh38	3381993
+single nucleotide variant	NM_001009944.3(PKD1):c.3972C>A (p.Tyr1324Ter)	5310	PKD1	Pathogenic	GRCh38	3382158
+single nucleotide variant	NM_001009944.3(PKD1):c.7605C>A (p.Tyr2535Ter)	5310	PKD1	Likely pathogenic	GRCh38	3382226
+single nucleotide variant	NM_001009944.3(PKD1):c.2917C>T (p.Gln973Ter)	5310	PKD1	Pathogenic	GRCh38	3382751
+single nucleotide variant	NM_001009944.3(PKD1):c.9373A>T (p.Lys3125Ter)	5310	PKD1	Pathogenic	GRCh38	3382789
+single nucleotide variant	NM_001009944.3(PKD1):c.3242C>A (p.Ser1081Ter)	5310	PKD1	Pathogenic	GRCh38	3382846
+single nucleotide variant	NM_001009944.3(PKD1):c.3640G>T (p.Gly1214Ter)	5310	PKD1	Pathogenic	GRCh38	3382873
+single nucleotide variant	NM_001009944.3(PKD1):c.4499G>A (p.Trp1500Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3382915
+single nucleotide variant	NM_001009944.3(PKD1):c.9569-1G>T	5310	PKD1	Likely pathogenic	GRCh38	3383037
+single nucleotide variant	NM_001009944.3(PKD1):c.12445-1G>C	5310	PKD1	Likely pathogenic	GRCh38	3383079
+single nucleotide variant	NM_001009944.3(PKD1):c.10232G>A (p.Trp3411Ter)	5310	PKD1	Pathogenic	GRCh38	3383092
+single nucleotide variant	NM_001009944.3(PKD1):c.90C>A (p.Cys30Ter)	5310	PKD1	Pathogenic	GRCh38	3383136
+single nucleotide variant	NM_001009944.3(PKD1):c.11888G>A (p.Trp3963Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3384003
+single nucleotide variant	NM_001009944.3(PKD1):c.4135G>T (p.Glu1379Ter)	5310	PKD1	Pathogenic	GRCh38	3389448
+single nucleotide variant	NM_001009944.3(PKD1):c.12239G>A (p.Trp4080Ter)	5310	PKD1	Pathogenic	GRCh38	3390557
+single nucleotide variant	NM_001009944.3(PKD1):c.8327T>C (p.Leu2776Pro)	5310	PKD1	Likely pathogenic	GRCh38	3391511
+single nucleotide variant	NM_001009944.3(PKD1):c.3514C>T (p.Gln1172Ter)	5310	PKD1	Pathogenic	GRCh38	3418963
+single nucleotide variant	NM_001009944.3(PKD1):c.9835C>T (p.Gln3279Ter)	5310	PKD1	Pathogenic	GRCh38	3579066
+single nucleotide variant	NM_001009944.3(PKD1):c.9806G>A (p.Arg3269Gln)	5310	PKD1	Likely pathogenic	GRCh38	3579071
+single nucleotide variant	NM_001009944.3(PKD1):c.9654G>A (p.Trp3218Ter)	5310	PKD1	Pathogenic	GRCh38	3579084
+single nucleotide variant	NM_001009944.3(PKD1):c.9562A>T (p.Asn3188Tyr)	5310	PKD1	Likely pathogenic	GRCh38	3579091
+single nucleotide variant	NM_001009944.3(PKD1):c.9556C>G (p.His3186Asp)	5310	PKD1	Likely pathogenic	GRCh38	3579092
+single nucleotide variant	NM_001009944.3(PKD1):c.9431G>A (p.Gly3144Glu)	5310	PKD1	Likely pathogenic	GRCh38	3579098
+single nucleotide variant	NM_001009944.3(PKD1):c.9413T>A (p.Val3138Glu)	5310	PKD1	Likely pathogenic	GRCh38	3579100
+single nucleotide variant	NM_001009944.3(PKD1):c.9395C>G (p.Ser3132Ter)	5310	PKD1	Pathogenic	GRCh38	3579103
+single nucleotide variant	NM_001009944.3(PKD1):c.9201+4A>G	5310	PKD1	Likely pathogenic	GRCh38	3579111
+single nucleotide variant	NM_001009944.3(PKD1):c.9075G>A (p.Trp3025Ter)	5310	PKD1	Pathogenic	GRCh38	3579124
+single nucleotide variant	NM_001009944.3(PKD1):c.9003G>A (p.Trp3001Ter)	5310	PKD1	Pathogenic	GRCh38	3579133
+single nucleotide variant	NM_001009944.3(PKD1):c.8971T>G (p.Tyr2991Asp)	5310	PKD1	Likely pathogenic	GRCh38	3579136
+single nucleotide variant	NM_001009944.3(PKD1):c.8930C>T (p.Thr2977Ile)	5310	PKD1	Likely pathogenic	GRCh38	3579143
+single nucleotide variant	NM_001009944.3(PKD1):c.8554G>C (p.Ala2852Pro)	5310	PKD1	Likely pathogenic	GRCh38	3579166
+single nucleotide variant	NM_001009944.3(PKD1):c.8447T>A (p.Leu2816Gln)	5310	PKD1	Likely pathogenic	GRCh38	3579178
+single nucleotide variant	NM_001009944.3(PKD1):c.8186C>A (p.Ser2729Ter)	5310	PKD1	Pathogenic	GRCh38	3579200
+single nucleotide variant	NM_001009944.3(PKD1):c.7864-2A>T	5310	PKD1	Pathogenic	GRCh38	3579232
+single nucleotide variant	NM_001009944.3(PKD1):c.7863+1G>A	5310	PKD1	Pathogenic	GRCh38	3579233
+single nucleotide variant	NM_001009944.3(PKD1):c.7703+5G>C	5310	PKD1	Likely pathogenic	GRCh38	3579249
+single nucleotide variant	NM_001009944.3(PKD1):c.7703+2T>A	5310	PKD1	Likely pathogenic	GRCh38	3579250
+single nucleotide variant	NM_001009944.3(PKD1):c.7490-1G>C	5310	PKD1	Pathogenic	GRCh38	3579261
+single nucleotide variant	NM_001009944.3(PKD1):c.7490-1G>A	5310	PKD1	Pathogenic	GRCh38	3579262
+single nucleotide variant	NM_001009944.3(PKD1):c.7490-11C>G	5310	PKD1	Likely pathogenic	GRCh38	3579264
+single nucleotide variant	NM_001009944.3(PKD1):c.7209+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3579286
+single nucleotide variant	NM_001009944.3(PKD1):c.7109G>A (p.Cys2370Tyr)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3579296
+single nucleotide variant	NM_001009944.3(PKD1):c.7065+2T>C	5310	PKD1	Likely pathogenic	GRCh38	3579301
+single nucleotide variant	NM_001009944.3(PKD1):c.6900T>A (p.Cys2300Ter)	5310	PKD1	Pathogenic	GRCh38	3579321
+single nucleotide variant	NM_001009944.3(PKD1):c.6892T>G (p.Trp2298Gly)	5310	PKD1	Likely pathogenic	GRCh38	3579322
+single nucleotide variant	NM_001009944.3(PKD1):c.6890A>C (p.His2297Pro)	5310	PKD1	Likely pathogenic	GRCh38	3579323
+single nucleotide variant	NM_001009944.3(PKD1):c.6859G>T (p.Glu2287Ter)	5310	PKD1	Pathogenic	GRCh38	3579326
+single nucleotide variant	NM_001009944.3(PKD1):c.6803G>A (p.Trp2268Ter)	5310	PKD1	Pathogenic	GRCh38	3579331
+single nucleotide variant	NM_001009944.3(PKD1):c.6656C>G (p.Pro2219Arg)	5310	PKD1	Likely pathogenic	GRCh38	3579346
+single nucleotide variant	NM_001009944.3(PKD1):c.6561G>A (p.Trp2187Ter)	5310	PKD1	Pathogenic	GRCh38	3579354
+single nucleotide variant	NM_001009944.3(PKD1):c.6384C>A (p.Asn2128Lys)	5310	PKD1	Likely pathogenic	GRCh38	3579368
+single nucleotide variant	NM_001009944.3(PKD1):c.6292G>A (p.Asp2098Asn)	5310	PKD1	Likely pathogenic	GRCh38	3579374
+single nucleotide variant	NM_001009944.3(PKD1):c.6280T>G (p.Trp2094Gly)	5310	PKD1	Likely pathogenic	GRCh38	3579375
+single nucleotide variant	NM_001009944.3(PKD1):c.6012C>A (p.Tyr2004Ter)	5310	PKD1	Pathogenic	GRCh38	3579400
+single nucleotide variant	NM_001009944.3(PKD1):c.5608A>C (p.Asn1870His)	5310	PKD1	Likely pathogenic	GRCh38	3579429
+single nucleotide variant	NM_001009944.3(PKD1):c.5515T>A (p.Trp1839Arg)	5310	PKD1	Likely pathogenic	GRCh38	3579439
+single nucleotide variant	NM_001009944.3(PKD1):c.5437G>T (p.Gly1813Ter)	5310	PKD1	Pathogenic	GRCh38	3579444
+single nucleotide variant	NM_001009944.3(PKD1):c.4746G>T (p.Trp1582Cys)	5310	PKD1	Likely pathogenic	GRCh38	3579492
+single nucleotide variant	NM_001009944.3(PKD1):c.12475G>T (p.Glu4159Ter)	5310	PKD1	Likely pathogenic	GRCh38	3578845
+single nucleotide variant	NM_001009944.3(PKD1):c.12463T>C (p.Phe4155Leu)	5310	PKD1	Likely pathogenic	GRCh38	3578846
+single nucleotide variant	NM_001009944.3(PKD1):c.12139-1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3578871
+single nucleotide variant	NM_001009944.3(PKD1):c.12003+1G>T	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3578880
+single nucleotide variant	NM_001009944.3(PKD1):c.12003+1G>C	5310	PKD1	Likely pathogenic	GRCh38	3578881
+single nucleotide variant	NM_001009944.3(PKD1):c.11765G>A (p.Trp3922Ter)	5310	PKD1	Pathogenic	GRCh38	3578900
+single nucleotide variant	NM_001009944.3(PKD1):c.11713-1G>T	5310	PKD1	Likely pathogenic	GRCh38	3578910
+single nucleotide variant	NM_001009944.3(PKD1):c.11713-2A>T	5310	PKD1	Likely pathogenic	GRCh38	3578911
+single nucleotide variant	NM_001009944.3(PKD1):c.11412-1G>A	5310	PKD1	Pathogenic	GRCh38	3578934
+single nucleotide variant	NM_001009944.3(PKD1):c.11411+2T>C	5310	PKD1	Likely pathogenic	GRCh38	3578936
+single nucleotide variant	NM_001009944.3(PKD1):c.11270-1G>T	5310	PKD1	Likely pathogenic	GRCh38	3578953
+single nucleotide variant	NM_001009944.3(PKD1):c.11017-1G>C	5310	PKD1	Likely pathogenic	GRCh38	3578969
+single nucleotide variant	NM_001009944.3(PKD1):c.11016+1G>C	5310	PKD1	Likely pathogenic	GRCh38	3578972
+single nucleotide variant	NM_001009944.3(PKD1):c.10842C>A (p.Tyr3614Ter)	5310	PKD1	Pathogenic	GRCh38	3578984
+single nucleotide variant	NM_001009944.3(PKD1):c.10804G>C (p.Gly3602Arg)	5310	PKD1	Likely pathogenic	GRCh38	3578987
+single nucleotide variant	NM_001009944.3(PKD1):c.10552G>T (p.Glu3518Ter)	5310	PKD1	Pathogenic	GRCh38	3579013
+single nucleotide variant	NM_001009944.3(PKD1):c.10220+1G>C	5310	PKD1	Likely pathogenic	GRCh38	3579040
+single nucleotide variant	NM_001009944.3(PKD1):c.10183C>T (p.Gln3395Ter)	5310	PKD1	Pathogenic	GRCh38	3579041
+single nucleotide variant	NM_001009944.3(PKD1):c.10051-2A>G	5310	PKD1	Likely pathogenic	GRCh38	3579054
+single nucleotide variant	NM_001009944.3(PKD1):c.4494C>G (p.Tyr1498Ter)	5310	PKD1	Pathogenic	GRCh38	3579512
+single nucleotide variant	NM_001009944.3(PKD1):c.4455C>G (p.Tyr1485Ter)	5310	PKD1	Pathogenic	GRCh38	3579519
+single nucleotide variant	NM_001009944.3(PKD1):c.4390G>T (p.Glu1464Ter)	5310	PKD1	Pathogenic	GRCh38	3579526
+single nucleotide variant	NM_001009944.3(PKD1):c.4370C>G (p.Ser1457Ter)	5310	PKD1	Pathogenic	GRCh38	3579527
+single nucleotide variant	NM_001009944.3(PKD1):c.4234T>G (p.Tyr1412Asp)	5310	PKD1	Likely pathogenic	GRCh38	3579535
+single nucleotide variant	NM_001009944.3(PKD1):c.3982T>C (p.Trp1328Arg)	5310	PKD1	Likely pathogenic	GRCh38	3579561
+single nucleotide variant	NM_001009944.3(PKD1):c.3761C>A (p.Ser1254Ter)	5310	PKD1	Pathogenic	GRCh38	3579579
+single nucleotide variant	NM_001009944.3(PKD1):c.3296-2A>G	5310	PKD1	Pathogenic	GRCh38	3579613
+single nucleotide variant	NM_001009944.3(PKD1):c.3295+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3579614
+single nucleotide variant	NM_001009944.3(PKD1):c.3284A>G (p.Tyr1095Cys)	5310	PKD1	Likely pathogenic	GRCh38	3579615
+single nucleotide variant	NM_001009944.3(PKD1):c.3196C>T (p.Gln1066Ter)	5310	PKD1	Pathogenic	GRCh38	3579620
+single nucleotide variant	NM_001009944.3(PKD1):c.3161+1G>T	5310	PKD1	Likely pathogenic	GRCh38	3579623
+single nucleotide variant	NM_001009944.3(PKD1):c.3148G>T (p.Glu1050Ter)	5310	PKD1	Pathogenic	GRCh38	3579624
+single nucleotide variant	NM_001009944.3(PKD1):c.2986-2A>G	5310	PKD1	Pathogenic	GRCh38	3579643
+single nucleotide variant	NM_001009944.3(PKD1):c.2984C>G (p.Ser995Ter)	5310	PKD1	Pathogenic	GRCh38	3579644
+single nucleotide variant	NM_001009944.3(PKD1):c.2703G>A (p.Trp901Ter)	5310	PKD1	Pathogenic	GRCh38	3579664
+single nucleotide variant	NM_001009944.3(PKD1):c.2543A>C (p.Gln848Pro)	5310	PKD1	Likely pathogenic	GRCh38	3579677
+single nucleotide variant	NM_001009944.3(PKD1):c.2246C>G (p.Ser749Ter)	5310	PKD1	Pathogenic	GRCh38	3579692
+single nucleotide variant	NM_001009944.3(PKD1):c.2226C>G (p.Tyr742Ter)	5310	PKD1	Pathogenic	GRCh38	3579695
+single nucleotide variant	NM_001009944.3(PKD1):c.1930G>T (p.Gly644Ter)	5310	PKD1	Pathogenic	GRCh38	3579711
+single nucleotide variant	NM_001009944.3(PKD1):c.1789C>T (p.Gln597Ter)	5310	PKD1	Pathogenic	GRCh38	3579726
+single nucleotide variant	NM_001009944.3(PKD1):c.1568C>G (p.Ser523Ter)	5310	PKD1	Pathogenic	GRCh38	3579745
+single nucleotide variant	NM_001009944.3(PKD1):c.1524C>A (p.Cys508Ter)	5310	PKD1	Pathogenic	GRCh38	3579752
+single nucleotide variant	NM_001009944.3(PKD1):c.1202-11C>G	5310	PKD1	Likely pathogenic	GRCh38	3579775
+single nucleotide variant	NM_001009944.3(PKD1):c.1111G>T (p.Glu371Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3579786
+single nucleotide variant	NM_001009944.3(PKD1):c.1057G>T (p.Glu353Ter)	5310	PKD1	Pathogenic	GRCh38	3579792
+single nucleotide variant	NM_001009944.3(PKD1):c.689G>T (p.Cys230Phe)	5310	PKD1	Likely pathogenic	GRCh38	3579819
+single nucleotide variant	NM_001009944.3(PKD1):c.529+1G>A	5310	PKD1	Likely pathogenic	GRCh38	3579829
+single nucleotide variant	NM_001009944.3(PKD1):c.288-1G>C	5310	PKD1	Pathogenic	GRCh38	3579845
+single nucleotide variant	NM_001009944.3(PKD1):c.224C>T (p.Ser75Phe)	5310	PKD1	Likely pathogenic	GRCh38	3579848
+single nucleotide variant	NM_001009944.3(PKD1):c.215+5G>A	5310	PKD1	Likely pathogenic	GRCh38	3579851
+single nucleotide variant	NM_001009944.3(PKD1):c.1A>T (p.Met1Leu)	5310	PKD1	Pathogenic	GRCh38	3579867
+single nucleotide variant	NM_001009944.3(PKD1):c.1A>C (p.Met1Leu)	5310	PKD1	Pathogenic	GRCh38	3579868
+single nucleotide variant	NM_001009944.3(PKD1):c.6276C>A (p.Tyr2092Ter)	5310	PKD1	Pathogenic	GRCh38	3572982
+single nucleotide variant	NM_001009944.3(PKD1):c.1201+1G>C	5310	PKD1	Pathogenic	GRCh38	3572985
+single nucleotide variant	NM_001009944.3(PKD1):c.1148C>G (p.Ser383Ter)	5310	PKD1	Likely pathogenic	GRCh38	3573615
+single nucleotide variant	NM_001009944.3(PKD1):c.12287G>A (p.Trp4096Ter)	5310	PKD1	Pathogenic	GRCh38	3600910
+single nucleotide variant	NM_001009944.3(PKD1):c.11017-1G>T	5310	PKD1	Pathogenic	GRCh38	3600916
+single nucleotide variant	NM_001009944.3(PKD1):c.3161+5G>T	5310	PKD1	Likely pathogenic	GRCh38	3730853
+single nucleotide variant	NM_001009944.3(PKD1):c.8203C>T (p.Gln2735Ter)	5310	PKD1	Pathogenic	GRCh38	3731105
+single nucleotide variant	NM_001009944.3(PKD1):c.8949-2A>C	5310	PKD1	Likely pathogenic	GRCh38	3731435
+single nucleotide variant	NM_001009944.3(PKD1):c.10763G>A (p.Trp3588Ter)	5310	PKD1	Pathogenic	GRCh38	3764201
+single nucleotide variant	NM_001009944.3(PKD1):c.8161+2T>G	5310	PKD1	Pathogenic	GRCh38	3764788
+single nucleotide variant	NM_001009944.3(PKD1):c.11355G>A (p.Trp3785Ter)	5310	PKD1	Pathogenic	GRCh38	3766009
+single nucleotide variant	NM_001009944.3(PKD1):c.12554C>A (p.Ser4185Ter)	5310	PKD1	Likely pathogenic	GRCh38	3767311
+single nucleotide variant	NM_001009944.3(PKD1):c.1051C>T (p.Gln351Ter)	5310	PKD1	Pathogenic	GRCh38	3770105
+single nucleotide variant	NM_001009944.3(PKD1):c.6065C>A (p.Ser2022Ter)	5310	PKD1	Pathogenic	GRCh38	3773761
+single nucleotide variant	NM_001009944.3(PKD1):c.3477C>G (p.Tyr1159Ter)	5310	PKD1	Pathogenic	GRCh38	3773883
+single nucleotide variant	NM_001009944.3(PKD1):c.1720G>T (p.Glu574Ter)	5310	PKD1	Pathogenic	GRCh38	3774563
+single nucleotide variant	NM_001009944.3(PKD1):c.12138+2T>A	5310	PKD1	Pathogenic	GRCh38	3774583
+single nucleotide variant	NM_001009944.3(PKD1):c.7566C>A (p.Cys2522Ter)	5310	PKD1	Pathogenic	GRCh38	3774935
+single nucleotide variant	NM_001009944.3(PKD1):c.2661G>A (p.Trp887Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3777359
+single nucleotide variant	NM_001009944.3(PKD1):c.1723-2A>C	5310	PKD1	Pathogenic	GRCh38	3778739
+single nucleotide variant	NM_001009944.3(PKD1):c.8137G>T (p.Gly2713Ter)	5310	PKD1	Pathogenic	GRCh38	3778747
+single nucleotide variant	NM_001009944.3(PKD1):c.10189A>T (p.Lys3397Ter)	5310	PKD1	Pathogenic	GRCh38	3780128
+single nucleotide variant	NM_001009944.3(PKD1):c.10435G>T (p.Glu3479Ter)	5310	PKD1	Pathogenic	GRCh38	3780135
+single nucleotide variant	NM_001009944.3(PKD1):c.10821+1G>C	5310	PKD1	Pathogenic	GRCh38	3780141
+single nucleotide variant	NM_001009944.3(PKD1):c.11016+2T>C	5310	PKD1	Likely pathogenic	GRCh38	3780148
+single nucleotide variant	NM_001009944.3(PKD1):c.11269+1G>C	5310	PKD1	Pathogenic	GRCh38	3780157
+single nucleotide variant	NM_001009944.3(PKD1):c.12168G>A (p.Trp4056Ter)	5310	PKD1	Pathogenic	GRCh38	3780182
+single nucleotide variant	NM_001009944.3(PKD1):c.1385+1G>C	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3780200
+single nucleotide variant	NM_001009944.3(PKD1):c.1447C>T (p.Gln483Ter)	5310	PKD1	Pathogenic	GRCh38	3780203
+single nucleotide variant	NM_001009944.3(PKD1):c.2053G>T (p.Glu685Ter)	5310	PKD1	Pathogenic	GRCh38	3780210
+single nucleotide variant	NM_001009944.3(PKD1):c.2511C>G (p.Tyr837Ter)	5310	PKD1	Pathogenic	GRCh38	3780217
+single nucleotide variant	NM_001009944.3(PKD1):c.2985+1G>A	5310	PKD1	Pathogenic	GRCh38	3780230
+single nucleotide variant	NM_001009944.3(PKD1):c.6894G>A (p.Trp2298Ter)	5310	PKD1	Pathogenic	GRCh38	3780286
+single nucleotide variant	NM_001009944.3(PKD1):c.7210-2A>G	5310	PKD1	Pathogenic	GRCh38	3780292
+single nucleotide variant	NM_001009944.3(PKD1):c.7703+2T>G	5310	PKD1	Pathogenic	GRCh38	3780303
+single nucleotide variant	NM_001009944.3(PKD1):c.8791+2T>C	5310	PKD1	Pathogenic	GRCh38	3780321
+single nucleotide variant	NM_001009944.3(PKD1):c.9118C>T (p.Gln3040Ter)	5310	PKD1	Pathogenic	GRCh38	3780328
+single nucleotide variant	NM_001009944.3(PKD1):c.914G>A (p.Trp305Ter)	5310	PKD1	Pathogenic	GRCh38	3780329
+single nucleotide variant	NM_001009944.3(PKD1):c.9924-1G>T	5310	PKD1	Pathogenic	GRCh38	3780347
+single nucleotide variant	NM_001009944.3(PKD1):c.7210-2A>C	5310	PKD1	Likely pathogenic	GRCh38	3889279
+single nucleotide variant	NM_001009944.3(PKD1):c.7489+2T>C	5310	PKD1	Likely pathogenic	GRCh38	3889315
+single nucleotide variant	NM_001009944.3(PKD1):c.11172G>A (p.Trp3724Ter)	5310	PKD1	Pathogenic	GRCh38	3891973
+single nucleotide variant	NM_001009944.3(PKD1):c.2049G>A (p.Trp683Ter)	5310	PKD1	Pathogenic	GRCh38	3891997
+single nucleotide variant	NM_001009944.3(PKD1):c.6050C>A (p.Ser2017Ter)	5310	PKD1	Pathogenic	GRCh38	3892026
+single nucleotide variant	NM_001009944.3(PKD1):c.7709T>A (p.Leu2570Ter)	5310	PKD1	Pathogenic	GRCh38	3892037
+single nucleotide variant	NM_001009944.3(PKD1):c.11615A>T (p.Glu3872Val)	5310	PKD1	Likely pathogenic	GRCh38	3894546
+single nucleotide variant	NM_001009944.3(PKD1):c.2900G>A (p.Trp967Ter)	5310	PKD1	Pathogenic	GRCh38	3895641
+single nucleotide variant	NM_001009944.3(PKD1):c.10051-1G>A	5310	PKD1	Likely pathogenic	GRCh38	3896516
+single nucleotide variant	NM_001009944.3(PKD1):c.7136A>G (p.Tyr2379Cys)	5310	PKD1	Pathogenic	GRCh38	3896691
+single nucleotide variant	NM_001009944.3(PKD1):c.7584C>G (p.Tyr2528Ter)	5310	PKD1	Likely pathogenic	GRCh38	3899287
+single nucleotide variant	NM_001009944.3(PKD1):c.8792-2A>C	5310	PKD1	Likely pathogenic	GRCh38	3899288
+single nucleotide variant	NM_001009944.3(PKD1):c.10594C>T (p.Gln3532Ter)	5310	PKD1	Pathogenic	GRCh38	3899369
+single nucleotide variant	NM_001009944.3(PKD1):c.11453G>T (p.Gly3818Val)	5310	PKD1	Likely pathogenic	GRCh38	3899964
+single nucleotide variant	NM_001009944.3(PKD1):c.415T>G (p.Trp139Gly)	5310	PKD1	Likely pathogenic	GRCh38	3900711
+single nucleotide variant	NM_001009944.3(PKD1):c.4240T>G (p.Trp1414Gly)	5310	PKD1	Likely pathogenic	GRCh38	3900717
+single nucleotide variant	NM_001009944.3(PKD1):c.679C>T (p.Gln227Ter)	5310	PKD1	Pathogenic	GRCh38	3902590
+single nucleotide variant	NM_001009944.3(PKD1):c.1276A>T (p.Lys426Ter)	5310	PKD1	Pathogenic	GRCh38	3902591
+single nucleotide variant	NM_001009944.3(PKD1):c.8860G>T (p.Glu2954Ter)	5310	PKD1	Pathogenic	GRCh38	3902592
+single nucleotide variant	NM_001009944.3(PKD1):c.9225C>A (p.Tyr3075Ter)	5310	PKD1	Pathogenic	GRCh38	3902593
+single nucleotide variant	NM_001009944.3(PKD1):c.7490-2A>G	5310	PKD1	Pathogenic	GRCh38	3902598
+single nucleotide variant	NM_001009944.3(PKD1):c.12198C>A (p.Cys4066Ter)	5310	PKD1	Pathogenic	GRCh38	3902603
+single nucleotide variant	NM_001009944.3(PKD1):c.11156+1G>A	5310	PKD1	Pathogenic	GRCh38	3902615
+single nucleotide variant	NM_001009944.3(PKD1):c.10821+2T>G	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	3902616
+single nucleotide variant	NM_001009944.3(PKD1):c.9379G>A (p.Gly3127Ser)	5310	PKD1	Likely pathogenic	GRCh38	3911798
+single nucleotide variant	NM_001009944.3(PKD1):c.9044G>A (p.Cys3015Tyr)	5310	PKD1	Likely pathogenic	GRCh38	3911800
+single nucleotide variant	NM_001009944.3(PKD1):c.6172C>T (p.Gln2058Ter)	5310	PKD1	Likely pathogenic	GRCh38	3911802
+single nucleotide variant	NM_001009944.3(PKD1):c.1606+2T>C	5310	PKD1	Pathogenic	GRCh38	4056730
+single nucleotide variant	NM_001009944.3(PKD1):c.12406A>G (p.Arg4136Gly)	5310	PKD1	Likely pathogenic	GRCh38	4070900
+single nucleotide variant	NM_001009944.3(PKD1):c.9893G>A (p.Trp3298Ter)	5310	PKD1	Pathogenic	GRCh38	4071880
+single nucleotide variant	NM_001009944.3(PKD1):c.8162-2A>C	5310	PKD1	Likely pathogenic	GRCh38	4077060
+single nucleotide variant	NM_001009944.3(PKD1):c.2389G>T (p.Glu797Ter)	5310	PKD1	Pathogenic	GRCh38	4077069
+single nucleotide variant	NM_001009944.3(PKD1):c.8210C>A (p.Ser2737Ter)	5310	PKD1	Likely pathogenic	GRCh38	4082494
+single nucleotide variant	NM_001009944.3(PKD1):c.11978C>A (p.Ser3993Ter)	5310	PKD1	Pathogenic	GRCh38	4277244
+single nucleotide variant	NM_001009944.3(PKD1):c.9782A>G (p.His3261Arg)	5310	PKD1	Pathogenic	GRCh38	4277539
+single nucleotide variant	NM_001009944.3(PKD1):c.10972A>G (p.Lys3658Glu)	5310	PKD1	Likely pathogenic	GRCh38	4277787
+single nucleotide variant	NM_001009944.3(PKD1):c.8792-1G>A	5310	PKD1	Likely pathogenic	GRCh38	4277951
+single nucleotide variant	NM_001009944.3(PKD1):c.9086G>T (p.Gly3029Val)	5310	PKD1	Likely pathogenic	GRCh38	4278083
+single nucleotide variant	NM_001009944.3(PKD1):c.6894G>T (p.Trp2298Cys)	5310	PKD1	Pathogenic	GRCh38	4278126
+single nucleotide variant	NM_001009944.3(PKD1):c.2226C>A (p.Tyr742Ter)	5310	PKD1	Likely pathogenic	GRCh38	4293324
+single nucleotide variant	NM_001009944.3(PKD1):c.1777G>T (p.Glu593Ter)	5310	PKD1	Pathogenic	GRCh38	4293968
+single nucleotide variant	NM_001009944.3(PKD1):c.1543G>C (p.Gly515Arg)	5310	PKD1	Likely pathogenic	GRCh38	4293994
+single nucleotide variant	NM_001009944.3(PKD1):c.6012C>G (p.Tyr2004Ter)	5310	PKD1	Likely pathogenic	GRCh38	4294054
+single nucleotide variant	NM_001009944.3(PKD1):c.8017-1G>A	5310	PKD1	Likely pathogenic	GRCh38	4525887
+single nucleotide variant	NM_001009944.3(PKD1):c.5280G>A (p.Trp1760Ter)	5310	PKD1	Pathogenic	GRCh38	4526109
+single nucleotide variant	NM_001009944.3(PKD1):c.6791C>A (p.Ser2264Ter)	5310	PKD1	Pathogenic	GRCh38	4526358
+single nucleotide variant	NM_001009944.3(PKD1):c.9201+1G>C	5310	PKD1	Pathogenic	GRCh38	4526689
+single nucleotide variant	NM_001009944.3(PKD1):c.3040G>T (p.Glu1014Ter)	5310	PKD1	Likely pathogenic	GRCh38	4526734
+single nucleotide variant	NM_001009944.3(PKD1):c.915G>A (p.Trp305Ter)	5310	PKD1	Pathogenic	GRCh38	4526737
+single nucleotide variant	NM_001009944.3(PKD1):c.12248C>G (p.Ser4083Ter)	5310	PKD1	Pathogenic	GRCh38	4526790
+single nucleotide variant	NM_001009944.3(PKD1):c.4189G>T (p.Glu1397Ter)	5310	PKD1	Pathogenic	GRCh38	4527522
+single nucleotide variant	NM_001009944.3(PKD1):c.11177G>A (p.Trp3726Ter)	5310	PKD1	Pathogenic	GRCh38	4530602
+single nucleotide variant	NM_001009944.3(PKD1):c.4230C>G (p.Tyr1410Ter)	5310	PKD1	Pathogenic	GRCh38	4530814
+single nucleotide variant	NM_001009944.3(PKD1):c.10659G>A (p.Trp3553Ter)	5310	PKD1	Pathogenic	GRCh38	4531197
+single nucleotide variant	NM_001009944.3(PKD1):c.8259C>G (p.Tyr2753Ter)	5310	PKD1	Pathogenic	GRCh38	4531249
+single nucleotide variant	NM_001009944.3(PKD1):c.12454A>T (p.Lys4152Ter)	5310	PKD1	Pathogenic	GRCh38	4531529
+single nucleotide variant	NM_001009944.3(PKD1):c.11269+2T>G	5310	PKD1	Pathogenic	GRCh38	4531542
+single nucleotide variant	NM_001009944.3(PKD1):c.10808G>A (p.Trp3603Ter)	5310	PKD1	Pathogenic	GRCh38	4531543
+single nucleotide variant	NM_001009944.3(PKD1):c.9398-2A>C	5310	PKD1	Pathogenic	GRCh38	4531548
+single nucleotide variant	NM_001009944.3(PKD1):c.7864-1G>C	5310	PKD1	Pathogenic	GRCh38	4531553
+single nucleotide variant	NM_001009944.3(PKD1):c.7828G>T (p.Glu2610Ter)	5310	PKD1	Pathogenic	GRCh38	4531555
+single nucleotide variant	NM_001009944.3(PKD1):c.7605C>G (p.Tyr2535Ter)	5310	PKD1	Pathogenic	GRCh38	4531558
+single nucleotide variant	NM_001009944.3(PKD1):c.7109G>T (p.Cys2370Phe)	5310	PKD1	Pathogenic	GRCh38	4531560
+single nucleotide variant	NM_001009944.3(PKD1):c.6791C>G (p.Ser2264Ter)	5310	PKD1	Pathogenic	GRCh38	4531561
+single nucleotide variant	NM_001009944.3(PKD1):c.6684C>A (p.Tyr2228Ter)	5310	PKD1	Pathogenic	GRCh38	4531563
+single nucleotide variant	NM_001009944.3(PKD1):c.5494G>T (p.Gly1832Cys)	5310	PKD1	Likely pathogenic	GRCh38	4531567
+single nucleotide variant	NM_001009944.3(PKD1):c.2853+2T>C	5310	PKD1	Pathogenic	GRCh38	4531582
+single nucleotide variant	NM_001009944.3(PKD1):c.1792G>T (p.Glu598Ter)	5310	PKD1	Pathogenic	GRCh38	4531584
+single nucleotide variant	NM_001009944.3(PKD1):c.1722+1G>C	5310	PKD1	Pathogenic	GRCh38	4531586
+single nucleotide variant	NM_001009944.3(PKD1):c.1597C>T (p.Gln533Ter)	5310	PKD1	Pathogenic	GRCh38	4532192
+single nucleotide variant	NM_001009944.3(PKD1):c.9754G>T (p.Glu3252Ter)	5310	PKD1	Pathogenic	GRCh38	4532207
+single nucleotide variant	NM_001009944.3(PKD1):c.6543C>G (p.Tyr2181Ter)	5310	PKD1	Pathogenic	GRCh38	4532459
+single nucleotide variant	NM_001009944.3(PKD1):c.2246C>A (p.Ser749Ter)	5310	PKD1	Pathogenic	GRCh38	4533240
+single nucleotide variant	NM_001009944.3(PKD1):c.9371T>A (p.Val3124Asp)	5310	PKD1	Likely pathogenic	GRCh38	4533247
+single nucleotide variant	NM_001009944.3(PKD1):c.3982T>G (p.Trp1328Gly)	5310	PKD1	Likely pathogenic	GRCh38	4538489
+single nucleotide variant	NM_001009944.3(PKD1):c.12445-3C>G	5310	PKD1	Likely pathogenic	GRCh38	4541986
+single nucleotide variant	NM_001009944.3(PKD1):c.11016+5G>T	5310	PKD1	Likely pathogenic	GRCh38	4541988
+single nucleotide variant	NM_001009944.3(PKD1):c.3543T>G (p.Tyr1181Ter)	5310	PKD1	Likely pathogenic	GRCh38	4541998
+single nucleotide variant	NM_001009944.3(PKD1):c.1308T>G (p.Cys436Trp)	5310	PKD1	Likely pathogenic	GRCh38	4542002
+single nucleotide variant	NM_001009944.3(PKD1):c.8948+1G>T	5310	PKD1	Pathogenic	GRCh38	4680904
+single nucleotide variant	NM_001009944.3(PKD1):c.3296-1G>T	5310	PKD1	Pathogenic	GRCh38	4682484
+single nucleotide variant	NM_001009944.3(PKD1):c.359+1G>A	5310	PKD1	Pathogenic	GRCh38	4683084
+single nucleotide variant	NM_001009944.3(PKD1):c.7547G>C (p.Arg2516Pro)	5310	PKD1	Likely pathogenic	GRCh38	4683137
+single nucleotide variant	NM_001009944.3(PKD1):c.8835C>A (p.Tyr2945Ter)	5310	PKD1	Pathogenic	GRCh38	4687589
+single nucleotide variant	NM_001009944.3(PKD1):c.11248C>G (p.Arg3750Gly)	5310	PKD1	Pathogenic	GRCh38	4687835
+single nucleotide variant	NM_001009944.3(PKD1):c.6908C>A (p.Ser2303Ter)	5310	PKD1	Pathogenic	GRCh38	4688768
+single nucleotide variant	NM_001009944.3(PKD1):c.7863+1G>C	5310	PKD1	Pathogenic	GRCh38	4759246
+single nucleotide variant	NM_001009944.3(PKD1):c.4609G>T (p.Glu1537Ter)	5310	PKD1	Pathogenic	GRCh38	4796554
+single nucleotide variant	NM_001009944.3(PKD1):c.9653G>A (p.Trp3218Ter)	5310	PKD1	Pathogenic	GRCh38	4796573
+single nucleotide variant	NM_001009944.3(PKD1):c.10618G>C (p.Gly3540Arg)	5310	PKD1	Likely pathogenic	GRCh38	4796770
+single nucleotide variant	NM_001009944.3(PKD1):c.360-1G>T	5310	PKD1	Pathogenic	GRCh38	4796790
+single nucleotide variant	NM_001009944.3(PKD1):c.9202-2A>G	5310	PKD1	Pathogenic	GRCh38	4813109
+single nucleotide variant	NM_001009944.3(PKD1):c.11411+2T>G	5310	PKD1	Pathogenic	GRCh38	4813237
+single nucleotide variant	NM_001009944.3(PKD1):c.4929C>A (p.Tyr1643Ter)	5310	PKD1	Pathogenic	GRCh38	4818942
+single nucleotide variant	NM_001009944.3(PKD1):c.5051C>A (p.Ser1684Ter)	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	4820151
+single nucleotide variant	NM_001009944.3(PKD1):c.12138+1G>A	5310	PKD1	Pathogenic/Likely pathogenic	GRCh38	4820314
+single nucleotide variant	NM_001009944.3(PKD1):c.1523G>C (p.Cys508Ser)	5310	PKD1	Likely pathogenic	GRCh38	4845220
+single nucleotide variant	NM_001009944.3(PKD1):c.9921C>G (p.Tyr3307Ter)	5310	PKD1	Pathogenic	GRCh38	4845298
+single nucleotide variant	NM_001009944.3(PKD1):c.11202C>A (p.Tyr3734Ter)	5310	PKD1	Pathogenic	GRCh38	4846885
+single nucleotide variant	NM_001009944.3(PKD1):c.8597T>C (p.Leu2866Pro)	5310	PKD1	Likely pathogenic	GRCh38	4847758
+single nucleotide variant	NM_001009944.3(PKD1):c.11807G>A (p.Trp3936Ter)	5310	PKD1	Pathogenic	GRCh38	4848159
+single nucleotide variant	NM_001009944.3(PKD1):c.4997G>A (p.Trp1666Ter)	5310	PKD1	Pathogenic	GRCh38	4848345
+single nucleotide variant	NM_001009944.3(PKD1):c.10403C>G (p.Ser3468Ter)	5310	PKD1	Pathogenic	GRCh38	4848423
+single nucleotide variant	NM_001009944.3(PKD1):c.6018G>A (p.Trp2006Ter)	5310	PKD1	Pathogenic	GRCh38	4848453
+single nucleotide variant	NM_001009944.3(PKD1):c.7210-1G>A	5310	PKD1	Likely pathogenic	GRCh38	4849154
+single nucleotide variant	NM_001009944.3(PKD1):c.7172G>A (p.Gly2391Asp)	5310	PKD1	Pathogenic	GRCh38	4849504
+single nucleotide variant	NM_001009944.3(PKD1):c.3477C>A (p.Tyr1159Ter)	5310	PKD1	Likely pathogenic	GRCh38	4850026
+single nucleotide variant	NM_001009944.3(PKD1):c.1484G>A (p.Trp495Ter)	5310	PKD1	Pathogenic	GRCh38	4850029
+single nucleotide variant	NM_001009944.3(PKD1):c.8526C>G (p.Tyr2842Ter)	5310	PKD1	Pathogenic	GRCh38	4850881
+single nucleotide variant	NM_001009944.3(PKD1):c.350T>A (p.Leu117Ter)	5310	PKD1	Likely pathogenic	GRCh38	4850952
+single nucleotide variant	NM_001009944.3(PKD1):c.1477C>T (p.Gln493Ter)	5310	PKD1	Likely pathogenic	GRCh38	4851578
+single nucleotide variant	NM_001009944.3(PKD1):c.8928C>G (p.Tyr2976Ter)	5310	PKD1	Likely pathogenic	GRCh38	4851599
+single nucleotide variant	NM_001009944.3(PKD1):c.2795T>C (p.Ile932Thr)	5310	PKD1	Likely pathogenic	GRCh38	4852882
+single nucleotide variant	NM_001009944.3(PKD1):c.11149A>T (p.Ile3717Phe)	5310	PKD1	Likely pathogenic	GRCh38	4852959
+single nucleotide variant	NM_001009944.3(PKD1):c.6893G>A (p.Trp2298Ter)	5310	PKD1	Pathogenic	GRCh38	4853304
+single nucleotide variant	NM_001009944.3(PKD1):c.7489+1G>C	5310	PKD1	Likely pathogenic	GRCh38	4853436
+single nucleotide variant	NM_001009944.3(PKD1):c.8623A>T (p.Lys2875Ter)	5310	PKD1	Pathogenic	GRCh38	4853679
+single nucleotide variant	NM_001009944.3(PKD1):c.6704C>G (p.Ser2235Ter)	5310	PKD1	Pathogenic	GRCh38	4853780
+single nucleotide variant	NM_001009944.3(PKD1):c.11537+2T>C	5310	PKD1	Likely pathogenic	GRCh38	4854571
+single nucleotide variant	NM_001009944.3(PKD1):c.4241G>A (p.Trp1414Ter)	5310	PKD1	Likely pathogenic	GRCh38	4856102
+single nucleotide variant	NM_001009944.3(PKD1):c.4414A>T (p.Lys1472Ter)	5310	PKD1	Pathogenic	GRCh38	4857265
+single nucleotide variant	NM_001009944.3(PKD1):c.687G>A (p.Trp229Ter)	5310	PKD1	Pathogenic	GRCh38	4857290
+single nucleotide variant	NM_001009944.3(PKD1):c.12445-2A>G	5310	PKD1	Likely pathogenic	GRCh38	4876730
+single nucleotide variant	NM_001009944.3(PKD1):c.6704C>A (p.Ser2235Ter)	5310	PKD1	Likely pathogenic	GRCh38	4876747
+single nucleotide variant	NM_001009944.3(PKD1):c.152G>C (p.Cys51Ser)	5310	PKD1	Likely pathogenic	GRCh38	4875652
+single nucleotide variant	NM_001009944.3(PKD1):c.12138+2T>G	5310	PKD1	Pathogenic	GRCh38	4879600
+single nucleotide variant	NM_001009944.3(PKD1):c.9713-2A>G	5310	PKD1	Pathogenic	GRCh38	4879610
+single nucleotide variant	NM_001009944.3(PKD1):c.1287G>A (p.Trp429Ter)	5310	PKD1	Pathogenic	GRCh38	4879626
+single nucleotide variant	NM_001009944.3(PKD1):c.7480G>T (p.Glu2494Ter)	5310	PKD1	Pathogenic	GRCh38	4879843
+single nucleotide variant	NM_001009944.3(PKD1):c.12060C>A (p.Cys4020Ter)	5310	PKD1	Pathogenic	GRCh38	4887095
+single nucleotide variant	NM_001009944.3(PKD1):c.9563A>G (p.Asn3188Ser)	5310	PKD1	Pathogenic	GRCh38	4887098
+single nucleotide variant	NM_001009944.3(PKD1):c.10822-1G>A	5310	PKD1	Likely pathogenic	GRCh38	4887585
+single nucleotide variant	NM_001009944.3(PKD1):c.11808G>A (p.Trp3936Ter)	5310	PKD1	Pathogenic	GRCh38	4887865
+single nucleotide variant	NM_001009944.3(PKD1):c.3161+2T>G	5310	PKD1	Pathogenic	GRCh38	4887866
+single nucleotide variant	NM_001009944.3(PKD1):c.5120G>A (p.Trp1707Ter)	5310	PKD1	Pathogenic	GRCh38	4887948

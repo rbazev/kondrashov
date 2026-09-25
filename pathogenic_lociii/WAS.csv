@@ -1,0 +1,116 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000377.3(WAS):c.257G>T (p.Arg86Leu)	7454	WAS	Pathogenic	GRCh38	11114
+single nucleotide variant	NM_000377.3(WAS):c.257G>A (p.Arg86His)	7454	WAS	Pathogenic	GRCh38	11115
+single nucleotide variant	NM_000377.3(WAS):c.167C>T (p.Ala56Val)	7454	WAS	Pathogenic	GRCh38	11116
+single nucleotide variant	NM_000377.3(WAS):c.707C>G (p.Ala236Gly)	7454	WAS	Pathogenic	GRCh38	11117
+single nucleotide variant	NM_000377.3(WAS):c.100C>T (p.Arg34Ter)	7454	WAS	Pathogenic	GRCh38	11119
+single nucleotide variant	NM_000377.3(WAS):c.1A>T (p.Met1Leu)	7454	WAS	Pathogenic	GRCh38	11120
+single nucleotide variant	NM_000377.3(WAS):c.244T>C (p.Ser82Pro)	7454	WAS	Likely pathogenic	GRCh38	11122
+single nucleotide variant	NM_000377.3(WAS):c.134C>T (p.Thr45Met)	7454	WAS	Pathogenic	GRCh38	11123
+single nucleotide variant	NM_000377.3(WAS):c.809T>C (p.Leu270Pro)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	11125
+single nucleotide variant	NM_000377.3(WAS):c.173C>G (p.Pro58Arg)	7454	WAS	Pathogenic	GRCh38	11126
+single nucleotide variant	NM_000377.3(WAS):c.1442T>A (p.Ile481Asn)	7454	WAS	Pathogenic	GRCh38	11127
+single nucleotide variant	NM_000377.3(WAS):c.560-1G>A	7454	WAS	Pathogenic	GRCh38	11130
+single nucleotide variant	NM_000377.3(WAS):c.559+2T>G	7454	WAS	Pathogenic	GRCh38	11131
+single nucleotide variant	NM_000377.3(WAS):c.814T>C (p.Ser272Pro)	7454	WAS	Likely pathogenic	GRCh38	29966
+single nucleotide variant	NM_000377.3(WAS):c.881T>C (p.Ile294Thr)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	29967
+single nucleotide variant	NM_000377.3(WAS):c.310C>T (p.Gln104Ter)	7454	WAS	Likely pathogenic	GRCh38	36910
+single nucleotide variant	NM_000377.3(WAS):c.37C>T (p.Arg13Ter)	7454	WAS	Pathogenic	GRCh38	36911
+single nucleotide variant	NM_000377.3(WAS):c.223G>A (p.Val75Met)	7454	WAS	Pathogenic	GRCh38	265289
+single nucleotide variant	NM_000377.3(WAS):c.559+5G>C	7454	WAS	Likely pathogenic	GRCh38	265290
+single nucleotide variant	NM_000377.3(WAS):c.777+1G>A	7454	WAS	Pathogenic	GRCh38	372546
+single nucleotide variant	NM_000377.3(WAS):c.559+5G>A	7454	WAS	Pathogenic	GRCh38	372545
+single nucleotide variant	NM_000377.3(WAS):c.360+1G>T	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	379705
+single nucleotide variant	NM_000377.3(WAS):c.360+1G>A	7454	WAS	Pathogenic	GRCh38	381690
+single nucleotide variant	NM_000377.3(WAS):c.19G>T (p.Gly7Ter)	7454	WAS	Pathogenic	GRCh38	419588
+single nucleotide variant	NM_000377.3(WAS):c.173C>A (p.Pro58His)	7454	WAS	Likely pathogenic	GRCh38	420291
+single nucleotide variant	NM_000377.3(WAS):c.249C>A (p.Tyr83Ter)	7454	WAS	Pathogenic	GRCh38	424355
+single nucleotide variant	NM_000377.3(WAS):c.273+1G>A	7454	WAS	Pathogenic	GRCh38	419739
+single nucleotide variant	NM_000377.3(WAS):c.1453G>A (p.Asp485Asn)	7454	WAS	Pathogenic	GRCh38	418541
+single nucleotide variant	NM_000377.3(WAS):c.778-6G>A	7454	WAS	Pathogenic	GRCh38	449116
+single nucleotide variant	NM_000377.3(WAS):c.961C>T (p.Arg321Ter)	7454	WAS	Pathogenic	GRCh38	449515
+single nucleotide variant	NM_000377.3(WAS):c.413G>C (p.Arg138Pro)	7454	WAS	Pathogenic	GRCh38	495847
+single nucleotide variant	NM_000377.3(WAS):c.290G>A (p.Trp97Ter)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	495846
+single nucleotide variant	NM_000377.3(WAS):c.553C>T (p.Gln185Ter)	7454	WAS	Likely pathogenic	GRCh38	495848
+single nucleotide variant	NM_000377.3(WAS):c.271C>T (p.Gln91Ter)	7454	WAS	Pathogenic	GRCh38	528221
+single nucleotide variant	NM_000377.3(WAS):c.91G>A (p.Glu31Lys)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	528222
+single nucleotide variant	NM_000377.3(WAS):c.360+1G>C	7454	WAS	Pathogenic	GRCh38	548704
+single nucleotide variant	NM_000377.3(WAS):c.734+2T>A	7454	WAS	Pathogenic	GRCh38	577637
+single nucleotide variant	NM_000377.3(WAS):c.257G>C (p.Arg86Pro)	7454	WAS	Likely pathogenic	GRCh38	633021
+single nucleotide variant	NM_000377.3(WAS):c.735-2A>G	7454	WAS	Pathogenic	GRCh38	638575
+single nucleotide variant	NM_000377.3(WAS):c.355G>T (p.Gly119Ter)	7454	WAS	Pathogenic	GRCh38	660964
+single nucleotide variant	NM_000377.3(WAS):c.631C>T (p.Arg211Ter)	7454	WAS	Pathogenic	GRCh38	647830
+single nucleotide variant	NM_000377.3(WAS):c.734+5G>A	7454	WAS	Pathogenic	GRCh38	803992
+single nucleotide variant	NM_000377.3(WAS):c.1423C>T (p.Gln475Ter)	7454	WAS	Pathogenic	GRCh38	829893
+single nucleotide variant	NM_000377.3(WAS):c.70T>C (p.Ser24Pro)	7454	WAS	Pathogenic	GRCh38	834695
+single nucleotide variant	NM_000377.3(WAS):c.172C>A (p.Pro58Thr)	7454	WAS	Pathogenic	GRCh38	844399
+single nucleotide variant	NM_000377.3(WAS):c.238C>T (p.Gln80Ter)	7454	WAS	Pathogenic	GRCh38	853840
+single nucleotide variant	NM_000377.3(WAS):c.1090C>T (p.Arg364Ter)	7454	WAS	Pathogenic	GRCh38	839782
+single nucleotide variant	NM_000377.3(WAS):c.397G>A (p.Glu133Lys)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	870492
+single nucleotide variant	NM_000377.3(WAS):c.320A>G (p.Tyr107Cys)	7454	WAS	Pathogenic	GRCh38	871203
+single nucleotide variant	NM_000377.3(WAS):c.121C>T (p.Arg41Ter)	7454	WAS	Pathogenic	GRCh38	945596
+single nucleotide variant	NM_000377.3(WAS):c.142A>C (p.Thr48Pro)	7454	WAS	Likely pathogenic	GRCh38	935749
+single nucleotide variant	NM_000377.3(WAS):c.256C>T (p.Arg86Cys)	7454	WAS	Pathogenic	GRCh38	936334
+single nucleotide variant	NM_000377.3(WAS):c.869T>C (p.Ile290Thr)	7454	WAS	Likely pathogenic	GRCh38	992234
+single nucleotide variant	NM_000377.3(WAS):c.374G>A (p.Gly125Glu)	7454	WAS	Likely pathogenic	GRCh38	1030751
+single nucleotide variant	NM_000377.3(WAS):c.250T>C (p.Phe84Leu)	7454	WAS	Likely pathogenic	GRCh38	1067694
+single nucleotide variant	NM_000377.3(WAS):c.1453+2T>G	7454	WAS	Pathogenic	GRCh38	1074601
+single nucleotide variant	NM_000377.3(WAS):c.295C>T (p.Gln99Ter)	7454	WAS	Pathogenic	GRCh38	1176930
+single nucleotide variant	NM_000377.3(WAS):c.151G>T (p.Val51Phe)	7454	WAS	Likely pathogenic	GRCh38	1203827
+single nucleotide variant	NM_000377.3(WAS):c.192G>A (p.Trp64Ter)	7454	WAS	Pathogenic	GRCh38	1338374
+single nucleotide variant	NM_000377.3(WAS):c.373G>C (p.Gly125Arg)	7454	WAS	Likely pathogenic	GRCh38	1505547
+single nucleotide variant	NM_000377.3(WAS):c.382T>C (p.Phe128Leu)	7454	WAS	Pathogenic	GRCh38	1410526
+single nucleotide variant	NM_000377.3(WAS):c.1339-2A>G	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	1493038
+single nucleotide variant	NM_000377.3(WAS):c.778-1G>A	7454	WAS	Likely pathogenic	GRCh38	1526129
+single nucleotide variant	NM_000377.3(WAS):c.128G>A (p.Cys43Tyr)	7454	WAS	Likely pathogenic	GRCh38	1684332
+single nucleotide variant	NM_000377.3(WAS):c.190T>C (p.Trp64Arg)	7454	WAS	Pathogenic	GRCh38	1686299
+single nucleotide variant	NM_000377.3(WAS):c.464-11T>G	7454	WAS	Pathogenic	GRCh38	1723230
+single nucleotide variant	NM_000377.3(WAS):c.383T>C (p.Phe128Ser)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	1810240
+single nucleotide variant	NM_000377.3(WAS):c.58C>T (p.Gln20Ter)	7454	WAS	Pathogenic	GRCh38	2138565
+single nucleotide variant	NM_000377.3(WAS):c.264C>A (p.Tyr88Ter)	7454	WAS	Pathogenic	GRCh38	2138567
+single nucleotide variant	NM_000377.3(WAS):c.302T>C (p.Leu101Pro)	7454	WAS	Pathogenic	GRCh38	2138568
+single nucleotide variant	NM_000377.3(WAS):c.319T>C (p.Tyr107His)	7454	WAS	Pathogenic	GRCh38	2138569
+single nucleotide variant	NM_000377.3(WAS):c.401C>T (p.Ala134Val)	7454	WAS	Pathogenic	GRCh38	2138570
+single nucleotide variant	NM_000377.3(WAS):c.403C>T (p.Gln135Ter)	7454	WAS	Pathogenic	GRCh38	1879764
+single nucleotide variant	NM_000377.3(WAS):c.964G>T (p.Gly322Ter)	7454	WAS	Pathogenic	GRCh38	2013847
+single nucleotide variant	NM_000377.3(WAS):c.383T>G (p.Phe128Cys)	7454	WAS	Likely pathogenic	GRCh38	2026799
+single nucleotide variant	NM_000377.3(WAS):c.735-2A>T	7454	WAS	Pathogenic	GRCh38	2091421
+single nucleotide variant	NM_000377.3(WAS):c.361-1G>C	7454	WAS	Pathogenic	GRCh38	2126436
+single nucleotide variant	NM_000377.3(WAS):c.671A>G (p.Asp224Gly)	7454	WAS	Pathogenic/Likely pathogenic	GRCh38	2444197
+single nucleotide variant	NM_000377.3(WAS):c.832G>T (p.Glu278Ter)	7454	WAS	Likely pathogenic	GRCh38	2446727
+single nucleotide variant	NM_000377.3(WAS):c.104T>C (p.Leu35Pro)	7454	WAS	Likely pathogenic	GRCh38	2498141
+single nucleotide variant	NM_000377.3(WAS):c.399G>T (p.Glu133Asp)	7454	WAS	Pathogenic	GRCh38	2925666
+single nucleotide variant	NM_000377.3(WAS):c.687G>T (p.Gly229=)	7454	WAS	Pathogenic	GRCh38	2925670
+single nucleotide variant	NM_000377.3(WAS):c.1318C>T (p.Gln440Ter)	7454	WAS	Pathogenic	GRCh38	2925673
+single nucleotide variant	NM_000377.3(WAS):c.734+1G>C	7454	WAS	Pathogenic	GRCh38	2932742
+single nucleotide variant	NM_000377.3(WAS):c.463+1G>A	7454	WAS	Likely pathogenic	GRCh38	2948955
+single nucleotide variant	NM_000377.3(WAS):c.82C>T (p.Gln28Ter)	7454	WAS	Pathogenic	GRCh38	2950185
+single nucleotide variant	NM_000377.3(WAS):c.134C>G (p.Thr45Arg)	7454	WAS	Likely pathogenic	GRCh38	3045830
+single nucleotide variant	NM_000377.3(WAS):c.1453+1G>A	7454	WAS	Pathogenic	GRCh38	3041901
+single nucleotide variant	NM_000377.3(WAS):c.291G>A (p.Trp97Ter)	7454	WAS	Pathogenic	GRCh38	3340620
+single nucleotide variant	NM_000377.3(WAS):c.356G>A (p.Gly119Glu)	7454	WAS	Pathogenic	GRCh38	3356240
+single nucleotide variant	NM_000377.3(WAS):c.172C>T (p.Pro58Ser)	7454	WAS	Likely pathogenic	GRCh38	3380921
+single nucleotide variant	NM_000377.3(WAS):c.1453+2T>C	7454	WAS	Pathogenic	GRCh38	3380922
+single nucleotide variant	NM_000377.3(WAS):c.629C>G (p.Ser210Ter)	7454	WAS	Pathogenic	GRCh38	3382488
+single nucleotide variant	NM_000377.3(WAS):c.691A>T (p.Lys231Ter)	7454	WAS	Pathogenic	GRCh38	3598338
+single nucleotide variant	NM_000377.3(WAS):c.913C>T (p.Gln305Ter)	7454	WAS	Pathogenic	GRCh38	3598339
+single nucleotide variant	NM_000377.3(WAS):c.454C>T (p.Gln152Ter)	7454	WAS	Pathogenic	GRCh38	3749652
+single nucleotide variant	NM_000377.3(WAS):c.931+1G>C	7454	WAS	Pathogenic	GRCh38	3749653
+single nucleotide variant	NM_000377.3(WAS):c.1390G>T (p.Glu464Ter)	7454	WAS	Pathogenic	GRCh38	3759642
+single nucleotide variant	NM_000377.3(WAS):c.506-1G>C	7454	WAS	Likely pathogenic	GRCh38	3756094
+single nucleotide variant	NM_000377.3(WAS):c.209G>T (p.Gly70Val)	7454	WAS	Likely pathogenic	GRCh38	3757983
+single nucleotide variant	NM_000377.3(WAS):c.931+1G>A	7454	WAS	Pathogenic	GRCh38	3767126
+single nucleotide variant	NM_000377.3(WAS):c.331A>C (p.Thr111Pro)	7454	WAS	Likely pathogenic	GRCh38	3895697
+single nucleotide variant	NM_000377.3(WAS):c.343C>T (p.His115Tyr)	7454	WAS	Likely pathogenic	GRCh38	3895723
+single nucleotide variant	NM_000377.3(WAS):c.245C>T (p.Ser82Phe)	7454	WAS	Pathogenic	GRCh38	4279068
+single nucleotide variant	NM_000377.3(WAS):c.559+2T>C	7454	WAS	Pathogenic	GRCh38	4491229
+single nucleotide variant	NM_000377.3(WAS):c.355G>A (p.Gly119Arg)	7454	WAS	Pathogenic	GRCh38	4535823
+single nucleotide variant	NM_000377.3(WAS):c.361-2A>C	7454	WAS	Pathogenic	GRCh38	4536223
+single nucleotide variant	NM_000377.3(WAS):c.777+1G>T	7454	WAS	Likely pathogenic	GRCh38	4537379
+single nucleotide variant	NM_000377.3(WAS):c.219C>A (p.Cys73Ter)	7454	WAS	Pathogenic	GRCh38	4538521
+single nucleotide variant	NM_000377.3(WAS):c.208G>A (p.Gly70Arg)	7454	WAS	Likely pathogenic	GRCh38	4783868
+single nucleotide variant	NM_000377.3(WAS):c.756G>A (p.Trp252Ter)	7454	WAS	Pathogenic	GRCh38	4783871
+single nucleotide variant	NM_000377.3(WAS):c.559+1G>A	7454	WAS	Pathogenic	GRCh38	4795136
+single nucleotide variant	NM_000377.3(WAS):c.92A>T (p.Glu31Val)	7454	WAS	Likely pathogenic	GRCh38	4813279
+single nucleotide variant	NM_000377.3(WAS):c.252C>A (p.Phe84Leu)	7454	WAS	Likely pathogenic	GRCh38	4813313
+single nucleotide variant	NM_000377.3(WAS):c.1507T>A (p.Ter503Arg)	7454	WAS	Likely pathogenic	GRCh38	4813658

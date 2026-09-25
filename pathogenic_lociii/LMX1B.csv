@@ -1,0 +1,100 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001174147.2(LMX1B):c.807C>A (p.Asn269Lys)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	7000
+single nucleotide variant	NM_001174147.2(LMX1B):c.661C>T (p.Arg221Ter)	4010	LMX1B	Pathogenic	GRCh38	7001
+single nucleotide variant	NM_001174147.2(LMX1B):c.353G>T (p.Cys118Phe)	4010	LMX1B	Pathogenic	GRCh38	7003
+single nucleotide variant	NM_001174147.2(LMX1B):c.244C>T (p.Gln82Ter)	4010	LMX1B	Pathogenic	GRCh38	7005
+single nucleotide variant	NM_001174147.2(LMX1B):c.691C>T (p.Arg231Ter)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	7006
+single nucleotide variant	NM_001174147.2(LMX1B):c.668G>A (p.Arg223Gln)	4010	LMX1B	Pathogenic	GRCh38	7007
+single nucleotide variant	NM_001174147.2(LMX1B):c.741+1G>A	4010	LMX1B	Pathogenic	GRCh38	7008
+single nucleotide variant	NM_001174147.2(LMX1B):c.745C>T (p.Arg249Ter)	4010	LMX1B	Pathogenic	GRCh38	7010
+single nucleotide variant	NM_001174147.2(LMX1B):c.306C>G (p.Tyr102Ter)	4010	LMX1B	Pathogenic	GRCh38	208164
+single nucleotide variant	NM_001174147.2(LMX1B):c.227G>A (p.Trp76Ter)	4010	LMX1B	Pathogenic	GRCh38	265489
+single nucleotide variant	NM_001174147.2(LMX1B):c.781C>T (p.Arg261Cys)	4010	LMX1B	Pathogenic	GRCh38	265491
+single nucleotide variant	NM_001174147.2(LMX1B):c.257G>A (p.Cys86Tyr)	4010	LMX1B	Likely pathogenic	GRCh38	432312
+single nucleotide variant	NM_001174147.2(LMX1B):c.176G>T (p.Cys59Phe)	4010	LMX1B	Pathogenic	GRCh38	438683
+single nucleotide variant	NM_001174147.2(LMX1B):c.736C>T (p.Arg246Ter)	4010	LMX1B	Pathogenic	GRCh38	488835
+single nucleotide variant	NM_001174147.2(LMX1B):c.737G>A (p.Arg246Gln)	4010	LMX1B	Pathogenic	GRCh38	498798
+single nucleotide variant	NM_001174147.2(LMX1B):c.741+1G>T	4010	LMX1B	Pathogenic	GRCh38	522461
+single nucleotide variant	NM_001174147.2(LMX1B):c.305A>G (p.Tyr102Cys)	4010	LMX1B	Likely pathogenic	GRCh38	587694
+single nucleotide variant	NM_001174147.2(LMX1B):c.745C>G (p.Arg249Gly)	4010	LMX1B	Likely pathogenic	GRCh38	666319
+single nucleotide variant	NM_001174147.2(LMX1B):c.709T>C (p.Ser237Pro)	4010	LMX1B	Pathogenic	GRCh38	694525
+single nucleotide variant	NM_001174147.2(LMX1B):c.784G>A (p.Val262Met)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	810414
+single nucleotide variant	NM_001174147.2(LMX1B):c.796T>C (p.Trp266Arg)	4010	LMX1B	Likely pathogenic	GRCh38	807623
+single nucleotide variant	NM_001174147.2(LMX1B):c.737G>C (p.Arg246Pro)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	812901
+single nucleotide variant	NM_001174147.2(LMX1B):c.169G>T (p.Glu57Ter)	4010	LMX1B	Pathogenic	GRCh38	827646
+single nucleotide variant	NM_001174147.2(LMX1B):c.793G>C (p.Val265Leu)	4010	LMX1B	Pathogenic	GRCh38	827648
+single nucleotide variant	NM_001174147.2(LMX1B):c.793G>T (p.Val265Phe)	4010	LMX1B	Pathogenic	GRCh38	827649
+single nucleotide variant	NM_001174147.2(LMX1B):c.819+1G>A	4010	LMX1B	Pathogenic	GRCh38	827651
+single nucleotide variant	NM_001174147.2(LMX1B):c.746G>C (p.Arg249Pro)	4010	LMX1B	Pathogenic	GRCh38	830002
+single nucleotide variant	NM_001174147.2(LMX1B):c.235G>T (p.Glu79Ter)	4010	LMX1B	Pathogenic	GRCh38	870908
+single nucleotide variant	NM_001174147.2(LMX1B):c.797G>C (p.Trp266Ser)	4010	LMX1B	Likely pathogenic	GRCh38	976153
+single nucleotide variant	NM_001174147.2(LMX1B):c.706G>C (p.Ala236Pro)	4010	LMX1B	Pathogenic	GRCh38	976712
+single nucleotide variant	NM_001174147.2(LMX1B):c.325C>T (p.Gln109Ter)	4010	LMX1B	Pathogenic	GRCh38	988549
+single nucleotide variant	NM_001174147.2(LMX1B):c.242T>G (p.Leu81Trp)	4010	LMX1B	Pathogenic	GRCh38	1054038
+single nucleotide variant	NM_001174147.2(LMX1B):c.326+1G>C	4010	LMX1B	Pathogenic	GRCh38	1070212
+single nucleotide variant	NM_001174147.2(LMX1B):c.419G>T (p.Cys140Phe)	4010	LMX1B	Pathogenic	GRCh38	1072036
+single nucleotide variant	NM_001174147.2(LMX1B):c.748G>T (p.Glu250Ter)	4010	LMX1B	Pathogenic	GRCh38	1417356
+single nucleotide variant	NM_001174147.2(LMX1B):c.178C>T (p.Gln60Ter)	4010	LMX1B	Pathogenic	GRCh38	1457453
+single nucleotide variant	NM_001174147.2(LMX1B):c.208C>T (p.Arg70Ter)	4010	LMX1B	Pathogenic	GRCh38	1457454
+single nucleotide variant	NM_001174147.2(LMX1B):c.484C>T (p.Gln162Ter)	4010	LMX1B	Pathogenic	GRCh38	1457457
+single nucleotide variant	NM_001174147.2(LMX1B):c.819+2T>G	4010	LMX1B	Pathogenic	GRCh38	1457461
+single nucleotide variant	NM_001174147.2(LMX1B):c.844C>T (p.Gln282Ter)	4010	LMX1B	Pathogenic	GRCh38	1418142
+single nucleotide variant	NM_001174147.2(LMX1B):c.321C>G (p.Tyr107Ter)	4010	LMX1B	Pathogenic	GRCh38	1459041
+single nucleotide variant	NM_001174147.2(LMX1B):c.327-2A>G	4010	LMX1B	Pathogenic	GRCh38	1459042
+single nucleotide variant	NM_001174147.2(LMX1B):c.445C>T (p.Gln149Ter)	4010	LMX1B	Pathogenic	GRCh38	1452247
+single nucleotide variant	NM_001174147.2(LMX1B):c.409C>T (p.His137Tyr)	4010	LMX1B	Pathogenic	GRCh38	1438692
+single nucleotide variant	NM_001174147.2(LMX1B):c.739A>T (p.Lys247Ter)	4010	LMX1B	Pathogenic	GRCh38	1453648
+single nucleotide variant	NM_001174147.2(LMX1B):c.782G>T (p.Arg261Leu)	4010	LMX1B	Likely pathogenic	GRCh38	1482831
+single nucleotide variant	NM_001174147.2(LMX1B):c.688C>A (p.Gln230Lys)	4010	LMX1B	Likely pathogenic	GRCh38	1515069
+single nucleotide variant	NM_001174147.2(LMX1B):c.285C>G (p.Tyr95Ter)	4010	LMX1B	Pathogenic	GRCh38	1407352
+single nucleotide variant	NM_001174147.2(LMX1B):c.419G>A (p.Cys140Tyr)	4010	LMX1B	Likely pathogenic	GRCh38	1406077
+single nucleotide variant	NM_001174147.2(LMX1B):c.428G>C (p.Cys143Ser)	4010	LMX1B	Likely pathogenic	GRCh38	1500802
+single nucleotide variant	NM_001174147.2(LMX1B):c.491T>C (p.Leu164Pro)	4010	LMX1B	Pathogenic	GRCh38	1719094
+single nucleotide variant	NM_001174147.2(LMX1B):c.949C>T (p.Gln317Ter)	4010	LMX1B	Pathogenic	GRCh38	1806136
+single nucleotide variant	NM_001174147.2(LMX1B):c.175T>C (p.Cys59Arg)	4010	LMX1B	Pathogenic	GRCh38	2136808
+single nucleotide variant	NM_001174147.2(LMX1B):c.408C>G (p.Tyr136Ter)	4010	LMX1B	Pathogenic	GRCh38	2136809
+single nucleotide variant	NM_001174147.2(LMX1B):c.428G>A (p.Cys143Tyr)	4010	LMX1B	Pathogenic	GRCh38	2136810
+single nucleotide variant	NM_001174147.2(LMX1B):c.217G>T (p.Glu73Ter)	4010	LMX1B	Pathogenic	GRCh38	1917889
+single nucleotide variant	NM_001174147.2(LMX1B):c.812G>C (p.Arg271Thr)	4010	LMX1B	Likely pathogenic	GRCh38	2003052
+single nucleotide variant	NM_001174147.2(LMX1B):c.140-3C>G	4010	LMX1B	Likely pathogenic	GRCh38	2030791
+single nucleotide variant	NM_001174147.2(LMX1B):c.258T>A (p.Cys86Ter)	4010	LMX1B	Pathogenic	GRCh38	2113998
+single nucleotide variant	NM_001174147.2(LMX1B):c.249C>G (p.Cys83Trp)	4010	LMX1B	Pathogenic	GRCh38	2129237
+single nucleotide variant	NM_001174147.2(LMX1B):c.259C>T (p.Gln87Ter)	4010	LMX1B	Pathogenic	GRCh38	2502373
+single nucleotide variant	NM_001174147.2(LMX1B):c.871C>T (p.Gln291Ter)	4010	LMX1B	Pathogenic	GRCh38	2572003
+single nucleotide variant	NM_001174147.2(LMX1B):c.667C>T (p.Arg223Trp)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	2628831
+single nucleotide variant	NM_001174147.2(LMX1B):c.327-1G>A	4010	LMX1B	Likely pathogenic	GRCh38	2632288
+single nucleotide variant	NM_001174147.2(LMX1B):c.221C>A (p.Ser74Ter)	4010	LMX1B	Pathogenic	GRCh38	2636986
+single nucleotide variant	NM_001174147.2(LMX1B):c.256T>A (p.Cys86Ser)	4010	LMX1B	Likely pathogenic	GRCh38	2694941
+single nucleotide variant	NM_001174147.2(LMX1B):c.507C>G (p.Tyr169Ter)	4010	LMX1B	Pathogenic	GRCh38	2726632
+single nucleotide variant	NM_001174147.2(LMX1B):c.140-1G>A	4010	LMX1B	Pathogenic	GRCh38	2735326
+single nucleotide variant	NM_001174147.2(LMX1B):c.317A>C (p.Asp106Ala)	4010	LMX1B	Likely pathogenic	GRCh38	2735331
+single nucleotide variant	NM_001174147.2(LMX1B):c.326+1G>A	4010	LMX1B	Pathogenic	GRCh38	2735332
+single nucleotide variant	NM_001174147.2(LMX1B):c.820-1G>A	4010	LMX1B	Pathogenic	GRCh38	2735339
+single nucleotide variant	NM_001174147.2(LMX1B):c.262C>T (p.Gln88Ter)	4010	LMX1B	Pathogenic	GRCh38	2764790
+single nucleotide variant	NM_001174147.2(LMX1B):c.232G>T (p.Glu78Ter)	4010	LMX1B	Pathogenic	GRCh38	3038129
+single nucleotide variant	NM_001174147.2(LMX1B):c.668G>C (p.Arg223Pro)	4010	LMX1B	Likely pathogenic	GRCh38	3036205
+single nucleotide variant	NM_001174147.2(LMX1B):c.340A>T (p.Lys114Ter)	4010	LMX1B	Pathogenic	GRCh38	3054352
+single nucleotide variant	NM_001174147.2(LMX1B):c.313C>T (p.Gln105Ter)	4010	LMX1B	Likely pathogenic	GRCh38	3340278
+single nucleotide variant	NM_001174147.2(LMX1B):c.755T>A (p.Leu252Gln)	4010	LMX1B	Likely pathogenic	GRCh38	3358861
+single nucleotide variant	NM_001174147.2(LMX1B):c.794T>G (p.Val265Gly)	4010	LMX1B	Pathogenic	GRCh38	3391130
+single nucleotide variant	NM_001174147.2(LMX1B):c.746G>A (p.Arg249Gln)	4010	LMX1B	Pathogenic	GRCh38	3596446
+single nucleotide variant	NM_001174147.2(LMX1B):c.568G>T (p.Glu190Ter)	4010	LMX1B	Pathogenic	GRCh38	3656253
+single nucleotide variant	NM_001174147.2(LMX1B):c.177C>A (p.Cys59Ter)	4010	LMX1B	Pathogenic	GRCh38	3645475
+single nucleotide variant	NM_001174147.2(LMX1B):c.140-2A>T	4010	LMX1B	Pathogenic	GRCh38	3660991
+single nucleotide variant	NM_001174147.2(LMX1B):c.298A>T (p.Lys100Ter)	4010	LMX1B	Pathogenic	GRCh38	3660427
+single nucleotide variant	NM_001174147.2(LMX1B):c.229C>T (p.His77Tyr)	4010	LMX1B	Pathogenic/Likely pathogenic	GRCh38	3720898
+single nucleotide variant	NM_001174147.2(LMX1B):c.692G>C (p.Arg231Pro)	4010	LMX1B	Likely pathogenic	GRCh38	3720900
+single nucleotide variant	NM_001174147.2(LMX1B):c.725C>A (p.Ser242Ter)	4010	LMX1B	Pathogenic	GRCh38	3720901
+single nucleotide variant	NM_001174147.2(LMX1B):c.640A>T (p.Lys214Ter)	4010	LMX1B	Pathogenic	GRCh38	3730841
+single nucleotide variant	NM_001174147.2(LMX1B):c.343T>C (p.Cys115Arg)	4010	LMX1B	Likely pathogenic	GRCh38	3771872
+single nucleotide variant	NM_001174147.2(LMX1B):c.741+1G>C	4010	LMX1B	Pathogenic	GRCh38	3771873
+single nucleotide variant	NM_001174147.2(LMX1B):c.742-1G>A	4010	LMX1B	Pathogenic	GRCh38	3893297
+single nucleotide variant	NM_001174147.2(LMX1B):c.411C>A (p.His137Gln)	4010	LMX1B	Pathogenic	GRCh38	4082344
+single nucleotide variant	NM_001174147.2(LMX1B):c.-226G>A	4010	LMX1B	Likely pathogenic	GRCh38	4292043
+single nucleotide variant	NM_001174147.2(LMX1B):c.737G>T (p.Arg246Leu)	4010	LMX1B	Pathogenic	GRCh38	4526779
+single nucleotide variant	NM_001174147.2(LMX1B):c.432C>A (p.Cys144Ter)	4010	LMX1B	Likely pathogenic	GRCh38	4688017
+single nucleotide variant	NM_001174147.2(LMX1B):c.927C>G (p.Tyr309Ter)	4010	LMX1B	Pathogenic	GRCh38	4714086
+single nucleotide variant	NM_001174147.2(LMX1B):c.952C>T (p.Gln318Ter)	4010	LMX1B	Pathogenic	GRCh38	4721560
+single nucleotide variant	NM_001174147.2(LMX1B):c.790C>T (p.Gln264Ter)	4010	LMX1B	Pathogenic	GRCh38	4709696
+single nucleotide variant	NM_001174147.2(LMX1B):c.755T>G (p.Leu252Arg)	4010	LMX1B	Likely pathogenic	GRCh38	4818742
+single nucleotide variant	NM_001174147.2(LMX1B):c.547G>T (p.Glu183Ter)	4010	LMX1B	Likely pathogenic	GRCh38	4855979

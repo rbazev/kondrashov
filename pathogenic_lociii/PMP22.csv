@@ -1,0 +1,60 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000304.4(PMP22):c.47T>C (p.Leu16Pro)	5376	PMP22	Pathogenic	GRCh38	8428
+single nucleotide variant	NM_000304.4(PMP22):c.236C>G (p.Ser79Cys)	5376	PMP22	Pathogenic	GRCh38	8429
+single nucleotide variant	NM_000304.4(PMP22):c.206T>A (p.Met69Lys)	5376	PMP22	Pathogenic	GRCh38	8432
+single nucleotide variant	NM_000304.4(PMP22):c.215C>T (p.Ser72Leu)	5376	PMP22	Pathogenic	GRCh38	8433
+single nucleotide variant	NM_000304.4(PMP22):c.36C>A (p.His12Gln)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	8434
+single nucleotide variant	NM_000304.4(PMP22):c.199G>C (p.Ala67Pro)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	8436
+single nucleotide variant	NM_000304.4(PMP22):c.82T>C (p.Trp28Arg)	5376	PMP22	Likely pathogenic	GRCh38	8440
+single nucleotide variant	NM_000304.4(PMP22):c.110A>T (p.Asp37Val)	5376	PMP22	Pathogenic	GRCh38	8442
+single nucleotide variant	NM_000304.4(PMP22):c.469C>T (p.Arg157Trp)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	8444
+single nucleotide variant	NM_000304.4(PMP22):c.65C>T (p.Ser22Phe)	5376	PMP22	Pathogenic	GRCh38	8445
+single nucleotide variant	NM_000304.4(PMP22):c.327C>A (p.Cys109Ter)	5376	PMP22	Pathogenic	GRCh38	217237
+single nucleotide variant	NM_000304.4(PMP22):c.235T>A (p.Ser79Thr)	5376	PMP22	Likely pathogenic	GRCh38	217236
+single nucleotide variant	NM_000304.4(PMP22):c.447C>A (p.Ser149Arg)	5376	PMP22	Pathogenic	GRCh38	234605
+single nucleotide variant	NM_000304.4(PMP22):c.449G>A (p.Gly150Asp)	5376	PMP22	Pathogenic	GRCh38	245805
+single nucleotide variant	NM_000304.4(PMP22):c.117G>A (p.Trp39Ter)	5376	PMP22	Pathogenic	GRCh38	282384
+single nucleotide variant	NM_000304.4(PMP22):c.448G>C (p.Gly150Arg)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	384327
+single nucleotide variant	NM_000304.4(PMP22):c.68C>G (p.Thr23Arg)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	411592
+single nucleotide variant	NM_000304.4(PMP22):c.449G>T (p.Gly150Val)	5376	PMP22	Pathogenic	GRCh38	433198
+single nucleotide variant	NM_000304.4(PMP22):c.431C>G (p.Pro144Arg)	5376	PMP22	Likely pathogenic	GRCh38	448092
+single nucleotide variant	NM_000304.4(PMP22):c.390C>G (p.Tyr130Ter)	5376	PMP22	Likely pathogenic	GRCh38	489246
+single nucleotide variant	NM_000304.4(PMP22):c.78+1G>A	5376	PMP22	Pathogenic	GRCh38	531690
+single nucleotide variant	NM_000304.4(PMP22):c.83G>A (p.Trp28Ter)	5376	PMP22	Pathogenic	GRCh38	531680
+single nucleotide variant	NM_000304.4(PMP22):c.307C>T (p.Gln103Ter)	5376	PMP22	Pathogenic	GRCh38	618333
+single nucleotide variant	NM_000304.4(PMP22):c.419G>A (p.Trp140Ter)	5376	PMP22	Pathogenic	GRCh38	637823
+single nucleotide variant	NM_000304.4(PMP22):c.418T>A (p.Trp140Arg)	5376	PMP22	Likely pathogenic	GRCh38	637842
+single nucleotide variant	NM_000304.4(PMP22):c.372G>A (p.Trp124Ter)	5376	PMP22	Pathogenic	GRCh38	637713
+single nucleotide variant	NM_000304.4(PMP22):c.320G>T (p.Gly107Val)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	637376
+single nucleotide variant	NM_000304.4(PMP22):c.298G>A (p.Gly100Arg)	5376	PMP22	Pathogenic	GRCh38	637820
+single nucleotide variant	NM_000304.4(PMP22):c.256C>T (p.Gln86Ter)	5376	PMP22	Pathogenic	GRCh38	637389
+single nucleotide variant	NM_000304.4(PMP22):c.235T>C (p.Ser79Pro)	5376	PMP22	Pathogenic	GRCh38	637822
+single nucleotide variant	NM_000304.4(PMP22):c.215C>G (p.Ser72Trp)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	637843
+single nucleotide variant	NM_000304.4(PMP22):c.214T>C (p.Ser72Pro)	5376	PMP22	Pathogenic	GRCh38	637384
+single nucleotide variant	NM_000304.4(PMP22):c.206T>G (p.Met69Arg)	5376	PMP22	Likely pathogenic	GRCh38	637834
+single nucleotide variant	NM_000304.4(PMP22):c.183G>A (p.Trp61Ter)	5376	PMP22	Pathogenic	GRCh38	637386
+single nucleotide variant	NM_000304.4(PMP22):c.319+1G>A	5376	PMP22	Pathogenic	GRCh38	637382
+single nucleotide variant	NM_000304.4(PMP22):c.179-2A>G	5376	PMP22	Pathogenic	GRCh38	637829
+single nucleotide variant	NM_000304.4(PMP22):c.79-2A>G	5376	PMP22	Pathogenic	GRCh38	637371
+single nucleotide variant	NM_000304.4(PMP22):c.420G>A (p.Trp140Ter)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	648604
+single nucleotide variant	NM_000304.4(PMP22):c.78+3G>T	5376	PMP22	Likely pathogenic	GRCh38	803325
+single nucleotide variant	NM_000304.4(PMP22):c.351C>A (p.Tyr117Ter)	5376	PMP22	Pathogenic	GRCh38	846662
+single nucleotide variant	NM_000304.4(PMP22):c.35A>G (p.His12Arg)	5376	PMP22	Pathogenic	GRCh38	835185
+single nucleotide variant	NM_000304.4(PMP22):c.255C>A (p.Cys85Ter)	5376	PMP22	Likely pathogenic	GRCh38	917225
+single nucleotide variant	NM_000304.4(PMP22):c.170C>G (p.Ser57Ter)	5376	PMP22	Likely pathogenic	GRCh38	917224
+single nucleotide variant	NM_000304.4(PMP22):c.434T>G (p.Leu145Arg)	5376	PMP22	Likely pathogenic	GRCh38	1046822
+single nucleotide variant	NM_000304.4(PMP22):c.236C>T (p.Ser79Phe)	5376	PMP22	Pathogenic	GRCh38	1072721
+single nucleotide variant	NM_000304.4(PMP22):c.78+1G>C	5376	PMP22	Pathogenic	GRCh38	1459288
+single nucleotide variant	NM_000304.4(PMP22):c.215C>A (p.Ser72Ter)	5376	PMP22	Pathogenic	GRCh38	1453125
+single nucleotide variant	NM_000304.4(PMP22):c.319+1G>T	5376	PMP22	Pathogenic	GRCh38	1458399
+single nucleotide variant	NM_000304.4(PMP22):c.68C>A (p.Thr23Lys)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	1349839
+single nucleotide variant	NM_000304.4(PMP22):c.34C>T (p.His12Tyr)	5376	PMP22	Likely pathogenic	GRCh38	1687565
+single nucleotide variant	NM_000304.4(PMP22):c.36C>G (p.His12Gln)	5376	PMP22	Pathogenic	GRCh38	2044604
+single nucleotide variant	NM_000304.4(PMP22):c.78+2T>C	5376	PMP22	Pathogenic	GRCh38	2830787
+single nucleotide variant	NM_000304.4(PMP22):c.440T>C (p.Leu147Pro)	5376	PMP22	Likely pathogenic	GRCh38	2913861
+single nucleotide variant	NM_000304.4(PMP22):c.320G>A (p.Gly107Asp)	5376	PMP22	Likely pathogenic	GRCh38	3040104
+single nucleotide variant	NM_000304.4(PMP22):c.396C>A (p.Tyr132Ter)	5376	PMP22	Pathogenic/Likely pathogenic	GRCh38	3381154
+single nucleotide variant	NM_000304.4(PMP22):c.79-1G>A	5376	PMP22	Likely pathogenic	GRCh38	3654227
+single nucleotide variant	NM_000304.4(PMP22):c.319+2T>G	5376	PMP22	Pathogenic	GRCh38	3657966
+single nucleotide variant	NM_000304.4(PMP22):c.35A>C (p.His12Pro)	5376	PMP22	Pathogenic	GRCh38	4685292
+single nucleotide variant	NM_000304.4(PMP22):c.323T>C (p.Leu108Pro)	5376	PMP22	Likely pathogenic	GRCh38	4710319

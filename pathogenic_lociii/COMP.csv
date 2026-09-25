@@ -1,0 +1,153 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000095.3(COMP):c.1414G>T (p.Asp472Tyr)	1311	COMP	Pathogenic	GRCh38	9183
+single nucleotide variant	NM_000095.3(COMP):c.1024G>T (p.Asp342Tyr)	1311	COMP	Pathogenic	GRCh38	9187
+single nucleotide variant	NM_000095.3(COMP):c.982T>C (p.Cys328Arg)	1311	COMP	Pathogenic	GRCh38	9188
+single nucleotide variant	NM_000095.3(COMP):c.1569C>G (p.Asn523Lys)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	9189
+single nucleotide variant	NM_000095.3(COMP):c.1358A>G (p.Asn453Ser)	1311	COMP	Pathogenic	GRCh38	9190
+single nucleotide variant	NM_000095.3(COMP):c.1418A>G (p.Asp473Gly)	1311	COMP	Pathogenic	GRCh38	9191
+single nucleotide variant	NM_000095.3(COMP):c.2156G>A (p.Gly719Asp)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	9194
+single nucleotide variant	NM_000095.3(COMP):c.1042T>C (p.Cys348Arg)	1311	COMP	Pathogenic	GRCh38	9195
+single nucleotide variant	NM_000095.3(COMP):c.2152C>T (p.Arg718Trp)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	9198
+single nucleotide variant	NM_000095.3(COMP):c.1754C>G (p.Thr585Arg)	1311	COMP	Pathogenic	GRCh38	40994
+single nucleotide variant	NM_000095.3(COMP):c.1754C>T (p.Thr585Met)	1311	COMP	Pathogenic	GRCh38	40995
+single nucleotide variant	NM_000095.3(COMP):c.1760A>G (p.His587Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	40996
+single nucleotide variant	NM_000095.3(COMP):c.2155G>A (p.Gly719Ser)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	40997
+single nucleotide variant	NM_000095.3(COMP):c.2153G>C (p.Arg718Pro)	1311	COMP	Pathogenic	GRCh38	65557
+single nucleotide variant	NM_000095.3(COMP):c.875G>T (p.Cys292Phe)	1311	COMP	Pathogenic	GRCh38	280393
+single nucleotide variant	NM_000095.3(COMP):c.1112G>A (p.Cys371Tyr)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	381656
+single nucleotide variant	NM_000095.3(COMP):c.1222G>A (p.Asp408Asn)	1311	COMP	Likely pathogenic	GRCh38	381655
+single nucleotide variant	NM_000095.3(COMP):c.1533C>G (p.Asp511Glu)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	420111
+single nucleotide variant	NM_000095.3(COMP):c.1322A>G (p.His441Arg)	1311	COMP	Pathogenic	GRCh38	429931
+single nucleotide variant	NM_000095.3(COMP):c.811G>C (p.Asp271His)	1311	COMP	Likely pathogenic	GRCh38	430218
+single nucleotide variant	NM_000095.3(COMP):c.1569C>A (p.Asn523Lys)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	432270
+single nucleotide variant	NM_000095.3(COMP):c.1126G>T (p.Asp376Tyr)	1311	COMP	Likely pathogenic	GRCh38	438839
+single nucleotide variant	NM_000095.3(COMP):c.1502G>A (p.Gly501Asp)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	449473
+single nucleotide variant	NM_000095.3(COMP):c.1195G>A (p.Asp399Asn)	1311	COMP	Likely pathogenic	GRCh38	449474
+single nucleotide variant	NM_000095.3(COMP):c.1675G>A (p.Glu559Lys)	1311	COMP	Likely pathogenic	GRCh38	618040
+single nucleotide variant	NM_000095.3(COMP):c.1265A>C (p.Asp422Ala)	1311	COMP	Likely pathogenic	GRCh38	623129
+single nucleotide variant	NM_000095.3(COMP):c.1315G>A (p.Asp439Asn)	1311	COMP	Likely pathogenic	GRCh38	692028
+single nucleotide variant	NM_000095.3(COMP):c.887C>G (p.Pro296Arg)	1311	COMP	Likely pathogenic	GRCh38	692045
+single nucleotide variant	NM_000095.3(COMP):c.1552G>C (p.Asp518His)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	803547
+single nucleotide variant	NM_000095.3(COMP):c.1315G>T (p.Asp439Tyr)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	803548
+single nucleotide variant	NM_000095.3(COMP):c.818A>T (p.Asp273Val)	1311	COMP	Likely pathogenic	GRCh38	803550
+single nucleotide variant	NM_000095.3(COMP):c.984C>G (p.Cys328Trp)	1311	COMP	Likely pathogenic	GRCh38	808505
+single nucleotide variant	NM_000095.3(COMP):c.1153G>T (p.Asp385Tyr)	1311	COMP	Pathogenic	GRCh38	807400
+single nucleotide variant	NM_000095.3(COMP):c.1318G>C (p.Gly440Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	811306
+single nucleotide variant	NM_000095.3(COMP):c.1445A>T (p.Asp482Val)	1311	COMP	Likely pathogenic	GRCh38	818215
+single nucleotide variant	NM_000095.3(COMP):c.1309G>A (p.Asp437Asn)	1311	COMP	Likely pathogenic	GRCh38	818216
+single nucleotide variant	NM_000095.3(COMP):c.1201G>C (p.Asp401His)	1311	COMP	Likely pathogenic	GRCh38	818217
+single nucleotide variant	NM_000095.3(COMP):c.874T>C (p.Cys292Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	818218
+single nucleotide variant	NM_000095.3(COMP):c.1201G>A (p.Asp401Asn)	1311	COMP	Pathogenic	GRCh38	988295
+single nucleotide variant	NM_000095.3(COMP):c.1153G>A (p.Asp385Asn)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	988351
+single nucleotide variant	NM_000095.3(COMP):c.1403G>C (p.Cys468Ser)	1311	COMP	Likely pathogenic	GRCh38	989361
+single nucleotide variant	NM_000095.3(COMP):c.197T>A (p.Val66Glu)	1311	COMP	Pathogenic	GRCh38	995411
+single nucleotide variant	NM_000095.3(COMP):c.1210G>A (p.Gly404Arg)	1311	COMP	Likely pathogenic	GRCh38	998037
+single nucleotide variant	NM_000095.3(COMP):c.1545C>G (p.Asp515Glu)	1311	COMP	Pathogenic	GRCh38	1010194
+single nucleotide variant	NM_000095.3(COMP):c.905A>G (p.Asp302Gly)	1311	COMP	Likely pathogenic	GRCh38	1026679
+single nucleotide variant	NM_000095.3(COMP):c.875G>A (p.Cys292Tyr)	1311	COMP	Likely pathogenic	GRCh38	1046684
+single nucleotide variant	NM_000095.3(COMP):c.1435G>C (p.Asp479His)	1311	COMP	Likely pathogenic	GRCh38	1058021
+single nucleotide variant	NM_000095.3(COMP):c.1467C>A (p.Asn489Lys)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1067222
+single nucleotide variant	NM_000095.3(COMP):c.1444G>A (p.Asp482Asn)	1311	COMP	Likely pathogenic	GRCh38	1067972
+single nucleotide variant	NM_000095.3(COMP):c.1359C>G (p.Asn453Lys)	1311	COMP	Pathogenic	GRCh38	1066799
+single nucleotide variant	NM_000095.3(COMP):c.1317C>G (p.Asp439Glu)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1066197
+single nucleotide variant	NM_000095.3(COMP):c.1190A>T (p.Asp397Val)	1311	COMP	Likely pathogenic	GRCh38	1067409
+single nucleotide variant	NM_000095.3(COMP):c.1189G>C (p.Asp397His)	1311	COMP	Likely pathogenic	GRCh38	1067973
+single nucleotide variant	NM_000095.3(COMP):c.1127A>T (p.Asp376Val)	1311	COMP	Likely pathogenic	GRCh38	1067974
+single nucleotide variant	NM_000095.3(COMP):c.949G>A (p.Asp317Asn)	1311	COMP	Pathogenic	GRCh38	1067975
+single nucleotide variant	NM_000095.3(COMP):c.1526A>T (p.Asp509Val)	1311	COMP	Pathogenic	GRCh38	1074708
+single nucleotide variant	NM_000095.3(COMP):c.1414G>C (p.Asp472His)	1311	COMP	Pathogenic	GRCh38	1074709
+single nucleotide variant	NM_000095.3(COMP):c.1318G>A (p.Gly440Arg)	1311	COMP	Pathogenic	GRCh38	1074710
+single nucleotide variant	NM_000095.3(COMP):c.1403G>T (p.Cys468Phe)	1311	COMP	Pathogenic	GRCh38	1180714
+single nucleotide variant	NM_000095.3(COMP):c.1475A>C (p.Gln492Pro)	1311	COMP	Likely pathogenic	GRCh38	1224328
+single nucleotide variant	NM_000095.3(COMP):c.1304A>T (p.Asp435Val)	1311	COMP	Likely pathogenic	GRCh38	1224414
+single nucleotide variant	NM_000095.3(COMP):c.1228T>G (p.Cys410Gly)	1311	COMP	Likely pathogenic	GRCh38	1299574
+single nucleotide variant	NM_000095.3(COMP):c.1501G>A (p.Gly501Ser)	1311	COMP	Likely pathogenic	GRCh38	1327423
+single nucleotide variant	NM_000095.3(COMP):c.976G>A (p.Asp326Asn)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1332822
+single nucleotide variant	NM_000095.3(COMP):c.925G>A (p.Gly309Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1332831
+single nucleotide variant	NM_000095.3(COMP):c.983G>T (p.Cys328Phe)	1311	COMP	Likely pathogenic	GRCh38	1332846
+single nucleotide variant	NM_000095.3(COMP):c.1201G>T (p.Asp401Tyr)	1311	COMP	Likely pathogenic	GRCh38	1339213
+single nucleotide variant	NM_000095.3(COMP):c.1113C>G (p.Cys371Trp)	1311	COMP	Likely pathogenic	GRCh38	1476556
+single nucleotide variant	NM_000095.3(COMP):c.1579A>G (p.Thr527Ala)	1311	COMP	Likely pathogenic	GRCh38	1498106
+single nucleotide variant	NM_000095.3(COMP):c.1336G>C (p.Asp446His)	1311	COMP	Likely pathogenic	GRCh38	1498138
+single nucleotide variant	NM_000095.3(COMP):c.2155G>T (p.Gly719Cys)	1311	COMP	Likely pathogenic	GRCh38	1483239
+single nucleotide variant	NM_000095.3(COMP):c.887C>T (p.Pro296Leu)	1311	COMP	Likely pathogenic	GRCh38	1472178
+single nucleotide variant	NM_000095.3(COMP):c.1111T>C (p.Cys371Arg)	1311	COMP	Likely pathogenic	GRCh38	1471865
+single nucleotide variant	NM_000095.3(COMP):c.1280G>A (p.Gly427Glu)	1311	COMP	Pathogenic	GRCh38	1457556
+single nucleotide variant	NM_000095.3(COMP):c.1228T>C (p.Cys410Arg)	1311	COMP	Likely pathogenic	GRCh38	1503481
+single nucleotide variant	NM_000095.3(COMP):c.1279G>C (p.Gly427Arg)	1311	COMP	Likely pathogenic	GRCh38	1501014
+single nucleotide variant	NM_000095.3(COMP):c.905A>T (p.Asp302Val)	1311	COMP	Pathogenic	GRCh38	1404709
+single nucleotide variant	NM_000095.3(COMP):c.806A>G (p.Asp269Gly)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1404727
+single nucleotide variant	NM_000095.3(COMP):c.806A>C (p.Asp269Ala)	1311	COMP	Likely pathogenic	GRCh38	1486948
+single nucleotide variant	NM_000095.3(COMP):c.1043G>A (p.Cys348Tyr)	1311	COMP	Likely pathogenic	GRCh38	1478727
+single nucleotide variant	NM_000095.3(COMP):c.1520A>G (p.Asp507Gly)	1311	COMP	Pathogenic	GRCh38	1372994
+single nucleotide variant	NM_000095.3(COMP):c.1045G>A (p.Asp349Asn)	1311	COMP	Pathogenic	GRCh38	1427648
+single nucleotide variant	NM_000095.3(COMP):c.1132G>A (p.Asp378Asn)	1311	COMP	Pathogenic	GRCh38	1455152
+single nucleotide variant	NM_000095.3(COMP):c.895G>A (p.Gly299Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1373104
+single nucleotide variant	NM_000095.3(COMP):c.1553A>G (p.Asp518Gly)	1311	COMP	Pathogenic	GRCh38	1360065
+single nucleotide variant	NM_000095.3(COMP):c.1126G>C (p.Asp376His)	1311	COMP	Pathogenic	GRCh38	1415145
+single nucleotide variant	NM_000095.3(COMP):c.1319G>A (p.Gly440Glu)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1435721
+single nucleotide variant	NM_000095.3(COMP):c.1279G>A (p.Gly427Arg)	1311	COMP	Likely pathogenic	GRCh38	1491149
+single nucleotide variant	NM_000095.3(COMP):c.1126G>A (p.Asp376Asn)	1311	COMP	Likely pathogenic	GRCh38	1676245
+single nucleotide variant	NM_000095.3(COMP):c.1394G>T (p.Gly465Val)	1311	COMP	Likely pathogenic	GRCh38	1679874
+single nucleotide variant	NM_000095.3(COMP):c.868G>T (p.Asp290Tyr)	1311	COMP	Pathogenic	GRCh38	1679945
+single nucleotide variant	NM_000095.3(COMP):c.891C>A (p.Asn297Lys)	1311	COMP	Likely pathogenic	GRCh38	1683447
+single nucleotide variant	NM_000095.3(COMP):c.1051T>C (p.Cys351Arg)	1311	COMP	Likely pathogenic	GRCh38	1683448
+single nucleotide variant	NM_000095.3(COMP):c.1309G>C (p.Asp437His)	1311	COMP	Pathogenic	GRCh38	1683450
+single nucleotide variant	NM_000095.3(COMP):c.1521C>G (p.Asp507Glu)	1311	COMP	Likely pathogenic	GRCh38	1683451
+single nucleotide variant	NM_000095.3(COMP):c.1367A>C (p.Gln456Pro)	1311	COMP	Likely pathogenic	GRCh38	1683453
+single nucleotide variant	NM_000095.3(COMP):c.949G>T (p.Asp317Tyr)	1311	COMP	Likely pathogenic	GRCh38	1685287
+single nucleotide variant	NM_000095.3(COMP):c.529-2A>T	1311	COMP	Likely pathogenic	GRCh38	1700695
+single nucleotide variant	NM_000095.3(COMP):c.1665C>G (p.Asn555Lys)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	1709017
+single nucleotide variant	NM_000095.3(COMP):c.1545C>A (p.Asp515Glu)	1311	COMP	Likely pathogenic	GRCh38	1723867
+single nucleotide variant	NM_000095.3(COMP):c.1045G>C (p.Asp349His)	1311	COMP	Pathogenic	GRCh38	1723871
+single nucleotide variant	NM_000095.3(COMP):c.1552G>A (p.Asp518Asn)	1311	COMP	Pathogenic	GRCh38	2138261
+single nucleotide variant	NM_000095.3(COMP):c.1511G>A (p.Cys504Tyr)	1311	COMP	Pathogenic	GRCh38	2138262
+single nucleotide variant	NM_000095.3(COMP):c.1423G>A (p.Asp475Asn)	1311	COMP	Pathogenic	GRCh38	2138263
+single nucleotide variant	NM_000095.3(COMP):c.1372G>T (p.Asp458Tyr)	1311	COMP	Likely pathogenic	GRCh38	2138264
+single nucleotide variant	NM_000095.3(COMP):c.1052G>A (p.Cys351Tyr)	1311	COMP	Pathogenic	GRCh38	2138265
+single nucleotide variant	NM_000095.3(COMP):c.868G>A (p.Asp290Asn)	1311	COMP	Likely pathogenic	GRCh38	2138266
+single nucleotide variant	NM_000095.3(COMP):c.1417G>A (p.Asp473Asn)	1311	COMP	Likely pathogenic	GRCh38	1879428
+single nucleotide variant	NM_000095.3(COMP):c.1358A>C (p.Asn453Thr)	1311	COMP	Likely pathogenic	GRCh38	2004976
+single nucleotide variant	NM_000095.3(COMP):c.1527T>A (p.Asp509Glu)	1311	COMP	Pathogenic	GRCh38	2005884
+single nucleotide variant	NM_000095.3(COMP):c.811G>A (p.Asp271Asn)	1311	COMP	Likely pathogenic	GRCh38	2097203
+single nucleotide variant	NM_000095.3(COMP):c.818A>G (p.Asp273Gly)	1311	COMP	Likely pathogenic	GRCh38	2412784
+single nucleotide variant	NM_000095.3(COMP):c.1316A>G (p.Asp439Gly)	1311	COMP	Likely pathogenic	GRCh38	2444368
+single nucleotide variant	NM_000095.3(COMP):c.1417G>C (p.Asp473His)	1311	COMP	Likely pathogenic	GRCh38	2505557
+single nucleotide variant	NM_000095.3(COMP):c.1280G>C (p.Gly427Ala)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	2578090
+single nucleotide variant	NM_000095.3(COMP):c.1526A>G (p.Asp509Gly)	1311	COMP	Likely pathogenic	GRCh38	2579388
+single nucleotide variant	NM_000095.3(COMP):c.1317C>A (p.Asp439Glu)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	2631497
+single nucleotide variant	NM_000095.3(COMP):c.1373A>G (p.Asp458Gly)	1311	COMP	Pathogenic	GRCh38	2709843
+single nucleotide variant	NM_000095.3(COMP):c.1153G>C (p.Asp385His)	1311	COMP	Likely pathogenic	GRCh38	2720105
+single nucleotide variant	NM_000095.3(COMP):c.1544A>G (p.Asp515Gly)	1311	COMP	Pathogenic	GRCh38	2736852
+single nucleotide variant	NM_000095.3(COMP):c.1220G>A (p.Cys407Tyr)	1311	COMP	Pathogenic	GRCh38	2736857
+single nucleotide variant	NM_000095.3(COMP):c.827C>G (p.Pro276Arg)	1311	COMP	Pathogenic/Likely pathogenic	GRCh38	2736859
+single nucleotide variant	NM_000095.3(COMP):c.1342T>G (p.Cys448Gly)	1311	COMP	Likely pathogenic	GRCh38	2761611
+single nucleotide variant	NM_000095.3(COMP):c.1127A>G (p.Asp376Gly)	1311	COMP	Likely pathogenic	GRCh38	2861303
+single nucleotide variant	NM_000095.3(COMP):c.1402T>C (p.Cys468Arg)	1311	COMP	Pathogenic	GRCh38	2862149
+single nucleotide variant	NM_000095.3(COMP):c.1411G>C (p.Asp471His)	1311	COMP	Likely pathogenic	GRCh38	3031010
+single nucleotide variant	NM_000095.3(COMP):c.1586C>A (p.Thr529Asn)	1311	COMP	Likely pathogenic	GRCh38	3065273
+single nucleotide variant	NM_000095.3(COMP):c.1303G>C (p.Asp435His)	1311	COMP	Likely pathogenic	GRCh38	3069181
+single nucleotide variant	NM_000095.3(COMP):c.1810C>G (p.Gln604Glu)	1311	COMP	Pathogenic	GRCh38	3666755
+single nucleotide variant	NM_000095.3(COMP):c.1467C>G (p.Asn489Lys)	1311	COMP	Pathogenic	GRCh38	3723495
+single nucleotide variant	NM_000095.3(COMP):c.1450T>G (p.Cys484Gly)	1311	COMP	Likely pathogenic	GRCh38	3723496
+single nucleotide variant	NM_000095.3(COMP):c.1336G>A (p.Asp446Asn)	1311	COMP	Pathogenic	GRCh38	3723506
+single nucleotide variant	NM_000095.3(COMP):c.1159T>C (p.Cys387Arg)	1311	COMP	Pathogenic	GRCh38	3723507
+single nucleotide variant	NM_000095.3(COMP):c.1046A>G (p.Asp349Gly)	1311	COMP	Pathogenic	GRCh38	3723508
+single nucleotide variant	NM_000095.3(COMP):c.904G>T (p.Asp302Tyr)	1311	COMP	Likely pathogenic	GRCh38	3723511
+single nucleotide variant	NM_000095.3(COMP):c.815T>C (p.Leu272Pro)	1311	COMP	Pathogenic	GRCh38	3723512
+single nucleotide variant	NM_000095.3(COMP):c.1111T>A (p.Cys371Ser)	1311	COMP	Likely pathogenic	GRCh38	3774931
+single nucleotide variant	NM_000095.3(COMP):c.1585A>G (p.Thr529Ala)	1311	COMP	Likely pathogenic	GRCh38	3775976
+single nucleotide variant	NM_000095.3(COMP):c.1454G>T (p.Arg485Leu)	1311	COMP	Likely pathogenic	GRCh38	4072050
+single nucleotide variant	NM_000095.3(COMP):c.1450T>C (p.Cys484Arg)	1311	COMP	Likely pathogenic	GRCh38	4085378
+single nucleotide variant	NM_000095.3(COMP):c.895G>C (p.Gly299Arg)	1311	COMP	Pathogenic	GRCh38	4280638
+single nucleotide variant	NM_000095.3(COMP):c.1362T>G (p.Ser454Arg)	1311	COMP	Likely pathogenic	GRCh38	4280640
+single nucleotide variant	NM_000095.3(COMP):c.1319G>T (p.Gly440Val)	1311	COMP	Pathogenic	GRCh38	4291809
+single nucleotide variant	NM_000095.3(COMP):c.1245C>G (p.Asn415Lys)	1311	COMP	Likely pathogenic	GRCh38	4710526
+single nucleotide variant	NM_000095.3(COMP):c.1082A>T (p.Asp361Val)	1311	COMP	Pathogenic	GRCh38	4710528
+single nucleotide variant	NM_000095.3(COMP):c.1024G>A (p.Asp342Asn)	1311	COMP	Likely pathogenic	GRCh38	4740457
+single nucleotide variant	NM_000095.3(COMP):c.1342T>C (p.Cys448Arg)	1311	COMP	Pathogenic	GRCh38	4741160
+single nucleotide variant	NM_000095.3(COMP):c.1445A>C (p.Asp482Ala)	1311	COMP	Likely pathogenic	GRCh38	4819368
+single nucleotide variant	NM_000095.3(COMP):c.1424A>G (p.Asp475Gly)	1311	COMP	Pathogenic	GRCh38	4819371
+single nucleotide variant	NM_000095.3(COMP):c.1358A>T (p.Asn453Ile)	1311	COMP	Likely pathogenic	GRCh38	4854305
+single nucleotide variant	NM_000095.3(COMP):c.1195G>T (p.Asp399Tyr)	1311	COMP	Likely pathogenic	GRCh38	4869335
+single nucleotide variant	NM_000095.3(COMP):c.1394G>A (p.Gly465Asp)	1311	COMP	Likely pathogenic	GRCh38	4874132

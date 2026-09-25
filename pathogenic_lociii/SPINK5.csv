@@ -1,0 +1,73 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006846.4(SPINK5):c.2368C>T (p.Arg790Ter)	11005	SPINK5	Pathogenic	GRCh38	5266
+single nucleotide variant	NM_006846.4(SPINK5):c.283-2A>T	11005	SPINK5	Pathogenic	GRCh38	5267
+single nucleotide variant	NM_006846.4(SPINK5):c.136C>T (p.Gln46Ter)	11005	SPINK5	Pathogenic	GRCh38	265441
+single nucleotide variant	NM_006846.4(SPINK5):c.1302+4A>T	11005	SPINK5	Pathogenic	GRCh38	279898
+single nucleotide variant	NM_006846.4(SPINK5):c.2467A>T (p.Lys823Ter)	11005	SPINK5	Pathogenic	GRCh38	280272
+single nucleotide variant	NM_006846.4(SPINK5):c.652C>T (p.Arg218Ter)	11005	SPINK5	Pathogenic	GRCh38	351517
+single nucleotide variant	NM_006846.4(SPINK5):c.2740-1G>C	11005	SPINK5	Likely pathogenic	GRCh38	372908
+single nucleotide variant	NM_006846.4(SPINK5):c.882+2T>C	11005	SPINK5	Pathogenic	GRCh38	373039
+single nucleotide variant	NM_006846.4(SPINK5):c.1431-12G>A	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	372516
+single nucleotide variant	NM_006846.4(SPINK5):c.2240+1G>A	11005	SPINK5	Pathogenic	GRCh38	372517
+single nucleotide variant	NM_006846.4(SPINK5):c.891C>T (p.Cys297=)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	374066
+single nucleotide variant	NM_006846.4(SPINK5):c.2667-1G>A	11005	SPINK5	Pathogenic	GRCh38	392407
+single nucleotide variant	NM_006846.4(SPINK5):c.2622T>A (p.Tyr874Ter)	11005	SPINK5	Pathogenic	GRCh38	379560
+single nucleotide variant	NM_006846.4(SPINK5):c.81+2T>A	11005	SPINK5	Pathogenic	GRCh38	429608
+single nucleotide variant	NM_006846.4(SPINK5):c.1048C>T (p.Arg350Ter)	11005	SPINK5	Pathogenic	GRCh38	449101
+single nucleotide variant	NM_006846.4(SPINK5):c.2215C>T (p.Gln739Ter)	11005	SPINK5	Pathogenic	GRCh38	452099
+single nucleotide variant	NM_006846.4(SPINK5):c.3018T>A (p.Cys1006Ter)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	459574
+single nucleotide variant	NM_006846.4(SPINK5):c.649C>T (p.Arg217Ter)	11005	SPINK5	Pathogenic	GRCh38	523773
+single nucleotide variant	NM_006846.4(SPINK5):c.1530C>A (p.Cys510Ter)	11005	SPINK5	Pathogenic	GRCh38	523881
+single nucleotide variant	NM_006846.4(SPINK5):c.2441+1G>A	11005	SPINK5	Likely pathogenic	GRCh38	574736
+single nucleotide variant	NM_006846.4(SPINK5):c.2557C>T (p.Arg853Ter)	11005	SPINK5	Pathogenic	GRCh38	623372
+single nucleotide variant	NM_006846.4(SPINK5):c.1089T>G (p.Tyr363Ter)	11005	SPINK5	Pathogenic	GRCh38	646119
+single nucleotide variant	NM_006846.4(SPINK5):c.1888-1G>A	11005	SPINK5	Pathogenic	GRCh38	654917
+single nucleotide variant	NM_006846.4(SPINK5):c.1012C>T (p.Gln338Ter)	11005	SPINK5	Pathogenic	GRCh38	835174
+single nucleotide variant	NM_006846.4(SPINK5):c.1825C>T (p.Gln609Ter)	11005	SPINK5	Pathogenic	GRCh38	843075
+single nucleotide variant	NM_006846.4(SPINK5):c.2423C>T (p.Thr808Ile)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	848986
+single nucleotide variant	NM_006846.4(SPINK5):c.2671C>T (p.Arg891Ter)	11005	SPINK5	Pathogenic	GRCh38	852460
+single nucleotide variant	NM_006846.4(SPINK5):c.81+5G>A	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	835648
+single nucleotide variant	NM_006846.4(SPINK5):c.1000C>T (p.Gln334Ter)	11005	SPINK5	Pathogenic	GRCh38	956463
+single nucleotide variant	NM_006846.4(SPINK5):c.2611C>T (p.Arg871Ter)	11005	SPINK5	Pathogenic	GRCh38	959534
+single nucleotide variant	NM_006846.4(SPINK5):c.67A>T (p.Lys23Ter)	11005	SPINK5	Pathogenic	GRCh38	969619
+single nucleotide variant	NM_006846.4(SPINK5):c.1111C>T (p.Arg371Ter)	11005	SPINK5	Pathogenic	GRCh38	989374
+single nucleotide variant	NM_006846.4(SPINK5):c.1430+1G>T	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	1200287
+single nucleotide variant	NM_006846.4(SPINK5):c.410+1G>A	11005	SPINK5	Pathogenic	GRCh38	1254561
+single nucleotide variant	NM_006846.4(SPINK5):c.209+1G>A	11005	SPINK5	Likely pathogenic	GRCh38	1325122
+single nucleotide variant	NM_006846.4(SPINK5):c.2989C>T (p.Arg997Ter)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	1422122
+single nucleotide variant	NM_006846.4(SPINK5):c.1480-2A>G	11005	SPINK5	Likely pathogenic	GRCh38	1496197
+single nucleotide variant	NM_006846.4(SPINK5):c.679G>T (p.Glu227Ter)	11005	SPINK5	Pathogenic	GRCh38	1423328
+single nucleotide variant	NM_006846.4(SPINK5):c.1732C>T (p.Arg578Ter)	11005	SPINK5	Pathogenic	GRCh38	1456666
+single nucleotide variant	NM_006846.4(SPINK5):c.2260A>T (p.Lys754Ter)	11005	SPINK5	Pathogenic	GRCh38	1379542
+single nucleotide variant	NM_006846.4(SPINK5):c.2666+1G>A	11005	SPINK5	Likely pathogenic	GRCh38	1499040
+single nucleotide variant	NM_006846.4(SPINK5):c.2758C>T (p.Arg920Ter)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	1350963
+single nucleotide variant	NM_006846.4(SPINK5):c.2965-1G>A	11005	SPINK5	Likely pathogenic	GRCh38	2198932
+single nucleotide variant	NM_006846.4(SPINK5):c.45C>A (p.Cys15Ter)	11005	SPINK5	Pathogenic	GRCh38	2060408
+single nucleotide variant	NM_006846.4(SPINK5):c.1339G>T (p.Gly447Ter)	11005	SPINK5	Pathogenic	GRCh38	2097455
+single nucleotide variant	NM_006846.4(SPINK5):c.2015+5G>A	11005	SPINK5	Likely pathogenic	GRCh38	2683651
+single nucleotide variant	NM_006846.4(SPINK5):c.211G>T (p.Glu71Ter)	11005	SPINK5	Pathogenic	GRCh38	2702130
+single nucleotide variant	NM_006846.4(SPINK5):c.2098G>T (p.Gly700Ter)	11005	SPINK5	Pathogenic	GRCh38	2734797
+single nucleotide variant	NM_006846.4(SPINK5):c.666+1G>T	11005	SPINK5	Pathogenic	GRCh38	2789920
+single nucleotide variant	NM_006846.4(SPINK5):c.2113-2A>G	11005	SPINK5	Likely pathogenic	GRCh38	2789478
+single nucleotide variant	NM_006846.4(SPINK5):c.210-2A>C	11005	SPINK5	Likely pathogenic	GRCh38	2851256
+single nucleotide variant	NM_006846.4(SPINK5):c.2015+1G>T	11005	SPINK5	Likely pathogenic	GRCh38	2878193
+single nucleotide variant	NM_006846.4(SPINK5):c.3095+2T>C	11005	SPINK5	Likely pathogenic	GRCh38	2906593
+single nucleotide variant	NM_006846.4(SPINK5):c.602+1G>T	11005	SPINK5	Likely pathogenic	GRCh38	2965380
+single nucleotide variant	NM_006846.4(SPINK5):c.2739+1G>T	11005	SPINK5	Likely pathogenic	GRCh38	2990619
+single nucleotide variant	NM_006846.4(SPINK5):c.882+1G>T	11005	SPINK5	Likely pathogenic	GRCh38	3591868
+single nucleotide variant	NM_006846.4(SPINK5):c.1887+1G>A	11005	SPINK5	Likely pathogenic	GRCh38	3591869
+single nucleotide variant	NM_006846.4(SPINK5):c.2538+1G>T	11005	SPINK5	Likely pathogenic	GRCh38	3591872
+single nucleotide variant	NM_006846.4(SPINK5):c.666+1G>A	11005	SPINK5	Pathogenic	GRCh38	3646295
+single nucleotide variant	NM_006846.4(SPINK5):c.684T>A (p.Tyr228Ter)	11005	SPINK5	Pathogenic	GRCh38	3647304
+single nucleotide variant	NM_006846.4(SPINK5):c.1690C>T (p.Gln564Ter)	11005	SPINK5	Pathogenic	GRCh38	3692365
+single nucleotide variant	NM_006846.4(SPINK5):c.1320C>A (p.Tyr440Ter)	11005	SPINK5	Pathogenic	GRCh38	3901167
+single nucleotide variant	NM_006846.4(SPINK5):c.666+1G>C	11005	SPINK5	Pathogenic	GRCh38	4278102
+single nucleotide variant	NM_006846.4(SPINK5):c.2313+2T>G	11005	SPINK5	Likely pathogenic	GRCh38	4312422
+single nucleotide variant	NM_006846.4(SPINK5):c.1220+2T>C	11005	SPINK5	Likely pathogenic	GRCh38	4713941
+single nucleotide variant	NM_006846.4(SPINK5):c.602+1G>C	11005	SPINK5	Likely pathogenic	GRCh38	4720227
+single nucleotide variant	NM_006846.4(SPINK5):c.1431-1G>C	11005	SPINK5	Likely pathogenic	GRCh38	4726633
+single nucleotide variant	NM_006846.4(SPINK5):c.628C>T (p.Arg210Ter)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	4747471
+single nucleotide variant	NM_006846.4(SPINK5):c.410+1G>T	11005	SPINK5	Pathogenic	GRCh38	4796791
+single nucleotide variant	NM_006846.4(SPINK5):c.2569A>T (p.Arg857Ter)	11005	SPINK5	Pathogenic	GRCh38	4810165
+single nucleotide variant	NM_006846.4(SPINK5):c.2726C>A (p.Ser909Ter)	11005	SPINK5	Pathogenic/Likely pathogenic	GRCh38	4804923
+single nucleotide variant	NM_006846.4(SPINK5):c.1302+2T>A	11005	SPINK5	Likely pathogenic	GRCh38	4890061

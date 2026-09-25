@@ -1,7 +1,7 @@
 Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
 single nucleotide variant	NM_031885.5(BBS2):c.224T>G (p.Val75Gly)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	4569
 single nucleotide variant	NM_031885.5(BBS2):c.72C>G (p.Tyr24Ter)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	4570
-single nucleotide variant	NM_031885.5(BBS2):c.175C>T (p.Gln59Ter)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	4571
+single nucleotide variant	NM_031885.5(BBS2):c.175C>T (p.Gln59Ter)	583	BBS2	Pathogenic	GRCh38	4571
 single nucleotide variant	NM_031885.5(BBS2):c.823C>T (p.Arg275Ter)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	4572
 single nucleotide variant	NM_031885.5(BBS2):c.943C>T (p.Arg315Trp)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	4573
 single nucleotide variant	NM_031885.5(BBS2):c.311A>C (p.Asp104Ala)	583	BBS2	Pathogenic	GRCh38	4577
@@ -102,7 +102,7 @@ single nucleotide variant	NM_031885.5(BBS2):c.941-1G>A	583	BBS2	Likely pathogeni
 single nucleotide variant	NM_031885.5(BBS2):c.534+2T>C	583	BBS2	Likely pathogenic	GRCh38	2680028
 single nucleotide variant	NM_031885.5(BBS2):c.278T>A (p.Leu93Ter)	583	BBS2	Likely pathogenic	GRCh38	2680029
 single nucleotide variant	NM_031885.5(BBS2):c.1527+2T>G	583	BBS2	Likely pathogenic	GRCh38	2718045
-single nucleotide variant	NM_031885.5(BBS2):c.1822C>T (p.Gln608Ter)	583	BBS2	Pathogenic/Likely pathogenic	GRCh38	2760081
+single nucleotide variant	NM_031885.5(BBS2):c.1822C>T (p.Gln608Ter)	583	BBS2	Pathogenic	GRCh38	2760081
 single nucleotide variant	NM_031885.5(BBS2):c.118-1G>T	583	BBS2	Likely pathogenic	GRCh38	2760843
 single nucleotide variant	NM_031885.5(BBS2):c.775G>T (p.Glu259Ter)	583	BBS2	Pathogenic	GRCh38	2767575
 single nucleotide variant	NM_031885.5(BBS2):c.345+1G>A	583	BBS2	Likely pathogenic	GRCh38	2773228

@@ -1,0 +1,141 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006306.4(SMC1A):c.1478A>C (p.Glu493Ala)	8243	SMC1A	Pathogenic	GRCh38	11673
+single nucleotide variant	NM_006306.4(SMC1A):c.1487G>A (p.Arg496His)	8243	SMC1A	Pathogenic	GRCh38	11675
+single nucleotide variant	NM_006306.4(SMC1A):c.2351T>C (p.Ile784Thr)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	29929
+single nucleotide variant	NM_006306.4(SMC1A):c.3557T>C (p.Val1186Ala)	8243	SMC1A	Likely pathogenic	GRCh38	159958
+single nucleotide variant	NM_006306.4(SMC1A):c.3254A>G (p.Tyr1085Cys)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	159956
+single nucleotide variant	NM_006306.4(SMC1A):c.3146G>A (p.Arg1049Gln)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	159954
+single nucleotide variant	NM_006306.4(SMC1A):c.3070A>T (p.Asn1024Tyr)	8243	SMC1A	Likely pathogenic	GRCh38	159953
+single nucleotide variant	NM_006306.4(SMC1A):c.2368C>T (p.Arg790Trp)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	159950
+single nucleotide variant	NM_006306.4(SMC1A):c.2327T>A (p.Val776Glu)	8243	SMC1A	Likely pathogenic	GRCh38	159948
+single nucleotide variant	NM_006306.4(SMC1A):c.2131C>T (p.Arg711Trp)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	159947
+single nucleotide variant	NM_006306.4(SMC1A):c.2078G>A (p.Arg693Gln)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	159946
+single nucleotide variant	NM_006306.4(SMC1A):c.1877G>A (p.Arg626His)	8243	SMC1A	Likely pathogenic	GRCh38	159945
+single nucleotide variant	NM_006306.4(SMC1A):c.1754T>C (p.Leu585Pro)	8243	SMC1A	Likely pathogenic	GRCh38	159944
+single nucleotide variant	NM_006306.4(SMC1A):c.1267C>A (p.Gln423Lys)	8243	SMC1A	Likely pathogenic	GRCh38	159940
+single nucleotide variant	NM_006306.4(SMC1A):c.1193G>A (p.Arg398Gln)	8243	SMC1A	Pathogenic	GRCh38	159938
+single nucleotide variant	NM_006306.4(SMC1A):c.616-2A>G	8243	SMC1A	Pathogenic	GRCh38	159962
+single nucleotide variant	NM_006306.4(SMC1A):c.547C>T (p.Gln183Ter)	8243	SMC1A	Pathogenic	GRCh38	159960
+single nucleotide variant	NM_006306.4(SMC1A):c.421G>A (p.Glu141Lys)	8243	SMC1A	Likely pathogenic	GRCh38	159959
+single nucleotide variant	NM_006306.4(SMC1A):c.1834G>A (p.Ala612Thr)	8243	SMC1A	Likely pathogenic	GRCh38	167705
+single nucleotide variant	NM_006306.4(SMC1A):c.2974-2A>G	8243	SMC1A	Pathogenic	GRCh38	180198
+single nucleotide variant	NM_006306.4(SMC1A):c.121C>T (p.Leu41Phe)	8243	SMC1A	Pathogenic	GRCh38	180200
+single nucleotide variant	NM_006306.4(SMC1A):c.3196C>T (p.Arg1066Cys)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	208703
+single nucleotide variant	NM_006306.4(SMC1A):c.3578T>G (p.Phe1193Cys)	8243	SMC1A	Likely pathogenic	GRCh38	225076
+single nucleotide variant	NM_006306.4(SMC1A):c.1192C>T (p.Arg398Ter)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	280754
+single nucleotide variant	NM_006306.4(SMC1A):c.1279G>A (p.Glu427Lys)	8243	SMC1A	Likely pathogenic	GRCh38	286432
+single nucleotide variant	NM_006306.4(SMC1A):c.3342C>A (p.Asn1114Lys)	8243	SMC1A	Likely pathogenic	GRCh38	372892
+single nucleotide variant	NM_006306.4(SMC1A):c.116C>G (p.Ser39Ter)	8243	SMC1A	Pathogenic	GRCh38	374391
+single nucleotide variant	NM_006306.4(SMC1A):c.3373A>G (p.Met1125Val)	8243	SMC1A	Likely pathogenic	GRCh38	375462
+single nucleotide variant	NM_006306.4(SMC1A):c.1504G>A (p.Glu502Lys)	8243	SMC1A	Pathogenic	GRCh38	384752
+single nucleotide variant	NM_006306.4(SMC1A):c.622C>G (p.Arg208Gly)	8243	SMC1A	Pathogenic	GRCh38	378628
+single nucleotide variant	NM_006306.4(SMC1A):c.3568A>G (p.Lys1190Glu)	8243	SMC1A	Likely pathogenic	GRCh38	393123
+single nucleotide variant	NM_006306.4(SMC1A):c.615+5G>A	8243	SMC1A	Pathogenic	GRCh38	421309
+single nucleotide variant	NM_006306.4(SMC1A):c.2272C>T (p.Arg758Ter)	8243	SMC1A	Pathogenic	GRCh38	432458
+single nucleotide variant	NM_006306.4(SMC1A):c.311A>G (p.Glu104Gly)	8243	SMC1A	Likely pathogenic	GRCh38	432073
+single nucleotide variant	NM_006306.4(SMC1A):c.1495C>T (p.Arg499Ter)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	489224
+single nucleotide variant	NM_006306.4(SMC1A):c.3197G>A (p.Arg1066His)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	521979
+single nucleotide variant	NM_006306.4(SMC1A):c.2329T>C (p.Phe777Leu)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	521126
+single nucleotide variant	NM_006306.4(SMC1A):c.1114-2A>G	8243	SMC1A	Pathogenic	GRCh38	523213
+single nucleotide variant	NM_006306.4(SMC1A):c.128A>T (p.Asp43Val)	8243	SMC1A	Likely pathogenic	GRCh38	523205
+single nucleotide variant	NM_006306.4(SMC1A):c.110G>T (p.Gly37Val)	8243	SMC1A	Likely pathogenic	GRCh38	523204
+single nucleotide variant	NM_006306.4(SMC1A):c.587G>A (p.Arg196His)	8243	SMC1A	Pathogenic	GRCh38	532572
+single nucleotide variant	NM_006306.4(SMC1A):c.3103C>T (p.Arg1035Ter)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	532569
+single nucleotide variant	NM_006306.4(SMC1A):c.2562+1G>A	8243	SMC1A	Pathogenic	GRCh38	545064
+single nucleotide variant	NM_006306.4(SMC1A):c.1732-2A>G	8243	SMC1A	Pathogenic	GRCh38	545098
+single nucleotide variant	NM_006306.4(SMC1A):c.1475A>G (p.Gln492Arg)	8243	SMC1A	Likely pathogenic	GRCh38	547082
+single nucleotide variant	NM_006306.4(SMC1A):c.95G>A (p.Gly32Glu)	8243	SMC1A	Likely pathogenic	GRCh38	547840
+single nucleotide variant	NM_006306.4(SMC1A):c.855-2A>G	8243	SMC1A	Likely pathogenic	GRCh38	562395
+single nucleotide variant	NM_006306.4(SMC1A):c.3461T>A (p.Val1154Asp)	8243	SMC1A	Likely pathogenic	GRCh38	579900
+single nucleotide variant	NM_006306.4(SMC1A):c.3151C>T (p.Arg1051Ter)	8243	SMC1A	Pathogenic	GRCh38	571206
+single nucleotide variant	NM_006306.4(SMC1A):c.287G>C (p.Arg96Pro)	8243	SMC1A	Likely pathogenic	GRCh38	596194
+single nucleotide variant	NM_006306.4(SMC1A):c.2035G>T (p.Glu679Ter)	8243	SMC1A	Pathogenic	GRCh38	619027
+single nucleotide variant	NM_006306.4(SMC1A):c.2314-2A>G	8243	SMC1A	Likely pathogenic	GRCh38	639215
+single nucleotide variant	NM_006306.4(SMC1A):c.3022C>T (p.Gln1008Ter)	8243	SMC1A	Pathogenic	GRCh38	804005
+single nucleotide variant	NM_006306.4(SMC1A):c.1964G>A (p.Gly655Glu)	8243	SMC1A	Likely pathogenic	GRCh38	804007
+single nucleotide variant	NM_006306.4(SMC1A):c.615+2T>C	8243	SMC1A	Pathogenic	GRCh38	804008
+single nucleotide variant	NM_006306.4(SMC1A):c.583G>T (p.Glu195Ter)	8243	SMC1A	Likely pathogenic	GRCh38	804009
+single nucleotide variant	NM_006306.4(SMC1A):c.3497A>C (p.Asn1166Thr)	8243	SMC1A	Pathogenic	GRCh38	807691
+single nucleotide variant	NM_006306.4(SMC1A):c.2948A>G (p.Tyr983Cys)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	812178
+single nucleotide variant	NM_006306.4(SMC1A):c.2320G>T (p.Asp774Tyr)	8243	SMC1A	Likely pathogenic	GRCh38	843372
+single nucleotide variant	NM_006306.4(SMC1A):c.2161C>T (p.Gln721Ter)	8243	SMC1A	Pathogenic	GRCh38	845949
+single nucleotide variant	NM_006306.4(SMC1A):c.1486C>T (p.Arg496Cys)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	841238
+single nucleotide variant	NM_006306.4(SMC1A):c.397T>G (p.Phe133Val)	8243	SMC1A	Pathogenic	GRCh38	845340
+single nucleotide variant	NM_006306.4(SMC1A):c.1911+1G>T	8243	SMC1A	Pathogenic	GRCh38	864840
+single nucleotide variant	NM_006306.4(SMC1A):c.2197G>T (p.Glu733Ter)	8243	SMC1A	Pathogenic	GRCh38	864844
+single nucleotide variant	NM_006306.4(SMC1A):c.3115C>T (p.Gln1039Ter)	8243	SMC1A	Pathogenic	GRCh38	864846
+single nucleotide variant	NM_006306.4(SMC1A):c.2683C>G (p.Arg895Gly)	8243	SMC1A	Pathogenic	GRCh38	864847
+single nucleotide variant	NM_006306.4(SMC1A):c.2611C>T (p.Gln871Ter)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	975860
+single nucleotide variant	NM_006306.4(SMC1A):c.1958C>T (p.Ser653Phe)	8243	SMC1A	Pathogenic	GRCh38	989381
+single nucleotide variant	NM_006306.4(SMC1A):c.3344G>T (p.Cys1115Phe)	8243	SMC1A	Likely pathogenic	GRCh38	1068123
+single nucleotide variant	NM_006306.4(SMC1A):c.3344G>A (p.Cys1115Tyr)	8243	SMC1A	Likely pathogenic	GRCh38	1067065
+single nucleotide variant	NM_006306.4(SMC1A):c.3145C>T (p.Arg1049Ter)	8243	SMC1A	Pathogenic	GRCh38	1068642
+single nucleotide variant	NM_006306.4(SMC1A):c.2923C>T (p.Arg975Ter)	8243	SMC1A	Pathogenic	GRCh38	1074295
+single nucleotide variant	NM_006306.4(SMC1A):c.2398C>T (p.Gln800Ter)	8243	SMC1A	Pathogenic	GRCh38	1069969
+single nucleotide variant	NM_006306.4(SMC1A):c.2132G>A (p.Arg711Gln)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	1076799
+single nucleotide variant	NM_006306.4(SMC1A):c.586C>G (p.Arg196Gly)	8243	SMC1A	Pathogenic	GRCh38	1076178
+single nucleotide variant	NM_006306.4(SMC1A):c.2341T>C (p.Cys781Arg)	8243	SMC1A	Pathogenic	GRCh38	1164033
+single nucleotide variant	NM_006306.4(SMC1A):c.1171C>T (p.Gln391Ter)	8243	SMC1A	Pathogenic	GRCh38	1164034
+single nucleotide variant	NM_006306.4(SMC1A):c.3181C>T (p.Gln1061Ter)	8243	SMC1A	Likely pathogenic	GRCh38	1184529
+single nucleotide variant	NM_006306.4(SMC1A):c.1903C>T (p.Arg635Cys)	8243	SMC1A	Likely pathogenic	GRCh38	1185985
+single nucleotide variant	NM_006306.4(SMC1A):c.286C>T (p.Arg96Cys)	8243	SMC1A	Pathogenic	GRCh38	1419270
+single nucleotide variant	NM_006306.4(SMC1A):c.2899C>T (p.Gln967Ter)	8243	SMC1A	Pathogenic	GRCh38	1418836
+single nucleotide variant	NM_006306.4(SMC1A):c.2173C>T (p.Arg725Ter)	8243	SMC1A	Pathogenic	GRCh38	1351269
+single nucleotide variant	NM_006306.4(SMC1A):c.3437+1G>A	8243	SMC1A	Likely pathogenic	GRCh38	1503975
+single nucleotide variant	NM_006306.4(SMC1A):c.628C>T (p.Gln210Ter)	8243	SMC1A	Pathogenic	GRCh38	1398517
+single nucleotide variant	NM_006306.4(SMC1A):c.2314-2A>T	8243	SMC1A	Likely pathogenic	GRCh38	1480591
+single nucleotide variant	NM_006306.4(SMC1A):c.1607A>G (p.Lys536Arg)	8243	SMC1A	Pathogenic	GRCh38	1346682
+single nucleotide variant	NM_006306.4(SMC1A):c.3367C>T (p.Arg1123Trp)	8243	SMC1A	Pathogenic	GRCh38	1460185
+single nucleotide variant	NM_006306.4(SMC1A):c.2437C>T (p.Gln813Ter)	8243	SMC1A	Pathogenic	GRCh38	1351039
+single nucleotide variant	NM_006306.4(SMC1A):c.3508-2A>G	8243	SMC1A	Pathogenic	GRCh38	1473013
+single nucleotide variant	NM_006306.4(SMC1A):c.1756C>T (p.Arg586Trp)	8243	SMC1A	Likely pathogenic	GRCh38	1526114
+single nucleotide variant	NM_006306.4(SMC1A):c.1102G>A (p.Glu368Lys)	8243	SMC1A	Likely pathogenic	GRCh38	1679269
+single nucleotide variant	NM_006306.4(SMC1A):c.411+1G>C	8243	SMC1A	Likely pathogenic	GRCh38	1685447
+single nucleotide variant	NM_006306.4(SMC1A):c.3568A>C (p.Lys1190Gln)	8243	SMC1A	Likely pathogenic	GRCh38	1698963
+single nucleotide variant	NM_006306.4(SMC1A):c.1715C>T (p.Pro572Leu)	8243	SMC1A	Likely pathogenic	GRCh38	1805547
+single nucleotide variant	NM_006306.4(SMC1A):c.511C>T (p.Arg171Ter)	8243	SMC1A	Pathogenic	GRCh38	1806292
+single nucleotide variant	NM_006306.4(SMC1A):c.127G>A (p.Asp43Asn)	8243	SMC1A	Likely pathogenic	GRCh38	1810251
+single nucleotide variant	NM_006306.4(SMC1A):c.1714C>T (p.Pro572Ser)	8243	SMC1A	Likely pathogenic	GRCh38	2419205
+single nucleotide variant	NM_006306.4(SMC1A):c.2146C>T (p.Gln716Ter)	8243	SMC1A	Pathogenic	GRCh38	2012610
+single nucleotide variant	NM_006306.4(SMC1A):c.1335C>T (p.Ser445=)	8243	SMC1A	Pathogenic/Likely pathogenic	GRCh38	2033254
+single nucleotide variant	NM_006306.4(SMC1A):c.371T>A (p.Leu124Ter)	8243	SMC1A	Pathogenic	GRCh38	2087572
+single nucleotide variant	NM_006306.4(SMC1A):c.3255T>A (p.Tyr1085Ter)	8243	SMC1A	Pathogenic	GRCh38	2108018
+single nucleotide variant	NM_006306.4(SMC1A):c.3196C>A (p.Arg1066Ser)	8243	SMC1A	Likely pathogenic	GRCh38	2441999
+single nucleotide variant	NM_006306.4(SMC1A):c.2973+1G>A	8243	SMC1A	Pathogenic	GRCh38	2442377
+single nucleotide variant	NM_006306.4(SMC1A):c.41C>T (p.Ser14Leu)	8243	SMC1A	Likely pathogenic	GRCh38	2502758
+single nucleotide variant	NM_006306.4(SMC1A):c.3040C>T (p.Gln1014Ter)	8243	SMC1A	Likely pathogenic	GRCh38	2576567
+single nucleotide variant	NM_006306.4(SMC1A):c.3283C>T (p.Gln1095Ter)	8243	SMC1A	Pathogenic	GRCh38	2577978
+single nucleotide variant	NM_006306.4(SMC1A):c.2870C>T (p.Ser957Phe)	8243	SMC1A	Likely pathogenic	GRCh38	2580758
+single nucleotide variant	NM_006306.4(SMC1A):c.1546-2A>C	8243	SMC1A	Likely pathogenic	GRCh38	2582663
+single nucleotide variant	NM_006306.4(SMC1A):c.1961G>T (p.Gly654Val)	8243	SMC1A	Pathogenic	GRCh38	2711171
+single nucleotide variant	NM_006306.4(SMC1A):c.909G>C (p.Glu303Asp)	8243	SMC1A	Pathogenic	GRCh38	2747445
+single nucleotide variant	NM_006306.4(SMC1A):c.855-1G>A	8243	SMC1A	Likely pathogenic	GRCh38	2812114
+single nucleotide variant	NM_006306.4(SMC1A):c.3422T>C (p.Leu1141Pro)	8243	SMC1A	Pathogenic	GRCh38	2825150
+single nucleotide variant	NM_006306.4(SMC1A):c.2343T>A (p.Cys781Ter)	8243	SMC1A	Pathogenic	GRCh38	2832942
+single nucleotide variant	NM_006306.4(SMC1A):c.1927G>T (p.Gly643Ter)	8243	SMC1A	Pathogenic	GRCh38	2859683
+single nucleotide variant	NM_006306.4(SMC1A):c.2514G>A (p.Trp838Ter)	8243	SMC1A	Pathogenic	GRCh38	2866123
+single nucleotide variant	NM_006306.4(SMC1A):c.52C>T (p.Arg18Ter)	8243	SMC1A	Pathogenic	GRCh38	2884107
+single nucleotide variant	NM_006306.4(SMC1A):c.3118G>A (p.Glu1040Lys)	8243	SMC1A	Likely pathogenic	GRCh38	3024284
+single nucleotide variant	NM_006306.4(SMC1A):c.298+2T>C	8243	SMC1A	Pathogenic	GRCh38	3024321
+single nucleotide variant	NM_006306.4(SMC1A):c.664C>T (p.Gln222Ter)	8243	SMC1A	Pathogenic	GRCh38	3064229
+single nucleotide variant	NM_006306.4(SMC1A):c.1757G>A (p.Arg586Gln)	8243	SMC1A	Likely pathogenic	GRCh38	3338841
+single nucleotide variant	NM_006306.4(SMC1A):c.2776C>T (p.Arg926Cys)	8243	SMC1A	Likely pathogenic	GRCh38	3369464
+single nucleotide variant	NM_006306.4(SMC1A):c.2708+1G>A	8243	SMC1A	Pathogenic	GRCh38	3370125
+single nucleotide variant	NM_006306.4(SMC1A):c.1731+1G>A	8243	SMC1A	Likely pathogenic	GRCh38	3372381
+single nucleotide variant	NM_006306.4(SMC1A):c.1915G>A (p.Val639Met)	8243	SMC1A	Likely pathogenic	GRCh38	3381846
+single nucleotide variant	NM_006306.4(SMC1A):c.2683C>T (p.Arg895Cys)	8243	SMC1A	Likely pathogenic	GRCh38	3392521
+single nucleotide variant	NM_006306.4(SMC1A):c.607A>G (p.Lys203Glu)	8243	SMC1A	Pathogenic	GRCh38	3392609
+single nucleotide variant	NM_006306.4(SMC1A):c.2110C>T (p.Gln704Ter)	8243	SMC1A	Likely pathogenic	GRCh38	3598407
+single nucleotide variant	NM_006306.4(SMC1A):c.907G>T (p.Glu303Ter)	8243	SMC1A	Pathogenic	GRCh38	3661527
+single nucleotide variant	NM_006306.4(SMC1A):c.1405C>T (p.Arg469Cys)	8243	SMC1A	Likely pathogenic	GRCh38	3724237
+single nucleotide variant	NM_006306.4(SMC1A):c.1913C>T (p.Thr638Ile)	8243	SMC1A	Pathogenic	GRCh38	3765619
+single nucleotide variant	NM_006306.4(SMC1A):c.1946C>G (p.Ser649Ter)	8243	SMC1A	Likely pathogenic	GRCh38	3910022
+single nucleotide variant	NM_006306.4(SMC1A):c.1125C>G (p.Tyr375Ter)	8243	SMC1A	Likely pathogenic	GRCh38	4292102
+single nucleotide variant	NM_006306.4(SMC1A):c.3438-1G>C	8243	SMC1A	Likely pathogenic	GRCh38	4532334
+single nucleotide variant	NM_006306.4(SMC1A):c.563G>A (p.Arg188His)	8243	SMC1A	Pathogenic	GRCh38	4538583
+single nucleotide variant	NM_006306.4(SMC1A):c.2077C>G (p.Arg693Gly)	8243	SMC1A	Pathogenic	GRCh38	4710767
+single nucleotide variant	NM_006306.4(SMC1A):c.2674G>T (p.Glu892Ter)	8243	SMC1A	Pathogenic	GRCh38	4734566
+single nucleotide variant	NM_006306.4(SMC1A):c.1574C>T (p.Pro525Leu)	8243	SMC1A	Pathogenic	GRCh38	4746378
+single nucleotide variant	NM_006306.4(SMC1A):c.107C>A (p.Ser36Tyr)	8243	SMC1A	Likely pathogenic	GRCh38	4856068
+single nucleotide variant	NM_006306.4(SMC1A):c.1731G>A (p.Glu577=)	8243	SMC1A	Likely pathogenic	GRCh38	4879514
+single nucleotide variant	NM_006306.4(SMC1A):c.653G>C (p.Arg218Pro)	8243	SMC1A	Pathogenic	GRCh38	4887871

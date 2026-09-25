@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_014270.5(SLC7A9):c.508G>A (p.Val170Met)	11136	SLC7A9	Pathogenic	GRCh38	5780
+single nucleotide variant	NM_014270.5(SLC7A9):c.313G>A (p.Gly105Arg)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	5781
+single nucleotide variant	NM_014270.5(SLC7A9):c.583G>A (p.Gly195Arg)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	5783
+single nucleotide variant	NM_014270.5(SLC7A9):c.775G>A (p.Gly259Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	5784
+single nucleotide variant	NM_014270.5(SLC7A9):c.997C>T (p.Arg333Trp)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	5787
+single nucleotide variant	NM_014270.5(SLC7A9):c.131T>C (p.Ile44Thr)	11136	SLC7A9	Pathogenic	GRCh38	5788
+single nucleotide variant	NM_014270.5(SLC7A9):c.88-2A>G	11136	SLC7A9	Likely pathogenic	GRCh38	225476
+single nucleotide variant	NM_014270.5(SLC7A9):c.749+1G>C	11136	SLC7A9	Likely pathogenic	GRCh38	402239
+single nucleotide variant	NM_014270.5(SLC7A9):c.325G>A (p.Ala109Thr)	11136	SLC7A9	Likely pathogenic	GRCh38	562447
+single nucleotide variant	NM_014270.5(SLC7A9):c.1353C>A (p.Tyr451Ter)	11136	SLC7A9	Pathogenic	GRCh38	562455
+single nucleotide variant	NM_014270.5(SLC7A9):c.705-2A>G	11136	SLC7A9	Likely pathogenic	GRCh38	655170
+single nucleotide variant	NM_014270.5(SLC7A9):c.1201A>T (p.Lys401Ter)	11136	SLC7A9	Pathogenic	GRCh38	804195
+single nucleotide variant	NM_014270.5(SLC7A9):c.151T>C (p.Ser51Pro)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	804194
+single nucleotide variant	NM_014270.5(SLC7A9):c.1399+5G>C	11136	SLC7A9	Likely pathogenic	GRCh38	804181
+single nucleotide variant	NM_014270.5(SLC7A9):c.955G>A (p.Gly319Arg)	11136	SLC7A9	Pathogenic	GRCh38	836401
+single nucleotide variant	NM_014270.5(SLC7A9):c.1397C>A (p.Ser466Ter)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	974507
+single nucleotide variant	NM_014270.5(SLC7A9):c.604G>C (p.Gly202Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	1066719
+single nucleotide variant	NM_014270.5(SLC7A9):c.49C>T (p.Gln17Ter)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	1076784
+single nucleotide variant	NM_014270.5(SLC7A9):c.225C>T (p.Leu75=)	11136	SLC7A9	Likely pathogenic	GRCh38	1179193
+single nucleotide variant	NM_014270.5(SLC7A9):c.209C>T (p.Ala70Val)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	1179051
+single nucleotide variant	NM_014270.5(SLC7A9):c.1400-2A>G	11136	SLC7A9	Pathogenic	GRCh38	1323616
+single nucleotide variant	NM_014270.5(SLC7A9):c.1306G>T (p.Glu436Ter)	11136	SLC7A9	Likely pathogenic	GRCh38	1325099
+single nucleotide variant	NM_014270.5(SLC7A9):c.376G>A (p.Ala126Thr)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	1364171
+single nucleotide variant	NM_014270.5(SLC7A9):c.604+1G>A	11136	SLC7A9	Pathogenic	GRCh38	1404775
+single nucleotide variant	NM_014270.5(SLC7A9):c.157A>T (p.Lys53Ter)	11136	SLC7A9	Pathogenic	GRCh38	1452963
+single nucleotide variant	NM_014270.5(SLC7A9):c.1137C>G (p.Ser379Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	2138268
+single nucleotide variant	NM_014270.5(SLC7A9):c.1304G>A (p.Trp435Ter)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	1974337
+single nucleotide variant	NM_014270.5(SLC7A9):c.1445C>T (p.Pro482Leu)	11136	SLC7A9	Pathogenic	GRCh38	2060879
+single nucleotide variant	NM_014270.5(SLC7A9):c.206G>A (p.Trp69Ter)	11136	SLC7A9	Pathogenic	GRCh38	2431528
+single nucleotide variant	NM_014270.5(SLC7A9):c.1210G>T (p.Glu404Ter)	11136	SLC7A9	Pathogenic/Likely pathogenic	GRCh38	2433572
+single nucleotide variant	NM_014270.5(SLC7A9):c.488C>A (p.Ser163Ter)	11136	SLC7A9	Likely pathogenic	GRCh38	2671951
+single nucleotide variant	NM_014270.5(SLC7A9):c.459C>A (p.Cys153Ter)	11136	SLC7A9	Pathogenic	GRCh38	2683632
+single nucleotide variant	NM_014270.5(SLC7A9):c.227C>T (p.Ala76Val)	11136	SLC7A9	Likely pathogenic	GRCh38	3359166
+single nucleotide variant	NM_014270.5(SLC7A9):c.766A>G (p.Ile256Val)	11136	SLC7A9	Likely pathogenic	GRCh38	3359168
+single nucleotide variant	NM_014270.5(SLC7A9):c.1074+5G>A	11136	SLC7A9	Likely pathogenic	GRCh38	3359169
+single nucleotide variant	NM_014270.5(SLC7A9):c.998G>A (p.Arg333Gln)	11136	SLC7A9	Likely pathogenic	GRCh38	3359170
+single nucleotide variant	NM_014270.5(SLC7A9):c.422A>C (p.Tyr141Ser)	11136	SLC7A9	Likely pathogenic	GRCh38	3359171
+single nucleotide variant	NM_014270.5(SLC7A9):c.1399+1G>C	11136	SLC7A9	Pathogenic	GRCh38	3359173
+single nucleotide variant	NM_014270.5(SLC7A9):c.409T>C (p.Cys137Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	3359174
+single nucleotide variant	NM_014270.5(SLC7A9):c.1399+2T>C	11136	SLC7A9	Pathogenic	GRCh38	3359176
+single nucleotide variant	NM_014270.5(SLC7A9):c.749G>A (p.Arg250Lys)	11136	SLC7A9	Likely pathogenic	GRCh38	3376792
+single nucleotide variant	NM_014270.5(SLC7A9):c.584G>A (p.Gly195Glu)	11136	SLC7A9	Pathogenic	GRCh38	3377378
+single nucleotide variant	NM_014270.5(SLC7A9):c.1225-1G>T	11136	SLC7A9	Likely pathogenic	GRCh38	3583580
+single nucleotide variant	NM_014270.5(SLC7A9):c.1075-1G>A	11136	SLC7A9	Likely pathogenic	GRCh38	3583585
+single nucleotide variant	NM_014270.5(SLC7A9):c.1032C>T (p.Ile344=)	11136	SLC7A9	Likely pathogenic	GRCh38	3583589
+single nucleotide variant	NM_014270.5(SLC7A9):c.479-1G>A	11136	SLC7A9	Likely pathogenic	GRCh38	3583609
+single nucleotide variant	NM_014270.5(SLC7A9):c.478+1G>A	11136	SLC7A9	Likely pathogenic	GRCh38	3583611
+single nucleotide variant	NM_014270.5(SLC7A9):c.1A>G (p.Met1Val)	11136	SLC7A9	Likely pathogenic	GRCh38	3583629
+single nucleotide variant	NM_014270.5(SLC7A9):c.291T>A (p.Tyr97Ter)	11136	SLC7A9	Likely pathogenic	GRCh38	3901482
+single nucleotide variant	NM_014270.5(SLC7A9):c.530A>G (p.Gln177Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	4279041
+single nucleotide variant	NM_014270.5(SLC7A9):c.709C>A (p.Gln237Lys)	11136	SLC7A9	Likely pathogenic	GRCh38	4526834
+single nucleotide variant	NM_014270.5(SLC7A9):c.284G>A (p.Gly95Glu)	11136	SLC7A9	Likely pathogenic	GRCh38	4818957
+single nucleotide variant	NM_014270.5(SLC7A9):c.977+2T>A	11136	SLC7A9	Likely pathogenic	GRCh38	4855135
+single nucleotide variant	NM_014270.5(SLC7A9):c.517G>A (p.Gly173Arg)	11136	SLC7A9	Likely pathogenic	GRCh38	4855657

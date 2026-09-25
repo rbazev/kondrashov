@@ -1,0 +1,64 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5058+1G>A	440193	CCDC88C	Pathogenic	GRCh38	39860
+single nucleotide variant	NM_001080414.4(CCDC88C):c.934C>T (p.Arg312Ter)	440193	CCDC88C	Pathogenic	GRCh38	39861
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4167G>C (p.Met1389Ile)	440193	CCDC88C	Likely pathogenic	GRCh38	191051
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1219C>T (p.Arg407Ter)	440193	CCDC88C	Pathogenic/Likely pathogenic	GRCh38	423495
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1993G>A (p.Glu665Lys)	440193	CCDC88C	Likely pathogenic	GRCh38	978819
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3195+6T>C	440193	CCDC88C	Likely pathogenic	GRCh38	1027497
+single nucleotide variant	NM_001080414.4(CCDC88C):c.821C>T (p.Thr274Ile)	440193	CCDC88C	Likely pathogenic	GRCh38	1027492
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4442-2A>C	440193	CCDC88C	Likely pathogenic	GRCh38	2179116
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4132C>T (p.Arg1378Ter)	440193	CCDC88C	Pathogenic	GRCh38	2053024
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3967-1G>C	440193	CCDC88C	Likely pathogenic	GRCh38	2050861
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3700C>T (p.Arg1234Ter)	440193	CCDC88C	Pathogenic	GRCh38	2080624
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5613T>A (p.Cys1871Ter)	440193	CCDC88C	Pathogenic	GRCh38	2698849
+single nucleotide variant	NM_001080414.4(CCDC88C):c.810-1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2698948
+single nucleotide variant	NM_001080414.4(CCDC88C):c.2871C>A (p.Tyr957Ter)	440193	CCDC88C	Pathogenic	GRCh38	2703417
+single nucleotide variant	NM_001080414.4(CCDC88C):c.302T>A (p.Leu101Ter)	440193	CCDC88C	Pathogenic	GRCh38	2704867
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5575G>T (p.Glu1859Ter)	440193	CCDC88C	Pathogenic	GRCh38	2706303
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3043G>T (p.Gly1015Ter)	440193	CCDC88C	Pathogenic	GRCh38	2731033
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1768A>T (p.Lys590Ter)	440193	CCDC88C	Pathogenic	GRCh38	2748573
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3196-1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2750333
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5134C>T (p.Gln1712Ter)	440193	CCDC88C	Pathogenic	GRCh38	2756944
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4768+1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2765531
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1051-2A>G	440193	CCDC88C	Likely pathogenic	GRCh38	2759617
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3187G>T (p.Glu1063Ter)	440193	CCDC88C	Pathogenic	GRCh38	2770263
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4112+1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2771278
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1606A>T (p.Arg536Ter)	440193	CCDC88C	Pathogenic	GRCh38	2799834
+single nucleotide variant	NM_001080414.4(CCDC88C):c.161+1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2792516
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3555C>G (p.Tyr1185Ter)	440193	CCDC88C	Pathogenic	GRCh38	2805843
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5308C>T (p.Gln1770Ter)	440193	CCDC88C	Pathogenic	GRCh38	2829133
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3492C>G (p.Tyr1164Ter)	440193	CCDC88C	Pathogenic	GRCh38	2818253
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1624C>T (p.Gln542Ter)	440193	CCDC88C	Pathogenic	GRCh38	2821870
+single nucleotide variant	NM_001080414.4(CCDC88C):c.2485C>T (p.Gln829Ter)	440193	CCDC88C	Pathogenic	GRCh38	2841530
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1702C>T (p.Arg568Ter)	440193	CCDC88C	Pathogenic	GRCh38	2841702
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4442-2A>G	440193	CCDC88C	Likely pathogenic	GRCh38	2846535
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1927G>T (p.Glu643Ter)	440193	CCDC88C	Pathogenic	GRCh38	2848691
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3636-2A>C	440193	CCDC88C	Likely pathogenic	GRCh38	2856936
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3887G>A (p.Trp1296Ter)	440193	CCDC88C	Pathogenic	GRCh38	2859135
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3754C>T (p.Gln1252Ter)	440193	CCDC88C	Pathogenic	GRCh38	2881999
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4105C>T (p.Gln1369Ter)	440193	CCDC88C	Pathogenic	GRCh38	2917641
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5101C>T (p.Arg1701Ter)	440193	CCDC88C	Pathogenic/Likely pathogenic	GRCh38	2957330
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3779+1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	2984907
+single nucleotide variant	NM_001080414.4(CCDC88C):c.1597G>T (p.Glu533Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3067852
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3160C>T (p.Arg1054Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3234949
+single nucleotide variant	NM_001080414.4(CCDC88C):c.341-2A>G	440193	CCDC88C	Likely pathogenic	GRCh38	3375368
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5250C>G (p.Tyr1750Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3576880
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4768+1G>T	440193	CCDC88C	Likely pathogenic	GRCh38	3576882
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4096G>T (p.Glu1366Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3576885
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3550G>T (p.Glu1184Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3576889
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3358-2A>C	440193	CCDC88C	Likely pathogenic	GRCh38	3576890
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3195+1G>T	440193	CCDC88C	Likely pathogenic	GRCh38	3576892
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3013A>T (p.Lys1005Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3576895
+single nucleotide variant	NM_001080414.4(CCDC88C):c.613G>T (p.Glu205Ter)	440193	CCDC88C	Likely pathogenic	GRCh38	3576900
+single nucleotide variant	NM_001080414.4(CCDC88C):c.483+1G>T	440193	CCDC88C	Likely pathogenic	GRCh38	3576902
+single nucleotide variant	NM_001080414.4(CCDC88C):c.340+1G>T	440193	CCDC88C	Likely pathogenic	GRCh38	3576903
+single nucleotide variant	NM_001080414.4(CCDC88C):c.162-2A>G	440193	CCDC88C	Likely pathogenic	GRCh38	3644705
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4777G>T (p.Glu1593Ter)	440193	CCDC88C	Pathogenic	GRCh38	3669802
+single nucleotide variant	NM_001080414.4(CCDC88C):c.4631-1G>C	440193	CCDC88C	Likely pathogenic	GRCh38	3696293
+single nucleotide variant	NM_001080414.4(CCDC88C):c.891+1G>T	440193	CCDC88C	Likely pathogenic	GRCh38	4689138
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3403C>T (p.Gln1135Ter)	440193	CCDC88C	Pathogenic	GRCh38	4689143
+single nucleotide variant	NM_001080414.4(CCDC88C):c.874C>T (p.Gln292Ter)	440193	CCDC88C	Pathogenic	GRCh38	4731577
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3195+1G>A	440193	CCDC88C	Likely pathogenic	GRCh38	4732623
+single nucleotide variant	NM_001080414.4(CCDC88C):c.5323C>T (p.Gln1775Ter)	440193	CCDC88C	Pathogenic	GRCh38	4752885
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3541C>T (p.Gln1181Ter)	440193	CCDC88C	Pathogenic	GRCh38	4769912
+single nucleotide variant	NM_001080414.4(CCDC88C):c.3967-2A>G	440193	CCDC88C	Likely pathogenic	GRCh38	4774138

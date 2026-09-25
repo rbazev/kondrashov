@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002617.4(PEX10):c.600+1G>A	5192	PEX10	Pathogenic	GRCh38	6770
+single nucleotide variant	NM_002617.4(PEX10):c.870C>G (p.His290Gln)	5192	PEX10	Likely pathogenic	GRCh38	6771
+single nucleotide variant	NM_002617.4(PEX10):c.373C>T (p.Arg125Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	6772
+single nucleotide variant	NM_002617.4(PEX10):c.830T>C (p.Leu277Pro)	5192	PEX10	Likely pathogenic	GRCh38	162432
+single nucleotide variant	NM_002617.4(PEX10):c.2T>C (p.Met1Thr)	5192	PEX10	Pathogenic	GRCh38	162434
+single nucleotide variant	NM_002617.4(PEX10):c.730C>T (p.Arg244Ter)	5192	PEX10	Pathogenic	GRCh38	162435
+single nucleotide variant	NM_002617.4(PEX10):c.776+1G>C	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	225040
+single nucleotide variant	NM_002617.4(PEX10):c.1A>G (p.Met1Val)	5192	PEX10	Pathogenic	GRCh38	280002
+single nucleotide variant	NM_002617.4(PEX10):c.835G>T (p.Glu279Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	282334
+single nucleotide variant	NM_002617.4(PEX10):c.352C>T (p.Gln118Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	371748
+single nucleotide variant	NM_002617.4(PEX10):c.912+1G>C	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	554342
+single nucleotide variant	NM_002617.4(PEX10):c.912+1G>A	5192	PEX10	Likely pathogenic	GRCh38	557020
+single nucleotide variant	NM_002617.4(PEX10):c.827G>T (p.Cys276Phe)	5192	PEX10	Likely pathogenic	GRCh38	558445
+single nucleotide variant	NM_002617.4(PEX10):c.790G>T (p.Glu264Ter)	5192	PEX10	Likely pathogenic	GRCh38	553702
+single nucleotide variant	NM_002617.4(PEX10):c.776+2T>C	5192	PEX10	Likely pathogenic	GRCh38	555007
+single nucleotide variant	NM_002617.4(PEX10):c.113-1G>A	5192	PEX10	Likely pathogenic	GRCh38	553007
+single nucleotide variant	NM_002617.4(PEX10):c.776+2T>A	5192	PEX10	Likely pathogenic	GRCh38	553321
+single nucleotide variant	NM_002617.4(PEX10):c.601-3C>T	5192	PEX10	Pathogenic	GRCh38	967267
+single nucleotide variant	NM_002617.4(PEX10):c.219C>G (p.Tyr73Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	1360138
+single nucleotide variant	NM_002617.4(PEX10):c.703C>T (p.Gln235Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	1070709
+single nucleotide variant	NM_002617.4(PEX10):c.211G>T (p.Glu71Ter)	5192	PEX10	Pathogenic	GRCh38	1454209
+single nucleotide variant	NM_002617.4(PEX10):c.727C>T (p.Gln243Ter)	5192	PEX10	Pathogenic	GRCh38	1455721
+single nucleotide variant	NM_002617.4(PEX10):c.747G>A (p.Trp249Ter)	5192	PEX10	Pathogenic	GRCh38	1406389
+single nucleotide variant	NM_002617.4(PEX10):c.1A>T (p.Met1Leu)	5192	PEX10	Pathogenic	GRCh38	1410903
+single nucleotide variant	NM_002617.4(PEX10):c.827G>C (p.Cys276Ser)	5192	PEX10	Pathogenic	GRCh38	1686018
+single nucleotide variant	NM_002617.4(PEX10):c.542G>A (p.Trp181Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	1723948
+single nucleotide variant	NM_002617.4(PEX10):c.135G>A (p.Trp45Ter)	5192	PEX10	Likely pathogenic	GRCh38	1724150
+single nucleotide variant	NM_002617.4(PEX10):c.776+1G>A	5192	PEX10	Likely pathogenic	GRCh38	1960695
+single nucleotide variant	NM_002617.4(PEX10):c.113-1G>C	5192	PEX10	Likely pathogenic	GRCh38	1998583
+single nucleotide variant	NM_002617.4(PEX10):c.601-61G>A	5192	PEX10	Likely pathogenic	GRCh38	2097146
+single nucleotide variant	NM_002617.4(PEX10):c.200A>G (p.Gln67Arg)	5192	PEX10	Likely pathogenic	GRCh38	2677652
+single nucleotide variant	NM_002617.4(PEX10):c.777-1G>A	5192	PEX10	Likely pathogenic	GRCh38	2677656
+single nucleotide variant	NM_002617.4(PEX10):c.600C>G (p.Tyr200Ter)	5192	PEX10	Likely pathogenic	GRCh38	2677658
+single nucleotide variant	NM_002617.4(PEX10):c.746G>A (p.Trp249Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	2677660
+single nucleotide variant	NM_002617.4(PEX10):c.881G>A (p.Trp294Ter)	5192	PEX10	Pathogenic	GRCh38	2677649
+single nucleotide variant	NM_002617.4(PEX10):c.125G>A (p.Trp42Ter)	5192	PEX10	Likely pathogenic	GRCh38	2677651
+single nucleotide variant	NM_002617.4(PEX10):c.193+2T>C	5192	PEX10	Likely pathogenic	GRCh38	2690667
+single nucleotide variant	NM_002617.4(PEX10):c.198C>G (p.Tyr66Ter)	5192	PEX10	Pathogenic	GRCh38	2710654
+single nucleotide variant	NM_002617.4(PEX10):c.3G>A (p.Met1Ile)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	2733820
+single nucleotide variant	NM_002617.4(PEX10):c.1A>C (p.Met1Leu)	5192	PEX10	Pathogenic	GRCh38	2756352
+single nucleotide variant	NM_002617.4(PEX10):c.622G>T (p.Gly208Ter)	5192	PEX10	Pathogenic	GRCh38	2784871
+single nucleotide variant	NM_002617.4(PEX10):c.899G>A (p.Trp300Ter)	5192	PEX10	Pathogenic	GRCh38	2781765
+single nucleotide variant	NM_002617.4(PEX10):c.134G>A (p.Trp45Ter)	5192	PEX10	Pathogenic	GRCh38	2890057
+single nucleotide variant	NM_002617.4(PEX10):c.882G>A (p.Trp294Ter)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	3240081
+single nucleotide variant	NM_002617.4(PEX10):c.913-1G>A	5192	PEX10	Likely pathogenic	GRCh38	3240082
+single nucleotide variant	NM_002617.4(PEX10):c.3G>C (p.Met1Ile)	5192	PEX10	Pathogenic/Likely pathogenic	GRCh38	3336181
+single nucleotide variant	NM_002617.4(PEX10):c.194-1G>A	5192	PEX10	Likely pathogenic	GRCh38	3370421
+single nucleotide variant	NM_002617.4(PEX10):c.194-2A>G	5192	PEX10	Likely pathogenic	GRCh38	3370422
+single nucleotide variant	NM_002617.4(PEX10):c.209G>A (p.Gly70Glu)	5192	PEX10	Pathogenic	GRCh38	3382522
+single nucleotide variant	NM_002617.4(PEX10):c.55G>T (p.Glu19Ter)	5192	PEX10	Pathogenic	GRCh38	3654198
+single nucleotide variant	NM_002617.4(PEX10):c.567C>A (p.Tyr189Ter)	5192	PEX10	Likely pathogenic	GRCh38	4816949
+single nucleotide variant	NM_002617.4(PEX10):c.60C>A (p.Tyr20Ter)	5192	PEX10	Likely pathogenic	GRCh38	4816950
+single nucleotide variant	NM_002617.4(PEX10):c.601-5T>A	5192	PEX10	Likely pathogenic	GRCh38	4816951
+single nucleotide variant	NM_002617.4(PEX10):c.776+1G>T	5192	PEX10	Likely pathogenic	GRCh38	4816953

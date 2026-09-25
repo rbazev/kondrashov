@@ -1,0 +1,75 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_172250.3(MMAA):c.283C>T (p.Gln95Ter)	166785	MMAA	Pathogenic	GRCh38	3158
+single nucleotide variant	NM_172250.3(MMAA):c.620A>G (p.Tyr207Cys)	166785	MMAA	Pathogenic	GRCh38	3159
+single nucleotide variant	NM_172250.3(MMAA):c.433C>T (p.Arg145Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	3160
+single nucleotide variant	NM_172250.3(MMAA):c.387C>A (p.Tyr129Ter)	166785	MMAA	Pathogenic	GRCh38	203814
+single nucleotide variant	NM_172250.3(MMAA):c.988C>T (p.Arg330Ter)	166785	MMAA	Pathogenic	GRCh38	203816
+single nucleotide variant	NM_172250.3(MMAA):c.64C>T (p.Arg22Ter)	166785	MMAA	Pathogenic	GRCh38	218969
+single nucleotide variant	NM_172250.3(MMAA):c.161G>A (p.Trp54Ter)	166785	MMAA	Pathogenic	GRCh38	218970
+single nucleotide variant	NM_172250.3(MMAA):c.266T>C (p.Leu89Pro)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	218971
+single nucleotide variant	NM_172250.3(MMAA):c.358C>T (p.Gln120Ter)	166785	MMAA	Pathogenic	GRCh38	218972
+single nucleotide variant	NM_172250.3(MMAA):c.397C>T (p.Gln133Ter)	166785	MMAA	Pathogenic	GRCh38	218973
+single nucleotide variant	NM_172250.3(MMAA):c.562G>C (p.Gly188Arg)	166785	MMAA	Likely pathogenic	GRCh38	218975
+single nucleotide variant	NM_172250.3(MMAA):c.650T>A (p.Leu217Ter)	166785	MMAA	Pathogenic	GRCh38	218976
+single nucleotide variant	NM_172250.3(MMAA):c.653G>A (p.Gly218Glu)	166785	MMAA	Likely pathogenic	GRCh38	218977
+single nucleotide variant	NM_172250.3(MMAA):c.733+1G>A	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	218978
+single nucleotide variant	NM_172250.3(MMAA):c.1076G>A (p.Arg359Gln)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	218979
+single nucleotide variant	NM_172250.3(MMAA):c.562+1G>A	166785	MMAA	Likely pathogenic	GRCh38	225188
+single nucleotide variant	NM_172250.3(MMAA):c.1025T>G (p.Met342Arg)	166785	MMAA	Pathogenic	GRCh38	225189
+single nucleotide variant	NM_172250.3(MMAA):c.1104G>A (p.Trp368Ter)	166785	MMAA	Likely pathogenic	GRCh38	430558
+single nucleotide variant	NM_172250.3(MMAA):c.72C>A (p.Tyr24Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	440795
+single nucleotide variant	NM_172250.3(MMAA):c.202C>T (p.Gln68Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	440796
+single nucleotide variant	NM_172250.3(MMAA):c.575G>A (p.Gly192Asp)	166785	MMAA	Pathogenic	GRCh38	440803
+single nucleotide variant	NM_172250.3(MMAA):c.658G>A (p.Val220Met)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	440805
+single nucleotide variant	NM_172250.3(MMAA):c.721A>T (p.Ile241Phe)	166785	MMAA	Pathogenic	GRCh38	440806
+single nucleotide variant	NM_172250.3(MMAA):c.728C>A (p.Thr243Asn)	166785	MMAA	Pathogenic	GRCh38	440807
+single nucleotide variant	NM_172250.3(MMAA):c.820-1G>A	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	440808
+single nucleotide variant	NM_172250.3(MMAA):c.860C>A (p.Ala287Asp)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	440809
+single nucleotide variant	NM_172250.3(MMAA):c.875A>T (p.Asp292Val)	166785	MMAA	Pathogenic	GRCh38	440810
+single nucleotide variant	NM_172250.3(MMAA):c.586C>T (p.Arg196Ter)	166785	MMAA	Pathogenic	GRCh38	466217
+single nucleotide variant	NM_172250.3(MMAA):c.1075C>T (p.Arg359Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	466216
+single nucleotide variant	NM_172250.3(MMAA):c.742C>T (p.Gln248Ter)	166785	MMAA	Pathogenic	GRCh38	496554
+single nucleotide variant	NM_172250.3(MMAA):c.1A>G (p.Met1Val)	166785	MMAA	Likely pathogenic	GRCh38	551711
+single nucleotide variant	NM_172250.3(MMAA):c.439+1G>A	166785	MMAA	Likely pathogenic	GRCh38	558172
+single nucleotide variant	NM_172250.3(MMAA):c.952C>T (p.Gln318Ter)	166785	MMAA	Likely pathogenic	GRCh38	554664
+single nucleotide variant	NM_172250.3(MMAA):c.124C>T (p.Gln42Ter)	166785	MMAA	Pathogenic	GRCh38	554217
+single nucleotide variant	NM_172250.3(MMAA):c.562+1G>T	166785	MMAA	Likely pathogenic	GRCh38	553872
+single nucleotide variant	NM_172250.3(MMAA):c.833G>A (p.Gly278Asp)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	552542
+single nucleotide variant	NM_172250.3(MMAA):c.970-2A>T	166785	MMAA	Likely pathogenic	GRCh38	555331
+single nucleotide variant	NM_172250.3(MMAA):c.1084C>T (p.Gln362Ter)	166785	MMAA	Likely pathogenic	GRCh38	576575
+single nucleotide variant	NM_172250.3(MMAA):c.820-1G>C	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	848322
+single nucleotide variant	NM_172250.3(MMAA):c.1229T>A (p.Leu410Ter)	166785	MMAA	Pathogenic	GRCh38	915363
+single nucleotide variant	NM_172250.3(MMAA):c.697G>T (p.Gly233Ter)	166785	MMAA	Pathogenic	GRCh38	962079
+single nucleotide variant	NM_172250.3(MMAA):c.552T>A (p.Cys184Ter)	166785	MMAA	Likely pathogenic	GRCh38	983965
+single nucleotide variant	NM_172250.3(MMAA):c.434G>A (p.Arg145Gln)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	1073197
+single nucleotide variant	NM_172250.3(MMAA):c.659T>C (p.Val220Ala)	166785	MMAA	Likely pathogenic	GRCh38	1478647
+single nucleotide variant	NM_172250.3(MMAA):c.365T>C (p.Leu122Pro)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	1455101
+single nucleotide variant	NM_172250.3(MMAA):c.898C>T (p.Arg300Ter)	166785	MMAA	Pathogenic	GRCh38	1350506
+single nucleotide variant	NM_172250.3(MMAA):c.785T>A (p.Leu262Ter)	166785	MMAA	Likely pathogenic	GRCh38	1724238
+single nucleotide variant	NM_172250.3(MMAA):c.708T>A (p.Tyr236Ter)	166785	MMAA	Likely pathogenic	GRCh38	1724530
+single nucleotide variant	NM_172250.3(MMAA):c.493A>T (p.Lys165Ter)	166785	MMAA	Likely pathogenic	GRCh38	1726860
+single nucleotide variant	NM_172250.3(MMAA):c.490G>T (p.Gly164Ter)	166785	MMAA	Likely pathogenic	GRCh38	1726942
+single nucleotide variant	NM_172250.3(MMAA):c.440-2A>G	166785	MMAA	Likely pathogenic	GRCh38	2203575
+single nucleotide variant	NM_172250.3(MMAA):c.820-2A>G	166785	MMAA	Likely pathogenic	GRCh38	1929361
+single nucleotide variant	NM_172250.3(MMAA):c.443T>A (p.Leu148Ter)	166785	MMAA	Pathogenic	GRCh38	1950525
+single nucleotide variant	NM_172250.3(MMAA):c.1117G>T (p.Glu373Ter)	166785	MMAA	Pathogenic	GRCh38	1954560
+single nucleotide variant	NM_172250.3(MMAA):c.832G>A (p.Gly278Ser)	166785	MMAA	Likely pathogenic	GRCh38	1985168
+single nucleotide variant	NM_172250.3(MMAA):c.817C>T (p.Gln273Ter)	166785	MMAA	Pathogenic	GRCh38	2025789
+single nucleotide variant	NM_172250.3(MMAA):c.733+1G>T	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	2676599
+single nucleotide variant	NM_172250.3(MMAA):c.50T>A (p.Leu17Ter)	166785	MMAA	Likely pathogenic	GRCh38	2676604
+single nucleotide variant	NM_172250.3(MMAA):c.1098G>A (p.Trp366Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	2676605
+single nucleotide variant	NM_172250.3(MMAA):c.302T>G (p.Leu101Ter)	166785	MMAA	Likely pathogenic	GRCh38	2676610
+single nucleotide variant	NM_172250.3(MMAA):c.1114C>T (p.Gln372Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	2780046
+single nucleotide variant	NM_172250.3(MMAA):c.325G>T (p.Glu109Ter)	166785	MMAA	Pathogenic	GRCh38	2849547
+single nucleotide variant	NM_172250.3(MMAA):c.562+2T>C	166785	MMAA	Likely pathogenic	GRCh38	2859417
+single nucleotide variant	NM_172250.3(MMAA):c.1087C>T (p.Gln363Ter)	166785	MMAA	Pathogenic/Likely pathogenic	GRCh38	2906555
+single nucleotide variant	NM_172250.3(MMAA):c.1036C>T (p.Gln346Ter)	166785	MMAA	Likely pathogenic	GRCh38	3241952
+single nucleotide variant	NM_172250.3(MMAA):c.772G>A (p.Asp258Asn)	166785	MMAA	Likely pathogenic	GRCh38	3242584
+single nucleotide variant	NM_172250.3(MMAA):c.439+2T>A	166785	MMAA	Likely pathogenic	GRCh38	3590156
+single nucleotide variant	NM_172250.3(MMAA):c.439+2T>C	166785	MMAA	Likely pathogenic	GRCh38	3590157
+single nucleotide variant	NM_172250.3(MMAA):c.440G>A (p.Gly147Glu)	166785	MMAA	Likely pathogenic	GRCh38	3590158
+single nucleotide variant	NM_172250.3(MMAA):c.349G>T (p.Glu117Ter)	166785	MMAA	Pathogenic	GRCh38	3720592
+single nucleotide variant	NM_172250.3(MMAA):c.439+1G>C	166785	MMAA	Likely pathogenic	GRCh38	4302707
+single nucleotide variant	NM_172250.3(MMAA):c.970-2A>C	166785	MMAA	Likely pathogenic	GRCh38	4816959
+single nucleotide variant	NM_172250.3(MMAA):c.235T>C (p.Ser79Pro)	166785	MMAA	Likely pathogenic	GRCh38	4852883
+single nucleotide variant	NM_172250.3(MMAA):c.343A>T (p.Lys115Ter)	166785	MMAA	Likely pathogenic	GRCh38	4856123

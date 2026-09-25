@@ -1,0 +1,56 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002734.5(PRKAR1A):c.891+3A>G	5573	PRKAR1A	Likely pathogenic	GRCh38	12664
+single nucleotide variant	NM_002734.5(PRKAR1A):c.1A>G (p.Met1Val)	5573	PRKAR1A	Pathogenic	GRCh38	12669
+single nucleotide variant	NM_002734.5(PRKAR1A):c.708+1G>T	5573	PRKAR1A	Pathogenic	GRCh38	12672
+single nucleotide variant	NM_002734.5(PRKAR1A):c.892-1G>A	5573	PRKAR1A	Pathogenic	GRCh38	12673
+single nucleotide variant	NM_002734.5(PRKAR1A):c.1102C>T (p.Arg368Ter)	5573	PRKAR1A	Pathogenic	GRCh38	29907
+single nucleotide variant	NM_002734.5(PRKAR1A):c.1004G>C (p.Arg335Pro)	5573	PRKAR1A	Pathogenic	GRCh38	29909
+single nucleotide variant	NM_002734.5(PRKAR1A):c.980T>C (p.Ile327Thr)	5573	PRKAR1A	Pathogenic	GRCh38	29910
+single nucleotide variant	NM_002734.5(PRKAR1A):c.124C>T (p.Arg42Ter)	5573	PRKAR1A	Pathogenic	GRCh38	41382
+single nucleotide variant	NM_002734.5(PRKAR1A):c.286C>T (p.Arg96Ter)	5573	PRKAR1A	Pathogenic	GRCh38	41386
+single nucleotide variant	NM_002734.5(PRKAR1A):c.348+1G>C	5573	PRKAR1A	Likely pathogenic	GRCh38	3722912
+single nucleotide variant	NM_002734.5(PRKAR1A):c.682C>T (p.Arg228Ter)	5573	PRKAR1A	Pathogenic	GRCh38	41391
+single nucleotide variant	NM_002734.5(PRKAR1A):c.82C>T (p.Gln28Ter)	5573	PRKAR1A	Likely pathogenic	GRCh38	41394
+single nucleotide variant	NM_002734.5(PRKAR1A):c.46C>T (p.Arg16Ter)	5573	PRKAR1A	Pathogenic	GRCh38	279877
+single nucleotide variant	NM_002734.5(PRKAR1A):c.738T>G (p.Tyr246Ter)	5573	PRKAR1A	Pathogenic	GRCh38	280060
+single nucleotide variant	NM_002734.5(PRKAR1A):c.535C>T (p.Gln179Ter)	5573	PRKAR1A	Pathogenic	GRCh38	379923
+single nucleotide variant	NM_002734.5(PRKAR1A):c.806A>G (p.Asp269Gly)	5573	PRKAR1A	Pathogenic	GRCh38	426532
+single nucleotide variant	NM_002734.5(PRKAR1A):c.1003C>T (p.Arg335Cys)	5573	PRKAR1A	Likely pathogenic	GRCh38	433148
+single nucleotide variant	NM_002734.5(PRKAR1A):c.672G>A (p.Trp224Ter)	5573	PRKAR1A	Pathogenic	GRCh38	449447
+single nucleotide variant	NM_002734.5(PRKAR1A):c.502+1G>A	5573	PRKAR1A	Pathogenic/Likely pathogenic	GRCh38	469066
+single nucleotide variant	NM_002734.5(PRKAR1A):c.289C>T (p.Arg97Ter)	5573	PRKAR1A	Pathogenic	GRCh38	523771
+single nucleotide variant	NM_002734.5(PRKAR1A):c.177+1G>A	5573	PRKAR1A	Pathogenic	GRCh38	536896
+single nucleotide variant	NM_002734.5(PRKAR1A):c.671G>A (p.Trp224Ter)	5573	PRKAR1A	Pathogenic	GRCh38	575134
+single nucleotide variant	NM_002734.5(PRKAR1A):c.620A>G (p.Tyr207Cys)	5573	PRKAR1A	Likely pathogenic	GRCh38	638687
+single nucleotide variant	NM_002734.5(PRKAR1A):c.695G>A (p.Arg232Lys)	5573	PRKAR1A	Likely pathogenic	GRCh38	872326
+single nucleotide variant	NM_002734.5(PRKAR1A):c.892-2A>G	5573	PRKAR1A	Pathogenic/Likely pathogenic	GRCh38	1194985
+single nucleotide variant	NM_002734.5(PRKAR1A):c.499C>T (p.Gln167Ter)	5573	PRKAR1A	Pathogenic	GRCh38	1203139
+single nucleotide variant	NM_002734.5(PRKAR1A):c.440+1G>A	5573	PRKAR1A	Pathogenic	GRCh38	1421058
+single nucleotide variant	NM_002734.5(PRKAR1A):c.502+1G>C	5573	PRKAR1A	Pathogenic	GRCh38	1399779
+single nucleotide variant	NM_001276290.1(PRKAR1A):c.989C>G (p.Ser330Ter)	5573	PRKAR1A	Likely pathogenic	GRCh38	1677640
+single nucleotide variant	NM_002734.5(PRKAR1A):c.973+1G>C	5573	PRKAR1A	Likely pathogenic	GRCh38	1768022
+single nucleotide variant	NM_002734.5(PRKAR1A):c.441-2A>G	5573	PRKAR1A	Likely pathogenic	GRCh38	2138098
+single nucleotide variant	NM_002734.5(PRKAR1A):c.877T>A (p.Phe293Ile)	5573	PRKAR1A	Pathogenic	GRCh38	2017377
+single nucleotide variant	NM_002734.5(PRKAR1A):c.502+2T>G	5573	PRKAR1A	Pathogenic	GRCh38	2018571
+single nucleotide variant	NM_002734.5(PRKAR1A):c.786G>A (p.Trp262Ter)	5573	PRKAR1A	Pathogenic	GRCh38	2021392
+single nucleotide variant	NM_002734.5(PRKAR1A):c.787G>T (p.Glu263Ter)	5573	PRKAR1A	Pathogenic	GRCh38	2135778
+single nucleotide variant	NM_002734.5(PRKAR1A):c.853C>T (p.Gln285Ter)	5573	PRKAR1A	Pathogenic	GRCh38	2562683
+single nucleotide variant	NM_002734.5(PRKAR1A):c.569G>A (p.Trp190Ter)	5573	PRKAR1A	Pathogenic/Likely pathogenic	GRCh38	2578197
+single nucleotide variant	NM_002734.5(PRKAR1A):c.715A>G (p.Thr239Ala)	5573	PRKAR1A	Pathogenic	GRCh38	2736638
+single nucleotide variant	NM_002734.5(PRKAR1A):c.549+1G>A	5573	PRKAR1A	Pathogenic/Likely pathogenic	GRCh38	2820863
+single nucleotide variant	NM_002734.5(PRKAR1A):c.940G>T (p.Glu314Ter)	5573	PRKAR1A	Pathogenic	GRCh38	2847153
+single nucleotide variant	NM_002734.5(PRKAR1A):c.177+1G>T	5573	PRKAR1A	Likely pathogenic	GRCh38	3222761
+single nucleotide variant	NM_002734.5(PRKAR1A):c.3G>A (p.Met1Ile)	5573	PRKAR1A	Likely pathogenic	GRCh38	3222769
+single nucleotide variant	NM_002734.5(PRKAR1A):c.349G>T (p.Val117Phe)	5573	PRKAR1A	Pathogenic	GRCh38	3338884
+single nucleotide variant	NM_002734.5(PRKAR1A):c.982G>A (p.Ala328Thr)	5573	PRKAR1A	Likely pathogenic	GRCh38	3362248
+single nucleotide variant	NM_002734.5(PRKAR1A):c.891+1G>A	5573	PRKAR1A	Likely pathogenic	GRCh38	3383348
+single nucleotide variant	NM_002734.5(PRKAR1A):c.969T>A (p.Tyr323Ter)	5573	PRKAR1A	Pathogenic	GRCh38	3661323
+single nucleotide variant	NM_002734.5(PRKAR1A):c.178-2A>T	5573	PRKAR1A	Likely pathogenic	GRCh38	3673560
+single nucleotide variant	NM_002734.5(PRKAR1A):c.634G>A (p.Ala212Thr)	5573	PRKAR1A	Likely pathogenic	GRCh38	3773816
+single nucleotide variant	NM_002734.5(PRKAR1A):c.550-17T>A	5573	PRKAR1A	Likely pathogenic	GRCh38	3780491
+single nucleotide variant	NM_002734.5(PRKAR1A):c.-7G>A	5573	PRKAR1A	Likely pathogenic	GRCh38	3780921
+single nucleotide variant	NM_002734.5(PRKAR1A):c.-97G>A	5573	PRKAR1A	Likely pathogenic	GRCh38	3780922
+single nucleotide variant	NM_002734.5(PRKAR1A):c.349-1G>A	5573	PRKAR1A	Likely pathogenic	GRCh38	4144358
+single nucleotide variant	NM_002734.5(PRKAR1A):c.63C>G (p.Tyr21Ter)	5573	PRKAR1A	Likely pathogenic	GRCh38	4144360
+single nucleotide variant	NM_002734.5(PRKAR1A):c.502+2T>C	5573	PRKAR1A	Likely pathogenic	GRCh38	4292864
+single nucleotide variant	NM_002734.5(PRKAR1A):c.708+1G>A	5573	PRKAR1A	Pathogenic	GRCh38	4856970

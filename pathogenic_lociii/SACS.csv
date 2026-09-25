@@ -109,7 +109,7 @@ single nucleotide variant	NM_014363.6(SACS):c.187A>T (p.Lys63Ter)	26278	SACS	Pat
 single nucleotide variant	NM_014363.6(SACS):c.6434T>A (p.Leu2145Ter)	26278	SACS	Pathogenic	GRCh38	689782
 single nucleotide variant	NM_014363.6(SACS):c.11941C>T (p.Gln3981Ter)	26278	SACS	Pathogenic	GRCh38	802912
 single nucleotide variant	NM_014363.6(SACS):c.562G>A (p.Gly188Arg)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	802913
-single nucleotide variant	NM_014363.6(SACS):c.964G>T (p.Glu322Ter)	26278	SACS	Likely pathogenic	GRCh38	804468
+single nucleotide variant	NM_014363.6(SACS):c.964G>T (p.Glu322Ter)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	804468
 single nucleotide variant	NM_014363.6(SACS):c.12913G>T (p.Glu4305Ter)	26278	SACS	Likely pathogenic	GRCh38	806981
 single nucleotide variant	NM_014363.6(SACS):c.9266C>T (p.Pro3089Leu)	26278	SACS	Likely pathogenic	GRCh38	812776
 single nucleotide variant	NM_014363.6(SACS):c.10546C>T (p.Gln3516Ter)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	813434
@@ -208,7 +208,7 @@ single nucleotide variant	NM_014363.6(SACS):c.5700G>A (p.Trp1900Ter)	26278	SACS	
 single nucleotide variant	NM_014363.6(SACS):c.13352T>C (p.Leu4451Pro)	26278	SACS	Likely pathogenic	GRCh38	2194108
 single nucleotide variant	NM_014363.6(SACS):c.10900C>T (p.Gln3634Ter)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	1984514
 single nucleotide variant	NM_014363.6(SACS):c.10543G>T (p.Glu3515Ter)	26278	SACS	Pathogenic	GRCh38	1996665
-single nucleotide variant	NM_014363.6(SACS):c.7321C>T (p.Gln2441Ter)	26278	SACS	Pathogenic	GRCh38	2015728
+single nucleotide variant	NM_014363.6(SACS):c.7321C>T (p.Gln2441Ter)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	2015728
 single nucleotide variant	NM_014363.6(SACS):c.4361C>G (p.Ser1454Ter)	26278	SACS	Pathogenic	GRCh38	2007828
 single nucleotide variant	NM_014363.6(SACS):c.3830G>A (p.Trp1277Ter)	26278	SACS	Pathogenic	GRCh38	2031986
 single nucleotide variant	NM_014363.6(SACS):c.24G>A (p.Trp8Ter)	26278	SACS	Pathogenic/Likely pathogenic	GRCh38	2081622
@@ -338,3 +338,14 @@ single nucleotide variant	NM_014363.6(SACS):c.5293G>T (p.Glu1765Ter)	26278	SACS	
 single nucleotide variant	NM_014363.6(SACS):c.5765T>A (p.Leu1922Ter)	26278	SACS	Likely pathogenic	GRCh38	4815704
 single nucleotide variant	NM_014363.6(SACS):c.9579T>G (p.Tyr3193Ter)	26278	SACS	Likely pathogenic	GRCh38	4815719
 single nucleotide variant	NM_014363.6(SACS):c.10136T>A (p.Leu3379Ter)	26278	SACS	Likely pathogenic	GRCh38	4854317
+single nucleotide variant	NM_014363.6(SACS):c.8738T>G (p.Leu2913Ter)	26278	SACS	Likely pathogenic	GRCh38	4874981
+single nucleotide variant	NM_014363.6(SACS):c.7664A>G (p.Asp2555Gly)	26278	SACS	Likely pathogenic	GRCh38	4886972
+single nucleotide variant	NM_014363.6(SACS):c.8549G>A (p.Arg2850His)	26278	SACS	Likely pathogenic	GRCh38	4888659
+single nucleotide variant	NM_014363.6(SACS):c.10577T>A (p.Ile3526Lys)	26278	SACS	Likely pathogenic	GRCh38	4889795
+single nucleotide variant	NM_014363.6(SACS):c.9609T>G (p.Cys3203Trp)	26278	SACS	Likely pathogenic	GRCh38	4889796
+single nucleotide variant	NM_014363.6(SACS):c.4259T>G (p.Ile1420Ser)	26278	SACS	Likely pathogenic	GRCh38	4889799
+single nucleotide variant	NM_014363.6(SACS):c.2174C>G (p.Ala725Gly)	26278	SACS	Likely pathogenic	GRCh38	4889800
+single nucleotide variant	NM_014363.6(SACS):c.1156G>T (p.Asp386Tyr)	26278	SACS	Likely pathogenic	GRCh38	4889801
+single nucleotide variant	NM_014363.6(SACS):c.8573C>T (p.Thr2858Ile)	26278	SACS	Likely pathogenic	GRCh38	4890314
+single nucleotide variant	NM_014363.6(SACS):c.4186C>T (p.His1396Tyr)	26278	SACS	Likely pathogenic	GRCh38	4890374
+single nucleotide variant	NM_014363.6(SACS):c.5584A>T (p.Thr1862Ser)	26278	SACS	Pathogenic	GRCh38	4890458

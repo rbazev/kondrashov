@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1492G>A (p.Gly498Arg)	6575	SLC20A2	Likely pathogenic	GRCh38	29793
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1802C>G (p.Ser601Trp)	6575	SLC20A2	Pathogenic	GRCh38	29794
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1802C>T (p.Ser601Leu)	6575	SLC20A2	Pathogenic	GRCh38	29795
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1723G>A (p.Glu575Lys)	6575	SLC20A2	Pathogenic/Likely pathogenic	GRCh38	29796
+single nucleotide variant	NM_001257180.2(SLC20A2):c.971C>A (p.Ser324Ter)	6575	SLC20A2	Pathogenic	GRCh38	280572
+single nucleotide variant	NM_001257180.2(SLC20A2):c.338C>G (p.Ser113Ter)	6575	SLC20A2	Pathogenic	GRCh38	280122
+single nucleotide variant	NM_001257180.2(SLC20A2):c.82G>A (p.Asp28Asn)	6575	SLC20A2	Pathogenic/Likely pathogenic	GRCh38	372804
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1308C>G (p.Tyr436Ter)	6575	SLC20A2	Likely pathogenic	GRCh38	422286
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1604G>A (p.Trp535Ter)	6575	SLC20A2	Pathogenic	GRCh38	489160
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1710-1G>A	6575	SLC20A2	Likely pathogenic	GRCh38	493479
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1723G>T (p.Glu575Ter)	6575	SLC20A2	Pathogenic	GRCh38	522850
+single nucleotide variant	NM_001257180.2(SLC20A2):c.136C>T (p.Gln46Ter)	6575	SLC20A2	Pathogenic	GRCh38	522849
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1375G>T (p.Glu459Ter)	6575	SLC20A2	Pathogenic	GRCh38	584447
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1399C>T (p.Arg467Ter)	6575	SLC20A2	Pathogenic	GRCh38	620147
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1196A>C (p.His399Pro)	6575	SLC20A2	Likely pathogenic	GRCh38	634894
+single nucleotide variant	NM_001257180.2(SLC20A2):c.188G>A (p.Gly63Asp)	6575	SLC20A2	Likely pathogenic	GRCh38	634892
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1795-1G>A	6575	SLC20A2	Likely pathogenic	GRCh38	634897
+single nucleotide variant	NM_001257180.2(SLC20A2):c.935-2A>G	6575	SLC20A2	Pathogenic	GRCh38	636249
+single nucleotide variant	NM_001257180.2(SLC20A2):c.458T>A (p.Leu153Ter)	6575	SLC20A2	Likely pathogenic	GRCh38	816984
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1703C>T (p.Pro568Leu)	6575	SLC20A2	Pathogenic/Likely pathogenic	GRCh38	1064453
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1423A>T (p.Lys475Ter)	6575	SLC20A2	Pathogenic	GRCh38	1176886
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1158C>A (p.Tyr386Ter)	6575	SLC20A2	Pathogenic	GRCh38	1210018
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1523+1G>T	6575	SLC20A2	Pathogenic	GRCh38	1299114
+single nucleotide variant	NM_001257180.2(SLC20A2):c.290-1G>A	6575	SLC20A2	Likely pathogenic	GRCh38	1325077
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1794+1G>C	6575	SLC20A2	Pathogenic/Likely pathogenic	GRCh38	1339721
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1845C>G (p.Asp615Glu)	6575	SLC20A2	Likely pathogenic	GRCh38	1343824
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1223C>A (p.Ser408Ter)	6575	SLC20A2	Pathogenic	GRCh38	1447088
+single nucleotide variant	NM_001257180.2(SLC20A2):c.23G>A (p.Trp8Ter)	6575	SLC20A2	Pathogenic	GRCh38	1456623
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1117C>T (p.Gln373Ter)	6575	SLC20A2	Pathogenic	GRCh38	1460189
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1144C>T (p.Arg382Ter)	6575	SLC20A2	Pathogenic	GRCh38	1676262
+single nucleotide variant	NM_001257180.2(SLC20A2):c.344C>A (p.Thr115Lys)	6575	SLC20A2	Likely pathogenic	GRCh38	1802173
+single nucleotide variant	NM_001257180.2(SLC20A2):c.185T>C (p.Leu62Pro)	6575	SLC20A2	Pathogenic	GRCh38	2428501
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1158C>G (p.Tyr386Ter)	6575	SLC20A2	Pathogenic	GRCh38	2441711
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1794+1G>A	6575	SLC20A2	Pathogenic	GRCh38	2582091
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1681A>T (p.Lys561Ter)	6575	SLC20A2	Pathogenic	GRCh38	2583065
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1652G>A (p.Trp551Ter)	6575	SLC20A2	Pathogenic	GRCh38	2735161
+single nucleotide variant	NM_001257180.2(SLC20A2):c.935-1G>A	6575	SLC20A2	Pathogenic	GRCh38	2735162
+single nucleotide variant	NM_001257180.2(SLC20A2):c.344C>T (p.Thr115Met)	6575	SLC20A2	Pathogenic	GRCh38	2735163
+single nucleotide variant	NM_001257180.2(SLC20A2):c.290-8A>G	6575	SLC20A2	Pathogenic	GRCh38	2910218
+single nucleotide variant	NM_001257180.2(SLC20A2):c.613+1G>A	6575	SLC20A2	Likely pathogenic	GRCh38	3065782
+single nucleotide variant	NM_001257180.2(SLC20A2):c.411G>A (p.Trp137Ter)	6575	SLC20A2	Pathogenic	GRCh38	3163311
+single nucleotide variant	NM_001257180.2(SLC20A2):c.431-2A>T	6575	SLC20A2	Pathogenic	GRCh38	3234792
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1290C>G (p.Tyr430Ter)	6575	SLC20A2	Likely pathogenic	GRCh38	3345384
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1756T>C (p.Ser586Pro)	6575	SLC20A2	Likely pathogenic	GRCh38	3384360
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1145G>A (p.Arg382Gln)	6575	SLC20A2	Likely pathogenic	GRCh38	3388038
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1523+1G>A	6575	SLC20A2	Pathogenic	GRCh38	3389455
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1848G>A (p.Trp616Ter)	6575	SLC20A2	Pathogenic	GRCh38	3704396
+single nucleotide variant	NM_001257180.2(SLC20A2):c.410G>A (p.Trp137Ter)	6575	SLC20A2	Pathogenic	GRCh38	3727347
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1220C>A (p.Ser407Ter)	6575	SLC20A2	Likely pathogenic	GRCh38	3773640
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1507G>T (p.Gly503Cys)	6575	SLC20A2	Likely pathogenic	GRCh38	3911109
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1582C>T (p.Gln528Ter)	6575	SLC20A2	Pathogenic	GRCh38	4081968
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1795-2A>G	6575	SLC20A2	Likely pathogenic	GRCh38	4278542
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1523G>A (p.Ser508Asn)	6575	SLC20A2	Likely pathogenic	GRCh38	4282373
+single nucleotide variant	NM_001257180.2(SLC20A2):c.1523+1G>C	6575	SLC20A2	Pathogenic	GRCh38	4730884

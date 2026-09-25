@@ -1,0 +1,63 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000026.4(ADSL):c.1312T>C (p.Ser438Pro)	158	ADSL	Pathogenic	GRCh38	2461
+single nucleotide variant	NM_000026.4(ADSL):c.1277G>A (p.Arg426His)	158	ADSL	Pathogenic	GRCh38	2462
+single nucleotide variant	NM_000026.4(ADSL):c.298C>G (p.Pro100Ala)	158	ADSL	Pathogenic	GRCh38	2463
+single nucleotide variant	NM_000026.4(ADSL):c.1264G>T (p.Asp422Tyr)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	2464
+single nucleotide variant	NM_000026.4(ADSL):c.569G>A (p.Arg190Gln)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	2465
+single nucleotide variant	NM_000026.4(ADSL):c.736A>G (p.Lys246Glu)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	2466
+single nucleotide variant	NM_000026.4(ADSL):c.674T>C (p.Met225Thr)	158	ADSL	Pathogenic	GRCh38	2468
+single nucleotide variant	NM_000026.4(ADSL):c.340T>C (p.Tyr114His)	158	ADSL	Pathogenic	GRCh38	204807
+single nucleotide variant	NM_000026.4(ADSL):c.421C>T (p.Arg141Trp)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	204815
+single nucleotide variant	NM_000026.4(ADSL):c.568C>T (p.Arg190Ter)	158	ADSL	Pathogenic	GRCh38	204814
+single nucleotide variant	NM_000026.4(ADSL):c.775G>T (p.Gly259Trp)	158	ADSL	Likely pathogenic	GRCh38	204786
+single nucleotide variant	NM_000026.4(ADSL):c.853C>T (p.Gln285Ter)	158	ADSL	Pathogenic	GRCh38	204788
+single nucleotide variant	NM_000026.4(ADSL):c.953C>T (p.Pro318Leu)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	204792
+single nucleotide variant	NM_000026.4(ADSL):c.1009C>T (p.Arg337Ter)	158	ADSL	Pathogenic	GRCh38	204789
+single nucleotide variant	NM_000026.4(ADSL):c.1187G>A (p.Arg396His)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	204796
+single nucleotide variant	NM_000026.4(ADSL):c.1288G>A (p.Asp430Asn)	158	ADSL	Likely pathogenic	GRCh38	1474151
+single nucleotide variant	NM_000026.4(ADSL):c.1349C>G (p.Thr450Ser)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	204816
+single nucleotide variant	NM_000026.4(ADSL):c.994G>C (p.Asp332His)	158	ADSL	Likely pathogenic	GRCh38	242557
+single nucleotide variant	NM_000026.4(ADSL):c.907C>T (p.Arg303Cys)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	289379
+single nucleotide variant	NM_000026.4(ADSL):c.253C>T (p.Arg85Ter)	158	ADSL	Pathogenic	GRCh38	379129
+single nucleotide variant	NM_000026.4(ADSL):c.926G>A (p.Arg309His)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	382334
+single nucleotide variant	NM_000026.4(ADSL):c.1414T>C (p.Tyr472His)	158	ADSL	Likely pathogenic	GRCh38	383946
+single nucleotide variant	NM_000026.4(ADSL):c.1123C>T (p.Gln375Ter)	158	ADSL	Likely pathogenic	GRCh38	450064
+single nucleotide variant	NM_000026.4(ADSL):c.550C>T (p.Gln184Ter)	158	ADSL	Pathogenic	GRCh38	583132
+single nucleotide variant	NM_000026.4(ADSL):c.1095C>A (p.Tyr365Ter)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	620542
+single nucleotide variant	NM_000026.4(ADSL):c.402+1G>T	158	ADSL	Likely pathogenic	GRCh38	654306
+single nucleotide variant	NM_000026.4(ADSL):c.725C>T (p.Thr242Ile)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	803695
+single nucleotide variant	NM_000026.4(ADSL):c.268G>A (p.Ala90Thr)	158	ADSL	Pathogenic	GRCh38	807536
+single nucleotide variant	NM_000026.4(ADSL):c.977G>A (p.Trp326Ter)	158	ADSL	Pathogenic	GRCh38	846915
+single nucleotide variant	NM_000026.4(ADSL):c.1186C>T (p.Arg396Cys)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	838200
+single nucleotide variant	NM_000026.4(ADSL):c.135G>A (p.Trp45Ter)	158	ADSL	Pathogenic	GRCh38	949192
+single nucleotide variant	NM_000026.4(ADSL):c.701+1G>A	158	ADSL	Pathogenic	GRCh38	934298
+single nucleotide variant	NM_000026.4(ADSL):c.-49T>C	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	985789
+single nucleotide variant	NM_000026.4(ADSL):c.422G>C (p.Arg141Pro)	158	ADSL	Likely pathogenic	GRCh38	1003470
+single nucleotide variant	NM_000026.4(ADSL):c.341A>C (p.Tyr114Ser)	158	ADSL	Likely pathogenic	GRCh38	1057572
+single nucleotide variant	NM_000026.4(ADSL):c.802G>A (p.Asp268Asn)	158	ADSL	Pathogenic	GRCh38	1070511
+single nucleotide variant	NM_000026.4(ADSL):c.829G>T (p.Glu277Ter)	158	ADSL	Pathogenic	GRCh38	1071793
+single nucleotide variant	NM_000026.4(ADSL):c.358-1G>C	158	ADSL	Likely pathogenic	GRCh38	1323863
+single nucleotide variant	NM_000026.4(ADSL):c.1222C>T (p.Gln408Ter)	158	ADSL	Pathogenic	GRCh38	1455911
+single nucleotide variant	NM_000026.4(ADSL):c.357+1G>A	158	ADSL	Likely pathogenic	GRCh38	1501479
+single nucleotide variant	NM_000026.4(ADSL):c.1090G>A (p.Val364Met)	158	ADSL	Likely pathogenic	GRCh38	1474309
+single nucleotide variant	NM_000026.4(ADSL):c.628C>T (p.Gln210Ter)	158	ADSL	Pathogenic	GRCh38	1452821
+single nucleotide variant	NM_000026.4(ADSL):c.733C>T (p.Arg245Ter)	158	ADSL	Pathogenic	GRCh38	1454913
+single nucleotide variant	NM_000026.4(ADSL):c.702-2A>G	158	ADSL	Likely pathogenic	GRCh38	1346708
+single nucleotide variant	NM_000026.4(ADSL):c.151C>T (p.Gln51Ter)	158	ADSL	Pathogenic	GRCh38	1458015
+single nucleotide variant	NM_000026.4(ADSL):c.78G>A (p.Met26Ile)	158	ADSL	Likely pathogenic	GRCh38	1407204
+single nucleotide variant	NM_000026.4(ADSL):c.1355G>C (p.Arg452Pro)	158	ADSL	Likely pathogenic	GRCh38	1502354
+single nucleotide variant	NM_000026.4(ADSL):c.1191+5G>C	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	1691571
+single nucleotide variant	NM_000026.4(ADSL):c.802G>C (p.Asp268His)	158	ADSL	Pathogenic	GRCh38	2138451
+single nucleotide variant	NM_000026.4(ADSL):c.445C>T (p.Arg149Ter)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	2154932
+single nucleotide variant	NM_000026.4(ADSL):c.701+1G>T	158	ADSL	Pathogenic	GRCh38	1962288
+single nucleotide variant	NM_000026.4(ADSL):c.403-1G>C	158	ADSL	Likely pathogenic	GRCh38	2019442
+single nucleotide variant	NM_000026.4(ADSL):c.1354C>G (p.Arg452Gly)	158	ADSL	Likely pathogenic	GRCh38	2086298
+single nucleotide variant	NM_000026.4(ADSL):c.482+1G>C	158	ADSL	Likely pathogenic	GRCh38	2506273
+single nucleotide variant	NM_000026.4(ADSL):c.1315C>T (p.Gln439Ter)	158	ADSL	Pathogenic/Likely pathogenic	GRCh38	2725588
+single nucleotide variant	NM_000026.4(ADSL):c.1010+1G>C	158	ADSL	Likely pathogenic	GRCh38	2783157
+single nucleotide variant	NM_000026.4(ADSL):c.73G>T (p.Glu25Ter)	158	ADSL	Pathogenic	GRCh38	3666807
+single nucleotide variant	NM_000026.4(ADSL):c.73G>A (p.Glu25Lys)	158	ADSL	Likely pathogenic	GRCh38	3770217
+single nucleotide variant	NM_000026.4(ADSL):c.597G>A (p.Lys199=)	158	ADSL	Likely pathogenic	GRCh38	4077390
+single nucleotide variant	NM_000026.4(ADSL):c.76A>T (p.Met26Leu)	158	ADSL	Pathogenic	GRCh38	4710630
+single nucleotide variant	NM_000026.4(ADSL):c.643G>C (p.Asp215His)	158	ADSL	Likely pathogenic	GRCh38	4759349
+single nucleotide variant	NM_000026.4(ADSL):c.363G>T (p.Leu121Phe)	158	ADSL	Likely pathogenic	GRCh38	4852543

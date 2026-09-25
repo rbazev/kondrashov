@@ -1,0 +1,68 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001453.3(FOXC1):c.392C>T (p.Ser131Leu)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	8452
+single nucleotide variant	NM_001453.3(FOXC1):c.378C>G (p.Ile126Met)	2296	FOXC1	Pathogenic	GRCh38	8453
+single nucleotide variant	NM_001453.3(FOXC1):c.335T>C (p.Phe112Ser)	2296	FOXC1	Pathogenic	GRCh38	8454
+single nucleotide variant	NM_001453.3(FOXC1):c.67C>T (p.Gln23Ter)	2296	FOXC1	Pathogenic	GRCh38	8455
+single nucleotide variant	NM_001453.3(FOXC1):c.245G>C (p.Ser82Thr)	2296	FOXC1	Pathogenic	GRCh38	8458
+single nucleotide variant	NM_001453.3(FOXC1):c.261C>G (p.Ile87Met)	2296	FOXC1	Pathogenic	GRCh38	8459
+single nucleotide variant	NM_001453.3(FOXC1):c.358C>T (p.Gln120Ter)	2296	FOXC1	Pathogenic	GRCh38	8461
+single nucleotide variant	NM_001453.3(FOXC1):c.141C>G (p.Tyr47Ter)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	100687
+single nucleotide variant	NM_001453.3(FOXC1):c.377T>G (p.Ile126Ser)	2296	FOXC1	Pathogenic	GRCh38	100688
+single nucleotide variant	NM_001453.3(FOXC1):c.246C>G (p.Ser82Arg)	2296	FOXC1	Pathogenic	GRCh38	265158
+single nucleotide variant	NM_001453.3(FOXC1):c.256C>T (p.Leu86Phe)	2296	FOXC1	Pathogenic	GRCh38	265478
+single nucleotide variant	NM_001453.3(FOXC1):c.456G>A (p.Trp152Ter)	2296	FOXC1	Pathogenic	GRCh38	280066
+single nucleotide variant	NM_001453.3(FOXC1):c.316C>T (p.Gln106Ter)	2296	FOXC1	Pathogenic	GRCh38	375424
+single nucleotide variant	NM_001453.3(FOXC1):c.487G>T (p.Glu163Ter)	2296	FOXC1	Pathogenic	GRCh38	375426
+single nucleotide variant	NM_001453.3(FOXC1):c.1265C>A (p.Ser422Ter)	2296	FOXC1	Pathogenic	GRCh38	375431
+single nucleotide variant	NM_001453.3(FOXC1):c.1491C>G (p.Tyr497Ter)	2296	FOXC1	Pathogenic	GRCh38	375432
+single nucleotide variant	NM_001453.3(FOXC1):c.254C>T (p.Ala85Val)	2296	FOXC1	Likely pathogenic	GRCh38	426221
+single nucleotide variant	NM_001453.3(FOXC1):c.380G>T (p.Arg127Leu)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	426978
+single nucleotide variant	NM_001453.3(FOXC1):c.192C>G (p.Tyr64Ter)	2296	FOXC1	Pathogenic	GRCh38	430705
+single nucleotide variant	NM_001453.3(FOXC1):c.772G>T (p.Glu258Ter)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	450920
+single nucleotide variant	NM_001453.3(FOXC1):c.380G>A (p.Arg127His)	2296	FOXC1	Pathogenic	GRCh38	537389
+single nucleotide variant	NM_001453.3(FOXC1):c.508C>T (p.Arg170Trp)	2296	FOXC1	Pathogenic	GRCh38	660083
+single nucleotide variant	NM_001453.3(FOXC1):c.361G>A (p.Gly121Ser)	2296	FOXC1	Likely pathogenic	GRCh38	666565
+single nucleotide variant	NM_001453.3(FOXC1):c.367C>T (p.Gln123Ter)	2296	FOXC1	Pathogenic	GRCh38	858712
+single nucleotide variant	NM_001453.3(FOXC1):c.405C>A (p.Cys135Ter)	2296	FOXC1	Pathogenic	GRCh38	857470
+single nucleotide variant	NM_001453.3(FOXC1):c.392C>G (p.Ser131Trp)	2296	FOXC1	Pathogenic	GRCh38	916046
+single nucleotide variant	NM_001453.3(FOXC1):c.456G>T (p.Trp152Cys)	2296	FOXC1	Likely pathogenic	GRCh38	931490
+single nucleotide variant	NM_001453.3(FOXC1):c.518G>A (p.Arg173His)	2296	FOXC1	Likely pathogenic	GRCh38	932288
+single nucleotide variant	NM_001453.3(FOXC1):c.1399C>T (p.Gln467Ter)	2296	FOXC1	Pathogenic	GRCh38	932292
+single nucleotide variant	NM_001453.3(FOXC1):c.712C>T (p.Gln238Ter)	2296	FOXC1	Pathogenic	GRCh38	1076933
+single nucleotide variant	NM_001453.3(FOXC1):c.246C>A (p.Ser82Arg)	2296	FOXC1	Pathogenic	GRCh38	1251979
+single nucleotide variant	NM_001453.3(FOXC1):c.1059C>G (p.Tyr353Ter)	2296	FOXC1	Pathogenic	GRCh38	1322930
+single nucleotide variant	NM_001453.3(FOXC1):c.454T>C (p.Trp152Arg)	2296	FOXC1	Likely pathogenic	GRCh38	1333607
+single nucleotide variant	NM_001453.3(FOXC1):c.176G>T (p.Gly59Val)	2296	FOXC1	Likely pathogenic	GRCh38	1344727
+single nucleotide variant	NM_001453.3(FOXC1):c.1139G>T (p.Gly380Val)	2296	FOXC1	Likely pathogenic	GRCh38	1344735
+single nucleotide variant	NM_001453.3(FOXC1):c.275A>C (p.Gln92Pro)	2296	FOXC1	Pathogenic	GRCh38	1466390
+single nucleotide variant	NM_001453.3(FOXC1):c.399C>G (p.Asn133Lys)	2296	FOXC1	Pathogenic	GRCh38	1506339
+single nucleotide variant	NM_001453.3(FOXC1):c.143C>A (p.Ser48Ter)	2296	FOXC1	Pathogenic	GRCh38	1458299
+single nucleotide variant	NM_001453.3(FOXC1):c.4C>T (p.Gln2Ter)	2296	FOXC1	Likely pathogenic	GRCh38	1687317
+single nucleotide variant	NM_001453.3(FOXC1):c.274C>T (p.Gln92Ter)	2296	FOXC1	Pathogenic	GRCh38	1693139
+single nucleotide variant	NM_001453.3(FOXC1):c.366G>A (p.Trp122Ter)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	1693141
+single nucleotide variant	NM_001453.3(FOXC1):c.241T>C (p.Tyr81His)	2296	FOXC1	Pathogenic	GRCh38	1693151
+single nucleotide variant	NM_001453.3(FOXC1):c.257T>G (p.Leu86Arg)	2296	FOXC1	Pathogenic	GRCh38	1693152
+single nucleotide variant	NM_001453.3(FOXC1):c.269C>T (p.Ala90Val)	2296	FOXC1	Likely pathogenic	GRCh38	1693153
+single nucleotide variant	NM_001453.3(FOXC1):c.407T>C (p.Phe136Ser)	2296	FOXC1	Likely pathogenic	GRCh38	1693154
+single nucleotide variant	NM_001453.3(FOXC1):c.470A>T (p.Asp157Val)	2296	FOXC1	Likely pathogenic	GRCh38	1693155
+single nucleotide variant	NM_001453.3(FOXC1):c.392C>A (p.Ser131Ter)	2296	FOXC1	Pathogenic	GRCh38	1711928
+single nucleotide variant	NM_001453.3(FOXC1):c.208C>T (p.Gln70Ter)	2296	FOXC1	Pathogenic	GRCh38	2000743
+single nucleotide variant	NM_001453.3(FOXC1):c.453C>G (p.Tyr151Ter)	2296	FOXC1	Pathogenic	GRCh38	2015283
+single nucleotide variant	NM_001453.3(FOXC1):c.163C>T (p.Gln55Ter)	2296	FOXC1	Pathogenic	GRCh38	2061918
+single nucleotide variant	NM_001453.3(FOXC1):c.454T>G (p.Trp152Gly)	2296	FOXC1	Likely pathogenic	GRCh38	2136126
+single nucleotide variant	NM_001453.3(FOXC1):c.236C>A (p.Pro79Gln)	2296	FOXC1	Pathogenic	GRCh38	2571241
+single nucleotide variant	NM_001453.3(FOXC1):c.315C>G (p.Tyr105Ter)	2296	FOXC1	Likely pathogenic	GRCh38	2628025
+single nucleotide variant	NM_001453.3(FOXC1):c.404G>A (p.Cys135Tyr)	2296	FOXC1	Likely pathogenic	GRCh38	2629736
+single nucleotide variant	NM_001453.3(FOXC1):c.249C>A (p.Tyr83Ter)	2296	FOXC1	Pathogenic	GRCh38	2699289
+single nucleotide variant	NM_001453.3(FOXC1):c.1179C>G (p.Tyr393Ter)	2296	FOXC1	Pathogenic/Likely pathogenic	GRCh38	2711419
+single nucleotide variant	NM_001453.3(FOXC1):c.235C>A (p.Pro79Thr)	2296	FOXC1	Pathogenic	GRCh38	3236698
+single nucleotide variant	NM_001453.3(FOXC1):c.379C>A (p.Arg127Ser)	2296	FOXC1	Likely pathogenic	GRCh38	3344356
+single nucleotide variant	NM_001453.3(FOXC1):c.484T>G (p.Phe162Val)	2296	FOXC1	Likely pathogenic	GRCh38	3662887
+single nucleotide variant	NM_001453.3(FOXC1):c.384C>G (p.His128Gln)	2296	FOXC1	Likely pathogenic	GRCh38	3664581
+single nucleotide variant	NM_001453.3(FOXC1):c.247T>C (p.Tyr83His)	2296	FOXC1	Likely pathogenic	GRCh38	4532023
+single nucleotide variant	NM_001453.3(FOXC1):c.1099C>T (p.Gln367Ter)	2296	FOXC1	Likely pathogenic	GRCh38	4682014
+single nucleotide variant	NM_001453.3(FOXC1):c.1363G>T (p.Gly455Ter)	2296	FOXC1	Pathogenic	GRCh38	4720876
+single nucleotide variant	NM_001453.3(FOXC1):c.453C>A (p.Tyr151Ter)	2296	FOXC1	Likely pathogenic	GRCh38	4845299
+single nucleotide variant	NM_001453.3(FOXC1):c.15C>G (p.Tyr5Ter)	2296	FOXC1	Likely pathogenic	GRCh38	4855642
+single nucleotide variant	NM_001453.3(FOXC1):c.455G>A (p.Trp152Ter)	2296	FOXC1	Pathogenic	GRCh38	4871498
+single nucleotide variant	NM_001453.3(FOXC1):c.54C>A (p.Tyr18Ter)	2296	FOXC1	Likely pathogenic	GRCh38	4888097

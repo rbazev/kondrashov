@@ -87,7 +87,7 @@ single nucleotide variant	NM_000135.4(FANCA):c.3884T>G (p.Leu1295Ter)	2175	FANCA
 single nucleotide variant	NM_000135.4(FANCA):c.3828+1G>A	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	555597
 single nucleotide variant	NM_000135.4(FANCA):c.3239G>A (p.Arg1080Gln)	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	552829
 single nucleotide variant	NM_000135.4(FANCA):c.2840C>G (p.Ser947Ter)	2175	FANCA	Pathogenic	GRCh38	558253
-single nucleotide variant	NM_000135.4(FANCA):c.2778+2T>C	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	555463
+single nucleotide variant	NM_000135.4(FANCA):c.2778+2T>C	2175	FANCA	Pathogenic	GRCh38	555463
 single nucleotide variant	NM_000135.4(FANCA):c.2602-2A>T	2175	FANCA	Pathogenic	GRCh38	555572
 single nucleotide variant	NM_000135.4(FANCA):c.894-2A>G	2175	FANCA	Pathogenic	GRCh38	557309
 single nucleotide variant	NM_000135.4(FANCA):c.827-1G>C	2175	FANCA	Likely pathogenic	GRCh38	556046
@@ -133,7 +133,7 @@ single nucleotide variant	NM_000135.4(FANCA):c.2317-1G>T	2175	FANCA	Likely patho
 single nucleotide variant	NM_000135.4(FANCA):c.2852+2T>G	2175	FANCA	Likely pathogenic	GRCh38	644151
 single nucleotide variant	NM_000135.4(FANCA):c.2014+1G>C	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	692160
 single nucleotide variant	NM_000135.4(FANCA):c.4199G>C (p.Arg1400Pro)	2175	FANCA	Likely pathogenic	GRCh38	803290
-single nucleotide variant	NM_000135.4(FANCA):c.275C>G (p.Ser92Ter)	2175	FANCA	Pathogenic	GRCh38	803293
+single nucleotide variant	NM_000135.4(FANCA):c.275C>G (p.Ser92Ter)	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	803293
 single nucleotide variant	NM_000135.4(FANCA):c.2807A>G (p.Glu936Gly)	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	859808
 single nucleotide variant	NM_000135.4(FANCA):c.2641C>T (p.Gln881Ter)	2175	FANCA	Pathogenic	GRCh38	860918
 single nucleotide variant	NM_000135.4(FANCA):c.1433C>G (p.Ser478Ter)	2175	FANCA	Pathogenic	GRCh38	864301
@@ -219,7 +219,7 @@ single nucleotide variant	NM_000135.4(FANCA):c.2678G>A (p.Trp893Ter)	2175	FANCA	
 single nucleotide variant	NM_000135.4(FANCA):c.2632G>C (p.Glu878Gln)	2175	FANCA	Likely pathogenic	GRCh38	974248
 single nucleotide variant	NM_000135.4(FANCA):c.2602-1G>A	2175	FANCA	Pathogenic	GRCh38	974241
 single nucleotide variant	NM_000135.4(FANCA):c.2602-2A>C	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	974240
-single nucleotide variant	NM_000135.4(FANCA):c.2527T>G (p.Tyr843Asp)	2175	FANCA	Pathogenic/Likely pathogenic	GRCh38	974143
+single nucleotide variant	NM_000135.4(FANCA):c.2527T>G (p.Tyr843Asp)	2175	FANCA	Likely pathogenic	GRCh38	974143
 single nucleotide variant	NM_000135.4(FANCA):c.2513C>G (p.Thr838Arg)	2175	FANCA	Pathogenic	GRCh38	974142
 single nucleotide variant	NM_000135.4(FANCA):c.2504+134A>G	2175	FANCA	Pathogenic	GRCh38	974137
 single nucleotide variant	NM_000135.4(FANCA):c.2504+2T>C	2175	FANCA	Pathogenic	GRCh38	974038
@@ -511,6 +511,7 @@ single nucleotide variant	NM_000135.4(FANCA):c.1593C>G (p.Tyr531Ter)	2175	FANCA	
 single nucleotide variant	NM_000135.4(FANCA):c.4083C>G (p.Tyr1361Ter)	2175	FANCA	Pathogenic	GRCh38	4081676
 single nucleotide variant	NM_000135.4(FANCA):c.1827-1G>C	2175	FANCA	Pathogenic	GRCh38	4291760
 single nucleotide variant	NM_000135.4(FANCA):c.4284C>A (p.Cys1428Ter)	2175	FANCA	Likely pathogenic	GRCh38	4532881
+single nucleotide variant	NM_000135.4(FANCA):c.2504+108A>G	2175	FANCA	Pathogenic	GRCh38	4813131
 single nucleotide variant	NM_000135.4(FANCA):c.1229G>A (p.Trp410Ter)	2175	FANCA	Pathogenic	GRCh38	4817510
 single nucleotide variant	NM_000135.4(FANCA):c.1450G>C (p.Glu484Gln)	2175	FANCA	Likely pathogenic	GRCh38	4817512
 single nucleotide variant	NM_000135.4(FANCA):c.1783A>T (p.Lys595Ter)	2175	FANCA	Likely pathogenic	GRCh38	4817514
@@ -525,5 +526,5 @@ single nucleotide variant	NM_000135.4(FANCA):c.375C>A (p.Cys125Ter)	2175	FANCA	L
 single nucleotide variant	NM_000135.4(FANCA):c.3829-1G>T	2175	FANCA	Likely pathogenic	GRCh38	4817535
 single nucleotide variant	NM_000135.4(FANCA):c.4023C>A (p.Tyr1341Ter)	2175	FANCA	Likely pathogenic	GRCh38	4817536
 single nucleotide variant	NM_000135.4(FANCA):c.793-1G>T	2175	FANCA	Pathogenic	GRCh38	4817540
-single nucleotide variant	NM_000135.4(FANCA):c.112G>T (p.Glu38Ter)	2175	FANCA	Likely pathogenic	GRCh38	4819932
 single nucleotide variant	NM_000135.4(FANCA):c.2818C>T (p.Gln940Ter)	2175	FANCA	Likely pathogenic	GRCh38	4849348
+single nucleotide variant	NM_000135.4(FANCA):c.4011-2A>G	2175	FANCA	Likely pathogenic	GRCh38	4883934

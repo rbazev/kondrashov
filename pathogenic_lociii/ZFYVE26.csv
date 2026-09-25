@@ -9,7 +9,7 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.3935C>A (p.Ser1312Ter)	23503	ZF
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2254C>T (p.Gln752Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	372839
 single nucleotide variant	NM_015346.4(ZFYVE26):c.7041C>A (p.Cys2347Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	424005
 single nucleotide variant	NM_015346.4(ZFYVE26):c.7060C>T (p.Gln2354Ter)	23503	ZFYVE26	Pathogenic	GRCh38	430413
-single nucleotide variant	NM_015346.4(ZFYVE26):c.4936C>T (p.Arg1646Ter)	23503	ZFYVE26	Pathogenic	GRCh38	458286
+single nucleotide variant	NM_015346.4(ZFYVE26):c.4936C>T (p.Arg1646Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	458286
 single nucleotide variant	NM_015346.4(ZFYVE26):c.4132C>T (p.Arg1378Ter)	23503	ZFYVE26	Pathogenic	GRCh38	458283
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2554-1G>C	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	488743
 single nucleotide variant	NM_015346.4(ZFYVE26):c.7416+2T>C	23503	ZFYVE26	Likely pathogenic	GRCh38	557215
@@ -42,7 +42,7 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.3020-1G>A	23503	ZFYVE26	Likely 
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2401+1G>T	23503	ZFYVE26	Likely pathogenic	GRCh38	550882
 single nucleotide variant	NM_015346.4(ZFYVE26):c.960G>A (p.Trp320Ter)	23503	ZFYVE26	Pathogenic	GRCh38	586648
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5426G>A (p.Trp1809Ter)	23503	ZFYVE26	Pathogenic	GRCh38	643788
-single nucleotide variant	NM_015346.4(ZFYVE26):c.4643C>G (p.Ser1548Ter)	23503	ZFYVE26	Pathogenic	GRCh38	651290
+single nucleotide variant	NM_015346.4(ZFYVE26):c.4643C>G (p.Ser1548Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	651290
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3980T>G (p.Leu1327Ter)	23503	ZFYVE26	Pathogenic	GRCh38	641210
 single nucleotide variant	NM_015346.4(ZFYVE26):c.1861C>T (p.Gln621Ter)	23503	ZFYVE26	Pathogenic	GRCh38	650964
 single nucleotide variant	NM_015346.4(ZFYVE26):c.837T>G (p.Tyr279Ter)	23503	ZFYVE26	Pathogenic	GRCh38	652756
@@ -62,7 +62,7 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.3022C>T (p.Arg1008Ter)	23503	ZF
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5050C>T (p.Gln1684Ter)	23503	ZFYVE26	Pathogenic	GRCh38	938012
 single nucleotide variant	NM_015346.4(ZFYVE26):c.1544C>A (p.Ser515Ter)	23503	ZFYVE26	Pathogenic	GRCh38	939570
 single nucleotide variant	NM_015346.4(ZFYVE26):c.6369+1G>A	23503	ZFYVE26	Likely pathogenic	GRCh38	938496
-single nucleotide variant	NM_015346.4(ZFYVE26):c.6141C>A (p.Tyr2047Ter)	23503	ZFYVE26	Pathogenic	GRCh38	959207
+single nucleotide variant	NM_015346.4(ZFYVE26):c.6141C>A (p.Tyr2047Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	959207
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3061C>T (p.Arg1021Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	954133
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2404G>T (p.Gly802Ter)	23503	ZFYVE26	Pathogenic	GRCh38	969045
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2263C>T (p.Arg755Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	987484
@@ -81,7 +81,7 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.6480C>G (p.Tyr2160Ter)	23503	ZF
 single nucleotide variant	NM_015346.4(ZFYVE26):c.6144C>A (p.Tyr2048Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	1071110
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5857C>T (p.Gln1953Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1072208
 single nucleotide variant	NM_015346.4(ZFYVE26):c.4599G>A (p.Trp1533Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1073888
-single nucleotide variant	NM_015346.4(ZFYVE26):c.4182G>A (p.Trp1394Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1069531
+single nucleotide variant	NM_015346.4(ZFYVE26):c.4182G>A (p.Trp1394Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	1069531
 single nucleotide variant	NM_015346.4(ZFYVE26):c.4144C>T (p.Gln1382Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1074402
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2675C>G (p.Ser892Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1070442
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2620C>T (p.Gln874Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1068462
@@ -97,8 +97,8 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.2003T>G (p.Leu668Ter)	23503	ZFY
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3253C>T (p.Gln1085Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1363992
 single nucleotide variant	NM_015346.4(ZFYVE26):c.4147C>T (p.Gln1383Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1446097
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5222-1G>A	23503	ZFYVE26	Likely pathogenic	GRCh38	1500295
-single nucleotide variant	NM_015346.4(ZFYVE26):c.5383C>T (p.Gln1795Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1451434
-single nucleotide variant	NM_015346.4(ZFYVE26):c.3340C>T (p.Gln1114Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1451144
+single nucleotide variant	NM_015346.4(ZFYVE26):c.5383C>T (p.Gln1795Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	1451434
+single nucleotide variant	NM_015346.4(ZFYVE26):c.3340C>T (p.Gln1114Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	1451144
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3349C>T (p.Gln1117Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1370691
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3610C>T (p.Gln1204Ter)	23503	ZFYVE26	Pathogenic	GRCh38	1453026
 single nucleotide variant	NM_015346.4(ZFYVE26):c.3256C>T (p.Gln1086Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	1354728
@@ -183,7 +183,7 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.5254C>T (p.Gln1752Ter)	23503	ZF
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5729G>A (p.Trp1910Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	2878461
 single nucleotide variant	NM_015346.4(ZFYVE26):c.887-1G>C	23503	ZFYVE26	Likely pathogenic	GRCh38	2959053
 single nucleotide variant	NM_015346.4(ZFYVE26):c.385C>T (p.Gln129Ter)	23503	ZFYVE26	Pathogenic	GRCh38	2976781
-single nucleotide variant	NM_015346.4(ZFYVE26):c.6589G>T (p.Glu2197Ter)	23503	ZFYVE26	Pathogenic	GRCh38	2995053
+single nucleotide variant	NM_015346.4(ZFYVE26):c.6589G>T (p.Glu2197Ter)	23503	ZFYVE26	Pathogenic/Likely pathogenic	GRCh38	2995053
 single nucleotide variant	NM_015346.4(ZFYVE26):c.1797T>G (p.Tyr599Ter)	23503	ZFYVE26	Pathogenic	GRCh38	2985393
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5374C>T (p.Gln1792Ter)	23503	ZFYVE26	Pathogenic	GRCh38	2995554
 single nucleotide variant	NM_015346.4(ZFYVE26):c.2332+1G>C	23503	ZFYVE26	Likely pathogenic	GRCh38	3014036
@@ -210,3 +210,9 @@ single nucleotide variant	NM_015346.4(ZFYVE26):c.613C>T (p.Gln205Ter)	23503	ZFYV
 single nucleotide variant	NM_015346.4(ZFYVE26):c.273+1G>C	23503	ZFYVE26	Likely pathogenic	GRCh38	4719800
 single nucleotide variant	NM_015346.4(ZFYVE26):c.1563C>A (p.Cys521Ter)	23503	ZFYVE26	Pathogenic	GRCh38	4729554
 single nucleotide variant	NM_015346.4(ZFYVE26):c.5107C>T (p.Gln1703Ter)	23503	ZFYVE26	Pathogenic	GRCh38	4747922
+single nucleotide variant	NM_015346.4(ZFYVE26):c.6750C>G (p.Tyr2250Ter)	23503	ZFYVE26	Likely pathogenic	GRCh38	4889867
+single nucleotide variant	NM_015346.4(ZFYVE26):c.4609C>T (p.Gln1537Ter)	23503	ZFYVE26	Likely pathogenic	GRCh38	4889868
+single nucleotide variant	NM_015346.4(ZFYVE26):c.496C>T (p.Gln166Ter)	23503	ZFYVE26	Likely pathogenic	GRCh38	4889870
+single nucleotide variant	NM_015346.4(ZFYVE26):c.5221+1G>A	23503	ZFYVE26	Likely pathogenic	GRCh38	4890079
+single nucleotide variant	NM_015346.4(ZFYVE26):c.2755+1G>A	23503	ZFYVE26	Likely pathogenic	GRCh38	4890080
+single nucleotide variant	NM_015346.4(ZFYVE26):c.3G>C (p.Met1Ile)	23503	ZFYVE26	Likely pathogenic	GRCh38	4890119

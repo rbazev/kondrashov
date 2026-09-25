@@ -89,6 +89,7 @@ single nucleotide variant	NM_000255.4(MMUT):c.1207C>G (p.Arg403Gly)	4594	MMUT	Li
 single nucleotide variant	NM_000255.4(MMUT):c.806C>T (p.Ala269Val)	4594	MMUT	Likely pathogenic	GRCh38	522652
 single nucleotide variant	NM_000255.4(MMUT):c.394C>T (p.Gln132Ter)	4594	MMUT	Pathogenic	GRCh38	534566
 single nucleotide variant	NM_000255.4(MMUT):c.1084-1G>C	4594	MMUT	Pathogenic	GRCh38	534564
+single nucleotide variant	NM_000255.4(MMUT):c.2206C>T (p.Leu736Phe)	4594	MMUT	Pathogenic/Likely pathogenic	GRCh38	555168
 single nucleotide variant	NM_000255.4(MMUT):c.1957-2A>G	4594	MMUT	Pathogenic	GRCh38	555787
 single nucleotide variant	NM_000255.4(MMUT):c.1867G>C (p.Gly623Arg)	4594	MMUT	Pathogenic	GRCh38	557096
 single nucleotide variant	NM_000255.4(MMUT):c.1777G>T (p.Glu593Ter)	4594	MMUT	Pathogenic	GRCh38	558328
@@ -131,7 +132,6 @@ single nucleotide variant	NM_000255.4(MMUT):c.292A>C (p.Thr98Pro)	4594	MMUT	Path
 single nucleotide variant	NM_000255.4(MMUT):c.281G>T (p.Gly94Val)	4594	MMUT	Pathogenic	GRCh38	657887
 single nucleotide variant	NM_000255.4(MMUT):c.2125-3C>G	4594	MMUT	Pathogenic	GRCh38	657043
 single nucleotide variant	NM_000255.4(MMUT):c.2114T>G (p.Ile705Arg)	4594	MMUT	Likely pathogenic	GRCh38	692058
-single nucleotide variant	NM_000255.4(MMUT):c.959C>T (p.Ala320Val)	4594	MMUT	Likely pathogenic	GRCh38	802223
 single nucleotide variant	NM_000255.4(MMUT):c.1040T>G (p.Leu347Arg)	4594	MMUT	Pathogenic	GRCh38	807633
 single nucleotide variant	NM_000255.4(MMUT):c.277C>A (p.Arg93Ser)	4594	MMUT	Pathogenic	GRCh38	829883
 single nucleotide variant	NM_000255.4(MMUT):c.1765C>T (p.Gln589Ter)	4594	MMUT	Pathogenic	GRCh38	845401

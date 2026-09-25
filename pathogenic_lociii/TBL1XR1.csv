@@ -1,0 +1,88 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_024665.7(TBL1XR1):c.209G>A (p.Gly70Asp)	79718	TBL1XR1	Likely pathogenic	GRCh38	191371
+single nucleotide variant	NM_024665.7(TBL1XR1):c.845T>C (p.Leu282Pro)	79718	TBL1XR1	Likely pathogenic	GRCh38	225871
+single nucleotide variant	NM_024665.7(TBL1XR1):c.734A>G (p.Tyr245Cys)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	225873
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1337A>G (p.Tyr446Cys)	79718	TBL1XR1	Pathogenic	GRCh38	225874
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1108G>A (p.Asp370Asn)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	372701
+single nucleotide variant	NM_024665.7(TBL1XR1):c.248T>A (p.Leu83Gln)	79718	TBL1XR1	Likely pathogenic	GRCh38	372904
+single nucleotide variant	NM_024665.7(TBL1XR1):c.987G>A (p.Met329Ile)	79718	TBL1XR1	Pathogenic	GRCh38	392060
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1250+2T>G	79718	TBL1XR1	Likely pathogenic	GRCh38	421383
+single nucleotide variant	NM_024665.7(TBL1XR1):c.857T>G (p.Val286Gly)	79718	TBL1XR1	Pathogenic	GRCh38	421408
+single nucleotide variant	NM_024665.7(TBL1XR1):c.754T>C (p.Trp252Arg)	79718	TBL1XR1	Pathogenic	GRCh38	422081
+single nucleotide variant	NM_024665.7(TBL1XR1):c.977G>T (p.Ser326Ile)	79718	TBL1XR1	Likely pathogenic	GRCh38	431083
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1109A>G (p.Asp370Gly)	79718	TBL1XR1	Likely pathogenic	GRCh38	432185
+single nucleotide variant	NM_024665.7(TBL1XR1):c.497G>T (p.Arg166Leu)	79718	TBL1XR1	Likely pathogenic	GRCh38	450269
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1341T>G (p.Ser447Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	521890
+single nucleotide variant	NM_024665.7(TBL1XR1):c.991A>T (p.Ile331Phe)	79718	TBL1XR1	Likely pathogenic	GRCh38	521292
+single nucleotide variant	NM_024665.7(TBL1XR1):c.926C>T (p.Ala309Val)	79718	TBL1XR1	Likely pathogenic	GRCh38	546174
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1336T>G (p.Tyr446Asp)	79718	TBL1XR1	Pathogenic	GRCh38	559571
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1387G>A (p.Asp463Asn)	79718	TBL1XR1	Likely pathogenic	GRCh38	569007
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1336T>C (p.Tyr446His)	79718	TBL1XR1	Likely pathogenic	GRCh38	627550
+single nucleotide variant	NM_024665.7(TBL1XR1):c.517T>C (p.Phe173Leu)	79718	TBL1XR1	Likely pathogenic	GRCh38	633507
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1048-1G>A	79718	TBL1XR1	Likely pathogenic	GRCh38	647180
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1000T>C (p.Cys334Arg)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	666258
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1043A>G (p.His348Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	666259
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1184A>G (p.Tyr395Cys)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	802020
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1100G>T (p.Cys367Phe)	79718	TBL1XR1	Likely pathogenic	GRCh38	802021
+single nucleotide variant	NM_024665.7(TBL1XR1):c.703-2A>G	79718	TBL1XR1	Likely pathogenic	GRCh38	802022
+single nucleotide variant	NM_024665.7(TBL1XR1):c.226C>T (p.Arg76Ter)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	802023
+single nucleotide variant	NM_024665.7(TBL1XR1):c.799G>T (p.Gly267Cys)	79718	TBL1XR1	Pathogenic	GRCh38	807509
+single nucleotide variant	NM_024665.7(TBL1XR1):c.514G>C (p.Val172Leu)	79718	TBL1XR1	Likely pathogenic	GRCh38	842022
+single nucleotide variant	NM_024665.7(TBL1XR1):c.710G>A (p.Gly237Asp)	79718	TBL1XR1	Likely pathogenic	GRCh38	917885
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1496G>A (p.Gly499Glu)	79718	TBL1XR1	Likely pathogenic	GRCh38	981391
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1291C>T (p.Arg431Ter)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	981384
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1103C>T (p.Ser368Phe)	79718	TBL1XR1	Likely pathogenic	GRCh38	988425
+single nucleotide variant	NM_024665.7(TBL1XR1):c.503A>G (p.His168Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	992834
+single nucleotide variant	NM_024665.7(TBL1XR1):c.205-7A>G	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	1018524
+single nucleotide variant	NM_024665.7(TBL1XR1):c.803C>T (p.Pro268Leu)	79718	TBL1XR1	Likely pathogenic	GRCh38	1064771
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1071G>A (p.Trp357Ter)	79718	TBL1XR1	Pathogenic	GRCh38	1076725
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1336T>A (p.Tyr446Asn)	79718	TBL1XR1	Likely pathogenic	GRCh38	1176162
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1378G>A (p.Gly460Ser)	79718	TBL1XR1	Likely pathogenic	GRCh38	1188842
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1333G>C (p.Val445Leu)	79718	TBL1XR1	Pathogenic	GRCh38	1220231
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1453G>A (p.Gly485Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	1228378
+single nucleotide variant	NM_024665.7(TBL1XR1):c.728G>A (p.Gly243Asp)	79718	TBL1XR1	Likely pathogenic	GRCh38	1285415
+single nucleotide variant	NM_024665.7(TBL1XR1):c.679G>A (p.Asp227Asn)	79718	TBL1XR1	Likely pathogenic	GRCh38	1300134
+single nucleotide variant	NM_024665.7(TBL1XR1):c.800G>T (p.Gly267Val)	79718	TBL1XR1	Likely pathogenic	GRCh38	1312264
+single nucleotide variant	NM_024665.7(TBL1XR1):c.58+2T>C	79718	TBL1XR1	Pathogenic	GRCh38	1327306
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1195T>A (p.Trp399Arg)	79718	TBL1XR1	Pathogenic	GRCh38	1453577
+single nucleotide variant	NM_024665.7(TBL1XR1):c.59-1G>A	79718	TBL1XR1	Likely pathogenic	GRCh38	1679385
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1340G>A (p.Ser447Asn)	79718	TBL1XR1	Pathogenic	GRCh38	1686249
+single nucleotide variant	NM_024665.7(TBL1XR1):c.187G>A (p.Glu63Lys)	79718	TBL1XR1	Likely pathogenic	GRCh38	1686654
+single nucleotide variant	NM_024665.7(TBL1XR1):c.937G>A (p.Asp313Asn)	79718	TBL1XR1	Likely pathogenic	GRCh38	1708492
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1108G>C (p.Asp370His)	79718	TBL1XR1	Pathogenic	GRCh38	1723667
+single nucleotide variant	NM_024665.7(TBL1XR1):c.524G>A (p.Cys175Tyr)	79718	TBL1XR1	Likely pathogenic	GRCh38	1804067
+single nucleotide variant	NM_024665.7(TBL1XR1):c.864+1G>A	79718	TBL1XR1	Likely pathogenic	GRCh38	2024079
+single nucleotide variant	NM_024665.7(TBL1XR1):c.697T>A (p.Trp233Arg)	79718	TBL1XR1	Pathogenic	GRCh38	2443985
+single nucleotide variant	NM_024665.7(TBL1XR1):c.847A>C (p.Ser283Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	2498942
+single nucleotide variant	NM_024665.7(TBL1XR1):c.646C>T (p.Arg216Ter)	79718	TBL1XR1	Pathogenic	GRCh38	2498943
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1047+1G>C	79718	TBL1XR1	Pathogenic	GRCh38	2500267
+single nucleotide variant	NM_024665.7(TBL1XR1):c.809T>G (p.Phe270Cys)	79718	TBL1XR1	Likely pathogenic	GRCh38	2571629
+single nucleotide variant	NM_024665.7(TBL1XR1):c.724A>C (p.Thr242Pro)	79718	TBL1XR1	Pathogenic	GRCh38	2572833
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1192A>T (p.Lys398Ter)	79718	TBL1XR1	Likely pathogenic	GRCh38	2573649
+single nucleotide variant	NM_024665.7(TBL1XR1):c.680A>G (p.Asp227Gly)	79718	TBL1XR1	Likely pathogenic	GRCh38	2584514
+single nucleotide variant	NM_024665.7(TBL1XR1):c.208G>T (p.Gly70Cys)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	2628582
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1385T>C (p.Phe462Ser)	79718	TBL1XR1	Likely pathogenic	GRCh38	2772384
+single nucleotide variant	NM_024665.7(TBL1XR1):c.568G>T (p.Asp190Tyr)	79718	TBL1XR1	Likely pathogenic	GRCh38	3031631
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1379G>T (p.Gly460Val)	79718	TBL1XR1	Likely pathogenic	GRCh38	3220861
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1331C>T (p.Pro444Leu)	79718	TBL1XR1	Pathogenic	GRCh38	3254814
+single nucleotide variant	NM_024665.7(TBL1XR1):c.557C>T (p.Ser186Leu)	79718	TBL1XR1	Pathogenic	GRCh38	3340594
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1177G>T (p.Glu393Ter)	79718	TBL1XR1	Likely pathogenic	GRCh38	3340695
+single nucleotide variant	NM_024665.7(TBL1XR1):c.853G>A (p.Gly285Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	3382188
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1091T>G (p.Leu364Trp)	79718	TBL1XR1	Likely pathogenic	GRCh38	3383964
+single nucleotide variant	NM_024665.7(TBL1XR1):c.793C>A (p.His265Asn)	79718	TBL1XR1	Likely pathogenic	GRCh38	3453736
+single nucleotide variant	NM_024665.7(TBL1XR1):c.922T>C (p.Ser308Pro)	79718	TBL1XR1	Likely pathogenic	GRCh38	3588944
+single nucleotide variant	NM_024665.7(TBL1XR1):c.737A>G (p.Asp246Gly)	79718	TBL1XR1	Likely pathogenic	GRCh38	3765891
+single nucleotide variant	NM_024665.7(TBL1XR1):c.865-7A>G	79718	TBL1XR1	Likely pathogenic	GRCh38	3767140
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1277T>G (p.Leu426Ter)	79718	TBL1XR1	Likely pathogenic	GRCh38	3775175
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1251-2A>T	79718	TBL1XR1	Likely pathogenic	GRCh38	3897846
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1379G>A (p.Gly460Asp)	79718	TBL1XR1	Pathogenic/Likely pathogenic	GRCh38	3910437
+single nucleotide variant	NM_024665.7(TBL1XR1):c.689C>A (p.Ser230Tyr)	79718	TBL1XR1	Likely pathogenic	GRCh38	4056394
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1195T>C (p.Trp399Arg)	79718	TBL1XR1	Pathogenic	GRCh38	4072012
+single nucleotide variant	NM_024665.7(TBL1XR1):c.252A>G (p.Ile84Met)	79718	TBL1XR1	Likely pathogenic	GRCh38	4075194
+single nucleotide variant	NM_024665.7(TBL1XR1):c.1251-1G>A	79718	TBL1XR1	Pathogenic	GRCh38	4085931
+single nucleotide variant	NM_024665.7(TBL1XR1):c.860A>T (p.Asp287Val)	79718	TBL1XR1	Likely pathogenic	GRCh38	4181126
+single nucleotide variant	NM_024665.7(TBL1XR1):c.965T>C (p.Phe322Ser)	79718	TBL1XR1	Pathogenic	GRCh38	4282436
+single nucleotide variant	NM_024665.7(TBL1XR1):c.160C>T (p.Gln54Ter)	79718	TBL1XR1	Pathogenic	GRCh38	4535957
+single nucleotide variant	NM_024665.7(TBL1XR1):c.551T>G (p.Leu184Arg)	79718	TBL1XR1	Likely pathogenic	GRCh38	4536235
+single nucleotide variant	NM_024665.7(TBL1XR1):c.820T>A (p.Trp274Arg)	79718	TBL1XR1	Pathogenic	GRCh38	4689811
+single nucleotide variant	NM_024665.7(TBL1XR1):c.361C>T (p.Gln121Ter)	79718	TBL1XR1	Likely pathogenic	GRCh38	4796529

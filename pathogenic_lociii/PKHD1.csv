@@ -36,7 +36,6 @@ single nucleotide variant	NM_138694.4(PKHD1):c.1880T>A (p.Met627Lys)	5314	PKHD1	
 single nucleotide variant	NM_138694.4(PKHD1):c.1830T>A (p.Tyr610Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	189100
 single nucleotide variant	NM_138694.4(PKHD1):c.1480C>T (p.Arg494Ter)	5314	PKHD1	Pathogenic	GRCh38	189026
 single nucleotide variant	NM_138694.4(PKHD1):c.1458C>A (p.Tyr486Ter)	5314	PKHD1	Pathogenic	GRCh38	189171
-single nucleotide variant	NM_138694.4(PKHD1):c.2978A>G (p.His993Arg)	5314	PKHD1	Likely pathogenic	GRCh38	191212
 single nucleotide variant	NM_138694.4(PKHD1):c.765C>G (p.Tyr255Ter)	5314	PKHD1	Pathogenic	GRCh38	193941
 single nucleotide variant	NM_138694.4(PKHD1):c.2854G>A (p.Gly952Arg)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	196052
 single nucleotide variant	NM_138694.4(PKHD1):c.5060T>C (p.Ile1687Thr)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	196807
@@ -102,6 +101,7 @@ single nucleotide variant	NM_138694.4(PKHD1):c.11785+1G>T	5314	PKHD1	Pathogenic	
 single nucleotide variant	NM_138694.4(PKHD1):c.9371A>C (p.His3124Pro)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	551663
 single nucleotide variant	NM_138694.4(PKHD1):c.8893T>C (p.Cys2965Arg)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	556643
 single nucleotide variant	NM_138694.4(PKHD1):c.8552T>C (p.Ile2851Thr)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	552021
+single nucleotide variant	NM_138694.4(PKHD1):c.6097A>G (p.Arg2033Gly)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	554925
 single nucleotide variant	NM_138694.4(PKHD1):c.5323C>T (p.Arg1775Ter)	5314	PKHD1	Pathogenic	GRCh38	550139
 single nucleotide variant	NM_138694.4(PKHD1):c.5237-2A>C	5314	PKHD1	Likely pathogenic	GRCh38	550377
 single nucleotide variant	NM_138694.4(PKHD1):c.3228+1G>C	5314	PKHD1	Likely pathogenic	GRCh38	557974
@@ -145,7 +145,7 @@ single nucleotide variant	NM_138694.4(PKHD1):c.2216C>T (p.Pro739Leu)	5314	PKHD1	
 single nucleotide variant	NM_138694.4(PKHD1):c.2141-2A>C	5314	PKHD1	Likely pathogenic	GRCh38	551375
 single nucleotide variant	NM_138694.4(PKHD1):c.3747T>G (p.Cys1249Trp)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	552624
 single nucleotide variant	NM_138694.4(PKHD1):c.3097+2T>C	5314	PKHD1	Likely pathogenic	GRCh38	556036
-single nucleotide variant	NM_138694.4(PKHD1):c.1397G>C (p.Gly466Ala)	5314	PKHD1	Likely pathogenic	GRCh38	551441
+single nucleotide variant	NM_138694.4(PKHD1):c.1397G>C (p.Gly466Ala)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	551441
 single nucleotide variant	NM_138694.4(PKHD1):c.2140+1G>T	5314	PKHD1	Likely pathogenic	GRCh38	553539
 single nucleotide variant	NM_138694.4(PKHD1):c.1397G>A (p.Gly466Glu)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	555789
 single nucleotide variant	NM_138694.4(PKHD1):c.708-2A>C	5314	PKHD1	Likely pathogenic	GRCh38	556354
@@ -153,12 +153,12 @@ single nucleotide variant	NM_138694.4(PKHD1):c.707+2T>C	5314	PKHD1	Likely pathog
 single nucleotide variant	NM_138694.4(PKHD1):c.1095G>A (p.Trp365Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	550391
 single nucleotide variant	NM_138694.4(PKHD1):c.920T>C (p.Ile307Thr)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	551925
 single nucleotide variant	NM_138694.4(PKHD1):c.708-1G>A	5314	PKHD1	Likely pathogenic	GRCh38	557869
-single nucleotide variant	NM_138694.4(PKHD1):c.53-1G>A	5314	PKHD1	Likely pathogenic	GRCh38	551384
 single nucleotide variant	NM_138694.4(PKHD1):c.340C>T (p.Gln114Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	559912
 single nucleotide variant	NM_138694.4(PKHD1):c.2702A>C (p.Asn901Thr)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	577838
 single nucleotide variant	NM_138694.4(PKHD1):c.9719G>A (p.Arg3240Gln)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	572902
 single nucleotide variant	NM_138694.4(PKHD1):c.5751+1G>A	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	565501
 single nucleotide variant	NM_138694.4(PKHD1):c.11074C>T (p.Arg3692Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	593691
+single nucleotide variant	NM_138694.4(PKHD1):c.983G>A (p.Arg328Gln)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	598347
 single nucleotide variant	NM_138694.4(PKHD1):c.9829+1G>A	5314	PKHD1	Likely pathogenic	GRCh38	625155
 single nucleotide variant	NM_138694.4(PKHD1):c.10765C>T (p.Gln3589Ter)	5314	PKHD1	Pathogenic	GRCh38	633362
 single nucleotide variant	NM_138694.4(PKHD1):c.10744G>T (p.Glu3582Ter)	5314	PKHD1	Likely pathogenic	GRCh38	633356
@@ -324,6 +324,7 @@ single nucleotide variant	NM_138694.4(PKHD1):c.6121+1G>T	5314	PKHD1	Likely patho
 single nucleotide variant	NM_138694.4(PKHD1):c.11468C>G (p.Ser3823Ter)	5314	PKHD1	Pathogenic	GRCh38	1454836
 single nucleotide variant	NM_138694.4(PKHD1):c.7149G>A (p.Trp2383Ter)	5314	PKHD1	Pathogenic	GRCh38	1455019
 single nucleotide variant	NM_138694.4(PKHD1):c.11310+1G>C	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	1521234
+single nucleotide variant	NM_138694.4(PKHD1):c.664A>C (p.Ile222Leu)	5314	PKHD1	Likely pathogenic	GRCh38	1371356
 single nucleotide variant	NM_138694.4(PKHD1):c.865C>T (p.Gln289Ter)	5314	PKHD1	Pathogenic	GRCh38	1453930
 single nucleotide variant	NM_138694.4(PKHD1):c.6491-2A>G	5314	PKHD1	Likely pathogenic	GRCh38	1347082
 single nucleotide variant	NM_138694.4(PKHD1):c.1968G>T (p.Trp656Cys)	5314	PKHD1	Pathogenic	GRCh38	1374661
@@ -491,7 +492,7 @@ single nucleotide variant	NM_138694.4(PKHD1):c.7758T>A (p.Tyr2586Ter)	5314	PKHD1
 single nucleotide variant	NM_138694.4(PKHD1):c.11089C>T (p.Gln3697Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	2683655
 single nucleotide variant	NM_138694.4(PKHD1):c.1119-2A>G	5314	PKHD1	Likely pathogenic	GRCh38	2690677
 single nucleotide variant	NM_138694.4(PKHD1):c.8589T>A (p.Tyr2863Ter)	5314	PKHD1	Likely pathogenic	GRCh38	2691261
-single nucleotide variant	NM_138694.4(PKHD1):c.4519C>T (p.Gln1507Ter)	5314	PKHD1	Pathogenic	GRCh38	2698742
+single nucleotide variant	NM_138694.4(PKHD1):c.4519C>T (p.Gln1507Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	2698742
 single nucleotide variant	NM_138694.4(PKHD1):c.8950+1G>A	5314	PKHD1	Likely pathogenic	GRCh38	2703667
 single nucleotide variant	NM_138694.4(PKHD1):c.2715+1G>T	5314	PKHD1	Likely pathogenic	GRCh38	2706861
 single nucleotide variant	NM_138694.4(PKHD1):c.2796T>A (p.Cys932Ter)	5314	PKHD1	Pathogenic	GRCh38	2707658
@@ -544,7 +545,7 @@ single nucleotide variant	NM_138694.4(PKHD1):c.3744G>A (p.Trp1248Ter)	5314	PKHD1
 single nucleotide variant	NM_138694.4(PKHD1):c.10774C>T (p.Gln3592Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	3019706
 single nucleotide variant	NM_138694.4(PKHD1):c.4220T>C (p.Leu1407Pro)	5314	PKHD1	Likely pathogenic	GRCh38	3010651
 single nucleotide variant	NM_138694.4(PKHD1):c.9627C>G (p.Ser3209Arg)	5314	PKHD1	Likely pathogenic	GRCh38	3020607
-single nucleotide variant	NM_138694.4(PKHD1):c.8441-1G>A	5314	PKHD1	Likely pathogenic	GRCh38	3011219
+single nucleotide variant	NM_138694.4(PKHD1):c.8441-1G>A	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	3011219
 single nucleotide variant	NM_138694.4(PKHD1):c.6659T>A (p.Leu2220His)	5314	PKHD1	Likely pathogenic	GRCh38	3031284
 single nucleotide variant	NM_138694.4(PKHD1):c.1284G>A (p.Trp428Ter)	5314	PKHD1	Pathogenic/Likely pathogenic	GRCh38	3061858
 single nucleotide variant	NM_138694.4(PKHD1):c.5538C>A (p.Cys1846Ter)	5314	PKHD1	Pathogenic	GRCh38	3063897
@@ -600,7 +601,6 @@ single nucleotide variant	NM_138694.4(PKHD1):c.1658G>A (p.Trp553Ter)	5314	PKHD1	
 single nucleotide variant	NM_138694.4(PKHD1):c.1431G>A (p.Trp477Ter)	5314	PKHD1	Likely pathogenic	GRCh38	3594012
 single nucleotide variant	NM_138694.4(PKHD1):c.1300G>T (p.Glu434Ter)	5314	PKHD1	Likely pathogenic	GRCh38	3594015
 single nucleotide variant	NM_138694.4(PKHD1):c.976+2T>A	5314	PKHD1	Likely pathogenic	GRCh38	3594025
-single nucleotide variant	NM_138694.4(PKHD1):c.673C>G (p.Gln225Glu)	5314	PKHD1	Likely pathogenic	GRCh38	3594031
 single nucleotide variant	NM_138694.4(PKHD1):c.666C>G (p.Ile222Met)	5314	PKHD1	Likely pathogenic	GRCh38	3594032
 single nucleotide variant	NM_138694.4(PKHD1):c.595G>T (p.Gly199Ter)	5314	PKHD1	Likely pathogenic	GRCh38	3594034
 single nucleotide variant	NM_138694.4(PKHD1):c.110G>A (p.Trp37Ter)	5314	PKHD1	Likely pathogenic	GRCh38	3594049
@@ -781,7 +781,17 @@ single nucleotide variant	NM_138694.4(PKHD1):c.976+1G>T	5314	PKHD1	Likely pathog
 single nucleotide variant	NM_138694.4(PKHD1):c.9760C>T (p.Gln3254Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4816807
 single nucleotide variant	NM_138694.4(PKHD1):c.982C>G (p.Arg328Gly)	5314	PKHD1	Likely pathogenic	GRCh38	4816809
 single nucleotide variant	NM_138694.4(PKHD1):c.6491-5T>A	5314	PKHD1	Likely pathogenic	GRCh38	4818912
-single nucleotide variant	NM_138694.4(PKHD1):c.9307G>C (p.Gly3103Arg)	5314	PKHD1	Likely pathogenic	GRCh38	4819715
-single nucleotide variant	NM_138694.4(PKHD1):c.5021T>G (p.Val1674Gly)	5314	PKHD1	Likely pathogenic	GRCh38	4819753
 single nucleotide variant	NM_138694.4(PKHD1):c.6602T>A (p.Leu2201Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4849565
 single nucleotide variant	NM_138694.4(PKHD1):c.9999-2A>G	5314	PKHD1	Likely pathogenic	GRCh38	4853493
+single nucleotide variant	NM_138694.4(PKHD1):c.6682+1G>C	5314	PKHD1	Likely pathogenic	GRCh38	4857280
+single nucleotide variant	NM_138694.4(PKHD1):c.6682G>C (p.Glu2228Gln)	5314	PKHD1	Likely pathogenic	GRCh38	4857727
+single nucleotide variant	NM_138694.4(PKHD1):c.10866C>A (p.Cys3622Ter)	5314	PKHD1	Pathogenic	GRCh38	4879742
+single nucleotide variant	NM_138694.4(PKHD1):c.7367C>A (p.Ser2456Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889775
+single nucleotide variant	NM_138694.4(PKHD1):c.5735G>A (p.Trp1912Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889776
+single nucleotide variant	NM_138694.4(PKHD1):c.2704C>T (p.Gln902Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889778
+single nucleotide variant	NM_138694.4(PKHD1):c.2533G>T (p.Glu845Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889779
+single nucleotide variant	NM_138694.4(PKHD1):c.1938G>A (p.Trp646Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889780
+single nucleotide variant	NM_138694.4(PKHD1):c.519C>G (p.Tyr173Ter)	5314	PKHD1	Likely pathogenic	GRCh38	4889781
+single nucleotide variant	NM_138694.4(PKHD1):c.7734-1G>C	5314	PKHD1	Likely pathogenic	GRCh38	4889949
+single nucleotide variant	NM_138694.4(PKHD1):c.6332+2T>C	5314	PKHD1	Likely pathogenic	GRCh38	4890043
+single nucleotide variant	NM_138694.4(PKHD1):c.390+2T>G	5314	PKHD1	Likely pathogenic	GRCh38	4890044

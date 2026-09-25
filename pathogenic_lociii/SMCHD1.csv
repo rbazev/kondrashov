@@ -1,0 +1,85 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_015295.3(SMCHD1):c.2068C>T (p.Pro690Ser)	23347	SMCHD1	Pathogenic	GRCh38	39856
+single nucleotide variant	NM_015295.3(SMCHD1):c.4566G>A (p.Thr1522=)	23347	SMCHD1	Pathogenic	GRCh38	39859
+single nucleotide variant	NM_015295.3(SMCHD1):c.1030C>T (p.Arg344Ter)	23347	SMCHD1	Pathogenic	GRCh38	280772
+single nucleotide variant	NM_015295.3(SMCHD1):c.848A>G (p.Tyr283Cys)	23347	SMCHD1	Pathogenic	GRCh38	280776
+single nucleotide variant	NM_015295.3(SMCHD1):c.3801+1G>A	23347	SMCHD1	Pathogenic	GRCh38	282530
+single nucleotide variant	NM_015295.3(SMCHD1):c.1843-1G>A	23347	SMCHD1	Pathogenic	GRCh38	285586
+single nucleotide variant	NM_015295.3(SMCHD1):c.4898T>G (p.Leu1633Ter)	23347	SMCHD1	Pathogenic	GRCh38	290300
+single nucleotide variant	NM_015295.3(SMCHD1):c.1043A>G (p.His348Arg)	23347	SMCHD1	Pathogenic	GRCh38	375761
+single nucleotide variant	NM_015295.3(SMCHD1):c.423G>C (p.Leu141Phe)	23347	SMCHD1	Pathogenic	GRCh38	375762
+single nucleotide variant	NM_015295.3(SMCHD1):c.1199A>T (p.Gln400Leu)	23347	SMCHD1	Pathogenic	GRCh38	375763
+single nucleotide variant	NM_015295.3(SMCHD1):c.410G>A (p.Gly137Glu)	23347	SMCHD1	Pathogenic	GRCh38	375765
+single nucleotide variant	NM_015295.3(SMCHD1):c.403A>T (p.Ser135Cys)	23347	SMCHD1	Pathogenic	GRCh38	375766
+single nucleotide variant	NM_015295.3(SMCHD1):c.404G>A (p.Ser135Asn)	23347	SMCHD1	Pathogenic	GRCh38	375767
+single nucleotide variant	NM_015295.3(SMCHD1):c.404G>T (p.Ser135Ile)	23347	SMCHD1	Likely pathogenic	GRCh38	375768
+single nucleotide variant	NM_015295.3(SMCHD1):c.320T>C (p.Leu107Pro)	23347	SMCHD1	Pathogenic	GRCh38	431461
+single nucleotide variant	NM_015295.3(SMCHD1):c.386T>A (p.Met129Lys)	23347	SMCHD1	Pathogenic	GRCh38	431462
+single nucleotide variant	NM_015295.3(SMCHD1):c.415A>C (p.Asn139His)	23347	SMCHD1	Pathogenic	GRCh38	431463
+single nucleotide variant	NM_015295.3(SMCHD1):c.423G>T (p.Leu141Phe)	23347	SMCHD1	Pathogenic	GRCh38	431464
+single nucleotide variant	NM_015295.3(SMCHD1):c.725C>G (p.Ala242Gly)	23347	SMCHD1	Pathogenic	GRCh38	431466
+single nucleotide variant	NM_015295.3(SMCHD1):c.1259A>T (p.Asp420Val)	23347	SMCHD1	Pathogenic	GRCh38	431467
+single nucleotide variant	NM_015295.3(SMCHD1):c.1417G>C (p.Glu473Gln)	23347	SMCHD1	Pathogenic	GRCh38	431468
+single nucleotide variant	NM_015295.3(SMCHD1):c.1568C>A (p.Thr523Lys)	23347	SMCHD1	Pathogenic	GRCh38	431469
+single nucleotide variant	NM_015295.3(SMCHD1):c.1571A>G (p.Asn524Ser)	23347	SMCHD1	Pathogenic	GRCh38	431470
+single nucleotide variant	NM_015295.3(SMCHD1):c.3679G>C (p.Gly1227Arg)	23347	SMCHD1	Likely pathogenic	GRCh38	446476
+single nucleotide variant	NM_015295.3(SMCHD1):c.1040+1G>A	23347	SMCHD1	Pathogenic	GRCh38	464158
+single nucleotide variant	NM_015295.3(SMCHD1):c.424+1G>A	23347	SMCHD1	Pathogenic/Likely pathogenic	GRCh38	497570
+single nucleotide variant	NM_015295.3(SMCHD1):c.5547+1G>C	23347	SMCHD1	Pathogenic	GRCh38	500529
+single nucleotide variant	NM_015295.3(SMCHD1):c.3484C>T (p.Gln1162Ter)	23347	SMCHD1	Pathogenic	GRCh38	532808
+single nucleotide variant	NM_015295.3(SMCHD1):c.4719+1G>T	23347	SMCHD1	Likely pathogenic	GRCh38	532805
+single nucleotide variant	NM_015295.3(SMCHD1):c.5568T>A (p.Cys1856Ter)	23347	SMCHD1	Likely pathogenic	GRCh38	595428
+single nucleotide variant	NM_015295.3(SMCHD1):c.1186C>T (p.Gln396Ter)	23347	SMCHD1	Pathogenic	GRCh38	595554
+single nucleotide variant	NM_015295.3(SMCHD1):c.4966+5G>A	23347	SMCHD1	Likely pathogenic	GRCh38	637006
+single nucleotide variant	NM_015295.3(SMCHD1):c.790G>A (p.Glu264Lys)	23347	SMCHD1	Likely pathogenic	GRCh38	689564
+single nucleotide variant	NM_015295.3(SMCHD1):c.4459C>T (p.Gln1487Ter)	23347	SMCHD1	Pathogenic	GRCh38	689561
+single nucleotide variant	NM_015295.3(SMCHD1):c.1654C>T (p.Arg552Ter)	23347	SMCHD1	Pathogenic	GRCh38	942587
+single nucleotide variant	NM_015295.3(SMCHD1):c.87C>A (p.Tyr29Ter)	23347	SMCHD1	Pathogenic	GRCh38	955145
+single nucleotide variant	NM_015295.3(SMCHD1):c.3469G>T (p.Gly1157Ter)	23347	SMCHD1	Pathogenic	GRCh38	1012231
+single nucleotide variant	NM_015295.3(SMCHD1):c.340C>T (p.Arg114Ter)	23347	SMCHD1	Pathogenic	GRCh38	1072742
+single nucleotide variant	NM_015295.3(SMCHD1):c.1786T>G (p.Trp596Gly)	23347	SMCHD1	Pathogenic	GRCh38	1180771
+single nucleotide variant	NM_015295.3(SMCHD1):c.2377C>T (p.Gln793Ter)	23347	SMCHD1	Pathogenic	GRCh38	1180607
+single nucleotide variant	NM_015295.3(SMCHD1):c.3323T>C (p.Leu1108Pro)	23347	SMCHD1	Likely pathogenic	GRCh38	1184617
+single nucleotide variant	NM_015295.3(SMCHD1):c.4346+1G>T	23347	SMCHD1	Pathogenic	GRCh38	1236185
+single nucleotide variant	NM_015295.3(SMCHD1):c.2008G>T (p.Asp670Tyr)	23347	SMCHD1	Likely pathogenic	GRCh38	1299640
+single nucleotide variant	NM_015295.3(SMCHD1):c.4007+1G>A	23347	SMCHD1	Pathogenic	GRCh38	1323621
+single nucleotide variant	NM_015295.3(SMCHD1):c.5383C>T (p.Arg1795Ter)	23347	SMCHD1	Pathogenic	GRCh38	1323625
+single nucleotide variant	NM_015295.3(SMCHD1):c.3049-2A>G	23347	SMCHD1	Pathogenic	GRCh38	1323627
+single nucleotide variant	NM_015295.3(SMCHD1):c.1651C>T (p.Gln551Ter)	23347	SMCHD1	Pathogenic	GRCh38	1323628
+single nucleotide variant	NM_015295.3(SMCHD1):c.2604-1G>T	23347	SMCHD1	Pathogenic	GRCh38	1323629
+single nucleotide variant	NM_015295.3(SMCHD1):c.3736C>T (p.Arg1246Ter)	23347	SMCHD1	Pathogenic	GRCh38	1451574
+single nucleotide variant	NM_015295.3(SMCHD1):c.1647+3A>G	23347	SMCHD1	Pathogenic	GRCh38	1410081
+single nucleotide variant	NM_015295.3(SMCHD1):c.2732T>G (p.Leu911Ter)	23347	SMCHD1	Pathogenic	GRCh38	1455581
+single nucleotide variant	NM_015295.3(SMCHD1):c.1396A>T (p.Arg466Ter)	23347	SMCHD1	Pathogenic	GRCh38	1457865
+single nucleotide variant	NM_015295.3(SMCHD1):c.4267C>T (p.Arg1423Ter)	23347	SMCHD1	Pathogenic/Likely pathogenic	GRCh38	1878838
+single nucleotide variant	NM_015295.3(SMCHD1):c.3019C>T (p.Gln1007Ter)	23347	SMCHD1	Pathogenic	GRCh38	1957074
+single nucleotide variant	NM_015295.3(SMCHD1):c.3786G>A (p.Trp1262Ter)	23347	SMCHD1	Pathogenic	GRCh38	2052607
+single nucleotide variant	NM_015295.3(SMCHD1):c.3426-5T>G	23347	SMCHD1	Likely pathogenic	GRCh38	2436200
+single nucleotide variant	NM_015295.3(SMCHD1):c.5720-2A>C	23347	SMCHD1	Likely pathogenic	GRCh38	2433584
+single nucleotide variant	NM_015295.3(SMCHD1):c.638+1G>A	23347	SMCHD1	Likely pathogenic	GRCh38	2433605
+single nucleotide variant	NM_015295.3(SMCHD1):c.3938C>G (p.Ser1313Ter)	23347	SMCHD1	Pathogenic/Likely pathogenic	GRCh38	2433614
+single nucleotide variant	NM_015295.3(SMCHD1):c.5052+2T>C	23347	SMCHD1	Likely pathogenic	GRCh38	2433633
+single nucleotide variant	NM_015295.3(SMCHD1):c.1918G>T (p.Glu640Ter)	23347	SMCHD1	Likely pathogenic	GRCh38	2632260
+single nucleotide variant	NM_015295.3(SMCHD1):c.262+1G>T	23347	SMCHD1	Likely pathogenic	GRCh38	2690716
+single nucleotide variant	NM_015295.3(SMCHD1):c.2656C>T (p.Arg886Ter)	23347	SMCHD1	Pathogenic/Likely pathogenic	GRCh38	2690967
+single nucleotide variant	NM_015295.3(SMCHD1):c.262+1G>A	23347	SMCHD1	Likely pathogenic	GRCh38	2809690
+single nucleotide variant	NM_015295.3(SMCHD1):c.1647+1G>T	23347	SMCHD1	Likely pathogenic	GRCh38	2819362
+single nucleotide variant	NM_015295.3(SMCHD1):c.1240A>T (p.Lys414Ter)	23347	SMCHD1	Pathogenic	GRCh38	3649260
+single nucleotide variant	NM_015295.3(SMCHD1):c.3277-2A>G	23347	SMCHD1	Likely pathogenic	GRCh38	3660206
+single nucleotide variant	NM_015295.3(SMCHD1):c.4282-2A>G	23347	SMCHD1	Likely pathogenic	GRCh38	3660397
+single nucleotide variant	NM_015295.3(SMCHD1):c.4966+1G>C	23347	SMCHD1	Likely pathogenic	GRCh38	3658152
+single nucleotide variant	NM_015295.3(SMCHD1):c.2260+5G>A	23347	SMCHD1	Pathogenic	GRCh38	3704484
+single nucleotide variant	NM_015295.3(SMCHD1):c.1788G>A (p.Trp596Ter)	23347	SMCHD1	Pathogenic	GRCh38	3713188
+single nucleotide variant	NM_015295.3(SMCHD1):c.263-1G>A	23347	SMCHD1	Likely pathogenic	GRCh38	4077560
+single nucleotide variant	NM_015295.3(SMCHD1):c.2147-1G>A	23347	SMCHD1	Pathogenic	GRCh38	4081054
+single nucleotide variant	NM_015295.3(SMCHD1):c.1417G>T (p.Glu473Ter)	23347	SMCHD1	Pathogenic	GRCh38	4170444
+single nucleotide variant	NM_015295.3(SMCHD1):c.1033C>T (p.Gln345Ter)	23347	SMCHD1	Pathogenic	GRCh38	4713980
+single nucleotide variant	NM_015295.3(SMCHD1):c.634G>T (p.Glu212Ter)	23347	SMCHD1	Pathogenic	GRCh38	4720268
+single nucleotide variant	NM_015295.3(SMCHD1):c.1787G>A (p.Trp596Ter)	23347	SMCHD1	Pathogenic	GRCh38	4729266
+single nucleotide variant	NM_015295.3(SMCHD1):c.1464-2A>G	23347	SMCHD1	Likely pathogenic	GRCh38	4812181
+single nucleotide variant	NM_015295.3(SMCHD1):c.3886C>T (p.Gln1296Ter)	23347	SMCHD1	Pathogenic	GRCh38	4813984
+single nucleotide variant	NM_015295.3(SMCHD1):c.1902T>A (p.Tyr634Ter)	23347	SMCHD1	Likely pathogenic	GRCh38	4813987
+single nucleotide variant	NM_015295.3(SMCHD1):c.5548-4A>G	23347	SMCHD1	Likely pathogenic	GRCh38	4849507
+single nucleotide variant	NM_015295.3(SMCHD1):c.2604-2A>G	23347	SMCHD1	Likely pathogenic	GRCh38	4879848
+single nucleotide variant	NM_015295.3(SMCHD1):c.5663G>A (p.Gly1888Glu)	23347	SMCHD1	Likely pathogenic	GRCh38	4886990
+single nucleotide variant	NM_015295.3(SMCHD1):c.5050C>T (p.Gln1684Ter)	23347	SMCHD1	Likely pathogenic	GRCh38	4887976

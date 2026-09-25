@@ -95,6 +95,7 @@ single nucleotide variant	NM_206933.4(USH2A):c.10342G>A (p.Glu3448Lys)	7399	USH2
 single nucleotide variant	NM_206933.4(USH2A):c.9827C>G (p.Ser3276Ter)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	217027
 single nucleotide variant	NM_206933.4(USH2A):c.4474G>T (p.Glu1492Ter)	7399	USH2A	Pathogenic	GRCh38	224745
 single nucleotide variant	NM_206933.4(USH2A):c.4321G>T (p.Glu1441Ter)	7399	USH2A	Likely pathogenic	GRCh38	224757
+single nucleotide variant	NM_206933.4(USH2A):c.10999A>C (p.Thr3667Pro)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	225512
 single nucleotide variant	NM_206933.4(USH2A):c.13711G>T (p.Glu4571Ter)	7399	USH2A	Pathogenic	GRCh38	228412
 single nucleotide variant	NM_206933.4(USH2A):c.9570+1G>A	7399	USH2A	Pathogenic	GRCh38	228418
 single nucleotide variant	NM_206933.4(USH2A):c.8740C>T (p.Arg2914Ter)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	228417
@@ -183,6 +184,7 @@ single nucleotide variant	NM_206933.4(USH2A):c.13019G>T (p.Gly4340Val)	7399	USH2
 single nucleotide variant	NM_206933.4(USH2A):c.10388-1G>C	7399	USH2A	Pathogenic	GRCh38	522485
 single nucleotide variant	NM_206933.4(USH2A):c.12093C>A (p.Tyr4031Ter)	7399	USH2A	Pathogenic	GRCh38	546112
 single nucleotide variant	NM_206933.4(USH2A):c.9919T>A (p.Cys3307Ser)	7399	USH2A	Likely pathogenic	GRCh38	548444
+single nucleotide variant	NM_206933.4(USH2A):c.14995A>G (p.Thr4999Ala)	7399	USH2A	Likely pathogenic	GRCh38	554446
 single nucleotide variant	NM_206933.4(USH2A):c.14344-1G>A	7399	USH2A	Likely pathogenic	GRCh38	557525
 single nucleotide variant	NM_206933.4(USH2A):c.13621C>T (p.Gln4541Ter)	7399	USH2A	Pathogenic	GRCh38	555195
 single nucleotide variant	NM_206933.4(USH2A):c.15412C>T (p.Gln5138Ter)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	557069
@@ -317,7 +319,6 @@ single nucleotide variant	NM_206933.4(USH2A):c.9827C>A (p.Ser3276Ter)	7399	USH2A
 single nucleotide variant	NM_206933.4(USH2A):c.7932G>A (p.Trp2644Ter)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	801613
 single nucleotide variant	NM_206933.4(USH2A):c.2809+1G>A	7399	USH2A	Pathogenic	GRCh38	801616
 single nucleotide variant	NM_206933.4(USH2A):c.1547G>T (p.Gly516Val)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	801619
-single nucleotide variant	NM_206933.4(USH2A):c.851A>G (p.Glu284Gly)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	801622
 single nucleotide variant	NM_206933.4(USH2A):c.11699A>G (p.Tyr3900Cys)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	812117
 single nucleotide variant	NM_206933.4(USH2A):c.12067-1G>A	7399	USH2A	Pathogenic	GRCh38	812105
 single nucleotide variant	NM_206933.4(USH2A):c.6657+1G>A	7399	USH2A	Pathogenic	GRCh38	812103
@@ -594,12 +595,10 @@ single nucleotide variant	NM_206933.4(USH2A):c.10446T>A (p.Tyr3482Ter)	7399	USH2
 single nucleotide variant	NM_206933.4(USH2A):c.5012G>T (p.Gly1671Val)	7399	USH2A	Pathogenic	GRCh38	1439079
 single nucleotide variant	NM_206933.4(USH2A):c.11232-1G>A	7399	USH2A	Likely pathogenic	GRCh38	1520495
 single nucleotide variant	NM_206933.4(USH2A):c.7121-1G>T	7399	USH2A	Likely pathogenic	GRCh38	1467323
-single nucleotide variant	NM_206933.4(USH2A):c.9920G>A (p.Cys3307Tyr)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	1358888
 single nucleotide variant	NM_206933.4(USH2A):c.907C>A (p.Arg303Ser)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	1441479
 single nucleotide variant	NM_206933.4(USH2A):c.12006C>A (p.Tyr4002Ter)	7399	USH2A	Pathogenic	GRCh38	1440718
 single nucleotide variant	NM_206933.4(USH2A):c.7120+1G>A	7399	USH2A	Likely pathogenic	GRCh38	1481491
 single nucleotide variant	NM_206933.4(USH2A):c.172T>C (p.Cys58Arg)	7399	USH2A	Pathogenic	GRCh38	1414388
-single nucleotide variant	NM_206933.4(USH2A):c.1985G>C (p.Cys662Ser)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	1414732
 single nucleotide variant	NM_206933.4(USH2A):c.269A>G (p.Tyr90Cys)	7399	USH2A	Pathogenic/Likely pathogenic	GRCh38	1443145
 single nucleotide variant	NM_206933.4(USH2A):c.4081+1G>A	7399	USH2A	Likely pathogenic	GRCh38	1469948
 single nucleotide variant	NM_206933.4(USH2A):c.12294+2T>C	7399	USH2A	Pathogenic	GRCh38	1389808
@@ -1070,7 +1069,6 @@ single nucleotide variant	NM_206933.4(USH2A):c.3551T>A (p.Leu1184Ter)	7399	USH2A
 single nucleotide variant	NM_206933.4(USH2A):c.5404A>T (p.Lys1802Ter)	7399	USH2A	Pathogenic	GRCh38	3249804
 single nucleotide variant	NM_206933.4(USH2A):c.12428C>A (p.Ser4143Ter)	7399	USH2A	Pathogenic	GRCh38	3249963
 single nucleotide variant	NM_206933.4(USH2A):c.4381C>T (p.Gln1461Ter)	7399	USH2A	Pathogenic	GRCh38	3249999
-single nucleotide variant	NM_206933.4(USH2A):c.11007C>A (p.Ser3669Arg)	7399	USH2A	Likely pathogenic	GRCh38	3250220
 single nucleotide variant	NM_206933.4(USH2A):c.10480A>G (p.Thr3494Ala)	7399	USH2A	Likely pathogenic	GRCh38	3250272
 single nucleotide variant	NM_206933.4(USH2A):c.1513A>T (p.Arg505Ter)	7399	USH2A	Pathogenic	GRCh38	3250343
 single nucleotide variant	NM_206933.4(USH2A):c.13564C>T (p.Leu4522Phe)	7399	USH2A	Likely pathogenic	GRCh38	3250408

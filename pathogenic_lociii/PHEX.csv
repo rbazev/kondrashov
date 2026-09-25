@@ -1,0 +1,464 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000444.6(PHEX):c.119-1G>A	5251	PHEX	Pathogenic	GRCh38	10814
+single nucleotide variant	NM_000444.6(PHEX):c.119-1G>C	5251	PHEX	Pathogenic	GRCh38	10815
+single nucleotide variant	NM_000444.6(PHEX):c.830T>A (p.Leu277Ter)	5251	PHEX	Pathogenic	GRCh38	10816
+single nucleotide variant	NM_000444.6(PHEX):c.254G>A (p.Cys85Tyr)	5251	PHEX	Pathogenic	GRCh38	10817
+single nucleotide variant	NM_000444.6(PHEX):c.755T>C (p.Phe252Ser)	5251	PHEX	Pathogenic	GRCh38	242795
+single nucleotide variant	NM_000444.6(PHEX):c.1664T>C (p.Leu555Pro)	5251	PHEX	Pathogenic	GRCh38	10819
+single nucleotide variant	NM_000444.6(PHEX):c.1699C>T (p.Arg567Ter)	5251	PHEX	Pathogenic	GRCh38	10822
+single nucleotide variant	NM_000444.6(PHEX):c.759G>A (p.Met253Ile)	5251	PHEX	Likely pathogenic	GRCh38	242724
+single nucleotide variant	NM_000444.6(PHEX):c.1404+2T>G	5251	PHEX	Likely pathogenic	GRCh38	36673
+single nucleotide variant	NM_000444.6(PHEX):c.1589G>A (p.Trp530Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	36674
+single nucleotide variant	NM_000444.6(PHEX):c.1949T>C (p.Leu650Pro)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	36675
+single nucleotide variant	NM_000444.6(PHEX):c.1999G>T (p.Gly667Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	36676
+single nucleotide variant	NM_000444.6(PHEX):c.318G>A (p.Trp106Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	36677
+single nucleotide variant	NM_000444.6(PHEX):c.349+1G>C	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	36678
+single nucleotide variant	NM_000444.6(PHEX):c.1735G>A (p.Gly579Arg)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	226119
+single nucleotide variant	NM_000444.6(PHEX):c.134T>A (p.Leu45Ter)	5251	PHEX	Pathogenic	GRCh38	265604
+single nucleotide variant	NM_000444.6(PHEX):c.1079+1G>A	5251	PHEX	Pathogenic	GRCh38	265502
+single nucleotide variant	NM_000444.6(PHEX):c.1204C>T (p.Gln402Ter)	5251	PHEX	Pathogenic	GRCh38	265702
+single nucleotide variant	NM_000444.6(PHEX):c.1209G>A (p.Trp403Ter)	5251	PHEX	Pathogenic	GRCh38	265503
+single nucleotide variant	NM_000444.6(PHEX):c.1363G>T (p.Glu455Ter)	5251	PHEX	Pathogenic	GRCh38	265504
+single nucleotide variant	NM_000444.6(PHEX):c.1543C>T (p.Gln515Ter)	5251	PHEX	Pathogenic	GRCh38	280074
+single nucleotide variant	NM_000444.6(PHEX):c.1701-2A>G	5251	PHEX	Pathogenic	GRCh38	280489
+single nucleotide variant	NM_000444.6(PHEX):c.1713T>G (p.Tyr571Ter)	5251	PHEX	Pathogenic	GRCh38	280585
+single nucleotide variant	NM_000444.6(PHEX):c.2239C>T (p.Arg747Ter)	5251	PHEX	Pathogenic	GRCh38	279873
+single nucleotide variant	NM_000444.6(PHEX):c.733-2A>T	5251	PHEX	Pathogenic	GRCh38	280260
+single nucleotide variant	NM_000444.6(PHEX):c.733-1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	279869
+single nucleotide variant	NM_000444.6(PHEX):c.1080-1G>A	5251	PHEX	Pathogenic	GRCh38	280503
+single nucleotide variant	NM_000444.6(PHEX):c.1158G>A (p.Trp386Ter)	5251	PHEX	Pathogenic	GRCh38	280070
+single nucleotide variant	NM_000444.6(PHEX):c.1601C>T (p.Pro534Leu)	5251	PHEX	Pathogenic	GRCh38	280076
+single nucleotide variant	NM_000444.6(PHEX):c.1645+1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	279871
+single nucleotide variant	NM_000444.6(PHEX):c.2147+1G>A	5251	PHEX	Pathogenic	GRCh38	280592
+single nucleotide variant	NM_000444.6(PHEX):c.154G>T (p.Glu52Ter)	5251	PHEX	Pathogenic	GRCh38	280415
+single nucleotide variant	NM_000444.6(PHEX):c.448A>T (p.Lys150Ter)	5251	PHEX	Pathogenic	GRCh38	280906
+single nucleotide variant	NM_000444.6(PHEX):c.617T>A (p.Leu206Ter)	5251	PHEX	Pathogenic	GRCh38	280502
+single nucleotide variant	NM_000444.6(PHEX):c.941G>A (p.Trp314Ter)	5251	PHEX	Pathogenic	GRCh38	280696
+single nucleotide variant	NM_000444.6(PHEX):c.1080-2A>G	5251	PHEX	Pathogenic	GRCh38	280071
+single nucleotide variant	NM_000444.6(PHEX):c.1434T>A (p.Tyr478Ter)	5251	PHEX	Pathogenic	GRCh38	280073
+single nucleotide variant	NM_000444.6(PHEX):c.1587-1G>A	5251	PHEX	Pathogenic	GRCh38	280672
+single nucleotide variant	NM_000444.6(PHEX):c.1768+1G>C	5251	PHEX	Pathogenic	GRCh38	279976
+single nucleotide variant	NM_000444.6(PHEX):c.2064T>A (p.Tyr688Ter)	5251	PHEX	Pathogenic	GRCh38	280086
+single nucleotide variant	NM_000444.6(PHEX):c.2071-1G>A	5251	PHEX	Pathogenic	GRCh38	280087
+single nucleotide variant	NM_000444.6(PHEX):c.664-1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	280300
+single nucleotide variant	NM_000444.6(PHEX):c.1367G>A (p.Trp456Ter)	5251	PHEX	Pathogenic	GRCh38	280072
+single nucleotide variant	NM_000444.6(PHEX):c.1645C>T (p.Arg549Ter)	5251	PHEX	Pathogenic	GRCh38	279870
+single nucleotide variant	NM_000444.6(PHEX):c.1806G>A (p.Trp602Ter)	5251	PHEX	Pathogenic	GRCh38	280078
+single nucleotide variant	NM_000444.6(PHEX):c.1979G>A (p.Trp660Ter)	5251	PHEX	Pathogenic	GRCh38	280082
+single nucleotide variant	NM_000444.6(PHEX):c.2104C>T (p.Arg702Ter)	5251	PHEX	Pathogenic	GRCh38	279872
+single nucleotide variant	NM_000444.6(PHEX):c.1483-1G>A	5251	PHEX	Pathogenic	GRCh38	372458
+single nucleotide variant	NM_000444.6(PHEX):c.1586+2T>A	5251	PHEX	Pathogenic	GRCh38	373371
+single nucleotide variant	NM_000444.6(PHEX):c.1736G>T (p.Gly579Val)	5251	PHEX	Likely pathogenic	GRCh38	372777
+single nucleotide variant	NM_000444.6(PHEX):c.426C>A (p.Cys142Ter)	5251	PHEX	Pathogenic	GRCh38	372450
+single nucleotide variant	NM_000444.6(PHEX):c.500G>A (p.Trp167Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	372452
+single nucleotide variant	NM_000444.6(PHEX):c.1180C>T (p.Gln394Ter)	5251	PHEX	Pathogenic	GRCh38	372457
+single nucleotide variant	NM_000444.6(PHEX):c.2198G>A (p.Cys733Tyr)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	372778
+single nucleotide variant	NM_000444.6(PHEX):c.2237G>T (p.Cys746Phe)	5251	PHEX	Likely pathogenic	GRCh38	372465
+single nucleotide variant	NM_000444.6(PHEX):c.663+2T>A	5251	PHEX	Pathogenic	GRCh38	373319
+single nucleotide variant	NM_000444.6(PHEX):c.2070+1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	373764
+single nucleotide variant	NM_000444.6(PHEX):c.2159C>A (p.Ala720Glu)	5251	PHEX	Likely pathogenic	GRCh38	372464
+single nucleotide variant	NM_000444.6(PHEX):c.871C>T (p.Arg291Ter)	5251	PHEX	Pathogenic	GRCh38	372454
+single nucleotide variant	NM_000444.6(PHEX):c.1173+2T>C	5251	PHEX	Pathogenic	GRCh38	372631
+single nucleotide variant	NM_000444.6(PHEX):c.1586+6T>G	5251	PHEX	Likely pathogenic	GRCh38	373099
+single nucleotide variant	NM_000444.6(PHEX):c.1700G>C (p.Arg567Pro)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	372459
+single nucleotide variant	NM_000444.6(PHEX):c.1715G>T (p.Gly572Val)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	372461
+single nucleotide variant	NM_000444.6(PHEX):c.436+1G>C	5251	PHEX	Likely pathogenic	GRCh38	372451
+single nucleotide variant	NM_000444.6(PHEX):c.503C>T (p.Pro168Leu)	5251	PHEX	Pathogenic	GRCh38	372453
+single nucleotide variant	NM_000444.6(PHEX):c.1715G>A (p.Gly572Asp)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	372460
+single nucleotide variant	NM_000444.6(PHEX):c.58C>T (p.Arg20Ter)	5251	PHEX	Pathogenic	GRCh38	379502
+single nucleotide variant	NM_000444.6(PHEX):c.617T>G (p.Leu206Trp)	5251	PHEX	Pathogenic	GRCh38	379283
+single nucleotide variant	NM_000444.6(PHEX):c.1736G>A (p.Gly579Glu)	5251	PHEX	Likely pathogenic	GRCh38	378359
+single nucleotide variant	NM_000444.6(PHEX):c.565C>T (p.Gln189Ter)	5251	PHEX	Pathogenic	GRCh38	381680
+single nucleotide variant	NM_000444.6(PHEX):c.849+1G>A	5251	PHEX	Pathogenic	GRCh38	381681
+single nucleotide variant	NM_000444.6(PHEX):c.1739A>G (p.His580Arg)	5251	PHEX	Likely pathogenic	GRCh38	383966
+single nucleotide variant	NM_000444.6(PHEX):c.1700+1G>T	5251	PHEX	Pathogenic	GRCh38	379350
+single nucleotide variant	NM_000444.6(PHEX):c.1717G>C (p.Ala573Pro)	5251	PHEX	Pathogenic	GRCh38	379848
+single nucleotide variant	NM_000444.6(PHEX):c.1768+5G>T	5251	PHEX	Likely pathogenic	GRCh38	392729
+single nucleotide variant	NM_000444.6(PHEX):c.1900-1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	392939
+single nucleotide variant	NM_000444.6(PHEX):c.151C>T (p.Gln51Ter)	5251	PHEX	Pathogenic	GRCh38	420126
+single nucleotide variant	NM_000444.6(PHEX):c.419C>G (p.Ser140Ter)	5251	PHEX	Pathogenic	GRCh38	419416
+single nucleotide variant	NM_000444.6(PHEX):c.670C>T (p.Gln224Ter)	5251	PHEX	Pathogenic	GRCh38	420127
+single nucleotide variant	NM_000444.6(PHEX):c.1147C>T (p.Gln383Ter)	5251	PHEX	Pathogenic	GRCh38	424372
+single nucleotide variant	NM_000444.6(PHEX):c.1173+1G>C	5251	PHEX	Pathogenic	GRCh38	418406
+single nucleotide variant	NM_000444.6(PHEX):c.1174-2A>G	5251	PHEX	Pathogenic	GRCh38	424353
+single nucleotide variant	NM_000444.6(PHEX):c.1482+1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	418407
+single nucleotide variant	NM_000444.6(PHEX):c.1586+1G>T	5251	PHEX	Pathogenic	GRCh38	424354
+single nucleotide variant	NM_000444.6(PHEX):c.1658G>A (p.Gly553Glu)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	420130
+single nucleotide variant	NM_000444.6(PHEX):c.1660G>T (p.Glu554Ter)	5251	PHEX	Pathogenic	GRCh38	424497
+single nucleotide variant	NM_000444.6(PHEX):c.1714G>A (p.Gly572Ser)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	421390
+single nucleotide variant	NM_000444.6(PHEX):c.1966-1G>C	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	421453
+single nucleotide variant	NM_000444.6(PHEX):c.2061T>G (p.Ser687Arg)	5251	PHEX	Likely pathogenic	GRCh38	421011
+single nucleotide variant	NM_000444.6(PHEX):c.2077T>C (p.Cys693Arg)	5251	PHEX	Likely pathogenic	GRCh38	421237
+single nucleotide variant	NM_000444.6(PHEX):c.2079C>G (p.Cys693Trp)	5251	PHEX	Likely pathogenic	GRCh38	424185
+single nucleotide variant	NM_000444.6(PHEX):c.2197T>C (p.Cys733Arg)	5251	PHEX	Pathogenic	GRCh38	419852
+single nucleotide variant	NM_000444.6(PHEX):c.312T>G (p.Tyr104Ter)	5251	PHEX	Pathogenic	GRCh38	426473
+single nucleotide variant	NM_000444.6(PHEX):c.611T>A (p.Ile204Asn)	5251	PHEX	Likely pathogenic	GRCh38	427089
+single nucleotide variant	NM_000444.6(PHEX):c.1645+5G>C	5251	PHEX	Likely pathogenic	GRCh38	426246
+single nucleotide variant	NM_000444.6(PHEX):c.1809G>A (p.Trp603Ter)	5251	PHEX	Pathogenic	GRCh38	426797
+single nucleotide variant	NM_000444.6(PHEX):c.1880G>A (p.Trp627Ter)	5251	PHEX	Pathogenic	GRCh38	426353
+single nucleotide variant	NM_000444.6(PHEX):c.118+1G>T	5251	PHEX	Pathogenic	GRCh38	430012
+single nucleotide variant	NM_000444.6(PHEX):c.664-2A>C	5251	PHEX	Likely pathogenic	GRCh38	430563
+single nucleotide variant	NM_000444.6(PHEX):c.1302+1G>T	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	430227
+single nucleotide variant	NM_000444.6(PHEX):c.1723G>A (p.Gly575Arg)	5251	PHEX	Likely pathogenic	GRCh38	430566
+single nucleotide variant	NM_000444.6(PHEX):c.397C>T (p.Gln133Ter)	5251	PHEX	Pathogenic	GRCh38	431828
+single nucleotide variant	NM_000444.6(PHEX):c.119-3C>G	5251	PHEX	Pathogenic	GRCh38	438515
+single nucleotide variant	NM_000444.6(PHEX):c.142C>T (p.Gln48Ter)	5251	PHEX	Pathogenic	GRCh38	438523
+single nucleotide variant	NM_000444.6(PHEX):c.181G>T (p.Glu61Ter)	5251	PHEX	Pathogenic	GRCh38	438495
+single nucleotide variant	NM_000444.6(PHEX):c.187+1G>T	5251	PHEX	Pathogenic	GRCh38	438537
+single nucleotide variant	NM_000444.6(PHEX):c.230G>T (p.Cys77Phe)	5251	PHEX	Pathogenic	GRCh38	438501
+single nucleotide variant	NM_000444.6(PHEX):c.253T>C (p.Cys85Arg)	5251	PHEX	Pathogenic	GRCh38	438549
+single nucleotide variant	NM_000444.6(PHEX):c.415T>A (p.Tyr139Asn)	5251	PHEX	Pathogenic	GRCh38	438518
+single nucleotide variant	NM_000444.6(PHEX):c.436+6T>C	5251	PHEX	Pathogenic	GRCh38	438507
+single nucleotide variant	NM_000444.6(PHEX):c.467T>C (p.Leu156Pro)	5251	PHEX	Pathogenic	GRCh38	438570
+single nucleotide variant	NM_000444.6(PHEX):c.591A>G (p.Gln197=)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438544
+single nucleotide variant	NM_000444.6(PHEX):c.621T>G (p.Tyr207Ter)	5251	PHEX	Pathogenic	GRCh38	438536
+single nucleotide variant	NM_000444.6(PHEX):c.679C>A (p.Leu227Ile)	5251	PHEX	Pathogenic	GRCh38	438556
+single nucleotide variant	NM_000444.6(PHEX):c.707T>C (p.Leu236Pro)	5251	PHEX	Pathogenic	GRCh38	438555
+single nucleotide variant	NM_000444.6(PHEX):c.732+5G>C	5251	PHEX	Pathogenic	GRCh38	438569
+single nucleotide variant	NM_000444.6(PHEX):c.832G>T (p.Glu278Ter)	5251	PHEX	Pathogenic	GRCh38	438488
+single nucleotide variant	NM_000444.6(PHEX):c.933+1G>T	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438489
+single nucleotide variant	NM_000444.6(PHEX):c.1022T>A (p.Val341Asp)	5251	PHEX	Pathogenic	GRCh38	438577
+single nucleotide variant	NM_000444.6(PHEX):c.1103G>A (p.Trp368Ter)	5251	PHEX	Pathogenic	GRCh38	438559
+single nucleotide variant	NM_000444.6(PHEX):c.1216T>C (p.Cys406Arg)	5251	PHEX	Pathogenic	GRCh38	438566
+single nucleotide variant	NM_000444.6(PHEX):c.1297G>T (p.Glu433Ter)	5251	PHEX	Pathogenic	GRCh38	438554
+single nucleotide variant	NM_000444.6(PHEX):c.1303-1G>C	5251	PHEX	Pathogenic	GRCh38	438505
+single nucleotide variant	NM_000444.6(PHEX):c.1404G>C (p.Lys468Asn)	5251	PHEX	Pathogenic	GRCh38	438531
+single nucleotide variant	NM_000444.6(PHEX):c.1406C>A (p.Ala469Glu)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438558
+single nucleotide variant	NM_000444.6(PHEX):c.1482+5G>C	5251	PHEX	Pathogenic	GRCh38	438500
+single nucleotide variant	NM_000444.6(PHEX):c.1483-2A>G	5251	PHEX	Pathogenic	GRCh38	438540
+single nucleotide variant	NM_000444.6(PHEX):c.1523A>C (p.Gln508Pro)	5251	PHEX	Pathogenic	GRCh38	438538
+single nucleotide variant	NM_000444.6(PHEX):c.1586+1G>A	5251	PHEX	Pathogenic	GRCh38	438534
+single nucleotide variant	NM_000444.6(PHEX):c.1590G>C (p.Trp530Cys)	5251	PHEX	Pathogenic	GRCh38	438486
+single nucleotide variant	NM_000444.6(PHEX):c.1700+2T>C	5251	PHEX	Pathogenic	GRCh38	438568
+single nucleotide variant	NM_000444.6(PHEX):c.1718C>A (p.Ala573Asp)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438578
+single nucleotide variant	NM_000444.6(PHEX):c.1735G>C (p.Gly579Arg)	5251	PHEX	Pathogenic	GRCh38	438542
+single nucleotide variant	NM_000444.6(PHEX):c.1753G>A (p.Gly585Arg)	5251	PHEX	Pathogenic	GRCh38	438574
+single nucleotide variant	NM_000444.6(PHEX):c.1754G>A (p.Gly585Glu)	5251	PHEX	Pathogenic	GRCh38	438519
+single nucleotide variant	NM_000444.6(PHEX):c.1763A>G (p.Asn588Ser)	5251	PHEX	Pathogenic	GRCh38	438520
+single nucleotide variant	NM_000444.6(PHEX):c.1768+1G>A	5251	PHEX	Pathogenic	GRCh38	438498
+single nucleotide variant	NM_000444.6(PHEX):c.1936G>C (p.Asp646His)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438510
+single nucleotide variant	NM_000444.6(PHEX):c.1952G>C (p.Arg651Pro)	5251	PHEX	Pathogenic	GRCh38	438548
+single nucleotide variant	NM_000444.6(PHEX):c.1965+1G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	438485
+single nucleotide variant	NM_000444.6(PHEX):c.1971C>G (p.Tyr657Ter)	5251	PHEX	Pathogenic	GRCh38	438575
+single nucleotide variant	NM_000444.6(PHEX):c.2044C>T (p.Gln682Ter)	5251	PHEX	Pathogenic	GRCh38	438535
+single nucleotide variant	NM_000444.6(PHEX):c.2078G>A (p.Cys693Tyr)	5251	PHEX	Pathogenic	GRCh38	438513
+single nucleotide variant	NM_000444.6(PHEX):c.2147+3A>T	5251	PHEX	Pathogenic	GRCh38	438502
+single nucleotide variant	NM_000444.6(PHEX):c.2148-2A>G	5251	PHEX	Pathogenic	GRCh38	438532
+single nucleotide variant	NM_000444.6(PHEX):c.2198G>C (p.Cys733Ser)	5251	PHEX	Pathogenic	GRCh38	438487
+single nucleotide variant	NM_000444.6(PHEX):c.2245T>C (p.Trp749Arg)	5251	PHEX	Pathogenic	GRCh38	438492
+single nucleotide variant	NM_000444.6(PHEX):c.187+1G>A	5251	PHEX	Pathogenic	GRCh38	447936
+single nucleotide variant	NM_000444.6(PHEX):c.1899+1G>A	5251	PHEX	Pathogenic	GRCh38	447937
+single nucleotide variant	NM_000444.6(PHEX):c.436+1G>A	5251	PHEX	Pathogenic	GRCh38	449698
+single nucleotide variant	NM_000444.6(PHEX):c.663+1G>A	5251	PHEX	Pathogenic	GRCh38	449505
+single nucleotide variant	NM_000444.6(PHEX):c.1037A>G (p.Tyr346Cys)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	449761
+single nucleotide variant	NM_000444.6(PHEX):c.1218T>A (p.Cys406Ter)	5251	PHEX	Pathogenic	GRCh38	488751
+single nucleotide variant	NM_000444.6(PHEX):c.501G>A (p.Trp167Ter)	5251	PHEX	Pathogenic	GRCh38	522470
+single nucleotide variant	NM_000444.6(PHEX):c.263G>A (p.Trp88Ter)	5251	PHEX	Pathogenic	GRCh38	586224
+single nucleotide variant	NM_000444.6(PHEX):c.1033C>T (p.Gln345Ter)	5251	PHEX	Pathogenic	GRCh38	586222
+single nucleotide variant	NM_000444.6(PHEX):c.1805G>A (p.Trp602Ter)	5251	PHEX	Pathogenic	GRCh38	620381
+single nucleotide variant	NM_000444.6(PHEX):c.1875T>G (p.Tyr625Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	623205
+single nucleotide variant	NM_000444.6(PHEX):c.2140C>T (p.Gln714Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	623206
+single nucleotide variant	NM_000444.6(PHEX):c.733-1G>C	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	689777
+single nucleotide variant	NM_000444.6(PHEX):c.254G>C (p.Cys85Ser)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803739
+single nucleotide variant	NM_000444.6(PHEX):c.349+1G>A	5251	PHEX	Pathogenic	GRCh38	803740
+single nucleotide variant	NM_000444.6(PHEX):c.422C>T (p.Ser141Phe)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803741
+single nucleotide variant	NM_000444.6(PHEX):c.540G>A (p.Trp180Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803743
+single nucleotide variant	NM_000444.6(PHEX):c.865G>T (p.Glu289Ter)	5251	PHEX	Pathogenic	GRCh38	803748
+single nucleotide variant	NM_000444.6(PHEX):c.934-1G>T	5251	PHEX	Pathogenic	GRCh38	803749
+single nucleotide variant	NM_000444.6(PHEX):c.1102T>C (p.Trp368Arg)	5251	PHEX	Likely pathogenic	GRCh38	803751
+single nucleotide variant	NM_000444.6(PHEX):c.1157G>A (p.Trp386Ter)	5251	PHEX	Pathogenic	GRCh38	803752
+single nucleotide variant	NM_000444.6(PHEX):c.1208G>A (p.Trp403Ter)	5251	PHEX	Pathogenic	GRCh38	803753
+single nucleotide variant	NM_000444.6(PHEX):c.1217G>A (p.Cys406Tyr)	5251	PHEX	Pathogenic	GRCh38	803755
+single nucleotide variant	NM_000444.6(PHEX):c.1402A>T (p.Lys468Ter)	5251	PHEX	Pathogenic	GRCh38	803757
+single nucleotide variant	NM_000444.6(PHEX):c.1586+5G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803760
+single nucleotide variant	NM_000444.6(PHEX):c.1646G>C (p.Arg549Pro)	5251	PHEX	Pathogenic	GRCh38	803761
+single nucleotide variant	NM_000444.6(PHEX):c.1714G>T (p.Gly572Cys)	5251	PHEX	Likely pathogenic	GRCh38	803762
+single nucleotide variant	NM_000444.6(PHEX):c.1718C>T (p.Ala573Val)	5251	PHEX	Likely pathogenic	GRCh38	803763
+single nucleotide variant	NM_000444.6(PHEX):c.1741G>T (p.Glu581Ter)	5251	PHEX	Pathogenic	GRCh38	803764
+single nucleotide variant	NM_000444.6(PHEX):c.1750C>T (p.His584Tyr)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803765
+single nucleotide variant	NM_000444.6(PHEX):c.1769-1G>T	5251	PHEX	Pathogenic	GRCh38	803766
+single nucleotide variant	NM_000444.6(PHEX):c.1825G>T (p.Glu609Ter)	5251	PHEX	Pathogenic	GRCh38	803768
+single nucleotide variant	NM_000444.6(PHEX):c.1899+2T>G	5251	PHEX	Pathogenic	GRCh38	803770
+single nucleotide variant	NM_000444.6(PHEX):c.2078G>C (p.Cys693Ser)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803773
+single nucleotide variant	NM_000444.6(PHEX):c.2133T>G (p.Ser711Arg)	5251	PHEX	Pathogenic	GRCh38	803775
+single nucleotide variant	NM_000444.6(PHEX):c.2147+2T>G	5251	PHEX	Pathogenic	GRCh38	803776
+single nucleotide variant	NM_000444.6(PHEX):c.2198G>T (p.Cys733Phe)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	803777
+single nucleotide variant	NM_000444.6(PHEX):c.2236T>C (p.Cys746Arg)	5251	PHEX	Likely pathogenic	GRCh38	803778
+single nucleotide variant	NM_000444.6(PHEX):c.2249A>G (p.Ter750Trp)	5251	PHEX	Likely pathogenic	GRCh38	803779
+single nucleotide variant	NM_000444.6(PHEX):c.176G>C (p.Cys59Ser)	5251	PHEX	Likely pathogenic	GRCh38	829925
+single nucleotide variant	NM_000444.6(PHEX):c.1529G>C (p.Arg510Pro)	5251	PHEX	Pathogenic	GRCh38	830034
+single nucleotide variant	NM_000444.6(PHEX):c.304G>A (p.Gly102Arg)	5251	PHEX	Pathogenic	GRCh38	838440
+single nucleotide variant	NM_000444.6(PHEX):c.425G>T (p.Cys142Phe)	5251	PHEX	Pathogenic	GRCh38	860028
+single nucleotide variant	NM_000444.6(PHEX):c.942G>A (p.Trp314Ter)	5251	PHEX	Pathogenic	GRCh38	837876
+single nucleotide variant	NM_000444.6(PHEX):c.1105A>T (p.Arg369Ter)	5251	PHEX	Pathogenic	GRCh38	840089
+single nucleotide variant	NM_000444.6(PHEX):c.1116T>A (p.Tyr372Ter)	5251	PHEX	Pathogenic	GRCh38	843703
+single nucleotide variant	NM_000444.6(PHEX):c.1237G>C (p.Ala413Pro)	5251	PHEX	Pathogenic	GRCh38	848133
+single nucleotide variant	NM_000444.6(PHEX):c.1382C>G (p.Thr461Arg)	5251	PHEX	Pathogenic	GRCh38	860072
+single nucleotide variant	NM_000444.6(PHEX):c.1738C>G (p.His580Asp)	5251	PHEX	Likely pathogenic	GRCh38	861372
+single nucleotide variant	NM_000444.6(PHEX):c.1789G>T (p.Gly597Ter)	5251	PHEX	Pathogenic	GRCh38	843265
+single nucleotide variant	NM_000444.6(PHEX):c.1881G>A (p.Trp627Ter)	5251	PHEX	Pathogenic	GRCh38	853957
+single nucleotide variant	NM_000444.6(PHEX):c.1942G>A (p.Gly648Arg)	5251	PHEX	Pathogenic	GRCh38	838024
+single nucleotide variant	NM_000444.6(PHEX):c.2245T>A (p.Trp749Arg)	5251	PHEX	Pathogenic	GRCh38	861072
+single nucleotide variant	NM_000444.6(PHEX):c.663+2T>C	5251	PHEX	Pathogenic	GRCh38	850189
+single nucleotide variant	NM_000444.6(PHEX):c.1700+1G>A	5251	PHEX	Pathogenic	GRCh38	843348
+single nucleotide variant	NM_000444.6(PHEX):c.437-2A>C	5251	PHEX	Pathogenic	GRCh38	854358
+single nucleotide variant	NM_000444.6(PHEX):c.2148-3C>G	5251	PHEX	Likely pathogenic	GRCh38	851834
+single nucleotide variant	NM_000444.6(PHEX):c.1303-1G>A	5251	PHEX	Pathogenic	GRCh38	838684
+single nucleotide variant	NM_000444.6(PHEX):c.1586+1G>C	5251	PHEX	Pathogenic	GRCh38	853643
+single nucleotide variant	NM_000444.6(PHEX):c.1700+1G>C	5251	PHEX	Pathogenic	GRCh38	844146
+single nucleotide variant	NM_000444.6(PHEX):c.1482+1G>T	5251	PHEX	Pathogenic	GRCh38	872224
+single nucleotide variant	NM_000444.6(PHEX):c.1768+1G>T	5251	PHEX	Pathogenic	GRCh38	872225
+single nucleotide variant	NM_000444.6(PHEX):c.134T>G (p.Leu45Ter)	5251	PHEX	Pathogenic	GRCh38	947020
+single nucleotide variant	NM_000444.6(PHEX):c.230G>A (p.Cys77Tyr)	5251	PHEX	Pathogenic	GRCh38	950415
+single nucleotide variant	NM_000444.6(PHEX):c.663G>A (p.Lys221=)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	944842
+single nucleotide variant	NM_000444.6(PHEX):c.814A>T (p.Lys272Ter)	5251	PHEX	Pathogenic	GRCh38	952878
+single nucleotide variant	NM_000444.6(PHEX):c.1104G>A (p.Trp368Ter)	5251	PHEX	Pathogenic	GRCh38	948927
+single nucleotide variant	NM_000444.6(PHEX):c.1399G>T (p.Glu467Ter)	5251	PHEX	Pathogenic	GRCh38	949046
+single nucleotide variant	NM_000444.6(PHEX):c.1403A>C (p.Lys468Thr)	5251	PHEX	Pathogenic	GRCh38	945152
+single nucleotide variant	NM_000444.6(PHEX):c.1695T>A (p.Tyr565Ter)	5251	PHEX	Pathogenic	GRCh38	947990
+single nucleotide variant	NM_000444.6(PHEX):c.1721T>A (p.Ile574Lys)	5251	PHEX	Likely pathogenic	GRCh38	950562
+single nucleotide variant	NM_000444.6(PHEX):c.1779T>G (p.Tyr593Ter)	5251	PHEX	Pathogenic	GRCh38	952926
+single nucleotide variant	NM_000444.6(PHEX):c.1958C>A (p.Ala653Asp)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	950521
+single nucleotide variant	NM_000444.6(PHEX):c.2018T>G (p.Leu673Arg)	5251	PHEX	Pathogenic	GRCh38	951800
+single nucleotide variant	NM_000444.6(PHEX):c.2095G>T (p.Glu699Ter)	5251	PHEX	Pathogenic	GRCh38	946217
+single nucleotide variant	NM_000444.6(PHEX):c.2149G>T (p.Val717Phe)	5251	PHEX	Pathogenic	GRCh38	948579
+single nucleotide variant	NM_000444.6(PHEX):c.2192T>G (p.Phe731Cys)	5251	PHEX	Likely pathogenic	GRCh38	951425
+single nucleotide variant	NM_000444.6(PHEX):c.2237G>A (p.Cys746Tyr)	5251	PHEX	Pathogenic	GRCh38	947870
+single nucleotide variant	NM_000444.6(PHEX):c.3G>T (p.Met1Ile)	5251	PHEX	Pathogenic	GRCh38	942742
+single nucleotide variant	NM_000444.6(PHEX):c.230G>C (p.Cys77Ser)	5251	PHEX	Pathogenic	GRCh38	936592
+single nucleotide variant	NM_000444.6(PHEX):c.416A>G (p.Tyr139Cys)	5251	PHEX	Pathogenic	GRCh38	941583
+single nucleotide variant	NM_000444.6(PHEX):c.1506C>G (p.Tyr502Ter)	5251	PHEX	Pathogenic	GRCh38	939273
+single nucleotide variant	NM_000444.6(PHEX):c.1666C>T (p.Gln556Ter)	5251	PHEX	Pathogenic	GRCh38	936430
+single nucleotide variant	NM_000444.6(PHEX):c.1919T>C (p.Leu640Pro)	5251	PHEX	Pathogenic	GRCh38	941491
+single nucleotide variant	NM_000444.6(PHEX):c.187+2T>A	5251	PHEX	Pathogenic	GRCh38	938687
+single nucleotide variant	NM_000444.6(PHEX):c.1482+1G>C	5251	PHEX	Pathogenic	GRCh38	940437
+single nucleotide variant	NM_000444.6(PHEX):c.1482+2T>G	5251	PHEX	Pathogenic	GRCh38	942929
+single nucleotide variant	NM_000444.6(PHEX):c.1768+2T>G	5251	PHEX	Pathogenic	GRCh38	943090
+single nucleotide variant	NM_000444.6(PHEX):c.118+1G>A	5251	PHEX	Pathogenic	GRCh38	946464
+single nucleotide variant	NM_000444.6(PHEX):c.350-2A>G	5251	PHEX	Pathogenic	GRCh38	952681
+single nucleotide variant	NM_000444.6(PHEX):c.1173+5G>A	5251	PHEX	Likely pathogenic	GRCh38	945877
+single nucleotide variant	NM_000444.6(PHEX):c.1645+5G>A	5251	PHEX	Pathogenic	GRCh38	951146
+single nucleotide variant	NM_000444.6(PHEX):c.2070+1G>T	5251	PHEX	Pathogenic	GRCh38	949750
+single nucleotide variant	NM_000444.6(PHEX):c.2148-1G>C	5251	PHEX	Pathogenic	GRCh38	950225
+single nucleotide variant	NM_000444.6(PHEX):c.649G>T (p.Glu217Ter)	5251	PHEX	Pathogenic	GRCh38	961019
+single nucleotide variant	NM_000444.6(PHEX):c.750C>A (p.Tyr250Ter)	5251	PHEX	Pathogenic	GRCh38	954281
+single nucleotide variant	NM_000444.6(PHEX):c.981C>G (p.Tyr327Ter)	5251	PHEX	Pathogenic	GRCh38	955165
+single nucleotide variant	NM_000444.6(PHEX):c.1009G>T (p.Glu337Ter)	5251	PHEX	Pathogenic	GRCh38	960878
+single nucleotide variant	NM_000444.6(PHEX):c.1368G>A (p.Trp456Ter)	5251	PHEX	Pathogenic	GRCh38	958371
+single nucleotide variant	NM_000444.6(PHEX):c.2077T>A (p.Cys693Ser)	5251	PHEX	Pathogenic	GRCh38	960813
+single nucleotide variant	NM_000444.6(PHEX):c.49A>T (p.Arg17Ter)	5251	PHEX	Pathogenic	GRCh38	965661
+single nucleotide variant	NM_000444.6(PHEX):c.1757T>C (p.Phe586Ser)	5251	PHEX	Pathogenic	GRCh38	967268
+single nucleotide variant	NM_000444.6(PHEX):c.2250G>C (p.Ter750Tyr)	5251	PHEX	Likely pathogenic	GRCh38	968782
+single nucleotide variant	NM_000444.6(PHEX):c.188-1G>C	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	961838
+single nucleotide variant	NM_000444.6(PHEX):c.436+2T>A	5251	PHEX	Pathogenic	GRCh38	957673
+single nucleotide variant	NM_000444.6(PHEX):c.934-2A>G	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	961400
+single nucleotide variant	NM_000444.6(PHEX):c.1302+1G>C	5251	PHEX	Pathogenic	GRCh38	964037
+single nucleotide variant	NM_000444.6(PHEX):c.1482+3A>C	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	964395
+single nucleotide variant	NM_000444.6(PHEX):c.1483-1G>C	5251	PHEX	Pathogenic	GRCh38	970697
+single nucleotide variant	NM_000444.6(PHEX):c.2071-2A>G	5251	PHEX	Pathogenic	GRCh38	986956
+single nucleotide variant	NM_000444.6(PHEX):c.2065G>C (p.Ala689Pro)	5251	PHEX	Likely pathogenic	GRCh38	1018406
+single nucleotide variant	NM_000444.6(PHEX):c.1966-1G>T	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1029848
+single nucleotide variant	NM_000444.6(PHEX):c.482G>C (p.Arg161Pro)	5251	PHEX	Pathogenic	GRCh38	1039336
+single nucleotide variant	NM_000444.6(PHEX):c.1133T>C (p.Leu378Pro)	5251	PHEX	Likely pathogenic	GRCh38	1039337
+single nucleotide variant	NM_000444.6(PHEX):c.1850G>T (p.Cys617Phe)	5251	PHEX	Likely pathogenic	GRCh38	1038451
+single nucleotide variant	NM_000444.6(PHEX):c.479T>C (p.Leu160Pro)	5251	PHEX	Likely pathogenic	GRCh38	1064139
+single nucleotide variant	NM_000444.6(PHEX):c.1933G>A (p.Ala645Thr)	5251	PHEX	Likely pathogenic	GRCh38	1060711
+single nucleotide variant	NM_000444.6(PHEX):c.2179T>C (p.Phe727Leu)	5251	PHEX	Pathogenic	GRCh38	1052063
+single nucleotide variant	NM_000444.6(PHEX):c.436+3G>C	5251	PHEX	Likely pathogenic	GRCh38	1067657
+single nucleotide variant	NM_000444.6(PHEX):c.437-1G>C	5251	PHEX	Pathogenic	GRCh38	1068306
+single nucleotide variant	NM_000444.6(PHEX):c.733-2A>C	5251	PHEX	Pathogenic	GRCh38	1066718
+single nucleotide variant	NM_000444.6(PHEX):c.824T>C (p.Leu275Pro)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1067658
+single nucleotide variant	NM_000444.6(PHEX):c.1334C>A (p.Ala445Asp)	5251	PHEX	Likely pathogenic	GRCh38	1068119
+single nucleotide variant	NM_000444.6(PHEX):c.1600C>A (p.Pro534Thr)	5251	PHEX	Pathogenic	GRCh38	1067659
+single nucleotide variant	NM_000444.6(PHEX):c.1640A>C (p.Gln547Pro)	5251	PHEX	Likely pathogenic	GRCh38	1067482
+single nucleotide variant	NM_000444.6(PHEX):c.2248T>C (p.Ter750Gln)	5251	PHEX	Likely pathogenic	GRCh38	1067096
+single nucleotide variant	NM_000444.6(PHEX):c.2249A>T (p.Ter750Leu)	5251	PHEX	Likely pathogenic	GRCh38	1068102
+single nucleotide variant	NM_000444.6(PHEX):c.2T>C (p.Met1Thr)	5251	PHEX	Pathogenic	GRCh38	1073924
+single nucleotide variant	NM_000444.6(PHEX):c.177C>A (p.Cys59Ter)	5251	PHEX	Pathogenic	GRCh38	1074167
+single nucleotide variant	NM_000444.6(PHEX):c.188-1G>A	5251	PHEX	Pathogenic	GRCh38	1074744
+single nucleotide variant	NM_000444.6(PHEX):c.349+2T>C	5251	PHEX	Pathogenic	GRCh38	1071317
+single nucleotide variant	NM_000444.6(PHEX):c.361A>T (p.Lys121Ter)	5251	PHEX	Pathogenic	GRCh38	1074333
+single nucleotide variant	NM_000444.6(PHEX):c.437-2A>G	5251	PHEX	Pathogenic	GRCh38	1071085
+single nucleotide variant	NM_000444.6(PHEX):c.750C>G (p.Tyr250Ter)	5251	PHEX	Pathogenic	GRCh38	1074989
+single nucleotide variant	NM_000444.6(PHEX):c.779T>G (p.Leu260Ter)	5251	PHEX	Pathogenic	GRCh38	1069276
+single nucleotide variant	NM_000444.6(PHEX):c.891C>G (p.Tyr297Ter)	5251	PHEX	Pathogenic	GRCh38	1075121
+single nucleotide variant	NM_000444.6(PHEX):c.1079+2T>G	5251	PHEX	Pathogenic	GRCh38	1069386
+single nucleotide variant	NM_000444.6(PHEX):c.1173+1G>A	5251	PHEX	Pathogenic	GRCh38	1075410
+single nucleotide variant	NM_000444.6(PHEX):c.1174-1G>A	5251	PHEX	Pathogenic	GRCh38	1075411
+single nucleotide variant	NM_000444.6(PHEX):c.1282C>T (p.Gln428Ter)	5251	PHEX	Pathogenic	GRCh38	1070892
+single nucleotide variant	NM_000444.6(PHEX):c.1309G>T (p.Glu437Ter)	5251	PHEX	Pathogenic	GRCh38	1074361
+single nucleotide variant	NM_000444.6(PHEX):c.1332G>A (p.Trp444Ter)	5251	PHEX	Pathogenic	GRCh38	1075412
+single nucleotide variant	NM_000444.6(PHEX):c.1531A>T (p.Lys511Ter)	5251	PHEX	Pathogenic	GRCh38	1072296
+single nucleotide variant	NM_000444.6(PHEX):c.1645+2T>G	5251	PHEX	Pathogenic	GRCh38	1070333
+single nucleotide variant	NM_000444.6(PHEX):c.2116C>T (p.Gln706Ter)	5251	PHEX	Pathogenic	GRCh38	1070366
+single nucleotide variant	NM_000444.6(PHEX):c.2182C>T (p.Gln728Ter)	5251	PHEX	Pathogenic	GRCh38	1076296
+single nucleotide variant	NM_000444.6(PHEX):c.2221A>T (p.Arg741Ter)	5251	PHEX	Pathogenic	GRCh38	1076963
+single nucleotide variant	NM_000444.6(PHEX):c.1366T>G (p.Trp456Gly)	5251	PHEX	Likely pathogenic	GRCh38	1194448
+single nucleotide variant	NM_000444.6(PHEX):c.1769-1G>C	5251	PHEX	Pathogenic	GRCh38	1202481
+single nucleotide variant	NM_000444.6(PHEX):c.433G>T (p.Glu145Ter)	5251	PHEX	Pathogenic	GRCh38	1210115
+single nucleotide variant	NM_000444.6(PHEX):c.1316T>G (p.Val439Gly)	5251	PHEX	Likely pathogenic	GRCh38	1339437
+single nucleotide variant	NM_000444.6(PHEX):c.2048T>A (p.Leu683His)	5251	PHEX	Likely pathogenic	GRCh38	1339446
+single nucleotide variant	NM_000444.6(PHEX):c.2071-1G>C	5251	PHEX	Pathogenic	GRCh38	1339456
+single nucleotide variant	NM_000444.6(PHEX):c.1966-1G>A	5251	PHEX	Pathogenic	GRCh38	1339458
+single nucleotide variant	NM_000444.6(PHEX):c.663+1G>T	5251	PHEX	Pathogenic	GRCh38	1339459
+single nucleotide variant	NM_000444.6(PHEX):c.1482+2T>A	5251	PHEX	Pathogenic	GRCh38	1339460
+single nucleotide variant	NM_000444.6(PHEX):c.826A>T (p.Arg276Ter)	5251	PHEX	Pathogenic	GRCh38	1339461
+single nucleotide variant	NM_000444.6(PHEX):c.229T>A (p.Cys77Ser)	5251	PHEX	Likely pathogenic	GRCh38	1343086
+single nucleotide variant	NM_000444.6(PHEX):c.1970A>G (p.Tyr657Cys)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1343090
+single nucleotide variant	NM_000444.6(PHEX):c.356T>G (p.Leu119Trp)	5251	PHEX	Pathogenic	GRCh38	1436791
+single nucleotide variant	NM_000444.6(PHEX):c.2240G>C (p.Arg747Pro)	5251	PHEX	Likely pathogenic	GRCh38	1521884
+single nucleotide variant	NM_000444.6(PHEX):c.436+6T>A	5251	PHEX	Likely pathogenic	GRCh38	1494494
+single nucleotide variant	NM_000444.6(PHEX):c.2071-1G>T	5251	PHEX	Pathogenic	GRCh38	1370450
+single nucleotide variant	NM_000444.6(PHEX):c.1646-1G>C	5251	PHEX	Pathogenic	GRCh38	1452311
+single nucleotide variant	NM_000444.6(PHEX):c.1937A>G (p.Asp646Gly)	5251	PHEX	Pathogenic	GRCh38	1452348
+single nucleotide variant	NM_000444.6(PHEX):c.255T>A (p.Cys85Ter)	5251	PHEX	Pathogenic	GRCh38	1452676
+single nucleotide variant	NM_000444.6(PHEX):c.931C>T (p.Gln311Ter)	5251	PHEX	Pathogenic	GRCh38	1388130
+single nucleotide variant	NM_000444.6(PHEX):c.981C>A (p.Tyr327Ter)	5251	PHEX	Pathogenic	GRCh38	1388674
+single nucleotide variant	NM_000444.6(PHEX):c.1724G>A (p.Gly575Glu)	5251	PHEX	Pathogenic	GRCh38	1393678
+single nucleotide variant	NM_000444.6(PHEX):c.933+1G>A	5251	PHEX	Pathogenic	GRCh38	1448202
+single nucleotide variant	NM_000444.6(PHEX):c.1152T>G (p.Tyr384Ter)	5251	PHEX	Pathogenic	GRCh38	1459248
+single nucleotide variant	NM_000444.6(PHEX):c.934-1G>A	5251	PHEX	Pathogenic	GRCh38	1451502
+single nucleotide variant	NM_000444.6(PHEX):c.1087G>C (p.Ala363Pro)	5251	PHEX	Pathogenic	GRCh38	1452746
+single nucleotide variant	NM_000444.6(PHEX):c.350-1G>C	5251	PHEX	Pathogenic	GRCh38	1397192
+single nucleotide variant	NM_000444.6(PHEX):c.1921G>T (p.Gly641Ter)	5251	PHEX	Pathogenic	GRCh38	1453698
+single nucleotide variant	NM_000444.6(PHEX):c.349+1G>T	5251	PHEX	Pathogenic	GRCh38	1456852
+single nucleotide variant	NM_000444.6(PHEX):c.2199T>A (p.Cys733Ter)	5251	PHEX	Pathogenic	GRCh38	1455303
+single nucleotide variant	NM_000444.6(PHEX):c.1646-2A>G	5251	PHEX	Pathogenic	GRCh38	1455365
+single nucleotide variant	NM_000444.6(PHEX):c.1536T>A (p.Tyr512Ter)	5251	PHEX	Pathogenic	GRCh38	1455587
+single nucleotide variant	NM_000444.6(PHEX):c.1700+5G>A	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1513253
+single nucleotide variant	NM_000444.6(PHEX):c.1590G>A (p.Trp530Ter)	5251	PHEX	Pathogenic	GRCh38	1459874
+single nucleotide variant	NM_000444.6(PHEX):c.2071-2A>C	5251	PHEX	Pathogenic	GRCh38	1459784
+single nucleotide variant	NM_000444.6(PHEX):c.1621T>G (p.Tyr541Asp)	5251	PHEX	Pathogenic	GRCh38	1487220
+single nucleotide variant	NM_000444.6(PHEX):c.1173+1G>T	5251	PHEX	Pathogenic	GRCh38	1408882
+single nucleotide variant	NM_000444.6(PHEX):c.1302+1G>A	5251	PHEX	Pathogenic	GRCh38	1408891
+single nucleotide variant	NM_000444.6(PHEX):c.1735G>T (p.Gly579Ter)	5251	PHEX	Pathogenic	GRCh38	1436163
+single nucleotide variant	NM_000444.6(PHEX):c.1046A>G (p.Asp349Gly)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1516491
+single nucleotide variant	NM_000444.6(PHEX):c.732+1G>T	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1380821
+single nucleotide variant	NM_000444.6(PHEX):c.849+1G>T	5251	PHEX	Pathogenic	GRCh38	1408809
+single nucleotide variant	NM_000444.6(PHEX):c.1080-3C>G	5251	PHEX	Pathogenic	GRCh38	1420385
+single nucleotide variant	NM_000444.6(PHEX):c.1769-2A>G	5251	PHEX	Pathogenic	GRCh38	1460420
+single nucleotide variant	NM_000444.6(PHEX):c.1586+3G>T	5251	PHEX	Pathogenic	GRCh38	1488042
+single nucleotide variant	NM_000444.6(PHEX):c.1969T>A (p.Tyr657Asn)	5251	PHEX	Likely pathogenic	GRCh38	1515427
+single nucleotide variant	NM_000444.6(PHEX):c.1079+1G>T	5251	PHEX	Pathogenic	GRCh38	1410506
+single nucleotide variant	NM_000444.6(PHEX):c.895A>T (p.Lys299Ter)	5251	PHEX	Pathogenic	GRCh38	1437520
+single nucleotide variant	NM_000444.6(PHEX):c.350-1G>A	5251	PHEX	Pathogenic	GRCh38	1676327
+single nucleotide variant	NM_000444.6(PHEX):c.1376C>A (p.Ala459Glu)	5251	PHEX	Pathogenic	GRCh38	1679896
+single nucleotide variant	NM_000444.6(PHEX):c.187+1G>C	5251	PHEX	Likely pathogenic	GRCh38	1685396
+single nucleotide variant	NM_000444.6(PHEX):c.3G>A (p.Met1Ile)	5251	PHEX	Pathogenic	GRCh38	1686021
+single nucleotide variant	NM_000444.6(PHEX):c.200T>A (p.Leu67Ter)	5251	PHEX	Pathogenic	GRCh38	1686023
+single nucleotide variant	NM_000444.6(PHEX):c.254G>T (p.Cys85Phe)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	1686024
+single nucleotide variant	NM_000444.6(PHEX):c.305G>T (p.Gly102Val)	5251	PHEX	Pathogenic	GRCh38	1686025
+single nucleotide variant	NM_000444.6(PHEX):c.421T>C (p.Ser141Pro)	5251	PHEX	Pathogenic	GRCh38	1686026
+single nucleotide variant	NM_000444.6(PHEX):c.436+4A>T	5251	PHEX	Pathogenic	GRCh38	1686027
+single nucleotide variant	NM_000444.6(PHEX):c.460A>T (p.Lys154Ter)	5251	PHEX	Pathogenic	GRCh38	1686028
+single nucleotide variant	NM_000444.6(PHEX):c.664-1G>T	5251	PHEX	Pathogenic	GRCh38	1686031
+single nucleotide variant	NM_000444.6(PHEX):c.705C>A (p.Tyr235Ter)	5251	PHEX	Pathogenic	GRCh38	1686034
+single nucleotide variant	NM_000444.6(PHEX):c.933+2T>A	5251	PHEX	Pathogenic	GRCh38	1686036
+single nucleotide variant	NM_000444.6(PHEX):c.1042A>T (p.Lys348Ter)	5251	PHEX	Pathogenic	GRCh38	1686037
+single nucleotide variant	NM_000444.6(PHEX):c.1302+2T>A	5251	PHEX	Pathogenic	GRCh38	1686039
+single nucleotide variant	NM_000444.6(PHEX):c.1331G>A (p.Trp444Ter)	5251	PHEX	Pathogenic	GRCh38	1686040
+single nucleotide variant	NM_000444.6(PHEX):c.1404+1G>C	5251	PHEX	Pathogenic	GRCh38	1686041
+single nucleotide variant	NM_000444.6(PHEX):c.1586+2T>G	5251	PHEX	Pathogenic	GRCh38	1686044
+single nucleotide variant	NM_000444.6(PHEX):c.1646-2A>C	5251	PHEX	Pathogenic	GRCh38	1686045
+single nucleotide variant	NM_000444.6(PHEX):c.1769-1G>A	5251	PHEX	Pathogenic	GRCh38	1686048
+single nucleotide variant	NM_000444.6(PHEX):c.1779T>A (p.Tyr593Ter)	5251	PHEX	Pathogenic	GRCh38	1686049
+single nucleotide variant	NM_000444.6(PHEX):c.1840A>T (p.Lys614Ter)	5251	PHEX	Pathogenic	GRCh38	1686050
+single nucleotide variant	NM_000444.6(PHEX):c.2132G>T (p.Ser711Ile)	5251	PHEX	Pathogenic	GRCh38	1686054
+single nucleotide variant	NM_000444.6(PHEX):c.1861C>T (p.Gln621Ter)	5251	PHEX	Pathogenic	GRCh38	1705285
+single nucleotide variant	NM_000444.6(PHEX):c.1217G>T (p.Cys406Phe)	5251	PHEX	Likely pathogenic	GRCh38	1705589
+single nucleotide variant	NM_000444.6(PHEX):c.1173+2T>A	5251	PHEX	Pathogenic	GRCh38	1708344
+single nucleotide variant	NM_000444.6(PHEX):c.1303-2A>G	5251	PHEX	Pathogenic	GRCh38	1804025
+single nucleotide variant	NM_000444.6(PHEX):c.842T>G (p.Ile281Arg)	5251	PHEX	Likely pathogenic	GRCh38	1806062
+single nucleotide variant	NM_000444.6(PHEX):c.1643T>C (p.Ile548Thr)	5251	PHEX	Pathogenic	GRCh38	2138492
+single nucleotide variant	NM_000444.6(PHEX):c.1645+4A>G	5251	PHEX	Likely pathogenic	GRCh38	2169632
+single nucleotide variant	NM_000444.6(PHEX):c.1843A>C (p.Thr615Pro)	5251	PHEX	Likely pathogenic	GRCh38	2169633
+single nucleotide variant	NM_000444.6(PHEX):c.1966-2A>G	5251	PHEX	Pathogenic	GRCh38	2169634
+single nucleotide variant	NM_000444.6(PHEX):c.1969T>C (p.Tyr657His)	5251	PHEX	Pathogenic	GRCh38	2169635
+single nucleotide variant	NM_000444.6(PHEX):c.2110C>T (p.Gln704Ter)	5251	PHEX	Pathogenic	GRCh38	2169636
+single nucleotide variant	NM_000444.6(PHEX):c.2148-1G>A	5251	PHEX	Pathogenic	GRCh38	2169637
+single nucleotide variant	NM_000444.6(PHEX):c.572T>C (p.Leu191Pro)	5251	PHEX	Pathogenic	GRCh38	1929564
+single nucleotide variant	NM_000444.6(PHEX):c.1404G>T (p.Lys468Asn)	5251	PHEX	Pathogenic	GRCh38	1929566
+single nucleotide variant	NM_000444.6(PHEX):c.770C>A (p.Ala257Asp)	5251	PHEX	Likely pathogenic	GRCh38	1937101
+single nucleotide variant	NM_000444.6(PHEX):c.1966-2A>C	5251	PHEX	Pathogenic	GRCh38	1952985
+single nucleotide variant	NM_000444.6(PHEX):c.1682G>A (p.Trp561Ter)	5251	PHEX	Pathogenic	GRCh38	1963664
+single nucleotide variant	NM_000444.6(PHEX):c.1715G>C (p.Gly572Ala)	5251	PHEX	Likely pathogenic	GRCh38	1995699
+single nucleotide variant	NM_000444.6(PHEX):c.467T>G (p.Leu156Arg)	5251	PHEX	Likely pathogenic	GRCh38	2017580
+single nucleotide variant	NM_000444.6(PHEX):c.1895T>A (p.Leu632Ter)	5251	PHEX	Pathogenic	GRCh38	2013416
+single nucleotide variant	NM_000444.6(PHEX):c.1701-2A>C	5251	PHEX	Pathogenic	GRCh38	2006117
+single nucleotide variant	NM_000444.6(PHEX):c.1A>T (p.Met1Leu)	5251	PHEX	Pathogenic	GRCh38	2012752
+single nucleotide variant	NM_000444.6(PHEX):c.488C>A (p.Ser163Ter)	5251	PHEX	Pathogenic	GRCh38	2030717
+single nucleotide variant	NM_000444.6(PHEX):c.317G>A (p.Trp106Ter)	5251	PHEX	Pathogenic	GRCh38	2034350
+single nucleotide variant	NM_000444.6(PHEX):c.664-2A>G	5251	PHEX	Pathogenic	GRCh38	2034921
+single nucleotide variant	NM_000444.6(PHEX):c.1173+5G>T	5251	PHEX	Pathogenic	GRCh38	2036681
+single nucleotide variant	NM_000444.6(PHEX):c.1174-2A>T	5251	PHEX	Pathogenic	GRCh38	2065761
+single nucleotide variant	NM_000444.6(PHEX):c.1645+1G>T	5251	PHEX	Pathogenic	GRCh38	2062661
+single nucleotide variant	NM_000444.6(PHEX):c.373A>T (p.Arg125Ter)	5251	PHEX	Pathogenic	GRCh38	2083208
+single nucleotide variant	NM_000444.6(PHEX):c.1957G>C (p.Ala653Pro)	5251	PHEX	Likely pathogenic	GRCh38	2091320
+single nucleotide variant	NM_000444.6(PHEX):c.2059A>C (p.Ser687Arg)	5251	PHEX	Likely pathogenic	GRCh38	2092820
+single nucleotide variant	NM_000444.6(PHEX):c.1701-1G>C	5251	PHEX	Pathogenic	GRCh38	2095167
+single nucleotide variant	NM_000444.6(PHEX):c.1586+5G>C	5251	PHEX	Likely pathogenic	GRCh38	2115383
+single nucleotide variant	NM_000444.6(PHEX):c.1700+5G>C	5251	PHEX	Pathogenic	GRCh38	2117944
+single nucleotide variant	NM_000444.6(PHEX):c.1559G>A (p.Trp520Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	2117393
+single nucleotide variant	NM_000444.6(PHEX):c.1560G>A (p.Trp520Ter)	5251	PHEX	Pathogenic	GRCh38	2130168
+single nucleotide variant	NM_000444.6(PHEX):c.250G>C (p.Ala84Pro)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	2412819
+single nucleotide variant	NM_000444.6(PHEX):c.1701A>C (p.Arg567=)	5251	PHEX	Likely pathogenic	GRCh38	2506512
+single nucleotide variant	NM_000444.6(PHEX):c.1808G>A (p.Trp603Ter)	5251	PHEX	Pathogenic	GRCh38	2627120
+single nucleotide variant	NM_000444.6(PHEX):c.958A>T (p.Lys320Ter)	5251	PHEX	Pathogenic	GRCh38	2636562
+single nucleotide variant	NM_000444.6(PHEX):c.2156G>C (p.Gly719Ala)	5251	PHEX	Likely pathogenic	GRCh38	2664984
+single nucleotide variant	NM_000444.6(PHEX):c.188-2A>C	5251	PHEX	Likely pathogenic	GRCh38	2686039
+single nucleotide variant	NM_000444.6(PHEX):c.1536T>G (p.Tyr512Ter)	5251	PHEX	Likely pathogenic	GRCh38	2686040
+single nucleotide variant	NM_000444.6(PHEX):c.1318G>T (p.Glu440Ter)	5251	PHEX	Likely pathogenic	GRCh38	2686046
+single nucleotide variant	NM_000444.6(PHEX):c.539G>A (p.Trp180Ter)	5251	PHEX	Pathogenic	GRCh38	2698177
+single nucleotide variant	NM_000444.6(PHEX):c.735T>G (p.Tyr245Ter)	5251	PHEX	Pathogenic	GRCh38	2737109
+single nucleotide variant	NM_000444.6(PHEX):c.914T>C (p.Leu305Pro)	5251	PHEX	Likely pathogenic	GRCh38	2737110
+single nucleotide variant	NM_000444.6(PHEX):c.1036T>G (p.Tyr346Asp)	5251	PHEX	Pathogenic	GRCh38	2737113
+single nucleotide variant	NM_000444.6(PHEX):c.1942G>T (p.Gly648Ter)	5251	PHEX	Pathogenic	GRCh38	2737126
+single nucleotide variant	NM_000444.6(PHEX):c.2158G>A (p.Ala720Thr)	5251	PHEX	Pathogenic	GRCh38	2737129
+single nucleotide variant	NM_000444.6(PHEX):c.2238C>A (p.Cys746Ter)	5251	PHEX	Pathogenic	GRCh38	2737130
+single nucleotide variant	NM_000444.6(PHEX):c.436+3G>T	5251	PHEX	Likely pathogenic	GRCh38	2768484
+single nucleotide variant	NM_000444.6(PHEX):c.732+1G>A	5251	PHEX	Pathogenic	GRCh38	2780460
+single nucleotide variant	NM_000444.6(PHEX):c.1415T>A (p.Val472Asp)	5251	PHEX	Likely pathogenic	GRCh38	2780461
+single nucleotide variant	NM_000444.6(PHEX):c.1816G>T (p.Glu606Ter)	5251	PHEX	Pathogenic	GRCh38	2817618
+single nucleotide variant	NM_000444.6(PHEX):c.1924G>T (p.Glu642Ter)	5251	PHEX	Pathogenic	GRCh38	2827291
+single nucleotide variant	NM_000444.6(PHEX):c.1495G>T (p.Glu499Ter)	5251	PHEX	Pathogenic	GRCh38	2823266
+single nucleotide variant	NM_000444.6(PHEX):c.264G>A (p.Trp88Ter)	5251	PHEX	Pathogenic/Likely pathogenic	GRCh38	2841596
+single nucleotide variant	NM_000444.6(PHEX):c.589C>T (p.Gln197Ter)	5251	PHEX	Pathogenic	GRCh38	2915528
+single nucleotide variant	NM_000444.6(PHEX):c.2150T>G (p.Val717Gly)	5251	PHEX	Likely pathogenic	GRCh38	3024184
+single nucleotide variant	NM_000444.6(PHEX):c.2066C>T (p.Ala689Val)	5251	PHEX	Likely pathogenic	GRCh38	3344649
+single nucleotide variant	NM_000444.6(PHEX):c.2070+601C>T	5251	PHEX	Likely pathogenic	GRCh38	3359149
+single nucleotide variant	NM_000444.6(PHEX):c.419C>A (p.Ser140Ter)	5251	PHEX	Pathogenic	GRCh38	3382100
+single nucleotide variant	NM_000444.6(PHEX):c.1525A>C (p.Thr509Pro)	5251	PHEX	Pathogenic	GRCh38	3544426
+single nucleotide variant	NM_000444.6(PHEX):c.1587-2A>C	5251	PHEX	Likely pathogenic	GRCh38	3598238
+single nucleotide variant	NM_000444.6(PHEX):c.1587-1G>T	5251	PHEX	Pathogenic	GRCh38	3632757
+single nucleotide variant	NM_000444.6(PHEX):c.1357G>T (p.Glu453Ter)	5251	PHEX	Pathogenic	GRCh38	3662172
+single nucleotide variant	NM_000444.6(PHEX):c.1483-1G>T	5251	PHEX	Pathogenic	GRCh38	3661584
+single nucleotide variant	NM_000444.6(PHEX):c.162C>A (p.Cys54Ter)	5251	PHEX	Pathogenic	GRCh38	3709138
+single nucleotide variant	NM_000444.6(PHEX):c.847G>T (p.Glu283Ter)	5251	PHEX	Pathogenic	GRCh38	3723151
+single nucleotide variant	NM_000444.6(PHEX):c.349+2T>A	5251	PHEX	Pathogenic	GRCh38	3717324
+single nucleotide variant	NM_000444.6(PHEX):c.286G>T (p.Glu96Ter)	5251	PHEX	Pathogenic	GRCh38	3724106
+single nucleotide variant	NM_000444.6(PHEX):c.424T>C (p.Cys142Arg)	5251	PHEX	Pathogenic	GRCh38	3724107
+single nucleotide variant	NM_000444.6(PHEX):c.1673C>G (p.Pro558Arg)	5251	PHEX	Likely pathogenic	GRCh38	3724118
+single nucleotide variant	NM_000444.6(PHEX):c.1174-1G>C	5251	PHEX	Pathogenic	GRCh38	3722077
+single nucleotide variant	NM_000444.6(PHEX):c.1313T>A (p.Leu438Ter)	5251	PHEX	Pathogenic	GRCh38	3776216
+single nucleotide variant	NM_000444.6(PHEX):c.2147+1197A>G	5251	PHEX	Likely pathogenic	GRCh38	3777032
+single nucleotide variant	NM_000444.6(PHEX):c.2011C>A (p.Pro671Thr)	5251	PHEX	Likely pathogenic	GRCh38	3901531
+single nucleotide variant	NM_000444.6(PHEX):c.842T>A (p.Ile281Lys)	5251	PHEX	Pathogenic	GRCh38	4083383
+single nucleotide variant	NM_000444.6(PHEX):c.1351G>T (p.Glu451Ter)	5251	PHEX	Pathogenic	GRCh38	4293729
+single nucleotide variant	NM_000444.6(PHEX):c.1306G>T (p.Glu436Ter)	5251	PHEX	Pathogenic	GRCh38	4484922
+single nucleotide variant	NM_000444.6(PHEX):c.1954G>T (p.Glu652Ter)	5251	PHEX	Pathogenic	GRCh38	4484958
+single nucleotide variant	NM_000444.6(PHEX):c.2147+2T>C	5251	PHEX	Pathogenic	GRCh38	4484973
+single nucleotide variant	NM_000444.6(PHEX):c.1899+5G>C	5251	PHEX	Likely pathogenic	GRCh38	4682141
+single nucleotide variant	NM_000444.6(PHEX):c.425G>A (p.Cys142Tyr)	5251	PHEX	Likely pathogenic	GRCh38	4685004
+single nucleotide variant	NM_000444.6(PHEX):c.1173+5G>C	5251	PHEX	Likely pathogenic	GRCh38	4687631
+single nucleotide variant	NM_000444.6(PHEX):c.350-1G>T	5251	PHEX	Pathogenic	GRCh38	4710655
+single nucleotide variant	NM_000444.6(PHEX):c.1645+6T>C	5251	PHEX	Likely pathogenic	GRCh38	4710657
+single nucleotide variant	NM_000444.6(PHEX):c.1333G>C (p.Ala445Pro)	5251	PHEX	Likely pathogenic	GRCh38	4711352
+single nucleotide variant	NM_000444.6(PHEX):c.2247G>T (p.Trp749Cys)	5251	PHEX	Pathogenic	GRCh38	4711390
+single nucleotide variant	NM_000444.6(PHEX):c.436+5G>C	5251	PHEX	Likely pathogenic	GRCh38	4710849
+single nucleotide variant	NM_000444.6(PHEX):c.1080-687A>G	5251	PHEX	Pathogenic	GRCh38	4795245
+single nucleotide variant	NM_000444.6(PHEX):c.910G>T (p.Glu304Ter)	5251	PHEX	Pathogenic	GRCh38	4795976
+single nucleotide variant	NM_000444.6(PHEX):c.1949T>G (p.Leu650Arg)	5251	PHEX	Likely pathogenic	GRCh38	4797951
+single nucleotide variant	NM_000444.6(PHEX):c.703T>A (p.Tyr235Asn)	5251	PHEX	Likely pathogenic	GRCh38	4813498
+single nucleotide variant	NM_000444.6(PHEX):c.1945G>T (p.Gly649Cys)	5251	PHEX	Likely pathogenic	GRCh38	4813634
+single nucleotide variant	NM_000444.6(PHEX):c.1899+2T>C	5251	PHEX	Pathogenic	GRCh38	4819119
+single nucleotide variant	NM_000444.6(PHEX):c.1768+3A>C	5251	PHEX	Likely pathogenic	GRCh38	4819377

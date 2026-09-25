@@ -1,0 +1,80 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_181426.2(CCDC39):c.357+1G>C	339829	CCDC39	Pathogenic	GRCh38	31067
+single nucleotide variant	NM_181426.2(CCDC39):c.610-2A>G	339829	CCDC39	Pathogenic	GRCh38	216140
+single nucleotide variant	NM_181426.2(CCDC39):c.1167+1261A>G	339829	CCDC39	Pathogenic	GRCh38	410378
+single nucleotide variant	NM_181426.2(CCDC39):c.2226C>A (p.Tyr742Ter)	339829	CCDC39	Pathogenic/Likely pathogenic	GRCh38	419341
+single nucleotide variant	NM_181426.2(CCDC39):c.2551G>T (p.Glu851Ter)	339829	CCDC39	Pathogenic	GRCh38	455020
+single nucleotide variant	NM_181426.2(CCDC39):c.1034+2T>A	339829	CCDC39	Pathogenic/Likely pathogenic	GRCh38	455007
+single nucleotide variant	NM_181426.2(CCDC39):c.1874+1G>A	339829	CCDC39	Pathogenic	GRCh38	455015
+single nucleotide variant	NM_181426.2(CCDC39):c.1363-11A>G	339829	CCDC39	Likely pathogenic	GRCh38	525356
+single nucleotide variant	NM_181426.2(CCDC39):c.402T>A (p.Cys134Ter)	339829	CCDC39	Pathogenic	GRCh38	566549
+single nucleotide variant	NM_181426.2(CCDC39):c.350A>G (p.Asp117Gly)	339829	CCDC39	Likely pathogenic	GRCh38	572671
+single nucleotide variant	NM_181426.2(CCDC39):c.1665+1G>A	339829	CCDC39	Pathogenic/Likely pathogenic	GRCh38	575428
+single nucleotide variant	NM_181426.2(CCDC39):c.286C>T (p.Arg96Ter)	339829	CCDC39	Pathogenic	GRCh38	565699
+single nucleotide variant	NM_181426.2(CCDC39):c.2596G>T (p.Glu866Ter)	339829	CCDC39	Pathogenic	GRCh38	844752
+single nucleotide variant	NM_181426.2(CCDC39):c.493C>T (p.Gln165Ter)	339829	CCDC39	Pathogenic	GRCh38	846350
+single nucleotide variant	NM_181426.2(CCDC39):c.1168-2A>C	339829	CCDC39	Likely pathogenic	GRCh38	843405
+single nucleotide variant	NM_181426.2(CCDC39):c.139G>T (p.Glu47Ter)	339829	CCDC39	Pathogenic	GRCh38	872141
+single nucleotide variant	NM_181426.2(CCDC39):c.664G>T (p.Glu222Ter)	339829	CCDC39	Pathogenic	GRCh38	942738
+single nucleotide variant	NM_181426.2(CCDC39):c.2586+1G>A	339829	CCDC39	Pathogenic	GRCh38	937211
+single nucleotide variant	NM_181426.2(CCDC39):c.1666-9C>G	339829	CCDC39	Likely pathogenic	GRCh38	946945
+single nucleotide variant	NM_181426.2(CCDC39):c.1167G>A (p.Lys389=)	339829	CCDC39	Likely pathogenic	GRCh38	978709
+single nucleotide variant	NM_181426.2(CCDC39):c.782T>A (p.Leu261Ter)	339829	CCDC39	Likely pathogenic	GRCh38	995571
+single nucleotide variant	NM_181426.2(CCDC39):c.2335C>T (p.Gln779Ter)	339829	CCDC39	Pathogenic/Likely pathogenic	GRCh38	1068490
+single nucleotide variant	NM_181426.2(CCDC39):c.1999-2A>T	339829	CCDC39	Pathogenic/Likely pathogenic	GRCh38	1322038
+single nucleotide variant	NM_181426.2(CCDC39):c.1356C>A (p.Tyr452Ter)	339829	CCDC39	Pathogenic	GRCh38	1344600
+single nucleotide variant	NM_181426.2(CCDC39):c.2350C>T (p.Gln784Ter)	339829	CCDC39	Pathogenic	GRCh38	1388230
+single nucleotide variant	NM_181426.2(CCDC39):c.2017G>T (p.Glu673Ter)	339829	CCDC39	Pathogenic	GRCh38	1363237
+single nucleotide variant	NM_181426.2(CCDC39):c.1874+2T>C	339829	CCDC39	Likely pathogenic	GRCh38	1781739
+single nucleotide variant	NM_181426.2(CCDC39):c.277G>T (p.Glu93Ter)	339829	CCDC39	Pathogenic	GRCh38	1795913
+single nucleotide variant	NM_181426.2(CCDC39):c.610-2A>C	339829	CCDC39	Pathogenic	GRCh38	2180412
+single nucleotide variant	NM_181426.2(CCDC39):c.2194C>T (p.Gln732Ter)	339829	CCDC39	Pathogenic	GRCh38	2188873
+single nucleotide variant	NM_181426.2(CCDC39):c.841A>T (p.Lys281Ter)	339829	CCDC39	Pathogenic	GRCh38	1901749
+single nucleotide variant	NM_181426.2(CCDC39):c.2470C>T (p.Gln824Ter)	339829	CCDC39	Pathogenic	GRCh38	1920614
+single nucleotide variant	NM_181426.2(CCDC39):c.210+2T>C	339829	CCDC39	Pathogenic	GRCh38	1916247
+single nucleotide variant	NM_181426.2(CCDC39):c.891T>G (p.Tyr297Ter)	339829	CCDC39	Pathogenic	GRCh38	2053107
+single nucleotide variant	NM_181426.2(CCDC39):c.90+1G>C	339829	CCDC39	Likely pathogenic	GRCh38	2444423
+single nucleotide variant	NM_181426.2(CCDC39):c.983T>C (p.Leu328Pro)	339829	CCDC39	Likely pathogenic	GRCh38	2506514
+single nucleotide variant	NM_181426.2(CCDC39):c.516+1G>A	339829	CCDC39	Likely pathogenic	GRCh38	2585082
+single nucleotide variant	NM_181426.2(CCDC39):c.1801G>T (p.Glu601Ter)	339829	CCDC39	Pathogenic	GRCh38	2696857
+single nucleotide variant	NM_181426.2(CCDC39):c.2569C>T (p.Gln857Ter)	339829	CCDC39	Pathogenic	GRCh38	2696159
+single nucleotide variant	NM_181426.2(CCDC39):c.529C>T (p.Gln177Ter)	339829	CCDC39	Pathogenic	GRCh38	2712581
+single nucleotide variant	NM_181426.2(CCDC39):c.1579C>T (p.Gln527Ter)	339829	CCDC39	Pathogenic	GRCh38	2719289
+single nucleotide variant	NM_181426.2(CCDC39):c.931-1G>T	339829	CCDC39	Pathogenic	GRCh38	2715292
+single nucleotide variant	NM_181426.2(CCDC39):c.1705A>T (p.Lys569Ter)	339829	CCDC39	Pathogenic	GRCh38	2711122
+single nucleotide variant	NM_181426.2(CCDC39):c.1006A>T (p.Lys336Ter)	339829	CCDC39	Pathogenic	GRCh38	2732452
+single nucleotide variant	NM_181426.2(CCDC39):c.706A>T (p.Lys236Ter)	339829	CCDC39	Pathogenic	GRCh38	2722548
+single nucleotide variant	NM_181426.2(CCDC39):c.1411G>T (p.Glu471Ter)	339829	CCDC39	Pathogenic	GRCh38	2734592
+single nucleotide variant	NM_181426.2(CCDC39):c.95C>G (p.Ser32Ter)	339829	CCDC39	Pathogenic	GRCh38	2746712
+single nucleotide variant	NM_181426.2(CCDC39):c.1636G>T (p.Glu546Ter)	339829	CCDC39	Pathogenic	GRCh38	2736761
+single nucleotide variant	NM_181426.2(CCDC39):c.2387T>G (p.Leu796Ter)	339829	CCDC39	Pathogenic	GRCh38	2753317
+single nucleotide variant	NM_181426.2(CCDC39):c.112A>T (p.Arg38Ter)	339829	CCDC39	Pathogenic	GRCh38	2748172
+single nucleotide variant	NM_181426.2(CCDC39):c.1693A>T (p.Lys565Ter)	339829	CCDC39	Pathogenic	GRCh38	2761360
+single nucleotide variant	NM_181426.2(CCDC39):c.1999-1G>C	339829	CCDC39	Likely pathogenic	GRCh38	2766649
+single nucleotide variant	NM_181426.2(CCDC39):c.1345G>T (p.Glu449Ter)	339829	CCDC39	Pathogenic	GRCh38	2764332
+single nucleotide variant	NM_181426.2(CCDC39):c.1528-2A>G	339829	CCDC39	Pathogenic	GRCh38	2780034
+single nucleotide variant	NM_181426.2(CCDC39):c.930+1G>A	339829	CCDC39	Likely pathogenic	GRCh38	2793567
+single nucleotide variant	NM_181426.2(CCDC39):c.1384G>T (p.Glu462Ter)	339829	CCDC39	Pathogenic	GRCh38	2842796
+single nucleotide variant	NM_181426.2(CCDC39):c.1603G>T (p.Glu535Ter)	339829	CCDC39	Pathogenic	GRCh38	2850068
+single nucleotide variant	NM_181426.2(CCDC39):c.1875-1G>C	339829	CCDC39	Likely pathogenic	GRCh38	2880957
+single nucleotide variant	NM_181426.2(CCDC39):c.1528-2A>T	339829	CCDC39	Pathogenic	GRCh38	2890956
+single nucleotide variant	NM_181426.2(CCDC39):c.1228C>T (p.Gln410Ter)	339829	CCDC39	Pathogenic	GRCh38	2910073
+single nucleotide variant	NM_181426.2(CCDC39):c.2266-1G>A	339829	CCDC39	Likely pathogenic	GRCh38	2915139
+single nucleotide variant	NM_181426.2(CCDC39):c.1167+1G>A	339829	CCDC39	Pathogenic	GRCh38	2982237
+single nucleotide variant	NM_181426.2(CCDC39):c.1034+1G>A	339829	CCDC39	Likely pathogenic	GRCh38	3003547
+single nucleotide variant	NM_181426.2(CCDC39):c.676C>T (p.Gln226Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3068014
+single nucleotide variant	NM_181426.2(CCDC39):c.550G>T (p.Glu184Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3382260
+single nucleotide variant	NM_181426.2(CCDC39):c.2266-2A>T	339829	CCDC39	Likely pathogenic	GRCh38	3588951
+single nucleotide variant	NM_181426.2(CCDC39):c.2158+1G>A	339829	CCDC39	Likely pathogenic	GRCh38	3588952
+single nucleotide variant	NM_181426.2(CCDC39):c.1855C>T (p.Gln619Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3588954
+single nucleotide variant	NM_181426.2(CCDC39):c.1714C>T (p.Arg572Ter)	339829	CCDC39	Pathogenic	GRCh38	3588955
+single nucleotide variant	NM_181426.2(CCDC39):c.1362+1G>A	339829	CCDC39	Likely pathogenic	GRCh38	3588958
+single nucleotide variant	NM_181426.2(CCDC39):c.799A>T (p.Lys267Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3588962
+single nucleotide variant	NM_181426.2(CCDC39):c.496C>T (p.Gln166Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3588964
+single nucleotide variant	NM_181426.2(CCDC39):c.10G>T (p.Glu4Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3588965
+single nucleotide variant	NM_181426.2(CCDC39):c.892C>T (p.Gln298Ter)	339829	CCDC39	Pathogenic	GRCh38	3653221
+single nucleotide variant	NM_181426.2(CCDC39):c.151C>T (p.Arg51Ter)	339829	CCDC39	Pathogenic	GRCh38	3720970
+single nucleotide variant	NM_181426.2(CCDC39):c.1810A>T (p.Lys604Ter)	339829	CCDC39	Pathogenic	GRCh38	3727498
+single nucleotide variant	NM_181426.2(CCDC39):c.1246G>T (p.Glu416Ter)	339829	CCDC39	Pathogenic	GRCh38	3768520
+single nucleotide variant	NM_181426.2(CCDC39):c.2404C>T (p.Gln802Ter)	339829	CCDC39	Likely pathogenic	GRCh38	3895523
+single nucleotide variant	NM_181426.2(CCDC39):c.1837C>T (p.Gln613Ter)	339829	CCDC39	Pathogenic	GRCh38	4778014

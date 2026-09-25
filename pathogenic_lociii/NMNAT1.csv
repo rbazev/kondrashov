@@ -1,0 +1,59 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_022787.4(NMNAT1):c.838T>C (p.Ter280Gln)	64802	NMNAT1	Pathogenic	GRCh38	37132
+single nucleotide variant	NM_022787.4(NMNAT1):c.619C>T (p.Arg207Trp)	64802	NMNAT1	Pathogenic	GRCh38	37133
+single nucleotide variant	NM_022787.4(NMNAT1):c.769G>A (p.Glu257Lys)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	37134
+single nucleotide variant	NM_022787.4(NMNAT1):c.817A>G (p.Asn273Asp)	64802	NMNAT1	Pathogenic	GRCh38	37135
+single nucleotide variant	NM_022787.4(NMNAT1):c.710G>T (p.Arg237Leu)	64802	NMNAT1	Pathogenic	GRCh38	37138
+single nucleotide variant	NM_022787.4(NMNAT1):c.457C>G (p.Leu153Val)	64802	NMNAT1	Pathogenic	GRCh38	37139
+single nucleotide variant	NM_022787.4(NMNAT1):c.25G>A (p.Val9Met)	64802	NMNAT1	Pathogenic	GRCh38	37140
+single nucleotide variant	NM_022787.4(NMNAT1):c.53A>G (p.Asn18Ser)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	190977
+single nucleotide variant	NM_022787.4(NMNAT1):c.507G>A (p.Trp169Ter)	64802	NMNAT1	Pathogenic	GRCh38	265453
+single nucleotide variant	NM_022787.4(NMNAT1):c.485C>A (p.Ser162Tyr)	64802	NMNAT1	Likely pathogenic	GRCh38	438133
+single nucleotide variant	NM_022787.4(NMNAT1):c.736G>C (p.Glu246Gln)	64802	NMNAT1	Likely pathogenic	GRCh38	438135
+single nucleotide variant	NM_022787.4(NMNAT1):c.271G>A (p.Glu91Lys)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	438390
+single nucleotide variant	NM_022787.4(NMNAT1):c.716T>C (p.Leu239Ser)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	464670
+single nucleotide variant	NM_022787.4(NMNAT1):c.205A>T (p.Met69Leu)	64802	NMNAT1	Likely pathogenic	GRCh38	635553
+single nucleotide variant	NM_022787.4(NMNAT1):c.629T>C (p.Ile210Thr)	64802	NMNAT1	Pathogenic	GRCh38	813197
+single nucleotide variant	NM_022787.4(NMNAT1):c.680G>A (p.Arg227Gln)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	813196
+single nucleotide variant	NM_022787.4(NMNAT1):c.709C>T (p.Arg237Cys)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	845745
+single nucleotide variant	NM_022787.4(NMNAT1):c.104T>C (p.Met35Thr)	64802	NMNAT1	Likely pathogenic	GRCh38	866962
+single nucleotide variant	NM_022787.4(NMNAT1):c.293T>G (p.Val98Gly)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	866255
+single nucleotide variant	NM_022787.4(NMNAT1):c.532G>A (p.Val178Met)	64802	NMNAT1	Likely pathogenic	GRCh38	951357
+single nucleotide variant	NM_022787.4(NMNAT1):c.205A>G (p.Met69Val)	64802	NMNAT1	Pathogenic	GRCh38	972092
+single nucleotide variant	NM_022787.4(NMNAT1):c.-72G>A	64802	NMNAT1	Likely pathogenic	GRCh38	978247
+single nucleotide variant	NM_022787.4(NMNAT1):c.-69C>T	64802	NMNAT1	Pathogenic	GRCh38	978238
+single nucleotide variant	NM_022787.4(NMNAT1):c.-57G>T	64802	NMNAT1	Likely pathogenic	GRCh38	978249
+single nucleotide variant	NM_022787.4(NMNAT1):c.1A>G (p.Met1Val)	64802	NMNAT1	Pathogenic	GRCh38	978252
+single nucleotide variant	NM_022787.4(NMNAT1):c.179T>G (p.Leu60Arg)	64802	NMNAT1	Likely pathogenic	GRCh38	978239
+single nucleotide variant	NM_022787.4(NMNAT1):c.238G>A (p.Val80Met)	64802	NMNAT1	Likely pathogenic	GRCh38	978253
+single nucleotide variant	NM_022787.4(NMNAT1):c.244G>T (p.Val82Phe)	64802	NMNAT1	Likely pathogenic	GRCh38	978254
+single nucleotide variant	NM_022787.4(NMNAT1):c.319G>T (p.Glu107Ter)	64802	NMNAT1	Pathogenic	GRCh38	978255
+single nucleotide variant	NM_022787.4(NMNAT1):c.376A>T (p.Lys126Ter)	64802	NMNAT1	Pathogenic	GRCh38	978256
+single nucleotide variant	NM_022787.4(NMNAT1):c.439G>C (p.Ala147Pro)	64802	NMNAT1	Likely pathogenic	GRCh38	978257
+single nucleotide variant	NM_022787.4(NMNAT1):c.458T>C (p.Leu153Pro)	64802	NMNAT1	Likely pathogenic	GRCh38	978240
+single nucleotide variant	NM_022787.4(NMNAT1):c.500A>T (p.Asn167Ile)	64802	NMNAT1	Likely pathogenic	GRCh38	978243
+single nucleotide variant	NM_022787.4(NMNAT1):c.518A>G (p.Asp173Gly)	64802	NMNAT1	Likely pathogenic	GRCh38	978259
+single nucleotide variant	NM_022787.4(NMNAT1):c.643G>T (p.Glu215Ter)	64802	NMNAT1	Pathogenic	GRCh38	978260
+single nucleotide variant	NM_022787.4(NMNAT1):c.647G>C (p.Trp216Ser)	64802	NMNAT1	Likely pathogenic	GRCh38	978261
+single nucleotide variant	NM_022787.4(NMNAT1):c.650T>A (p.Ile217Asn)	64802	NMNAT1	Likely pathogenic	GRCh38	978246
+single nucleotide variant	NM_022787.4(NMNAT1):c.717G>T (p.Leu239Phe)	64802	NMNAT1	Likely pathogenic	GRCh38	978242
+single nucleotide variant	NM_022787.4(NMNAT1):c.-57+4A>G	64802	NMNAT1	Likely pathogenic	GRCh38	978248
+single nucleotide variant	NM_022787.4(NMNAT1):c.-57+10C>T	64802	NMNAT1	Likely pathogenic	GRCh38	978244
+single nucleotide variant	NM_022787.4(NMNAT1):c.439+1G>C	64802	NMNAT1	Pathogenic	GRCh38	978258
+single nucleotide variant	NM_022787.4(NMNAT1):c.196C>T (p.Arg66Trp)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	982555
+single nucleotide variant	NM_022787.4(NMNAT1):c.439+5G>T	64802	NMNAT1	Pathogenic	GRCh38	1050790
+single nucleotide variant	NM_022787.4(NMNAT1):c.500A>G (p.Asn167Ser)	64802	NMNAT1	Pathogenic/Likely pathogenic	GRCh38	1062684
+single nucleotide variant	NM_022787.4(NMNAT1):c.245T>C (p.Val82Ala)	64802	NMNAT1	Likely pathogenic	GRCh38	1062688
+single nucleotide variant	NM_022787.4(NMNAT1):c.466G>A (p.Gly156Arg)	64802	NMNAT1	Likely pathogenic	GRCh38	1334948
+single nucleotide variant	NM_022787.4(NMNAT1):c.115+1G>A	64802	NMNAT1	Likely pathogenic	GRCh38	1486767
+single nucleotide variant	NM_022787.4(NMNAT1):c.116-2A>G	64802	NMNAT1	Pathogenic	GRCh38	1435359
+single nucleotide variant	NM_022787.4(NMNAT1):c.38C>A (p.Ala13Asp)	64802	NMNAT1	Likely pathogenic	GRCh38	1376825
+single nucleotide variant	NM_022787.4(NMNAT1):c.255G>A (p.Trp85Ter)	64802	NMNAT1	Pathogenic	GRCh38	1459432
+single nucleotide variant	NM_022787.4(NMNAT1):c.115+1G>C	64802	NMNAT1	Likely pathogenic	GRCh38	2199575
+single nucleotide variant	NM_022787.4(NMNAT1):c.165C>G (p.Tyr55Ter)	64802	NMNAT1	Pathogenic	GRCh38	2081952
+single nucleotide variant	NM_022787.4(NMNAT1):c.648G>A (p.Trp216Ter)	64802	NMNAT1	Pathogenic	GRCh38	2131219
+single nucleotide variant	NM_022787.4(NMNAT1):c.721C>T (p.Pro241Ser)	64802	NMNAT1	Pathogenic	GRCh38	2733823
+single nucleotide variant	NM_022787.4(NMNAT1):c.254G>A (p.Trp85Ter)	64802	NMNAT1	Pathogenic	GRCh38	2919586
+single nucleotide variant	NM_022787.4(NMNAT1):c.679C>T (p.Arg227Trp)	64802	NMNAT1	Likely pathogenic	GRCh38	3248782
+single nucleotide variant	NM_022787.4(NMNAT1):c.140T>A (p.Ile47Asn)	64802	NMNAT1	Pathogenic	GRCh38	3774486
+single nucleotide variant	NM_022787.4(NMNAT1):c.488T>C (p.Phe163Ser)	64802	NMNAT1	Likely pathogenic	GRCh38	4077047

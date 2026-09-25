@@ -31,6 +31,7 @@ single nucleotide variant	NM_000404.4(GLB1):c.397-1G>A	2720	GLB1	Pathogenic/Like
 single nucleotide variant	NM_000404.4(GLB1):c.442C>T (p.Arg148Cys)	2720	GLB1	Pathogenic/Likely pathogenic	GRCh38	92907
 single nucleotide variant	NM_000404.4(GLB1):c.457+2T>C	2720	GLB1	Pathogenic/Likely pathogenic	GRCh38	92908
 single nucleotide variant	NM_000404.4(GLB1):c.481T>G (p.Trp161Gly)	2720	GLB1	Pathogenic/Likely pathogenic	GRCh38	92910
+single nucleotide variant	NM_000404.4(GLB1):c.734-8A>G	2720	GLB1	Likely pathogenic	GRCh38	92912
 single nucleotide variant	NM_000404.4(GLB1):c.75+1G>C	2720	GLB1	Pathogenic/Likely pathogenic	GRCh38	92913
 single nucleotide variant	NM_000404.4(GLB1):c.922T>C (p.Phe308Leu)	2720	GLB1	Pathogenic	GRCh38	100727
 single nucleotide variant	NM_000404.4(GLB1):c.901G>A (p.Ala301Thr)	2720	GLB1	Likely pathogenic	GRCh38	167148
@@ -225,6 +226,5 @@ single nucleotide variant	NM_000404.4(GLB1):c.1734G>T (p.Lys578Asn)	2720	GLB1	Li
 single nucleotide variant	NM_000404.4(GLB1):c.414G>A (p.Trp138Ter)	2720	GLB1	Likely pathogenic	GRCh38	4818320
 single nucleotide variant	NM_000404.4(GLB1):c.553-2A>G	2720	GLB1	Pathogenic	GRCh38	4818322
 single nucleotide variant	NM_000404.4(GLB1):c.689G>A (p.Cys230Tyr)	2720	GLB1	Likely pathogenic	GRCh38	4818323
-single nucleotide variant	NM_000404.4(GLB1):c.815G>T (p.Gly272Val)	2720	GLB1	Likely pathogenic	GRCh38	4819894
 single nucleotide variant	NM_000404.4(GLB1):c.1265T>G (p.Leu422Arg)	2720	GLB1	Likely pathogenic	GRCh38	4819979
 single nucleotide variant	NM_000404.4(GLB1):c.989G>T (p.Ser330Ile)	2720	GLB1	Likely pathogenic	GRCh38	4852928

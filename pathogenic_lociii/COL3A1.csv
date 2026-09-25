@@ -1,0 +1,782 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000090.4(COL3A1):c.2437G>A (p.Gly813Ser)	1281	COL3A1	Pathogenic	GRCh38	17199
+single nucleotide variant	NM_000090.4(COL3A1):c.2356G>A (p.Gly786Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	17200
+single nucleotide variant	NM_000090.4(COL3A1):c.3149G>A (p.Gly1050Asp)	1281	COL3A1	Pathogenic	GRCh38	17201
+single nucleotide variant	NM_000090.4(COL3A1):c.1347+1G>A	1281	COL3A1	Pathogenic	GRCh38	17202
+single nucleotide variant	NM_000090.4(COL3A1):c.1149+1G>A	1281	COL3A1	Pathogenic	GRCh38	17203
+single nucleotide variant	NM_000090.4(COL3A1):c.3093+1G>A	1281	COL3A1	Pathogenic	GRCh38	17204
+single nucleotide variant	NM_000090.4(COL3A1):c.2553+5G>T	1281	COL3A1	Likely pathogenic	GRCh38	17206
+single nucleotide variant	NM_000090.4(COL3A1):c.746G>A (p.Gly249Asp)	1281	COL3A1	Likely pathogenic	GRCh38	17208
+single nucleotide variant	NM_000090.4(COL3A1):c.3230G>T (p.Gly1077Val)	1281	COL3A1	Pathogenic	GRCh38	17209
+single nucleotide variant	NM_000090.4(COL3A1):c.1655G>A (p.Gly552Glu)	1281	COL3A1	Pathogenic	GRCh38	17211
+single nucleotide variant	NM_000090.4(COL3A1):c.1761+5G>T	1281	COL3A1	Pathogenic	GRCh38	17212
+single nucleotide variant	NM_000090.4(COL3A1):c.2931+1G>A	1281	COL3A1	Pathogenic	GRCh38	17213
+single nucleotide variant	NM_000090.4(COL3A1):c.3041G>A (p.Gly1014Glu)	1281	COL3A1	Pathogenic	GRCh38	17215
+single nucleotide variant	NM_000090.4(COL3A1):c.3554G>A (p.Gly1185Asp)	1281	COL3A1	Likely pathogenic	GRCh38	17216
+single nucleotide variant	NM_000090.4(COL3A1):c.3518G>A (p.Gly1173Glu)	1281	COL3A1	Likely pathogenic	GRCh38	17217
+single nucleotide variant	NM_000090.4(COL3A1):c.3563G>A (p.Gly1188Glu)	1281	COL3A1	Likely pathogenic	GRCh38	17218
+single nucleotide variant	NM_000090.4(COL3A1):c.406G>C (p.Gly136Arg)	1281	COL3A1	Pathogenic	GRCh38	17219
+single nucleotide variant	NM_000090.4(COL3A1):c.582+6T>C	1281	COL3A1	Pathogenic	GRCh38	17220
+single nucleotide variant	NM_000090.4(COL3A1):c.2410G>A (p.Gly804Ser)	1281	COL3A1	Pathogenic	GRCh38	17221
+single nucleotide variant	NM_000090.4(COL3A1):c.1869+5G>A	1281	COL3A1	Pathogenic	GRCh38	17222
+single nucleotide variant	NM_000090.4(COL3A1):c.1997G>A (p.Gly666Asp)	1281	COL3A1	Likely pathogenic	GRCh38	17223
+single nucleotide variant	NM_000090.4(COL3A1):c.2879G>T (p.Gly960Val)	1281	COL3A1	Pathogenic	GRCh38	17224
+single nucleotide variant	NM_000090.4(COL3A1):c.1744G>A (p.Gly582Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	17225
+single nucleotide variant	NM_000090.4(COL3A1):c.3302G>A (p.Gly1101Glu)	1281	COL3A1	Pathogenic	GRCh38	17226
+single nucleotide variant	NM_000090.4(COL3A1):c.2212G>A (p.Gly738Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	17227
+single nucleotide variant	NM_000090.4(COL3A1):c.547G>A (p.Gly183Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	17228
+single nucleotide variant	NM_000090.4(COL3A1):c.889G>A (p.Gly297Arg)	1281	COL3A1	Likely pathogenic	GRCh38	17229
+single nucleotide variant	NM_000090.4(COL3A1):c.3149G>T (p.Gly1050Val)	1281	COL3A1	Pathogenic	GRCh38	17231
+single nucleotide variant	NM_000090.4(COL3A1):c.1691G>C (p.Gly564Ala)	1281	COL3A1	Likely pathogenic	GRCh38	35962
+single nucleotide variant	NM_000090.4(COL3A1):c.583G>A (p.Gly195Arg)	1281	COL3A1	Pathogenic	GRCh38	74348
+single nucleotide variant	NM_000090.4(COL3A1):c.2977G>T (p.Gly993Cys)	1281	COL3A1	Pathogenic	GRCh38	101101
+single nucleotide variant	NM_000090.4(COL3A1):c.2600G>A (p.Gly867Asp)	1281	COL3A1	Pathogenic	GRCh38	101102
+single nucleotide variant	NM_000090.4(COL3A1):c.2276G>A (p.Gly759Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101103
+single nucleotide variant	NM_000090.4(COL3A1):c.1033G>A (p.Gly345Arg)	1281	COL3A1	Pathogenic	GRCh38	101104
+single nucleotide variant	NM_000090.4(COL3A1):c.548G>A (p.Gly183Asp)	1281	COL3A1	Pathogenic	GRCh38	101105
+single nucleotide variant	NM_000090.4(COL3A1):c.2222G>A (p.Gly741Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101106
+single nucleotide variant	NM_000090.4(COL3A1):c.1916G>A (p.Gly639Glu)	1281	COL3A1	Pathogenic	GRCh38	101107
+single nucleotide variant	NM_000090.4(COL3A1):c.951+5G>A	1281	COL3A1	Pathogenic	GRCh38	101108
+single nucleotide variant	NM_000090.4(COL3A1):c.951+6T>C	1281	COL3A1	Pathogenic	GRCh38	101109
+single nucleotide variant	NM_000090.4(COL3A1):c.2823+1G>A	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101110
+single nucleotide variant	NM_000090.4(COL3A1):c.951+2T>A	1281	COL3A1	Pathogenic	GRCh38	101112
+single nucleotide variant	NM_000090.4(COL3A1):c.800G>T (p.Gly267Val)	1281	COL3A1	Pathogenic	GRCh38	101113
+single nucleotide variant	NM_000090.4(COL3A1):c.3095G>T (p.Gly1032Val)	1281	COL3A1	Pathogenic	GRCh38	101114
+single nucleotide variant	NM_000090.4(COL3A1):c.2022+2T>C	1281	COL3A1	Pathogenic	GRCh38	101115
+single nucleotide variant	NM_000090.4(COL3A1):c.1744G>C (p.Gly582Arg)	1281	COL3A1	Pathogenic	GRCh38	101116
+single nucleotide variant	NM_000090.4(COL3A1):c.3491G>A (p.Gly1164Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101118
+single nucleotide variant	NM_000090.4(COL3A1):c.2780G>A (p.Gly927Asp)	1281	COL3A1	Pathogenic	GRCh38	101119
+single nucleotide variant	NM_000090.4(COL3A1):c.1987G>C (p.Gly663Arg)	1281	COL3A1	Pathogenic	GRCh38	101120
+single nucleotide variant	NM_000090.4(COL3A1):c.2861G>A (p.Gly954Glu)	1281	COL3A1	Pathogenic	GRCh38	101121
+single nucleotide variant	NM_000090.4(COL3A1):c.1915G>C (p.Gly639Arg)	1281	COL3A1	Pathogenic	GRCh38	101122
+single nucleotide variant	NM_000090.4(COL3A1):c.601G>C (p.Gly201Arg)	1281	COL3A1	Pathogenic	GRCh38	101123
+single nucleotide variant	NM_000090.4(COL3A1):c.2140G>A (p.Gly714Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101124
+single nucleotide variant	NM_000090.4(COL3A1):c.2824G>A (p.Gly942Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101125
+single nucleotide variant	NM_000090.4(COL3A1):c.3301G>A (p.Gly1101Arg)	1281	COL3A1	Pathogenic	GRCh38	101126
+single nucleotide variant	NM_000090.4(COL3A1):c.899G>T (p.Gly300Val)	1281	COL3A1	Likely pathogenic	GRCh38	101127
+single nucleotide variant	NM_000090.4(COL3A1):c.656G>C (p.Gly219Ala)	1281	COL3A1	Pathogenic	GRCh38	101128
+single nucleotide variant	NM_000090.4(COL3A1):c.2078G>C (p.Gly693Ala)	1281	COL3A1	Likely pathogenic	GRCh38	101129
+single nucleotide variant	NM_000090.4(COL3A1):c.907G>A (p.Gly303Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101131
+single nucleotide variant	NM_000090.4(COL3A1):c.3417+1G>A	1281	COL3A1	Pathogenic	GRCh38	101132
+single nucleotide variant	NM_000090.4(COL3A1):c.3347G>T (p.Gly1116Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101133
+single nucleotide variant	NM_000090.4(COL3A1):c.556G>A (p.Gly186Ser)	1281	COL3A1	Pathogenic	GRCh38	101135
+single nucleotide variant	NM_000090.4(COL3A1):c.2842G>A (p.Gly948Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101136
+single nucleotide variant	NM_000090.4(COL3A1):c.3417+5G>A	1281	COL3A1	Pathogenic	GRCh38	101137
+single nucleotide variant	NM_000090.4(COL3A1):c.2941G>C (p.Gly981Arg)	1281	COL3A1	Pathogenic	GRCh38	101138
+single nucleotide variant	NM_000090.4(COL3A1):c.2771G>A (p.Gly924Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101139
+single nucleotide variant	NM_000090.4(COL3A1):c.951+2T>C	1281	COL3A1	Pathogenic	GRCh38	101140
+single nucleotide variant	NM_000090.4(COL3A1):c.951+3G>T	1281	COL3A1	Pathogenic	GRCh38	101142
+single nucleotide variant	NM_000090.4(COL3A1):c.899G>A (p.Gly300Asp)	1281	COL3A1	Pathogenic	GRCh38	101143
+single nucleotide variant	NM_000090.4(COL3A1):c.1347+3A>C	1281	COL3A1	Pathogenic	GRCh38	101144
+single nucleotide variant	NM_000090.4(COL3A1):c.1988G>A (p.Gly663Asp)	1281	COL3A1	Pathogenic	GRCh38	101145
+single nucleotide variant	NM_000090.4(COL3A1):c.2941G>A (p.Gly981Arg)	1281	COL3A1	Pathogenic	GRCh38	101147
+single nucleotide variant	NM_000090.4(COL3A1):c.2978G>A (p.Gly993Asp)	1281	COL3A1	Pathogenic	GRCh38	101148
+single nucleotide variant	NM_000090.4(COL3A1):c.2607+5G>T	1281	COL3A1	Likely pathogenic	GRCh38	101149
+single nucleotide variant	NM_000090.4(COL3A1):c.2069G>T (p.Gly690Val)	1281	COL3A1	Pathogenic	GRCh38	101150
+single nucleotide variant	NM_000090.4(COL3A1):c.1194+1G>C	1281	COL3A1	Pathogenic	GRCh38	101151
+single nucleotide variant	NM_000090.4(COL3A1):c.2114G>A (p.Gly705Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101152
+single nucleotide variant	NM_000090.4(COL3A1):c.2337G>A (p.Lys779=)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101153
+single nucleotide variant	NM_000090.4(COL3A1):c.798+1G>A	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101155
+single nucleotide variant	NM_000090.4(COL3A1):c.755G>T (p.Gly252Val)	1281	COL3A1	Pathogenic	GRCh38	101156
+single nucleotide variant	NM_000090.4(COL3A1):c.3509G>A (p.Gly1170Asp)	1281	COL3A1	Pathogenic	GRCh38	101157
+single nucleotide variant	NM_000090.4(COL3A1):c.2564G>A (p.Gly855Asp)	1281	COL3A1	Pathogenic	GRCh38	101158
+single nucleotide variant	NM_000090.4(COL3A1):c.2869G>T (p.Gly957Cys)	1281	COL3A1	Pathogenic	GRCh38	101159
+single nucleotide variant	NM_000090.4(COL3A1):c.3847C>T (p.Gln1283Ter)	1281	COL3A1	Pathogenic	GRCh38	101160
+single nucleotide variant	NM_000090.4(COL3A1):c.718G>C (p.Gly240Arg)	1281	COL3A1	Pathogenic	GRCh38	101161
+single nucleotide variant	NM_000090.4(COL3A1):c.3239G>A (p.Gly1080Asp)	1281	COL3A1	Pathogenic	GRCh38	101162
+single nucleotide variant	NM_000090.4(COL3A1):c.682G>C (p.Gly228Arg)	1281	COL3A1	Pathogenic	GRCh38	101163
+single nucleotide variant	NM_000090.4(COL3A1):c.3491G>T (p.Gly1164Val)	1281	COL3A1	Pathogenic	GRCh38	101164
+single nucleotide variant	NM_000090.4(COL3A1):c.2770G>T (p.Gly924Cys)	1281	COL3A1	Likely pathogenic	GRCh38	101165
+single nucleotide variant	NM_000090.4(COL3A1):c.3473G>A (p.Gly1158Asp)	1281	COL3A1	Pathogenic	GRCh38	101166
+single nucleotide variant	NM_000090.4(COL3A1):c.3482G>T (p.Gly1161Val)	1281	COL3A1	Pathogenic	GRCh38	101167
+single nucleotide variant	NM_000090.4(COL3A1):c.2068G>A (p.Gly690Arg)	1281	COL3A1	Pathogenic	GRCh38	101168
+single nucleotide variant	NM_000090.4(COL3A1):c.1466G>A (p.Gly489Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101170
+single nucleotide variant	NM_000090.4(COL3A1):c.547G>T (p.Gly183Cys)	1281	COL3A1	Pathogenic	GRCh38	101171
+single nucleotide variant	NM_000090.4(COL3A1):c.1808G>T (p.Gly603Val)	1281	COL3A1	Likely pathogenic	GRCh38	101172
+single nucleotide variant	NM_000090.4(COL3A1):c.809G>A (p.Gly270Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101173
+single nucleotide variant	NM_000090.4(COL3A1):c.3070C>T (p.Arg1024Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101174
+single nucleotide variant	NM_000090.4(COL3A1):c.3255+1G>A	1281	COL3A1	Pathogenic	GRCh38	101175
+single nucleotide variant	NM_000090.4(COL3A1):c.898G>C (p.Gly300Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101176
+single nucleotide variant	NM_000090.4(COL3A1):c.3508G>A (p.Gly1170Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101177
+single nucleotide variant	NM_000090.4(COL3A1):c.2726G>T (p.Gly909Val)	1281	COL3A1	Pathogenic	GRCh38	101178
+single nucleotide variant	NM_000090.4(COL3A1):c.2203G>A (p.Gly735Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101179
+single nucleotide variant	NM_000090.4(COL3A1):c.1240G>T (p.Gly414Cys)	1281	COL3A1	Pathogenic	GRCh38	101180
+single nucleotide variant	NM_000090.4(COL3A1):c.2482G>T (p.Gly828Trp)	1281	COL3A1	Pathogenic	GRCh38	101181
+single nucleotide variant	NM_000090.4(COL3A1):c.3554G>T (p.Gly1185Val)	1281	COL3A1	Pathogenic	GRCh38	101182
+single nucleotide variant	NM_000090.4(COL3A1):c.2935G>T (p.Glu979Ter)	1281	COL3A1	Pathogenic	GRCh38	101184
+single nucleotide variant	NM_000090.4(COL3A1):c.1330G>A (p.Gly444Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101185
+single nucleotide variant	NM_000090.4(COL3A1):c.3122G>T (p.Gly1041Val)	1281	COL3A1	Pathogenic	GRCh38	101187
+single nucleotide variant	NM_000090.4(COL3A1):c.2294G>T (p.Gly765Val)	1281	COL3A1	Pathogenic	GRCh38	101188
+single nucleotide variant	NM_000090.4(COL3A1):c.1979G>A (p.Gly660Asp)	1281	COL3A1	Pathogenic	GRCh38	101189
+single nucleotide variant	NM_000090.4(COL3A1):c.2555G>A (p.Gly852Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101190
+single nucleotide variant	NM_000090.4(COL3A1):c.547G>C (p.Gly183Arg)	1281	COL3A1	Pathogenic	GRCh38	101191
+single nucleotide variant	NM_000090.4(COL3A1):c.3437G>A (p.Gly1146Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101192
+single nucleotide variant	NM_000090.4(COL3A1):c.1294-3T>G	1281	COL3A1	Pathogenic	GRCh38	101193
+single nucleotide variant	NM_000090.4(COL3A1):c.690+2T>G	1281	COL3A1	Pathogenic	GRCh38	101194
+single nucleotide variant	NM_000090.4(COL3A1):c.1052G>T (p.Gly351Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101195
+single nucleotide variant	NM_000090.4(COL3A1):c.1087G>A (p.Gly363Ser)	1281	COL3A1	Likely pathogenic	GRCh38	101196
+single nucleotide variant	NM_000090.4(COL3A1):c.1475G>A (p.Gly492Glu)	1281	COL3A1	Pathogenic	GRCh38	101197
+single nucleotide variant	NM_000090.4(COL3A1):c.3255+5G>A	1281	COL3A1	Pathogenic	GRCh38	101198
+single nucleotide variant	NM_000090.4(COL3A1):c.3509G>T (p.Gly1170Val)	1281	COL3A1	Pathogenic	GRCh38	101199
+single nucleotide variant	NM_000090.4(COL3A1):c.3418-2A>T	1281	COL3A1	Pathogenic	GRCh38	101200
+single nucleotide variant	NM_000090.4(COL3A1):c.3093+2T>C	1281	COL3A1	Pathogenic	GRCh38	101201
+single nucleotide variant	NM_000090.4(COL3A1):c.3562G>A (p.Gly1188Arg)	1281	COL3A1	Pathogenic	GRCh38	101202
+single nucleotide variant	NM_000090.4(COL3A1):c.2708G>A (p.Gly903Glu)	1281	COL3A1	Pathogenic	GRCh38	101203
+single nucleotide variant	NM_000090.4(COL3A1):c.3039+1G>A	1281	COL3A1	Pathogenic	GRCh38	101204
+single nucleotide variant	NM_000090.4(COL3A1):c.565G>C (p.Gly189Arg)	1281	COL3A1	Pathogenic	GRCh38	101205
+single nucleotide variant	NM_000090.4(COL3A1):c.582+1G>C	1281	COL3A1	Likely pathogenic	GRCh38	101206
+single nucleotide variant	NM_000090.4(COL3A1):c.1761+5G>A	1281	COL3A1	Likely pathogenic	GRCh38	101209
+single nucleotide variant	NM_000090.4(COL3A1):c.2888G>A (p.Gly963Asp)	1281	COL3A1	Pathogenic	GRCh38	101210
+single nucleotide variant	NM_000090.4(COL3A1):c.2105G>A (p.Gly702Asp)	1281	COL3A1	Pathogenic	GRCh38	101212
+single nucleotide variant	NM_000090.4(COL3A1):c.2337+2T>C	1281	COL3A1	Pathogenic	GRCh38	101213
+single nucleotide variant	NM_000090.4(COL3A1):c.629G>T (p.Gly210Val)	1281	COL3A1	Pathogenic	GRCh38	101215
+single nucleotide variant	NM_000090.4(COL3A1):c.996+1G>A	1281	COL3A1	Pathogenic	GRCh38	101216
+single nucleotide variant	NM_000090.4(COL3A1):c.2825G>A (p.Gly942Glu)	1281	COL3A1	Pathogenic	GRCh38	101217
+single nucleotide variant	NM_000090.4(COL3A1):c.665G>T (p.Gly222Val)	1281	COL3A1	Pathogenic	GRCh38	101218
+single nucleotide variant	NM_000090.4(COL3A1):c.2554-1G>A	1281	COL3A1	Pathogenic	GRCh38	101219
+single nucleotide variant	NM_000090.4(COL3A1):c.1150-1G>C	1281	COL3A1	Pathogenic	GRCh38	101220
+single nucleotide variant	NM_000090.4(COL3A1):c.3517G>A (p.Gly1173Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101221
+single nucleotide variant	NM_000090.4(COL3A1):c.1906G>C (p.Gly636Arg)	1281	COL3A1	Pathogenic	GRCh38	101222
+single nucleotide variant	NM_000090.4(COL3A1):c.1501G>A (p.Gly501Arg)	1281	COL3A1	Pathogenic	GRCh38	101223
+single nucleotide variant	NM_000090.4(COL3A1):c.2510G>A (p.Gly837Asp)	1281	COL3A1	Pathogenic	GRCh38	101226
+single nucleotide variant	NM_000090.4(COL3A1):c.1786C>T (p.Arg596Ter)	1281	COL3A1	Pathogenic	GRCh38	242648
+single nucleotide variant	NM_000090.4(COL3A1):c.3851G>A (p.Gly1284Glu)	1281	COL3A1	Likely pathogenic	GRCh38	242647
+single nucleotide variant	NM_000090.4(COL3A1):c.1761+2T>C	1281	COL3A1	Pathogenic	GRCh38	101232
+single nucleotide variant	NM_000090.4(COL3A1):c.1808G>A (p.Gly603Asp)	1281	COL3A1	Pathogenic	GRCh38	101233
+single nucleotide variant	NM_000090.4(COL3A1):c.844G>A (p.Gly282Arg)	1281	COL3A1	Pathogenic	GRCh38	101234
+single nucleotide variant	NM_000090.4(COL3A1):c.3039+6T>C	1281	COL3A1	Pathogenic	GRCh38	101235
+single nucleotide variant	NM_000090.4(COL3A1):c.674G>T (p.Gly225Val)	1281	COL3A1	Likely pathogenic	GRCh38	101236
+single nucleotide variant	NM_000090.4(COL3A1):c.1231G>C (p.Gly411Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101237
+single nucleotide variant	NM_000090.4(COL3A1):c.1662+1G>T	1281	COL3A1	Pathogenic	GRCh38	101238
+single nucleotide variant	NM_000090.4(COL3A1):c.3391G>A (p.Gly1131Ser)	1281	COL3A1	Likely pathogenic	GRCh38	101239
+single nucleotide variant	NM_000090.4(COL3A1):c.951+6T>A	1281	COL3A1	Pathogenic	GRCh38	101242
+single nucleotide variant	NM_000090.4(COL3A1):c.1862G>T (p.Gly621Val)	1281	COL3A1	Pathogenic	GRCh38	101243
+single nucleotide variant	NM_000090.4(COL3A1):c.3167G>A (p.Gly1056Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101244
+single nucleotide variant	NM_000090.4(COL3A1):c.2285G>T (p.Gly762Val)	1281	COL3A1	Likely pathogenic	GRCh38	101245
+single nucleotide variant	NM_000090.4(COL3A1):c.2924G>T (p.Gly975Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101246
+single nucleotide variant	NM_000090.4(COL3A1):c.2185G>A (p.Gly729Arg)	1281	COL3A1	Pathogenic	GRCh38	101247
+single nucleotide variant	NM_000090.4(COL3A1):c.1142G>A (p.Gly381Asp)	1281	COL3A1	Pathogenic	GRCh38	101248
+single nucleotide variant	NM_000090.4(COL3A1):c.3140G>A (p.Gly1047Asp)	1281	COL3A1	Pathogenic	GRCh38	101249
+single nucleotide variant	NM_000090.4(COL3A1):c.3364-2A>C	1281	COL3A1	Pathogenic	GRCh38	101250
+single nucleotide variant	NM_000090.4(COL3A1):c.1115G>T (p.Gly372Val)	1281	COL3A1	Pathogenic	GRCh38	101251
+single nucleotide variant	NM_000090.4(COL3A1):c.2995G>C (p.Gly999Arg)	1281	COL3A1	Pathogenic	GRCh38	101252
+single nucleotide variant	NM_000090.4(COL3A1):c.2150G>A (p.Gly717Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101253
+single nucleotide variant	NM_000090.4(COL3A1):c.2815G>T (p.Gly939Cys)	1281	COL3A1	Likely pathogenic	GRCh38	101254
+single nucleotide variant	NM_000090.4(COL3A1):c.3203G>T (p.Gly1068Val)	1281	COL3A1	Pathogenic	GRCh38	101255
+single nucleotide variant	NM_000090.4(COL3A1):c.3032G>A (p.Gly1011Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101256
+single nucleotide variant	NM_000090.4(COL3A1):c.3490G>T (p.Gly1164Trp)	1281	COL3A1	Pathogenic	GRCh38	101257
+single nucleotide variant	NM_000090.4(COL3A1):c.3220G>A (p.Gly1074Ser)	1281	COL3A1	Pathogenic	GRCh38	101258
+single nucleotide variant	NM_000090.4(COL3A1):c.683G>A (p.Gly228Glu)	1281	COL3A1	Pathogenic	GRCh38	101259
+single nucleotide variant	NM_000090.4(COL3A1):c.582+6T>A	1281	COL3A1	Pathogenic	GRCh38	101260
+single nucleotide variant	NM_000090.4(COL3A1):c.898-1G>C	1281	COL3A1	Pathogenic	GRCh38	101261
+single nucleotide variant	NM_000090.4(COL3A1):c.637G>A (p.Gly213Ser)	1281	COL3A1	Pathogenic	GRCh38	101262
+single nucleotide variant	NM_000090.4(COL3A1):c.2284-2A>G	1281	COL3A1	Pathogenic	GRCh38	101263
+single nucleotide variant	NM_000090.4(COL3A1):c.755G>A (p.Gly252Asp)	1281	COL3A1	Pathogenic	GRCh38	101264
+single nucleotide variant	NM_000090.4(COL3A1):c.2915G>A (p.Gly972Asp)	1281	COL3A1	Pathogenic	GRCh38	101265
+single nucleotide variant	NM_000090.4(COL3A1):c.3319G>A (p.Gly1107Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101267
+single nucleotide variant	NM_000090.4(COL3A1):c.690+2T>A	1281	COL3A1	Pathogenic	GRCh38	101268
+single nucleotide variant	NM_000090.4(COL3A1):c.1662+1G>A	1281	COL3A1	Pathogenic	GRCh38	101269
+single nucleotide variant	NM_000090.4(COL3A1):c.2771G>T (p.Gly924Val)	1281	COL3A1	Pathogenic	GRCh38	101270
+single nucleotide variant	NM_000090.4(COL3A1):c.3418-1G>T	1281	COL3A1	Pathogenic	GRCh38	101272
+single nucleotide variant	NM_000090.4(COL3A1):c.3193G>A (p.Gly1065Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101273
+single nucleotide variant	NM_000090.4(COL3A1):c.2357G>T (p.Gly786Val)	1281	COL3A1	Pathogenic	GRCh38	101274
+single nucleotide variant	NM_000090.4(COL3A1):c.2806G>C (p.Gly936Arg)	1281	COL3A1	Pathogenic	GRCh38	101277
+single nucleotide variant	NM_000090.4(COL3A1):c.2833G>A (p.Gly945Ser)	1281	COL3A1	Likely pathogenic	GRCh38	101278
+single nucleotide variant	NM_000090.4(COL3A1):c.3039+5G>A	1281	COL3A1	Pathogenic	GRCh38	101279
+single nucleotide variant	NM_000090.4(COL3A1):c.1124G>A (p.Gly375Glu)	1281	COL3A1	Pathogenic	GRCh38	101280
+single nucleotide variant	NM_000090.4(COL3A1):c.737G>A (p.Gly246Glu)	1281	COL3A1	Pathogenic	GRCh38	101281
+single nucleotide variant	NM_000090.4(COL3A1):c.2897G>T (p.Gly966Val)	1281	COL3A1	Pathogenic	GRCh38	101282
+single nucleotide variant	NM_000090.4(COL3A1):c.1923+1G>A	1281	COL3A1	Pathogenic	GRCh38	101284
+single nucleotide variant	NM_000090.4(COL3A1):c.3535G>C (p.Gly1179Arg)	1281	COL3A1	Pathogenic	GRCh38	101285
+single nucleotide variant	NM_000090.4(COL3A1):c.1870-2A>T	1281	COL3A1	Likely pathogenic	GRCh38	101286
+single nucleotide variant	NM_000090.4(COL3A1):c.2987G>A (p.Gly996Glu)	1281	COL3A1	Pathogenic	GRCh38	101287
+single nucleotide variant	NM_000090.4(COL3A1):c.2059G>C (p.Gly687Arg)	1281	COL3A1	Pathogenic	GRCh38	101288
+single nucleotide variant	NM_000090.4(COL3A1):c.3500G>T (p.Gly1167Val)	1281	COL3A1	Pathogenic	GRCh38	101289
+single nucleotide variant	NM_000090.4(COL3A1):c.2905G>A (p.Gly969Arg)	1281	COL3A1	Pathogenic	GRCh38	101291
+single nucleotide variant	NM_000090.4(COL3A1):c.2168G>A (p.Gly723Asp)	1281	COL3A1	Pathogenic	GRCh38	101292
+single nucleotide variant	NM_000090.4(COL3A1):c.1194+1G>A	1281	COL3A1	Pathogenic	GRCh38	101293
+single nucleotide variant	NM_000090.4(COL3A1):c.3104G>T (p.Gly1035Val)	1281	COL3A1	Likely pathogenic	GRCh38	101294
+single nucleotide variant	NM_000090.4(COL3A1):c.746G>T (p.Gly249Val)	1281	COL3A1	Pathogenic	GRCh38	101295
+single nucleotide variant	NM_000090.4(COL3A1):c.2959G>A (p.Gly987Ser)	1281	COL3A1	Pathogenic	GRCh38	101296
+single nucleotide variant	NM_000090.4(COL3A1):c.1618G>A (p.Gly540Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101297
+single nucleotide variant	NM_000090.4(COL3A1):c.1268G>A (p.Gly423Asp)	1281	COL3A1	Pathogenic	GRCh38	101299
+single nucleotide variant	NM_000090.4(COL3A1):c.2051G>T (p.Gly684Val)	1281	COL3A1	Pathogenic	GRCh38	101301
+single nucleotide variant	NM_000090.4(COL3A1):c.962G>T (p.Gly321Val)	1281	COL3A1	Pathogenic	GRCh38	101302
+single nucleotide variant	NM_000090.4(COL3A1):c.2681G>C (p.Gly894Ala)	1281	COL3A1	Likely pathogenic	GRCh38	101303
+single nucleotide variant	NM_000090.4(COL3A1):c.2087G>A (p.Gly696Asp)	1281	COL3A1	Pathogenic	GRCh38	101305
+single nucleotide variant	NM_000090.4(COL3A1):c.620G>T (p.Gly207Val)	1281	COL3A1	Pathogenic	GRCh38	101306
+single nucleotide variant	NM_000090.4(COL3A1):c.836G>A (p.Gly279Asp)	1281	COL3A1	Pathogenic	GRCh38	101307
+single nucleotide variant	NM_000090.4(COL3A1):c.2933G>A (p.Gly978Asp)	1281	COL3A1	Pathogenic	GRCh38	101309
+single nucleotide variant	NM_000090.4(COL3A1):c.647G>A (p.Gly216Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101310
+single nucleotide variant	NM_000090.4(COL3A1):c.2024G>T (p.Gly675Val)	1281	COL3A1	Likely pathogenic	GRCh38	101311
+single nucleotide variant	NM_000090.4(COL3A1):c.951+4A>T	1281	COL3A1	Likely pathogenic	GRCh38	101312
+single nucleotide variant	NM_000090.4(COL3A1):c.2699G>A (p.Gly900Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101313
+single nucleotide variant	NM_000090.4(COL3A1):c.1869+1G>C	1281	COL3A1	Pathogenic	GRCh38	101314
+single nucleotide variant	NM_000090.4(COL3A1):c.592G>A (p.Gly198Arg)	1281	COL3A1	Pathogenic	GRCh38	101315
+single nucleotide variant	NM_000090.4(COL3A1):c.2770G>A (p.Gly924Ser)	1281	COL3A1	Pathogenic	GRCh38	101316
+single nucleotide variant	NM_000090.4(COL3A1):c.997-2A>G	1281	COL3A1	Pathogenic	GRCh38	101317
+single nucleotide variant	NM_000090.4(COL3A1):c.1977+2T>G	1281	COL3A1	Pathogenic	GRCh38	101319
+single nucleotide variant	NM_000090.4(COL3A1):c.791G>A (p.Gly264Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101320
+single nucleotide variant	NM_000090.4(COL3A1):c.1662+1G>C	1281	COL3A1	Pathogenic	GRCh38	101321
+single nucleotide variant	NM_000090.4(COL3A1):c.764G>T (p.Gly255Val)	1281	COL3A1	Pathogenic	GRCh38	101322
+single nucleotide variant	NM_000090.4(COL3A1):c.2194G>A (p.Gly732Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101323
+single nucleotide variant	NM_000090.4(COL3A1):c.976C>T (p.Arg326Ter)	1281	COL3A1	Pathogenic	GRCh38	101324
+single nucleotide variant	NM_000090.4(COL3A1):c.2915G>C (p.Gly972Ala)	1281	COL3A1	Likely pathogenic	GRCh38	101326
+single nucleotide variant	NM_000090.4(COL3A1):c.3499G>C (p.Gly1167Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101327
+single nucleotide variant	NM_000090.4(COL3A1):c.3284G>A (p.Gly1095Asp)	1281	COL3A1	Pathogenic	GRCh38	101328
+single nucleotide variant	NM_000090.4(COL3A1):c.1330G>C (p.Gly444Arg)	1281	COL3A1	Pathogenic	GRCh38	101329
+single nucleotide variant	NM_000090.4(COL3A1):c.1898G>A (p.Gly633Glu)	1281	COL3A1	Pathogenic	GRCh38	101331
+single nucleotide variant	NM_000090.4(COL3A1):c.1816G>C (p.Gly606Arg)	1281	COL3A1	Pathogenic	GRCh38	101333
+single nucleotide variant	NM_000090.4(COL3A1):c.3293G>T (p.Gly1098Val)	1281	COL3A1	Pathogenic	GRCh38	101334
+single nucleotide variant	NM_000090.4(COL3A1):c.2213G>T (p.Gly738Val)	1281	COL3A1	Pathogenic	GRCh38	101335
+single nucleotide variant	NM_000090.4(COL3A1):c.1861G>T (p.Gly621Trp)	1281	COL3A1	Pathogenic	GRCh38	101336
+single nucleotide variant	NM_000090.4(COL3A1):c.2824-1G>A	1281	COL3A1	Pathogenic	GRCh38	101337
+single nucleotide variant	NM_000090.4(COL3A1):c.4399T>C (p.Ter1467Gln)	1281	COL3A1	Pathogenic	GRCh38	101338
+single nucleotide variant	NM_000090.4(COL3A1):c.1475G>T (p.Gly492Val)	1281	COL3A1	Likely pathogenic	GRCh38	101340
+single nucleotide variant	NM_000090.4(COL3A1):c.3176G>T (p.Gly1059Val)	1281	COL3A1	Pathogenic	GRCh38	101341
+single nucleotide variant	NM_000090.4(COL3A1):c.1961G>A (p.Gly654Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101342
+single nucleotide variant	NM_000090.4(COL3A1):c.1358G>A (p.Gly453Asp)	1281	COL3A1	Pathogenic	GRCh38	101343
+single nucleotide variant	NM_000090.4(COL3A1):c.1862G>A (p.Gly621Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101344
+single nucleotide variant	NM_000090.4(COL3A1):c.2645G>A (p.Gly882Asp)	1281	COL3A1	Pathogenic	GRCh38	101345
+single nucleotide variant	NM_000090.4(COL3A1):c.2113G>A (p.Gly705Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101346
+single nucleotide variant	NM_000090.4(COL3A1):c.655G>T (p.Gly219Cys)	1281	COL3A1	Pathogenic	GRCh38	101347
+single nucleotide variant	NM_000090.4(COL3A1):c.709G>A (p.Gly237Arg)	1281	COL3A1	Pathogenic	GRCh38	101349
+single nucleotide variant	NM_000090.4(COL3A1):c.1761+2T>G	1281	COL3A1	Pathogenic	GRCh38	101350
+single nucleotide variant	NM_000090.4(COL3A1):c.611G>A (p.Gly204Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101351
+single nucleotide variant	NM_000090.4(COL3A1):c.3536G>T (p.Gly1179Val)	1281	COL3A1	Likely pathogenic	GRCh38	101352
+single nucleotide variant	NM_000090.4(COL3A1):c.3545G>T (p.Gly1182Val)	1281	COL3A1	Pathogenic	GRCh38	101354
+single nucleotide variant	NM_000090.4(COL3A1):c.2212G>T (p.Gly738Cys)	1281	COL3A1	Pathogenic	GRCh38	101355
+single nucleotide variant	NM_000090.4(COL3A1):c.728G>T (p.Gly243Val)	1281	COL3A1	Likely pathogenic	GRCh38	101356
+single nucleotide variant	NM_000090.4(COL3A1):c.1149+1G>T	1281	COL3A1	Pathogenic	GRCh38	101358
+single nucleotide variant	NM_000090.4(COL3A1):c.2293G>A (p.Gly765Ser)	1281	COL3A1	Pathogenic	GRCh38	101359
+single nucleotide variant	NM_000090.4(COL3A1):c.656G>A (p.Gly219Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101360
+single nucleotide variant	NM_000090.4(COL3A1):c.1267G>A (p.Gly423Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101361
+single nucleotide variant	NM_000090.4(COL3A1):c.2105G>T (p.Gly702Val)	1281	COL3A1	Likely pathogenic	GRCh38	101362
+single nucleotide variant	NM_000090.4(COL3A1):c.1511G>T (p.Gly504Val)	1281	COL3A1	Pathogenic	GRCh38	101363
+single nucleotide variant	NM_000090.4(COL3A1):c.926G>A (p.Gly309Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101364
+single nucleotide variant	NM_000090.4(COL3A1):c.1384G>A (p.Gly462Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101365
+single nucleotide variant	NM_000090.4(COL3A1):c.1844G>A (p.Gly615Glu)	1281	COL3A1	Pathogenic	GRCh38	101366
+single nucleotide variant	NM_000090.4(COL3A1):c.782G>A (p.Gly261Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101367
+single nucleotide variant	NM_000090.4(COL3A1):c.1249G>A (p.Gly417Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101369
+single nucleotide variant	NM_000090.4(COL3A1):c.2176G>A (p.Gly726Arg)	1281	COL3A1	Pathogenic	GRCh38	101370
+single nucleotide variant	NM_000090.4(COL3A1):c.3356G>A (p.Gly1119Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101371
+single nucleotide variant	NM_000090.4(COL3A1):c.2887G>T (p.Gly963Cys)	1281	COL3A1	Pathogenic	GRCh38	101372
+single nucleotide variant	NM_000090.4(COL3A1):c.593G>A (p.Gly198Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101373
+single nucleotide variant	NM_000090.4(COL3A1):c.2501G>A (p.Gly834Asp)	1281	COL3A1	Pathogenic	GRCh38	101374
+single nucleotide variant	NM_000090.4(COL3A1):c.3518G>T (p.Gly1173Val)	1281	COL3A1	Pathogenic	GRCh38	101375
+single nucleotide variant	NM_000090.4(COL3A1):c.2022G>A (p.Lys674=)	1281	COL3A1	Likely pathogenic	GRCh38	101376
+single nucleotide variant	NM_000090.4(COL3A1):c.2285G>A (p.Gly762Asp)	1281	COL3A1	Pathogenic	GRCh38	101377
+single nucleotide variant	NM_000090.4(COL3A1):c.827G>A (p.Gly276Asp)	1281	COL3A1	Pathogenic	GRCh38	101378
+single nucleotide variant	NM_000090.4(COL3A1):c.2636G>T (p.Gly879Val)	1281	COL3A1	Pathogenic	GRCh38	101379
+single nucleotide variant	NM_000090.4(COL3A1):c.3417+1G>C	1281	COL3A1	Pathogenic	GRCh38	101380
+single nucleotide variant	NM_000090.4(COL3A1):c.3545G>A (p.Gly1182Glu)	1281	COL3A1	Pathogenic	GRCh38	101381
+single nucleotide variant	NM_000090.4(COL3A1):c.3496C>T (p.Arg1166Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101382
+single nucleotide variant	NM_000090.4(COL3A1):c.548G>C (p.Gly183Ala)	1281	COL3A1	Pathogenic	GRCh38	101384
+single nucleotide variant	NM_000090.4(COL3A1):c.3419G>A (p.Gly1140Glu)	1281	COL3A1	Pathogenic	GRCh38	101385
+single nucleotide variant	NM_000090.4(COL3A1):c.2995G>A (p.Gly999Ser)	1281	COL3A1	Pathogenic	GRCh38	101386
+single nucleotide variant	NM_000090.4(COL3A1):c.996+2T>A	1281	COL3A1	Pathogenic	GRCh38	101387
+single nucleotide variant	NM_000090.4(COL3A1):c.970G>A (p.Gly324Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101388
+single nucleotide variant	NM_000090.4(COL3A1):c.3157G>C (p.Gly1053Arg)	1281	COL3A1	Pathogenic	GRCh38	101389
+single nucleotide variant	NM_000090.4(COL3A1):c.962G>A (p.Gly321Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101390
+single nucleotide variant	NM_000090.4(COL3A1):c.951+1G>A	1281	COL3A1	Pathogenic	GRCh38	101391
+single nucleotide variant	NM_000090.4(COL3A1):c.583G>C (p.Gly195Arg)	1281	COL3A1	Pathogenic	GRCh38	101392
+single nucleotide variant	NM_000090.4(COL3A1):c.665G>A (p.Gly222Asp)	1281	COL3A1	Pathogenic	GRCh38	101393
+single nucleotide variant	NM_000090.4(COL3A1):c.2123G>T (p.Gly708Val)	1281	COL3A1	Pathogenic	GRCh38	101395
+single nucleotide variant	NM_000090.4(COL3A1):c.2870G>A (p.Gly957Asp)	1281	COL3A1	Pathogenic	GRCh38	101397
+single nucleotide variant	NM_000090.4(COL3A1):c.701G>A (p.Gly234Asp)	1281	COL3A1	Pathogenic	GRCh38	101399
+single nucleotide variant	NM_000090.4(COL3A1):c.3863A>T (p.Asp1288Val)	1281	COL3A1	Pathogenic	GRCh38	101401
+single nucleotide variant	NM_000090.4(COL3A1):c.3490G>A (p.Gly1164Arg)	1281	COL3A1	Pathogenic	GRCh38	101402
+single nucleotide variant	NM_000090.4(COL3A1):c.3023G>A (p.Gly1008Asp)	1281	COL3A1	Pathogenic	GRCh38	101403
+single nucleotide variant	NM_000090.4(COL3A1):c.690+1G>A	1281	COL3A1	Pathogenic	GRCh38	101404
+single nucleotide variant	NM_000090.4(COL3A1):c.1925G>T (p.Gly642Val)	1281	COL3A1	Pathogenic	GRCh38	101406
+single nucleotide variant	NM_000090.4(COL3A1):c.2753G>A (p.Gly918Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101407
+single nucleotide variant	NM_000090.4(COL3A1):c.2607+5G>A	1281	COL3A1	Pathogenic	GRCh38	101409
+single nucleotide variant	NM_000090.4(COL3A1):c.2337+1G>A	1281	COL3A1	Pathogenic	GRCh38	101410
+single nucleotide variant	NM_000090.4(COL3A1):c.2887G>C (p.Gly963Arg)	1281	COL3A1	Pathogenic	GRCh38	101411
+single nucleotide variant	NM_000090.4(COL3A1):c.2553+1G>A	1281	COL3A1	Pathogenic	GRCh38	101413
+single nucleotide variant	NM_000090.4(COL3A1):c.3275G>T (p.Gly1092Val)	1281	COL3A1	Pathogenic	GRCh38	101416
+single nucleotide variant	NM_000090.4(COL3A1):c.3256-43T>G	1281	COL3A1	Pathogenic	GRCh38	101417
+single nucleotide variant	NM_000090.4(COL3A1):c.2095G>C (p.Gly699Arg)	1281	COL3A1	Pathogenic	GRCh38	101418
+single nucleotide variant	NM_000090.4(COL3A1):c.1915G>A (p.Gly639Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101419
+single nucleotide variant	NM_000090.4(COL3A1):c.3093+2T>G	1281	COL3A1	Pathogenic	GRCh38	101420
+single nucleotide variant	NM_000090.4(COL3A1):c.3418-2A>G	1281	COL3A1	Pathogenic	GRCh38	101422
+single nucleotide variant	NM_000090.4(COL3A1):c.997-10A>G	1281	COL3A1	Pathogenic	GRCh38	101423
+single nucleotide variant	NM_000090.4(COL3A1):c.582+5G>A	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101425
+single nucleotide variant	NM_000090.4(COL3A1):c.764G>A (p.Gly255Glu)	1281	COL3A1	Pathogenic	GRCh38	101426
+single nucleotide variant	NM_000090.4(COL3A1):c.3325C>T (p.Arg1109Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101427
+single nucleotide variant	NM_000090.4(COL3A1):c.728G>A (p.Gly243Glu)	1281	COL3A1	Pathogenic	GRCh38	101428
+single nucleotide variant	NM_000090.4(COL3A1):c.3266G>A (p.Gly1089Asp)	1281	COL3A1	Pathogenic	GRCh38	101429
+single nucleotide variant	NM_000090.4(COL3A1):c.998G>A (p.Gly333Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101430
+single nucleotide variant	NM_000090.4(COL3A1):c.2860G>A (p.Gly954Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101431
+single nucleotide variant	NM_000090.4(COL3A1):c.2121+1G>C	1281	COL3A1	Likely pathogenic	GRCh38	101432
+single nucleotide variant	NM_000090.4(COL3A1):c.636+1G>A	1281	COL3A1	Pathogenic	GRCh38	101433
+single nucleotide variant	NM_000090.4(COL3A1):c.1988G>T (p.Gly663Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101434
+single nucleotide variant	NM_000090.4(COL3A1):c.30G>A (p.Trp10Ter)	1281	COL3A1	Likely pathogenic	GRCh38	101435
+single nucleotide variant	NM_000090.4(COL3A1):c.2141G>A (p.Gly714Glu)	1281	COL3A1	Pathogenic	GRCh38	101436
+single nucleotide variant	NM_000090.4(COL3A1):c.1646G>A (p.Gly549Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101437
+single nucleotide variant	NM_000090.4(COL3A1):c.2186G>A (p.Gly729Glu)	1281	COL3A1	Pathogenic	GRCh38	101438
+single nucleotide variant	NM_000090.4(COL3A1):c.3202-2A>G	1281	COL3A1	Pathogenic	GRCh38	101440
+single nucleotide variant	NM_000090.4(COL3A1):c.3544G>A (p.Gly1182Arg)	1281	COL3A1	Pathogenic	GRCh38	101441
+single nucleotide variant	NM_000090.4(COL3A1):c.1861G>C (p.Gly621Arg)	1281	COL3A1	Pathogenic	GRCh38	101442
+single nucleotide variant	NM_000090.4(COL3A1):c.2553+2T>C	1281	COL3A1	Pathogenic	GRCh38	101443
+single nucleotide variant	NM_000090.4(COL3A1):c.2221G>A (p.Gly741Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101444
+single nucleotide variant	NM_000090.4(COL3A1):c.2870G>T (p.Gly957Val)	1281	COL3A1	Pathogenic	GRCh38	101446
+single nucleotide variant	NM_000090.4(COL3A1):c.997-1G>C	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101447
+single nucleotide variant	NM_000090.4(COL3A1):c.636+5G>A	1281	COL3A1	Pathogenic	GRCh38	101448
+single nucleotide variant	NM_000090.4(COL3A1):c.2402G>A (p.Gly801Asp)	1281	COL3A1	Pathogenic	GRCh38	101449
+single nucleotide variant	NM_000090.4(COL3A1):c.2554G>T (p.Gly852Cys)	1281	COL3A1	Pathogenic	GRCh38	101450
+single nucleotide variant	NM_000090.4(COL3A1):c.1763G>A (p.Gly588Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101451
+single nucleotide variant	NM_000090.4(COL3A1):c.1258G>A (p.Gly420Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101452
+single nucleotide variant	NM_000090.4(COL3A1):c.1556G>A (p.Gly519Glu)	1281	COL3A1	Pathogenic	GRCh38	101453
+single nucleotide variant	NM_000090.4(COL3A1):c.2284G>C (p.Gly762Arg)	1281	COL3A1	Pathogenic	GRCh38	101454
+single nucleotide variant	NM_000090.4(COL3A1):c.2131G>A (p.Gly711Ser)	1281	COL3A1	Pathogenic	GRCh38	101455
+single nucleotide variant	NM_000090.4(COL3A1):c.1096G>A (p.Gly366Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101456
+single nucleotide variant	NM_000090.4(COL3A1):c.2231G>T (p.Gly744Val)	1281	COL3A1	Pathogenic	GRCh38	101457
+single nucleotide variant	NM_000090.4(COL3A1):c.2177G>A (p.Gly726Glu)	1281	COL3A1	Pathogenic	GRCh38	101458
+single nucleotide variant	NM_000090.4(COL3A1):c.1970G>A (p.Gly657Glu)	1281	COL3A1	Pathogenic	GRCh38	101459
+single nucleotide variant	NM_000090.4(COL3A1):c.1923+1G>C	1281	COL3A1	Pathogenic	GRCh38	101460
+single nucleotide variant	NM_000090.4(COL3A1):c.3499G>T (p.Gly1167Cys)	1281	COL3A1	Likely pathogenic	GRCh38	101461
+single nucleotide variant	NM_000090.4(COL3A1):c.1456-10T>G	1281	COL3A1	Pathogenic	GRCh38	101463
+single nucleotide variant	NM_000090.4(COL3A1):c.3490G>C (p.Gly1164Arg)	1281	COL3A1	Pathogenic	GRCh38	101465
+single nucleotide variant	NM_000090.4(COL3A1):c.3572G>A (p.Gly1191Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101466
+single nucleotide variant	NM_000090.4(COL3A1):c.3103G>T (p.Gly1035Cys)	1281	COL3A1	Likely pathogenic	GRCh38	101467
+single nucleotide variant	NM_000090.4(COL3A1):c.674G>C (p.Gly225Ala)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101469
+single nucleotide variant	NM_000090.4(COL3A1):c.754G>C (p.Gly252Arg)	1281	COL3A1	Likely pathogenic	GRCh38	101470
+single nucleotide variant	NM_000090.4(COL3A1):c.2096G>A (p.Gly699Asp)	1281	COL3A1	Pathogenic	GRCh38	101471
+single nucleotide variant	NM_000090.4(COL3A1):c.2815G>A (p.Gly939Ser)	1281	COL3A1	Pathogenic	GRCh38	101472
+single nucleotide variant	NM_000090.4(COL3A1):c.1347+1G>T	1281	COL3A1	Pathogenic	GRCh38	101473
+single nucleotide variant	NM_000090.4(COL3A1):c.2023-1G>A	1281	COL3A1	Pathogenic	GRCh38	101475
+single nucleotide variant	NM_000090.4(COL3A1):c.3212G>T (p.Gly1071Val)	1281	COL3A1	Pathogenic	GRCh38	101476
+single nucleotide variant	NM_000090.4(COL3A1):c.575G>T (p.Gly192Val)	1281	COL3A1	Pathogenic	GRCh38	101477
+single nucleotide variant	NM_000090.4(COL3A1):c.610G>A (p.Gly204Ser)	1281	COL3A1	Pathogenic	GRCh38	101478
+single nucleotide variant	NM_000090.4(COL3A1):c.2553+1G>C	1281	COL3A1	Pathogenic	GRCh38	101479
+single nucleotide variant	NM_000090.4(COL3A1):c.3417+1G>T	1281	COL3A1	Pathogenic	GRCh38	101480
+single nucleotide variant	NM_000090.4(COL3A1):c.2553+3A>T	1281	COL3A1	Pathogenic	GRCh38	101482
+single nucleotide variant	NM_000090.4(COL3A1):c.539G>A (p.Gly180Asp)	1281	COL3A1	Likely pathogenic	GRCh38	101483
+single nucleotide variant	NM_000090.4(COL3A1):c.3472G>C (p.Gly1158Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	101484
+single nucleotide variant	NM_000090.4(COL3A1):c.1869+5G>T	1281	COL3A1	Pathogenic	GRCh38	101485
+single nucleotide variant	NM_000090.4(COL3A1):c.2735G>A (p.Gly912Asp)	1281	COL3A1	Pathogenic	GRCh38	101486
+single nucleotide variant	NM_000090.4(COL3A1):c.3482G>A (p.Gly1161Glu)	1281	COL3A1	Likely pathogenic	GRCh38	101487
+single nucleotide variant	NM_000090.4(COL3A1):c.2573G>T (p.Gly858Val)	1281	COL3A1	Pathogenic	GRCh38	101488
+single nucleotide variant	NM_000090.4(COL3A1):c.799G>A (p.Gly267Ser)	1281	COL3A1	Pathogenic	GRCh38	101489
+single nucleotide variant	NM_000090.4(COL3A1):c.2022G>T (p.Lys674Asn)	1281	COL3A1	Pathogenic	GRCh38	101490
+single nucleotide variant	NM_000090.4(COL3A1):c.582+5G>T	1281	COL3A1	Pathogenic	GRCh38	101492
+single nucleotide variant	NM_000090.4(COL3A1):c.3410G>A (p.Gly1137Asp)	1281	COL3A1	Pathogenic	GRCh38	101493
+single nucleotide variant	NM_000090.4(COL3A1):c.1347+5G>C	1281	COL3A1	Pathogenic	GRCh38	101494
+single nucleotide variant	NM_000090.4(COL3A1):c.1762-2A>G	1281	COL3A1	Pathogenic	GRCh38	101495
+single nucleotide variant	NM_000090.4(COL3A1):c.2914G>A (p.Gly972Ser)	1281	COL3A1	Likely pathogenic	GRCh38	101496
+single nucleotide variant	NM_000090.4(COL3A1):c.1151G>T (p.Gly384Val)	1281	COL3A1	Likely pathogenic	GRCh38	194694
+single nucleotide variant	NM_000090.4(COL3A1):c.528+5G>C	1281	COL3A1	Likely pathogenic	GRCh38	199710
+single nucleotide variant	NM_000090.4(COL3A1):c.565G>A (p.Gly189Ser)	1281	COL3A1	Likely pathogenic	GRCh38	199752
+single nucleotide variant	NM_000090.4(COL3A1):c.1024G>A (p.Gly342Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	199715
+single nucleotide variant	NM_000090.4(COL3A1):c.1223G>A (p.Gly408Glu)	1281	COL3A1	Likely pathogenic	GRCh38	199719
+single nucleotide variant	NM_000090.4(COL3A1):c.1241G>T (p.Gly414Val)	1281	COL3A1	Likely pathogenic	GRCh38	199720
+single nucleotide variant	NM_000090.4(COL3A1):c.2132G>T (p.Gly711Val)	1281	COL3A1	Likely pathogenic	GRCh38	199728
+single nucleotide variant	NM_000090.4(COL3A1):c.2338-2A>G	1281	COL3A1	Pathogenic	GRCh38	199729
+single nucleotide variant	NM_000090.4(COL3A1):c.2464G>A (p.Gly822Ser)	1281	COL3A1	Likely pathogenic	GRCh38	199730
+single nucleotide variant	NM_000090.4(COL3A1):c.2689G>A (p.Gly897Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	199735
+single nucleotide variant	NM_000090.4(COL3A1):c.3266G>T (p.Gly1089Val)	1281	COL3A1	Likely pathogenic	GRCh38	199740
+single nucleotide variant	NM_000090.4(COL3A1):c.3329G>A (p.Gly1110Glu)	1281	COL3A1	Likely pathogenic	GRCh38	199743
+single nucleotide variant	NM_000090.4(COL3A1):c.4072C>T (p.Arg1358Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	199747
+single nucleotide variant	NM_000090.4(COL3A1):c.4087C>T (p.Arg1363Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	199753
+single nucleotide variant	NM_000090.4(COL3A1):c.4096C>T (p.Gln1366Ter)	1281	COL3A1	Likely pathogenic	GRCh38	216910
+single nucleotide variant	NM_000090.4(COL3A1):c.754G>T (p.Gly252Cys)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	228249
+single nucleotide variant	NM_000090.4(COL3A1):c.2843G>A (p.Gly948Glu)	1281	COL3A1	Likely pathogenic	GRCh38	236994
+single nucleotide variant	NM_000090.4(COL3A1):c.1241G>A (p.Gly414Asp)	1281	COL3A1	Likely pathogenic	GRCh38	263829
+single nucleotide variant	NM_000090.4(COL3A1):c.1727G>A (p.Gly576Asp)	1281	COL3A1	Likely pathogenic	GRCh38	263581
+single nucleotide variant	NM_000090.4(COL3A1):c.1303G>A (p.Gly435Ser)	1281	COL3A1	Likely pathogenic	GRCh38	263854
+single nucleotide variant	NM_000090.4(COL3A1):c.3229G>A (p.Gly1077Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	263685
+single nucleotide variant	NM_000090.4(COL3A1):c.3544G>C (p.Gly1182Arg)	1281	COL3A1	Pathogenic	GRCh38	280350
+single nucleotide variant	NM_000090.4(COL3A1):c.1471C>T (p.Arg491Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	372921
+single nucleotide variant	NM_000090.4(COL3A1):c.897+1G>A	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	373363
+single nucleotide variant	NM_000090.4(COL3A1):c.811C>T (p.Arg271Ter)	1281	COL3A1	Pathogenic	GRCh38	381616
+single nucleotide variant	NM_000090.4(COL3A1):c.1106G>A (p.Gly369Glu)	1281	COL3A1	Pathogenic	GRCh38	384345
+single nucleotide variant	NM_000090.4(COL3A1):c.1484G>C (p.Gly495Ala)	1281	COL3A1	Likely pathogenic	GRCh38	392836
+single nucleotide variant	NM_000090.4(COL3A1):c.2123G>C (p.Gly708Ala)	1281	COL3A1	Pathogenic	GRCh38	383538
+single nucleotide variant	NM_000090.4(COL3A1):c.2608-2A>C	1281	COL3A1	Likely pathogenic	GRCh38	389939
+single nucleotide variant	NM_000090.4(COL3A1):c.1196G>C (p.Gly399Ala)	1281	COL3A1	Likely pathogenic	GRCh38	404290
+single nucleotide variant	NM_000090.4(COL3A1):c.944G>T (p.Gly315Val)	1281	COL3A1	Likely pathogenic	GRCh38	404297
+single nucleotide variant	NM_000090.4(COL3A1):c.3833G>A (p.Trp1278Ter)	1281	COL3A1	Pathogenic	GRCh38	404267
+single nucleotide variant	NM_000090.4(COL3A1):c.1294-1G>C	1281	COL3A1	Likely pathogenic	GRCh38	404305
+single nucleotide variant	NM_000090.4(COL3A1):c.3257G>T (p.Gly1086Val)	1281	COL3A1	Pathogenic	GRCh38	404304
+single nucleotide variant	NM_000090.4(COL3A1):c.2312G>A (p.Gly771Asp)	1281	COL3A1	Likely pathogenic	GRCh38	404287
+single nucleotide variant	NM_000090.4(COL3A1):c.1204G>A (p.Gly402Ser)	1281	COL3A1	Likely pathogenic	GRCh38	424523
+single nucleotide variant	NM_000090.4(COL3A1):c.1222G>A (p.Gly408Arg)	1281	COL3A1	Pathogenic	GRCh38	420551
+single nucleotide variant	NM_000090.4(COL3A1):c.1978-1G>C	1281	COL3A1	Likely pathogenic	GRCh38	423991
+single nucleotide variant	NM_000090.4(COL3A1):c.2582G>A (p.Gly861Asp)	1281	COL3A1	Likely pathogenic	GRCh38	423515
+single nucleotide variant	NM_000090.4(COL3A1):c.3499G>A (p.Gly1167Ser)	1281	COL3A1	Pathogenic	GRCh38	419652
+single nucleotide variant	NM_000090.4(COL3A1):c.2752G>A (p.Gly918Arg)	1281	COL3A1	Likely pathogenic	GRCh38	427009
+single nucleotide variant	NM_000090.4(COL3A1):c.2996G>T (p.Gly999Val)	1281	COL3A1	Likely pathogenic	GRCh38	427110
+single nucleotide variant	NM_000090.4(COL3A1):c.282+1G>C	1281	COL3A1	Likely pathogenic	GRCh38	430560
+single nucleotide variant	NM_000090.4(COL3A1):c.2221G>T (p.Gly741Cys)	1281	COL3A1	Pathogenic	GRCh38	429978
+single nucleotide variant	NM_000090.4(COL3A1):c.3049G>A (p.Gly1017Arg)	1281	COL3A1	Likely pathogenic	GRCh38	444545
+single nucleotide variant	NM_000090.4(COL3A1):c.3077G>T (p.Gly1026Val)	1281	COL3A1	Likely pathogenic	GRCh38	451054
+single nucleotide variant	NM_000090.4(COL3A1):c.4175T>G (p.Leu1392Arg)	1281	COL3A1	Likely pathogenic	GRCh38	452922
+single nucleotide variant	NM_000090.4(COL3A1):c.2762G>A (p.Gly921Glu)	1281	COL3A1	Likely pathogenic	GRCh38	459778
+single nucleotide variant	NM_000090.4(COL3A1):c.1484G>A (p.Gly495Glu)	1281	COL3A1	Likely pathogenic	GRCh38	459763
+single nucleotide variant	NM_000090.4(COL3A1):c.3103G>A (p.Gly1035Ser)	1281	COL3A1	Likely pathogenic	GRCh38	459784
+single nucleotide variant	NM_000090.4(COL3A1):c.3500G>A (p.Gly1167Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	459787
+single nucleotide variant	NM_000090.4(COL3A1):c.3581G>A (p.Gly1194Asp)	1281	COL3A1	Likely pathogenic	GRCh38	459789
+single nucleotide variant	NM_000090.4(COL3A1):c.619G>T (p.Gly207Trp)	1281	COL3A1	Pathogenic	GRCh38	459795
+single nucleotide variant	NM_000090.4(COL3A1):c.3194G>A (p.Gly1065Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	459785
+single nucleotide variant	NM_000090.4(COL3A1):c.584G>T (p.Gly195Val)	1281	COL3A1	Likely pathogenic	GRCh38	493305
+single nucleotide variant	NM_000090.4(COL3A1):c.1762G>A (p.Gly588Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	495541
+single nucleotide variant	NM_000090.4(COL3A1):c.1178G>A (p.Gly393Asp)	1281	COL3A1	Likely pathogenic	GRCh38	517129
+single nucleotide variant	NM_000090.4(COL3A1):c.712C>T (p.Arg238Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	519603
+single nucleotide variant	NM_000090.4(COL3A1):c.898-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	519618
+single nucleotide variant	NM_000090.4(COL3A1):c.1303G>T (p.Gly435Cys)	1281	COL3A1	Likely pathogenic	GRCh38	519606
+single nucleotide variant	NM_000090.4(COL3A1):c.1421G>T (p.Gly474Val)	1281	COL3A1	Likely pathogenic	GRCh38	519609
+single nucleotide variant	NM_000090.4(COL3A1):c.1987G>A (p.Gly663Ser)	1281	COL3A1	Likely pathogenic	GRCh38	519597
+single nucleotide variant	NM_000090.4(COL3A1):c.2069G>A (p.Gly690Glu)	1281	COL3A1	Likely pathogenic	GRCh38	519607
+single nucleotide variant	NM_000090.4(COL3A1):c.2392-2A>C	1281	COL3A1	Pathogenic	GRCh38	519598
+single nucleotide variant	NM_000090.4(COL3A1):c.1871G>T (p.Gly624Val)	1281	COL3A1	Likely pathogenic	GRCh38	3894809
+single nucleotide variant	NM_000090.4(COL3A1):c.721G>A (p.Glu241Lys)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	529313
+single nucleotide variant	NM_000090.4(COL3A1):c.953G>A (p.Gly318Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	529315
+single nucleotide variant	NM_000090.4(COL3A1):c.3040G>A (p.Gly1014Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	529317
+single nucleotide variant	NM_000090.4(COL3A1):c.1708G>A (p.Gly570Ser)	1281	COL3A1	Likely pathogenic	GRCh38	529319
+single nucleotide variant	NM_000090.4(COL3A1):c.1744G>T (p.Gly582Cys)	1281	COL3A1	Likely pathogenic	GRCh38	547266
+single nucleotide variant	NM_000090.4(COL3A1):c.3527G>A (p.Gly1176Asp)	1281	COL3A1	Pathogenic	GRCh38	547274
+single nucleotide variant	NM_000090.4(COL3A1):c.1897G>A (p.Gly633Arg)	1281	COL3A1	Pathogenic	GRCh38	549890
+single nucleotide variant	NM_000090.4(COL3A1):c.1351G>A (p.Glu451Lys)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	561178
+single nucleotide variant	NM_000090.4(COL3A1):c.2283+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	579595
+single nucleotide variant	NM_000090.4(COL3A1):c.4011+1G>T	1281	COL3A1	Pathogenic	GRCh38	575052
+single nucleotide variant	NM_000090.4(COL3A1):c.1684C>T (p.Arg562Ter)	1281	COL3A1	Pathogenic	GRCh38	577225
+single nucleotide variant	NM_000090.4(COL3A1):c.3112G>C (p.Gly1038Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	573925
+single nucleotide variant	NM_000090.4(COL3A1):c.1502G>A (p.Gly501Glu)	1281	COL3A1	Pathogenic	GRCh38	581735
+single nucleotide variant	NM_000090.4(COL3A1):c.134G>A (p.Trp45Ter)	1281	COL3A1	Pathogenic	GRCh38	575406
+single nucleotide variant	NM_000090.4(COL3A1):c.2569C>T (p.Gln857Ter)	1281	COL3A1	Pathogenic	GRCh38	566570
+single nucleotide variant	NM_000090.4(COL3A1):c.3202G>T (p.Gly1068Cys)	1281	COL3A1	Likely pathogenic	GRCh38	572498
+single nucleotide variant	NM_000090.4(COL3A1):c.4012-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	577653
+single nucleotide variant	NM_000090.4(COL3A1):c.2096G>T (p.Gly699Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	618030
+single nucleotide variant	NM_000090.4(COL3A1):c.1282C>T (p.Arg428Ter)	1281	COL3A1	Pathogenic	GRCh38	619225
+single nucleotide variant	NM_000090.4(COL3A1):c.145C>G (p.Pro49Ala)	1281	COL3A1	Likely pathogenic	GRCh38	619227
+single nucleotide variant	NM_000090.4(COL3A1):c.622C>T (p.Gln208Ter)	1281	COL3A1	Likely pathogenic	GRCh38	620540
+single nucleotide variant	NM_000090.4(COL3A1):c.773G>C (p.Gly258Ala)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	625114
+single nucleotide variant	NM_000090.4(COL3A1):c.3093+1G>T	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	626859
+single nucleotide variant	NM_000090.4(COL3A1):c.1106G>T (p.Gly369Val)	1281	COL3A1	Likely pathogenic	GRCh38	633178
+single nucleotide variant	NM_000090.4(COL3A1):c.447+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	633179
+single nucleotide variant	NM_000090.4(COL3A1):c.2042G>A (p.Gly681Asp)	1281	COL3A1	Likely pathogenic	GRCh38	636412
+single nucleotide variant	NM_000090.4(COL3A1):c.2536G>A (p.Gly846Arg)	1281	COL3A1	Likely pathogenic	GRCh38	636783
+single nucleotide variant	NM_000090.4(COL3A1):c.826G>A (p.Gly276Ser)	1281	COL3A1	Pathogenic	GRCh38	659067
+single nucleotide variant	NM_000090.4(COL3A1):c.827G>T (p.Gly276Val)	1281	COL3A1	Likely pathogenic	GRCh38	658081
+single nucleotide variant	NM_000090.4(COL3A1):c.845G>T (p.Gly282Val)	1281	COL3A1	Pathogenic	GRCh38	664376
+single nucleotide variant	NM_000090.4(COL3A1):c.1996G>A (p.Gly666Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	640050
+single nucleotide variant	NM_000090.4(COL3A1):c.2051G>A (p.Gly684Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	650784
+single nucleotide variant	NM_000090.4(COL3A1):c.2159G>A (p.Gly720Asp)	1281	COL3A1	Likely pathogenic	GRCh38	654047
+single nucleotide variant	NM_000090.4(COL3A1):c.4360C>T (p.Gln1454Ter)	1281	COL3A1	Pathogenic	GRCh38	643968
+single nucleotide variant	NM_000090.4(COL3A1):c.3255+1G>C	1281	COL3A1	Pathogenic	GRCh38	651201
+single nucleotide variant	NM_000090.4(COL3A1):c.691-2A>G	1281	COL3A1	Pathogenic	GRCh38	651878
+single nucleotide variant	NM_000090.4(COL3A1):c.2229+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	640856
+single nucleotide variant	NM_000090.4(COL3A1):c.3823+1G>T	1281	COL3A1	Pathogenic	GRCh38	642401
+single nucleotide variant	NM_000090.4(COL3A1):c.852+2T>C	1281	COL3A1	Likely pathogenic	GRCh38	664722
+single nucleotide variant	NM_000090.4(COL3A1):c.2267G>A (p.Gly756Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	667403
+single nucleotide variant	NM_000090.4(COL3A1):c.3158G>A (p.Gly1053Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	689752
+single nucleotide variant	NM_000090.4(COL3A1):c.724C>T (p.Arg242Ter)	1281	COL3A1	Pathogenic	GRCh38	801840
+single nucleotide variant	NM_000090.4(COL3A1):c.1295G>A (p.Gly432Asp)	1281	COL3A1	Likely pathogenic	GRCh38	863790
+single nucleotide variant	NM_000090.4(COL3A1):c.1654G>A (p.Gly552Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	847405
+single nucleotide variant	NM_000090.4(COL3A1):c.1745G>A (p.Gly582Asp)	1281	COL3A1	Likely pathogenic	GRCh38	851733
+single nucleotide variant	NM_000090.4(COL3A1):c.1763G>T (p.Gly588Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	847253
+single nucleotide variant	NM_000090.4(COL3A1):c.1978G>A (p.Gly660Ser)	1281	COL3A1	Likely pathogenic	GRCh38	860817
+single nucleotide variant	NM_000090.4(COL3A1):c.2240G>A (p.Gly747Asp)	1281	COL3A1	Likely pathogenic	GRCh38	841016
+single nucleotide variant	NM_000090.4(COL3A1):c.2248G>C (p.Gly750Arg)	1281	COL3A1	Likely pathogenic	GRCh38	844024
+single nucleotide variant	NM_000090.4(COL3A1):c.2690G>A (p.Gly897Asp)	1281	COL3A1	Pathogenic	GRCh38	847002
+single nucleotide variant	NM_000090.4(COL3A1):c.2932G>A (p.Gly978Ser)	1281	COL3A1	Pathogenic	GRCh38	853303
+single nucleotide variant	NM_000090.4(COL3A1):c.3121G>C (p.Gly1041Arg)	1281	COL3A1	Likely pathogenic	GRCh38	846467
+single nucleotide variant	NM_000090.4(COL3A1):c.334-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	857391
+single nucleotide variant	NM_000090.4(COL3A1):c.1457G>T (p.Gly486Val)	1281	COL3A1	Pathogenic	GRCh38	872592
+single nucleotide variant	NM_000090.4(COL3A1):c.3527G>T (p.Gly1176Val)	1281	COL3A1	Pathogenic	GRCh38	872593
+single nucleotide variant	NM_000090.4(COL3A1):c.1609G>A (p.Gly537Ser)	1281	COL3A1	Likely pathogenic	GRCh38	925216
+single nucleotide variant	NM_000090.4(COL3A1):c.1465G>T (p.Gly489Trp)	1281	COL3A1	Likely pathogenic	GRCh38	930386
+single nucleotide variant	NM_000090.4(COL3A1):c.1133G>A (p.Gly378Asp)	1281	COL3A1	Likely pathogenic	GRCh38	948196
+single nucleotide variant	NM_000090.4(COL3A1):c.1249G>C (p.Gly417Arg)	1281	COL3A1	Likely pathogenic	GRCh38	940059
+single nucleotide variant	NM_000090.4(COL3A1):c.2726G>A (p.Gly909Asp)	1281	COL3A1	Likely pathogenic	GRCh38	938624
+single nucleotide variant	NM_000090.4(COL3A1):c.4368T>A (p.Phe1456Leu)	1281	COL3A1	Likely pathogenic	GRCh38	938054
+single nucleotide variant	NM_000090.4(COL3A1):c.448-1G>T	1281	COL3A1	Likely pathogenic	GRCh38	951179
+single nucleotide variant	NM_000090.4(COL3A1):c.2823+1G>T	1281	COL3A1	Likely pathogenic	GRCh38	950282
+single nucleotide variant	NM_000090.4(COL3A1):c.3256-1G>A	1281	COL3A1	Likely pathogenic	GRCh38	950915
+single nucleotide variant	NM_000090.4(COL3A1):c.2797G>A (p.Gly933Arg)	1281	COL3A1	Likely pathogenic	GRCh38	959782
+single nucleotide variant	NM_000090.4(COL3A1):c.2888G>T (p.Gly963Val)	1281	COL3A1	Pathogenic	GRCh38	955493
+single nucleotide variant	NM_000090.4(COL3A1):c.862G>T (p.Gly288Cys)	1281	COL3A1	Likely pathogenic	GRCh38	973216
+single nucleotide variant	NM_000090.4(COL3A1):c.1189G>T (p.Glu397Ter)	1281	COL3A1	Likely pathogenic	GRCh38	976447
+single nucleotide variant	NM_000090.4(COL3A1):c.2672G>A (p.Gly891Glu)	1281	COL3A1	Pathogenic	GRCh38	977315
+single nucleotide variant	NM_000090.4(COL3A1):c.2627G>C (p.Gly876Ala)	1281	COL3A1	Likely pathogenic	GRCh38	987809
+single nucleotide variant	NM_000090.4(COL3A1):c.2716G>A (p.Gly906Ser)	1281	COL3A1	Pathogenic	GRCh38	988555
+single nucleotide variant	NM_000090.4(COL3A1):c.1663-1G>A	1281	COL3A1	Likely pathogenic	GRCh38	994326
+single nucleotide variant	NM_000090.4(COL3A1):c.3446G>A (p.Gly1149Asp)	1281	COL3A1	Likely pathogenic	GRCh38	995572
+single nucleotide variant	NM_000090.4(COL3A1):c.781G>C (p.Gly261Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1067438
+single nucleotide variant	NM_000090.4(COL3A1):c.1051G>A (p.Gly351Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1067718
+single nucleotide variant	NM_000090.4(COL3A1):c.1322G>A (p.Gly441Glu)	1281	COL3A1	Likely pathogenic	GRCh38	1067325
+single nucleotide variant	NM_000090.4(COL3A1):c.1429G>T (p.Gly477Trp)	1281	COL3A1	Likely pathogenic	GRCh38	1068391
+single nucleotide variant	NM_000090.4(COL3A1):c.3221G>A (p.Gly1074Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1067181
+single nucleotide variant	NM_000090.4(COL3A1):c.3383G>T (p.Gly1128Val)	1281	COL3A1	Likely pathogenic	GRCh38	1067115
+single nucleotide variant	NM_000090.4(COL3A1):c.2044G>A (p.Glu682Lys)	1281	COL3A1	Pathogenic	GRCh38	1072145
+single nucleotide variant	NM_000090.4(COL3A1):c.2284G>A (p.Gly762Ser)	1281	COL3A1	Pathogenic	GRCh38	1076734
+single nucleotide variant	NM_000090.4(COL3A1):c.2494G>T (p.Glu832Ter)	1281	COL3A1	Pathogenic	GRCh38	1070675
+single nucleotide variant	NM_000090.4(COL3A1):c.530G>T (p.Gly177Val)	1281	COL3A1	Likely pathogenic	GRCh38	1163236
+single nucleotide variant	NM_000090.4(COL3A1):c.638G>A (p.Gly213Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1163237
+single nucleotide variant	NM_000090.4(COL3A1):c.2950G>A (p.Gly984Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1177285
+single nucleotide variant	NM_000090.4(COL3A1):c.3166G>A (p.Gly1056Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1195573
+single nucleotide variant	NM_000090.4(COL3A1):c.1177G>C (p.Gly393Arg)	1281	COL3A1	Pathogenic	GRCh38	1209875
+single nucleotide variant	NM_000090.4(COL3A1):c.997-1G>A	1281	COL3A1	Pathogenic	GRCh38	1254869
+single nucleotide variant	NM_000090.4(COL3A1):c.2501G>C (p.Gly834Ala)	1281	COL3A1	Likely pathogenic	GRCh38	1285589
+single nucleotide variant	NM_000090.4(COL3A1):c.1051-1G>C	1281	COL3A1	Likely pathogenic	GRCh38	1300492
+single nucleotide variant	NM_000090.4(COL3A1):c.1457G>A (p.Gly486Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1301908
+single nucleotide variant	NM_000090.4(COL3A1):c.4134C>G (p.Tyr1378Ter)	1281	COL3A1	Pathogenic	GRCh38	1319568
+single nucleotide variant	NM_000090.4(COL3A1):c.2617G>T (p.Gly873Cys)	1281	COL3A1	Likely pathogenic	GRCh38	1324109
+single nucleotide variant	NM_000090.4(COL3A1):c.601G>T (p.Gly201Ter)	1281	COL3A1	Likely pathogenic	GRCh38	1326627
+single nucleotide variant	NM_000090.4(COL3A1):c.511G>A (p.Gly171Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1329349
+single nucleotide variant	NM_000090.4(COL3A1):c.2500G>C (p.Gly834Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1339754
+single nucleotide variant	NM_000090.4(COL3A1):c.3494C>T (p.Pro1165Leu)	1281	COL3A1	Likely pathogenic	GRCh38	1341518
+single nucleotide variant	NM_000090.4(COL3A1):c.1294-1G>A	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1341606
+single nucleotide variant	NM_000090.4(COL3A1):c.2104G>C (p.Gly702Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1343347
+single nucleotide variant	NM_000090.4(COL3A1):c.2491G>C (p.Gly831Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1343350
+single nucleotide variant	NM_000090.4(COL3A1):c.2023-1G>T	1281	COL3A1	Likely pathogenic	GRCh38	1522149
+single nucleotide variant	NM_000090.4(COL3A1):c.2078G>T (p.Gly693Val)	1281	COL3A1	Pathogenic	GRCh38	1384868
+single nucleotide variant	NM_000090.4(COL3A1):c.2456G>A (p.Gly819Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1523561
+single nucleotide variant	NM_000090.4(COL3A1):c.3292G>C (p.Gly1098Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1466399
+single nucleotide variant	NM_000090.4(COL3A1):c.1313G>A (p.Gly438Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1523318
+single nucleotide variant	NM_000090.4(COL3A1):c.1357G>T (p.Gly453Cys)	1281	COL3A1	Likely pathogenic	GRCh38	1467383
+single nucleotide variant	NM_000090.4(COL3A1):c.1277G>A (p.Gly426Glu)	1281	COL3A1	Likely pathogenic	GRCh38	1496360
+single nucleotide variant	NM_000090.4(COL3A1):c.1430G>A (p.Gly477Glu)	1281	COL3A1	Likely pathogenic	GRCh38	1525594
+single nucleotide variant	NM_000090.4(COL3A1):c.997-1G>T	1281	COL3A1	Pathogenic	GRCh38	1509592
+single nucleotide variant	NM_000090.4(COL3A1):c.3274G>T (p.Gly1092Cys)	1281	COL3A1	Pathogenic	GRCh38	1497664
+single nucleotide variant	NM_000090.4(COL3A1):c.2563G>T (p.Gly855Cys)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1483582
+single nucleotide variant	NM_000090.4(COL3A1):c.961G>A (p.Gly321Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1347930
+single nucleotide variant	NM_000090.4(COL3A1):c.2257G>T (p.Gly753Cys)	1281	COL3A1	Likely pathogenic	GRCh38	1501070
+single nucleotide variant	NM_000090.4(COL3A1):c.1834G>A (p.Gly612Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1474997
+single nucleotide variant	NM_000090.4(COL3A1):c.674G>A (p.Gly225Asp)	1281	COL3A1	Pathogenic	GRCh38	1394873
+single nucleotide variant	NM_000090.4(COL3A1):c.745G>A (p.Gly249Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1488583
+single nucleotide variant	NM_000090.4(COL3A1):c.80-2A>T	1281	COL3A1	Likely pathogenic	GRCh38	1488632
+single nucleotide variant	NM_000090.4(COL3A1):c.817G>T (p.Gly273Ter)	1281	COL3A1	Pathogenic	GRCh38	1421693
+single nucleotide variant	NM_000090.4(COL3A1):c.2743G>A (p.Gly915Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1503866
+single nucleotide variant	NM_000090.4(COL3A1):c.2734G>A (p.Gly912Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1479128
+single nucleotide variant	NM_000090.4(COL3A1):c.1223G>T (p.Gly408Val)	1281	COL3A1	Likely pathogenic	GRCh38	1506584
+single nucleotide variant	NM_000090.4(COL3A1):c.1609-2A>C	1281	COL3A1	Pathogenic	GRCh38	1482294
+single nucleotide variant	NM_000090.4(COL3A1):c.2230G>C (p.Gly744Arg)	1281	COL3A1	Pathogenic	GRCh38	1426135
+single nucleotide variant	NM_000090.4(COL3A1):c.698C>G (p.Ser233Ter)	1281	COL3A1	Pathogenic	GRCh38	1456642
+single nucleotide variant	NM_000090.4(COL3A1):c.3284G>T (p.Gly1095Val)	1281	COL3A1	Pathogenic	GRCh38	1467681
+single nucleotide variant	NM_000090.4(COL3A1):c.1105G>C (p.Gly369Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1467833
+single nucleotide variant	NM_000090.4(COL3A1):c.2023G>A (p.Gly675Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1347589
+single nucleotide variant	NM_000090.4(COL3A1):c.1761+1G>A	1281	COL3A1	Pathogenic	GRCh38	1458343
+single nucleotide variant	NM_000090.4(COL3A1):c.2869G>A (p.Gly957Ser)	1281	COL3A1	Pathogenic	GRCh38	1458349
+single nucleotide variant	NM_000090.4(COL3A1):c.880G>A (p.Gly294Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1469491
+single nucleotide variant	NM_000090.4(COL3A1):c.3262C>T (p.Gln1088Ter)	1281	COL3A1	Pathogenic	GRCh38	1457100
+single nucleotide variant	NM_000090.4(COL3A1):c.548G>T (p.Gly183Val)	1281	COL3A1	Pathogenic	GRCh38	1457178
+single nucleotide variant	NM_000090.4(COL3A1):c.2393G>A (p.Gly798Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1515058
+single nucleotide variant	NM_000090.4(COL3A1):c.530G>C (p.Gly177Ala)	1281	COL3A1	Likely pathogenic	GRCh38	1471288
+single nucleotide variant	NM_000090.4(COL3A1):c.2986G>A (p.Gly996Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1486385
+single nucleotide variant	NM_000090.4(COL3A1):c.1709G>A (p.Gly570Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1489113
+single nucleotide variant	NM_000090.4(COL3A1):c.862G>A (p.Gly288Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1500982
+single nucleotide variant	NM_000090.4(COL3A1):c.2105G>C (p.Gly702Ala)	1281	COL3A1	Likely pathogenic	GRCh38	1488128
+single nucleotide variant	NM_000090.4(COL3A1):c.1871G>A (p.Gly624Glu)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1465364
+single nucleotide variant	NM_000090.4(COL3A1):c.2122G>A (p.Gly708Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1702196
+single nucleotide variant	NM_000090.4(COL3A1):c.2815G>C (p.Gly939Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1702197
+single nucleotide variant	NM_000090.4(COL3A1):c.971G>T (p.Gly324Val)	1281	COL3A1	Likely pathogenic	GRCh38	1702202
+single nucleotide variant	NM_000090.4(COL3A1):c.2500G>A (p.Gly834Ser)	1281	COL3A1	Pathogenic	GRCh38	1703442
+single nucleotide variant	NM_000090.4(COL3A1):c.582+2T>C	1281	COL3A1	Pathogenic	GRCh38	1708315
+single nucleotide variant	NM_000090.4(COL3A1):c.3203G>A (p.Gly1068Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1708960
+single nucleotide variant	NM_000090.4(COL3A1):c.2887G>A (p.Gly963Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1711521
+single nucleotide variant	NM_000090.4(COL3A1):c.3374G>A (p.Gly1125Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1730760
+single nucleotide variant	NM_000090.4(COL3A1):c.1186G>A (p.Gly396Ser)	1281	COL3A1	Likely pathogenic	GRCh38	1743597
+single nucleotide variant	NM_000090.4(COL3A1):c.1304G>A (p.Gly435Asp)	1281	COL3A1	Pathogenic	GRCh38	1769481
+single nucleotide variant	NM_000090.4(COL3A1):c.1608+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	1776323
+single nucleotide variant	NM_000090.4(COL3A1):c.1853G>A (p.Gly618Glu)	1281	COL3A1	Likely pathogenic	GRCh38	1781376
+single nucleotide variant	NM_000090.4(COL3A1):c.2284G>T (p.Gly762Cys)	1281	COL3A1	Likely pathogenic	GRCh38	1788993
+single nucleotide variant	NM_000090.4(COL3A1):c.2123G>A (p.Gly708Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1786274
+single nucleotide variant	NM_000090.4(COL3A1):c.2212G>C (p.Gly738Arg)	1281	COL3A1	Likely pathogenic	GRCh38	1787788
+single nucleotide variant	NM_000090.4(COL3A1):c.2230G>T (p.Gly744Cys)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1788109
+single nucleotide variant	NM_000090.4(COL3A1):c.2717G>A (p.Gly906Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1795121
+single nucleotide variant	NM_000090.4(COL3A1):c.1079G>A (p.Gly360Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	1785779
+single nucleotide variant	NM_000090.4(COL3A1):c.2924G>C (p.Gly975Ala)	1281	COL3A1	Likely pathogenic	GRCh38	1797742
+single nucleotide variant	NM_000090.4(COL3A1):c.117T>G (p.Tyr39Ter)	1281	COL3A1	Likely pathogenic	GRCh38	1810751
+single nucleotide variant	NM_000090.4(COL3A1):c.691-1G>A	1281	COL3A1	Pathogenic	GRCh38	2178007
+single nucleotide variant	NM_000090.4(COL3A1):c.2104G>A (p.Gly702Ser)	1281	COL3A1	Pathogenic	GRCh38	2203229
+single nucleotide variant	NM_000090.4(COL3A1):c.4011+1G>A	1281	COL3A1	Pathogenic	GRCh38	2203233
+single nucleotide variant	NM_000090.4(COL3A1):c.1714C>T (p.Arg572Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2418894
+single nucleotide variant	NM_000090.4(COL3A1):c.3244C>T (p.Arg1082Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2419968
+single nucleotide variant	NM_000090.4(COL3A1):c.1187G>A (p.Gly396Asp)	1281	COL3A1	Likely pathogenic	GRCh38	1990321
+single nucleotide variant	NM_000090.4(COL3A1):c.1789G>A (p.Gly597Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2003709
+single nucleotide variant	NM_000090.4(COL3A1):c.1213G>A (p.Gly405Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2013532
+single nucleotide variant	NM_000090.4(COL3A1):c.1321G>A (p.Gly441Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2032118
+single nucleotide variant	NM_000090.4(COL3A1):c.3392G>T (p.Gly1131Val)	1281	COL3A1	Likely pathogenic	GRCh38	2024940
+single nucleotide variant	NM_000090.4(COL3A1):c.2321G>A (p.Gly774Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2024969
+single nucleotide variant	NM_000090.4(COL3A1):c.1366G>A (p.Gly456Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2035506
+single nucleotide variant	NM_000090.4(COL3A1):c.2149G>C (p.Gly717Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2036633
+single nucleotide variant	NM_000090.4(COL3A1):c.2337G>C (p.Lys779Asn)	1281	COL3A1	Pathogenic	GRCh38	2057045
+single nucleotide variant	NM_000090.4(COL3A1):c.1079G>T (p.Gly360Val)	1281	COL3A1	Likely pathogenic	GRCh38	2073641
+single nucleotide variant	NM_000090.4(COL3A1):c.4271G>A (p.Trp1424Ter)	1281	COL3A1	Pathogenic	GRCh38	2087847
+single nucleotide variant	NM_000090.4(COL3A1):c.1438G>A (p.Gly480Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2084590
+single nucleotide variant	NM_000090.4(COL3A1):c.150C>A (p.Cys50Ter)	1281	COL3A1	Pathogenic	GRCh38	2104015
+single nucleotide variant	NM_000090.4(COL3A1):c.1816G>T (p.Gly606Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2128970
+single nucleotide variant	NM_000090.4(COL3A1):c.754G>A (p.Gly252Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2120816
+single nucleotide variant	NM_000090.4(COL3A1):c.727G>C (p.Gly243Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2129799
+single nucleotide variant	NM_000090.4(COL3A1):c.528+5G>T	1281	COL3A1	Likely pathogenic	GRCh38	2452334
+single nucleotide variant	NM_000090.4(COL3A1):c.3379C>T (p.Gln1127Ter)	1281	COL3A1	Pathogenic	GRCh38	2497737
+single nucleotide variant	NM_000090.4(COL3A1):c.1826G>A (p.Gly609Glu)	1281	COL3A1	Likely pathogenic	GRCh38	2498858
+single nucleotide variant	NM_000090.4(COL3A1):c.1042G>A (p.Gly348Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2504291
+single nucleotide variant	NM_000090.4(COL3A1):c.898-1G>A	1281	COL3A1	Likely pathogenic	GRCh38	2572650
+single nucleotide variant	NM_000090.4(COL3A1):c.1138C>T (p.Gln380Ter)	1281	COL3A1	Likely pathogenic	GRCh38	2574096
+single nucleotide variant	NM_000090.4(COL3A1):c.1663-1G>T	1281	COL3A1	Likely pathogenic	GRCh38	2574097
+single nucleotide variant	NM_000090.4(COL3A1):c.1762-1G>T	1281	COL3A1	Likely pathogenic	GRCh38	2574098
+single nucleotide variant	NM_000090.4(COL3A1):c.2797G>T (p.Gly933Ter)	1281	COL3A1	Likely pathogenic	GRCh38	2574099
+single nucleotide variant	NM_000090.4(COL3A1):c.2671G>A (p.Gly891Arg)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2575879
+single nucleotide variant	NM_000090.4(COL3A1):c.922C>T (p.Arg308Ter)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2575973
+single nucleotide variant	NM_000090.4(COL3A1):c.1923+1G>T	1281	COL3A1	Likely pathogenic	GRCh38	2576110
+single nucleotide variant	NM_000090.4(COL3A1):c.2607+1G>T	1281	COL3A1	Pathogenic	GRCh38	2576150
+single nucleotide variant	NM_000090.4(COL3A1):c.3248G>A (p.Gly1083Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2581766
+single nucleotide variant	NM_000090.4(COL3A1):c.1817G>A (p.Gly606Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2636926
+single nucleotide variant	NM_000090.4(COL3A1):c.2095G>T (p.Gly699Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2637916
+single nucleotide variant	NM_000090.4(COL3A1):c.636+1G>T	1281	COL3A1	Likely pathogenic	GRCh38	2664689
+single nucleotide variant	NM_000090.4(COL3A1):c.2060G>C (p.Gly687Ala)	1281	COL3A1	Likely pathogenic	GRCh38	2703534
+single nucleotide variant	NM_000090.4(COL3A1):c.3526-1G>C	1281	COL3A1	Likely pathogenic	GRCh38	2704828
+single nucleotide variant	NM_000090.4(COL3A1):c.3184G>A (p.Gly1062Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2702615
+single nucleotide variant	NM_000090.4(COL3A1):c.852+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	2709184
+single nucleotide variant	NM_000090.4(COL3A1):c.2438G>T (p.Gly813Val)	1281	COL3A1	Likely pathogenic	GRCh38	2717255
+single nucleotide variant	NM_000090.4(COL3A1):c.818G>A (p.Gly273Glu)	1281	COL3A1	Likely pathogenic	GRCh38	2725494
+single nucleotide variant	NM_000090.4(COL3A1):c.2959G>T (p.Gly987Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2725531
+single nucleotide variant	NM_000090.4(COL3A1):c.2716G>C (p.Gly906Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2727832
+single nucleotide variant	NM_000090.4(COL3A1):c.1151G>A (p.Gly384Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2734340
+single nucleotide variant	NM_000090.4(COL3A1):c.1691G>A (p.Gly564Asp)	1281	COL3A1	Pathogenic	GRCh38	2734342
+single nucleotide variant	NM_000090.4(COL3A1):c.1718G>A (p.Gly573Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2734343
+single nucleotide variant	NM_000090.4(COL3A1):c.2996G>A (p.Gly999Asp)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2734350
+single nucleotide variant	NM_000090.4(COL3A1):c.1150G>C (p.Gly384Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2733896
+single nucleotide variant	NM_000090.4(COL3A1):c.2302G>C (p.Gly768Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2747389
+single nucleotide variant	NM_000090.4(COL3A1):c.2186G>C (p.Gly729Ala)	1281	COL3A1	Likely pathogenic	GRCh38	2749419
+single nucleotide variant	NM_000090.4(COL3A1):c.3014G>C (p.Gly1005Ala)	1281	COL3A1	Likely pathogenic	GRCh38	2757881
+single nucleotide variant	NM_000090.4(COL3A1):c.2266G>A (p.Gly756Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2760806
+single nucleotide variant	NM_000090.4(COL3A1):c.1421G>A (p.Gly474Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2751919
+single nucleotide variant	NM_000090.4(COL3A1):c.1771G>T (p.Gly591Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2763894
+single nucleotide variant	NM_000090.4(COL3A1):c.3185G>A (p.Gly1062Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2768135
+single nucleotide variant	NM_000090.4(COL3A1):c.529G>A (p.Gly177Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2791562
+single nucleotide variant	NM_000090.4(COL3A1):c.1240G>A (p.Gly414Ser)	1281	COL3A1	Likely pathogenic	GRCh38	2798833
+single nucleotide variant	NM_000090.4(COL3A1):c.1663G>A (p.Gly555Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2812440
+single nucleotide variant	NM_000090.4(COL3A1):c.2384G>A (p.Gly795Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2805195
+single nucleotide variant	NM_000090.4(COL3A1):c.1412G>A (p.Gly471Glu)	1281	COL3A1	Pathogenic	GRCh38	2810051
+single nucleotide variant	NM_000090.4(COL3A1):c.2419G>A (p.Gly807Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2822583
+single nucleotide variant	NM_000090.4(COL3A1):c.2906G>A (p.Gly969Glu)	1281	COL3A1	Likely pathogenic	GRCh38	2831927
+single nucleotide variant	NM_000090.4(COL3A1):c.3338G>A (p.Gly1113Asp)	1281	COL3A1	Likely pathogenic	GRCh38	2856353
+single nucleotide variant	NM_000090.4(COL3A1):c.2188G>T (p.Glu730Ter)	1281	COL3A1	Pathogenic	GRCh38	2847674
+single nucleotide variant	NM_000090.4(COL3A1):c.2554-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	2849504
+single nucleotide variant	NM_000090.4(COL3A1):c.1978G>C (p.Gly660Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2849569
+single nucleotide variant	NM_000090.4(COL3A1):c.3025G>T (p.Glu1009Ter)	1281	COL3A1	Pathogenic	GRCh38	2849596
+single nucleotide variant	NM_000090.4(COL3A1):c.1636G>A (p.Gly546Arg)	1281	COL3A1	Likely pathogenic	GRCh38	2852637
+single nucleotide variant	NM_000090.4(COL3A1):c.2078G>A (p.Gly693Glu)	1281	COL3A1	Pathogenic	GRCh38	2856561
+single nucleotide variant	NM_000090.4(COL3A1):c.619G>A (p.Gly207Arg)	1281	COL3A1	Pathogenic	GRCh38	2864568
+single nucleotide variant	NM_000090.4(COL3A1):c.952G>T (p.Gly318Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2879992
+single nucleotide variant	NM_000090.4(COL3A1):c.1816-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	2883994
+single nucleotide variant	NM_000090.4(COL3A1):c.2483G>A (p.Gly828Glu)	1281	COL3A1	Likely pathogenic	GRCh38	2883995
+single nucleotide variant	NM_000090.4(COL3A1):c.3085G>T (p.Gly1029Cys)	1281	COL3A1	Likely pathogenic	GRCh38	2886107
+single nucleotide variant	NM_000090.4(COL3A1):c.1348-2A>G	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	2907328
+single nucleotide variant	NM_000090.4(COL3A1):c.3417+2T>C	1281	COL3A1	Pathogenic	GRCh38	2912039
+single nucleotide variant	NM_000090.4(COL3A1):c.1592G>C (p.Gly531Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3009715
+single nucleotide variant	NM_000090.4(COL3A1):c.3077G>C (p.Gly1026Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3075297
+single nucleotide variant	NM_000090.4(COL3A1):c.1268G>C (p.Gly423Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3147563
+single nucleotide variant	NM_000090.4(COL3A1):c.2383G>C (p.Gly795Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3147564
+single nucleotide variant	NM_000090.4(COL3A1):c.3572G>T (p.Gly1191Val)	1281	COL3A1	Likely pathogenic	GRCh38	3256590
+single nucleotide variant	NM_000090.4(COL3A1):c.823A>T (p.Lys275Ter)	1281	COL3A1	Likely pathogenic	GRCh38	3337940
+single nucleotide variant	NM_000090.4(COL3A1):c.3058G>T (p.Gly1020Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3338322
+single nucleotide variant	NM_000090.4(COL3A1):c.2681G>A (p.Gly894Asp)	1281	COL3A1	Pathogenic	GRCh38	3340203
+single nucleotide variant	NM_000090.4(COL3A1):c.1736G>T (p.Gly579Val)	1281	COL3A1	Likely pathogenic	GRCh38	3345665
+single nucleotide variant	NM_000090.4(COL3A1):c.3077G>A (p.Gly1026Glu)	1281	COL3A1	Likely pathogenic	GRCh38	3347387
+single nucleotide variant	NM_000090.4(COL3A1):c.3275G>C (p.Gly1092Ala)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	3366496
+single nucleotide variant	NM_000090.4(COL3A1):c.2195G>A (p.Gly732Glu)	1281	COL3A1	Pathogenic	GRCh38	3375728
+single nucleotide variant	NM_000090.4(COL3A1):c.898-2A>T	1281	COL3A1	Likely pathogenic	GRCh38	3377025
+single nucleotide variant	NM_000090.4(COL3A1):c.2032G>C (p.Gly678Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3377415
+single nucleotide variant	NM_000090.4(COL3A1):c.745G>T (p.Gly249Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3380959
+single nucleotide variant	NM_000090.4(COL3A1):c.1853G>T (p.Gly618Val)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	3380960
+single nucleotide variant	NM_000090.4(COL3A1):c.3320G>C (p.Gly1107Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3383165
+single nucleotide variant	NM_000090.4(COL3A1):c.222C>A (p.Cys74Ter)	1281	COL3A1	Pathogenic	GRCh38	3386426
+single nucleotide variant	NM_000090.4(COL3A1):c.3302G>C (p.Gly1101Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3386484
+single nucleotide variant	NM_000090.4(COL3A1):c.3050G>T (p.Gly1017Val)	1281	COL3A1	Pathogenic	GRCh38	3390236
+single nucleotide variant	NM_000090.4(COL3A1):c.2121G>T (p.Lys707Asn)	1281	COL3A1	Likely pathogenic	GRCh38	3391162
+single nucleotide variant	NM_000090.4(COL3A1):c.2690G>T (p.Gly897Val)	1281	COL3A1	Likely pathogenic	GRCh38	3495456
+single nucleotide variant	NM_000090.4(COL3A1):c.2680G>T (p.Gly894Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3495464
+single nucleotide variant	NM_000090.4(COL3A1):c.1339G>T (p.Gly447Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3495471
+single nucleotide variant	NM_000090.4(COL3A1):c.3122G>C (p.Gly1041Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3585122
+single nucleotide variant	NM_000090.4(COL3A1):c.2383G>T (p.Gly795Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3625950
+single nucleotide variant	NM_000090.4(COL3A1):c.682G>A (p.Gly228Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3634083
+single nucleotide variant	NM_000090.4(COL3A1):c.718G>A (p.Gly240Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3634084
+single nucleotide variant	NM_000090.4(COL3A1):c.1142G>T (p.Gly381Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634086
+single nucleotide variant	NM_000090.4(COL3A1):c.1160G>T (p.Gly387Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634087
+single nucleotide variant	NM_000090.4(COL3A1):c.1277G>T (p.Gly426Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634089
+single nucleotide variant	NM_000090.4(COL3A1):c.1340G>A (p.Gly447Asp)	1281	COL3A1	Pathogenic	GRCh38	3634090
+single nucleotide variant	NM_000090.4(COL3A1):c.1537G>A (p.Gly513Ser)	1281	COL3A1	Likely pathogenic	GRCh38	3634093
+single nucleotide variant	NM_000090.4(COL3A1):c.1826G>T (p.Gly609Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634096
+single nucleotide variant	NM_000090.4(COL3A1):c.2240G>T (p.Gly747Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634097
+single nucleotide variant	NM_000090.4(COL3A1):c.2528G>T (p.Gly843Val)	1281	COL3A1	Likely pathogenic	GRCh38	3634099
+single nucleotide variant	NM_000090.4(COL3A1):c.2546G>C (p.Gly849Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3634100
+single nucleotide variant	NM_000090.4(COL3A1):c.2581G>A (p.Gly861Ser)	1281	COL3A1	Likely pathogenic	GRCh38	3634101
+single nucleotide variant	NM_000090.4(COL3A1):c.3158G>C (p.Gly1053Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3634103
+single nucleotide variant	NM_000090.4(COL3A1):c.2626G>C (p.Gly876Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3630427
+single nucleotide variant	NM_000090.4(COL3A1):c.2022+1G>A	1281	COL3A1	Likely pathogenic	GRCh38	3651296
+single nucleotide variant	NM_000090.4(COL3A1):c.1610G>T (p.Gly537Val)	1281	COL3A1	Likely pathogenic	GRCh38	3658822
+single nucleotide variant	NM_000090.4(COL3A1):c.1835G>C (p.Gly612Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3666960
+single nucleotide variant	NM_000090.4(COL3A1):c.2609G>C (p.Gly870Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3677451
+single nucleotide variant	NM_000090.4(COL3A1):c.763G>T (p.Gly255Trp)	1281	COL3A1	Likely pathogenic	GRCh38	3693355
+single nucleotide variant	NM_000090.4(COL3A1):c.2032G>T (p.Gly678Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3687044
+single nucleotide variant	NM_000090.4(COL3A1):c.610G>T (p.Gly204Cys)	1281	COL3A1	Likely pathogenic	GRCh38	3688779
+single nucleotide variant	NM_000090.4(COL3A1):c.3040-1G>A	1281	COL3A1	Likely pathogenic	GRCh38	3692254
+single nucleotide variant	NM_000090.4(COL3A1):c.3365G>T (p.Gly1122Val)	1281	COL3A1	Likely pathogenic	GRCh38	3728532
+single nucleotide variant	NM_000090.4(COL3A1):c.2338-2A>T	1281	COL3A1	Likely pathogenic	GRCh38	3724155
+single nucleotide variant	NM_000090.4(COL3A1):c.1700G>A (p.Gly567Glu)	1281	COL3A1	Pathogenic	GRCh38	3720386
+single nucleotide variant	NM_000090.4(COL3A1):c.1006G>C (p.Gly336Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3725606
+single nucleotide variant	NM_000090.4(COL3A1):c.835G>C (p.Gly279Arg)	1281	COL3A1	Likely pathogenic	GRCh38	3764712
+single nucleotide variant	NM_000090.4(COL3A1):c.2366G>C (p.Gly789Ala)	1281	COL3A1	Likely pathogenic	GRCh38	3768977
+single nucleotide variant	NM_000090.4(COL3A1):c.952G>A (p.Gly318Ser)	1281	COL3A1	Likely pathogenic	GRCh38	3778717
+single nucleotide variant	NM_000090.4(COL3A1):c.2401G>A (p.Gly801Ser)	1281	COL3A1	Likely pathogenic	GRCh38	3835232
+single nucleotide variant	NM_000090.4(COL3A1):c.1347+1G>C	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	3895300
+single nucleotide variant	NM_000090.4(COL3A1):c.1349G>T (p.Gly450Val)	1281	COL3A1	Likely pathogenic	GRCh38	3899366
+single nucleotide variant	NM_000090.4(COL3A1):c.1006G>A (p.Gly336Ser)	1281	COL3A1	Likely pathogenic	GRCh38	3902396
+single nucleotide variant	NM_000090.4(COL3A1):c.2689G>T (p.Gly897Cys)	1281	COL3A1	Likely pathogenic	GRCh38	4005347
+single nucleotide variant	NM_000090.4(COL3A1):c.3059G>A (p.Gly1020Asp)	1281	COL3A1	Likely pathogenic	GRCh38	4072048
+single nucleotide variant	NM_000090.4(COL3A1):c.2824-8T>A	1281	COL3A1	Likely pathogenic	GRCh38	4085426
+single nucleotide variant	NM_000090.4(COL3A1):c.781G>A (p.Gly261Ser)	1281	COL3A1	Pathogenic/Likely pathogenic	GRCh38	4232233
+single nucleotide variant	NM_000090.4(COL3A1):c.1618G>T (p.Gly540Ter)	1281	COL3A1	Pathogenic	GRCh38	4232235
+single nucleotide variant	NM_000090.4(COL3A1):c.2059G>A (p.Gly687Arg)	1281	COL3A1	Likely pathogenic	GRCh38	4232240
+single nucleotide variant	NM_000090.4(COL3A1):c.1150-2A>T	1281	COL3A1	Pathogenic	GRCh38	4293099
+single nucleotide variant	NM_000090.4(COL3A1):c.3221G>T (p.Gly1074Val)	1281	COL3A1	Likely pathogenic	GRCh38	4525913
+single nucleotide variant	NM_000090.4(COL3A1):c.582+1G>A	1281	COL3A1	Pathogenic	GRCh38	4540776
+single nucleotide variant	NM_000090.4(COL3A1):c.3328G>T (p.Gly1110Ter)	1281	COL3A1	Likely pathogenic	GRCh38	4540782
+single nucleotide variant	NM_000090.4(COL3A1):c.691G>A (p.Gly231Arg)	1281	COL3A1	Likely pathogenic	GRCh38	4684981
+single nucleotide variant	NM_000090.4(COL3A1):c.3947G>A (p.Trp1316Ter)	1281	COL3A1	Pathogenic	GRCh38	4685716
+single nucleotide variant	NM_000090.4(COL3A1):c.1807G>A (p.Gly603Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4698482
+single nucleotide variant	NM_000090.4(COL3A1):c.1961G>C (p.Gly654Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4694515
+single nucleotide variant	NM_000090.4(COL3A1):c.2812C>T (p.Gln938Ter)	1281	COL3A1	Pathogenic	GRCh38	4713755
+single nucleotide variant	NM_000090.4(COL3A1):c.2663G>A (p.Gly888Asp)	1281	COL3A1	Likely pathogenic	GRCh38	4718292
+single nucleotide variant	NM_000090.4(COL3A1):c.4184C>A (p.Ser1395Ter)	1281	COL3A1	Pathogenic	GRCh38	4716191
+single nucleotide variant	NM_000090.4(COL3A1):c.2024G>A (p.Gly675Asp)	1281	COL3A1	Likely pathogenic	GRCh38	4724683
+single nucleotide variant	NM_000090.4(COL3A1):c.3667G>T (p.Glu1223Ter)	1281	COL3A1	Pathogenic	GRCh38	4733134
+single nucleotide variant	NM_000090.4(COL3A1):c.790G>A (p.Gly264Arg)	1281	COL3A1	Pathogenic	GRCh38	4747087
+single nucleotide variant	NM_000090.4(COL3A1):c.1502G>C (p.Gly501Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4747088
+single nucleotide variant	NM_000090.4(COL3A1):c.3401G>C (p.Gly1134Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4756180
+single nucleotide variant	NM_000090.4(COL3A1):c.2618G>C (p.Gly873Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4756700
+single nucleotide variant	NM_000090.4(COL3A1):c.1150-1G>T	1281	COL3A1	Likely pathogenic	GRCh38	4756778
+single nucleotide variant	NM_000090.4(COL3A1):c.1509+2T>A	1281	COL3A1	Likely pathogenic	GRCh38	4757261
+single nucleotide variant	NM_000090.4(COL3A1):c.871G>A (p.Gly291Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4757428
+single nucleotide variant	NM_000090.4(COL3A1):c.2834G>A (p.Gly945Asp)	1281	COL3A1	Likely pathogenic	GRCh38	4757844
+single nucleotide variant	NM_000090.4(COL3A1):c.3373G>A (p.Gly1125Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4758654
+single nucleotide variant	NM_000090.4(COL3A1):c.283-2A>G	1281	COL3A1	Likely pathogenic	GRCh38	4771138
+single nucleotide variant	NM_000090.4(COL3A1):c.3526-1G>A	1281	COL3A1	Likely pathogenic	GRCh38	4795217
+single nucleotide variant	NM_000090.4(COL3A1):c.935G>A (p.Gly312Glu)	1281	COL3A1	Likely pathogenic	GRCh38	4800317
+single nucleotide variant	NM_000090.4(COL3A1):c.1178G>T (p.Gly393Val)	1281	COL3A1	Likely pathogenic	GRCh38	4800319
+single nucleotide variant	NM_000090.4(COL3A1):c.1691G>T (p.Gly564Val)	1281	COL3A1	Likely pathogenic	GRCh38	4800320
+single nucleotide variant	NM_000090.4(COL3A1):c.1726G>T (p.Gly576Cys)	1281	COL3A1	Likely pathogenic	GRCh38	4800321
+single nucleotide variant	NM_000090.4(COL3A1):c.1772G>C (p.Gly591Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4800322
+single nucleotide variant	NM_000090.4(COL3A1):c.1942G>A (p.Gly648Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4800324
+single nucleotide variant	NM_000090.4(COL3A1):c.2050G>A (p.Gly684Arg)	1281	COL3A1	Likely pathogenic	GRCh38	4800327
+single nucleotide variant	NM_000090.4(COL3A1):c.2420G>A (p.Gly807Glu)	1281	COL3A1	Likely pathogenic	GRCh38	4800328
+single nucleotide variant	NM_000090.4(COL3A1):c.2591G>T (p.Gly864Val)	1281	COL3A1	Likely pathogenic	GRCh38	4800329
+single nucleotide variant	NM_000090.4(COL3A1):c.528+2T>G	1281	COL3A1	Likely pathogenic	GRCh38	4806546
+single nucleotide variant	NM_000090.4(COL3A1):c.2257G>A (p.Gly753Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4818980
+single nucleotide variant	NM_000090.4(COL3A1):c.862G>C (p.Gly288Arg)	1281	COL3A1	Likely pathogenic	GRCh38	4820419
+single nucleotide variant	NM_000090.4(COL3A1):c.853-2A>G	1281	COL3A1	Pathogenic	GRCh38	4824878
+single nucleotide variant	NM_000090.4(COL3A1):c.1781G>C (p.Gly594Ala)	1281	COL3A1	Likely pathogenic	GRCh38	4847123
+single nucleotide variant	NM_000090.4(COL3A1):c.2141G>T (p.Gly714Val)	1281	COL3A1	Likely pathogenic	GRCh38	4848221
+single nucleotide variant	NM_000090.4(COL3A1):c.3472G>A (p.Gly1158Ser)	1281	COL3A1	Likely pathogenic	GRCh38	4851859
+single nucleotide variant	NM_000090.4(COL3A1):c.1813C>T (p.Gln605Ter)	1281	COL3A1	Likely pathogenic	GRCh38	4852190
+single nucleotide variant	NM_000090.4(COL3A1):c.852+2T>G	1281	COL3A1	Likely pathogenic	GRCh38	4854501
+single nucleotide variant	NM_000090.4(COL3A1):c.863G>T (p.Gly288Val)	1281	COL3A1	Likely pathogenic	GRCh38	4855259
+single nucleotide variant	NM_000090.4(COL3A1):c.1825G>A (p.Gly609Arg)	1281	COL3A1	Likely pathogenic	GRCh38	4857863
+single nucleotide variant	NM_000090.4(COL3A1):c.1150G>T (p.Gly384Cys)	1281	COL3A1	Likely pathogenic	GRCh38	4871879
+single nucleotide variant	NM_000090.4(COL3A1):c.1637G>T (p.Gly546Val)	1281	COL3A1	Likely pathogenic	GRCh38	4887435
+single nucleotide variant	NM_000090.4(COL3A1):c.1348G>T (p.Gly450Cys)	1281	COL3A1	Likely pathogenic	GRCh38	4887851

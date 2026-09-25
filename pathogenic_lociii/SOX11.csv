@@ -1,0 +1,75 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003108.4(SOX11):c.178T>C (p.Ser60Pro)	6664	SOX11	Pathogenic	GRCh38	139530
+single nucleotide variant	NM_003108.4(SOX11):c.594C>A (p.Tyr198Ter)	6664	SOX11	Pathogenic	GRCh38	373066
+single nucleotide variant	NM_003108.4(SOX11):c.1286G>A (p.Trp429Ter)	6664	SOX11	Pathogenic	GRCh38	374396
+single nucleotide variant	NM_003108.4(SOX11):c.190C>G (p.Arg64Gly)	6664	SOX11	Pathogenic	GRCh38	420790
+single nucleotide variant	NM_003108.4(SOX11):c.299G>C (p.Arg100Pro)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	420675
+single nucleotide variant	NM_003108.4(SOX11):c.511A>T (p.Lys171Ter)	6664	SOX11	Likely pathogenic	GRCh38	444486
+single nucleotide variant	NM_003108.4(SOX11):c.791C>A (p.Ser264Ter)	6664	SOX11	Pathogenic	GRCh38	520936
+single nucleotide variant	NM_003108.4(SOX11):c.322A>G (p.Lys108Glu)	6664	SOX11	Likely pathogenic	GRCh38	620069
+single nucleotide variant	NM_003108.4(SOX11):c.353A>C (p.Tyr118Ser)	6664	SOX11	Pathogenic	GRCh38	807694
+single nucleotide variant	NM_003108.4(SOX11):c.305C>T (p.Ala102Val)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	870388
+single nucleotide variant	NM_003108.4(SOX11):c.359C>T (p.Pro120Leu)	6664	SOX11	Likely pathogenic	GRCh38	974893
+single nucleotide variant	NM_003108.4(SOX11):c.323A>C (p.Lys108Thr)	6664	SOX11	Likely pathogenic	GRCh38	986819
+single nucleotide variant	NM_003108.4(SOX11):c.1009C>G (p.Arg337Gly)	6664	SOX11	Likely pathogenic	GRCh38	986913
+single nucleotide variant	NM_003108.4(SOX11):c.700G>T (p.Glu234Ter)	6664	SOX11	Likely pathogenic	GRCh38	1029671
+single nucleotide variant	NM_003108.4(SOX11):c.152G>A (p.Arg51Gln)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	1067260
+single nucleotide variant	NM_003108.4(SOX11):c.168C>G (p.Phe56Leu)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	1067424
+single nucleotide variant	NM_003108.4(SOX11):c.886G>T (p.Glu296Ter)	6664	SOX11	Likely pathogenic	GRCh38	1320206
+single nucleotide variant	NM_003108.4(SOX11):c.239C>T (p.Ser80Phe)	6664	SOX11	Likely pathogenic	GRCh38	1332805
+single nucleotide variant	NM_003108.4(SOX11):c.191G>A (p.Arg64His)	6664	SOX11	Pathogenic	GRCh38	1344679
+single nucleotide variant	NM_003108.4(SOX11):c.355C>T (p.Arg119Trp)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	1509978
+single nucleotide variant	NM_003108.4(SOX11):c.167T>G (p.Phe56Cys)	6664	SOX11	Likely pathogenic	GRCh38	1685451
+single nucleotide variant	NM_003108.4(SOX11):c.170T>C (p.Met57Thr)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	1686222
+single nucleotide variant	NM_003108.4(SOX11):c.190C>T (p.Arg64Cys)	6664	SOX11	Likely pathogenic	GRCh38	1705386
+single nucleotide variant	NM_003108.4(SOX11):c.159G>T (p.Met53Ile)	6664	SOX11	Likely pathogenic	GRCh38	1802586
+single nucleotide variant	NM_003108.4(SOX11):c.146T>G (p.Ile49Ser)	6664	SOX11	Likely pathogenic	GRCh38	1804059
+single nucleotide variant	NM_003108.4(SOX11):c.250G>C (p.Gly84Arg)	6664	SOX11	Pathogenic	GRCh38	1804060
+single nucleotide variant	NM_003108.4(SOX11):c.262A>G (p.Lys88Glu)	6664	SOX11	Likely pathogenic	GRCh38	2302212
+single nucleotide variant	NM_003108.4(SOX11):c.191G>C (p.Arg64Pro)	6664	SOX11	Likely pathogenic	GRCh38	2430907
+single nucleotide variant	NM_003108.4(SOX11):c.87C>A (p.Cys29Ter)	6664	SOX11	Pathogenic	GRCh38	2443007
+single nucleotide variant	NM_003108.4(SOX11):c.152G>T (p.Arg51Leu)	6664	SOX11	Likely pathogenic	GRCh38	2443008
+single nucleotide variant	NM_003108.4(SOX11):c.155C>T (p.Pro52Leu)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	2443009
+single nucleotide variant	NM_003108.4(SOX11):c.159G>A (p.Met53Ile)	6664	SOX11	Likely pathogenic	GRCh38	2443010
+single nucleotide variant	NM_003108.4(SOX11):c.158T>G (p.Met53Arg)	6664	SOX11	Likely pathogenic	GRCh38	2443011
+single nucleotide variant	NM_003108.4(SOX11):c.157A>G (p.Met53Val)	6664	SOX11	Likely pathogenic	GRCh38	2443012
+single nucleotide variant	NM_003108.4(SOX11):c.190C>A (p.Arg64Ser)	6664	SOX11	Likely pathogenic	GRCh38	2443013
+single nucleotide variant	NM_003108.4(SOX11):c.176G>A (p.Trp59Ter)	6664	SOX11	Pathogenic	GRCh38	2443014
+single nucleotide variant	NM_003108.4(SOX11):c.191G>T (p.Arg64Leu)	6664	SOX11	Likely pathogenic	GRCh38	2443015
+single nucleotide variant	NM_003108.4(SOX11):c.223C>G (p.His75Asp)	6664	SOX11	Likely pathogenic	GRCh38	2443016
+single nucleotide variant	NM_003108.4(SOX11):c.250G>A (p.Gly84Ser)	6664	SOX11	Likely pathogenic	GRCh38	2443017
+single nucleotide variant	NM_003108.4(SOX11):c.259T>C (p.Trp87Arg)	6664	SOX11	Likely pathogenic	GRCh38	2443018
+single nucleotide variant	NM_003108.4(SOX11):c.317G>C (p.Arg106Pro)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	2443020
+single nucleotide variant	NM_003108.4(SOX11):c.326A>C (p.His109Pro)	6664	SOX11	Likely pathogenic	GRCh38	2443021
+single nucleotide variant	NM_003108.4(SOX11):c.337T>C (p.Tyr113His)	6664	SOX11	Likely pathogenic	GRCh38	2443024
+single nucleotide variant	NM_003108.4(SOX11):c.359C>A (p.Pro120His)	6664	SOX11	Likely pathogenic	GRCh38	2443025
+single nucleotide variant	NM_003108.4(SOX11):c.820A>T (p.Lys274Ter)	6664	SOX11	Likely pathogenic	GRCh38	2443027
+single nucleotide variant	NM_003108.4(SOX11):c.146T>A (p.Ile49Asn)	6664	SOX11	Likely pathogenic	GRCh38	2443028
+single nucleotide variant	NM_003108.4(SOX11):c.150G>C (p.Lys50Asn)	6664	SOX11	Pathogenic	GRCh38	2443029
+single nucleotide variant	NM_003108.4(SOX11):c.148A>C (p.Lys50Gln)	6664	SOX11	Pathogenic	GRCh38	2443030
+single nucleotide variant	NM_003108.4(SOX11):c.151C>G (p.Arg51Gly)	6664	SOX11	Likely pathogenic	GRCh38	2443031
+single nucleotide variant	NM_003108.4(SOX11):c.353A>G (p.Tyr118Cys)	6664	SOX11	Likely pathogenic	GRCh38	2499552
+single nucleotide variant	NM_003108.4(SOX11):c.160A>G (p.Asn54Asp)	6664	SOX11	Likely pathogenic	GRCh38	2661912
+single nucleotide variant	NM_003108.4(SOX11):c.361C>T (p.Arg121Trp)	6664	SOX11	Likely pathogenic	GRCh38	3032780
+single nucleotide variant	NM_003108.4(SOX11):c.148A>G (p.Lys50Glu)	6664	SOX11	Likely pathogenic	GRCh38	3049183
+single nucleotide variant	NM_003108.4(SOX11):c.155C>G (p.Pro52Arg)	6664	SOX11	Likely pathogenic	GRCh38	3067682
+single nucleotide variant	NM_003108.4(SOX11):c.352T>C (p.Tyr118His)	6664	SOX11	Likely pathogenic	GRCh38	3167702
+single nucleotide variant	NM_003108.4(SOX11):c.1178C>A (p.Ser393Ter)	6664	SOX11	Pathogenic	GRCh38	3235714
+single nucleotide variant	NM_003108.4(SOX11):c.908C>A (p.Ser303Ter)	6664	SOX11	Pathogenic	GRCh38	3251948
+single nucleotide variant	NM_003108.4(SOX11):c.251G>A (p.Gly84Asp)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	3251954
+single nucleotide variant	NM_003108.4(SOX11):c.340C>T (p.Pro114Ser)	6664	SOX11	Likely pathogenic	GRCh38	3251956
+single nucleotide variant	NM_003108.4(SOX11):c.358C>T (p.Pro120Ser)	6664	SOX11	Likely pathogenic	GRCh38	3336955
+single nucleotide variant	NM_003108.4(SOX11):c.296T>C (p.Ile99Thr)	6664	SOX11	Pathogenic	GRCh38	3368249
+single nucleotide variant	NM_003108.4(SOX11):c.261G>T (p.Trp87Cys)	6664	SOX11	Likely pathogenic	GRCh38	3602936
+single nucleotide variant	NM_003108.4(SOX11):c.152G>C (p.Arg51Pro)	6664	SOX11	Likely pathogenic	GRCh38	3764728
+single nucleotide variant	NM_003108.4(SOX11):c.168C>A (p.Phe56Leu)	6664	SOX11	Pathogenic	GRCh38	3906864
+single nucleotide variant	NM_003108.4(SOX11):c.386C>A (p.Ser129Ter)	6664	SOX11	Pathogenic	GRCh38	3959939
+single nucleotide variant	NM_003108.4(SOX11):c.305C>A (p.Ala102Glu)	6664	SOX11	Pathogenic/Likely pathogenic	GRCh38	4082371
+single nucleotide variant	NM_003108.4(SOX11):c.187G>C (p.Glu63Gln)	6664	SOX11	Likely pathogenic	GRCh38	4279016
+single nucleotide variant	NM_003108.4(SOX11):c.259T>A (p.Trp87Arg)	6664	SOX11	Likely pathogenic	GRCh38	4279700
+single nucleotide variant	NM_003108.4(SOX11):c.736G>T (p.Glu246Ter)	6664	SOX11	Likely pathogenic	GRCh38	4281552
+single nucleotide variant	NM_003108.4(SOX11):c.341C>A (p.Pro114His)	6664	SOX11	Likely pathogenic	GRCh38	4293973
+single nucleotide variant	NM_003108.4(SOX11):c.358C>A (p.Pro120Thr)	6664	SOX11	Likely pathogenic	GRCh38	4534813
+single nucleotide variant	NM_003108.4(SOX11):c.158T>C (p.Met53Thr)	6664	SOX11	Likely pathogenic	GRCh38	4855523
+single nucleotide variant	NM_003108.4(SOX11):c.220A>G (p.Met74Val)	6664	SOX11	Likely pathogenic	GRCh38	4879420
+single nucleotide variant	NM_003108.4(SOX11):c.335A>G (p.Asp112Gly)	6664	SOX11	Likely pathogenic	GRCh38	4882367

@@ -1,0 +1,80 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000481.4(AMT):c.125A>G (p.His42Arg)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	11976
+single nucleotide variant	NM_000481.4(AMT):c.826G>C (p.Asp276His)	275	AMT	Pathogenic	GRCh38	11978
+single nucleotide variant	NM_000481.4(AMT):c.959G>A (p.Arg320His)	275	AMT	Pathogenic	GRCh38	11979
+single nucleotide variant	NM_000481.4(AMT):c.574C>T (p.Gln192Ter)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	11980
+single nucleotide variant	NM_000481.4(AMT):c.878-1G>A	275	AMT	Pathogenic	GRCh38	11981
+single nucleotide variant	NM_000481.4(AMT):c.139G>T (p.Gly47Trp)	275	AMT	Likely pathogenic	GRCh38	56226
+single nucleotide variant	NM_000481.4(AMT):c.230C>T (p.Ser77Leu)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	56229
+single nucleotide variant	NM_000481.4(AMT):c.259-1G>C	275	AMT	Pathogenic	GRCh38	56230
+single nucleotide variant	NM_000481.4(AMT):c.434A>T (p.Asn145Ile)	275	AMT	Likely pathogenic	GRCh38	56231
+single nucleotide variant	NM_000481.4(AMT):c.471+2T>C	275	AMT	Pathogenic	GRCh38	56233
+single nucleotide variant	NM_000481.4(AMT):c.674A>G (p.Tyr225Cys)	275	AMT	Likely pathogenic	GRCh38	56238
+single nucleotide variant	NM_000481.4(AMT):c.887G>A (p.Arg296His)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	56239
+single nucleotide variant	NM_000481.4(AMT):c.870G>A (p.Trp290Ter)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	208562
+single nucleotide variant	NM_000481.4(AMT):c.350C>T (p.Ser117Leu)	275	AMT	Pathogenic	GRCh38	430735
+single nucleotide variant	NM_000481.4(AMT):c.685G>C (p.Asp229His)	275	AMT	Likely pathogenic	GRCh38	462900
+single nucleotide variant	NM_000481.4(AMT):c.696+2T>A	275	AMT	Likely pathogenic	GRCh38	531772
+single nucleotide variant	NM_000481.4(AMT):c.696+1G>A	275	AMT	Likely pathogenic	GRCh38	550043
+single nucleotide variant	NM_000481.4(AMT):c.212A>C (p.His71Pro)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	551285
+single nucleotide variant	NM_000481.4(AMT):c.664C>T (p.Arg222Cys)	275	AMT	Pathogenic	GRCh38	552860
+single nucleotide variant	NM_000481.4(AMT):c.496C>T (p.Gln166Ter)	275	AMT	Pathogenic	GRCh38	557617
+single nucleotide variant	NM_000481.4(AMT):c.280C>T (p.Arg94Trp)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	557814
+single nucleotide variant	NM_000481.4(AMT):c.-58C>T	275	AMT	Pathogenic/Likely pathogenic	GRCh38	555489
+single nucleotide variant	NM_000481.4(AMT):c.794G>A (p.Arg265His)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	550886
+single nucleotide variant	NM_000481.4(AMT):c.793C>T (p.Arg265Cys)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	556661
+single nucleotide variant	NM_000481.4(AMT):c.1153C>T (p.Gln385Ter)	275	AMT	Pathogenic	GRCh38	551610
+single nucleotide variant	NM_000481.4(AMT):c.1087G>C (p.Gly363Arg)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	554115
+single nucleotide variant	NM_000481.4(AMT):c.1033+2T>C	275	AMT	Pathogenic	GRCh38	551739
+single nucleotide variant	NM_000481.4(AMT):c.958C>T (p.Arg320Cys)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	556278
+single nucleotide variant	NM_000481.4(AMT):c.164G>A (p.Trp55Ter)	275	AMT	Pathogenic	GRCh38	565538
+single nucleotide variant	NM_000481.4(AMT):c.886C>T (p.Arg296Cys)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	656955
+single nucleotide variant	NM_000481.4(AMT):c.256C>T (p.Gln86Ter)	275	AMT	Pathogenic	GRCh38	660464
+single nucleotide variant	NM_000481.4(AMT):c.339+1G>A	275	AMT	Likely pathogenic	GRCh38	651361
+single nucleotide variant	NM_000481.4(AMT):c.992G>A (p.Arg331Gln)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	978708
+single nucleotide variant	NM_000481.4(AMT):c.1058C>A (p.Ser353Tyr)	275	AMT	Likely pathogenic	GRCh38	1008464
+single nucleotide variant	NM_000481.4(AMT):c.696G>A (p.Glu232=)	275	AMT	Likely pathogenic	GRCh38	1028287
+single nucleotide variant	NM_000481.4(AMT):c.665G>T (p.Arg222Leu)	275	AMT	Likely pathogenic	GRCh38	1028286
+single nucleotide variant	NM_000481.4(AMT):c.2T>C (p.Met1Thr)	275	AMT	Pathogenic	GRCh38	1457206
+single nucleotide variant	NM_000481.4(AMT):c.317T>C (p.Ile106Thr)	275	AMT	Pathogenic	GRCh38	1071418
+single nucleotide variant	NM_000481.4(AMT):c.259-2A>C	275	AMT	Pathogenic	GRCh38	1069420
+single nucleotide variant	NM_000481.4(AMT):c.178C>T (p.Gln60Ter)	275	AMT	Pathogenic	GRCh38	1070246
+single nucleotide variant	NM_000481.4(AMT):c.2T>A (p.Met1Lys)	275	AMT	Pathogenic	GRCh38	1071338
+single nucleotide variant	NM_000481.4(AMT):c.472-2A>T	275	AMT	Likely pathogenic	GRCh38	1323886
+single nucleotide variant	NM_000481.4(AMT):c.3G>A (p.Met1Ile)	275	AMT	Likely pathogenic	GRCh38	1323888
+single nucleotide variant	NM_000481.4(AMT):c.230C>A (p.Ser77Ter)	275	AMT	Likely pathogenic	GRCh38	1343486
+single nucleotide variant	NM_000481.4(AMT):c.887G>T (p.Arg296Leu)	275	AMT	Likely pathogenic	GRCh38	1468461
+single nucleotide variant	NM_000481.4(AMT):c.819T>A (p.Tyr273Ter)	275	AMT	Pathogenic	GRCh38	1452651
+single nucleotide variant	NM_000481.4(AMT):c.293T>G (p.Met98Arg)	275	AMT	Likely pathogenic	GRCh38	1488817
+single nucleotide variant	NM_000481.4(AMT):c.847C>T (p.Pro283Ser)	275	AMT	Pathogenic	GRCh38	1398467
+single nucleotide variant	NM_000481.4(AMT):c.664C>A (p.Arg222Ser)	275	AMT	Likely pathogenic	GRCh38	1469564
+single nucleotide variant	NM_000481.4(AMT):c.46C>T (p.Gln16Ter)	275	AMT	Pathogenic/Likely pathogenic	GRCh38	1447287
+single nucleotide variant	NM_000481.4(AMT):c.991C>T (p.Arg331Trp)	275	AMT	Likely pathogenic	GRCh38	2171612
+single nucleotide variant	NM_000481.4(AMT):c.697-1G>A	275	AMT	Likely pathogenic	GRCh38	2196863
+single nucleotide variant	NM_000481.4(AMT):c.1101C>A (p.Cys367Ter)	275	AMT	Pathogenic	GRCh38	2203393
+single nucleotide variant	NM_000481.4(AMT):c.91-2A>G	275	AMT	Likely pathogenic	GRCh38	1993728
+single nucleotide variant	NM_000481.4(AMT):c.886C>G (p.Arg296Gly)	275	AMT	Likely pathogenic	GRCh38	2011355
+single nucleotide variant	NM_000481.4(AMT):c.931C>T (p.Gln311Ter)	275	AMT	Pathogenic	GRCh38	2014596
+single nucleotide variant	NM_000481.4(AMT):c.1087G>A (p.Gly363Ser)	275	AMT	Likely pathogenic	GRCh38	2076937
+single nucleotide variant	NM_000481.4(AMT):c.1033+1G>A	275	AMT	Pathogenic	GRCh38	2105835
+single nucleotide variant	NM_000481.4(AMT):c.90+1G>T	275	AMT	Likely pathogenic	GRCh38	2132636
+single nucleotide variant	NM_000481.4(AMT):c.339+2T>C	275	AMT	Likely pathogenic	GRCh38	2441374
+single nucleotide variant	NM_000481.4(AMT):c.259-2A>T	275	AMT	Pathogenic/Likely pathogenic	GRCh38	2676715
+single nucleotide variant	NM_000481.4(AMT):c.877+5G>A	275	AMT	Likely pathogenic	GRCh38	2734534
+single nucleotide variant	NM_000481.4(AMT):c.565C>T (p.Gln189Ter)	275	AMT	Pathogenic	GRCh38	2734536
+single nucleotide variant	NM_000481.4(AMT):c.1102G>T (p.Glu368Ter)	275	AMT	Pathogenic	GRCh38	2765422
+single nucleotide variant	NM_000481.4(AMT):c.258+1G>A	275	AMT	Likely pathogenic	GRCh38	2822418
+single nucleotide variant	NM_000481.4(AMT):c.669T>A (p.Cys223Ter)	275	AMT	Pathogenic	GRCh38	2827671
+single nucleotide variant	NM_000481.4(AMT):c.697-2A>C	275	AMT	Likely pathogenic	GRCh38	2827955
+single nucleotide variant	NM_000481.4(AMT):c.217C>G (p.Arg73Gly)	275	AMT	Likely pathogenic	GRCh38	2912348
+single nucleotide variant	NM_000481.4(AMT):c.248A>C (p.His83Pro)	275	AMT	Likely pathogenic	GRCh38	2996375
+single nucleotide variant	NM_000481.4(AMT):c.91-1G>T	275	AMT	Likely pathogenic	GRCh38	3239762
+single nucleotide variant	NM_000481.4(AMT):c.958C>G (p.Arg320Gly)	275	AMT	Likely pathogenic	GRCh38	3340315
+single nucleotide variant	NM_000481.4(AMT):c.697-2A>G	275	AMT	Likely pathogenic	GRCh38	3589445
+single nucleotide variant	NM_000481.4(AMT):c.490C>T (p.Gln164Ter)	275	AMT	Likely pathogenic	GRCh38	3589448
+single nucleotide variant	NM_000481.4(AMT):c.91-1G>A	275	AMT	Likely pathogenic	GRCh38	4060560
+single nucleotide variant	NM_000481.4(AMT):c.286A>T (p.Lys96Ter)	275	AMT	Likely pathogenic	GRCh38	4818425
+single nucleotide variant	NM_000481.4(AMT):c.423T>G (p.Tyr141Ter)	275	AMT	Likely pathogenic	GRCh38	4818426
+single nucleotide variant	NM_000481.4(AMT):c.878-2A>G	275	AMT	Likely pathogenic	GRCh38	4833620
+single nucleotide variant	NM_000481.4(AMT):c.878-2A>T	275	AMT	Likely pathogenic	GRCh38	4889883
+single nucleotide variant	NM_000481.4(AMT):c.877+2T>C	275	AMT	Likely pathogenic	GRCh38	4889987

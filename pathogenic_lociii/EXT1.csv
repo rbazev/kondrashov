@@ -12,7 +12,7 @@ single nucleotide variant	NM_000127.3(EXT1):c.962+1G>T	2131	EXT1	Pathogenic	GRCh
 single nucleotide variant	NM_000127.3(EXT1):c.803G>A (p.Gly268Glu)	2131	EXT1	Pathogenic/Likely pathogenic	GRCh38	265126
 single nucleotide variant	NM_000127.3(EXT1):c.535C>T (p.Gln179Ter)	2131	EXT1	Pathogenic	GRCh38	265468
 single nucleotide variant	NM_000127.3(EXT1):c.1147G>T (p.Glu383Ter)	2131	EXT1	Pathogenic	GRCh38	379236
-single nucleotide variant	NM_000127.3(EXT1):c.852T>A (p.Tyr284Ter)	2131	EXT1	Pathogenic	GRCh38	379472
+single nucleotide variant	NM_000127.3(EXT1):c.852T>A (p.Tyr284Ter)	2131	EXT1	Pathogenic/Likely pathogenic	GRCh38	379472
 single nucleotide variant	NM_000127.3(EXT1):c.250C>T (p.Gln84Ter)	2131	EXT1	Pathogenic	GRCh38	419258
 single nucleotide variant	NM_000127.3(EXT1):c.2000T>A (p.Leu667Ter)	2131	EXT1	Pathogenic	GRCh38	430552
 single nucleotide variant	NM_000127.3(EXT1):c.1884-1G>C	2131	EXT1	Pathogenic	GRCh38	429834
@@ -52,7 +52,7 @@ single nucleotide variant	NM_000127.3(EXT1):c.1911C>A (p.Tyr637Ter)	2131	EXT1	Pa
 single nucleotide variant	NM_000127.3(EXT1):c.1817G>A (p.Trp606Ter)	2131	EXT1	Pathogenic	GRCh38	662503
 single nucleotide variant	NM_000127.3(EXT1):c.1745G>A (p.Trp582Ter)	2131	EXT1	Pathogenic	GRCh38	659880
 single nucleotide variant	NM_000127.3(EXT1):c.1236G>A (p.Trp412Ter)	2131	EXT1	Pathogenic	GRCh38	650518
-single nucleotide variant	NM_000127.3(EXT1):c.1063T>C (p.Cys355Arg)	2131	EXT1	Pathogenic	GRCh38	657060
+single nucleotide variant	NM_000127.3(EXT1):c.1063T>C (p.Cys355Arg)	2131	EXT1	Pathogenic/Likely pathogenic	GRCh38	657060
 single nucleotide variant	NM_000127.3(EXT1):c.1000T>C (p.Cys334Arg)	2131	EXT1	Likely pathogenic	GRCh38	641444
 single nucleotide variant	NM_000127.3(EXT1):c.957T>A (p.Tyr319Ter)	2131	EXT1	Pathogenic	GRCh38	638993
 single nucleotide variant	NM_000127.3(EXT1):c.584T>G (p.Leu195Ter)	2131	EXT1	Pathogenic	GRCh38	644357
@@ -241,3 +241,4 @@ single nucleotide variant	NM_000127.3(EXT1):c.704C>G (p.Pro235Arg)	2131	EXT1	Pat
 single nucleotide variant	NM_000127.3(EXT1):c.1A>G (p.Met1Val)	2131	EXT1	Likely pathogenic	GRCh38	4819348
 single nucleotide variant	NM_000127.3(EXT1):c.572T>G (p.Leu191Ter)	2131	EXT1	Pathogenic	GRCh38	4819356
 single nucleotide variant	NM_000127.3(EXT1):c.1056+2T>C	2131	EXT1	Pathogenic	GRCh38	4849619
+single nucleotide variant	NM_000127.3(EXT1):c.1723-1G>C	2131	EXT1	Pathogenic	GRCh38	4888016

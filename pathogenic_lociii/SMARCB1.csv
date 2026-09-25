@@ -1,0 +1,69 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003073.5(SMARCB1):c.986+1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	8025
+single nucleotide variant	NM_003073.5(SMARCB1):c.34C>T (p.Gln12Ter)	6598	SMARCB1	Pathogenic	GRCh38	8026
+single nucleotide variant	NM_003073.5(SMARCB1):c.544C>T (p.Gln182Ter)	6598	SMARCB1	Pathogenic	GRCh38	8027
+single nucleotide variant	NM_003073.5(SMARCB1):c.1130G>A (p.Arg377His)	6598	SMARCB1	Pathogenic	GRCh38	30203
+single nucleotide variant	NM_003073.5(SMARCB1):c.110G>A (p.Arg37His)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	88893
+single nucleotide variant	NM_003073.5(SMARCB1):c.1087A>G (p.Lys363Glu)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	212263
+single nucleotide variant	NM_003073.5(SMARCB1):c.*82C>T	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	239481
+single nucleotide variant	NM_003073.5(SMARCB1):c.1096C>T (p.Arg366Cys)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	265393
+single nucleotide variant	NM_003073.5(SMARCB1):c.1121G>A (p.Arg374Gln)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	372511
+single nucleotide variant	NM_003073.5(SMARCB1):c.158G>T (p.Arg53Leu)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	410706
+single nucleotide variant	NM_003073.5(SMARCB1):c.118C>T (p.Arg40Ter)	6598	SMARCB1	Pathogenic	GRCh38	410698
+single nucleotide variant	NM_003073.5(SMARCB1):c.152G>A (p.Trp51Ter)	6598	SMARCB1	Pathogenic	GRCh38	410703
+single nucleotide variant	NM_003073.5(SMARCB1):c.602G>A (p.Arg201Gln)	6598	SMARCB1	Likely pathogenic	GRCh38	438304
+single nucleotide variant	NM_003073.5(SMARCB1):c.184A>T (p.Lys62Ter)	6598	SMARCB1	Pathogenic	GRCh38	464323
+single nucleotide variant	NM_003073.5(SMARCB1):c.501-1G>C	6598	SMARCB1	Pathogenic	GRCh38	464328
+single nucleotide variant	NM_003073.5(SMARCB1):c.1118+1G>A	6598	SMARCB1	Pathogenic	GRCh38	464317
+single nucleotide variant	NM_003073.5(SMARCB1):c.601C>T (p.Arg201Ter)	6598	SMARCB1	Pathogenic	GRCh38	532962
+single nucleotide variant	NM_003073.5(SMARCB1):c.362+1G>A	6598	SMARCB1	Pathogenic	GRCh38	582116
+single nucleotide variant	NM_003073.5(SMARCB1):c.1070C>T (p.Thr357Ile)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	580796
+single nucleotide variant	NM_003073.5(SMARCB1):c.233-2A>G	6598	SMARCB1	Likely pathogenic	GRCh38	581570
+single nucleotide variant	NM_003073.5(SMARCB1):c.1129C>G (p.Arg377Gly)	6598	SMARCB1	Likely pathogenic	GRCh38	638627
+single nucleotide variant	NM_003073.5(SMARCB1):c.80T>G (p.Met27Arg)	6598	SMARCB1	Likely pathogenic	GRCh38	838596
+single nucleotide variant	NM_003073.5(SMARCB1):c.795+1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	852071
+single nucleotide variant	NM_003073.5(SMARCB1):c.52C>T (p.Gln18Ter)	6598	SMARCB1	Pathogenic	GRCh38	872341
+single nucleotide variant	NM_003073.5(SMARCB1):c.1133T>C (p.Leu378Pro)	6598	SMARCB1	Likely pathogenic	GRCh38	916053
+single nucleotide variant	NM_003073.5(SMARCB1):c.157C>T (p.Arg53Ter)	6598	SMARCB1	Pathogenic	GRCh38	944246
+single nucleotide variant	NM_003073.5(SMARCB1):c.987-1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	942818
+single nucleotide variant	NM_003073.5(SMARCB1):c.232+1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	972408
+single nucleotide variant	NM_003073.5(SMARCB1):c.986+2T>C	6598	SMARCB1	Likely pathogenic	GRCh38	987873
+single nucleotide variant	NM_003073.5(SMARCB1):c.472C>T (p.Arg158Ter)	6598	SMARCB1	Pathogenic	GRCh38	995897
+single nucleotide variant	NM_003073.5(SMARCB1):c.812G>A (p.Gly271Glu)	6598	SMARCB1	Likely pathogenic	GRCh38	1029505
+single nucleotide variant	NM_003073.5(SMARCB1):c.141C>A (p.Tyr47Ter)	6598	SMARCB1	Pathogenic	GRCh38	1073885
+single nucleotide variant	NM_003073.5(SMARCB1):c.153G>A (p.Trp51Ter)	6598	SMARCB1	Pathogenic	GRCh38	1071772
+single nucleotide variant	NM_003073.5(SMARCB1):c.364G>T (p.Glu122Ter)	6598	SMARCB1	Pathogenic	GRCh38	1076272
+single nucleotide variant	NM_003073.5(SMARCB1):c.500+883T>G	6598	SMARCB1	Pathogenic	GRCh38	1192514
+single nucleotide variant	NM_003073.5(SMARCB1):c.500+887G>A	6598	SMARCB1	Pathogenic	GRCh38	1192515
+single nucleotide variant	NM_003073.5(SMARCB1):c.796-1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	1331385
+single nucleotide variant	NM_003073.5(SMARCB1):c.1096C>G (p.Arg366Gly)	6598	SMARCB1	Likely pathogenic	GRCh38	1343154
+single nucleotide variant	NM_003073.5(SMARCB1):c.987-1G>C	6598	SMARCB1	Likely pathogenic	GRCh38	1511052
+single nucleotide variant	NM_003073.5(SMARCB1):c.91G>T (p.Glu31Ter)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	1430166
+single nucleotide variant	NM_003073.5(SMARCB1):c.986+1G>T	6598	SMARCB1	Likely pathogenic	GRCh38	1484080
+single nucleotide variant	NM_003073.5(SMARCB1):c.778C>T (p.Gln260Ter)	6598	SMARCB1	Pathogenic	GRCh38	1459852
+single nucleotide variant	NM_003073.5(SMARCB1):c.41C>A (p.Pro14His)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	1738639
+single nucleotide variant	NM_003073.5(SMARCB1):c.986+2T>G	6598	SMARCB1	Likely pathogenic	GRCh38	1768428
+single nucleotide variant	NM_003073.5(SMARCB1):c.1118+2T>C	6598	SMARCB1	Pathogenic	GRCh38	2501798
+single nucleotide variant	NM_003073.5(SMARCB1):c.796-1G>C	6598	SMARCB1	Likely pathogenic	GRCh38	2584415
+single nucleotide variant	NM_003073.5(SMARCB1):c.93+1G>A	6598	SMARCB1	Likely pathogenic	GRCh38	2756048
+single nucleotide variant	NM_003073.5(SMARCB1):c.363-2A>G	6598	SMARCB1	Likely pathogenic	GRCh38	2751923
+single nucleotide variant	NM_003073.5(SMARCB1):c.92A>G (p.Glu31Gly)	6598	SMARCB1	Pathogenic	GRCh38	2764125
+single nucleotide variant	NM_003073.5(SMARCB1):c.628+2T>C	6598	SMARCB1	Likely pathogenic	GRCh38	2769229
+single nucleotide variant	NM_003073.5(SMARCB1):c.805C>T (p.His269Tyr)	6598	SMARCB1	Likely pathogenic	GRCh38	3350066
+single nucleotide variant	NM_003073.5(SMARCB1):c.109C>T (p.Arg37Cys)	6598	SMARCB1	Pathogenic/Likely pathogenic	GRCh38	3363753
+single nucleotide variant	NM_003073.5(SMARCB1):c.1042C>T (p.Gln348Ter)	6598	SMARCB1	Pathogenic	GRCh38	3623651
+single nucleotide variant	NM_003073.5(SMARCB1):c.832C>T (p.Gln278Ter)	6598	SMARCB1	Pathogenic	GRCh38	3723909
+single nucleotide variant	NM_003073.5(SMARCB1):c.987-1G>T	6598	SMARCB1	Likely pathogenic	GRCh38	3728842
+single nucleotide variant	NM_003073.5(SMARCB1):c.569G>A (p.Arg190Gln)	6598	SMARCB1	Pathogenic	GRCh38	3764163
+single nucleotide variant	NM_003073.5(SMARCB1):c.93+559A>G	6598	SMARCB1	Likely pathogenic	GRCh38	3780651
+single nucleotide variant	NM_003073.5(SMARCB1):c.*70C>T	6598	SMARCB1	Likely pathogenic	GRCh38	3780947
+single nucleotide variant	NM_003073.5(SMARCB1):c.1118G>A (p.Arg373Lys)	6598	SMARCB1	Likely pathogenic	GRCh38	3893254
+single nucleotide variant	NM_003073.5(SMARCB1):c.1096C>A (p.Arg366Ser)	6598	SMARCB1	Likely pathogenic	GRCh38	3897791
+single nucleotide variant	NM_003073.5(SMARCB1):c.592C>T (p.Gln198Ter)	6598	SMARCB1	Pathogenic	GRCh38	4056242
+single nucleotide variant	NM_003073.5(SMARCB1):c.967C>T (p.Gln323Ter)	6598	SMARCB1	Pathogenic	GRCh38	4710843
+single nucleotide variant	NM_003073.5(SMARCB1):c.501-1G>A	6598	SMARCB1	Pathogenic	GRCh38	4759319
+single nucleotide variant	NM_003073.5(SMARCB1):c.952C>T (p.Gln318Ter)	6598	SMARCB1	Pathogenic	GRCh38	4759321
+single nucleotide variant	NM_003073.5(SMARCB1):c.1130G>T (p.Arg377Leu)	6598	SMARCB1	Likely pathogenic	GRCh38	4795211
+single nucleotide variant	NM_003073.5(SMARCB1):c.367C>T (p.Gln123Ter)	6598	SMARCB1	Pathogenic	GRCh38	4824952
+single nucleotide variant	NM_003073.5(SMARCB1):c.94-2A>G	6598	SMARCB1	Pathogenic	GRCh38	4849822
+single nucleotide variant	NM_003073.5(SMARCB1):c.132C>G (p.Tyr44Ter)	6598	SMARCB1	Pathogenic	GRCh38	4884458

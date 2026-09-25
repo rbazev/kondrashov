@@ -1,0 +1,73 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_178012.5(TUBB2B):c.514T>C (p.Ser172Pro)	347733	TUBB2B	Pathogenic	GRCh38	426
+single nucleotide variant	NM_178012.5(TUBB2B):c.683T>C (p.Leu228Pro)	347733	TUBB2B	Pathogenic	GRCh38	427
+single nucleotide variant	NM_178012.5(TUBB2B):c.793T>C (p.Phe265Leu)	347733	TUBB2B	Pathogenic	GRCh38	428
+single nucleotide variant	NM_178012.5(TUBB2B):c.1249G>A (p.Asp417Asn)	347733	TUBB2B	Pathogenic	GRCh38	39720
+single nucleotide variant	NM_178012.5(TUBB2B):c.350T>C (p.Leu117Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	39722
+single nucleotide variant	NM_178012.5(TUBB2B):c.1261G>A (p.Glu421Lys)	347733	TUBB2B	Pathogenic	GRCh38	88897
+single nucleotide variant	NM_178012.5(TUBB2B):c.1139G>T (p.Arg380Leu)	347733	TUBB2B	Likely pathogenic	GRCh38	160177
+single nucleotide variant	NM_178012.5(TUBB2B):c.965C>T (p.Ser322Phe)	347733	TUBB2B	Likely pathogenic	GRCh38	160187
+single nucleotide variant	NM_178012.5(TUBB2B):c.716G>T (p.Cys239Phe)	347733	TUBB2B	Pathogenic	GRCh38	236255
+single nucleotide variant	NM_178012.5(TUBB2B):c.55A>C (p.Lys19Gln)	347733	TUBB2B	Likely pathogenic	GRCh38	372699
+single nucleotide variant	NM_178012.5(TUBB2B):c.1189T>C (p.Trp397Arg)	347733	TUBB2B	Pathogenic	GRCh38	379922
+single nucleotide variant	NM_178012.5(TUBB2B):c.722G>A (p.Arg241His)	347733	TUBB2B	Likely pathogenic	GRCh38	420140
+single nucleotide variant	NM_178012.5(TUBB2B):c.33G>C (p.Gln11His)	347733	TUBB2B	Likely pathogenic	GRCh38	431080
+single nucleotide variant	NM_178012.5(TUBB2B):c.751C>A (p.Arg251Ser)	347733	TUBB2B	Likely pathogenic	GRCh38	432230
+single nucleotide variant	NM_178012.5(TUBB2B):c.871C>A (p.Gln291Lys)	347733	TUBB2B	Likely pathogenic	GRCh38	437125
+single nucleotide variant	NM_178012.5(TUBB2B):c.515C>T (p.Ser172Leu)	347733	TUBB2B	Likely pathogenic	GRCh38	437128
+single nucleotide variant	NM_178012.5(TUBB2B):c.205G>C (p.Glu69Gln)	347733	TUBB2B	Likely pathogenic	GRCh38	545061
+single nucleotide variant	NM_178012.5(TUBB2B):c.629T>A (p.Ile210Asn)	347733	TUBB2B	Likely pathogenic	GRCh38	624122
+single nucleotide variant	NM_178012.5(TUBB2B):c.1070C>T (p.Pro357Leu)	347733	TUBB2B	Pathogenic/Likely pathogenic	GRCh38	692087
+single nucleotide variant	NM_178012.5(TUBB2B):c.4C>A (p.Arg2Ser)	347733	TUBB2B	Pathogenic	GRCh38	800842
+single nucleotide variant	NM_178012.5(TUBB2B):c.602G>T (p.Cys201Phe)	347733	TUBB2B	Likely pathogenic	GRCh38	864868
+single nucleotide variant	NM_178012.5(TUBB2B):c.611A>T (p.Asn204Ile)	347733	TUBB2B	Likely pathogenic	GRCh38	975947
+single nucleotide variant	NM_178012.5(TUBB2B):c.526T>C (p.Ser176Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	985440
+single nucleotide variant	NM_178012.5(TUBB2B):c.298A>T (p.Asn100Tyr)	347733	TUBB2B	Likely pathogenic	GRCh38	996659
+single nucleotide variant	NM_178012.5(TUBB2B):c.1162A>C (p.Met388Leu)	347733	TUBB2B	Likely pathogenic	GRCh38	1048606
+single nucleotide variant	NM_178012.5(TUBB2B):c.972G>C (p.Lys324Asn)	347733	TUBB2B	Pathogenic	GRCh38	1190491
+single nucleotide variant	NM_178012.5(TUBB2B):c.1228G>A (p.Glu410Lys)	347733	TUBB2B	Pathogenic/Likely pathogenic	GRCh38	1195195
+single nucleotide variant	NM_178012.5(TUBB2B):c.953G>A (p.Arg318Gln)	347733	TUBB2B	Likely pathogenic	GRCh38	1193251
+single nucleotide variant	NM_178012.5(TUBB2B):c.1138C>T (p.Arg380Cys)	347733	TUBB2B	Pathogenic	GRCh38	1214258
+single nucleotide variant	NM_178012.5(TUBB2B):c.5G>A (p.Arg2His)	347733	TUBB2B	Likely pathogenic	GRCh38	1336721
+single nucleotide variant	NM_178012.5(TUBB2B):c.673C>T (p.Leu225Phe)	347733	TUBB2B	Likely pathogenic	GRCh38	1337281
+single nucleotide variant	NM_178012.5(TUBB2B):c.904G>A (p.Ala302Thr)	347733	TUBB2B	Likely pathogenic	GRCh38	1519873
+single nucleotide variant	NM_178012.5(TUBB2B):c.518C>G (p.Pro173Arg)	347733	TUBB2B	Pathogenic/Likely pathogenic	GRCh38	1676461
+single nucleotide variant	NM_178012.5(TUBB2B):c.908G>A (p.Cys303Tyr)	347733	TUBB2B	Likely pathogenic	GRCh38	1679255
+single nucleotide variant	NM_178012.5(TUBB2B):c.893A>T (p.Asn298Ile)	347733	TUBB2B	Likely pathogenic	GRCh38	1686714
+single nucleotide variant	NM_178012.5(TUBB2B):c.730G>A (p.Gly244Ser)	347733	TUBB2B	Pathogenic	GRCh38	1695512
+single nucleotide variant	NM_178012.5(TUBB2B):c.776C>T (p.Pro259Leu)	347733	TUBB2B	Pathogenic	GRCh38	1708143
+single nucleotide variant	NM_178012.5(TUBB2B):c.510G>A (p.Met170Ile)	347733	TUBB2B	Likely pathogenic	GRCh38	1715349
+single nucleotide variant	NM_178012.5(TUBB2B):c.287G>A (p.Gly96Glu)	347733	TUBB2B	Pathogenic	GRCh38	1720661
+single nucleotide variant	NM_178012.5(TUBB2B):c.1139G>A (p.Arg380His)	347733	TUBB2B	Pathogenic/Likely pathogenic	GRCh38	2498169
+single nucleotide variant	NM_178012.5(TUBB2B):c.1171C>T (p.Arg391Cys)	347733	TUBB2B	Pathogenic	GRCh38	2578313
+single nucleotide variant	NM_178012.5(TUBB2B):c.632G>A (p.Cys211Tyr)	347733	TUBB2B	Likely pathogenic	GRCh38	3024227
+single nucleotide variant	NM_178012.5(TUBB2B):c.178G>T (p.Val60Phe)	347733	TUBB2B	Likely pathogenic	GRCh38	3026502
+single nucleotide variant	NM_178012.5(TUBB2B):c.416T>C (p.Leu139Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	3062041
+single nucleotide variant	NM_178012.5(TUBB2B):c.845G>C (p.Arg282Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	3235893
+single nucleotide variant	NM_178012.5(TUBB2B):c.622T>A (p.Tyr208Asn)	347733	TUBB2B	Likely pathogenic	GRCh38	3236667
+single nucleotide variant	NM_178012.5(TUBB2B):c.638G>C (p.Arg213Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	3251027
+single nucleotide variant	NM_178012.5(TUBB2B):c.547T>C (p.Tyr183His)	347733	TUBB2B	Likely pathogenic	GRCh38	3252879
+single nucleotide variant	NM_178012.5(TUBB2B):c.243C>G (p.Phe81Leu)	347733	TUBB2B	Likely pathogenic	GRCh38	3255101
+single nucleotide variant	NM_178012.5(TUBB2B):c.632G>T (p.Cys211Phe)	347733	TUBB2B	Pathogenic	GRCh38	3342661
+single nucleotide variant	NM_178012.5(TUBB2B):c.1139G>C (p.Arg380Pro)	347733	TUBB2B	Likely pathogenic	GRCh38	3348296
+single nucleotide variant	NM_178012.5(TUBB2B):c.212G>A (p.Gly71Asp)	347733	TUBB2B	Likely pathogenic	GRCh38	3366292
+single nucleotide variant	NM_178012.5(TUBB2B):c.467G>A (p.Arg156Gln)	347733	TUBB2B	Likely pathogenic	GRCh38	3602914
+single nucleotide variant	NM_178012.5(TUBB2B):c.823A>G (p.Ser275Gly)	347733	TUBB2B	Likely pathogenic	GRCh38	3730964
+single nucleotide variant	NM_178012.5(TUBB2B):c.1106G>T (p.Gly369Val)	347733	TUBB2B	Pathogenic	GRCh38	3777181
+single nucleotide variant	NM_178012.5(TUBB2B):c.670G>T (p.Asp224Tyr)	347733	TUBB2B	Likely pathogenic	GRCh38	3774397
+single nucleotide variant	NM_178012.5(TUBB2B):c.539T>C (p.Val180Ala)	347733	TUBB2B	Likely pathogenic	GRCh38	3775014
+single nucleotide variant	NM_178012.5(TUBB2B):c.844C>G (p.Arg282Gly)	347733	TUBB2B	Pathogenic	GRCh38	3780999
+single nucleotide variant	NM_178012.5(TUBB2B):c.32A>T (p.Gln11Leu)	347733	TUBB2B	Likely pathogenic	GRCh38	3898909
+single nucleotide variant	NM_178012.5(TUBB2B):c.43C>T (p.Gln15Ter)	347733	TUBB2B	Likely pathogenic	GRCh38	4076115
+single nucleotide variant	NM_178012.5(TUBB2B):c.145G>A (p.Val49Ile)	347733	TUBB2B	Likely pathogenic	GRCh38	4077397
+single nucleotide variant	NM_178012.5(TUBB2B):c.4C>T (p.Arg2Cys)	347733	TUBB2B	Pathogenic	GRCh38	4086071
+single nucleotide variant	NM_178012.5(TUBB2B):c.55A>G (p.Lys19Glu)	347733	TUBB2B	Likely pathogenic	GRCh38	4278262
+single nucleotide variant	NM_178012.5(TUBB2B):c.1034T>A (p.Ile345Asn)	347733	TUBB2B	Likely pathogenic	GRCh38	4279553
+single nucleotide variant	NM_178012.5(TUBB2B):c.629T>C (p.Ile210Thr)	347733	TUBB2B	Likely pathogenic	GRCh38	4279689
+single nucleotide variant	NM_178012.5(TUBB2B):c.832A>G (p.Ser278Gly)	347733	TUBB2B	Pathogenic	GRCh38	4282348
+single nucleotide variant	NM_178012.5(TUBB2B):c.795C>A (p.Phe265Leu)	347733	TUBB2B	Pathogenic	GRCh38	4526588
+single nucleotide variant	NM_178012.5(TUBB2B):c.646A>G (p.Lys216Glu)	347733	TUBB2B	Likely pathogenic	GRCh38	4529914
+single nucleotide variant	NM_178012.5(TUBB2B):c.605T>C (p.Ile202Thr)	347733	TUBB2B	Likely pathogenic	GRCh38	4540579
+single nucleotide variant	NM_178012.5(TUBB2B):c.1033A>T (p.Ile345Phe)	347733	TUBB2B	Pathogenic	GRCh38	4740968
+single nucleotide variant	NM_178012.5(TUBB2B):c.625G>A (p.Asp209Asn)	347733	TUBB2B	Likely pathogenic	GRCh38	4740998
+single nucleotide variant	NM_178012.5(TUBB2B):c.1150C>A (p.Gln384Lys)	347733	TUBB2B	Likely pathogenic	GRCh38	4755430

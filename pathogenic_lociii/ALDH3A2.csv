@@ -1,0 +1,98 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000382.3(ALDH3A2):c.641G>A (p.Cys214Tyr)	224	ALDH3A2	Pathogenic	GRCh38	1639
+single nucleotide variant	NM_000382.3(ALDH3A2):c.943C>T (p.Pro315Ser)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1640
+single nucleotide variant	NM_000382.3(ALDH3A2):c.798G>C (p.Lys266Asn)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1643
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1157A>G (p.Asn386Ser)	224	ALDH3A2	Pathogenic	GRCh38	1644
+single nucleotide variant	NM_000382.3(ALDH3A2):c.28C>T (p.Gln10Ter)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	188833
+single nucleotide variant	NM_000382.3(ALDH3A2):c.551C>T (p.Thr184Met)	224	ALDH3A2	Pathogenic	GRCh38	188768
+single nucleotide variant	NM_000382.3(ALDH3A2):c.798+5G>A	224	ALDH3A2	Pathogenic	GRCh38	189079
+single nucleotide variant	NM_000382.3(ALDH3A2):c.623T>C (p.Leu208Pro)	224	ALDH3A2	Likely pathogenic	GRCh38	191071
+single nucleotide variant	NM_000382.3(ALDH3A2):c.191T>A (p.Val64Asp)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	265458
+single nucleotide variant	NM_000382.3(ALDH3A2):c.386-2A>T	224	ALDH3A2	Pathogenic	GRCh38	265030
+single nucleotide variant	NM_000382.3(ALDH3A2):c.529C>T (p.Arg177Ter)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	265027
+single nucleotide variant	NM_000382.3(ALDH3A2):c.733G>A (p.Asp245Asn)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	265459
+single nucleotide variant	NM_000382.3(ALDH3A2):c.153+2T>G	224	ALDH3A2	Likely pathogenic	GRCh38	370913
+single nucleotide variant	NM_000382.3(ALDH3A2):c.234G>A (p.Trp78Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	370209
+single nucleotide variant	NM_000382.3(ALDH3A2):c.798+1G>A	224	ALDH3A2	Likely pathogenic	GRCh38	371446
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1094C>T (p.Ser365Leu)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	371221
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1108-2A>G	224	ALDH3A2	Likely pathogenic	GRCh38	370751
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1108-1G>C	224	ALDH3A2	Pathogenic	GRCh38	370452
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1108-1G>T	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	370471
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1444-1G>T	224	ALDH3A2	Likely pathogenic	GRCh38	371097
+single nucleotide variant	NM_000382.3(ALDH3A2):c.835T>A (p.Tyr279Asn)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	430161
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1069A>T (p.Lys357Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	432183
+single nucleotide variant	NM_000382.3(ALDH3A2):c.103C>T (p.Gln35Ter)	224	ALDH3A2	Pathogenic	GRCh38	438265
+single nucleotide variant	NM_000382.3(ALDH3A2):c.631A>G (p.Lys211Glu)	224	ALDH3A2	Pathogenic	GRCh38	438262
+single nucleotide variant	NM_000382.3(ALDH3A2):c.908G>T (p.Gly303Val)	224	ALDH3A2	Likely pathogenic	GRCh38	522786
+single nucleotide variant	NM_000382.3(ALDH3A2):c.480T>G (p.Tyr160Ter)	224	ALDH3A2	Pathogenic	GRCh38	545956
+single nucleotide variant	NM_000382.3(ALDH3A2):c.2T>A (p.Met1Lys)	224	ALDH3A2	Pathogenic	GRCh38	552666
+single nucleotide variant	NM_000382.3(ALDH3A2):c.471+2T>G	224	ALDH3A2	Likely pathogenic	GRCh38	554843
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1277T>G (p.Leu426Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	552750
+single nucleotide variant	NM_000382.3(ALDH3A2):c.472-2A>G	224	ALDH3A2	Pathogenic	GRCh38	554479
+single nucleotide variant	NM_000382.3(ALDH3A2):c.682C>T (p.Arg228Cys)	224	ALDH3A2	Pathogenic	GRCh38	556574
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1108-1G>A	224	ALDH3A2	Likely pathogenic	GRCh38	558054
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1207+1G>A	224	ALDH3A2	Likely pathogenic	GRCh38	557412
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1A>G (p.Met1Val)	224	ALDH3A2	Likely pathogenic	GRCh38	551722
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1A>T (p.Met1Leu)	224	ALDH3A2	Likely pathogenic	GRCh38	551717
+single nucleotide variant	NM_000382.3(ALDH3A2):c.73C>T (p.Gln25Ter)	224	ALDH3A2	Pathogenic	GRCh38	554435
+single nucleotide variant	NM_000382.3(ALDH3A2):c.3G>A (p.Met1Ile)	224	ALDH3A2	Likely pathogenic	GRCh38	551714
+single nucleotide variant	NM_000382.3(ALDH3A2):c.3G>C (p.Met1Ile)	224	ALDH3A2	Pathogenic	GRCh38	552722
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1367T>A (p.Leu456Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	552790
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1309A>T (p.Lys437Ter)	224	ALDH3A2	Pathogenic	GRCh38	619024
+single nucleotide variant	NM_000382.3(ALDH3A2):c.837T>G (p.Tyr279Ter)	224	ALDH3A2	Pathogenic	GRCh38	623290
+single nucleotide variant	NM_000382.3(ALDH3A2):c.710G>A (p.Cys237Tyr)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	631767
+single nucleotide variant	NM_000382.3(ALDH3A2):c.683G>A (p.Arg228His)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	653859
+single nucleotide variant	NM_000382.3(ALDH3A2):c.777G>A (p.Trp259Ter)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	804419
+single nucleotide variant	NM_000382.3(ALDH3A2):c.50C>A (p.Ser17Ter)	224	ALDH3A2	Pathogenic	GRCh38	816625
+single nucleotide variant	NM_000382.3(ALDH3A2):c.385+2T>C	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	844940
+single nucleotide variant	NM_000382.3(ALDH3A2):c.471+1G>C	224	ALDH3A2	Pathogenic	GRCh38	977702
+single nucleotide variant	NM_000382.3(ALDH3A2):c.464T>A (p.Leu155Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983808
+single nucleotide variant	NM_000382.3(ALDH3A2):c.571A>T (p.Lys191Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983809
+single nucleotide variant	NM_000382.3(ALDH3A2):c.652A>T (p.Lys218Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983810
+single nucleotide variant	NM_000382.3(ALDH3A2):c.760C>T (p.Gln254Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983811
+single nucleotide variant	NM_000382.3(ALDH3A2):c.784A>T (p.Lys262Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983973
+single nucleotide variant	NM_000382.3(ALDH3A2):c.799G>T (p.Glu267Ter)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	983974
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1000G>T (p.Gly334Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983975
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1141G>T (p.Gly381Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	983976
+single nucleotide variant	NM_000382.3(ALDH3A2):c.10G>T (p.Glu4Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	996694
+single nucleotide variant	NM_000382.3(ALDH3A2):c.554G>A (p.Gly185Glu)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1019552
+single nucleotide variant	NM_000382.3(ALDH3A2):c.386-1G>A	224	ALDH3A2	Likely pathogenic	GRCh38	1067023
+single nucleotide variant	NM_000382.3(ALDH3A2):c.681-2A>G	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1071062
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1264C>T (p.Gln422Ter)	224	ALDH3A2	Pathogenic	GRCh38	1072502
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1003C>T (p.Pro335Ser)	224	ALDH3A2	Pathogenic	GRCh38	1174486
+single nucleotide variant	NM_000382.3(ALDH3A2):c.776G>A (p.Trp259Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	1323874
+single nucleotide variant	NM_000382.3(ALDH3A2):c.550A>G (p.Thr184Ala)	224	ALDH3A2	Likely pathogenic	GRCh38	1496161
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1268G>A (p.Arg423His)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1459314
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1093T>C (p.Ser365Pro)	224	ALDH3A2	Likely pathogenic	GRCh38	1509942
+single nucleotide variant	NM_000382.3(ALDH3A2):c.734A>C (p.Asp245Ala)	224	ALDH3A2	Likely pathogenic	GRCh38	1484478
+single nucleotide variant	NM_000382.3(ALDH3A2):c.835T>C (p.Tyr279His)	224	ALDH3A2	Likely pathogenic	GRCh38	1492410
+single nucleotide variant	NM_000382.3(ALDH3A2):c.913G>T (p.Glu305Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	1723933
+single nucleotide variant	NM_000382.3(ALDH3A2):c.723C>A (p.Cys241Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	1725338
+single nucleotide variant	NM_000382.3(ALDH3A2):c.554G>C (p.Gly185Ala)	224	ALDH3A2	Likely pathogenic	GRCh38	2137940
+single nucleotide variant	NM_000382.3(ALDH3A2):c.680+1G>A	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	1878338
+single nucleotide variant	NM_000382.3(ALDH3A2):c.985C>T (p.Gln329Ter)	224	ALDH3A2	Pathogenic	GRCh38	1936485
+single nucleotide variant	NM_000382.3(ALDH3A2):c.636T>A (p.Ser212Arg)	224	ALDH3A2	Likely pathogenic	GRCh38	2045727
+single nucleotide variant	NM_000382.3(ALDH3A2):c.171C>G (p.Tyr57Ter)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	2089934
+single nucleotide variant	NM_000382.3(ALDH3A2):c.292C>T (p.Gln98Ter)	224	ALDH3A2	Pathogenic	GRCh38	2102212
+single nucleotide variant	NM_000382.3(ALDH3A2):c.341C>T (p.Pro114Leu)	224	ALDH3A2	Likely pathogenic	GRCh38	2440904
+single nucleotide variant	NM_000382.3(ALDH3A2):c.681-1G>A	224	ALDH3A2	Likely pathogenic	GRCh38	2445728
+single nucleotide variant	NM_000382.3(ALDH3A2):c.681-14T>A	224	ALDH3A2	Likely pathogenic	GRCh38	2582586
+single nucleotide variant	NM_000382.3(ALDH3A2):c.798+1G>T	224	ALDH3A2	Likely pathogenic	GRCh38	2700624
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1349G>A (p.Trp450Ter)	224	ALDH3A2	Pathogenic	GRCh38	2780380
+single nucleotide variant	NM_000382.3(ALDH3A2):c.806A>G (p.Tyr269Cys)	224	ALDH3A2	Likely pathogenic	GRCh38	2823348
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1107+1G>T	224	ALDH3A2	Likely pathogenic	GRCh38	2980725
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1350G>A (p.Trp450Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	3065983
+single nucleotide variant	NM_000382.3(ALDH3A2):c.385+1G>C	224	ALDH3A2	Likely pathogenic	GRCh38	3233377
+single nucleotide variant	NM_000382.3(ALDH3A2):c.551C>G (p.Thr184Arg)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	3251390
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1198G>A (p.Gly400Arg)	224	ALDH3A2	Pathogenic/Likely pathogenic	GRCh38	3336603
+single nucleotide variant	NM_000382.3(ALDH3A2):c.142G>T (p.Asp48Tyr)	224	ALDH3A2	Likely pathogenic	GRCh38	3338952
+single nucleotide variant	NM_000382.3(ALDH3A2):c.362C>T (p.Pro121Leu)	224	ALDH3A2	Likely pathogenic	GRCh38	3340051
+single nucleotide variant	NM_000382.3(ALDH3A2):c.25C>T (p.Arg9Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	3581729
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1320T>A (p.Tyr440Ter)	224	ALDH3A2	Pathogenic	GRCh38	3764587
+single nucleotide variant	NM_000382.3(ALDH3A2):c.1139G>A (p.Ser380Asn)	224	ALDH3A2	Likely pathogenic	GRCh38	3911983
+single nucleotide variant	NM_000382.3(ALDH3A2):c.154-2A>G	224	ALDH3A2	Likely pathogenic	GRCh38	4812820
+single nucleotide variant	NM_000382.3(ALDH3A2):c.798G>A (p.Lys266=)	224	ALDH3A2	Likely pathogenic	GRCh38	4812821
+single nucleotide variant	NM_000382.3(ALDH3A2):c.199G>T (p.Glu67Ter)	224	ALDH3A2	Pathogenic	GRCh38	4818279
+single nucleotide variant	NM_000382.3(ALDH3A2):c.325G>A (p.Gly109Arg)	224	ALDH3A2	Likely pathogenic	GRCh38	4889491
+single nucleotide variant	NM_000382.3(ALDH3A2):c.778A>T (p.Lys260Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	4889543
+single nucleotide variant	NM_000382.3(ALDH3A2):c.811G>T (p.Glu271Ter)	224	ALDH3A2	Likely pathogenic	GRCh38	4889544

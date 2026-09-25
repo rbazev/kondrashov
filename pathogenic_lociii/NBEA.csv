@@ -1,0 +1,65 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001385012.1(NBEA):c.2836C>T (p.His946Tyr)	26960	NBEA	Likely pathogenic	GRCh38	224084
+single nucleotide variant	NM_001385012.1(NBEA):c.6637C>T (p.Arg2213Ter)	26960	NBEA	Pathogenic/Likely pathogenic	GRCh38	235903
+single nucleotide variant	NM_001385012.1(NBEA):c.5899G>A (p.Gly1967Arg)	26960	NBEA	Likely pathogenic	GRCh38	636250
+single nucleotide variant	NM_001385012.1(NBEA):c.8659C>T (p.Arg2887Trp)	26960	NBEA	Pathogenic	GRCh38	973380
+single nucleotide variant	NM_001385012.1(NBEA):c.4662+1G>C	26960	NBEA	Pathogenic	GRCh38	976285
+single nucleotide variant	NM_001385012.1(NBEA):c.3894C>A (p.Asp1298Glu)	26960	NBEA	Likely pathogenic	GRCh38	978134
+single nucleotide variant	NM_001385012.1(NBEA):c.3895C>T (p.Arg1299Ter)	26960	NBEA	Pathogenic/Likely pathogenic	GRCh38	985801
+single nucleotide variant	NM_001385012.1(NBEA):c.5367-2A>T	26960	NBEA	Likely pathogenic	GRCh38	986825
+single nucleotide variant	NM_001385012.1(NBEA):c.1006C>T (p.Arg336Ter)	26960	NBEA	Pathogenic	GRCh38	995843
+single nucleotide variant	NM_001385012.1(NBEA):c.6829C>T (p.Arg2277Ter)	26960	NBEA	Pathogenic	GRCh38	995844
+single nucleotide variant	NM_001385012.1(NBEA):c.3994C>T (p.Pro1332Ser)	26960	NBEA	Pathogenic	GRCh38	995845
+single nucleotide variant	NM_001385012.1(NBEA):c.6313G>T (p.Glu2105Ter)	26960	NBEA	Pathogenic	GRCh38	995846
+single nucleotide variant	NM_001385012.1(NBEA):c.8464G>A (p.Glu2822Lys)	26960	NBEA	Pathogenic	GRCh38	995847
+single nucleotide variant	NM_001385012.1(NBEA):c.8156G>A (p.Trp2719Ter)	26960	NBEA	Likely pathogenic	GRCh38	996806
+single nucleotide variant	NM_001385012.1(NBEA):c.8322G>A (p.Trp2774Ter)	26960	NBEA	Likely pathogenic	GRCh38	1172614
+single nucleotide variant	NM_001385012.1(NBEA):c.4017G>A (p.Met1339Ile)	26960	NBEA	Likely pathogenic	GRCh38	1191290
+single nucleotide variant	NM_001385012.1(NBEA):c.5649-1G>A	26960	NBEA	Pathogenic	GRCh38	1206892
+single nucleotide variant	NM_001385012.1(NBEA):c.955G>T (p.Asp319Tyr)	26960	NBEA	Likely pathogenic	GRCh38	1328525
+single nucleotide variant	NM_001385012.1(NBEA):c.2652-1G>C	26960	NBEA	Pathogenic	GRCh38	1335130
+single nucleotide variant	NM_001385012.1(NBEA):c.1035T>G (p.Tyr345Ter)	26960	NBEA	Pathogenic	GRCh38	1343155
+single nucleotide variant	NM_001385012.1(NBEA):c.433C>T (p.Arg145Ter)	26960	NBEA	Pathogenic	GRCh38	1678665
+single nucleotide variant	NM_001385012.1(NBEA):c.5648+1G>A	26960	NBEA	Pathogenic	GRCh38	1685966
+single nucleotide variant	NM_001385012.1(NBEA):c.6304+5G>T	26960	NBEA	Likely pathogenic	GRCh38	1699484
+single nucleotide variant	NM_001385012.1(NBEA):c.1400C>A (p.Ser467Ter)	26960	NBEA	Pathogenic	GRCh38	1879251
+single nucleotide variant	NM_001385012.1(NBEA):c.526+3A>G	26960	NBEA	Likely pathogenic	GRCh38	2308991
+single nucleotide variant	NM_001385012.1(NBEA):c.411G>A (p.Trp137Ter)	26960	NBEA	Likely pathogenic	GRCh38	2431923
+single nucleotide variant	NM_001385012.1(NBEA):c.3733G>T (p.Glu1245Ter)	26960	NBEA	Likely pathogenic	GRCh38	2432056
+single nucleotide variant	NM_001385012.1(NBEA):c.7519C>T (p.Arg2507Ter)	26960	NBEA	Likely pathogenic	GRCh38	2432061
+single nucleotide variant	NM_001385012.1(NBEA):c.4424-1G>C	26960	NBEA	Pathogenic	GRCh38	2570858
+single nucleotide variant	NM_001385012.1(NBEA):c.3001C>T (p.Arg1001Ter)	26960	NBEA	Likely pathogenic	GRCh38	2572436
+single nucleotide variant	NM_001385012.1(NBEA):c.8321G>A (p.Trp2774Ter)	26960	NBEA	Likely pathogenic	GRCh38	2572437
+single nucleotide variant	NM_001385012.1(NBEA):c.1735A>G (p.Lys579Glu)	26960	NBEA	Likely pathogenic	GRCh38	2577941
+single nucleotide variant	NM_001385012.1(NBEA):c.2845-1G>A	26960	NBEA	Likely pathogenic	GRCh38	2635278
+single nucleotide variant	NM_001385012.1(NBEA):c.2657T>A (p.Leu886Ter)	26960	NBEA	Pathogenic	GRCh38	2671918
+single nucleotide variant	NM_001385012.1(NBEA):c.2578G>T (p.Glu860Ter)	26960	NBEA	Likely pathogenic	GRCh38	2920698
+single nucleotide variant	NM_001385012.1(NBEA):c.4715C>A (p.Ser1572Ter)	26960	NBEA	Likely pathogenic	GRCh38	3024200
+single nucleotide variant	NM_001385012.1(NBEA):c.8596C>T (p.Arg2866Ter)	26960	NBEA	Pathogenic	GRCh38	3065998
+single nucleotide variant	NM_001385012.1(NBEA):c.2086C>T (p.Arg696Ter)	26960	NBEA	Pathogenic/Likely pathogenic	GRCh38	3068462
+single nucleotide variant	NM_001385012.1(NBEA):c.5904-2A>G	26960	NBEA	Pathogenic	GRCh38	3359080
+single nucleotide variant	NM_001385012.1(NBEA):c.739C>T (p.Pro247Ser)	26960	NBEA	Likely pathogenic	GRCh38	3361283
+single nucleotide variant	NM_001385012.1(NBEA):c.4242+2T>A	26960	NBEA	Likely pathogenic	GRCh38	3381096
+single nucleotide variant	NM_001385012.1(NBEA):c.3949C>T (p.Arg1317Ter)	26960	NBEA	Pathogenic	GRCh38	3382534
+single nucleotide variant	NM_001385012.1(NBEA):c.7928G>A (p.Arg2643Gln)	26960	NBEA	Likely pathogenic	GRCh38	3383992
+single nucleotide variant	NM_001385012.1(NBEA):c.526+1G>T	26960	NBEA	Pathogenic	GRCh38	3389720
+single nucleotide variant	NM_001385012.1(NBEA):c.6013-1G>A	26960	NBEA	Likely pathogenic	GRCh38	3764594
+single nucleotide variant	NM_001385012.1(NBEA):c.4080-2A>C	26960	NBEA	Likely pathogenic	GRCh38	3775370
+single nucleotide variant	NM_001385012.1(NBEA):c.5755G>T (p.Gly1919Ter)	26960	NBEA	Likely pathogenic	GRCh38	3775412
+single nucleotide variant	NM_001385012.1(NBEA):c.8661+1G>A	26960	NBEA	Pathogenic	GRCh38	3900231
+single nucleotide variant	NM_001385012.1(NBEA):c.6012+2T>C	26960	NBEA	Likely pathogenic	GRCh38	4057296
+single nucleotide variant	NM_001385012.1(NBEA):c.8422T>C (p.Ser2808Pro)	26960	NBEA	Likely pathogenic	GRCh38	4071976
+single nucleotide variant	NM_001385012.1(NBEA):c.6091C>T (p.Arg2031Ter)	26960	NBEA	Likely pathogenic	GRCh38	4077076
+single nucleotide variant	NM_001385012.1(NBEA):c.5854A>G (p.Ile1952Val)	26960	NBEA	Likely pathogenic	GRCh38	4531455
+single nucleotide variant	NM_001385012.1(NBEA):c.7491G>A (p.Trp2497Ter)	26960	NBEA	Pathogenic	GRCh38	4531456
+single nucleotide variant	NM_001385012.1(NBEA):c.972+1G>T	26960	NBEA	Pathogenic	GRCh38	4535041
+single nucleotide variant	NM_001385012.1(NBEA):c.1624C>T (p.Gln542Ter)	26960	NBEA	Likely pathogenic	GRCh38	4759254
+single nucleotide variant	NM_001385012.1(NBEA):c.6807-2A>G	26960	NBEA	Pathogenic	GRCh38	4820061
+single nucleotide variant	NM_001385012.1(NBEA):c.2902C>T (p.Gln968Ter)	26960	NBEA	Pathogenic	GRCh38	4839824
+single nucleotide variant	NM_001385012.1(NBEA):c.7035+2T>C	26960	NBEA	Likely pathogenic	GRCh38	4852772
+single nucleotide variant	NM_001385012.1(NBEA):c.7176+1G>A	26960	NBEA	Likely pathogenic	GRCh38	4854406
+single nucleotide variant	NM_001385012.1(NBEA):c.7723C>T (p.Gln2575Ter)	26960	NBEA	Likely pathogenic	GRCh38	4855747
+single nucleotide variant	NM_001385012.1(NBEA):c.5366+1G>A	26960	NBEA	Likely pathogenic	GRCh38	4856279
+single nucleotide variant	NM_001385012.1(NBEA):c.1537C>T (p.Gln513Ter)	26960	NBEA	Pathogenic	GRCh38	4856402
+single nucleotide variant	NM_001385012.1(NBEA):c.2728C>T (p.Gln910Ter)	26960	NBEA	Pathogenic	GRCh38	4874630
+single nucleotide variant	NM_001385012.1(NBEA):c.5038G>T (p.Glu1680Ter)	26960	NBEA	Likely pathogenic	GRCh38	4886815

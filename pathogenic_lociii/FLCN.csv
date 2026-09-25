@@ -87,7 +87,7 @@ single nucleotide variant	NM_144997.7(FLCN):c.1127G>A (p.Trp376Ter)	201163	FLCN	
 single nucleotide variant	NM_144997.7(FLCN):c.1176+1G>C	201163	FLCN	Pathogenic/Likely pathogenic	GRCh38	1484309
 single nucleotide variant	NM_144997.7(FLCN):c.1015C>T (p.Gln339Ter)	201163	FLCN	Pathogenic	GRCh38	1458404
 single nucleotide variant	NM_144997.7(FLCN):c.1432+1G>C	201163	FLCN	Pathogenic	GRCh38	1485575
-single nucleotide variant	NM_144997.7(FLCN):c.1300+1G>C	201163	FLCN	Pathogenic	GRCh38	1349973
+single nucleotide variant	NM_144997.7(FLCN):c.1300+1G>C	201163	FLCN	Pathogenic/Likely pathogenic	GRCh38	1349973
 single nucleotide variant	NM_144997.7(FLCN):c.1222C>T (p.Gln408Ter)	201163	FLCN	Pathogenic	GRCh38	1457134
 single nucleotide variant	NM_144997.7(FLCN):c.1063-2A>G	201163	FLCN	Pathogenic/Likely pathogenic	GRCh38	1408666
 single nucleotide variant	NM_144997.7(FLCN):c.1097G>A (p.Trp366Ter)	201163	FLCN	Pathogenic	GRCh38	1697666
@@ -108,6 +108,7 @@ single nucleotide variant	NM_144997.7(FLCN):c.2T>C (p.Met1Thr)	201163	FLCN	Patho
 single nucleotide variant	NM_144997.7(FLCN):c.1385A>G (p.Lys462Arg)	201163	FLCN	Pathogenic	GRCh38	2124889
 single nucleotide variant	NM_144997.7(FLCN):c.538A>C (p.Ile180Leu)	201163	FLCN	Likely pathogenic	GRCh38	2445394
 single nucleotide variant	NM_144997.7(FLCN):c.437A>T (p.Glu146Val)	201163	FLCN	Likely pathogenic	GRCh38	2445402
+single nucleotide variant	NM_144997.7(FLCN):c.396G>C (p.Glu132Asp)	201163	FLCN	Likely pathogenic	GRCh38	2447063
 single nucleotide variant	NM_144997.7(FLCN):c.601C>T (p.Gln201Ter)	201163	FLCN	Pathogenic	GRCh38	2505673
 single nucleotide variant	NM_144997.7(FLCN):c.658C>T (p.Gln220Ter)	201163	FLCN	Pathogenic	GRCh38	2566309
 single nucleotide variant	NM_144997.7(FLCN):c.1228G>T (p.Glu410Ter)	201163	FLCN	Pathogenic	GRCh38	2578468
@@ -155,3 +156,5 @@ single nucleotide variant	NM_144997.7(FLCN):c.157C>T (p.Gln53Ter)	201163	FLCN	Pa
 single nucleotide variant	NM_144997.7(FLCN):c.1063-1G>T	201163	FLCN	Likely pathogenic	GRCh38	4736430
 single nucleotide variant	NM_144997.7(FLCN):c.1298C>G (p.Ser433Ter)	201163	FLCN	Pathogenic	GRCh38	4820619
 single nucleotide variant	NM_144997.7(FLCN):c.616A>T (p.Lys206Ter)	201163	FLCN	Pathogenic	GRCh38	4843157
+single nucleotide variant	NM_144997.7(FLCN):c.877G>T (p.Glu293Ter)	201163	FLCN	Pathogenic	GRCh38	4874923
+single nucleotide variant	NM_144997.7(FLCN):c.1197C>A (p.Cys399Ter)	201163	FLCN	Pathogenic	GRCh38	4875708

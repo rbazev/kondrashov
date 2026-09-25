@@ -56,7 +56,7 @@ single nucleotide variant	NM_152443.3(RDH12):c.659-2A>T	145226	RDH12	Likely path
 single nucleotide variant	NM_152443.3(RDH12):c.226G>A (p.Gly76Arg)	145226	RDH12	Pathogenic	GRCh38	986946
 single nucleotide variant	NM_152443.3(RDH12):c.146C>A (p.Thr49Lys)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1037561
 single nucleotide variant	NM_152443.3(RDH12):c.193C>T (p.Arg65Ter)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1065722
-single nucleotide variant	NM_152443.3(RDH12):c.188-1G>A	145226	RDH12	Likely pathogenic	GRCh38	1066530
+single nucleotide variant	NM_152443.3(RDH12):c.188-1G>A	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1066530
 single nucleotide variant	NM_152443.3(RDH12):c.278T>C (p.Leu93Pro)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1067256
 single nucleotide variant	NM_152443.3(RDH12):c.226G>C (p.Gly76Arg)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1074472
 single nucleotide variant	NM_152443.3(RDH12):c.393T>A (p.Cys131Ter)	145226	RDH12	Pathogenic	GRCh38	1071767
@@ -65,7 +65,7 @@ single nucleotide variant	NM_152443.3(RDH12):c.823G>T (p.Glu275Ter)	145226	RDH12
 single nucleotide variant	NM_152443.3(RDH12):c.148G>A (p.Gly50Ser)	145226	RDH12	Likely pathogenic	GRCh38	1213888
 single nucleotide variant	NM_152443.3(RDH12):c.616G>A (p.Ala206Thr)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1213889
 single nucleotide variant	NM_152443.3(RDH12):c.607A>G (p.Ser203Gly)	145226	RDH12	Likely pathogenic	GRCh38	1213892
-single nucleotide variant	NM_152443.3(RDH12):c.698T>A (p.Val233Asp)	145226	RDH12	Pathogenic	GRCh38	1301382
+single nucleotide variant	NM_152443.3(RDH12):c.698T>A (p.Val233Asp)	145226	RDH12	Pathogenic/Likely pathogenic	GRCh38	1301382
 single nucleotide variant	NM_152443.3(RDH12):c.449-1G>A	145226	RDH12	Likely pathogenic	GRCh38	1324998
 single nucleotide variant	NM_152443.3(RDH12):c.659-2A>C	145226	RDH12	Likely pathogenic	GRCh38	1523328
 single nucleotide variant	NM_152443.3(RDH12):c.68+1G>A	145226	RDH12	Pathogenic	GRCh38	1419341
@@ -99,3 +99,6 @@ single nucleotide variant	NM_152443.3(RDH12):c.448+2T>A	145226	RDH12	Pathogenic	
 single nucleotide variant	NM_152443.3(RDH12):c.271C>T (p.Gln91Ter)	145226	RDH12	Likely pathogenic	GRCh38	4816878
 single nucleotide variant	NM_152443.3(RDH12):c.849-1G>A	145226	RDH12	Likely pathogenic	GRCh38	4816880
 single nucleotide variant	NM_152443.3(RDH12):c.911G>A (p.Trp304Ter)	145226	RDH12	Likely pathogenic	GRCh38	4816881
+single nucleotide variant	NM_152443.3(RDH12):c.344-1G>A	145226	RDH12	Likely pathogenic	GRCh38	4889954
+single nucleotide variant	NM_152443.3(RDH12):c.849-2A>G	145226	RDH12	Likely pathogenic	GRCh38	4889955
+single nucleotide variant	NM_152443.3(RDH12):c.848+1G>A	145226	RDH12	Likely pathogenic	GRCh38	4890048

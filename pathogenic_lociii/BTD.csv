@@ -17,7 +17,7 @@ single nucleotide variant	NM_001370658.1(BTD):c.223C>T (p.Gln75Ter)	686	BTD	Path
 single nucleotide variant	NM_001370658.1(BTD):c.238G>A (p.Ala80Thr)	686	BTD	Likely pathogenic	GRCh38	2203312
 single nucleotide variant	NM_001370658.1(BTD):c.274G>C (p.Glu92Gln)	686	BTD	Likely pathogenic	GRCh38	24997
 single nucleotide variant	NM_001370658.1(BTD):c.274G>A (p.Glu92Lys)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	2734449
-single nucleotide variant	NM_001370658.1(BTD):c.281G>T (p.Gly94Val)	686	BTD	Pathogenic	GRCh38	24999
+single nucleotide variant	NM_001370658.1(BTD):c.281G>T (p.Gly94Val)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	24999
 single nucleotide variant	NM_001370658.1(BTD):c.399G>A (p.Glu133=)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	25009
 single nucleotide variant	NM_001370658.1(BTD):c.406C>T (p.Gln136Ter)	686	BTD	Pathogenic	GRCh38	25011
 single nucleotide variant	NM_001370658.1(BTD):c.409C>T (p.Arg137Cys)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	25012
@@ -72,7 +72,7 @@ single nucleotide variant	NM_001370658.1(BTD):c.641C>T (p.Thr214Ile)	686	BTD	Pat
 single nucleotide variant	NM_001370658.1(BTD):c.838A>C (p.Asn280His)	686	BTD	Likely pathogenic	GRCh38	156004
 single nucleotide variant	NM_001370658.1(BTD):c.1552C>A (p.Arg518Ser)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	203642
 single nucleotide variant	NM_001370658.1(BTD):c.-148C>T	686	BTD	Pathogenic	GRCh38	343901
-single nucleotide variant	NM_001370658.1(BTD):c.-17+1G>C	686	BTD	Likely pathogenic	GRCh38	370391
+single nucleotide variant	NM_001370658.1(BTD):c.-17+1G>C	686	BTD	Pathogenic	GRCh38	370391
 single nucleotide variant	NM_001370658.1(BTD):c.-17+1G>T	686	BTD	Likely pathogenic	GRCh38	370613
 single nucleotide variant	NM_001370658.1(BTD):c.249+1G>T	686	BTD	Likely pathogenic	GRCh38	370921
 single nucleotide variant	NM_001370658.1(BTD):c.1069G>T (p.Glu357Ter)	686	BTD	Likely pathogenic	GRCh38	370125
@@ -82,7 +82,7 @@ single nucleotide variant	NM_001370658.1(BTD):c.835G>C (p.Ala279Pro)	686	BTD	Pat
 single nucleotide variant	NM_001370658.1(BTD):c.565C>T (p.Arg189Cys)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	458809
 single nucleotide variant	NM_001370658.1(BTD):c.1301A>G (p.Tyr434Cys)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	458806
 single nucleotide variant	NM_001370658.1(BTD):c.256C>T (p.Gln86Ter)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	554090
-single nucleotide variant	NM_001370658.1(BTD):c.360G>A (p.Trp120Ter)	686	BTD	Pathogenic	GRCh38	556694
+single nucleotide variant	NM_001370658.1(BTD):c.360G>A (p.Trp120Ter)	686	BTD	Pathogenic/Likely pathogenic	GRCh38	556694
 single nucleotide variant	NM_001370658.1(BTD):c.1025T>A (p.Leu342Ter)	686	BTD	Pathogenic	GRCh38	550894
 single nucleotide variant	NM_001370658.1(BTD):c.1066C>T (p.Gln356Ter)	686	BTD	Likely pathogenic	GRCh38	552232
 single nucleotide variant	NM_001370658.1(BTD):c.*159G>A	686	BTD	Pathogenic/Likely pathogenic	GRCh38	555845
@@ -104,7 +104,7 @@ single nucleotide variant	NM_001370658.1(BTD):c.1541C>T (p.Ala514Val)	686	BTD	Pa
 single nucleotide variant	NM_001370658.1(BTD):c.496T>C (p.Cys166Arg)	686	BTD	Likely pathogenic	GRCh38	1003311
 single nucleotide variant	NM_001370658.1(BTD):c.682A>C (p.Ile228Leu)	686	BTD	Likely pathogenic	GRCh38	1004892
 single nucleotide variant	NM_001370658.1(BTD):c.249+5G>T	686	BTD	Likely pathogenic	GRCh38	1017712
-single nucleotide variant	NM_001370658.1(BTD):c.-17+2T>C	686	BTD	Likely pathogenic	GRCh38	1068379
+single nucleotide variant	NM_001370658.1(BTD):c.-17+2T>C	686	BTD	Pathogenic/Likely pathogenic	GRCh38	1068379
 single nucleotide variant	NM_001370658.1(BTD):c.359G>A (p.Trp120Ter)	686	BTD	Pathogenic	GRCh38	1069218
 single nucleotide variant	NM_001370658.1(BTD):c.424G>C (p.Ala142Pro)	686	BTD	Pathogenic	GRCh38	1343815
 single nucleotide variant	NM_001370658.1(BTD):c.1271A>G (p.Asp424Gly)	686	BTD	Likely pathogenic	GRCh38	1358756
@@ -160,3 +160,4 @@ single nucleotide variant	NM_001370658.1(BTD):c.184G>A (p.Ala62Thr)	686	BTD	Like
 single nucleotide variant	NM_001370658.1(BTD):c.641C>A (p.Thr214Asn)	686	BTD	Likely pathogenic	GRCh38	4745934
 single nucleotide variant	NM_001370658.1(BTD):c.1430C>T (p.Pro477Leu)	686	BTD	Likely pathogenic	GRCh38	4759779
 single nucleotide variant	NM_001370658.1(BTD):c.902G>A (p.Trp301Ter)	686	BTD	Likely pathogenic	GRCh38	4851785
+single nucleotide variant	NM_001370658.1(BTD):c.399+5T>C	686	BTD	Likely pathogenic	GRCh38	4890139

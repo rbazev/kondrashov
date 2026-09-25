@@ -1,0 +1,522 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000162.5(GCK):c.835G>T (p.Glu279Ter)	2645	GCK	Pathogenic	GRCh38	16132
+single nucleotide variant	NM_000162.5(GCK):c.556C>T (p.Arg186Ter)	2645	GCK	Pathogenic	GRCh38	16133
+single nucleotide variant	NM_000162.5(GCK):c.683C>T (p.Thr228Met)	2645	GCK	Pathogenic	GRCh38	16134
+single nucleotide variant	NM_000162.5(GCK):c.781G>A (p.Gly261Arg)	2645	GCK	Pathogenic	GRCh38	16135
+single nucleotide variant	NM_000162.5(GCK):c.895G>C (p.Gly299Arg)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	16136
+single nucleotide variant	NM_000162.5(GCK):c.391T>C (p.Ser131Pro)	2645	GCK	Likely pathogenic	GRCh38	16138
+single nucleotide variant	NM_000162.5(GCK):c.793G>T (p.Glu265Ter)	2645	GCK	Pathogenic	GRCh38	16139
+single nucleotide variant	NM_000162.5(GCK):c.1363G>A (p.Val455Met)	2645	GCK	Pathogenic	GRCh38	16140
+single nucleotide variant	NM_000162.5(GCK):c.629T>A (p.Met210Lys)	2645	GCK	Pathogenic	GRCh38	16141
+single nucleotide variant	NM_000162.5(GCK):c.1367C>T (p.Ala456Val)	2645	GCK	Pathogenic	GRCh38	16143
+single nucleotide variant	NM_000162.5(GCK):c.641A>G (p.Tyr214Cys)	2645	GCK	Pathogenic	GRCh38	16144
+single nucleotide variant	NM_000162.5(GCK):c.1132G>A (p.Ala378Thr)	2645	GCK	Pathogenic	GRCh38	16145
+single nucleotide variant	NM_000162.5(GCK):c.271G>Y (p.Val91Leu)	2645	GCK	Pathogenic	GRCh38	16146
+single nucleotide variant	NM_000162.5(GCK):c.1019+2T>G	2645	GCK	Pathogenic	GRCh38	21075
+single nucleotide variant	NM_000162.5(GCK):c.1133C>T (p.Ala378Val)	2645	GCK	Pathogenic	GRCh38	21076
+single nucleotide variant	NM_000162.5(GCK):c.1190G>T (p.Arg397Leu)	2645	GCK	Pathogenic	GRCh38	21077
+single nucleotide variant	NM_000162.5(GCK):c.790G>A (p.Gly264Ser)	2645	GCK	Pathogenic	GRCh38	21078
+single nucleotide variant	NM_000162.5(GCK):c.1020-10C>A	2645	GCK	Likely pathogenic	GRCh38	36169
+single nucleotide variant	NM_000162.5(GCK):c.1020-1G>C	2645	GCK	Pathogenic	GRCh38	36170
+single nucleotide variant	NM_000162.5(GCK):c.103A>T (p.Arg35Ter)	2645	GCK	Likely pathogenic	GRCh38	36171
+single nucleotide variant	NM_000162.5(GCK):c.1042A>T (p.Ile348Phe)	2645	GCK	Likely pathogenic	GRCh38	36172
+single nucleotide variant	NM_000162.5(GCK):c.1114G>T (p.Glu372Ter)	2645	GCK	Likely pathogenic	GRCh38	36174
+single nucleotide variant	NM_000162.5(GCK):c.1124C>T (p.Ser375Phe)	2645	GCK	Likely pathogenic	GRCh38	36175
+single nucleotide variant	NM_000162.5(GCK):c.1130G>A (p.Arg377His)	2645	GCK	Likely pathogenic	GRCh38	36176
+single nucleotide variant	NM_000162.5(GCK):c.1136C>A (p.Ala379Glu)	2645	GCK	Likely pathogenic	GRCh38	36177
+single nucleotide variant	NM_000162.5(GCK):c.1142T>G (p.Met381Arg)	2645	GCK	Likely pathogenic	GRCh38	36178
+single nucleotide variant	NM_000162.5(GCK):c.1153G>A (p.Gly385Arg)	2645	GCK	Likely pathogenic	GRCh38	36179
+single nucleotide variant	NM_000162.5(GCK):c.1157T>C (p.Leu386Pro)	2645	GCK	Pathogenic	GRCh38	36180
+single nucleotide variant	NM_000162.5(GCK):c.1160C>A (p.Ala387Glu)	2645	GCK	Likely pathogenic	GRCh38	36181
+single nucleotide variant	NM_000162.5(GCK):c.1160C>T (p.Ala387Val)	2645	GCK	Pathogenic	GRCh38	36182
+single nucleotide variant	NM_000162.5(GCK):c.1175G>T (p.Arg392Leu)	2645	GCK	Pathogenic	GRCh38	36185
+single nucleotide variant	NM_000162.5(GCK):c.1240A>G (p.Lys414Glu)	2645	GCK	Pathogenic	GRCh38	36188
+single nucleotide variant	NM_000162.5(GCK):c.1268T>A (p.Phe423Tyr)	2645	GCK	Pathogenic	GRCh38	36189
+single nucleotide variant	NM_000162.5(GCK):c.1307T>A (p.Ile436Asn)	2645	GCK	Pathogenic	GRCh38	36195
+single nucleotide variant	NM_000162.5(GCK):c.131G>A (p.Gly44Asp)	2645	GCK	Likely pathogenic	GRCh38	36196
+single nucleotide variant	NM_000162.5(GCK):c.1339C>G (p.Arg447Gly)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	36198
+single nucleotide variant	NM_000162.5(GCK):c.1345G>A (p.Ala449Thr)	2645	GCK	Pathogenic	GRCh38	36199
+single nucleotide variant	NM_000162.5(GCK):c.1358C>T (p.Ser453Leu)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	36200
+single nucleotide variant	NM_000162.5(GCK):c.146C>A (p.Thr49Asn)	2645	GCK	Likely pathogenic	GRCh38	36204
+single nucleotide variant	NM_000162.5(GCK):c.175C>T (p.Pro59Ser)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	36205
+single nucleotide variant	NM_000162.5(GCK):c.214G>A (p.Gly72Arg)	2645	GCK	Pathogenic	GRCh38	36209
+single nucleotide variant	NM_000162.5(GCK):c.304A>T (p.Lys102Ter)	2645	GCK	Likely pathogenic	GRCh38	36211
+single nucleotide variant	NM_000162.5(GCK):c.449T>C (p.Phe150Ser)	2645	GCK	Pathogenic	GRCh38	36218
+single nucleotide variant	NM_000162.5(GCK):c.457C>T (p.Pro153Ser)	2645	GCK	Pathogenic	GRCh38	36221
+single nucleotide variant	NM_000162.5(GCK):c.483G>A (p.Lys161=)	2645	GCK	Pathogenic	GRCh38	36224
+single nucleotide variant	NM_000162.5(GCK):c.509G>T (p.Gly170Val)	2645	GCK	Likely pathogenic	GRCh38	36225
+single nucleotide variant	NM_000162.5(GCK):c.532G>A (p.Gly178Arg)	2645	GCK	Likely pathogenic	GRCh38	36227
+single nucleotide variant	NM_000162.5(GCK):c.57C>G (p.Ile19Met)	2645	GCK	Likely pathogenic	GRCh38	36230
+single nucleotide variant	NM_000162.5(GCK):c.605T>C (p.Met202Thr)	2645	GCK	Pathogenic	GRCh38	36233
+single nucleotide variant	NM_000162.5(GCK):c.630G>T (p.Met210Ile)	2645	GCK	Pathogenic	GRCh38	36236
+single nucleotide variant	NM_000162.5(GCK):c.645C>G (p.Tyr215Ter)	2645	GCK	Pathogenic	GRCh38	36238
+single nucleotide variant	NM_000162.5(GCK):c.658T>C (p.Cys220Arg)	2645	GCK	Likely pathogenic	GRCh38	36239
+single nucleotide variant	NM_000162.5(GCK):c.659G>A (p.Cys220Tyr)	2645	GCK	Pathogenic	GRCh38	36240
+single nucleotide variant	NM_000162.5(GCK):c.661G>A (p.Glu221Lys)	2645	GCK	Pathogenic	GRCh38	36241
+single nucleotide variant	NM_000162.5(GCK):c.676G>A (p.Val226Met)	2645	GCK	Pathogenic	GRCh38	36243
+single nucleotide variant	NM_000162.5(GCK):c.677T>C (p.Val226Ala)	2645	GCK	Likely pathogenic	GRCh38	36244
+single nucleotide variant	NM_000162.5(GCK):c.704T>C (p.Met235Thr)	2645	GCK	Pathogenic	GRCh38	36248
+single nucleotide variant	NM_000162.5(GCK):c.752T>C (p.Met251Thr)	2645	GCK	Likely pathogenic	GRCh38	36251
+single nucleotide variant	NM_000162.5(GCK):c.76C>T (p.Gln26Ter)	2645	GCK	Pathogenic	GRCh38	36256
+single nucleotide variant	NM_000162.5(GCK):c.779T>C (p.Phe260Ser)	2645	GCK	Likely pathogenic	GRCh38	36257
+single nucleotide variant	NM_000162.5(GCK):c.787T>C (p.Ser263Pro)	2645	GCK	Pathogenic	GRCh38	36258
+single nucleotide variant	NM_000162.5(GCK):c.812T>C (p.Leu271Pro)	2645	GCK	Likely pathogenic	GRCh38	36259
+single nucleotide variant	NM_000162.5(GCK):c.871A>T (p.Lys291Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	36263
+single nucleotide variant	NM_000162.5(GCK):c.907C>T (p.Arg303Trp)	2645	GCK	Likely pathogenic	GRCh38	36264
+single nucleotide variant	NM_000162.5(GCK):c.944T>A (p.Leu315His)	2645	GCK	Pathogenic	GRCh38	36266
+single nucleotide variant	NM_000162.5(GCK):c.971T>C (p.Leu324Pro)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	36270
+single nucleotide variant	NM_000162.5(GCK):c.1015G>A (p.Glu339Lys)	2645	GCK	Likely pathogenic	GRCh38	39759
+single nucleotide variant	NM_000162.5(GCK):c.130G>A (p.Gly44Ser)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	76898
+single nucleotide variant	NM_000162.5(GCK):c.1112G>T (p.Cys371Phe)	2645	GCK	Pathogenic	GRCh38	129140
+single nucleotide variant	NM_000162.5(GCK):c.449T>A (p.Phe150Tyr)	2645	GCK	Pathogenic	GRCh38	129142
+single nucleotide variant	NM_000162.5(GCK):c.523G>A (p.Gly175Arg)	2645	GCK	Pathogenic	GRCh38	129143
+single nucleotide variant	NM_000162.5(GCK):c.544G>A (p.Val182Met)	2645	GCK	Pathogenic	GRCh38	129144
+single nucleotide variant	NM_000162.5(GCK):c.616A>C (p.Thr206Pro)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	129145
+single nucleotide variant	NM_000162.5(GCK):c.706G>A (p.Glu236Lys)	2645	GCK	Pathogenic	GRCh38	129146
+single nucleotide variant	NM_000162.5(GCK):c.118G>A (p.Glu40Lys)	2645	GCK	Pathogenic	GRCh38	195024
+single nucleotide variant	NM_000162.5(GCK):c.601G>T (p.Ala201Ser)	2645	GCK	Pathogenic	GRCh38	198050
+single nucleotide variant	NM_000162.5(GCK):c.688T>C (p.Cys230Arg)	2645	GCK	Likely pathogenic	GRCh38	198397
+single nucleotide variant	NM_000162.5(GCK):c.370G>A (p.Asp124Asn)	2645	GCK	Pathogenic	GRCh38	211073
+single nucleotide variant	NM_000162.5(GCK):c.1030G>T (p.Asp344Tyr)	2645	GCK	Likely pathogenic	GRCh38	219179
+single nucleotide variant	NM_000162.5(GCK):c.89T>C (p.Leu30Pro)	2645	GCK	Likely pathogenic	GRCh38	235097
+single nucleotide variant	NM_000162.5(GCK):c.1148C>T (p.Ser383Leu)	2645	GCK	Pathogenic	GRCh38	236014
+single nucleotide variant	NM_000162.5(GCK):c.112C>T (p.Gln38Ter)	2645	GCK	Pathogenic	GRCh38	236192
+single nucleotide variant	NM_000162.5(GCK):c.766G>A (p.Glu256Lys)	2645	GCK	Pathogenic	GRCh38	265175
+single nucleotide variant	NM_000162.5(GCK):c.533G>A (p.Gly178Glu)	2645	GCK	Pathogenic	GRCh38	265174
+single nucleotide variant	NM_000162.5(GCK):c.572G>A (p.Arg191Gln)	2645	GCK	Pathogenic	GRCh38	283358
+single nucleotide variant	NM_000162.5(GCK):c.171G>T (p.Met57Ile)	2645	GCK	Likely pathogenic	GRCh38	377026
+single nucleotide variant	NM_000162.5(GCK):c.703A>G (p.Met235Val)	2645	GCK	Pathogenic	GRCh38	381599
+single nucleotide variant	NM_000162.5(GCK):c.364-1G>A	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	381600
+single nucleotide variant	NM_000162.5(GCK):c.1099G>A (p.Val367Met)	2645	GCK	Pathogenic	GRCh38	381598
+single nucleotide variant	NM_000162.5(GCK):c.1361C>A (p.Ala454Glu)	2645	GCK	Likely pathogenic	GRCh38	393447
+single nucleotide variant	NM_000162.5(GCK):c.1253+2T>A	2645	GCK	Pathogenic	GRCh38	393449
+single nucleotide variant	NM_000162.5(GCK):c.1016A>G (p.Glu339Gly)	2645	GCK	Pathogenic	GRCh38	393450
+single nucleotide variant	NM_000162.5(GCK):c.748C>T (p.Arg250Cys)	2645	GCK	Pathogenic	GRCh38	393451
+single nucleotide variant	NM_000162.5(GCK):c.680-1G>A	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	393452
+single nucleotide variant	NM_000162.5(GCK):c.128G>A (p.Arg43His)	2645	GCK	Pathogenic	GRCh38	393453
+single nucleotide variant	NM_000162.5(GCK):c.1087G>A (p.Asp363Asn)	2645	GCK	Likely pathogenic	GRCh38	418228
+single nucleotide variant	NM_000162.5(GCK):c.766G>C (p.Glu256Gln)	2645	GCK	Likely pathogenic	GRCh38	421063
+single nucleotide variant	NM_000162.5(GCK):c.184G>A (p.Val62Met)	2645	GCK	Pathogenic	GRCh38	419624
+single nucleotide variant	NM_000162.5(GCK):c.171G>A (p.Met57Ile)	2645	GCK	Pathogenic	GRCh38	418225
+single nucleotide variant	NM_000162.5(GCK):c.113A>C (p.Gln38Pro)	2645	GCK	Pathogenic	GRCh38	420070
+single nucleotide variant	NM_000162.5(GCK):c.571C>T (p.Arg191Trp)	2645	GCK	Pathogenic	GRCh38	426122
+single nucleotide variant	NM_000162.5(GCK):c.1340G>A (p.Arg447Gln)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	429500
+single nucleotide variant	NM_000162.5(GCK):c.25G>T (p.Glu9Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	429601
+single nucleotide variant	NM_000162.5(GCK):c.566T>C (p.Ile189Thr)	2645	GCK	Pathogenic	GRCh38	431972
+single nucleotide variant	NM_000162.5(GCK):c.106C>T (p.Arg36Trp)	2645	GCK	Pathogenic	GRCh38	431973
+single nucleotide variant	NM_000162.5(GCK):c.1165G>C (p.Val389Leu)	2645	GCK	Pathogenic	GRCh38	435300
+single nucleotide variant	NM_000162.5(GCK):c.941T>C (p.Leu314Pro)	2645	GCK	Likely pathogenic	GRCh38	435305
+single nucleotide variant	NM_000162.5(GCK):c.908G>A (p.Arg303Gln)	2645	GCK	Likely pathogenic	GRCh38	435301
+single nucleotide variant	NM_000162.5(GCK):c.824G>T (p.Arg275Leu)	2645	GCK	Likely pathogenic	GRCh38	435310
+single nucleotide variant	NM_000162.5(GCK):c.775G>A (p.Ala259Thr)	2645	GCK	Pathogenic	GRCh38	435302
+single nucleotide variant	NM_000162.5(GCK):c.749G>A (p.Arg250His)	2645	GCK	Likely pathogenic	GRCh38	435311
+single nucleotide variant	NM_000162.5(GCK):c.667G>A (p.Gly223Ser)	2645	GCK	Pathogenic	GRCh38	435306
+single nucleotide variant	NM_000162.5(GCK):c.364C>A (p.Leu122Ile)	2645	GCK	Likely pathogenic	GRCh38	435307
+single nucleotide variant	NM_000162.5(GCK):c.1235T>G (p.Val412Gly)	2645	GCK	Pathogenic	GRCh38	447387
+single nucleotide variant	NM_000162.5(GCK):c.1229G>A (p.Gly410Asp)	2645	GCK	Pathogenic	GRCh38	447386
+single nucleotide variant	NM_000162.5(GCK):c.1144T>C (p.Cys382Arg)	2645	GCK	Pathogenic	GRCh38	447384
+single nucleotide variant	NM_000162.5(GCK):c.1142T>A (p.Met381Lys)	2645	GCK	Likely pathogenic	GRCh38	447383
+single nucleotide variant	NM_000162.5(GCK):c.1136C>G (p.Ala379Gly)	2645	GCK	Likely pathogenic	GRCh38	447382
+single nucleotide variant	NM_000162.5(GCK):c.1120G>A (p.Val374Met)	2645	GCK	Likely pathogenic	GRCh38	447380
+single nucleotide variant	NM_000162.5(GCK):c.1113C>G (p.Cys371Trp)	2645	GCK	Likely pathogenic	GRCh38	447379
+single nucleotide variant	NM_000162.5(GCK):c.1020-1G>A	2645	GCK	Pathogenic	GRCh38	447378
+single nucleotide variant	NM_000162.5(GCK):c.951C>G (p.His317Gln)	2645	GCK	Likely pathogenic	GRCh38	447426
+single nucleotide variant	NM_000162.5(GCK):c.911T>C (p.Leu304Pro)	2645	GCK	Pathogenic	GRCh38	447425
+single nucleotide variant	NM_000162.5(GCK):c.908G>T (p.Arg303Leu)	2645	GCK	Pathogenic	GRCh38	447424
+single nucleotide variant	NM_000162.5(GCK):c.883G>A (p.Gly295Ser)	2645	GCK	Likely pathogenic	GRCh38	447423
+single nucleotide variant	NM_000162.5(GCK):c.830T>G (p.Val277Gly)	2645	GCK	Likely pathogenic	GRCh38	447422
+single nucleotide variant	NM_000162.5(GCK):c.802G>A (p.Glu268Lys)	2645	GCK	Pathogenic	GRCh38	447420
+single nucleotide variant	NM_000162.5(GCK):c.793G>A (p.Glu265Lys)	2645	GCK	Pathogenic	GRCh38	447419
+single nucleotide variant	NM_000162.5(GCK):c.781G>C (p.Gly261Arg)	2645	GCK	Pathogenic	GRCh38	447418
+single nucleotide variant	NM_000162.5(GCK):c.776C>T (p.Ala259Val)	2645	GCK	Pathogenic	GRCh38	447417
+single nucleotide variant	NM_000162.5(GCK):c.769T>C (p.Trp257Arg)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	447416
+single nucleotide variant	NM_000162.5(GCK):c.682A>G (p.Thr228Ala)	2645	GCK	Pathogenic	GRCh38	447413
+single nucleotide variant	NM_000162.5(GCK):c.623C>T (p.Ala208Val)	2645	GCK	Pathogenic	GRCh38	447411
+single nucleotide variant	NM_000162.5(GCK):c.499T>C (p.Trp167Arg)	2645	GCK	Likely pathogenic	GRCh38	447408
+single nucleotide variant	NM_000162.5(GCK):c.478G>A (p.Asp160Asn)	2645	GCK	Pathogenic	GRCh38	447404
+single nucleotide variant	NM_000162.5(GCK):c.469G>A (p.Glu157Lys)	2645	GCK	Pathogenic	GRCh38	447402
+single nucleotide variant	NM_000162.5(GCK):c.464G>C (p.Arg155Thr)	2645	GCK	Likely pathogenic	GRCh38	447401
+single nucleotide variant	NM_000162.5(GCK):c.370G>C (p.Asp124His)	2645	GCK	Pathogenic	GRCh38	447397
+single nucleotide variant	NM_000162.5(GCK):c.46-2A>G	2645	GCK	Pathogenic	GRCh38	447400
+single nucleotide variant	NM_000162.5(GCK):c.757G>T (p.Val253Phe)	2645	GCK	Likely pathogenic	GRCh38	449696
+single nucleotide variant	NM_000162.5(GCK):c.645C>A (p.Tyr215Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	453007
+single nucleotide variant	NM_000162.5(GCK):c.580-1G>A	2645	GCK	Pathogenic	GRCh38	449414
+single nucleotide variant	NM_000162.5(GCK):c.238G>A (p.Gly80Ser)	2645	GCK	Likely pathogenic	GRCh38	449415
+single nucleotide variant	NM_000162.5(GCK):c.483+2T>C	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	488812
+single nucleotide variant	NM_000162.5(GCK):c.208+1G>A	2645	GCK	Pathogenic	GRCh38	488813
+single nucleotide variant	NM_000162.5(GCK):c.989T>C (p.Phe330Ser)	2645	GCK	Likely pathogenic	GRCh38	522430
+single nucleotide variant	NM_000162.5(GCK):c.1364T>A (p.Val455Glu)	2645	GCK	Likely pathogenic	GRCh38	585916
+single nucleotide variant	NM_000162.5(GCK):c.1327G>T (p.Glu443Ter)	2645	GCK	Pathogenic	GRCh38	585915
+single nucleotide variant	NM_000162.5(GCK):c.1310C>T (p.Thr437Ile)	2645	GCK	Likely pathogenic	GRCh38	585914
+single nucleotide variant	NM_000162.5(GCK):c.1174C>T (p.Arg392Cys)	2645	GCK	Pathogenic	GRCh38	585909
+single nucleotide variant	NM_000162.5(GCK):c.1129C>T (p.Arg377Cys)	2645	GCK	Pathogenic	GRCh38	585908
+single nucleotide variant	NM_000162.5(GCK):c.952G>A (p.Gly318Arg)	2645	GCK	Pathogenic	GRCh38	585929
+single nucleotide variant	NM_000162.5(GCK):c.863+1G>A	2645	GCK	Pathogenic	GRCh38	585928
+single nucleotide variant	NM_000162.5(GCK):c.823C>T (p.Arg275Cys)	2645	GCK	Pathogenic	GRCh38	585927
+single nucleotide variant	NM_000162.5(GCK):c.819T>A (p.Tyr273Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	585926
+single nucleotide variant	NM_000162.5(GCK):c.680-2A>G	2645	GCK	Pathogenic	GRCh38	585924
+single nucleotide variant	NM_000162.5(GCK):c.608T>C (p.Val203Ala)	2645	GCK	Pathogenic	GRCh38	585923
+single nucleotide variant	NM_000162.5(GCK):c.466C>T (p.His156Tyr)	2645	GCK	Likely pathogenic	GRCh38	585921
+single nucleotide variant	NM_000162.5(GCK):c.364C>G (p.Leu122Val)	2645	GCK	Likely pathogenic	GRCh38	585919
+single nucleotide variant	NM_000162.5(GCK):c.322T>C (p.Tyr108His)	2645	GCK	Pathogenic	GRCh38	585918
+single nucleotide variant	NM_000162.5(GCK):c.185T>C (p.Val62Ala)	2645	GCK	Pathogenic	GRCh38	585917
+single nucleotide variant	NM_000162.5(GCK):c.128G>C (p.Arg43Pro)	2645	GCK	Likely pathogenic	GRCh38	585913
+single nucleotide variant	NM_000162.5(GCK):c.127C>T (p.Arg43Cys)	2645	GCK	Pathogenic	GRCh38	585911
+single nucleotide variant	NM_000162.5(GCK):c.127C>A (p.Arg43Ser)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	585910
+single nucleotide variant	NM_000162.5(GCK):c.98T>C (p.Val33Ala)	2645	GCK	Likely pathogenic	GRCh38	585930
+single nucleotide variant	NM_000162.5(GCK):c.770G>A (p.Trp257Ter)	2645	GCK	Pathogenic	GRCh38	598320
+single nucleotide variant	NM_000162.5(GCK):c.1113C>A (p.Cys371Ter)	2645	GCK	Pathogenic	GRCh38	617645
+single nucleotide variant	NM_000162.5(GCK):c.45+1G>T	2645	GCK	Pathogenic	GRCh38	619964
+single nucleotide variant	NM_000162.5(GCK):c.148C>T (p.His50Tyr)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	631495
+single nucleotide variant	NM_000162.5(GCK):c.183C>A (p.Tyr61Ter)	2645	GCK	Pathogenic	GRCh38	802309
+single nucleotide variant	NM_000162.5(GCK):c.622G>A (p.Ala208Thr)	2645	GCK	Pathogenic	GRCh38	804344
+single nucleotide variant	NM_000162.5(GCK):c.1340G>C (p.Arg447Pro)	2645	GCK	Likely pathogenic	GRCh38	804842
+single nucleotide variant	NM_000162.5(GCK):c.1247A>C (p.His416Pro)	2645	GCK	Likely pathogenic	GRCh38	804839
+single nucleotide variant	NM_000162.5(GCK):c.1156C>G (p.Leu386Val)	2645	GCK	Pathogenic	GRCh38	804837
+single nucleotide variant	NM_000162.5(GCK):c.1151C>T (p.Ala384Val)	2645	GCK	Likely pathogenic	GRCh38	804836
+single nucleotide variant	NM_000162.5(GCK):c.1146C>A (p.Cys382Ter)	2645	GCK	Pathogenic	GRCh38	804835
+single nucleotide variant	NM_000162.5(GCK):c.1136C>T (p.Ala379Val)	2645	GCK	Likely pathogenic	GRCh38	804834
+single nucleotide variant	NM_000162.5(GCK):c.772G>T (p.Gly258Cys)	2645	GCK	Pathogenic	GRCh38	804857
+single nucleotide variant	NM_000162.5(GCK):c.737G>C (p.Gly246Ala)	2645	GCK	Likely pathogenic	GRCh38	804856
+single nucleotide variant	NM_000162.5(GCK):c.629T>C (p.Met210Thr)	2645	GCK	Pathogenic	GRCh38	804852
+single nucleotide variant	NM_000162.5(GCK):c.626C>T (p.Thr209Met)	2645	GCK	Pathogenic	GRCh38	804851
+single nucleotide variant	NM_000162.5(GCK):c.562G>A (p.Ala188Thr)	2645	GCK	Pathogenic	GRCh38	804849
+single nucleotide variant	NM_000162.5(GCK):c.387C>A (p.Cys129Ter)	2645	GCK	Pathogenic	GRCh38	804846
+single nucleotide variant	NM_000162.5(GCK):c.70C>T (p.Gln24Ter)	2645	GCK	Pathogenic	GRCh38	804854
+single nucleotide variant	NM_000162.5(GCK):c.864-1G>A	2645	GCK	Pathogenic	GRCh38	804861
+single nucleotide variant	NM_000162.5(GCK):c.1130G>T (p.Arg377Leu)	2645	GCK	Likely pathogenic	GRCh38	872751
+single nucleotide variant	NM_000162.5(GCK):c.772G>A (p.Gly258Ser)	2645	GCK	Pathogenic	GRCh38	918070
+single nucleotide variant	NM_000162.5(GCK):c.1133C>G (p.Ala378Gly)	2645	GCK	Likely pathogenic	GRCh38	972776
+single nucleotide variant	NM_000162.5(GCK):c.773G>A (p.Gly258Asp)	2645	GCK	Pathogenic	GRCh38	972775
+single nucleotide variant	NM_000162.5(GCK):c.316C>T (p.Gln106Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	972812
+single nucleotide variant	NM_000162.5(GCK):c.214G>C (p.Gly72Arg)	2645	GCK	Pathogenic	GRCh38	976334
+single nucleotide variant	NM_000162.5(GCK):c.1190G>A (p.Arg397His)	2645	GCK	Likely pathogenic	GRCh38	995102
+single nucleotide variant	NM_000162.5(GCK):c.1163G>A (p.Gly388Asp)	2645	GCK	Pathogenic	GRCh38	995101
+single nucleotide variant	NM_000162.5(GCK):c.884G>A (p.Gly295Asp)	2645	GCK	Likely pathogenic	GRCh38	994613
+single nucleotide variant	NM_000162.5(GCK):c.822C>A (p.Asp274Glu)	2645	GCK	Likely pathogenic	GRCh38	994611
+single nucleotide variant	NM_000162.5(GCK):c.737G>A (p.Gly246Glu)	2645	GCK	Likely pathogenic	GRCh38	995373
+single nucleotide variant	NM_000162.5(GCK):c.736G>A (p.Gly246Arg)	2645	GCK	Pathogenic	GRCh38	995372
+single nucleotide variant	NM_000162.5(GCK):c.454T>C (p.Phe152Leu)	2645	GCK	Pathogenic	GRCh38	995370
+single nucleotide variant	NM_000162.5(GCK):c.286G>T (p.Glu96Ter)	2645	GCK	Pathogenic	GRCh38	995368
+single nucleotide variant	NM_000162.5(GCK):c.230T>C (p.Leu77Pro)	2645	GCK	Likely pathogenic	GRCh38	995367
+single nucleotide variant	NM_000162.5(GCK):c.491T>C (p.Leu164Pro)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	997861
+single nucleotide variant	NM_000162.5(GCK):c.1139A>C (p.His380Pro)	2645	GCK	Pathogenic	GRCh38	1098819
+single nucleotide variant	NM_000162.5(GCK):c.660C>A (p.Cys220Ter)	2645	GCK	Pathogenic	GRCh38	1172896
+single nucleotide variant	NM_000162.5(GCK):c.617C>T (p.Thr206Met)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1191898
+single nucleotide variant	NM_000162.5(GCK):c.679+1G>A	2645	GCK	Pathogenic	GRCh38	1200795
+single nucleotide variant	NM_000162.5(GCK):c.386G>A (p.Cys129Tyr)	2645	GCK	Likely pathogenic	GRCh38	1210150
+single nucleotide variant	NM_000162.5(GCK):c.1145G>A (p.Cys382Tyr)	2645	GCK	Pathogenic	GRCh38	1256304
+single nucleotide variant	NM_000162.5(GCK):c.1147T>C (p.Ser383Pro)	2645	GCK	Likely pathogenic	GRCh38	1256306
+single nucleotide variant	NM_000162.5(GCK):c.1174C>G (p.Arg392Gly)	2645	GCK	Likely pathogenic	GRCh38	1301416
+single nucleotide variant	NM_000162.5(GCK):c.1322C>G (p.Ser441Trp)	2645	GCK	Pathogenic	GRCh38	1320655
+single nucleotide variant	NM_000162.5(GCK):c.511T>G (p.Phe171Val)	2645	GCK	Likely pathogenic	GRCh38	1338246
+single nucleotide variant	NM_000162.5(GCK):c.356C>A (p.Ala119Asp)	2645	GCK	Likely pathogenic	GRCh38	1338287
+single nucleotide variant	NM_000162.5(GCK):c.1324G>T (p.Glu442Ter)	2645	GCK	Pathogenic	GRCh38	1338522
+single nucleotide variant	NM_000162.5(GCK):c.926T>C (p.Leu309Pro)	2645	GCK	Pathogenic	GRCh38	1338573
+single nucleotide variant	NM_000162.5(GCK):c.158C>T (p.Ala53Val)	2645	GCK	Pathogenic	GRCh38	1338576
+single nucleotide variant	NM_000162.5(GCK):c.179C>T (p.Thr60Ile)	2645	GCK	Pathogenic	GRCh38	1343440
+single nucleotide variant	NM_000162.5(GCK):c.898G>A (p.Glu300Lys)	2645	GCK	Likely pathogenic	GRCh38	1436793
+single nucleotide variant	NM_000162.5(GCK):c.349G>C (p.Gly117Arg)	2645	GCK	Likely pathogenic	GRCh38	1496579
+single nucleotide variant	NM_000162.5(GCK):c.1181G>T (p.Arg394Leu)	2645	GCK	Likely pathogenic	GRCh38	1522625
+single nucleotide variant	NM_000162.5(GCK):c.452C>A (p.Ser151Tyr)	2645	GCK	Likely pathogenic	GRCh38	1346275
+single nucleotide variant	NM_000162.5(GCK):c.503C>T (p.Thr168Ile)	2645	GCK	Pathogenic	GRCh38	1490297
+single nucleotide variant	NM_000162.5(GCK):c.501G>A (p.Trp167Ter)	2645	GCK	Pathogenic	GRCh38	1437236
+single nucleotide variant	NM_000162.5(GCK):c.671T>C (p.Met224Thr)	2645	GCK	Pathogenic	GRCh38	1464253
+single nucleotide variant	NM_000162.5(GCK):c.867T>A (p.Tyr289Ter)	2645	GCK	Pathogenic	GRCh38	1453774
+single nucleotide variant	NM_000162.5(GCK):c.728T>C (p.Leu243Pro)	2645	GCK	Pathogenic	GRCh38	1456947
+single nucleotide variant	NM_000162.5(GCK):c.1019G>A (p.Ser340Asn)	2645	GCK	Pathogenic	GRCh38	1405403
+single nucleotide variant	NM_000162.5(GCK):c.1228G>C (p.Gly410Arg)	2645	GCK	Pathogenic	GRCh38	1472875
+single nucleotide variant	NM_000162.5(GCK):c.269A>C (p.Lys90Thr)	2645	GCK	Likely pathogenic	GRCh38	1676241
+single nucleotide variant	NM_000162.5(GCK):c.751A>G (p.Met251Val)	2645	GCK	Pathogenic	GRCh38	1678597
+single nucleotide variant	NM_000162.5(GCK):c.52C>T (p.Gln18Ter)	2645	GCK	Likely pathogenic	GRCh38	1679542
+single nucleotide variant	NM_000162.5(GCK):c.614A>G (p.Asp205Gly)	2645	GCK	Likely pathogenic	GRCh38	1679543
+single nucleotide variant	NM_000162.5(GCK):c.614A>T (p.Asp205Val)	2645	GCK	Likely pathogenic	GRCh38	1679544
+single nucleotide variant	NM_000162.5(GCK):c.771G>A (p.Trp257Ter)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1679545
+single nucleotide variant	NM_000162.5(GCK):c.1079C>A (p.Ser360Ter)	2645	GCK	Pathogenic	GRCh38	1679547
+single nucleotide variant	NM_000162.5(GCK):c.475A>G (p.Ile159Val)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1679549
+single nucleotide variant	NM_000162.5(GCK):c.208G>A (p.Glu70Lys)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1679552
+single nucleotide variant	NM_000162.5(GCK):c.208+2T>C	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1679553
+single nucleotide variant	NM_000162.5(GCK):c.579G>T (p.Gly193=)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1683779
+single nucleotide variant	NM_000162.5(GCK):c.917T>A (p.Leu306Gln)	2645	GCK	Likely pathogenic	GRCh38	1685328
+single nucleotide variant	NM_000162.5(GCK):c.501G>C (p.Trp167Cys)	2645	GCK	Pathogenic	GRCh38	1685845
+single nucleotide variant	NM_000162.5(GCK):c.1019+2T>C	2645	GCK	Pathogenic	GRCh38	1700672
+single nucleotide variant	NM_000162.5(GCK):c.122T>G (p.Met41Arg)	2645	GCK	Likely pathogenic	GRCh38	1700673
+single nucleotide variant	NM_000162.5(GCK):c.1247A>G (p.His416Arg)	2645	GCK	Pathogenic	GRCh38	1700674
+single nucleotide variant	NM_000162.5(GCK):c.209-1G>A	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1700676
+single nucleotide variant	NM_000162.5(GCK):c.296G>A (p.Trp99Ter)	2645	GCK	Pathogenic	GRCh38	1700677
+single nucleotide variant	NM_000162.5(GCK):c.484-2A>G	2645	GCK	Pathogenic	GRCh38	1700680
+single nucleotide variant	NM_000162.5(GCK):c.864-1G>C	2645	GCK	Pathogenic	GRCh38	1700683
+single nucleotide variant	NM_000162.5(GCK):c.878T>G (p.Ile293Arg)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1700684
+single nucleotide variant	NM_000162.5(GCK):c.389T>C (p.Ile130Thr)	2645	GCK	Likely pathogenic	GRCh38	1704126
+single nucleotide variant	NM_000162.5(GCK):c.374A>G (p.Tyr125Cys)	2645	GCK	Likely pathogenic	GRCh38	1705456
+single nucleotide variant	NM_000162.5(GCK):c.881G>T (p.Gly294Val)	2645	GCK	Likely pathogenic	GRCh38	1707504
+single nucleotide variant	NM_000162.5(GCK):c.1145G>C (p.Cys382Ser)	2645	GCK	Likely pathogenic	GRCh38	1709202
+single nucleotide variant	NM_000162.5(GCK):c.469G>T (p.Glu157Ter)	2645	GCK	Pathogenic	GRCh38	1709327
+single nucleotide variant	NM_000162.5(GCK):c.1270C>T (p.His424Tyr)	2645	GCK	Likely pathogenic	GRCh38	1709730
+single nucleotide variant	NM_000162.5(GCK):c.866A>G (p.Tyr289Cys)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1709898
+single nucleotide variant	NM_000162.5(GCK):c.245C>T (p.Thr82Ile)	2645	GCK	Likely pathogenic	GRCh38	1723231
+single nucleotide variant	NM_000162.5(GCK):c.1129C>A (p.Arg377Ser)	2645	GCK	Likely pathogenic	GRCh38	1727652
+single nucleotide variant	NM_000162.5(GCK):c.1150G>A (p.Ala384Thr)	2645	GCK	Likely pathogenic	GRCh38	1734018
+single nucleotide variant	NM_000162.5(GCK):c.568A>T (p.Lys190Ter)	2645	GCK	Pathogenic	GRCh38	1749063
+single nucleotide variant	NM_000162.5(GCK):c.455T>C (p.Phe152Ser)	2645	GCK	Pathogenic	GRCh38	1741488
+single nucleotide variant	NM_000162.5(GCK):c.478G>C (p.Asp160His)	2645	GCK	Pathogenic	GRCh38	1743101
+single nucleotide variant	NM_000162.5(GCK):c.483+1G>A	2645	GCK	Pathogenic	GRCh38	1743427
+single nucleotide variant	NM_000162.5(GCK):c.524G>A (p.Gly175Glu)	2645	GCK	Likely pathogenic	GRCh38	1746350
+single nucleotide variant	NM_000162.5(GCK):c.579+1G>A	2645	GCK	Pathogenic	GRCh38	1749655
+single nucleotide variant	NM_000162.5(GCK):c.580-1G>C	2645	GCK	Likely pathogenic	GRCh38	1749785
+single nucleotide variant	NM_000162.5(GCK):c.695C>A (p.Ala232Asp)	2645	GCK	Pathogenic	GRCh38	1756314
+single nucleotide variant	NM_000162.5(GCK):c.1260G>T (p.Lys420Asn)	2645	GCK	Likely pathogenic	GRCh38	1763107
+single nucleotide variant	NM_000162.5(GCK):c.1253+1G>C	2645	GCK	Pathogenic	GRCh38	1761162
+single nucleotide variant	NM_000162.5(GCK):c.731T>G (p.Val244Gly)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	1758315
+single nucleotide variant	NM_000162.5(GCK):c.766G>T (p.Glu256Ter)	2645	GCK	Pathogenic	GRCh38	1760070
+single nucleotide variant	NM_000162.5(GCK):c.1348G>T (p.Ala450Ser)	2645	GCK	Likely pathogenic	GRCh38	1770532
+single nucleotide variant	NM_000162.5(GCK):c.982G>T (p.Gly328Ter)	2645	GCK	Pathogenic	GRCh38	1768344
+single nucleotide variant	NM_000162.5(GCK):c.151G>T (p.Glu51Ter)	2645	GCK	Pathogenic	GRCh38	1774404
+single nucleotide variant	NM_000162.5(GCK):c.1007C>A (p.Ser336Ter)	2645	GCK	Pathogenic	GRCh38	1787169
+single nucleotide variant	NM_000162.5(GCK):c.1253+2T>G	2645	GCK	Likely pathogenic	GRCh38	1801512
+single nucleotide variant	NM_000162.5(GCK):c.995C>T (p.Thr332Met)	2645	GCK	Likely pathogenic	GRCh38	1801684
+single nucleotide variant	NM_000162.5(GCK):c.1072C>T (p.Arg358Ter)	2645	GCK	Pathogenic	GRCh38	1803547
+single nucleotide variant	NM_000162.5(GCK):c.167A>C (p.Lys56Thr)	2645	GCK	Likely pathogenic	GRCh38	1807279
+single nucleotide variant	NM_000162.5(GCK):c.386G>T (p.Cys129Phe)	2645	GCK	Likely pathogenic	GRCh38	1807282
+single nucleotide variant	NM_000162.5(GCK):c.1232C>T (p.Ser411Phe)	2645	GCK	Likely pathogenic	GRCh38	2136506
+single nucleotide variant	NM_000162.5(GCK):c.1195G>T (p.Glu399Ter)	2645	GCK	Pathogenic	GRCh38	2136507
+single nucleotide variant	NM_000162.5(GCK):c.1151C>A (p.Ala384Glu)	2645	GCK	Pathogenic	GRCh38	2136509
+single nucleotide variant	NM_000162.5(GCK):c.834C>G (p.Asp278Glu)	2645	GCK	Pathogenic	GRCh38	2136513
+single nucleotide variant	NM_000162.5(GCK):c.715C>T (p.Gln239Ter)	2645	GCK	Pathogenic	GRCh38	2136515
+single nucleotide variant	NM_000162.5(GCK):c.679G>A (p.Gly227Ser)	2645	GCK	Pathogenic	GRCh38	2136518
+single nucleotide variant	NM_000162.5(GCK):c.613G>T (p.Asp205Tyr)	2645	GCK	Likely pathogenic	GRCh38	2136522
+single nucleotide variant	NM_000162.5(GCK):c.451T>C (p.Ser151Pro)	2645	GCK	Likely pathogenic	GRCh38	2136526
+single nucleotide variant	NM_000162.5(GCK):c.410A>G (p.His137Arg)	2645	GCK	Likely pathogenic	GRCh38	2136527
+single nucleotide variant	NM_000162.5(GCK):c.308C>G (p.Thr103Ser)	2645	GCK	Likely pathogenic	GRCh38	2136529
+single nucleotide variant	NM_000162.5(GCK):c.56T>A (p.Ile19Asn)	2645	GCK	Pathogenic	GRCh38	2136531
+single nucleotide variant	NM_000162.5(GCK):c.46-1G>A	2645	GCK	Likely pathogenic	GRCh38	2136532
+single nucleotide variant	NM_000162.5(GCK):c.1181G>C (p.Arg394Pro)	2645	GCK	Likely pathogenic	GRCh38	2169517
+single nucleotide variant	NM_000162.5(GCK):c.1234G>C (p.Val412Leu)	2645	GCK	Likely pathogenic	GRCh38	1879689
+single nucleotide variant	NM_000162.5(GCK):c.1079C>G (p.Ser360Trp)	2645	GCK	Likely pathogenic	GRCh38	1933344
+single nucleotide variant	NM_000162.5(GCK):c.1153G>C (p.Gly385Arg)	2645	GCK	Likely pathogenic	GRCh38	2065408
+single nucleotide variant	NM_000162.5(GCK):c.481A>T (p.Lys161Ter)	2645	GCK	Pathogenic	GRCh38	2068426
+single nucleotide variant	NM_000162.5(GCK):c.1253+2T>C	2645	GCK	Pathogenic	GRCh38	2112933
+single nucleotide variant	NM_000162.5(GCK):c.437T>C (p.Leu146Pro)	2645	GCK	Pathogenic	GRCh38	2428681
+single nucleotide variant	NM_000162.5(GCK):c.232G>T (p.Asp78Tyr)	2645	GCK	Pathogenic	GRCh38	2500039
+single nucleotide variant	NM_000162.5(GCK):c.562G>C (p.Ala188Pro)	2645	GCK	Likely pathogenic	GRCh38	2502089
+single nucleotide variant	NM_000162.5(GCK):c.59T>C (p.Leu20Pro)	2645	GCK	Likely pathogenic	GRCh38	2504386
+single nucleotide variant	NM_000162.5(GCK):c.628A>G (p.Met210Val)	2645	GCK	Likely pathogenic	GRCh38	2505486
+single nucleotide variant	NM_000162.5(GCK):c.363+2T>A	2645	GCK	Pathogenic	GRCh38	2505487
+single nucleotide variant	NM_000162.5(GCK):c.1354G>C (p.Val452Leu)	2645	GCK	Likely pathogenic	GRCh38	2506148
+single nucleotide variant	NM_000162.5(GCK):c.458C>A (p.Pro153His)	2645	GCK	Pathogenic	GRCh38	2567920
+single nucleotide variant	NM_000162.5(GCK):c.1318G>T (p.Glu440Ter)	2645	GCK	Pathogenic	GRCh38	2571652
+single nucleotide variant	NM_000162.5(GCK):c.1302C>A (p.Cys434Ter)	2645	GCK	Pathogenic	GRCh38	2571654
+single nucleotide variant	NM_000162.5(GCK):c.1261G>T (p.Glu421Ter)	2645	GCK	Pathogenic	GRCh38	2571656
+single nucleotide variant	NM_000162.5(GCK):c.1256T>C (p.Phe419Ser)	2645	GCK	Likely pathogenic	GRCh38	2571658
+single nucleotide variant	NM_000162.5(GCK):c.1254-1G>T	2645	GCK	Pathogenic	GRCh38	2571661
+single nucleotide variant	NM_000162.5(GCK):c.502A>G (p.Thr168Ala)	2645	GCK	Pathogenic	GRCh38	2574157
+single nucleotide variant	NM_000162.5(GCK):c.502A>C (p.Thr168Pro)	2645	GCK	Pathogenic	GRCh38	2574158
+single nucleotide variant	NM_000162.5(GCK):c.1254-1G>C	2645	GCK	Pathogenic	GRCh38	2574160
+single nucleotide variant	NM_000162.5(GCK):c.1175G>C (p.Arg392Pro)	2645	GCK	Likely pathogenic	GRCh38	2574162
+single nucleotide variant	NM_000162.5(GCK):c.1142T>C (p.Met381Thr)	2645	GCK	Pathogenic	GRCh38	2574163
+single nucleotide variant	NM_000162.5(GCK):c.667G>C (p.Gly223Arg)	2645	GCK	Likely pathogenic	GRCh38	2578075
+single nucleotide variant	NM_000162.5(GCK):c.1112G>A (p.Cys371Tyr)	2645	GCK	Likely pathogenic	GRCh38	2578347
+single nucleotide variant	NM_000162.5(GCK):c.1121T>A (p.Val374Glu)	2645	GCK	Likely pathogenic	GRCh38	2578348
+single nucleotide variant	NM_000162.5(GCK):c.898G>C (p.Glu300Gln)	2645	GCK	Pathogenic	GRCh38	2578349
+single nucleotide variant	NM_000162.5(GCK):c.1398A>G (p.Ter466Trp)	2645	GCK	Likely pathogenic	GRCh38	2578350
+single nucleotide variant	NM_000162.5(GCK):c.1396T>C (p.Ter466Arg)	2645	GCK	Likely pathogenic	GRCh38	2578351
+single nucleotide variant	NM_000162.5(GCK):c.884G>T (p.Gly295Val)	2645	GCK	Likely pathogenic	GRCh38	2578352
+single nucleotide variant	NM_000162.5(GCK):c.782G>A (p.Gly261Glu)	2645	GCK	Pathogenic	GRCh38	2578353
+single nucleotide variant	NM_000162.5(GCK):c.775G>T (p.Ala259Ser)	2645	GCK	Likely pathogenic	GRCh38	2578354
+single nucleotide variant	NM_000162.5(GCK):c.437T>G (p.Leu146Arg)	2645	GCK	Likely pathogenic	GRCh38	2578355
+single nucleotide variant	NM_000162.5(GCK):c.110T>G (p.Met37Arg)	2645	GCK	Pathogenic	GRCh38	2578357
+single nucleotide variant	NM_000162.5(GCK):c.1189C>G (p.Arg397Gly)	2645	GCK	Likely pathogenic	GRCh38	2578359
+single nucleotide variant	NM_000162.5(GCK):c.1111T>C (p.Cys371Arg)	2645	GCK	Likely pathogenic	GRCh38	2578362
+single nucleotide variant	NM_000162.5(GCK):c.613G>C (p.Asp205His)	2645	GCK	Pathogenic	GRCh38	2579457
+single nucleotide variant	NM_000162.5(GCK):c.580-9T>G	2645	GCK	Likely pathogenic	GRCh38	2580855
+single nucleotide variant	NM_000162.5(GCK):c.677T>G (p.Val226Gly)	2645	GCK	Likely pathogenic	GRCh38	2580858
+single nucleotide variant	NM_000162.5(GCK):c.679G>C (p.Gly227Arg)	2645	GCK	Pathogenic	GRCh38	2580859
+single nucleotide variant	NM_000162.5(GCK):c.679+5G>A	2645	GCK	Pathogenic	GRCh38	2580860
+single nucleotide variant	NM_000162.5(GCK):c.680-6C>G	2645	GCK	Pathogenic	GRCh38	2580861
+single nucleotide variant	NM_000162.5(GCK):c.863+5G>A	2645	GCK	Likely pathogenic	GRCh38	2580862
+single nucleotide variant	NM_000162.5(GCK):c.1019G>C (p.Ser340Thr)	2645	GCK	Pathogenic	GRCh38	2580863
+single nucleotide variant	NM_000162.5(GCK):c.1019+20G>A	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	2580864
+single nucleotide variant	NM_000162.5(GCK):c.208+15C>G	2645	GCK	Likely pathogenic	GRCh38	2580876
+single nucleotide variant	NM_000162.5(GCK):c.482A>G (p.Lys161Arg)	2645	GCK	Likely pathogenic	GRCh38	2580878
+single nucleotide variant	NM_000162.5(GCK):c.1322C>A (p.Ser441Ter)	2645	GCK	Pathogenic	GRCh38	2581124
+single nucleotide variant	NM_000162.5(GCK):c.1144T>G (p.Cys382Gly)	2645	GCK	Likely pathogenic	GRCh38	2581125
+single nucleotide variant	NM_000162.5(GCK):c.824G>C (p.Arg275Pro)	2645	GCK	Likely pathogenic	GRCh38	2581126
+single nucleotide variant	NM_000162.5(GCK):c.1240A>T (p.Lys414Ter)	2645	GCK	Pathogenic	GRCh38	2581128
+single nucleotide variant	NM_000162.5(GCK):c.1174C>A (p.Arg392Ser)	2645	GCK	Pathogenic	GRCh38	2581305
+single nucleotide variant	NM_000162.5(GCK):c.679+1G>C	2645	GCK	Pathogenic	GRCh38	2627074
+single nucleotide variant	NM_000162.5(GCK):c.1254-2A>G	2645	GCK	Pathogenic	GRCh38	2628362
+single nucleotide variant	NM_000162.5(GCK):c.465G>T (p.Arg155Ser)	2645	GCK	Likely pathogenic	GRCh38	2628364
+single nucleotide variant	NM_000162.5(GCK):c.1132G>C (p.Ala378Pro)	2645	GCK	Likely pathogenic	GRCh38	2628365
+single nucleotide variant	NM_000162.5(GCK):c.689G>A (p.Cys230Tyr)	2645	GCK	Pathogenic	GRCh38	2628366
+single nucleotide variant	NM_000162.5(GCK):c.1106G>C (p.Arg369Pro)	2645	GCK	Pathogenic	GRCh38	2632567
+single nucleotide variant	NM_000162.5(GCK):c.364-1G>C	2645	GCK	Pathogenic	GRCh38	2633378
+single nucleotide variant	NC_000007.14:g.44189510C>G	2645	GCK	Pathogenic	GRCh38	2635153
+single nucleotide variant	NM_000162.5(GCK):c.350G>T (p.Gly117Val)	2645	GCK	Likely pathogenic	GRCh38	2662928
+single nucleotide variant	NM_000162.5(GCK):c.109A>G (p.Met37Val)	2645	GCK	Likely pathogenic	GRCh38	2664358
+single nucleotide variant	NM_000162.5(GCK):c.1019+1G>A	2645	GCK	Pathogenic	GRCh38	2664360
+single nucleotide variant	NM_000162.5(GCK):c.1019+1G>T	2645	GCK	Pathogenic	GRCh38	2664361
+single nucleotide variant	NM_000162.5(GCK):c.1019+5G>A	2645	GCK	Likely pathogenic	GRCh38	2664362
+single nucleotide variant	NM_000162.5(GCK):c.567C>G (p.Ile189Met)	2645	GCK	Likely pathogenic	GRCh38	2664364
+single nucleotide variant	NM_000162.5(GCK):c.823C>G (p.Arg275Gly)	2645	GCK	Pathogenic	GRCh38	2664365
+single nucleotide variant	NM_000162.5(GCK):c.976A>C (p.Thr326Pro)	2645	GCK	Pathogenic	GRCh38	2664366
+single nucleotide variant	NM_000162.5(GCK):c.1133C>A (p.Ala378Asp)	2645	GCK	Pathogenic	GRCh38	2664370
+single nucleotide variant	NM_000162.5(GCK):c.554T>C (p.Leu185Pro)	2645	GCK	Likely pathogenic	GRCh38	2664850
+single nucleotide variant	NM_000162.5(GCK):c.503C>A (p.Thr168Asn)	2645	GCK	Pathogenic	GRCh38	2682649
+single nucleotide variant	NM_000162.5(GCK):c.461T>G (p.Val154Gly)	2645	GCK	Likely pathogenic	GRCh38	2682650
+single nucleotide variant	NM_000162.5(GCK):c.110T>C (p.Met37Thr)	2645	GCK	Likely pathogenic	GRCh38	2682651
+single nucleotide variant	NM_000162.5(GCK):c.324C>A (p.Tyr108Ter)	2645	GCK	Pathogenic	GRCh38	2682653
+single nucleotide variant	NM_000162.5(GCK):c.170T>A (p.Met57Lys)	2645	GCK	Likely pathogenic	GRCh38	2684202
+single nucleotide variant	NM_000162.5(GCK):c.632T>C (p.Ile211Thr)	2645	GCK	Pathogenic	GRCh38	2684209
+single nucleotide variant	NM_000162.5(GCK):c.964G>T (p.Glu322Ter)	2645	GCK	Likely pathogenic	GRCh38	2684213
+single nucleotide variant	NM_000162.5(GCK):c.1398A>T (p.Ter466Cys)	2645	GCK	Pathogenic	GRCh38	2691823
+single nucleotide variant	NM_000162.5(GCK):c.1306A>T (p.Ile436Phe)	2645	GCK	Likely pathogenic	GRCh38	2691824
+single nucleotide variant	NM_000162.5(GCK):c.630G>A (p.Met210Ile)	2645	GCK	Pathogenic	GRCh38	2691826
+single nucleotide variant	NM_000162.5(GCK):c.622G>C (p.Ala208Pro)	2645	GCK	Likely pathogenic	GRCh38	2691827
+single nucleotide variant	NM_000162.5(GCK):c.113A>T (p.Gln38Leu)	2645	GCK	Likely pathogenic	GRCh38	2691828
+single nucleotide variant	NM_000162.5(GCK):c.521C>T (p.Ser174Leu)	2645	GCK	Pathogenic	GRCh38	2691829
+single nucleotide variant	NM_000162.5(GCK):c.679+3A>T	2645	GCK	Likely pathogenic	GRCh38	2691831
+single nucleotide variant	NM_000162.5(GCK):c.1358C>G (p.Ser453Trp)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	2734985
+single nucleotide variant	NM_000162.5(GCK):c.1349C>T (p.Ala450Val)	2645	GCK	Likely pathogenic	GRCh38	2734986
+single nucleotide variant	NM_000162.5(GCK):c.1235T>C (p.Val412Ala)	2645	GCK	Pathogenic	GRCh38	2734988
+single nucleotide variant	NM_000162.5(GCK):c.1189C>T (p.Arg397Cys)	2645	GCK	Likely pathogenic	GRCh38	2734991
+single nucleotide variant	NM_000162.5(GCK):c.1183G>T (p.Glu395Ter)	2645	GCK	Pathogenic	GRCh38	2734992
+single nucleotide variant	NM_000162.5(GCK):c.896G>A (p.Gly299Asp)	2645	GCK	Pathogenic	GRCh38	2734999
+single nucleotide variant	NM_000162.5(GCK):c.863+5G>T	2645	GCK	Likely pathogenic	GRCh38	2735001
+single nucleotide variant	NM_000162.5(GCK):c.856C>T (p.Gln286Ter)	2645	GCK	Pathogenic	GRCh38	2735002
+single nucleotide variant	NM_000162.5(GCK):c.834C>A (p.Asp278Glu)	2645	GCK	Pathogenic	GRCh38	2735003
+single nucleotide variant	NM_000162.5(GCK):c.763A>G (p.Thr255Ala)	2645	GCK	Pathogenic	GRCh38	2735005
+single nucleotide variant	NM_000162.5(GCK):c.753G>A (p.Met251Ile)	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	2735006
+single nucleotide variant	NM_000162.5(GCK):c.637T>C (p.Cys213Arg)	2645	GCK	Pathogenic	GRCh38	2735011
+single nucleotide variant	NM_000162.5(GCK):c.365T>C (p.Leu122Pro)	2645	GCK	Likely pathogenic	GRCh38	2735019
+single nucleotide variant	NM_000162.5(GCK):c.586G>T (p.Glu196Ter)	2645	GCK	Pathogenic	GRCh38	2839999
+single nucleotide variant	NM_000162.5(GCK):c.951C>A (p.His317Gln)	2645	GCK	Likely pathogenic	GRCh38	2861776
+single nucleotide variant	NM_000162.5(GCK):c.1358C>A (p.Ser453Ter)	2645	GCK	Likely pathogenic	GRCh38	3024416
+single nucleotide variant	NM_000162.5(GCK):c.1159G>A (p.Ala387Thr)	2645	GCK	Pathogenic	GRCh38	3024417
+single nucleotide variant	NM_000162.5(GCK):c.1148C>G (p.Ser383Trp)	2645	GCK	Likely pathogenic	GRCh38	3024418
+single nucleotide variant	NM_000162.5(GCK):c.1147T>A (p.Ser383Thr)	2645	GCK	Likely pathogenic	GRCh38	3024419
+single nucleotide variant	NM_000162.5(GCK):c.683C>G (p.Thr228Arg)	2645	GCK	Pathogenic	GRCh38	3024420
+single nucleotide variant	NM_000162.5(GCK):c.683C>A (p.Thr228Lys)	2645	GCK	Pathogenic	GRCh38	3024421
+single nucleotide variant	NM_000162.5(GCK):c.389T>A (p.Ile130Asn)	2645	GCK	Likely pathogenic	GRCh38	3024422
+single nucleotide variant	NM_000162.5(GCK):c.523G>C (p.Gly175Arg)	2645	GCK	Pathogenic	GRCh38	3024423
+single nucleotide variant	NM_000162.5(GCK):c.292C>T (p.Gln98Ter)	2645	GCK	Pathogenic	GRCh38	3029101
+single nucleotide variant	NM_000162.5(GCK):c.1253+1G>A	2645	GCK	Pathogenic	GRCh38	3030720
+single nucleotide variant	NM_000162.5(GCK):c.118G>T (p.Glu40Ter)	2645	GCK	Pathogenic	GRCh38	3066162
+single nucleotide variant	NM_000162.5(GCK):c.450C>A (p.Phe150Leu)	2645	GCK	Likely pathogenic	GRCh38	3068510
+single nucleotide variant	NM_000162.5(GCK):c.1361C>T (p.Ala454Val)	2645	GCK	Likely pathogenic	GRCh38	3068512
+single nucleotide variant	NM_000162.5(GCK):c.363+1G>A	2645	GCK	Pathogenic	GRCh38	3068513
+single nucleotide variant	NM_000162.5(GCK):c.899A>G (p.Glu300Gly)	2645	GCK	Likely pathogenic	GRCh38	3068849
+single nucleotide variant	NM_000162.5(GCK):c.814G>T (p.Glu272Ter)	2645	GCK	Pathogenic	GRCh38	3230478
+single nucleotide variant	NM_000162.5(GCK):c.1239C>G (p.Tyr413Ter)	2645	GCK	Pathogenic	GRCh38	3233528
+single nucleotide variant	NM_000162.5(GCK):c.1345G>T (p.Ala449Ser)	2645	GCK	Likely pathogenic	GRCh38	3233991
+single nucleotide variant	NM_000162.5(GCK):c.1235T>A (p.Val412Glu)	2645	GCK	Pathogenic	GRCh38	3233992
+single nucleotide variant	NM_000162.5(GCK):c.454T>A (p.Phe152Ile)	2645	GCK	Pathogenic	GRCh38	3233993
+single nucleotide variant	NM_000162.5(GCK):c.1234G>A (p.Val412Met)	2645	GCK	Pathogenic	GRCh38	3233994
+single nucleotide variant	NM_000162.5(GCK):c.1228G>A (p.Gly410Ser)	2645	GCK	Pathogenic	GRCh38	3233995
+single nucleotide variant	NM_000162.5(GCK):c.1228G>T (p.Gly410Cys)	2645	GCK	Pathogenic	GRCh38	3233996
+single nucleotide variant	NM_000162.5(GCK):c.1166T>C (p.Val389Ala)	2645	GCK	Likely pathogenic	GRCh38	3233998
+single nucleotide variant	NM_000162.5(GCK):c.1157T>G (p.Leu386Arg)	2645	GCK	Likely pathogenic	GRCh38	3233999
+single nucleotide variant	NM_000162.5(GCK):c.605T>G (p.Met202Arg)	2645	GCK	Pathogenic	GRCh38	3234002
+single nucleotide variant	NM_000162.5(GCK):c.612T>A (p.Asn204Lys)	2645	GCK	Likely pathogenic	GRCh38	3234078
+single nucleotide variant	NM_000162.5(GCK):c.242G>A (p.Gly81Asp)	2645	GCK	Likely pathogenic	GRCh38	3236689
+single nucleotide variant	NM_000162.5(GCK):c.559G>T (p.Asp187Tyr)	2645	GCK	Likely pathogenic	GRCh38	3238986
+single nucleotide variant	NM_000162.5(GCK):c.559G>C (p.Asp187His)	2645	GCK	Likely pathogenic	GRCh38	3238987
+single nucleotide variant	NM_000162.5(GCK):c.1166T>A (p.Val389Asp)	2645	GCK	Likely pathogenic	GRCh38	3250353
+single nucleotide variant	NM_000162.5(GCK):c.363+2T>C	2645	GCK	Pathogenic	GRCh38	3256954
+single nucleotide variant	NM_000162.5(GCK):c.364C>T (p.Leu122Phe)	2645	GCK	Likely pathogenic	GRCh38	3338654
+single nucleotide variant	NM_000162.5(GCK):c.1092C>A (p.Cys364Ter)	2645	GCK	Pathogenic	GRCh38	3338868
+single nucleotide variant	NM_000162.5(GCK):c.881G>A (p.Gly294Asp)	2645	GCK	Pathogenic	GRCh38	3338870
+single nucleotide variant	NM_000162.5(GCK):c.593A>T (p.Asp198Val)	2645	GCK	Likely pathogenic	GRCh38	3338871
+single nucleotide variant	NM_000162.5(GCK):c.685G>C (p.Gly229Arg)	2645	GCK	Likely pathogenic	GRCh38	3340323
+single nucleotide variant	NM_000162.5(GCK):c.598G>T (p.Val200Leu)	2645	GCK	Likely pathogenic	GRCh38	3342694
+single nucleotide variant	NM_000162.5(GCK):c.757G>C (p.Val253Leu)	2645	GCK	Likely pathogenic	GRCh38	3346399
+single nucleotide variant	NM_000162.5(GCK):c.500G>A (p.Trp167Ter)	2645	GCK	Pathogenic	GRCh38	3359451
+single nucleotide variant	NM_000162.5(GCK):c.752T>A (p.Met251Lys)	2645	GCK	Likely pathogenic	GRCh38	3383341
+single nucleotide variant	NM_000162.5(GCK):c.460G>A (p.Val154Met)	2645	GCK	Likely pathogenic	GRCh38	3383432
+single nucleotide variant	NM_000162.5(GCK):c.162T>G (p.Ser54Arg)	2645	GCK	Likely pathogenic	GRCh38	3383913
+single nucleotide variant	NM_000162.5(GCK):c.1148C>A (p.Ser383Ter)	2645	GCK	Likely pathogenic	GRCh38	3383914
+single nucleotide variant	NM_000162.5(GCK):c.1088A>G (p.Asp363Gly)	2645	GCK	Pathogenic	GRCh38	3383915
+single nucleotide variant	NM_000162.5(GCK):c.531A>T (p.Glu177Asp)	2645	GCK	Likely pathogenic	GRCh38	3383919
+single nucleotide variant	NM_000162.5(GCK):c.821A>G (p.Asp274Gly)	2645	GCK	Likely pathogenic	GRCh38	3383923
+single nucleotide variant	NM_000162.5(GCK):c.820G>A (p.Asp274Asn)	2645	GCK	Likely pathogenic	GRCh38	3383924
+single nucleotide variant	NM_000162.5(GCK):c.821A>C (p.Asp274Ala)	2645	GCK	Pathogenic	GRCh38	3383925
+single nucleotide variant	NM_000162.5(GCK):c.820G>T (p.Asp274Tyr)	2645	GCK	Likely pathogenic	GRCh38	3383926
+single nucleotide variant	NM_000162.5(GCK):c.424A>T (p.Lys142Ter)	2645	GCK	Pathogenic	GRCh38	3383927
+single nucleotide variant	NM_000162.5(GCK):c.232G>A (p.Asp78Asn)	2645	GCK	Pathogenic	GRCh38	3383928
+single nucleotide variant	NM_000162.5(GCK):c.232G>C (p.Asp78His)	2645	GCK	Pathogenic	GRCh38	3383929
+single nucleotide variant	NM_000162.5(GCK):c.234C>G (p.Asp78Glu)	2645	GCK	Pathogenic	GRCh38	3383930
+single nucleotide variant	NM_000162.5(GCK):c.233A>G (p.Asp78Gly)	2645	GCK	Likely pathogenic	GRCh38	3383931
+single nucleotide variant	NM_000162.5(GCK):c.46-2A>T	2645	GCK	Pathogenic	GRCh38	3393498
+single nucleotide variant	NM_000162.5(GCK):c.46-1G>T	2645	GCK	Likely pathogenic	GRCh38	3393499
+single nucleotide variant	NM_000162.5(GCK):c.1241A>T (p.Lys414Met)	2645	GCK	Likely pathogenic	GRCh38	3594705
+single nucleotide variant	NM_000162.5(GCK):c.483+117T>C	2645	GCK	Likely pathogenic	GRCh38	3594716
+single nucleotide variant	NM_000162.5(GCK):c.905T>A (p.Val302Glu)	2645	GCK	Likely pathogenic	GRCh38	3571584
+single nucleotide variant	NM_000162.5(GCK):c.484-1G>A	2645	GCK	Pathogenic	GRCh38	3571723
+single nucleotide variant	NM_000162.5(GCK):c.1010A>C (p.Gln337Pro)	2645	GCK	Pathogenic	GRCh38	3602116
+single nucleotide variant	NM_000162.5(GCK):c.1180C>A (p.Arg394Ser)	2645	GCK	Likely pathogenic	GRCh38	3602130
+single nucleotide variant	NM_000162.5(GCK):c.483+1G>T	2645	GCK	Pathogenic	GRCh38	3643503
+single nucleotide variant	NM_000162.5(GCK):c.625A>G (p.Thr209Ala)	2645	GCK	Likely pathogenic	GRCh38	3661587
+single nucleotide variant	NM_000162.5(GCK):c.580-2A>G	2645	GCK	Pathogenic	GRCh38	3682498
+single nucleotide variant	NM_000162.5(GCK):c.1301G>T (p.Cys434Phe)	2645	GCK	Likely pathogenic	GRCh38	3720735
+single nucleotide variant	NM_000162.5(GCK):c.764C>T (p.Thr255Ile)	2645	GCK	Pathogenic	GRCh38	3720739
+single nucleotide variant	NM_000162.5(GCK):c.616A>G (p.Thr206Ala)	2645	GCK	Likely pathogenic	GRCh38	3720741
+single nucleotide variant	NM_000162.5(GCK):c.363+1G>T	2645	GCK	Pathogenic	GRCh38	3720743
+single nucleotide variant	NM_000162.5(GCK):c.208+1G>T	2645	GCK	Likely pathogenic	GRCh38	3720745
+single nucleotide variant	NM_000162.5(GCK):c.170T>C (p.Met57Thr)	2645	GCK	Likely pathogenic	GRCh38	3720746
+single nucleotide variant	NM_000162.5(GCK):c.863+1G>C	2645	GCK	Pathogenic	GRCh38	3766052
+single nucleotide variant	NM_000162.5(GCK):c.490C>T (p.Leu164Phe)	2645	GCK	Likely pathogenic	GRCh38	3766600
+single nucleotide variant	NM_000162.5(GCK):c.242G>T (p.Gly81Val)	2645	GCK	Likely pathogenic	GRCh38	3766875
+single nucleotide variant	NM_000162.5(GCK):c.170T>G (p.Met57Arg)	2645	GCK	Likely pathogenic	GRCh38	3767143
+single nucleotide variant	NM_000162.5(GCK):c.895G>A (p.Gly299Ser)	2645	GCK	Likely pathogenic	GRCh38	3767575
+single nucleotide variant	NM_000162.5(GCK):c.679+2T>C	2645	GCK	Pathogenic	GRCh38	3768773
+single nucleotide variant	NM_000162.5(GCK):c.409C>G (p.His137Asp)	2645	GCK	Likely pathogenic	GRCh38	3893273
+single nucleotide variant	NM_000162.5(GCK):c.1055T>C (p.Leu352Pro)	2645	GCK	Likely pathogenic	GRCh38	3893306
+single nucleotide variant	NM_000162.5(GCK):c.238G>T (p.Gly80Cys)	2645	GCK	Likely pathogenic	GRCh38	3897233
+single nucleotide variant	NM_000162.5(GCK):c.864-2A>G	2645	GCK	Pathogenic/Likely pathogenic	GRCh38	3899866
+single nucleotide variant	NM_000162.5(GCK):c.1153G>T (p.Gly385Trp)	2645	GCK	Likely pathogenic	GRCh38	3901861
+single nucleotide variant	NM_000162.5(GCK):c.1154G>T (p.Gly385Val)	2645	GCK	Likely pathogenic	GRCh38	3901862
+single nucleotide variant	NM_000162.5(GCK):c.1151C>G (p.Ala384Gly)	2645	GCK	Likely pathogenic	GRCh38	3901863
+single nucleotide variant	NM_000162.5(GCK):c.679+1G>T	2645	GCK	Pathogenic	GRCh38	3906939
+single nucleotide variant	NM_000162.5(GCK):c.544G>T (p.Val182Leu)	2645	GCK	Likely pathogenic	GRCh38	4055754
+single nucleotide variant	NM_000162.5(GCK):c.466C>A (p.His156Asn)	2645	GCK	Likely pathogenic	GRCh38	4070585
+single nucleotide variant	NM_000162.5(GCK):c.1055T>G (p.Leu352Arg)	2645	GCK	Likely pathogenic	GRCh38	4071499
+single nucleotide variant	NM_000162.5(GCK):c.1190G>C (p.Arg397Pro)	2645	GCK	Likely pathogenic	GRCh38	4077058
+single nucleotide variant	NM_000162.5(GCK):c.679+5G>C	2645	GCK	Pathogenic	GRCh38	4087765
+single nucleotide variant	NM_000162.5(GCK):c.74T>C (p.Leu25Pro)	2645	GCK	Likely pathogenic	GRCh38	4262524
+single nucleotide variant	NM_000162.5(GCK):c.742G>T (p.Glu248Ter)	2645	GCK	Pathogenic	GRCh38	4292671
+single nucleotide variant	NM_000162.5(GCK):c.590T>A (p.Met197Lys)	2645	GCK	Likely pathogenic	GRCh38	4531182
+single nucleotide variant	NM_000162.5(GCK):c.533G>C (p.Gly178Ala)	2645	GCK	Likely pathogenic	GRCh38	4531183
+single nucleotide variant	NM_000162.5(GCK):c.764C>G (p.Thr255Ser)	2645	GCK	Pathogenic	GRCh38	4531184
+single nucleotide variant	NM_000162.5(GCK):c.967C>T (p.Gln323Ter)	2645	GCK	Pathogenic	GRCh38	4682475
+single nucleotide variant	NM_000162.5(GCK):c.1105C>T (p.Arg369Cys)	2645	GCK	Likely pathogenic	GRCh38	4685066
+single nucleotide variant	NM_000162.5(GCK):c.1231T>C (p.Ser411Pro)	2645	GCK	Likely pathogenic	GRCh38	4685911
+single nucleotide variant	NM_000162.5(GCK):c.493C>T (p.Leu165Phe)	2645	GCK	Likely pathogenic	GRCh38	4687710
+single nucleotide variant	NM_000162.5(GCK):c.480T>A (p.Asp160Glu)	2645	GCK	Likely pathogenic	GRCh38	4687870
+single nucleotide variant	NM_000162.5(GCK):c.480T>G (p.Asp160Glu)	2645	GCK	Likely pathogenic	GRCh38	4687871
+single nucleotide variant	NM_000162.5(GCK):c.626C>G (p.Thr209Arg)	2645	GCK	Likely pathogenic	GRCh38	4687874
+single nucleotide variant	NM_000162.5(GCK):c.1248C>G (p.His416Gln)	2645	GCK	Likely pathogenic	GRCh38	4687875
+single nucleotide variant	NM_000162.5(GCK):c.1248C>A (p.His416Gln)	2645	GCK	Likely pathogenic	GRCh38	4687876
+single nucleotide variant	NM_000162.5(GCK):c.1246C>T (p.His416Tyr)	2645	GCK	Likely pathogenic	GRCh38	4687877
+single nucleotide variant	NM_000162.5(GCK):c.1246C>G (p.His416Asp)	2645	GCK	Likely pathogenic	GRCh38	4687878
+single nucleotide variant	NM_000162.5(GCK):c.704T>G (p.Met235Arg)	2645	GCK	Likely pathogenic	GRCh38	4687879
+single nucleotide variant	NM_000162.5(GCK):c.1047C>A (p.Tyr349Ter)	2645	GCK	Pathogenic	GRCh38	4717347
+single nucleotide variant	NM_000162.5(GCK):c.863+2T>C	2645	GCK	Pathogenic	GRCh38	4721390
+single nucleotide variant	NM_000162.5(GCK):c.680-2A>T	2645	GCK	Pathogenic	GRCh38	4747567
+single nucleotide variant	NM_000162.5(GCK):c.679+2T>A	2645	GCK	Pathogenic	GRCh38	4747568
+single nucleotide variant	NM_000162.5(GCK):c.512T>G (p.Phe171Cys)	2645	GCK	Pathogenic	GRCh38	4747572
+single nucleotide variant	NM_000162.5(GCK):c.329T>A (p.Ile110Asn)	2645	GCK	Likely pathogenic	GRCh38	4747574
+single nucleotide variant	NM_000162.5(GCK):c.271G>T (p.Val91Leu)	2645	GCK	Pathogenic	GRCh38	4747575
+single nucleotide variant	NM_000162.5(GCK):c.45+1G>A	2645	GCK	Pathogenic	GRCh38	4747578
+single nucleotide variant	NM_000162.5(GCK):c.459T>G (p.Pro153=)	2645	GCK	Likely pathogenic	GRCh38	4813357
+single nucleotide variant	NM_000162.5(GCK):c.532G>C (p.Gly178Arg)	2645	GCK	Likely pathogenic	GRCh38	4814053
+single nucleotide variant	NM_000162.5(GCK):c.533G>T (p.Gly178Val)	2645	GCK	Likely pathogenic	GRCh38	4814054
+single nucleotide variant	NM_000162.5(GCK):c.1348G>A (p.Ala450Thr)	2645	GCK	Likely pathogenic	GRCh38	4845619
+single nucleotide variant	NM_000162.5(GCK):c.1253+1G>T	2645	GCK	Pathogenic	GRCh38	4845620
+single nucleotide variant	NM_000162.5(GCK):c.1118G>C (p.Ser373Thr)	2645	GCK	Likely pathogenic	GRCh38	4845624
+single nucleotide variant	NM_000162.5(GCK):c.1346C>A (p.Ala449Glu)	2645	GCK	Likely pathogenic	GRCh38	4849222
+single nucleotide variant	NM_000162.5(GCK):c.540T>A (p.Asn180Lys)	2645	GCK	Pathogenic	GRCh38	4853505
+single nucleotide variant	NM_000162.5(GCK):c.791G>A (p.Gly264Asp)	2645	GCK	Pathogenic	GRCh38	4853506
+single nucleotide variant	NM_000162.5(GCK):c.891C>A (p.Tyr297Ter)	2645	GCK	Pathogenic	GRCh38	4857269
+single nucleotide variant	NM_000162.5(GCK):c.169A>T (p.Met57Leu)	2645	GCK	Likely pathogenic	GRCh38	4857497
+single nucleotide variant	NM_000162.5(GCK):c.506A>G (p.Lys169Arg)	2645	GCK	Likely pathogenic	GRCh38	4871733
+single nucleotide variant	NM_000162.5(GCK):c.499T>A (p.Trp167Arg)	2645	GCK	Likely pathogenic	GRCh38	4887954
+single nucleotide variant	NM_000162.5(GCK):c.500G>C (p.Trp167Ser)	2645	GCK	Likely pathogenic	GRCh38	4887955

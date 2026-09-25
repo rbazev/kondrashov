@@ -1,0 +1,62 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000017.4(ACADS):c.136C>T (p.Arg46Trp)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3825
+single nucleotide variant	NM_000017.4(ACADS):c.319C>T (p.Arg107Cys)	35	ACADS	Pathogenic	GRCh38	3826
+single nucleotide variant	NM_000017.4(ACADS):c.274G>T (p.Gly92Cys)	35	ACADS	Likely pathogenic	GRCh38	3827
+single nucleotide variant	NM_000017.4(ACADS):c.529T>C (p.Trp177Arg)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3828
+single nucleotide variant	NM_000017.4(ACADS):c.1147C>T (p.Arg383Cys)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3829
+single nucleotide variant	NM_000017.4(ACADS):c.973C>T (p.Arg325Trp)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3835
+single nucleotide variant	NM_000017.4(ACADS):c.1058C>T (p.Ser353Leu)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3836
+single nucleotide variant	NM_000017.4(ACADS):c.1138C>T (p.Arg380Trp)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	3837
+single nucleotide variant	NM_000017.4(ACADS):c.164C>T (p.Pro55Leu)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	30611
+single nucleotide variant	NM_000017.4(ACADS):c.1031A>G (p.Glu344Gly)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	30612
+single nucleotide variant	NM_000017.4(ACADS):c.409C>T (p.Gln137Ter)	35	ACADS	Pathogenic	GRCh38	189087
+single nucleotide variant	NM_000017.4(ACADS):c.815G>A (p.Arg272His)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	203556
+single nucleotide variant	NM_000017.4(ACADS):c.988C>T (p.Arg330Cys)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	203557
+single nucleotide variant	NM_000017.4(ACADS):c.1095G>T (p.Gln365His)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	203560
+single nucleotide variant	NM_000017.4(ACADS):c.211-1G>A	35	ACADS	Likely pathogenic	GRCh38	370534
+single nucleotide variant	NM_000017.4(ACADS):c.369C>G (p.Tyr123Ter)	35	ACADS	Pathogenic	GRCh38	370525
+single nucleotide variant	NM_000017.4(ACADS):c.417G>A (p.Trp139Ter)	35	ACADS	Likely pathogenic	GRCh38	370560
+single nucleotide variant	NM_000017.4(ACADS):c.473-2A>G	35	ACADS	Likely pathogenic	GRCh38	370096
+single nucleotide variant	NM_000017.4(ACADS):c.527C>A (p.Ser176Ter)	35	ACADS	Pathogenic	GRCh38	370891
+single nucleotide variant	NM_000017.4(ACADS):c.1029+1G>A	35	ACADS	Likely pathogenic	GRCh38	370627
+single nucleotide variant	NM_000017.4(ACADS):c.1084C>T (p.Gln362Ter)	35	ACADS	Pathogenic	GRCh38	370099
+single nucleotide variant	NM_000017.4(ACADS):c.1192C>T (p.Gln398Ter)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	377423
+single nucleotide variant	NM_000017.4(ACADS):c.814C>T (p.Arg272Cys)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	377422
+single nucleotide variant	NM_000017.4(ACADS):c.302C>T (p.Ala101Val)	35	ACADS	Likely pathogenic	GRCh38	427168
+single nucleotide variant	NM_000017.4(ACADS):c.313A>T (p.Ile105Phe)	35	ACADS	Likely pathogenic	GRCh38	429795
+single nucleotide variant	NM_000017.4(ACADS):c.974G>A (p.Arg325Gln)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	450631
+single nucleotide variant	NM_000017.4(ACADS):c.682G>A (p.Glu228Lys)	35	ACADS	Likely pathogenic	GRCh38	549997
+single nucleotide variant	NM_000017.4(ACADS):c.989G>A (p.Arg330His)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	557389
+single nucleotide variant	NM_000017.4(ACADS):c.1086+1G>A	35	ACADS	Likely pathogenic	GRCh38	552214
+single nucleotide variant	NM_000017.4(ACADS):c.1030-1G>A	35	ACADS	Likely pathogenic	GRCh38	558285
+single nucleotide variant	NM_000017.4(ACADS):c.1086+1G>T	35	ACADS	Likely pathogenic	GRCh38	555304
+single nucleotide variant	NM_000017.4(ACADS):c.1A>G (p.Met1Val)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	552667
+single nucleotide variant	NM_000017.4(ACADS):c.596C>T (p.Ala199Val)	35	ACADS	Likely pathogenic	GRCh38	623120
+single nucleotide variant	NM_000017.4(ACADS):c.625-1G>A	35	ACADS	Likely pathogenic	GRCh38	644291
+single nucleotide variant	NM_000017.4(ACADS):c.208C>T (p.Gln70Ter)	35	ACADS	Likely pathogenic	GRCh38	806956
+single nucleotide variant	NM_000017.4(ACADS):c.360+1G>A	35	ACADS	Likely pathogenic	GRCh38	835731
+single nucleotide variant	NM_000017.4(ACADS):c.137G>A (p.Arg46Gln)	35	ACADS	Likely pathogenic	GRCh38	1002010
+single nucleotide variant	NM_000017.4(ACADS):c.795+1G>A	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	1193318
+single nucleotide variant	NM_000017.4(ACADS):c.47-2A>C	35	ACADS	Likely pathogenic	GRCh38	1415577
+single nucleotide variant	NM_000017.4(ACADS):c.937A>G (p.Lys313Glu)	35	ACADS	Pathogenic	GRCh38	1485321
+single nucleotide variant	NM_000017.4(ACADS):c.1139G>A (p.Arg380Gln)	35	ACADS	Likely pathogenic	GRCh38	1525913
+single nucleotide variant	NM_000017.4(ACADS):c.916A>T (p.Lys306Ter)	35	ACADS	Likely pathogenic	GRCh38	1726454
+single nucleotide variant	NM_000017.4(ACADS):c.607A>T (p.Arg203Ter)	35	ACADS	Likely pathogenic	GRCh38	1726904
+single nucleotide variant	NM_000017.4(ACADS):c.1086+2T>G	35	ACADS	Pathogenic	GRCh38	1948098
+single nucleotide variant	NM_000017.4(ACADS):c.88C>T (p.Gln30Ter)	35	ACADS	Pathogenic	GRCh38	2039130
+single nucleotide variant	NM_000017.4(ACADS):c.2T>C (p.Met1Thr)	35	ACADS	Pathogenic/Likely pathogenic	GRCh38	2501121
+single nucleotide variant	NM_000017.4(ACADS):c.361-2A>T	35	ACADS	Likely pathogenic	GRCh38	2628852
+single nucleotide variant	NM_000017.4(ACADS):c.625-133A>T	35	ACADS	Likely pathogenic	GRCh38	2643400
+single nucleotide variant	NM_000017.4(ACADS):c.3G>A (p.Met1Ile)	35	ACADS	Pathogenic	GRCh38	2709405
+single nucleotide variant	NM_000017.4(ACADS):c.263T>G (p.Leu88Arg)	35	ACADS	Likely pathogenic	GRCh38	2730827
+single nucleotide variant	NM_000017.4(ACADS):c.472+1G>T	35	ACADS	Likely pathogenic	GRCh38	2825164
+single nucleotide variant	NM_000017.4(ACADS):c.211-2A>G	35	ACADS	Likely pathogenic	GRCh38	2846752
+single nucleotide variant	NM_000017.4(ACADS):c.931C>T (p.Gln311Ter)	35	ACADS	Pathogenic	GRCh38	3010236
+single nucleotide variant	NM_000017.4(ACADS):c.933+1G>A	35	ACADS	Likely pathogenic	GRCh38	3574273
+single nucleotide variant	NM_000017.4(ACADS):c.1173C>A (p.Tyr391Ter)	35	ACADS	Likely pathogenic	GRCh38	3574274
+single nucleotide variant	NM_000017.4(ACADS):c.728T>G (p.Phe243Cys)	35	ACADS	Likely pathogenic	GRCh38	3616712
+single nucleotide variant	NM_000017.4(ACADS):c.939G>C (p.Lys313Asn)	35	ACADS	Likely pathogenic	GRCh38	3641440
+single nucleotide variant	NM_000017.4(ACADS):c.701G>A (p.Arg234Gln)	35	ACADS	Pathogenic	GRCh38	4753128
+single nucleotide variant	NM_000017.4(ACADS):c.596C>G (p.Ala199Gly)	35	ACADS	Likely pathogenic	GRCh38	4845828
+single nucleotide variant	NM_000017.4(ACADS):c.1070C>T (p.Thr357Ile)	35	ACADS	Likely pathogenic	GRCh38	4890416
+single nucleotide variant	NM_000017.4(ACADS):c.1000C>T (p.Leu334=)	35	ACADS	Likely pathogenic	GRCh38	4890425

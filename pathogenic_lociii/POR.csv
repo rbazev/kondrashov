@@ -1,0 +1,50 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001395413.1(POR):c.1466T>A (p.Val489Glu)	5447	POR	Pathogenic	GRCh38	16901
+single nucleotide variant	NM_001395413.1(POR):c.850G>C (p.Ala284Pro)	5447	POR	Pathogenic	GRCh38	16902
+single nucleotide variant	NM_001395413.1(POR):c.1697G>A (p.Cys566Tyr)	5447	POR	Likely pathogenic	GRCh38	16903
+single nucleotide variant	NM_001395413.1(POR):c.1813G>T (p.Val605Phe)	5447	POR	Pathogenic	GRCh38	16904
+single nucleotide variant	NM_001395413.1(POR):c.722+1G>A	5447	POR	Pathogenic	GRCh38	16905
+single nucleotide variant	NM_001395413.1(POR):c.532T>G (p.Tyr178Asp)	5447	POR	Pathogenic	GRCh38	16906
+single nucleotide variant	NM_001395413.1(POR):c.1361G>A (p.Arg454His)	5447	POR	Pathogenic/Likely pathogenic	GRCh38	16907
+single nucleotide variant	NM_001395413.1(POR):c.1724A>G (p.Tyr575Cys)	5447	POR	Pathogenic	GRCh38	16911
+single nucleotide variant	NM_001395413.1(POR):c.1606G>A (p.Gly536Arg)	5447	POR	Pathogenic	GRCh38	16915
+single nucleotide variant	NM_001395413.1(POR):c.179+2T>C	5447	POR	Likely pathogenic	GRCh38	576622
+single nucleotide variant	NM_001395413.1(POR):c.1651C>T (p.Arg551Ter)	5447	POR	Pathogenic/Likely pathogenic	GRCh38	632506
+single nucleotide variant	NM_001395413.1(POR):c.1434C>A (p.Tyr478Ter)	5447	POR	Pathogenic	GRCh38	691923
+single nucleotide variant	NM_001395413.1(POR):c.322C>T (p.Arg108Ter)	5447	POR	Pathogenic	GRCh38	2890333
+single nucleotide variant	NM_001395413.1(POR):c.1811A>G (p.Tyr604Cys)	5447	POR	Likely pathogenic	GRCh38	1254698
+single nucleotide variant	NM_001395413.1(POR):c.1816C>T (p.Gln606Ter)	5447	POR	Pathogenic/Likely pathogenic	GRCh38	1324955
+single nucleotide variant	NM_001395413.1(POR):c.1837C>T (p.Arg613Ter)	5447	POR	Pathogenic/Likely pathogenic	GRCh38	1454425
+single nucleotide variant	NM_001395413.1(POR):c.723-2A>T	5447	POR	Pathogenic	GRCh38	1405328
+single nucleotide variant	NM_001395413.1(POR):c.1239+1G>C	5447	POR	Likely pathogenic	GRCh38	1490090
+single nucleotide variant	NM_001395413.1(POR):c.1477T>C (p.Trp493Arg)	5447	POR	Likely pathogenic	GRCh38	1679929
+single nucleotide variant	NM_001395413.1(POR):c.821+1G>A	5447	POR	Pathogenic/Likely pathogenic	GRCh38	1723238
+single nucleotide variant	NM_001395413.1(POR):c.1795C>T (p.Gln599Ter)	5447	POR	Pathogenic	GRCh38	2065334
+single nucleotide variant	NM_001395413.1(POR):c.784G>T (p.Glu262Ter)	5447	POR	Likely pathogenic	GRCh38	2445943
+single nucleotide variant	NM_001395413.1(POR):c.1484G>C (p.Arg495Pro)	5447	POR	Likely pathogenic	GRCh38	2498156
+single nucleotide variant	NM_001395413.1(POR):c.229-1G>A	5447	POR	Likely pathogenic	GRCh38	2717796
+single nucleotide variant	NM_001395413.1(POR):c.1807-1G>A	5447	POR	Pathogenic	GRCh38	2713901
+single nucleotide variant	NM_001395413.1(POR):c.40G>T (p.Glu14Ter)	5447	POR	Pathogenic/Likely pathogenic	GRCh38	2715315
+single nucleotide variant	NM_001395413.1(POR):c.1239+2T>G	5447	POR	Likely pathogenic	GRCh38	2714493
+single nucleotide variant	NM_001395413.1(POR):c.658C>T (p.Arg220Ter)	5447	POR	Pathogenic	GRCh38	2735033
+single nucleotide variant	NM_001395413.1(POR):c.1874A>C (p.His625Pro)	5447	POR	Likely pathogenic	GRCh38	2735037
+single nucleotide variant	NM_001395413.1(POR):c.259C>T (p.Gln87Ter)	5447	POR	Pathogenic	GRCh38	2783886
+single nucleotide variant	NM_001395413.1(POR):c.1240-2A>G	5447	POR	Likely pathogenic	GRCh38	2822770
+single nucleotide variant	NM_001395413.1(POR):c.1492G>T (p.Glu498Ter)	5447	POR	Pathogenic	GRCh38	2818264
+single nucleotide variant	NM_001395413.1(POR):c.1661-2A>G	5447	POR	Likely pathogenic	GRCh38	2820061
+single nucleotide variant	NM_001395413.1(POR):c.229-2A>G	5447	POR	Likely pathogenic	GRCh38	2840098
+single nucleotide variant	NM_001395413.1(POR):c.1231G>T (p.Glu411Ter)	5447	POR	Pathogenic	GRCh38	2845754
+single nucleotide variant	NM_001395413.1(POR):c.1389+1G>C	5447	POR	Likely pathogenic	GRCh38	2882068
+single nucleotide variant	NM_001395413.1(POR):c.1239+1G>T	5447	POR	Likely pathogenic	GRCh38	2878023
+single nucleotide variant	NM_001395413.1(POR):c.735C>G (p.Tyr245Ter)	5447	POR	Pathogenic	GRCh38	2919493
+single nucleotide variant	NM_001395413.1(POR):c.1434C>G (p.Tyr478Ter)	5447	POR	Pathogenic	GRCh38	2917471
+single nucleotide variant	NM_001395413.1(POR):c.1807-2A>C	5447	POR	Pathogenic	GRCh38	2976800
+single nucleotide variant	NM_001395413.1(POR):c.1389+1G>A	5447	POR	Likely pathogenic	GRCh38	3022197
+single nucleotide variant	NM_001395413.1(POR):c.1660+1G>A	5447	POR	Likely pathogenic	GRCh38	3061050
+single nucleotide variant	NM_001395413.1(POR):c.1685T>C (p.Leu562Pro)	5447	POR	Likely pathogenic	GRCh38	3339945
+single nucleotide variant	NM_001395413.1(POR):c.671G>A (p.Trp224Ter)	5447	POR	Likely pathogenic	GRCh38	3594763
+single nucleotide variant	NM_001395413.1(POR):c.723-1G>T	5447	POR	Likely pathogenic	GRCh38	3594764
+single nucleotide variant	NM_001395413.1(POR):c.253G>A (p.Gly85Ser)	5447	POR	Pathogenic	GRCh38	3703725
+single nucleotide variant	NM_001395413.1(POR):c.1112T>A (p.Leu371His)	5447	POR	Likely pathogenic	GRCh38	3902368
+single nucleotide variant	NM_001395413.1(POR):c.469C>T (p.Gln157Ter)	5447	POR	Pathogenic	GRCh38	4811061
+single nucleotide variant	NM_001395413.1(POR):c.730C>T (p.Gln244Ter)	5447	POR	Pathogenic	GRCh38	4820606

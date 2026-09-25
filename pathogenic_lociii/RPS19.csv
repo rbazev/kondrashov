@@ -1,0 +1,52 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001022.4(RPS19):c.280C>T (p.Arg94Ter)	6223	RPS19	Pathogenic	GRCh38	6313
+single nucleotide variant	NM_001022.4(RPS19):c.184C>T (p.Arg62Trp)	6223	RPS19	Pathogenic/Likely pathogenic	GRCh38	6314
+single nucleotide variant	NM_001022.4(RPS19):c.98G>A (p.Trp33Ter)	6223	RPS19	Pathogenic	GRCh38	6315
+single nucleotide variant	NM_001022.4(RPS19):c.250A>T (p.Arg84Ter)	6223	RPS19	Pathogenic	GRCh38	6316
+single nucleotide variant	NM_001022.4(RPS19):c.43G>T (p.Val15Phe)	6223	RPS19	Pathogenic	GRCh38	242804
+single nucleotide variant	NM_001022.4(RPS19):c.380G>A (p.Gly127Glu)	6223	RPS19	Likely pathogenic	GRCh38	6320
+single nucleotide variant	NM_001022.4(RPS19):c.406G>T (p.Gly136Ter)	6223	RPS19	Pathogenic	GRCh38	372495
+single nucleotide variant	NM_001022.4(RPS19):c.3G>T (p.Met1Ile)	6223	RPS19	Pathogenic	GRCh38	372494
+single nucleotide variant	NM_001022.4(RPS19):c.382C>T (p.Gln128Ter)	6223	RPS19	Likely pathogenic	GRCh38	412282
+single nucleotide variant	NM_001022.4(RPS19):c.49G>C (p.Ala17Pro)	6223	RPS19	Likely pathogenic	GRCh38	427171
+single nucleotide variant	NM_001022.4(RPS19):c.178A>C (p.Thr60Pro)	6223	RPS19	Likely pathogenic	GRCh38	429664
+single nucleotide variant	NM_001022.4(RPS19):c.356+3A>C	6223	RPS19	Likely pathogenic	GRCh38	436553
+single nucleotide variant	NM_001022.4(RPS19):c.185G>A (p.Arg62Gln)	6223	RPS19	Pathogenic	GRCh38	463372
+single nucleotide variant	NM_001022.4(RPS19):c.411+2T>C	6223	RPS19	Pathogenic	GRCh38	489187
+single nucleotide variant	NM_001022.4(RPS19):c.72-1G>A	6223	RPS19	Likely pathogenic	GRCh38	647481
+single nucleotide variant	NM_001022.4(RPS19):c.173-2A>G	6223	RPS19	Pathogenic	GRCh38	644396
+single nucleotide variant	NM_001022.4(RPS19):c.3G>A (p.Met1Ile)	6223	RPS19	Pathogenic	GRCh38	860401
+single nucleotide variant	NM_001022.4(RPS19):c.99G>A (p.Trp33Ter)	6223	RPS19	Pathogenic	GRCh38	940523
+single nucleotide variant	NM_001022.4(RPS19):c.53T>C (p.Leu18Pro)	6223	RPS19	Pathogenic	GRCh38	1006194
+single nucleotide variant	NM_001022.4(RPS19):c.185G>C (p.Arg62Pro)	6223	RPS19	Pathogenic	GRCh38	1071332
+single nucleotide variant	NM_001022.4(RPS19):c.72-1G>C	6223	RPS19	Likely pathogenic	GRCh38	1176075
+single nucleotide variant	NM_001022.4(RPS19):c.302G>C (p.Arg101Pro)	6223	RPS19	Likely pathogenic	GRCh38	1338436
+single nucleotide variant	NM_001022.4(RPS19):c.302G>A (p.Arg101His)	6223	RPS19	Pathogenic/Likely pathogenic	GRCh38	1338641
+single nucleotide variant	NM_001022.4(RPS19):c.71+1G>C	6223	RPS19	Likely pathogenic	GRCh38	1523971
+single nucleotide variant	NM_001022.4(RPS19):c.173-1G>T	6223	RPS19	Pathogenic	GRCh38	1369946
+single nucleotide variant	NM_001022.4(RPS19):c.356+1G>A	6223	RPS19	Likely pathogenic	GRCh38	1499101
+single nucleotide variant	NM_001022.4(RPS19):c.166C>G (p.Arg56Gly)	6223	RPS19	Likely pathogenic	GRCh38	1705969
+single nucleotide variant	NM_001022.4(RPS19):c.34C>T (p.Gln12Ter)	6223	RPS19	Pathogenic	GRCh38	1732047
+single nucleotide variant	NM_001022.4(RPS19):c.3G>C (p.Met1Ile)	6223	RPS19	Pathogenic/Likely pathogenic	GRCh38	1736908
+single nucleotide variant	NM_001022.4(RPS19):c.79A>T (p.Lys27Ter)	6223	RPS19	Pathogenic/Likely pathogenic	GRCh38	1761564
+single nucleotide variant	NM_001022.4(RPS19):c.140C>T (p.Pro47Leu)	6223	RPS19	Likely pathogenic	GRCh38	1771987
+single nucleotide variant	NM_001022.4(RPS19):c.162C>G (p.Tyr54Ter)	6223	RPS19	Pathogenic	GRCh38	1776783
+single nucleotide variant	NM_001022.4(RPS19):c.167G>A (p.Arg56Gln)	6223	RPS19	Likely pathogenic	GRCh38	1777874
+single nucleotide variant	NM_001022.4(RPS19):c.167G>T (p.Arg56Leu)	6223	RPS19	Likely pathogenic	GRCh38	1777881
+single nucleotide variant	NM_001022.4(RPS19):c.176C>T (p.Ser59Phe)	6223	RPS19	Likely pathogenic	GRCh38	1779761
+single nucleotide variant	NM_001022.4(RPS19):c.191T>C (p.Leu64Pro)	6223	RPS19	Pathogenic	GRCh38	1782649
+single nucleotide variant	NM_001022.4(RPS19):c.94G>T (p.Glu32Ter)	6223	RPS19	Pathogenic	GRCh38	2138299
+single nucleotide variant	NM_001022.4(RPS19):c.166C>T (p.Arg56Ter)	6223	RPS19	Pathogenic	GRCh38	2138300
+single nucleotide variant	NM_001022.4(RPS19):c.376C>T (p.Gln126Ter)	6223	RPS19	Pathogenic	GRCh38	2690490
+single nucleotide variant	NM_001022.4(RPS19):c.357-2A>G	6223	RPS19	Pathogenic	GRCh38	2736899
+single nucleotide variant	NM_001022.4(RPS19):c.1A>C (p.Met1Leu)	6223	RPS19	Pathogenic	GRCh38	2780439
+single nucleotide variant	NM_001022.4(RPS19):c.412-2A>G	6223	RPS19	Pathogenic/Likely pathogenic	GRCh38	2780440
+single nucleotide variant	NM_001022.4(RPS19):c.169G>C (p.Ala57Pro)	6223	RPS19	Likely pathogenic	GRCh38	3232365
+single nucleotide variant	NM_001022.4(RPS19):c.362G>T (p.Arg121Leu)	6223	RPS19	Likely pathogenic	GRCh38	3236682
+single nucleotide variant	NM_001022.4(RPS19):c.31C>T (p.Gln11Ter)	6223	RPS19	Pathogenic	GRCh38	3348205
+single nucleotide variant	NM_001022.4(RPS19):c.313C>T (p.Gln105Ter)	6223	RPS19	Pathogenic	GRCh38	3660144
+single nucleotide variant	NM_001022.4(RPS19):c.1-2A>C	6223	RPS19	Pathogenic	GRCh38	3766828
+single nucleotide variant	NM_001022.4(RPS19):c.184C>G (p.Arg62Gly)	6223	RPS19	Likely pathogenic	GRCh38	4072392
+single nucleotide variant	NM_001022.4(RPS19):c.172+1G>A	6223	RPS19	Likely pathogenic	GRCh38	4698315
+single nucleotide variant	NM_001022.4(RPS19):c.172+1G>C	6223	RPS19	Pathogenic	GRCh38	4821158
+single nucleotide variant	NM_001022.4(RPS19):c.1-2A>G	6223	RPS19	Pathogenic	GRCh38	4887864

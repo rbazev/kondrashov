@@ -46,7 +46,7 @@ single nucleotide variant	NM_001048174.2(MUTYH):c.544C>T (p.Gln182Ter)	4595	MUTY
 single nucleotide variant	NM_001048174.2(MUTYH):c.383G>A (p.Trp128Ter)	4595	MUTYH	Pathogenic	GRCh38	230971
 single nucleotide variant	NM_001048174.2(MUTYH):c.379A>T (p.Lys127Ter)	4595	MUTYH	Pathogenic/Likely pathogenic	GRCh38	234000
 single nucleotide variant	NM_001048174.2(MUTYH):c.337C>T (p.Gln113Ter)	4595	MUTYH	Pathogenic	GRCh38	232217
-single nucleotide variant	NM_001048174.2(MUTYH):c.305-1G>C	4595	MUTYH	Pathogenic	GRCh38	234229
+single nucleotide variant	NM_001048174.2(MUTYH):c.305-1G>C	4595	MUTYH	Pathogenic/Likely pathogenic	GRCh38	234229
 single nucleotide variant	NM_001048174.2(MUTYH):c.1351G>T (p.Glu451Ter)	4595	MUTYH	Pathogenic	GRCh38	238337
 single nucleotide variant	NM_001048174.2(MUTYH):c.606+1G>T	4595	MUTYH	Likely pathogenic	GRCh38	238352
 single nucleotide variant	NM_001048174.2(MUTYH):c.694C>T (p.Gln232Ter)	4595	MUTYH	Pathogenic/Likely pathogenic	GRCh38	246369
@@ -92,6 +92,7 @@ single nucleotide variant	NM_001048174.2(MUTYH):c.254G>A (p.Trp85Ter)	4595	MUTYH
 single nucleotide variant	NM_001048174.2(MUTYH):c.1180C>T (p.Gln394Ter)	4595	MUTYH	Pathogenic/Likely pathogenic	GRCh38	654529
 single nucleotide variant	NM_001048174.2(MUTYH):c.704G>A (p.Trp235Ter)	4595	MUTYH	Pathogenic	GRCh38	641274
 single nucleotide variant	NM_001048174.2(MUTYH):c.1A>G (p.Met1Val)	4595	MUTYH	Pathogenic/Likely pathogenic	GRCh38	641313
+single nucleotide variant	NM_001048174.2(MUTYH):c.1435-2A>C	4595	MUTYH	Likely pathogenic	GRCh38	661635
 single nucleotide variant	NM_001048174.2(MUTYH):c.264+1G>A	4595	MUTYH	Likely pathogenic	GRCh38	646649
 single nucleotide variant	NM_001048174.2(MUTYH):c.437G>A (p.Trp146Ter)	4595	MUTYH	Pathogenic	GRCh38	801228
 single nucleotide variant	NM_001048174.2(MUTYH):c.421-2A>G	4595	MUTYH	Likely pathogenic	GRCh38	801479
@@ -211,3 +212,5 @@ single nucleotide variant	NM_001048174.2(MUTYH):c.607-2A>G	4595	MUTYH	Likely pat
 single nucleotide variant	NM_001048174.2(MUTYH):c.1103-1G>T	4595	MUTYH	Likely pathogenic	GRCh38	4827487
 single nucleotide variant	NM_001048174.2(MUTYH):c.1122G>A (p.Trp374Ter)	4595	MUTYH	Pathogenic	GRCh38	4843751
 single nucleotide variant	NM_001048174.2(MUTYH):c.452A>C (p.Tyr151Ser)	4595	MUTYH	Likely pathogenic	GRCh38	4843754
+single nucleotide variant	NM_001048174.2(MUTYH):c.1435-1G>A	4595	MUTYH	Likely pathogenic	GRCh38	4860483
+single nucleotide variant	NM_001048174.2(MUTYH):c.818C>G (p.Pro273Arg)	4595	MUTYH	Likely pathogenic	GRCh38	4884602

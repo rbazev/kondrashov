@@ -1,0 +1,50 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001830.4(CLCN4):c.1630G>A (p.Gly544Arg)	1183	CLCN4	Pathogenic	GRCh38	100781
+single nucleotide variant	NM_001830.4(CLCN4):c.635T>G (p.Val212Gly)	1183	CLCN4	Pathogenic	GRCh38	209111
+single nucleotide variant	NM_001830.4(CLCN4):c.662T>C (p.Leu221Pro)	1183	CLCN4	Pathogenic	GRCh38	209112
+single nucleotide variant	NM_001830.4(CLCN4):c.1601C>T (p.Ser534Leu)	1183	CLCN4	Pathogenic	GRCh38	209113
+single nucleotide variant	NM_001830.4(CLCN4):c.1664C>T (p.Ala555Val)	1183	CLCN4	Pathogenic	GRCh38	209115
+single nucleotide variant	NM_001830.4(CLCN4):c.2152C>T (p.Arg718Trp)	1183	CLCN4	Pathogenic	GRCh38	209116
+single nucleotide variant	NM_001830.4(CLCN4):c.823G>A (p.Val275Met)	1183	CLCN4	Pathogenic	GRCh38	209117
+single nucleotide variant	NM_001830.4(CLCN4):c.1630G>C (p.Gly544Arg)	1183	CLCN4	Pathogenic	GRCh38	224917
+single nucleotide variant	NM_001830.4(CLCN4):c.2191G>C (p.Gly731Arg)	1183	CLCN4	Pathogenic	GRCh38	253113
+single nucleotide variant	NM_001830.4(CLCN4):c.661C>G (p.Leu221Val)	1183	CLCN4	Pathogenic	GRCh38	253115
+single nucleotide variant	NM_001830.4(CLCN4):c.1606G>A (p.Val536Met)	1183	CLCN4	Pathogenic	GRCh38	253116
+single nucleotide variant	NM_001830.4(CLCN4):c.265G>A (p.Asp89Asn)	1183	CLCN4	Pathogenic/Likely pathogenic	GRCh38	420269
+single nucleotide variant	NM_001830.4(CLCN4):c.949G>A (p.Val317Ile)	1183	CLCN4	Pathogenic/Likely pathogenic	GRCh38	422822
+single nucleotide variant	NM_001830.4(CLCN4):c.806G>A (p.Gly269Asp)	1183	CLCN4	Likely pathogenic	GRCh38	429943
+single nucleotide variant	NM_001830.4(CLCN4):c.804T>G (p.Phe268Leu)	1183	CLCN4	Likely pathogenic	GRCh38	432066
+single nucleotide variant	NM_001830.4(CLCN4):c.1465C>A (p.Gln489Lys)	1183	CLCN4	Likely pathogenic	GRCh38	432084
+single nucleotide variant	NM_001830.4(CLCN4):c.1634G>A (p.Gly545Asp)	1183	CLCN4	Likely pathogenic	GRCh38	521219
+single nucleotide variant	NM_001830.4(CLCN4):c.1678A>G (p.Lys560Glu)	1183	CLCN4	Likely pathogenic	GRCh38	547064
+single nucleotide variant	NM_001830.4(CLCN4):c.1399G>A (p.Gly467Ser)	1183	CLCN4	Likely pathogenic	GRCh38	807385
+single nucleotide variant	NM_001830.4(CLCN4):c.1646T>C (p.Ile549Thr)	1183	CLCN4	Likely pathogenic	GRCh38	976472
+single nucleotide variant	NM_001830.4(CLCN4):c.1202T>C (p.Leu401Pro)	1183	CLCN4	Likely pathogenic	GRCh38	988775
+single nucleotide variant	NM_001830.4(CLCN4):c.1490G>A (p.Trp497Ter)	1183	CLCN4	Pathogenic	GRCh38	1076936
+single nucleotide variant	NM_001830.4(CLCN4):c.2191G>A (p.Gly731Arg)	1183	CLCN4	Pathogenic	GRCh38	1070891
+single nucleotide variant	NM_001830.4(CLCN4):c.2192+1G>T	1183	CLCN4	Pathogenic	GRCh38	1072902
+single nucleotide variant	NM_001830.4(CLCN4):c.875G>A (p.Trp292Ter)	1183	CLCN4	Pathogenic	GRCh38	1164025
+single nucleotide variant	NM_001830.4(CLCN4):c.1390-1G>A	1183	CLCN4	Likely pathogenic	GRCh38	1349664
+single nucleotide variant	NM_001830.4(CLCN4):c.847A>G (p.Ser283Gly)	1183	CLCN4	Likely pathogenic	GRCh38	1349297
+single nucleotide variant	NM_001830.4(CLCN4):c.112G>T (p.Glu38Ter)	1183	CLCN4	Pathogenic	GRCh38	1679299
+single nucleotide variant	NM_001830.4(CLCN4):c.608C>T (p.Thr203Ile)	1183	CLCN4	Likely pathogenic	GRCh38	1691402
+single nucleotide variant	NM_001830.4(CLCN4):c.835C>G (p.Leu279Val)	1183	CLCN4	Likely pathogenic	GRCh38	1691415
+single nucleotide variant	NM_001830.4(CLCN4):c.840A>T (p.Glu280Asp)	1183	CLCN4	Likely pathogenic	GRCh38	1691416
+single nucleotide variant	NM_001830.4(CLCN4):c.758G>A (p.Arg253Gln)	1183	CLCN4	Likely pathogenic	GRCh38	2659973
+single nucleotide variant	NM_001830.4(CLCN4):c.1174C>T (p.Gln392Ter)	1183	CLCN4	Pathogenic	GRCh38	2705896
+single nucleotide variant	NM_001830.4(CLCN4):c.1068G>A (p.Trp356Ter)	1183	CLCN4	Pathogenic	GRCh38	2760815
+single nucleotide variant	NM_001830.4(CLCN4):c.1716C>A (p.Tyr572Ter)	1183	CLCN4	Pathogenic	GRCh38	2849855
+single nucleotide variant	NM_001830.4(CLCN4):c.1631G>A (p.Gly544Glu)	1183	CLCN4	Pathogenic	GRCh38	3024251
+single nucleotide variant	NM_001830.4(CLCN4):c.1622A>T (p.Glu541Val)	1183	CLCN4	Likely pathogenic	GRCh38	3024323
+single nucleotide variant	NM_001830.4(CLCN4):c.980G>A (p.Trp327Ter)	1183	CLCN4	Pathogenic	GRCh38	3235813
+single nucleotide variant	NM_001830.4(CLCN4):c.1684G>C (p.Val562Leu)	1183	CLCN4	Likely pathogenic	GRCh38	3358993
+single nucleotide variant	NM_001830.4(CLCN4):c.1079G>A (p.Arg360His)	1183	CLCN4	Likely pathogenic	GRCh38	3360698
+single nucleotide variant	NM_001830.4(CLCN4):c.555+1G>T	1183	CLCN4	Likely pathogenic	GRCh38	3724883
+single nucleotide variant	NM_001830.4(CLCN4):c.812C>G (p.Pro271Arg)	1183	CLCN4	Likely pathogenic	GRCh38	3901834
+single nucleotide variant	NM_001830.4(CLCN4):c.1795G>A (p.Val599Ile)	1183	CLCN4	Likely pathogenic	GRCh38	4072393
+single nucleotide variant	NM_001830.4(CLCN4):c.962T>C (p.Val321Ala)	1183	CLCN4	Likely pathogenic	GRCh38	4073665
+single nucleotide variant	NM_001830.4(CLCN4):c.844-1G>A	1183	CLCN4	Pathogenic/Likely pathogenic	GRCh38	4535365
+single nucleotide variant	NM_001830.4(CLCN4):c.592T>C (p.Tyr198His)	1183	CLCN4	Likely pathogenic	GRCh38	4538459
+single nucleotide variant	NM_001830.4(CLCN4):c.1807C>T (p.Arg603Trp)	1183	CLCN4	Likely pathogenic	GRCh38	4615903
+single nucleotide variant	NM_001830.4(CLCN4):c.405G>A (p.Trp135Ter)	1183	CLCN4	Pathogenic	GRCh38	4723839
+single nucleotide variant	NM_001830.4(CLCN4):c.1537C>T (p.Pro513Ser)	1183	CLCN4	Likely pathogenic	GRCh38	4888353

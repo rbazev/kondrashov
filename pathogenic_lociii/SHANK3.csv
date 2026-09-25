@@ -1,0 +1,65 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001372044.2(SHANK3):c.3574C>T (p.Arg1192Ter)	85358	SHANK3	Pathogenic	GRCh38	30560
+single nucleotide variant	NM_001372044.2(SHANK3):c.1831C>T (p.Arg611Trp)	85358	SHANK3	Pathogenic	GRCh38	30561
+single nucleotide variant	NM_001372044.2(SHANK3):c.646C>G (p.Pro216Ala)	85358	SHANK3	Likely pathogenic	GRCh38	50949
+single nucleotide variant	NM_001372044.2(SHANK3):c.2838C>G	85358	SHANK3	Pathogenic	GRCh38	373766
+single nucleotide variant	NM_001372044.2(SHANK3):c.1255G>T (p.Val419Leu)	85358	SHANK3	Likely pathogenic	GRCh38	375622
+single nucleotide variant	NM_001372044.2(SHANK3):c.2300G>A (p.Arg767His)	85358	SHANK3	Likely pathogenic	GRCh38	423611
+single nucleotide variant	NM_001372044.2(SHANK3):c.4627C>T (p.Gln1543Ter)	85358	SHANK3	Pathogenic/Likely pathogenic	GRCh38	422407
+single nucleotide variant	NM_001372044.2(SHANK3):c.5086A>T (p.Lys1696Ter)	85358	SHANK3	Likely pathogenic	GRCh38	427096
+single nucleotide variant	NM_001372044.2(SHANK3):c.973G>T (p.Gly325Cys)	85358	SHANK3	Likely pathogenic	GRCh38	429573
+single nucleotide variant	NM_001372044.2(SHANK3):c.993G>T (p.Gln331His)	85358	SHANK3	Likely pathogenic	GRCh38	429574
+single nucleotide variant	NM_001372044.2(SHANK3):c.2329G>T (p.Glu777Ter)	85358	SHANK3	Pathogenic	GRCh38	430433
+single nucleotide variant	NM_001372044.2(SHANK3):c.5239G>T (p.Asp1747Tyr)	85358	SHANK3	Likely pathogenic	GRCh38	429603
+single nucleotide variant	NM_001372044.2(SHANK3):c.5251T>C (p.Trp1751Arg)	85358	SHANK3	Likely pathogenic	GRCh38	429580
+single nucleotide variant	NM_001372044.2(SHANK3):c.1962-2A>C	85358	SHANK3	Likely pathogenic	GRCh38	432387
+single nucleotide variant	NM_001372044.2(SHANK3):c.1257+4A>G	85358	SHANK3	Likely pathogenic	GRCh38	445582
+single nucleotide variant	NM_001372044.2(SHANK3):c.3760A>T (p.Lys1254Ter)	85358	SHANK3	Pathogenic	GRCh38	452504
+single nucleotide variant	NM_001372044.2(SHANK3):c.5311G>A (p.Gly1771Ser)	85358	SHANK3	Pathogenic	GRCh38	452885
+single nucleotide variant	NM_001372044.2(SHANK3):c.4132C>T (p.Arg1378Ter)	85358	SHANK3	Pathogenic	GRCh38	545051
+single nucleotide variant	NM_001372044.2(SHANK3):c.5354T>C (p.Leu1785Pro)	85358	SHANK3	Likely pathogenic	GRCh38	546212
+single nucleotide variant	NM_001372044.2(SHANK3):c.2455+1G>A	85358	SHANK3	Pathogenic	GRCh38	546923
+single nucleotide variant	NM_001372044.2(SHANK3):c.496C>T (p.Arg166Ter)	85358	SHANK3	Pathogenic/Likely pathogenic	GRCh38	587762
+single nucleotide variant	NM_001372044.2(SHANK3):c.2769C>G (p.Tyr923Ter)	85358	SHANK3	Pathogenic	GRCh38	620504
+single nucleotide variant	NM_001372044.2(SHANK3):c.4978G>T (p.Glu1660Ter)	85358	SHANK3	Pathogenic	GRCh38	800506
+single nucleotide variant	NM_001372044.2(SHANK3):c.494+2T>G	85358	SHANK3	Likely pathogenic	GRCh38	803709
+single nucleotide variant	NM_001372044.2(SHANK3):c.1797C>A (p.Cys599Ter)	85358	SHANK3	Likely pathogenic	GRCh38	812791
+single nucleotide variant	NM_001372044.2(SHANK3):c.5252G>A (p.Trp1751Ter)	85358	SHANK3	Pathogenic	GRCh38	816970
+single nucleotide variant	NM_001372044.2(SHANK3):c.2541-1G>C	85358	SHANK3	Pathogenic	GRCh38	870759
+single nucleotide variant	NM_001372044.2(SHANK3):c.5227T>C (p.Trp1743Arg)	85358	SHANK3	Likely pathogenic	GRCh38	871612
+single nucleotide variant	NM_001372044.2(SHANK3):c.3777G>A (p.Glu1259=)	85358	SHANK3	Pathogenic	GRCh38	973381
+single nucleotide variant	NM_001372044.2(SHANK3):c.5107C>A (p.Arg1703Ser)	85358	SHANK3	Pathogenic	GRCh38	975165
+single nucleotide variant	NM_001372044.2(SHANK3):c.4690G>T (p.Asp1564Tyr)	85358	SHANK3	Pathogenic	GRCh38	975999
+single nucleotide variant	NM_001372044.2(SHANK3):c.5197C>T (p.Arg1733Ter)	85358	SHANK3	Pathogenic/Likely pathogenic	GRCh38	988471
+single nucleotide variant	NM_001372044.2(SHANK3):c.5209C>T (p.Gln1737Ter)	85358	SHANK3	Pathogenic/Likely pathogenic	GRCh38	992589
+single nucleotide variant	NM_001372044.2(SHANK3):c.1871G>C (p.Arg624Pro)	85358	SHANK3	Likely pathogenic	GRCh38	997006
+single nucleotide variant	NM_001372044.2(SHANK3):c.3907G>T (p.Glu1303Ter)	85358	SHANK3	Pathogenic	GRCh38	1012709
+single nucleotide variant	NM_001372044.2(SHANK3):c.574A>T (p.Lys192Ter)	85358	SHANK3	Pathogenic	GRCh38	1029037
+single nucleotide variant	NM_001372044.2(SHANK3):c.4090C>T (p.Gln1364Ter)	85358	SHANK3	Pathogenic	GRCh38	1175032
+single nucleotide variant	NM_001372044.2(SHANK3):c.5281C>A (p.Arg1761Ser)	85358	SHANK3	Likely pathogenic	GRCh38	1176013
+single nucleotide variant	NM_001372044.2(SHANK3):c.4732C>T (p.Gln1578Ter)	85358	SHANK3	Likely pathogenic	GRCh38	1177294
+single nucleotide variant	NM_001372044.2(SHANK3):c.3175G>T (p.Glu1059Ter)	85358	SHANK3	Pathogenic	GRCh38	1275796
+single nucleotide variant	NM_001372044.2(SHANK3):c.1065C>G (p.Asn355Lys)	85358	SHANK3	Likely pathogenic	GRCh38	1285400
+single nucleotide variant	NM_001372044.2(SHANK3):c.1336C>T (p.Gln446Ter)	85358	SHANK3	Pathogenic	GRCh38	1323593
+single nucleotide variant	NM_001372044.2(SHANK3):c.2974C>T (p.Arg992Ter)	85358	SHANK3	Pathogenic	GRCh38	1328816
+single nucleotide variant	NM_001372044.2(SHANK3):c.4647G>A (p.Trp1549Ter)	85358	SHANK3	Pathogenic	GRCh38	1675899
+single nucleotide variant	NM_001372044.2(SHANK3):c.2838C>A (p.Tyr946Ter)	85358	SHANK3	Pathogenic	GRCh38	1701444
+single nucleotide variant	NM_001372044.2(SHANK3):c.2871T>A (p.Tyr957Ter)	85358	SHANK3	Pathogenic	GRCh38	1708213
+single nucleotide variant	NM_001372044.2(SHANK3):c.4908C>G (p.Tyr1636Ter)	85358	SHANK3	Pathogenic	GRCh38	1803071
+single nucleotide variant	NM_001372044.2(SHANK3):c.2455+1G>C	85358	SHANK3	Pathogenic/Likely pathogenic	GRCh38	2446166
+single nucleotide variant	NM_001372044.2(SHANK3):c.5306T>G (p.Ile1769Arg)	85358	SHANK3	Pathogenic	GRCh38	2580767
+single nucleotide variant	NM_001372044.2(SHANK3):c.503A>G (p.Lys168Arg)	85358	SHANK3	Likely pathogenic	GRCh38	2629987
+single nucleotide variant	NM_001372044.2(SHANK3):c.4396G>T (p.Glu1466Ter)	85358	SHANK3	Pathogenic	GRCh38	2663911
+single nucleotide variant	NM_001372044.2(SHANK3):c.4987G>T (p.Glu1663Ter)	85358	SHANK3	Likely pathogenic	GRCh38	3024516
+single nucleotide variant	NM_001372044.2(SHANK3):c.4910C>A (p.Ser1637Ter)	85358	SHANK3	Pathogenic	GRCh38	3069185
+single nucleotide variant	NM_001372044.2(SHANK3):c.2301-2A>T	85358	SHANK3	Pathogenic	GRCh38	3338648
+single nucleotide variant	NM_001372044.2(SHANK3):c.2219+2T>C	85358	SHANK3	Likely pathogenic	GRCh38	3340355
+single nucleotide variant	NM_001372044.2(SHANK3):c.676-2A>T	85358	SHANK3	Likely pathogenic	GRCh38	3764793
+single nucleotide variant	NM_001372044.2(SHANK3):c.3729G>A (p.Trp1243Ter)	85358	SHANK3	Pathogenic	GRCh38	3795524
+single nucleotide variant	NM_001372044.2(SHANK3):c.2540+2T>C	85358	SHANK3	Pathogenic	GRCh38	3897561
+single nucleotide variant	NM_001372044.2(SHANK3):c.2650G>T (p.Glu884Ter)	85358	SHANK3	Pathogenic	GRCh38	4070623
+single nucleotide variant	NM_001372044.2(SHANK3):c.3094C>T (p.Gln1032Ter)	85358	SHANK3	Pathogenic	GRCh38	4070952
+single nucleotide variant	NM_001372044.2(SHANK3):c.3835C>T (p.Gln1279Ter)	85358	SHANK3	Likely pathogenic	GRCh38	4293396
+single nucleotide variant	NM_001372044.2(SHANK3):c.1191-1G>A	85358	SHANK3	Likely pathogenic	GRCh38	4819456
+single nucleotide variant	NM_001372044.2(SHANK3):c.828-2A>G	85358	SHANK3	Likely pathogenic	GRCh38	4823622
+single nucleotide variant	NM_001372044.2(SHANK3):c.3529C>T (p.Leu1177=)	85358	SHANK3	Pathogenic	GRCh38	4854892

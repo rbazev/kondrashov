@@ -1,0 +1,80 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_005422.4(TECTA):c.5609A>G (p.Tyr1870Cys)	7007	TECTA	Pathogenic	GRCh38	7014
+single nucleotide variant	NM_005422.4(TECTA):c.2941+1G>A	7007	TECTA	Pathogenic	GRCh38	7015
+single nucleotide variant	NM_005422.4(TECTA):c.3169T>A (p.Cys1057Ser)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	7016
+single nucleotide variant	NM_005422.4(TECTA):c.4856G>C (p.Cys1619Ser)	7007	TECTA	Pathogenic	GRCh38	7017
+single nucleotide variant	NM_005422.4(TECTA):c.5509T>G (p.Cys1837Gly)	7007	TECTA	Pathogenic	GRCh38	7020
+single nucleotide variant	NM_005422.4(TECTA):c.6062G>A (p.Arg2021His)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	7021
+single nucleotide variant	NM_005422.4(TECTA):c.5668C>T (p.Arg1890Cys)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	7022
+single nucleotide variant	NM_005422.4(TECTA):c.5509T>C (p.Cys1837Arg)	7007	TECTA	Likely pathogenic	GRCh38	7023
+single nucleotide variant	NM_005422.4(TECTA):c.5331G>A (p.Leu1777=)	7007	TECTA	Likely pathogenic	GRCh38	7024
+single nucleotide variant	NM_005422.4(TECTA):c.327C>T (p.Gly109=)	7007	TECTA	Pathogenic	GRCh38	179381
+single nucleotide variant	NM_005422.4(TECTA):c.6155G>A (p.Cys2052Tyr)	7007	TECTA	Likely pathogenic	GRCh38	165373
+single nucleotide variant	NM_005422.4(TECTA):c.5977C>T (p.Arg1993Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	228404
+single nucleotide variant	NM_005422.4(TECTA):c.6163-2A>T	7007	TECTA	Likely pathogenic	GRCh38	228295
+single nucleotide variant	NM_005422.4(TECTA):c.2887G>A (p.Ala963Thr)	7007	TECTA	Pathogenic	GRCh38	236059
+single nucleotide variant	NM_005422.4(TECTA):c.5597C>T (p.Thr1866Met)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	236058
+single nucleotide variant	NM_005422.4(TECTA):c.6017A>G (p.Asp2006Gly)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	236033
+single nucleotide variant	NM_005422.4(TECTA):c.5941T>A (p.Tyr1981Asn)	7007	TECTA	Pathogenic	GRCh38	379299
+single nucleotide variant	NM_005422.4(TECTA):c.4857C>A (p.Cys1619Ter)	7007	TECTA	Pathogenic	GRCh38	402279
+single nucleotide variant	NM_005422.4(TECTA):c.4977-1G>T	7007	TECTA	Likely pathogenic	GRCh38	421172
+single nucleotide variant	NM_005422.4(TECTA):c.3156G>A (p.Trp1052Ter)	7007	TECTA	Likely pathogenic	GRCh38	489370
+single nucleotide variant	NM_005422.4(TECTA):c.1893C>A (p.Cys631Ter)	7007	TECTA	Pathogenic	GRCh38	498103
+single nucleotide variant	NM_005422.4(TECTA):c.5826C>A (p.Tyr1942Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	498535
+single nucleotide variant	NM_005422.4(TECTA):c.4085G>A (p.Trp1362Ter)	7007	TECTA	Pathogenic	GRCh38	498538
+single nucleotide variant	NM_005422.4(TECTA):c.2139C>A (p.Cys713Ter)	7007	TECTA	Pathogenic	GRCh38	505476
+single nucleotide variant	NM_005422.4(TECTA):c.2719C>T (p.Arg907Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	517590
+single nucleotide variant	NM_005422.4(TECTA):c.1774G>A (p.Val592Met)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	560912
+single nucleotide variant	NM_005422.4(TECTA):c.2736C>A (p.Cys912Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	562089
+single nucleotide variant	NM_005422.4(TECTA):c.6162+5G>A	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	562088
+single nucleotide variant	NM_005422.4(TECTA):c.1774+1G>T	7007	TECTA	Pathogenic	GRCh38	595210
+single nucleotide variant	NM_005422.4(TECTA):c.4601G>A (p.Trp1534Ter)	7007	TECTA	Likely pathogenic	GRCh38	620360
+single nucleotide variant	NM_005422.4(TECTA):c.5866C>T (p.Arg1956Ter)	7007	TECTA	Pathogenic	GRCh38	627480
+single nucleotide variant	NM_005422.4(TECTA):c.5662A>G (p.Arg1888Gly)	7007	TECTA	Likely pathogenic	GRCh38	667334
+single nucleotide variant	NM_005422.4(TECTA):c.5539T>C (p.Ser1847Pro)	7007	TECTA	Likely pathogenic	GRCh38	869465
+single nucleotide variant	NM_005422.4(TECTA):c.6162+1G>A	7007	TECTA	Pathogenic	GRCh38	916398
+single nucleotide variant	NM_005422.4(TECTA):c.6061C>T (p.Arg2021Cys)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	930525
+single nucleotide variant	NM_005422.4(TECTA):c.5317C>T (p.Arg1773Ter)	7007	TECTA	Likely pathogenic	GRCh38	988546
+single nucleotide variant	NM_005422.4(TECTA):c.5510G>A (p.Cys1837Tyr)	7007	TECTA	Likely pathogenic	GRCh38	1027366
+single nucleotide variant	NM_005422.4(TECTA):c.2367G>A (p.Lys789=)	7007	TECTA	Likely pathogenic	GRCh38	1065051
+single nucleotide variant	NM_005422.4(TECTA):c.710C>T (p.Thr237Ile)	7007	TECTA	Likely pathogenic	GRCh38	1180658
+single nucleotide variant	NM_005422.4(TECTA):c.5383+5G>A	7007	TECTA	Likely pathogenic	GRCh38	1297648
+single nucleotide variant	NM_005422.4(TECTA):c.1705C>T (p.Gln569Ter)	7007	TECTA	Pathogenic	GRCh38	1334118
+single nucleotide variant	NM_005422.4(TECTA):c.2940C>A (p.Cys980Ter)	7007	TECTA	Pathogenic	GRCh38	1422737
+single nucleotide variant	NM_005422.4(TECTA):c.6103G>T (p.Glu2035Ter)	7007	TECTA	Pathogenic	GRCh38	1687445
+single nucleotide variant	NM_005422.4(TECTA):c.1756C>T (p.Arg586Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	1704157
+single nucleotide variant	NM_005422.4(TECTA):c.2458A>T (p.Lys820Ter)	7007	TECTA	Likely pathogenic	GRCh38	1799538
+single nucleotide variant	NM_005422.4(TECTA):c.4116C>A (p.Cys1372Ter)	7007	TECTA	Pathogenic	GRCh38	2137272
+single nucleotide variant	NM_005422.4(TECTA):c.4690-1G>A	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	2137273
+single nucleotide variant	NM_005422.4(TECTA):c.6150C>A (p.Tyr2050Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	2137274
+single nucleotide variant	NM_005422.4(TECTA):c.3520C>T (p.Arg1174Ter)	7007	TECTA	Pathogenic	GRCh38	2176757
+single nucleotide variant	NM_005422.4(TECTA):c.1048C>T (p.Arg350Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	2087823
+single nucleotide variant	NM_005422.4(TECTA):c.4549T>C (p.Cys1517Arg)	7007	TECTA	Likely pathogenic	GRCh38	2412831
+single nucleotide variant	NM_005422.4(TECTA):c.5325C>A (p.Cys1775Ter)	7007	TECTA	Likely pathogenic	GRCh38	2434110
+single nucleotide variant	NM_005422.4(TECTA):c.3842G>T (p.Cys1281Phe)	7007	TECTA	Likely pathogenic	GRCh38	2629859
+single nucleotide variant	NM_005422.4(TECTA):c.5383+1G>A	7007	TECTA	Likely pathogenic	GRCh38	2630099
+single nucleotide variant	NM_005422.4(TECTA):c.3995G>A (p.Cys1332Tyr)	7007	TECTA	Likely pathogenic	GRCh38	2972693
+single nucleotide variant	NM_005422.4(TECTA):c.5683G>T (p.Glu1895Ter)	7007	TECTA	Pathogenic	GRCh38	3012204
+single nucleotide variant	NM_005422.4(TECTA):c.568A>C (p.Thr190Pro)	7007	TECTA	Likely pathogenic	GRCh38	3075725
+single nucleotide variant	NM_005422.4(TECTA):c.1060C>T (p.Gln354Ter)	7007	TECTA	Likely pathogenic	GRCh38	3075869
+single nucleotide variant	NM_005422.4(TECTA):c.1301G>T (p.Gly434Val)	7007	TECTA	Likely pathogenic	GRCh38	3250403
+single nucleotide variant	NM_005422.4(TECTA):c.2614G>T (p.Ala872Ser)	7007	TECTA	Likely pathogenic	GRCh38	3250404
+single nucleotide variant	NM_005422.4(TECTA):c.1774+1G>A	7007	TECTA	Likely pathogenic	GRCh38	3340717
+single nucleotide variant	NM_005422.4(TECTA):c.5945C>A (p.Ala1982Asp)	7007	TECTA	Likely pathogenic	GRCh38	3342518
+single nucleotide variant	NM_005422.4(TECTA):c.4224C>A (p.Cys1408Ter)	7007	TECTA	Pathogenic	GRCh38	3375232
+single nucleotide variant	NM_005422.4(TECTA):c.2367+2T>C	7007	TECTA	Likely pathogenic	GRCh38	3375234
+single nucleotide variant	NM_005422.4(TECTA):c.4105+1G>A	7007	TECTA	Pathogenic	GRCh38	3601872
+single nucleotide variant	NM_005422.4(TECTA):c.805C>T (p.Arg269Ter)	7007	TECTA	Pathogenic/Likely pathogenic	GRCh38	3601876
+single nucleotide variant	NM_005422.4(TECTA):c.990C>A (p.Tyr330Ter)	7007	TECTA	Pathogenic	GRCh38	3629667
+single nucleotide variant	NM_005422.4(TECTA):c.3155G>A (p.Trp1052Ter)	7007	TECTA	Pathogenic	GRCh38	3631797
+single nucleotide variant	NM_005422.4(TECTA):c.5376T>G (p.Tyr1792Ter)	7007	TECTA	Pathogenic	GRCh38	3663677
+single nucleotide variant	NM_005422.4(TECTA):c.6026T>C (p.Ile2009Thr)	7007	TECTA	Likely pathogenic	GRCh38	3769085
+single nucleotide variant	NM_005422.4(TECTA):c.6002G>T (p.Cys2001Phe)	7007	TECTA	Likely pathogenic	GRCh38	3911576
+single nucleotide variant	NM_005422.4(TECTA):c.3052C>T (p.Gln1018Ter)	7007	TECTA	Likely pathogenic	GRCh38	4072014
+single nucleotide variant	NM_005422.4(TECTA):c.2428C>T (p.Arg810Ter)	7007	TECTA	Pathogenic	GRCh38	4081067
+single nucleotide variant	NM_005422.4(TECTA):c.4909C>T (p.Arg1637Ter)	7007	TECTA	Likely pathogenic	GRCh38	4086479
+single nucleotide variant	NM_005422.4(TECTA):c.4392C>A (p.Cys1464Ter)	7007	TECTA	Pathogenic	GRCh38	4694274
+single nucleotide variant	NM_005422.4(TECTA):c.5211C>A (p.Tyr1737Ter)	7007	TECTA	Likely pathogenic	GRCh38	4796691
+single nucleotide variant	NM_005422.4(TECTA):c.952G>T (p.Glu318Ter)	7007	TECTA	Likely pathogenic	GRCh38	4850189
+single nucleotide variant	NM_005422.4(TECTA):c.6162+1G>T	7007	TECTA	Likely pathogenic	GRCh38	4852353
+single nucleotide variant	NM_005422.4(TECTA):c.2221A>T (p.Lys741Ter)	7007	TECTA	Likely pathogenic	GRCh38	4852829

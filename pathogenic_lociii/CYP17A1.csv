@@ -46,7 +46,7 @@ single nucleotide variant	NM_000102.4(CYP17A1):c.1306G>A (p.Gly436Arg)	1586	CYP1
 single nucleotide variant	NM_000102.4(CYP17A1):c.1225C>A (p.Pro409Thr)	1586	CYP17A1	Likely pathogenic	GRCh38	1515875
 single nucleotide variant	NM_000102.4(CYP17A1):c.967C>T (p.Gln323Ter)	1586	CYP17A1	Pathogenic	GRCh38	1454713
 single nucleotide variant	NM_000102.4(CYP17A1):c.521C>A (p.Ala174Glu)	1586	CYP17A1	Pathogenic/Likely pathogenic	GRCh38	1456799
-single nucleotide variant	NM_000102.4(CYP17A1):c.1243+1G>T	1586	CYP17A1	Pathogenic	GRCh38	1440530
+single nucleotide variant	NM_000102.4(CYP17A1):c.1243+1G>T	1586	CYP17A1	Pathogenic/Likely pathogenic	GRCh38	1440530
 single nucleotide variant	NM_000102.4(CYP17A1):c.1486C>T (p.Arg496Cys)	1586	CYP17A1	Pathogenic/Likely pathogenic	GRCh38	1524567
 single nucleotide variant	NM_000102.4(CYP17A1):c.548G>A (p.Cys183Tyr)	1586	CYP17A1	Pathogenic	GRCh38	1457791
 single nucleotide variant	NM_000102.4(CYP17A1):c.1345C>T (p.Arg449Cys)	1586	CYP17A1	Pathogenic/Likely pathogenic	GRCh38	1512295
@@ -92,7 +92,7 @@ single nucleotide variant	NM_000102.4(CYP17A1):c.938G>A (p.Trp313Ter)	1586	CYP17
 single nucleotide variant	NM_000102.4(CYP17A1):c.418C>T (p.Gln140Ter)	1586	CYP17A1	Likely pathogenic	GRCh38	3241264
 single nucleotide variant	NM_000102.4(CYP17A1):c.1063G>A (p.Ala355Thr)	1586	CYP17A1	Likely pathogenic	GRCh38	3251818
 single nucleotide variant	NM_000102.4(CYP17A1):c.1184A>G (p.Asn395Ser)	1586	CYP17A1	Likely pathogenic	GRCh38	4082109
-single nucleotide variant	NM_000102.4(CYP17A1):c.373C>T (p.Arg125Ter)	1586	CYP17A1	Likely pathogenic	GRCh38	4817439
+single nucleotide variant	NM_000102.4(CYP17A1):c.373C>T (p.Arg125Ter)	1586	CYP17A1	Pathogenic/Likely pathogenic	GRCh38	4817439
 single nucleotide variant	NM_000102.4(CYP17A1):c.1096G>C (p.Val366Leu)	1586	CYP17A1	Pathogenic	GRCh38	3636952
 single nucleotide variant	NM_000102.4(CYP17A1):c.863C>A (p.Ser288Ter)	1586	CYP17A1	Pathogenic	GRCh38	4065686
 single nucleotide variant	NM_000102.4(CYP17A1):c.970-2A>G	1586	CYP17A1	Pathogenic	GRCh38	4065689
@@ -106,3 +106,5 @@ single nucleotide variant	NM_000102.4(CYP17A1):c.529A>G (p.Asn177Asp)	1586	CYP17
 single nucleotide variant	NM_000102.4(CYP17A1):c.969G>A (p.Gln323=)	1586	CYP17A1	Likely pathogenic	GRCh38	4817444
 single nucleotide variant	NM_000102.4(CYP17A1):c.970-1G>A	1586	CYP17A1	Pathogenic	GRCh38	4817445
 single nucleotide variant	NM_000102.4(CYP17A1):c.42T>G (p.Tyr14Ter)	1586	CYP17A1	Likely pathogenic	GRCh38	4850594
+single nucleotide variant	NM_000102.4(CYP17A1):c.1190G>A (p.Trp397Ter)	1586	CYP17A1	Likely pathogenic	GRCh38	4889603
+single nucleotide variant	NM_000102.4(CYP17A1):c.1244-2A>G	1586	CYP17A1	Likely pathogenic	GRCh38	4889896

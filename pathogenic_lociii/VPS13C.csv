@@ -1,0 +1,62 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020821.3(VPS13C):c.9568G>T (p.Glu3190Ter)	54832	VPS13C	Pathogenic	GRCh38	222069
+single nucleotide variant	NM_020821.3(VPS13C):c.8445+2T>G	54832	VPS13C	Pathogenic	GRCh38	222067
+single nucleotide variant	NM_020821.3(VPS13C):c.4165G>C (p.Gly1389Arg)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	222070
+single nucleotide variant	NM_020821.3(VPS13C):c.6880C>T (p.Arg2294Ter)	54832	VPS13C	Likely pathogenic	GRCh38	807269
+single nucleotide variant	NM_020821.3(VPS13C):c.10954C>T (p.Arg3652Ter)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	870544
+single nucleotide variant	NM_020821.3(VPS13C):c.1111C>T (p.Arg371Ter)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	982938
+single nucleotide variant	NM_020821.3(VPS13C):c.1483+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	1030583
+single nucleotide variant	NM_020821.3(VPS13C):c.1119G>A (p.Trp373Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3075815
+single nucleotide variant	NM_020821.3(VPS13C):c.9541C>T (p.Arg3181Ter)	54832	VPS13C	Pathogenic	GRCh38	1323752
+single nucleotide variant	NM_020821.3(VPS13C):c.10060G>T (p.Glu3354Ter)	54832	VPS13C	Pathogenic	GRCh38	1323753
+single nucleotide variant	NM_020821.3(VPS13C):c.8806C>T (p.Arg2936Ter)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	1325345
+single nucleotide variant	NM_020821.3(VPS13C):c.2029G>T (p.Gly677Ter)	54832	VPS13C	Pathogenic	GRCh38	1450734
+single nucleotide variant	NM_020821.3(VPS13C):c.101-1G>A	54832	VPS13C	Likely pathogenic	GRCh38	1418054
+single nucleotide variant	NM_020821.3(VPS13C):c.1699C>T (p.Arg567Ter)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	1475475
+single nucleotide variant	NM_020821.3(VPS13C):c.776G>A (p.Trp259Ter)	54832	VPS13C	Pathogenic	GRCh38	1354775
+single nucleotide variant	NM_020821.3(VPS13C):c.8978+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	1677630
+single nucleotide variant	NM_020821.3(VPS13C):c.6973C>T (p.Gln2325Ter)	54832	VPS13C	Pathogenic	GRCh38	2413815
+single nucleotide variant	NM_020821.3(VPS13C):c.1114C>T (p.Arg372Ter)	54832	VPS13C	Pathogenic	GRCh38	1937487
+single nucleotide variant	NM_020821.3(VPS13C):c.349C>T (p.Arg117Ter)	54832	VPS13C	Pathogenic	GRCh38	1941006
+single nucleotide variant	NM_020821.3(VPS13C):c.6433C>T (p.Gln2145Ter)	54832	VPS13C	Pathogenic	GRCh38	1964483
+single nucleotide variant	NM_020821.3(VPS13C):c.825+2T>C	54832	VPS13C	Likely pathogenic	GRCh38	1970609
+single nucleotide variant	NM_020821.3(VPS13C):c.6809C>G (p.Ser2270Ter)	54832	VPS13C	Pathogenic	GRCh38	1977819
+single nucleotide variant	NM_020821.3(VPS13C):c.5602-2A>G	54832	VPS13C	Likely pathogenic	GRCh38	2003220
+single nucleotide variant	NM_020821.3(VPS13C):c.2779C>T (p.Gln927Ter)	54832	VPS13C	Pathogenic	GRCh38	2006932
+single nucleotide variant	NM_020821.3(VPS13C):c.5601+1G>C	54832	VPS13C	Likely pathogenic	GRCh38	2025194
+single nucleotide variant	NM_020821.3(VPS13C):c.4536+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	2097709
+single nucleotide variant	NM_020821.3(VPS13C):c.751C>T (p.Arg251Ter)	54832	VPS13C	Likely pathogenic	GRCh38	2498617
+single nucleotide variant	NM_020821.3(VPS13C):c.10576C>T (p.Arg3526Ter)	54832	VPS13C	Likely pathogenic	GRCh38	2585188
+single nucleotide variant	NM_020821.3(VPS13C):c.826-1G>A	54832	VPS13C	Likely pathogenic	GRCh38	2629141
+single nucleotide variant	NM_020821.3(VPS13C):c.7378C>T (p.Gln2460Ter)	54832	VPS13C	Likely pathogenic	GRCh38	2633726
+single nucleotide variant	NM_020821.3(VPS13C):c.9244C>T (p.Gln3082Ter)	54832	VPS13C	Likely pathogenic	GRCh38	2682979
+single nucleotide variant	NM_020821.3(VPS13C):c.9481G>T (p.Glu3161Ter)	54832	VPS13C	Likely pathogenic	GRCh38	2690778
+single nucleotide variant	NM_020821.3(VPS13C):c.10756G>T (p.Glu3586Ter)	54832	VPS13C	Pathogenic	GRCh38	2868674
+single nucleotide variant	NM_020821.3(VPS13C):c.5868+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	2880695
+single nucleotide variant	NM_020821.3(VPS13C):c.9175C>T (p.Gln3059Ter)	54832	VPS13C	Pathogenic	GRCh38	2984894
+single nucleotide variant	NM_020821.3(VPS13C):c.9769C>T (p.Gln3257Ter)	54832	VPS13C	Pathogenic	GRCh38	2993124
+single nucleotide variant	NM_020821.3(VPS13C):c.10219G>T (p.Glu3407Ter)	54832	VPS13C	Pathogenic/Likely pathogenic	GRCh38	3006540
+single nucleotide variant	NM_020821.3(VPS13C):c.9019C>T (p.Arg3007Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3064720
+single nucleotide variant	NM_020821.3(VPS13C):c.5756-1G>T	54832	VPS13C	Likely pathogenic	GRCh38	3065269
+single nucleotide variant	NM_020821.3(VPS13C):c.10414+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	3068084
+single nucleotide variant	NM_020821.3(VPS13C):c.3908+2T>C	54832	VPS13C	Likely pathogenic	GRCh38	3075760
+single nucleotide variant	NM_020821.3(VPS13C):c.2408+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	3075761
+single nucleotide variant	NM_020821.3(VPS13C):c.3331G>T (p.Gly1111Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3075762
+single nucleotide variant	NM_020821.3(VPS13C):c.5462T>A (p.Leu1821Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3075763
+single nucleotide variant	NM_020821.3(VPS13C):c.5698C>T (p.Gln1900Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3075814
+single nucleotide variant	NM_020821.3(VPS13C):c.3849C>A (p.Tyr1283Ter)	54832	VPS13C	Pathogenic	GRCh38	3238850
+single nucleotide variant	NM_020821.3(VPS13C):c.9562C>T (p.Gln3188Ter)	54832	VPS13C	Likely pathogenic	GRCh38	3393072
+single nucleotide variant	NM_020821.3(VPS13C):c.385+1G>T	54832	VPS13C	Likely pathogenic	GRCh38	3629695
+single nucleotide variant	NM_020821.3(VPS13C):c.8155C>T (p.Gln2719Ter)	54832	VPS13C	Pathogenic	GRCh38	3645958
+single nucleotide variant	NM_020821.3(VPS13C):c.1908T>G (p.Tyr636Ter)	54832	VPS13C	Pathogenic	GRCh38	3660869
+single nucleotide variant	NM_020821.3(VPS13C):c.9483+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	3689480
+single nucleotide variant	NM_020821.3(VPS13C):c.8074G>T (p.Glu2692Ter)	54832	VPS13C	Pathogenic	GRCh38	3694296
+single nucleotide variant	NM_020821.3(VPS13C):c.8984C>G (p.Ser2995Ter)	54832	VPS13C	Pathogenic	GRCh38	3710087
+single nucleotide variant	NM_020821.3(VPS13C):c.9152G>A (p.Trp3051Ter)	54832	VPS13C	Pathogenic	GRCh38	4535859
+single nucleotide variant	NM_020821.3(VPS13C):c.5245C>T (p.Gln1749Ter)	54832	VPS13C	Pathogenic	GRCh38	4732763
+single nucleotide variant	NM_020821.3(VPS13C):c.6609+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	4782052
+single nucleotide variant	NM_020821.3(VPS13C):c.9065G>A (p.Trp3022Ter)	54832	VPS13C	Pathogenic	GRCh38	4822544
+single nucleotide variant	NM_020821.3(VPS13C):c.385+1G>A	54832	VPS13C	Likely pathogenic	GRCh38	4848396
+single nucleotide variant	NM_020821.3(VPS13C):c.7939G>T (p.Glu2647Ter)	54832	VPS13C	Pathogenic	GRCh38	4848655
+single nucleotide variant	NM_020821.3(VPS13C):c.9551T>A (p.Leu3184Ter)	54832	VPS13C	Likely pathogenic	GRCh38	4849313
+single nucleotide variant	NM_020821.3(VPS13C):c.5689C>T (p.Gln1897Ter)	54832	VPS13C	Likely pathogenic	GRCh38	4883668

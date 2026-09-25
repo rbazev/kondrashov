@@ -35,7 +35,7 @@ single nucleotide variant	NM_000159.4(GCDH):c.172G>T (p.Glu58Ter)	2639	GCDH	Path
 single nucleotide variant	NM_000159.4(GCDH):c.226C>T (p.Gln76Ter)	2639	GCDH	Pathogenic	GRCh38	370102
 single nucleotide variant	NM_000159.4(GCDH):c.339T>G (p.Tyr113Ter)	2639	GCDH	Likely pathogenic	GRCh38	370280
 single nucleotide variant	NM_000159.4(GCDH):c.382C>T (p.Arg128Ter)	2639	GCDH	Pathogenic	GRCh38	371176
-single nucleotide variant	NM_000159.4(GCDH):c.514G>T (p.Glu172Ter)	2639	GCDH	Pathogenic	GRCh38	370719
+single nucleotide variant	NM_000159.4(GCDH):c.514G>T (p.Glu172Ter)	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	370719
 single nucleotide variant	NM_000159.4(GCDH):c.532G>A (p.Gly178Arg)	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	371271
 single nucleotide variant	NM_000159.4(GCDH):c.743C>T (p.Pro248Leu)	2639	GCDH	Pathogenic	GRCh38	370244
 single nucleotide variant	NM_000159.4(GCDH):c.853-2A>G	2639	GCDH	Pathogenic	GRCh38	371612
@@ -95,6 +95,7 @@ single nucleotide variant	NM_000159.4(GCDH):c.674G>C (p.Trp225Ser)	2639	GCDH	Lik
 single nucleotide variant	NM_000159.4(GCDH):c.553G>A (p.Gly185Arg)	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	661521
 single nucleotide variant	NM_000159.4(GCDH):c.1182T>G (p.Ile394Met)	2639	GCDH	Pathogenic	GRCh38	659769
 single nucleotide variant	NM_000159.4(GCDH):c.1298C>A (p.Ala433Glu)	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	660506
+single nucleotide variant	NM_000159.4(GCDH):c.91+5G>A	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	647712
 single nucleotide variant	NM_000159.4(GCDH):c.1207C>T (p.His403Tyr)	2639	GCDH	Pathogenic/Likely pathogenic	GRCh38	691529
 single nucleotide variant	NM_000159.4(GCDH):c.1142T>C (p.Ile381Thr)	2639	GCDH	Likely pathogenic	GRCh38	803525
 single nucleotide variant	NM_000159.4(GCDH):c.1222G>A (p.Glu408Lys)	2639	GCDH	Likely pathogenic	GRCh38	803526
@@ -256,3 +257,7 @@ single nucleotide variant	NM_000159.4(GCDH):c.299T>C (p.Met100Thr)	2639	GCDH	Lik
 single nucleotide variant	NM_000159.4(GCDH):c.662T>C (p.Leu221Pro)	2639	GCDH	Likely pathogenic	GRCh38	4817846
 single nucleotide variant	NM_000159.4(GCDH):c.730G>T (p.Gly244Cys)	2639	GCDH	Likely pathogenic	GRCh38	4817847
 single nucleotide variant	NM_000159.4(GCDH):c.1082A>C (p.Lys361Thr)	2639	GCDH	Likely pathogenic	GRCh38	4852414
+single nucleotide variant	NM_000159.4(GCDH):c.388C>A (p.Leu130Met)	2639	GCDH	Likely pathogenic	GRCh38	4884216
+single nucleotide variant	NM_000159.4(GCDH):c.128-1G>A	2639	GCDH	Likely pathogenic	GRCh38	4889916
+single nucleotide variant	NM_000159.4(GCDH):c.334+1G>T	2639	GCDH	Likely pathogenic	GRCh38	4890017
+single nucleotide variant	NM_000159.4(GCDH):c.*157A>C	2639	GCDH	Pathogenic	GRCh38	4890517

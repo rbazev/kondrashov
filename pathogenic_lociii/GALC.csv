@@ -34,7 +34,7 @@ single nucleotide variant	NM_000153.4(GALC):c.1670+1G>A	2581	GALC	Likely pathoge
 single nucleotide variant	NM_000153.4(GALC):c.1586C>T (p.Thr529Met)	2581	GALC	Pathogenic/Likely pathogenic	GRCh38	370073
 single nucleotide variant	NM_000153.4(GALC):c.1065G>A (p.Trp355Ter)	2581	GALC	Likely pathogenic	GRCh38	370148
 single nucleotide variant	NM_000153.4(GALC):c.952C>G (p.Pro318Ala)	2581	GALC	Pathogenic	GRCh38	370631
-single nucleotide variant	NM_000153.4(GALC):c.946C>T (p.Gln316Ter)	2581	GALC	Pathogenic	GRCh38	370367
+single nucleotide variant	NM_000153.4(GALC):c.946C>T (p.Gln316Ter)	2581	GALC	Pathogenic/Likely pathogenic	GRCh38	370367
 single nucleotide variant	NM_000153.4(GALC):c.533G>A (p.Trp178Ter)	2581	GALC	Pathogenic	GRCh38	371521
 single nucleotide variant	NM_000153.4(GALC):c.442+2T>G	2581	GALC	Likely pathogenic	GRCh38	370618
 single nucleotide variant	NM_000153.4(GALC):c.415A>T (p.Lys139Ter)	2581	GALC	Likely pathogenic	GRCh38	370670
@@ -232,3 +232,17 @@ single nucleotide variant	NM_000153.4(GALC):c.615T>A (p.Tyr205Ter)	2581	GALC	Lik
 single nucleotide variant	NM_000153.4(GALC):c.920G>A (p.Trp307Ter)	2581	GALC	Likely pathogenic	GRCh38	4817607
 single nucleotide variant	NM_000153.4(GALC):c.1911+1G>A	2581	GALC	Pathogenic	GRCh38	4819139
 single nucleotide variant	NM_000153.4(GALC):c.1670+2T>G	2581	GALC	Pathogenic	GRCh38	4855581
+single nucleotide variant	NM_000153.4(GALC):c.1735G>A (p.Ala579Thr)	2581	GALC	Pathogenic	GRCh38	4888543
+single nucleotide variant	NM_000153.4(GALC):c.928G>A (p.Val310Met)	2581	GALC	Pathogenic	GRCh38	4888554
+single nucleotide variant	NM_000153.4(GALC):c.935G>A (p.Ser312Asn)	2581	GALC	Pathogenic	GRCh38	4888577
+single nucleotide variant	NM_000153.4(GALC):c.427A>G (p.Asn143Asp)	2581	GALC	Pathogenic	GRCh38	4889662
+single nucleotide variant	NM_001201402.2(GALC):c.2T>A (p.Met1Lys)	2581	GALC	Likely pathogenic	GRCh38	4890134
+single nucleotide variant	NM_001201402.2(GALC):c.1A>G (p.Met1Val)	2581	GALC	Likely pathogenic	GRCh38	4890135
+single nucleotide variant	NM_000153.4(GALC):c.427A>C (p.Asn143His)	2581	GALC	Likely pathogenic	GRCh38	4890144
+single nucleotide variant	NM_000153.4(GALC):c.751G>A (p.Gly251Arg)	2581	GALC	Likely pathogenic	GRCh38	4890304
+single nucleotide variant	NM_000153.4(GALC):c.1546T>A (p.Tyr516Asn)	2581	GALC	Pathogenic	GRCh38	4890318
+single nucleotide variant	NM_000153.4(GALC):c.409G>A (p.Ala137Thr)	2581	GALC	Likely pathogenic	GRCh38	4890357
+single nucleotide variant	NM_000153.4(GALC):c.1670G>A (p.Trp557Ter)	2581	GALC	Likely pathogenic	GRCh38	4890371
+single nucleotide variant	NM_000153.4(GALC):c.1990G>A (p.Ala664Thr)	2581	GALC	Likely pathogenic	GRCh38	4890446
+single nucleotide variant	NM_000153.4(GALC):c.1976C>T (p.Pro659Leu)	2581	GALC	Pathogenic	GRCh38	4890647
+single nucleotide variant	NM_000153.4(GALC):c.214G>T (p.Val72Leu)	2581	GALC	Pathogenic	GRCh38	4890654

@@ -1,0 +1,92 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1254-1G>C	9786	KIAA0586	Pathogenic	GRCh38	204594
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1000C>T (p.Gln334Ter)	9786	KIAA0586	Pathogenic	GRCh38	204595
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1538A>T (p.Asp513Val)	9786	KIAA0586	Pathogenic	GRCh38	204597
+single nucleotide variant	NM_001329943.3(KIAA0586):c.194C>G (p.Ser65Ter)	9786	KIAA0586	Pathogenic	GRCh38	208812
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1656G>A (p.Gln552=)	9786	KIAA0586	Pathogenic	GRCh38	208813
+single nucleotide variant	NM_001329943.3(KIAA0586):c.643C>T (p.Gln215Ter)	9786	KIAA0586	Pathogenic	GRCh38	217669
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3144G>A (p.Pro1048=)	9786	KIAA0586	Pathogenic	GRCh38	217667
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2407T>G (p.Ser803Ala)	9786	KIAA0586	Likely pathogenic	GRCh38	266094
+single nucleotide variant	NM_001329943.3(KIAA0586):c.790C>T (p.Gln264Ter)	9786	KIAA0586	Pathogenic	GRCh38	369671
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1253G>A (p.Arg418Lys)	9786	KIAA0586	Likely pathogenic	GRCh38	384328
+single nucleotide variant	NM_001329943.3(KIAA0586):c.-29A>C	9786	KIAA0586	Likely pathogenic	GRCh38	424017
+single nucleotide variant	NM_001329943.3(KIAA0586):c.787C>T (p.Gln263Ter)	9786	KIAA0586	Pathogenic/Likely pathogenic	GRCh38	423877
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2353C>T (p.Arg785Ter)	9786	KIAA0586	Pathogenic	GRCh38	418265
+single nucleotide variant	NM_001329943.3(KIAA0586):c.831C>T (p.Leu277=)	9786	KIAA0586	Pathogenic	GRCh38	475455
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1804C>T (p.Gln602Ter)	9786	KIAA0586	Pathogenic	GRCh38	565469
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3781+2T>C	9786	KIAA0586	Likely pathogenic	GRCh38	573644
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4027C>T (p.Gln1343Ter)	9786	KIAA0586	Likely pathogenic	GRCh38	620387
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4295T>G (p.Leu1432Ter)	9786	KIAA0586	Likely pathogenic	GRCh38	816963
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3668C>G (p.Ser1223Ter)	9786	KIAA0586	Pathogenic	GRCh38	854917
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1362+2T>C	9786	KIAA0586	Pathogenic/Likely pathogenic	GRCh38	871222
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1629G>A (p.Trp543Ter)	9786	KIAA0586	Pathogenic	GRCh38	930820
+single nucleotide variant	NM_001329943.3(KIAA0586):c.730G>T (p.Glu244Ter)	9786	KIAA0586	Pathogenic	GRCh38	940430
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1708C>T (p.Gln570Ter)	9786	KIAA0586	Pathogenic	GRCh38	933557
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2255-1G>C	9786	KIAA0586	Pathogenic	GRCh38	984710
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4324-1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	1031253
+single nucleotide variant	NM_001329943.3(KIAA0586):c.506C>A (p.Ser169Ter)	9786	KIAA0586	Pathogenic	GRCh38	1323139
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2875C>T (p.Gln959Ter)	9786	KIAA0586	Pathogenic	GRCh38	1323140
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1759C>T (p.Gln587Ter)	9786	KIAA0586	Pathogenic	GRCh38	3756244
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1957C>T (p.Gln653Ter)	9786	KIAA0586	Likely pathogenic	GRCh38	1334542
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1657-1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	1338997
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4456C>T (p.Gln1486Ter)	9786	KIAA0586	Pathogenic	GRCh38	1357141
+single nucleotide variant	NM_001329943.3(KIAA0586):c.411-1486G>A	9786	KIAA0586	Likely pathogenic	GRCh38	1524270
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4495+3767A>T	9786	KIAA0586	Pathogenic	GRCh38	1457512
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2050C>T (p.Arg684Ter)	9786	KIAA0586	Pathogenic/Likely pathogenic	GRCh38	1406363
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2825+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	1477276
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1129+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	1466229
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4495+3785A>T	9786	KIAA0586	Pathogenic	GRCh38	1453816
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3580C>T (p.Gln1194Ter)	9786	KIAA0586	Pathogenic	GRCh38	1456969
+single nucleotide variant	NM_001329943.3(KIAA0586):c.126T>A (p.Cys42Ter)	9786	KIAA0586	Pathogenic	GRCh38	1379251
+single nucleotide variant	NM_001329943.3(KIAA0586):c.25G>T (p.Glu9Ter)	9786	KIAA0586	Pathogenic	GRCh38	1350774
+single nucleotide variant	NM_001329943.3(KIAA0586):c.411-1371G>A	9786	KIAA0586	Pathogenic	GRCh38	1435732
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4324-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	1489936
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1885-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	1519936
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1884+1G>T	9786	KIAA0586	Likely pathogenic	GRCh38	2178589
+single nucleotide variant	NM_001329943.3(KIAA0586):c.807+1G>T	9786	KIAA0586	Likely pathogenic	GRCh38	2415477
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2945-1G>C	9786	KIAA0586	Likely pathogenic	GRCh38	1888361
+single nucleotide variant	NM_001329943.3(KIAA0586):c.341-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	1955189
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3211A>T (p.Lys1071Ter)	9786	KIAA0586	Pathogenic	GRCh38	2004923
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4321C>T (p.Gln1441Ter)	9786	KIAA0586	Pathogenic	GRCh38	2019342
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3804C>G (p.Tyr1268Ter)	9786	KIAA0586	Pathogenic	GRCh38	2008048
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4420C>T (p.Gln1474Ter)	9786	KIAA0586	Pathogenic	GRCh38	2034633
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4373C>G (p.Ser1458Ter)	9786	KIAA0586	Pathogenic	GRCh38	2107486
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3144+2T>A	9786	KIAA0586	Likely pathogenic	GRCh38	2440981
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1196C>G (p.Ser399Ter)	9786	KIAA0586	Likely pathogenic	GRCh38	2637236
+single nucleotide variant	NM_001329943.3(KIAA0586):c.887A>G (p.Tyr296Cys)	9786	KIAA0586	Likely pathogenic	GRCh38	2664497
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3859-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	2690630
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2634+1G>T	9786	KIAA0586	Likely pathogenic	GRCh38	2922276
+single nucleotide variant	NM_001329943.3(KIAA0586):c.200-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	2934034
+single nucleotide variant	NM_001329943.3(KIAA0586):c.961+1G>A	9786	KIAA0586	Pathogenic	GRCh38	2923657
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1654C>T (p.Gln552Ter)	9786	KIAA0586	Pathogenic/Likely pathogenic	GRCh38	2932088
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3991-1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	2934599
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1130-2A>G	9786	KIAA0586	Likely pathogenic	GRCh38	2935424
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2257C>T (p.Gln753Ter)	9786	KIAA0586	Pathogenic	GRCh38	2942476
+single nucleotide variant	NM_001329943.3(KIAA0586):c.271-1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	2938340
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2254+1G>T	9786	KIAA0586	Likely pathogenic	GRCh38	2938506
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3144+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	2939645
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3144+2T>C	9786	KIAA0586	Likely pathogenic	GRCh38	2945150
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4012G>T (p.Glu1338Ter)	9786	KIAA0586	Pathogenic	GRCh38	2952733
+single nucleotide variant	NM_001329943.3(KIAA0586):c.235C>T (p.Gln79Ter)	9786	KIAA0586	Pathogenic	GRCh38	2948726
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3481G>T (p.Glu1161Ter)	9786	KIAA0586	Pathogenic	GRCh38	2948901
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1253+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	2951452
+single nucleotide variant	NM_001329943.3(KIAA0586):c.585+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	3629981
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2059+1G>C	9786	KIAA0586	Likely pathogenic	GRCh38	3752299
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1656+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	3752409
+single nucleotide variant	NM_001329943.3(KIAA0586):c.411-1487A>T	9786	KIAA0586	Likely pathogenic	GRCh38	3752514
+single nucleotide variant	NM_001329943.3(KIAA0586):c.67G>T (p.Glu23Ter)	9786	KIAA0586	Pathogenic	GRCh38	3760371
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1055C>G (p.Ser352Ter)	9786	KIAA0586	Pathogenic	GRCh38	3773840
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2836G>T (p.Glu946Ter)	9786	KIAA0586	Pathogenic	GRCh38	4526182
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3785T>G (p.Leu1262Ter)	9786	KIAA0586	Pathogenic	GRCh38	4789178
+single nucleotide variant	NM_001329943.3(KIAA0586):c.341-2A>C	9786	KIAA0586	Likely pathogenic	GRCh38	4785497
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4375C>T (p.Gln1459Ter)	9786	KIAA0586	Pathogenic	GRCh38	4785604
+single nucleotide variant	NM_001329943.3(KIAA0586):c.411-1462G>A	9786	KIAA0586	Pathogenic	GRCh38	4785668
+single nucleotide variant	NM_001329943.3(KIAA0586):c.4108C>T (p.Gln1370Ter)	9786	KIAA0586	Pathogenic	GRCh38	4787270
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2878C>T (p.Gln960Ter)	9786	KIAA0586	Pathogenic	GRCh38	4788991
+single nucleotide variant	NM_001329943.3(KIAA0586):c.807+1G>C	9786	KIAA0586	Likely pathogenic	GRCh38	4788546
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3456G>A (p.Trp1152Ter)	9786	KIAA0586	Pathogenic	GRCh38	4792767
+single nucleotide variant	NM_001329943.3(KIAA0586):c.2059+1G>A	9786	KIAA0586	Likely pathogenic	GRCh38	4794319
+single nucleotide variant	NM_001329943.3(KIAA0586):c.200-2A>T	9786	KIAA0586	Likely pathogenic	GRCh38	4790506
+single nucleotide variant	NM_001329943.3(KIAA0586):c.3286G>T (p.Glu1096Ter)	9786	KIAA0586	Pathogenic	GRCh38	4792074
+single nucleotide variant	NM_001329943.3(KIAA0586):c.1189G>T (p.Glu397Ter)	9786	KIAA0586	Pathogenic	GRCh38	4858782
+single nucleotide variant	NM_001329943.3(KIAA0586):c.585+2T>A	9786	KIAA0586	Likely pathogenic	GRCh38	4883531

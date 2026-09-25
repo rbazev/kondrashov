@@ -53,7 +53,7 @@ single nucleotide variant	NM_000539.3(RHO):c.408C>A (p.Tyr136Ter)	6010	RHO	Patho
 single nucleotide variant	NM_000539.3(RHO):c.328T>G (p.Cys110Gly)	6010	RHO	Likely pathogenic	GRCh38	635416
 single nucleotide variant	NM_000539.3(RHO):c.265G>C (p.Gly89Arg)	6010	RHO	Likely pathogenic	GRCh38	636083
 single nucleotide variant	NM_000539.3(RHO):c.810C>A (p.Ser270Arg)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	636084
-single nucleotide variant	NM_000539.3(RHO):c.934C>T (p.Gln312Ter)	6010	RHO	Pathogenic	GRCh38	636086
+single nucleotide variant	NM_000539.3(RHO):c.934C>T (p.Gln312Ter)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	636086
 single nucleotide variant	NM_000539.3(RHO):c.1033G>T (p.Val345Leu)	6010	RHO	Pathogenic	GRCh38	636081
 single nucleotide variant	NM_000539.3(RHO):c.45T>G (p.Asn15Lys)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	802004
 single nucleotide variant	NM_000539.3(RHO):c.317G>T (p.Gly106Val)	6010	RHO	Likely pathogenic	GRCh38	802005
@@ -73,7 +73,7 @@ single nucleotide variant	NM_000539.3(RHO):c.696+1G>C	6010	RHO	Likely pathogenic
 single nucleotide variant	NM_000539.3(RHO):c.936+1G>T	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	855043
 single nucleotide variant	NM_000539.3(RHO):c.152G>T (p.Gly51Val)	6010	RHO	Pathogenic	GRCh38	866399
 single nucleotide variant	NM_000539.3(RHO):c.325G>A (p.Gly109Arg)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	866181
-single nucleotide variant	NM_000539.3(RHO):c.328T>C (p.Cys110Arg)	6010	RHO	Pathogenic	GRCh38	867081
+single nucleotide variant	NM_000539.3(RHO):c.328T>C (p.Cys110Arg)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	867081
 single nucleotide variant	NM_000539.3(RHO):c.341G>T (p.Gly114Val)	6010	RHO	Pathogenic	GRCh38	866113
 single nucleotide variant	NM_000539.3(RHO):c.512C>A (p.Pro171Gln)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	866418
 single nucleotide variant	NM_000539.3(RHO):c.532T>C (p.Tyr178His)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	867225
@@ -106,7 +106,7 @@ single nucleotide variant	NM_000539.3(RHO):c.673C>T (p.Gln225Ter)	6010	RHO	Likel
 single nucleotide variant	NM_000539.3(RHO):c.730C>T (p.Gln244Ter)	6010	RHO	Likely pathogenic	GRCh38	984788
 single nucleotide variant	NM_000539.3(RHO):c.886A>C (p.Lys296Gln)	6010	RHO	Likely pathogenic	GRCh38	984768
 single nucleotide variant	NM_000539.3(RHO):c.937-1G>C	6010	RHO	Likely pathogenic	GRCh38	987445
-single nucleotide variant	NM_000539.3(RHO):c.545G>A (p.Gly182Asp)	6010	RHO	Pathogenic	GRCh38	1038982
+single nucleotide variant	NM_000539.3(RHO):c.545G>A (p.Gly182Asp)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	1038982
 single nucleotide variant	NM_000539.3(RHO):c.539C>G (p.Pro180Arg)	6010	RHO	Likely pathogenic	GRCh38	1060030
 single nucleotide variant	NM_000539.3(RHO):c.45T>A (p.Asn15Lys)	6010	RHO	Likely pathogenic	GRCh38	1067776
 single nucleotide variant	NM_000539.3(RHO):c.68C>T (p.Pro23Leu)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	1071889
@@ -148,7 +148,7 @@ single nucleotide variant	NM_000539.3(RHO):c.400G>A (p.Glu134Lys)	6010	RHO	Likel
 single nucleotide variant	NM_000539.3(RHO):c.489G>A (p.Met163Ile)	6010	RHO	Likely pathogenic	GRCh38	2628035
 single nucleotide variant	NM_000539.3(RHO):c.329G>T (p.Cys110Phe)	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	2628072
 single nucleotide variant	NM_000539.3(RHO):c.556T>C (p.Ser186Pro)	6010	RHO	Pathogenic	GRCh38	2734563
-single nucleotide variant	NM_000539.3(RHO):c.937-1G>A	6010	RHO	Pathogenic/Likely pathogenic	GRCh38	2734566
+single nucleotide variant	NM_000539.3(RHO):c.937-1G>A	6010	RHO	Pathogenic	GRCh38	2734566
 single nucleotide variant	NM_000539.3(RHO):c.937-1G>T	6010	RHO	Pathogenic	GRCh38	2734567
 single nucleotide variant	NM_000539.3(RHO):c.361+1G>A	6010	RHO	Likely pathogenic	GRCh38	2818315
 single nucleotide variant	NM_000539.3(RHO):c.67C>A (p.Pro23Thr)	6010	RHO	Likely pathogenic	GRCh38	3024160

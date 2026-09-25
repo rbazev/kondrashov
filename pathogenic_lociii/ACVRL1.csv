@@ -1,0 +1,358 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000020.3(ACVRL1):c.1232G>A (p.Arg411Gln)	94	ACVRL1	Pathogenic	GRCh38	8243
+single nucleotide variant	NM_000020.3(ACVRL1):c.1127T>G (p.Met376Arg)	94	ACVRL1	Pathogenic	GRCh38	8244
+single nucleotide variant	NM_000020.3(ACVRL1):c.150G>T (p.Trp50Cys)	94	ACVRL1	Pathogenic	GRCh38	8246
+single nucleotide variant	NM_000020.3(ACVRL1):c.1193T>A (p.Ile398Asn)	94	ACVRL1	Pathogenic	GRCh38	8248
+single nucleotide variant	NM_000020.3(ACVRL1):c.1120C>T (p.Arg374Trp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	8249
+single nucleotide variant	NM_000020.3(ACVRL1):c.1231C>T (p.Arg411Trp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	8251
+single nucleotide variant	NM_000020.3(ACVRL1):c.1450C>T (p.Arg484Trp)	94	ACVRL1	Pathogenic	GRCh38	8252
+single nucleotide variant	NM_000020.3(ACVRL1):c.632G>A (p.Gly211Asp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	8253
+single nucleotide variant	NM_000020.3(ACVRL1):c.1031G>A (p.Cys344Tyr)	94	ACVRL1	Pathogenic	GRCh38	8254
+single nucleotide variant	NM_000020.3(ACVRL1):c.1196G>C (p.Trp399Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	8255
+single nucleotide variant	NM_000020.3(ACVRL1):c.1232G>C (p.Arg411Pro)	94	ACVRL1	Pathogenic	GRCh38	8257
+single nucleotide variant	NM_000020.3(ACVRL1):c.143G>A (p.Gly48Glu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	156350
+single nucleotide variant	NM_000020.3(ACVRL1):c.152G>A (p.Cys51Tyr)	94	ACVRL1	Pathogenic	GRCh38	212797
+single nucleotide variant	NM_000020.3(ACVRL1):c.200G>A (p.Arg67Gln)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	212803
+single nucleotide variant	NM_000020.3(ACVRL1):c.269G>A (p.Cys90Tyr)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	212798
+single nucleotide variant	NM_000020.3(ACVRL1):c.430C>T (p.Arg144Ter)	94	ACVRL1	Pathogenic	GRCh38	212804
+single nucleotide variant	NM_000020.3(ACVRL1):c.986G>A (p.Arg329His)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	212801
+single nucleotide variant	NM_000020.3(ACVRL1):c.998G>T (p.Ser333Ile)	94	ACVRL1	Pathogenic	GRCh38	212802
+single nucleotide variant	NM_000020.3(ACVRL1):c.1377+1G>A	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	212794
+single nucleotide variant	NM_000020.3(ACVRL1):c.1415G>A (p.Trp472Ter)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1384566
+single nucleotide variant	NM_000020.3(ACVRL1):c.1451G>A (p.Arg484Gln)	94	ACVRL1	Pathogenic	GRCh38	212796
+single nucleotide variant	NM_000020.3(ACVRL1):c.822G>A (p.Trp274Ter)	94	ACVRL1	Pathogenic	GRCh38	236553
+single nucleotide variant	NM_000020.3(ACVRL1):c.1435C>T (p.Arg479Ter)	94	ACVRL1	Pathogenic	GRCh38	372722
+single nucleotide variant	NM_000020.3(ACVRL1):c.140G>C (p.Arg47Pro)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	381525
+single nucleotide variant	NM_000020.3(ACVRL1):c.1219G>A (p.Glu407Lys)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	381910
+single nucleotide variant	NM_000020.3(ACVRL1):c.1378-1G>A	94	ACVRL1	Pathogenic	GRCh38	411302
+single nucleotide variant	NM_000020.3(ACVRL1):c.841G>T (p.Glu281Ter)	94	ACVRL1	Pathogenic	GRCh38	411307
+single nucleotide variant	NM_000020.3(ACVRL1):c.266G>T (p.Cys89Phe)	94	ACVRL1	Likely pathogenic	GRCh38	411299
+single nucleotide variant	NM_000020.3(ACVRL1):c.1004A>T (p.Asn335Ile)	94	ACVRL1	Likely pathogenic	GRCh38	411313
+single nucleotide variant	NM_000020.3(ACVRL1):c.1049-1G>A	94	ACVRL1	Likely pathogenic	GRCh38	411308
+single nucleotide variant	NM_000020.3(ACVRL1):c.1121G>A (p.Arg374Gln)	94	ACVRL1	Pathogenic	GRCh38	411314
+single nucleotide variant	NM_000020.3(ACVRL1):c.1217G>A (p.Trp406Ter)	94	ACVRL1	Pathogenic	GRCh38	411300
+single nucleotide variant	NM_000020.3(ACVRL1):c.1310A>G (p.Asp437Gly)	94	ACVRL1	Pathogenic	GRCh38	411303
+single nucleotide variant	NM_000020.3(ACVRL1):c.1027C>T (p.Gln343Ter)	94	ACVRL1	Pathogenic	GRCh38	423613
+single nucleotide variant	NM_000020.3(ACVRL1):c.1336C>T (p.Gln446Ter)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	419979
+single nucleotide variant	NM_000020.3(ACVRL1):c.199C>T (p.Arg67Trp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426010
+single nucleotide variant	NM_000020.3(ACVRL1):c.293A>G (p.Asn98Ser)	94	ACVRL1	Likely pathogenic	GRCh38	426011
+single nucleotide variant	NM_000020.3(ACVRL1):c.593T>A (p.Val198Glu)	94	ACVRL1	Pathogenic	GRCh38	426013
+single nucleotide variant	NM_000020.3(ACVRL1):c.602A>G (p.Gln201Arg)	94	ACVRL1	Pathogenic	GRCh38	426014
+single nucleotide variant	NM_000020.3(ACVRL1):c.788A>G (p.Asp263Gly)	94	ACVRL1	Pathogenic	GRCh38	426016
+single nucleotide variant	NM_000020.3(ACVRL1):c.818T>C (p.Leu273Pro)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426017
+single nucleotide variant	NM_000020.3(ACVRL1):c.853C>T (p.Leu285Phe)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426018
+single nucleotide variant	NM_000020.3(ACVRL1):c.854T>C (p.Leu285Pro)	94	ACVRL1	Likely pathogenic	GRCh38	426019
+single nucleotide variant	NM_000020.3(ACVRL1):c.936C>G (p.His312Gln)	94	ACVRL1	Pathogenic	GRCh38	426020
+single nucleotide variant	NM_000020.3(ACVRL1):c.955G>C (p.Gly319Arg)	94	ACVRL1	Pathogenic	GRCh38	426022
+single nucleotide variant	NM_000020.3(ACVRL1):c.1055C>A (p.Ala352Asp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426023
+single nucleotide variant	NM_000020.3(ACVRL1):c.1142T>C (p.Leu381Pro)	94	ACVRL1	Likely pathogenic	GRCh38	426025
+single nucleotide variant	NM_000020.3(ACVRL1):c.1195T>C (p.Trp399Arg)	94	ACVRL1	Likely pathogenic	GRCh38	426026
+single nucleotide variant	NM_000020.3(ACVRL1):c.1196G>T (p.Trp399Leu)	94	ACVRL1	Pathogenic	GRCh38	426027
+single nucleotide variant	NM_000020.3(ACVRL1):c.1270C>A (p.Pro424Thr)	94	ACVRL1	Likely pathogenic	GRCh38	426028
+single nucleotide variant	NM_000020.3(ACVRL1):c.1280A>T (p.Asp427Val)	94	ACVRL1	Pathogenic	GRCh38	426029
+single nucleotide variant	NM_000020.3(ACVRL1):c.1385C>G (p.Ser462Ter)	94	ACVRL1	Pathogenic	GRCh38	426031
+single nucleotide variant	NM_000020.3(ACVRL1):c.1433C>A (p.Ala478Asp)	94	ACVRL1	Pathogenic	GRCh38	426034
+single nucleotide variant	NM_000020.3(ACVRL1):c.1436G>A (p.Arg479Gln)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426035
+single nucleotide variant	NM_000020.3(ACVRL1):c.1436G>C (p.Arg479Pro)	94	ACVRL1	Pathogenic	GRCh38	426036
+single nucleotide variant	NM_000020.3(ACVRL1):c.1450C>G (p.Arg484Gly)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	426037
+single nucleotide variant	NM_000020.3(ACVRL1):c.1460A>C (p.Lys487Thr)	94	ACVRL1	Likely pathogenic	GRCh38	426039
+single nucleotide variant	NM_000020.3(ACVRL1):c.1468C>T (p.Gln490Ter)	94	ACVRL1	Pathogenic	GRCh38	426040
+single nucleotide variant	NM_000020.3(ACVRL1):c.1135G>A (p.Glu379Lys)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	429940
+single nucleotide variant	NM_000020.3(ACVRL1):c.1285G>T (p.Val429Leu)	94	ACVRL1	Likely pathogenic	GRCh38	429265
+single nucleotide variant	NM_000020.3(ACVRL1):c.639T>G (p.Tyr213Ter)	94	ACVRL1	Pathogenic	GRCh38	432170
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+2T>G	94	ACVRL1	Likely pathogenic	GRCh38	432192
+single nucleotide variant	NM_000020.3(ACVRL1):c.626-3C>G	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	439379
+single nucleotide variant	NM_000020.3(ACVRL1):c.914C>T (p.Ser305Phe)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	439382
+single nucleotide variant	NM_000020.3(ACVRL1):c.1270C>T (p.Pro424Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	439388
+single nucleotide variant	NM_000020.3(ACVRL1):c.1355C>T (p.Pro452Leu)	94	ACVRL1	Pathogenic	GRCh38	439369
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+1G>A	94	ACVRL1	Pathogenic	GRCh38	439380
+single nucleotide variant	NM_000020.3(ACVRL1):c.265T>C (p.Cys89Arg)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	439381
+single nucleotide variant	NM_000020.3(ACVRL1):c.200G>C (p.Arg67Pro)	94	ACVRL1	Pathogenic	GRCh38	444100
+single nucleotide variant	NM_000020.3(ACVRL1):c.772G>A (p.Gly258Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	444101
+single nucleotide variant	NM_000020.3(ACVRL1):c.1204G>A (p.Gly402Ser)	94	ACVRL1	Pathogenic	GRCh38	444103
+single nucleotide variant	NM_000020.3(ACVRL1):c.313+1G>T	94	ACVRL1	Pathogenic	GRCh38	464761
+single nucleotide variant	NM_000020.3(ACVRL1):c.924C>A (p.Cys308Ter)	94	ACVRL1	Pathogenic	GRCh38	464771
+single nucleotide variant	NM_000020.3(ACVRL1):c.148T>C (p.Trp50Arg)	94	ACVRL1	Likely pathogenic	GRCh38	464760
+single nucleotide variant	NM_000020.3(ACVRL1):c.992T>C (p.Phe331Ser)	94	ACVRL1	Pathogenic	GRCh38	464773
+single nucleotide variant	NM_000020.3(ACVRL1):c.1413C>A (p.Cys471Ter)	94	ACVRL1	Pathogenic	GRCh38	464759
+single nucleotide variant	NM_000020.3(ACVRL1):c.1126A>G (p.Met376Val)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	464754
+single nucleotide variant	NM_000020.3(ACVRL1):c.1246+2T>C	94	ACVRL1	Pathogenic	GRCh38	464755
+single nucleotide variant	NM_000020.3(ACVRL1):c.439C>T (p.Gln147Ter)	94	ACVRL1	Pathogenic	GRCh38	523777
+single nucleotide variant	NM_000020.3(ACVRL1):c.601C>T (p.Gln201Ter)	94	ACVRL1	Pathogenic	GRCh38	523779
+single nucleotide variant	NM_000020.3(ACVRL1):c.206G>T (p.Cys69Phe)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	533353
+single nucleotide variant	NM_000020.3(ACVRL1):c.265T>G (p.Cys89Gly)	94	ACVRL1	Likely pathogenic	GRCh38	533352
+single nucleotide variant	NM_000020.3(ACVRL1):c.925G>A (p.Gly309Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	533349
+single nucleotide variant	NM_000020.3(ACVRL1):c.58C>T (p.Gln20Ter)	94	ACVRL1	Pathogenic	GRCh38	533342
+single nucleotide variant	NM_000020.3(ACVRL1):c.137G>C (p.Cys46Ser)	94	ACVRL1	Likely pathogenic	GRCh38	533345
+single nucleotide variant	NM_000020.3(ACVRL1):c.1121G>C (p.Arg374Pro)	94	ACVRL1	Likely pathogenic	GRCh38	533351
+single nucleotide variant	NM_000020.3(ACVRL1):c.1313T>C (p.Met438Thr)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	533343
+single nucleotide variant	NM_000020.3(ACVRL1):c.1377+2T>G	94	ACVRL1	Pathogenic	GRCh38	533354
+single nucleotide variant	NM_000020.3(ACVRL1):c.1147G>T (p.Glu383Ter)	94	ACVRL1	Pathogenic	GRCh38	533347
+single nucleotide variant	NM_000020.3(ACVRL1):c.557G>T (p.Ser186Ile)	94	ACVRL1	Likely pathogenic	GRCh38	573410
+single nucleotide variant	NM_000020.3(ACVRL1):c.1007T>A (p.Val336Glu)	94	ACVRL1	Likely pathogenic	GRCh38	574660
+single nucleotide variant	NM_000020.3(ACVRL1):c.1129G>A (p.Ala377Thr)	94	ACVRL1	Pathogenic	GRCh38	575214
+single nucleotide variant	NM_000020.3(ACVRL1):c.1220A>G (p.Glu407Gly)	94	ACVRL1	Pathogenic	GRCh38	570820
+single nucleotide variant	NM_000020.3(ACVRL1):c.1246+1G>A	94	ACVRL1	Pathogenic	GRCh38	571573
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048G>C (p.Gly350Arg)	94	ACVRL1	Pathogenic	GRCh38	583213
+single nucleotide variant	NM_000020.3(ACVRL1):c.940C>T (p.His314Tyr)	94	ACVRL1	Pathogenic	GRCh38	582561
+single nucleotide variant	NM_000020.3(ACVRL1):c.526-1G>A	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	570721
+single nucleotide variant	NM_000020.3(ACVRL1):c.1221G>T (p.Glu407Asp)	94	ACVRL1	Pathogenic	GRCh38	585303
+single nucleotide variant	NM_000020.3(ACVRL1):c.1378-216C>G	94	ACVRL1	Pathogenic	GRCh38	617664
+single nucleotide variant	NM_000020.3(ACVRL1):c.264C>G (p.Tyr88Ter)	94	ACVRL1	Pathogenic	GRCh38	618515
+single nucleotide variant	NM_000020.3(ACVRL1):c.677T>A (p.Val226Glu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	617958
+single nucleotide variant	NM_000020.3(ACVRL1):c.913T>C (p.Ser305Pro)	94	ACVRL1	Pathogenic	GRCh38	617957
+single nucleotide variant	NM_000020.3(ACVRL1):c.1115C>T (p.Thr372Ile)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	618513
+single nucleotide variant	NM_000020.3(ACVRL1):c.1321G>A (p.Val441Met)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	617960
+single nucleotide variant	NM_000020.3(ACVRL1):c.190C>T (p.Gln64Ter)	94	ACVRL1	Pathogenic	GRCh38	643072
+single nucleotide variant	NM_000020.3(ACVRL1):c.267C>G (p.Cys89Trp)	94	ACVRL1	Likely pathogenic	GRCh38	652880
+single nucleotide variant	NM_000020.3(ACVRL1):c.269G>T (p.Cys90Phe)	94	ACVRL1	Pathogenic	GRCh38	652184
+single nucleotide variant	NM_000020.3(ACVRL1):c.270C>A (p.Cys90Ter)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	654296
+single nucleotide variant	NM_000020.3(ACVRL1):c.651G>A (p.Trp217Ter)	94	ACVRL1	Pathogenic	GRCh38	655621
+single nucleotide variant	NM_000020.3(ACVRL1):c.655G>C (p.Gly219Arg)	94	ACVRL1	Pathogenic	GRCh38	652625
+single nucleotide variant	NM_000020.3(ACVRL1):c.685A>G (p.Lys229Glu)	94	ACVRL1	Pathogenic	GRCh38	660559
+single nucleotide variant	NM_000020.3(ACVRL1):c.706G>A (p.Glu236Lys)	94	ACVRL1	Pathogenic	GRCh38	657805
+single nucleotide variant	NM_000020.3(ACVRL1):c.925G>C (p.Gly309Arg)	94	ACVRL1	Pathogenic	GRCh38	654628
+single nucleotide variant	NM_000020.3(ACVRL1):c.1025T>C (p.Leu342Pro)	94	ACVRL1	Pathogenic	GRCh38	639147
+single nucleotide variant	NM_000020.3(ACVRL1):c.1028A>C (p.Gln343Pro)	94	ACVRL1	Pathogenic	GRCh38	663509
+single nucleotide variant	NM_000020.3(ACVRL1):c.1030T>C (p.Cys344Arg)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	656236
+single nucleotide variant	NM_000020.3(ACVRL1):c.1031G>T (p.Cys344Phe)	94	ACVRL1	Pathogenic	GRCh38	658228
+single nucleotide variant	NM_000020.3(ACVRL1):c.1046T>C (p.Leu349Pro)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	662026
+single nucleotide variant	NM_000020.3(ACVRL1):c.1190A>T (p.Asp397Val)	94	ACVRL1	Likely pathogenic	GRCh38	658834
+single nucleotide variant	NM_000020.3(ACVRL1):c.1416G>T (p.Trp472Cys)	94	ACVRL1	Pathogenic	GRCh38	652327
+single nucleotide variant	NM_000020.3(ACVRL1):c.625+2T>C	94	ACVRL1	Pathogenic	GRCh38	641790
+single nucleotide variant	NM_000020.3(ACVRL1):c.773-3C>G	94	ACVRL1	Likely pathogenic	GRCh38	811204
+single nucleotide variant	NM_000020.3(ACVRL1):c.1132C>T (p.Pro378Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	811496
+single nucleotide variant	NM_000020.3(ACVRL1):c.334C>T (p.Gln112Ter)	94	ACVRL1	Pathogenic	GRCh38	812852
+single nucleotide variant	NM_000020.3(ACVRL1):c.647T>G (p.Val216Gly)	94	ACVRL1	Likely pathogenic	GRCh38	812853
+single nucleotide variant	NM_000020.3(ACVRL1):c.1451G>T (p.Arg484Leu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	812855
+single nucleotide variant	NM_000020.3(ACVRL1):c.122G>A (p.Cys41Tyr)	94	ACVRL1	Likely pathogenic	GRCh38	859439
+single nucleotide variant	NM_000020.3(ACVRL1):c.686A>T (p.Lys229Met)	94	ACVRL1	Pathogenic	GRCh38	839186
+single nucleotide variant	NM_000020.3(ACVRL1):c.916G>C (p.Ala306Pro)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	841374
+single nucleotide variant	NM_000020.3(ACVRL1):c.940C>A (p.His314Asn)	94	ACVRL1	Likely pathogenic	GRCh38	858433
+single nucleotide variant	NM_000020.3(ACVRL1):c.982C>T (p.His328Tyr)	94	ACVRL1	Likely pathogenic	GRCh38	848699
+single nucleotide variant	NM_000020.3(ACVRL1):c.1015A>T (p.Lys339Ter)	94	ACVRL1	Pathogenic	GRCh38	858198
+single nucleotide variant	NM_000020.3(ACVRL1):c.1042G>T (p.Asp348Tyr)	94	ACVRL1	Pathogenic	GRCh38	838286
+single nucleotide variant	NM_000020.3(ACVRL1):c.1133C>G (p.Pro378Arg)	94	ACVRL1	Likely pathogenic	GRCh38	838395
+single nucleotide variant	NM_000020.3(ACVRL1):c.1189G>A (p.Asp397Asn)	94	ACVRL1	Pathogenic	GRCh38	852370
+single nucleotide variant	NM_000020.3(ACVRL1):c.1196G>A (p.Trp399Ter)	94	ACVRL1	Pathogenic	GRCh38	857852
+single nucleotide variant	NM_000020.3(ACVRL1):c.1197G>A (p.Trp399Ter)	94	ACVRL1	Pathogenic	GRCh38	838981
+single nucleotide variant	NM_000020.3(ACVRL1):c.1271C>G (p.Pro424Arg)	94	ACVRL1	Pathogenic	GRCh38	836149
+single nucleotide variant	NM_000020.3(ACVRL1):c.1277A>G (p.Tyr426Cys)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	858147
+single nucleotide variant	NM_000020.3(ACVRL1):c.1345C>T (p.Pro449Ser)	94	ACVRL1	Pathogenic	GRCh38	856919
+single nucleotide variant	NM_000020.3(ACVRL1):c.1427C>G (p.Pro476Arg)	94	ACVRL1	Likely pathogenic	GRCh38	835099
+single nucleotide variant	NM_000020.3(ACVRL1):c.1427C>T (p.Pro476Leu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	854809
+single nucleotide variant	NM_000020.3(ACVRL1):c.772+1G>C	94	ACVRL1	Pathogenic	GRCh38	835700
+single nucleotide variant	NM_000020.3(ACVRL1):c.352C>T (p.Gln118Ter)	94	ACVRL1	Pathogenic	GRCh38	930608
+single nucleotide variant	NM_000020.3(ACVRL1):c.598C>G (p.Arg200Gly)	94	ACVRL1	Pathogenic	GRCh38	931944
+single nucleotide variant	NM_000020.3(ACVRL1):c.102C>A (p.Cys34Ter)	94	ACVRL1	Pathogenic	GRCh38	949903
+single nucleotide variant	NM_000020.3(ACVRL1):c.231C>G (p.Cys77Trp)	94	ACVRL1	Pathogenic	GRCh38	951985
+single nucleotide variant	NM_000020.3(ACVRL1):c.621T>A (p.Cys207Ter)	94	ACVRL1	Pathogenic	GRCh38	950456
+single nucleotide variant	NM_000020.3(ACVRL1):c.631G>T (p.Gly211Cys)	94	ACVRL1	Pathogenic	GRCh38	952631
+single nucleotide variant	NM_000020.3(ACVRL1):c.1120C>G (p.Arg374Gly)	94	ACVRL1	Likely pathogenic	GRCh38	946842
+single nucleotide variant	NM_000020.3(ACVRL1):c.206G>A (p.Cys69Tyr)	94	ACVRL1	Pathogenic	GRCh38	935121
+single nucleotide variant	NM_000020.3(ACVRL1):c.207C>A (p.Cys69Ter)	94	ACVRL1	Pathogenic	GRCh38	938281
+single nucleotide variant	NM_000020.3(ACVRL1):c.223G>T (p.Glu75Ter)	94	ACVRL1	Pathogenic	GRCh38	933484
+single nucleotide variant	NM_000020.3(ACVRL1):c.830C>A (p.Thr277Lys)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	941644
+single nucleotide variant	NM_000020.3(ACVRL1):c.858C>A (p.Tyr286Ter)	94	ACVRL1	Pathogenic	GRCh38	935245
+single nucleotide variant	NM_000020.3(ACVRL1):c.874C>T (p.Gln292Ter)	94	ACVRL1	Pathogenic	GRCh38	940730
+single nucleotide variant	NM_000020.3(ACVRL1):c.1419C>A (p.Tyr473Ter)	94	ACVRL1	Pathogenic	GRCh38	939034
+single nucleotide variant	NM_000020.3(ACVRL1):c.625+1G>T	94	ACVRL1	Pathogenic	GRCh38	942052
+single nucleotide variant	NM_000020.3(ACVRL1):c.724G>T (p.Glu242Ter)	94	ACVRL1	Pathogenic	GRCh38	955228
+single nucleotide variant	NM_000020.3(ACVRL1):c.475G>T (p.Glu159Ter)	94	ACVRL1	Pathogenic	GRCh38	982486
+single nucleotide variant	NM_000020.3(ACVRL1):c.626-2A>G	94	ACVRL1	Pathogenic	GRCh38	982487
+single nucleotide variant	NM_000020.3(ACVRL1):c.830C>G (p.Thr277Arg)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	982488
+single nucleotide variant	NM_000020.3(ACVRL1):c.1171G>T (p.Glu391Ter)	94	ACVRL1	Pathogenic	GRCh38	982447
+single nucleotide variant	NM_000020.3(ACVRL1):c.1298C>A (p.Pro433His)	94	ACVRL1	Likely pathogenic	GRCh38	982449
+single nucleotide variant	NM_000020.3(ACVRL1):c.1459A>C (p.Lys487Gln)	94	ACVRL1	Likely pathogenic	GRCh38	982453
+single nucleotide variant	NM_000020.3(ACVRL1):c.687G>C (p.Lys229Asn)	94	ACVRL1	Likely pathogenic	GRCh38	993409
+single nucleotide variant	NM_000020.3(ACVRL1):c.999C>G (p.Ser333Arg)	94	ACVRL1	Likely pathogenic	GRCh38	994057
+single nucleotide variant	NM_000020.3(ACVRL1):c.1411T>G (p.Cys471Gly)	94	ACVRL1	Pathogenic	GRCh38	1015010
+single nucleotide variant	NM_000020.3(ACVRL1):c.106T>C (p.Cys36Arg)	94	ACVRL1	Pathogenic	GRCh38	1066979
+single nucleotide variant	NM_000020.3(ACVRL1):c.863T>C (p.Phe288Ser)	94	ACVRL1	Likely pathogenic	GRCh38	1066572
+single nucleotide variant	NM_000020.3(ACVRL1):c.1325T>C (p.Val442Ala)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1066980
+single nucleotide variant	NM_000020.3(ACVRL1):c.121T>G (p.Cys41Gly)	94	ACVRL1	Pathogenic	GRCh38	1070651
+single nucleotide variant	NM_000020.3(ACVRL1):c.329C>A (p.Ser110Ter)	94	ACVRL1	Pathogenic	GRCh38	1073041
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+1G>T	94	ACVRL1	Pathogenic	GRCh38	1076534
+single nucleotide variant	NM_000020.3(ACVRL1):c.871A>T (p.Arg291Ter)	94	ACVRL1	Pathogenic	GRCh38	1075285
+single nucleotide variant	NM_000020.3(ACVRL1):c.1069C>T (p.Gln357Ter)	94	ACVRL1	Pathogenic	GRCh38	1074703
+single nucleotide variant	NM_000020.3(ACVRL1):c.1297C>T (p.Pro433Ser)	94	ACVRL1	Pathogenic	GRCh38	1070764
+single nucleotide variant	NM_000020.3(ACVRL1):c.199C>G (p.Arg67Gly)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1163055
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+2T>C	94	ACVRL1	Pathogenic	GRCh38	1163056
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+1G>A	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1163057
+single nucleotide variant	NM_000020.3(ACVRL1):c.1198G>C (p.Ala400Pro)	94	ACVRL1	Likely pathogenic	GRCh38	1299513
+single nucleotide variant	NM_000020.3(ACVRL1):c.983A>C (p.His328Pro)	94	ACVRL1	Pathogenic	GRCh38	1319603
+single nucleotide variant	NM_000020.3(ACVRL1):c.505C>T (p.Gln169Ter)	94	ACVRL1	Pathogenic	GRCh38	1322799
+single nucleotide variant	NM_000020.3(ACVRL1):c.205T>C (p.Cys69Arg)	94	ACVRL1	Pathogenic	GRCh38	1330268
+single nucleotide variant	NM_000020.3(ACVRL1):c.994A>G (p.Lys332Glu)	94	ACVRL1	Likely pathogenic	GRCh38	1330269
+single nucleotide variant	NM_000020.3(ACVRL1):c.868C>T (p.Gln290Ter)	94	ACVRL1	Pathogenic	GRCh38	1330270
+single nucleotide variant	NM_000020.3(ACVRL1):c.961C>T (p.Gln321Ter)	94	ACVRL1	Pathogenic	GRCh38	1330572
+single nucleotide variant	NM_000020.3(ACVRL1):c.546C>A (p.Cys182Ter)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1343364
+single nucleotide variant	NM_000020.3(ACVRL1):c.787G>A (p.Asp263Asn)	94	ACVRL1	Pathogenic	GRCh38	1412933
+single nucleotide variant	NM_000020.3(ACVRL1):c.148T>G (p.Trp50Gly)	94	ACVRL1	Likely pathogenic	GRCh38	1509350
+single nucleotide variant	NM_000020.3(ACVRL1):c.1346C>T (p.Pro449Leu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1509552
+single nucleotide variant	NM_000020.3(ACVRL1):c.1419C>G (p.Tyr473Ter)	94	ACVRL1	Pathogenic	GRCh38	1387054
+single nucleotide variant	NM_000020.3(ACVRL1):c.1195T>G (p.Trp399Gly)	94	ACVRL1	Pathogenic	GRCh38	1391866
+single nucleotide variant	NM_000020.3(ACVRL1):c.1049-1G>T	94	ACVRL1	Likely pathogenic	GRCh38	1506785
+single nucleotide variant	NM_000020.3(ACVRL1):c.663G>A (p.Trp221Ter)	94	ACVRL1	Pathogenic	GRCh38	1453216
+single nucleotide variant	NM_000020.3(ACVRL1):c.1218G>T (p.Trp406Cys)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1478836
+single nucleotide variant	NM_000020.3(ACVRL1):c.1270C>G (p.Pro424Ala)	94	ACVRL1	Likely pathogenic	GRCh38	1370768
+single nucleotide variant	NM_000020.3(ACVRL1):c.1032T>A (p.Cys344Ter)	94	ACVRL1	Pathogenic	GRCh38	1452981
+single nucleotide variant	NM_000020.3(ACVRL1):c.142G>A (p.Gly48Arg)	94	ACVRL1	Pathogenic	GRCh38	1382311
+single nucleotide variant	NM_000020.3(ACVRL1):c.1199C>A (p.Ala400Asp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1369732
+single nucleotide variant	NM_000020.3(ACVRL1):c.193G>T (p.Glu65Ter)	94	ACVRL1	Pathogenic	GRCh38	1455057
+single nucleotide variant	NM_000020.3(ACVRL1):c.881T>G (p.Leu294Arg)	94	ACVRL1	Pathogenic	GRCh38	1482657
+single nucleotide variant	NM_000020.3(ACVRL1):c.997A>T (p.Ser333Cys)	94	ACVRL1	Likely pathogenic	GRCh38	1345165
+single nucleotide variant	NM_000020.3(ACVRL1):c.980C>A (p.Ala327Asp)	94	ACVRL1	Pathogenic	GRCh38	1438780
+single nucleotide variant	NM_000020.3(ACVRL1):c.1451G>C (p.Arg484Pro)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1512139
+single nucleotide variant	NM_000020.3(ACVRL1):c.626-1G>A	94	ACVRL1	Pathogenic	GRCh38	1483676
+single nucleotide variant	NM_000020.3(ACVRL1):c.812C>A (p.Thr271Lys)	94	ACVRL1	Likely pathogenic	GRCh38	1440648
+single nucleotide variant	NM_000020.3(ACVRL1):c.1247-1G>C	94	ACVRL1	Likely pathogenic	GRCh38	1524441
+single nucleotide variant	NM_000020.3(ACVRL1):c.1339C>T (p.Gln447Ter)	94	ACVRL1	Pathogenic	GRCh38	1455285
+single nucleotide variant	NM_000020.3(ACVRL1):c.698C>G (p.Ser233Trp)	94	ACVRL1	Pathogenic	GRCh38	1455647
+single nucleotide variant	NM_000020.3(ACVRL1):c.1378-2A>G	94	ACVRL1	Pathogenic	GRCh38	1460002
+single nucleotide variant	NM_000020.3(ACVRL1):c.150G>C (p.Trp50Cys)	94	ACVRL1	Pathogenic	GRCh38	1459447
+single nucleotide variant	NM_000020.3(ACVRL1):c.313+1G>A	94	ACVRL1	Pathogenic	GRCh38	1458740
+single nucleotide variant	NM_000020.3(ACVRL1):c.151T>G (p.Cys51Gly)	94	ACVRL1	Likely pathogenic	GRCh38	1381345
+single nucleotide variant	NM_000020.3(ACVRL1):c.1124A>T (p.Tyr375Phe)	94	ACVRL1	Likely pathogenic	GRCh38	1493099
+single nucleotide variant	NM_000020.3(ACVRL1):c.286A>G (p.Asn96Asp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1698794
+single nucleotide variant	NM_000020.3(ACVRL1):c.968A>C (p.Lys323Thr)	94	ACVRL1	Likely pathogenic	GRCh38	1714961
+single nucleotide variant	NM_000020.3(ACVRL1):c.423G>A (p.Trp141Ter)	94	ACVRL1	Pathogenic	GRCh38	1738981
+single nucleotide variant	NM_000020.3(ACVRL1):c.1130C>T (p.Ala377Val)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1728213
+single nucleotide variant	NM_000020.3(ACVRL1):c.310G>T (p.Glu104Ter)	94	ACVRL1	Pathogenic	GRCh38	1727739
+single nucleotide variant	NM_000020.3(ACVRL1):c.313+2T>C	94	ACVRL1	Likely pathogenic	GRCh38	1727957
+single nucleotide variant	NM_000020.3(ACVRL1):c.1136A>C (p.Glu379Ala)	94	ACVRL1	Likely pathogenic	GRCh38	1729692
+single nucleotide variant	NM_000020.3(ACVRL1):c.1012G>T (p.Val338Phe)	94	ACVRL1	Likely pathogenic	GRCh38	1734682
+single nucleotide variant	NM_000020.3(ACVRL1):c.1208T>C (p.Leu403Pro)	94	ACVRL1	Likely pathogenic	GRCh38	1749360
+single nucleotide variant	NM_000020.3(ACVRL1):c.625G>C (p.Gly209Arg)	94	ACVRL1	Likely pathogenic	GRCh38	1752493
+single nucleotide variant	NM_000020.3(ACVRL1):c.649T>G (p.Trp217Gly)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1753890
+single nucleotide variant	NM_000020.3(ACVRL1):c.643G>T (p.Glu215Ter)	94	ACVRL1	Pathogenic	GRCh38	1753546
+single nucleotide variant	NM_000020.3(ACVRL1):c.526-1G>C	94	ACVRL1	Likely pathogenic	GRCh38	1746451
+single nucleotide variant	NM_000020.3(ACVRL1):c.526-7C>G	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1746471
+single nucleotide variant	NM_000020.3(ACVRL1):c.639T>A (p.Tyr213Ter)	94	ACVRL1	Pathogenic	GRCh38	1753284
+single nucleotide variant	NM_000020.3(ACVRL1):c.101G>A (p.Cys34Tyr)	94	ACVRL1	Pathogenic	GRCh38	1756072
+single nucleotide variant	NM_000020.3(ACVRL1):c.839A>G (p.His280Arg)	94	ACVRL1	Likely pathogenic	GRCh38	1763210
+single nucleotide variant	NM_000020.3(ACVRL1):c.1275C>G (p.Phe425Leu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1766369
+single nucleotide variant	NM_000020.3(ACVRL1):c.926G>A (p.Gly309Asp)	94	ACVRL1	Pathogenic	GRCh38	1766394
+single nucleotide variant	NM_000020.3(ACVRL1):c.926G>T (p.Gly309Val)	94	ACVRL1	Likely pathogenic	GRCh38	1766395
+single nucleotide variant	NM_000020.3(ACVRL1):c.716G>A (p.Trp239Ter)	94	ACVRL1	Pathogenic	GRCh38	1757473
+single nucleotide variant	NM_000020.3(ACVRL1):c.717G>A (p.Trp239Ter)	94	ACVRL1	Pathogenic	GRCh38	1757522
+single nucleotide variant	NM_000020.3(ACVRL1):c.866T>C (p.Leu289Pro)	94	ACVRL1	Pathogenic	GRCh38	1764244
+single nucleotide variant	NM_000020.3(ACVRL1):c.1023C>G (p.Asn341Lys)	94	ACVRL1	Likely pathogenic	GRCh38	1765817
+single nucleotide variant	NM_000020.3(ACVRL1):c.1273T>A (p.Phe425Ile)	94	ACVRL1	Likely pathogenic	GRCh38	1766106
+single nucleotide variant	NM_000020.3(ACVRL1):c.967A>G (p.Lys323Glu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1767756
+single nucleotide variant	NM_000020.3(ACVRL1):c.73A>T (p.Lys25Ter)	94	ACVRL1	Pathogenic	GRCh38	1758713
+single nucleotide variant	NM_000020.3(ACVRL1):c.772+5G>A	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1760317
+single nucleotide variant	NM_000020.3(ACVRL1):c.1271C>T (p.Pro424Leu)	94	ACVRL1	Pathogenic	GRCh38	1765563
+single nucleotide variant	NM_000020.3(ACVRL1):c.956G>A (p.Gly319Asp)	94	ACVRL1	Likely pathogenic	GRCh38	1767415
+single nucleotide variant	NM_000020.3(ACVRL1):c.1261T>G (p.Tyr421Asp)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1763363
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+1G>T	94	ACVRL1	Pathogenic	GRCh38	1775887
+single nucleotide variant	NM_000020.3(ACVRL1):c.988G>A (p.Asp330Asn)	94	ACVRL1	Likely pathogenic	GRCh38	1768498
+single nucleotide variant	NM_000020.3(ACVRL1):c.1329T>A (p.Cys443Ter)	94	ACVRL1	Pathogenic	GRCh38	1770089
+single nucleotide variant	NM_000020.3(ACVRL1):c.1416G>A (p.Trp472Ter)	94	ACVRL1	Pathogenic	GRCh38	1772142
+single nucleotide variant	NM_000020.3(ACVRL1):c.154A>C (p.Thr52Pro)	94	ACVRL1	Likely pathogenic	GRCh38	1775004
+single nucleotide variant	NM_000020.3(ACVRL1):c.1438C>T (p.Leu480Phe)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1772647
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048G>A (p.Gly350Ser)	94	ACVRL1	Likely pathogenic	GRCh38	1776158
+single nucleotide variant	NM_000020.3(ACVRL1):c.1083C>A (p.Tyr361Ter)	94	ACVRL1	Pathogenic	GRCh38	1786942
+single nucleotide variant	NM_000020.3(ACVRL1):c.235G>A (p.Gly79Arg)	94	ACVRL1	Likely pathogenic	GRCh38	1790138
+single nucleotide variant	NM_000020.3(ACVRL1):c.107G>A (p.Cys36Tyr)	94	ACVRL1	Likely pathogenic	GRCh38	1786073
+single nucleotide variant	NM_000020.3(ACVRL1):c.270C>G (p.Cys90Trp)	94	ACVRL1	Pathogenic	GRCh38	1795042
+single nucleotide variant	NM_000020.3(ACVRL1):c.229T>C (p.Cys77Arg)	94	ACVRL1	Likely pathogenic	GRCh38	1789243
+single nucleotide variant	NM_000020.3(ACVRL1):c.287A>G (p.Asn96Ser)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1797148
+single nucleotide variant	NM_000020.3(ACVRL1):c.1125C>A (p.Tyr375Ter)	94	ACVRL1	Pathogenic	GRCh38	1798876
+single nucleotide variant	NM_000020.3(ACVRL1):c.1123T>C (p.Tyr375His)	94	ACVRL1	Likely pathogenic	GRCh38	1798515
+single nucleotide variant	NM_000020.3(ACVRL1):c.625+1G>A	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	1803109
+single nucleotide variant	NM_000020.3(ACVRL1):c.988G>T (p.Asp330Tyr)	94	ACVRL1	Pathogenic	GRCh38	2137371
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+5G>A	94	ACVRL1	Likely pathogenic	GRCh38	2137372
+single nucleotide variant	NM_000020.3(ACVRL1):c.1198G>A (p.Ala400Thr)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	2169570
+single nucleotide variant	NM_000020.3(ACVRL1):c.100T>C (p.Cys34Arg)	94	ACVRL1	Pathogenic	GRCh38	1903167
+single nucleotide variant	NM_000020.3(ACVRL1):c.1044C>G (p.Asp348Glu)	94	ACVRL1	Pathogenic	GRCh38	1944271
+single nucleotide variant	NM_000020.3(ACVRL1):c.61+1G>A	94	ACVRL1	Likely pathogenic	GRCh38	1962398
+single nucleotide variant	NM_000020.3(ACVRL1):c.619T>G (p.Cys207Gly)	94	ACVRL1	Pathogenic	GRCh38	2012095
+single nucleotide variant	NM_000020.3(ACVRL1):c.1035C>A (p.Cys345Ter)	94	ACVRL1	Pathogenic	GRCh38	2029849
+single nucleotide variant	NM_000020.3(ACVRL1):c.1010T>G (p.Leu337Arg)	94	ACVRL1	Likely pathogenic	GRCh38	2029851
+single nucleotide variant	NM_000020.3(ACVRL1):c.990C>G (p.Asp330Glu)	94	ACVRL1	Pathogenic	GRCh38	2036560
+single nucleotide variant	NM_000020.3(ACVRL1):c.938T>G (p.Leu313Arg)	94	ACVRL1	Pathogenic	GRCh38	2052691
+single nucleotide variant	NM_000020.3(ACVRL1):c.688A>T (p.Ile230Phe)	94	ACVRL1	Likely pathogenic	GRCh38	2097422
+single nucleotide variant	NM_000020.3(ACVRL1):c.151T>A (p.Cys51Ser)	94	ACVRL1	Likely pathogenic	GRCh38	2132509
+single nucleotide variant	NM_000020.3(ACVRL1):c.1315A>T (p.Lys439Ter)	94	ACVRL1	Pathogenic	GRCh38	2133957
+single nucleotide variant	NM_000020.3(ACVRL1):c.61+1G>T	94	ACVRL1	Likely pathogenic	GRCh38	2136051
+single nucleotide variant	NM_000020.3(ACVRL1):c.1378-78T>G	94	ACVRL1	Likely pathogenic	GRCh38	2562381
+single nucleotide variant	NM_000020.3(ACVRL1):c.905T>G (p.Leu302Arg)	94	ACVRL1	Pathogenic	GRCh38	2575935
+single nucleotide variant	NM_000020.3(ACVRL1):c.1438C>A (p.Leu480Ile)	94	ACVRL1	Likely pathogenic	GRCh38	2696670
+single nucleotide variant	NM_000020.3(ACVRL1):c.1136A>T (p.Glu379Val)	94	ACVRL1	Likely pathogenic	GRCh38	2696146
+single nucleotide variant	NM_000020.3(ACVRL1):c.313+1G>C	94	ACVRL1	Pathogenic	GRCh38	2692849
+single nucleotide variant	NM_000020.3(ACVRL1):c.1261T>A (p.Tyr421Asn)	94	ACVRL1	Likely pathogenic	GRCh38	2708757
+single nucleotide variant	NM_000020.3(ACVRL1):c.205T>G (p.Cys69Gly)	94	ACVRL1	Likely pathogenic	GRCh38	2718224
+single nucleotide variant	NM_000020.3(ACVRL1):c.830C>T (p.Thr277Met)	94	ACVRL1	Likely pathogenic	GRCh38	2731545
+single nucleotide variant	NM_000020.3(ACVRL1):c.586A>G (p.Arg196Gly)	94	ACVRL1	Pathogenic	GRCh38	2730926
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+1G>C	94	ACVRL1	Pathogenic	GRCh38	2735865
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+3A>G	94	ACVRL1	Pathogenic	GRCh38	2735866
+single nucleotide variant	NM_000020.3(ACVRL1):c.526G>T (p.Asp176Tyr)	94	ACVRL1	Likely pathogenic	GRCh38	2735867
+single nucleotide variant	NM_000020.3(ACVRL1):c.583C>T (p.Gln195Ter)	94	ACVRL1	Pathogenic	GRCh38	2735868
+single nucleotide variant	NM_000020.3(ACVRL1):c.631G>A (p.Gly211Ser)	94	ACVRL1	Pathogenic	GRCh38	2735869
+single nucleotide variant	NM_000020.3(ACVRL1):c.670G>A (p.Glu224Lys)	94	ACVRL1	Pathogenic	GRCh38	2735870
+single nucleotide variant	NM_000020.3(ACVRL1):c.686A>G (p.Lys229Arg)	94	ACVRL1	Likely pathogenic	GRCh38	2735871
+single nucleotide variant	NM_000020.3(ACVRL1):c.1039G>C (p.Ala347Pro)	94	ACVRL1	Likely pathogenic	GRCh38	2735872
+single nucleotide variant	NM_000020.3(ACVRL1):c.1133C>A (p.Pro378His)	94	ACVRL1	Pathogenic	GRCh38	2735873
+single nucleotide variant	NM_000020.3(ACVRL1):c.1133C>T (p.Pro378Leu)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	2735875
+single nucleotide variant	NM_000020.3(ACVRL1):c.1396C>T (p.Gln466Ter)	94	ACVRL1	Pathogenic	GRCh38	2735879
+single nucleotide variant	NM_000020.3(ACVRL1):c.1445C>A (p.Ala482Glu)	94	ACVRL1	Pathogenic	GRCh38	2735880
+single nucleotide variant	NM_000020.3(ACVRL1):c.935A>C (p.His312Pro)	94	ACVRL1	Likely pathogenic	GRCh38	2754837
+single nucleotide variant	NM_000020.3(ACVRL1):c.1055C>T (p.Ala352Val)	94	ACVRL1	Likely pathogenic	GRCh38	2750999
+single nucleotide variant	NM_000020.3(ACVRL1):c.1136A>G (p.Glu379Gly)	94	ACVRL1	Likely pathogenic	GRCh38	2748456
+single nucleotide variant	NM_000020.3(ACVRL1):c.286A>C (p.Asn96His)	94	ACVRL1	Pathogenic	GRCh38	2762912
+single nucleotide variant	NM_000020.3(ACVRL1):c.983A>G (p.His328Arg)	94	ACVRL1	Likely pathogenic	GRCh38	2769764
+single nucleotide variant	NM_000020.3(ACVRL1):c.670G>T (p.Glu224Ter)	94	ACVRL1	Pathogenic	GRCh38	2815830
+single nucleotide variant	NM_000020.3(ACVRL1):c.1327T>G (p.Cys443Gly)	94	ACVRL1	Pathogenic	GRCh38	2810923
+single nucleotide variant	NM_000020.3(ACVRL1):c.1411T>C (p.Cys471Arg)	94	ACVRL1	Pathogenic	GRCh38	2811227
+single nucleotide variant	NM_000020.3(ACVRL1):c.1042G>C (p.Asp348His)	94	ACVRL1	Pathogenic	GRCh38	2817915
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+2T>C	94	ACVRL1	Pathogenic	GRCh38	2868535
+single nucleotide variant	NM_000020.3(ACVRL1):c.1199C>T (p.Ala400Val)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	2910313
+single nucleotide variant	NM_000020.3(ACVRL1):c.806C>A (p.Ser269Ter)	94	ACVRL1	Pathogenic	GRCh38	2972698
+single nucleotide variant	NM_000020.3(ACVRL1):c.100T>A (p.Cys34Ser)	94	ACVRL1	Pathogenic	GRCh38	2982311
+single nucleotide variant	NM_000020.3(ACVRL1):c.988G>C (p.Asp330His)	94	ACVRL1	Likely pathogenic	GRCh38	3068644
+single nucleotide variant	NM_000020.3(ACVRL1):c.917C>A (p.Ala306Glu)	94	ACVRL1	Likely pathogenic	GRCh38	3337783
+single nucleotide variant	NM_000020.3(ACVRL1):c.626-1G>T	94	ACVRL1	Likely pathogenic	GRCh38	3338273
+single nucleotide variant	NM_000020.3(ACVRL1):c.822G>C (p.Trp274Cys)	94	ACVRL1	Likely pathogenic	GRCh38	3377243
+single nucleotide variant	NM_000020.3(ACVRL1):c.525+3A>T	94	ACVRL1	Likely pathogenic	GRCh38	3382906
+single nucleotide variant	NM_000020.3(ACVRL1):c.984C>G (p.His328Gln)	94	ACVRL1	Likely pathogenic	GRCh38	3485591
+single nucleotide variant	NM_000020.3(ACVRL1):c.62-2A>G	94	ACVRL1	Likely pathogenic	GRCh38	3574931
+single nucleotide variant	NM_000020.3(ACVRL1):c.1435C>G (p.Arg479Gly)	94	ACVRL1	Likely pathogenic	GRCh38	3635229
+single nucleotide variant	NM_000020.3(ACVRL1):c.143G>T (p.Gly48Val)	94	ACVRL1	Pathogenic	GRCh38	3635217
+single nucleotide variant	NM_000020.3(ACVRL1):c.265T>A (p.Cys89Ser)	94	ACVRL1	Pathogenic	GRCh38	3635218
+single nucleotide variant	NM_000020.3(ACVRL1):c.632G>T (p.Gly211Val)	94	ACVRL1	Likely pathogenic	GRCh38	3635222
+single nucleotide variant	NM_000020.3(ACVRL1):c.788A>T (p.Asp263Val)	94	ACVRL1	Likely pathogenic	GRCh38	3635223
+single nucleotide variant	NM_000020.3(ACVRL1):c.1034G>T (p.Cys345Phe)	94	ACVRL1	Pathogenic	GRCh38	3635224
+single nucleotide variant	NM_000020.3(ACVRL1):c.821G>A (p.Trp274Ter)	94	ACVRL1	Pathogenic	GRCh38	3656585
+single nucleotide variant	NM_000020.3(ACVRL1):c.590C>G (p.Thr197Arg)	94	ACVRL1	Likely pathogenic	GRCh38	3709108
+single nucleotide variant	NM_000020.3(ACVRL1):c.1048+1G>C	94	ACVRL1	Pathogenic	GRCh38	3712264
+single nucleotide variant	NM_000020.3(ACVRL1):c.121T>C (p.Cys41Arg)	94	ACVRL1	Pathogenic	GRCh38	3721148
+single nucleotide variant	NM_000020.3(ACVRL1):c.590C>T (p.Thr197Ile)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	3721151
+single nucleotide variant	NM_000020.3(ACVRL1):c.773-2A>C	94	ACVRL1	Pathogenic	GRCh38	3721152
+single nucleotide variant	NM_000020.3(ACVRL1):c.937C>G (p.Leu313Val)	94	ACVRL1	Pathogenic	GRCh38	3721153
+single nucleotide variant	NM_000020.3(ACVRL1):c.1127T>A (p.Met376Lys)	94	ACVRL1	Pathogenic	GRCh38	3721154
+single nucleotide variant	NM_000020.3(ACVRL1):c.1139T>G (p.Val380Gly)	94	ACVRL1	Pathogenic	GRCh38	3721155
+single nucleotide variant	NM_000020.3(ACVRL1):c.1378-1G>C	94	ACVRL1	Pathogenic	GRCh38	3724736
+single nucleotide variant	NM_000020.3(ACVRL1):c.1246+1G>T	94	ACVRL1	Pathogenic	GRCh38	3728340
+single nucleotide variant	NM_000020.3(ACVRL1):c.1247-2A>G	94	ACVRL1	Likely pathogenic	GRCh38	3729075
+single nucleotide variant	NM_000020.3(ACVRL1):c.61+2T>C	94	ACVRL1	Likely pathogenic	GRCh38	3769871
+single nucleotide variant	NM_000020.3(ACVRL1):c.709C>T (p.Gln237Ter)	94	ACVRL1	Pathogenic	GRCh38	3911741
+single nucleotide variant	NM_000020.3(ACVRL1):c.656G>A (p.Gly219Asp)	94	ACVRL1	Likely pathogenic	GRCh38	4003295
+single nucleotide variant	NM_000020.3(ACVRL1):c.862T>C (p.Phe288Leu)	94	ACVRL1	Likely pathogenic	GRCh38	4056376
+single nucleotide variant	NM_000020.3(ACVRL1):c.1263T>G (p.Tyr421Ter)	94	ACVRL1	Pathogenic	GRCh38	4085551
+single nucleotide variant	NM_000020.3(ACVRL1):c.1219G>C (p.Glu407Gln)	94	ACVRL1	Likely pathogenic	GRCh38	4531426
+single nucleotide variant	NM_000020.3(ACVRL1):c.656G>T (p.Gly219Val)	94	ACVRL1	Likely pathogenic	GRCh38	4613368
+single nucleotide variant	NM_000020.3(ACVRL1):c.827T>G (p.Ile276Ser)	94	ACVRL1	Likely pathogenic	GRCh38	4613369
+single nucleotide variant	NM_000020.3(ACVRL1):c.62-1G>A	94	ACVRL1	Likely pathogenic	GRCh38	4683105
+single nucleotide variant	NM_000020.3(ACVRL1):c.1150C>T (p.Gln384Ter)	94	ACVRL1	Pathogenic/Likely pathogenic	GRCh38	4685539
+single nucleotide variant	NM_000020.3(ACVRL1):c.602A>C (p.Gln201Pro)	94	ACVRL1	Pathogenic	GRCh38	4709968
+single nucleotide variant	NM_000020.3(ACVRL1):c.662G>A (p.Trp221Ter)	94	ACVRL1	Pathogenic	GRCh38	4709970
+single nucleotide variant	NM_000020.3(ACVRL1):c.422G>A (p.Trp141Ter)	94	ACVRL1	Pathogenic	GRCh38	4719996
+single nucleotide variant	NM_000020.3(ACVRL1):c.247G>T (p.Glu83Ter)	94	ACVRL1	Pathogenic	GRCh38	4723345
+single nucleotide variant	NM_000020.3(ACVRL1):c.121T>A (p.Cys41Ser)	94	ACVRL1	Likely pathogenic	GRCh38	4801294
+single nucleotide variant	NM_000020.3(ACVRL1):c.152G>T (p.Cys51Phe)	94	ACVRL1	Likely pathogenic	GRCh38	4801295
+single nucleotide variant	NM_000020.3(ACVRL1):c.153C>G (p.Cys51Trp)	94	ACVRL1	Likely pathogenic	GRCh38	4801296
+single nucleotide variant	NM_000020.3(ACVRL1):c.1216T>A (p.Trp406Arg)	94	ACVRL1	Likely pathogenic	GRCh38	4801298
+single nucleotide variant	NM_000020.3(ACVRL1):c.1184G>A (p.Trp395Ter)	94	ACVRL1	Pathogenic	GRCh38	4813218
+single nucleotide variant	NM_000020.3(ACVRL1):c.942C>G (p.His314Gln)	94	ACVRL1	Likely pathogenic	GRCh38	4827318
+single nucleotide variant	NM_000020.3(ACVRL1):c.284G>C (p.Cys95Ser)	94	ACVRL1	Likely pathogenic	GRCh38	4880483

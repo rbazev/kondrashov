@@ -1,0 +1,78 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020919.3(ALS2):c.1472_1481delTTTCCCCCAG	57679	ALS2	Pathogenic	GRCh38	4409
+single nucleotide variant	NM_020919.4(ALS2):c.2992C>T (p.Arg998Ter)	57679	ALS2	Pathogenic	GRCh38	4413
+single nucleotide variant	NM_020919.4(ALS2):c.470G>A (p.Cys157Tyr)	57679	ALS2	Likely pathogenic	GRCh38	4415
+single nucleotide variant	NM_020919.4(ALS2):c.2980-2A>G	57679	ALS2	Pathogenic	GRCh38	4416
+single nucleotide variant	NM_020919.4(ALS2):c.2143C>T (p.Gln715Ter)	57679	ALS2	Pathogenic	GRCh38	4417
+single nucleotide variant	NM_020919.4(ALS2):c.1999-2A>T	57679	ALS2	Pathogenic	GRCh38	42060
+single nucleotide variant	NM_020919.4(ALS2):c.1619G>A (p.Gly540Glu)	57679	ALS2	Pathogenic	GRCh38	42137
+single nucleotide variant	NM_020919.4(ALS2):c.2761C>T (p.Arg921Ter)	57679	ALS2	Pathogenic	GRCh38	100653
+single nucleotide variant	NM_020919.4(ALS2):c.2002G>T (p.Gly668Ter)	57679	ALS2	Pathogenic	GRCh38	183239
+single nucleotide variant	NM_020919.4(ALS2):c.4261C>T (p.Arg1421Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	242457
+single nucleotide variant	NM_020919.4(ALS2):c.1911C>A (p.Tyr637Ter)	57679	ALS2	Likely pathogenic	GRCh38	242456
+single nucleotide variant	NM_020919.4(ALS2):c.2581-1G>C	57679	ALS2	Likely pathogenic	GRCh38	392097
+single nucleotide variant	NM_020919.4(ALS2):c.3415C>T (p.Arg1139Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	393199
+single nucleotide variant	NM_020919.4(ALS2):c.368G>A (p.Cys123Tyr)	57679	ALS2	Likely pathogenic	GRCh38	389830
+single nucleotide variant	NM_020919.4(ALS2):c.1816-1G>A	57679	ALS2	Likely pathogenic	GRCh38	412209
+single nucleotide variant	NM_020919.4(ALS2):c.3158G>A (p.Trp1053Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	425255
+single nucleotide variant	NM_020919.4(ALS2):c.535C>T (p.Gln179Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	504305
+single nucleotide variant	NM_020919.4(ALS2):c.1233T>G (p.Tyr411Ter)	57679	ALS2	Pathogenic	GRCh38	533743
+single nucleotide variant	NM_020919.4(ALS2):c.1921C>T (p.Gln641Ter)	57679	ALS2	Pathogenic	GRCh38	533744
+single nucleotide variant	NM_020919.4(ALS2):c.3520A>T (p.Lys1174Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	645923
+single nucleotide variant	NM_020919.4(ALS2):c.3161T>C (p.Leu1054Pro)	57679	ALS2	Likely pathogenic	GRCh38	694321
+single nucleotide variant	NM_020919.4(ALS2):c.1718C>A (p.Ala573Glu)	57679	ALS2	Likely pathogenic	GRCh38	694319
+single nucleotide variant	NM_020919.4(ALS2):c.1044C>G (p.Tyr348Ter)	57679	ALS2	Pathogenic	GRCh38	694320
+single nucleotide variant	NM_020919.4(ALS2):c.1471+1G>A	57679	ALS2	Likely pathogenic	GRCh38	694323
+single nucleotide variant	NM_020919.4(ALS2):c.2104G>T (p.Glu702Ter)	57679	ALS2	Likely pathogenic	GRCh38	804391
+single nucleotide variant	NM_020919.4(ALS2):c.601C>T (p.Arg201Ter)	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	804392
+single nucleotide variant	NM_020919.4(ALS2):c.3583G>T (p.Gly1195Ter)	57679	ALS2	Pathogenic	GRCh38	807368
+single nucleotide variant	NM_020919.4(ALS2):c.2737C>T (p.Arg913Ter)	57679	ALS2	Pathogenic	GRCh38	870950
+single nucleotide variant	NM_020919.4(ALS2):c.4808C>T (p.Pro1603Leu)	57679	ALS2	Likely pathogenic	GRCh38	873269
+single nucleotide variant	NM_020919.4(ALS2):c.4381C>T (p.Arg1461Ter)	57679	ALS2	Pathogenic	GRCh38	873268
+single nucleotide variant	NM_020919.4(ALS2):c.2221C>T (p.Arg741Ter)	57679	ALS2	Pathogenic	GRCh38	961004
+single nucleotide variant	NM_020919.4(ALS2):c.1652T>A (p.Leu551Ter)	57679	ALS2	Pathogenic	GRCh38	987220
+single nucleotide variant	NM_020919.4(ALS2):c.3513-1G>A	57679	ALS2	Pathogenic	GRCh38	989000
+single nucleotide variant	NM_020919.4(ALS2):c.3221G>A (p.Gly1074Asp)	57679	ALS2	Pathogenic	GRCh38	988999
+single nucleotide variant	NM_020919.4(ALS2):c.4004+1G>A	57679	ALS2	Likely pathogenic	GRCh38	1068277
+single nucleotide variant	NM_020919.4(ALS2):c.3624+1G>A	57679	ALS2	Pathogenic	GRCh38	1066545
+single nucleotide variant	NM_020919.4(ALS2):c.3348-1G>A	57679	ALS2	Likely pathogenic	GRCh38	1068440
+single nucleotide variant	NM_020919.4(ALS2):c.3248+1G>T	57679	ALS2	Likely pathogenic	GRCh38	1067930
+single nucleotide variant	NM_020919.4(ALS2):c.2842-2A>G	57679	ALS2	Likely pathogenic	GRCh38	1068121
+single nucleotide variant	NM_020919.4(ALS2):c.1640+1G>A	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	1180678
+single nucleotide variant	NM_020919.4(ALS2):c.691C>T (p.Arg231Ter)	57679	ALS2	Likely pathogenic	GRCh38	1180696
+single nucleotide variant	NM_020919.4(ALS2):c.4626+1G>A	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	1184930
+single nucleotide variant	NM_020919.4(ALS2):c.1649C>T (p.Pro550Leu)	57679	ALS2	Likely pathogenic	GRCh38	1339519
+single nucleotide variant	NM_020919.4(ALS2):c.1114-1G>A	57679	ALS2	Likely pathogenic	GRCh38	1510959
+single nucleotide variant	NM_020919.4(ALS2):c.4528C>T (p.Arg1510Ter)	57679	ALS2	Pathogenic	GRCh38	1446510
+single nucleotide variant	NM_020919.4(ALS2):c.3703-2A>G	57679	ALS2	Pathogenic/Likely pathogenic	GRCh38	1482490
+single nucleotide variant	NM_020919.4(ALS2):c.4223T>A (p.Leu1408Ter)	57679	ALS2	Pathogenic	GRCh38	1678521
+single nucleotide variant	NM_020919.4(ALS2):c.4270C>T (p.Gln1424Ter)	57679	ALS2	Pathogenic	GRCh38	1679834
+single nucleotide variant	NM_020919.4(ALS2):c.347G>A (p.Gly116Glu)	57679	ALS2	Pathogenic	GRCh38	1693001
+single nucleotide variant	NM_020919.4(ALS2):c.2580+2T>C	57679	ALS2	Pathogenic	GRCh38	1693002
+single nucleotide variant	NM_020919.4(ALS2):c.2417+1G>C	57679	ALS2	Pathogenic	GRCh38	1693003
+single nucleotide variant	NM_020919.4(ALS2):c.2713-2A>C	57679	ALS2	Pathogenic	GRCh38	1693004
+single nucleotide variant	NM_020919.4(ALS2):c.142C>G (p.Leu48Val)	57679	ALS2	Likely pathogenic	GRCh38	1699990
+single nucleotide variant	NM_020919.4(ALS2):c.3829A>T (p.Lys1277Ter)	57679	ALS2	Pathogenic	GRCh38	1805070
+single nucleotide variant	NM_020919.4(ALS2):c.1250C>A (p.Ser417Ter)	57679	ALS2	Likely pathogenic	GRCh38	1810202
+single nucleotide variant	NM_020919.4(ALS2):c.2839C>T (p.Gln947Ter)	57679	ALS2	Pathogenic	GRCh38	2155448
+single nucleotide variant	NM_020919.4(ALS2):c.2527C>T (p.Arg843Ter)	57679	ALS2	Pathogenic	GRCh38	2184611
+single nucleotide variant	NM_020919.4(ALS2):c.3070C>T (p.Gln1024Ter)	57679	ALS2	Pathogenic	GRCh38	2115520
+single nucleotide variant	NM_020919.4(ALS2):c.2110C>T (p.Arg704Ter)	57679	ALS2	Pathogenic	GRCh38	2444743
+single nucleotide variant	NM_020919.4(ALS2):c.3703-2A>C	57679	ALS2	Pathogenic	GRCh38	2503048
+single nucleotide variant	NM_020919.4(ALS2):c.4670A>G (p.Glu1557Gly)	57679	ALS2	Likely pathogenic	GRCh38	2574619
+single nucleotide variant	NM_020919.4(ALS2):c.3513-2A>T	57679	ALS2	Likely pathogenic	GRCh38	2585030
+single nucleotide variant	NM_020919.4(ALS2):c.4403+2T>A	57679	ALS2	Likely pathogenic	GRCh38	2716478
+single nucleotide variant	NM_020919.4(ALS2):c.114G>A (p.Trp38Ter)	57679	ALS2	Pathogenic	GRCh38	2796368
+single nucleotide variant	NM_020919.4(ALS2):c.460C>T (p.Gln154Ter)	57679	ALS2	Pathogenic	GRCh38	2808755
+single nucleotide variant	NM_020919.4(ALS2):c.641T>G (p.Leu214Ter)	57679	ALS2	Pathogenic	GRCh38	2822022
+single nucleotide variant	NM_020919.4(ALS2):c.3248+1G>C	57679	ALS2	Likely pathogenic	GRCh38	2818379
+single nucleotide variant	NM_020919.4(ALS2):c.2880G>A (p.Trp960Ter)	57679	ALS2	Pathogenic	GRCh38	2866395
+single nucleotide variant	NM_020919.4(ALS2):c.4838+1G>A	57679	ALS2	Likely pathogenic	GRCh38	2862603
+single nucleotide variant	NM_020919.4(ALS2):c.4123-2A>G	57679	ALS2	Likely pathogenic	GRCh38	2975816
+single nucleotide variant	NM_020919.4(ALS2):c.3249-2A>T	57679	ALS2	Likely pathogenic	GRCh38	3220897
+single nucleotide variant	NM_020919.4(ALS2):c.1250C>G (p.Ser417Ter)	57679	ALS2	Pathogenic	GRCh38	3359053
+single nucleotide variant	NM_020919.4(ALS2):c.3183-2A>G	57679	ALS2	Likely pathogenic	GRCh38	3647256
+single nucleotide variant	NM_020919.4(ALS2):c.145G>A (p.Gly49Arg)	57679	ALS2	Pathogenic	GRCh38	3668681
+single nucleotide variant	NM_020919.4(ALS2):c.3686G>A (p.Trp1229Ter)	57679	ALS2	Likely pathogenic	GRCh38	4278025
+single nucleotide variant	NM_020919.4(ALS2):c.3004C>T (p.Gln1002Ter)	57679	ALS2	Pathogenic	GRCh38	4705719
+single nucleotide variant	NM_020919.4(ALS2):c.4515G>A (p.Trp1505Ter)	57679	ALS2	Pathogenic	GRCh38	4724689

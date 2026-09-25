@@ -60,7 +60,7 @@ single nucleotide variant	NM_147127.5(EVC2):c.668C>A (p.Ser223Ter)	132884	EVC2	P
 single nucleotide variant	NM_147127.5(EVC2):c.3361-2A>G	132884	EVC2	Likely pathogenic	GRCh38	848482
 single nucleotide variant	NM_147127.5(EVC2):c.1882G>T (p.Glu628Ter)	132884	EVC2	Likely pathogenic	GRCh38	931406
 single nucleotide variant	NM_147127.5(EVC2):c.519+2T>C	132884	EVC2	Pathogenic	GRCh38	937816
-single nucleotide variant	NM_147127.5(EVC2):c.2833C>T (p.Arg945Ter)	132884	EVC2	Pathogenic	GRCh38	986352
+single nucleotide variant	NM_147127.5(EVC2):c.2833C>T (p.Arg945Ter)	132884	EVC2	Pathogenic/Likely pathogenic	GRCh38	986352
 single nucleotide variant	NM_147127.5(EVC2):c.2483G>A (p.Trp828Ter)	132884	EVC2	Pathogenic	GRCh38	993460
 single nucleotide variant	NM_147127.5(EVC2):c.3751G>T (p.Glu1251Ter)	132884	EVC2	Pathogenic	GRCh38	1007423
 single nucleotide variant	NM_147127.5(EVC2):c.2706+1G>A	132884	EVC2	Likely pathogenic	GRCh38	1066264
@@ -172,3 +172,4 @@ single nucleotide variant	NM_147127.5(EVC2):c.451-1G>T	132884	EVC2	Likely pathog
 single nucleotide variant	NM_147127.5(EVC2):c.969T>A (p.Tyr323Ter)	132884	EVC2	Likely pathogenic	GRCh38	4081380
 single nucleotide variant	NM_147127.5(EVC2):c.1816G>T (p.Glu606Ter)	132884	EVC2	Pathogenic	GRCh38	4787399
 single nucleotide variant	NM_147127.5(EVC2):c.1711-2A>C	132884	EVC2	Pathogenic	GRCh38	4852524
+single nucleotide variant	NM_147127.5(EVC2):c.2581C>T (p.Gln861Ter)	132884	EVC2	Pathogenic	GRCh38	4875596

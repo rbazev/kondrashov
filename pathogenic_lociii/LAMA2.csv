@@ -1,0 +1,513 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000426.4(LAMA2):c.3718C>T (p.Gln1240Ter)	3908	LAMA2	Pathogenic	GRCh38	14290
+single nucleotide variant	NM_000426.4(LAMA2):c.9253C>T (p.Arg3085Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	14291
+single nucleotide variant	NM_000426.4(LAMA2):c.7732C>T (p.Arg2578Ter)	3908	LAMA2	Pathogenic	GRCh38	14296
+single nucleotide variant	NM_000426.4(LAMA2):c.4645C>T (p.Arg1549Ter)	3908	LAMA2	Pathogenic	GRCh38	14299
+single nucleotide variant	NM_000426.4(LAMA2):c.7147C>T (p.Arg2383Ter)	3908	LAMA2	Pathogenic	GRCh38	14300
+single nucleotide variant	NM_000426.4(LAMA2):c.2901C>A (p.Cys967Ter)	3908	LAMA2	Pathogenic	GRCh38	14301
+single nucleotide variant	NM_000426.4(LAMA2):c.7881T>G (p.His2627Gln)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	38341
+single nucleotide variant	NM_000426.4(LAMA2):c.112+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	92937
+single nucleotide variant	NM_000426.4(LAMA2):c.184G>T (p.Gly62Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	92942
+single nucleotide variant	NM_000426.4(LAMA2):c.2750-1G>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	92947
+single nucleotide variant	NM_000426.4(LAMA2):c.2962C>T (p.Gln988Ter)	3908	LAMA2	Pathogenic	GRCh38	92950
+single nucleotide variant	NM_000426.4(LAMA2):c.3976C>T (p.Arg1326Ter)	3908	LAMA2	Pathogenic	GRCh38	92956
+single nucleotide variant	NM_000426.4(LAMA2):c.4523+1G>A	3908	LAMA2	Pathogenic	GRCh38	92961
+single nucleotide variant	NM_000426.4(LAMA2):c.5050G>T (p.Glu1684Ter)	3908	LAMA2	Pathogenic	GRCh38	92964
+single nucleotide variant	NM_000426.4(LAMA2):c.5914C>T (p.Gln1972Ter)	3908	LAMA2	Pathogenic	GRCh38	92971
+single nucleotide variant	NM_000426.4(LAMA2):c.6955C>T (p.Arg2319Ter)	3908	LAMA2	Pathogenic	GRCh38	92980
+single nucleotide variant	NM_000426.4(LAMA2):c.7888C>T (p.Arg2630Ter)	3908	LAMA2	Pathogenic	GRCh38	162579
+single nucleotide variant	NM_000426.4(LAMA2):c.5563-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	189233
+single nucleotide variant	NM_000426.4(LAMA2):c.2461A>C (p.Thr821Pro)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	242608
+single nucleotide variant	NM_000426.4(LAMA2):c.4348C>T (p.Arg1450Ter)	3908	LAMA2	Pathogenic	GRCh38	191214
+single nucleotide variant	NM_000426.4(LAMA2):c.2749+1G>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	194920
+single nucleotide variant	NM_000426.4(LAMA2):c.5562+5G>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	197024
+single nucleotide variant	NM_000426.4(LAMA2):c.7810C>T (p.Arg2604Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	197987
+single nucleotide variant	NM_000426.4(LAMA2):c.523G>T (p.Glu175Ter)	3908	LAMA2	Pathogenic	GRCh38	242517
+single nucleotide variant	NM_000426.4(LAMA2):c.1303C>T (p.Arg435Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	235805
+single nucleotide variant	NM_000426.4(LAMA2):c.5374G>T (p.Glu1792Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	265425
+single nucleotide variant	NM_000426.4(LAMA2):c.5476C>T (p.Arg1826Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	265426
+single nucleotide variant	NM_000426.4(LAMA2):c.8665G>A (p.Gly2889Arg)	3908	LAMA2	Likely pathogenic	GRCh38	266017
+single nucleotide variant	NM_000426.4(LAMA2):c.396+1G>T	3908	LAMA2	Pathogenic	GRCh38	282977
+single nucleotide variant	NM_000426.4(LAMA2):c.4048C>T (p.Arg1350Ter)	3908	LAMA2	Pathogenic	GRCh38	284984
+single nucleotide variant	NM_000426.4(LAMA2):c.7439+1G>A	3908	LAMA2	Pathogenic	GRCh38	287415
+single nucleotide variant	NM_000426.4(LAMA2):c.817A>T (p.Arg273Ter)	3908	LAMA2	Pathogenic	GRCh38	287489
+single nucleotide variant	NM_000426.4(LAMA2):c.7155+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	287677
+single nucleotide variant	NM_000426.4(LAMA2):c.5116C>T (p.Arg1706Ter)	3908	LAMA2	Pathogenic	GRCh38	287913
+single nucleotide variant	NM_000426.4(LAMA2):c.2352T>G (p.Tyr784Ter)	3908	LAMA2	Pathogenic	GRCh38	290015
+single nucleotide variant	NM_000426.4(LAMA2):c.5605G>T (p.Glu1869Ter)	3908	LAMA2	Pathogenic	GRCh38	290668
+single nucleotide variant	NM_000426.4(LAMA2):c.3555+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	372984
+single nucleotide variant	NM_000426.4(LAMA2):c.8245-2A>G	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	372750
+single nucleotide variant	NM_000426.4(LAMA2):c.283+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	381584
+single nucleotide variant	NM_000426.4(LAMA2):c.1499G>A (p.Cys500Tyr)	3908	LAMA2	Likely pathogenic	GRCh38	421149
+single nucleotide variant	NM_000426.4(LAMA2):c.4523G>A (p.Arg1508Lys)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	422393
+single nucleotide variant	NM_000426.4(LAMA2):c.5866-1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	424557
+single nucleotide variant	NM_000426.4(LAMA2):c.1027+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	425392
+single nucleotide variant	NM_000426.4(LAMA2):c.4717+1G>T	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	429903
+single nucleotide variant	NM_000426.4(LAMA2):c.6605G>T (p.Gly2202Val)	3908	LAMA2	Likely pathogenic	GRCh38	432497
+single nucleotide variant	NM_000426.4(LAMA2):c.7074C>A (p.Tyr2358Ter)	3908	LAMA2	Pathogenic	GRCh38	431964
+single nucleotide variant	NM_000426.4(LAMA2):c.7452-1G>A	3908	LAMA2	Pathogenic	GRCh38	437435
+single nucleotide variant	NM_000426.4(LAMA2):c.3924+2T>C	3908	LAMA2	Pathogenic	GRCh38	447685
+single nucleotide variant	NM_000426.4(LAMA2):c.5234+1G>A	3908	LAMA2	Pathogenic	GRCh38	447687
+single nucleotide variant	NM_000426.4(LAMA2):c.1657C>T (p.Arg553Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	452811
+single nucleotide variant	NM_000426.4(LAMA2):c.828C>G (p.Tyr276Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477517
+single nucleotide variant	NM_000426.4(LAMA2):c.1467+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477440
+single nucleotide variant	NM_000426.4(LAMA2):c.1467+1G>T	3908	LAMA2	Pathogenic	GRCh38	477441
+single nucleotide variant	NM_000426.4(LAMA2):c.819+2T>C	3908	LAMA2	Pathogenic	GRCh38	477514
+single nucleotide variant	NM_000426.4(LAMA2):c.2836C>T (p.Gln946Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477458
+single nucleotide variant	NM_000426.4(LAMA2):c.3829C>T (p.Arg1277Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477464
+single nucleotide variant	NM_000426.4(LAMA2):c.8547+1G>T	3908	LAMA2	Pathogenic	GRCh38	477518
+single nucleotide variant	NM_000426.4(LAMA2):c.1300C>T (p.Arg434Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477436
+single nucleotide variant	NM_000426.4(LAMA2):c.4311G>A (p.Gln1437=)	3908	LAMA2	Likely pathogenic	GRCh38	477472
+single nucleotide variant	NM_000426.4(LAMA2):c.4876C>T (p.Gln1626Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477476
+single nucleotide variant	NM_000426.4(LAMA2):c.6268+2T>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477498
+single nucleotide variant	NM_000426.4(LAMA2):c.2T>C (p.Met1Thr)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	477459
+single nucleotide variant	NM_000426.4(LAMA2):c.5866-2A>G	3908	LAMA2	Pathogenic	GRCh38	477495
+single nucleotide variant	NM_000426.4(LAMA2):c.3237C>A (p.Cys1079Ter)	3908	LAMA2	Pathogenic	GRCh38	496856
+single nucleotide variant	NM_000426.4(LAMA2):c.8155G>T (p.Glu2719Ter)	3908	LAMA2	Pathogenic	GRCh38	500711
+single nucleotide variant	NM_000426.4(LAMA2):c.1027+1G>T	3908	LAMA2	Pathogenic	GRCh38	543868
+single nucleotide variant	NM_000426.4(LAMA2):c.3736-2A>T	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	543847
+single nucleotide variant	NM_000426.4(LAMA2):c.363C>A (p.Tyr121Ter)	3908	LAMA2	Pathogenic	GRCh38	551699
+single nucleotide variant	NM_000426.4(LAMA2):c.1307-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	557933
+single nucleotide variant	NM_000426.4(LAMA2):c.2230C>T (p.Arg744Ter)	3908	LAMA2	Pathogenic	GRCh38	554268
+single nucleotide variant	NM_000426.4(LAMA2):c.2749+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	552629
+single nucleotide variant	NM_000426.4(LAMA2):c.3283C>T (p.Arg1095Ter)	3908	LAMA2	Pathogenic	GRCh38	556040
+single nucleotide variant	NM_000426.4(LAMA2):c.3736-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	556454
+single nucleotide variant	NM_000426.4(LAMA2):c.4176+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	552992
+single nucleotide variant	NM_000426.4(LAMA2):c.4524-2A>T	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	555441
+single nucleotide variant	NM_000426.4(LAMA2):c.6573+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	551751
+single nucleotide variant	NM_000426.4(LAMA2):c.6573+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	558325
+single nucleotide variant	NM_000426.4(LAMA2):c.7572+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	551728
+single nucleotide variant	NM_000426.4(LAMA2):c.8244+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	550992
+single nucleotide variant	NM_000426.4(LAMA2):c.9295A>T (p.Lys3099Ter)	3908	LAMA2	Likely pathogenic	GRCh38	553566
+single nucleotide variant	NM_000426.4(LAMA2):c.61C>T (p.Gln21Ter)	3908	LAMA2	Pathogenic	GRCh38	557178
+single nucleotide variant	NM_000426.4(LAMA2):c.106C>T (p.Gln36Ter)	3908	LAMA2	Pathogenic	GRCh38	552296
+single nucleotide variant	NM_000426.4(LAMA2):c.329G>A (p.Trp110Ter)	3908	LAMA2	Pathogenic	GRCh38	557331
+single nucleotide variant	NM_000426.4(LAMA2):c.1306+2T>G	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	550061
+single nucleotide variant	NM_000426.4(LAMA2):c.1467+2T>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	554368
+single nucleotide variant	NM_000426.4(LAMA2):c.2096+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	551611
+single nucleotide variant	NM_000426.4(LAMA2):c.2323-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	553526
+single nucleotide variant	NM_000426.4(LAMA2):c.283C>T (p.Gln95Ter)	3908	LAMA2	Pathogenic	GRCh38	557249
+single nucleotide variant	NM_000426.4(LAMA2):c.640-1G>A	3908	LAMA2	Pathogenic	GRCh38	557426
+single nucleotide variant	NM_000426.4(LAMA2):c.819+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	556475
+single nucleotide variant	NM_000426.4(LAMA2):c.4717+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	554566
+single nucleotide variant	NM_000426.4(LAMA2):c.3085C>T (p.Arg1029Ter)	3908	LAMA2	Pathogenic	GRCh38	551522
+single nucleotide variant	NM_000426.4(LAMA2):c.4198C>T (p.Arg1400Ter)	3908	LAMA2	Pathogenic	GRCh38	557566
+single nucleotide variant	NM_000426.4(LAMA2):c.5865+2T>G	3908	LAMA2	Likely pathogenic	GRCh38	556034
+single nucleotide variant	NM_000426.4(LAMA2):c.7444A>T (p.Lys2482Ter)	3908	LAMA2	Likely pathogenic	GRCh38	558422
+single nucleotide variant	NM_000426.4(LAMA2):c.6429+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	554585
+single nucleotide variant	NM_000426.4(LAMA2):c.8076-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	555690
+single nucleotide variant	NM_000426.4(LAMA2):c.8548-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	557163
+single nucleotide variant	NM_000426.4(LAMA2):c.8858-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	558552
+single nucleotide variant	NM_000426.4(LAMA2):c.9211+1G>A	3908	LAMA2	Pathogenic	GRCh38	558177
+single nucleotide variant	NM_000426.4(LAMA2):c.9212-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	552970
+single nucleotide variant	NM_000426.4(LAMA2):c.498G>A (p.Trp166Ter)	3908	LAMA2	Pathogenic	GRCh38	551094
+single nucleotide variant	NM_000426.4(LAMA2):c.2322+1G>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	554048
+single nucleotide variant	NM_000426.4(LAMA2):c.3556-13T>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	555549
+single nucleotide variant	NM_000426.4(LAMA2):c.4436+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	556066
+single nucleotide variant	NM_000426.4(LAMA2):c.6429+1G>T	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	556858
+single nucleotide variant	NM_000426.4(LAMA2):c.6993-2A>C	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	551050
+single nucleotide variant	NM_000426.4(LAMA2):c.4960-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	565315
+single nucleotide variant	NM_000426.4(LAMA2):c.1028-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	565592
+single nucleotide variant	NM_000426.4(LAMA2):c.8547+2T>C	3908	LAMA2	Pathogenic	GRCh38	577958
+single nucleotide variant	NM_000426.4(LAMA2):c.7899-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	577270
+single nucleotide variant	NM_000426.4(LAMA2):c.728T>C (p.Leu243Pro)	3908	LAMA2	Likely pathogenic	GRCh38	585011
+single nucleotide variant	NM_000426.4(LAMA2):c.391C>T (p.Gln131Ter)	3908	LAMA2	Pathogenic	GRCh38	585013
+single nucleotide variant	NM_000426.4(LAMA2):c.8075+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	617577
+single nucleotide variant	NM_000426.4(LAMA2):c.4002T>G (p.Tyr1334Ter)	3908	LAMA2	Pathogenic	GRCh38	620506
+single nucleotide variant	NM_000426.4(LAMA2):c.3955C>T (p.Arg1319Ter)	3908	LAMA2	Pathogenic	GRCh38	623353
+single nucleotide variant	NM_000426.4(LAMA2):c.1084A>T (p.Arg362Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	631971
+single nucleotide variant	NM_000426.4(LAMA2):c.3412-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	635079
+single nucleotide variant	NM_000426.4(LAMA2):c.1291A>T (p.Lys431Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	647980
+single nucleotide variant	NM_000426.4(LAMA2):c.2560C>T (p.Gln854Ter)	3908	LAMA2	Pathogenic	GRCh38	661592
+single nucleotide variant	NM_000426.4(LAMA2):c.6207C>A (p.Tyr2069Ter)	3908	LAMA2	Pathogenic	GRCh38	662072
+single nucleotide variant	NM_000426.4(LAMA2):c.6690C>A (p.Tyr2230Ter)	3908	LAMA2	Pathogenic	GRCh38	652729
+single nucleotide variant	NM_000426.4(LAMA2):c.3038-7G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	643601
+single nucleotide variant	NM_000426.4(LAMA2):c.7750-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	689499
+single nucleotide variant	NM_000426.4(LAMA2):c.1288G>T (p.Glu430Ter)	3908	LAMA2	Pathogenic	GRCh38	689567
+single nucleotide variant	NM_000426.4(LAMA2):c.909+7A>G	3908	LAMA2	Likely pathogenic	GRCh38	758294
+single nucleotide variant	NM_000426.4(LAMA2):c.3235T>C (p.Cys1079Arg)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	802261
+single nucleotide variant	NM_000426.4(LAMA2):c.4936G>T (p.Glu1646Ter)	3908	LAMA2	Pathogenic	GRCh38	802265
+single nucleotide variant	NM_000426.4(LAMA2):c.6196A>T (p.Lys2066Ter)	3908	LAMA2	Pathogenic	GRCh38	802266
+single nucleotide variant	NM_000426.4(LAMA2):c.3172A>T (p.Lys1058Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	809993
+single nucleotide variant	NM_000426.4(LAMA2):c.7024C>T (p.Gln2342Ter)	3908	LAMA2	Pathogenic	GRCh38	817556
+single nucleotide variant	NM_000426.4(LAMA2):c.7044T>G (p.Tyr2348Ter)	3908	LAMA2	Pathogenic	GRCh38	839949
+single nucleotide variant	NM_000426.4(LAMA2):c.112+2T>C	3908	LAMA2	Pathogenic	GRCh38	849735
+single nucleotide variant	NM_000426.4(LAMA2):c.4312-1G>C	3908	LAMA2	Pathogenic	GRCh38	840856
+single nucleotide variant	NM_000426.4(LAMA2):c.5968+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	849878
+single nucleotide variant	NM_000426.4(LAMA2):c.112+1G>C	3908	LAMA2	Pathogenic	GRCh38	870966
+single nucleotide variant	NM_000426.4(LAMA2):c.8689C>T (p.Arg2897Ter)	3908	LAMA2	Pathogenic	GRCh38	871321
+single nucleotide variant	NM_000426.4(LAMA2):c.3928G>T (p.Glu1310Ter)	3908	LAMA2	Pathogenic	GRCh38	948070
+single nucleotide variant	NM_000426.4(LAMA2):c.5910T>A (p.Cys1970Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	944553
+single nucleotide variant	NM_000426.4(LAMA2):c.327G>A (p.Trp109Ter)	3908	LAMA2	Pathogenic	GRCh38	937793
+single nucleotide variant	NM_000426.4(LAMA2):c.1535G>A (p.Trp512Ter)	3908	LAMA2	Pathogenic	GRCh38	939080
+single nucleotide variant	NM_000426.4(LAMA2):c.2586T>A (p.Cys862Ter)	3908	LAMA2	Pathogenic	GRCh38	937894
+single nucleotide variant	NM_000426.4(LAMA2):c.5296G>T (p.Glu1766Ter)	3908	LAMA2	Pathogenic	GRCh38	933594
+single nucleotide variant	NM_000426.4(LAMA2):c.5968G>T (p.Glu1990Ter)	3908	LAMA2	Pathogenic	GRCh38	943901
+single nucleotide variant	NM_000426.4(LAMA2):c.2323-1G>T	3908	LAMA2	Likely pathogenic	GRCh38	951228
+single nucleotide variant	NM_000426.4(LAMA2):c.5445+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	950720
+single nucleotide variant	NM_000426.4(LAMA2):c.5969-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	952684
+single nucleotide variant	NM_000426.4(LAMA2):c.1326T>G (p.Cys442Trp)	3908	LAMA2	Likely pathogenic	GRCh38	962902
+single nucleotide variant	NM_000426.4(LAMA2):c.820-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	963631
+single nucleotide variant	NM_000426.4(LAMA2):c.6086-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	962125
+single nucleotide variant	NM_000426.4(LAMA2):c.6268+1G>T	3908	LAMA2	Pathogenic	GRCh38	956639
+single nucleotide variant	NM_000426.4(LAMA2):c.7440-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	954079
+single nucleotide variant	NM_000426.4(LAMA2):c.8703+2T>G	3908	LAMA2	Likely pathogenic	GRCh38	959044
+single nucleotide variant	NM_000426.4(LAMA2):c.5562+5G>A	3908	LAMA2	Pathogenic	GRCh38	968246
+single nucleotide variant	NM_000426.4(LAMA2):c.190G>T (p.Glu64Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983618
+single nucleotide variant	NM_000426.4(LAMA2):c.198C>A (p.Tyr66Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983619
+single nucleotide variant	NM_000426.4(LAMA2):c.424A>T (p.Lys142Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983620
+single nucleotide variant	NM_000426.4(LAMA2):c.504T>A (p.Tyr168Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	983621
+single nucleotide variant	NM_000426.4(LAMA2):c.569C>A (p.Ser190Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983622
+single nucleotide variant	NM_000426.4(LAMA2):c.602C>A (p.Ser201Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983903
+single nucleotide variant	NM_000426.4(LAMA2):c.637G>T (p.Glu213Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983904
+single nucleotide variant	NM_000426.4(LAMA2):c.691G>T (p.Glu231Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983905
+single nucleotide variant	NM_000426.4(LAMA2):c.781A>T (p.Lys261Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983906
+single nucleotide variant	NM_000426.4(LAMA2):c.790A>T (p.Arg264Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983907
+single nucleotide variant	NM_000426.4(LAMA2):c.1051G>T (p.Glu351Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983908
+single nucleotide variant	NM_000426.4(LAMA2):c.1065T>A (p.Tyr355Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983909
+single nucleotide variant	NM_000426.4(LAMA2):c.1278T>A (p.Cys426Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984068
+single nucleotide variant	NM_000426.4(LAMA2):c.1464C>A (p.Cys488Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984069
+single nucleotide variant	NM_000426.4(LAMA2):c.1560T>A (p.Cys520Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984070
+single nucleotide variant	NM_000426.4(LAMA2):c.1612C>T (p.Gln538Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984071
+single nucleotide variant	NM_000426.4(LAMA2):c.1752G>A (p.Trp584Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984072
+single nucleotide variant	NM_000426.4(LAMA2):c.1831G>T (p.Glu611Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984073
+single nucleotide variant	NM_000426.4(LAMA2):c.1834G>T (p.Glu612Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984074
+single nucleotide variant	NM_000426.4(LAMA2):c.1942G>T (p.Glu648Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984075
+single nucleotide variant	NM_000426.4(LAMA2):c.2044A>T (p.Lys682Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984190
+single nucleotide variant	NM_000426.4(LAMA2):c.2116G>T (p.Glu706Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984191
+single nucleotide variant	NM_000426.4(LAMA2):c.2328T>A (p.Cys776Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984192
+single nucleotide variant	NM_000426.4(LAMA2):c.2557G>T (p.Gly853Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984193
+single nucleotide variant	NM_000426.4(LAMA2):c.2587C>T (p.Gln863Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984194
+single nucleotide variant	NM_000426.4(LAMA2):c.2658T>A (p.Cys886Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	984195
+single nucleotide variant	NM_000426.4(LAMA2):c.2703T>A (p.Cys901Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984196
+single nucleotide variant	NM_000426.4(LAMA2):c.2710G>T (p.Gly904Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984197
+single nucleotide variant	NM_000426.4(LAMA2):c.2719G>T (p.Gly907Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983631
+single nucleotide variant	NM_000426.4(LAMA2):c.2950C>T (p.Gln984Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983632
+single nucleotide variant	NM_000426.4(LAMA2):c.2957G>A (p.Trp986Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983633
+single nucleotide variant	NM_000426.4(LAMA2):c.2968G>T (p.Gly990Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983634
+single nucleotide variant	NM_000426.4(LAMA2):c.3019C>T (p.Gln1007Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983635
+single nucleotide variant	NM_000426.4(LAMA2):c.3123T>A (p.Cys1041Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983636
+single nucleotide variant	NM_000426.4(LAMA2):c.3243T>A (p.Cys1081Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983637
+single nucleotide variant	NM_000426.4(LAMA2):c.3270T>A (p.Cys1090Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983918
+single nucleotide variant	NM_000426.4(LAMA2):c.3444C>A (p.Cys1148Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983919
+single nucleotide variant	NM_000426.4(LAMA2):c.3454A>T (p.Lys1152Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983920
+single nucleotide variant	NM_000426.4(LAMA2):c.3704G>A (p.Trp1235Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983921
+single nucleotide variant	NM_000426.4(LAMA2):c.4140T>A (p.Cys1380Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983922
+single nucleotide variant	NM_000426.4(LAMA2):c.4146T>A (p.Cys1382Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983923
+single nucleotide variant	NM_000426.4(LAMA2):c.4378A>T (p.Lys1460Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983924
+single nucleotide variant	NM_000426.4(LAMA2):c.4459G>T (p.Glu1487Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983925
+single nucleotide variant	NM_000426.4(LAMA2):c.4561G>T (p.Gly1521Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984084
+single nucleotide variant	NM_000426.4(LAMA2):c.4573C>T (p.Gln1525Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984085
+single nucleotide variant	NM_000426.4(LAMA2):c.4601C>A (p.Ser1534Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984086
+single nucleotide variant	NM_000426.4(LAMA2):c.4837G>T (p.Glu1613Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984087
+single nucleotide variant	NM_000426.4(LAMA2):c.4858A>T (p.Lys1620Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	984088
+single nucleotide variant	NM_000426.4(LAMA2):c.4993G>T (p.Gly1665Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984089
+single nucleotide variant	NM_000426.4(LAMA2):c.5038G>T (p.Glu1680Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	984090
+single nucleotide variant	NM_000426.4(LAMA2):c.5092A>T (p.Lys1698Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984091
+single nucleotide variant	NM_000426.4(LAMA2):c.5155A>T (p.Lys1719Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984206
+single nucleotide variant	NM_000426.4(LAMA2):c.5578C>T (p.Gln1860Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984207
+single nucleotide variant	NM_000426.4(LAMA2):c.5674C>T (p.Gln1892Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984208
+single nucleotide variant	NM_000426.4(LAMA2):c.5944A>T (p.Lys1982Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984209
+single nucleotide variant	NM_000426.4(LAMA2):c.6262A>T (p.Lys2088Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984210
+single nucleotide variant	NM_000426.4(LAMA2):c.6305T>G (p.Leu2102Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	984211
+single nucleotide variant	NM_000426.4(LAMA2):c.6449C>A (p.Ser2150Ter)	3908	LAMA2	Likely pathogenic	GRCh38	984212
+single nucleotide variant	NM_000426.4(LAMA2):c.7266G>A (p.Trp2422Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983646
+single nucleotide variant	NM_000426.4(LAMA2):c.7283C>G (p.Ser2428Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	983647
+single nucleotide variant	NM_000426.4(LAMA2):c.7339G>T (p.Glu2447Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983648
+single nucleotide variant	NM_000426.4(LAMA2):c.7912C>T (p.Gln2638Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983649
+single nucleotide variant	NM_000426.4(LAMA2):c.8008C>T (p.Gln2670Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983650
+single nucleotide variant	NM_000426.4(LAMA2):c.8188C>T (p.Gln2730Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	983651
+single nucleotide variant	NM_000426.4(LAMA2):c.8536C>T (p.Gln2846Ter)	3908	LAMA2	Likely pathogenic	GRCh38	983652
+single nucleotide variant	NM_000426.4(LAMA2):c.8770C>T (p.Gln2924Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	983653
+single nucleotide variant	NM_000426.4(LAMA2):c.8244+1G>T	3908	LAMA2	Pathogenic	GRCh38	985986
+single nucleotide variant	NM_000426.4(LAMA2):c.2217G>A (p.Trp739Ter)	3908	LAMA2	Pathogenic	GRCh38	988020
+single nucleotide variant	NM_000426.4(LAMA2):c.4860G>A (p.Lys1620=)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1017561
+single nucleotide variant	NM_000426.4(LAMA2):c.7898+1G>A	3908	LAMA2	Pathogenic	GRCh38	1028256
+single nucleotide variant	NM_000426.4(LAMA2):c.1969G>T (p.Glu657Ter)	3908	LAMA2	Pathogenic	GRCh38	2960088
+single nucleotide variant	NM_000426.4(LAMA2):c.3186C>A (p.Cys1062Ter)	3908	LAMA2	Pathogenic	GRCh38	1031567
+single nucleotide variant	NM_000426.4(LAMA2):c.1884+2T>C	3908	LAMA2	Likely pathogenic	GRCh38	1067396
+single nucleotide variant	NM_000426.4(LAMA2):c.3037+1G>T	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1066222
+single nucleotide variant	NM_000426.4(LAMA2):c.3411+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1067055
+single nucleotide variant	NM_000426.4(LAMA2):c.4860+2T>C	3908	LAMA2	Pathogenic	GRCh38	1066310
+single nucleotide variant	NM_000426.4(LAMA2):c.5727-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1066440
+single nucleotide variant	NM_000426.4(LAMA2):c.7440-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1068380
+single nucleotide variant	NM_000426.4(LAMA2):c.8857+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1067941
+single nucleotide variant	NM_000426.4(LAMA2):c.910-1G>A	3908	LAMA2	Pathogenic	GRCh38	1069803
+single nucleotide variant	NM_000426.4(LAMA2):c.910-1G>T	3908	LAMA2	Pathogenic	GRCh38	1076380
+single nucleotide variant	NM_000426.4(LAMA2):c.1824T>G (p.Tyr608Ter)	3908	LAMA2	Pathogenic	GRCh38	1071850
+single nucleotide variant	NM_000426.4(LAMA2):c.1852G>T (p.Glu618Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1076694
+single nucleotide variant	NM_000426.4(LAMA2):c.2042T>A (p.Leu681Ter)	3908	LAMA2	Pathogenic	GRCh38	1072322
+single nucleotide variant	NM_000426.4(LAMA2):c.2500G>T (p.Gly834Ter)	3908	LAMA2	Pathogenic	GRCh38	1069271
+single nucleotide variant	NM_000426.4(LAMA2):c.3300C>A (p.Tyr1100Ter)	3908	LAMA2	Pathogenic	GRCh38	1073388
+single nucleotide variant	NM_000426.4(LAMA2):c.4312-2A>G	3908	LAMA2	Pathogenic	GRCh38	1075606
+single nucleotide variant	NM_000426.4(LAMA2):c.4368T>A (p.Tyr1456Ter)	3908	LAMA2	Pathogenic	GRCh38	1069078
+single nucleotide variant	NM_000426.4(LAMA2):c.4523G>C (p.Arg1508Thr)	3908	LAMA2	Pathogenic	GRCh38	1069368
+single nucleotide variant	NM_000426.4(LAMA2):c.5602G>T (p.Glu1868Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1072865
+single nucleotide variant	NM_000426.4(LAMA2):c.6993-2A>G	3908	LAMA2	Pathogenic	GRCh38	1070507
+single nucleotide variant	NM_000426.4(LAMA2):c.4996C>T (p.Gln1666Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1174129
+single nucleotide variant	NM_000426.4(LAMA2):c.250C>T (p.Arg84Ter)	3908	LAMA2	Pathogenic	GRCh38	1180611
+single nucleotide variant	NM_000426.4(LAMA2):c.4318C>T (p.Gln1440Ter)	3908	LAMA2	Pathogenic	GRCh38	1180735
+single nucleotide variant	NM_000426.4(LAMA2):c.4707G>A (p.Trp1569Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1180622
+single nucleotide variant	NM_000426.4(LAMA2):c.4818T>G (p.Tyr1606Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1180804
+single nucleotide variant	NM_000426.4(LAMA2):c.6430-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1180615
+single nucleotide variant	NM_000426.4(LAMA2):c.6548T>G (p.Leu2183Arg)	3908	LAMA2	Likely pathogenic	GRCh38	1180737
+single nucleotide variant	NM_000426.4(LAMA2):c.7071G>A (p.Trp2357Ter)	3908	LAMA2	Pathogenic	GRCh38	1218589
+single nucleotide variant	NM_000426.4(LAMA2):c.4058+1G>A	3908	LAMA2	Pathogenic	GRCh38	1299246
+single nucleotide variant	NM_000426.4(LAMA2):c.3932G>A (p.Trp1311Ter)	3908	LAMA2	Pathogenic	GRCh38	1323164
+single nucleotide variant	NM_000426.4(LAMA2):c.6310C>T (p.Gln2104Ter)	3908	LAMA2	Pathogenic	GRCh38	1323168
+single nucleotide variant	NM_000426.4(LAMA2):c.639+2T>A	3908	LAMA2	Pathogenic	GRCh38	1323171
+single nucleotide variant	NM_000426.4(LAMA2):c.4708G>T (p.Glu1570Ter)	3908	LAMA2	Pathogenic	GRCh38	1323175
+single nucleotide variant	NM_000426.4(LAMA2):c.2595C>A (p.Cys865Ter)	3908	LAMA2	Pathogenic	GRCh38	1323176
+single nucleotide variant	NM_000426.4(LAMA2):c.7572+2T>C	3908	LAMA2	Likely pathogenic	GRCh38	1324647
+single nucleotide variant	NM_000426.4(LAMA2):c.3925-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1324648
+single nucleotide variant	NM_000426.4(LAMA2):c.8245-1G>C	3908	LAMA2	Pathogenic	GRCh38	1335642
+single nucleotide variant	NM_000426.4(LAMA2):c.6269-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	1506078
+single nucleotide variant	NM_000426.4(LAMA2):c.4757T>A (p.Leu1586Ter)	3908	LAMA2	Pathogenic	GRCh38	1411028
+single nucleotide variant	NM_000426.4(LAMA2):c.7070G>A (p.Trp2357Ter)	3908	LAMA2	Pathogenic	GRCh38	1356883
+single nucleotide variant	NM_000426.4(LAMA2):c.1884+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1493604
+single nucleotide variant	NM_000426.4(LAMA2):c.7927A>T (p.Arg2643Ter)	3908	LAMA2	Pathogenic	GRCh38	1441552
+single nucleotide variant	NM_000426.4(LAMA2):c.1306+1G>T	3908	LAMA2	Pathogenic	GRCh38	1386262
+single nucleotide variant	NM_000426.4(LAMA2):c.7300+2T>G	3908	LAMA2	Likely pathogenic	GRCh38	1525000
+single nucleotide variant	NM_000426.4(LAMA2):c.991A>T (p.Arg331Ter)	3908	LAMA2	Pathogenic	GRCh38	1452594
+single nucleotide variant	NM_000426.4(LAMA2):c.8357+1G>A	3908	LAMA2	Pathogenic	GRCh38	1452596
+single nucleotide variant	NM_000426.4(LAMA2):c.6466C>T (p.Arg2156Ter)	3908	LAMA2	Pathogenic	GRCh38	1452612
+single nucleotide variant	NM_000426.4(LAMA2):c.5830G>T (p.Glu1944Ter)	3908	LAMA2	Pathogenic	GRCh38	1454117
+single nucleotide variant	NM_000426.4(LAMA2):c.1798G>T (p.Gly600Ter)	3908	LAMA2	Pathogenic	GRCh38	1454202
+single nucleotide variant	NM_000426.4(LAMA2):c.1177T>G (p.Cys393Gly)	3908	LAMA2	Pathogenic	GRCh38	1454357
+single nucleotide variant	NM_000426.4(LAMA2):c.7518C>A (p.Tyr2506Ter)	3908	LAMA2	Pathogenic	GRCh38	1428354
+single nucleotide variant	NM_000426.4(LAMA2):c.4959+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1496886
+single nucleotide variant	NM_000426.4(LAMA2):c.2541T>A (p.Cys847Ter)	3908	LAMA2	Pathogenic	GRCh38	1363709
+single nucleotide variant	NM_000426.4(LAMA2):c.1783-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	1470757
+single nucleotide variant	NM_000426.4(LAMA2):c.6274+2T>G	3908	LAMA2	Likely pathogenic	GRCh38	1470987
+single nucleotide variant	NM_000426.4(LAMA2):c.1207-1G>T	3908	LAMA2	Likely pathogenic	GRCh38	1472539
+single nucleotide variant	NM_000426.4(LAMA2):c.3817C>T (p.Gln1273Ter)	3908	LAMA2	Pathogenic	GRCh38	1447020
+single nucleotide variant	NM_000426.4(LAMA2):c.8666G>A (p.Gly2889Glu)	3908	LAMA2	Likely pathogenic	GRCh38	1505055
+single nucleotide variant	NM_000426.4(LAMA2):c.8703+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	1478971
+single nucleotide variant	NM_000426.4(LAMA2):c.499C>T (p.Gln167Ter)	3908	LAMA2	Pathogenic	GRCh38	1454877
+single nucleotide variant	NM_000426.4(LAMA2):c.7966G>T (p.Glu2656Ter)	3908	LAMA2	Pathogenic	GRCh38	1372274
+single nucleotide variant	NM_000426.4(LAMA2):c.5235-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1509825
+single nucleotide variant	NM_000426.4(LAMA2):c.942T>A (p.Cys314Ter)	3908	LAMA2	Pathogenic	GRCh38	1384157
+single nucleotide variant	NM_000426.4(LAMA2):c.4210C>T (p.Gln1404Ter)	3908	LAMA2	Pathogenic	GRCh38	1453815
+single nucleotide variant	NM_000426.4(LAMA2):c.3232C>T (p.Gln1078Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1456709
+single nucleotide variant	NM_000426.4(LAMA2):c.4688G>A (p.Trp1563Ter)	3908	LAMA2	Pathogenic	GRCh38	1456121
+single nucleotide variant	NM_000426.4(LAMA2):c.8682C>G (p.Tyr2894Ter)	3908	LAMA2	Pathogenic	GRCh38	1458105
+single nucleotide variant	NM_000426.4(LAMA2):c.1843G>T (p.Glu615Ter)	3908	LAMA2	Pathogenic	GRCh38	1459845
+single nucleotide variant	NM_000426.4(LAMA2):c.414T>G (p.Tyr138Ter)	3908	LAMA2	Pathogenic	GRCh38	1459707
+single nucleotide variant	NM_000426.4(LAMA2):c.4861-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1498923
+single nucleotide variant	NM_000426.4(LAMA2):c.6501C>A (p.Tyr2167Ter)	3908	LAMA2	Pathogenic	GRCh38	1445696
+single nucleotide variant	NM_000426.4(LAMA2):c.5071+1G>A	3908	LAMA2	Pathogenic	GRCh38	1458731
+single nucleotide variant	NM_000426.4(LAMA2):c.8986A>T (p.Lys2996Ter)	3908	LAMA2	Pathogenic	GRCh38	1458826
+single nucleotide variant	NM_000426.4(LAMA2):c.8647G>T (p.Gly2883Ter)	3908	LAMA2	Pathogenic	GRCh38	1459006
+single nucleotide variant	NM_000426.4(LAMA2):c.4498G>T (p.Gly1500Ter)	3908	LAMA2	Pathogenic	GRCh38	1407781
+single nucleotide variant	NM_000426.4(LAMA2):c.6992+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	1518453
+single nucleotide variant	NM_000426.4(LAMA2):c.3556-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	1464797
+single nucleotide variant	NM_000426.4(LAMA2):c.4717+2T>A	3908	LAMA2	Likely pathogenic	GRCh38	1493102
+single nucleotide variant	NM_000426.4(LAMA2):c.4630G>T (p.Gly1544Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1526155
+single nucleotide variant	NM_000426.4(LAMA2):c.2857-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1677279
+single nucleotide variant	NM_000426.4(LAMA2):c.2164G>A (p.Glu722Lys)	3908	LAMA2	Likely pathogenic	GRCh38	1684491
+single nucleotide variant	NM_000426.4(LAMA2):c.8989-15T>G	3908	LAMA2	Pathogenic	GRCh38	1691256
+single nucleotide variant	NM_000426.4(LAMA2):c.2906G>A (p.Cys969Tyr)	3908	LAMA2	Likely pathogenic	GRCh38	1693116
+single nucleotide variant	NM_000426.4(LAMA2):c.5266A>T (p.Lys1756Ter)	3908	LAMA2	Pathogenic	GRCh38	1698851
+single nucleotide variant	NM_000426.4(LAMA2):c.3033C>A (p.Cys1011Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1709949
+single nucleotide variant	NM_000426.4(LAMA2):c.966T>A (p.Cys322Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724079
+single nucleotide variant	NM_000426.4(LAMA2):c.2811T>A (p.Cys937Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724112
+single nucleotide variant	NM_000426.4(LAMA2):c.6687G>A (p.Trp2229Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724133
+single nucleotide variant	NM_000426.4(LAMA2):c.5851G>T (p.Glu1951Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724156
+single nucleotide variant	NM_000426.4(LAMA2):c.1429A>T (p.Lys477Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724192
+single nucleotide variant	NM_000426.4(LAMA2):c.7834A>T (p.Arg2612Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724344
+single nucleotide variant	NM_000426.4(LAMA2):c.2395G>T (p.Gly799Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724354
+single nucleotide variant	NM_000426.4(LAMA2):c.3705G>A (p.Trp1235Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724549
+single nucleotide variant	NM_000426.4(LAMA2):c.3896T>A (p.Leu1299Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724575
+single nucleotide variant	NM_000426.4(LAMA2):c.8712T>A (p.Tyr2904Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1724753
+single nucleotide variant	NM_000426.4(LAMA2):c.4576G>T (p.Glu1526Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725284
+single nucleotide variant	NM_000426.4(LAMA2):c.3409A>T (p.Lys1137Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725294
+single nucleotide variant	NM_000426.4(LAMA2):c.7658C>A (p.Ser2553Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725648
+single nucleotide variant	NM_000426.4(LAMA2):c.1233C>A (p.Cys411Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1725656
+single nucleotide variant	NM_000426.4(LAMA2):c.2879C>G (p.Ser960Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725688
+single nucleotide variant	NM_000426.4(LAMA2):c.2471T>A (p.Leu824Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725692
+single nucleotide variant	NM_000426.4(LAMA2):c.2404G>T (p.Glu802Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725774
+single nucleotide variant	NM_000426.4(LAMA2):c.7675G>T (p.Glu2559Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725896
+single nucleotide variant	NM_000426.4(LAMA2):c.1097T>A (p.Leu366Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725940
+single nucleotide variant	NM_000426.4(LAMA2):c.2521G>T (p.Gly841Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1725954
+single nucleotide variant	NM_000426.4(LAMA2):c.4504G>T (p.Glu1502Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726056
+single nucleotide variant	NM_000426.4(LAMA2):c.6643G>T (p.Gly2215Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726121
+single nucleotide variant	NM_000426.4(LAMA2):c.4294G>T (p.Glu1432Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726193
+single nucleotide variant	NM_000426.4(LAMA2):c.6232A>T (p.Lys2078Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726328
+single nucleotide variant	NM_000426.4(LAMA2):c.7489A>T (p.Lys2497Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726347
+single nucleotide variant	NM_000426.4(LAMA2):c.286A>T (p.Arg96Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726385
+single nucleotide variant	NM_000426.4(LAMA2):c.5836A>T (p.Lys1946Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726607
+single nucleotide variant	NM_000426.4(LAMA2):c.1629G>A (p.Trp543Ter)	3908	LAMA2	Likely pathogenic	GRCh38	1726862
+single nucleotide variant	NM_000426.4(LAMA2):c.5122G>T (p.Glu1708Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1803157
+single nucleotide variant	NM_000426.4(LAMA2):c.2383G>T (p.Glu795Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	1807350
+single nucleotide variant	NM_000426.4(LAMA2):c.1248C>A (p.Cys416Ter)	3908	LAMA2	Pathogenic	GRCh38	2136461
+single nucleotide variant	NM_000426.4(LAMA2):c.2450+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2136464
+single nucleotide variant	NM_000426.4(LAMA2):c.2907C>A (p.Cys969Ter)	3908	LAMA2	Pathogenic	GRCh38	2136465
+single nucleotide variant	NM_000426.4(LAMA2):c.4261C>T (p.Gln1421Ter)	3908	LAMA2	Pathogenic	GRCh38	2152017
+single nucleotide variant	NM_000426.4(LAMA2):c.7297C>T (p.Gln2433Ter)	3908	LAMA2	Pathogenic	GRCh38	2152018
+single nucleotide variant	NM_000426.4(LAMA2):c.8244+1G>C	3908	LAMA2	Pathogenic	GRCh38	2152019
+single nucleotide variant	NM_000426.4(LAMA2):c.8586T>G (p.Tyr2862Ter)	3908	LAMA2	Pathogenic	GRCh38	2152020
+single nucleotide variant	NM_000426.4(LAMA2):c.7749+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	1878911
+single nucleotide variant	NM_000426.4(LAMA2):c.1885-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2418679
+single nucleotide variant	NM_000426.4(LAMA2):c.8544C>A (p.His2848Gln)	3908	LAMA2	Likely pathogenic	GRCh38	1913085
+single nucleotide variant	NM_000426.4(LAMA2):c.244C>T (p.Gln82Ter)	3908	LAMA2	Pathogenic	GRCh38	1929388
+single nucleotide variant	NM_000426.4(LAMA2):c.7572+1G>T	3908	LAMA2	Pathogenic	GRCh38	1929390
+single nucleotide variant	NM_000426.4(LAMA2):c.2322+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1923268
+single nucleotide variant	NM_000426.4(LAMA2):c.5563-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1977748
+single nucleotide variant	NM_000426.4(LAMA2):c.113-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	1973508
+single nucleotide variant	NM_000426.4(LAMA2):c.4059-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1972764
+single nucleotide variant	NM_000426.4(LAMA2):c.3735+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	1986543
+single nucleotide variant	NM_000426.4(LAMA2):c.5969-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2010125
+single nucleotide variant	NM_000426.4(LAMA2):c.3037+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2013870
+single nucleotide variant	NM_000426.4(LAMA2):c.2271T>A (p.Cys757Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2018862
+single nucleotide variant	NM_000426.4(LAMA2):c.6429+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2007622
+single nucleotide variant	NM_000426.4(LAMA2):c.6086-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	2026201
+single nucleotide variant	NM_000426.4(LAMA2):c.6555T>A (p.Tyr2185Ter)	3908	LAMA2	Pathogenic	GRCh38	2029419
+single nucleotide variant	NM_000426.4(LAMA2):c.67C>T (p.Gln23Ter)	3908	LAMA2	Pathogenic	GRCh38	2031053
+single nucleotide variant	NM_000426.4(LAMA2):c.4984G>T (p.Glu1662Ter)	3908	LAMA2	Pathogenic	GRCh38	2029209
+single nucleotide variant	NM_000426.4(LAMA2):c.1206+2T>A	3908	LAMA2	Likely pathogenic	GRCh38	2032661
+single nucleotide variant	NM_000426.4(LAMA2):c.3556-2A>T	3908	LAMA2	Likely pathogenic	GRCh38	2024624
+single nucleotide variant	NM_000426.4(LAMA2):c.4729G>T (p.Glu1577Ter)	3908	LAMA2	Pathogenic	GRCh38	2042818
+single nucleotide variant	NM_000426.4(LAMA2):c.1885-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	2035124
+single nucleotide variant	NM_000426.4(LAMA2):c.1749C>G (p.Tyr583Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2052455
+single nucleotide variant	NM_000426.4(LAMA2):c.6275-2A>T	3908	LAMA2	Likely pathogenic	GRCh38	2070504
+single nucleotide variant	NM_000426.4(LAMA2):c.396+1G>A	3908	LAMA2	Pathogenic	GRCh38	2073634
+single nucleotide variant	NM_000426.4(LAMA2):c.9139G>T (p.Glu3047Ter)	3908	LAMA2	Pathogenic	GRCh38	2066714
+single nucleotide variant	NM_000426.4(LAMA2):c.5020A>T (p.Arg1674Ter)	3908	LAMA2	Pathogenic	GRCh38	2062618
+single nucleotide variant	NM_000426.4(LAMA2):c.9075G>A (p.Trp3025Ter)	3908	LAMA2	Pathogenic	GRCh38	2091154
+single nucleotide variant	NM_000426.4(LAMA2):c.1027+1G>C	3908	LAMA2	Pathogenic	GRCh38	2091310
+single nucleotide variant	NM_000426.4(LAMA2):c.4860+1G>A	3908	LAMA2	Pathogenic	GRCh38	2096410
+single nucleotide variant	NM_000426.4(LAMA2):c.7265G>A (p.Trp2422Ter)	3908	LAMA2	Pathogenic	GRCh38	2099320
+single nucleotide variant	NM_000426.4(LAMA2):c.4345G>T (p.Glu1449Ter)	3908	LAMA2	Pathogenic	GRCh38	2108644
+single nucleotide variant	NM_000426.4(LAMA2):c.7572+2T>G	3908	LAMA2	Pathogenic	GRCh38	2113935
+single nucleotide variant	NM_000426.4(LAMA2):c.3607C>T (p.Gln1203Ter)	3908	LAMA2	Pathogenic	GRCh38	2116843
+single nucleotide variant	NM_000426.4(LAMA2):c.6275-1G>T	3908	LAMA2	Likely pathogenic	GRCh38	2124022
+single nucleotide variant	NM_000426.4(LAMA2):c.3646G>T (p.Glu1216Ter)	3908	LAMA2	Pathogenic	GRCh38	2131977
+single nucleotide variant	NM_000426.4(LAMA2):c.4945G>T (p.Glu1649Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2441045
+single nucleotide variant	NM_000426.4(LAMA2):c.4365C>G (p.Tyr1455Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2441068
+single nucleotide variant	NM_000426.4(LAMA2):c.7935C>A (p.Tyr2645Ter)	3908	LAMA2	Pathogenic	GRCh38	2445893
+single nucleotide variant	NM_000426.4(LAMA2):c.1207-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2500758
+single nucleotide variant	NM_000426.4(LAMA2):c.8988+1G>T	3908	LAMA2	Pathogenic	GRCh38	2500851
+single nucleotide variant	NM_000426.4(LAMA2):c.4510C>T (p.Gln1504Ter)	3908	LAMA2	Pathogenic	GRCh38	2656905
+single nucleotide variant	NM_000426.4(LAMA2):c.861C>A (p.Cys287Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2676224
+single nucleotide variant	NM_000426.4(LAMA2):c.2790C>A (p.Cys930Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2676227
+single nucleotide variant	NM_000426.4(LAMA2):c.7301-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2676230
+single nucleotide variant	NM_000426.4(LAMA2):c.113-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	2676231
+single nucleotide variant	NM_000426.4(LAMA2):c.6948G>A (p.Trp2316Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2676233
+single nucleotide variant	NM_000426.4(LAMA2):c.1976C>A (p.Ser659Ter)	3908	LAMA2	Pathogenic	GRCh38	2676236
+single nucleotide variant	NM_000426.4(LAMA2):c.2323-2A>T	3908	LAMA2	Likely pathogenic	GRCh38	2676245
+single nucleotide variant	NM_000426.4(LAMA2):c.1522C>T (p.Gln508Ter)	3908	LAMA2	Pathogenic	GRCh38	2676246
+single nucleotide variant	NM_000426.4(LAMA2):c.283+2T>A	3908	LAMA2	Likely pathogenic	GRCh38	2676247
+single nucleotide variant	NM_000426.4(LAMA2):c.2537+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2676251
+single nucleotide variant	NM_000426.4(LAMA2):c.6623G>A (p.Trp2208Ter)	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2676252
+single nucleotide variant	NM_000426.4(LAMA2):c.2803G>T (p.Gly935Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2676253
+single nucleotide variant	NM_000426.4(LAMA2):c.2856+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2676258
+single nucleotide variant	NM_000426.4(LAMA2):c.6103C>T (p.Gln2035Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2676260
+single nucleotide variant	NM_000426.4(LAMA2):c.7899-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2676261
+single nucleotide variant	NM_000426.4(LAMA2):c.8540G>A (p.Trp2847Ter)	3908	LAMA2	Likely pathogenic	GRCh38	2676263
+single nucleotide variant	NM_000426.4(LAMA2):c.1307-2A>G	3908	LAMA2	Pathogenic	GRCh38	2676270
+single nucleotide variant	NM_000426.4(LAMA2):c.112+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	2676272
+single nucleotide variant	NM_000426.4(LAMA2):c.1596G>A (p.Trp532Ter)	3908	LAMA2	Pathogenic	GRCh38	2698746
+single nucleotide variant	NM_000426.4(LAMA2):c.7749+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	2698877
+single nucleotide variant	NM_000426.4(LAMA2):c.720T>G (p.Tyr240Ter)	3908	LAMA2	Pathogenic	GRCh38	2693425
+single nucleotide variant	NM_000426.4(LAMA2):c.2322+2T>C	3908	LAMA2	Likely pathogenic	GRCh38	2693446
+single nucleotide variant	NM_000426.4(LAMA2):c.5727-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2697952
+single nucleotide variant	NM_000426.4(LAMA2):c.5445+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	2693930
+single nucleotide variant	NM_000426.4(LAMA2):c.6269-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2708543
+single nucleotide variant	NM_000426.4(LAMA2):c.6085+2T>A	3908	LAMA2	Likely pathogenic	GRCh38	2715505
+single nucleotide variant	NM_000426.4(LAMA2):c.5234+1G>C	3908	LAMA2	Pathogenic	GRCh38	2706540
+single nucleotide variant	NM_000426.4(LAMA2):c.2421T>A (p.Cys807Ter)	3908	LAMA2	Pathogenic	GRCh38	2728928
+single nucleotide variant	NM_000426.4(LAMA2):c.2806C>T (p.Gln936Ter)	3908	LAMA2	Pathogenic	GRCh38	2742807
+single nucleotide variant	NM_000426.4(LAMA2):c.1207-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	2744447
+single nucleotide variant	NM_000426.4(LAMA2):c.799G>A (p.Asp267Asn)	3908	LAMA2	Pathogenic	GRCh38	2734943
+single nucleotide variant	NM_000426.4(LAMA2):c.2538-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2734945
+single nucleotide variant	NM_000426.4(LAMA2):c.4035T>G (p.Tyr1345Ter)	3908	LAMA2	Pathogenic	GRCh38	2734948
+single nucleotide variant	NM_000426.4(LAMA2):c.8703+1G>A	3908	LAMA2	Pathogenic/Likely pathogenic	GRCh38	2734951
+single nucleotide variant	NM_000426.4(LAMA2):c.8725T>C (p.Cys2909Arg)	3908	LAMA2	Pathogenic	GRCh38	2734952
+single nucleotide variant	NM_000426.4(LAMA2):c.3555G>A (p.Trp1185Ter)	3908	LAMA2	Pathogenic	GRCh38	2735188
+single nucleotide variant	NM_000426.4(LAMA2):c.1632T>A (p.Tyr544Ter)	3908	LAMA2	Pathogenic	GRCh38	2751356
+single nucleotide variant	NM_000426.4(LAMA2):c.4706G>A (p.Trp1569Ter)	3908	LAMA2	Pathogenic	GRCh38	2754619
+single nucleotide variant	NM_000426.4(LAMA2):c.2856+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2754019
+single nucleotide variant	NM_000426.4(LAMA2):c.1884+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	2759136
+single nucleotide variant	NM_000426.4(LAMA2):c.5446-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	2748469
+single nucleotide variant	NM_000426.4(LAMA2):c.3747T>G (p.Tyr1249Ter)	3908	LAMA2	Pathogenic	GRCh38	2765075
+single nucleotide variant	NM_000426.4(LAMA2):c.6573+1G>C	3908	LAMA2	Likely pathogenic	GRCh38	2813776
+single nucleotide variant	NM_000426.4(LAMA2):c.2370T>A (p.Pro790=)	3908	LAMA2	Pathogenic	GRCh38	2821923
+single nucleotide variant	NM_000426.4(LAMA2):c.2856+2T>C	3908	LAMA2	Likely pathogenic	GRCh38	2828595
+single nucleotide variant	NM_000426.4(LAMA2):c.2749+1G>T	3908	LAMA2	Pathogenic	GRCh38	2842891
+single nucleotide variant	NM_000426.4(LAMA2):c.3294G>A (p.Trp1098Ter)	3908	LAMA2	Pathogenic	GRCh38	2848113
+single nucleotide variant	NM_000426.4(LAMA2):c.7573-2A>T	3908	LAMA2	Likely pathogenic	GRCh38	2845585
+single nucleotide variant	NM_000426.4(LAMA2):c.4638C>A (p.Cys1546Ter)	3908	LAMA2	Pathogenic	GRCh38	2866463
+single nucleotide variant	NM_000426.4(LAMA2):c.909+2T>A	3908	LAMA2	Likely pathogenic	GRCh38	2857543
+single nucleotide variant	NM_000426.4(LAMA2):c.1782+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	2875681
+single nucleotide variant	NM_000426.4(LAMA2):c.3736-1G>C	3908	LAMA2	Pathogenic	GRCh38	2875879
+single nucleotide variant	NM_000426.4(LAMA2):c.6127C>T (p.Gln2043Ter)	3908	LAMA2	Pathogenic	GRCh38	2955182
+single nucleotide variant	NM_000426.4(LAMA2):c.3146G>A (p.Trp1049Ter)	3908	LAMA2	Pathogenic	GRCh38	3018039
+single nucleotide variant	NM_000426.4(LAMA2):c.7573-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	3018195
+single nucleotide variant	NM_000426.4(LAMA2):c.4689G>A (p.Trp1563Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3030116
+single nucleotide variant	NM_000426.4(LAMA2):c.113-1G>T	3908	LAMA2	Likely pathogenic	GRCh38	3067713
+single nucleotide variant	NM_000426.4(LAMA2):c.8569C>T (p.Gln2857Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3234980
+single nucleotide variant	NM_000426.4(LAMA2):c.8049C>A (p.Cys2683Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3239674
+single nucleotide variant	NM_000426.4(LAMA2):c.4960-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	3241800
+single nucleotide variant	NM_000426.4(LAMA2):c.6145A>T (p.Lys2049Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3241802
+single nucleotide variant	NM_000426.4(LAMA2):c.1783-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	3241804
+single nucleotide variant	NM_000426.4(LAMA2):c.1027+2T>C	3908	LAMA2	Likely pathogenic	GRCh38	3241805
+single nucleotide variant	NM_000426.4(LAMA2):c.5337C>G (p.Tyr1779Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3241806
+single nucleotide variant	NM_000426.4(LAMA2):c.3924+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3242155
+single nucleotide variant	NM_000426.4(LAMA2):c.258C>A (p.Cys86Ter)	3908	LAMA2	Pathogenic	GRCh38	3251299
+single nucleotide variant	NM_000426.4(LAMA2):c.326G>A (p.Trp109Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3251967
+single nucleotide variant	NM_000426.4(LAMA2):c.7573-1G>A	3908	LAMA2	Pathogenic	GRCh38	3336614
+single nucleotide variant	NM_000426.4(LAMA2):c.4399C>T (p.Gln1467Ter)	3908	LAMA2	Pathogenic	GRCh38	3336620
+single nucleotide variant	NM_000426.4(LAMA2):c.6584T>C (p.Leu2195Pro)	3908	LAMA2	Likely pathogenic	GRCh38	3342618
+single nucleotide variant	NM_000426.4(LAMA2):c.8858-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	3350172
+single nucleotide variant	NM_000426.4(LAMA2):c.5708C>G (p.Ser1903Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3362268
+single nucleotide variant	NM_000426.4(LAMA2):c.1672C>T (p.Gln558Ter)	3908	LAMA2	Pathogenic	GRCh38	3385249
+single nucleotide variant	NM_000426.4(LAMA2):c.2856+1068G>A	3908	LAMA2	Likely pathogenic	GRCh38	3536865
+single nucleotide variant	NM_000426.4(LAMA2):c.94C>T (p.Gln32Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593001
+single nucleotide variant	NM_000426.4(LAMA2):c.850G>A (p.Gly284Arg)	3908	LAMA2	Likely pathogenic	GRCh38	3593003
+single nucleotide variant	NM_000426.4(LAMA2):c.1593C>G (p.Tyr531Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593006
+single nucleotide variant	NM_000426.4(LAMA2):c.1726C>T (p.Gln576Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593007
+single nucleotide variant	NM_000426.4(LAMA2):c.3520C>T (p.Gln1174Ter)	3908	LAMA2	Pathogenic	GRCh38	3593012
+single nucleotide variant	NM_000426.4(LAMA2):c.3964A>T (p.Arg1322Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593014
+single nucleotide variant	NM_000426.4(LAMA2):c.4087G>T (p.Glu1363Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593015
+single nucleotide variant	NM_000426.4(LAMA2):c.4437-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3593018
+single nucleotide variant	NM_000426.4(LAMA2):c.6707+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	3593030
+single nucleotide variant	NM_000426.4(LAMA2):c.6708-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	3593031
+single nucleotide variant	NM_000426.4(LAMA2):c.6993-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	3593033
+single nucleotide variant	NM_000426.4(LAMA2):c.7957C>T (p.Gln2653Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593036
+single nucleotide variant	NM_000426.4(LAMA2):c.8893G>T (p.Glu2965Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3593037
+single nucleotide variant	NM_000426.4(LAMA2):c.4311+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3629654
+single nucleotide variant	NM_000426.4(LAMA2):c.3892C>T (p.Gln1298Ter)	3908	LAMA2	Pathogenic	GRCh38	3638088
+single nucleotide variant	NM_000426.4(LAMA2):c.6250A>T (p.Lys2084Ter)	3908	LAMA2	Pathogenic	GRCh38	3644333
+single nucleotide variant	NM_000426.4(LAMA2):c.1693C>T (p.Gln565Ter)	3908	LAMA2	Pathogenic	GRCh38	3638657
+single nucleotide variant	NM_000426.4(LAMA2):c.8829T>G (p.Tyr2943Ter)	3908	LAMA2	Pathogenic	GRCh38	3652943
+single nucleotide variant	NM_000426.4(LAMA2):c.313G>T (p.Gly105Ter)	3908	LAMA2	Pathogenic	GRCh38	3659562
+single nucleotide variant	NM_000426.4(LAMA2):c.6406C>T (p.Gln2136Ter)	3908	LAMA2	Pathogenic	GRCh38	3660358
+single nucleotide variant	NM_000426.4(LAMA2):c.5865+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3683816
+single nucleotide variant	NM_000426.4(LAMA2):c.6992+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3677594
+single nucleotide variant	NM_000426.4(LAMA2):c.8245-2A>C	3908	LAMA2	Pathogenic	GRCh38	3725407
+single nucleotide variant	NM_000426.4(LAMA2):c.1027G>T (p.Ala343Ser)	3908	LAMA2	Likely pathogenic	GRCh38	3767211
+single nucleotide variant	NM_000426.4(LAMA2):c.2987G>A (p.Cys996Tyr)	3908	LAMA2	Likely pathogenic	GRCh38	3895520
+single nucleotide variant	NM_000426.4(LAMA2):c.5167C>T (p.Gln1723Ter)	3908	LAMA2	Likely pathogenic	GRCh38	3896895
+single nucleotide variant	NM_000426.4(LAMA2):c.2844T>A (p.Cys948Ter)	3908	LAMA2	Pathogenic	GRCh38	3900668
+single nucleotide variant	NM_000426.4(LAMA2):c.2857-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	3900978
+single nucleotide variant	NM_000426.4(LAMA2):c.5726+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	3902358
+single nucleotide variant	NM_000426.4(LAMA2):c.2208+2T>C	3908	LAMA2	Pathogenic	GRCh38	4056343
+single nucleotide variant	NM_000426.4(LAMA2):c.4491T>A (p.Cys1497Ter)	3908	LAMA2	Likely pathogenic	GRCh38	4081481
+single nucleotide variant	NM_000426.4(LAMA2):c.2505C>A (p.Cys835Ter)	3908	LAMA2	Likely pathogenic	GRCh38	4081482
+single nucleotide variant	NM_000426.4(LAMA2):c.8989-1G>C	3908	LAMA2	Likely pathogenic	GRCh38	4081483
+single nucleotide variant	NM_000426.4(LAMA2):c.7300+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	4081713
+single nucleotide variant	NM_000426.4(LAMA2):c.1782+2T>G	3908	LAMA2	Pathogenic	GRCh38	4292878
+single nucleotide variant	NM_000426.4(LAMA2):c.2133T>G (p.Tyr711Ter)	3908	LAMA2	Likely pathogenic	GRCh38	4293295
+single nucleotide variant	NM_000426.4(LAMA2):c.1783-1G>A	3908	LAMA2	Likely pathogenic	GRCh38	4294481
+single nucleotide variant	NM_000426.4(LAMA2):c.5446-2016A>G	3908	LAMA2	Likely pathogenic	GRCh38	4530571
+single nucleotide variant	NM_000426.4(LAMA2):c.4671T>A (p.Cys1557Ter)	3908	LAMA2	Pathogenic	GRCh38	4733496
+single nucleotide variant	NM_000426.4(LAMA2):c.3574C>T (p.Gln1192Ter)	3908	LAMA2	Pathogenic	GRCh38	4731473
+single nucleotide variant	NM_000426.4(LAMA2):c.990G>A (p.Trp330Ter)	3908	LAMA2	Pathogenic	GRCh38	4795174
+single nucleotide variant	NM_000426.4(LAMA2):c.4437-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	4760659
+single nucleotide variant	NM_000426.4(LAMA2):c.7921G>T (p.Glu2641Ter)	3908	LAMA2	Pathogenic	GRCh38	4796576
+single nucleotide variant	NM_000426.4(LAMA2):c.640-2A>G	3908	LAMA2	Likely pathogenic	GRCh38	4803578
+single nucleotide variant	NM_000426.4(LAMA2):c.283+2T>C	3908	LAMA2	Pathogenic	GRCh38	4799685
+single nucleotide variant	NM_000426.4(LAMA2):c.909+1G>A	3908	LAMA2	Likely pathogenic	GRCh38	4851670
+single nucleotide variant	NM_000426.4(LAMA2):c.9212-2A>C	3908	LAMA2	Likely pathogenic	GRCh38	4854362
+single nucleotide variant	NM_000426.4(LAMA2):c.4860+1G>T	3908	LAMA2	Likely pathogenic	GRCh38	4857006
+single nucleotide variant	NM_000426.4(LAMA2):c.9170C>G (p.Ser3057Ter)	3908	LAMA2	Likely pathogenic	GRCh38	4857199

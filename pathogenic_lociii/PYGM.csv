@@ -1,6 +1,5 @@
 Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
 single nucleotide variant	NM_005609.4(PYGM):c.148C>T (p.Arg50Ter)	5837	PYGM	Pathogenic	GRCh38	2298
-single nucleotide variant	NM_005609.4(PYGM):c.613G>A (p.Gly205Ser)	5837	PYGM	Pathogenic	GRCh38	2299
 single nucleotide variant	NM_005609.4(PYGM):c.1628A>C (p.Lys543Thr)	5837	PYGM	Pathogenic/Likely pathogenic	GRCh38	2300
 single nucleotide variant	NM_005609.4(PYGM):c.1963G>A (p.Glu655Lys)	5837	PYGM	Pathogenic/Likely pathogenic	GRCh38	2302
 single nucleotide variant	NM_005609.4(PYGM):c.1187T>C (p.Leu396Pro)	5837	PYGM	Pathogenic	GRCh38	2304
@@ -156,3 +155,11 @@ single nucleotide variant	NM_005609.4(PYGM):c.661-2A>C	5837	PYGM	Likely pathogen
 single nucleotide variant	NM_005609.4(PYGM):c.772+1G>C	5837	PYGM	Likely pathogenic	GRCh38	4815439
 single nucleotide variant	NM_005609.4(PYGM):c.855+2T>C	5837	PYGM	Likely pathogenic	GRCh38	4815441
 single nucleotide variant	NM_005609.4(PYGM):c.862G>T (p.Glu288Ter)	5837	PYGM	Likely pathogenic	GRCh38	4815442
+single nucleotide variant	NM_005609.4(PYGM):c.2380-1G>T	5837	PYGM	Likely pathogenic	GRCh38	4875462
+single nucleotide variant	NM_005609.4(PYGM):c.2320G>A (p.Val774Ile)	5837	PYGM	Pathogenic	GRCh38	4888555
+single nucleotide variant	NM_005609.4(PYGM):c.1393A>T (p.Lys465Ter)	5837	PYGM	Likely pathogenic	GRCh38	4888639
+single nucleotide variant	NM_005609.4(PYGM):c.1389C>A (p.Ile463=)	5837	PYGM	Likely pathogenic	GRCh38	4889787
+single nucleotide variant	NM_005609.4(PYGM):c.1732C>T (p.Leu578Phe)	5837	PYGM	Likely pathogenic	GRCh38	4890313
+single nucleotide variant	NM_005609.4(PYGM):c.1411G>A (p.Asp471Asn)	5837	PYGM	Likely pathogenic	GRCh38	4890377
+single nucleotide variant	NM_005609.4(PYGM):c.1981G>T (p.Ala661Ser)	5837	PYGM	Likely pathogenic	GRCh38	4890407
+single nucleotide variant	NM_005609.4(PYGM):c.2033G>A (p.Gly678Asp)	5837	PYGM	Likely pathogenic	GRCh38	4890444
