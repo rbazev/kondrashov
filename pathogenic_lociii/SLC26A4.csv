@@ -7,6 +7,7 @@ single nucleotide variant	NM_000441.2(SLC26A4):c.1001+1G>A	5172	SLC26A4	Pathogen
 single nucleotide variant	NM_000441.2(SLC26A4):c.1151A>G (p.Glu384Gly)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	4820
 single nucleotide variant	NM_000441.2(SLC26A4):c.626G>T (p.Gly209Val)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	4821
 single nucleotide variant	NM_000441.2(SLC26A4):c.1115C>T (p.Ala372Val)	5172	SLC26A4	Pathogenic	GRCh38	4823
+single nucleotide variant	NM_000441.2(SLC26A4):c.2168A>G (p.His723Arg)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	4825
 single nucleotide variant	NM_000441.2(SLC26A4):c.2162C>T (p.Thr721Met)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	4826
 single nucleotide variant	NM_000441.2(SLC26A4):c.415+7A>G	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	4828
 single nucleotide variant	NM_000441.2(SLC26A4):c.1334T>G (p.Leu445Trp)	5172	SLC26A4	Pathogenic	GRCh38	4829
@@ -179,12 +180,11 @@ single nucleotide variant	NM_000441.2(SLC26A4):c.1280C>A (p.Ser427Tyr)	5172	SLC2
 single nucleotide variant	NM_000441.2(SLC26A4):c.87G>C (p.Glu29Asp)	5172	SLC26A4	Likely pathogenic	GRCh38	1065202
 single nucleotide variant	NM_000441.2(SLC26A4):c.317C>A (p.Ala106Asp)	5172	SLC26A4	Pathogenic	GRCh38	1065204
 single nucleotide variant	NM_000441.2(SLC26A4):c.415+2T>C	5172	SLC26A4	Pathogenic	GRCh38	1065211
-single nucleotide variant	NM_000441.2(SLC26A4):c.754T>C (p.Ser252Pro)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	1065210
+single nucleotide variant	NM_000441.2(SLC26A4):c.754T>C (p.Ser252Pro)	5172	SLC26A4	Pathogenic	GRCh38	1065210
 single nucleotide variant	NM_000441.2(SLC26A4):c.1264-12T>A	5172	SLC26A4	Likely pathogenic	GRCh38	1065209
 single nucleotide variant	NM_000441.2(SLC26A4):c.1656T>G (p.Ser552Arg)	5172	SLC26A4	Likely pathogenic	GRCh38	1065205
 single nucleotide variant	NM_000441.2(SLC26A4):c.1786C>T (p.Gln596Ter)	5172	SLC26A4	Pathogenic	GRCh38	1065203
 single nucleotide variant	NM_000441.2(SLC26A4):c.1991C>T (p.Ala664Val)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	1065212
-single nucleotide variant	NM_000441.2(SLC26A4):c.2162C>A (p.Thr721Lys)	5172	SLC26A4	Likely pathogenic	GRCh38	1065206
 single nucleotide variant	NM_000441.2(SLC26A4):c.305-1G>C	5172	SLC26A4	Likely pathogenic	GRCh38	1066167
 single nucleotide variant	NM_000441.2(SLC26A4):c.439A>C (p.Met147Leu)	5172	SLC26A4	Likely pathogenic	GRCh38	1067001
 single nucleotide variant	NM_000441.2(SLC26A4):c.1271G>A (p.Gly424Asp)	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	1067344
@@ -384,7 +384,6 @@ single nucleotide variant	NM_000441.2(SLC26A4):c.2147A>T (p.Asp716Val)	5172	SLC2
 single nucleotide variant	NM_000441.2(SLC26A4):c.215T>A (p.Leu72Ter)	5172	SLC26A4	Pathogenic	GRCh38	3601763
 single nucleotide variant	NM_000441.2(SLC26A4):c.2235+2T>A	5172	SLC26A4	Pathogenic/Likely pathogenic	GRCh38	3601767
 single nucleotide variant	NM_000441.2(SLC26A4):c.234C>G (p.Tyr78Ter)	5172	SLC26A4	Pathogenic	GRCh38	3601768
-single nucleotide variant	NM_000441.2(SLC26A4):c.305G>A (p.Gly102Glu)	5172	SLC26A4	Likely pathogenic	GRCh38	3601769
 single nucleotide variant	NM_000441.2(SLC26A4):c.325G>C (p.Ala109Pro)	5172	SLC26A4	Pathogenic	GRCh38	3601770
 single nucleotide variant	NM_000441.2(SLC26A4):c.-3-2A>T	5172	SLC26A4	Pathogenic	GRCh38	3601772
 single nucleotide variant	NM_000441.2(SLC26A4):c.392G>C (p.Gly131Ala)	5172	SLC26A4	Likely pathogenic	GRCh38	3601773

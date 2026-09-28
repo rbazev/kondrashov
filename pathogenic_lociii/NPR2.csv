@@ -1,0 +1,71 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003995.4(NPR2):c.343T>G (p.Trp115Gly)	4882	NPR2	Pathogenic	GRCh38	17785
+single nucleotide variant	NM_003995.4(NPR2):c.528T>A (p.Asp176Glu)	4882	NPR2	Pathogenic	GRCh38	17786
+single nucleotide variant	NM_003995.4(NPR2):c.1162C>T (p.Arg388Ter)	4882	NPR2	Pathogenic	GRCh38	17787
+single nucleotide variant	NM_003995.4(NPR2):c.2647G>A (p.Val883Met)	4882	NPR2	Pathogenic	GRCh38	143053
+single nucleotide variant	NM_003995.4(NPR2):c.1963C>T (p.Arg655Cys)	4882	NPR2	Pathogenic	GRCh38	143054
+single nucleotide variant	NM_003995.4(NPR2):c.1462G>C (p.Ala488Pro)	4882	NPR2	Pathogenic	GRCh38	143055
+single nucleotide variant	NM_003995.4(NPR2):c.226T>C (p.Ser76Pro)	4882	NPR2	Pathogenic	GRCh38	208357
+single nucleotide variant	NM_003995.4(NPR2):c.779A>T (p.Glu260Val)	4882	NPR2	Likely pathogenic	GRCh38	373988
+single nucleotide variant	NM_003995.4(NPR2):c.1435C>T (p.Arg479Ter)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	375290
+single nucleotide variant	NM_003995.4(NPR2):c.560T>A (p.Val187Asp)	4882	NPR2	Pathogenic	GRCh38	375293
+single nucleotide variant	NM_003995.4(NPR2):c.2302T>C (p.Cys768Arg)	4882	NPR2	Pathogenic	GRCh38	375291
+single nucleotide variant	NM_003995.4(NPR2):c.2944G>A (p.Asp982Asn)	4882	NPR2	Pathogenic	GRCh38	375294
+single nucleotide variant	NM_003995.4(NPR2):c.2966G>T (p.Arg989Leu)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	418389
+single nucleotide variant	NM_003995.4(NPR2):c.140C>T (p.Pro47Leu)	4882	NPR2	Likely pathogenic	GRCh38	427217
+single nucleotide variant	NM_003995.4(NPR2):c.1132G>A (p.Gly378Arg)	4882	NPR2	Likely pathogenic	GRCh38	427026
+single nucleotide variant	NM_003995.4(NPR2):c.1714A>T (p.Arg572Ter)	4882	NPR2	Likely pathogenic	GRCh38	452267
+single nucleotide variant	NM_003995.4(NPR2):c.2761C>T (p.Arg921Ter)	4882	NPR2	Pathogenic	GRCh38	449721
+single nucleotide variant	NM_003995.4(NPR2):c.987+1G>C	4882	NPR2	Likely pathogenic	GRCh38	468349
+single nucleotide variant	NM_003995.4(NPR2):c.1813C>T (p.Gln605Ter)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	504337
+single nucleotide variant	NM_003995.4(NPR2):c.668-1G>C	4882	NPR2	Likely pathogenic	GRCh38	521506
+single nucleotide variant	NM_003995.4(NPR2):c.2713-2A>T	4882	NPR2	Likely pathogenic	GRCh38	579260
+single nucleotide variant	NM_003995.4(NPR2):c.298G>A (p.Gly100Ser)	4882	NPR2	Likely pathogenic	GRCh38	694580
+single nucleotide variant	NM_003995.4(NPR2):c.1032T>G (p.Tyr344Ter)	4882	NPR2	Likely pathogenic	GRCh38	800931
+single nucleotide variant	NM_003995.4(NPR2):c.2966G>A (p.Arg989Gln)	4882	NPR2	Pathogenic	GRCh38	800932
+single nucleotide variant	NM_003995.4(NPR2):c.14C>A (p.Ser5Ter)	4882	NPR2	Pathogenic	GRCh38	870612
+single nucleotide variant	NM_003995.4(NPR2):c.1163G>A (p.Arg388Gln)	4882	NPR2	Pathogenic	GRCh38	873079
+single nucleotide variant	NM_003995.4(NPR2):c.2720C>T (p.Thr907Met)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	873127
+single nucleotide variant	NM_003995.4(NPR2):c.1887+2T>A	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	873132
+single nucleotide variant	NM_003995.4(NPR2):c.2143C>T (p.Gln715Ter)	4882	NPR2	Pathogenic	GRCh38	873147
+single nucleotide variant	NM_003995.4(NPR2):c.2870G>A (p.Arg957His)	4882	NPR2	Likely pathogenic	GRCh38	873148
+single nucleotide variant	NM_003995.4(NPR2):c.1043T>C (p.Leu348Pro)	4882	NPR2	Likely pathogenic	GRCh38	972702
+single nucleotide variant	NM_003995.4(NPR2):c.2266C>T (p.Gln756Ter)	4882	NPR2	Likely pathogenic	GRCh38	976052
+single nucleotide variant	NM_003995.4(NPR2):c.1249C>A (p.Gln417Lys)	4882	NPR2	Likely pathogenic	GRCh38	997998
+single nucleotide variant	NM_003995.4(NPR2):c.2299C>T (p.Arg767Ter)	4882	NPR2	Pathogenic	GRCh38	998027
+single nucleotide variant	NM_003995.4(NPR2):c.1557+1G>A	4882	NPR2	Likely pathogenic	GRCh38	1066921
+single nucleotide variant	NM_003995.4(NPR2):c.895C>T (p.Arg299Ter)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	1224426
+single nucleotide variant	NM_003995.4(NPR2):c.2065C>T (p.Pro689Ser)	4882	NPR2	Likely pathogenic	GRCh38	1299528
+single nucleotide variant	NM_003995.4(NPR2):c.2245C>T (p.Arg749Trp)	4882	NPR2	Pathogenic/Likely pathogenic	GRCh38	1333327
+single nucleotide variant	NM_003995.4(NPR2):c.1577C>A (p.Ser526Ter)	4882	NPR2	Likely pathogenic	GRCh38	1333536
+single nucleotide variant	NM_003995.4(NPR2):c.1111C>T (p.Arg371Ter)	4882	NPR2	Pathogenic	GRCh38	1333664
+single nucleotide variant	NM_003995.4(NPR2):c.1710+3A>G	4882	NPR2	Likely pathogenic	GRCh38	1334189
+single nucleotide variant	NM_003995.4(NPR2):c.1699G>T (p.Glu567Ter)	4882	NPR2	Pathogenic	GRCh38	1453237
+single nucleotide variant	NM_003995.4(NPR2):c.613C>T (p.Arg205Ter)	4882	NPR2	Pathogenic	GRCh38	1454887
+single nucleotide variant	NM_003995.4(NPR2):c.2869C>T (p.Arg957Cys)	4882	NPR2	Likely pathogenic	GRCh38	1513451
+single nucleotide variant	NM_003995.4(NPR2):c.2341C>T (p.Gln781Ter)	4882	NPR2	Pathogenic	GRCh38	1459896
+single nucleotide variant	NM_003995.4(NPR2):c.2221C>T (p.Arg741Ter)	4882	NPR2	Pathogenic	GRCh38	1459715
+single nucleotide variant	NM_003995.4(NPR2):c.2845C>T (p.Arg949Ter)	4882	NPR2	Pathogenic	GRCh38	1433253
+single nucleotide variant	NM_003995.4(NPR2):c.2116G>C (p.Asp706His)	4882	NPR2	Likely pathogenic	GRCh38	1679883
+single nucleotide variant	NM_003995.4(NPR2):c.1579C>T (p.Leu527Phe)	4882	NPR2	Pathogenic	GRCh38	1693277
+single nucleotide variant	NM_003995.4(NPR2):c.277C>A (p.Pro93Thr)	4882	NPR2	Likely pathogenic	GRCh38	1695393
+single nucleotide variant	NM_003995.4(NPR2):c.1087C>T (p.Arg363Ter)	4882	NPR2	Pathogenic	GRCh38	1695394
+single nucleotide variant	NM_003995.4(NPR2):c.2965C>T (p.Arg989Ter)	4882	NPR2	Pathogenic	GRCh38	2183283
+single nucleotide variant	NM_003995.4(NPR2):c.1257G>A (p.Trp419Ter)	4882	NPR2	Pathogenic	GRCh38	2194018
+single nucleotide variant	NM_003995.4(NPR2):c.1511C>G (p.Ser504Ter)	4882	NPR2	Pathogenic	GRCh38	2032731
+single nucleotide variant	NM_003995.4(NPR2):c.721C>T (p.Gln241Ter)	4882	NPR2	Pathogenic	GRCh38	2025379
+single nucleotide variant	NM_003995.4(NPR2):c.2424T>G (p.Tyr808Ter)	4882	NPR2	Pathogenic	GRCh38	2096788
+single nucleotide variant	NM_003995.4(NPR2):c.1779C>A (p.Cys593Ter)	4882	NPR2	Pathogenic	GRCh38	2577399
+single nucleotide variant	NM_003995.4(NPR2):c.844C>T (p.Gln282Ter)	4882	NPR2	Pathogenic	GRCh38	2925446
+single nucleotide variant	NM_003995.4(NPR2):c.1801C>A (p.Arg601Ser)	4882	NPR2	Pathogenic	GRCh38	2925448
+single nucleotide variant	NM_003995.4(NPR2):c.1123+1G>C	4882	NPR2	Likely pathogenic	GRCh38	2941267
+single nucleotide variant	NM_003995.4(NPR2):c.601C>T (p.Gln201Ter)	4882	NPR2	Pathogenic	GRCh38	3026872
+single nucleotide variant	NM_003995.4(NPR2):c.1436+1G>T	4882	NPR2	Likely pathogenic	GRCh38	3031365
+single nucleotide variant	NM_003995.4(NPR2):c.674A>G (p.Tyr225Cys)	4882	NPR2	Pathogenic	GRCh38	3602727
+single nucleotide variant	NM_003995.4(NPR2):c.3094C>T (p.Arg1032Ter)	4882	NPR2	Likely pathogenic	GRCh38	3780983
+single nucleotide variant	NM_003995.4(NPR2):c.2005C>T (p.Arg669Ter)	4882	NPR2	Pathogenic	GRCh38	4755517
+single nucleotide variant	NM_003995.4(NPR2):c.2986+2T>G	4882	NPR2	Pathogenic	GRCh38	4783698
+single nucleotide variant	NM_003995.4(NPR2):c.1259G>A (p.Trp420Ter)	4882	NPR2	Pathogenic	GRCh38	4787377
+single nucleotide variant	NM_003995.4(NPR2):c.2887+1G>A	4882	NPR2	Likely pathogenic	GRCh38	4794056
+single nucleotide variant	NM_003995.4(NPR2):c.2372+1G>A	4882	NPR2	Likely pathogenic	GRCh38	4791586
+single nucleotide variant	NM_003995.4(NPR2):c.2945A>T (p.Asp982Val)	4882	NPR2	Likely pathogenic	GRCh38	4819364

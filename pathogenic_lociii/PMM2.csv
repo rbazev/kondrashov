@@ -73,15 +73,14 @@ single nucleotide variant	NM_000303.3(PMM2):c.687C>G (p.Tyr229Ter)	5373	PMM2	Pat
 single nucleotide variant	NC_000016.10:g.8797716G>T	5373	PMM2	Pathogenic	GRCh38	656718
 single nucleotide variant	NM_000303.3(PMM2):c.97C>T (p.Gln33Ter)	5373	PMM2	Pathogenic	GRCh38	803211
 single nucleotide variant	NM_000303.3(PMM2):c.584A>G (p.His195Arg)	5373	PMM2	Likely pathogenic	GRCh38	812999
-single nucleotide variant	NM_000303.3(PMM2):c.394A>T (p.Ile132Phe)	5373	PMM2	Pathogenic	GRCh38	818203
+single nucleotide variant	NM_000303.3(PMM2):c.394A>T (p.Ile132Phe)	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	818203
 single nucleotide variant	NM_000303.3(PMM2):c.561G>A (p.Trp187Ter)	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	854121
 single nucleotide variant	NM_000303.3(PMM2):c.178+1G>A	5373	PMM2	Likely pathogenic	GRCh38	929132
-single nucleotide variant	NM_000303.3(PMM2):c.457A>G (p.Ile153Val)	5373	PMM2	Likely pathogenic	GRCh38	970217
 single nucleotide variant	NM_000303.3(PMM2):c.130G>A (p.Val44Ile)	5373	PMM2	Likely pathogenic	GRCh38	1039261
 single nucleotide variant	NM_000303.3(PMM2):c.179-2A>G	5373	PMM2	Likely pathogenic	GRCh38	1067513
 single nucleotide variant	NM_000303.3(PMM2):c.448-2A>G	5373	PMM2	Likely pathogenic	GRCh38	1066423
 single nucleotide variant	NM_000303.3(PMM2):c.603T>G (p.Tyr201Ter)	5373	PMM2	Likely pathogenic	GRCh38	1066355
-single nucleotide variant	NM_000303.3(PMM2):c.66+1G>A	5373	PMM2	Pathogenic	GRCh38	1073938
+single nucleotide variant	NM_000303.3(PMM2):c.66+1G>A	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	1073938
 single nucleotide variant	NM_000303.3(PMM2):c.385G>T (p.Val129Leu)	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	1068915
 single nucleotide variant	NM_000303.3(PMM2):c.61C>G (p.Arg21Gly)	5373	PMM2	Likely pathogenic	GRCh38	1284906
 single nucleotide variant	NM_000303.3(PMM2):c.527G>T (p.Gly176Val)	5373	PMM2	Likely pathogenic	GRCh38	1328987
@@ -116,7 +115,7 @@ single nucleotide variant	NM_000303.3(PMM2):c.194A>G (p.Asp65Gly)	5373	PMM2	Like
 single nucleotide variant	NM_000303.3(PMM2):c.485G>C (p.Arg162Pro)	5373	PMM2	Likely pathogenic	GRCh38	2028388
 single nucleotide variant	NM_000303.3(PMM2):c.348-2A>G	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	2031800
 single nucleotide variant	NM_000303.3(PMM2):c.255+2T>G	5373	PMM2	Pathogenic	GRCh38	2034426
-single nucleotide variant	NM_000303.3(PMM2):c.67-2A>G	5373	PMM2	Pathogenic	GRCh38	2054945
+single nucleotide variant	NM_000303.3(PMM2):c.67-2A>G	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	2054945
 single nucleotide variant	NM_000303.3(PMM2):c.67-1G>C	5373	PMM2	Pathogenic/Likely pathogenic	GRCh38	2094293
 single nucleotide variant	NM_000303.3(PMM2):c.34G>C (p.Asp12His)	5373	PMM2	Pathogenic	GRCh38	2098914
 single nucleotide variant	NM_000303.3(PMM2):c.460A>T (p.Arg154Ter)	5373	PMM2	Pathogenic	GRCh38	2125541
@@ -173,3 +172,4 @@ single nucleotide variant	NM_000303.3(PMM2):c.531G>T (p.Gln177His)	5373	PMM2	Lik
 single nucleotide variant	NM_000303.3(PMM2):c.639+1G>C	5373	PMM2	Likely pathogenic	GRCh38	4818142
 single nucleotide variant	NM_000303.3(PMM2):c.724G>T (p.Glu242Ter)	5373	PMM2	Likely pathogenic	GRCh38	4818143
 single nucleotide variant	NM_000303.3(PMM2):c.52A>T (p.Thr18Ser)	5373	PMM2	Likely pathogenic	GRCh38	4850035
+single nucleotide variant	NM_000303.3(PMM2):c.524-1G>A	5373	PMM2	Likely pathogenic	GRCh38	4889950

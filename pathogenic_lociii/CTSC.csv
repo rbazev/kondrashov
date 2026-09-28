@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001814.6(CTSC):c.628C>T (p.Arg210Ter)	1075	CTSC	Pathogenic	GRCh38	7289
+single nucleotide variant	NM_001814.6(CTSC):c.890-1G>A	1075	CTSC	Pathogenic	GRCh38	7290
+single nucleotide variant	NM_001814.6(CTSC):c.755A>T (p.Gln252Leu)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	7291
+single nucleotide variant	NM_001814.6(CTSC):c.856C>T (p.Gln286Ter)	1075	CTSC	Pathogenic	GRCh38	7292
+single nucleotide variant	NM_001814.6(CTSC):c.116G>C (p.Trp39Ser)	1075	CTSC	Likely pathogenic	GRCh38	7296
+single nucleotide variant	NM_001814.6(CTSC):c.901G>A (p.Gly301Ser)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	7297
+single nucleotide variant	NM_001814.6(CTSC):c.1287G>C (p.Trp429Cys)	1075	CTSC	Pathogenic	GRCh38	7298
+single nucleotide variant	NM_001814.6(CTSC):c.1235A>G (p.Tyr412Cys)	1075	CTSC	Pathogenic	GRCh38	7300
+single nucleotide variant	NM_001814.6(CTSC):c.1040A>G (p.Tyr347Cys)	1075	CTSC	Pathogenic	GRCh38	7301
+single nucleotide variant	NM_001814.6(CTSC):c.96T>G (p.Tyr32Ter)	1075	CTSC	Pathogenic	GRCh38	139655
+single nucleotide variant	NM_001814.6(CTSC):c.815G>A (p.Arg272His)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	139656
+single nucleotide variant	NM_001814.6(CTSC):c.1303G>T (p.Glu435Ter)	1075	CTSC	Likely pathogenic	GRCh38	432210
+single nucleotide variant	NM_001814.6(CTSC):c.815G>C (p.Arg272Pro)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	548504
+single nucleotide variant	NM_001814.6(CTSC):c.910T>A (p.Tyr304Asn)	1075	CTSC	Likely pathogenic	GRCh38	651983
+single nucleotide variant	NM_001814.6(CTSC):c.203T>G (p.Leu68Arg)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	839668
+single nucleotide variant	NM_001814.6(CTSC):c.-55C>A	1075	CTSC	Pathogenic	GRCh38	1075099
+single nucleotide variant	NM_001814.6(CTSC):c.268C>T (p.Gln90Ter)	1075	CTSC	Pathogenic	GRCh38	1424145
+single nucleotide variant	NM_001814.6(CTSC):c.570C>G (p.Tyr190Ter)	1075	CTSC	Pathogenic	GRCh38	1398717
+single nucleotide variant	NM_001814.6(CTSC):c.754C>T (p.Gln252Ter)	1075	CTSC	Pathogenic	GRCh38	1455525
+single nucleotide variant	NM_001814.6(CTSC):c.526A>T (p.Lys176Ter)	1075	CTSC	Pathogenic	GRCh38	1687330
+single nucleotide variant	NM_001814.6(CTSC):c.1015C>T (p.Arg339Cys)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	2137217
+single nucleotide variant	NM_001814.6(CTSC):c.757G>A (p.Ala253Thr)	1075	CTSC	Pathogenic	GRCh38	2137218
+single nucleotide variant	NM_001814.6(CTSC):c.587T>C (p.Leu196Pro)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	2137219
+single nucleotide variant	NM_001814.6(CTSC):c.319-1G>A	1075	CTSC	Pathogenic	GRCh38	2137220
+single nucleotide variant	NM_001814.6(CTSC):c.401G>A (p.Trp134Ter)	1075	CTSC	Pathogenic	GRCh38	2152122
+single nucleotide variant	NM_001814.6(CTSC):c.748C>T (p.Arg250Ter)	1075	CTSC	Pathogenic/Likely pathogenic	GRCh38	2193005
+single nucleotide variant	NM_001814.6(CTSC):c.641+1G>A	1075	CTSC	Likely pathogenic	GRCh38	1979480
+single nucleotide variant	NM_001814.6(CTSC):c.889+1G>A	1075	CTSC	Pathogenic	GRCh38	1993744
+single nucleotide variant	NM_001814.6(CTSC):c.1280A>C (p.Asn427Thr)	1075	CTSC	Likely pathogenic	GRCh38	2577359
+single nucleotide variant	NM_001814.6(CTSC):c.173-2A>C	1075	CTSC	Likely pathogenic	GRCh38	2932753
+single nucleotide variant	NM_001814.6(CTSC):c.201C>A (p.Tyr67Ter)	1075	CTSC	Pathogenic	GRCh38	2921800
+single nucleotide variant	NM_001814.6(CTSC):c.757+1G>T	1075	CTSC	Likely pathogenic	GRCh38	2921889
+single nucleotide variant	NM_001814.6(CTSC):c.1286G>A (p.Trp429Ter)	1075	CTSC	Pathogenic	GRCh38	2925487
+single nucleotide variant	NM_001814.6(CTSC):c.555G>A (p.Trp185Ter)	1075	CTSC	Pathogenic	GRCh38	2925490
+single nucleotide variant	NM_001814.6(CTSC):c.415G>A (p.Gly139Arg)	1075	CTSC	Pathogenic	GRCh38	2925492
+single nucleotide variant	NM_001814.6(CTSC):c.90C>A (p.Cys30Ter)	1075	CTSC	Pathogenic	GRCh38	2925493
+single nucleotide variant	NM_001814.6(CTSC):c.328G>T (p.Glu110Ter)	1075	CTSC	Pathogenic	GRCh38	2922681
+single nucleotide variant	NM_001814.6(CTSC):c.415G>T (p.Gly139Ter)	1075	CTSC	Pathogenic	GRCh38	2926323
+single nucleotide variant	NM_001814.6(CTSC):c.877C>T (p.Gln293Ter)	1075	CTSC	Pathogenic	GRCh38	2944450
+single nucleotide variant	NM_001814.6(CTSC):c.642-2A>G	1075	CTSC	Likely pathogenic	GRCh38	2944044
+single nucleotide variant	NM_001814.6(CTSC):c.485+1G>A	1075	CTSC	Likely pathogenic	GRCh38	2941658
+single nucleotide variant	NM_001814.6(CTSC):c.478C>T (p.Gln160Ter)	1075	CTSC	Pathogenic	GRCh38	2944836
+single nucleotide variant	NM_001814.6(CTSC):c.351C>G (p.Tyr117Ter)	1075	CTSC	Pathogenic	GRCh38	2951064
+single nucleotide variant	NM_001814.6(CTSC):c.415G>C (p.Gly139Arg)	1075	CTSC	Pathogenic	GRCh38	2954203
+single nucleotide variant	NM_001814.6(CTSC):c.303G>A (p.Trp101Ter)	1075	CTSC	Pathogenic	GRCh38	2950088
+single nucleotide variant	NM_001814.6(CTSC):c.930C>G (p.Tyr310Ter)	1075	CTSC	Pathogenic	GRCh38	2950239
+single nucleotide variant	NM_001814.6(CTSC):c.319-1G>T	1075	CTSC	Pathogenic	GRCh38	3237164
+single nucleotide variant	NM_001814.6(CTSC):c.745G>T (p.Val249Phe)	1075	CTSC	Likely pathogenic	GRCh38	3377550
+single nucleotide variant	NM_001814.6(CTSC):c.1339G>T (p.Glu447Ter)	1075	CTSC	Likely pathogenic	GRCh38	3574106
+single nucleotide variant	NM_001814.6(CTSC):c.711G>A (p.Trp237Ter)	1075	CTSC	Pathogenic	GRCh38	3756493
+single nucleotide variant	NM_001814.6(CTSC):c.394C>G (p.Arg132Gly)	1075	CTSC	Likely pathogenic	GRCh38	3768207
+single nucleotide variant	NM_001814.6(CTSC):c.503A>G (p.Tyr168Cys)	1075	CTSC	Pathogenic	GRCh38	3769221
+single nucleotide variant	NM_001814.6(CTSC):c.1023C>G (p.Tyr341Ter)	1075	CTSC	Pathogenic	GRCh38	4786854
+single nucleotide variant	NM_001814.6(CTSC):c.318+1G>A	1075	CTSC	Pathogenic	GRCh38	4855774

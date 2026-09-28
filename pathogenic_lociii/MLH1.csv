@@ -1,0 +1,655 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000249.4(MLH1):c.755C>A (p.Ser252Ter)	4292	MLH1	Pathogenic	GRCh38	17078
+single nucleotide variant	NM_000249.4(MLH1):c.131C>T (p.Ser44Phe)	4292	MLH1	Pathogenic	GRCh38	17079
+single nucleotide variant	NM_000249.4(MLH1):c.986A>C (p.His329Pro)	4292	MLH1	Pathogenic	GRCh38	17085
+single nucleotide variant	NM_000249.4(MLH1):c.676C>T (p.Arg226Ter)	4292	MLH1	Pathogenic	GRCh38	17087
+single nucleotide variant	NM_000249.4(MLH1):c.199G>T (p.Gly67Trp)	4292	MLH1	Pathogenic	GRCh38	17088
+single nucleotide variant	NM_000249.4(MLH1):c.350C>T (p.Thr117Met)	4292	MLH1	Pathogenic	GRCh38	17094
+single nucleotide variant	NM_000249.4(MLH1):c.1942C>T (p.Pro648Ser)	4292	MLH1	Pathogenic	GRCh38	17097
+single nucleotide variant	NM_000249.4(MLH1):c.806C>G (p.Ser269Ter)	4292	MLH1	Pathogenic	GRCh38	17098
+single nucleotide variant	NM_000249.4(MLH1):c.2041G>A (p.Ala681Thr)	4292	MLH1	Pathogenic	GRCh38	17099
+single nucleotide variant	NM_000249.4(MLH1):c.200G>A (p.Gly67Glu)	4292	MLH1	Pathogenic	GRCh38	17106
+single nucleotide variant	NM_000249.4(MLH1):c.793C>T (p.Arg265Cys)	4292	MLH1	Pathogenic	GRCh38	29654
+single nucleotide variant	NM_000249.4(MLH1):c.1865T>A (p.Leu622His)	4292	MLH1	Pathogenic	GRCh38	29657
+single nucleotide variant	NM_000249.4(MLH1):c.1381A>T (p.Lys461Ter)	4292	MLH1	Pathogenic	GRCh38	36540
+single nucleotide variant	NM_000249.4(MLH1):c.298C>T (p.Arg100Ter)	4292	MLH1	Pathogenic	GRCh38	36550
+single nucleotide variant	NM_000249.4(MLH1):c.454-1G>A	4292	MLH1	Pathogenic	GRCh38	36553
+single nucleotide variant	NM_000249.4(MLH1):c.218T>G (p.Leu73Arg)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	42192
+single nucleotide variant	NM_000249.4(MLH1):c.-27C>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	89589
+single nucleotide variant	NM_000249.4(MLH1):c.1037A>G (p.Gln346Arg)	4292	MLH1	Pathogenic	GRCh38	89610
+single nucleotide variant	NM_000249.4(MLH1):c.1038+1G>C	4292	MLH1	Likely pathogenic	GRCh38	89613
+single nucleotide variant	NM_000249.4(MLH1):c.1038G>A (p.Gln346=)	4292	MLH1	Pathogenic	GRCh38	89616
+single nucleotide variant	NM_000249.4(MLH1):c.1038G>C (p.Gln346His)	4292	MLH1	Pathogenic	GRCh38	89617
+single nucleotide variant	NM_000249.4(MLH1):c.1038G>T (p.Gln346His)	4292	MLH1	Pathogenic	GRCh38	89618
+single nucleotide variant	NM_000249.4(MLH1):c.1039-1G>A	4292	MLH1	Pathogenic	GRCh38	89619
+single nucleotide variant	NM_000249.4(MLH1):c.1039-2A>G	4292	MLH1	Likely pathogenic	GRCh38	89621
+single nucleotide variant	NM_000249.4(MLH1):c.1039-2A>T	4292	MLH1	Likely pathogenic	GRCh38	89622
+single nucleotide variant	NM_000249.4(MLH1):c.104T>G (p.Met35Arg)	4292	MLH1	Pathogenic	GRCh38	89631
+single nucleotide variant	NM_000249.4(MLH1):c.109G>A (p.Glu37Lys)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	89640
+single nucleotide variant	NM_000249.4(MLH1):c.109G>T (p.Glu37Ter)	4292	MLH1	Pathogenic	GRCh38	89641
+single nucleotide variant	NM_000249.4(MLH1):c.112A>C (p.Asn38His)	4292	MLH1	Pathogenic	GRCh38	89645
+single nucleotide variant	NM_000249.4(MLH1):c.113A>G (p.Asn38Ser)	4292	MLH1	Pathogenic	GRCh38	89648
+single nucleotide variant	NM_000249.4(MLH1):c.114C>G (p.Asn38Lys)	4292	MLH1	Pathogenic	GRCh38	89651
+single nucleotide variant	NM_000249.4(MLH1):c.116+1G>A	4292	MLH1	Likely pathogenic	GRCh38	89656
+single nucleotide variant	NM_000249.4(MLH1):c.116+5G>C	4292	MLH1	Pathogenic	GRCh38	89658
+single nucleotide variant	NM_000249.4(MLH1):c.117-11T>A	4292	MLH1	Likely pathogenic	GRCh38	1739619
+single nucleotide variant	NM_000249.4(MLH1):c.1171C>T (p.Gln391Ter)	4292	MLH1	Pathogenic	GRCh38	89672
+single nucleotide variant	NM_000249.4(MLH1):c.1192C>T (p.Gln398Ter)	4292	MLH1	Pathogenic	GRCh38	89674
+single nucleotide variant	NM_000249.4(MLH1):c.121G>C (p.Asp41His)	4292	MLH1	Pathogenic	GRCh38	89682
+single nucleotide variant	NM_000249.4(MLH1):c.1225C>T (p.Gln409Ter)	4292	MLH1	Pathogenic	GRCh38	89683
+single nucleotide variant	NM_000249.4(MLH1):c.122A>G (p.Asp41Gly)	4292	MLH1	Pathogenic	GRCh38	89684
+single nucleotide variant	NM_000249.4(MLH1):c.1276C>T (p.Gln426Ter)	4292	MLH1	Pathogenic	GRCh38	89691
+single nucleotide variant	NM_000249.4(MLH1):c.1409+1G>A	4292	MLH1	Likely pathogenic	GRCh38	89718
+single nucleotide variant	NM_000249.4(MLH1):c.1409+1G>C	4292	MLH1	Pathogenic	GRCh38	89719
+single nucleotide variant	NM_000249.4(MLH1):c.1409+2T>G	4292	MLH1	Likely pathogenic	GRCh38	89720
+single nucleotide variant	NM_000249.4(MLH1):c.142C>T (p.Gln48Ter)	4292	MLH1	Pathogenic	GRCh38	89738
+single nucleotide variant	NM_000249.4(MLH1):c.143A>C (p.Gln48Pro)	4292	MLH1	Likely pathogenic	GRCh38	89739
+single nucleotide variant	NM_000249.4(MLH1):c.1459C>T (p.Arg487Ter)	4292	MLH1	Pathogenic	GRCh38	89744
+single nucleotide variant	NM_000249.4(MLH1):c.1462A>T (p.Lys488Ter)	4292	MLH1	Pathogenic	GRCh38	89746
+single nucleotide variant	NM_000249.4(MLH1):c.146T>A (p.Val49Glu)	4292	MLH1	Pathogenic	GRCh38	89749
+single nucleotide variant	NM_000249.4(MLH1):c.1528C>T (p.Gln510Ter)	4292	MLH1	Pathogenic	GRCh38	89761
+single nucleotide variant	NM_000249.4(MLH1):c.1534G>T (p.Glu512Ter)	4292	MLH1	Pathogenic	GRCh38	89762
+single nucleotide variant	NM_000249.4(MLH1):c.1549G>T (p.Gly517Ter)	4292	MLH1	Pathogenic	GRCh38	89765
+single nucleotide variant	NM_000249.4(MLH1):c.1558+13T>A	4292	MLH1	Likely pathogenic	GRCh38	3779869
+single nucleotide variant	NM_000249.4(MLH1):c.1558+1G>T	4292	MLH1	Pathogenic	GRCh38	89772
+single nucleotide variant	NM_000249.4(MLH1):c.1558+2T>G	4292	MLH1	Likely pathogenic	GRCh38	89774
+single nucleotide variant	NM_000249.4(MLH1):c.1559-1G>A	4292	MLH1	Likely pathogenic	GRCh38	89779
+single nucleotide variant	NM_000249.4(MLH1):c.1559-1G>C	4292	MLH1	Likely pathogenic	GRCh38	89780
+single nucleotide variant	NM_000249.4(MLH1):c.1559-1G>T	4292	MLH1	Pathogenic	GRCh38	89781
+single nucleotide variant	NM_000249.4(MLH1):c.1559-2A>C	4292	MLH1	Likely pathogenic	GRCh38	89782
+single nucleotide variant	NM_000249.4(MLH1):c.1559-2A>G	4292	MLH1	Pathogenic	GRCh38	89783
+single nucleotide variant	NM_000249.4(MLH1):c.1559-2A>T	4292	MLH1	Pathogenic	GRCh38	89784
+single nucleotide variant	NM_000249.4(MLH1):c.1574T>A (p.Leu525Ter)	4292	MLH1	Pathogenic	GRCh38	89797
+single nucleotide variant	NM_000249.4(MLH1):c.1609C>T (p.Gln537Ter)	4292	MLH1	Pathogenic	GRCh38	89801
+single nucleotide variant	NM_000249.4(MLH1):c.1613G>A (p.Trp538Ter)	4292	MLH1	Pathogenic	GRCh38	89802
+single nucleotide variant	NM_000249.4(MLH1):c.1614G>A (p.Trp538Ter)	4292	MLH1	Pathogenic	GRCh38	89803
+single nucleotide variant	NM_000249.4(MLH1):c.1616C>A (p.Ala539Asp)	4292	MLH1	Likely pathogenic	GRCh38	1343456
+single nucleotide variant	NM_000249.4(MLH1):c.1624C>T (p.Gln542Ter)	4292	MLH1	Pathogenic	GRCh38	89809
+single nucleotide variant	NM_000249.4(MLH1):c.1625A>C (p.Gln542Pro)	4292	MLH1	Likely pathogenic	GRCh38	1776675
+single nucleotide variant	NM_000249.4(MLH1):c.1640T>A (p.Leu547Ter)	4292	MLH1	Pathogenic	GRCh38	89814
+single nucleotide variant	NM_000249.4(MLH1):c.1644C>G (p.Tyr548Ter)	4292	MLH1	Pathogenic	GRCh38	89815
+single nucleotide variant	NM_000249.4(MLH1):c.1649T>C (p.Leu550Pro)	4292	MLH1	Pathogenic	GRCh38	89818
+single nucleotide variant	NM_000249.4(MLH1):c.1664T>C (p.Leu555Pro)	4292	MLH1	Likely pathogenic	GRCh38	89822
+single nucleotide variant	NM_000249.4(MLH1):c.1667G>T (p.Ser556Ile)	4292	MLH1	Pathogenic	GRCh38	89825
+single nucleotide variant	NM_000249.4(MLH1):c.1668-1G>A	4292	MLH1	Likely pathogenic	GRCh38	89826
+single nucleotide variant	NM_000249.4(MLH1):c.1668-1G>T	4292	MLH1	Likely pathogenic	GRCh38	89827
+single nucleotide variant	NM_000249.4(MLH1):c.1668-3C>A	4292	MLH1	Likely pathogenic	GRCh38	89829
+single nucleotide variant	NM_000249.4(MLH1):c.1669G>T (p.Glu557Ter)	4292	MLH1	Pathogenic	GRCh38	89834
+single nucleotide variant	NM_000249.4(MLH1):c.1672G>T (p.Glu558Ter)	4292	MLH1	Pathogenic	GRCh38	89835
+single nucleotide variant	NM_000249.4(MLH1):c.1683C>G (p.Tyr561Ter)	4292	MLH1	Pathogenic	GRCh38	89838
+single nucleotide variant	NM_000249.4(MLH1):c.1684C>T (p.Gln562Ter)	4292	MLH1	Pathogenic	GRCh38	89839
+single nucleotide variant	NM_000249.4(MLH1):c.1721T>C (p.Leu574Pro)	4292	MLH1	Likely pathogenic	GRCh38	89846
+single nucleotide variant	NM_000249.4(MLH1):c.1731+1G>A	4292	MLH1	Pathogenic	GRCh38	89848
+single nucleotide variant	NM_000249.4(MLH1):c.1731+1G>C	4292	MLH1	Likely pathogenic	GRCh38	89849
+single nucleotide variant	NM_000249.4(MLH1):c.1731+1G>T	4292	MLH1	Likely pathogenic	GRCh38	89850
+single nucleotide variant	NM_000249.4(MLH1):c.1731+2T>G	4292	MLH1	Likely pathogenic	GRCh38	89852
+single nucleotide variant	NM_000249.4(MLH1):c.1731+3A>T	4292	MLH1	Likely pathogenic	GRCh38	89853
+single nucleotide variant	NM_000249.4(MLH1):c.1731+5G>A	4292	MLH1	Pathogenic	GRCh38	89854
+single nucleotide variant	NM_000249.4(MLH1):c.1731G>A (p.Ser577=)	4292	MLH1	Pathogenic	GRCh38	89857
+single nucleotide variant	NM_000249.4(MLH1):c.1732-1G>A	4292	MLH1	Pathogenic	GRCh38	89859
+single nucleotide variant	NM_000249.4(MLH1):c.1732-2A>G	4292	MLH1	Likely pathogenic	GRCh38	89861
+single nucleotide variant	NM_000249.4(MLH1):c.1732-2A>T	4292	MLH1	Pathogenic	GRCh38	89862
+single nucleotide variant	NM_000249.4(MLH1):c.1745T>C (p.Leu582Pro)	4292	MLH1	Pathogenic	GRCh38	89871
+single nucleotide variant	NM_000249.4(MLH1):c.1754T>G (p.Leu585Arg)	4292	MLH1	Likely pathogenic	GRCh38	1779452
+single nucleotide variant	NM_000249.4(MLH1):c.1757C>A (p.Ala586Asp)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	89877
+single nucleotide variant	NM_000249.4(MLH1):c.1766C>A (p.Ala589Asp)	4292	MLH1	Likely pathogenic	GRCh38	89884
+single nucleotide variant	NM_000249.4(MLH1):c.1790G>A (p.Trp597Ter)	4292	MLH1	Pathogenic	GRCh38	89889
+single nucleotide variant	NM_000249.4(MLH1):c.1810A>T (p.Lys604Ter)	4292	MLH1	Pathogenic	GRCh38	89893
+single nucleotide variant	NM_000249.4(MLH1):c.184C>T (p.Gln62Ter)	4292	MLH1	Pathogenic	GRCh38	89902
+single nucleotide variant	NM_000249.4(MLH1):c.1852A>T (p.Lys618Ter)	4292	MLH1	Pathogenic	GRCh38	89904
+single nucleotide variant	NM_000249.4(MLH1):c.1855G>C (p.Ala619Pro)	4292	MLH1	Likely pathogenic	GRCh38	89909
+single nucleotide variant	NM_000249.4(MLH1):c.1865T>C (p.Leu622Pro)	4292	MLH1	Pathogenic	GRCh38	89911
+single nucleotide variant	NM_000249.4(MLH1):c.1875T>G (p.Tyr625Ter)	4292	MLH1	Pathogenic	GRCh38	89914
+single nucleotide variant	NM_000249.4(MLH1):c.187G>A (p.Asp63Asn)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	89920
+single nucleotide variant	NM_000249.4(MLH1):c.1896+1G>A	4292	MLH1	Likely pathogenic	GRCh38	89925
+single nucleotide variant	NM_000249.4(MLH1):c.1896+1G>T	4292	MLH1	Likely pathogenic	GRCh38	89926
+single nucleotide variant	NM_000249.4(MLH1):c.1896+2T>C	4292	MLH1	Likely pathogenic	GRCh38	89928
+single nucleotide variant	NM_000249.4(MLH1):c.1896G>A (p.Glu632=)	4292	MLH1	Pathogenic	GRCh38	89930
+single nucleotide variant	NM_000249.4(MLH1):c.1897-2A>G	4292	MLH1	Likely pathogenic	GRCh38	89932
+single nucleotide variant	NM_000249.4(MLH1):c.189C>A (p.Asp63Glu)	4292	MLH1	Pathogenic	GRCh38	89934
+single nucleotide variant	NM_000249.4(MLH1):c.1918C>T (p.Pro640Ser)	4292	MLH1	Likely pathogenic	GRCh38	89945
+single nucleotide variant	NM_000249.4(MLH1):c.1919C>T (p.Pro640Leu)	4292	MLH1	Likely pathogenic	GRCh38	89946
+single nucleotide variant	NM_000249.4(MLH1):c.1943C>T (p.Pro648Leu)	4292	MLH1	Likely pathogenic	GRCh38	89953
+single nucleotide variant	NM_000249.4(MLH1):c.194G>A (p.Gly65Asp)	4292	MLH1	Likely pathogenic	GRCh38	89955
+single nucleotide variant	NM_000249.4(MLH1):c.1958T>G (p.Leu653Arg)	4292	MLH1	Likely pathogenic	GRCh38	89957
+single nucleotide variant	NM_000249.4(MLH1):c.1961C>T (p.Pro654Leu)	4292	MLH1	Pathogenic	GRCh38	89959
+single nucleotide variant	NM_000249.4(MLH1):c.1975C>T (p.Arg659Ter)	4292	MLH1	Pathogenic	GRCh38	89962
+single nucleotide variant	NM_000249.4(MLH1):c.1976G>C (p.Arg659Pro)	4292	MLH1	Pathogenic	GRCh38	89965
+single nucleotide variant	NM_000249.4(MLH1):c.1976G>T (p.Arg659Leu)	4292	MLH1	Pathogenic	GRCh38	89966
+single nucleotide variant	NM_000249.4(MLH1):c.1984A>C (p.Thr662Pro)	4292	MLH1	Likely pathogenic	GRCh38	89968
+single nucleotide variant	NM_000249.4(MLH1):c.1989+1G>A	4292	MLH1	Pathogenic	GRCh38	89973
+single nucleotide variant	NM_000249.4(MLH1):c.1989+1G>C	4292	MLH1	Likely pathogenic	GRCh38	89974
+single nucleotide variant	NM_000249.4(MLH1):c.1989+1G>T	4292	MLH1	Pathogenic	GRCh38	89975
+single nucleotide variant	NM_000249.4(MLH1):c.1989+5G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	89977
+single nucleotide variant	NM_000249.4(MLH1):c.1989G>A (p.Glu663=)	4292	MLH1	Pathogenic	GRCh38	89979
+single nucleotide variant	NM_000249.4(MLH1):c.1989G>T (p.Glu663Asp)	4292	MLH1	Pathogenic	GRCh38	89980
+single nucleotide variant	NM_000249.4(MLH1):c.1990-1G>A	4292	MLH1	Pathogenic	GRCh38	89985
+single nucleotide variant	NM_000249.4(MLH1):c.1990-1G>T	4292	MLH1	Likely pathogenic	GRCh38	89986
+single nucleotide variant	NM_000249.4(MLH1):c.1990-2A>G	4292	MLH1	Pathogenic	GRCh38	89987
+single nucleotide variant	NM_000249.4(MLH1):c.1996T>C (p.Trp666Arg)	4292	MLH1	Likely pathogenic	GRCh38	2673628
+single nucleotide variant	NM_000249.4(MLH1):c.1998G>A (p.Trp666Ter)	4292	MLH1	Pathogenic	GRCh38	89991
+single nucleotide variant	NM_000249.4(MLH1):c.199G>A (p.Gly67Arg)	4292	MLH1	Pathogenic	GRCh38	89992
+single nucleotide variant	NM_000249.4(MLH1):c.1A>G (p.Met1Val)	4292	MLH1	Pathogenic	GRCh38	89994
+single nucleotide variant	NM_000249.4(MLH1):c.2011G>T (p.Glu671Ter)	4292	MLH1	Pathogenic	GRCh38	89999
+single nucleotide variant	NM_000249.4(MLH1):c.2027T>G (p.Leu676Arg)	4292	MLH1	Likely pathogenic	GRCh38	1784677
+single nucleotide variant	NM_000249.4(MLH1):c.2035G>T (p.Glu679Ter)	4292	MLH1	Pathogenic	GRCh38	90005
+single nucleotide variant	NM_000249.4(MLH1):c.2038T>C (p.Cys680Arg)	4292	MLH1	Likely pathogenic	GRCh38	90006
+single nucleotide variant	NM_000249.4(MLH1):c.203T>A (p.Ile68Asn)	4292	MLH1	Likely pathogenic	GRCh38	90008
+single nucleotide variant	NM_000249.4(MLH1):c.2040C>A (p.Cys680Ter)	4292	MLH1	Pathogenic	GRCh38	90009
+single nucleotide variant	NM_000249.4(MLH1):c.2042C>T (p.Ala681Val)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90011
+single nucleotide variant	NM_000249.4(MLH1):c.2048T>C (p.Phe683Ser)	4292	MLH1	Likely pathogenic	GRCh38	90012
+single nucleotide variant	NM_000249.4(MLH1):c.2059C>T (p.Arg687Trp)	4292	MLH1	Pathogenic	GRCh38	90014
+single nucleotide variant	NM_000249.4(MLH1):c.207+1G>A	4292	MLH1	Likely pathogenic	GRCh38	90020
+single nucleotide variant	NM_000249.4(MLH1):c.207+1G>T	4292	MLH1	Likely pathogenic	GRCh38	90021
+single nucleotide variant	NM_000249.4(MLH1):c.207+2T>C	4292	MLH1	Likely pathogenic	GRCh38	90023
+single nucleotide variant	NM_000249.4(MLH1):c.208-1G>A	4292	MLH1	Pathogenic	GRCh38	90029
+single nucleotide variant	NM_000249.4(MLH1):c.208-2A>G	4292	MLH1	Pathogenic	GRCh38	90031
+single nucleotide variant	NM_000249.4(MLH1):c.208-3C>G	4292	MLH1	Likely pathogenic	GRCh38	90032
+single nucleotide variant	NM_000249.4(MLH1):c.2084C>A (p.Ser695Ter)	4292	MLH1	Pathogenic	GRCh38	90038
+single nucleotide variant	NM_000249.4(MLH1):c.2093C>G (p.Ser698Ter)	4292	MLH1	Pathogenic	GRCh38	90040
+single nucleotide variant	NM_000249.4(MLH1):c.2101C>T (p.Gln701Ter)	4292	MLH1	Pathogenic	GRCh38	90043
+single nucleotide variant	NM_000249.4(MLH1):c.2103+1G>A	4292	MLH1	Pathogenic	GRCh38	90044
+single nucleotide variant	NM_000249.4(MLH1):c.2103+1G>C	4292	MLH1	Likely pathogenic	GRCh38	90045
+single nucleotide variant	NM_000249.4(MLH1):c.2103+1G>T	4292	MLH1	Likely pathogenic	GRCh38	90046
+single nucleotide variant	NM_000249.4(MLH1):c.2103+3A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90047
+single nucleotide variant	NM_000249.4(MLH1):c.2103G>C (p.Gln701His)	4292	MLH1	Pathogenic	GRCh38	90049
+single nucleotide variant	NM_000249.4(MLH1):c.2104-1G>T	4292	MLH1	Likely pathogenic	GRCh38	90052
+single nucleotide variant	NM_000249.4(MLH1):c.2104-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90054
+single nucleotide variant	NM_000249.4(MLH1):c.2104-2A>T	4292	MLH1	Pathogenic	GRCh38	90055
+single nucleotide variant	NM_000249.4(MLH1):c.211G>T (p.Glu71Ter)	4292	MLH1	Pathogenic	GRCh38	90063
+single nucleotide variant	NM_000249.4(MLH1):c.2135G>A (p.Trp712Ter)	4292	MLH1	Pathogenic	GRCh38	90065
+single nucleotide variant	NM_000249.4(MLH1):c.2136G>A (p.Trp712Ter)	4292	MLH1	Pathogenic	GRCh38	90066
+single nucleotide variant	NM_000249.4(MLH1):c.2141G>A (p.Trp714Ter)	4292	MLH1	Pathogenic	GRCh38	90068
+single nucleotide variant	NM_000249.4(MLH1):c.2153A>C (p.His718Pro)	4292	MLH1	Likely pathogenic	GRCh38	90071
+single nucleotide variant	NM_000249.4(MLH1):c.2163T>A (p.Tyr721Ter)	4292	MLH1	Pathogenic	GRCh38	90079
+single nucleotide variant	NM_000249.4(MLH1):c.218T>C (p.Leu73Pro)	4292	MLH1	Likely pathogenic	GRCh38	1365656
+single nucleotide variant	NM_000249.4(MLH1):c.2194A>T (p.Lys732Ter)	4292	MLH1	Pathogenic	GRCh38	90087
+single nucleotide variant	NM_000249.4(MLH1):c.2224C>T (p.Gln742Ter)	4292	MLH1	Pathogenic	GRCh38	90094
+single nucleotide variant	NM_000249.4(MLH1):c.2246T>C (p.Leu749Pro)	4292	MLH1	Pathogenic	GRCh38	90097
+single nucleotide variant	NM_000249.4(MLH1):c.2258T>C (p.Phe753Ser)	4292	MLH1	Likely pathogenic	GRCh38	3230775
+single nucleotide variant	NM_000249.4(MLH1):c.229T>C (p.Cys77Arg)	4292	MLH1	Pathogenic	GRCh38	90110
+single nucleotide variant	NM_000249.4(MLH1):c.230G>A (p.Cys77Tyr)	4292	MLH1	Pathogenic	GRCh38	90112
+single nucleotide variant	NM_000249.4(MLH1):c.238T>G (p.Phe80Val)	4292	MLH1	Likely pathogenic	GRCh38	90115
+single nucleotide variant	NM_000249.4(MLH1):c.244A>G (p.Thr82Ala)	4292	MLH1	Likely pathogenic	GRCh38	90116
+single nucleotide variant	NM_000249.4(MLH1):c.245C>T (p.Thr82Ile)	4292	MLH1	Pathogenic	GRCh38	90118
+single nucleotide variant	NM_000249.4(MLH1):c.250A>G (p.Lys84Glu)	4292	MLH1	Likely pathogenic	GRCh38	90120
+single nucleotide variant	NM_000249.4(MLH1):c.256C>T (p.Gln86Ter)	4292	MLH1	Pathogenic	GRCh38	90121
+single nucleotide variant	NM_000249.4(MLH1):c.265G>T (p.Glu89Ter)	4292	MLH1	Pathogenic	GRCh38	90124
+single nucleotide variant	NM_000249.4(MLH1):c.299G>C (p.Arg100Pro)	4292	MLH1	Pathogenic	GRCh38	90133
+single nucleotide variant	NM_000249.4(MLH1):c.2T>A (p.Met1Lys)	4292	MLH1	Pathogenic	GRCh38	90134
+single nucleotide variant	NM_000249.4(MLH1):c.2T>C (p.Met1Thr)	4292	MLH1	Pathogenic	GRCh38	90135
+single nucleotide variant	NM_000249.4(MLH1):c.2T>G (p.Met1Arg)	4292	MLH1	Pathogenic	GRCh38	90136
+single nucleotide variant	NM_000249.4(MLH1):c.301G>A (p.Gly101Ser)	4292	MLH1	Likely pathogenic	GRCh38	90137
+single nucleotide variant	NM_000249.4(MLH1):c.302G>A (p.Gly101Asp)	4292	MLH1	Likely pathogenic	GRCh38	90138
+single nucleotide variant	NM_000249.4(MLH1):c.304G>A (p.Glu102Lys)	4292	MLH1	Likely pathogenic	GRCh38	90141
+single nucleotide variant	NM_000249.4(MLH1):c.306+1G>A	4292	MLH1	Pathogenic	GRCh38	90142
+single nucleotide variant	NM_000249.4(MLH1):c.306+5G>A	4292	MLH1	Pathogenic	GRCh38	90148
+single nucleotide variant	NM_000249.4(MLH1):c.306G>C (p.Glu102Asp)	4292	MLH1	Pathogenic	GRCh38	90150
+single nucleotide variant	NM_000249.4(MLH1):c.307-1G>C	4292	MLH1	Likely pathogenic	GRCh38	90154
+single nucleotide variant	NM_000249.4(MLH1):c.307-2A>C	4292	MLH1	Likely pathogenic	GRCh38	90157
+single nucleotide variant	NM_000249.4(MLH1):c.320T>G (p.Ile107Arg)	4292	MLH1	Pathogenic	GRCh38	90167
+single nucleotide variant	NM_000249.4(MLH1):c.332C>T (p.Ala111Val)	4292	MLH1	Likely pathogenic	GRCh38	90171
+single nucleotide variant	NM_000249.4(MLH1):c.350C>G (p.Thr117Arg)	4292	MLH1	Likely pathogenic	GRCh38	90178
+single nucleotide variant	NM_000249.4(MLH1):c.367A>T (p.Lys123Ter)	4292	MLH1	Pathogenic	GRCh38	90181
+single nucleotide variant	NM_000249.4(MLH1):c.378C>G (p.Tyr126Ter)	4292	MLH1	Pathogenic	GRCh38	90186
+single nucleotide variant	NM_000249.4(MLH1):c.37G>T (p.Glu13Ter)	4292	MLH1	Pathogenic	GRCh38	90189
+single nucleotide variant	NM_000249.4(MLH1):c.380+1G>A	4292	MLH1	Likely pathogenic	GRCh38	90191
+single nucleotide variant	NM_000249.4(MLH1):c.380+2T>A	4292	MLH1	Pathogenic	GRCh38	90192
+single nucleotide variant	NM_000249.4(MLH1):c.380+2T>C	4292	MLH1	Likely pathogenic	GRCh38	90193
+single nucleotide variant	NM_000249.4(MLH1):c.380G>A (p.Arg127Lys)	4292	MLH1	Pathogenic	GRCh38	90194
+single nucleotide variant	NM_000249.4(MLH1):c.381-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90195
+single nucleotide variant	NM_000249.4(MLH1):c.382G>C (p.Ala128Pro)	4292	MLH1	Pathogenic	GRCh38	90199
+single nucleotide variant	NM_000249.4(MLH1):c.388T>C (p.Tyr130His)	4292	MLH1	Likely pathogenic	GRCh38	1523598
+single nucleotide variant	NM_000249.4(MLH1):c.389A>G (p.Tyr130Cys)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1735971
+single nucleotide variant	NM_000249.4(MLH1):c.392C>A (p.Ser131Ter)	4292	MLH1	Pathogenic	GRCh38	90208
+single nucleotide variant	NM_000249.4(MLH1):c.397G>T (p.Gly133Ter)	4292	MLH1	Pathogenic	GRCh38	90209
+single nucleotide variant	NM_000249.4(MLH1):c.3G>A (p.Met1Ile)	4292	MLH1	Pathogenic	GRCh38	90211
+single nucleotide variant	NM_000249.4(MLH1):c.436C>T (p.Gln146Ter)	4292	MLH1	Pathogenic	GRCh38	90217
+single nucleotide variant	NM_000249.4(MLH1):c.445C>T (p.Gln149Ter)	4292	MLH1	Pathogenic	GRCh38	90219
+single nucleotide variant	NM_000249.4(MLH1):c.453+1G>T	4292	MLH1	Likely pathogenic	GRCh38	90223
+single nucleotide variant	NM_000249.4(MLH1):c.453+2T>C	4292	MLH1	Pathogenic	GRCh38	90224
+single nucleotide variant	NM_000249.4(MLH1):c.454-13A>G	4292	MLH1	Likely pathogenic	GRCh38	90230
+single nucleotide variant	NM_000249.4(MLH1):c.454-1G>T	4292	MLH1	Likely pathogenic	GRCh38	90231
+single nucleotide variant	NM_000249.4(MLH1):c.454-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90232
+single nucleotide variant	NM_000249.4(MLH1):c.464T>G (p.Leu155Arg)	4292	MLH1	Pathogenic	GRCh38	90241
+single nucleotide variant	NM_000249.4(MLH1):c.497T>A (p.Leu166Ter)	4292	MLH1	Pathogenic	GRCh38	90246
+single nucleotide variant	NM_000249.4(MLH1):c.544A>G (p.Arg182Gly)	4292	MLH1	Pathogenic	GRCh38	90258
+single nucleotide variant	NM_000249.4(MLH1):c.545+1G>A	4292	MLH1	Likely pathogenic	GRCh38	90259
+single nucleotide variant	NM_000249.4(MLH1):c.545+3A>G	4292	MLH1	Pathogenic	GRCh38	90260
+single nucleotide variant	NM_000249.4(MLH1):c.545G>A (p.Arg182Lys)	4292	MLH1	Pathogenic	GRCh38	90264
+single nucleotide variant	NM_000249.4(MLH1):c.546-1G>A	4292	MLH1	Likely pathogenic	GRCh38	90265
+single nucleotide variant	NM_000249.4(MLH1):c.546-2A>C	4292	MLH1	Pathogenic	GRCh38	90266
+single nucleotide variant	NM_000249.4(MLH1):c.546-2A>G	4292	MLH1	Pathogenic	GRCh38	90267
+single nucleotide variant	NM_000249.4(MLH1):c.554T>G (p.Val185Gly)	4292	MLH1	Pathogenic	GRCh38	90272
+single nucleotide variant	NM_000249.4(MLH1):c.55A>T (p.Ile19Phe)	4292	MLH1	Pathogenic	GRCh38	90274
+single nucleotide variant	NM_000249.4(MLH1):c.577T>C (p.Ser193Pro)	4292	MLH1	Likely pathogenic	GRCh38	2673885
+single nucleotide variant	NM_000249.4(MLH1):c.578C>G (p.Ser193Ter)	4292	MLH1	Pathogenic	GRCh38	90278
+single nucleotide variant	NM_000249.4(MLH1):c.586A>T (p.Lys196Ter)	4292	MLH1	Pathogenic	GRCh38	90279
+single nucleotide variant	NM_000249.4(MLH1):c.588+1G>T	4292	MLH1	Pathogenic	GRCh38	90280
+single nucleotide variant	NM_000249.4(MLH1):c.588+2T>A	4292	MLH1	Likely pathogenic	GRCh38	90282
+single nucleotide variant	NM_000249.4(MLH1):c.588+5G>A	4292	MLH1	Pathogenic	GRCh38	90285
+single nucleotide variant	NM_000249.4(MLH1):c.588+5G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90286
+single nucleotide variant	NM_000249.4(MLH1):c.589-1G>T	4292	MLH1	Likely pathogenic	GRCh38	90290
+single nucleotide variant	NM_000249.4(MLH1):c.589-2A>G	4292	MLH1	Pathogenic	GRCh38	90291
+single nucleotide variant	NM_000249.4(MLH1):c.5C>A (p.Ser2Ter)	4292	MLH1	Pathogenic	GRCh38	90295
+single nucleotide variant	NM_000249.4(MLH1):c.62C>A (p.Ala21Glu)	4292	MLH1	Pathogenic	GRCh38	90297
+single nucleotide variant	NM_000249.4(MLH1):c.62C>T (p.Ala21Val)	4292	MLH1	Pathogenic	GRCh38	90298
+single nucleotide variant	NM_000249.4(MLH1):c.677+1G>A	4292	MLH1	Likely pathogenic	GRCh38	90311
+single nucleotide variant	NM_000249.4(MLH1):c.677+1G>T	4292	MLH1	Pathogenic	GRCh38	90312
+single nucleotide variant	NM_000249.4(MLH1):c.677+3A>G	4292	MLH1	Pathogenic	GRCh38	90315
+single nucleotide variant	NM_000249.4(MLH1):c.677+5G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90317
+single nucleotide variant	NM_000249.4(MLH1):c.677G>A (p.Arg226Gln)	4292	MLH1	Pathogenic	GRCh38	90318
+single nucleotide variant	NM_000249.4(MLH1):c.677G>T (p.Arg226Leu)	4292	MLH1	Likely pathogenic	GRCh38	90319
+single nucleotide variant	NM_000249.4(MLH1):c.678-1G>C	4292	MLH1	Pathogenic	GRCh38	90322
+single nucleotide variant	NM_000249.4(MLH1):c.678-1G>T	4292	MLH1	Likely pathogenic	GRCh38	90323
+single nucleotide variant	NM_000249.4(MLH1):c.678-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90324
+single nucleotide variant	NM_000249.4(MLH1):c.678-3T>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90325
+single nucleotide variant	NM_000249.4(MLH1):c.67G>T (p.Glu23Ter)	4292	MLH1	Pathogenic	GRCh38	90331
+single nucleotide variant	NM_000249.4(MLH1):c.731G>A (p.Gly244Asp)	4292	MLH1	Pathogenic	GRCh38	90339
+single nucleotide variant	NM_000249.4(MLH1):c.731G>T (p.Gly244Val)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90340
+single nucleotide variant	NM_000249.4(MLH1):c.739T>C (p.Ser247Pro)	4292	MLH1	Pathogenic	GRCh38	90342
+single nucleotide variant	NM_000249.4(MLH1):c.73A>T (p.Ile25Phe)	4292	MLH1	Likely pathogenic	GRCh38	90343
+single nucleotide variant	NM_000249.4(MLH1):c.76C>T (p.Gln26Ter)	4292	MLH1	Pathogenic	GRCh38	90347
+single nucleotide variant	NM_000249.4(MLH1):c.779T>G (p.Leu260Arg)	4292	MLH1	Pathogenic	GRCh38	90350
+single nucleotide variant	NM_000249.4(MLH1):c.790+1G>A	4292	MLH1	Pathogenic	GRCh38	90356
+single nucleotide variant	NM_000249.4(MLH1):c.790+1G>C	4292	MLH1	Likely pathogenic	GRCh38	90357
+single nucleotide variant	NM_000249.4(MLH1):c.790+2T>A	4292	MLH1	Pathogenic	GRCh38	90359
+single nucleotide variant	NM_000249.4(MLH1):c.790+2T>C	4292	MLH1	Pathogenic	GRCh38	90360
+single nucleotide variant	NM_000249.4(MLH1):c.790+3A>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90362
+single nucleotide variant	NM_000249.4(MLH1):c.790+4A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90363
+single nucleotide variant	NM_000249.4(MLH1):c.790+5G>T	4292	MLH1	Pathogenic	GRCh38	90364
+single nucleotide variant	NM_000249.4(MLH1):c.791-1G>C	4292	MLH1	Pathogenic	GRCh38	90369
+single nucleotide variant	NM_000249.4(MLH1):c.791-1G>T	4292	MLH1	Likely pathogenic	GRCh38	90370
+single nucleotide variant	NM_000249.4(MLH1):c.791-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90372
+single nucleotide variant	NM_000249.4(MLH1):c.791-5T>G	4292	MLH1	Pathogenic	GRCh38	90374
+single nucleotide variant	NM_000249.4(MLH1):c.791-7T>A	4292	MLH1	Likely pathogenic	GRCh38	90375
+single nucleotide variant	NM_000249.4(MLH1):c.793C>A (p.Arg265Ser)	4292	MLH1	Pathogenic	GRCh38	90380
+single nucleotide variant	NM_000249.4(MLH1):c.83C>T (p.Pro28Leu)	4292	MLH1	Pathogenic	GRCh38	90388
+single nucleotide variant	NM_000249.4(MLH1):c.840T>A (p.Tyr280Ter)	4292	MLH1	Pathogenic	GRCh38	90389
+single nucleotide variant	NM_000249.4(MLH1):c.842C>T (p.Ala281Val)	4292	MLH1	Pathogenic	GRCh38	90390
+single nucleotide variant	NM_000249.4(MLH1):c.851T>A (p.Leu284Ter)	4292	MLH1	Pathogenic	GRCh38	90393
+single nucleotide variant	NM_000249.4(MLH1):c.86C>G (p.Ala29Gly)	4292	MLH1	Pathogenic	GRCh38	90403
+single nucleotide variant	NM_000249.4(MLH1):c.875T>C (p.Leu292Pro)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90404
+single nucleotide variant	NM_000249.4(MLH1):c.882C>T (p.Leu294=)	4292	MLH1	Pathogenic	GRCh38	90407
+single nucleotide variant	NM_000249.4(MLH1):c.883A>C (p.Ser295Arg)	4292	MLH1	Pathogenic	GRCh38	90408
+single nucleotide variant	NM_000249.4(MLH1):c.883A>G (p.Ser295Gly)	4292	MLH1	Pathogenic	GRCh38	90409
+single nucleotide variant	NM_000249.4(MLH1):c.884+2T>C	4292	MLH1	Likely pathogenic	GRCh38	90411
+single nucleotide variant	NM_000249.4(MLH1):c.884+3A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	90413
+single nucleotide variant	NM_000249.4(MLH1):c.884+4A>G	4292	MLH1	Pathogenic	GRCh38	90414
+single nucleotide variant	NM_000249.4(MLH1):c.884G>A (p.Ser295Asn)	4292	MLH1	Pathogenic	GRCh38	90415
+single nucleotide variant	NM_000249.4(MLH1):c.885-2A>G	4292	MLH1	Likely pathogenic	GRCh38	90421
+single nucleotide variant	NM_000249.4(MLH1):c.887T>G (p.Leu296Ter)	4292	MLH1	Pathogenic	GRCh38	90430
+single nucleotide variant	NM_000249.4(MLH1):c.889G>T (p.Glu297Ter)	4292	MLH1	Pathogenic	GRCh38	90434
+single nucleotide variant	NM_000249.4(MLH1):c.901C>T (p.Gln301Ter)	4292	MLH1	Pathogenic	GRCh38	90435
+single nucleotide variant	NM_000249.4(MLH1):c.911A>T (p.Asp304Val)	4292	MLH1	Likely pathogenic	GRCh38	90439
+single nucleotide variant	NM_000249.4(MLH1):c.918T>A (p.Asn306Lys)	4292	MLH1	Pathogenic	GRCh38	90441
+single nucleotide variant	NM_000249.4(MLH1):c.955G>T (p.Glu319Ter)	4292	MLH1	Pathogenic	GRCh38	90453
+single nucleotide variant	NM_000249.4(MLH1):c.982C>T (p.Gln328Ter)	4292	MLH1	Pathogenic	GRCh38	90458
+single nucleotide variant	NM_000249.4(MLH1):c.117-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	127610
+single nucleotide variant	NM_000249.4(MLH1):c.790+1G>T	4292	MLH1	Pathogenic	GRCh38	141043
+single nucleotide variant	NM_000249.4(MLH1):c.207+5G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	141132
+single nucleotide variant	NM_000249.4(MLH1):c.117-2A>G	4292	MLH1	Pathogenic	GRCh38	142856
+single nucleotide variant	NM_000249.4(MLH1):c.380G>T (p.Arg127Ile)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	182516
+single nucleotide variant	NM_000249.4(MLH1):c.2065C>T (p.Gln689Ter)	4292	MLH1	Pathogenic	GRCh38	182529
+single nucleotide variant	NM_000249.4(MLH1):c.208-2A>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	186115
+single nucleotide variant	NM_000249.4(MLH1):c.790+4A>C	4292	MLH1	Likely pathogenic	GRCh38	187415
+single nucleotide variant	NM_000249.4(MLH1):c.791-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	188509
+single nucleotide variant	NM_000249.4(MLH1):c.2251A>T (p.Lys751Ter)	4292	MLH1	Pathogenic	GRCh38	2674510
+single nucleotide variant	NM_000249.4(MLH1):c.1912G>T (p.Gly638Ter)	4292	MLH1	Pathogenic	GRCh38	216048
+single nucleotide variant	NM_000249.4(MLH1):c.1958T>C (p.Leu653Pro)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	216336
+single nucleotide variant	NM_000249.4(MLH1):c.583A>T (p.Lys195Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	218025
+single nucleotide variant	NM_000249.4(MLH1):c.1676T>C (p.Leu559Pro)	4292	MLH1	Likely pathogenic	GRCh38	219290
+single nucleotide variant	NM_000249.4(MLH1):c.2263A>G (p.Arg755Gly)	4292	MLH1	Pathogenic	GRCh38	219292
+single nucleotide variant	NM_000249.4(MLH1):c.381-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	219740
+single nucleotide variant	NM_000249.4(MLH1):c.1246A>T (p.Lys416Ter)	4292	MLH1	Pathogenic	GRCh38	220069
+single nucleotide variant	NM_000249.4(MLH1):c.1558+1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	220185
+single nucleotide variant	NM_000249.4(MLH1):c.2177C>G (p.Ser726Ter)	4292	MLH1	Pathogenic	GRCh38	220284
+single nucleotide variant	NM_000249.4(MLH1):c.392C>G (p.Ser131Ter)	4292	MLH1	Pathogenic	GRCh38	234370
+single nucleotide variant	NM_000249.4(MLH1):c.307-2A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	234719
+single nucleotide variant	NM_000249.4(MLH1):c.1698T>A (p.Tyr566Ter)	4292	MLH1	Pathogenic	GRCh38	234763
+single nucleotide variant	NM_000249.4(MLH1):c.1989+5G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	234540
+single nucleotide variant	NM_000249.4(MLH1):c.110A>G (p.Glu37Gly)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	230139
+single nucleotide variant	NM_000249.4(MLH1):c.581T>G (p.Val194Gly)	4292	MLH1	Likely pathogenic	GRCh38	231105
+single nucleotide variant	NM_000249.4(MLH1):c.931A>G (p.Lys311Glu)	4292	MLH1	Likely pathogenic	GRCh38	230595
+single nucleotide variant	NM_000249.4(MLH1):c.2041G>C (p.Ala681Pro)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	233523
+single nucleotide variant	NM_000249.4(MLH1):c.2206G>T (p.Glu736Ter)	4292	MLH1	Pathogenic	GRCh38	232190
+single nucleotide variant	NM_000249.4(MLH1):c.1667+2T>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	237317
+single nucleotide variant	NM_000249.4(MLH1):c.1168G>T (p.Glu390Ter)	4292	MLH1	Pathogenic	GRCh38	265245
+single nucleotide variant	NM_000249.4(MLH1):c.1997G>A (p.Trp666Ter)	4292	MLH1	Pathogenic	GRCh38	265246
+single nucleotide variant	NM_000249.4(MLH1):c.454-1G>C	4292	MLH1	Pathogenic	GRCh38	371909
+single nucleotide variant	NM_000249.4(MLH1):c.1219C>T (p.Gln407Ter)	4292	MLH1	Pathogenic	GRCh38	371799
+single nucleotide variant	NM_000249.4(MLH1):c.1378G>T (p.Glu460Ter)	4292	MLH1	Pathogenic	GRCh38	371853
+single nucleotide variant	NM_000249.4(MLH1):c.545+1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	379286
+single nucleotide variant	NM_000249.4(MLH1):c.1897G>T (p.Glu633Ter)	4292	MLH1	Pathogenic	GRCh38	379514
+single nucleotide variant	NM_000249.4(MLH1):c.390C>G (p.Tyr130Ter)	4292	MLH1	Pathogenic	GRCh38	405390
+single nucleotide variant	NM_000249.4(MLH1):c.699T>A (p.Cys233Ter)	4292	MLH1	Pathogenic	GRCh38	405380
+single nucleotide variant	NM_000249.4(MLH1):c.1039-2A>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	405391
+single nucleotide variant	NM_000249.4(MLH1):c.791-2A>T	4292	MLH1	Pathogenic	GRCh38	419530
+single nucleotide variant	NM_000249.4(MLH1):c.1409+1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	420226
+single nucleotide variant	NM_000249.4(MLH1):c.2142G>A (p.Trp714Ter)	4292	MLH1	Pathogenic	GRCh38	418308
+single nucleotide variant	NM_000249.4(MLH1):c.116+3A>G	4292	MLH1	Likely pathogenic	GRCh38	433846
+single nucleotide variant	NM_000249.4(MLH1):c.208-3C>T	4292	MLH1	Likely pathogenic	GRCh38	433848
+single nucleotide variant	NM_000249.4(MLH1):c.306+2T>G	4292	MLH1	Likely pathogenic	GRCh38	433849
+single nucleotide variant	NM_000249.4(MLH1):c.374C>A (p.Ala125Glu)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	433851
+single nucleotide variant	NM_000249.4(MLH1):c.794G>C (p.Arg265Pro)	4292	MLH1	Likely pathogenic	GRCh38	433856
+single nucleotide variant	NM_000249.4(MLH1):c.1664T>G (p.Leu555Arg)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	433869
+single nucleotide variant	NM_000249.4(MLH1):c.1769T>G (p.Leu590Ter)	4292	MLH1	Pathogenic	GRCh38	433870
+single nucleotide variant	NM_000249.4(MLH1):c.381-1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	439178
+single nucleotide variant	NM_000249.4(MLH1):c.2032A>T (p.Lys678Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	439174
+single nucleotide variant	NM_000249.4(MLH1):c.753C>G (p.Tyr251Ter)	4292	MLH1	Pathogenic	GRCh38	449061
+single nucleotide variant	NM_000249.4(MLH1):c.1297G>T (p.Glu433Ter)	4292	MLH1	Pathogenic	GRCh38	451874
+single nucleotide variant	NM_000249.4(MLH1):c.1667G>A (p.Ser556Asn)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	449776
+single nucleotide variant	NM_000249.4(MLH1):c.122A>T (p.Asp41Val)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455379
+single nucleotide variant	NM_000249.4(MLH1):c.885-1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455459
+single nucleotide variant	NM_000249.4(MLH1):c.1731+2T>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455399
+single nucleotide variant	NM_000249.4(MLH1):c.1732-2A>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455400
+single nucleotide variant	NM_000249.4(MLH1):c.2070C>A (p.Tyr690Ter)	4292	MLH1	Pathogenic	GRCh38	455414
+single nucleotide variant	NM_000249.4(MLH1):c.551C>G (p.Ser184Ter)	4292	MLH1	Pathogenic	GRCh38	455446
+single nucleotide variant	NM_000249.4(MLH1):c.116+1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455376
+single nucleotide variant	NM_000249.4(MLH1):c.979C>T (p.Gln327Ter)	4292	MLH1	Pathogenic	GRCh38	455464
+single nucleotide variant	NM_000249.4(MLH1):c.1410-2A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455386
+single nucleotide variant	NM_000249.4(MLH1):c.910G>T (p.Asp304Tyr)	4292	MLH1	Likely pathogenic	GRCh38	455460
+single nucleotide variant	NM_000249.4(MLH1):c.1667+1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	455398
+single nucleotide variant	NM_000249.4(MLH1):c.272T>G (p.Leu91Ter)	4292	MLH1	Pathogenic	GRCh38	486851
+single nucleotide variant	NM_000249.4(MLH1):c.970G>T (p.Glu324Ter)	4292	MLH1	Pathogenic	GRCh38	485799
+single nucleotide variant	NM_000249.4(MLH1):c.589C>T (p.Gln197Ter)	4292	MLH1	Pathogenic	GRCh38	479670
+single nucleotide variant	NM_000249.4(MLH1):c.1731+4A>G	4292	MLH1	Pathogenic	GRCh38	483547
+single nucleotide variant	NM_000249.4(MLH1):c.1883T>A (p.Leu628Ter)	4292	MLH1	Pathogenic	GRCh38	479689
+single nucleotide variant	NM_000249.4(MLH1):c.1315G>T (p.Glu439Ter)	4292	MLH1	Pathogenic	GRCh38	486846
+single nucleotide variant	NM_000249.4(MLH1):c.1943C>G (p.Pro648Arg)	4292	MLH1	Likely pathogenic	GRCh38	479696
+single nucleotide variant	NM_000249.4(MLH1):c.1989+2T>C	4292	MLH1	Likely pathogenic	GRCh38	486840
+single nucleotide variant	NM_000249.4(MLH1):c.1791G>A (p.Trp597Ter)	4292	MLH1	Pathogenic	GRCh38	480903
+single nucleotide variant	NM_000249.4(MLH1):c.2098C>T (p.Gln700Ter)	4292	MLH1	Pathogenic	GRCh38	483543
+single nucleotide variant	NM_000249.4(MLH1):c.958G>T (p.Glu320Ter)	4292	MLH1	Pathogenic	GRCh38	486847
+single nucleotide variant	NM_000249.4(MLH1):c.1051G>T (p.Gly351Ter)	4292	MLH1	Pathogenic	GRCh38	483570
+single nucleotide variant	NM_000249.4(MLH1):c.1A>C (p.Met1Leu)	4292	MLH1	Likely pathogenic	GRCh38	491697
+single nucleotide variant	NM_000249.4(MLH1):c.884+1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	491732
+single nucleotide variant	NM_000249.4(MLH1):c.1918C>A (p.Pro640Thr)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	492688
+single nucleotide variant	NM_000249.4(MLH1):c.199G>C (p.Gly67Arg)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	495763
+single nucleotide variant	NM_000249.4(MLH1):c.827T>G (p.Ile276Arg)	4292	MLH1	Pathogenic	GRCh38	520540
+single nucleotide variant	NM_000249.4(MLH1):c.453+1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	525681
+single nucleotide variant	NM_000249.4(MLH1):c.677+2T>C	4292	MLH1	Pathogenic	GRCh38	525602
+single nucleotide variant	NM_000249.4(MLH1):c.207+2T>G	4292	MLH1	Pathogenic	GRCh38	525864
+single nucleotide variant	NM_000249.4(MLH1):c.1731G>T (p.Ser577=)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	525656
+single nucleotide variant	NM_000249.4(MLH1):c.2212G>T (p.Gly738Ter)	4292	MLH1	Pathogenic	GRCh38	525802
+single nucleotide variant	NM_000249.4(MLH1):c.735C>G (p.Tyr245Ter)	4292	MLH1	Pathogenic	GRCh38	546001
+single nucleotide variant	NM_000249.4(MLH1):c.1546C>T (p.Gln516Ter)	4292	MLH1	Pathogenic	GRCh38	545957
+single nucleotide variant	NM_000249.4(MLH1):c.1640T>G (p.Leu547Ter)	4292	MLH1	Pathogenic	GRCh38	546007
+single nucleotide variant	NM_000249.4(MLH1):c.1029C>G (p.Tyr343Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	560781
+single nucleotide variant	NM_000249.4(MLH1):c.114C>A (p.Asn38Lys)	4292	MLH1	Likely pathogenic	GRCh38	561169
+single nucleotide variant	NM_000249.4(MLH1):c.117-1G>T	4292	MLH1	Likely pathogenic	GRCh38	561170
+single nucleotide variant	NM_000249.4(MLH1):c.923A>C (p.His308Pro)	4292	MLH1	Likely pathogenic	GRCh38	561172
+single nucleotide variant	NM_000249.4(MLH1):c.588+2T>G	4292	MLH1	Pathogenic	GRCh38	575304
+single nucleotide variant	NM_000249.4(MLH1):c.815T>A (p.Leu272Ter)	4292	MLH1	Pathogenic	GRCh38	569820
+single nucleotide variant	NM_000249.4(MLH1):c.735C>A (p.Tyr245Ter)	4292	MLH1	Pathogenic	GRCh38	575912
+single nucleotide variant	NM_000249.4(MLH1):c.1989+5G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	581631
+single nucleotide variant	NM_000249.4(MLH1):c.301G>C (p.Gly101Arg)	4292	MLH1	Likely pathogenic	GRCh38	572275
+single nucleotide variant	NM_000249.4(MLH1):c.440G>A (p.Gly147Glu)	4292	MLH1	Likely pathogenic	GRCh38	574220
+single nucleotide variant	NM_000249.4(MLH1):c.885-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	580133
+single nucleotide variant	NM_000249.4(MLH1):c.1279C>T (p.Gln427Ter)	4292	MLH1	Pathogenic	GRCh38	571138
+single nucleotide variant	NM_000249.4(MLH1):c.514G>T (p.Glu172Ter)	4292	MLH1	Pathogenic	GRCh38	584636
+single nucleotide variant	NM_000249.4(MLH1):c.1387G>T (p.Gly463Ter)	4292	MLH1	Likely pathogenic	GRCh38	584639
+single nucleotide variant	NM_000249.4(MLH1):c.3G>T (p.Met1Ile)	4292	MLH1	Likely pathogenic	GRCh38	619516
+single nucleotide variant	NM_000249.4(MLH1):c.131C>A (p.Ser44Tyr)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	619504
+single nucleotide variant	NM_000249.4(MLH1):c.380+1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	619556
+single nucleotide variant	NM_000249.4(MLH1):c.453+2T>G	4292	MLH1	Pathogenic	GRCh38	619557
+single nucleotide variant	NM_000249.4(MLH1):c.589-2A>C	4292	MLH1	Likely pathogenic	GRCh38	619558
+single nucleotide variant	NM_000249.4(MLH1):c.678-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	619559
+single nucleotide variant	NM_000249.4(MLH1):c.790+5G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	619561
+single nucleotide variant	NM_000249.4(MLH1):c.2104-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	619515
+single nucleotide variant	NM_000249.4(MLH1):c.1668-2A>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	631164
+single nucleotide variant	NM_000249.4(MLH1):c.1990-1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	628266
+single nucleotide variant	NM_000249.4(MLH1):c.543C>G (p.Gly181=)	4292	MLH1	Likely pathogenic	GRCh38	633498
+single nucleotide variant	NM_000249.4(MLH1):c.543C>T (p.Gly181=)	4292	MLH1	Pathogenic	GRCh38	633499
+single nucleotide variant	NM_000249.4(MLH1):c.320T>A (p.Ile107Lys)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	659950
+single nucleotide variant	NM_000249.4(MLH1):c.768C>A (p.Cys256Ter)	4292	MLH1	Pathogenic	GRCh38	655025
+single nucleotide variant	NM_000249.4(MLH1):c.1333C>T (p.Gln445Ter)	4292	MLH1	Pathogenic	GRCh38	660662
+single nucleotide variant	NM_000249.4(MLH1):c.1989G>C (p.Glu663Asp)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	639057
+single nucleotide variant	NM_000249.4(MLH1):c.2050T>G (p.Tyr684Asp)	4292	MLH1	Likely pathogenic	GRCh38	663235
+single nucleotide variant	NM_000249.4(MLH1):c.2070C>G (p.Tyr690Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	642710
+single nucleotide variant	NM_000249.4(MLH1):c.546-1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	644548
+single nucleotide variant	NM_000249.4(MLH1):c.885-2A>T	4292	MLH1	Pathogenic	GRCh38	649038
+single nucleotide variant	NM_000249.4(MLH1):c.793C>G (p.Arg265Gly)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	801205
+single nucleotide variant	NM_000249.4(MLH1):c.95T>A (p.Ile32Asn)	4292	MLH1	Likely pathogenic	GRCh38	823364
+single nucleotide variant	NM_000249.4(MLH1):c.203T>G (p.Ile68Ser)	4292	MLH1	Likely pathogenic	GRCh38	820585
+single nucleotide variant	NM_000249.4(MLH1):c.380G>C (p.Arg127Thr)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	824248
+single nucleotide variant	NM_000249.4(MLH1):c.688G>T (p.Glu230Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	826682
+single nucleotide variant	NM_000249.4(MLH1):c.755C>G (p.Ser252Ter)	4292	MLH1	Pathogenic	GRCh38	827123
+single nucleotide variant	NM_000249.4(MLH1):c.1342G>T (p.Glu448Ter)	4292	MLH1	Pathogenic	GRCh38	818902
+single nucleotide variant	NM_000249.4(MLH1):c.545+2T>C	4292	MLH1	Pathogenic	GRCh38	825746
+single nucleotide variant	NM_000249.4(MLH1):c.1558+2T>C	4292	MLH1	Likely pathogenic	GRCh38	819503
+single nucleotide variant	NM_000249.4(MLH1):c.1844T>C (p.Leu615Pro)	4292	MLH1	Likely pathogenic	GRCh38	860126
+single nucleotide variant	NM_000249.4(MLH1):c.546-2A>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	853914
+single nucleotide variant	NM_000249.4(MLH1):c.588+5G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	851243
+single nucleotide variant	NM_000249.4(MLH1):c.1039-1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	841480
+single nucleotide variant	NM_000249.4(MLH1):c.381-2A>T	4292	MLH1	Pathogenic	GRCh38	842811
+single nucleotide variant	NM_000249.4(MLH1):c.454-2A>C	4292	MLH1	Pathogenic	GRCh38	846984
+single nucleotide variant	NM_000249.4(MLH1):c.1376C>A (p.Ser459Ter)	4292	MLH1	Pathogenic	GRCh38	871699
+single nucleotide variant	NM_000249.4(MLH1):c.2080G>T (p.Glu694Ter)	4292	MLH1	Pathogenic	GRCh38	873048
+single nucleotide variant	NM_000249.4(MLH1):c.885-2A>C	4292	MLH1	Likely pathogenic	GRCh38	873049
+single nucleotide variant	NM_000249.4(MLH1):c.1732-264A>T	4292	MLH1	Likely pathogenic	GRCh38	873426
+single nucleotide variant	NM_000249.4(MLH1):c.355A>G (p.Thr119Ala)	4292	MLH1	Likely pathogenic	GRCh38	915442
+single nucleotide variant	NM_000249.4(MLH1):c.152T>A (p.Val51Asp)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	918697
+single nucleotide variant	NM_000249.4(MLH1):c.178C>T (p.Gln60Ter)	4292	MLH1	Pathogenic	GRCh38	921859
+single nucleotide variant	NM_000249.4(MLH1):c.677+2T>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	925072
+single nucleotide variant	NM_000249.4(MLH1):c.1029C>A (p.Tyr343Ter)	4292	MLH1	Pathogenic	GRCh38	936627
+single nucleotide variant	NM_000249.4(MLH1):c.589-1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	941211
+single nucleotide variant	NM_000249.4(MLH1):c.112A>T (p.Asn38Tyr)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	955911
+single nucleotide variant	NM_000249.4(MLH1):c.187G>C (p.Asp63His)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	957817
+single nucleotide variant	NM_000249.4(MLH1):c.1919C>G (p.Pro640Arg)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	959603
+single nucleotide variant	NM_000249.4(MLH1):c.127A>T (p.Lys43Ter)	4292	MLH1	Pathogenic	GRCh38	973401
+single nucleotide variant	NM_000249.4(MLH1):c.1081A>T (p.Lys361Ter)	4292	MLH1	Pathogenic	GRCh38	973397
+single nucleotide variant	NM_000249.4(MLH1):c.1668T>G (p.Ser556Arg)	4292	MLH1	Likely pathogenic	GRCh38	973383
+single nucleotide variant	NM_000249.4(MLH1):c.2271A>C (p.Ter757Tyr)	4292	MLH1	Likely pathogenic	GRCh38	973410
+single nucleotide variant	NM_000249.4(MLH1):c.678-2A>T	4292	MLH1	Pathogenic	GRCh38	973398
+single nucleotide variant	NM_000249.4(MLH1):c.104T>A (p.Met35Lys)	4292	MLH1	Likely pathogenic	GRCh38	974958
+single nucleotide variant	NM_000249.4(MLH1):c.193G>A (p.Gly65Ser)	4292	MLH1	Likely pathogenic	GRCh38	1006220
+single nucleotide variant	NM_000249.4(MLH1):c.497T>G (p.Leu166Ter)	4292	MLH1	Pathogenic	GRCh38	1048862
+single nucleotide variant	NM_000249.4(MLH1):c.588+1G>C	4292	MLH1	Likely pathogenic	GRCh38	1049107
+single nucleotide variant	NM_000249.4(MLH1):c.1896+1G>C	4292	MLH1	Pathogenic	GRCh38	1049670
+single nucleotide variant	NM_000249.4(MLH1):c.1038+1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1068033
+single nucleotide variant	NM_000249.4(MLH1):c.1409+2T>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1067207
+single nucleotide variant	NM_000249.4(MLH1):c.406A>T (p.Lys136Ter)	4292	MLH1	Pathogenic	GRCh38	1068948
+single nucleotide variant	NM_000249.4(MLH1):c.1408A>T (p.Arg470Ter)	4292	MLH1	Pathogenic	GRCh38	1070756
+single nucleotide variant	NM_000249.4(MLH1):c.1482T>A (p.Cys494Ter)	4292	MLH1	Pathogenic	GRCh38	1069316
+single nucleotide variant	NM_000249.4(MLH1):c.1830C>G (p.Tyr610Ter)	4292	MLH1	Pathogenic	GRCh38	1074878
+single nucleotide variant	NM_000249.4(MLH1):c.1990-2A>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1070238
+single nucleotide variant	NM_000249.4(MLH1):c.1A>T (p.Met1Leu)	4292	MLH1	Pathogenic	GRCh38	1255698
+single nucleotide variant	NM_000249.4(MLH1):c.453+1G>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1319487
+single nucleotide variant	NM_000249.4(MLH1):c.157G>T (p.Glu53Ter)	4292	MLH1	Pathogenic	GRCh38	1329486
+single nucleotide variant	NM_000249.4(MLH1):c.677+1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1331951
+single nucleotide variant	NM_000249.4(MLH1):c.188A>T (p.Asp63Val)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1332634
+single nucleotide variant	NM_000249.4(MLH1):c.884G>T (p.Ser295Ile)	4292	MLH1	Likely pathogenic	GRCh38	1334877
+single nucleotide variant	NM_000249.4(MLH1):c.1730C>A (p.Ser577Ter)	4292	MLH1	Pathogenic	GRCh38	1412554
+single nucleotide variant	NM_000249.4(MLH1):c.1558+2T>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1475026
+single nucleotide variant	NM_000249.4(MLH1):c.193G>C (p.Gly65Arg)	4292	MLH1	Likely pathogenic	GRCh38	1504680
+single nucleotide variant	NM_000249.4(MLH1):c.592G>T (p.Gly198Ter)	4292	MLH1	Pathogenic	GRCh38	1368790
+single nucleotide variant	NM_000249.4(MLH1):c.1129A>T (p.Lys377Ter)	4292	MLH1	Pathogenic	GRCh38	1454757
+single nucleotide variant	NM_000249.4(MLH1):c.1668-2A>G	4292	MLH1	Pathogenic	GRCh38	1493823
+single nucleotide variant	NM_000249.4(MLH1):c.61G>C (p.Ala21Pro)	4292	MLH1	Likely pathogenic	GRCh38	1511560
+single nucleotide variant	NM_000249.4(MLH1):c.1727T>G (p.Leu576Ter)	4292	MLH1	Pathogenic	GRCh38	1358070
+single nucleotide variant	NM_000249.4(MLH1):c.1376C>G (p.Ser459Ter)	4292	MLH1	Pathogenic	GRCh38	1457772
+single nucleotide variant	NM_000249.4(MLH1):c.471C>A (p.Tyr157Ter)	4292	MLH1	Pathogenic	GRCh38	1458776
+single nucleotide variant	NM_000249.4(MLH1):c.121G>A (p.Asp41Asn)	4292	MLH1	Likely pathogenic	GRCh38	1489661
+single nucleotide variant	NM_000249.4(MLH1):c.380+1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1692279
+single nucleotide variant	NM_000249.4(MLH1):c.307-1G>A	4292	MLH1	Likely pathogenic	GRCh38	1727263
+single nucleotide variant	NM_000249.4(MLH1):c.390C>A (p.Tyr130Ter)	4292	MLH1	Pathogenic	GRCh38	1736087
+single nucleotide variant	NM_000249.4(MLH1):c.332C>A (p.Ala111Asp)	4292	MLH1	Likely pathogenic	GRCh38	1730286
+single nucleotide variant	NM_000249.4(MLH1):c.1144C>T (p.Gln382Ter)	4292	MLH1	Pathogenic	GRCh38	1732117
+single nucleotide variant	NM_000249.4(MLH1):c.350C>A (p.Thr117Lys)	4292	MLH1	Likely pathogenic	GRCh38	1732140
+single nucleotide variant	NM_000249.4(MLH1):c.117-3C>G	4292	MLH1	Likely pathogenic	GRCh38	1740111
+single nucleotide variant	NM_000249.4(MLH1):c.117-2A>C	4292	MLH1	Likely pathogenic	GRCh38	1739849
+single nucleotide variant	NM_000249.4(MLH1):c.454-7T>A	4292	MLH1	Likely pathogenic	GRCh38	1741392
+single nucleotide variant	NM_000249.4(MLH1):c.116+2T>A	4292	MLH1	Likely pathogenic	GRCh38	1736497
+single nucleotide variant	NM_000249.4(MLH1):c.116+2T>C	4292	MLH1	Pathogenic	GRCh38	1736500
+single nucleotide variant	NM_000249.4(MLH1):c.116+2T>G	4292	MLH1	Pathogenic	GRCh38	1736506
+single nucleotide variant	NM_000249.4(MLH1):c.545+1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1747606
+single nucleotide variant	NM_000249.4(MLH1):c.545+2T>A	4292	MLH1	Pathogenic	GRCh38	1747607
+single nucleotide variant	NM_000249.4(MLH1):c.546-1G>T	4292	MLH1	Likely pathogenic	GRCh38	1747676
+single nucleotide variant	NM_000249.4(MLH1):c.121G>T (p.Asp41Tyr)	4292	MLH1	Likely pathogenic	GRCh38	1752818
+single nucleotide variant	NM_000249.4(MLH1):c.632C>A (p.Ser211Ter)	4292	MLH1	Pathogenic	GRCh38	1752886
+single nucleotide variant	NM_000249.4(MLH1):c.632C>G (p.Ser211Ter)	4292	MLH1	Pathogenic	GRCh38	1752888
+single nucleotide variant	NM_000249.4(MLH1):c.487A>T (p.Arg163Ter)	4292	MLH1	Pathogenic	GRCh38	1743760
+single nucleotide variant	NM_000249.4(MLH1):c.457G>T (p.Glu153Ter)	4292	MLH1	Pathogenic	GRCh38	1741635
+single nucleotide variant	NM_000249.4(MLH1):c.119T>G (p.Leu40Ter)	4292	MLH1	Pathogenic	GRCh38	1746971
+single nucleotide variant	NM_000249.4(MLH1):c.588+2T>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1750260
+single nucleotide variant	NM_000249.4(MLH1):c.589-1G>C	4292	MLH1	Pathogenic	GRCh38	1750321
+single nucleotide variant	NM_000249.4(MLH1):c.589-2A>T	4292	MLH1	Likely pathogenic	GRCh38	1750322
+single nucleotide variant	NM_000249.4(MLH1):c.453+2T>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1741279
+single nucleotide variant	NM_000249.4(MLH1):c.549T>G (p.Tyr183Ter)	4292	MLH1	Pathogenic	GRCh38	1747929
+single nucleotide variant	NM_000249.4(MLH1):c.791-2A>C	4292	MLH1	Pathogenic	GRCh38	1761194
+single nucleotide variant	NM_000249.4(MLH1):c.884+1G>T	4292	MLH1	Likely pathogenic	GRCh38	1764856
+single nucleotide variant	NM_000249.4(MLH1):c.753C>A (p.Tyr251Ter)	4292	MLH1	Pathogenic	GRCh38	1759418
+single nucleotide variant	NM_000249.4(MLH1):c.790+2T>G	4292	MLH1	Pathogenic	GRCh38	1761142
+single nucleotide variant	NM_000249.4(MLH1):c.790+3A>C	4292	MLH1	Likely pathogenic	GRCh38	1761143
+single nucleotide variant	NM_000249.4(MLH1):c.829G>T (p.Glu277Ter)	4292	MLH1	Pathogenic	GRCh38	1762806
+single nucleotide variant	NM_000249.4(MLH1):c.679G>T (p.Glu227Ter)	4292	MLH1	Pathogenic	GRCh38	1755496
+single nucleotide variant	NM_000249.4(MLH1):c.706A>T (p.Lys236Ter)	4292	MLH1	Pathogenic	GRCh38	1756986
+single nucleotide variant	NM_000249.4(MLH1):c.776T>A (p.Leu259Ter)	4292	MLH1	Pathogenic	GRCh38	1760547
+single nucleotide variant	NM_000249.4(MLH1):c.817A>T (p.Arg273Ter)	4292	MLH1	Pathogenic	GRCh38	1762306
+single nucleotide variant	NM_000249.4(MLH1):c.700G>T (p.Glu234Ter)	4292	MLH1	Pathogenic	GRCh38	1756682
+single nucleotide variant	NM_000249.4(MLH1):c.730G>C (p.Gly244Arg)	4292	MLH1	Likely pathogenic	GRCh38	1758254
+single nucleotide variant	NM_000249.4(MLH1):c.763A>T (p.Lys255Ter)	4292	MLH1	Pathogenic	GRCh38	1759924
+single nucleotide variant	NM_000249.4(MLH1):c.802G>T (p.Glu268Ter)	4292	MLH1	Pathogenic	GRCh38	1761736
+single nucleotide variant	NM_000249.4(MLH1):c.849T>G (p.Tyr283Ter)	4292	MLH1	Pathogenic	GRCh38	1763614
+single nucleotide variant	NM_000249.4(MLH1):c.887T>A (p.Leu296Ter)	4292	MLH1	Pathogenic	GRCh38	1764964
+single nucleotide variant	NM_000249.4(MLH1):c.1285G>T (p.Glu429Ter)	4292	MLH1	Pathogenic	GRCh38	1768958
+single nucleotide variant	NM_000249.4(MLH1):c.1288G>T (p.Glu430Ter)	4292	MLH1	Pathogenic	GRCh38	1769028
+single nucleotide variant	NM_000249.4(MLH1):c.1667+1G>T	4292	MLH1	Pathogenic	GRCh38	1777580
+single nucleotide variant	NM_000249.4(MLH1):c.1668-1G>C	4292	MLH1	Pathogenic	GRCh38	1777597
+single nucleotide variant	NM_000249.4(MLH1):c.1745T>G (p.Leu582Arg)	4292	MLH1	Likely pathogenic	GRCh38	1779288
+single nucleotide variant	NM_000249.4(MLH1):c.991G>T (p.Glu331Ter)	4292	MLH1	Pathogenic	GRCh38	1768616
+single nucleotide variant	NM_000249.4(MLH1):c.1340T>A (p.Leu447Ter)	4292	MLH1	Pathogenic	GRCh38	1770361
+single nucleotide variant	NM_000249.4(MLH1):c.1414A>T (p.Arg472Ter)	4292	MLH1	Pathogenic	GRCh38	1772098
+single nucleotide variant	NM_000249.4(MLH1):c.1644C>A (p.Tyr548Ter)	4292	MLH1	Pathogenic	GRCh38	1777103
+single nucleotide variant	NM_000249.4(MLH1):c.1649T>G (p.Leu550Arg)	4292	MLH1	Likely pathogenic	GRCh38	1777213
+single nucleotide variant	NM_000249.4(MLH1):c.1727T>A (p.Leu576Ter)	4292	MLH1	Pathogenic	GRCh38	1778883
+single nucleotide variant	NM_000249.4(MLH1):c.1731+5G>C	4292	MLH1	Likely pathogenic	GRCh38	1778982
+single nucleotide variant	NM_000249.4(MLH1):c.1732-1G>T	4292	MLH1	Pathogenic	GRCh38	1779008
+single nucleotide variant	NM_000249.4(MLH1):c.1813G>T (p.Glu605Ter)	4292	MLH1	Pathogenic	GRCh38	1780635
+single nucleotide variant	NM_000249.4(MLH1):c.1039-1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1773361
+single nucleotide variant	NM_000249.4(MLH1):c.154A>T (p.Lys52Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1775009
+single nucleotide variant	NM_000249.4(MLH1):c.1558+1G>C	4292	MLH1	Likely pathogenic	GRCh38	1775185
+single nucleotide variant	NM_000249.4(MLH1):c.169A>T (p.Lys57Ter)	4292	MLH1	Pathogenic	GRCh38	1778304
+single nucleotide variant	NM_000249.4(MLH1):c.1875T>A (p.Tyr625Ter)	4292	MLH1	Pathogenic	GRCh38	1781767
+single nucleotide variant	NM_000249.4(MLH1):c.1894G>T (p.Glu632Ter)	4292	MLH1	Pathogenic	GRCh38	1782125
+single nucleotide variant	NM_000249.4(MLH1):c.1367C>A (p.Ser456Ter)	4292	MLH1	Pathogenic	GRCh38	1770948
+single nucleotide variant	NM_000249.4(MLH1):c.1367C>G (p.Ser456Ter)	4292	MLH1	Pathogenic	GRCh38	1770950
+single nucleotide variant	NM_000249.4(MLH1):c.1038+2T>A	4292	MLH1	Likely pathogenic	GRCh38	1773013
+single nucleotide variant	NM_000249.4(MLH1):c.1038+2T>C	4292	MLH1	Likely pathogenic	GRCh38	1773017
+single nucleotide variant	NM_000249.4(MLH1):c.1520T>A (p.Leu507Ter)	4292	MLH1	Pathogenic	GRCh38	1774420
+single nucleotide variant	NM_000249.4(MLH1):c.1615G>C (p.Ala539Pro)	4292	MLH1	Likely pathogenic	GRCh38	1776480
+single nucleotide variant	NM_000249.4(MLH1):c.1769T>A (p.Leu590Ter)	4292	MLH1	Pathogenic	GRCh38	1779739
+single nucleotide variant	NM_000249.4(MLH1):c.1865T>G (p.Leu622Arg)	4292	MLH1	Likely pathogenic	GRCh38	1781578
+single nucleotide variant	NM_000249.4(MLH1):c.1830C>A (p.Tyr610Ter)	4292	MLH1	Pathogenic	GRCh38	1780937
+single nucleotide variant	NM_000249.4(MLH1):c.1837G>T (p.Glu613Ter)	4292	MLH1	Pathogenic	GRCh38	1781068
+single nucleotide variant	NM_000249.4(MLH1):c.2062A>T (p.Lys688Ter)	4292	MLH1	Pathogenic	GRCh38	1785248
+single nucleotide variant	NM_000249.4(MLH1):c.207+1G>C	4292	MLH1	Pathogenic	GRCh38	1785372
+single nucleotide variant	NM_000249.4(MLH1):c.207+3A>C	4292	MLH1	Likely pathogenic	GRCh38	1785375
+single nucleotide variant	NM_000249.4(MLH1):c.2077G>T (p.Glu693Ter)	4292	MLH1	Pathogenic	GRCh38	1785482
+single nucleotide variant	NM_000249.4(MLH1):c.208-3C>A	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1785596
+single nucleotide variant	NM_000249.4(MLH1):c.2164A>T (p.Lys722Ter)	4292	MLH1	Pathogenic	GRCh38	1786958
+single nucleotide variant	NM_000249.4(MLH1):c.2177C>A (p.Ser726Ter)	4292	MLH1	Pathogenic	GRCh38	1787195
+single nucleotide variant	NM_000249.4(MLH1):c.2269T>C (p.Ter757Gln)	4292	MLH1	Likely pathogenic	GRCh38	1788743
+single nucleotide variant	NM_000249.4(MLH1):c.2271A>T (p.Ter757Tyr)	4292	MLH1	Likely pathogenic	GRCh38	1788786
+single nucleotide variant	NM_000249.4(MLH1):c.250A>T (p.Lys84Ter)	4292	MLH1	Pathogenic	GRCh38	1792364
+single nucleotide variant	NM_000249.4(MLH1):c.1896G>T (p.Glu632Asp)	4292	MLH1	Likely pathogenic	GRCh38	1782160
+single nucleotide variant	NM_000249.4(MLH1):c.193G>T (p.Gly65Cys)	4292	MLH1	Likely pathogenic	GRCh38	1783039
+single nucleotide variant	NM_000249.4(MLH1):c.1942C>A (p.Pro648Thr)	4292	MLH1	Likely pathogenic	GRCh38	1783072
+single nucleotide variant	NM_000249.4(MLH1):c.1943C>A (p.Pro648His)	4292	MLH1	Likely pathogenic	GRCh38	1783088
+single nucleotide variant	NM_000249.4(MLH1):c.1954G>T (p.Gly652Ter)	4292	MLH1	Pathogenic	GRCh38	1783284
+single nucleotide variant	NM_000249.4(MLH1):c.2052T>G (p.Tyr684Ter)	4292	MLH1	Pathogenic	GRCh38	1785100
+single nucleotide variant	NM_000249.4(MLH1):c.1936T>G (p.Tyr646Asp)	4292	MLH1	Likely pathogenic	GRCh38	1782973
+single nucleotide variant	NM_000249.4(MLH1):c.1938T>G (p.Tyr646Ter)	4292	MLH1	Pathogenic	GRCh38	1783003
+single nucleotide variant	NM_000249.4(MLH1):c.1987G>T (p.Glu663Ter)	4292	MLH1	Pathogenic	GRCh38	1783892
+single nucleotide variant	NM_000249.4(MLH1):c.1072G>T (p.Glu358Ter)	4292	MLH1	Pathogenic	GRCh38	1783954
+single nucleotide variant	NM_000249.4(MLH1):c.1990-2A>T	4292	MLH1	Likely pathogenic	GRCh38	1783963
+single nucleotide variant	NM_000249.4(MLH1):c.2002G>T (p.Glu668Ter)	4292	MLH1	Pathogenic	GRCh38	1784272
+single nucleotide variant	NM_000249.4(MLH1):c.2005G>T (p.Glu669Ter)	4292	MLH1	Pathogenic	GRCh38	1784313
+single nucleotide variant	NM_000249.4(MLH1):c.2103+2T>A	4292	MLH1	Likely pathogenic	GRCh38	1785947
+single nucleotide variant	NM_000249.4(MLH1):c.2103+2T>C	4292	MLH1	Likely pathogenic	GRCh38	1785948
+single nucleotide variant	NM_000249.4(MLH1):c.2103+2T>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1785949
+single nucleotide variant	NM_000249.4(MLH1):c.2104-1G>C	4292	MLH1	Likely pathogenic	GRCh38	1785958
+single nucleotide variant	NM_000249.4(MLH1):c.1103C>A (p.Ser368Ter)	4292	MLH1	Pathogenic	GRCh38	1792990
+single nucleotide variant	NM_000249.4(MLH1):c.304G>T (p.Glu102Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	1799256
+single nucleotide variant	NM_000249.4(MLH1):c.306+2T>A	4292	MLH1	Pathogenic	GRCh38	1799364
+single nucleotide variant	NM_000249.4(MLH1):c.1117G>T (p.Gly373Ter)	4292	MLH1	Pathogenic	GRCh38	1796630
+single nucleotide variant	NM_000249.4(MLH1):c.301G>T (p.Gly101Cys)	4292	MLH1	Likely pathogenic	GRCh38	1798904
+single nucleotide variant	NM_000249.4(MLH1):c.296T>C (p.Phe99Ser)	4292	MLH1	Likely pathogenic	GRCh38	1798276
+single nucleotide variant	NM_000249.4(MLH1):c.879C>G (p.Tyr293Ter)	4292	MLH1	Likely pathogenic	GRCh38	1801691
+single nucleotide variant	NM_000249.4(MLH1):c.923A>T (p.His308Leu)	4292	MLH1	Likely pathogenic	GRCh38	1801693
+single nucleotide variant	NM_000249.4(MLH1):c.588+1G>A	4292	MLH1	Pathogenic	GRCh38	2169509
+single nucleotide variant	NM_000249.4(MLH1):c.1938T>A (p.Tyr646Ter)	4292	MLH1	Pathogenic	GRCh38	2203333
+single nucleotide variant	NM_000249.4(MLH1):c.381-1G>T	4292	MLH1	Pathogenic	GRCh38	2011991
+single nucleotide variant	NM_000249.4(MLH1):c.1916T>A (p.Leu639Ter)	4292	MLH1	Pathogenic	GRCh38	2006373
+single nucleotide variant	NM_000249.4(MLH1):c.238T>A (p.Phe80Ile)	4292	MLH1	Likely pathogenic	GRCh38	2021902
+single nucleotide variant	NM_000249.4(MLH1):c.117-2A>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	2032040
+single nucleotide variant	NM_000249.4(MLH1):c.306+1222A>G	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	2033393
+single nucleotide variant	NM_000249.4(MLH1):c.1846A>T (p.Lys616Ter)	4292	MLH1	Pathogenic	GRCh38	2104902
+single nucleotide variant	NM_000249.4(MLH1):c.2265G>T (p.Arg755Ser)	4292	MLH1	Pathogenic	GRCh38	2133431
+single nucleotide variant	NM_000249.4(MLH1):c.100G>T (p.Glu34Ter)	4292	MLH1	Pathogenic	GRCh38	2447080
+single nucleotide variant	NM_000249.4(MLH1):c.117-1G>C	4292	MLH1	Likely pathogenic	GRCh38	2452040
+single nucleotide variant	NM_000249.4(MLH1):c.760A>T (p.Lys254Ter)	4292	MLH1	Likely pathogenic	GRCh38	2452055
+single nucleotide variant	NM_000249.4(MLH1):c.932A>T (p.Lys311Met)	4292	MLH1	Likely pathogenic	GRCh38	2566509
+single nucleotide variant	NM_000249.4(MLH1):c.1036C>T (p.Gln346Ter)	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	2573180
+single nucleotide variant	NM_000249.4(MLH1):c.69A>C (p.Glu23Asp)	4292	MLH1	Likely pathogenic	GRCh38	2586631
+single nucleotide variant	NM_000249.4(MLH1):c.116+96C>T	4292	MLH1	Pathogenic	GRCh38	2586638
+single nucleotide variant	NM_000249.4(MLH1):c.101A>C (p.Glu34Ala)	4292	MLH1	Likely pathogenic	GRCh38	2673558
+single nucleotide variant	NM_000249.4(MLH1):c.306+2T>C	4292	MLH1	Likely pathogenic	GRCh38	2673588
+single nucleotide variant	NM_000249.4(MLH1):c.2104-2A>C	4292	MLH1	Likely pathogenic	GRCh38	2673610
+single nucleotide variant	NM_000249.4(MLH1):c.208-1G>C	4292	MLH1	Likely pathogenic	GRCh38	2673613
+single nucleotide variant	NM_000249.4(MLH1):c.1410-1G>A	4292	MLH1	Likely pathogenic	GRCh38	2673643
+single nucleotide variant	NM_000249.4(MLH1):c.1038+1G>T	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	2673694
+single nucleotide variant	NM_000249.4(MLH1):c.678-2A>C	4292	MLH1	Likely pathogenic	GRCh38	2673851
+single nucleotide variant	NM_000249.4(MLH1):c.2149G>T (p.Glu717Ter)	4292	MLH1	Pathogenic	GRCh38	2673900
+single nucleotide variant	NM_000249.4(MLH1):c.2052T>A (p.Tyr684Ter)	4292	MLH1	Pathogenic	GRCh38	2673997
+single nucleotide variant	NM_000249.4(MLH1):c.1543G>T (p.Glu515Ter)	4292	MLH1	Pathogenic	GRCh38	2674034
+single nucleotide variant	NM_000249.4(MLH1):c.1447G>T (p.Glu483Ter)	4292	MLH1	Pathogenic	GRCh38	2674076
+single nucleotide variant	NM_000249.4(MLH1):c.2020G>T (p.Glu674Ter)	4292	MLH1	Pathogenic	GRCh38	2674163
+single nucleotide variant	NM_000249.4(MLH1):c.232G>T (p.Glu78Ter)	4292	MLH1	Pathogenic	GRCh38	2674221
+single nucleotide variant	NM_000249.4(MLH1):c.1667+1G>C	4292	MLH1	Pathogenic	GRCh38	2674278
+single nucleotide variant	NM_000249.4(MLH1):c.849T>A (p.Tyr283Ter)	4292	MLH1	Pathogenic	GRCh38	2674439
+single nucleotide variant	NM_000249.4(MLH1):c.1043T>A (p.Leu348Ter)	4292	MLH1	Pathogenic	GRCh38	2674448
+single nucleotide variant	NM_000249.4(MLH1):c.471C>G (p.Tyr157Ter)	4292	MLH1	Pathogenic	GRCh38	2674476
+single nucleotide variant	NM_000249.4(MLH1):c.378C>A (p.Tyr126Ter)	4292	MLH1	Pathogenic	GRCh38	2674477
+single nucleotide variant	NM_000249.4(MLH1):c.1667+2T>G	4292	MLH1	Pathogenic	GRCh38	2674504
+single nucleotide variant	NM_000249.4(MLH1):c.418A>T (p.Lys140Ter)	4292	MLH1	Pathogenic	GRCh38	2674507
+single nucleotide variant	NM_000249.4(MLH1):c.1951G>T (p.Glu651Ter)	4292	MLH1	Pathogenic	GRCh38	2674522
+single nucleotide variant	NM_000249.4(MLH1):c.519T>A (p.Tyr173Ter)	4292	MLH1	Pathogenic	GRCh38	2674539
+single nucleotide variant	NM_000249.4(MLH1):c.306+1G>C	4292	MLH1	Pathogenic	GRCh38	2674543
+single nucleotide variant	NM_000249.4(MLH1):c.1423G>T (p.Glu475Ter)	4292	MLH1	Pathogenic	GRCh38	2674553
+single nucleotide variant	NM_000249.4(MLH1):c.1667+2T>A	4292	MLH1	Pathogenic	GRCh38	2674556
+single nucleotide variant	NM_000249.4(MLH1):c.1040C>T (p.Thr347Ile)	4292	MLH1	Likely pathogenic	GRCh38	2691728
+single nucleotide variant	NM_000249.4(MLH1):c.250A>C (p.Lys84Gln)	4292	MLH1	Likely pathogenic	GRCh38	2772302
+single nucleotide variant	NM_000249.4(MLH1):c.916A>G (p.Asn306Asp)	4292	MLH1	Likely pathogenic	GRCh38	2763602
+single nucleotide variant	NM_000249.4(MLH1):c.1630C>T (p.Gln544Ter)	4292	MLH1	Pathogenic	GRCh38	2814198
+single nucleotide variant	NM_000249.4(MLH1):c.62C>G (p.Ala21Gly)	4292	MLH1	Likely pathogenic	GRCh38	2858161
+single nucleotide variant	NM_000249.4(MLH1):c.2047T>G (p.Phe683Val)	4292	MLH1	Likely pathogenic	GRCh38	2858923
+single nucleotide variant	NM_000249.4(MLH1):c.885-1G>T	4292	MLH1	Likely pathogenic	GRCh38	3075758
+single nucleotide variant	NM_000249.4(MLH1):c.514G>A (p.Glu172Lys)	4292	MLH1	Likely pathogenic	GRCh38	3230786
+single nucleotide variant	NM_000249.4(MLH1):c.116+1G>C	4292	MLH1	Pathogenic/Likely pathogenic	GRCh38	3366311
+single nucleotide variant	NM_000249.4(MLH1):c.932A>G (p.Lys311Arg)	4292	MLH1	Likely pathogenic	GRCh38	3396572
+single nucleotide variant	NM_000249.4(MLH1):c.331G>T (p.Ala111Ser)	4292	MLH1	Likely pathogenic	GRCh38	3589151
+single nucleotide variant	NM_000249.4(MLH1):c.2245C>G (p.Leu749Val)	4292	MLH1	Likely pathogenic	GRCh38	3635666
+single nucleotide variant	NM_000249.4(MLH1):c.1985C>G (p.Thr662Ser)	4292	MLH1	Likely pathogenic	GRCh38	3633429
+single nucleotide variant	NM_000249.4(MLH1):c.1240G>T (p.Glu414Ter)	4292	MLH1	Pathogenic	GRCh38	3656544
+single nucleotide variant	NM_000249.4(MLH1):c.1559-15T>G	4292	MLH1	Pathogenic	GRCh38	3694447
+single nucleotide variant	NM_000249.4(MLH1):c.1684C>G (p.Gln562Glu)	4292	MLH1	Likely pathogenic	GRCh38	3708149
+single nucleotide variant	NM_000249.4(MLH1):c.254T>C (p.Leu85Pro)	4292	MLH1	Likely pathogenic	GRCh38	3718599
+single nucleotide variant	NM_000249.4(MLH1):c.311T>A (p.Leu104Ter)	4292	MLH1	Pathogenic	GRCh38	3768829
+single nucleotide variant	NM_000249.4(MLH1):c.116+106G>A	4292	MLH1	Likely pathogenic	GRCh38	3779868
+single nucleotide variant	NM_000249.4(MLH1):c.208-12G>A	4292	MLH1	Likely pathogenic	GRCh38	3873402
+single nucleotide variant	NM_000249.4(MLH1):c.389A>C (p.Tyr130Ser)	4292	MLH1	Likely pathogenic	GRCh38	3873415
+single nucleotide variant	NM_000249.4(MLH1):c.207+3A>T	4292	MLH1	Likely pathogenic	GRCh38	4055392
+single nucleotide variant	NM_000249.4(MLH1):c.388T>A (p.Tyr130Asn)	4292	MLH1	Likely pathogenic	GRCh38	4108561
+single nucleotide variant	NM_000249.4(MLH1):c.1410-1G>C	4292	MLH1	Likely pathogenic	GRCh38	4295662
+single nucleotide variant	NM_000249.4(MLH1):c.1654A>C (p.Thr552Pro)	4292	MLH1	Likely pathogenic	GRCh38	4526455
+single nucleotide variant	NM_000249.4(MLH1):c.1919C>A (p.Pro640His)	4292	MLH1	Likely pathogenic	GRCh38	4529509
+single nucleotide variant	NM_000249.4(MLH1):c.83C>G (p.Pro28Arg)	4292	MLH1	Likely pathogenic	GRCh38	4683074
+single nucleotide variant	NM_000249.4(MLH1):c.1989+6T>G	4292	MLH1	Likely pathogenic	GRCh38	4720417
+single nucleotide variant	NM_000249.4(MLH1):c.306+1070C>G	4292	MLH1	Likely pathogenic	GRCh38	4726638
+single nucleotide variant	NM_000249.4(MLH1):c.1038+2T>G	4292	MLH1	Likely pathogenic	GRCh38	4751038
+single nucleotide variant	NM_000249.4(MLH1):c.806C>A (p.Ser269Ter)	4292	MLH1	Pathogenic	GRCh38	4819111
+single nucleotide variant	NM_000249.4(MLH1):c.2107G>T (p.Glu703Ter)	4292	MLH1	Pathogenic	GRCh38	4827080
+single nucleotide variant	NM_000249.4(MLH1):c.306+1G>T	4292	MLH1	Pathogenic	GRCh38	4856732
+single nucleotide variant	NM_000249.4(MLH1):c.3G>C (p.Met1Ile)	4292	MLH1	Pathogenic	GRCh38	4856779

@@ -1,0 +1,101 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000341.4(SLC3A1):c.1400T>C (p.Met467Thr)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	18115
+single nucleotide variant	NM_000341.4(SLC3A1):c.1400T>A (p.Met467Lys)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	18116
+single nucleotide variant	NM_000341.4(SLC3A1):c.2033T>C (p.Leu678Pro)	6519	SLC3A1	Likely pathogenic	GRCh38	18117
+single nucleotide variant	NM_000341.4(SLC3A1):c.542G>A (p.Arg181Gln)	6519	SLC3A1	Pathogenic	GRCh38	18118
+single nucleotide variant	NM_000341.4(SLC3A1):c.1597T>A (p.Tyr533Asn)	6519	SLC3A1	Pathogenic	GRCh38	37080
+single nucleotide variant	NM_000341.4(SLC3A1):c.1500+1G>T	6519	SLC3A1	Pathogenic	GRCh38	284275
+single nucleotide variant	NM_000341.4(SLC3A1):c.808C>T (p.Arg270Ter)	6519	SLC3A1	Pathogenic	GRCh38	336195
+single nucleotide variant	NM_000341.4(SLC3A1):c.1354C>T (p.Arg452Trp)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	336205
+single nucleotide variant	NM_000341.4(SLC3A1):c.1094G>A (p.Arg365Gln)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	562304
+single nucleotide variant	NM_000341.4(SLC3A1):c.777T>G (p.Tyr259Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	562321
+single nucleotide variant	NM_000341.4(SLC3A1):c.766-1G>T	6519	SLC3A1	Likely pathogenic	GRCh38	562457
+single nucleotide variant	NM_000341.4(SLC3A1):c.430+2T>G	6519	SLC3A1	Likely pathogenic	GRCh38	568132
+single nucleotide variant	NM_000341.4(SLC3A1):c.1744T>C (p.Tyr582His)	6519	SLC3A1	Likely pathogenic	GRCh38	644169
+single nucleotide variant	NM_000341.4(SLC3A1):c.1084C>G (p.Arg362Gly)	6519	SLC3A1	Pathogenic	GRCh38	804186
+single nucleotide variant	NM_000341.4(SLC3A1):c.1097A>G (p.Gln366Arg)	6519	SLC3A1	Likely pathogenic	GRCh38	804191
+single nucleotide variant	NM_000341.4(SLC3A1):c.1113C>A (p.Tyr371Ter)	6519	SLC3A1	Pathogenic	GRCh38	804184
+single nucleotide variant	NM_000341.4(SLC3A1):c.1326C>G (p.Asn442Lys)	6519	SLC3A1	Likely pathogenic	GRCh38	804197
+single nucleotide variant	NM_000341.4(SLC3A1):c.1414C>T (p.Leu472Phe)	6519	SLC3A1	Pathogenic	GRCh38	804183
+single nucleotide variant	NM_000341.4(SLC3A1):c.1640C>T (p.Ser547Leu)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	804198
+single nucleotide variant	NM_000341.4(SLC3A1):c.2011C>T (p.Arg671Ter)	6519	SLC3A1	Pathogenic	GRCh38	804177
+single nucleotide variant	NM_000341.4(SLC3A1):c.1012-1G>A	6519	SLC3A1	Pathogenic	GRCh38	804192
+single nucleotide variant	NM_000341.4(SLC3A1):c.1332+2T>A	6519	SLC3A1	Pathogenic	GRCh38	804196
+single nucleotide variant	NM_000341.4(SLC3A1):c.647C>T (p.Thr216Met)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	943110
+single nucleotide variant	NM_000341.4(SLC3A1):c.1230C>A (p.Asn410Lys)	6519	SLC3A1	Likely pathogenic	GRCh38	978421
+single nucleotide variant	NM_000341.4(SLC3A1):c.916A>T (p.Lys306Ter)	6519	SLC3A1	Pathogenic	GRCh38	1064456
+single nucleotide variant	NM_000341.4(SLC3A1):c.1093C>T (p.Arg365Trp)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	1076782
+single nucleotide variant	NM_000341.4(SLC3A1):c.766-2A>C	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	1319457
+single nucleotide variant	NM_000341.4(SLC3A1):c.1011G>A (p.Pro337=)	6519	SLC3A1	Pathogenic	GRCh38	2734175
+single nucleotide variant	NM_000341.4(SLC3A1):c.891+2T>C	6519	SLC3A1	Likely pathogenic	GRCh38	1495069
+single nucleotide variant	NM_000341.4(SLC3A1):c.1366C>A (p.Arg456Ser)	6519	SLC3A1	Pathogenic	GRCh38	1469318
+single nucleotide variant	NM_000341.4(SLC3A1):c.1011+3A>G	6519	SLC3A1	Likely pathogenic	GRCh38	1476045
+single nucleotide variant	NM_000341.4(SLC3A1):c.638C>G (p.Pro213Arg)	6519	SLC3A1	Pathogenic	GRCh38	1508324
+single nucleotide variant	NM_000341.4(SLC3A1):c.1094G>T (p.Arg365Leu)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	1458045
+single nucleotide variant	NM_000341.4(SLC3A1):c.1592C>G (p.Ser531Ter)	6519	SLC3A1	Pathogenic	GRCh38	1457004
+single nucleotide variant	NM_000341.4(SLC3A1):c.670C>T (p.Gln224Ter)	6519	SLC3A1	Pathogenic	GRCh38	1457305
+single nucleotide variant	NM_000341.4(SLC3A1):c.1332+2T>C	6519	SLC3A1	Likely pathogenic	GRCh38	1690683
+single nucleotide variant	NM_000341.4(SLC3A1):c.266T>C (p.Leu89Pro)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2194451
+single nucleotide variant	NM_000341.4(SLC3A1):c.1136+1G>T	6519	SLC3A1	Pathogenic	GRCh38	1975826
+single nucleotide variant	NM_000341.4(SLC3A1):c.1136+2T>C	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2057421
+single nucleotide variant	NM_000341.4(SLC3A1):c.891+4A>G	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2433461
+single nucleotide variant	NM_000341.4(SLC3A1):c.436C>T (p.Gln146Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	2446007
+single nucleotide variant	NM_000341.4(SLC3A1):c.1320G>T (p.Trp440Cys)	6519	SLC3A1	Likely pathogenic	GRCh38	2446008
+single nucleotide variant	NM_000341.4(SLC3A1):c.1188C>G (p.Tyr396Ter)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2582318
+single nucleotide variant	NM_000341.4(SLC3A1):c.1108C>T (p.Gln370Ter)	6519	SLC3A1	Pathogenic	GRCh38	2636765
+single nucleotide variant	NM_000341.4(SLC3A1):c.452A>G (p.Tyr151Cys)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2734172
+single nucleotide variant	NM_000341.4(SLC3A1):c.1640C>A (p.Ser547Ter)	6519	SLC3A1	Pathogenic	GRCh38	2734176
+single nucleotide variant	NM_000341.4(SLC3A1):c.1975C>T (p.Gln659Ter)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	2734181
+single nucleotide variant	NM_000341.4(SLC3A1):c.620T>G (p.Leu207Ter)	6519	SLC3A1	Pathogenic	GRCh38	2855712
+single nucleotide variant	NM_000341.4(SLC3A1):c.503C>A (p.Ser168Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3237194
+single nucleotide variant	NM_000341.4(SLC3A1):c.611-1G>A	6519	SLC3A1	Likely pathogenic	GRCh38	3338629
+single nucleotide variant	NM_000341.4(SLC3A1):c.809G>T (p.Arg270Leu)	6519	SLC3A1	Likely pathogenic	GRCh38	3351980
+single nucleotide variant	NM_000341.4(SLC3A1):c.1855A>T (p.Arg619Ter)	6519	SLC3A1	Pathogenic	GRCh38	3359152
+single nucleotide variant	NM_000341.4(SLC3A1):c.647C>A (p.Thr216Lys)	6519	SLC3A1	Likely pathogenic	GRCh38	3359153
+single nucleotide variant	NM_000341.4(SLC3A1):c.928G>A (p.Gly310Ser)	6519	SLC3A1	Likely pathogenic	GRCh38	3359154
+single nucleotide variant	NM_000341.4(SLC3A1):c.1091T>C (p.Phe364Ser)	6519	SLC3A1	Likely pathogenic	GRCh38	3359155
+single nucleotide variant	NM_000341.4(SLC3A1):c.430+1G>A	6519	SLC3A1	Likely pathogenic	GRCh38	3359156
+single nucleotide variant	NM_000341.4(SLC3A1):c.2017T>G (p.Cys673Gly)	6519	SLC3A1	Likely pathogenic	GRCh38	3359157
+single nucleotide variant	NM_000341.4(SLC3A1):c.1373G>T (p.Gly458Val)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	3359158
+single nucleotide variant	NM_000341.4(SLC3A1):c.1158T>A (p.Tyr386Ter)	6519	SLC3A1	Pathogenic	GRCh38	3359159
+single nucleotide variant	NM_000341.4(SLC3A1):c.1401G>C (p.Met467Ile)	6519	SLC3A1	Likely pathogenic	GRCh38	3359161
+single nucleotide variant	NM_000341.4(SLC3A1):c.850G>T (p.Asp284Tyr)	6519	SLC3A1	Pathogenic	GRCh38	3359199
+single nucleotide variant	NM_000341.4(SLC3A1):c.1904C>A (p.Thr635Lys)	6519	SLC3A1	Pathogenic	GRCh38	3359200
+single nucleotide variant	NM_000341.4(SLC3A1):c.163C>T (p.Gln55Ter)	6519	SLC3A1	Pathogenic	GRCh38	3359201
+single nucleotide variant	NM_000341.4(SLC3A1):c.1617+5G>T	6519	SLC3A1	Likely pathogenic	GRCh38	3359203
+single nucleotide variant	NM_000341.4(SLC3A1):c.907T>C (p.Trp303Arg)	6519	SLC3A1	Likely pathogenic	GRCh38	3359204
+single nucleotide variant	NM_000341.4(SLC3A1):c.1432A>C (p.Thr478Pro)	6519	SLC3A1	Likely pathogenic	GRCh38	3359206
+single nucleotide variant	NM_000341.4(SLC3A1):c.1364C>T (p.Ser455Leu)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	3359209
+single nucleotide variant	NM_000341.4(SLC3A1):c.1190A>G (p.Tyr397Cys)	6519	SLC3A1	Likely pathogenic	GRCh38	3377753
+single nucleotide variant	NM_000341.4(SLC3A1):c.1421G>A (p.Gly474Glu)	6519	SLC3A1	Likely pathogenic	GRCh38	3380806
+single nucleotide variant	NM_000341.4(SLC3A1):c.1134C>G (p.Tyr378Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3393248
+single nucleotide variant	NM_000341.4(SLC3A1):c.665G>A (p.Trp222Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3586630
+single nucleotide variant	NM_000341.4(SLC3A1):c.765+1G>T	6519	SLC3A1	Likely pathogenic	GRCh38	3586633
+single nucleotide variant	NM_000341.4(SLC3A1):c.909G>A (p.Trp303Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3586640
+single nucleotide variant	NM_000341.4(SLC3A1):c.1060C>T (p.Gln354Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3586647
+single nucleotide variant	NM_000341.4(SLC3A1):c.1094G>C (p.Arg365Pro)	6519	SLC3A1	Likely pathogenic	GRCh38	3586650
+single nucleotide variant	NM_000341.4(SLC3A1):c.1366C>T (p.Arg456Cys)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	3586670
+single nucleotide variant	NM_000341.4(SLC3A1):c.1437C>G (p.Tyr479Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	3586673
+single nucleotide variant	NM_000341.4(SLC3A1):c.1447G>T (p.Glu483Ter)	6519	SLC3A1	Pathogenic	GRCh38	3586675
+single nucleotide variant	NM_000341.4(SLC3A1):c.1617+1G>A	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	3586681
+single nucleotide variant	NM_000341.4(SLC3A1):c.1617+5G>A	6519	SLC3A1	Likely pathogenic	GRCh38	3586683
+single nucleotide variant	NM_000341.4(SLC3A1):c.1993A>T (p.Arg665Ter)	6519	SLC3A1	Pathogenic/Likely pathogenic	GRCh38	3586706
+single nucleotide variant	NM_000341.4(SLC3A1):c.982G>T (p.Glu328Ter)	6519	SLC3A1	Pathogenic	GRCh38	3720323
+single nucleotide variant	NM_000341.4(SLC3A1):c.381C>A (p.Tyr127Ter)	6519	SLC3A1	Pathogenic	GRCh38	3910040
+single nucleotide variant	NM_000341.4(SLC3A1):c.761A>C (p.Asn254Thr)	6519	SLC3A1	Likely pathogenic	GRCh38	4074831
+single nucleotide variant	NM_000341.4(SLC3A1):c.1805C>A (p.Ser602Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	4077521
+single nucleotide variant	NM_000341.4(SLC3A1):c.82G>T (p.Glu28Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	4077522
+single nucleotide variant	NM_000341.4(SLC3A1):c.1352C>G (p.Ser451Ter)	6519	SLC3A1	Pathogenic	GRCh38	4081050
+single nucleotide variant	NM_000341.4(SLC3A1):c.1367G>T (p.Arg456Leu)	6519	SLC3A1	Likely pathogenic	GRCh38	4526819
+single nucleotide variant	NM_000341.4(SLC3A1):c.1618-1G>T	6519	SLC3A1	Likely pathogenic	GRCh38	4526820
+single nucleotide variant	NM_000341.4(SLC3A1):c.1853T>C (p.Met618Thr)	6519	SLC3A1	Likely pathogenic	GRCh38	4526821
+single nucleotide variant	NM_000341.4(SLC3A1):c.378C>G (p.Ile126Met)	6519	SLC3A1	Likely pathogenic	GRCh38	4526822
+single nucleotide variant	NM_000341.4(SLC3A1):c.2019C>A (p.Cys673Ter)	6519	SLC3A1	Pathogenic	GRCh38	4715216
+single nucleotide variant	NM_000341.4(SLC3A1):c.988C>T (p.Gln330Ter)	6519	SLC3A1	Pathogenic	GRCh38	4763038
+single nucleotide variant	NM_000341.4(SLC3A1):c.792G>A (p.Trp264Ter)	6519	SLC3A1	Pathogenic	GRCh38	4857304
+single nucleotide variant	NM_000341.4(SLC3A1):c.1544C>G (p.Ser515Ter)	6519	SLC3A1	Pathogenic	GRCh38	4888728
+single nucleotide variant	NM_000341.4(SLC3A1):c.350G>A (p.Trp117Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	4889811
+single nucleotide variant	NM_000341.4(SLC3A1):c.1437C>A (p.Tyr479Ter)	6519	SLC3A1	Likely pathogenic	GRCh38	4889812
+single nucleotide variant	NM_000341.4(SLC3A1):c.610+2T>A	6519	SLC3A1	Likely pathogenic	GRCh38	4890056
+single nucleotide variant	NM_000341.4(SLC3A1):c.891+1G>A	6519	SLC3A1	Likely pathogenic	GRCh38	4890057
+single nucleotide variant	NM_000341.4(SLC3A1):c.1500+1G>A	6519	SLC3A1	Likely pathogenic	GRCh38	4890058

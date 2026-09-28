@@ -1,0 +1,87 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000278.5(PAX2):c.226G>A (p.Gly76Ser)	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	13799
+single nucleotide variant	NM_000278.5(PAX2):c.954C>A (p.Tyr318Ter)	5076	PAX2	Pathogenic	GRCh38	13803
+single nucleotide variant	NM_000278.5(PAX2):c.212G>C (p.Arg71Thr)	5076	PAX2	Pathogenic	GRCh38	13805
+single nucleotide variant	NM_000278.5(PAX2):c.565G>A (p.Gly189Arg)	5076	PAX2	Pathogenic	GRCh38	155928
+single nucleotide variant	NM_000278.5(PAX2):c.685C>T (p.Arg229Ter)	5076	PAX2	Pathogenic	GRCh38	156294
+single nucleotide variant	NM_000278.5(PAX2):c.706C>T (p.Gln236Ter)	5076	PAX2	Pathogenic	GRCh38	156296
+single nucleotide variant	NM_000278.5(PAX2):c.187G>A (p.Gly63Ser)	5076	PAX2	Pathogenic	GRCh38	217287
+single nucleotide variant	NM_000278.5(PAX2):c.43+5G>T	5076	PAX2	Likely pathogenic	GRCh38	235286
+single nucleotide variant	NM_000278.5(PAX2):c.616+5648T>C	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	419700
+single nucleotide variant	NM_000278.5(PAX2):c.239C>T (p.Pro80Leu)	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	465775
+single nucleotide variant	NM_000278.5(PAX2):c.890C>G (p.Ser297Ter)	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	522066
+single nucleotide variant	NM_000278.5(PAX2):c.113G>A (p.Arg38Lys)	5076	PAX2	Likely pathogenic	GRCh38	562362
+single nucleotide variant	NM_000278.5(PAX2):c.219C>G (p.Tyr73Ter)	5076	PAX2	Pathogenic	GRCh38	562393
+single nucleotide variant	NM_000278.5(PAX2):c.220G>T (p.Glu74Ter)	5076	PAX2	Pathogenic	GRCh38	562404
+single nucleotide variant	NM_000278.5(PAX2):c.433C>T (p.Gln145Ter)	5076	PAX2	Likely pathogenic	GRCh38	562423
+single nucleotide variant	NM_000278.5(PAX2):c.265A>T (p.Lys89Ter)	5076	PAX2	Likely pathogenic	GRCh38	562441
+single nucleotide variant	NM_000278.5(PAX2):c.226G>C (p.Gly76Arg)	5076	PAX2	Likely pathogenic	GRCh38	636659
+single nucleotide variant	NM_000278.5(PAX2):c.148C>T (p.Arg50Trp)	5076	PAX2	Likely pathogenic	GRCh38	829843
+single nucleotide variant	NM_000278.5(PAX2):c.70G>C (p.Gly24Arg)	5076	PAX2	Likely pathogenic	GRCh38	836075
+single nucleotide variant	NM_000278.5(PAX2):c.419G>T (p.Arg140Leu)	5076	PAX2	Likely pathogenic	GRCh38	915266
+single nucleotide variant	NM_000278.5(PAX2):c.70G>T (p.Gly24Trp)	5076	PAX2	Likely pathogenic	GRCh38	974525
+single nucleotide variant	NM_000278.5(PAX2):c.343C>T (p.Arg115Ter)	5076	PAX2	Pathogenic	GRCh38	974490
+single nucleotide variant	NM_000278.5(PAX2):c.*7C>A	5076	PAX2	Pathogenic	GRCh38	974489
+single nucleotide variant	NM_000278.5(PAX2):c.497-1G>A	5076	PAX2	Pathogenic	GRCh38	974492
+single nucleotide variant	NM_000278.5(PAX2):c.388C>T (p.Pro130Ser)	5076	PAX2	Likely pathogenic	GRCh38	988169
+single nucleotide variant	NM_000278.5(PAX2):c.418C>T (p.Arg140Trp)	5076	PAX2	Pathogenic	GRCh38	1066591
+single nucleotide variant	NM_000278.5(PAX2):c.250G>A (p.Gly84Ser)	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	1072593
+single nucleotide variant	NM_000278.5(PAX2):c.430C>T (p.Gln144Ter)	5076	PAX2	Pathogenic	GRCh38	1076561
+single nucleotide variant	NM_000278.5(PAX2):c.906C>A (p.Tyr302Ter)	5076	PAX2	Pathogenic	GRCh38	1072594
+single nucleotide variant	NM_000278.5(PAX2):c.239C>A (p.Pro80Gln)	5076	PAX2	Likely pathogenic	GRCh38	1077008
+single nucleotide variant	NM_000278.5(PAX2):c.310C>T (p.Arg104Ter)	5076	PAX2	Pathogenic	GRCh38	1301902
+single nucleotide variant	NM_000278.5(PAX2):c.419G>A (p.Arg140Gln)	5076	PAX2	Likely pathogenic	GRCh38	1304559
+single nucleotide variant	NM_000278.5(PAX2):c.175C>T (p.Arg59Trp)	5076	PAX2	Likely pathogenic	GRCh38	1333274
+single nucleotide variant	NM_000278.5(PAX2):c.211A>G (p.Arg71Gly)	5076	PAX2	Likely pathogenic	GRCh38	1333615
+single nucleotide variant	NM_000278.5(PAX2):c.254G>T (p.Gly85Val)	5076	PAX2	Likely pathogenic	GRCh38	1344673
+single nucleotide variant	NM_000278.5(PAX2):c.275C>T (p.Thr92Met)	5076	PAX2	Likely pathogenic	GRCh38	1344674
+single nucleotide variant	NM_000278.5(PAX2):c.785C>A (p.Ser262Ter)	5076	PAX2	Pathogenic	GRCh38	1419850
+single nucleotide variant	NM_000278.5(PAX2):c.70G>A (p.Gly24Arg)	5076	PAX2	Likely pathogenic	GRCh38	1479027
+single nucleotide variant	NM_000278.5(PAX2):c.224C>T (p.Thr75Ile)	5076	PAX2	Likely pathogenic	GRCh38	1694568
+single nucleotide variant	NM_000278.5(PAX2):c.409A>T (p.Arg137Ter)	5076	PAX2	Pathogenic	GRCh38	1705469
+single nucleotide variant	NM_000278.5(PAX2):c.792+2T>C	5076	PAX2	Pathogenic	GRCh38	2152092
+single nucleotide variant	NM_000278.5(PAX2):c.44-2A>G	5076	PAX2	Likely pathogenic	GRCh38	1910228
+single nucleotide variant	NM_000278.5(PAX2):c.750C>A (p.Tyr250Ter)	5076	PAX2	Pathogenic	GRCh38	1938485
+single nucleotide variant	NM_000278.5(PAX2):c.212+1G>T	5076	PAX2	Pathogenic/Likely pathogenic	GRCh38	2086859
+single nucleotide variant	NM_000278.5(PAX2):c.43+1G>A	5076	PAX2	Pathogenic	GRCh38	2117050
+single nucleotide variant	NM_000278.5(PAX2):c.871G>T (p.Glu291Ter)	5076	PAX2	Likely pathogenic	GRCh38	2572592
+single nucleotide variant	NM_000278.5(PAX2):c.793-1G>A	5076	PAX2	Likely pathogenic	GRCh38	2627542
+single nucleotide variant	NM_000278.5(PAX2):c.182G>T (p.Ser61Ile)	5076	PAX2	Likely pathogenic	GRCh38	2631749
+single nucleotide variant	NM_000278.5(PAX2):c.115C>T (p.Gln39Ter)	5076	PAX2	Likely pathogenic	GRCh38	2633496
+single nucleotide variant	NM_000278.5(PAX2):c.213-8C>A	5076	PAX2	Likely pathogenic	GRCh38	2681736
+single nucleotide variant	NM_000278.5(PAX2):c.263C>G (p.Pro88Arg)	5076	PAX2	Pathogenic	GRCh38	2681744
+single nucleotide variant	NM_000278.5(PAX2):c.92G>C (p.Arg31Pro)	5076	PAX2	Likely pathogenic	GRCh38	2681756
+single nucleotide variant	NM_000278.5(PAX2):c.337G>T (p.Glu113Ter)	5076	PAX2	Pathogenic	GRCh38	2681762
+single nucleotide variant	NM_000278.5(PAX2):c.212G>T (p.Arg71Met)	5076	PAX2	Likely pathogenic	GRCh38	2683957
+single nucleotide variant	NM_000278.5(PAX2):c.166C>T (p.Arg56Trp)	5076	PAX2	Likely pathogenic	GRCh38	2690931
+single nucleotide variant	NM_000278.5(PAX2):c.71G>T (p.Gly24Val)	5076	PAX2	Likely pathogenic	GRCh38	2953821
+single nucleotide variant	NM_000278.5(PAX2):c.1109-2A>G	5076	PAX2	Likely pathogenic	GRCh38	3064194
+single nucleotide variant	NM_000278.5(PAX2):c.389C>G (p.Pro130Arg)	5076	PAX2	Likely pathogenic	GRCh38	3068134
+single nucleotide variant	NM_000278.5(PAX2):c.254G>A (p.Gly85Asp)	5076	PAX2	Pathogenic	GRCh38	3236065
+single nucleotide variant	NM_000278.5(PAX2):c.219C>A (p.Tyr73Ter)	5076	PAX2	Pathogenic	GRCh38	3248719
+single nucleotide variant	NM_000278.5(PAX2):c.148C>G (p.Arg50Gly)	5076	PAX2	Likely pathogenic	GRCh38	3304467
+single nucleotide variant	NM_000278.5(PAX2):c.331G>A (p.Ala111Thr)	5076	PAX2	Pathogenic	GRCh38	3340588
+single nucleotide variant	NM_000278.5(PAX2):c.410+1G>A	5076	PAX2	Pathogenic	GRCh38	3340714
+single nucleotide variant	NM_000278.5(PAX2):c.799G>T (p.Glu267Ter)	5076	PAX2	Pathogenic	GRCh38	3348227
+single nucleotide variant	NM_000278.5(PAX2):c.43+1G>T	5076	PAX2	Likely pathogenic	GRCh38	3367034
+single nucleotide variant	NM_000278.5(PAX2):c.169C>T (p.Gln57Ter)	5076	PAX2	Likely pathogenic	GRCh38	3589939
+single nucleotide variant	NM_000278.5(PAX2):c.227G>A (p.Gly76Asp)	5076	PAX2	Likely pathogenic	GRCh38	3589953
+single nucleotide variant	NM_000278.5(PAX2):c.845C>A (p.Ser282Ter)	5076	PAX2	Likely pathogenic	GRCh38	3590068
+single nucleotide variant	NM_000278.5(PAX2):c.763C>T (p.Gln255Ter)	5076	PAX2	Likely pathogenic	GRCh38	3602562
+single nucleotide variant	NM_000278.5(PAX2):c.206T>C (p.Leu69Pro)	5076	PAX2	Likely pathogenic	GRCh38	3602563
+single nucleotide variant	NM_000278.5(PAX2):c.983G>T (p.Gly328Val)	5076	PAX2	Likely pathogenic	GRCh38	3602564
+single nucleotide variant	NM_000278.5(PAX2):c.74G>A (p.Gly25Glu)	5076	PAX2	Likely pathogenic	GRCh38	3602568
+single nucleotide variant	NM_000278.5(PAX2):c.617-1G>T	5076	PAX2	Likely pathogenic	GRCh38	3602569
+single nucleotide variant	NM_000278.5(PAX2):c.361G>T (p.Glu121Ter)	5076	PAX2	Pathogenic	GRCh38	3759838
+single nucleotide variant	NM_000278.5(PAX2):c.213-2A>G	5076	PAX2	Pathogenic	GRCh38	3761028
+single nucleotide variant	NM_000278.5(PAX2):c.253G>T (p.Gly85Cys)	5076	PAX2	Likely pathogenic	GRCh38	3776236
+single nucleotide variant	NM_000278.5(PAX2):c.97C>G (p.Leu33Val)	5076	PAX2	Likely pathogenic	GRCh38	3893184
+single nucleotide variant	NM_000278.5(PAX2):c.217T>C (p.Tyr73His)	5076	PAX2	Likely pathogenic	GRCh38	3894580
+single nucleotide variant	NM_000278.5(PAX2):c.906C>G (p.Tyr302Ter)	5076	PAX2	Pathogenic	GRCh38	3899963
+single nucleotide variant	NM_000278.5(PAX2):c.497-1G>T	5076	PAX2	Likely pathogenic	GRCh38	3900028
+single nucleotide variant	NM_000278.5(PAX2):c.91C>T (p.Arg31Trp)	5076	PAX2	Likely pathogenic	GRCh38	4077059
+single nucleotide variant	NM_000278.5(PAX2):c.1022-1G>A	5076	PAX2	Likely pathogenic	GRCh38	4530614
+single nucleotide variant	NM_000278.5(PAX2):c.234C>G (p.Ile78Met)	5076	PAX2	Likely pathogenic	GRCh38	4688158
+single nucleotide variant	NM_000278.5(PAX2):c.43+1G>C	5076	PAX2	Pathogenic	GRCh38	4787555
+single nucleotide variant	NM_000278.5(PAX2):c.919+1G>A	5076	PAX2	Likely pathogenic	GRCh38	4787096
+single nucleotide variant	NM_000278.5(PAX2):c.954C>G (p.Tyr318Ter)	5076	PAX2	Pathogenic	GRCh38	4818869

@@ -1,0 +1,89 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000156.6(GAMT):c.59G>C (p.Trp20Ser)	2593	GAMT	Pathogenic	GRCh38	8303
+single nucleotide variant	NM_000156.6(GAMT):c.506G>A (p.Cys169Tyr)	2593	GAMT	Likely pathogenic	GRCh38	8304
+single nucleotide variant	NM_000156.6(GAMT):c.148A>C (p.Met50Leu)	2593	GAMT	Likely pathogenic	GRCh38	8305
+single nucleotide variant	NM_000156.6(GAMT):c.327G>A (p.Lys109=)	2593	GAMT	Pathogenic	GRCh38	21065
+single nucleotide variant	NM_000156.6(GAMT):c.526G>T (p.Glu176Ter)	2593	GAMT	Likely pathogenic	GRCh38	205586
+single nucleotide variant	NM_000156.6(GAMT):c.522G>A (p.Trp174Ter)	2593	GAMT	Pathogenic	GRCh38	205584
+single nucleotide variant	NM_000156.6(GAMT):c.491G>A (p.Gly164Asp)	2593	GAMT	Likely pathogenic	GRCh38	205581
+single nucleotide variant	NM_000156.6(GAMT):c.328G>T (p.Val110Phe)	2593	GAMT	Likely pathogenic	GRCh38	205580
+single nucleotide variant	NM_000156.6(GAMT):c.1A>G (p.Met1Val)	2593	GAMT	Likely pathogenic	GRCh38	205591
+single nucleotide variant	NM_000156.6(GAMT):c.419C>A (p.Ser140Ter)	2593	GAMT	Likely pathogenic	GRCh38	225369
+single nucleotide variant	NM_000156.6(GAMT):c.133T>A (p.Trp45Arg)	2593	GAMT	Pathogenic	GRCh38	328352
+single nucleotide variant	NM_000156.6(GAMT):c.481A>T (p.Lys161Ter)	2593	GAMT	Likely pathogenic	GRCh38	392462
+single nucleotide variant	NM_000156.6(GAMT):c.503A>C (p.Tyr168Ser)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	429874
+single nucleotide variant	NM_000156.6(GAMT):c.391+15G>T	2593	GAMT	Likely pathogenic	GRCh38	544259
+single nucleotide variant	NM_000156.6(GAMT):c.224C>T (p.Ala75Val)	2593	GAMT	Pathogenic	GRCh38	544251
+single nucleotide variant	NM_000156.6(GAMT):c.407C>T (p.Thr136Met)	2593	GAMT	Pathogenic	GRCh38	544257
+single nucleotide variant	NM_000156.6(GAMT):c.403G>A (p.Asp135Asn)	2593	GAMT	Pathogenic	GRCh38	573140
+single nucleotide variant	NM_000156.6(GAMT):c.316C>T (p.Gln106Ter)	2593	GAMT	Pathogenic	GRCh38	566624
+single nucleotide variant	NM_000156.6(GAMT):c.391+1G>C	2593	GAMT	Pathogenic	GRCh38	664123
+single nucleotide variant	NM_000156.6(GAMT):c.521G>A (p.Trp174Ter)	2593	GAMT	Pathogenic	GRCh38	801414
+single nucleotide variant	NM_000156.6(GAMT):c.467C>A (p.Ala156Asp)	2593	GAMT	Likely pathogenic	GRCh38	801415
+single nucleotide variant	NM_000156.6(GAMT):c.392-1G>A	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	801416
+single nucleotide variant	NM_000156.6(GAMT):c.505T>C (p.Cys169Arg)	2593	GAMT	Pathogenic	GRCh38	818179
+single nucleotide variant	NM_000156.6(GAMT):c.261G>A (p.Trp87Ter)	2593	GAMT	Likely pathogenic	GRCh38	849693
+single nucleotide variant	NM_000156.6(GAMT):c.328-2A>G	2593	GAMT	Pathogenic	GRCh38	854099
+single nucleotide variant	NM_000156.6(GAMT):c.182-2A>G	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	851543
+single nucleotide variant	NM_000156.6(GAMT):c.328-1G>A	2593	GAMT	Pathogenic	GRCh38	844968
+single nucleotide variant	NM_000156.6(GAMT):c.268G>A (p.Glu90Lys)	2593	GAMT	Likely pathogenic	GRCh38	916122
+single nucleotide variant	NM_000156.6(GAMT):c.402C>G (p.Tyr134Ter)	2593	GAMT	Pathogenic	GRCh38	947458
+single nucleotide variant	NM_000156.6(GAMT):c.3G>A (p.Met1Ile)	2593	GAMT	Pathogenic	GRCh38	941928
+single nucleotide variant	NM_000156.6(GAMT):c.392-2A>G	2593	GAMT	Likely pathogenic	GRCh38	975394
+single nucleotide variant	NM_000156.6(GAMT):c.327+1G>T	2593	GAMT	Likely pathogenic	GRCh38	1066693
+single nucleotide variant	NM_000156.6(GAMT):c.289C>T (p.Gln97Ter)	2593	GAMT	Pathogenic	GRCh38	1075655
+single nucleotide variant	NM_000156.6(GAMT):c.59G>A (p.Trp20Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	1069228
+single nucleotide variant	NM_000156.6(GAMT):c.114C>T (p.Gly38=)	2593	GAMT	Likely pathogenic	GRCh38	1305363
+single nucleotide variant	NM_000156.6(GAMT):c.497T>C (p.Leu166Pro)	2593	GAMT	Pathogenic	GRCh38	1312506
+single nucleotide variant	NM_000156.6(GAMT):c.476T>C (p.Leu159Pro)	2593	GAMT	Likely pathogenic	GRCh38	1335317
+single nucleotide variant	NM_000156.6(GAMT):c.432G>A (p.Trp144Ter)	2593	GAMT	Pathogenic	GRCh38	1391239
+single nucleotide variant	NM_000156.6(GAMT):c.520T>C (p.Trp174Arg)	2593	GAMT	Likely pathogenic	GRCh38	1420866
+single nucleotide variant	NM_000156.6(GAMT):c.504C>G (p.Tyr168Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	1422935
+single nucleotide variant	NM_000156.6(GAMT):c.2T>C (p.Met1Thr)	2593	GAMT	Pathogenic	GRCh38	1452750
+single nucleotide variant	NM_000156.6(GAMT):c.402C>A (p.Tyr134Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	1382497
+single nucleotide variant	NM_000156.6(GAMT):c.181+2T>C	2593	GAMT	Likely pathogenic	GRCh38	1508606
+single nucleotide variant	NM_000156.6(GAMT):c.305G>A (p.Trp102Ter)	2593	GAMT	Pathogenic	GRCh38	1374093
+single nucleotide variant	NM_000156.6(GAMT):c.350G>A (p.Trp117Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	1460109
+single nucleotide variant	NM_000156.6(GAMT):c.442C>T (p.Gln148Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	1740532
+single nucleotide variant	NM_000156.6(GAMT):c.152A>C (p.His51Pro)	2593	GAMT	Pathogenic	GRCh38	2138184
+single nucleotide variant	NM_000156.6(GAMT):c.134G>A (p.Trp45Ter)	2593	GAMT	Pathogenic	GRCh38	2419155
+single nucleotide variant	NM_000156.6(GAMT):c.60G>A (p.Trp20Ter)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	2060742
+single nucleotide variant	NM_000156.6(GAMT):c.48C>A (p.Cys16Ter)	2593	GAMT	Pathogenic	GRCh38	2412845
+single nucleotide variant	NM_000156.6(GAMT):c.274A>G (p.Asn92Asp)	2593	GAMT	Likely pathogenic	GRCh38	2446453
+single nucleotide variant	NM_000156.6(GAMT):c.160G>C (p.Ala54Pro)	2593	GAMT	Likely pathogenic	GRCh38	2446454
+single nucleotide variant	NM_000156.6(GAMT):c.202G>T (p.Gly68Cys)	2593	GAMT	Likely pathogenic	GRCh38	2446456
+single nucleotide variant	NM_000156.6(GAMT):c.220G>C (p.Ala74Pro)	2593	GAMT	Likely pathogenic	GRCh38	2446457
+single nucleotide variant	NM_000156.6(GAMT):c.391G>C (p.Gly131Arg)	2593	GAMT	Pathogenic	GRCh38	2446458
+single nucleotide variant	NM_000156.6(GAMT):c.403G>T (p.Asp135Tyr)	2593	GAMT	Pathogenic	GRCh38	2446459
+single nucleotide variant	NM_000156.6(GAMT):c.439C>T (p.His147Tyr)	2593	GAMT	Likely pathogenic	GRCh38	2446460
+single nucleotide variant	NM_000156.6(GAMT):c.577C>T (p.Gln193Ter)	2593	GAMT	Likely pathogenic	GRCh38	2503890
+single nucleotide variant	NM_000156.6(GAMT):c.564G>T (p.Met188Ile)	2593	GAMT	Likely pathogenic	GRCh38	2570636
+single nucleotide variant	NM_000156.6(GAMT):c.590T>C (p.Leu197Pro)	2593	GAMT	Pathogenic	GRCh38	2570638
+single nucleotide variant	NM_000156.6(GAMT):c.235C>T (p.Gln79Ter)	2593	GAMT	Pathogenic	GRCh38	2675837
+single nucleotide variant	NM_000156.6(GAMT):c.411C>G (p.Tyr137Ter)	2593	GAMT	Likely pathogenic	GRCh38	2675838
+single nucleotide variant	NM_000156.6(GAMT):c.115A>G (p.Lys39Glu)	2593	GAMT	Likely pathogenic	GRCh38	2683727
+single nucleotide variant	NM_000156.6(GAMT):c.233T>A (p.Val78Glu)	2593	GAMT	Likely pathogenic	GRCh38	2683728
+single nucleotide variant	NM_000156.6(GAMT):c.327+2T>G	2593	GAMT	Likely pathogenic	GRCh38	2715989
+single nucleotide variant	NM_000156.6(GAMT):c.306G>A (p.Trp102Ter)	2593	GAMT	Pathogenic	GRCh38	2843680
+single nucleotide variant	NM_000156.6(GAMT):c.459+1G>A	2593	GAMT	Likely pathogenic	GRCh38	3022922
+single nucleotide variant	NM_000156.6(GAMT):c.403G>C (p.Asp135His)	2593	GAMT	Pathogenic/Likely pathogenic	GRCh38	3064200
+single nucleotide variant	NM_000156.6(GAMT):c.391+5G>C	2593	GAMT	Likely pathogenic	GRCh38	3256144
+single nucleotide variant	NM_000156.6(GAMT):c.138G>C (p.Glu46Asp)	2593	GAMT	Likely pathogenic	GRCh38	3337135
+single nucleotide variant	NM_000156.6(GAMT):c.421G>T (p.Glu141Ter)	2593	GAMT	Pathogenic	GRCh38	3647812
+single nucleotide variant	NM_000156.6(GAMT):c.60G>C (p.Trp20Cys)	2593	GAMT	Pathogenic	GRCh38	3719450
+single nucleotide variant	NM_000156.6(GAMT):c.623G>C (p.Arg208Pro)	2593	GAMT	Likely pathogenic	GRCh38	3775038
+single nucleotide variant	NM_000156.6(GAMT):c.327+1G>A	2593	GAMT	Likely pathogenic	GRCh38	4068335
+single nucleotide variant	NM_000156.6(GAMT):c.692C>A (p.Pro231His)	2593	GAMT	Likely pathogenic	GRCh38	4081414
+single nucleotide variant	NM_000156.6(GAMT):c.212T>G (p.Met71Arg)	2593	GAMT	Likely pathogenic	GRCh38	4537498
+single nucleotide variant	NM_000156.6(GAMT):c.194T>C (p.Leu65Pro)	2593	GAMT	Pathogenic	GRCh38	4537499
+single nucleotide variant	NM_000156.6(GAMT):c.352G>T (p.Glu118Ter)	2593	GAMT	Pathogenic	GRCh38	4537500
+single nucleotide variant	NM_000156.6(GAMT):c.327+43G>A	2593	GAMT	Likely pathogenic	GRCh38	4537501
+single nucleotide variant	NM_000156.6(GAMT):c.384C>G (p.His128Gln)	2593	GAMT	Likely pathogenic	GRCh38	4537502
+single nucleotide variant	NM_000156.6(GAMT):c.326A>G (p.Lys109Arg)	2593	GAMT	Pathogenic	GRCh38	4686082
+single nucleotide variant	NM_000156.6(GAMT):c.182-1G>T	2593	GAMT	Likely pathogenic	GRCh38	4731062
+single nucleotide variant	NM_000156.6(GAMT):c.404A>C (p.Asp135Ala)	2593	GAMT	Likely pathogenic	GRCh38	4802517
+single nucleotide variant	NM_000156.6(GAMT):c.181+1G>A	2593	GAMT	Likely pathogenic	GRCh38	4817652
+single nucleotide variant	NM_000156.6(GAMT):c.1A>T (p.Met1Leu)	2593	GAMT	Likely pathogenic	GRCh38	4817654
+single nucleotide variant	NM_000156.6(GAMT):c.81C>G (p.Tyr27Ter)	2593	GAMT	Likely pathogenic	GRCh38	4817657
+single nucleotide variant	NM_000156.6(GAMT):c.392-1G>C	2593	GAMT	Pathogenic	GRCh38	4888798
+single nucleotide variant	NM_000156.6(GAMT):c.460-2A>G	2593	GAMT	Likely pathogenic	GRCh38	4889915

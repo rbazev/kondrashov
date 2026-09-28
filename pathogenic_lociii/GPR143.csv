@@ -1,0 +1,70 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000273.3(GPR143):c.397T>C (p.Trp133Arg)	4935	GPR143	Likely pathogenic	GRCh38	10516
+single nucleotide variant	NM_000273.3(GPR143):c.695C>A (p.Thr232Lys)	4935	GPR143	Pathogenic	GRCh38	10518
+single nucleotide variant	NM_000273.3(GPR143):c.397T>A (p.Trp133Arg)	4935	GPR143	Pathogenic	GRCh38	10519
+single nucleotide variant	NM_000273.3(GPR143):c.104G>A (p.Gly35Asp)	4935	GPR143	Pathogenic	GRCh38	10521
+single nucleotide variant	NM_000273.3(GPR143):c.266C>T (p.Ser89Phe)	4935	GPR143	Pathogenic	GRCh38	10522
+single nucleotide variant	NM_000273.3(GPR143):c.13C>T (p.Arg5Cys)	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	98614
+single nucleotide variant	NM_000273.3(GPR143):c.232G>A (p.Asp78Asn)	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	98620
+single nucleotide variant	NM_000273.3(GPR143):c.251-1G>C	4935	GPR143	Pathogenic	GRCh38	98623
+single nucleotide variant	NM_000273.3(GPR143):c.251G>A (p.Gly84Asp)	4935	GPR143	Pathogenic	GRCh38	98624
+single nucleotide variant	NM_000273.3(GPR143):c.346T>C (p.Cys116Arg)	4935	GPR143	Pathogenic	GRCh38	98626
+single nucleotide variant	NM_000273.3(GPR143):c.353G>A (p.Gly118Glu)	4935	GPR143	Likely pathogenic	GRCh38	98628
+single nucleotide variant	NM_000273.3(GPR143):c.360+5G>C	4935	GPR143	Likely pathogenic	GRCh38	98630
+single nucleotide variant	NM_000273.3(GPR143):c.360G>A (p.Ala120=)	4935	GPR143	Likely pathogenic	GRCh38	98631
+single nucleotide variant	NM_000273.3(GPR143):c.413C>T (p.Ala138Val)	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	98634
+single nucleotide variant	NM_000273.3(GPR143):c.874T>G (p.Trp292Gly)	4935	GPR143	Pathogenic	GRCh38	98647
+single nucleotide variant	NM_000273.3(GPR143):c.876G>T (p.Trp292Cys)	4935	GPR143	Likely pathogenic	GRCh38	98649
+single nucleotide variant	NM_000273.3(GPR143):c.885+1G>A	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	98650
+single nucleotide variant	NM_000273.3(GPR143):c.2T>C (p.Met1Thr)	4935	GPR143	Pathogenic	GRCh38	377335
+single nucleotide variant	NM_000273.3(GPR143):c.779A>G (p.Asn260Ser)	4935	GPR143	Likely pathogenic	GRCh38	438187
+single nucleotide variant	NM_000273.3(GPR143):c.768-1G>A	4935	GPR143	Pathogenic	GRCh38	521594
+single nucleotide variant	NM_000273.3(GPR143):c.548+2T>A	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	915839
+single nucleotide variant	NM_000273.3(GPR143):c.935G>T (p.Gly312Val)	4935	GPR143	Likely pathogenic	GRCh38	1012853
+single nucleotide variant	NM_000273.3(GPR143):c.767+1G>A	4935	GPR143	Likely pathogenic	GRCh38	1184535
+single nucleotide variant	NM_000273.3(GPR143):c.346T>G (p.Cys116Gly)	4935	GPR143	Pathogenic	GRCh38	1184536
+single nucleotide variant	NM_000273.3(GPR143):c.394T>C (p.Trp132Arg)	4935	GPR143	Pathogenic	GRCh38	1202474
+single nucleotide variant	NM_000273.3(GPR143):c.361-2A>C	4935	GPR143	Pathogenic	GRCh38	1213999
+single nucleotide variant	NM_000273.3(GPR143):c.360+2T>C	4935	GPR143	Pathogenic	GRCh38	1308636
+single nucleotide variant	NM_000273.3(GPR143):c.73C>T (p.Gln25Ter)	4935	GPR143	Pathogenic	GRCh38	1323033
+single nucleotide variant	NM_000273.3(GPR143):c.886-2A>T	4935	GPR143	Pathogenic	GRCh38	1338323
+single nucleotide variant	NM_000273.3(GPR143):c.885+748G>A	4935	GPR143	Pathogenic	GRCh38	1408135
+single nucleotide variant	NM_000273.3(GPR143):c.1A>G (p.Met1Val)	4935	GPR143	Pathogenic	GRCh38	1452017
+single nucleotide variant	NM_000273.3(GPR143):c.682C>T (p.Gln228Ter)	4935	GPR143	Pathogenic	GRCh38	1375183
+single nucleotide variant	NM_000273.3(GPR143):c.250+1G>T	4935	GPR143	Likely pathogenic	GRCh38	1486075
+single nucleotide variant	NM_000273.3(GPR143):c.658+1G>T	4935	GPR143	Pathogenic	GRCh38	1460017
+single nucleotide variant	NM_000273.3(GPR143):c.361-1G>T	4935	GPR143	Likely pathogenic	GRCh38	1515078
+single nucleotide variant	NM_000273.3(GPR143):c.885+2T>G	4935	GPR143	Likely pathogenic	GRCh38	1514322
+single nucleotide variant	NM_000273.3(GPR143):c.733C>T (p.Arg245Ter)	4935	GPR143	Pathogenic	GRCh38	1352731
+single nucleotide variant	NM_000273.3(GPR143):c.597C>A (p.Tyr199Ter)	4935	GPR143	Pathogenic	GRCh38	1437914
+single nucleotide variant	NM_000273.3(GPR143):c.548+2T>C	4935	GPR143	Pathogenic	GRCh38	1527939
+single nucleotide variant	NM_000273.3(GPR143):c.703G>A (p.Glu235Lys)	4935	GPR143	Pathogenic/Likely pathogenic	GRCh38	2138471
+single nucleotide variant	NM_000273.3(GPR143):c.623C>A (p.Ala208Glu)	4935	GPR143	Likely pathogenic	GRCh38	2159554
+single nucleotide variant	NM_000273.3(GPR143):c.938G>A (p.Trp313Ter)	4935	GPR143	Pathogenic	GRCh38	2152334
+single nucleotide variant	NM_000273.3(GPR143):c.398G>A (p.Trp133Ter)	4935	GPR143	Pathogenic	GRCh38	2413227
+single nucleotide variant	NM_000273.3(GPR143):c.455+1G>A	4935	GPR143	Likely pathogenic	GRCh38	2010061
+single nucleotide variant	NM_000273.3(GPR143):c.396G>A (p.Trp132Ter)	4935	GPR143	Pathogenic	GRCh38	2016604
+single nucleotide variant	NM_000273.3(GPR143):c.987G>A (p.Trp329Ter)	4935	GPR143	Pathogenic	GRCh38	2007765
+single nucleotide variant	NM_000273.3(GPR143):c.742A>T (p.Lys248Ter)	4935	GPR143	Pathogenic	GRCh38	2062646
+single nucleotide variant	NM_000273.3(GPR143):c.361-1G>A	4935	GPR143	Likely pathogenic	GRCh38	2096028
+single nucleotide variant	NM_000273.3(GPR143):c.511G>T (p.Glu171Ter)	4935	GPR143	Pathogenic	GRCh38	2113293
+single nucleotide variant	NM_000273.3(GPR143):c.348C>A (p.Cys116Ter)	4935	GPR143	Pathogenic	GRCh38	2104131
+single nucleotide variant	NM_000273.3(GPR143):c.139C>T (p.Gln47Ter)	4935	GPR143	Pathogenic	GRCh38	2127998
+single nucleotide variant	NM_000273.3(GPR143):c.659-1G>A	4935	GPR143	Pathogenic	GRCh38	2499118
+single nucleotide variant	NM_000273.3(GPR143):c.248T>C (p.Leu83Pro)	4935	GPR143	Likely pathogenic	GRCh38	2506170
+single nucleotide variant	NM_000273.3(GPR143):c.685G>C (p.Gly229Arg)	4935	GPR143	Likely pathogenic	GRCh38	2571353
+single nucleotide variant	NM_000273.3(GPR143):c.3G>T (p.Met1Ile)	4935	GPR143	Likely pathogenic	GRCh38	2635351
+single nucleotide variant	NM_000273.3(GPR143):c.3G>A (p.Met1Ile)	4935	GPR143	Pathogenic	GRCh38	2727246
+single nucleotide variant	NM_000273.3(GPR143):c.933C>A (p.Tyr311Ter)	4935	GPR143	Pathogenic	GRCh38	2737076
+single nucleotide variant	NM_000273.3(GPR143):c.251-1G>T	4935	GPR143	Pathogenic	GRCh38	2813002
+single nucleotide variant	NM_000273.3(GPR143):c.939G>A (p.Trp313Ter)	4935	GPR143	Pathogenic	GRCh38	2827945
+single nucleotide variant	NM_000273.3(GPR143):c.250+1G>A	4935	GPR143	Pathogenic	GRCh38	3342616
+single nucleotide variant	NM_000273.3(GPR143):c.370C>T (p.Gln124Ter)	4935	GPR143	Pathogenic	GRCh38	3602102
+single nucleotide variant	NM_000273.3(GPR143):c.361-2A>G	4935	GPR143	Likely pathogenic	GRCh38	3767241
+single nucleotide variant	NM_000273.3(GPR143):c.395G>A (p.Trp132Ter)	4935	GPR143	Pathogenic	GRCh38	3901105
+single nucleotide variant	NM_000273.3(GPR143):c.11C>A (p.Pro4Gln)	4935	GPR143	Likely pathogenic	GRCh38	3911891
+single nucleotide variant	NM_000273.3(GPR143):c.241G>C (p.Gly81Arg)	4935	GPR143	Likely pathogenic	GRCh38	4072447
+single nucleotide variant	NM_000273.3(GPR143):c.333G>A (p.Trp111Ter)	4935	GPR143	Pathogenic	GRCh38	4077132
+single nucleotide variant	NM_000273.3(GPR143):c.360+1G>A	4935	GPR143	Pathogenic	GRCh38	4077133
+single nucleotide variant	NM_000273.3(GPR143):c.251-2A>G	4935	GPR143	Pathogenic	GRCh38	4734882
+single nucleotide variant	NM_000273.3(GPR143):c.443C>A (p.Ser148Ter)	4935	GPR143	Likely pathogenic	GRCh38	4853901

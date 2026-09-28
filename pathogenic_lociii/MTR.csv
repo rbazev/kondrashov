@@ -1,0 +1,62 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000254.3(MTR):c.3518C>T (p.Pro1173Leu)	4548	MTR	Pathogenic/Likely pathogenic	GRCh38	14278
+single nucleotide variant	NM_000254.3(MTR):c.2758C>G (p.His920Asp)	4548	MTR	Pathogenic	GRCh38	14280
+single nucleotide variant	NM_000254.3(MTR):c.340-166A>G	4548	MTR	Pathogenic/Likely pathogenic	GRCh38	14281
+single nucleotide variant	NM_000254.3(MTR):c.1753C>T (p.Arg585Ter)	4548	MTR	Pathogenic/Likely pathogenic	GRCh38	14286
+single nucleotide variant	NM_000254.3(MTR):c.3613G>T (p.Glu1205Ter)	4548	MTR	Pathogenic	GRCh38	14287
+single nucleotide variant	NM_000254.3(MTR):c.2971C>T (p.Arg991Ter)	4548	MTR	Pathogenic	GRCh38	632103
+single nucleotide variant	NM_000254.3(MTR):c.250-1G>C	4548	MTR	Likely pathogenic	GRCh38	631597
+single nucleotide variant	NM_000254.3(MTR):c.3439C>T (p.Arg1147Ter)	4548	MTR	Pathogenic	GRCh38	650018
+single nucleotide variant	NM_000254.3(MTR):c.927+1G>C	4548	MTR	Likely pathogenic	GRCh38	641704
+single nucleotide variant	NM_000254.3(MTR):c.385G>C (p.Ala129Pro)	4548	MTR	Likely pathogenic	GRCh38	812985
+single nucleotide variant	NM_000254.3(MTR):c.1135A>G (p.Asn379Asp)	4548	MTR	Likely pathogenic	GRCh38	864093
+single nucleotide variant	NM_000254.3(MTR):c.2305-1G>T	4548	MTR	Likely pathogenic	GRCh38	854532
+single nucleotide variant	NM_000254.3(MTR):c.610-1G>T	4548	MTR	Pathogenic	GRCh38	931542
+single nucleotide variant	NM_000254.3(MTR):c.2474-1G>C	4548	MTR	Pathogenic	GRCh38	930329
+single nucleotide variant	NM_000254.3(MTR):c.3008-4A>G	4548	MTR	Likely pathogenic	GRCh38	968857
+single nucleotide variant	NM_000254.3(MTR):c.2405+1G>A	4548	MTR	Pathogenic	GRCh38	973489
+single nucleotide variant	NM_000254.3(MTR):c.2473+3A>G	4548	MTR	Pathogenic	GRCh38	973490
+single nucleotide variant	NM_000254.3(MTR):c.609+1088G>A	4548	MTR	Pathogenic	GRCh38	1048517
+single nucleotide variant	NM_000254.3(MTR):c.1771C>T (p.Arg591Ter)	4548	MTR	Pathogenic	GRCh38	1331535
+single nucleotide variant	NM_000254.3(MTR):c.2595-2A>G	4548	MTR	Likely pathogenic	GRCh38	1335818
+single nucleotide variant	NM_000254.3(MTR):c.2404C>T (p.Arg802Ter)	4548	MTR	Pathogenic/Likely pathogenic	GRCh38	1339164
+single nucleotide variant	NM_000254.3(MTR):c.1812+1G>A	4548	MTR	Likely pathogenic	GRCh38	1341945
+single nucleotide variant	NM_000254.3(MTR):c.1188+1G>A	4548	MTR	Likely pathogenic	GRCh38	1468855
+single nucleotide variant	NM_000254.3(MTR):c.2021G>A (p.Arg674His)	4548	MTR	Likely pathogenic	GRCh38	1362256
+single nucleotide variant	NM_000254.3(MTR):c.2851+2T>G	4548	MTR	Likely pathogenic	GRCh38	1487181
+single nucleotide variant	NM_000254.3(MTR):c.1330-2A>T	4548	MTR	Pathogenic	GRCh38	2093880
+single nucleotide variant	NM_000254.3(MTR):c.2474A>G (p.Asp825Gly)	4548	MTR	Likely pathogenic	GRCh38	2635363
+single nucleotide variant	NM_000254.3(MTR):c.3570G>A (p.Trp1190Ter)	4548	MTR	Pathogenic	GRCh38	2693476
+single nucleotide variant	NM_000254.3(MTR):c.313C>T (p.Gln105Ter)	4548	MTR	Pathogenic	GRCh38	2696262
+single nucleotide variant	NM_000254.3(MTR):c.1636G>T (p.Gly546Ter)	4548	MTR	Pathogenic	GRCh38	2697612
+single nucleotide variant	NM_000254.3(MTR):c.3007+1G>C	4548	MTR	Likely pathogenic	GRCh38	2699438
+single nucleotide variant	NM_000254.3(MTR):c.2775+1G>T	4548	MTR	Likely pathogenic	GRCh38	2709054
+single nucleotide variant	NM_000254.3(MTR):c.866-2A>C	4548	MTR	Pathogenic/Likely pathogenic	GRCh38	2734112
+single nucleotide variant	NM_000254.3(MTR):c.2305-2A>G	4548	MTR	Likely pathogenic	GRCh38	2734114
+single nucleotide variant	NM_000254.3(MTR):c.2087T>G (p.Leu696Ter)	4548	MTR	Pathogenic	GRCh38	2753126
+single nucleotide variant	NM_000254.3(MTR):c.1954-12A>G	4548	MTR	Likely pathogenic	GRCh38	2776391
+single nucleotide variant	NM_000254.3(MTR):c.1515+2T>C	4548	MTR	Likely pathogenic	GRCh38	2793335
+single nucleotide variant	NM_000254.3(MTR):c.3571A>T (p.Arg1191Ter)	4548	MTR	Pathogenic	GRCh38	2825528
+single nucleotide variant	NM_000254.3(MTR):c.2044-1G>A	4548	MTR	Likely pathogenic	GRCh38	2822997
+single nucleotide variant	NM_000254.3(MTR):c.927+1G>A	4548	MTR	Likely pathogenic	GRCh38	2836586
+single nucleotide variant	NM_000254.3(MTR):c.3406-2A>G	4548	MTR	Likely pathogenic	GRCh38	2860391
+single nucleotide variant	NM_000254.3(MTR):c.503-2A>G	4548	MTR	Likely pathogenic	GRCh38	2862025
+single nucleotide variant	NM_000254.3(MTR):c.34+2T>C	4548	MTR	Likely pathogenic	GRCh38	2900379
+single nucleotide variant	NM_000254.3(MTR):c.3008-2A>G	4548	MTR	Likely pathogenic	GRCh38	2972254
+single nucleotide variant	NM_000254.3(MTR):c.154C>T (p.Arg52Ter)	4548	MTR	Pathogenic	GRCh38	2982725
+single nucleotide variant	NM_000254.3(MTR):c.2406-2A>T	4548	MTR	Likely pathogenic	GRCh38	2983703
+single nucleotide variant	NM_000254.3(MTR):c.2752C>T (p.Gln918Ter)	4548	MTR	Pathogenic	GRCh38	3011237
+single nucleotide variant	NM_000254.3(MTR):c.2406-1G>A	4548	MTR	Likely pathogenic	GRCh38	3065323
+single nucleotide variant	NM_000254.3(MTR):c.3007+1G>A	4548	MTR	Likely pathogenic	GRCh38	3384927
+single nucleotide variant	NM_000254.3(MTR):c.1231C>T (p.Gln411Ter)	4548	MTR	Likely pathogenic	GRCh38	3581626
+single nucleotide variant	NM_000254.3(MTR):c.1513C>T (p.Gln505Ter)	4548	MTR	Likely pathogenic	GRCh38	3581635
+single nucleotide variant	NM_000254.3(MTR):c.1695+2T>A	4548	MTR	Likely pathogenic	GRCh38	3581642
+single nucleotide variant	NM_000254.3(MTR):c.3712-1G>A	4548	MTR	Likely pathogenic	GRCh38	3581670
+single nucleotide variant	NM_000254.3(MTR):c.1379T>A (p.Leu460Ter)	4548	MTR	Pathogenic	GRCh38	3623490
+single nucleotide variant	NM_000254.3(MTR):c.2406-2A>G	4548	MTR	Likely pathogenic	GRCh38	3644574
+single nucleotide variant	NM_000254.3(MTR):c.2925G>T (p.Trp975Cys)	4548	MTR	Pathogenic	GRCh38	4687883
+single nucleotide variant	NM_000254.3(MTR):c.2107C>T (p.Arg703Ter)	4548	MTR	Pathogenic	GRCh38	4709481
+single nucleotide variant	NM_000254.3(MTR):c.891T>A (p.Tyr297Ter)	4548	MTR	Pathogenic	GRCh38	4716989
+single nucleotide variant	NM_000254.3(MTR):c.994A>G (p.Arg332Gly)	4548	MTR	Pathogenic	GRCh38	4755414
+single nucleotide variant	NM_000254.3(MTR):c.3322G>T (p.Glu1108Ter)	4548	MTR	Likely pathogenic	GRCh38	4881640
+single nucleotide variant	NM_000254.3(MTR):c.2789T>G (p.Leu930Ter)	4548	MTR	Likely pathogenic	GRCh38	4881737

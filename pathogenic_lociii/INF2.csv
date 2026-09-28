@@ -1,0 +1,58 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_022489.4(INF2):c.556T>C (p.Ser186Pro)	64423	INF2	Pathogenic	GRCh38	1050
+single nucleotide variant	NM_022489.4(INF2):c.653G>A (p.Arg218Gln)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	1051
+single nucleotide variant	NM_022489.4(INF2):c.652C>T (p.Arg218Trp)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	1052
+single nucleotide variant	NM_022489.4(INF2):c.641G>A (p.Arg214His)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	1053
+single nucleotide variant	NM_022489.4(INF2):c.125T>C (p.Leu42Pro)	64423	INF2	Pathogenic	GRCh38	1054
+single nucleotide variant	NM_022489.4(INF2):c.311G>T (p.Cys104Phe)	64423	INF2	Pathogenic	GRCh38	30865
+single nucleotide variant	NM_022489.4(INF2):c.312C>G (p.Cys104Trp)	64423	INF2	Pathogenic	GRCh38	30866
+single nucleotide variant	NM_022489.4(INF2):c.383T>C (p.Leu128Pro)	64423	INF2	Pathogenic	GRCh38	30867
+single nucleotide variant	NM_022489.4(INF2):c.395T>G (p.Leu132Arg)	64423	INF2	Pathogenic	GRCh38	30868
+single nucleotide variant	NM_022489.4(INF2):c.326T>G (p.Met109Arg)	64423	INF2	Likely pathogenic	GRCh38	447578
+single nucleotide variant	NM_022489.4(INF2):c.148T>G (p.Tyr50Asp)	64423	INF2	Pathogenic	GRCh38	472837
+single nucleotide variant	NM_022489.4(INF2):c.218G>T (p.Gly73Val)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	472842
+single nucleotide variant	NM_022489.4(INF2):c.314T>A (p.Val105Glu)	64423	INF2	Pathogenic	GRCh38	472835
+single nucleotide variant	NM_022489.4(INF2):c.658G>A (p.Glu220Lys)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	523533
+single nucleotide variant	NM_022489.4(INF2):c.530G>C (p.Arg177Pro)	64423	INF2	Likely pathogenic	GRCh38	562270
+single nucleotide variant	NM_022489.4(INF2):c.452G>A (p.Cys151Tyr)	64423	INF2	Likely pathogenic	GRCh38	562291
+single nucleotide variant	NM_022489.4(INF2):c.89T>G (p.Leu30Arg)	64423	INF2	Likely pathogenic	GRCh38	562378
+single nucleotide variant	NM_022489.4(INF2):c.254C>T (p.Ser85Leu)	64423	INF2	Likely pathogenic	GRCh38	562381
+single nucleotide variant	NM_022489.4(INF2):c.530G>A (p.Arg177His)	64423	INF2	Pathogenic	GRCh38	562407
+single nucleotide variant	NM_022489.4(INF2):c.217G>A (p.Gly73Ser)	64423	INF2	Pathogenic	GRCh38	599131
+single nucleotide variant	NM_022489.4(INF2):c.550G>A (p.Glu184Lys)	64423	INF2	Pathogenic	GRCh38	599128
+single nucleotide variant	NM_022489.4(INF2):c.311G>A (p.Cys104Tyr)	64423	INF2	Likely pathogenic	GRCh38	617764
+single nucleotide variant	NM_022489.4(INF2):c.640C>T (p.Arg214Cys)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	635443
+single nucleotide variant	NM_022489.4(INF2):c.170T>C (p.Leu57Pro)	64423	INF2	Pathogenic	GRCh38	637700
+single nucleotide variant	NM_022489.4(INF2):c.203T>C (p.Phe68Ser)	64423	INF2	Likely pathogenic	GRCh38	637709
+single nucleotide variant	NM_022489.4(INF2):c.206T>C (p.Leu69Pro)	64423	INF2	Likely pathogenic	GRCh38	637710
+single nucleotide variant	NM_022489.4(INF2):c.230T>C (p.Leu77Pro)	64423	INF2	Pathogenic	GRCh38	637707
+single nucleotide variant	NM_022489.4(INF2):c.230T>G (p.Leu77Arg)	64423	INF2	Likely pathogenic	GRCh38	637705
+single nucleotide variant	NM_022489.4(INF2):c.317G>C (p.Arg106Pro)	64423	INF2	Likely pathogenic	GRCh38	637701
+single nucleotide variant	NM_022489.4(INF2):c.323T>A (p.Val108Asp)	64423	INF2	Pathogenic	GRCh38	637711
+single nucleotide variant	NM_022489.4(INF2):c.341G>A (p.Gly114Asp)	64423	INF2	Pathogenic	GRCh38	637704
+single nucleotide variant	NM_022489.4(INF2):c.395T>C (p.Leu132Pro)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	637706
+single nucleotide variant	NM_022489.4(INF2):c.529C>T (p.Arg177Cys)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	807433
+single nucleotide variant	NM_022489.4(INF2):c.167G>A (p.Arg56His)	64423	INF2	Likely pathogenic	GRCh38	827825
+single nucleotide variant	NM_022489.4(INF2):c.254C>G (p.Ser85Trp)	64423	INF2	Pathogenic	GRCh38	829855
+single nucleotide variant	NM_022489.4(INF2):c.271C>G (p.Arg91Gly)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	841546
+single nucleotide variant	NM_022489.4(INF2):c.161G>C (p.Arg54Pro)	64423	INF2	Likely pathogenic	GRCh38	981952
+single nucleotide variant	NM_022489.4(INF2):c.1735+1G>A	64423	INF2	Likely pathogenic	GRCh38	1179196
+single nucleotide variant	NM_022489.4(INF2):c.485T>C (p.Leu162Pro)	64423	INF2	Likely pathogenic	GRCh38	1184454
+single nucleotide variant	NM_022489.4(INF2):c.542T>G (p.Val181Gly)	64423	INF2	Pathogenic	GRCh38	1344641
+single nucleotide variant	NM_022489.4(INF2):c.353T>A (p.Ile118Asn)	64423	INF2	Likely pathogenic	GRCh38	1344668
+single nucleotide variant	NM_022489.4(INF2):c.532T>G (p.Phe178Val)	64423	INF2	Likely pathogenic	GRCh38	1344689
+single nucleotide variant	NM_022489.4(INF2):c.470G>A (p.Gly157Asp)	64423	INF2	Likely pathogenic	GRCh38	1518638
+single nucleotide variant	NM_022489.4(INF2):c.451T>C (p.Cys151Arg)	64423	INF2	Likely pathogenic	GRCh38	1712412
+single nucleotide variant	NM_022489.4(INF2):c.218G>A (p.Gly73Asp)	64423	INF2	Pathogenic/Likely pathogenic	GRCh38	1999164
+single nucleotide variant	NM_022489.4(INF2):c.604A>G (p.Asn202Asp)	64423	INF2	Likely pathogenic	GRCh38	2572531
+single nucleotide variant	NM_022489.4(INF2):c.158T>C (p.Leu53Pro)	64423	INF2	Pathogenic	GRCh38	2575974
+single nucleotide variant	NM_022489.4(INF2):c.698T>C (p.Leu233Pro)	64423	INF2	Likely pathogenic	GRCh38	3031506
+single nucleotide variant	NM_022489.4(INF2):c.640C>G (p.Arg214Gly)	64423	INF2	Likely pathogenic	GRCh38	3066336
+single nucleotide variant	NM_022489.4(INF2):c.137C>G (p.Ser46Cys)	64423	INF2	Likely pathogenic	GRCh38	3236024
+single nucleotide variant	NM_022489.4(INF2):c.641G>T (p.Arg214Leu)	64423	INF2	Likely pathogenic	GRCh38	3576431
+single nucleotide variant	NM_022489.4(INF2):c.481A>C (p.Thr161Pro)	64423	INF2	Likely pathogenic	GRCh38	3894538
+single nucleotide variant	NM_022489.4(INF2):c.529C>G (p.Arg177Gly)	64423	INF2	Likely pathogenic	GRCh38	4531467
+single nucleotide variant	NM_022489.4(INF2):c.604A>C (p.Asn202His)	64423	INF2	Likely pathogenic	GRCh38	4531468
+single nucleotide variant	NM_022489.4(INF2):c.157C>A (p.Leu53Met)	64423	INF2	Likely pathogenic	GRCh38	4849217
+single nucleotide variant	NM_022489.4(INF2):c.233T>C (p.Leu78Pro)	64423	INF2	Likely pathogenic	GRCh38	4849985
+single nucleotide variant	NM_022489.4(INF2):c.763G>A (p.Asp255Asn)	64423	INF2	Likely pathogenic	GRCh38	4879859

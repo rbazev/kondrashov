@@ -1,0 +1,73 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001080467.3(MYO5B):c.323T>G (p.Val108Gly)	4645	MYO5B	Pathogenic	GRCh38	4249
+single nucleotide variant	NM_001080467.3(MYO5B):c.1125G>A (p.Trp375Ter)	4645	MYO5B	Pathogenic	GRCh38	4250
+single nucleotide variant	NM_001080467.3(MYO5B):c.1979C>T (p.Pro660Leu)	4645	MYO5B	Pathogenic	GRCh38	4252
+single nucleotide variant	NM_001080467.3(MYO5B):c.3276+5G>A	4645	MYO5B	Likely pathogenic	GRCh38	180213
+single nucleotide variant	NM_001080467.3(MYO5B):c.2003+2T>A	4645	MYO5B	Likely pathogenic	GRCh38	180212
+single nucleotide variant	NM_001080467.3(MYO5B):c.1202G>A (p.Arg401His)	4645	MYO5B	Likely pathogenic	GRCh38	432010
+single nucleotide variant	NM_001080467.3(MYO5B):c.5313+1G>C	4645	MYO5B	Likely pathogenic	GRCh38	488386
+single nucleotide variant	NM_001080467.3(MYO5B):c.4611+2T>C	4645	MYO5B	Likely pathogenic	GRCh38	632299
+single nucleotide variant	NM_001080467.3(MYO5B):c.656G>A (p.Arg219His)	4645	MYO5B	Pathogenic/Likely pathogenic	GRCh38	803491
+single nucleotide variant	NM_001080467.3(MYO5B):c.3046C>T (p.Arg1016Ter)	4645	MYO5B	Pathogenic	GRCh38	2138152
+single nucleotide variant	NM_001080467.3(MYO5B):c.2395C>T (p.Arg799Trp)	4645	MYO5B	Pathogenic	GRCh38	1686943
+single nucleotide variant	NM_001080467.3(MYO5B):c.3277-2A>G	4645	MYO5B	Pathogenic/Likely pathogenic	GRCh38	973894
+single nucleotide variant	NM_001080467.3(MYO5B):c.947G>T (p.Gly316Val)	4645	MYO5B	Pathogenic/Likely pathogenic	GRCh38	986347
+single nucleotide variant	NM_001080467.3(MYO5B):c.4036C>T (p.Gln1346Ter)	4645	MYO5B	Pathogenic	GRCh38	3255321
+single nucleotide variant	NM_001080467.3(MYO5B):c.2641C>T (p.Gln881Ter)	4645	MYO5B	Pathogenic	GRCh38	1031041
+single nucleotide variant	NM_001080467.3(MYO5B):c.1387C>T (p.Gln463Ter)	4645	MYO5B	Pathogenic	GRCh38	3661908
+single nucleotide variant	NM_001080467.3(MYO5B):c.4126C>T (p.Gln1376Ter)	4645	MYO5B	Pathogenic	GRCh38	1073731
+single nucleotide variant	NM_001080467.3(MYO5B):c.2090+3A>T	4645	MYO5B	Likely pathogenic	GRCh38	1184992
+single nucleotide variant	NM_001080467.3(MYO5B):c.2062C>T (p.Arg688Ter)	4645	MYO5B	Pathogenic	GRCh38	1301570
+single nucleotide variant	NM_001080467.3(MYO5B):c.311-1G>C	4645	MYO5B	Likely pathogenic	GRCh38	1339136
+single nucleotide variant	NM_001080467.3(MYO5B):c.3961G>T (p.Gly1321Ter)	4645	MYO5B	Pathogenic	GRCh38	1358635
+single nucleotide variant	NM_001080467.3(MYO5B):c.5383C>T (p.Arg1795Ter)	4645	MYO5B	Likely pathogenic	GRCh38	1386055
+single nucleotide variant	NM_001080467.3(MYO5B):c.3873G>A (p.Trp1291Ter)	4645	MYO5B	Pathogenic	GRCh38	1419232
+single nucleotide variant	NM_001080467.3(MYO5B):c.1087C>T (p.Arg363Ter)	4645	MYO5B	Pathogenic	GRCh38	1454816
+single nucleotide variant	NM_001080467.3(MYO5B):c.3396+1G>A	4645	MYO5B	Likely pathogenic	GRCh38	1512169
+single nucleotide variant	NM_001080467.3(MYO5B):c.3190C>T (p.Arg1064Ter)	4645	MYO5B	Pathogenic	GRCh38	1389337
+single nucleotide variant	NM_001080467.3(MYO5B):c.4090C>T (p.Gln1364Ter)	4645	MYO5B	Pathogenic	GRCh38	1679140
+single nucleotide variant	NM_001080467.3(MYO5B):c.274C>T (p.Arg92Cys)	4645	MYO5B	Pathogenic	GRCh38	1686942
+single nucleotide variant	NM_001080467.3(MYO5B):c.2414+5G>T	4645	MYO5B	Pathogenic	GRCh38	1686944
+single nucleotide variant	NM_001080467.3(MYO5B):c.356A>G (p.Tyr119Cys)	4645	MYO5B	Pathogenic	GRCh38	1686945
+single nucleotide variant	NM_001080467.3(MYO5B):c.1222A>T (p.Ile408Phe)	4645	MYO5B	Pathogenic	GRCh38	1686951
+single nucleotide variant	NM_001080467.3(MYO5B):c.1582C>T (p.Leu528Phe)	4645	MYO5B	Pathogenic	GRCh38	1686952
+single nucleotide variant	NM_001080467.3(MYO5B):c.4028T>C (p.Leu1343Pro)	4645	MYO5B	Likely pathogenic	GRCh38	1686954
+single nucleotide variant	NM_001080467.3(MYO5B):c.1489A>T (p.Ile497Phe)	4645	MYO5B	Pathogenic	GRCh38	1686955
+single nucleotide variant	NM_001080467.3(MYO5B):c.1720G>T (p.Glu574Ter)	4645	MYO5B	Pathogenic	GRCh38	1686956
+single nucleotide variant	NM_001080467.3(MYO5B):c.3538-1G>A	4645	MYO5B	Pathogenic	GRCh38	1686957
+single nucleotide variant	NM_001080467.3(MYO5B):c.1021C>T (p.Gln341Ter)	4645	MYO5B	Pathogenic	GRCh38	1686959
+single nucleotide variant	NM_001080467.3(MYO5B):c.28-2A>G	4645	MYO5B	Pathogenic	GRCh38	1686963
+single nucleotide variant	NM_001080467.3(MYO5B):c.4366C>T (p.Gln1456Ter)	4645	MYO5B	Pathogenic	GRCh38	1686964
+single nucleotide variant	NM_001080467.3(MYO5B):c.4460-1G>C	4645	MYO5B	Pathogenic	GRCh38	1686965
+single nucleotide variant	NM_001080467.3(MYO5B):c.1540T>C (p.Cys514Arg)	4645	MYO5B	Pathogenic	GRCh38	1686966
+single nucleotide variant	NM_001080467.3(MYO5B):c.4168C>T (p.Gln1390Ter)	4645	MYO5B	Pathogenic	GRCh38	2152298
+single nucleotide variant	NM_001080467.3(MYO5B):c.3823C>T (p.Arg1275Ter)	4645	MYO5B	Pathogenic	GRCh38	1974743
+single nucleotide variant	NM_001080467.3(MYO5B):c.2977C>T (p.Gln993Ter)	4645	MYO5B	Pathogenic	GRCh38	2110854
+single nucleotide variant	NM_001080467.3(MYO5B):c.1576C>T (p.Gln526Ter)	4645	MYO5B	Pathogenic/Likely pathogenic	GRCh38	2577762
+single nucleotide variant	NM_001080467.3(MYO5B):c.557C>A (p.Ser186Ter)	4645	MYO5B	Pathogenic	GRCh38	2736726
+single nucleotide variant	NM_001080467.3(MYO5B):c.2017A>T (p.Arg673Ter)	4645	MYO5B	Pathogenic	GRCh38	2756206
+single nucleotide variant	NM_001080467.3(MYO5B):c.1323-2A>C	4645	MYO5B	Pathogenic	GRCh38	2748563
+single nucleotide variant	NM_001080467.3(MYO5B):c.1906-2A>C	4645	MYO5B	Likely pathogenic	GRCh38	2812142
+single nucleotide variant	NM_001080467.3(MYO5B):c.244G>A (p.Glu82Lys)	4645	MYO5B	Pathogenic/Likely pathogenic	GRCh38	2910446
+single nucleotide variant	NM_001080467.3(MYO5B):c.3046-1G>T	4645	MYO5B	Likely pathogenic	GRCh38	2998191
+single nucleotide variant	NM_001080467.3(MYO5B):c.3202C>T (p.Gln1068Ter)	4645	MYO5B	Likely pathogenic	GRCh38	3068211
+single nucleotide variant	NM_001080467.3(MYO5B):c.4082T>C (p.Leu1361Pro)	4645	MYO5B	Likely pathogenic	GRCh38	3255320
+single nucleotide variant	NM_001080467.3(MYO5B):c.1906-1G>A	4645	MYO5B	Pathogenic	GRCh38	3255322
+single nucleotide variant	NM_001080467.3(MYO5B):c.1744G>C (p.Ala582Pro)	4645	MYO5B	Likely pathogenic	GRCh38	3255323
+single nucleotide variant	NM_001080467.3(MYO5B):c.1648A>T (p.Ile550Phe)	4645	MYO5B	Likely pathogenic	GRCh38	3255324
+single nucleotide variant	NM_001080467.3(MYO5B):c.1613T>C (p.Phe538Ser)	4645	MYO5B	Likely pathogenic	GRCh38	3255325
+single nucleotide variant	NM_001080467.3(MYO5B):c.487G>A (p.Gly163Arg)	4645	MYO5B	Likely pathogenic	GRCh38	3255327
+single nucleotide variant	NM_001080467.3(MYO5B):c.4852+3A>T	4645	MYO5B	Likely pathogenic	GRCh38	3255352
+single nucleotide variant	NM_001080467.3(MYO5B):c.3537+2T>G	4645	MYO5B	Likely pathogenic	GRCh38	3346106
+single nucleotide variant	NM_001080467.3(MYO5B):c.1455G>A (p.Trp485Ter)	4645	MYO5B	Pathogenic	GRCh38	3389376
+single nucleotide variant	NM_001080467.3(MYO5B):c.2811+2T>C	4645	MYO5B	Likely pathogenic	GRCh38	3605965
+single nucleotide variant	NM_001080467.3(MYO5B):c.757-2A>T	4645	MYO5B	Likely pathogenic	GRCh38	3648709
+single nucleotide variant	NM_001080467.3(MYO5B):c.612+1G>T	4645	MYO5B	Likely pathogenic	GRCh38	3686833
+single nucleotide variant	NM_001080467.3(MYO5B):c.2245C>T (p.Arg749Ter)	4645	MYO5B	Pathogenic	GRCh38	3723137
+single nucleotide variant	NM_001080467.3(MYO5B):c.2812-2A>G	4645	MYO5B	Likely pathogenic	GRCh38	3717168
+single nucleotide variant	NM_001080467.3(MYO5B):c.1175T>C (p.Met392Thr)	4645	MYO5B	Likely pathogenic	GRCh38	4074745
+single nucleotide variant	NM_001080467.3(MYO5B):c.1411T>C (p.Phe471Leu)	4645	MYO5B	Pathogenic	GRCh38	4277796
+single nucleotide variant	NM_001080467.3(MYO5B):c.1906-1G>T	4645	MYO5B	Pathogenic	GRCh38	4730989
+single nucleotide variant	NM_001080467.3(MYO5B):c.4611+1G>A	4645	MYO5B	Likely pathogenic	GRCh38	4763840
+single nucleotide variant	NM_001080467.3(MYO5B):c.3537+1G>T	4645	MYO5B	Pathogenic	GRCh38	4852936
+single nucleotide variant	NM_001080467.3(MYO5B):c.3959G>A (p.Trp1320Ter)	4645	MYO5B	Likely pathogenic	GRCh38	4856205

@@ -1,0 +1,123 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000023.4(SGCA):c.293G>A (p.Arg98His)	6442	SGCA	Pathogenic	GRCh38	9435
+single nucleotide variant	NM_000023.4(SGCA):c.524T>C (p.Val175Ala)	6442	SGCA	Pathogenic	GRCh38	9436
+single nucleotide variant	NM_000023.4(SGCA):c.229C>T (p.Arg77Cys)	6442	SGCA	Pathogenic	GRCh38	9437
+single nucleotide variant	NM_000023.4(SGCA):c.410A>G (p.Glu137Gly)	6442	SGCA	Pathogenic	GRCh38	9438
+single nucleotide variant	NM_000023.4(SGCA):c.850C>T (p.Arg284Cys)	6442	SGCA	Pathogenic	GRCh38	9439
+single nucleotide variant	NM_000023.4(SGCA):c.574C>T (p.Arg192Ter)	6442	SGCA	Pathogenic	GRCh38	37202
+single nucleotide variant	NM_000023.4(SGCA):c.101G>A (p.Arg34His)	6442	SGCA	Likely pathogenic	GRCh38	92301
+single nucleotide variant	NM_000023.4(SGCA):c.241C>T (p.Arg81Cys)	6442	SGCA	Likely pathogenic	GRCh38	92302
+single nucleotide variant	NM_000023.4(SGCA):c.739G>A (p.Val247Met)	6442	SGCA	Pathogenic	GRCh38	167677
+single nucleotide variant	NM_000023.4(SGCA):c.220C>T (p.Arg74Trp)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	188811
+single nucleotide variant	NM_000023.4(SGCA):c.371T>C (p.Ile124Thr)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	188733
+single nucleotide variant	NM_000023.4(SGCA):c.320C>T (p.Ala107Val)	6442	SGCA	Likely pathogenic	GRCh38	197094
+single nucleotide variant	NM_000023.4(SGCA):c.700G>A (p.Asp234Asn)	6442	SGCA	Likely pathogenic	GRCh38	198031
+single nucleotide variant	NM_000023.4(SGCA):c.100C>T (p.Arg34Cys)	6442	SGCA	Likely pathogenic	GRCh38	217250
+single nucleotide variant	NM_000023.4(SGCA):c.518T>C (p.Leu173Pro)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	281027
+single nucleotide variant	NM_000023.4(SGCA):c.37+6T>C	6442	SGCA	Pathogenic	GRCh38	281148
+single nucleotide variant	NM_000023.4(SGCA):c.307A>G (p.Ile103Val)	6442	SGCA	Pathogenic	GRCh38	284685
+single nucleotide variant	NM_000023.4(SGCA):c.292C>T (p.Arg98Cys)	6442	SGCA	Pathogenic	GRCh38	284708
+single nucleotide variant	NM_000023.4(SGCA):c.402C>G (p.Tyr134Ter)	6442	SGCA	Pathogenic	GRCh38	284945
+single nucleotide variant	NM_000023.4(SGCA):c.403C>T (p.Gln135Ter)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	285818
+single nucleotide variant	NM_000023.4(SGCA):c.586G>A (p.Val196Ile)	6442	SGCA	Likely pathogenic	GRCh38	285980
+single nucleotide variant	NM_000023.4(SGCA):c.197T>A (p.Leu66His)	6442	SGCA	Likely pathogenic	GRCh38	286025
+single nucleotide variant	NM_000023.4(SGCA):c.409G>A (p.Glu137Lys)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	286049
+single nucleotide variant	NM_000023.4(SGCA):c.747+1G>A	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	286436
+single nucleotide variant	NM_000023.4(SGCA):c.614C>A (p.Pro205His)	6442	SGCA	Likely pathogenic	GRCh38	289794
+single nucleotide variant	NM_000023.4(SGCA):c.158-2A>G	6442	SGCA	Likely pathogenic	GRCh38	370189
+single nucleotide variant	NM_000023.4(SGCA):c.313-2A>G	6442	SGCA	Pathogenic	GRCh38	370642
+single nucleotide variant	NM_000023.4(SGCA):c.511C>T (p.Gln171Ter)	6442	SGCA	Likely pathogenic	GRCh38	370112
+single nucleotide variant	NM_000023.4(SGCA):c.580G>T (p.Glu194Ter)	6442	SGCA	Likely pathogenic	GRCh38	370656
+single nucleotide variant	NM_000023.4(SGCA):c.226C>T (p.Leu76Phe)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	432007
+single nucleotide variant	NM_000023.4(SGCA):c.209C>G (p.Pro70Arg)	6442	SGCA	Likely pathogenic	GRCh38	436698
+single nucleotide variant	NM_000023.4(SGCA):c.585-1G>C	6442	SGCA	Pathogenic	GRCh38	449294
+single nucleotide variant	NM_000023.4(SGCA):c.661C>T (p.Arg221Cys)	6442	SGCA	Likely pathogenic	GRCh38	452720
+single nucleotide variant	NM_000023.4(SGCA):c.724G>T (p.Val242Phe)	6442	SGCA	Pathogenic	GRCh38	471337
+single nucleotide variant	NM_000023.4(SGCA):c.88C>T (p.Pro30Ser)	6442	SGCA	Likely pathogenic	GRCh38	471339
+single nucleotide variant	NM_000023.4(SGCA):c.662G>C (p.Arg221Pro)	6442	SGCA	Likely pathogenic	GRCh38	497670
+single nucleotide variant	NM_000023.4(SGCA):c.585-1G>A	6442	SGCA	Pathogenic	GRCh38	497672
+single nucleotide variant	NM_000023.4(SGCA):c.502G>A (p.Gly168Arg)	6442	SGCA	Likely pathogenic	GRCh38	498275
+single nucleotide variant	NM_000023.4(SGCA):c.37+2C>G	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	501790
+single nucleotide variant	NM_000023.4(SGCA):c.748-2A>T	6442	SGCA	Likely pathogenic	GRCh38	553104
+single nucleotide variant	NM_000023.4(SGCA):c.949G>T (p.Glu317Ter)	6442	SGCA	Likely pathogenic	GRCh38	556209
+single nucleotide variant	NM_000023.4(SGCA):c.92T>C (p.Leu31Pro)	6442	SGCA	Pathogenic	GRCh38	550333
+single nucleotide variant	NM_000023.4(SGCA):c.585-2A>T	6442	SGCA	Likely pathogenic	GRCh38	550629
+single nucleotide variant	NM_000023.4(SGCA):c.1054G>T (p.Glu352Ter)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	550601
+single nucleotide variant	NM_000023.4(SGCA):c.290A>G (p.Asp97Gly)	6442	SGCA	Likely pathogenic	GRCh38	549996
+single nucleotide variant	NM_000023.4(SGCA):c.308T>C (p.Ile103Thr)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	556014
+single nucleotide variant	NM_000023.4(SGCA):c.292C>G (p.Arg98Gly)	6442	SGCA	Pathogenic	GRCh38	581745
+single nucleotide variant	NM_000023.4(SGCA):c.186C>G (p.Tyr62Ter)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	582221
+single nucleotide variant	NM_000023.4(SGCA):c.585-2A>C	6442	SGCA	Pathogenic	GRCh38	573660
+single nucleotide variant	NM_000023.4(SGCA):c.676C>T (p.Gln226Ter)	6442	SGCA	Pathogenic	GRCh38	597232
+single nucleotide variant	NM_000023.4(SGCA):c.86A>T (p.His29Leu)	6442	SGCA	Likely pathogenic	GRCh38	617535
+single nucleotide variant	NM_000023.4(SGCA):c.265C>T (p.Leu89Phe)	6442	SGCA	Likely pathogenic	GRCh38	659203
+single nucleotide variant	NM_000023.4(SGCA):c.246C>A (p.Ser82Arg)	6442	SGCA	Likely pathogenic	GRCh38	813953
+single nucleotide variant	NM_000023.4(SGCA):c.905T>G (p.Leu302Arg)	6442	SGCA	Pathogenic	GRCh38	857216
+single nucleotide variant	NM_000023.4(SGCA):c.157+1G>A	6442	SGCA	Pathogenic	GRCh38	847344
+single nucleotide variant	NM_000023.4(SGCA):c.289G>C (p.Asp97His)	6442	SGCA	Likely pathogenic	GRCh38	949691
+single nucleotide variant	NM_000023.4(SGCA):c.957-11C>G	6442	SGCA	Likely pathogenic	GRCh38	978048
+single nucleotide variant	NM_000023.4(SGCA):c.577A>T (p.Lys193Ter)	6442	SGCA	Likely pathogenic	GRCh38	988362
+single nucleotide variant	NM_000023.4(SGCA):c.203G>A (p.Gly68Glu)	6442	SGCA	Likely pathogenic	GRCh38	1052453
+single nucleotide variant	NM_000023.4(SGCA):c.695G>A (p.Cys232Tyr)	6442	SGCA	Likely pathogenic	GRCh38	1052005
+single nucleotide variant	NM_000023.4(SGCA):c.37+1G>C	6442	SGCA	Likely pathogenic	GRCh38	1066846
+single nucleotide variant	NM_000023.4(SGCA):c.957-1G>T	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	1066710
+single nucleotide variant	NM_000023.4(SGCA):c.70C>T (p.Gln24Ter)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	1068521
+single nucleotide variant	NM_000023.4(SGCA):c.402C>A (p.Tyr134Ter)	6442	SGCA	Pathogenic	GRCh38	1068550
+single nucleotide variant	NM_000023.4(SGCA):c.113A>G (p.His38Arg)	6442	SGCA	Likely pathogenic	GRCh38	1180730
+single nucleotide variant	NM_000023.4(SGCA):c.184T>C (p.Tyr62His)	6442	SGCA	Likely pathogenic	GRCh38	1180668
+single nucleotide variant	NM_000023.4(SGCA):c.643T>C (p.Ser215Pro)	6442	SGCA	Likely pathogenic	GRCh38	1494468
+single nucleotide variant	NM_000023.4(SGCA):c.601G>A (p.Gly201Ser)	6442	SGCA	Likely pathogenic	GRCh38	1507920
+single nucleotide variant	NM_000023.4(SGCA):c.472C>T (p.Leu158Phe)	6442	SGCA	Likely pathogenic	GRCh38	1496488
+single nucleotide variant	NM_000023.4(SGCA):c.747G>T (p.Leu249=)	6442	SGCA	Likely pathogenic	GRCh38	1480012
+single nucleotide variant	NM_000023.4(SGCA):c.828C>A (p.Cys276Ter)	6442	SGCA	Pathogenic	GRCh38	1453960
+single nucleotide variant	NM_000023.4(SGCA):c.241C>A (p.Arg81Ser)	6442	SGCA	Likely pathogenic	GRCh38	1414624
+single nucleotide variant	NM_000023.4(SGCA):c.312+1G>A	6442	SGCA	Likely pathogenic	GRCh38	1347712
+single nucleotide variant	NM_000023.4(SGCA):c.100C>A (p.Arg34Ser)	6442	SGCA	Likely pathogenic	GRCh38	1498501
+single nucleotide variant	NM_000023.4(SGCA):c.221G>C (p.Arg74Pro)	6442	SGCA	Likely pathogenic	GRCh38	1482622
+single nucleotide variant	NM_000023.4(SGCA):c.748G>T (p.Val250Leu)	6442	SGCA	Likely pathogenic	GRCh38	1399796
+single nucleotide variant	NM_000023.4(SGCA):c.238C>T (p.Gln80Ter)	6442	SGCA	Pathogenic	GRCh38	1399916
+single nucleotide variant	NM_000023.4(SGCA):c.602G>A (p.Gly201Asp)	6442	SGCA	Likely pathogenic	GRCh38	1492140
+single nucleotide variant	NM_000023.4(SGCA):c.95T>C (p.Val32Ala)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	1459652
+single nucleotide variant	NM_000023.4(SGCA):c.312+1G>C	6442	SGCA	Likely pathogenic	GRCh38	1486315
+single nucleotide variant	NM_000023.4(SGCA):c.584+1G>A	6442	SGCA	Likely pathogenic	GRCh38	1473051
+single nucleotide variant	NM_000023.4(SGCA):c.956+1G>A	6442	SGCA	Likely pathogenic	GRCh38	1691502
+single nucleotide variant	NM_000023.4(SGCA):c.1A>G (p.Met1Val)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	1705242
+single nucleotide variant	NM_000023.4(SGCA):c.946C>T (p.Arg316Trp)	6442	SGCA	Likely pathogenic	GRCh38	2141344
+single nucleotide variant	NM_000023.4(SGCA):c.271G>A (p.Gly91Ser)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	2198463
+single nucleotide variant	NM_000023.4(SGCA):c.218C>G (p.Pro73Arg)	6442	SGCA	Pathogenic	GRCh38	1967847
+single nucleotide variant	NM_000023.4(SGCA):c.296G>A (p.Gly99Glu)	6442	SGCA	Likely pathogenic	GRCh38	2073759
+single nucleotide variant	NM_000023.4(SGCA):c.269A>G (p.Tyr90Cys)	6442	SGCA	Pathogenic	GRCh38	2429327
+single nucleotide variant	NM_000023.4(SGCA):c.186C>A (p.Tyr62Ter)	6442	SGCA	Likely pathogenic	GRCh38	2583164
+single nucleotide variant	NM_000023.4(SGCA):c.37+1G>A	6442	SGCA	Likely pathogenic	GRCh38	2585416
+single nucleotide variant	NM_000023.4(SGCA):c.699C>G (p.Tyr233Ter)	6442	SGCA	Likely pathogenic	GRCh38	2678663
+single nucleotide variant	NM_000023.4(SGCA):c.386-1G>A	6442	SGCA	Likely pathogenic	GRCh38	2678667
+single nucleotide variant	NM_000023.4(SGCA):c.725T>C (p.Val242Ala)	6442	SGCA	Likely pathogenic	GRCh38	2678671
+single nucleotide variant	NM_000023.4(SGCA):c.37+3A>T	6442	SGCA	Likely pathogenic	GRCh38	2678672
+single nucleotide variant	NM_000023.4(SGCA):c.157+2T>G	6442	SGCA	Likely pathogenic	GRCh38	2678674
+single nucleotide variant	NM_000023.4(SGCA):c.20G>A (p.Trp7Ter)	6442	SGCA	Likely pathogenic	GRCh38	2678676
+single nucleotide variant	NM_000023.4(SGCA):c.194A>C (p.His65Pro)	6442	SGCA	Likely pathogenic	GRCh38	2690696
+single nucleotide variant	NM_000023.4(SGCA):c.584+5G>A	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	2690697
+single nucleotide variant	NM_000023.4(SGCA):c.37+1G>T	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	2707194
+single nucleotide variant	NM_000023.4(SGCA):c.307A>T (p.Ile103Phe)	6442	SGCA	Likely pathogenic	GRCh38	2736614
+single nucleotide variant	NM_000023.4(SGCA):c.329G>T (p.Arg110Leu)	6442	SGCA	Likely pathogenic	GRCh38	2736615
+single nucleotide variant	NM_000023.4(SGCA):c.217C>T (p.Pro73Ser)	6442	SGCA	Likely pathogenic	GRCh38	2862249
+single nucleotide variant	NM_000023.4(SGCA):c.385+1G>T	6442	SGCA	Pathogenic	GRCh38	3240442
+single nucleotide variant	NM_000023.4(SGCA):c.385+2T>C	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	3240444
+single nucleotide variant	NM_000023.4(SGCA):c.270C>G (p.Tyr90Ter)	6442	SGCA	Likely pathogenic	GRCh38	3240445
+single nucleotide variant	NM_000023.4(SGCA):c.409G>T (p.Glu137Ter)	6442	SGCA	Likely pathogenic	GRCh38	3240446
+single nucleotide variant	NM_000023.4(SGCA):c.983+5G>A	6442	SGCA	Likely pathogenic	GRCh38	3240447
+single nucleotide variant	NM_000023.4(SGCA):c.292C>A (p.Arg98Ser)	6442	SGCA	Pathogenic/Likely pathogenic	GRCh38	3384982
+single nucleotide variant	NM_000023.4(SGCA):c.984-2A>G	6442	SGCA	Likely pathogenic	GRCh38	3582316
+single nucleotide variant	NM_000023.4(SGCA):c.157+2T>C	6442	SGCA	Likely pathogenic	GRCh38	3896994
+single nucleotide variant	NM_000023.4(SGCA):c.747+2T>C	6442	SGCA	Likely pathogenic	GRCh38	3899293
+single nucleotide variant	NM_000023.4(SGCA):c.386-2A>G	6442	SGCA	Likely pathogenic	GRCh38	3911845
+single nucleotide variant	NM_000023.4(SGCA):c.732G>A (p.Trp244Ter)	6442	SGCA	Likely pathogenic	GRCh38	4061275
+single nucleotide variant	NM_000023.4(SGCA):c.671A>C (p.Gln224Pro)	6442	SGCA	Likely pathogenic	GRCh38	4077502
+single nucleotide variant	NM_000023.4(SGCA):c.191C>A (p.Ala64Asp)	6442	SGCA	Likely pathogenic	GRCh38	4293792
+single nucleotide variant	NM_000023.4(SGCA):c.665G>A (p.Cys222Tyr)	6442	SGCA	Likely pathogenic	GRCh38	4710396
+single nucleotide variant	NM_000023.4(SGCA):c.385+1G>A	6442	SGCA	Likely pathogenic	GRCh38	4847205
+single nucleotide variant	NM_000023.4(SGCA):c.613C>T (p.Pro205Ser)	6442	SGCA	Pathogenic	GRCh38	4849940
+single nucleotide variant	NM_000023.4(SGCA):c.406G>A (p.Ala136Thr)	6442	SGCA	Likely pathogenic	GRCh38	4852423
+single nucleotide variant	NM_000023.4(SGCA):c.73C>T (p.Gln25Ter)	6442	SGCA	Likely pathogenic	GRCh38	4884192
+single nucleotide variant	NM_000023.4(SGCA):c.1033C>T (p.Arg345Trp)	6442	SGCA	Likely pathogenic	GRCh38	4888646
+single nucleotide variant	NM_000023.4(SGCA):c.584+2T>C	6442	SGCA	Likely pathogenic	GRCh38	4890051

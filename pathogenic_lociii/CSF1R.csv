@@ -1,0 +1,66 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001288705.3(CSF1R):c.2624T>C (p.Met875Thr)	1436	CSF1R	Pathogenic	GRCh38	29810
+single nucleotide variant	NM_001288705.3(CSF1R):c.1897G>A (p.Glu633Lys)	1436	CSF1R	Pathogenic/Likely pathogenic	GRCh38	29811
+single nucleotide variant	NM_001288705.3(CSF1R):c.1754-2A>G	1436	CSF1R	Pathogenic	GRCh38	29812
+single nucleotide variant	NM_001288705.3(CSF1R):c.2381T>C (p.Ile794Thr)	1436	CSF1R	Pathogenic/Likely pathogenic	GRCh38	29813
+single nucleotide variant	NM_001288705.3(CSF1R):c.2509G>T (p.Asp837Tyr)	1436	CSF1R	Pathogenic	GRCh38	29814
+single nucleotide variant	NM_001288705.3(CSF1R):c.1766G>A (p.Gly589Glu)	1436	CSF1R	Pathogenic	GRCh38	38373
+single nucleotide variant	NM_001288705.3(CSF1R):c.2308G>C (p.Ala770Pro)	1436	CSF1R	Pathogenic	GRCh38	38375
+single nucleotide variant	NM_001288705.3(CSF1R):c.2345G>A (p.Arg782His)	1436	CSF1R	Pathogenic/Likely pathogenic	GRCh38	38378
+single nucleotide variant	NM_001288705.3(CSF1R):c.2546T>C (p.Phe849Ser)	1436	CSF1R	Likely pathogenic	GRCh38	3901844
+single nucleotide variant	NM_001288705.3(CSF1R):c.2329C>T (p.Arg777Trp)	1436	CSF1R	Pathogenic	GRCh38	65685
+single nucleotide variant	NM_001288705.3(CSF1R):c.2483T>C (p.Phe828Ser)	1436	CSF1R	Pathogenic	GRCh38	65686
+single nucleotide variant	NM_001288705.3(CSF1R):c.2442+1G>T	1436	CSF1R	Pathogenic	GRCh38	120323
+single nucleotide variant	NM_001288705.3(CSF1R):c.2342C>A (p.Ala781Glu)	1436	CSF1R	Pathogenic	GRCh38	120324
+single nucleotide variant	NM_001288705.3(CSF1R):c.2655-2A>G	1436	CSF1R	Pathogenic	GRCh38	162117
+single nucleotide variant	NM_001288705.3(CSF1R):c.2629C>T (p.Gln877Ter)	1436	CSF1R	Likely pathogenic	GRCh38	162120
+single nucleotide variant	NM_005211.3(CSF1R):c.2467C>T	1436	CSF1R	Pathogenic	GRCh38	162126
+single nucleotide variant	NM_001288705.3(CSF1R):c.2342C>T (p.Ala781Val)	1436	CSF1R	Pathogenic	GRCh38	162118
+single nucleotide variant	NM_001288705.3(CSF1R):c.2330G>A (p.Arg777Gln)	1436	CSF1R	Pathogenic	GRCh38	162111
+single nucleotide variant	NM_001288705.3(CSF1R):c.2450T>A (p.Leu817Gln)	1436	CSF1R	Likely pathogenic	GRCh38	421705
+single nucleotide variant	NM_001288705.3(CSF1R):c.2345G>T (p.Arg782Leu)	1436	CSF1R	Likely pathogenic	GRCh38	425361
+single nucleotide variant	NM_001288705.3(CSF1R):c.1441C>T (p.Gln481Ter)	1436	CSF1R	Pathogenic	GRCh38	520697
+single nucleotide variant	NM_001288705.3(CSF1R):c.2671G>C (p.Ala891Pro)	1436	CSF1R	Likely pathogenic	GRCh38	599607
+single nucleotide variant	NM_001288705.3(CSF1R):c.2326C>T (p.His776Tyr)	1436	CSF1R	Likely pathogenic	GRCh38	599608
+single nucleotide variant	NM_001288705.3(CSF1R):c.1754-1G>C	1436	CSF1R	Pathogenic	GRCh38	635124
+single nucleotide variant	NM_001288705.3(CSF1R):c.2375C>A (p.Ala792Asp)	1436	CSF1R	Likely pathogenic	GRCh38	809825
+single nucleotide variant	NM_001288705.3(CSF1R):c.2471C>G (p.Pro824Arg)	1436	CSF1R	Likely pathogenic	GRCh38	916346
+single nucleotide variant	NM_001288705.3(CSF1R):c.1765G>A (p.Gly589Arg)	1436	CSF1R	Pathogenic/Likely pathogenic	GRCh38	973001
+single nucleotide variant	NM_001288705.3(CSF1R):c.1969+1G>A	1436	CSF1R	Pathogenic	GRCh38	978469
+single nucleotide variant	NM_001288705.3(CSF1R):c.1772G>A (p.Gly591Glu)	1436	CSF1R	Likely pathogenic	GRCh38	982040
+single nucleotide variant	NM_001288705.3(CSF1R):c.2503C>T (p.Gln835Ter)	1436	CSF1R	Likely pathogenic	GRCh38	1029947
+single nucleotide variant	NM_001288705.3(CSF1R):c.1620T>A (p.Tyr540Ter)	1436	CSF1R	Pathogenic	GRCh38	1029946
+single nucleotide variant	NM_001288705.3(CSF1R):c.2344C>T (p.Arg782Cys)	1436	CSF1R	Pathogenic/Likely pathogenic	GRCh38	1297008
+single nucleotide variant	NM_001288705.3(CSF1R):c.2026C>T (p.Arg676Ter)	1436	CSF1R	Pathogenic	GRCh38	1322164
+single nucleotide variant	NM_001288705.3(CSF1R):c.828C>G (p.Tyr276Ter)	1436	CSF1R	Likely pathogenic	GRCh38	3064487
+single nucleotide variant	NM_001288705.3(CSF1R):c.1069A>T (p.Lys357Ter)	1436	CSF1R	Likely pathogenic	GRCh38	1333351
+single nucleotide variant	NM_001288705.3(CSF1R):c.2467G>A (p.Ala823Thr)	1436	CSF1R	Likely pathogenic	GRCh38	1338803
+single nucleotide variant	NM_001288705.3(CSF1R):c.2539G>C (p.Glu847Gln)	1436	CSF1R	Likely pathogenic	GRCh38	1504080
+single nucleotide variant	NM_001288705.3(CSF1R):c.2392G>C (p.Gly798Arg)	1436	CSF1R	Likely pathogenic	GRCh38	1370348
+single nucleotide variant	NM_001288705.3(CSF1R):c.1876G>T (p.Glu626Ter)	1436	CSF1R	Pathogenic	GRCh38	1483886
+single nucleotide variant	NM_001288705.3(CSF1R):c.2539G>A (p.Glu847Lys)	1436	CSF1R	Pathogenic	GRCh38	1458272
+single nucleotide variant	NM_001288705.3(CSF1R):c.2132+2T>C	1436	CSF1R	Likely pathogenic	GRCh38	1678272
+single nucleotide variant	NM_001288705.3(CSF1R):c.2498C>A (p.Thr833Lys)	1436	CSF1R	Pathogenic	GRCh38	1685676
+single nucleotide variant	NM_001288705.3(CSF1R):c.1924C>T (p.Gln642Ter)	1436	CSF1R	Pathogenic	GRCh38	2194866
+single nucleotide variant	NM_001288705.3(CSF1R):c.1082+1G>A	1436	CSF1R	Likely pathogenic	GRCh38	1971891
+single nucleotide variant	NM_001288705.3(CSF1R):c.834C>A (p.Cys278Ter)	1436	CSF1R	Pathogenic	GRCh38	2024481
+single nucleotide variant	NM_001288705.3(CSF1R):c.2377A>G (p.Lys793Glu)	1436	CSF1R	Likely pathogenic	GRCh38	2503453
+single nucleotide variant	NM_001288705.3(CSF1R):c.1990G>A (p.Glu664Lys)	1436	CSF1R	Likely pathogenic	GRCh38	2571852
+single nucleotide variant	NM_001288705.3(CSF1R):c.2471C>T (p.Pro824Leu)	1436	CSF1R	Pathogenic	GRCh38	2575888
+single nucleotide variant	NM_001288705.3(CSF1R):c.2442+2T>C	1436	CSF1R	Likely pathogenic	GRCh38	2576764
+single nucleotide variant	NM_001288705.3(CSF1R):c.2768A>G (p.Tyr923Cys)	1436	CSF1R	Likely pathogenic	GRCh38	2583156
+single nucleotide variant	NM_001288705.3(CSF1R):c.173G>A (p.Trp58Ter)	1436	CSF1R	Pathogenic	GRCh38	2703602
+single nucleotide variant	NM_001288705.3(CSF1R):c.2339C>T (p.Ala780Val)	1436	CSF1R	Likely pathogenic	GRCh38	3068555
+single nucleotide variant	NM_001288705.3(CSF1R):c.2549C>A (p.Ser850Ter)	1436	CSF1R	Pathogenic	GRCh38	3069042
+single nucleotide variant	NM_001288705.3(CSF1R):c.2545T>A (p.Phe849Ile)	1436	CSF1R	Likely pathogenic	GRCh38	3251449
+single nucleotide variant	NM_001288705.3(CSF1R):c.2380A>T (p.Ile794Phe)	1436	CSF1R	Likely pathogenic	GRCh38	3337972
+single nucleotide variant	NM_001288705.3(CSF1R):c.2287G>A (p.Ala763Thr)	1436	CSF1R	Likely pathogenic	GRCh38	3359066
+single nucleotide variant	NM_001288705.3(CSF1R):c.2563C>A (p.Pro855Thr)	1436	CSF1R	Likely pathogenic	GRCh38	3382005
+single nucleotide variant	NM_001288705.3(CSF1R):c.931C>T (p.Gln311Ter)	1436	CSF1R	Likely pathogenic	GRCh38	3779550
+single nucleotide variant	NM_001288705.3(CSF1R):c.1991A>T (p.Glu664Val)	1436	CSF1R	Likely pathogenic	GRCh38	3781323
+single nucleotide variant	NM_001288705.3(CSF1R):c.1207G>T (p.Glu403Ter)	1436	CSF1R	Likely pathogenic	GRCh38	3898898
+single nucleotide variant	NM_001288705.3(CSF1R):c.2405A>G (p.Asp802Gly)	1436	CSF1R	Likely pathogenic	GRCh38	4277572
+single nucleotide variant	NM_001288705.3(CSF1R):c.2453C>A (p.Pro818His)	1436	CSF1R	Likely pathogenic	GRCh38	4531974
+single nucleotide variant	NM_001288705.3(CSF1R):c.1937T>A (p.Ile646Asn)	1436	CSF1R	Likely pathogenic	GRCh38	4756102
+single nucleotide variant	NM_001288705.3(CSF1R):c.1837G>A (p.Val613Met)	1436	CSF1R	Likely pathogenic	GRCh38	4853940
+single nucleotide variant	NM_001288705.3(CSF1R):c.476G>A (p.Trp159Ter)	1436	CSF1R	Pathogenic	GRCh38	4876792

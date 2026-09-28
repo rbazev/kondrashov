@@ -62,7 +62,7 @@ single nucleotide variant	NM_201548.5(CERKL):c.1133+1G>T	375298	CERKL	Likely pat
 single nucleotide variant	NM_201548.5(CERKL):c.2T>A (p.Met1Lys)	375298	CERKL	Pathogenic	GRCh38	1968537
 single nucleotide variant	NM_201548.5(CERKL):c.271G>T (p.Glu91Ter)	375298	CERKL	Pathogenic	GRCh38	2017481
 single nucleotide variant	NM_201548.5(CERKL):c.209G>A (p.Trp70Ter)	375298	CERKL	Pathogenic	GRCh38	2020740
-single nucleotide variant	NM_201548.5(CERKL):c.561T>G (p.Tyr187Ter)	375298	CERKL	Pathogenic	GRCh38	2021543
+single nucleotide variant	NM_201548.5(CERKL):c.561T>G (p.Tyr187Ter)	375298	CERKL	Pathogenic/Likely pathogenic	GRCh38	2021543
 single nucleotide variant	NM_201548.5(CERKL):c.678-1G>C	375298	CERKL	Pathogenic/Likely pathogenic	GRCh38	2071035
 single nucleotide variant	NM_201548.5(CERKL):c.1490G>A (p.Trp497Ter)	375298	CERKL	Pathogenic	GRCh38	2098187
 single nucleotide variant	NM_201548.5(CERKL):c.821-2A>G	375298	CERKL	Likely pathogenic	GRCh38	2119758
@@ -103,3 +103,5 @@ single nucleotide variant	NM_201548.5(CERKL):c.1366-2A>C	375298	CERKL	Likely pat
 single nucleotide variant	NM_201548.5(CERKL):c.1474G>T (p.Glu492Ter)	375298	CERKL	Likely pathogenic	GRCh38	4814537
 single nucleotide variant	NM_201548.5(CERKL):c.388C>T (p.Gln130Ter)	375298	CERKL	Likely pathogenic	GRCh38	4814539
 single nucleotide variant	NM_201548.5(CERKL):c.481+1G>A	375298	CERKL	Likely pathogenic	GRCh38	4814541
+single nucleotide variant	NM_201548.5(CERKL):c.3G>T (p.Met1Ile)	375298	CERKL	Likely pathogenic	GRCh38	4890096
+single nucleotide variant	NM_201548.5(CERKL):c.847C>T (p.Leu283Phe)	375298	CERKL	Pathogenic	GRCh38	4890559

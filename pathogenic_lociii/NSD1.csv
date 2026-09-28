@@ -8,7 +8,7 @@ single nucleotide variant	NM_022455.5(NSD1):c.6605G>A (p.Cys2202Tyr)	64324	NSD1	
 single nucleotide variant	NM_022455.5(NSD1):c.6463+1G>A	64324	NSD1	Pathogenic	GRCh38	96067
 single nucleotide variant	NM_022455.5(NSD1):c.1262G>A (p.Trp421Ter)	64324	NSD1	Pathogenic	GRCh38	159263
 single nucleotide variant	NM_022455.5(NSD1):c.1810C>T (p.Arg604Ter)	64324	NSD1	Pathogenic	GRCh38	159271
-single nucleotide variant	NM_022455.5(NSD1):c.1831C>T (p.Arg611Ter)	64324	NSD1	Pathogenic	GRCh38	159273
+single nucleotide variant	NM_022455.5(NSD1):c.1831C>T (p.Arg611Ter)	64324	NSD1	Pathogenic/Likely pathogenic	GRCh38	159273
 single nucleotide variant	NM_022455.5(NSD1):c.2276C>G (p.Ser759Ter)	64324	NSD1	Pathogenic	GRCh38	159283
 single nucleotide variant	NM_022455.5(NSD1):c.2339C>A (p.Ser780Ter)	64324	NSD1	Pathogenic	GRCh38	159286
 single nucleotide variant	NM_022455.5(NSD1):c.2654C>A (p.Ser885Ter)	64324	NSD1	Pathogenic	GRCh38	159289
@@ -86,7 +86,7 @@ single nucleotide variant	NM_022455.5(NSD1):c.6485A>C (p.His2162Pro)	64324	NSD1	
 single nucleotide variant	NM_022455.5(NSD1):c.6557A>G (p.His2186Arg)	64324	NSD1	Pathogenic/Likely pathogenic	GRCh38	159430
 single nucleotide variant	NM_022455.5(NSD1):c.6559C>T (p.Arg2187Ter)	64324	NSD1	Pathogenic	GRCh38	159431
 single nucleotide variant	NM_022455.5(NSD1):c.6604T>A (p.Cys2202Ser)	64324	NSD1	Pathogenic	GRCh38	159432
-single nucleotide variant	NM_022455.5(NSD1):c.6656G>A (p.Arg2219His)	64324	NSD1	Pathogenic	GRCh38	159436
+single nucleotide variant	NM_022455.5(NSD1):c.6656G>A (p.Arg2219His)	64324	NSD1	Pathogenic/Likely pathogenic	GRCh38	159436
 single nucleotide variant	NM_022455.5(NSD1):c.2058T>A (p.Tyr686Ter)	64324	NSD1	Pathogenic	GRCh38	191203
 single nucleotide variant	NM_022455.5(NSD1):c.5332C>T (p.Arg1778Ter)	64324	NSD1	Pathogenic	GRCh38	194672
 single nucleotide variant	NM_022455.5(NSD1):c.5950C>T (p.Arg1984Ter)	64324	NSD1	Pathogenic	GRCh38	209175
@@ -235,7 +235,6 @@ single nucleotide variant	NM_022455.5(NSD1):c.5858G>C (p.Gly1953Ala)	64324	NSD1	
 single nucleotide variant	NM_022455.5(NSD1):c.5321T>A (p.Ile1774Asn)	64324	NSD1	Pathogenic	GRCh38	1459954
 single nucleotide variant	NM_022455.5(NSD1):c.4994C>T (p.Pro1665Leu)	64324	NSD1	Pathogenic	GRCh38	1410174
 single nucleotide variant	NM_022455.5(NSD1):c.4831T>C (p.Cys1611Arg)	64324	NSD1	Likely pathogenic	GRCh38	1527924
-single nucleotide variant	NM_022455.5(NSD1):c.7523G>A (p.Cys2508Tyr)	64324	NSD1	Likely pathogenic	GRCh38	1678052
 single nucleotide variant	NM_022455.5(NSD1):c.6486T>G (p.His2162Gln)	64324	NSD1	Likely pathogenic	GRCh38	1685385
 single nucleotide variant	NM_022455.5(NSD1):c.2993T>A (p.Leu998Ter)	64324	NSD1	Pathogenic	GRCh38	1685989
 single nucleotide variant	NM_022455.5(NSD1):c.5303+1G>A	64324	NSD1	Pathogenic	GRCh38	1685990
@@ -348,15 +347,16 @@ single nucleotide variant	NM_022455.5(NSD1):c.3922-2A>G	64324	NSD1	Pathogenic	GR
 single nucleotide variant	NM_022455.5(NSD1):c.1337C>G (p.Ser446Ter)	64324	NSD1	Pathogenic	GRCh38	4535294
 single nucleotide variant	NM_022455.5(NSD1):c.6976A>T (p.Arg2326Ter)	64324	NSD1	Likely pathogenic	GRCh38	4626500
 single nucleotide variant	NM_022455.5(NSD1):c.4979G>A (p.Arg1660His)	64324	NSD1	Likely pathogenic	GRCh38	4626502
+single nucleotide variant	NM_022455.5(NSD1):c.3910C>T (p.Gln1304Ter)	64324	NSD1	Pathogenic	GRCh38	4683077
 single nucleotide variant	NM_022455.5(NSD1):c.1957G>T (p.Glu653Ter)	64324	NSD1	Pathogenic	GRCh38	4710975
 single nucleotide variant	NM_022455.5(NSD1):c.6196G>T (p.Gly2066Ter)	64324	NSD1	Pathogenic	GRCh38	4724747
 single nucleotide variant	NM_022455.5(NSD1):c.5950C>G (p.Arg1984Gly)	64324	NSD1	Pathogenic	GRCh38	4747480
 single nucleotide variant	NM_022455.5(NSD1):c.6101T>G (p.Val2034Gly)	64324	NSD1	Pathogenic	GRCh38	4746253
+single nucleotide variant	NM_022455.5(NSD1):c.4497+1G>T	64324	NSD1	Likely pathogenic	GRCh38	4795183
 single nucleotide variant	NM_022455.5(NSD1):c.4303-1523G>T	64324	NSD1	Likely pathogenic	GRCh38	4795248
 single nucleotide variant	NM_022455.5(NSD1):c.5917G>C (p.Gly1973Arg)	64324	NSD1	Pathogenic	GRCh38	4795472
 single nucleotide variant	NM_022455.5(NSD1):c.5146G>A (p.Gly1716Arg)	64324	NSD1	Pathogenic	GRCh38	4804962
 single nucleotide variant	NM_022455.5(NSD1):c.5075A>G (p.His1692Arg)	64324	NSD1	Pathogenic	GRCh38	4799106
-single nucleotide variant	NM_022455.5(NSD1):c.4498-196A>C	64324	NSD1	Likely pathogenic	GRCh38	4819719
 single nucleotide variant	NM_022455.5(NSD1):c.1011G>A (p.Trp337Ter)	64324	NSD1	Likely pathogenic	GRCh38	4846876
 single nucleotide variant	NM_022455.5(NSD1):c.6362G>A (p.Cys2121Tyr)	64324	NSD1	Likely pathogenic	GRCh38	4849626
 single nucleotide variant	NM_022455.5(NSD1):c.5147-1G>C	64324	NSD1	Pathogenic	GRCh38	4852598
@@ -364,3 +364,13 @@ single nucleotide variant	NM_022455.5(NSD1):c.4302+1G>T	64324	NSD1	Likely pathog
 single nucleotide variant	NM_022455.5(NSD1):c.6457C>T (p.Pro2153Ser)	64324	NSD1	Pathogenic	GRCh38	4855692
 single nucleotide variant	NM_022455.5(NSD1):c.6009+1G>A	64324	NSD1	Likely pathogenic	GRCh38	4856219
 single nucleotide variant	NM_022455.5(NSD1):c.4967-2A>G	64324	NSD1	Likely pathogenic	GRCh38	4856246
+single nucleotide variant	NM_022455.5(NSD1):c.5623-3060A>G	64324	NSD1	Pathogenic	GRCh38	4857683
+single nucleotide variant	NM_022455.5(NSD1):c.6736C>T (p.Gln2246Ter)	64324	NSD1	Likely pathogenic	GRCh38	4861211
+single nucleotide variant	NM_022455.5(NSD1):c.6022G>C (p.Asp2008His)	64324	NSD1	Likely pathogenic	GRCh38	4871700
+single nucleotide variant	NM_022455.5(NSD1):c.5416T>A (p.Trp1806Arg)	64324	NSD1	Likely pathogenic	GRCh38	4879437
+single nucleotide variant	NM_022455.5(NSD1):c.1372G>T (p.Glu458Ter)	64324	NSD1	Likely pathogenic	GRCh38	4880810
+single nucleotide variant	NM_022455.5(NSD1):c.3223G>T (p.Gly1075Ter)	64324	NSD1	Likely pathogenic	GRCh38	4880866
+single nucleotide variant	NM_022455.5(NSD1):c.5854C>G (p.Arg1952Gly)	64324	NSD1	Likely pathogenic	GRCh38	4884601
+single nucleotide variant	NM_022455.5(NSD1):c.6361T>G (p.Cys2121Gly)	64324	NSD1	Likely pathogenic	GRCh38	4887881
+single nucleotide variant	NM_022455.5(NSD1):c.5351T>G (p.Ile1784Ser)	64324	NSD1	Likely pathogenic	GRCh38	4888028
+single nucleotide variant	NM_022455.5(NSD1):c.4904G>C (p.Cys1635Ser)	64324	NSD1	Likely pathogenic	GRCh38	4890693

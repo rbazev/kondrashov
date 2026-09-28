@@ -1,0 +1,312 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000070.3(CAPN3):c.2306G>A (p.Arg769Gln)	825	CAPN3	Pathogenic	GRCh38	17613
+single nucleotide variant	NM_000070.3(CAPN3):c.1715G>A (p.Arg572Gln)	825	CAPN3	Pathogenic	GRCh38	17614
+single nucleotide variant	NM_000070.3(CAPN3):c.328C>T (p.Arg110Ter)	825	CAPN3	Pathogenic	GRCh38	17615
+single nucleotide variant	NM_000070.3(CAPN3):c.257C>T (p.Ser86Phe)	825	CAPN3	Pathogenic	GRCh38	17616
+single nucleotide variant	NM_000070.3(CAPN3):c.956C>T (p.Pro319Leu)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	17617
+single nucleotide variant	NM_000070.3(CAPN3):c.1080G>C (p.Trp360Cys)	825	CAPN3	Pathogenic	GRCh38	17619
+single nucleotide variant	NM_000070.3(CAPN3):c.1469G>A (p.Arg490Gln)	825	CAPN3	Pathogenic	GRCh38	17622
+single nucleotide variant	NM_000070.3(CAPN3):c.946-1G>A	825	CAPN3	Pathogenic	GRCh38	21036
+single nucleotide variant	NM_000070.3(CAPN3):c.1435A>G (p.Ser479Gly)	825	CAPN3	Pathogenic	GRCh38	92405
+single nucleotide variant	NM_000070.3(CAPN3):c.1622G>A (p.Arg541Gln)	825	CAPN3	Pathogenic	GRCh38	92407
+single nucleotide variant	NM_000070.3(CAPN3):c.1746-20C>G	825	CAPN3	Pathogenic	GRCh38	92408
+single nucleotide variant	NM_000070.3(CAPN3):c.2393C>A (p.Ala798Glu)	825	CAPN3	Pathogenic	GRCh38	92414
+single nucleotide variant	NM_000070.3(CAPN3):c.2243G>A (p.Arg748Gln)	825	CAPN3	Pathogenic	GRCh38	128570
+single nucleotide variant	NM_000070.3(CAPN3):c.1699G>T (p.Gly567Trp)	825	CAPN3	Pathogenic	GRCh38	166791
+single nucleotide variant	NM_000070.3(CAPN3):c.1468C>T (p.Arg490Trp)	825	CAPN3	Pathogenic	GRCh38	166790
+single nucleotide variant	NM_000070.3(CAPN3):c.310G>T (p.Glu104Ter)	825	CAPN3	Likely pathogenic	GRCh38	191055
+single nucleotide variant	NM_000070.3(CAPN3):c.2381-1G>A	825	CAPN3	Likely pathogenic	GRCh38	191057
+single nucleotide variant	NM_000070.3(CAPN3):c.145C>T (p.Arg49Cys)	825	CAPN3	Pathogenic	GRCh38	193037
+single nucleotide variant	NM_000070.3(CAPN3):c.1477C>T (p.Arg493Trp)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	193792
+single nucleotide variant	NM_000070.3(CAPN3):c.2134C>T (p.Leu712Phe)	825	CAPN3	Likely pathogenic	GRCh38	195450
+single nucleotide variant	NM_000070.3(CAPN3):c.2338G>C (p.Asp780His)	825	CAPN3	Pathogenic	GRCh38	195641
+single nucleotide variant	NM_000070.3(CAPN3):c.1076C>T (p.Pro359Leu)	825	CAPN3	Likely pathogenic	GRCh38	198690
+single nucleotide variant	NM_000070.3(CAPN3):c.319G>T (p.Glu107Ter)	825	CAPN3	Pathogenic	GRCh38	242490
+single nucleotide variant	NM_000070.3(CAPN3):c.1319G>A (p.Arg440Gln)	825	CAPN3	Likely pathogenic	GRCh38	217147
+single nucleotide variant	NM_000070.3(CAPN3):c.133G>A (p.Ala45Thr)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	217148
+single nucleotide variant	NM_000070.3(CAPN3):c.146G>A (p.Arg49His)	825	CAPN3	Pathogenic	GRCh38	217151
+single nucleotide variant	NM_000070.3(CAPN3):c.499-1G>A	825	CAPN3	Pathogenic	GRCh38	217157
+single nucleotide variant	NM_000070.3(CAPN3):c.1194-9A>G	825	CAPN3	Pathogenic	GRCh38	217146
+single nucleotide variant	NM_000070.3(CAPN3):c.1343G>A (p.Arg448His)	825	CAPN3	Pathogenic	GRCh38	217149
+single nucleotide variant	NM_000070.3(CAPN3):c.1465C>T (p.Arg489Trp)	825	CAPN3	Pathogenic	GRCh38	217150
+single nucleotide variant	NM_000070.3(CAPN3):c.1714C>T (p.Arg572Trp)	825	CAPN3	Pathogenic	GRCh38	217152
+single nucleotide variant	NM_000070.3(CAPN3):c.1939G>T (p.Glu647Ter)	825	CAPN3	Pathogenic	GRCh38	217153
+single nucleotide variant	NM_000070.3(CAPN3):c.1992+1G>T	825	CAPN3	Pathogenic	GRCh38	217154
+single nucleotide variant	NM_000070.3(CAPN3):c.2381-2A>G	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	217155
+single nucleotide variant	NM_000070.3(CAPN3):c.439C>T (p.Arg147Ter)	825	CAPN3	Pathogenic	GRCh38	242415
+single nucleotide variant	NM_000070.3(CAPN3):c.1115+5G>C	825	CAPN3	Pathogenic	GRCh38	265521
+single nucleotide variant	NM_000070.3(CAPN3):c.802-9G>A	825	CAPN3	Pathogenic	GRCh38	280037
+single nucleotide variant	NM_000070.3(CAPN3):c.1342C>T (p.Arg448Cys)	825	CAPN3	Pathogenic	GRCh38	280038
+single nucleotide variant	NM_000070.3(CAPN3):c.2185-2A>G	825	CAPN3	Pathogenic	GRCh38	280039
+single nucleotide variant	NM_000070.3(CAPN3):c.2051-1G>T	825	CAPN3	Pathogenic	GRCh38	281184
+single nucleotide variant	NM_000070.3(CAPN3):c.1063C>T (p.Arg355Trp)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	281254
+single nucleotide variant	NM_000070.3(CAPN3):c.1250C>T (p.Thr417Met)	825	CAPN3	Pathogenic	GRCh38	281505
+single nucleotide variant	NM_000070.3(CAPN3):c.1303G>A (p.Glu435Lys)	825	CAPN3	Pathogenic	GRCh38	282173
+single nucleotide variant	NM_000070.3(CAPN3):c.2305C>T (p.Arg769Trp)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	282411
+single nucleotide variant	NM_000070.3(CAPN3):c.1993-1G>A	825	CAPN3	Pathogenic	GRCh38	282494
+single nucleotide variant	NM_000070.3(CAPN3):c.1505T>C (p.Ile502Thr)	825	CAPN3	Likely pathogenic	GRCh38	282512
+single nucleotide variant	NM_000070.3(CAPN3):c.1611C>A (p.Tyr537Ter)	825	CAPN3	Pathogenic	GRCh38	282617
+single nucleotide variant	NM_000070.3(CAPN3):c.700G>A (p.Gly234Arg)	825	CAPN3	Pathogenic	GRCh38	282623
+single nucleotide variant	NM_000070.3(CAPN3):c.865C>T (p.Arg289Trp)	825	CAPN3	Likely pathogenic	GRCh38	282646
+single nucleotide variant	NM_000070.3(CAPN3):c.2288A>G (p.Tyr763Cys)	825	CAPN3	Pathogenic	GRCh38	282681
+single nucleotide variant	NM_000070.3(CAPN3):c.245C>T (p.Pro82Leu)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	282783
+single nucleotide variant	NM_000070.3(CAPN3):c.1257T>G (p.Asp419Glu)	825	CAPN3	Likely pathogenic	GRCh38	282873
+single nucleotide variant	NM_000070.3(CAPN3):c.2105C>T (p.Ala702Val)	825	CAPN3	Pathogenic	GRCh38	283099
+single nucleotide variant	NM_000070.3(CAPN3):c.2242C>T (p.Arg748Ter)	825	CAPN3	Pathogenic	GRCh38	283259
+single nucleotide variant	NM_000070.3(CAPN3):c.1318C>T (p.Arg440Trp)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	283991
+single nucleotide variant	NM_000070.3(CAPN3):c.1336G>A (p.Gly446Ser)	825	CAPN3	Likely pathogenic	GRCh38	284385
+single nucleotide variant	NM_000070.3(CAPN3):c.1333G>A (p.Gly445Arg)	825	CAPN3	Pathogenic	GRCh38	284515
+single nucleotide variant	NM_000070.3(CAPN3):c.1256A>G (p.Asp419Gly)	825	CAPN3	Likely pathogenic	GRCh38	284518
+single nucleotide variant	NM_000070.3(CAPN3):c.1745+5G>C	825	CAPN3	Likely pathogenic	GRCh38	284561
+single nucleotide variant	NM_000070.3(CAPN3):c.1957C>T (p.Gln653Ter)	825	CAPN3	Pathogenic	GRCh38	284707
+single nucleotide variant	NM_000070.3(CAPN3):c.633G>C (p.Lys211Asn)	825	CAPN3	Likely pathogenic	GRCh38	284946
+single nucleotide variant	NM_000070.3(CAPN3):c.2148G>T (p.Glu716Asp)	825	CAPN3	Pathogenic	GRCh38	285340
+single nucleotide variant	NM_000070.3(CAPN3):c.620A>C (p.Lys207Thr)	825	CAPN3	Likely pathogenic	GRCh38	285460
+single nucleotide variant	NM_000070.3(CAPN3):c.1309C>T (p.Arg437Cys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	285470
+single nucleotide variant	NM_000070.3(CAPN3):c.1524G>A (p.Glu508=)	825	CAPN3	Pathogenic	GRCh38	286592
+single nucleotide variant	NM_000070.3(CAPN3):c.1801-1G>A	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	287890
+single nucleotide variant	NM_000070.3(CAPN3):c.649G>A (p.Glu217Lys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	288404
+single nucleotide variant	NM_000070.3(CAPN3):c.1355-1G>C	825	CAPN3	Pathogenic	GRCh38	288426
+single nucleotide variant	NM_000070.3(CAPN3):c.1817C>T (p.Ser606Leu)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	289372
+single nucleotide variant	NM_000070.3(CAPN3):c.1466G>A (p.Arg489Gln)	825	CAPN3	Pathogenic	GRCh38	289644
+single nucleotide variant	NM_000070.3(CAPN3):c.1662C>G (p.Tyr554Ter)	825	CAPN3	Pathogenic	GRCh38	290348
+single nucleotide variant	NM_000070.3(CAPN3):c.2263+1G>A	825	CAPN3	Pathogenic	GRCh38	290519
+single nucleotide variant	NM_000070.3(CAPN3):c.1706T>C (p.Phe569Ser)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	290547
+single nucleotide variant	NM_000070.3(CAPN3):c.1115+2T>C	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	392385
+single nucleotide variant	NM_000070.3(CAPN3):c.985G>A (p.Gly329Arg)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	427161
+single nucleotide variant	NM_000070.3(CAPN3):c.2327A>G (p.Asn776Ser)	825	CAPN3	Likely pathogenic	GRCh38	426275
+single nucleotide variant	NM_000070.3(CAPN3):c.518G>A (p.Trp173Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	441261
+single nucleotide variant	NM_000070.3(CAPN3):c.1099G>A (p.Gly367Ser)	825	CAPN3	Likely pathogenic	GRCh38	468639
+single nucleotide variant	NM_000070.3(CAPN3):c.2120A>G (p.Asp707Gly)	825	CAPN3	Pathogenic	GRCh38	468648
+single nucleotide variant	NM_000070.3(CAPN3):c.640G>A (p.Gly214Ser)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	496915
+single nucleotide variant	NM_000070.3(CAPN3):c.363C>G (p.Ile121Met)	825	CAPN3	Likely pathogenic	GRCh38	496977
+single nucleotide variant	NM_000070.3(CAPN3):c.1027G>T (p.Glu343Ter)	825	CAPN3	Pathogenic	GRCh38	497182
+single nucleotide variant	NM_000070.3(CAPN3):c.2115+2T>C	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	497378
+single nucleotide variant	NM_000070.3(CAPN3):c.1187A>G (p.Glu396Gly)	825	CAPN3	Likely pathogenic	GRCh38	497565
+single nucleotide variant	NM_000070.3(CAPN3):c.1524+2T>C	825	CAPN3	Pathogenic	GRCh38	497572
+single nucleotide variant	NM_000070.3(CAPN3):c.1118G>A (p.Trp373Ter)	825	CAPN3	Pathogenic	GRCh38	497833
+single nucleotide variant	NM_000070.3(CAPN3):c.1127G>A (p.Trp376Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	498184
+single nucleotide variant	NM_000070.3(CAPN3):c.503G>A (p.Trp168Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	498205
+single nucleotide variant	NM_000070.3(CAPN3):c.1621C>T (p.Arg541Trp)	825	CAPN3	Pathogenic	GRCh38	498267
+single nucleotide variant	NM_000070.3(CAPN3):c.2235C>A (p.Tyr745Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	499202
+single nucleotide variant	NM_000070.3(CAPN3):c.1381C>T (p.Arg461Cys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	501440
+single nucleotide variant	NM_000070.3(CAPN3):c.701G>A (p.Gly234Glu)	825	CAPN3	Pathogenic	GRCh38	501754
+single nucleotide variant	NM_000070.3(CAPN3):c.632+5G>A	825	CAPN3	Likely pathogenic	GRCh38	523316
+single nucleotide variant	NM_000070.3(CAPN3):c.1006T>G (p.Tyr336Asp)	825	CAPN3	Likely pathogenic	GRCh38	536517
+single nucleotide variant	NM_000070.3(CAPN3):c.1115+2T>A	825	CAPN3	Likely pathogenic	GRCh38	536510
+single nucleotide variant	NM_000070.3(CAPN3):c.1524+1G>A	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	536512
+single nucleotide variant	NM_000070.3(CAPN3):c.291C>A (p.Phe97Leu)	825	CAPN3	Pathogenic	GRCh38	548137
+single nucleotide variant	NM_000070.3(CAPN3):c.2242C>G (p.Arg748Gly)	825	CAPN3	Pathogenic	GRCh38	548138
+single nucleotide variant	NM_000070.3(CAPN3):c.509A>G (p.Tyr170Cys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	557074
+single nucleotide variant	NM_000070.3(CAPN3):c.632+4A>G	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	550589
+single nucleotide variant	NM_000070.3(CAPN3):c.664G>A (p.Gly222Arg)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	556854
+single nucleotide variant	NM_000070.3(CAPN3):c.1030-1G>A	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	556764
+single nucleotide variant	NM_000070.3(CAPN3):c.1354G>C (p.Asp452His)	825	CAPN3	Likely pathogenic	GRCh38	553345
+single nucleotide variant	NM_000070.3(CAPN3):c.2230A>G (p.Ser744Gly)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	555001
+single nucleotide variant	NM_000070.3(CAPN3):c.848T>C (p.Met283Thr)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	555646
+single nucleotide variant	NM_000070.3(CAPN3):c.2330T>C (p.Ile777Thr)	825	CAPN3	Likely pathogenic	GRCh38	553072
+single nucleotide variant	NM_000070.3(CAPN3):c.1524+1G>T	825	CAPN3	Pathogenic	GRCh38	554341
+single nucleotide variant	NM_000070.3(CAPN3):c.149A>G (p.Asn50Ser)	825	CAPN3	Likely pathogenic	GRCh38	554405
+single nucleotide variant	NM_000070.3(CAPN3):c.985G>C (p.Gly329Arg)	825	CAPN3	Likely pathogenic	GRCh38	553758
+single nucleotide variant	NM_000070.3(CAPN3):c.1061T>G (p.Val354Gly)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	557454
+single nucleotide variant	NM_000070.3(CAPN3):c.1234G>T (p.Glu412Ter)	825	CAPN3	Likely pathogenic	GRCh38	557169
+single nucleotide variant	NM_000070.3(CAPN3):c.1342C>G (p.Arg448Gly)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	553662
+single nucleotide variant	NM_000070.3(CAPN3):c.2007T>A (p.Cys669Ter)	825	CAPN3	Likely pathogenic	GRCh38	556322
+single nucleotide variant	NM_000070.3(CAPN3):c.2050+1G>A	825	CAPN3	Pathogenic	GRCh38	553754
+single nucleotide variant	NM_000070.3(CAPN3):c.2051-1G>C	825	CAPN3	Likely pathogenic	GRCh38	557848
+single nucleotide variant	NM_000070.3(CAPN3):c.2T>C (p.Met1Thr)	825	CAPN3	Likely pathogenic	GRCh38	556702
+single nucleotide variant	NM_000070.3(CAPN3):c.801+1G>A	825	CAPN3	Pathogenic	GRCh38	552843
+single nucleotide variant	NM_000070.3(CAPN3):c.1079G>A (p.Trp360Ter)	825	CAPN3	Pathogenic	GRCh38	550578
+single nucleotide variant	NM_000070.3(CAPN3):c.1115+1G>A	825	CAPN3	Likely pathogenic	GRCh38	557944
+single nucleotide variant	NM_000070.3(CAPN3):c.1657G>A (p.Glu553Lys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	553020
+single nucleotide variant	NM_000070.3(CAPN3):c.1858G>T (p.Glu620Ter)	825	CAPN3	Likely pathogenic	GRCh38	557832
+single nucleotide variant	NM_000070.3(CAPN3):c.1914+2T>C	825	CAPN3	Likely pathogenic	GRCh38	552636
+single nucleotide variant	NM_000070.3(CAPN3):c.1948G>T (p.Glu650Ter)	825	CAPN3	Likely pathogenic	GRCh38	556576
+single nucleotide variant	NM_000070.3(CAPN3):c.2115+1G>A	825	CAPN3	Likely pathogenic	GRCh38	555599
+single nucleotide variant	NM_000070.3(CAPN3):c.2184+2T>C	825	CAPN3	Likely pathogenic	GRCh38	558495
+single nucleotide variant	NM_000070.3(CAPN3):c.2380+1G>T	825	CAPN3	Pathogenic	GRCh38	555344
+single nucleotide variant	NM_000070.3(CAPN3):c.2465G>T (p.Ter822Leu)	825	CAPN3	Likely pathogenic	GRCh38	571060
+single nucleotide variant	NM_000070.3(CAPN3):c.1855C>T (p.Gln619Ter)	825	CAPN3	Likely pathogenic	GRCh38	595306
+single nucleotide variant	NM_000070.3(CAPN3):c.1992+2T>A	825	CAPN3	Pathogenic	GRCh38	596001
+single nucleotide variant	NM_000070.3(CAPN3):c.1333G>C (p.Gly445Arg)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	596306
+single nucleotide variant	NM_000070.3(CAPN3):c.967G>T (p.Glu323Ter)	825	CAPN3	Pathogenic	GRCh38	620114
+single nucleotide variant	NM_000070.3(CAPN3):c.2380+2T>G	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	632230
+single nucleotide variant	NM_000070.3(CAPN3):c.1327T>C (p.Ser443Pro)	825	CAPN3	Likely pathogenic	GRCh38	662490
+single nucleotide variant	NM_000070.3(CAPN3):c.1448C>A (p.Ala483Asp)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	661943
+single nucleotide variant	NM_000070.3(CAPN3):c.2306G>C (p.Arg769Pro)	825	CAPN3	Likely pathogenic	GRCh38	652571
+single nucleotide variant	NM_000070.3(CAPN3):c.946-2A>G	825	CAPN3	Pathogenic	GRCh38	663747
+single nucleotide variant	NM_000070.3(CAPN3):c.2440-1G>C	825	CAPN3	Likely pathogenic	GRCh38	658928
+single nucleotide variant	NM_000070.3(CAPN3):c.1106G>A (p.Trp369Ter)	825	CAPN3	Pathogenic	GRCh38	813987
+single nucleotide variant	NM_000070.3(CAPN3):c.1193+6T>A	825	CAPN3	Pathogenic	GRCh38	813980
+single nucleotide variant	NM_000070.3(CAPN3):c.1897C>T (p.Gln633Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	813982
+single nucleotide variant	NM_000070.3(CAPN3):c.2212C>T (p.Gln738Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	813968
+single nucleotide variant	NM_000070.3(CAPN3):c.519G>A (p.Trp173Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	843556
+single nucleotide variant	NM_000070.3(CAPN3):c.608C>G (p.Ala203Gly)	825	CAPN3	Pathogenic	GRCh38	843051
+single nucleotide variant	NM_000070.3(CAPN3):c.1525G>T (p.Val509Phe)	825	CAPN3	Likely pathogenic	GRCh38	863674
+single nucleotide variant	NM_000070.3(CAPN3):c.2162G>A (p.Trp721Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	849826
+single nucleotide variant	NM_000070.3(CAPN3):c.632+1G>A	825	CAPN3	Pathogenic	GRCh38	871347
+single nucleotide variant	NM_000070.3(CAPN3):c.2182C>T (p.Gln728Ter)	825	CAPN3	Pathogenic	GRCh38	871348
+single nucleotide variant	NM_000070.3(CAPN3):c.1782+1072G>C	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	946832
+single nucleotide variant	NM_000070.3(CAPN3):c.1202A>T (p.Tyr401Phe)	825	CAPN3	Likely pathogenic	GRCh38	965033
+single nucleotide variant	NM_000070.3(CAPN3):c.1561C>T (p.Gln521Ter)	825	CAPN3	Pathogenic	GRCh38	970519
+single nucleotide variant	NM_000070.3(CAPN3):c.1525-1G>T	825	CAPN3	Likely pathogenic	GRCh38	959503
+single nucleotide variant	NM_000070.3(CAPN3):c.1194-2A>G	825	CAPN3	Pathogenic	GRCh38	973317
+single nucleotide variant	NM_000070.3(CAPN3):c.343G>T (p.Gly115Ter)	825	CAPN3	Likely pathogenic	GRCh38	983851
+single nucleotide variant	NM_000070.3(CAPN3):c.747C>G (p.Tyr249Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	983852
+single nucleotide variant	NM_000070.3(CAPN3):c.772A>T (p.Arg258Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	983853
+single nucleotide variant	NM_000070.3(CAPN3):c.973A>T (p.Arg325Ter)	825	CAPN3	Likely pathogenic	GRCh38	983854
+single nucleotide variant	NM_000070.3(CAPN3):c.2083G>T (p.Glu695Ter)	825	CAPN3	Likely pathogenic	GRCh38	983855
+single nucleotide variant	NM_000070.3(CAPN3):c.2163G>A (p.Trp721Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	984013
+single nucleotide variant	NM_000070.3(CAPN3):c.2380A>T (p.Arg794Ter)	825	CAPN3	Likely pathogenic	GRCh38	984014
+single nucleotide variant	NM_000070.3(CAPN3):c.538G>A (p.Asp180Asn)	825	CAPN3	Likely pathogenic	GRCh38	1009814
+single nucleotide variant	NM_000070.3(CAPN3):c.379+3A>T	825	CAPN3	Likely pathogenic	GRCh38	1054201
+single nucleotide variant	NM_000070.3(CAPN3):c.945+1G>T	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	1067979
+single nucleotide variant	NM_000070.3(CAPN3):c.2185-16A>G	825	CAPN3	Likely pathogenic	GRCh38	1067217
+single nucleotide variant	NM_000070.3(CAPN3):c.2380+1G>A	825	CAPN3	Pathogenic	GRCh38	1067511
+single nucleotide variant	NM_000070.3(CAPN3):c.286C>T (p.Gln96Ter)	825	CAPN3	Pathogenic	GRCh38	1075864
+single nucleotide variant	NM_000070.3(CAPN3):c.389G>A (p.Trp130Ter)	825	CAPN3	Pathogenic	GRCh38	1068828
+single nucleotide variant	NM_000070.3(CAPN3):c.1999G>T (p.Glu667Ter)	825	CAPN3	Pathogenic	GRCh38	1071948
+single nucleotide variant	NM_000070.3(CAPN3):c.661G>T (p.Gly221Cys)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	1180773
+single nucleotide variant	NM_000070.3(CAPN3):c.1009T>C (p.Ser337Pro)	825	CAPN3	Likely pathogenic	GRCh38	1180649
+single nucleotide variant	NM_000070.3(CAPN3):c.1343G>T (p.Arg448Leu)	825	CAPN3	Likely pathogenic	GRCh38	1180840
+single nucleotide variant	NM_000070.3(CAPN3):c.1447G>A (p.Ala483Thr)	825	CAPN3	Likely pathogenic	GRCh38	1180784
+single nucleotide variant	NM_000070.3(CAPN3):c.2217C>G (p.Ser739=)	825	CAPN3	Pathogenic	GRCh38	1192502
+single nucleotide variant	NM_000070.3(CAPN3):c.1363T>C (p.Trp455Arg)	825	CAPN3	Pathogenic	GRCh38	1299546
+single nucleotide variant	NM_000070.3(CAPN3):c.379+3A>G	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	1315302
+single nucleotide variant	NM_000070.3(CAPN3):c.347C>A (p.Ala116Asp)	825	CAPN3	Pathogenic	GRCh38	1321461
+single nucleotide variant	NM_000070.3(CAPN3):c.1002C>G (p.His334Gln)	825	CAPN3	Likely pathogenic	GRCh38	4816056
+single nucleotide variant	NM_000070.3(CAPN3):c.966T>A (p.Tyr322Ter)	825	CAPN3	Pathogenic	GRCh38	1325395
+single nucleotide variant	NM_000070.3(CAPN3):c.743T>G (p.Met248Arg)	825	CAPN3	Pathogenic	GRCh38	1325397
+single nucleotide variant	NM_000070.3(CAPN3):c.352A>G (p.Arg118Gly)	825	CAPN3	Likely pathogenic	GRCh38	1325399
+single nucleotide variant	NM_000070.3(CAPN3):c.2309A>G (p.Tyr770Cys)	825	CAPN3	Likely pathogenic	GRCh38	1332695
+single nucleotide variant	NM_000070.3(CAPN3):c.2312C>T (p.Ala771Val)	825	CAPN3	Likely pathogenic	GRCh38	1333344
+single nucleotide variant	NM_000070.3(CAPN3):c.1456C>T (p.Gln486Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	1450732
+single nucleotide variant	NM_000070.3(CAPN3):c.754A>G (p.Met252Val)	825	CAPN3	Likely pathogenic	GRCh38	1507710
+single nucleotide variant	NM_000070.3(CAPN3):c.572T>G (p.Phe191Cys)	825	CAPN3	Likely pathogenic	GRCh38	1493433
+single nucleotide variant	NM_000070.3(CAPN3):c.1084C>T (p.Gln362Ter)	825	CAPN3	Pathogenic	GRCh38	1454159
+single nucleotide variant	NM_000070.3(CAPN3):c.802-2A>G	825	CAPN3	Likely pathogenic	GRCh38	1470251
+single nucleotide variant	NM_000070.3(CAPN3):c.661G>A (p.Gly221Ser)	825	CAPN3	Likely pathogenic	GRCh38	1492032
+single nucleotide variant	NM_000070.3(CAPN3):c.1800+2T>C	825	CAPN3	Pathogenic	GRCh38	1398928
+single nucleotide variant	NM_000070.3(CAPN3):c.1A>G (p.Met1Val)	825	CAPN3	Pathogenic	GRCh38	1453744
+single nucleotide variant	NM_000070.3(CAPN3):c.1782+2T>C	825	CAPN3	Likely pathogenic	GRCh38	1345765
+single nucleotide variant	NM_000070.3(CAPN3):c.641G>A (p.Gly214Asp)	825	CAPN3	Likely pathogenic	GRCh38	1401640
+single nucleotide variant	NM_000070.3(CAPN3):c.2050+1G>C	825	CAPN3	Pathogenic	GRCh38	1358312
+single nucleotide variant	NM_000070.3(CAPN3):c.1029+1G>A	825	CAPN3	Pathogenic	GRCh38	1467802
+single nucleotide variant	NM_000070.3(CAPN3):c.648C>G (p.Tyr216Ter)	825	CAPN3	Pathogenic	GRCh38	1376842
+single nucleotide variant	NM_000070.3(CAPN3):c.498+1G>A	825	CAPN3	Pathogenic	GRCh38	1458711
+single nucleotide variant	NM_000070.3(CAPN3):c.898C>T (p.Gln300Ter)	825	CAPN3	Pathogenic	GRCh38	1458714
+single nucleotide variant	NM_000070.3(CAPN3):c.545T>A (p.Leu182Gln)	825	CAPN3	Likely pathogenic	GRCh38	1698630
+single nucleotide variant	NM_000070.3(CAPN3):c.700G>T (p.Gly234Trp)	825	CAPN3	Likely pathogenic	GRCh38	1701252
+single nucleotide variant	NM_000070.3(CAPN3):c.543C>A (p.Cys181Ter)	825	CAPN3	Likely pathogenic	GRCh38	1724013
+single nucleotide variant	NM_000070.3(CAPN3):c.2236G>T (p.Glu746Ter)	825	CAPN3	Likely pathogenic	GRCh38	1724533
+single nucleotide variant	NM_000070.3(CAPN3):c.555C>G (p.Tyr185Ter)	825	CAPN3	Likely pathogenic	GRCh38	1726066
+single nucleotide variant	NM_000070.3(CAPN3):c.760A>T (p.Lys254Ter)	825	CAPN3	Likely pathogenic	GRCh38	1726093
+single nucleotide variant	NM_000070.3(CAPN3):c.2281C>T (p.Gln761Ter)	825	CAPN3	Likely pathogenic	GRCh38	1726301
+single nucleotide variant	NM_000070.3(CAPN3):c.1322G>A (p.Gly441Asp)	825	CAPN3	Likely pathogenic	GRCh38	2137655
+single nucleotide variant	NM_000070.3(CAPN3):c.1354+1G>A	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	2137656
+single nucleotide variant	NM_000070.3(CAPN3):c.1193+1G>A	825	CAPN3	Likely pathogenic	GRCh38	2152226
+single nucleotide variant	NM_000070.3(CAPN3):c.665G>A (p.Gly222Glu)	825	CAPN3	Likely pathogenic	GRCh38	2169808
+single nucleotide variant	NM_000070.3(CAPN3):c.1536+1G>T	825	CAPN3	Pathogenic	GRCh38	2190718
+single nucleotide variant	NM_000070.3(CAPN3):c.3G>T (p.Met1Ile)	825	CAPN3	Pathogenic	GRCh38	2032843
+single nucleotide variant	NM_000070.3(CAPN3):c.801+2T>G	825	CAPN3	Pathogenic	GRCh38	2020095
+single nucleotide variant	NM_000070.3(CAPN3):c.945+1G>A	825	CAPN3	Likely pathogenic	GRCh38	2028690
+single nucleotide variant	NM_000070.3(CAPN3):c.1903C>T (p.Gln635Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	2096492
+single nucleotide variant	NM_000070.3(CAPN3):c.379+1G>A	825	CAPN3	Likely pathogenic	GRCh38	2090416
+single nucleotide variant	NM_000070.3(CAPN3):c.380-2A>G	825	CAPN3	Pathogenic	GRCh38	2098863
+single nucleotide variant	NM_000070.3(CAPN3):c.380-1G>A	825	CAPN3	Pathogenic	GRCh38	2098864
+single nucleotide variant	NM_000070.3(CAPN3):c.2116-1G>C	825	CAPN3	Likely pathogenic	GRCh38	2109761
+single nucleotide variant	NM_000070.3(CAPN3):c.802-1G>A	825	CAPN3	Likely pathogenic	GRCh38	2105533
+single nucleotide variant	NM_000070.3(CAPN3):c.1552C>T (p.Gln518Ter)	825	CAPN3	Pathogenic	GRCh38	2133426
+single nucleotide variant	NM_000070.3(CAPN3):c.1333G>T (p.Gly445Ter)	825	CAPN3	Pathogenic	GRCh38	2412738
+single nucleotide variant	NM_000070.3(CAPN3):c.2014G>T (p.Glu672Ter)	825	CAPN3	Likely pathogenic	GRCh38	2438803
+single nucleotide variant	NM_000070.3(CAPN3):c.1355-2A>C	825	CAPN3	Likely pathogenic	GRCh38	2438834
+single nucleotide variant	NM_000070.3(CAPN3):c.379G>A (p.Gly127Arg)	825	CAPN3	Likely pathogenic	GRCh38	2444303
+single nucleotide variant	NM_000070.3(CAPN3):c.1128G>A (p.Trp376Ter)	825	CAPN3	Likely pathogenic	GRCh38	2503427
+single nucleotide variant	NM_000070.3(CAPN3):c.380G>A (p.Gly127Glu)	825	CAPN3	Pathogenic	GRCh38	2506065
+single nucleotide variant	NM_000070.3(CAPN3):c.2439+1G>T	825	CAPN3	Likely pathogenic	GRCh38	2572376
+single nucleotide variant	NM_000070.3(CAPN3):c.1894A>T (p.Lys632Ter)	825	CAPN3	Pathogenic	GRCh38	2574981
+single nucleotide variant	NM_000070.3(CAPN3):c.424C>T (p.Gln142Ter)	825	CAPN3	Pathogenic	GRCh38	2680367
+single nucleotide variant	NM_000070.3(CAPN3):c.1309C>G (p.Arg437Gly)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	2680368
+single nucleotide variant	NM_000070.3(CAPN3):c.2289T>G (p.Tyr763Ter)	825	CAPN3	Pathogenic	GRCh38	2680369
+single nucleotide variant	NM_000070.3(CAPN3):c.2375T>A (p.Met792Lys)	825	CAPN3	Pathogenic	GRCh38	2680371
+single nucleotide variant	NM_000070.3(CAPN3):c.442G>A (p.Val148Ile)	825	CAPN3	Likely pathogenic	GRCh38	2680376
+single nucleotide variant	NM_000070.3(CAPN3):c.1162C>T (p.Gln388Ter)	825	CAPN3	Pathogenic	GRCh38	2680378
+single nucleotide variant	NM_000070.3(CAPN3):c.1693C>T (p.Gln565Ter)	825	CAPN3	Pathogenic	GRCh38	2680383
+single nucleotide variant	NM_000070.3(CAPN3):c.1800+1G>A	825	CAPN3	Pathogenic	GRCh38	2680385
+single nucleotide variant	NM_000070.3(CAPN3):c.309+1G>A	825	CAPN3	Pathogenic	GRCh38	2680386
+single nucleotide variant	NM_000070.3(CAPN3):c.498+2T>C	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	2680387
+single nucleotide variant	NM_000070.3(CAPN3):c.2209G>A (p.Asp737Asn)	825	CAPN3	Likely pathogenic	GRCh38	2680388
+single nucleotide variant	NM_000070.3(CAPN3):c.1119G>A (p.Trp373Ter)	825	CAPN3	Likely pathogenic	GRCh38	2680389
+single nucleotide variant	NM_000070.3(CAPN3):c.2117C>A (p.Thr706Lys)	825	CAPN3	Likely pathogenic	GRCh38	2680392
+single nucleotide variant	NM_000070.3(CAPN3):c.2051-1G>A	825	CAPN3	Likely pathogenic	GRCh38	2680393
+single nucleotide variant	NM_000070.3(CAPN3):c.853G>T (p.Glu285Ter)	825	CAPN3	Pathogenic	GRCh38	2680394
+single nucleotide variant	NM_000070.3(CAPN3):c.1525-2A>G	825	CAPN3	Likely pathogenic	GRCh38	2706040
+single nucleotide variant	NM_000070.3(CAPN3):c.1524+1G>C	825	CAPN3	Pathogenic	GRCh38	2729815
+single nucleotide variant	NM_000070.3(CAPN3):c.413T>C (p.Leu138Pro)	825	CAPN3	Likely pathogenic	GRCh38	2736175
+single nucleotide variant	NM_000070.3(CAPN3):c.1742C>G (p.Ser581Cys)	825	CAPN3	Likely pathogenic	GRCh38	2736182
+single nucleotide variant	NM_000070.3(CAPN3):c.1992+1G>A	825	CAPN3	Pathogenic	GRCh38	2736184
+single nucleotide variant	NM_000070.3(CAPN3):c.1782G>A (p.Val594=)	825	CAPN3	Likely pathogenic	GRCh38	2738034
+single nucleotide variant	NM_000070.3(CAPN3):c.1936C>T (p.Gln646Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	2761537
+single nucleotide variant	NM_000070.3(CAPN3):c.698G>A (p.Gly233Glu)	825	CAPN3	Pathogenic	GRCh38	2785798
+single nucleotide variant	NM_000070.3(CAPN3):c.633-1G>A	825	CAPN3	Likely pathogenic	GRCh38	2810395
+single nucleotide variant	NM_000070.3(CAPN3):c.1008C>G (p.Tyr336Ter)	825	CAPN3	Pathogenic	GRCh38	2846050
+single nucleotide variant	NM_000070.3(CAPN3):c.1536+3A>G	825	CAPN3	Likely pathogenic	GRCh38	2910369
+single nucleotide variant	NM_000070.3(CAPN3):c.956C>G (p.Pro319Arg)	825	CAPN3	Likely pathogenic	GRCh38	2913353
+single nucleotide variant	NM_000070.3(CAPN3):c.1978C>T (p.Gln660Ter)	825	CAPN3	Pathogenic	GRCh38	2982323
+single nucleotide variant	NM_000070.3(CAPN3):c.664G>C (p.Gly222Arg)	825	CAPN3	Pathogenic	GRCh38	2996643
+single nucleotide variant	NM_000070.3(CAPN3):c.1375C>T (p.Gln459Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	3011491
+single nucleotide variant	NM_000070.3(CAPN3):c.779C>T (p.Ser260Phe)	825	CAPN3	Likely pathogenic	GRCh38	3063866
+single nucleotide variant	NM_000070.3(CAPN3):c.1536G>A (p.Glu512=)	825	CAPN3	Likely pathogenic	GRCh38	3240992
+single nucleotide variant	NM_000070.3(CAPN3):c.2381-2A>C	825	CAPN3	Likely pathogenic	GRCh38	3240993
+single nucleotide variant	NM_000070.3(CAPN3):c.1954C>T (p.Gln652Ter)	825	CAPN3	Likely pathogenic	GRCh38	3240994
+single nucleotide variant	NM_000070.3(CAPN3):c.633-2A>C	825	CAPN3	Likely pathogenic	GRCh38	3240995
+single nucleotide variant	NM_000070.3(CAPN3):c.1355-2A>G	825	CAPN3	Likely pathogenic	GRCh38	3240997
+single nucleotide variant	NM_000070.3(CAPN3):c.225T>A (p.Tyr75Ter)	825	CAPN3	Likely pathogenic	GRCh38	3240999
+single nucleotide variant	NM_000070.3(CAPN3):c.2184+2T>G	825	CAPN3	Likely pathogenic	GRCh38	3241002
+single nucleotide variant	NM_000070.3(CAPN3):c.1030-1G>T	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	3241003
+single nucleotide variant	NM_000070.3(CAPN3):c.2235C>G (p.Tyr745Ter)	825	CAPN3	Likely pathogenic	GRCh38	3362318
+single nucleotide variant	NM_000070.3(CAPN3):c.1745+1G>A	825	CAPN3	Pathogenic	GRCh38	3383177
+single nucleotide variant	NM_000070.3(CAPN3):c.668A>C (p.Asn223Thr)	825	CAPN3	Likely pathogenic	GRCh38	3544376
+single nucleotide variant	NM_000070.3(CAPN3):c.250G>T (p.Glu84Ter)	825	CAPN3	Likely pathogenic	GRCh38	3577102
+single nucleotide variant	NM_000070.3(CAPN3):c.633-2A>G	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	3577104
+single nucleotide variant	NM_000070.3(CAPN3):c.1633C>T (p.Gln545Ter)	825	CAPN3	Likely pathogenic	GRCh38	3577108
+single nucleotide variant	NM_000070.3(CAPN3):c.1915-2A>C	825	CAPN3	Likely pathogenic	GRCh38	3577109
+single nucleotide variant	NM_000070.3(CAPN3):c.1992+2T>G	825	CAPN3	Pathogenic	GRCh38	3577110
+single nucleotide variant	NM_000070.3(CAPN3):c.1993-2A>G	825	CAPN3	Likely pathogenic	GRCh38	3577111
+single nucleotide variant	NM_000070.3(CAPN3):c.2051-2A>G	825	CAPN3	Pathogenic	GRCh38	3577112
+single nucleotide variant	NM_000070.3(CAPN3):c.2116-1G>A	825	CAPN3	Likely pathogenic	GRCh38	3577113
+single nucleotide variant	NM_000070.3(CAPN3):c.2441G>A (p.Trp814Ter)	825	CAPN3	Likely pathogenic	GRCh38	3577115
+single nucleotide variant	NM_000070.3(CAPN3):c.2442G>A (p.Trp814Ter)	825	CAPN3	Likely pathogenic	GRCh38	3577116
+single nucleotide variant	NM_000070.3(CAPN3):c.1951C>T (p.Gln651Ter)	825	CAPN3	Pathogenic	GRCh38	3646249
+single nucleotide variant	NM_000070.3(CAPN3):c.931G>T (p.Glu311Ter)	825	CAPN3	Pathogenic	GRCh38	3682207
+single nucleotide variant	NM_000070.3(CAPN3):c.1193+1G>T	825	CAPN3	Likely pathogenic	GRCh38	3678358
+single nucleotide variant	NM_000070.3(CAPN3):c.2263G>A (p.Gly755Arg)	825	CAPN3	Likely pathogenic	GRCh38	3721675
+single nucleotide variant	NM_000070.3(CAPN3):c.632A>G (p.Lys211Arg)	825	CAPN3	Likely pathogenic	GRCh38	3731480
+single nucleotide variant	NM_000070.3(CAPN3):c.1006T>A (p.Tyr336Asn)	825	CAPN3	Pathogenic	GRCh38	3896328
+single nucleotide variant	NM_000070.3(CAPN3):c.1913A>C (p.Gln638Pro)	825	CAPN3	Likely pathogenic	GRCh38	3896532
+single nucleotide variant	NM_000070.3(CAPN3):c.499-1G>C	825	CAPN3	Likely pathogenic	GRCh38	3896792
+single nucleotide variant	NM_000070.3(CAPN3):c.1347C>A (p.Asn449Lys)	825	CAPN3	Likely pathogenic	GRCh38	3896794
+single nucleotide variant	NM_000070.3(CAPN3):c.632+2T>A	825	CAPN3	Likely pathogenic	GRCh38	4063937
+single nucleotide variant	NM_000070.3(CAPN3):c.2440-1G>T	825	CAPN3	Likely pathogenic	GRCh38	4063947
+single nucleotide variant	NM_000070.3(CAPN3):c.984C>A (p.Cys328Ter)	825	CAPN3	Pathogenic	GRCh38	4077709
+single nucleotide variant	NM_000070.3(CAPN3):c.1193+2T>C	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	4077714
+single nucleotide variant	NM_000070.3(CAPN3):c.2047A>T (p.Lys683Ter)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	4081226
+single nucleotide variant	NM_000070.3(CAPN3):c.302G>A (p.Arg101Lys)	825	CAPN3	Likely pathogenic	GRCh38	4081227
+single nucleotide variant	NM_000070.3(CAPN3):c.1914+1G>A	825	CAPN3	Likely pathogenic	GRCh38	4081229
+single nucleotide variant	NM_000070.3(CAPN3):c.2050+2T>G	825	CAPN3	Likely pathogenic	GRCh38	4081230
+single nucleotide variant	NM_000070.3(CAPN3):c.1699G>A (p.Gly567Arg)	825	CAPN3	Likely pathogenic	GRCh38	4081603
+single nucleotide variant	NM_000070.3(CAPN3):c.1030-1G>C	825	CAPN3	Likely pathogenic	GRCh38	4081604
+single nucleotide variant	NM_000070.3(CAPN3):c.2264-1G>A	825	CAPN3	Pathogenic	GRCh38	4081605
+single nucleotide variant	NM_000070.3(CAPN3):c.2380+1G>C	825	CAPN3	Pathogenic	GRCh38	4294067
+single nucleotide variant	NM_000070.3(CAPN3):c.698G>T (p.Gly233Val)	825	CAPN3	Pathogenic/Likely pathogenic	GRCh38	4688892
+single nucleotide variant	NM_000070.3(CAPN3):c.2180G>A (p.Trp727Ter)	825	CAPN3	Pathogenic	GRCh38	4690879
+single nucleotide variant	NM_000070.3(CAPN3):c.1030-2A>C	825	CAPN3	Pathogenic	GRCh38	4816059
+single nucleotide variant	NM_000070.3(CAPN3):c.1355-1G>A	825	CAPN3	Pathogenic	GRCh38	4816128
+single nucleotide variant	NM_000070.3(CAPN3):c.1745+2T>G	825	CAPN3	Pathogenic	GRCh38	4816171
+single nucleotide variant	NM_000070.3(CAPN3):c.2050+1G>T	825	CAPN3	Pathogenic	GRCh38	4816202
+single nucleotide variant	NM_000070.3(CAPN3):c.229G>T (p.Asp77Tyr)	825	CAPN3	Likely pathogenic	GRCh38	4816261
+single nucleotide variant	NM_000070.3(CAPN3):c.318C>A (p.Cys106Ter)	825	CAPN3	Likely pathogenic	GRCh38	4816309
+single nucleotide variant	NM_000070.3(CAPN3):c.755T>A (p.Met252Lys)	825	CAPN3	Likely pathogenic	GRCh38	4816395
+single nucleotide variant	NM_000070.3(CAPN3):c.620A>G (p.Lys207Arg)	825	CAPN3	Likely pathogenic	GRCh38	4838710
+single nucleotide variant	NM_000070.3(CAPN3):c.1301A>T (p.Asn434Ile)	825	CAPN3	Likely pathogenic	GRCh38	4845738
+single nucleotide variant	NM_000070.3(CAPN3):c.259C>T (p.Leu87Phe)	825	CAPN3	Likely pathogenic	GRCh38	4850494

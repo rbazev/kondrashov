@@ -81,7 +81,6 @@ single nucleotide variant	NM_006269.2(RP1):c.615+2T>A	6101	RP1	Likely pathogenic
 single nucleotide variant	NM_006269.2(RP1):c.6146C>A (p.Ser2049Ter)	6101	RP1	Pathogenic	GRCh38	1456325
 single nucleotide variant	NM_006269.2(RP1):c.3949C>T (p.Gln1317Ter)	6101	RP1	Pathogenic	GRCh38	1458088
 single nucleotide variant	NM_006269.2(RP1):c.2215G>T (p.Glu739Ter)	6101	RP1	Pathogenic	GRCh38	1437481
-single nucleotide variant	NM_001375654.1(RP1):c.2212-1G>A	6101	RP1	Pathogenic	GRCh38	1686129
 single nucleotide variant	NM_006269.2(RP1):c.4370C>G (p.Ser1457Ter)	6101	RP1	Pathogenic	GRCh38	1916092
 single nucleotide variant	NM_006269.2(RP1):c.2077A>T (p.Lys693Ter)	6101	RP1	Pathogenic	GRCh38	1948814
 single nucleotide variant	NM_006269.2(RP1):c.788-1G>A	6101	RP1	Likely pathogenic	GRCh38	1950000
@@ -102,7 +101,6 @@ single nucleotide variant	NM_006269.2(RP1):c.2065C>T (p.Gln689Ter)	6101	RP1	Like
 single nucleotide variant	NM_006269.2(RP1):c.2185G>T (p.Glu729Ter)	6101	RP1	Pathogenic/Likely pathogenic	GRCh38	3028099
 single nucleotide variant	NM_006269.2(RP1):c.2377A>G (p.Arg793Gly)	6101	RP1	Likely pathogenic	GRCh38	3028102
 single nucleotide variant	NM_006269.2(RP1):c.2599A>T (p.Lys867Ter)	6101	RP1	Likely pathogenic	GRCh38	3028107
-single nucleotide variant	NM_006269.2(RP1):c.3171C>A (p.Asn1057Lys)	6101	RP1	Likely pathogenic	GRCh38	3028114
 single nucleotide variant	NM_006269.2(RP1):c.3669C>A (p.Cys1223Ter)	6101	RP1	Likely pathogenic	GRCh38	3028115
 single nucleotide variant	NM_006269.2(RP1):c.5502G>A (p.Leu1834=)	6101	RP1	Likely pathogenic	GRCh38	3028126
 single nucleotide variant	NM_006269.2(RP1):c.787+1G>A	6101	RP1	Pathogenic	GRCh38	3248763
@@ -128,3 +126,4 @@ single nucleotide variant	NM_006269.2(RP1):c.2236A>T (p.Lys746Ter)	6101	RP1	Path
 single nucleotide variant	NM_006269.2(RP1):c.2371A>T (p.Lys791Ter)	6101	RP1	Pathogenic	GRCh38	4731118
 single nucleotide variant	NM_006269.2(RP1):c.867C>G (p.Tyr289Ter)	6101	RP1	Pathogenic	GRCh38	4764433
 single nucleotide variant	NM_006269.2(RP1):c.2311C>T (p.Gln771Ter)	6101	RP1	Pathogenic	GRCh38	4807778
+single nucleotide variant	NM_001375654.1(RP1):c.3325C>T (p.Gln1109Ter)	6101	RP1	Likely pathogenic	GRCh38	4881434

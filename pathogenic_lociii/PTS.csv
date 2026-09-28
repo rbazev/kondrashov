@@ -1,0 +1,85 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000317.3(PTS):c.74G>A (p.Arg25Gln)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	476
+single nucleotide variant	NM_000317.3(PTS):c.46C>T (p.Arg16Cys)	5805	PTS	Likely pathogenic	GRCh38	477
+single nucleotide variant	NM_000317.3(PTS):c.155A>G (p.Asn52Ser)	5805	PTS	Pathogenic	GRCh38	479
+single nucleotide variant	NM_000317.3(PTS):c.259C>T (p.Pro87Ser)	5805	PTS	Pathogenic	GRCh38	480
+single nucleotide variant	NM_000317.3(PTS):c.166G>A (p.Val56Met)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	481
+single nucleotide variant	NM_000317.3(PTS):c.139A>G (p.Asn47Asp)	5805	PTS	Likely pathogenic	GRCh38	482
+single nucleotide variant	NM_000317.3(PTS):c.286G>A (p.Asp96Asn)	5805	PTS	Pathogenic	GRCh38	484
+single nucleotide variant	NM_000317.3(PTS):c.297C>A (p.Tyr99Ter)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	370413
+single nucleotide variant	NM_000317.3(PTS):c.281A>G (p.Asp94Gly)	5805	PTS	Likely pathogenic	GRCh38	372485
+single nucleotide variant	NM_000317.3(PTS):c.238A>G (p.Met80Val)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	372484
+single nucleotide variant	NM_000317.3(PTS):c.44C>T (p.Ser15Phe)	5805	PTS	Likely pathogenic	GRCh38	449684
+single nucleotide variant	NM_000317.3(PTS):c.73C>G (p.Arg25Gly)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	463153
+single nucleotide variant	NM_000317.3(PTS):c.200C>T (p.Thr67Met)	5805	PTS	Pathogenic	GRCh38	463151
+single nucleotide variant	NM_000317.3(PTS):c.164-2A>G	5805	PTS	Likely pathogenic	GRCh38	553634
+single nucleotide variant	NM_000317.3(PTS):c.186+1G>T	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	556264
+single nucleotide variant	NM_000317.3(PTS):c.260C>T (p.Pro87Leu)	5805	PTS	Pathogenic	GRCh38	553829
+single nucleotide variant	NM_000317.3(PTS):c.317C>T (p.Thr106Met)	5805	PTS	Pathogenic	GRCh38	552175
+single nucleotide variant	NM_000317.3(PTS):c.400G>A (p.Glu134Lys)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	556230
+single nucleotide variant	NM_000317.3(PTS):c.108C>G (p.Asn36Lys)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	555429
+single nucleotide variant	NM_000317.3(PTS):c.216T>A (p.Asn72Lys)	5805	PTS	Pathogenic	GRCh38	554191
+single nucleotide variant	NM_000317.3(PTS):c.244-1G>T	5805	PTS	Likely pathogenic	GRCh38	551511
+single nucleotide variant	NM_000317.3(PTS):c.296A>G (p.Tyr99Cys)	5805	PTS	Pathogenic	GRCh38	553441
+single nucleotide variant	NM_000317.3(PTS):c.315-1G>C	5805	PTS	Likely pathogenic	GRCh38	554579
+single nucleotide variant	NM_000317.3(PTS):c.26G>A (p.Arg9His)	5805	PTS	Pathogenic	GRCh38	552463
+single nucleotide variant	NM_000317.3(PTS):c.164-7T>A	5805	PTS	Pathogenic	GRCh38	552046
+single nucleotide variant	NM_000317.3(PTS):c.314+1G>C	5805	PTS	Likely pathogenic	GRCh38	557025
+single nucleotide variant	NM_000317.3(PTS):c.315-2A>G	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	558308
+single nucleotide variant	NM_000317.3(PTS):c.83+1G>A	5805	PTS	Likely pathogenic	GRCh38	552817
+single nucleotide variant	NM_000317.3(PTS):c.84-3C>G	5805	PTS	Pathogenic	GRCh38	553378
+single nucleotide variant	NM_000317.3(PTS):c.187A>G (p.Ile63Val)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	551578
+single nucleotide variant	NM_000317.3(PTS):c.400G>T (p.Glu134Ter)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	555399
+single nucleotide variant	NM_000317.3(PTS):c.159T>G (p.Tyr53Ter)	5805	PTS	Pathogenic	GRCh38	638994
+single nucleotide variant	NM_000317.3(PTS):c.272A>G (p.Lys91Arg)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	813419
+single nucleotide variant	NM_000317.3(PTS):c.73C>T (p.Arg25Ter)	5805	PTS	Pathogenic	GRCh38	859996
+single nucleotide variant	NM_000317.3(PTS):c.407A>G (p.Asp136Gly)	5805	PTS	Likely pathogenic	GRCh38	862227
+single nucleotide variant	NM_000317.3(PTS):c.2T>G (p.Met1Arg)	5805	PTS	Likely pathogenic	GRCh38	982126
+single nucleotide variant	NM_000317.3(PTS):c.342C>G (p.Ile114Met)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	982127
+single nucleotide variant	NM_000317.3(PTS):c.1A>G (p.Met1Val)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1067348
+single nucleotide variant	NM_000317.3(PTS):c.104A>G (p.Glu35Gly)	5805	PTS	Likely pathogenic	GRCh38	1068143
+single nucleotide variant	NM_000317.3(PTS):c.187-2A>G	5805	PTS	Likely pathogenic	GRCh38	1067075
+single nucleotide variant	NM_000317.3(PTS):c.367C>T (p.Pro123Ser)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1067696
+single nucleotide variant	NM_000317.3(PTS):c.407A>T (p.Asp136Val)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1073772
+single nucleotide variant	NM_000317.3(PTS):c.78G>T (p.Leu26Phe)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1308635
+single nucleotide variant	NM_000317.3(PTS):c.243+2T>C	5805	PTS	Likely pathogenic	GRCh38	1494809
+single nucleotide variant	NM_000317.3(PTS):c.314+2T>C	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1417019
+single nucleotide variant	NM_000317.3(PTS):c.384T>A (p.Tyr128Ter)	5805	PTS	Pathogenic	GRCh38	1451742
+single nucleotide variant	NM_000317.3(PTS):c.331G>A (p.Ala111Thr)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1453083
+single nucleotide variant	NM_000317.3(PTS):c.399C>A (p.Tyr133Ter)	5805	PTS	Pathogenic	GRCh38	1453091
+single nucleotide variant	NM_000317.3(PTS):c.163+1G>T	5805	PTS	Likely pathogenic	GRCh38	1479472
+single nucleotide variant	NM_000317.3(PTS):c.379C>T (p.Leu127Phe)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1455604
+single nucleotide variant	NM_000317.3(PTS):c.200C>A (p.Thr67Lys)	5805	PTS	Pathogenic	GRCh38	1458067
+single nucleotide variant	NM_000317.3(PTS):c.243G>A (p.Glu81=)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	1458069
+single nucleotide variant	NM_000317.3(PTS):c.65C>G (p.Ala22Gly)	5805	PTS	Likely pathogenic	GRCh38	1679199
+single nucleotide variant	NM_000317.3(PTS):c.351C>A (p.Asn117Lys)	5805	PTS	Likely pathogenic	GRCh38	1698882
+single nucleotide variant	NM_000317.3(PTS):c.186+1G>A	5805	PTS	Pathogenic	GRCh38	2137247
+single nucleotide variant	NM_000317.3(PTS):c.385A>G (p.Lys129Glu)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	2137249
+single nucleotide variant	NM_000317.3(PTS):c.84-2A>G	5805	PTS	Likely pathogenic	GRCh38	2144321
+single nucleotide variant	NM_000317.3(PTS):c.315-1G>A	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	2415103
+single nucleotide variant	NM_000317.3(PTS):c.245A>G (p.Glu82Gly)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	2416618
+single nucleotide variant	NM_000317.3(PTS):c.84-1G>A	5805	PTS	Likely pathogenic	GRCh38	2027048
+single nucleotide variant	NM_000317.3(PTS):c.85A>T (p.Lys29Ter)	5805	PTS	Pathogenic	GRCh38	2046210
+single nucleotide variant	NM_000317.3(PTS):c.243+1G>T	5805	PTS	Likely pathogenic	GRCh38	2127771
+single nucleotide variant	NM_000317.3(PTS):c.256C>T (p.Gln86Ter)	5805	PTS	Likely pathogenic	GRCh38	2432884
+single nucleotide variant	NM_000317.3(PTS):c.276T>A (p.Asn92Lys)	5805	PTS	Pathogenic	GRCh38	2678101
+single nucleotide variant	NM_000317.3(PTS):c.399C>G (p.Tyr133Ter)	5805	PTS	Likely pathogenic	GRCh38	2678103
+single nucleotide variant	NM_000317.3(PTS):c.83+1G>C	5805	PTS	Likely pathogenic	GRCh38	2678104
+single nucleotide variant	NM_000317.3(PTS):c.3G>T (p.Met1Ile)	5805	PTS	Pathogenic	GRCh38	2704000
+single nucleotide variant	NM_000317.3(PTS):c.370G>C (p.Val124Leu)	5805	PTS	Pathogenic	GRCh38	2766927
+single nucleotide variant	NM_000317.3(PTS):c.322G>T (p.Glu108Ter)	5805	PTS	Pathogenic	GRCh38	2910294
+single nucleotide variant	NM_000317.3(PTS):c.108C>A (p.Asn36Lys)	5805	PTS	Likely pathogenic	GRCh38	3061790
+single nucleotide variant	NM_000317.3(PTS):c.315-2A>C	5805	PTS	Likely pathogenic	GRCh38	3240234
+single nucleotide variant	NM_000317.3(PTS):c.244-2A>G	5805	PTS	Pathogenic	GRCh38	3240235
+single nucleotide variant	NM_000317.3(PTS):c.43T>G (p.Ser15Ala)	5805	PTS	Likely pathogenic	GRCh38	3360527
+single nucleotide variant	NM_000317.3(PTS):c.355C>T (p.Gln119Ter)	5805	PTS	Likely pathogenic	GRCh38	3598998
+single nucleotide variant	NM_000317.3(PTS):c.187-2A>T	5805	PTS	Pathogenic	GRCh38	3685851
+single nucleotide variant	NM_000317.3(PTS):c.416T>A (p.Ile139Asn)	5805	PTS	Likely pathogenic	GRCh38	3911560
+single nucleotide variant	NM_000317.3(PTS):c.242A>C (p.Glu81Ala)	5805	PTS	Likely pathogenic	GRCh38	4367589
+single nucleotide variant	NM_000317.3(PTS):c.94A>G (p.Ser32Gly)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	4750137
+single nucleotide variant	NM_000317.3(PTS):c.239T>C (p.Met80Thr)	5805	PTS	Likely pathogenic	GRCh38	4759260
+single nucleotide variant	NM_000317.3(PTS):c.331G>T (p.Ala111Ser)	5805	PTS	Likely pathogenic	GRCh38	4818152
+single nucleotide variant	NM_000317.3(PTS):c.3G>A (p.Met1Ile)	5805	PTS	Pathogenic/Likely pathogenic	GRCh38	4818153
+single nucleotide variant	NM_000317.3(PTS):c.371T>C (p.Val124Ala)	5805	PTS	Likely pathogenic	GRCh38	4849390
+single nucleotide variant	NM_000317.3(PTS):c.81C>A (p.Tyr27Ter)	5805	PTS	Likely pathogenic	GRCh38	4889786
+single nucleotide variant	NM_000317.3(PTS):c.314+1G>A	5805	PTS	Likely pathogenic	GRCh38	4890046

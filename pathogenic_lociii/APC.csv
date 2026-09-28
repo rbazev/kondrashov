@@ -316,7 +316,7 @@ single nucleotide variant	NM_000038.6(APC):c.1626G>C (p.Gln542His)	324	APC	Likel
 single nucleotide variant	NM_000038.6(APC):c.3311C>G (p.Ser1104Ter)	324	APC	Pathogenic	GRCh38	647928
 single nucleotide variant	NM_000038.6(APC):c.4006A>T (p.Arg1336Ter)	324	APC	Pathogenic	GRCh38	648675
 single nucleotide variant	NM_000038.6(APC):c.4025T>G (p.Leu1342Ter)	324	APC	Pathogenic	GRCh38	645602
-single nucleotide variant	NM_000038.6(APC):c.6395C>G (p.Ser2132Ter)	324	APC	Pathogenic	GRCh38	662578
+single nucleotide variant	NM_000038.6(APC):c.6395C>G (p.Ser2132Ter)	324	APC	Pathogenic/Likely pathogenic	GRCh38	662578
 single nucleotide variant	NM_000038.6(APC):c.6862C>T (p.Gln2288Ter)	324	APC	Pathogenic/Likely pathogenic	GRCh38	640262
 single nucleotide variant	NM_000038.6(APC):c.7069A>T (p.Lys2357Ter)	324	APC	Pathogenic	GRCh38	639574
 single nucleotide variant	NM_000038.6(APC):c.7678C>T (p.Arg2560Ter)	324	APC	Pathogenic/Likely pathogenic	GRCh38	654491
@@ -341,7 +341,7 @@ single nucleotide variant	NM_000038.6(APC):c.7114C>T (p.Gln2372Ter)	324	APC	Path
 single nucleotide variant	NM_000038.6(APC):c.7295C>G (p.Ser2432Ter)	324	APC	Pathogenic	GRCh38	826949
 single nucleotide variant	NM_000038.6(APC):c.423-11A>G	324	APC	Likely pathogenic	GRCh38	824698
 single nucleotide variant	NM_000038.6(APC):c.933+2T>G	324	APC	Likely pathogenic	GRCh38	823172
-single nucleotide variant	NM_000038.6(APC):c.933+829A>G	324	APC	Pathogenic	GRCh38	823173
+single nucleotide variant	NM_000038.6(APC):c.933+829A>G	324	APC	Pathogenic/Likely pathogenic	GRCh38	823173
 single nucleotide variant	NM_000038.6(APC):c.1312+1G>T	324	APC	Likely pathogenic	GRCh38	818877
 single nucleotide variant	NM_000038.6(APC):c.1627-1G>A	324	APC	Pathogenic	GRCh38	819698
 single nucleotide variant	NM_000038.6(APC):c.1744-3T>G	324	APC	Pathogenic	GRCh38	819988
@@ -395,7 +395,7 @@ single nucleotide variant	NM_000038.6(APC):c.933G>C (p.Lys311Asn)	324	APC	Likely
 single nucleotide variant	NM_000038.6(APC):c.220+3A>G	324	APC	Likely pathogenic	GRCh38	1049335
 single nucleotide variant	NM_000038.6(APC):c.230T>A (p.Leu77Ter)	324	APC	Pathogenic	GRCh38	1050615
 single nucleotide variant	NM_000038.6(APC):c.423-8A>G	324	APC	Likely pathogenic	GRCh38	1050028
-single nucleotide variant	NM_000038.6(APC):c.835-1G>A	324	APC	Likely pathogenic	GRCh38	1050175
+single nucleotide variant	NM_000038.6(APC):c.835-1G>A	324	APC	Pathogenic/Likely pathogenic	GRCh38	1050175
 single nucleotide variant	NM_000038.6(APC):c.4161T>A (p.Cys1387Ter)	324	APC	Pathogenic	GRCh38	1050660
 single nucleotide variant	NM_000038.6(APC):c.4606G>T (p.Glu1536Ter)	324	APC	Pathogenic	GRCh38	1050551
 single nucleotide variant	NM_000038.6(APC):c.422+1G>C	324	APC	Likely pathogenic	GRCh38	1066891
@@ -469,7 +469,7 @@ single nucleotide variant	NM_000038.6(APC):c.3441C>G (p.Tyr1147Ter)	324	APC	Path
 single nucleotide variant	NM_000038.6(APC):c.645+2T>C	324	APC	Likely pathogenic	GRCh38	1685243
 single nucleotide variant	NM_000038.6(APC):c.412G>T (p.Glu138Ter)	324	APC	Pathogenic	GRCh38	1685521
 single nucleotide variant	NM_001127510.3(APC):c.5758C>T (p.Arg1920Ter)	324	APC	Pathogenic/Likely pathogenic	GRCh38	1691813
-single nucleotide variant	NM_000038.6(APC):c.5506G>T (p.Gly1836Ter)	324	APC	Likely pathogenic	GRCh38	1692249
+single nucleotide variant	NM_000038.6(APC):c.5506G>T (p.Gly1836Ter)	324	APC	Pathogenic/Likely pathogenic	GRCh38	1692249
 single nucleotide variant	NM_000038.6(APC):c.203T>A (p.Leu68Ter)	324	APC	Pathogenic	GRCh38	1697512
 single nucleotide variant	NM_000038.6(APC):c.289G>A (p.Gly97Arg)	324	APC	Pathogenic	GRCh38	1697514
 single nucleotide variant	NM_000038.6(APC):c.6514G>T (p.Glu2172Ter)	324	APC	Pathogenic	GRCh38	1697527
@@ -500,7 +500,7 @@ single nucleotide variant	NM_000038.6(APC):c.8155G>T (p.Glu2719Ter)	324	APC	Path
 single nucleotide variant	NM_000038.6(APC):c.948T>A (p.Tyr316Ter)	324	APC	Pathogenic	GRCh38	1767127
 single nucleotide variant	NM_000038.6(APC):c.1248C>A (p.Tyr416Ter)	324	APC	Pathogenic	GRCh38	1759941
 single nucleotide variant	NM_000038.6(APC):c.7664C>A (p.Ser2555Ter)	324	APC	Likely pathogenic	GRCh38	1760046
-single nucleotide variant	NM_000038.6(APC):c.933G>A (p.Lys311=)	324	APC	Likely pathogenic	GRCh38	1766629
+single nucleotide variant	NM_000038.6(APC):c.933G>A (p.Lys311=)	324	APC	Pathogenic/Likely pathogenic	GRCh38	1766629
 single nucleotide variant	NM_000038.6(APC):c.135+1G>C	324	APC	Likely pathogenic	GRCh38	1770580
 single nucleotide variant	NM_000038.6(APC):c.1738A>T (p.Lys580Ter)	324	APC	Pathogenic	GRCh38	1779121
 single nucleotide variant	NM_000038.6(APC):c.1743+1G>C	324	APC	Pathogenic/Likely pathogenic	GRCh38	1779228
@@ -738,7 +738,7 @@ single nucleotide variant	NM_000038.6(APC):c.3842C>A (p.Ser1281Ter)	324	APC	Like
 single nucleotide variant	NM_000038.6(APC):c.1273G>T (p.Glu425Ter)	324	APC	Pathogenic	GRCh38	3779340
 single nucleotide variant	NM_000038.6(APC):c.992C>A (p.Ser331Ter)	324	APC	Pathogenic	GRCh38	3779347
 single nucleotide variant	NM_000038.6(APC):c.3587C>A (p.Ser1196Ter)	324	APC	Pathogenic	GRCh38	3779681
-single nucleotide variant	NM_000038.6(APC):c.8530T>C (p.Ter2844Gln)	324	APC	Likely pathogenic	GRCh38	3881072
+single nucleotide variant	NM_000038.6(APC):c.8530T>C (p.Ter2844Gln)	324	APC	Pathogenic	GRCh38	3881072
 single nucleotide variant	NM_000038.6(APC):c.1743+2156G>C	324	APC	Likely pathogenic	GRCh38	3882279
 single nucleotide variant	NM_000038.6(APC):c.499A>T (p.Lys167Ter)	324	APC	Pathogenic	GRCh38	3895933
 single nucleotide variant	NM_000038.6(APC):c.4345A>T (p.Lys1449Ter)	324	APC	Pathogenic	GRCh38	3904047
@@ -763,3 +763,9 @@ single nucleotide variant	NM_000038.6(APC):c.5642T>G (p.Leu1881Ter)	324	APC	Like
 single nucleotide variant	NM_000038.6(APC):c.933+1G>T	324	APC	Likely pathogenic	GRCh38	4843502
 single nucleotide variant	NM_000038.6(APC):c.2138C>A (p.Ser713Ter)	324	APC	Pathogenic	GRCh38	4843517
 single nucleotide variant	NM_000038.6(APC):c.4700C>A (p.Ser1567Ter)	324	APC	Likely pathogenic	GRCh38	4853923
+single nucleotide variant	NM_000038.6(APC):c.1312+5G>T	324	APC	Likely pathogenic	GRCh38	4856704
+single nucleotide variant	NM_000038.6(APC):c.1548+2T>A	324	APC	Pathogenic	GRCh38	4856771
+single nucleotide variant	NM_000038.6(APC):c.6943C>T (p.Gln2315Ter)	324	APC	Pathogenic	GRCh38	4856772
+single nucleotide variant	NM_000038.6(APC):c.1195A>T (p.Arg399Ter)	324	APC	Pathogenic	GRCh38	4861083
+single nucleotide variant	NM_000038.6(APC):c.5565T>A (p.Cys1855Ter)	324	APC	Pathogenic	GRCh38	4861226
+single nucleotide variant	NM_000038.6(APC):c.604G>T (p.Glu202Ter)	324	APC	Pathogenic	GRCh38	4860861

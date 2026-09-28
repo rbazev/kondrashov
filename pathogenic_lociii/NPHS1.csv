@@ -1,0 +1,268 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004646.4(NPHS1):c.3325C>T (p.Arg1109Ter)	4868	NPHS1	Pathogenic	GRCh38	6867
+single nucleotide variant	NM_004646.4(NPHS1):c.3478C>T (p.Arg1160Ter)	4868	NPHS1	Pathogenic	GRCh38	6873
+single nucleotide variant	NM_004646.4(NPHS1):c.793T>C (p.Cys265Arg)	4868	NPHS1	Likely pathogenic	GRCh38	6874
+single nucleotide variant	NM_004646.4(NPHS1):c.2464G>A (p.Val822Met)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	6875
+single nucleotide variant	NM_004646.4(NPHS1):c.1048T>C (p.Ser350Pro)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56419
+single nucleotide variant	NM_004646.4(NPHS1):c.1096A>C (p.Ser366Arg)	4868	NPHS1	Pathogenic	GRCh38	56420
+single nucleotide variant	NM_004646.4(NPHS1):c.1099C>T (p.Arg367Cys)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56421
+single nucleotide variant	NM_004646.4(NPHS1):c.1102C>T (p.Pro368Ser)	4868	NPHS1	Likely pathogenic	GRCh38	56423
+single nucleotide variant	NM_004646.4(NPHS1):c.1103C>T (p.Pro368Leu)	4868	NPHS1	Likely pathogenic	GRCh38	56424
+single nucleotide variant	NM_004646.4(NPHS1):c.1134G>A (p.Trp378Ter)	4868	NPHS1	Likely pathogenic	GRCh38	56426
+single nucleotide variant	NM_004646.4(NPHS1):c.1135C>T (p.Arg379Trp)	4868	NPHS1	Pathogenic	GRCh38	56427
+single nucleotide variant	NM_004646.4(NPHS1):c.1138C>T (p.Gln380Ter)	4868	NPHS1	Likely pathogenic	GRCh38	56429
+single nucleotide variant	NM_004646.4(NPHS1):c.1219C>T (p.Arg407Trp)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56430
+single nucleotide variant	NM_004646.4(NPHS1):c.1250G>T (p.Cys417Phe)	4868	NPHS1	Likely pathogenic	GRCh38	56433
+single nucleotide variant	NM_004646.4(NPHS1):c.1379G>A (p.Arg460Gln)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56438
+single nucleotide variant	NM_004646.4(NPHS1):c.1394G>A (p.Cys465Tyr)	4868	NPHS1	Pathogenic	GRCh38	56439
+single nucleotide variant	NM_004646.4(NPHS1):c.1555C>T (p.Pro519Ser)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56442
+single nucleotide variant	NM_004646.4(NPHS1):c.1583G>T (p.Cys528Phe)	4868	NPHS1	Likely pathogenic	GRCh38	56443
+single nucleotide variant	NM_004646.4(NPHS1):c.1672C>T (p.Arg558Cys)	4868	NPHS1	Likely pathogenic	GRCh38	56444
+single nucleotide variant	NM_004646.4(NPHS1):c.1701C>A (p.Cys567Ter)	4868	NPHS1	Pathogenic	GRCh38	56445
+single nucleotide variant	NM_004646.4(NPHS1):c.1707C>G (p.Ser569Arg)	4868	NPHS1	Likely pathogenic	GRCh38	56446
+single nucleotide variant	NM_004646.4(NPHS1):c.1715G>A (p.Ser572Asn)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56447
+single nucleotide variant	NM_004646.4(NPHS1):c.1724C>A (p.Pro575Gln)	4868	NPHS1	Likely pathogenic	GRCh38	56448
+single nucleotide variant	NM_004646.4(NPHS1):c.1760T>G (p.Leu587Arg)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56450
+single nucleotide variant	NM_004646.4(NPHS1):c.1801G>C (p.Gly601Arg)	4868	NPHS1	Likely pathogenic	GRCh38	56451
+single nucleotide variant	NM_004646.4(NPHS1):c.1829T>A (p.Leu610Gln)	4868	NPHS1	Likely pathogenic	GRCh38	56452
+single nucleotide variant	NM_004646.4(NPHS1):c.1868G>T (p.Cys623Phe)	4868	NPHS1	Pathogenic	GRCh38	56453
+single nucleotide variant	NM_004646.4(NPHS1):c.191G>C (p.Trp64Ser)	4868	NPHS1	Likely pathogenic	GRCh38	56455
+single nucleotide variant	NM_004646.4(NPHS1):c.1928T>C (p.Leu643Pro)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56456
+single nucleotide variant	NM_004646.4(NPHS1):c.1954C>T (p.Gln652Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56457
+single nucleotide variant	NM_004646.4(NPHS1):c.2019C>A (p.Asn673Lys)	4868	NPHS1	Likely pathogenic	GRCh38	56458
+single nucleotide variant	NM_004646.4(NPHS1):c.2043G>T (p.Trp681Cys)	4868	NPHS1	Likely pathogenic	GRCh38	56459
+single nucleotide variant	NM_004646.4(NPHS1):c.2071+2T>C	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56460
+single nucleotide variant	NM_004646.4(NPHS1):c.2126T>G (p.Val709Gly)	4868	NPHS1	Likely pathogenic	GRCh38	56462
+single nucleotide variant	NM_004646.4(NPHS1):c.2171C>G (p.Ser724Cys)	4868	NPHS1	Likely pathogenic	GRCh38	56465
+single nucleotide variant	NM_004646.4(NPHS1):c.2216C>T (p.Ala739Val)	4868	NPHS1	Likely pathogenic	GRCh38	56467
+single nucleotide variant	NM_004646.4(NPHS1):c.2225T>C (p.Ile742Thr)	4868	NPHS1	Likely pathogenic	GRCh38	56468
+single nucleotide variant	NM_004646.4(NPHS1):c.2227C>T (p.Arg743Cys)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56469
+single nucleotide variant	NM_004646.4(NPHS1):c.2404C>T (p.Arg802Trp)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56471
+single nucleotide variant	NM_004646.4(NPHS1):c.2405G>C (p.Arg802Pro)	4868	NPHS1	Likely pathogenic	GRCh38	56472
+single nucleotide variant	NM_004646.4(NPHS1):c.2417C>A (p.Ala806Asp)	4868	NPHS1	Pathogenic	GRCh38	56473
+single nucleotide variant	NM_004646.4(NPHS1):c.2442C>G (p.Tyr814Ter)	4868	NPHS1	Pathogenic	GRCh38	56474
+single nucleotide variant	NM_004646.4(NPHS1):c.2491C>T (p.Arg831Cys)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56476
+single nucleotide variant	NM_004646.4(NPHS1):c.2495T>C (p.Leu832Pro)	4868	NPHS1	Likely pathogenic	GRCh38	56477
+single nucleotide variant	NM_004646.4(NPHS1):c.2500G>T (p.Val834Phe)	4868	NPHS1	Likely pathogenic	GRCh38	56478
+single nucleotide variant	NM_004646.4(NPHS1):c.2596C>T (p.Arg866Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56481
+single nucleotide variant	NM_004646.4(NPHS1):c.2625G>A (p.Trp875Ter)	4868	NPHS1	Likely pathogenic	GRCh38	56484
+single nucleotide variant	NM_004646.4(NPHS1):c.2783C>A (p.Ser928Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56487
+single nucleotide variant	NM_004646.4(NPHS1):c.2815+5G>A	4868	NPHS1	Likely pathogenic	GRCh38	56488
+single nucleotide variant	NM_004646.4(NPHS1):c.286C>G (p.Leu96Val)	4868	NPHS1	Likely pathogenic	GRCh38	56490
+single nucleotide variant	NM_004646.4(NPHS1):c.2927+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	56491
+single nucleotide variant	NM_004646.4(NPHS1):c.313G>A (p.Asp105Asn)	4868	NPHS1	Likely pathogenic	GRCh38	56493
+single nucleotide variant	NM_004646.4(NPHS1):c.3388-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	56499
+single nucleotide variant	NM_004646.4(NPHS1):c.3482G>T (p.Gly1161Val)	4868	NPHS1	Likely pathogenic	GRCh38	56501
+single nucleotide variant	NM_004646.4(NPHS1):c.3595-2A>G	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56502
+single nucleotide variant	NM_004646.4(NPHS1):c.398-1G>A	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56504
+single nucleotide variant	NM_004646.4(NPHS1):c.468C>G (p.Tyr156Ter)	4868	NPHS1	Pathogenic	GRCh38	56505
+single nucleotide variant	NM_004646.4(NPHS1):c.479G>C (p.Cys160Ser)	4868	NPHS1	Pathogenic	GRCh38	56506
+single nucleotide variant	NM_004646.4(NPHS1):c.500C>T (p.Pro167Leu)	4868	NPHS1	Likely pathogenic	GRCh38	56507
+single nucleotide variant	NM_004646.4(NPHS1):c.512T>A (p.Ile171Asn)	4868	NPHS1	Likely pathogenic	GRCh38	56508
+single nucleotide variant	NM_004646.4(NPHS1):c.518T>A (p.Ile173Asn)	4868	NPHS1	Likely pathogenic	GRCh38	56511
+single nucleotide variant	NM_004646.4(NPHS1):c.526+5G>C	4868	NPHS1	Likely pathogenic	GRCh38	56512
+single nucleotide variant	NM_004646.4(NPHS1):c.532C>T (p.Gln178Ter)	4868	NPHS1	Pathogenic	GRCh38	56513
+single nucleotide variant	NM_004646.4(NPHS1):c.574C>T (p.Gln192Ter)	4868	NPHS1	Pathogenic	GRCh38	56515
+single nucleotide variant	NM_004646.4(NPHS1):c.58+1G>T	4868	NPHS1	Pathogenic	GRCh38	56516
+single nucleotide variant	NM_004646.4(NPHS1):c.609-2A>C	4868	NPHS1	Likely pathogenic	GRCh38	56517
+single nucleotide variant	NM_004646.4(NPHS1):c.692C>A (p.Ser231Ter)	4868	NPHS1	Pathogenic	GRCh38	56520
+single nucleotide variant	NM_004646.4(NPHS1):c.736G>T (p.Glu246Ter)	4868	NPHS1	Pathogenic	GRCh38	56521
+single nucleotide variant	NM_004646.4(NPHS1):c.808G>T (p.Gly270Cys)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	56523
+single nucleotide variant	NM_004646.4(NPHS1):c.886G>A (p.Ala296Thr)	4868	NPHS1	Likely pathogenic	GRCh38	56524
+single nucleotide variant	NM_004646.4(NPHS1):c.3442C>T (p.Gln1148Ter)	4868	NPHS1	Pathogenic	GRCh38	189074
+single nucleotide variant	NM_004646.4(NPHS1):c.3312-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	189146
+single nucleotide variant	NM_004646.4(NPHS1):c.2928G>T (p.Arg976Ser)	4868	NPHS1	Pathogenic	GRCh38	188761
+single nucleotide variant	NM_004646.4(NPHS1):c.2335-1G>A	4868	NPHS1	Pathogenic	GRCh38	188734
+single nucleotide variant	NM_004646.4(NPHS1):c.565G>T (p.Glu189Ter)	4868	NPHS1	Pathogenic	GRCh38	188816
+single nucleotide variant	NM_004646.4(NPHS1):c.2120G>A (p.Trp707Ter)	4868	NPHS1	Pathogenic	GRCh38	370574
+single nucleotide variant	NM_004646.4(NPHS1):c.1334G>A (p.Trp445Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	370800
+single nucleotide variant	NM_004646.4(NPHS1):c.1013-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	371617
+single nucleotide variant	NM_004646.4(NPHS1):c.866G>A (p.Trp289Ter)	4868	NPHS1	Pathogenic	GRCh38	370925
+single nucleotide variant	NM_004646.4(NPHS1):c.397+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	371159
+single nucleotide variant	NM_004646.4(NPHS1):c.3481+4A>T	4868	NPHS1	Likely pathogenic	GRCh38	392906
+single nucleotide variant	NM_004646.4(NPHS1):c.2206G>A (p.Val736Met)	4868	NPHS1	Likely pathogenic	GRCh38	430877
+single nucleotide variant	NM_004646.4(NPHS1):c.802C>T (p.Arg268Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	496273
+single nucleotide variant	NM_004646.4(NPHS1):c.2663+2T>G	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	496271
+single nucleotide variant	NM_004646.4(NPHS1):c.3549C>A (p.Tyr1183Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	552390
+single nucleotide variant	NM_004646.4(NPHS1):c.3287-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	553028
+single nucleotide variant	NM_004646.4(NPHS1):c.1931-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	550241
+single nucleotide variant	NM_004646.4(NPHS1):c.928G>A (p.Asp310Asn)	4868	NPHS1	Pathogenic	GRCh38	556151
+single nucleotide variant	NM_004646.4(NPHS1):c.398-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	550888
+single nucleotide variant	NM_004646.4(NPHS1):c.3594+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	552983
+single nucleotide variant	NM_004646.4(NPHS1):c.3286+5G>A	4868	NPHS1	Likely pathogenic	GRCh38	557003
+single nucleotide variant	NM_004646.4(NPHS1):c.3167-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	558530
+single nucleotide variant	NM_004646.4(NPHS1):c.3027C>G (p.Tyr1009Ter)	4868	NPHS1	Pathogenic	GRCh38	553429
+single nucleotide variant	NM_004646.4(NPHS1):c.2663G>A (p.Arg888Lys)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	554911
+single nucleotide variant	NM_004646.4(NPHS1):c.1757+1G>A	4868	NPHS1	Pathogenic	GRCh38	554443
+single nucleotide variant	NM_004646.4(NPHS1):c.1316-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	557792
+single nucleotide variant	NM_004646.4(NPHS1):c.58+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	556441
+single nucleotide variant	NM_004646.4(NPHS1):c.1592G>T (p.Gly531Val)	4868	NPHS1	Likely pathogenic	GRCh38	562342
+single nucleotide variant	NM_004646.4(NPHS1):c.772G>T (p.Gly258Ter)	4868	NPHS1	Pathogenic	GRCh38	631810
+single nucleotide variant	NM_004646.4(NPHS1):c.2479C>T (p.Arg827Ter)	4868	NPHS1	Pathogenic	GRCh38	632927
+single nucleotide variant	NM_004646.4(NPHS1):c.3286+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	803551
+single nucleotide variant	NM_004646.4(NPHS1):c.2663+2T>A	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	812905
+single nucleotide variant	NM_004646.4(NPHS1):c.740G>A (p.Trp247Ter)	4868	NPHS1	Pathogenic	GRCh38	813498
+single nucleotide variant	NM_004646.4(NPHS1):c.3343G>T (p.Glu1115Ter)	4868	NPHS1	Pathogenic	GRCh38	850390
+single nucleotide variant	NM_004646.4(NPHS1):c.58+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	847759
+single nucleotide variant	NM_004646.4(NPHS1):c.3481+1G>T	4868	NPHS1	Pathogenic	GRCh38	928578
+single nucleotide variant	NM_004646.4(NPHS1):c.2870T>A (p.Val957Glu)	4868	NPHS1	Likely pathogenic	GRCh38	931014
+single nucleotide variant	NM_004646.4(NPHS1):c.2324G>A (p.Trp775Ter)	4868	NPHS1	Pathogenic	GRCh38	952462
+single nucleotide variant	NM_004646.4(NPHS1):c.3109+2T>G	4868	NPHS1	Likely pathogenic	GRCh38	936177
+single nucleotide variant	NM_004646.4(NPHS1):c.1567C>T (p.Gln523Ter)	4868	NPHS1	Pathogenic	GRCh38	955198
+single nucleotide variant	NM_004646.4(NPHS1):c.1156G>T (p.Glu386Ter)	4868	NPHS1	Pathogenic	GRCh38	963113
+single nucleotide variant	NM_004646.4(NPHS1):c.1316-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	958879
+single nucleotide variant	NM_004646.4(NPHS1):c.2131C>A (p.Arg711Ser)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	988266
+single nucleotide variant	NM_004646.4(NPHS1):c.249C>G (p.Tyr83Ter)	4868	NPHS1	Pathogenic	GRCh38	992391
+single nucleotide variant	NM_004646.4(NPHS1):c.3387+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	1068310
+single nucleotide variant	NM_004646.4(NPHS1):c.2728T>C (p.Ser910Pro)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1065992
+single nucleotide variant	NM_004646.4(NPHS1):c.2507-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	1066801
+single nucleotide variant	NM_004646.4(NPHS1):c.2506+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	1065999
+single nucleotide variant	NM_004646.4(NPHS1):c.1097G>A (p.Ser366Asn)	4868	NPHS1	Likely pathogenic	GRCh38	1066570
+single nucleotide variant	NM_004646.4(NPHS1):c.1049C>A (p.Ser350Tyr)	4868	NPHS1	Likely pathogenic	GRCh38	1066437
+single nucleotide variant	NM_004646.4(NPHS1):c.713-2A>T	4868	NPHS1	Likely pathogenic	GRCh38	1066313
+single nucleotide variant	NM_004646.4(NPHS1):c.527-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	1066214
+single nucleotide variant	NM_004646.4(NPHS1):c.2686C>T (p.Gln896Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1073228
+single nucleotide variant	NM_004646.4(NPHS1):c.1117C>T (p.Arg373Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1073364
+single nucleotide variant	NM_004646.4(NPHS1):c.2512C>A (p.Pro838Thr)	4868	NPHS1	Likely pathogenic	GRCh38	1077027
+single nucleotide variant	NM_004646.4(NPHS1):c.2927+2T>A	4868	NPHS1	Likely pathogenic	GRCh38	1179047
+single nucleotide variant	NM_004646.4(NPHS1):c.2071+1G>T	4868	NPHS1	Likely pathogenic	GRCh38	1301670
+single nucleotide variant	NM_004646.4(NPHS1):c.1434G>A (p.Trp478Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1324818
+single nucleotide variant	NM_004646.4(NPHS1):c.2930A>G (p.Tyr977Cys)	4868	NPHS1	Likely pathogenic	GRCh38	1328157
+single nucleotide variant	NM_004646.4(NPHS1):c.2600G>A (p.Gly867Asp)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1339205
+single nucleotide variant	NM_004646.4(NPHS1):c.728C>T (p.Pro243Leu)	4868	NPHS1	Likely pathogenic	GRCh38	1344646
+single nucleotide variant	NM_004646.4(NPHS1):c.2014G>A (p.Ala672Thr)	4868	NPHS1	Likely pathogenic	GRCh38	1344787
+single nucleotide variant	NM_004646.4(NPHS1):c.2335-2A>G	4868	NPHS1	Pathogenic	GRCh38	1357218
+single nucleotide variant	NM_004646.4(NPHS1):c.275-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	1467122
+single nucleotide variant	NM_004646.4(NPHS1):c.2132G>C (p.Arg711Pro)	4868	NPHS1	Likely pathogenic	GRCh38	1523657
+single nucleotide variant	NM_004646.4(NPHS1):c.1121G>A (p.Trp374Ter)	4868	NPHS1	Pathogenic	GRCh38	1384606
+single nucleotide variant	NM_004646.4(NPHS1):c.2815+1G>C	4868	NPHS1	Likely pathogenic	GRCh38	1468451
+single nucleotide variant	NM_004646.4(NPHS1):c.2387G>A (p.Gly796Glu)	4868	NPHS1	Likely pathogenic	GRCh38	1498356
+single nucleotide variant	NM_004646.4(NPHS1):c.1867T>C (p.Cys623Arg)	4868	NPHS1	Likely pathogenic	GRCh38	1473484
+single nucleotide variant	NM_004646.4(NPHS1):c.1279G>T (p.Glu427Ter)	4868	NPHS1	Pathogenic	GRCh38	1377212
+single nucleotide variant	NM_004646.4(NPHS1):c.105G>A (p.Trp35Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1378967
+single nucleotide variant	NM_004646.4(NPHS1):c.322G>T (p.Glu108Ter)	4868	NPHS1	Pathogenic	GRCh38	1423988
+single nucleotide variant	NM_004646.4(NPHS1):c.2416G>A (p.Ala806Thr)	4868	NPHS1	Likely pathogenic	GRCh38	1477778
+single nucleotide variant	NM_004646.4(NPHS1):c.479G>A (p.Cys160Tyr)	4868	NPHS1	Pathogenic	GRCh38	1454548
+single nucleotide variant	NM_004646.4(NPHS1):c.3110-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	1507228
+single nucleotide variant	NM_004646.4(NPHS1):c.526+1G>C	4868	NPHS1	Likely pathogenic	GRCh38	1483737
+single nucleotide variant	NM_004646.4(NPHS1):c.397+2T>A	4868	NPHS1	Likely pathogenic	GRCh38	1513569
+single nucleotide variant	NM_004646.4(NPHS1):c.450G>A (p.Trp150Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1457104
+single nucleotide variant	NM_004646.4(NPHS1):c.795C>A (p.Cys265Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1459549
+single nucleotide variant	NM_004646.4(NPHS1):c.2083C>T (p.Arg695Trp)	4868	NPHS1	Likely pathogenic	GRCh38	1516229
+single nucleotide variant	NM_004646.4(NPHS1):c.608+1G>T	4868	NPHS1	Likely pathogenic	GRCh38	1518708
+single nucleotide variant	NM_004646.4(NPHS1):c.1441-1G>T	4868	NPHS1	Likely pathogenic	GRCh38	1520044
+single nucleotide variant	NM_004646.4(NPHS1):c.2587T>C (p.Cys863Arg)	4868	NPHS1	Pathogenic	GRCh38	1722406
+single nucleotide variant	NM_004646.4(NPHS1):c.3594+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	1723351
+single nucleotide variant	NM_004646.4(NPHS1):c.1925T>C (p.Val642Ala)	4868	NPHS1	Likely pathogenic	GRCh38	1723896
+single nucleotide variant	NM_004646.4(NPHS1):c.3357G>A (p.Trp1119Ter)	4868	NPHS1	Likely pathogenic	GRCh38	1724148
+single nucleotide variant	NM_004646.4(NPHS1):c.641T>A (p.Leu214Ter)	4868	NPHS1	Likely pathogenic	GRCh38	1725227
+single nucleotide variant	NM_004646.4(NPHS1):c.333C>A (p.Cys111Ter)	4868	NPHS1	Likely pathogenic	GRCh38	1725757
+single nucleotide variant	NM_004646.4(NPHS1):c.295G>T (p.Glu99Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1726021
+single nucleotide variant	NM_004646.4(NPHS1):c.71T>A (p.Leu24Ter)	4868	NPHS1	Likely pathogenic	GRCh38	1726198
+single nucleotide variant	NM_004646.4(NPHS1):c.187C>T (p.Gln63Ter)	4868	NPHS1	Likely pathogenic	GRCh38	1726782
+single nucleotide variant	NM_004646.4(NPHS1):c.2931T>G (p.Tyr977Ter)	4868	NPHS1	Pathogenic	GRCh38	1809715
+single nucleotide variant	NM_004646.4(NPHS1):c.3312-1G>C	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2145832
+single nucleotide variant	NM_004646.4(NPHS1):c.3364G>T (p.Glu1122Ter)	4868	NPHS1	Pathogenic	GRCh38	2421941
+single nucleotide variant	NM_004646.4(NPHS1):c.1531C>T (p.Arg511Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1915112
+single nucleotide variant	NM_004646.4(NPHS1):c.2T>C (p.Met1Thr)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	1950836
+single nucleotide variant	NM_004646.4(NPHS1):c.2443C>T (p.Gln815Ter)	4868	NPHS1	Pathogenic	GRCh38	2008297
+single nucleotide variant	NM_004646.4(NPHS1):c.1831C>T (p.Gln611Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2011354
+single nucleotide variant	NM_004646.4(NPHS1):c.3259C>T (p.Gln1087Ter)	4868	NPHS1	Pathogenic	GRCh38	2011690
+single nucleotide variant	NM_004646.4(NPHS1):c.2386G>T (p.Gly796Ter)	4868	NPHS1	Pathogenic	GRCh38	2022731
+single nucleotide variant	NM_004646.4(NPHS1):c.928G>T (p.Asp310Tyr)	4868	NPHS1	Likely pathogenic	GRCh38	2032904
+single nucleotide variant	NM_004646.4(NPHS1):c.1559C>A (p.Ser520Ter)	4868	NPHS1	Pathogenic	GRCh38	2043309
+single nucleotide variant	NM_004646.4(NPHS1):c.2667C>A (p.Tyr889Ter)	4868	NPHS1	Pathogenic	GRCh38	2034179
+single nucleotide variant	NM_004646.4(NPHS1):c.1914T>A (p.Tyr638Ter)	4868	NPHS1	Pathogenic	GRCh38	2033281
+single nucleotide variant	NM_004646.4(NPHS1):c.2927+1G>T	4868	NPHS1	Likely pathogenic	GRCh38	2099670
+single nucleotide variant	NM_004646.4(NPHS1):c.847C>T (p.Gln283Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2115119
+single nucleotide variant	NM_004646.4(NPHS1):c.1012+2T>A	4868	NPHS1	Likely pathogenic	GRCh38	2114681
+single nucleotide variant	NM_004646.4(NPHS1):c.274+2T>A	4868	NPHS1	Likely pathogenic	GRCh38	2109301
+single nucleotide variant	NM_004646.4(NPHS1):c.314A>C (p.Asp105Ala)	4868	NPHS1	Likely pathogenic	GRCh38	2129116
+single nucleotide variant	NM_004646.4(NPHS1):c.2353C>T (p.Gln785Ter)	4868	NPHS1	Pathogenic	GRCh38	2117842
+single nucleotide variant	NM_004646.4(NPHS1):c.3481+2T>C	4868	NPHS1	Pathogenic	GRCh38	2129692
+single nucleotide variant	NM_004646.4(NPHS1):c.1315+1G>A	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2429207
+single nucleotide variant	NM_004646.4(NPHS1):c.1939G>T (p.Glu647Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2445906
+single nucleotide variant	NM_004646.4(NPHS1):c.1001T>C (p.Leu334Pro)	4868	NPHS1	Likely pathogenic	GRCh38	2504645
+single nucleotide variant	NM_004646.4(NPHS1):c.2132G>A (p.Arg711His)	4868	NPHS1	Likely pathogenic	GRCh38	2581211
+single nucleotide variant	NM_004646.4(NPHS1):c.2021C>T (p.Pro674Leu)	4868	NPHS1	Pathogenic	GRCh38	2637927
+single nucleotide variant	NM_004646.4(NPHS1):c.2899G>A (p.Gly967Arg)	4868	NPHS1	Pathogenic	GRCh38	2637929
+single nucleotide variant	NM_004646.4(NPHS1):c.3482-2A>C	4868	NPHS1	Likely pathogenic	GRCh38	2677286
+single nucleotide variant	NM_004646.4(NPHS1):c.840+1G>T	4868	NPHS1	Pathogenic	GRCh38	2677287
+single nucleotide variant	NM_004646.4(NPHS1):c.1930+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	2677288
+single nucleotide variant	NM_004646.4(NPHS1):c.3352C>T (p.Gln1118Ter)	4868	NPHS1	Likely pathogenic	GRCh38	2677299
+single nucleotide variant	NM_004646.4(NPHS1):c.3010C>T (p.Gln1004Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2677301
+single nucleotide variant	NM_004646.4(NPHS1):c.527-2A>G	4868	NPHS1	Pathogenic	GRCh38	2677303
+single nucleotide variant	NM_004646.4(NPHS1):c.1838C>A (p.Ser613Ter)	4868	NPHS1	Likely pathogenic	GRCh38	2677305
+single nucleotide variant	NM_004646.4(NPHS1):c.2800C>T (p.Gln934Ter)	4868	NPHS1	Pathogenic	GRCh38	2677313
+single nucleotide variant	NM_004646.4(NPHS1):c.1013-1G>T	4868	NPHS1	Likely pathogenic	GRCh38	2677314
+single nucleotide variant	NM_004646.4(NPHS1):c.2882G>A (p.Trp961Ter)	4868	NPHS1	Likely pathogenic	GRCh38	2677315
+single nucleotide variant	NM_004646.4(NPHS1):c.398-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	2677317
+single nucleotide variant	NM_004646.4(NPHS1):c.2840T>G (p.Leu947Ter)	4868	NPHS1	Likely pathogenic	GRCh38	2677319
+single nucleotide variant	NM_004646.4(NPHS1):c.2816-3T>G	4868	NPHS1	Likely pathogenic	GRCh38	2677321
+single nucleotide variant	NM_004646.4(NPHS1):c.2207T>C (p.Val736Ala)	4868	NPHS1	Likely pathogenic	GRCh38	2677324
+single nucleotide variant	NM_004646.4(NPHS1):c.3118C>T (p.Gln1040Ter)	4868	NPHS1	Pathogenic	GRCh38	2677326
+single nucleotide variant	NM_004646.4(NPHS1):c.397+1G>C	4868	NPHS1	Likely pathogenic	GRCh38	2677328
+single nucleotide variant	NM_004646.4(NPHS1):c.59-1G>T	4868	NPHS1	Likely pathogenic	GRCh38	2677329
+single nucleotide variant	NM_004646.4(NPHS1):c.841-2A>C	4868	NPHS1	Likely pathogenic	GRCh38	2677330
+single nucleotide variant	NM_004646.4(NPHS1):c.1930+5G>A	4868	NPHS1	Likely pathogenic	GRCh38	2677337
+single nucleotide variant	NM_004646.4(NPHS1):c.1124G>A (p.Trp375Ter)	4868	NPHS1	Pathogenic	GRCh38	2698885
+single nucleotide variant	NM_004646.4(NPHS1):c.1440+1G>A	4868	NPHS1	Pathogenic	GRCh38	2736868
+single nucleotide variant	NM_004646.4(NPHS1):c.712+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	2753452
+single nucleotide variant	NM_004646.4(NPHS1):c.104G>A (p.Trp35Ter)	4868	NPHS1	Pathogenic	GRCh38	2779659
+single nucleotide variant	NM_004646.4(NPHS1):c.951C>A (p.Cys317Ter)	4868	NPHS1	Pathogenic	GRCh38	2775654
+single nucleotide variant	NM_004646.4(NPHS1):c.2816-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	2807125
+single nucleotide variant	NM_004646.4(NPHS1):c.287T>A (p.Leu96Gln)	4868	NPHS1	Likely pathogenic	GRCh38	2811928
+single nucleotide variant	NM_004646.4(NPHS1):c.2927+1G>C	4868	NPHS1	Likely pathogenic	GRCh38	2846446
+single nucleotide variant	NM_004646.4(NPHS1):c.713-1G>A	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	2999881
+single nucleotide variant	NM_004646.4(NPHS1):c.2927+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	3001456
+single nucleotide variant	NM_004646.4(NPHS1):c.1437C>G (p.Tyr479Ter)	4868	NPHS1	Pathogenic	GRCh38	3016095
+single nucleotide variant	NM_004646.4(NPHS1):c.3312-2A>T	4868	NPHS1	Pathogenic	GRCh38	3239954
+single nucleotide variant	NM_004646.4(NPHS1):c.2521G>T (p.Glu841Ter)	4868	NPHS1	Likely pathogenic	GRCh38	3239955
+single nucleotide variant	NM_004646.4(NPHS1):c.2386G>C (p.Gly796Arg)	4868	NPHS1	Likely pathogenic	GRCh38	3239956
+single nucleotide variant	NM_004646.4(NPHS1):c.2515C>T (p.Gln839Ter)	4868	NPHS1	Likely pathogenic	GRCh38	3239957
+single nucleotide variant	NM_004646.4(NPHS1):c.2760T>A (p.Cys920Ter)	4868	NPHS1	Likely pathogenic	GRCh38	3239961
+single nucleotide variant	NM_004646.4(NPHS1):c.2334+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	3239964
+single nucleotide variant	NM_004646.4(NPHS1):c.2737C>T (p.Gln913Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	3239965
+single nucleotide variant	NM_004646.4(NPHS1):c.3387+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	3239968
+single nucleotide variant	NM_004646.4(NPHS1):c.1627+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	3239970
+single nucleotide variant	NM_004646.4(NPHS1):c.1707C>A (p.Ser569Arg)	4868	NPHS1	Pathogenic	GRCh38	3254584
+single nucleotide variant	NM_004646.4(NPHS1):c.1255G>A (p.Ala419Thr)	4868	NPHS1	Likely pathogenic	GRCh38	3344257
+single nucleotide variant	NM_004646.4(NPHS1):c.397+3A>G	4868	NPHS1	Likely pathogenic	GRCh38	3378405
+single nucleotide variant	NM_004646.4(NPHS1):c.1250G>A (p.Cys417Tyr)	4868	NPHS1	Likely pathogenic	GRCh38	3384039
+single nucleotide variant	NM_004646.4(NPHS1):c.3258G>A (p.Trp1086Ter)	4868	NPHS1	Likely pathogenic	GRCh38	3583656
+single nucleotide variant	NM_004646.4(NPHS1):c.2664-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	3583674
+single nucleotide variant	NM_004646.4(NPHS1):c.2347G>T (p.Glu783Ter)	4868	NPHS1	Pathogenic/Likely pathogenic	GRCh38	3583684
+single nucleotide variant	NM_004646.4(NPHS1):c.1628-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	3583705
+single nucleotide variant	NM_004646.4(NPHS1):c.1628-10C>A	4868	NPHS1	Likely pathogenic	GRCh38	3583706
+single nucleotide variant	NM_004646.4(NPHS1):c.925G>T (p.Glu309Ter)	4868	NPHS1	Pathogenic	GRCh38	3583727
+single nucleotide variant	NM_004646.4(NPHS1):c.526+5G>T	4868	NPHS1	Likely pathogenic	GRCh38	3583738
+single nucleotide variant	NM_004646.4(NPHS1):c.397+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	3583745
+single nucleotide variant	NM_004646.4(NPHS1):c.3G>T (p.Met1Ile)	4868	NPHS1	Likely pathogenic	GRCh38	3583759
+single nucleotide variant	NM_004646.4(NPHS1):c.3482-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	3629923
+single nucleotide variant	NM_004646.4(NPHS1):c.741G>A (p.Trp247Ter)	4868	NPHS1	Pathogenic	GRCh38	3629924
+single nucleotide variant	NM_004646.4(NPHS1):c.3166+2C>G	4868	NPHS1	Likely pathogenic	GRCh38	3670333
+single nucleotide variant	NM_004646.4(NPHS1):c.2212+2T>C	4868	NPHS1	Likely pathogenic	GRCh38	3895573
+single nucleotide variant	NM_004646.4(NPHS1):c.2836G>T (p.Gly946Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4058997
+single nucleotide variant	NM_004646.4(NPHS1):c.275-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	4058999
+single nucleotide variant	NM_004646.4(NPHS1):c.2928-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	4059035
+single nucleotide variant	NM_004646.4(NPHS1):c.1441-9G>A	4868	NPHS1	Likely pathogenic	GRCh38	4059040
+single nucleotide variant	NM_004646.4(NPHS1):c.1171-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	4081754
+single nucleotide variant	NM_004646.4(NPHS1):c.1628-1G>C	4868	NPHS1	Likely pathogenic	GRCh38	4815379
+single nucleotide variant	NM_004646.4(NPHS1):c.2131C>T (p.Arg711Cys)	4868	NPHS1	Likely pathogenic	GRCh38	4815381
+single nucleotide variant	NM_004646.4(NPHS1):c.2928G>C (p.Arg976Ser)	4868	NPHS1	Likely pathogenic	GRCh38	4815385
+single nucleotide variant	NM_004646.4(NPHS1):c.3167-2A>C	4868	NPHS1	Likely pathogenic	GRCh38	4815386
+single nucleotide variant	NM_004646.4(NPHS1):c.3G>A (p.Met1Ile)	4868	NPHS1	Likely pathogenic	GRCh38	4815388
+single nucleotide variant	NM_004646.4(NPHS1):c.526+1G>A	4868	NPHS1	Pathogenic	GRCh38	4815389
+single nucleotide variant	NM_004646.4(NPHS1):c.190T>A (p.Trp64Arg)	4868	NPHS1	Pathogenic	GRCh38	4884851
+single nucleotide variant	NM_004646.4(NPHS1):c.1628-1G>A	4868	NPHS1	Likely pathogenic	GRCh38	4886413
+single nucleotide variant	NM_004646.4(NPHS1):c.2042G>A (p.Trp681Ter)	4868	NPHS1	Pathogenic	GRCh38	4888661
+single nucleotide variant	NM_004646.4(NPHS1):c.2980C>T (p.Gln994Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4889756
+single nucleotide variant	NM_004646.4(NPHS1):c.1733T>A (p.Leu578Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4889757
+single nucleotide variant	NM_004646.4(NPHS1):c.1051C>T (p.Gln351Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4889758
+single nucleotide variant	NM_004646.4(NPHS1):c.834G>A (p.Trp278Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4889759
+single nucleotide variant	NM_004646.4(NPHS1):c.626C>G (p.Ser209Ter)	4868	NPHS1	Likely pathogenic	GRCh38	4889760
+single nucleotide variant	NM_004646.4(NPHS1):c.3595-1G>T	4868	NPHS1	Likely pathogenic	GRCh38	4889943
+single nucleotide variant	NM_004646.4(NPHS1):c.3167-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	4889944
+single nucleotide variant	NM_004646.4(NPHS1):c.713-2A>G	4868	NPHS1	Likely pathogenic	GRCh38	4889945
+single nucleotide variant	NM_004646.4(NPHS1):c.1315+2T>G	4868	NPHS1	Likely pathogenic	GRCh38	4890036
+single nucleotide variant	NM_004646.4(NPHS1):c.608+1G>A	4868	NPHS1	Likely pathogenic	GRCh38	4890037

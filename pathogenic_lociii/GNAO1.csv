@@ -1,0 +1,86 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020988.3(GNAO1):c.836T>A (p.Ile279Asn)	2775	GNAO1	Pathogenic	GRCh38	66112
+single nucleotide variant	NM_020988.3(GNAO1):c.521A>G (p.Asp174Gly)	2775	GNAO1	Pathogenic	GRCh38	66113
+single nucleotide variant	NM_020988.3(GNAO1):c.607G>A (p.Gly203Arg)	2775	GNAO1	Pathogenic	GRCh38	66115
+single nucleotide variant	NM_020988.3(GNAO1):c.626G>A (p.Arg209His)	2775	GNAO1	Pathogenic	GRCh38	208677
+single nucleotide variant	NM_020988.3(GNAO1):c.736G>A (p.Glu246Lys)	2775	GNAO1	Pathogenic	GRCh38	208777
+single nucleotide variant	NM_020988.3(GNAO1):c.680C>T (p.Ala227Val)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	211088
+single nucleotide variant	NM_020988.3(GNAO1):c.133G>C (p.Gly45Arg)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	225047
+single nucleotide variant	NM_020988.3(GNAO1):c.983A>G (p.Asp328Gly)	2775	GNAO1	Likely pathogenic	GRCh38	235488
+single nucleotide variant	NM_020988.3(GNAO1):c.625C>T (p.Arg209Cys)	2775	GNAO1	Pathogenic	GRCh38	265350
+single nucleotide variant	NM_020988.3(GNAO1):c.119G>A (p.Gly40Glu)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	280589
+single nucleotide variant	NM_020988.3(GNAO1):c.118G>T (p.Gly40Trp)	2775	GNAO1	Pathogenic	GRCh38	280526
+single nucleotide variant	NM_020988.3(GNAO1):c.620C>A (p.Ser207Tyr)	2775	GNAO1	Pathogenic	GRCh38	373477
+single nucleotide variant	NM_020988.3(GNAO1):c.692A>G (p.Tyr231Cys)	2775	GNAO1	Pathogenic	GRCh38	374381
+single nucleotide variant	NM_020988.3(GNAO1):c.709G>A (p.Glu237Lys)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	420523
+single nucleotide variant	NM_020988.3(GNAO1):c.871T>A (p.Tyr291Asn)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	421826
+single nucleotide variant	NM_020988.3(GNAO1):c.683T>C (p.Leu228Pro)	2775	GNAO1	Likely pathogenic	GRCh38	427060
+single nucleotide variant	NM_020988.3(GNAO1):c.724-8G>A	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	426965
+single nucleotide variant	NM_020988.3(GNAO1):c.725A>C (p.Asn242Thr)	2775	GNAO1	Pathogenic	GRCh38	427004
+single nucleotide variant	NM_020988.3(GNAO1):c.625C>G (p.Arg209Gly)	2775	GNAO1	Pathogenic	GRCh38	427726
+single nucleotide variant	NM_020988.3(GNAO1):c.737A>G (p.Glu246Gly)	2775	GNAO1	Pathogenic	GRCh38	427730
+single nucleotide variant	NM_020988.3(GNAO1):c.626G>T (p.Arg209Leu)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	431699
+single nucleotide variant	NM_020988.3(GNAO1):c.649G>A (p.Glu217Lys)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	432130
+single nucleotide variant	NM_020988.3(GNAO1):c.143C>T (p.Thr48Ile)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	435341
+single nucleotide variant	NM_020988.3(GNAO1):c.38T>C (p.Leu13Pro)	2775	GNAO1	Likely pathogenic	GRCh38	493183
+single nucleotide variant	NM_020988.3(GNAO1):c.851T>C (p.Leu284Ser)	2775	GNAO1	Pathogenic	GRCh38	496687
+single nucleotide variant	NM_020988.3(GNAO1):c.550G>C (p.Gly184Arg)	2775	GNAO1	Likely pathogenic	GRCh38	521928
+single nucleotide variant	NM_020988.3(GNAO1):c.662C>A (p.Ala221Asp)	2775	GNAO1	Likely pathogenic	GRCh38	522843
+single nucleotide variant	NM_020988.3(GNAO1):c.813G>C (p.Lys271Asn)	2775	GNAO1	Likely pathogenic	GRCh38	530527
+single nucleotide variant	NM_020988.3(GNAO1):c.119G>T (p.Gly40Val)	2775	GNAO1	Likely pathogenic	GRCh38	587482
+single nucleotide variant	NM_020988.3(GNAO1):c.140G>A (p.Ser47Asn)	2775	GNAO1	Pathogenic	GRCh38	641655
+single nucleotide variant	NM_020988.3(GNAO1):c.118G>A (p.Gly40Arg)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	666297
+single nucleotide variant	NM_020988.3(GNAO1):c.736G>C (p.Glu246Gln)	2775	GNAO1	Likely pathogenic	GRCh38	689763
+single nucleotide variant	NM_020988.3(GNAO1):c.143C>A (p.Thr48Asn)	2775	GNAO1	Likely pathogenic	GRCh38	803255
+single nucleotide variant	NM_020988.3(GNAO1):c.451G>A (p.Asp151Asn)	2775	GNAO1	Likely pathogenic	GRCh38	803256
+single nucleotide variant	NM_020988.3(GNAO1):c.607G>C (p.Gly203Arg)	2775	GNAO1	Pathogenic	GRCh38	803257
+single nucleotide variant	NM_020988.3(GNAO1):c.545C>T (p.Thr182Ile)	2775	GNAO1	Likely pathogenic	GRCh38	812779
+single nucleotide variant	NM_020988.3(GNAO1):c.723+1G>A	2775	GNAO1	Pathogenic	GRCh38	812780
+single nucleotide variant	NM_020988.3(GNAO1):c.509C>G (p.Pro170Arg)	2775	GNAO1	Likely pathogenic	GRCh38	813742
+single nucleotide variant	NM_020988.3(GNAO1):c.731T>A (p.Met244Lys)	2775	GNAO1	Likely pathogenic	GRCh38	870180
+single nucleotide variant	NM_020988.3(GNAO1):c.136A>G (p.Lys46Glu)	2775	GNAO1	Pathogenic	GRCh38	1012170
+single nucleotide variant	NM_020988.3(GNAO1):c.470T>C (p.Leu157Pro)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	1012172
+single nucleotide variant	NM_020988.3(GNAO1):c.687C>G (p.Ser229Arg)	2775	GNAO1	Likely pathogenic	GRCh38	1012171
+single nucleotide variant	NM_020988.3(GNAO1):c.810C>A (p.Asn270Lys)	2775	GNAO1	Pathogenic	GRCh38	1012173
+single nucleotide variant	NM_020988.3(GNAO1):c.817G>T (p.Asp273Tyr)	2775	GNAO1	Likely pathogenic	GRCh38	1012174
+single nucleotide variant	NM_020988.3(GNAO1):c.723+2T>A	2775	GNAO1	Pathogenic	GRCh38	1064445
+single nucleotide variant	NM_020988.3(GNAO1):c.844T>C (p.Ser282Pro)	2775	GNAO1	Likely pathogenic	GRCh38	1299575
+single nucleotide variant	NM_020988.3(GNAO1):c.608G>A (p.Gly203Glu)	2775	GNAO1	Pathogenic	GRCh38	1319183
+single nucleotide variant	NM_020988.3(GNAO1):c.138A>T (p.Lys46Asn)	2775	GNAO1	Likely pathogenic	GRCh38	1338804
+single nucleotide variant	NM_020988.3(GNAO1):c.155A>G (p.Gln52Arg)	2775	GNAO1	Pathogenic	GRCh38	1389555
+single nucleotide variant	NM_020988.3(GNAO1):c.464+2T>C	2775	GNAO1	Likely pathogenic	GRCh38	1475821
+single nucleotide variant	NM_020988.3(GNAO1):c.596T>C (p.Leu199Pro)	2775	GNAO1	Pathogenic	GRCh38	1459091
+single nucleotide variant	NM_020988.3(GNAO1):c.602A>T (p.Asp201Val)	2775	GNAO1	Pathogenic	GRCh38	1453190
+single nucleotide variant	NM_020988.3(GNAO1):c.617G>T (p.Arg206Leu)	2775	GNAO1	Pathogenic	GRCh38	1453470
+single nucleotide variant	NM_020988.3(GNAO1):c.124G>A (p.Gly42Arg)	2775	GNAO1	Pathogenic	GRCh38	1374497
+single nucleotide variant	NM_020988.3(GNAO1):c.813G>T (p.Lys271Asn)	2775	GNAO1	Pathogenic	GRCh38	1432250
+single nucleotide variant	NM_020988.3(GNAO1):c.614A>C (p.Gln205Pro)	2775	GNAO1	Likely pathogenic	GRCh38	1685335
+single nucleotide variant	NM_020988.3(GNAO1):c.737A>T (p.Glu246Val)	2775	GNAO1	Likely pathogenic	GRCh38	1685336
+single nucleotide variant	NM_020988.3(GNAO1):c.610G>C (p.Gly204Arg)	2775	GNAO1	Pathogenic	GRCh38	1685853
+single nucleotide variant	NM_020988.3(GNAO1):c.620C>T (p.Ser207Phe)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	1685854
+single nucleotide variant	NM_020988.3(GNAO1):c.982G>T (p.Asp328Tyr)	2775	GNAO1	Likely pathogenic	GRCh38	1708498
+single nucleotide variant	NM_020988.3(GNAO1):c.751T>A (p.Phe251Ile)	2775	GNAO1	Likely pathogenic	GRCh38	1710018
+single nucleotide variant	NM_020988.3(GNAO1):c.67C>T (p.Leu23Phe)	2775	GNAO1	Likely pathogenic	GRCh38	1721121
+single nucleotide variant	NM_020988.3(GNAO1):c.601G>T (p.Asp201Tyr)	2775	GNAO1	Likely pathogenic	GRCh38	1751124
+single nucleotide variant	NM_020988.3(GNAO1):c.17G>T (p.Ser6Ile)	2775	GNAO1	Pathogenic	GRCh38	1802165
+single nucleotide variant	NM_020988.3(GNAO1):c.119G>C (p.Gly40Ala)	2775	GNAO1	Pathogenic	GRCh38	1802972
+single nucleotide variant	NM_020988.3(GNAO1):c.155A>C (p.Gln52Pro)	2775	GNAO1	Pathogenic	GRCh38	2152262
+single nucleotide variant	NM_020988.3(GNAO1):c.124G>C (p.Gly42Arg)	2775	GNAO1	Pathogenic	GRCh38	2499605
+single nucleotide variant	NM_020988.3(GNAO1):c.57T>G (p.Ile19Met)	2775	GNAO1	Likely pathogenic	GRCh38	2500270
+single nucleotide variant	NM_020988.3(GNAO1):c.723+1G>T	2775	GNAO1	Pathogenic	GRCh38	2578317
+single nucleotide variant	NM_020988.3(GNAO1):c.4G>C (p.Gly2Arg)	2775	GNAO1	Likely pathogenic	GRCh38	2584381
+single nucleotide variant	NM_020988.3(GNAO1):c.616C>G (p.Arg206Gly)	2775	GNAO1	Likely pathogenic	GRCh38	2687758
+single nucleotide variant	NM_020988.3(GNAO1):c.631A>C (p.Lys211Gln)	2775	GNAO1	Pathogenic	GRCh38	2759489
+single nucleotide variant	NM_020988.3(GNAO1):c.593+1G>A	2775	GNAO1	Likely pathogenic	GRCh38	2764519
+single nucleotide variant	NM_020988.3(GNAO1):c.818A>G (p.Asp273Gly)	2775	GNAO1	Likely pathogenic	GRCh38	2767766
+single nucleotide variant	NM_020988.3(GNAO1):c.133G>T (p.Gly45Ter)	2775	GNAO1	Pathogenic	GRCh38	2824114
+single nucleotide variant	NM_020988.3(GNAO1):c.1054G>A (p.Gly352Ser)	2775	GNAO1	Pathogenic/Likely pathogenic	GRCh38	3235074
+single nucleotide variant	NM_020988.3(GNAO1):c.220T>G (p.Tyr74Asp)	2775	GNAO1	Pathogenic	GRCh38	3340582
+single nucleotide variant	NM_020988.3(GNAO1):c.502T>G (p.Tyr168Asp)	2775	GNAO1	Pathogenic	GRCh38	3639643
+single nucleotide variant	NM_020988.3(GNAO1):c.130T>C (p.Ser44Pro)	2775	GNAO1	Pathogenic	GRCh38	3662712
+single nucleotide variant	NM_020988.3(GNAO1):c.464+1G>A	2775	GNAO1	Likely pathogenic	GRCh38	3663014
+single nucleotide variant	NM_020988.3(GNAO1):c.713A>G (p.Asp238Gly)	2775	GNAO1	Likely pathogenic	GRCh38	3906531
+single nucleotide variant	NM_020988.3(GNAO1):c.156G>C (p.Gln52His)	2775	GNAO1	Likely pathogenic	GRCh38	4291992
+single nucleotide variant	NM_020988.3(GNAO1):c.711A>C (p.Glu237Asp)	2775	GNAO1	Likely pathogenic	GRCh38	4858124
+single nucleotide variant	NM_020988.3(GNAO1):c.44G>A (p.Arg15Gln)	2775	GNAO1	Likely pathogenic	GRCh38	4879635
+single nucleotide variant	NM_020988.3(GNAO1):c.809A>G (p.Asn270Ser)	2775	GNAO1	Likely pathogenic	GRCh38	4890734

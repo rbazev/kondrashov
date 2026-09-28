@@ -1,0 +1,76 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_005120.3(MED12):c.2881C>T (p.Arg961Trp)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	11520
+single nucleotide variant	NM_005120.3(MED12):c.3020A>G (p.Asn1007Ser)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	11521
+single nucleotide variant	NM_005120.3(MED12):c.3493T>C (p.Ser1165Pro)	9968	MED12	Pathogenic	GRCh38	50280
+single nucleotide variant	NM_005120.3(MED12):c.5185C>A (p.His1729Asn)	9968	MED12	Pathogenic	GRCh38	50281
+single nucleotide variant	NM_005120.3(MED12):c.4669T>C (p.Trp1557Arg)	9968	MED12	Likely pathogenic	GRCh38	196905
+single nucleotide variant	NM_005120.3(MED12):c.3063C>A (p.Phe1021Leu)	9968	MED12	Likely pathogenic	GRCh38	211473
+single nucleotide variant	NM_005120.3(MED12):c.3883C>T (p.Arg1295Cys)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	213640
+single nucleotide variant	NM_005120.3(MED12):c.6439C>A (p.Gln2147Lys)	9968	MED12	Likely pathogenic	GRCh38	1328125
+single nucleotide variant	NM_005120.3(MED12):c.1862G>A (p.Arg621Gln)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	225253
+single nucleotide variant	NM_005120.3(MED12):c.5125C>T (p.Arg1709Ter)	9968	MED12	Pathogenic	GRCh38	280361
+single nucleotide variant	NM_005120.3(MED12):c.4342G>A (p.Gly1448Arg)	9968	MED12	Likely pathogenic	GRCh38	374138
+single nucleotide variant	NM_005120.3(MED12):c.4831C>T (p.Arg1611Cys)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	382204
+single nucleotide variant	NM_005120.3(MED12):c.93G>C (p.Gln31His)	9968	MED12	Likely pathogenic	GRCh38	384545
+single nucleotide variant	NM_005120.3(MED12):c.6476A>C (p.Gln2159Pro)	9968	MED12	Likely pathogenic	GRCh38	427070
+single nucleotide variant	NM_005120.3(MED12):c.473G>A (p.Trp158Ter)	9968	MED12	Pathogenic	GRCh38	432691
+single nucleotide variant	NM_005120.3(MED12):c.1547G>A (p.Arg516His)	9968	MED12	Pathogenic	GRCh38	452540
+single nucleotide variant	NM_005120.3(MED12):c.3968T>C (p.Leu1323Pro)	9968	MED12	Likely pathogenic	GRCh38	452851
+single nucleotide variant	NM_005120.3(MED12):c.887G>A (p.Arg296Gln)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	522111
+single nucleotide variant	NM_005120.3(MED12):c.3884G>A (p.Arg1295His)	9968	MED12	Pathogenic	GRCh38	521365
+single nucleotide variant	NM_005120.3(MED12):c.6358C>T (p.Gln2120Ter)	9968	MED12	Likely pathogenic	GRCh38	520705
+single nucleotide variant	NM_005120.3(MED12):c.1546C>T (p.Arg516Cys)	9968	MED12	Likely pathogenic	GRCh38	619013
+single nucleotide variant	NM_005120.3(MED12):c.5920C>T (p.Gln1974Ter)	9968	MED12	Pathogenic	GRCh38	620451
+single nucleotide variant	NM_005120.3(MED12):c.3505G>T (p.Ala1169Ser)	9968	MED12	Likely pathogenic	GRCh38	666337
+single nucleotide variant	NM_005120.3(MED12):c.224G>C (p.Ser75Thr)	9968	MED12	Likely pathogenic	GRCh38	804025
+single nucleotide variant	NM_005120.3(MED12):c.4048-1G>A	9968	MED12	Likely pathogenic	GRCh38	842286
+single nucleotide variant	NM_005120.3(MED12):c.5578C>T (p.Pro1860Ser)	9968	MED12	Likely pathogenic	GRCh38	975295
+single nucleotide variant	NM_005120.3(MED12):c.6407A>G (p.Gln2136Arg)	9968	MED12	Likely pathogenic	GRCh38	975296
+single nucleotide variant	NM_005120.3(MED12):c.6408+1G>A	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	1028860
+single nucleotide variant	NM_005120.3(MED12):c.1379T>C (p.Leu460Ser)	9968	MED12	Likely pathogenic	GRCh38	1098332
+single nucleotide variant	NM_005120.3(MED12):c.3646G>A (p.Val1216Met)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	1201510
+single nucleotide variant	NM_005120.3(MED12):c.514G>C (p.Glu172Gln)	9968	MED12	Pathogenic	GRCh38	1210231
+single nucleotide variant	NM_005120.3(MED12):c.1249-1G>C	9968	MED12	Pathogenic	GRCh38	1210232
+single nucleotide variant	NM_005120.3(MED12):c.2669T>A (p.Ile890Asn)	9968	MED12	Likely pathogenic	GRCh38	1210236
+single nucleotide variant	NM_005120.3(MED12):c.3412C>T (p.Arg1138Trp)	9968	MED12	Pathogenic/Likely pathogenic	GRCh38	1210242
+single nucleotide variant	NM_005120.3(MED12):c.4070G>A (p.Arg1357His)	9968	MED12	Pathogenic	GRCh38	1210246
+single nucleotide variant	NM_005120.3(MED12):c.5111G>A (p.Trp1704Ter)	9968	MED12	Pathogenic	GRCh38	1210249
+single nucleotide variant	NM_005120.3(MED12):c.5622C>A (p.Tyr1874Ter)	9968	MED12	Pathogenic	GRCh38	1210250
+single nucleotide variant	NM_005120.3(MED12):c.6169C>T (p.Gln2057Ter)	9968	MED12	Pathogenic	GRCh38	1210252
+single nucleotide variant	NM_005120.3(MED12):c.6448C>T (p.Gln2150Ter)	9968	MED12	Likely pathogenic	GRCh38	1210257
+single nucleotide variant	NM_005120.3(MED12):c.2224C>T (p.Gln742Ter)	9968	MED12	Pathogenic	GRCh38	1300145
+single nucleotide variant	NM_005120.3(MED12):c.1295G>A (p.Gly432Glu)	9968	MED12	Likely pathogenic	GRCh38	1303953
+single nucleotide variant	NM_005120.3(MED12):c.3851G>A (p.Arg1284His)	9968	MED12	Likely pathogenic	GRCh38	1313830
+single nucleotide variant	NM_005120.3(MED12):c.1861C>T (p.Arg621Ter)	9968	MED12	Likely pathogenic	GRCh38	1324712
+single nucleotide variant	NM_005120.3(MED12):c.5400+2T>C	9968	MED12	Likely pathogenic	GRCh38	1346046
+single nucleotide variant	NM_005120.3(MED12):c.1248+3A>G	9968	MED12	Likely pathogenic	GRCh38	1685374
+single nucleotide variant	NM_005120.3(MED12):c.6418C>T (p.Gln2140Ter)	9968	MED12	Likely pathogenic	GRCh38	1691496
+single nucleotide variant	NM_005120.3(MED12):c.6343C>T (p.Gln2115Ter)	9968	MED12	Pathogenic	GRCh38	1694477
+single nucleotide variant	NM_005120.3(MED12):c.4465C>G (p.Leu1489Val)	9968	MED12	Likely pathogenic	GRCh38	1700171
+single nucleotide variant	NM_005120.3(MED12):c.2541+1G>A	9968	MED12	Likely pathogenic	GRCh38	1705038
+single nucleotide variant	NM_005120.3(MED12):c.5808C>G (p.Tyr1936Ter)	9968	MED12	Pathogenic	GRCh38	1711711
+single nucleotide variant	NM_005120.3(MED12):c.3873G>A (p.Trp1291Ter)	9968	MED12	Pathogenic	GRCh38	1735731
+single nucleotide variant	NM_005120.3(MED12):c.2546C>T (p.Ser849Phe)	9968	MED12	Likely pathogenic	GRCh38	1804009
+single nucleotide variant	NM_005120.3(MED12):c.100-2A>T	9968	MED12	Likely pathogenic	GRCh38	1942459
+single nucleotide variant	NM_005120.3(MED12):c.5025+1G>C	9968	MED12	Likely pathogenic	GRCh38	2132273
+single nucleotide variant	NM_005120.3(MED12):c.4416-1G>C	9968	MED12	Likely pathogenic	GRCh38	2431228
+single nucleotide variant	NM_005120.3(MED12):c.4439C>T (p.Pro1480Leu)	9968	MED12	Likely pathogenic	GRCh38	2499563
+single nucleotide variant	NM_005120.3(MED12):c.5179C>T (p.His1727Tyr)	9968	MED12	Likely pathogenic	GRCh38	2505883
+single nucleotide variant	NM_005120.3(MED12):c.3927C>A (p.Asp1309Glu)	9968	MED12	Likely pathogenic	GRCh38	2538859
+single nucleotide variant	NM_005120.3(MED12):c.4863+1G>A	9968	MED12	Likely pathogenic	GRCh38	2576549
+single nucleotide variant	NM_005120.3(MED12):c.1249-2A>G	9968	MED12	Likely pathogenic	GRCh38	2577937
+single nucleotide variant	NM_005120.3(MED12):c.3662T>C (p.Phe1221Ser)	9968	MED12	Likely pathogenic	GRCh38	2663300
+single nucleotide variant	NM_005120.3(MED12):c.6175C>T (p.Gln2059Ter)	9968	MED12	Likely pathogenic	GRCh38	3062316
+single nucleotide variant	NM_005120.3(MED12):c.6352C>T (p.Gln2118Ter)	9968	MED12	Pathogenic	GRCh38	3064230
+single nucleotide variant	NM_005120.3(MED12):c.3542A>G (p.Lys1181Arg)	9968	MED12	Likely pathogenic	GRCh38	3124869
+single nucleotide variant	NM_005120.3(MED12):c.3887G>A (p.Cys1296Tyr)	9968	MED12	Likely pathogenic	GRCh38	3124872
+single nucleotide variant	NM_005120.3(MED12):c.3667G>C (p.Val1223Leu)	9968	MED12	Likely pathogenic	GRCh38	3233405
+single nucleotide variant	NM_005120.3(MED12):c.5106G>A (p.Trp1702Ter)	9968	MED12	Likely pathogenic	GRCh38	3349085
+single nucleotide variant	NM_005120.3(MED12):c.4646G>A (p.Arg1549His)	9968	MED12	Likely pathogenic	GRCh38	3374703
+single nucleotide variant	NM_005120.3(MED12):c.6328C>T (p.Gln2110Ter)	9968	MED12	Pathogenic	GRCh38	3381168
+single nucleotide variant	NM_005120.3(MED12):c.4622G>A (p.Gly1541Glu)	9968	MED12	Likely pathogenic	GRCh38	3394507
+single nucleotide variant	NM_005120.3(MED12):c.5025G>T (p.Glu1675Asp)	9968	MED12	Likely pathogenic	GRCh38	3777078
+single nucleotide variant	NM_005120.3(MED12):c.2056-2A>T	9968	MED12	Likely pathogenic	GRCh38	3777300
+single nucleotide variant	NM_005120.3(MED12):c.6439C>T (p.Gln2147Ter)	9968	MED12	Likely pathogenic	GRCh38	3897849
+single nucleotide variant	NM_005120.3(MED12):c.100-1G>A	9968	MED12	Likely pathogenic	GRCh38	4725587
+single nucleotide variant	NM_005120.3(MED12):c.1753C>T (p.Arg585Ter)	9968	MED12	Likely pathogenic	GRCh38	4795923

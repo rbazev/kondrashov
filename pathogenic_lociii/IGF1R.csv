@@ -1,0 +1,51 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000875.5(IGF1R):c.3187-2A>T	3480	IGF1R	Likely pathogenic	GRCh38	282227
+single nucleotide variant	NM_000875.5(IGF1R):c.1590-1G>C	3480	IGF1R	Pathogenic	GRCh38	392286
+single nucleotide variant	NM_000875.5(IGF1R):c.1862C>T (p.Ser621Leu)	3480	IGF1R	Likely pathogenic	GRCh38	429770
+single nucleotide variant	NM_000875.5(IGF1R):c.361G>A (p.Glu121Lys)	3480	IGF1R	Likely pathogenic	GRCh38	446754
+single nucleotide variant	NM_000875.5(IGF1R):c.2578G>T (p.Gly860Ter)	3480	IGF1R	Pathogenic	GRCh38	451669
+single nucleotide variant	NM_000875.5(IGF1R):c.1931A>G (p.Tyr644Cys)	3480	IGF1R	Pathogenic	GRCh38	521118
+single nucleotide variant	NM_000875.5(IGF1R):c.118C>T (p.Arg40Cys)	3480	IGF1R	Likely pathogenic	GRCh38	635840
+single nucleotide variant	NM_000875.5(IGF1R):c.384T>C (p.Ile128=)	3480	IGF1R	Pathogenic	GRCh38	635841
+single nucleotide variant	NM_000875.5(IGF1R):c.904G>T (p.Glu302Ter)	3480	IGF1R	Pathogenic	GRCh38	635842
+single nucleotide variant	NM_000875.5(IGF1R):c.995G>A (p.Cys332Tyr)	3480	IGF1R	Likely pathogenic	GRCh38	635843
+single nucleotide variant	NM_000875.5(IGF1R):c.3162G>A (p.Met1054Ile)	3480	IGF1R	Likely pathogenic	GRCh38	635845
+single nucleotide variant	NM_000875.5(IGF1R):c.3454G>A (p.Gly1152Arg)	3480	IGF1R	Pathogenic/Likely pathogenic	GRCh38	635846
+single nucleotide variant	NM_000875.5(IGF1R):c.3539C>A (p.Ser1180Tyr)	3480	IGF1R	Likely pathogenic	GRCh38	635847
+single nucleotide variant	NM_000875.5(IGF1R):c.3464G>A (p.Gly1155Asp)	3480	IGF1R	Likely pathogenic	GRCh38	638629
+single nucleotide variant	NM_000875.5(IGF1R):c.2257C>T (p.Arg753Ter)	3480	IGF1R	Pathogenic/Likely pathogenic	GRCh38	977609
+single nucleotide variant	NM_000875.5(IGF1R):c.77G>A (p.Trp26Ter)	3480	IGF1R	Likely pathogenic	GRCh38	1064824
+single nucleotide variant	NM_000875.5(IGF1R):c.1093C>T (p.Arg365Ter)	3480	IGF1R	Pathogenic/Likely pathogenic	GRCh38	1172619
+single nucleotide variant	NM_000875.5(IGF1R):c.3190C>T (p.Arg1064Ter)	3480	IGF1R	Pathogenic	GRCh38	1723826
+single nucleotide variant	NM_000875.5(IGF1R):c.641-2A>G	3480	IGF1R	Pathogenic	GRCh38	2443553
+single nucleotide variant	NM_000875.5(IGF1R):c.3679G>T (p.Glu1227Ter)	3480	IGF1R	Likely pathogenic	GRCh38	2579966
+single nucleotide variant	NM_000875.5(IGF1R):c.3578C>G (p.Ser1193Trp)	3480	IGF1R	Likely pathogenic	GRCh38	2662030
+single nucleotide variant	NM_000875.5(IGF1R):c.2T>A (p.Met1Lys)	3480	IGF1R	Likely pathogenic	GRCh38	2664702
+single nucleotide variant	NM_000875.5(IGF1R):c.1042C>T (p.Gln348Ter)	3480	IGF1R	Likely pathogenic	GRCh38	2671741
+single nucleotide variant	NM_000875.5(IGF1R):c.3187-2A>G	3480	IGF1R	Likely pathogenic	GRCh38	2769523
+single nucleotide variant	NM_000875.5(IGF1R):c.148G>T (p.Glu50Ter)	3480	IGF1R	Pathogenic	GRCh38	2836667
+single nucleotide variant	NM_000875.5(IGF1R):c.1722G>A (p.Trp574Ter)	3480	IGF1R	Pathogenic	GRCh38	2851464
+single nucleotide variant	NM_000875.5(IGF1R):c.822G>A (p.Trp274Ter)	3480	IGF1R	Pathogenic	GRCh38	3065985
+single nucleotide variant	NM_000875.5(IGF1R):c.3614T>A (p.Ile1205Asn)	3480	IGF1R	Likely pathogenic	GRCh38	3235256
+single nucleotide variant	NM_000875.5(IGF1R):c.247G>A (p.Glu83Lys)	3480	IGF1R	Likely pathogenic	GRCh38	3337175
+single nucleotide variant	NM_000875.5(IGF1R):c.3458A>G (p.Asp1153Gly)	3480	IGF1R	Likely pathogenic	GRCh38	3337178
+single nucleotide variant	NM_000875.5(IGF1R):c.346G>A (p.Ala116Thr)	3480	IGF1R	Likely pathogenic	GRCh38	3340623
+single nucleotide variant	NM_000875.5(IGF1R):c.3464G>C (p.Gly1155Ala)	3480	IGF1R	Pathogenic	GRCh38	3366330
+single nucleotide variant	NM_000875.5(IGF1R):c.3457+1G>A	3480	IGF1R	Pathogenic/Likely pathogenic	GRCh38	3371420
+single nucleotide variant	NM_000875.5(IGF1R):c.921C>A (p.Cys307Ter)	3480	IGF1R	Pathogenic	GRCh38	3371475
+single nucleotide variant	NM_000875.5(IGF1R):c.2607C>G (p.Tyr869Ter)	3480	IGF1R	Pathogenic	GRCh38	3376747
+single nucleotide variant	NM_000875.5(IGF1R):c.3634C>A (p.Pro1212Thr)	3480	IGF1R	Likely pathogenic	GRCh38	3382778
+single nucleotide variant	NM_000875.5(IGF1R):c.1893G>A (p.Trp631Ter)	3480	IGF1R	Pathogenic	GRCh38	3657732
+single nucleotide variant	NM_000875.5(IGF1R):c.2622+1G>A	3480	IGF1R	Likely pathogenic	GRCh38	3893211
+single nucleotide variant	NM_000875.5(IGF1R):c.3211C>T (p.Gln1071Ter)	3480	IGF1R	Pathogenic	GRCh38	4274046
+single nucleotide variant	NM_000875.5(IGF1R):c.3391T>G (p.Phe1131Val)	3480	IGF1R	Pathogenic	GRCh38	4278639
+single nucleotide variant	NM_000875.5(IGF1R):c.1285C>T (p.Gln429Ter)	3480	IGF1R	Pathogenic	GRCh38	4281628
+single nucleotide variant	NM_000875.5(IGF1R):c.1829-2A>G	3480	IGF1R	Likely pathogenic	GRCh38	4293164
+single nucleotide variant	NM_000875.5(IGF1R):c.338A>G (p.Tyr113Cys)	3480	IGF1R	Likely pathogenic	GRCh38	4531516
+single nucleotide variant	NM_000875.5(IGF1R):c.2097C>A (p.Cys699Ter)	3480	IGF1R	Pathogenic	GRCh38	4532780
+single nucleotide variant	NM_000875.5(IGF1R):c.3349G>T (p.Gly1117Ter)	3480	IGF1R	Likely pathogenic	GRCh38	4539828
+single nucleotide variant	NM_000875.5(IGF1R):c.3746G>A (p.Trp1249Ter)	3480	IGF1R	Likely pathogenic	GRCh38	4680868
+single nucleotide variant	NM_000875.5(IGF1R):c.3364G>T (p.Gly1122Cys)	3480	IGF1R	Likely pathogenic	GRCh38	4695117
+single nucleotide variant	NM_000875.5(IGF1R):c.909C>A (p.Cys303Ter)	3480	IGF1R	Pathogenic	GRCh38	4823231
+single nucleotide variant	NM_000875.5(IGF1R):c.1247+1G>A	3480	IGF1R	Likely pathogenic	GRCh38	4855448
+single nucleotide variant	NM_000875.5(IGF1R):c.2629C>T (p.Arg877Ter)	3480	IGF1R	Pathogenic	GRCh38	4857445

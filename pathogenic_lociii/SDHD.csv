@@ -1,0 +1,78 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_003002.4(SDHD):c.106C>T (p.Gln36Ter)	6392	SDHD	Pathogenic	GRCh38	6892
+single nucleotide variant	NM_003002.4(SDHD):c.112C>T (p.Arg38Ter)	6392	SDHD	Pathogenic	GRCh38	6893
+single nucleotide variant	NM_003002.4(SDHD):c.52+2T>G	6392	SDHD	Likely pathogenic	GRCh38	6894
+single nucleotide variant	NM_003002.4(SDHD):c.242C>T (p.Pro81Leu)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	6896
+single nucleotide variant	NM_003002.4(SDHD):c.274G>T (p.Asp92Tyr)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	6897
+single nucleotide variant	NM_003002.4(SDHD):c.305A>T (p.His102Leu)	6392	SDHD	Pathogenic	GRCh38	6898
+single nucleotide variant	NM_003002.4(SDHD):c.341A>G (p.Tyr114Cys)	6392	SDHD	Pathogenic	GRCh38	6900
+single nucleotide variant	NM_003002.4(SDHD):c.95C>A (p.Ser32Ter)	6392	SDHD	Pathogenic	GRCh38	6901
+single nucleotide variant	NM_003002.4(SDHD):c.64C>T (p.Arg22Ter)	6392	SDHD	Pathogenic	GRCh38	6903
+single nucleotide variant	NM_003002.4(SDHD):c.3G>C (p.Met1Ile)	6392	SDHD	Pathogenic	GRCh38	6906
+single nucleotide variant	NM_003002.4(SDHD):c.416T>C (p.Leu139Pro)	6392	SDHD	Pathogenic	GRCh38	6907
+single nucleotide variant	NM_003002.4(SDHD):c.1A>G (p.Met1Val)	6392	SDHD	Pathogenic	GRCh38	6911
+single nucleotide variant	NM_003002.4(SDHD):c.129G>A (p.Trp43Ter)	6392	SDHD	Pathogenic	GRCh38	6913
+single nucleotide variant	NM_003002.4(SDHD):c.33C>A (p.Cys11Ter)	6392	SDHD	Pathogenic	GRCh38	6915
+single nucleotide variant	NM_003002.4(SDHD):c.14G>A (p.Trp5Ter)	6392	SDHD	Pathogenic	GRCh38	6916
+single nucleotide variant	NM_003002.4(SDHD):c.284T>C (p.Leu95Pro)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	21351
+single nucleotide variant	NM_003002.4(SDHD):c.155C>A (p.Ser52Ter)	6392	SDHD	Pathogenic	GRCh38	142068
+single nucleotide variant	NM_003002.4(SDHD):c.275A>G (p.Asp92Gly)	6392	SDHD	Pathogenic	GRCh38	180590
+single nucleotide variant	NM_003002.4(SDHD):c.304C>A (p.His102Asn)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	185719
+single nucleotide variant	NM_003002.4(SDHD):c.412G>A (p.Gly138Arg)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	187700
+single nucleotide variant	NM_003002.4(SDHD):c.320T>G (p.Leu107Arg)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	230274
+single nucleotide variant	NM_003002.4(SDHD):c.340T>A (p.Tyr114Asn)	6392	SDHD	Likely pathogenic	GRCh38	231638
+single nucleotide variant	NM_003002.4(SDHD):c.361C>T (p.Gln121Ter)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	239470
+single nucleotide variant	NM_003002.4(SDHD):c.315G>A (p.Trp105Ter)	6392	SDHD	Pathogenic	GRCh38	412497
+single nucleotide variant	NM_003002.4(SDHD):c.325C>T (p.Gln109Ter)	6392	SDHD	Pathogenic	GRCh38	412498
+single nucleotide variant	NM_003002.4(SDHD):c.1A>T (p.Met1Leu)	6392	SDHD	Pathogenic	GRCh38	422629
+single nucleotide variant	NM_003002.4(SDHD):c.275A>T (p.Asp92Val)	6392	SDHD	Likely pathogenic	GRCh38	420665
+single nucleotide variant	NM_003002.4(SDHD):c.314G>A (p.Trp105Ter)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	428939
+single nucleotide variant	NM_003002.4(SDHD):c.170-1G>T	6392	SDHD	Pathogenic	GRCh38	438434
+single nucleotide variant	NM_003002.4(SDHD):c.239T>G (p.Leu80Arg)	6392	SDHD	Pathogenic	GRCh38	438435
+single nucleotide variant	NM_003002.4(SDHD):c.314+1G>A	6392	SDHD	Pathogenic	GRCh38	438436
+single nucleotide variant	NM_003002.4(SDHD):c.342T>A (p.Tyr114Ter)	6392	SDHD	Pathogenic	GRCh38	438437
+single nucleotide variant	NM_003002.4(SDHD):c.315-1G>A	6392	SDHD	Likely pathogenic	GRCh38	452309
+single nucleotide variant	NM_003002.4(SDHD):c.209G>T (p.Arg70Met)	6392	SDHD	Likely pathogenic	GRCh38	486436
+single nucleotide variant	NM_003002.4(SDHD):c.314+1G>T	6392	SDHD	Pathogenic	GRCh38	480808
+single nucleotide variant	NM_003002.4(SDHD):c.317G>T (p.Gly106Val)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	480806
+single nucleotide variant	NM_003002.4(SDHD):c.3G>A (p.Met1Ile)	6392	SDHD	Pathogenic	GRCh38	579968
+single nucleotide variant	NM_003002.4(SDHD):c.416T>G (p.Leu139Arg)	6392	SDHD	Likely pathogenic	GRCh38	573651
+single nucleotide variant	NM_003002.4(SDHD):c.305A>G (p.His102Arg)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	656860
+single nucleotide variant	NM_003002.4(SDHD):c.52+2T>C	6392	SDHD	Pathogenic	GRCh38	663854
+single nucleotide variant	NM_003002.4(SDHD):c.52+1G>A	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	825543
+single nucleotide variant	NM_003002.4(SDHD):c.304C>T (p.His102Tyr)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	846101
+single nucleotide variant	NM_003002.4(SDHD):c.305A>C (p.His102Pro)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	950869
+single nucleotide variant	NM_003002.4(SDHD):c.139C>T (p.Gln47Ter)	6392	SDHD	Pathogenic	GRCh38	959874
+single nucleotide variant	NM_003002.4(SDHD):c.169+5G>C	6392	SDHD	Likely pathogenic	GRCh38	956127
+single nucleotide variant	NM_003002.4(SDHD):c.340T>G (p.Tyr114Asp)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	993407
+single nucleotide variant	NM_003002.4(SDHD):c.49C>T (p.Arg17Ter)	6392	SDHD	Pathogenic	GRCh38	1319258
+single nucleotide variant	NM_003002.4(SDHD):c.128G>A (p.Trp43Ter)	6392	SDHD	Likely pathogenic	GRCh38	1333312
+single nucleotide variant	NM_003002.4(SDHD):c.169+1G>T	6392	SDHD	Pathogenic	GRCh38	1453077
+single nucleotide variant	NM_003002.4(SDHD):c.317G>A (p.Gly106Asp)	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	1401809
+single nucleotide variant	NM_003002.4(SDHD):c.169+1G>A	6392	SDHD	Pathogenic	GRCh38	1455596
+single nucleotide variant	NM_003002.4(SDHD):c.315-2A>G	6392	SDHD	Likely pathogenic	GRCh38	1465013
+single nucleotide variant	NM_003002.4(SDHD):c.320T>C (p.Leu107Pro)	6392	SDHD	Likely pathogenic	GRCh38	1728924
+single nucleotide variant	NM_003002.4(SDHD):c.364A>T (p.Lys122Ter)	6392	SDHD	Pathogenic	GRCh38	1733584
+single nucleotide variant	NM_003002.4(SDHD):c.314+1G>C	6392	SDHD	Pathogenic	GRCh38	1728082
+single nucleotide variant	NM_003002.4(SDHD):c.15G>A (p.Trp5Ter)	6392	SDHD	Pathogenic	GRCh38	1917924
+single nucleotide variant	NM_003002.4(SDHD):c.315-2A>T	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	2024310
+single nucleotide variant	NM_003002.4(SDHD):c.264C>A (p.Cys88Ter)	6392	SDHD	Pathogenic	GRCh38	2084230
+single nucleotide variant	NM_003002.4(SDHD):c.53-2A>C	6392	SDHD	Likely pathogenic	GRCh38	2089900
+single nucleotide variant	NM_003002.4(SDHD):c.198G>A (p.Trp66Ter)	6392	SDHD	Pathogenic	GRCh38	2226832
+single nucleotide variant	NM_003002.4(SDHD):c.124G>T (p.Glu42Ter)	6392	SDHD	Pathogenic	GRCh38	2452939
+single nucleotide variant	NM_003002.4(SDHD):c.314+3A>T	6392	SDHD	Pathogenic	GRCh38	2497774
+single nucleotide variant	NM_003002.4(SDHD):c.53-2A>G	6392	SDHD	Likely pathogenic	GRCh38	2576071
+single nucleotide variant	NM_003002.4(SDHD):c.197G>A (p.Trp66Ter)	6392	SDHD	Pathogenic	GRCh38	2662026
+single nucleotide variant	NM_003002.4(SDHD):c.395C>G (p.Ser132Ter)	6392	SDHD	Pathogenic	GRCh38	2673996
+single nucleotide variant	NM_003002.4(SDHD):c.2T>C (p.Met1Thr)	6392	SDHD	Pathogenic	GRCh38	2925495
+single nucleotide variant	NM_003002.4(SDHD):c.205G>T (p.Glu69Ter)	6392	SDHD	Pathogenic	GRCh38	2927196
+single nucleotide variant	NM_003002.4(SDHD):c.132T>A (p.Cys44Ter)	6392	SDHD	Pathogenic	GRCh38	2947597
+single nucleotide variant	NM_003002.4(SDHD):c.170-2A>G	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	2949976
+single nucleotide variant	NM_003002.4(SDHD):c.314+4A>T	6392	SDHD	Likely pathogenic	GRCh38	3438799
+single nucleotide variant	NM_003002.4(SDHD):c.95C>G (p.Ser32Ter)	6392	SDHD	Pathogenic	GRCh38	3759161
+single nucleotide variant	NM_003002.4(SDHD):c.169+5G>T	6392	SDHD	Pathogenic	GRCh38	3761822
+single nucleotide variant	NM_003002.4(SDHD):c.52+1G>T	6392	SDHD	Pathogenic	GRCh38	3757250
+single nucleotide variant	NM_003002.4(SDHD):c.315-2A>C	6392	SDHD	Pathogenic/Likely pathogenic	GRCh38	3774473
+single nucleotide variant	NM_003002.4(SDHD):c.52+2T>A	6392	SDHD	Likely pathogenic	GRCh38	3951419
+single nucleotide variant	NM_003002.4(SDHD):c.53-3C>G	6392	SDHD	Pathogenic	GRCh38	4548446
+single nucleotide variant	NM_003002.4(SDHD):c.170-1G>C	6392	SDHD	Pathogenic	GRCh38	4682137

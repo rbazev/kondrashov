@@ -4,7 +4,7 @@ single nucleotide variant	NM_000237.3(LPL):c.644G>A (p.Gly215Glu)	4023	LPL	Patho
 single nucleotide variant	NM_000237.3(LPL):c.397C>T (p.Gln133Ter)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	1524
 single nucleotide variant	NM_000237.3(LPL):c.811T>A (p.Ser271Thr)	4023	LPL	Pathogenic	GRCh38	1525
 single nucleotide variant	NM_000237.3(LPL):c.250-1G>A	4023	LPL	Pathogenic	GRCh38	1526
-single nucleotide variant	NM_000237.3(LPL):c.701C>T (p.Pro234Leu)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	1527
+single nucleotide variant	NM_000237.3(LPL):c.701C>T (p.Pro234Leu)	4023	LPL	Pathogenic	GRCh38	1527
 single nucleotide variant	NM_000237.3(LPL):c.693C>G (p.Asp231Glu)	4023	LPL	Pathogenic	GRCh38	1528
 single nucleotide variant	NM_000237.3(LPL):c.809G>A (p.Arg270His)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	1530
 single nucleotide variant	NM_000237.3(LPL):c.300C>A (p.Tyr100Ter)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	1531
@@ -30,9 +30,10 @@ single nucleotide variant	NM_000237.3(LPL):c.987C>A (p.Tyr329Ter)	4023	LPL	Patho
 single nucleotide variant	NM_000237.3(LPL):c.798C>G (p.Cys266Trp)	4023	LPL	Pathogenic	GRCh38	1557
 single nucleotide variant	NM_000237.3(LPL):c.928T>C (p.Cys310Arg)	4023	LPL	Likely pathogenic	GRCh38	226449
 single nucleotide variant	NM_000237.3(LPL):c.904T>C (p.Cys302Arg)	4023	LPL	Likely pathogenic	GRCh38	424622
+single nucleotide variant	NM_000237.3(LPL):c.590G>A (p.Arg197His)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	521082
 single nucleotide variant	NM_000237.3(LPL):c.797G>A (p.Cys266Tyr)	4023	LPL	Likely pathogenic	GRCh38	522719
 single nucleotide variant	NM_000237.3(LPL):c.41G>A (p.Trp14Ter)	4023	LPL	Pathogenic	GRCh38	643218
-single nucleotide variant	NM_000237.3(LPL):c.835C>G (p.Leu279Val)	4023	LPL	Pathogenic	GRCh38	855588
+single nucleotide variant	NM_000237.3(LPL):c.835C>G (p.Leu279Val)	4023	LPL	Pathogenic/Likely pathogenic	GRCh38	855588
 single nucleotide variant	NM_000237.3(LPL):c.836T>G (p.Leu279Arg)	4023	LPL	Pathogenic	GRCh38	851236
 single nucleotide variant	NM_000237.3(LPL):c.640A>T (p.Arg214Ter)	4023	LPL	Pathogenic	GRCh38	948095
 single nucleotide variant	NM_000237.3(LPL):c.1139+1G>A	4023	LPL	Likely pathogenic	GRCh38	973587
@@ -114,3 +115,6 @@ single nucleotide variant	NM_000237.3(LPL):c.865T>C (p.Tyr289His)	4023	LPL	Likel
 single nucleotide variant	NM_000237.3(LPL):c.88+2T>G	4023	LPL	Pathogenic	GRCh38	4817967
 single nucleotide variant	NM_000237.3(LPL):c.997C>T (p.Arg333Cys)	4023	LPL	Likely pathogenic	GRCh38	4817968
 single nucleotide variant	NM_000237.3(LPL):c.250-1G>C	4023	LPL	Likely pathogenic	GRCh38	4850521
+single nucleotide variant	NM_000237.3(LPL):c.1019-3C>G	4023	LPL	Likely pathogenic	GRCh38	4856657
+single nucleotide variant	NM_000237.3(LPL):c.1262G>A (p.Trp421Ter)	4023	LPL	Pathogenic	GRCh38	4856666
+single nucleotide variant	NM_000237.3(LPL):c.929G>C (p.Cys310Ser)	4023	LPL	Likely pathogenic	GRCh38	4856692

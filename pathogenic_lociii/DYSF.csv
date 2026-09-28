@@ -1,0 +1,540 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001130987.2(DYSF):c.1867C>T (p.Gln623Ter)	8291	DYSF	Pathogenic	GRCh38	6665
+single nucleotide variant	NM_001130987.2(DYSF):c.6241C>T (p.Arg2081Cys)	8291	DYSF	Pathogenic	GRCh38	6668
+single nucleotide variant	NM_001130987.2(DYSF):c.2426C>G (p.Pro809Arg)	8291	DYSF	Likely pathogenic	GRCh38	6671
+single nucleotide variant	NM_001130987.2(DYSF):c.5174+5G>A	8291	DYSF	Pathogenic	GRCh38	6672
+single nucleotide variant	NM_001130987.2(DYSF):c.3051G>T (p.Trp1017Cys)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	6674
+single nucleotide variant	NM_001130987.2(DYSF):c.3191G>A (p.Arg1064His)	8291	DYSF	Pathogenic	GRCh38	6675
+single nucleotide variant	NM_001130987.2(DYSF):c.5830C>T (p.Arg1944Ter)	8291	DYSF	Pathogenic	GRCh38	6676
+single nucleotide variant	NM_001130987.2(DYSF):c.1927G>T (p.Asp643Tyr)	8291	DYSF	Pathogenic	GRCh38	6677
+single nucleotide variant	NM_001130987.2(DYSF):c.5318A>G (p.Glu1773Gly)	8291	DYSF	Pathogenic	GRCh38	6678
+single nucleotide variant	NM_001130987.2(DYSF):c.1609G>A (p.Gly537Arg)	8291	DYSF	Pathogenic	GRCh38	6679
+single nucleotide variant	NM_001130987.2(DYSF):c.3497-33A>G	8291	DYSF	Pathogenic	GRCh38	6680
+single nucleotide variant	NM_001130987.2(DYSF):c.991G>A (p.Gly331Arg)	8291	DYSF	Pathogenic	GRCh38	6681
+single nucleotide variant	NM_001130987.2(DYSF):c.991G>T (p.Gly331Trp)	8291	DYSF	Pathogenic	GRCh38	6682
+single nucleotide variant	NM_001130987.2(DYSF):c.1381-2A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	6683
+single nucleotide variant	NM_001130987.2(DYSF):c.5546G>A (p.Arg1849Lys)	8291	DYSF	Pathogenic	GRCh38	18443
+single nucleotide variant	NM_001130987.2(DYSF):c.5796G>A (p.Trp1932Ter)	8291	DYSF	Pathogenic	GRCh38	2055621
+single nucleotide variant	NM_001130987.2(DYSF):c.1149+1G>A	8291	DYSF	Pathogenic	GRCh38	94262
+single nucleotide variant	NM_001130987.2(DYSF):c.1380+2T>C	8291	DYSF	Pathogenic	GRCh38	94266
+single nucleotide variant	NM_001130987.2(DYSF):c.1464C>A (p.Cys488Ter)	8291	DYSF	Pathogenic	GRCh38	94269
+single nucleotide variant	NM_001130987.2(DYSF):c.1494-1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	94272
+single nucleotide variant	NM_001130987.2(DYSF):c.1494-2A>G	8291	DYSF	Pathogenic	GRCh38	94273
+single nucleotide variant	NM_003494.4(DYSF):c.1481-1G>A	8291	DYSF	Pathogenic	GRCh38	94274
+single nucleotide variant	NM_001130987.2(DYSF):c.1692+2T>A	8291	DYSF	Pathogenic	GRCh38	94276
+single nucleotide variant	NM_001130987.2(DYSF):c.1717C>T (p.Arg573Trp)	8291	DYSF	Pathogenic	GRCh38	94278
+single nucleotide variant	NM_001130987.2(DYSF):c.2365C>T (p.Gln789Ter)	8291	DYSF	Pathogenic	GRCh38	94286
+single nucleotide variant	NM_001130987.2(DYSF):c.2697+1G>A	8291	DYSF	Pathogenic	GRCh38	94291
+single nucleotide variant	NM_001130987.2(DYSF):c.2923C>T (p.Gln975Ter)	8291	DYSF	Pathogenic	GRCh38	94295
+single nucleotide variant	NM_001130987.2(DYSF):c.4307G>A (p.Gly1436Asp)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	94321
+single nucleotide variant	NM_001130987.2(DYSF):c.4556A>C (p.Lys1519Thr)	8291	DYSF	Likely pathogenic	GRCh38	94324
+single nucleotide variant	NM_001130987.2(DYSF):c.4873C>T (p.Arg1625Ter)	8291	DYSF	Pathogenic	GRCh38	94330
+single nucleotide variant	NM_001130987.2(DYSF):c.4911G>T (p.Lys1637Asn)	8291	DYSF	Pathogenic	GRCh38	94331
+single nucleotide variant	NM_001130987.2(DYSF):c.5011G>T (p.Glu1671Ter)	8291	DYSF	Pathogenic	GRCh38	94333
+single nucleotide variant	NM_001130987.2(DYSF):c.5458-2A>C	8291	DYSF	Pathogenic	GRCh38	94336
+single nucleotide variant	NM_001130987.2(DYSF):c.5546+1G>T	8291	DYSF	Pathogenic	GRCh38	94337
+single nucleotide variant	NM_001130987.2(DYSF):c.5614G>T (p.Glu1872Ter)	8291	DYSF	Pathogenic	GRCh38	94339
+single nucleotide variant	NM_001130987.2(DYSF):c.5626G>A (p.Asp1876Asn)	8291	DYSF	Pathogenic	GRCh38	94340
+single nucleotide variant	NM_001130987.2(DYSF):c.5761C>T (p.Gln1921Ter)	8291	DYSF	Pathogenic	GRCh38	94342
+single nucleotide variant	NM_001130987.2(DYSF):c.6063+1G>A	8291	DYSF	Pathogenic	GRCh38	94349
+single nucleotide variant	NM_001130987.2(DYSF):c.706C>T (p.Arg236Ter)	8291	DYSF	Pathogenic	GRCh38	94352
+single nucleotide variant	NM_001130987.2(DYSF):c.759+1G>C	8291	DYSF	Pathogenic	GRCh38	94355
+single nucleotide variant	NM_001130987.2(DYSF):c.851C>T (p.Thr284Met)	8291	DYSF	Pathogenic	GRCh38	94358
+single nucleotide variant	NM_001130987.2(DYSF):c.893T>G (p.Leu298Arg)	8291	DYSF	Likely pathogenic	GRCh38	94363
+single nucleotide variant	NM_001130987.2(DYSF):c.953T>A (p.Val318Glu)	8291	DYSF	Pathogenic	GRCh38	94365
+single nucleotide variant	NM_001130987.2(DYSF):c.961T>C (p.Ser321Pro)	8291	DYSF	Likely pathogenic	GRCh38	94366
+single nucleotide variant	NM_001130987.2(DYSF):c.1033+1G>A	8291	DYSF	Pathogenic	GRCh38	94367
+single nucleotide variant	NM_001130987.2(DYSF):c.5383C>T (p.Gln1795Ter)	8291	DYSF	Pathogenic	GRCh38	167026
+single nucleotide variant	NM_001130987.2(DYSF):c.3886C>T (p.Gln1296Ter)	8291	DYSF	Pathogenic	GRCh38	167025
+single nucleotide variant	NM_001130987.2(DYSF):c.2844G>C (p.Trp948Cys)	8291	DYSF	Pathogenic	GRCh38	167021
+single nucleotide variant	NM_001130987.2(DYSF):c.5642+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	167030
+single nucleotide variant	NM_001130987.2(DYSF):c.92-1G>A	8291	DYSF	Likely pathogenic	GRCh38	191110
+single nucleotide variant	NM_001130987.2(DYSF):c.727A>G (p.Lys243Glu)	8291	DYSF	Likely pathogenic	GRCh38	191111
+single nucleotide variant	NM_001130987.2(DYSF):c.1439T>C (p.Leu480Pro)	8291	DYSF	Pathogenic	GRCh38	194354
+single nucleotide variant	NM_001130987.2(DYSF):c.1906G>A (p.Gly636Arg)	8291	DYSF	Pathogenic	GRCh38	195490
+single nucleotide variant	NM_001130987.2(DYSF):c.2010G>A (p.Trp670Ter)	8291	DYSF	Pathogenic	GRCh38	195597
+single nucleotide variant	NM_001130987.2(DYSF):c.3095A>G (p.Tyr1032Cys)	8291	DYSF	Pathogenic	GRCh38	196175
+single nucleotide variant	NM_001130987.2(DYSF):c.3284G>A (p.Trp1095Ter)	8291	DYSF	Pathogenic	GRCh38	196625
+single nucleotide variant	NM_001130987.2(DYSF):c.3403-2A>G	8291	DYSF	Pathogenic	GRCh38	196694
+single nucleotide variant	NM_001130987.2(DYSF):c.268C>T (p.Arg90Ter)	8291	DYSF	Pathogenic	GRCh38	197217
+single nucleotide variant	NM_001130987.2(DYSF):c.4551G>A (p.Trp1517Ter)	8291	DYSF	Pathogenic	GRCh38	197433
+single nucleotide variant	NM_001130987.2(DYSF):c.886G>T (p.Glu296Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	198458
+single nucleotide variant	NM_001130987.2(DYSF):c.797G>A (p.Gly266Glu)	8291	DYSF	Pathogenic	GRCh38	198495
+single nucleotide variant	NM_001130987.2(DYSF):c.5195G>A (p.Arg1732Gln)	8291	DYSF	Pathogenic	GRCh38	242527
+single nucleotide variant	NM_001130987.2(DYSF):c.1888C>T (p.Gln630Ter)	8291	DYSF	Pathogenic	GRCh38	217223
+single nucleotide variant	NM_001130987.2(DYSF):c.1906G>C (p.Gly636Arg)	8291	DYSF	Pathogenic	GRCh38	217224
+single nucleotide variant	NM_001130987.2(DYSF):c.3166C>T (p.Arg1056Ter)	8291	DYSF	Pathogenic	GRCh38	217225
+single nucleotide variant	NM_001130987.2(DYSF):c.5194C>T (p.Arg1732Trp)	8291	DYSF	Pathogenic	GRCh38	217227
+single nucleotide variant	NM_001130987.2(DYSF):c.3167G>A (p.Arg1056Gln)	8291	DYSF	Pathogenic	GRCh38	242418
+single nucleotide variant	NM_001130987.2(DYSF):c.334C>T (p.Gln112Ter)	8291	DYSF	Pathogenic	GRCh38	265108
+single nucleotide variant	NM_001130987.2(DYSF):c.1225C>T (p.Arg409Ter)	8291	DYSF	Pathogenic	GRCh38	265487
+single nucleotide variant	NM_001130987.2(DYSF):c.1693-6T>A	8291	DYSF	Pathogenic	GRCh38	265488
+single nucleotide variant	NM_001130987.2(DYSF):c.4078C>T (p.Arg1360Trp)	8291	DYSF	Likely pathogenic	GRCh38	280068
+single nucleotide variant	NM_001130987.2(DYSF):c.5174+5G>T	8291	DYSF	Likely pathogenic	GRCh38	281012
+single nucleotide variant	NM_001130987.2(DYSF):c.3532C>T (p.Gln1178Ter)	8291	DYSF	Pathogenic	GRCh38	281063
+single nucleotide variant	NM_001130987.2(DYSF):c.1372G>A (p.Gly458Arg)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	281067
+single nucleotide variant	NM_001130987.2(DYSF):c.4144C>T (p.Gln1382Ter)	8291	DYSF	Pathogenic	GRCh38	281072
+single nucleotide variant	NM_001130987.2(DYSF):c.460+2T>G	8291	DYSF	Pathogenic	GRCh38	281140
+single nucleotide variant	NM_001130987.2(DYSF):c.5003+1249G>T	8291	DYSF	Pathogenic	GRCh38	281197
+single nucleotide variant	NM_001130987.2(DYSF):c.1276+5G>C	8291	DYSF	Pathogenic	GRCh38	281954
+single nucleotide variant	NM_001130987.2(DYSF):c.5746T>C (p.Tyr1916His)	8291	DYSF	Likely pathogenic	GRCh38	282408
+single nucleotide variant	NM_001130987.2(DYSF):c.1264G>A (p.Asp422Asn)	8291	DYSF	Pathogenic	GRCh38	282410
+single nucleotide variant	NM_001130987.2(DYSF):c.3169C>T (p.Arg1057Trp)	8291	DYSF	Pathogenic	GRCh38	282449
+single nucleotide variant	NM_001130987.2(DYSF):c.4911+1G>T	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	282513
+single nucleotide variant	NM_001130987.2(DYSF):c.5420G>A (p.Arg1807Gln)	8291	DYSF	Pathogenic	GRCh38	282624
+single nucleotide variant	NM_001130987.2(DYSF):c.2409+1G>A	8291	DYSF	Pathogenic	GRCh38	282771
+single nucleotide variant	NM_001130987.2(DYSF):c.3498T>A (p.Tyr1166Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	283206
+single nucleotide variant	NM_001130987.2(DYSF):c.5174+1G>A	8291	DYSF	Pathogenic	GRCh38	283233
+single nucleotide variant	NM_001130987.2(DYSF):c.5561G>T (p.Cys1854Phe)	8291	DYSF	Pathogenic	GRCh38	283243
+single nucleotide variant	NM_001130987.2(DYSF):c.951+2T>G	8291	DYSF	Pathogenic	GRCh38	283267
+single nucleotide variant	NM_001130987.2(DYSF):c.1033+2T>C	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	283412
+single nucleotide variant	NM_001130987.2(DYSF):c.1762C>T (p.Gln588Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	283466
+single nucleotide variant	NM_001130987.2(DYSF):c.4576G>T (p.Glu1526Ter)	8291	DYSF	Pathogenic	GRCh38	283471
+single nucleotide variant	NM_001130987.2(DYSF):c.5785-7G>A	8291	DYSF	Pathogenic	GRCh38	283474
+single nucleotide variant	NM_001130987.2(DYSF):c.6064-1G>C	8291	DYSF	Likely pathogenic	GRCh38	283475
+single nucleotide variant	NM_001130987.2(DYSF):c.159G>A (p.Trp53Ter)	8291	DYSF	Pathogenic	GRCh38	283497
+single nucleotide variant	NM_001130987.2(DYSF):c.2929C>T (p.Arg977Trp)	8291	DYSF	Pathogenic	GRCh38	284254
+single nucleotide variant	NM_001130987.2(DYSF):c.209T>G (p.Val70Gly)	8291	DYSF	Pathogenic	GRCh38	284469
+single nucleotide variant	NM_001130987.2(DYSF):c.5458-1G>A	8291	DYSF	Pathogenic	GRCh38	284470
+single nucleotide variant	NM_001130987.2(DYSF):c.5635G>A (p.Val1879Met)	8291	DYSF	Pathogenic	GRCh38	284471
+single nucleotide variant	NM_001130987.2(DYSF):c.853C>T (p.Arg285Trp)	8291	DYSF	Pathogenic	GRCh38	284800
+single nucleotide variant	NM_001130987.2(DYSF):c.3085+2T>C	8291	DYSF	Pathogenic	GRCh38	284804
+single nucleotide variant	NM_001130987.2(DYSF):c.888+2T>A	8291	DYSF	Pathogenic	GRCh38	284882
+single nucleotide variant	NM_001130987.2(DYSF):c.4282C>T (p.Gln1428Ter)	8291	DYSF	Pathogenic	GRCh38	285153
+single nucleotide variant	NM_001130987.2(DYSF):c.1577-1G>A	8291	DYSF	Pathogenic	GRCh38	285177
+single nucleotide variant	NM_001130987.2(DYSF):c.4353C>G (p.Tyr1451Ter)	8291	DYSF	Pathogenic	GRCh38	285584
+single nucleotide variant	NM_001130987.2(DYSF):c.3757-2A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	285590
+single nucleotide variant	NM_001130987.2(DYSF):c.5004-1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	285665
+single nucleotide variant	NM_001130987.2(DYSF):c.5419C>T (p.Arg1807Trp)	8291	DYSF	Pathogenic	GRCh38	286151
+single nucleotide variant	NM_001130987.2(DYSF):c.3175C>T (p.Arg1059Cys)	8291	DYSF	Likely pathogenic	GRCh38	286743
+single nucleotide variant	NM_001130987.2(DYSF):c.1149+4A>G	8291	DYSF	Pathogenic	GRCh38	288116
+single nucleotide variant	NM_001130987.2(DYSF):c.1116C>G (p.Ser372Arg)	8291	DYSF	Pathogenic	GRCh38	288183
+single nucleotide variant	NM_001130987.2(DYSF):c.1915G>A (p.Gly639Arg)	8291	DYSF	Pathogenic	GRCh38	288438
+single nucleotide variant	NM_001130987.2(DYSF):c.2344G>T (p.Glu782Ter)	8291	DYSF	Pathogenic	GRCh38	288442
+single nucleotide variant	NM_001130987.2(DYSF):c.2865-2A>C	8291	DYSF	Pathogenic	GRCh38	288644
+single nucleotide variant	NM_001130987.2(DYSF):c.5646G>A (p.Trp1882Ter)	8291	DYSF	Pathogenic	GRCh38	288647
+single nucleotide variant	NM_001130987.2(DYSF):c.5150G>A (p.Cys1717Tyr)	8291	DYSF	Pathogenic	GRCh38	288830
+single nucleotide variant	NM_001130987.2(DYSF):c.3520T>C (p.Cys1174Arg)	8291	DYSF	Likely pathogenic	GRCh38	288860
+single nucleotide variant	NM_001130987.2(DYSF):c.2864+5G>A	8291	DYSF	Pathogenic	GRCh38	289245
+single nucleotide variant	NM_001130987.2(DYSF):c.1276+5G>A	8291	DYSF	Pathogenic	GRCh38	289571
+single nucleotide variant	NM_001130987.2(DYSF):c.1576+1G>A	8291	DYSF	Pathogenic	GRCh38	289768
+single nucleotide variant	NM_001130987.2(DYSF):c.888+1G>A	8291	DYSF	Likely pathogenic	GRCh38	290198
+single nucleotide variant	NM_001130987.2(DYSF):c.4387+2T>A	8291	DYSF	Likely pathogenic	GRCh38	290202
+single nucleotide variant	NM_001130987.2(DYSF):c.2217-1G>T	8291	DYSF	Pathogenic	GRCh38	290204
+single nucleotide variant	NM_001130987.2(DYSF):c.757C>T (p.Gln253Ter)	8291	DYSF	Pathogenic	GRCh38	290209
+single nucleotide variant	NM_001130987.2(DYSF):c.1577-1655C>G	8291	DYSF	Pathogenic	GRCh38	290283
+single nucleotide variant	NM_001130987.2(DYSF):c.4462C>T (p.Gln1488Ter)	8291	DYSF	Pathogenic	GRCh38	290284
+single nucleotide variant	NM_001130987.2(DYSF):c.2217-2A>G	8291	DYSF	Pathogenic	GRCh38	290309
+single nucleotide variant	NM_001130987.2(DYSF):c.5200C>T (p.Gln1734Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	290310
+single nucleotide variant	NM_001130987.2(DYSF):c.759G>C (p.Gln253His)	8291	DYSF	Likely pathogenic	GRCh38	290515
+single nucleotide variant	NM_001130987.2(DYSF):c.1576G>T (p.Val526Leu)	8291	DYSF	Pathogenic	GRCh38	290700
+single nucleotide variant	NM_001130987.2(DYSF):c.6155C>G (p.Pro2052Arg)	8291	DYSF	Likely pathogenic	GRCh38	291078
+single nucleotide variant	NM_001130987.2(DYSF):c.6025C>T (p.Pro2009Ser)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	381677
+single nucleotide variant	NM_001130987.2(DYSF):c.6001C>T (p.Gln2001Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	419655
+single nucleotide variant	NM_001130987.2(DYSF):c.1273C>T (p.Gln425Ter)	8291	DYSF	Pathogenic	GRCh38	429885
+single nucleotide variant	NM_001130987.2(DYSF):c.5642G>A (p.Gly1881Asp)	8291	DYSF	Likely pathogenic	GRCh38	430739
+single nucleotide variant	NM_001130987.2(DYSF):c.2864+1G>A	8291	DYSF	Pathogenic	GRCh38	443997
+single nucleotide variant	NM_001130987.2(DYSF):c.1812C>G (p.Tyr604Ter)	8291	DYSF	Pathogenic	GRCh38	447282
+single nucleotide variant	NM_001130987.2(DYSF):c.157T>A (p.Trp53Arg)	8291	DYSF	Likely pathogenic	GRCh38	471280
+single nucleotide variant	NM_001130987.2(DYSF):c.4590C>A (p.Cys1530Ter)	8291	DYSF	Pathogenic	GRCh38	471307
+single nucleotide variant	NM_001130987.2(DYSF):c.5467C>T (p.Gln1823Ter)	8291	DYSF	Pathogenic	GRCh38	471317
+single nucleotide variant	NM_001130987.2(DYSF):c.5681A>T (p.Asp1894Val)	8291	DYSF	Likely pathogenic	GRCh38	471318
+single nucleotide variant	NM_001130987.2(DYSF):c.1149+5G>A	8291	DYSF	Pathogenic	GRCh38	488834
+single nucleotide variant	NM_001130987.2(DYSF):c.5546+2T>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	489283
+single nucleotide variant	NM_001130987.2(DYSF):c.6021G>A (p.Trp2007Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	489098
+single nucleotide variant	NM_001130987.2(DYSF):c.3085+1G>T	8291	DYSF	Likely pathogenic	GRCh38	496640
+single nucleotide variant	NM_001130987.2(DYSF):c.5785-824C>T	8291	DYSF	Pathogenic	GRCh38	496981
+single nucleotide variant	NM_001130987.2(DYSF):c.3941C>G (p.Ser1314Ter)	8291	DYSF	Pathogenic	GRCh38	497116
+single nucleotide variant	NM_001130987.2(DYSF):c.1033+4A>T	8291	DYSF	Likely pathogenic	GRCh38	498216
+single nucleotide variant	NM_001130987.2(DYSF):c.2948G>A (p.Trp983Ter)	8291	DYSF	Pathogenic	GRCh38	498353
+single nucleotide variant	NM_001130987.2(DYSF):c.2302C>T (p.Gln768Ter)	8291	DYSF	Pathogenic	GRCh38	498566
+single nucleotide variant	NM_001130987.2(DYSF):c.2864+2T>A	8291	DYSF	Pathogenic	GRCh38	498750
+single nucleotide variant	NM_001130987.2(DYSF):c.3172C>T (p.Arg1058Trp)	8291	DYSF	Pathogenic	GRCh38	498954
+single nucleotide variant	NM_001130987.2(DYSF):c.3824G>A (p.Trp1275Ter)	8291	DYSF	Pathogenic	GRCh38	498955
+single nucleotide variant	NM_001130987.2(DYSF):c.2826G>A (p.Trp942Ter)	8291	DYSF	Pathogenic	GRCh38	499543
+single nucleotide variant	NM_001130987.2(DYSF):c.5643-7T>G	8291	DYSF	Likely pathogenic	GRCh38	500214
+single nucleotide variant	NM_001130987.2(DYSF):c.5620A>G (p.Met1874Val)	8291	DYSF	Pathogenic	GRCh38	500678
+single nucleotide variant	NM_001130987.2(DYSF):c.889-2A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	500814
+single nucleotide variant	NM_001130987.2(DYSF):c.4135T>C (p.Cys1379Arg)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	500922
+single nucleotide variant	NM_001130987.2(DYSF):c.5938A>T (p.Lys1980Ter)	8291	DYSF	Pathogenic	GRCh38	501036
+single nucleotide variant	NM_001130987.2(DYSF):c.6139G>T (p.Glu2047Ter)	8291	DYSF	Pathogenic	GRCh38	501041
+single nucleotide variant	NM_001130987.2(DYSF):c.5317+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	538631
+single nucleotide variant	NM_001130987.2(DYSF):c.4701C>G (p.Tyr1567Ter)	8291	DYSF	Likely pathogenic	GRCh38	545008
+single nucleotide variant	NM_001130987.2(DYSF):c.1721T>C (p.Leu574Pro)	8291	DYSF	Pathogenic	GRCh38	545009
+single nucleotide variant	NM_003494.4(DYSF):c.1A>G (p.Met1Val)	8291	DYSF	Likely pathogenic	GRCh38	555456
+single nucleotide variant	NM_001130987.2(DYSF):c.460+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	550404
+single nucleotide variant	NM_001130987.2(DYSF):c.622C>T (p.Gln208Ter)	8291	DYSF	Pathogenic	GRCh38	556201
+single nucleotide variant	NM_001130987.2(DYSF):c.952-2A>G	8291	DYSF	Likely pathogenic	GRCh38	556459
+single nucleotide variant	NM_001130987.2(DYSF):c.1544C>A (p.Ser515Ter)	8291	DYSF	Pathogenic	GRCh38	554057
+single nucleotide variant	NM_001130987.2(DYSF):c.4221+1G>C	8291	DYSF	Pathogenic	GRCh38	555431
+single nucleotide variant	NM_001130987.2(DYSF):c.1116C>A (p.Ser372Arg)	8291	DYSF	Pathogenic	GRCh38	551891
+single nucleotide variant	NM_001130987.2(DYSF):c.1277-2A>C	8291	DYSF	Pathogenic	GRCh38	554833
+single nucleotide variant	NM_001130987.2(DYSF):c.2548C>T (p.Gln850Ter)	8291	DYSF	Pathogenic	GRCh38	551845
+single nucleotide variant	NM_001130987.2(DYSF):c.2698-2A>G	8291	DYSF	Pathogenic	GRCh38	556235
+single nucleotide variant	NM_001130987.2(DYSF):c.3897+1G>A	8291	DYSF	Pathogenic	GRCh38	557945
+single nucleotide variant	NM_001130987.2(DYSF):c.4076T>C (p.Leu1359Pro)	8291	DYSF	Pathogenic	GRCh38	555968
+single nucleotide variant	NM_001130987.2(DYSF):c.5785-1G>C	8291	DYSF	Likely pathogenic	GRCh38	550665
+single nucleotide variant	NM_001130987.2(DYSF):c.6174-2A>G	8291	DYSF	Likely pathogenic	GRCh38	551802
+single nucleotide variant	NM_003494.4(DYSF):c.2T>C (p.Met1Thr)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	553165
+single nucleotide variant	NM_001130987.2(DYSF):c.959A>T (p.Asp320Val)	8291	DYSF	Pathogenic	GRCh38	555770
+single nucleotide variant	NM_001130987.2(DYSF):c.1061T>C (p.Leu354Pro)	8291	DYSF	Pathogenic	GRCh38	551237
+single nucleotide variant	NM_001130987.2(DYSF):c.1449+1G>A	8291	DYSF	Likely pathogenic	GRCh38	554978
+single nucleotide variant	NM_001130987.2(DYSF):c.3655C>T (p.Gln1219Ter)	8291	DYSF	Pathogenic	GRCh38	557310
+single nucleotide variant	NM_001130987.2(DYSF):c.4042C>T (p.Gln1348Ter)	8291	DYSF	Pathogenic	GRCh38	554013
+single nucleotide variant	NM_001130987.2(DYSF):c.4528-2A>G	8291	DYSF	Likely pathogenic	GRCh38	550866
+single nucleotide variant	NM_001130987.2(DYSF):c.5174+2T>C	8291	DYSF	Likely pathogenic	GRCh38	557046
+single nucleotide variant	NM_001130987.2(DYSF):c.6251G>A (p.Trp2084Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	551775
+single nucleotide variant	NM_001130987.2(DYSF):c.6252G>A (p.Trp2084Ter)	8291	DYSF	Pathogenic	GRCh38	554672
+single nucleotide variant	NM_001130987.2(DYSF):c.240-1G>A	8291	DYSF	Likely pathogenic	GRCh38	555783
+single nucleotide variant	NM_001130987.2(DYSF):c.1493+1G>A	8291	DYSF	Likely pathogenic	GRCh38	554741
+single nucleotide variant	NM_001130987.2(DYSF):c.1577-2A>G	8291	DYSF	Pathogenic	GRCh38	552023
+single nucleotide variant	NM_001130987.2(DYSF):c.3028T>C (p.Trp1010Arg)	8291	DYSF	Pathogenic	GRCh38	551236
+single nucleotide variant	NM_001130987.2(DYSF):c.3859G>T (p.Glu1287Ter)	8291	DYSF	Pathogenic	GRCh38	558274
+single nucleotide variant	NM_001130987.2(DYSF):c.3957+2T>A	8291	DYSF	Likely pathogenic	GRCh38	551867
+single nucleotide variant	NM_001130987.2(DYSF):c.5457+1G>A	8291	DYSF	Likely pathogenic	GRCh38	556639
+single nucleotide variant	NM_001130987.2(DYSF):c.5784+1G>A	8291	DYSF	Likely pathogenic	GRCh38	553719
+single nucleotide variant	NM_001130987.2(DYSF):c.5885-1G>C	8291	DYSF	Likely pathogenic	GRCh38	555213
+single nucleotide variant	NM_001130987.2(DYSF):c.6313G>A (p.Ala2105Thr)	8291	DYSF	Pathogenic	GRCh38	557110
+single nucleotide variant	NM_001130987.2(DYSF):c.5210C>G (p.Pro1737Arg)	8291	DYSF	Likely pathogenic	GRCh38	567124
+single nucleotide variant	NM_001130987.2(DYSF):c.3741C>A (p.Tyr1247Ter)	8291	DYSF	Pathogenic	GRCh38	575305
+single nucleotide variant	NM_001130987.2(DYSF):c.361C>T (p.Gln121Ter)	8291	DYSF	Pathogenic	GRCh38	567525
+single nucleotide variant	NM_001130987.2(DYSF):c.1003-2A>G	8291	DYSF	Likely pathogenic	GRCh38	565629
+single nucleotide variant	NM_001130987.2(DYSF):c.4909A>T (p.Lys1637Ter)	8291	DYSF	Pathogenic	GRCh38	574900
+single nucleotide variant	NM_001130987.2(DYSF):c.5086G>T (p.Glu1696Ter)	8291	DYSF	Pathogenic	GRCh38	574059
+single nucleotide variant	NM_001130987.2(DYSF):c.5724G>A (p.Trp1908Ter)	8291	DYSF	Pathogenic	GRCh38	571837
+single nucleotide variant	NM_001130987.2(DYSF):c.4843C>T (p.Gln1615Ter)	8291	DYSF	Pathogenic	GRCh38	595745
+single nucleotide variant	NM_001130987.2(DYSF):c.1493G>A (p.Trp498Ter)	8291	DYSF	Pathogenic	GRCh38	595797
+single nucleotide variant	NM_001130987.2(DYSF):c.2378G>A (p.Trp793Ter)	8291	DYSF	Pathogenic	GRCh38	596406
+single nucleotide variant	NM_001130987.2(DYSF):c.5884+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	597680
+single nucleotide variant	NM_001130987.2(DYSF):c.3361A>T (p.Lys1121Ter)	8291	DYSF	Pathogenic	GRCh38	597804
+single nucleotide variant	NM_001130987.2(DYSF):c.4626+1G>A	8291	DYSF	Likely pathogenic	GRCh38	617533
+single nucleotide variant	NM_001130987.2(DYSF):c.5711G>A (p.Gly1904Asp)	8291	DYSF	Likely pathogenic	GRCh38	617543
+single nucleotide variant	NM_001130987.2(DYSF):c.875C>G (p.Pro292Arg)	8291	DYSF	Likely pathogenic	GRCh38	619023
+single nucleotide variant	NM_001130987.2(DYSF):c.3991C>T (p.Gln1331Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	635045
+single nucleotide variant	NM_001130987.2(DYSF):c.1149+3G>C	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	638642
+single nucleotide variant	NM_001130987.2(DYSF):c.2473C>T (p.Gln825Ter)	8291	DYSF	Pathogenic	GRCh38	638644
+single nucleotide variant	NM_001130987.2(DYSF):c.796G>T (p.Gly266Trp)	8291	DYSF	Likely pathogenic	GRCh38	653228
+single nucleotide variant	NM_001130987.2(DYSF):c.4057G>A (p.Glu1353Lys)	8291	DYSF	Pathogenic	GRCh38	655896
+single nucleotide variant	NM_001130987.2(DYSF):c.4153C>T (p.Gln1385Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	647109
+single nucleotide variant	NM_001130987.2(DYSF):c.4444G>T (p.Glu1482Ter)	8291	DYSF	Pathogenic	GRCh38	665762
+single nucleotide variant	NM_001130987.2(DYSF):c.5000G>T (p.Gly1667Val)	8291	DYSF	Pathogenic	GRCh38	658470
+single nucleotide variant	NM_001130987.2(DYSF):c.5176T>C (p.Ser1726Pro)	8291	DYSF	Likely pathogenic	GRCh38	665724
+single nucleotide variant	NM_001130987.2(DYSF):c.5842C>T (p.Gln1948Ter)	8291	DYSF	Likely pathogenic	GRCh38	689584
+single nucleotide variant	NM_001130987.2(DYSF):c.5571G>C (p.Trp1857Cys)	8291	DYSF	Likely pathogenic	GRCh38	693999
+single nucleotide variant	NM_001130987.2(DYSF):c.4216G>T (p.Glu1406Ter)	8291	DYSF	Pathogenic	GRCh38	694000
+single nucleotide variant	NM_001130987.2(DYSF):c.5850G>A (p.Trp1950Ter)	8291	DYSF	Pathogenic	GRCh38	694065
+single nucleotide variant	NM_001130987.2(DYSF):c.5547-1G>C	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	804770
+single nucleotide variant	NM_001130987.2(DYSF):c.1149+1G>C	8291	DYSF	Pathogenic	GRCh38	808764
+single nucleotide variant	NM_001130987.2(DYSF):c.850A>G (p.Thr284Ala)	8291	DYSF	Likely pathogenic	GRCh38	813972
+single nucleotide variant	NM_001130987.2(DYSF):c.4822C>T (p.Gln1608Ter)	8291	DYSF	Pathogenic	GRCh38	813970
+single nucleotide variant	NM_001130987.2(DYSF):c.5921C>T (p.Pro1974Leu)	8291	DYSF	Likely pathogenic	GRCh38	813969
+single nucleotide variant	NM_001130987.2(DYSF):c.991G>C (p.Gly331Arg)	8291	DYSF	Pathogenic	GRCh38	837557
+single nucleotide variant	NM_001130987.2(DYSF):c.1965C>A (p.Tyr655Ter)	8291	DYSF	Pathogenic	GRCh38	837580
+single nucleotide variant	NM_001130987.2(DYSF):c.2442G>A (p.Trp814Ter)	8291	DYSF	Pathogenic	GRCh38	864338
+single nucleotide variant	NM_001130987.2(DYSF):c.2986G>T (p.Glu996Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	850419
+single nucleotide variant	NM_001130987.2(DYSF):c.3148A>G (p.Lys1050Glu)	8291	DYSF	Likely pathogenic	GRCh38	837176
+single nucleotide variant	NM_001130987.2(DYSF):c.3756T>A (p.Tyr1252Ter)	8291	DYSF	Pathogenic	GRCh38	857602
+single nucleotide variant	NM_001130987.2(DYSF):c.4248C>A (p.Cys1416Ter)	8291	DYSF	Pathogenic	GRCh38	841556
+single nucleotide variant	NM_001130987.2(DYSF):c.5311G>T (p.Glu1771Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	853605
+single nucleotide variant	NM_001130987.2(DYSF):c.6125G>A (p.Gly2042Asp)	8291	DYSF	Likely pathogenic	GRCh38	858838
+single nucleotide variant	NM_001130987.2(DYSF):c.148-1G>A	8291	DYSF	Pathogenic	GRCh38	856717
+single nucleotide variant	NM_001130987.2(DYSF):c.1002+4A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	864798
+single nucleotide variant	NM_001130987.2(DYSF):c.1003-3C>A	8291	DYSF	Pathogenic	GRCh38	858180
+single nucleotide variant	NM_001130987.2(DYSF):c.1806+2T>G	8291	DYSF	Likely pathogenic	GRCh38	837175
+single nucleotide variant	NM_001130987.2(DYSF):c.4387+2T>C	8291	DYSF	Likely pathogenic	GRCh38	838510
+single nucleotide variant	NM_001130987.2(DYSF):c.1261G>A (p.Glu421Lys)	8291	DYSF	Likely pathogenic	GRCh38	869485
+single nucleotide variant	NM_001130987.2(DYSF):c.2707G>T (p.Glu903Ter)	8291	DYSF	Pathogenic	GRCh38	869487
+single nucleotide variant	NM_001130987.2(DYSF):c.5474G>A (p.Trp1825Ter)	8291	DYSF	Pathogenic	GRCh38	869488
+single nucleotide variant	NM_001130987.2(DYSF):c.1567G>T (p.Glu523Ter)	8291	DYSF	Pathogenic	GRCh38	945128
+single nucleotide variant	NM_001130987.2(DYSF):c.2568T>A (p.Tyr856Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	938081
+single nucleotide variant	NM_001130987.2(DYSF):c.3856G>A (p.Gly1286Arg)	8291	DYSF	Likely pathogenic	GRCh38	938082
+single nucleotide variant	NM_001130987.2(DYSF):c.2697+1G>C	8291	DYSF	Pathogenic	GRCh38	936623
+single nucleotide variant	NM_001130987.2(DYSF):c.2697+5G>C	8291	DYSF	Likely pathogenic	GRCh38	939106
+single nucleotide variant	NM_001130987.2(DYSF):c.3228+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	933322
+single nucleotide variant	NM_001130987.2(DYSF):c.3575-1G>A	8291	DYSF	Pathogenic	GRCh38	949835
+single nucleotide variant	NM_001130987.2(DYSF):c.5004-2A>G	8291	DYSF	Likely pathogenic	GRCh38	948901
+single nucleotide variant	NM_001130987.2(DYSF):c.5546+1G>A	8291	DYSF	Likely pathogenic	GRCh38	948793
+single nucleotide variant	NM_001130987.2(DYSF):c.139T>C (p.Trp47Arg)	8291	DYSF	Likely pathogenic	GRCh38	962048
+single nucleotide variant	NM_001130987.2(DYSF):c.247G>A (p.Gly83Arg)	8291	DYSF	Likely pathogenic	GRCh38	960932
+single nucleotide variant	NM_001130987.2(DYSF):c.2125C>T (p.Gln709Ter)	8291	DYSF	Pathogenic	GRCh38	963357
+single nucleotide variant	NM_001130987.2(DYSF):c.5729T>C (p.Phe1910Ser)	8291	DYSF	Likely pathogenic	GRCh38	962018
+single nucleotide variant	NM_001130987.2(DYSF):c.2980-1G>C	8291	DYSF	Likely pathogenic	GRCh38	958849
+single nucleotide variant	NM_001130987.2(DYSF):c.3957+2T>G	8291	DYSF	Likely pathogenic	GRCh38	971009
+single nucleotide variant	NM_001130987.2(DYSF):c.147+1G>A	8291	DYSF	Pathogenic	GRCh38	973349
+single nucleotide variant	NM_001130987.2(DYSF):c.5547-2A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	978227
+single nucleotide variant	NM_001130987.2(DYSF):c.118A>T (p.Lys40Ter)	8291	DYSF	Likely pathogenic	GRCh38	984229
+single nucleotide variant	NM_001130987.2(DYSF):c.193G>T (p.Glu65Ter)	8291	DYSF	Likely pathogenic	GRCh38	984230
+single nucleotide variant	NM_001130987.2(DYSF):c.778G>T (p.Glu260Ter)	8291	DYSF	Likely pathogenic	GRCh38	984231
+single nucleotide variant	NM_001130987.2(DYSF):c.1268T>A (p.Leu423Ter)	8291	DYSF	Likely pathogenic	GRCh38	984232
+single nucleotide variant	NM_001130987.2(DYSF):c.1426C>T (p.Gln476Ter)	8291	DYSF	Likely pathogenic	GRCh38	984233
+single nucleotide variant	NM_001130987.2(DYSF):c.1617C>A (p.Cys539Ter)	8291	DYSF	Likely pathogenic	GRCh38	984234
+single nucleotide variant	NM_001130987.2(DYSF):c.2009G>A (p.Trp670Ter)	8291	DYSF	Likely pathogenic	GRCh38	984235
+single nucleotide variant	NM_001130987.2(DYSF):c.2039C>G (p.Ser680Ter)	8291	DYSF	Likely pathogenic	GRCh38	984236
+single nucleotide variant	NM_001130987.2(DYSF):c.2563A>T (p.Lys855Ter)	8291	DYSF	Likely pathogenic	GRCh38	983669
+single nucleotide variant	NM_001130987.2(DYSF):c.2578A>T (p.Lys860Ter)	8291	DYSF	Likely pathogenic	GRCh38	983670
+single nucleotide variant	NM_001130987.2(DYSF):c.2636C>A (p.Ser879Ter)	8291	DYSF	Likely pathogenic	GRCh38	983671
+single nucleotide variant	NM_001130987.2(DYSF):c.2644G>T (p.Glu882Ter)	8291	DYSF	Likely pathogenic	GRCh38	983672
+single nucleotide variant	NM_001130987.2(DYSF):c.2650G>T (p.Glu884Ter)	8291	DYSF	Likely pathogenic	GRCh38	983673
+single nucleotide variant	NM_001130987.2(DYSF):c.2674A>T (p.Lys892Ter)	8291	DYSF	Likely pathogenic	GRCh38	983674
+single nucleotide variant	NM_001130987.2(DYSF):c.2853T>A (p.Cys951Ter)	8291	DYSF	Likely pathogenic	GRCh38	983675
+single nucleotide variant	NM_001130987.2(DYSF):c.3013G>T (p.Glu1005Ter)	8291	DYSF	Likely pathogenic	GRCh38	983957
+single nucleotide variant	NM_001130987.2(DYSF):c.3035G>A (p.Trp1012Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	983958
+single nucleotide variant	NM_001130987.2(DYSF):c.3179G>A (p.Trp1060Ter)	8291	DYSF	Likely pathogenic	GRCh38	983959
+single nucleotide variant	NM_001130987.2(DYSF):c.3241G>T (p.Glu1081Ter)	8291	DYSF	Likely pathogenic	GRCh38	983960
+single nucleotide variant	NM_001130987.2(DYSF):c.3253G>T (p.Glu1085Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	983961
+single nucleotide variant	NM_001130987.2(DYSF):c.3559A>T (p.Lys1187Ter)	8291	DYSF	Likely pathogenic	GRCh38	983962
+single nucleotide variant	NM_001130987.2(DYSF):c.3651G>A (p.Trp1217Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	983963
+single nucleotide variant	NM_001130987.2(DYSF):c.3672C>A (p.Tyr1224Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	983964
+single nucleotide variant	NM_001130987.2(DYSF):c.3679G>T (p.Glu1227Ter)	8291	DYSF	Likely pathogenic	GRCh38	984121
+single nucleotide variant	NM_001130987.2(DYSF):c.3895A>T (p.Lys1299Ter)	8291	DYSF	Likely pathogenic	GRCh38	984122
+single nucleotide variant	NM_001130987.2(DYSF):c.4414G>T (p.Glu1472Ter)	8291	DYSF	Pathogenic	GRCh38	984123
+single nucleotide variant	NM_001130987.2(DYSF):c.4888C>T (p.Gln1630Ter)	8291	DYSF	Likely pathogenic	GRCh38	984124
+single nucleotide variant	NM_001130987.2(DYSF):c.4980C>A (p.Cys1660Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	984125
+single nucleotide variant	NM_001130987.2(DYSF):c.4999G>T (p.Gly1667Ter)	8291	DYSF	Likely pathogenic	GRCh38	984126
+single nucleotide variant	NM_001130987.2(DYSF):c.5161C>T (p.Gln1721Ter)	8291	DYSF	Pathogenic	GRCh38	984127
+single nucleotide variant	NM_001130987.2(DYSF):c.5239C>T (p.Gln1747Ter)	8291	DYSF	Likely pathogenic	GRCh38	984128
+single nucleotide variant	NM_001130987.2(DYSF):c.5251A>T (p.Lys1751Ter)	8291	DYSF	Likely pathogenic	GRCh38	984245
+single nucleotide variant	NM_001130987.2(DYSF):c.5296G>T (p.Glu1766Ter)	8291	DYSF	Likely pathogenic	GRCh38	984246
+single nucleotide variant	NM_001130987.2(DYSF):c.5308G>T (p.Glu1770Ter)	8291	DYSF	Likely pathogenic	GRCh38	984247
+single nucleotide variant	NM_001130987.2(DYSF):c.5317G>T (p.Glu1773Ter)	8291	DYSF	Likely pathogenic	GRCh38	984248
+single nucleotide variant	NM_001130987.2(DYSF):c.5617A>T (p.Lys1873Ter)	8291	DYSF	Likely pathogenic	GRCh38	984249
+single nucleotide variant	NM_001130987.2(DYSF):c.5638A>T (p.Lys1880Ter)	8291	DYSF	Likely pathogenic	GRCh38	984250
+single nucleotide variant	NM_001130987.2(DYSF):c.6109G>T (p.Glu2037Ter)	8291	DYSF	Likely pathogenic	GRCh38	984251
+single nucleotide variant	NM_001130987.2(DYSF):c.3086-2A>G	8291	DYSF	Likely pathogenic	GRCh38	1028124
+single nucleotide variant	NM_001130987.2(DYSF):c.5188C>T (p.Gln1730Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1389207
+single nucleotide variant	NM_001130987.2(DYSF):c.345+2T>C	8291	DYSF	Pathogenic	GRCh38	1068079
+single nucleotide variant	NM_001130987.2(DYSF):c.3574+1G>A	8291	DYSF	Likely pathogenic	GRCh38	1066390
+single nucleotide variant	NM_001130987.2(DYSF):c.5785-2A>C	8291	DYSF	Likely pathogenic	GRCh38	1068344
+single nucleotide variant	NM_003494.4(DYSF):c.24T>G (p.Tyr8Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1075046
+single nucleotide variant	NM_001130987.2(DYSF):c.1380+1G>C	8291	DYSF	Pathogenic	GRCh38	1073503
+single nucleotide variant	NM_001130987.2(DYSF):c.1984+2T>C	8291	DYSF	Pathogenic	GRCh38	1074366
+single nucleotide variant	NM_001130987.2(DYSF):c.2605C>T (p.Gln869Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1075637
+single nucleotide variant	NM_001130987.2(DYSF):c.2624G>A (p.Trp875Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1072189
+single nucleotide variant	NM_001130987.2(DYSF):c.4756-1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1180848
+single nucleotide variant	NM_001130987.2(DYSF):c.6236G>A (p.Trp2079Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1180715
+single nucleotide variant	NM_001130987.2(DYSF):c.5718C>G (p.Phe1906Leu)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1184483
+single nucleotide variant	NM_001130987.2(DYSF):c.3931C>T (p.Gln1311Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1321153
+single nucleotide variant	NM_001130987.2(DYSF):c.3134G>A (p.Trp1045Ter)	8291	DYSF	Pathogenic	GRCh38	1322794
+single nucleotide variant	NM_001130987.2(DYSF):c.2523C>G (p.Tyr841Ter)	8291	DYSF	Pathogenic	GRCh38	1322801
+single nucleotide variant	NM_001130987.2(DYSF):c.2149C>T (p.Gln717Ter)	8291	DYSF	Pathogenic	GRCh38	1322803
+single nucleotide variant	NM_001130987.2(DYSF):c.1965C>G (p.Tyr655Ter)	8291	DYSF	Pathogenic	GRCh38	1322808
+single nucleotide variant	NM_001130987.2(DYSF):c.1493+1G>C	8291	DYSF	Pathogenic	GRCh38	1322809
+single nucleotide variant	NM_001130987.2(DYSF):c.1985-1G>T	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1322810
+single nucleotide variant	NM_001130987.2(DYSF):c.1330A>T (p.Lys444Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1322811
+single nucleotide variant	NM_001130987.2(DYSF):c.1494G>A (p.Trp498Ter)	8291	DYSF	Pathogenic	GRCh38	1322813
+single nucleotide variant	NM_001130987.2(DYSF):c.4387+1G>T	8291	DYSF	Likely pathogenic	GRCh38	1324310
+single nucleotide variant	NM_001130987.2(DYSF):c.2831G>A (p.Trp944Ter)	8291	DYSF	Likely pathogenic	GRCh38	1324311
+single nucleotide variant	NM_001130987.2(DYSF):c.5849G>A (p.Trp1950Ter)	8291	DYSF	Pathogenic	GRCh38	1326969
+single nucleotide variant	NM_001130987.2(DYSF):c.3228+1G>C	8291	DYSF	Likely pathogenic	GRCh38	1521979
+single nucleotide variant	NM_001130987.2(DYSF):c.5671C>T (p.Gln1891Ter)	8291	DYSF	Pathogenic	GRCh38	1386091
+single nucleotide variant	NM_001130987.2(DYSF):c.3928-2A>G	8291	DYSF	Likely pathogenic	GRCh38	1468205
+single nucleotide variant	NM_001130987.2(DYSF):c.3575-2A>G	8291	DYSF	Pathogenic	GRCh38	1452636
+single nucleotide variant	NM_001130987.2(DYSF):c.5571G>A (p.Trp1857Ter)	8291	DYSF	Pathogenic	GRCh38	1385410
+single nucleotide variant	NM_001130987.2(DYSF):c.345+1G>T	8291	DYSF	Pathogenic	GRCh38	1455665
+single nucleotide variant	NM_001130987.2(DYSF):c.4059+1G>A	8291	DYSF	Pathogenic	GRCh38	1455686
+single nucleotide variant	NM_001130987.2(DYSF):c.3898-1G>C	8291	DYSF	Likely pathogenic	GRCh38	1483401
+single nucleotide variant	NM_001130987.2(DYSF):c.6334A>G (p.Met2112Val)	8291	DYSF	Pathogenic	GRCh38	1444196
+single nucleotide variant	NM_001130987.2(DYSF):c.2077C>T (p.Gln693Ter)	8291	DYSF	Pathogenic	GRCh38	1446079
+single nucleotide variant	NM_001130987.2(DYSF):c.5578A>T (p.Arg1860Ter)	8291	DYSF	Pathogenic	GRCh38	1367528
+single nucleotide variant	NM_001130987.2(DYSF):c.3050G>A (p.Trp1017Ter)	8291	DYSF	Pathogenic	GRCh38	1392298
+single nucleotide variant	NM_003494.4(DYSF):c.1522+1G>A	8291	DYSF	Likely pathogenic	GRCh38	1504863
+single nucleotide variant	NM_001130987.2(DYSF):c.1692+1G>A	8291	DYSF	Pathogenic	GRCh38	1453184
+single nucleotide variant	NM_001130987.2(DYSF):c.6131G>A (p.Gly2044Asp)	8291	DYSF	Likely pathogenic	GRCh38	1479476
+single nucleotide variant	NM_001130987.2(DYSF):c.4071G>A (p.Trp1357Ter)	8291	DYSF	Pathogenic	GRCh38	1399018
+single nucleotide variant	NM_001130987.2(DYSF):c.2410-2A>G	8291	DYSF	Likely pathogenic	GRCh38	1484090
+single nucleotide variant	NM_001130987.2(DYSF):c.668C>A (p.Ser223Ter)	8291	DYSF	Pathogenic	GRCh38	1456224
+single nucleotide variant	NM_001130987.2(DYSF):c.2865-1G>A	8291	DYSF	Likely pathogenic	GRCh38	1483857
+single nucleotide variant	NM_001130987.2(DYSF):c.3496+1G>A	8291	DYSF	Pathogenic	GRCh38	1483067
+single nucleotide variant	NM_001130987.2(DYSF):c.2109+1G>C	8291	DYSF	Likely pathogenic	GRCh38	1486236
+single nucleotide variant	NM_001130987.2(DYSF):c.5718C>A (p.Phe1906Leu)	8291	DYSF	Pathogenic	GRCh38	1350242
+single nucleotide variant	NM_001130987.2(DYSF):c.4021C>T (p.Gln1341Ter)	8291	DYSF	Pathogenic	GRCh38	1458148
+single nucleotide variant	NM_001130987.2(DYSF):c.3898-2A>C	8291	DYSF	Likely pathogenic	GRCh38	1513137
+single nucleotide variant	NM_001130987.2(DYSF):c.5893C>T (p.Gln1965Ter)	8291	DYSF	Pathogenic	GRCh38	1459445
+single nucleotide variant	NM_001130987.2(DYSF):c.2905G>T (p.Glu969Ter)	8291	DYSF	Pathogenic	GRCh38	1406762
+single nucleotide variant	NM_001130987.2(DYSF):c.2697+5G>A	8291	DYSF	Pathogenic	GRCh38	1350756
+single nucleotide variant	NM_001130987.2(DYSF):c.2266C>T (p.Gln756Ter)	8291	DYSF	Pathogenic	GRCh38	1433815
+single nucleotide variant	NM_001130987.2(DYSF):c.3085+1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1686650
+single nucleotide variant	NM_001130987.2(DYSF):c.1127T>C (p.Leu376Pro)	8291	DYSF	Likely pathogenic	GRCh38	1698871
+single nucleotide variant	NM_001130987.2(DYSF):c.5943C>A (p.Cys1981Ter)	8291	DYSF	Pathogenic	GRCh38	1708550
+single nucleotide variant	NM_001130987.2(DYSF):c.2472C>A (p.Tyr824Ter)	8291	DYSF	Pathogenic	GRCh38	1708551
+single nucleotide variant	NM_001130987.2(DYSF):c.769C>T (p.Gln257Ter)	8291	DYSF	Pathogenic	GRCh38	1708553
+single nucleotide variant	NM_001130987.2(DYSF):c.3135G>A (p.Trp1045Ter)	8291	DYSF	Likely pathogenic	GRCh38	1723951
+single nucleotide variant	NM_001130987.2(DYSF):c.5293A>T (p.Lys1765Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724006
+single nucleotide variant	NM_001130987.2(DYSF):c.4923C>A (p.Tyr1641Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1724499
+single nucleotide variant	NM_001130987.2(DYSF):c.1171G>T (p.Glu391Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724742
+single nucleotide variant	NM_001130987.2(DYSF):c.5265C>G (p.Tyr1755Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724785
+single nucleotide variant	NM_001130987.2(DYSF):c.2832G>A (p.Trp944Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	1724791
+single nucleotide variant	NM_001130987.2(DYSF):c.697A>T (p.Lys233Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724817
+single nucleotide variant	NM_001130987.2(DYSF):c.3031A>T (p.Lys1011Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724893
+single nucleotide variant	NM_001130987.2(DYSF):c.2782A>T (p.Lys928Ter)	8291	DYSF	Likely pathogenic	GRCh38	1724977
+single nucleotide variant	NM_001130987.2(DYSF):c.742A>T (p.Lys248Ter)	8291	DYSF	Likely pathogenic	GRCh38	1725136
+single nucleotide variant	NM_001130987.2(DYSF):c.1995C>A (p.Tyr665Ter)	8291	DYSF	Likely pathogenic	GRCh38	1725203
+single nucleotide variant	NM_001130987.2(DYSF):c.2239G>T (p.Glu747Ter)	8291	DYSF	Likely pathogenic	GRCh38	1725369
+single nucleotide variant	NM_001130987.2(DYSF):c.2530A>T (p.Lys844Ter)	8291	DYSF	Likely pathogenic	GRCh38	1725376
+single nucleotide variant	NM_001130987.2(DYSF):c.5758G>T (p.Glu1920Ter)	8291	DYSF	Likely pathogenic	GRCh38	1725889
+single nucleotide variant	NM_001130987.2(DYSF):c.5193G>A (p.Trp1731Ter)	8291	DYSF	Likely pathogenic	GRCh38	1726282
+single nucleotide variant	NM_001130987.2(DYSF):c.4599C>G (p.Tyr1533Ter)	8291	DYSF	Likely pathogenic	GRCh38	1726586
+single nucleotide variant	NM_001130987.2(DYSF):c.3180G>A (p.Trp1060Ter)	8291	DYSF	Pathogenic	GRCh38	1803708
+single nucleotide variant	NM_001130987.2(DYSF):c.3298G>T (p.Glu1100Ter)	8291	DYSF	Pathogenic	GRCh38	1803964
+single nucleotide variant	NM_001130987.2(DYSF):c.3958-1G>A	8291	DYSF	Likely pathogenic	GRCh38	2150131
+single nucleotide variant	NM_001130987.2(DYSF):c.3334T>C (p.Trp1112Arg)	8291	DYSF	Likely pathogenic	GRCh38	2153164
+single nucleotide variant	NM_001130987.2(DYSF):c.345+1G>A	8291	DYSF	Pathogenic	GRCh38	2203083
+single nucleotide variant	NM_001130987.2(DYSF):c.359T>C (p.Leu120Pro)	8291	DYSF	Pathogenic	GRCh38	2203084
+single nucleotide variant	NM_001130987.2(DYSF):c.1261G>T (p.Glu421Ter)	8291	DYSF	Pathogenic	GRCh38	2203087
+single nucleotide variant	NM_001130987.2(DYSF):c.4078C>G (p.Arg1360Gly)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2203093
+single nucleotide variant	NM_001130987.2(DYSF):c.6335T>G (p.Met2112Arg)	8291	DYSF	Likely pathogenic	GRCh38	1879475
+single nucleotide variant	NM_001130987.2(DYSF):c.3575-1G>C	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2415920
+single nucleotide variant	NM_001130987.2(DYSF):c.1102T>C (p.Tyr368His)	8291	DYSF	Likely pathogenic	GRCh38	2420198
+single nucleotide variant	NM_001130987.2(DYSF):c.5175-2A>G	8291	DYSF	Likely pathogenic	GRCh38	1961426
+single nucleotide variant	NM_001130987.2(DYSF):c.247G>C (p.Gly83Arg)	8291	DYSF	Likely pathogenic	GRCh38	1968746
+single nucleotide variant	NM_001130987.2(DYSF):c.1985-2A>G	8291	DYSF	Pathogenic	GRCh38	1974745
+single nucleotide variant	NM_001130987.2(DYSF):c.5420G>C (p.Arg1807Pro)	8291	DYSF	Likely pathogenic	GRCh38	1991591
+single nucleotide variant	NM_001130987.2(DYSF):c.3336G>A (p.Trp1112Ter)	8291	DYSF	Pathogenic	GRCh38	2003200
+single nucleotide variant	NM_001130987.2(DYSF):c.5389C>T (p.Gln1797Ter)	8291	DYSF	Pathogenic	GRCh38	2020456
+single nucleotide variant	NM_001130987.2(DYSF):c.3957+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2021928
+single nucleotide variant	NM_001130987.2(DYSF):c.5440C>T (p.Gln1814Ter)	8291	DYSF	Pathogenic	GRCh38	2028713
+single nucleotide variant	NM_001130987.2(DYSF):c.1276+2T>A	8291	DYSF	Pathogenic	GRCh38	2087252
+single nucleotide variant	NM_001130987.2(DYSF):c.5169C>A (p.Tyr1723Ter)	8291	DYSF	Pathogenic	GRCh38	2096184
+single nucleotide variant	NM_001130987.2(DYSF):c.6173+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2094308
+single nucleotide variant	NM_001130987.2(DYSF):c.3847C>T (p.Gln1283Ter)	8291	DYSF	Pathogenic	GRCh38	2113143
+single nucleotide variant	NM_001130987.2(DYSF):c.4528-2A>T	8291	DYSF	Likely pathogenic	GRCh38	2111201
+single nucleotide variant	NM_001130987.2(DYSF):c.5643-2A>C	8291	DYSF	Likely pathogenic	GRCh38	2114598
+single nucleotide variant	NM_001130987.2(DYSF):c.4221+1G>T	8291	DYSF	Pathogenic	GRCh38	2119849
+single nucleotide variant	NM_001130987.2(DYSF):c.346-2A>C	8291	DYSF	Likely pathogenic	GRCh38	2118091
+single nucleotide variant	NM_001130987.2(DYSF):c.5885-1G>A	8291	DYSF	Likely pathogenic	GRCh38	2429195
+single nucleotide variant	NM_001130987.2(DYSF):c.4755+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2439954
+single nucleotide variant	NM_001130987.2(DYSF):c.6197G>A (p.Trp2066Ter)	8291	DYSF	Likely pathogenic	GRCh38	2439969
+single nucleotide variant	NM_001130987.2(DYSF):c.5413G>A (p.Glu1805Lys)	8291	DYSF	Pathogenic	GRCh38	2441107
+single nucleotide variant	NM_001130987.2(DYSF):c.5687A>G (p.His1896Arg)	8291	DYSF	Pathogenic	GRCh38	2441110
+single nucleotide variant	NM_001130987.2(DYSF):c.1033+5G>A	8291	DYSF	Likely pathogenic	GRCh38	2441119
+single nucleotide variant	NM_001130987.2(DYSF):c.3170G>T (p.Arg1057Leu)	8291	DYSF	Pathogenic	GRCh38	2441144
+single nucleotide variant	NM_001130987.2(DYSF):c.3091G>T (p.Glu1031Ter)	8291	DYSF	Likely pathogenic	GRCh38	2501144
+single nucleotide variant	NM_001130987.2(DYSF):c.5993T>C (p.Leu1998Pro)	8291	DYSF	Likely pathogenic	GRCh38	2506389
+single nucleotide variant	NM_001130987.2(DYSF):c.5195G>C (p.Arg1732Pro)	8291	DYSF	Likely pathogenic	GRCh38	2570601
+single nucleotide variant	NM_001130987.2(DYSF):c.4550G>A (p.Trp1517Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2585029
+single nucleotide variant	NM_001130987.2(DYSF):c.1156A>T (p.Arg386Ter)	8291	DYSF	Likely pathogenic	GRCh38	2585239
+single nucleotide variant	NM_001130987.2(DYSF):c.6198G>A (p.Trp2066Ter)	8291	DYSF	Pathogenic	GRCh38	2674956
+single nucleotide variant	NM_001130987.2(DYSF):c.5642+2T>A	8291	DYSF	Likely pathogenic	GRCh38	2674966
+single nucleotide variant	NM_001130987.2(DYSF):c.1807-2A>G	8291	DYSF	Likely pathogenic	GRCh38	2674967
+single nucleotide variant	NM_001130987.2(DYSF):c.1261G>C (p.Glu421Gln)	8291	DYSF	Pathogenic	GRCh38	2674969
+single nucleotide variant	NM_001130987.2(DYSF):c.1002+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2674970
+single nucleotide variant	NM_001130987.2(DYSF):c.5458-2A>G	8291	DYSF	Likely pathogenic	GRCh38	2674971
+single nucleotide variant	NM_001130987.2(DYSF):c.5149T>C (p.Cys1717Arg)	8291	DYSF	Pathogenic	GRCh38	2674972
+single nucleotide variant	NM_001130987.2(DYSF):c.3672C>G (p.Tyr1224Ter)	8291	DYSF	Pathogenic	GRCh38	2674975
+single nucleotide variant	NM_001130987.2(DYSF):c.1806+1G>T	8291	DYSF	Likely pathogenic	GRCh38	2674977
+single nucleotide variant	NM_001130987.2(DYSF):c.760-2A>G	8291	DYSF	Likely pathogenic	GRCh38	2674978
+single nucleotide variant	NM_001130987.2(DYSF):c.2695A>C (p.Thr899Pro)	8291	DYSF	Likely pathogenic	GRCh38	2674980
+single nucleotide variant	NM_001130987.2(DYSF):c.1067C>G (p.Ser356Ter)	8291	DYSF	Likely pathogenic	GRCh38	2674988
+single nucleotide variant	NM_001130987.2(DYSF):c.5977G>T (p.Glu1993Ter)	8291	DYSF	Pathogenic	GRCh38	2674990
+single nucleotide variant	NM_001130987.2(DYSF):c.1984+2T>A	8291	DYSF	Likely pathogenic	GRCh38	2674991
+single nucleotide variant	NM_001130987.2(DYSF):c.3260G>A (p.Trp1087Ter)	8291	DYSF	Likely pathogenic	GRCh38	2674993
+single nucleotide variant	NM_001130987.2(DYSF):c.148-2A>G	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2674994
+single nucleotide variant	NM_001130987.2(DYSF):c.1055G>A (p.Trp352Ter)	8291	DYSF	Pathogenic	GRCh38	2674995
+single nucleotide variant	NM_001130987.2(DYSF):c.5642+3A>G	8291	DYSF	Pathogenic	GRCh38	2674996
+single nucleotide variant	NM_001130987.2(DYSF):c.2110-1G>A	8291	DYSF	Likely pathogenic	GRCh38	2674999
+single nucleotide variant	NM_001130987.2(DYSF):c.5990C>T (p.Ser1997Phe)	8291	DYSF	Pathogenic	GRCh38	2675001
+single nucleotide variant	NM_001130987.2(DYSF):c.2217-1G>A	8291	DYSF	Likely pathogenic	GRCh38	2675003
+single nucleotide variant	NM_003494.4(DYSF):c.88+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2675006
+single nucleotide variant	NM_001130987.2(DYSF):c.3051G>A (p.Trp1017Ter)	8291	DYSF	Pathogenic	GRCh38	2689112
+single nucleotide variant	NM_001130987.2(DYSF):c.3402+1G>A	8291	DYSF	Likely pathogenic	GRCh38	2703538
+single nucleotide variant	NM_001130987.2(DYSF):c.1141G>T (p.Glu381Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2695882
+single nucleotide variant	NM_001130987.2(DYSF):c.1417C>T (p.Gln473Ter)	8291	DYSF	Pathogenic	GRCh38	2734212
+single nucleotide variant	NM_001130987.2(DYSF):c.1692+1G>C	8291	DYSF	Pathogenic	GRCh38	2734214
+single nucleotide variant	NM_001130987.2(DYSF):c.922G>T (p.Glu308Ter)	8291	DYSF	Pathogenic	GRCh38	2736000
+single nucleotide variant	NM_001130987.2(DYSF):c.2278C>T (p.Gln760Ter)	8291	DYSF	Pathogenic	GRCh38	2755094
+single nucleotide variant	NM_001130987.2(DYSF):c.5858A>G (p.Asp1953Gly)	8291	DYSF	Likely pathogenic	GRCh38	2759945
+single nucleotide variant	NM_001130987.2(DYSF):c.2865-2A>G	8291	DYSF	Pathogenic	GRCh38	2750971
+single nucleotide variant	NM_001130987.2(DYSF):c.3190C>A (p.Arg1064Ser)	8291	DYSF	Likely pathogenic	GRCh38	2766730
+single nucleotide variant	NM_001130987.2(DYSF):c.2409+1G>T	8291	DYSF	Likely pathogenic	GRCh38	2765986
+single nucleotide variant	NM_001130987.2(DYSF):c.1276+1G>C	8291	DYSF	Pathogenic	GRCh38	2815565
+single nucleotide variant	NM_001130987.2(DYSF):c.2857G>T (p.Glu953Ter)	8291	DYSF	Pathogenic	GRCh38	2817579
+single nucleotide variant	NM_001130987.2(DYSF):c.4556A>T (p.Lys1519Ile)	8291	DYSF	Likely pathogenic	GRCh38	2829309
+single nucleotide variant	NM_001130987.2(DYSF):c.4387+2T>G	8291	DYSF	Likely pathogenic	GRCh38	2827230
+single nucleotide variant	NM_001130987.2(DYSF):c.1609G>T (p.Gly537Trp)	8291	DYSF	Likely pathogenic	GRCh38	2819412
+single nucleotide variant	NM_001130987.2(DYSF):c.4639C>T (p.Gln1547Ter)	8291	DYSF	Pathogenic	GRCh38	2826286
+single nucleotide variant	NM_001130987.2(DYSF):c.345+1G>C	8291	DYSF	Pathogenic	GRCh38	2841481
+single nucleotide variant	NM_001130987.2(DYSF):c.5061T>G (p.Tyr1687Ter)	8291	DYSF	Pathogenic	GRCh38	2842960
+single nucleotide variant	NM_001130987.2(DYSF):c.3159C>A (p.Tyr1053Ter)	8291	DYSF	Pathogenic	GRCh38	2857321
+single nucleotide variant	NM_001130987.2(DYSF):c.3897+1G>T	8291	DYSF	Pathogenic	GRCh38	2863481
+single nucleotide variant	NM_001130987.2(DYSF):c.5626G>C (p.Asp1876His)	8291	DYSF	Likely pathogenic	GRCh38	2885593
+single nucleotide variant	NM_001130987.2(DYSF):c.6305T>G (p.Phe2102Cys)	8291	DYSF	Likely pathogenic	GRCh38	2886890
+single nucleotide variant	NM_001130987.2(DYSF):c.3391G>T (p.Glu1131Ter)	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	2897678
+single nucleotide variant	NM_001130987.2(DYSF):c.3150G>C (p.Lys1050Asn)	8291	DYSF	Likely pathogenic	GRCh38	2900350
+single nucleotide variant	NM_001130987.2(DYSF):c.5684T>A (p.Val1895Glu)	8291	DYSF	Likely pathogenic	GRCh38	2912864
+single nucleotide variant	NM_001130987.2(DYSF):c.3334T>A (p.Trp1112Arg)	8291	DYSF	Pathogenic	GRCh38	2919542
+single nucleotide variant	NM_001130987.2(DYSF):c.3167G>C (p.Arg1056Pro)	8291	DYSF	Pathogenic	GRCh38	2912979
+single nucleotide variant	NM_001130987.2(DYSF):c.797G>C (p.Gly266Ala)	8291	DYSF	Likely pathogenic	GRCh38	3004417
+single nucleotide variant	NM_001130987.2(DYSF):c.1003-1G>A	8291	DYSF	Pathogenic/Likely pathogenic	GRCh38	3239662
+single nucleotide variant	NM_001130987.2(DYSF):c.5981G>A (p.Trp1994Ter)	8291	DYSF	Pathogenic	GRCh38	3241371
+single nucleotide variant	NM_001130987.2(DYSF):c.5175-1G>A	8291	DYSF	Likely pathogenic	GRCh38	3241374
+single nucleotide variant	NM_001130987.2(DYSF):c.2864+1G>C	8291	DYSF	Pathogenic	GRCh38	3241376
+single nucleotide variant	NM_001130987.2(DYSF):c.6321+1G>C	8291	DYSF	Likely pathogenic	GRCh38	3241378
+single nucleotide variant	NM_001130987.2(DYSF):c.3228+2T>C	8291	DYSF	Likely pathogenic	GRCh38	3241379
+single nucleotide variant	NM_001130987.2(DYSF):c.1494-1G>C	8291	DYSF	Likely pathogenic	GRCh38	3241380
+single nucleotide variant	NM_001130987.2(DYSF):c.951+2T>C	8291	DYSF	Likely pathogenic	GRCh38	3241382
+single nucleotide variant	NM_001130987.2(DYSF):c.1914C>G (p.Tyr638Ter)	8291	DYSF	Likely pathogenic	GRCh38	3241383
+single nucleotide variant	NM_001130987.2(DYSF):c.5562T>A (p.Cys1854Ter)	8291	DYSF	Likely pathogenic	GRCh38	3241384
+single nucleotide variant	NM_001130987.2(DYSF):c.1002+1G>C	8291	DYSF	Likely pathogenic	GRCh38	3380930
+single nucleotide variant	NM_001130987.2(DYSF):c.1150-2A>G	8291	DYSF	Likely pathogenic	GRCh38	3586911
+single nucleotide variant	NM_001130987.2(DYSF):c.1493+1G>T	8291	DYSF	Likely pathogenic	GRCh38	3586912
+single nucleotide variant	NM_001130987.2(DYSF):c.1806+2T>A	8291	DYSF	Likely pathogenic	GRCh38	3586914
+single nucleotide variant	NM_001130987.2(DYSF):c.1984+1G>A	8291	DYSF	Likely pathogenic	GRCh38	3586915
+single nucleotide variant	NM_001130987.2(DYSF):c.2713A>T (p.Lys905Ter)	8291	DYSF	Pathogenic	GRCh38	3586918
+single nucleotide variant	NM_001130987.2(DYSF):c.3082C>T (p.Gln1028Ter)	8291	DYSF	Pathogenic	GRCh38	3586919
+single nucleotide variant	NM_001130987.2(DYSF):c.3127A>T (p.Lys1043Ter)	8291	DYSF	Likely pathogenic	GRCh38	3586922
+single nucleotide variant	NM_001130987.2(DYSF):c.6020G>A (p.Trp2007Ter)	8291	DYSF	Pathogenic	GRCh38	3586932
+single nucleotide variant	NM_001130987.2(DYSF):c.1450-1G>A	8291	DYSF	Pathogenic	GRCh38	3571436
+single nucleotide variant	NM_001130987.2(DYSF):c.3090G>A (p.Trp1030Ter)	8291	DYSF	Pathogenic	GRCh38	3620425
+single nucleotide variant	NM_001130987.2(DYSF):c.1277-2A>G	8291	DYSF	Pathogenic	GRCh38	3622371
+single nucleotide variant	NM_001130987.2(DYSF):c.1054T>G (p.Trp352Gly)	8291	DYSF	Likely pathogenic	GRCh38	3644877
+single nucleotide variant	NM_001130987.2(DYSF):c.1493+5G>C	8291	DYSF	Pathogenic	GRCh38	3666886
+single nucleotide variant	NM_001130987.2(DYSF):c.5132C>T (p.Ser1711Phe)	8291	DYSF	Likely pathogenic	GRCh38	3677022
+single nucleotide variant	NM_001130987.2(DYSF):c.3229-1G>A	8291	DYSF	Likely pathogenic	GRCh38	3684114
+single nucleotide variant	NM_001130987.2(DYSF):c.2426C>A (p.Pro809Gln)	8291	DYSF	Likely pathogenic	GRCh38	3684221
+single nucleotide variant	NM_001130987.2(DYSF):c.1916G>A (p.Gly639Glu)	8291	DYSF	Likely pathogenic	GRCh38	3709360
+single nucleotide variant	NM_001130987.2(DYSF):c.3228+1G>T	8291	DYSF	Pathogenic	GRCh38	3713912
+single nucleotide variant	NM_001130987.2(DYSF):c.3927+1G>A	8291	DYSF	Likely pathogenic	GRCh38	3729499
+single nucleotide variant	NM_001130987.2(DYSF):c.4999G>A (p.Gly1667Arg)	8291	DYSF	Pathogenic	GRCh38	3720345
+single nucleotide variant	NM_001130987.2(DYSF):c.1100G>A (p.Gly367Asp)	8291	DYSF	Likely pathogenic	GRCh38	3775112
+single nucleotide variant	NM_001130987.2(DYSF):c.2865-20T>G	8291	DYSF	Pathogenic	GRCh38	3775113
+single nucleotide variant	NM_001130987.2(DYSF):c.1100G>C (p.Gly367Ala)	8291	DYSF	Likely pathogenic	GRCh38	3775114
+single nucleotide variant	NM_001130987.2(DYSF):c.5458G>A (p.Gly1820Arg)	8291	DYSF	Likely pathogenic	GRCh38	3776168
+single nucleotide variant	NM_001130987.2(DYSF):c.4755+2T>C	8291	DYSF	Likely pathogenic	GRCh38	3893281
+single nucleotide variant	NM_001130987.2(DYSF):c.4911+1G>A	8291	DYSF	Likely pathogenic	GRCh38	4056141
+single nucleotide variant	NM_001130987.2(DYSF):c.2410-1G>A	8291	DYSF	Likely pathogenic	GRCh38	4066979
+single nucleotide variant	NM_001130987.2(DYSF):c.5643-1G>A	8291	DYSF	Pathogenic	GRCh38	4067072
+single nucleotide variant	NM_001130987.2(DYSF):c.3156C>A (p.Tyr1052Ter)	8291	DYSF	Pathogenic	GRCh38	4078656
+single nucleotide variant	NM_003494.4(DYSF):c.1481-1G>T	8291	DYSF	Likely pathogenic	GRCh38	4081362
+single nucleotide variant	NM_001130987.2(DYSF):c.4306G>C (p.Gly1436Arg)	8291	DYSF	Likely pathogenic	GRCh38	4081644
+single nucleotide variant	NM_001130987.2(DYSF):c.5318-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4278030
+single nucleotide variant	NM_001130987.2(DYSF):c.6174-2A>C	8291	DYSF	Pathogenic	GRCh38	4293162
+single nucleotide variant	NM_001130987.2(DYSF):c.3531C>A (p.Tyr1177Ter)	8291	DYSF	Pathogenic	GRCh38	4528886
+single nucleotide variant	NM_001130987.2(DYSF):c.3085G>C (p.Gly1029Arg)	8291	DYSF	Pathogenic	GRCh38	4528887
+single nucleotide variant	NM_001130987.2(DYSF):c.4549T>C (p.Trp1517Arg)	8291	DYSF	Likely pathogenic	GRCh38	4695890
+single nucleotide variant	NM_001130987.2(DYSF):c.5004-2A>C	8291	DYSF	Likely pathogenic	GRCh38	4716625
+single nucleotide variant	NM_001130987.2(DYSF):c.239+1G>C	8291	DYSF	Pathogenic	GRCh38	4724445
+single nucleotide variant	NM_001130987.2(DYSF):c.3997G>T (p.Glu1333Ter)	8291	DYSF	Pathogenic	GRCh38	4728918
+single nucleotide variant	NM_001130987.2(DYSF):c.346-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4733858
+single nucleotide variant	NM_001130987.2(DYSF):c.5628C>A (p.Asp1876Glu)	8291	DYSF	Likely pathogenic	GRCh38	4746987
+single nucleotide variant	NM_001130987.2(DYSF):c.240-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4770056
+single nucleotide variant	NM_001130987.2(DYSF):c.1023C>A (p.Tyr341Ter)	8291	DYSF	Pathogenic	GRCh38	4807179
+single nucleotide variant	NM_001130987.2(DYSF):c.1265A>G (p.Asp422Gly)	8291	DYSF	Likely pathogenic	GRCh38	4815123
+single nucleotide variant	NM_001130987.2(DYSF):c.1915G>C (p.Gly639Arg)	8291	DYSF	Likely pathogenic	GRCh38	4815130
+single nucleotide variant	NM_001130987.2(DYSF):c.2110-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4815132
+single nucleotide variant	NM_001130987.2(DYSF):c.2271C>G (p.Tyr757Ter)	8291	DYSF	Likely pathogenic	GRCh38	4815133
+single nucleotide variant	NM_001130987.2(DYSF):c.2409+2T>G	8291	DYSF	Pathogenic	GRCh38	4815135
+single nucleotide variant	NM_001130987.2(DYSF):c.2697+1G>T	8291	DYSF	Likely pathogenic	GRCh38	4815136
+single nucleotide variant	NM_001130987.2(DYSF):c.2797A>T (p.Lys933Ter)	8291	DYSF	Likely pathogenic	GRCh38	4815137
+single nucleotide variant	NM_001130987.2(DYSF):c.3208C>T (p.Gln1070Ter)	8291	DYSF	Likely pathogenic	GRCh38	4815138
+single nucleotide variant	NM_001130987.2(DYSF):c.3712C>T (p.Gln1238Ter)	8291	DYSF	Likely pathogenic	GRCh38	4815142
+single nucleotide variant	NM_001130987.2(DYSF):c.4388-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4815145
+single nucleotide variant	NM_001130987.2(DYSF):c.568G>T (p.Glu190Ter)	8291	DYSF	Likely pathogenic	GRCh38	4815147
+single nucleotide variant	NM_001130987.2(DYSF):c.5153G>A (p.Gly1718Glu)	8291	DYSF	Likely pathogenic	GRCh38	4815152
+single nucleotide variant	NM_001130987.2(DYSF):c.5318-1G>A	8291	DYSF	Likely pathogenic	GRCh38	4815154
+single nucleotide variant	NM_001130987.2(DYSF):c.5723G>A (p.Trp1908Ter)	8291	DYSF	Pathogenic	GRCh38	4815157
+single nucleotide variant	NM_001130987.2(DYSF):c.6064-1G>T	8291	DYSF	Likely pathogenic	GRCh38	4815158
+single nucleotide variant	NM_001130987.2(DYSF):c.5210C>T (p.Pro1737Leu)	8291	DYSF	Likely pathogenic	GRCh38	4819969
+single nucleotide variant	NM_001130987.2(DYSF):c.577G>T (p.Glu193Ter)	8291	DYSF	Pathogenic	GRCh38	4820095
+single nucleotide variant	NM_001130987.2(DYSF):c.6322-1G>C	8291	DYSF	Likely pathogenic	GRCh38	4854563
+single nucleotide variant	NM_001130987.2(DYSF):c.5785-2A>T	8291	DYSF	Likely pathogenic	GRCh38	4855559
+single nucleotide variant	NM_001130987.2(DYSF):c.1693-2A>G	8291	DYSF	Likely pathogenic	GRCh38	4887742

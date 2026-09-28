@@ -16,7 +16,7 @@ single nucleotide variant	NM_000049.4(ASPA):c.859G>A (p.Ala287Thr)	443	ASPA	Path
 single nucleotide variant	NM_000049.4(ASPA):c.2T>C (p.Met1Thr)	443	ASPA	Pathogenic/Likely pathogenic	GRCh38	370934
 single nucleotide variant	NM_000049.4(ASPA):c.237-1G>T	443	ASPA	Likely pathogenic	GRCh38	371463
 single nucleotide variant	NM_000049.4(ASPA):c.640G>T (p.Glu214Ter)	443	ASPA	Pathogenic	GRCh38	370344
-single nucleotide variant	NM_000049.4(ASPA):c.731A>G (p.His244Arg)	443	ASPA	Likely pathogenic	GRCh38	371086
+single nucleotide variant	NM_000049.4(ASPA):c.731A>G (p.His244Arg)	443	ASPA	Pathogenic/Likely pathogenic	GRCh38	371086
 single nucleotide variant	NM_000049.4(ASPA):c.745-2A>G	443	ASPA	Likely pathogenic	GRCh38	371178
 single nucleotide variant	NM_000049.4(ASPA):c.867C>A (p.Tyr289Ter)	443	ASPA	Pathogenic	GRCh38	370795
 single nucleotide variant	NM_000049.4(ASPA):c.427A>T (p.Ile143Phe)	443	ASPA	Pathogenic/Likely pathogenic	GRCh38	372307
@@ -111,3 +111,4 @@ single nucleotide variant	NM_000049.4(ASPA):c.742C>T (p.Gln248Ter)	443	ASPA	Like
 single nucleotide variant	NM_000049.4(ASPA):c.815T>C (p.Leu272Pro)	443	ASPA	Likely pathogenic	GRCh38	4818510
 single nucleotide variant	NM_000049.4(ASPA):c.857C>A (p.Ala286Asp)	443	ASPA	Likely pathogenic	GRCh38	4818522
 single nucleotide variant	NM_000049.4(ASPA):c.547C>T (p.Pro183Ser)	443	ASPA	Likely pathogenic	GRCh38	4850612
+single nucleotide variant	NM_000049.4(ASPA):c.744+1G>C	443	ASPA	Likely pathogenic	GRCh38	4889989

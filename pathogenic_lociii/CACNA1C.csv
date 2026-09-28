@@ -1,0 +1,83 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000719.7(CACNA1C):c.1216G>A (p.Gly406Arg)	775	CACNA1C	Pathogenic	GRCh38	17632
+single nucleotide variant	NM_000719.7(CACNA1C):c.1204G>A (p.Gly402Ser)	775	CACNA1C	Pathogenic	GRCh38	17633
+single nucleotide variant	NM_000719.7(CACNA1C):c.116C>T (p.Ala39Val)	775	CACNA1C	Pathogenic	GRCh38	17635
+single nucleotide variant	NM_000719.7(CACNA1C):c.3343G>A (p.Glu1115Lys)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	67554
+single nucleotide variant	NM_001167623.2(CACNA1C):c.1204G>A (p.Gly402Ser)	775	CACNA1C	Pathogenic	GRCh38	155775
+single nucleotide variant	NM_001167623.2(CACNA1C):c.1216G>A (p.Gly406Arg)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	190633
+single nucleotide variant	NM_001167623.2(CACNA1C):c.1216G>C (p.Gly406Arg)	775	CACNA1C	Pathogenic	GRCh38	190634
+single nucleotide variant	NM_000719.7(CACNA1C):c.1552C>T (p.Arg518Cys)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	190642
+single nucleotide variant	NM_000719.7(CACNA1C):c.2573G>A (p.Arg858His)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	190653
+single nucleotide variant	NM_000719.7(CACNA1C):c.2578C>G (p.Arg860Gly)	775	CACNA1C	Likely pathogenic	GRCh38	190702
+single nucleotide variant	NM_000719.7(CACNA1C):c.4418C>G (p.Ala1473Gly)	775	CACNA1C	Likely pathogenic	GRCh38	196966
+single nucleotide variant	NM_000719.7(CACNA1C):c.3497T>C (p.Ile1166Thr)	775	CACNA1C	Pathogenic	GRCh38	208682
+single nucleotide variant	NM_000719.7(CACNA1C):c.1553G>A (p.Arg518His)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	372313
+single nucleotide variant	NM_000719.7(CACNA1C):c.2977G>C (p.Val993Leu)	775	CACNA1C	Likely pathogenic	GRCh38	450908
+single nucleotide variant	NM_000719.7(CACNA1C):c.4087G>A (p.Val1363Met)	775	CACNA1C	Likely pathogenic	GRCh38	450063
+single nucleotide variant	NM_000719.7(CACNA1C):c.1609A>G (p.Asn537Asp)	775	CACNA1C	Likely pathogenic	GRCh38	521136
+single nucleotide variant	NM_000719.7(CACNA1C):c.4087G>C (p.Val1363Leu)	775	CACNA1C	Likely pathogenic	GRCh38	522828
+single nucleotide variant	NM_000719.7(CACNA1C):c.2570C>G (p.Pro857Arg)	775	CACNA1C	Pathogenic	GRCh38	633643
+single nucleotide variant	NM_000719.7(CACNA1C):c.1745C>A (p.Ala582Asp)	775	CACNA1C	Pathogenic	GRCh38	633647
+single nucleotide variant	NM_000719.7(CACNA1C):c.4425C>G (p.Ile1475Met)	775	CACNA1C	Pathogenic	GRCh38	633648
+single nucleotide variant	NM_000719.7(CACNA1C):c.1113G>A (p.Trp371Ter)	775	CACNA1C	Likely pathogenic	GRCh38	802809
+single nucleotide variant	NM_000719.7(CACNA1C):c.722T>C (p.Val241Ala)	775	CACNA1C	Likely pathogenic	GRCh38	973262
+single nucleotide variant	NM_000719.7(CACNA1C):c.1255G>C (p.Gly419Arg)	775	CACNA1C	Likely pathogenic	GRCh38	978295
+single nucleotide variant	NM_000719.7(CACNA1C):c.1973T>C (p.Leu658Pro)	775	CACNA1C	Likely pathogenic	GRCh38	981247
+single nucleotide variant	NM_000719.7(CACNA1C):c.4087G>T (p.Val1363Leu)	775	CACNA1C	Pathogenic	GRCh38	1164022
+single nucleotide variant	NM_000719.7(CACNA1C):c.481C>T (p.Arg161Ter)	775	CACNA1C	Pathogenic	GRCh38	1208559
+single nucleotide variant	NM_000719.7(CACNA1C):c.3985C>T (p.Arg1329Cys)	775	CACNA1C	Likely pathogenic	GRCh38	1214422
+single nucleotide variant	NM_000719.7(CACNA1C):c.4527-2A>G	775	CACNA1C	Pathogenic	GRCh38	1218634
+single nucleotide variant	NM_000719.7(CACNA1C):c.3001C>T (p.Arg1001Ter)	775	CACNA1C	Pathogenic	GRCh38	1302480
+single nucleotide variant	NM_001167623.2(CACNA1C):c.1207G>A (p.Val403Met)	775	CACNA1C	Likely pathogenic	GRCh38	1302971
+single nucleotide variant	NM_000719.7(CACNA1C):c.3503C>A (p.Thr1168Asn)	775	CACNA1C	Likely pathogenic	GRCh38	1303511
+single nucleotide variant	NM_000719.7(CACNA1C):c.3500T>C (p.Val1167Ala)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	1309258
+single nucleotide variant	NM_000719.7(CACNA1C):c.5091+1G>A	775	CACNA1C	Pathogenic	GRCh38	1313855
+single nucleotide variant	NM_000719.7(CACNA1C):c.496T>C (p.Phe166Leu)	775	CACNA1C	Likely pathogenic	GRCh38	1325838
+single nucleotide variant	NM_001167623.2(CACNA1C):c.1213A>G (p.Ser405Gly)	775	CACNA1C	Likely pathogenic	GRCh38	1344837
+single nucleotide variant	NM_000719.7(CACNA1C):c.595G>A (p.Asp199Asn)	775	CACNA1C	Pathogenic	GRCh38	1685596
+single nucleotide variant	NM_000719.7(CACNA1C):c.1853T>G (p.Val618Gly)	775	CACNA1C	Pathogenic	GRCh38	1685597
+single nucleotide variant	NM_000719.7(CACNA1C):c.3606C>G (p.Tyr1202Ter)	775	CACNA1C	Pathogenic	GRCh38	1695801
+single nucleotide variant	NM_000719.7(CACNA1C):c.3866T>G (p.Leu1289Trp)	775	CACNA1C	Likely pathogenic	GRCh38	1699326
+single nucleotide variant	NM_000719.7(CACNA1C):c.4417G>C (p.Ala1473Pro)	775	CACNA1C	Likely pathogenic	GRCh38	1700075
+single nucleotide variant	NM_000719.7(CACNA1C):c.1969C>T (p.Leu657Phe)	775	CACNA1C	Pathogenic	GRCh38	1705744
+single nucleotide variant	NM_000719.7(CACNA1C):c.4222C>G (p.Leu1408Val)	775	CACNA1C	Pathogenic	GRCh38	1705745
+single nucleotide variant	NM_000719.7(CACNA1C):c.1928C>T (p.Ser643Phe)	775	CACNA1C	Likely pathogenic	GRCh38	1707563
+single nucleotide variant	NM_000719.7(CACNA1C):c.4996C>T (p.Arg1666Ter)	775	CACNA1C	Pathogenic	GRCh38	1744618
+single nucleotide variant	NM_000719.7(CACNA1C):c.770T>C (p.Val257Ala)	775	CACNA1C	Likely pathogenic	GRCh38	1803055
+single nucleotide variant	NM_000719.7(CACNA1C):c.2114G>A (p.Gly705Glu)	775	CACNA1C	Pathogenic	GRCh38	2501348
+single nucleotide variant	NM_000719.7(CACNA1C):c.1233G>C (p.Glu411Asp)	775	CACNA1C	Likely pathogenic	GRCh38	2504609
+single nucleotide variant	NM_000719.7(CACNA1C):c.815C>T (p.Ala272Val)	775	CACNA1C	Likely pathogenic	GRCh38	2504611
+single nucleotide variant	NM_000719.7(CACNA1C):c.4100T>C (p.Ile1367Thr)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	2575833
+single nucleotide variant	NM_000719.7(CACNA1C):c.763C>T (p.Gln255Ter)	775	CACNA1C	Likely pathogenic	GRCh38	2577479
+single nucleotide variant	NM_000719.7(CACNA1C):c.4233-1G>A	775	CACNA1C	Likely pathogenic	GRCh38	2578446
+single nucleotide variant	NM_000719.7(CACNA1C):c.2460+2T>G	775	CACNA1C	Likely pathogenic	GRCh38	2626927
+single nucleotide variant	NM_000719.7(CACNA1C):c.5884C>T (p.Arg1962Ter)	775	CACNA1C	Pathogenic	GRCh38	2626971
+single nucleotide variant	NM_000719.7(CACNA1C):c.4873C>T (p.Gln1625Ter)	775	CACNA1C	Pathogenic	GRCh38	2921274
+single nucleotide variant	NM_000719.7(CACNA1C):c.731C>G (p.Pro244Arg)	775	CACNA1C	Likely pathogenic	GRCh38	3027509
+single nucleotide variant	NM_000719.7(CACNA1C):c.788A>T (p.Lys263Met)	775	CACNA1C	Likely pathogenic	GRCh38	3066281
+single nucleotide variant	NM_000719.7(CACNA1C):c.2750T>G (p.Leu917Arg)	775	CACNA1C	Likely pathogenic	GRCh38	3069192
+single nucleotide variant	NM_000719.7(CACNA1C):c.1552C>A (p.Arg518Ser)	775	CACNA1C	Likely pathogenic	GRCh38	3233417
+single nucleotide variant	NM_000719.7(CACNA1C):c.478-2A>G	775	CACNA1C	Pathogenic	GRCh38	3252305
+single nucleotide variant	NM_000719.7(CACNA1C):c.4246G>A (p.Glu1416Lys)	775	CACNA1C	Likely pathogenic	GRCh38	3370332
+single nucleotide variant	NM_000719.7(CACNA1C):c.5583C>A (p.Tyr1861Ter)	775	CACNA1C	Pathogenic	GRCh38	3375805
+single nucleotide variant	NM_000719.7(CACNA1C):c.1832T>C (p.Met611Thr)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	3382740
+single nucleotide variant	NM_000719.7(CACNA1C):c.3487G>A (p.Gly1163Ser)	775	CACNA1C	Likely pathogenic	GRCh38	3382973
+single nucleotide variant	NM_000719.7(CACNA1C):c.794T>A (p.Met265Lys)	775	CACNA1C	Likely pathogenic	GRCh38	3392514
+single nucleotide variant	NM_000719.7(CACNA1C):c.2992C>T (p.Arg998Ter)	775	CACNA1C	Pathogenic	GRCh38	3573697
+single nucleotide variant	NM_000719.7(CACNA1C):c.1517G>A (p.Trp506Ter)	775	CACNA1C	Likely pathogenic	GRCh38	3601972
+single nucleotide variant	NM_000719.7(CACNA1C):c.1336G>C (p.Asp446His)	775	CACNA1C	Pathogenic	GRCh38	3718454
+single nucleotide variant	NM_000719.7(CACNA1C):c.2224+1G>C	775	CACNA1C	Likely pathogenic	GRCh38	3775665
+single nucleotide variant	NM_000719.7(CACNA1C):c.2567G>A (p.Gly856Asp)	775	CACNA1C	Likely pathogenic	GRCh38	3894932
+single nucleotide variant	NM_000719.7(CACNA1C):c.775A>T (p.Asn259Tyr)	775	CACNA1C	Likely pathogenic	GRCh38	3897582
+single nucleotide variant	NM_000719.7(CACNA1C):c.2668C>T (p.Arg890Cys)	775	CACNA1C	Likely pathogenic	GRCh38	3899523
+single nucleotide variant	NM_000719.7(CACNA1C):c.2578C>T (p.Arg860Ter)	775	CACNA1C	Pathogenic	GRCh38	4055971
+single nucleotide variant	NM_000719.7(CACNA1C):c.2853+1G>T	775	CACNA1C	Likely pathogenic	GRCh38	4086502
+single nucleotide variant	NM_000719.7(CACNA1C):c.3994C>T (p.Arg1332Trp)	775	CACNA1C	Pathogenic	GRCh38	4278773
+single nucleotide variant	NM_000719.7(CACNA1C):c.1701C>G (p.Phe567Leu)	775	CACNA1C	Likely pathogenic	GRCh38	4292479
+single nucleotide variant	NM_000719.7(CACNA1C):c.4537A>G (p.Lys1513Glu)	775	CACNA1C	Likely pathogenic	GRCh38	4530641
+single nucleotide variant	NM_000719.7(CACNA1C):c.517G>C (p.Glu173Gln)	775	CACNA1C	Likely pathogenic	GRCh38	4531392
+single nucleotide variant	NM_000719.7(CACNA1C):c.1838C>G (p.Pro613Arg)	775	CACNA1C	Likely pathogenic	GRCh38	4531394
+single nucleotide variant	NM_000719.7(CACNA1C):c.2129C>T (p.Ser710Leu)	775	CACNA1C	Likely pathogenic	GRCh38	4536255
+single nucleotide variant	NM_000719.7(CACNA1C):c.4132G>A (p.Gly1378Arg)	775	CACNA1C	Pathogenic/Likely pathogenic	GRCh38	4689845
+single nucleotide variant	NM_000719.7(CACNA1C):c.1205G>A (p.Gly402Asp)	775	CACNA1C	Likely pathogenic	GRCh38	4855889
+single nucleotide variant	NM_000719.7(CACNA1C):c.3559C>T (p.Arg1187Ter)	775	CACNA1C	Pathogenic	GRCh38	4874397

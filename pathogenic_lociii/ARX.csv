@@ -1,0 +1,51 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_139058.3(ARX):c.1058C>T (p.Pro353Leu)	170302	ARX	Pathogenic	GRCh38	11188
+single nucleotide variant	NM_139058.3(ARX):c.995G>A (p.Arg332His)	170302	ARX	Pathogenic	GRCh38	11192
+single nucleotide variant	NM_139058.3(ARX):c.1117C>T (p.Gln373Ter)	170302	ARX	Pathogenic	GRCh38	11193
+single nucleotide variant	NM_139058.3(ARX):c.1028T>A (p.Leu343Gln)	170302	ARX	Pathogenic	GRCh38	11197
+single nucleotide variant	NM_139058.3(ARX):c.98T>C (p.Leu33Pro)	170302	ARX	Pathogenic	GRCh38	11198
+single nucleotide variant	NM_139058.3(ARX):c.998C>A (p.Thr333Asn)	170302	ARX	Pathogenic	GRCh38	11200
+single nucleotide variant	NM_139058.3(ARX):c.1105G>T (p.Glu369Ter)	170302	ARX	Pathogenic	GRCh38	11201
+single nucleotide variant	NM_139058.3(ARX):c.232G>T (p.Glu78Ter)	170302	ARX	Pathogenic	GRCh38	11205
+single nucleotide variant	NM_139058.3(ARX):c.81C>G (p.Tyr27Ter)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	29964
+single nucleotide variant	NM_139058.3(ARX):c.1604T>A (p.Leu535Gln)	170302	ARX	Pathogenic	GRCh38	29965
+single nucleotide variant	NM_139058.3(ARX):c.1141G>A (p.Ala381Thr)	170302	ARX	Pathogenic	GRCh38	156619
+single nucleotide variant	NM_139058.3(ARX):c.1111C>T (p.Arg371Ter)	170302	ARX	Pathogenic	GRCh38	157739
+single nucleotide variant	NM_139058.3(ARX):c.1121T>A (p.Val374Asp)	170302	ARX	Likely pathogenic	GRCh38	157740
+single nucleotide variant	NM_139058.3(ARX):c.1134C>A (p.Asn378Lys)	170302	ARX	Likely pathogenic	GRCh38	157741
+single nucleotide variant	NM_139058.3(ARX):c.1414C>T (p.Arg472Ter)	170302	ARX	Pathogenic	GRCh38	157746
+single nucleotide variant	NM_139058.3(ARX):c.34G>T (p.Glu12Ter)	170302	ARX	Pathogenic	GRCh38	157757
+single nucleotide variant	NM_139058.3(ARX):c.995G>T (p.Arg332Leu)	170302	ARX	Pathogenic	GRCh38	157765
+single nucleotide variant	NM_139058.3(ARX):c.998C>G (p.Thr333Ser)	170302	ARX	Pathogenic	GRCh38	157766
+single nucleotide variant	NM_139058.3(ARX):c.30C>A (p.Cys10Ter)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	193494
+single nucleotide variant	NM_139058.3(ARX):c.989G>A (p.Arg330His)	170302	ARX	Likely pathogenic	GRCh38	265040
+single nucleotide variant	NM_139058.3(ARX):c.1612A>G (p.Lys538Glu)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	421001
+single nucleotide variant	NM_139058.3(ARX):c.1039T>G (p.Phe347Val)	170302	ARX	Likely pathogenic	GRCh38	495255
+single nucleotide variant	NM_139058.3(ARX):c.922G>T (p.Glu308Ter)	170302	ARX	Pathogenic	GRCh38	522170
+single nucleotide variant	NM_139058.3(ARX):c.84C>A (p.Cys28Ter)	170302	ARX	Likely pathogenic	GRCh38	635040
+single nucleotide variant	NM_139058.3(ARX):c.1579A>T (p.Arg527Ter)	170302	ARX	Pathogenic	GRCh38	663628
+single nucleotide variant	NM_139058.3(ARX):c.525C>G (p.Tyr175Ter)	170302	ARX	Pathogenic	GRCh38	689380
+single nucleotide variant	NM_139058.3(ARX):c.467G>A (p.Trp156Ter)	170302	ARX	Pathogenic	GRCh38	872757
+single nucleotide variant	NM_139058.3(ARX):c.956C>A (p.Ser319Ter)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	945320
+single nucleotide variant	NM_139058.3(ARX):c.1135C>T (p.Arg379Cys)	170302	ARX	Likely pathogenic	GRCh38	958198
+single nucleotide variant	NM_139058.3(ARX):c.994C>T (p.Arg332Cys)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	1077119
+single nucleotide variant	NM_139058.3(ARX):c.1112G>A (p.Arg371Gln)	170302	ARX	Likely pathogenic	GRCh38	1339731
+single nucleotide variant	NM_139058.3(ARX):c.994C>G (p.Arg332Gly)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	1494703
+single nucleotide variant	NM_139058.3(ARX):c.1125G>A (p.Trp375Ter)	170302	ARX	Pathogenic	GRCh38	1374869
+single nucleotide variant	NM_139058.3(ARX):c.1120-2A>G	170302	ARX	Pathogenic	GRCh38	1434577
+single nucleotide variant	NM_139058.3(ARX):c.1615G>A (p.Ala539Thr)	170302	ARX	Likely pathogenic	GRCh38	1516361
+single nucleotide variant	NM_139058.3(ARX):c.1135C>A (p.Arg379Ser)	170302	ARX	Likely pathogenic	GRCh38	1516380
+single nucleotide variant	NM_139058.3(ARX):c.2T>G (p.Met1Arg)	170302	ARX	Pathogenic	GRCh38	1685549
+single nucleotide variant	NM_139058.3(ARX):c.1151G>T (p.Arg384Leu)	170302	ARX	Pathogenic	GRCh38	1690316
+single nucleotide variant	NM_139058.3(ARX):c.370G>T (p.Glu124Ter)	170302	ARX	Pathogenic	GRCh38	1697301
+single nucleotide variant	NM_139058.3(ARX):c.1600G>C (p.Ala534Pro)	170302	ARX	Likely pathogenic	GRCh38	2138495
+single nucleotide variant	NM_139058.3(ARX):c.1150C>T (p.Arg384Cys)	170302	ARX	Pathogenic/Likely pathogenic	GRCh38	2159557
+single nucleotide variant	NM_139058.3(ARX):c.1A>T (p.Met1Leu)	170302	ARX	Likely pathogenic	GRCh38	2572635
+single nucleotide variant	NM_139058.3(ARX):c.193C>T (p.Gln65Ter)	170302	ARX	Pathogenic	GRCh38	2945226
+single nucleotide variant	NM_139058.3(ARX):c.880G>T (p.Glu294Ter)	170302	ARX	Pathogenic	GRCh38	3382594
+single nucleotide variant	NM_139058.3(ARX):c.2T>C (p.Met1Thr)	170302	ARX	Likely pathogenic	GRCh38	3391330
+single nucleotide variant	NM_139058.3(ARX):c.1030G>T (p.Glu344Ter)	170302	ARX	Pathogenic	GRCh38	4056441
+single nucleotide variant	NM_139058.3(ARX):c.48C>A (p.Cys16Ter)	170302	ARX	Pathogenic	GRCh38	4081765
+single nucleotide variant	NM_139058.3(ARX):c.1159G>T (p.Glu387Ter)	170302	ARX	Likely pathogenic	GRCh38	4293757
+single nucleotide variant	NM_139058.3(ARX):c.1A>C (p.Met1Leu)	170302	ARX	Pathogenic	GRCh38	4532185
+single nucleotide variant	NM_139058.3(ARX):c.1124G>A (p.Trp375Ter)	170302	ARX	Pathogenic	GRCh38	4785782

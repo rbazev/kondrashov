@@ -1,0 +1,327 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001034853.2(RPGR):c.703C>T (p.Pro235Ser)	6103	RPGR	Pathogenic	GRCh38	9898
+single nucleotide variant	NM_001034853.2(RPGR):c.823G>A (p.Gly275Ser)	6103	RPGR	Pathogenic	GRCh38	9899
+single nucleotide variant	NM_001034853.2(RPGR):c.179G>T (p.Gly60Val)	6103	RPGR	Likely pathogenic	GRCh38	9902
+single nucleotide variant	NM_001034853.2(RPGR):c.296C>A (p.Thr99Asn)	6103	RPGR	Pathogenic	GRCh38	9906
+single nucleotide variant	NM_001034853.2(RPGR):c.2650G>T (p.Glu884Ter)	6103	RPGR	Pathogenic	GRCh38	9908
+single nucleotide variant	NM_001034853.2(RPGR):c.469+1G>T	6103	RPGR	Pathogenic	GRCh38	9912
+single nucleotide variant	NM_001034853.2(RPGR):c.517G>C (p.Gly173Arg)	6103	RPGR	Likely pathogenic	GRCh38	9916
+single nucleotide variant	NM_001034853.2(RPGR):c.2929G>T (p.Gly977Ter)	6103	RPGR	Pathogenic	GRCh38	9918
+single nucleotide variant	NM_001034853.2(RPGR):c.155-2A>G	6103	RPGR	Pathogenic	GRCh38	92851
+single nucleotide variant	NM_001034853.2(RPGR):c.505G>T (p.Glu169Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	92857
+single nucleotide variant	NM_001034853.2(RPGR):c.1120G>T (p.Glu374Ter)	6103	RPGR	Pathogenic	GRCh38	98729
+single nucleotide variant	NM_001034853.2(RPGR):c.1245+3A>G	6103	RPGR	Pathogenic	GRCh38	98732
+single nucleotide variant	NM_001034853.2(RPGR):c.1307G>A (p.Gly436Asp)	6103	RPGR	Likely pathogenic	GRCh38	98738
+single nucleotide variant	NM_001034853.2(RPGR):c.154G>T (p.Gly52Ter)	6103	RPGR	Pathogenic	GRCh38	98747
+single nucleotide variant	NM_001034853.2(RPGR):c.1573-1G>A	6103	RPGR	Pathogenic	GRCh38	98748
+single nucleotide variant	NM_001034853.2(RPGR):c.1573-2A>G	6103	RPGR	Pathogenic	GRCh38	98749
+single nucleotide variant	NM_001034853.2(RPGR):c.1573-8A>G	6103	RPGR	Likely pathogenic	GRCh38	98750
+single nucleotide variant	NM_001034853.2(RPGR):c.1747G>T (p.Glu583Ter)	6103	RPGR	Likely pathogenic	GRCh38	98753
+single nucleotide variant	NM_001034853.2(RPGR):c.248-2A>G	6103	RPGR	Pathogenic	GRCh38	98765
+single nucleotide variant	NM_001034853.2(RPGR):c.28+1G>A	6103	RPGR	Pathogenic	GRCh38	98771
+single nucleotide variant	NM_001034853.2(RPGR):c.28+5G>A	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	98772
+single nucleotide variant	NM_001034853.2(RPGR):c.310+1G>C	6103	RPGR	Pathogenic	GRCh38	98779
+single nucleotide variant	NM_001034853.2(RPGR):c.310+3A>G	6103	RPGR	Pathogenic	GRCh38	98780
+single nucleotide variant	NM_001034853.2(RPGR):c.415G>T (p.Glu139Ter)	6103	RPGR	Pathogenic	GRCh38	98785
+single nucleotide variant	NM_001034853.2(RPGR):c.492G>A (p.Trp164Ter)	6103	RPGR	Pathogenic	GRCh38	98789
+single nucleotide variant	NM_001034853.2(RPGR):c.581G>A (p.Trp194Ter)	6103	RPGR	Pathogenic	GRCh38	98790
+single nucleotide variant	NM_001034853.2(RPGR):c.644G>T (p.Gly215Val)	6103	RPGR	Likely pathogenic	GRCh38	98794
+single nucleotide variant	NM_001034853.2(RPGR):c.706C>T (p.Gln236Ter)	6103	RPGR	Pathogenic	GRCh38	98795
+single nucleotide variant	NM_001034853.2(RPGR):c.730A>T (p.Lys244Ter)	6103	RPGR	Pathogenic	GRCh38	98796
+single nucleotide variant	NM_001034853.2(RPGR):c.778+5G>A	6103	RPGR	Likely pathogenic	GRCh38	98801
+single nucleotide variant	NM_001034853.2(RPGR):c.779-1G>A	6103	RPGR	Pathogenic	GRCh38	98802
+single nucleotide variant	NM_001034853.2(RPGR):c.904T>C (p.Cys302Arg)	6103	RPGR	Likely pathogenic	GRCh38	98809
+single nucleotide variant	NM_001034853.2(RPGR):c.934+1G>A	6103	RPGR	Pathogenic	GRCh38	98812
+single nucleotide variant	NM_001034853.2(RPGR):c.934+1G>C	6103	RPGR	Pathogenic	GRCh38	98813
+single nucleotide variant	NM_001034853.2(RPGR):c.980T>G (p.Leu327Ter)	6103	RPGR	Pathogenic	GRCh38	98816
+single nucleotide variant	NM_001034853.2(RPGR):c.1981G>T (p.Glu661Ter)	6103	RPGR	Likely pathogenic	GRCh38	143090
+single nucleotide variant	NM_001034853.2(RPGR):c.922G>C (p.Ala308Pro)	6103	RPGR	Likely pathogenic	GRCh38	143094
+single nucleotide variant	NM_001034853.2(RPGR):c.1928C>G (p.Ser643Ter)	6103	RPGR	Pathogenic	GRCh38	224756
+single nucleotide variant	NM_001034853.2(RPGR):c.808C>T (p.Gln270Ter)	6103	RPGR	Pathogenic	GRCh38	236482
+single nucleotide variant	NM_001034853.2(RPGR):c.1387C>T (p.Gln463Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	289902
+single nucleotide variant	NM_001034853.2(RPGR):c.2785G>T (p.Glu929Ter)	6103	RPGR	Likely pathogenic	GRCh38	374762
+single nucleotide variant	NM_001034853.2(RPGR):c.1366C>T (p.Gln456Ter)	6103	RPGR	Pathogenic	GRCh38	406540
+single nucleotide variant	NM_001034853.2(RPGR):c.1572+3A>T	6103	RPGR	Pathogenic	GRCh38	427866
+single nucleotide variant	NM_001034853.2(RPGR):c.3453G>T (p.Leu1151Phe)	6103	RPGR	Likely pathogenic	GRCh38	438145
+single nucleotide variant	NM_001034853.2(RPGR):c.1429G>T (p.Glu477Ter)	6103	RPGR	Likely pathogenic	GRCh38	438140
+single nucleotide variant	NM_001034853.2(RPGR):c.1237A>T (p.Arg413Ter)	6103	RPGR	Likely pathogenic	GRCh38	438136
+single nucleotide variant	NM_001034853.2(RPGR):c.779-3C>A	6103	RPGR	Likely pathogenic	GRCh38	438147
+single nucleotide variant	NM_001034853.2(RPGR):c.2864G>A (p.Trp955Ter)	6103	RPGR	Likely pathogenic	GRCh38	444797
+single nucleotide variant	NM_001034853.2(RPGR):c.2647G>T (p.Gly883Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	444798
+single nucleotide variant	NM_001034853.2(RPGR):c.617C>T (p.Thr206Ile)	6103	RPGR	Likely pathogenic	GRCh38	449508
+single nucleotide variant	NM_001034853.2(RPGR):c.2605G>T (p.Glu869Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	493514
+single nucleotide variant	NM_001034853.2(RPGR):c.2416G>T (p.Glu806Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	493516
+single nucleotide variant	NM_001034853.2(RPGR):c.133G>T (p.Glu45Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	547072
+single nucleotide variant	NM_001034853.2(RPGR):c.2947G>T (p.Glu983Ter)	6103	RPGR	Pathogenic	GRCh38	560502
+single nucleotide variant	NM_001034853.2(RPGR):c.154G>A (p.Gly52Arg)	6103	RPGR	Pathogenic	GRCh38	593841
+single nucleotide variant	NM_001034853.2(RPGR):c.2641G>T (p.Glu881Ter)	6103	RPGR	Pathogenic	GRCh38	620382
+single nucleotide variant	NM_001034853.2(RPGR):c.1234C>T (p.Arg412Ter)	6103	RPGR	Pathogenic	GRCh38	636102
+single nucleotide variant	NM_001034853.2(RPGR):c.1179T>G (p.Tyr393Ter)	6103	RPGR	Likely pathogenic	GRCh38	636101
+single nucleotide variant	NM_001034853.2(RPGR):c.155-1G>A	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	636104
+single nucleotide variant	NM_001034853.2(RPGR):c.28+1G>C	6103	RPGR	Pathogenic	GRCh38	636110
+single nucleotide variant	NM_001034853.2(RPGR):c.492G>T (p.Trp164Cys)	6103	RPGR	Likely pathogenic	GRCh38	636203
+single nucleotide variant	NM_001034853.2(RPGR):c.2185G>T (p.Glu729Ter)	6103	RPGR	Pathogenic	GRCh38	803967
+single nucleotide variant	NM_001034853.2(RPGR):c.2023G>T (p.Glu675Ter)	6103	RPGR	Pathogenic	GRCh38	803968
+single nucleotide variant	NM_001034853.2(RPGR):c.749G>A (p.Cys250Tyr)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	803970
+single nucleotide variant	NM_001034853.2(RPGR):c.310G>T (p.Glu104Ter)	6103	RPGR	Pathogenic	GRCh38	803973
+single nucleotide variant	NM_001034853.2(RPGR):c.280T>C (p.Cys94Arg)	6103	RPGR	Likely pathogenic	GRCh38	803974
+single nucleotide variant	NM_001034853.2(RPGR):c.194G>A (p.Gly65Asp)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	803975
+single nucleotide variant	NM_001034853.2(RPGR):c.3373C>T (p.Gln1125Ter)	6103	RPGR	Likely pathogenic	GRCh38	810564
+single nucleotide variant	NM_001034853.2(RPGR):c.2410A>T (p.Arg804Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	810567
+single nucleotide variant	NM_001034853.2(RPGR):c.2272G>T (p.Glu758Ter)	6103	RPGR	Pathogenic	GRCh38	812413
+single nucleotide variant	NM_001034853.2(RPGR):c.2173C>T (p.Gln725Ter)	6103	RPGR	Pathogenic	GRCh38	812415
+single nucleotide variant	NM_001034853.2(RPGR):c.1334C>G (p.Ser445Ter)	6103	RPGR	Pathogenic	GRCh38	812417
+single nucleotide variant	NM_001034853.2(RPGR):c.592G>A (p.Gly198Arg)	6103	RPGR	Pathogenic	GRCh38	812420
+single nucleotide variant	NM_001034853.2(RPGR):c.494G>A (p.Gly165Asp)	6103	RPGR	Pathogenic	GRCh38	812421
+single nucleotide variant	NM_001034853.2(RPGR):c.259G>T (p.Glu87Ter)	6103	RPGR	Pathogenic	GRCh38	812422
+single nucleotide variant	NM_001034853.2(RPGR):c.1572+1G>A	6103	RPGR	Pathogenic	GRCh38	812416
+single nucleotide variant	NM_001034853.2(RPGR):c.3049G>T (p.Glu1017Ter)	6103	RPGR	Pathogenic	GRCh38	813095
+single nucleotide variant	NM_001034853.2(RPGR):c.2461G>T (p.Glu821Ter)	6103	RPGR	Pathogenic	GRCh38	813091
+single nucleotide variant	NM_001034853.2(RPGR):c.2123A>G (p.Glu708Gly)	6103	RPGR	Pathogenic	GRCh38	813087
+single nucleotide variant	NM_001034853.2(RPGR):c.2083G>T (p.Glu695Ter)	6103	RPGR	Pathogenic	GRCh38	813086
+single nucleotide variant	NM_001034853.2(RPGR):c.935-1G>T	6103	RPGR	Pathogenic	GRCh38	813231
+single nucleotide variant	NM_001034853.2(RPGR):c.907G>T (p.Gly303Ter)	6103	RPGR	Pathogenic	GRCh38	813229
+single nucleotide variant	NM_001034853.2(RPGR):c.602A>T (p.His201Leu)	6103	RPGR	Pathogenic	GRCh38	813228
+single nucleotide variant	NM_001034853.2(RPGR):c.154+1G>A	6103	RPGR	Pathogenic	GRCh38	813232
+single nucleotide variant	NM_001034853.2(RPGR):c.29-1G>T	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	813233
+single nucleotide variant	NM_001034853.2(RPGR):c.2848G>T (p.Glu950Ter)	6103	RPGR	Pathogenic	GRCh38	816960
+single nucleotide variant	NM_001034853.2(RPGR):c.442G>A (p.Gly148Arg)	6103	RPGR	Likely pathogenic	GRCh38	863896
+single nucleotide variant	NM_001034853.2(RPGR):c.3190G>T (p.Glu1064Ter)	6103	RPGR	Likely pathogenic	GRCh38	866726
+single nucleotide variant	NM_001034853.2(RPGR):c.3109G>T (p.Glu1037Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	866729
+single nucleotide variant	NM_001034853.2(RPGR):c.2917G>T (p.Glu973Ter)	6103	RPGR	Pathogenic	GRCh38	866129
+single nucleotide variant	NM_001034853.2(RPGR):c.2695G>T (p.Glu899Ter)	6103	RPGR	Pathogenic	GRCh38	866316
+single nucleotide variant	NM_001034853.2(RPGR):c.2665G>T (p.Glu889Ter)	6103	RPGR	Pathogenic	GRCh38	866162
+single nucleotide variant	NM_001034853.2(RPGR):c.2608G>T (p.Glu870Ter)	6103	RPGR	Likely pathogenic	GRCh38	866061
+single nucleotide variant	NM_001034853.2(RPGR):c.2488G>T (p.Glu830Ter)	6103	RPGR	Likely pathogenic	GRCh38	865986
+single nucleotide variant	NM_001034853.2(RPGR):c.2419G>T (p.Glu807Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	867160
+single nucleotide variant	NM_001034853.2(RPGR):c.2377C>T (p.Gln793Ter)	6103	RPGR	Pathogenic	GRCh38	866327
+single nucleotide variant	NM_001034853.2(RPGR):c.2260G>T (p.Glu754Ter)	6103	RPGR	Pathogenic	GRCh38	866844
+single nucleotide variant	NM_001034853.2(RPGR):c.2251A>T (p.Lys751Ter)	6103	RPGR	Likely pathogenic	GRCh38	865796
+single nucleotide variant	NM_001034853.2(RPGR):c.2158C>T (p.Gln720Ter)	6103	RPGR	Likely pathogenic	GRCh38	866786
+single nucleotide variant	NM_001034853.2(RPGR):c.2146G>T (p.Glu716Ter)	6103	RPGR	Pathogenic	GRCh38	866993
+single nucleotide variant	NM_001034853.2(RPGR):c.2125G>T (p.Glu709Ter)	6103	RPGR	Likely pathogenic	GRCh38	865819
+single nucleotide variant	NM_001034853.2(RPGR):c.2106G>A (p.Trp702Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	866085
+single nucleotide variant	NM_001034853.2(RPGR):c.2059G>T (p.Glu687Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	866277
+single nucleotide variant	NM_001034853.2(RPGR):c.1753G>A (p.Glu585Lys)	6103	RPGR	Pathogenic	GRCh38	866825
+single nucleotide variant	NM_001034853.2(RPGR):c.1663G>T (p.Glu555Ter)	6103	RPGR	Likely pathogenic	GRCh38	865903
+single nucleotide variant	NM_001034853.2(RPGR):c.1345C>T (p.Arg449Ter)	6103	RPGR	Pathogenic	GRCh38	866558
+single nucleotide variant	NM_001034853.2(RPGR):c.1126G>T (p.Glu376Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	867065
+single nucleotide variant	NM_001034853.2(RPGR):c.823G>C (p.Gly275Arg)	6103	RPGR	Likely pathogenic	GRCh38	866638
+single nucleotide variant	NM_001034853.2(RPGR):c.679C>T (p.Gln227Ter)	6103	RPGR	Likely pathogenic	GRCh38	866642
+single nucleotide variant	NM_001034853.2(RPGR):c.335G>A (p.Gly112Asp)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	865959
+single nucleotide variant	NM_001034853.2(RPGR):c.1060-2A>G	6103	RPGR	Likely pathogenic	GRCh38	866124
+single nucleotide variant	NM_001034853.2(RPGR):c.934+1G>T	6103	RPGR	Pathogenic	GRCh38	865818
+single nucleotide variant	NM_001034853.2(RPGR):c.247+5G>A	6103	RPGR	Pathogenic	GRCh38	865888
+single nucleotide variant	NM_001034853.2(RPGR):c.2548G>T (p.Glu850Ter)	6103	RPGR	Pathogenic	GRCh38	871439
+single nucleotide variant	NM_001034853.2(RPGR):c.1246-2A>C	6103	RPGR	Pathogenic	GRCh38	872284
+single nucleotide variant	NM_001034853.2(RPGR):c.935-2A>G	6103	RPGR	Pathogenic	GRCh38	872285
+single nucleotide variant	NM_001034853.2(RPGR):c.883C>T (p.Gln295Ter)	6103	RPGR	Likely pathogenic	GRCh38	915837
+single nucleotide variant	NM_001034853.2(RPGR):c.3457T>A (p.Ter1153Lys)	6103	RPGR	Likely pathogenic	GRCh38	931960
+single nucleotide variant	NM_001034853.2(RPGR):c.3160G>T (p.Glu1054Ter)	6103	RPGR	Pathogenic	GRCh38	975140
+single nucleotide variant	NM_001034853.2(RPGR):c.2865G>A (p.Trp955Ter)	6103	RPGR	Pathogenic	GRCh38	975120
+single nucleotide variant	NM_001034853.2(RPGR):c.2731G>T (p.Glu911Ter)	6103	RPGR	Likely pathogenic	GRCh38	975117
+single nucleotide variant	NM_001034853.2(RPGR):c.2509G>T (p.Glu837Ter)	6103	RPGR	Pathogenic	GRCh38	975148
+single nucleotide variant	NM_001034853.2(RPGR):c.2425G>T (p.Glu809Ter)	6103	RPGR	Likely pathogenic	GRCh38	975146
+single nucleotide variant	NM_001034853.2(RPGR):c.2383G>T (p.Glu795Ter)	6103	RPGR	Likely pathogenic	GRCh38	975145
+single nucleotide variant	NM_001034853.2(RPGR):c.2006G>A (p.Trp669Ter)	6103	RPGR	Pathogenic	GRCh38	975137
+single nucleotide variant	NM_001034853.2(RPGR):c.1787C>A (p.Ser596Ter)	6103	RPGR	Pathogenic	GRCh38	975135
+single nucleotide variant	NM_001034853.2(RPGR):c.1711C>T (p.Gln571Ter)	6103	RPGR	Likely pathogenic	GRCh38	975134
+single nucleotide variant	NM_001034853.2(RPGR):c.619+2T>A	6103	RPGR	Pathogenic	GRCh38	975129
+single nucleotide variant	NM_001034853.2(RPGR):c.173T>A (p.Met58Lys)	6103	RPGR	Likely pathogenic	GRCh38	975126
+single nucleotide variant	NM_001034853.2(RPGR):c.122C>A (p.Ser41Ter)	6103	RPGR	Pathogenic	GRCh38	975125
+single nucleotide variant	NM_001034853.2(RPGR):c.2689G>T (p.Glu897Ter)	6103	RPGR	Pathogenic	GRCh38	987379
+single nucleotide variant	NM_001034853.2(RPGR):c.779-5T>G	6103	RPGR	Pathogenic	GRCh38	987407
+single nucleotide variant	NM_001034853.2(RPGR):c.1573-12A>G	6103	RPGR	Likely pathogenic	GRCh38	996786
+single nucleotide variant	NM_001034853.2(RPGR):c.2071G>T (p.Glu691Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1065779
+single nucleotide variant	NM_001034853.2(RPGR):c.1880C>A (p.Ser627Ter)	6103	RPGR	Likely pathogenic	GRCh38	1065656
+single nucleotide variant	NM_001034853.2(RPGR):c.1754-3C>G	6103	RPGR	Pathogenic	GRCh38	1065689
+single nucleotide variant	NM_001034853.2(RPGR):c.196C>T (p.Gln66Ter)	6103	RPGR	Likely pathogenic	GRCh38	1065651
+single nucleotide variant	NM_001034853.2(RPGR):c.799G>C (p.Gly267Arg)	6103	RPGR	Likely pathogenic	GRCh38	1176299
+single nucleotide variant	NM_001034853.2(RPGR):c.779-2A>G	6103	RPGR	Pathogenic	GRCh38	1213920
+single nucleotide variant	NM_001034853.2(RPGR):c.1541C>G (p.Ser514Ter)	6103	RPGR	Pathogenic	GRCh38	1213922
+single nucleotide variant	NM_001034853.2(RPGR):c.934+2T>C	6103	RPGR	Pathogenic	GRCh38	1213924
+single nucleotide variant	NM_001034853.2(RPGR):c.897T>A (p.Tyr299Ter)	6103	RPGR	Pathogenic	GRCh38	1213925
+single nucleotide variant	NM_001034853.2(RPGR):c.665T>G (p.Leu222Ter)	6103	RPGR	Pathogenic	GRCh38	1213926
+single nucleotide variant	NM_001034853.2(RPGR):c.2218G>T (p.Glu740Ter)	6103	RPGR	Pathogenic	GRCh38	1275779
+single nucleotide variant	NM_001034853.2(RPGR):c.3070G>T (p.Glu1024Ter)	6103	RPGR	Pathogenic	GRCh38	1275798
+single nucleotide variant	NM_001034853.2(RPGR):c.2452G>T (p.Glu818Ter)	6103	RPGR	Likely pathogenic	GRCh38	1297119
+single nucleotide variant	NM_001034853.2(RPGR):c.2491G>T (p.Glu831Ter)	6103	RPGR	Pathogenic	GRCh38	1297121
+single nucleotide variant	NM_001034853.2(RPGR):c.308C>T (p.Thr103Ile)	6103	RPGR	Likely pathogenic	GRCh38	1356123
+single nucleotide variant	NM_001034853.2(RPGR):c.2893G>T (p.Glu965Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1361041
+single nucleotide variant	NM_001034853.2(RPGR):c.1220C>A (p.Ser407Ter)	6103	RPGR	Pathogenic	GRCh38	1456564
+single nucleotide variant	NM_001034853.2(RPGR):c.800G>T (p.Gly267Val)	6103	RPGR	Likely pathogenic	GRCh38	1485457
+single nucleotide variant	NM_001034853.2(RPGR):c.2293G>T (p.Glu765Ter)	6103	RPGR	Pathogenic	GRCh38	1460223
+single nucleotide variant	NM_001034853.2(RPGR):c.178G>A (p.Gly60Ser)	6103	RPGR	Likely pathogenic	GRCh38	1676154
+single nucleotide variant	NM_001034853.2(RPGR):c.2140G>T (p.Glu714Ter)	6103	RPGR	Likely pathogenic	GRCh38	1685427
+single nucleotide variant	NM_001034853.2(RPGR):c.29-2A>G	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1685428
+single nucleotide variant	NM_001034853.2(RPGR):c.3184G>T (p.Glu1062Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1686130
+single nucleotide variant	NM_001034853.2(RPGR):c.2470G>T (p.Gly824Ter)	6103	RPGR	Pathogenic	GRCh38	1686132
+single nucleotide variant	NM_001034853.2(RPGR):c.2257G>T (p.Gly753Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1687368
+single nucleotide variant	NM_001034853.2(RPGR):c.1245+1G>A	6103	RPGR	Likely pathogenic	GRCh38	1695291
+single nucleotide variant	NM_001034853.2(RPGR):c.2149C>T (p.Gln717Ter)	6103	RPGR	Pathogenic	GRCh38	1708067
+single nucleotide variant	NM_001034853.2(RPGR):c.1813G>T (p.Glu605Ter)	6103	RPGR	Likely pathogenic	GRCh38	1709122
+single nucleotide variant	NM_001034853.2(RPGR):c.3208C>T (p.Gln1070Ter)	6103	RPGR	Likely pathogenic	GRCh38	1710110
+single nucleotide variant	NM_001034853.2(RPGR):c.1880C>G (p.Ser627Ter)	6103	RPGR	Pathogenic	GRCh38	1781884
+single nucleotide variant	NM_001034853.2(RPGR):c.1753+2T>G	6103	RPGR	Likely pathogenic	GRCh38	1802237
+single nucleotide variant	NM_001034853.2(RPGR):c.427A>T (p.Lys143Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1802301
+single nucleotide variant	NM_001034853.2(RPGR):c.470-1G>A	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1802304
+single nucleotide variant	NM_001034853.2(RPGR):c.636T>G (p.Tyr212Ter)	6103	RPGR	Likely pathogenic	GRCh38	1802322
+single nucleotide variant	NM_001034853.2(RPGR):c.2527G>T (p.Glu843Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1802324
+single nucleotide variant	NM_001034853.2(RPGR):c.2725G>T (p.Glu909Ter)	6103	RPGR	Likely pathogenic	GRCh38	1802325
+single nucleotide variant	NM_001034853.2(RPGR):c.2590G>T (p.Glu864Ter)	6103	RPGR	Pathogenic	GRCh38	1802326
+single nucleotide variant	NM_001034853.2(RPGR):c.2716G>T (p.Glu906Ter)	6103	RPGR	Pathogenic	GRCh38	1802328
+single nucleotide variant	NM_001034853.2(RPGR):c.494G>T (p.Gly165Val)	6103	RPGR	Likely pathogenic	GRCh38	1802334
+single nucleotide variant	NM_001034853.2(RPGR):c.778+1G>T	6103	RPGR	Likely pathogenic	GRCh38	1802336
+single nucleotide variant	NM_001034853.2(RPGR):c.1534G>T (p.Glu512Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1802342
+single nucleotide variant	NM_001034853.2(RPGR):c.2221G>T (p.Glu741Ter)	6103	RPGR	Likely pathogenic	GRCh38	1802351
+single nucleotide variant	NM_001034853.2(RPGR):c.2569A>T (p.Lys857Ter)	6103	RPGR	Likely pathogenic	GRCh38	1802364
+single nucleotide variant	NM_001034853.2(RPGR):c.2743G>T (p.Glu915Ter)	6103	RPGR	Pathogenic	GRCh38	1802371
+single nucleotide variant	NM_001034853.2(RPGR):c.2911G>T (p.Glu971Ter)	6103	RPGR	Likely pathogenic	GRCh38	1802372
+single nucleotide variant	NM_001034853.2(RPGR):c.2644G>T (p.Glu882Ter)	6103	RPGR	Pathogenic	GRCh38	2145305
+single nucleotide variant	NM_001034853.2(RPGR):c.2965G>T (p.Glu989Ter)	6103	RPGR	Pathogenic	GRCh38	2138532
+single nucleotide variant	NM_001034853.2(RPGR):c.2614G>T (p.Glu872Ter)	6103	RPGR	Pathogenic	GRCh38	2138535
+single nucleotide variant	NM_001034853.2(RPGR):c.2437G>T (p.Glu813Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	2138536
+single nucleotide variant	NM_001034853.2(RPGR):c.2212G>T (p.Gly738Ter)	6103	RPGR	Pathogenic	GRCh38	2138537
+single nucleotide variant	NM_001034853.2(RPGR):c.2007G>A (p.Trp669Ter)	6103	RPGR	Pathogenic	GRCh38	2138538
+single nucleotide variant	NM_001034853.2(RPGR):c.1591G>T (p.Glu531Ter)	6103	RPGR	Pathogenic	GRCh38	2138539
+single nucleotide variant	NM_001034853.2(RPGR):c.1245+1G>T	6103	RPGR	Pathogenic	GRCh38	2138541
+single nucleotide variant	NM_001034853.2(RPGR):c.814G>T (p.Gly272Cys)	6103	RPGR	Likely pathogenic	GRCh38	2138543
+single nucleotide variant	NM_001034853.2(RPGR):c.350G>A (p.Gly117Glu)	6103	RPGR	Pathogenic	GRCh38	2138544
+single nucleotide variant	NM_001034853.2(RPGR):c.248-1G>T	6103	RPGR	Pathogenic	GRCh38	2138545
+single nucleotide variant	NM_001034853.2(RPGR):c.2617G>T (p.Glu873Ter)	6103	RPGR	Pathogenic	GRCh38	2156763
+single nucleotide variant	NM_001034853.2(RPGR):c.1600C>T (p.Gln534Ter)	6103	RPGR	Pathogenic	GRCh38	2152336
+single nucleotide variant	NM_001034853.2(RPGR):c.247+2T>C	6103	RPGR	Pathogenic	GRCh38	2152338
+single nucleotide variant	NM_001034853.2(RPGR):c.93G>A (p.Trp31Ter)	6103	RPGR	Pathogenic	GRCh38	2152339
+single nucleotide variant	NM_001034853.2(RPGR):c.2764G>T (p.Glu922Ter)	6103	RPGR	Pathogenic	GRCh38	2176796
+single nucleotide variant	NM_001034853.2(RPGR):c.1561C>T (p.Gln521Ter)	6103	RPGR	Pathogenic	GRCh38	2417518
+single nucleotide variant	NM_001034853.2(RPGR):c.1810C>T (p.Gln604Ter)	6103	RPGR	Pathogenic	GRCh38	1918316
+single nucleotide variant	NM_001034853.2(RPGR):c.1579C>T (p.Gln527Ter)	6103	RPGR	Pathogenic	GRCh38	1945357
+single nucleotide variant	NM_001034853.2(RPGR):c.334G>A (p.Gly112Ser)	6103	RPGR	Pathogenic	GRCh38	1962630
+single nucleotide variant	NM_001034853.2(RPGR):c.1068T>A (p.Cys356Ter)	6103	RPGR	Pathogenic	GRCh38	1971193
+single nucleotide variant	NM_001034853.2(RPGR):c.1414+1G>A	6103	RPGR	Likely pathogenic	GRCh38	1971442
+single nucleotide variant	NM_001034853.2(RPGR):c.430C>T (p.Gln144Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	1998678
+single nucleotide variant	NM_001034853.2(RPGR):c.3250G>T (p.Glu1084Ter)	6103	RPGR	Pathogenic	GRCh38	1998056
+single nucleotide variant	NM_001034853.2(RPGR):c.3313A>T (p.Lys1105Ter)	6103	RPGR	Pathogenic	GRCh38	2003350
+single nucleotide variant	NM_001034853.2(RPGR):c.2953G>T (p.Glu985Ter)	6103	RPGR	Pathogenic	GRCh38	1999544
+single nucleotide variant	NM_001034853.2(RPGR):c.2482G>T (p.Glu828Ter)	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	2000840
+single nucleotide variant	NM_001034853.2(RPGR):c.2803G>T (p.Glu935Ter)	6103	RPGR	Pathogenic	GRCh38	2020793
+single nucleotide variant	NM_001034853.2(RPGR):c.2992G>T (p.Glu998Ter)	6103	RPGR	Pathogenic	GRCh38	2032679
+single nucleotide variant	NM_001034853.2(RPGR):c.2845G>T (p.Glu949Ter)	6103	RPGR	Pathogenic	GRCh38	2020118
+single nucleotide variant	NM_001034853.2(RPGR):c.2215G>T (p.Glu739Ter)	6103	RPGR	Pathogenic	GRCh38	2023652
+single nucleotide variant	NM_001034853.2(RPGR):c.3133G>T (p.Glu1045Ter)	6103	RPGR	Pathogenic	GRCh38	2078835
+single nucleotide variant	NM_001034853.2(RPGR):c.2320G>T (p.Glu774Ter)	6103	RPGR	Pathogenic	GRCh38	2081066
+single nucleotide variant	NM_001034853.2(RPGR):c.824G>A (p.Gly275Asp)	6103	RPGR	Likely pathogenic	GRCh38	2092857
+single nucleotide variant	NM_001034853.2(RPGR):c.2854G>T (p.Glu952Ter)	6103	RPGR	Pathogenic	GRCh38	2096368
+single nucleotide variant	NM_001034853.2(RPGR):c.248-1G>A	6103	RPGR	Pathogenic	GRCh38	2099794
+single nucleotide variant	NM_001034853.2(RPGR):c.2248G>T (p.Glu750Ter)	6103	RPGR	Likely pathogenic	GRCh38	2099208
+single nucleotide variant	NM_001034853.2(RPGR):c.550C>T (p.Gln184Ter)	6103	RPGR	Pathogenic	GRCh38	2099210
+single nucleotide variant	NM_001034853.2(RPGR):c.1414+1G>C	6103	RPGR	Likely pathogenic	GRCh38	2105009
+single nucleotide variant	NM_001034853.2(RPGR):c.620-2A>G	6103	RPGR	Likely pathogenic	GRCh38	2110430
+single nucleotide variant	NM_001034853.2(RPGR):c.823G>T (p.Gly275Cys)	6103	RPGR	Likely pathogenic	GRCh38	2118600
+single nucleotide variant	NM_001034853.2(RPGR):c.3220G>T (p.Glu1074Ter)	6103	RPGR	Pathogenic	GRCh38	2119012
+single nucleotide variant	NM_001034853.2(RPGR):c.2167A>T (p.Arg723Ter)	6103	RPGR	Pathogenic	GRCh38	2124355
+single nucleotide variant	NM_001034853.2(RPGR):c.2485G>T (p.Glu829Ter)	6103	RPGR	Pathogenic	GRCh38	2130687
+single nucleotide variant	NM_001034853.2(RPGR):c.305C>G (p.Ser102Ter)	6103	RPGR	Pathogenic	GRCh38	2133843
+single nucleotide variant	NM_001034853.2(RPGR):c.778+1G>A	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	2129768
+single nucleotide variant	NM_001034853.2(RPGR):c.248-10A>G	6103	RPGR	Pathogenic/Likely pathogenic	GRCh38	2430150
+single nucleotide variant	NM_001034853.2(RPGR):c.283G>A (p.Gly95Arg)	6103	RPGR	Pathogenic	GRCh38	2430151
+single nucleotide variant	NM_001034853.2(RPGR):c.597T>G (p.Tyr199Ter)	6103	RPGR	Pathogenic	GRCh38	2430152
+single nucleotide variant	NM_001034853.2(RPGR):c.1906G>A (p.Val636Met)	6103	RPGR	Likely pathogenic	GRCh38	2430216
+single nucleotide variant	NM_001034853.2(RPGR):c.3238C>T (p.Gln1080Ter)	6103	RPGR	Likely pathogenic	GRCh38	2664727
+single nucleotide variant	NM_001034853.2(RPGR):c.718G>T (p.Glu240Ter)	6103	RPGR	Pathogenic	GRCh38	2703816
+single nucleotide variant	NM_001034853.2(RPGR):c.3082G>T (p.Glu1028Ter)	6103	RPGR	Pathogenic	GRCh38	2739249
+single nucleotide variant	NM_001034853.2(RPGR):c.442G>C (p.Gly148Arg)	6103	RPGR	Pathogenic	GRCh38	2744664
+single nucleotide variant	NM_001034853.2(RPGR):c.2782G>T (p.Gly928Ter)	6103	RPGR	Pathogenic	GRCh38	2737196
+single nucleotide variant	NM_001034853.2(RPGR):c.202G>A (p.Gly68Arg)	6103	RPGR	Pathogenic	GRCh38	2737200
+single nucleotide variant	NM_001034853.2(RPGR):c.3255C>A (p.Tyr1085Ter)	6103	RPGR	Pathogenic	GRCh38	2754658
+single nucleotide variant	NM_001034853.2(RPGR):c.247+1G>A	6103	RPGR	Pathogenic	GRCh38	2767829
+single nucleotide variant	NM_001034853.2(RPGR):c.2878G>T (p.Glu960Ter)	6103	RPGR	Pathogenic	GRCh38	2820788
+single nucleotide variant	NC_000023.11:g.38276774T>C	6103	RPGR	Likely pathogenic	GRCh38	2826112
+single nucleotide variant	NM_001034853.2(RPGR):c.97A>T (p.Lys33Ter)	6103	RPGR	Pathogenic	GRCh38	2859645
+single nucleotide variant	NM_001034853.2(RPGR):c.2278G>T (p.Glu760Ter)	6103	RPGR	Pathogenic	GRCh38	2865260
+single nucleotide variant	NM_001034853.2(RPGR):c.2692G>T (p.Glu898Ter)	6103	RPGR	Pathogenic	GRCh38	2892575
+single nucleotide variant	NM_001034853.2(RPGR):c.2752G>T (p.Glu918Ter)	6103	RPGR	Pathogenic	GRCh38	2883813
+single nucleotide variant	NM_001034853.2(RPGR):c.1693C>T (p.Gln565Ter)	6103	RPGR	Pathogenic	GRCh38	2907569
+single nucleotide variant	NM_001034853.2(RPGR):c.815G>T (p.Gly272Val)	6103	RPGR	Pathogenic	GRCh38	2910485
+single nucleotide variant	NM_001034853.2(RPGR):c.739C>T (p.Gln247Ter)	6103	RPGR	Pathogenic	GRCh38	2910486
+single nucleotide variant	NM_001034853.2(RPGR):c.16G>T (p.Glu6Ter)	6103	RPGR	Pathogenic	GRCh38	3021736
+single nucleotide variant	NM_001034853.2(RPGR):c.619+1G>C	6103	RPGR	Pathogenic	GRCh38	3026532
+single nucleotide variant	NM_001034853.2(RPGR):c.1642G>T (p.Glu548Ter)	6103	RPGR	Likely pathogenic	GRCh38	3028590
+single nucleotide variant	NM_001034853.2(RPGR):c.1567C>T (p.Gln523Ter)	6103	RPGR	Likely pathogenic	GRCh38	3028594
+single nucleotide variant	NM_001034853.2(RPGR):c.1135G>T (p.Glu379Ter)	6103	RPGR	Likely pathogenic	GRCh38	3028598
+single nucleotide variant	NM_001034853.2(RPGR):c.1077T>A (p.Cys359Ter)	6103	RPGR	Pathogenic	GRCh38	3028600
+single nucleotide variant	NM_001034853.2(RPGR):c.1048A>G (p.Ile350Val)	6103	RPGR	Likely pathogenic	GRCh38	3028601
+single nucleotide variant	NM_001034853.2(RPGR):c.296C>T (p.Thr99Ile)	6103	RPGR	Likely pathogenic	GRCh38	3028605
+single nucleotide variant	NM_001034853.2(RPGR):c.350G>T (p.Gly117Val)	6103	RPGR	Likely pathogenic	GRCh38	3066183
+single nucleotide variant	NM_001034853.2(RPGR):c.2530G>T (p.Glu844Ter)	6103	RPGR	Pathogenic	GRCh38	3248654
+single nucleotide variant	NM_001034853.2(RPGR):c.2467A>T (p.Lys823Ter)	6103	RPGR	Pathogenic	GRCh38	3248780
+single nucleotide variant	NM_001034853.2(RPGR):c.1193C>G (p.Ser398Ter)	6103	RPGR	Pathogenic	GRCh38	3248950
+single nucleotide variant	NM_001034853.2(RPGR):c.178G>T (p.Gly60Cys)	6103	RPGR	Likely pathogenic	GRCh38	3249009
+single nucleotide variant	NM_001034853.2(RPGR):c.2860G>T (p.Glu954Ter)	6103	RPGR	Pathogenic	GRCh38	3249038
+single nucleotide variant	NM_001034853.2(RPGR):c.470-2A>G	6103	RPGR	Pathogenic	GRCh38	3249064
+single nucleotide variant	NM_001034853.2(RPGR):c.284G>A (p.Gly95Glu)	6103	RPGR	Likely pathogenic	GRCh38	3249360
+single nucleotide variant	NM_001034853.2(RPGR):c.593G>A (p.Gly198Glu)	6103	RPGR	Likely pathogenic	GRCh38	3249728
+single nucleotide variant	NM_001034853.2(RPGR):c.1991C>G (p.Ser664Ter)	6103	RPGR	Pathogenic	GRCh38	3249791
+single nucleotide variant	NM_001034853.2(RPGR):c.3320C>A (p.Ser1107Ter)	6103	RPGR	Pathogenic	GRCh38	3249798
+single nucleotide variant	NM_001034853.2(RPGR):c.3085G>T (p.Glu1029Ter)	6103	RPGR	Pathogenic	GRCh38	3249855
+single nucleotide variant	NM_001034853.2(RPGR):c.28+1G>T	6103	RPGR	Pathogenic	GRCh38	3249888
+single nucleotide variant	NM_001034853.2(RPGR):c.469G>T (p.Glu157Ter)	6103	RPGR	Pathogenic	GRCh38	3249968
+single nucleotide variant	NM_001034853.2(RPGR):c.2872G>T (p.Glu958Ter)	6103	RPGR	Pathogenic	GRCh38	3250228
+single nucleotide variant	NM_001034853.2(RPGR):c.2287G>T (p.Glu763Ter)	6103	RPGR	Pathogenic	GRCh38	3250282
+single nucleotide variant	NM_001034853.2(RPGR):c.2971G>T (p.Glu991Ter)	6103	RPGR	Pathogenic	GRCh38	3250328
+single nucleotide variant	NM_001034853.2(RPGR):c.1765G>T (p.Glu589Ter)	6103	RPGR	Pathogenic	GRCh38	3250346
+single nucleotide variant	NM_001034853.2(RPGR):c.2200G>T (p.Glu734Ter)	6103	RPGR	Pathogenic	GRCh38	3340607
+single nucleotide variant	NM_001034853.2(RPGR):c.293A>G (p.His98Arg)	6103	RPGR	Likely pathogenic	GRCh38	3344160
+single nucleotide variant	NM_001034853.2(RPGR):c.2797G>T (p.Glu933Ter)	6103	RPGR	Likely pathogenic	GRCh38	3382545
+single nucleotide variant	NM_001034853.2(RPGR):c.3255C>G (p.Tyr1085Ter)	6103	RPGR	Likely pathogenic	GRCh38	3598276
+single nucleotide variant	NM_001034853.2(RPGR):c.3151G>T (p.Glu1051Ter)	6103	RPGR	Likely pathogenic	GRCh38	3598277
+single nucleotide variant	NM_001034853.2(RPGR):c.1506+1G>T	6103	RPGR	Pathogenic	GRCh38	3598278
+single nucleotide variant	NM_001034853.2(RPGR):c.482T>G (p.Leu161Arg)	6103	RPGR	Likely pathogenic	GRCh38	3638477
+single nucleotide variant	NM_001034853.2(RPGR):c.643G>A (p.Gly215Arg)	6103	RPGR	Likely pathogenic	GRCh38	3645791
+single nucleotide variant	NM_001034853.2(RPGR):c.2332G>T (p.Glu778Ter)	6103	RPGR	Pathogenic	GRCh38	3659930
+single nucleotide variant	NM_001034853.2(RPGR):c.3382C>T (p.Arg1128Ter)	6103	RPGR	Pathogenic	GRCh38	3697946
+single nucleotide variant	NM_001034853.2(RPGR):c.2719G>T (p.Glu907Ter)	6103	RPGR	Pathogenic	GRCh38	3702951
+single nucleotide variant	NM_001034853.2(RPGR):c.1245+2T>C	6103	RPGR	Pathogenic	GRCh38	3724220
+single nucleotide variant	NM_001034853.2(RPGR):c.194G>T (p.Gly65Val)	6103	RPGR	Pathogenic	GRCh38	3724221
+single nucleotide variant	NM_001034853.2(RPGR):c.2128C>T (p.Gln710Ter)	6103	RPGR	Pathogenic	GRCh38	3724336
+single nucleotide variant	NM_001034853.2(RPGR):c.29-2A>C	6103	RPGR	Likely pathogenic	GRCh38	3776109
+single nucleotide variant	NM_001034853.2(RPGR):c.3458A>C (p.Ter1153Ser)	6103	RPGR	Likely pathogenic	GRCh38	3900756
+single nucleotide variant	NM_001034853.2(RPGR):c.1154T>A (p.Leu385Ter)	6103	RPGR	Pathogenic	GRCh38	4072384
+single nucleotide variant	NM_001034853.2(RPGR):c.122C>G (p.Ser41Ter)	6103	RPGR	Likely pathogenic	GRCh38	4072385
+single nucleotide variant	NM_001034853.2(RPGR):c.1245+3A>T	6103	RPGR	Pathogenic	GRCh38	4072386
+single nucleotide variant	NM_001034853.2(RPGR):c.191G>A (p.Trp64Ter)	6103	RPGR	Likely pathogenic	GRCh38	4072388
+single nucleotide variant	NM_001034853.2(RPGR):c.2176G>T (p.Glu726Ter)	6103	RPGR	Pathogenic	GRCh38	4072389
+single nucleotide variant	NM_001034853.2(RPGR):c.1059+2T>G	6103	RPGR	Likely pathogenic	GRCh38	4077469
+single nucleotide variant	NM_001034853.2(RPGR):c.851C>G (p.Ser284Ter)	6103	RPGR	Pathogenic	GRCh38	4081777
+single nucleotide variant	NM_001034853.2(RPGR):c.628G>T (p.Glu210Ter)	6103	RPGR	Likely pathogenic	GRCh38	4082159
+single nucleotide variant	NM_001034853.2(RPGR):c.1636G>T (p.Glu546Ter)	6103	RPGR	Likely pathogenic	GRCh38	4082160
+single nucleotide variant	NM_001034853.2(RPGR):c.2080A>T (p.Lys694Ter)	6103	RPGR	Likely pathogenic	GRCh38	4082161
+single nucleotide variant	NM_001034853.2(RPGR):c.2101G>T (p.Glu701Ter)	6103	RPGR	Likely pathogenic	GRCh38	4082162
+single nucleotide variant	NM_001034853.2(RPGR):c.2188G>T (p.Gly730Ter)	6103	RPGR	Likely pathogenic	GRCh38	4082163
+single nucleotide variant	NM_001034853.2(RPGR):c.824G>T (p.Gly275Val)	6103	RPGR	Likely pathogenic	GRCh38	4082167
+single nucleotide variant	NM_001034853.2(RPGR):c.2506G>T (p.Glu836Ter)	6103	RPGR	Pathogenic	GRCh38	4082168
+single nucleotide variant	NM_001034853.2(RPGR):c.2800G>T (p.Glu934Ter)	6103	RPGR	Pathogenic	GRCh38	4082172
+single nucleotide variant	NM_001034853.2(RPGR):c.373G>T (p.Glu125Ter)	6103	RPGR	Pathogenic	GRCh38	4082175
+single nucleotide variant	NM_001034853.2(RPGR):c.3001G>T (p.Glu1001Ter)	6103	RPGR	Pathogenic	GRCh38	4082179
+single nucleotide variant	NM_001034853.2(RPGR):c.310+1G>A	6103	RPGR	Pathogenic	GRCh38	4082181
+single nucleotide variant	NM_001034853.2(RPGR):c.2620G>T (p.Gly874Ter)	6103	RPGR	Pathogenic	GRCh38	4291796
+single nucleotide variant	NM_001034853.2(RPGR):c.2224G>T (p.Glu742Ter)	6103	RPGR	Likely pathogenic	GRCh38	4293300
+single nucleotide variant	NM_001034853.2(RPGR):c.644G>A (p.Gly215Glu)	6103	RPGR	Pathogenic	GRCh38	4692558
+single nucleotide variant	NM_001034853.2(RPGR):c.815G>A (p.Gly272Asp)	6103	RPGR	Likely pathogenic	GRCh38	4710723
+single nucleotide variant	NM_001034853.2(RPGR):c.800G>A (p.Gly267Glu)	6103	RPGR	Likely pathogenic	GRCh38	4710725
+single nucleotide variant	NM_001034853.2(RPGR):c.619+2T>C	6103	RPGR	Pathogenic	GRCh38	4726602
+single nucleotide variant	NM_001034853.2(RPGR):c.3007G>T (p.Gly1003Ter)	6103	RPGR	Pathogenic	GRCh38	4728390
+single nucleotide variant	NM_001034853.2(RPGR):c.2284G>T (p.Glu762Ter)	6103	RPGR	Pathogenic	GRCh38	4733004
+single nucleotide variant	NM_001034853.2(RPGR):c.3010G>T (p.Glu1004Ter)	6103	RPGR	Pathogenic	GRCh38	4725656
+single nucleotide variant	NM_001034853.2(RPGR):c.179G>C (p.Gly60Ala)	6103	RPGR	Likely pathogenic	GRCh38	4746275
+single nucleotide variant	NM_001034853.2(RPGR):c.442G>T (p.Gly148Ter)	6103	RPGR	Likely pathogenic	GRCh38	4755541
+single nucleotide variant	NM_001034853.2(RPGR):c.2734G>T (p.Gly912Ter)	6103	RPGR	Pathogenic	GRCh38	4772841
+single nucleotide variant	NM_001034853.2(RPGR):c.2105G>A (p.Trp702Ter)	6103	RPGR	Pathogenic	GRCh38	4781558
+single nucleotide variant	NM_001034853.2(RPGR):c.171C>A (p.Tyr57Ter)	6103	RPGR	Likely pathogenic	GRCh38	4796014
+single nucleotide variant	NM_001034853.2(RPGR):c.1276A>T (p.Arg426Ter)	6103	RPGR	Likely pathogenic	GRCh38	4813724
+single nucleotide variant	NM_001034853.2(RPGR):c.817C>T (p.Gln273Ter)	6103	RPGR	Pathogenic	GRCh38	4845244
+single nucleotide variant	NM_001034853.2(RPGR):c.1506+1G>A	6103	RPGR	Likely pathogenic	GRCh38	4856789
+single nucleotide variant	NM_001034853.2(RPGR):c.3337G>T (p.Gly1113Ter)	6103	RPGR	Likely pathogenic	GRCh38	4856797
+single nucleotide variant	NM_001034853.2(RPGR):c.2866G>T (p.Glu956Ter)	6103	RPGR	Likely pathogenic	GRCh38	4856801
+single nucleotide variant	NM_001034853.2(RPGR):c.3211G>T (p.Glu1071Ter)	6103	RPGR	Likely pathogenic	GRCh38	4882801
+single nucleotide variant	NM_001034853.2(RPGR):c.619+2T>G	6103	RPGR	Pathogenic	GRCh38	4887019

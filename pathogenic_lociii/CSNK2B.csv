@@ -1,0 +1,79 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001320.7(CSNK2B):c.139C>T (p.Arg47Ter)	1460	CSNK2B	Pathogenic	GRCh38	426599
+single nucleotide variant	NM_001320.7(CSNK2B):c.36G>A (p.Trp12Ter)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	489241
+single nucleotide variant	NM_001320.7(CSNK2B):c.73-2A>G	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	521208
+single nucleotide variant	NM_001320.7(CSNK2B):c.94G>A (p.Asp32Asn)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	520596
+single nucleotide variant	NM_001320.7(CSNK2B):c.2T>A (p.Met1Lys)	1460	CSNK2B	Likely pathogenic	GRCh38	562216
+single nucleotide variant	NM_001320.7(CSNK2B):c.181G>T (p.Glu61Ter)	1460	CSNK2B	Likely pathogenic	GRCh38	562217
+single nucleotide variant	NM_001320.7(CSNK2B):c.229G>T (p.Glu77Ter)	1460	CSNK2B	Likely pathogenic	GRCh38	690282
+single nucleotide variant	NM_001320.7(CSNK2B):c.175+2T>G	1460	CSNK2B	Pathogenic	GRCh38	805768
+single nucleotide variant	NM_001320.7(CSNK2B):c.368-2A>G	1460	CSNK2B	Pathogenic	GRCh38	805773
+single nucleotide variant	NM_001320.7(CSNK2B):c.367+2T>C	1460	CSNK2B	Pathogenic	GRCh38	812520
+single nucleotide variant	NM_001320.7(CSNK2B):c.1A>G (p.Met1Val)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	932465
+single nucleotide variant	NM_001320.7(CSNK2B):c.303C>G (p.Tyr101Ter)	1460	CSNK2B	Likely pathogenic	GRCh38	973336
+single nucleotide variant	NM_001320.7(CSNK2B):c.560T>C (p.Leu187Pro)	1460	CSNK2B	Pathogenic	GRCh38	982375
+single nucleotide variant	NM_001320.7(CSNK2B):c.72+1G>A	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	985139
+single nucleotide variant	NM_001320.7(CSNK2B):c.245T>A (p.Leu82Ter)	1460	CSNK2B	Pathogenic	GRCh38	985413
+single nucleotide variant	NM_001320.7(CSNK2B):c.566G>T (p.Gly189Val)	1460	CSNK2B	Likely pathogenic	GRCh38	985080
+single nucleotide variant	NM_001320.7(CSNK2B):c.494A>G (p.His165Arg)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	996840
+single nucleotide variant	NM_001320.7(CSNK2B):c.292-2A>C	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1030427
+single nucleotide variant	NM_001320.7(CSNK2B):c.91C>T (p.Gln31Ter)	1460	CSNK2B	Pathogenic	GRCh38	1065509
+single nucleotide variant	NM_001320.7(CSNK2B):c.292-2A>T	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1176189
+single nucleotide variant	NM_001320.7(CSNK2B):c.2T>G (p.Met1Arg)	1460	CSNK2B	Pathogenic	GRCh38	1254603
+single nucleotide variant	NM_001320.7(CSNK2B):c.101T>G (p.Phe34Cys)	1460	CSNK2B	Likely pathogenic	GRCh38	1275774
+single nucleotide variant	NM_001320.7(CSNK2B):c.367+1G>A	1460	CSNK2B	Pathogenic	GRCh38	1301884
+single nucleotide variant	NM_001320.7(CSNK2B):c.332G>C (p.Arg111Pro)	1460	CSNK2B	Pathogenic	GRCh38	1320202
+single nucleotide variant	NM_001320.7(CSNK2B):c.292-2A>G	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1320215
+single nucleotide variant	NM_001320.7(CSNK2B):c.73-1G>A	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1328939
+single nucleotide variant	NM_001320.7(CSNK2B):c.557+1G>A	1460	CSNK2B	Pathogenic	GRCh38	1329627
+single nucleotide variant	NM_001320.7(CSNK2B):c.560T>G (p.Leu187Arg)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1333706
+single nucleotide variant	NM_001320.7(CSNK2B):c.474C>G (p.Tyr158Ter)	1460	CSNK2B	Pathogenic	GRCh38	1343861
+single nucleotide variant	NM_001320.7(CSNK2B):c.72+2T>G	1460	CSNK2B	Likely pathogenic	GRCh38	1526270
+single nucleotide variant	NM_001320.7(CSNK2B):c.291+1G>T	1460	CSNK2B	Likely pathogenic	GRCh38	1527949
+single nucleotide variant	NM_001320.7(CSNK2B):c.374C>G (p.Ser125Ter)	1460	CSNK2B	Pathogenic	GRCh38	1676313
+single nucleotide variant	NM_001320.7(CSNK2B):c.94G>C (p.Asp32His)	1460	CSNK2B	Pathogenic	GRCh38	1676324
+single nucleotide variant	NM_001320.7(CSNK2B):c.349C>T (p.Gln117Ter)	1460	CSNK2B	Pathogenic	GRCh38	1679612
+single nucleotide variant	NM_001320.7(CSNK2B):c.304C>T (p.Gln102Ter)	1460	CSNK2B	Pathogenic	GRCh38	1684046
+single nucleotide variant	NM_001320.7(CSNK2B):c.202C>T (p.Gln68Ter)	1460	CSNK2B	Likely pathogenic	GRCh38	1684577
+single nucleotide variant	NM_001320.7(CSNK2B):c.116T>G (p.Leu39Arg)	1460	CSNK2B	Likely pathogenic	GRCh38	1685289
+single nucleotide variant	NM_001320.7(CSNK2B):c.291G>A (p.Met97Ile)	1460	CSNK2B	Likely pathogenic	GRCh38	1685290
+single nucleotide variant	NM_001320.7(CSNK2B):c.94G>T (p.Asp32Tyr)	1460	CSNK2B	Pathogenic	GRCh38	1685680
+single nucleotide variant	NM_001320.7(CSNK2B):c.107T>C (p.Leu36Pro)	1460	CSNK2B	Pathogenic	GRCh38	1690342
+single nucleotide variant	NM_001320.7(CSNK2B):c.410G>A (p.Cys137Tyr)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1701862
+single nucleotide variant	NM_001320.7(CSNK2B):c.446C>G (p.Ser149Ter)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	1709734
+single nucleotide variant	NM_001320.7(CSNK2B):c.286C>T (p.Gln96Ter)	1460	CSNK2B	Pathogenic	GRCh38	1712706
+single nucleotide variant	NM_001320.7(CSNK2B):c.257G>C (p.Arg86Pro)	1460	CSNK2B	Likely pathogenic	GRCh38	1803580
+single nucleotide variant	NM_001320.7(CSNK2B):c.72+1G>T	1460	CSNK2B	Likely pathogenic	GRCh38	2429801
+single nucleotide variant	NM_001320.7(CSNK2B):c.557+1G>C	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	2439611
+single nucleotide variant	NM_001320.7(CSNK2B):c.291+5G>C	1460	CSNK2B	Likely pathogenic	GRCh38	2442343
+single nucleotide variant	NM_001320.7(CSNK2B):c.27G>A (p.Trp9Ter)	1460	CSNK2B	Pathogenic	GRCh38	2446135
+single nucleotide variant	NM_001320.7(CSNK2B):c.310G>T (p.Gly104Ter)	1460	CSNK2B	Pathogenic	GRCh38	2500355
+single nucleotide variant	NM_001320.7(CSNK2B):c.307C>T (p.Gln103Ter)	1460	CSNK2B	Pathogenic	GRCh38	2504917
+single nucleotide variant	NM_001320.7(CSNK2B):c.368G>A (p.Gly123Asp)	1460	CSNK2B	Pathogenic	GRCh38	2579310
+single nucleotide variant	NM_001320.7(CSNK2B):c.124C>T (p.Gln42Ter)	1460	CSNK2B	Pathogenic	GRCh38	2581063
+single nucleotide variant	NM_001320.7(CSNK2B):c.175+1G>A	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	2628412
+single nucleotide variant	NM_001320.7(CSNK2B):c.13G>T (p.Glu5Ter)	1460	CSNK2B	Pathogenic	GRCh38	2656412
+single nucleotide variant	NM_001320.7(CSNK2B):c.95A>C (p.Asp32Ala)	1460	CSNK2B	Pathogenic	GRCh38	3024534
+single nucleotide variant	NM_001320.7(CSNK2B):c.408C>G (p.Tyr136Ter)	1460	CSNK2B	Pathogenic	GRCh38	3254741
+single nucleotide variant	NM_001320.7(CSNK2B):c.367+1G>C	1460	CSNK2B	Pathogenic	GRCh38	3336864
+single nucleotide variant	NM_001320.7(CSNK2B):c.3G>A (p.Met1Ile)	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	3341965
+single nucleotide variant	NM_001320.7(CSNK2B):c.409T>C (p.Cys137Arg)	1460	CSNK2B	Pathogenic	GRCh38	3342385
+single nucleotide variant	NM_001320.7(CSNK2B):c.558-2A>G	1460	CSNK2B	Pathogenic	GRCh38	3342386
+single nucleotide variant	NM_001320.7(CSNK2B):c.558-2A>C	1460	CSNK2B	Likely pathogenic	GRCh38	3348543
+single nucleotide variant	NM_001320.7(CSNK2B):c.291+1G>A	1460	CSNK2B	Pathogenic/Likely pathogenic	GRCh38	3376371
+single nucleotide variant	NM_001320.7(CSNK2B):c.332G>T (p.Arg111Leu)	1460	CSNK2B	Likely pathogenic	GRCh38	3391794
+single nucleotide variant	NM_001320.7(CSNK2B):c.292-1G>A	1460	CSNK2B	Pathogenic	GRCh38	3776412
+single nucleotide variant	NM_001320.7(CSNK2B):c.326G>A (p.Cys109Tyr)	1460	CSNK2B	Likely pathogenic	GRCh38	3898878
+single nucleotide variant	NM_001320.7(CSNK2B):c.176-2A>C	1460	CSNK2B	Pathogenic	GRCh38	3898901
+single nucleotide variant	NM_001320.7(CSNK2B):c.292-1G>C	1460	CSNK2B	Pathogenic	GRCh38	4056322
+single nucleotide variant	NM_001320.7(CSNK2B):c.58G>T (p.Glu20Ter)	1460	CSNK2B	Pathogenic	GRCh38	4072325
+single nucleotide variant	NM_001320.7(CSNK2B):c.291+5G>A	1460	CSNK2B	Likely pathogenic	GRCh38	4082341
+single nucleotide variant	NM_001320.7(CSNK2B):c.77A>G (p.Asp26Gly)	1460	CSNK2B	Likely pathogenic	GRCh38	4235188
+single nucleotide variant	NM_001320.7(CSNK2B):c.104A>T (p.Asn35Ile)	1460	CSNK2B	Likely pathogenic	GRCh38	4532025
+single nucleotide variant	NM_001320.7(CSNK2B):c.142C>T (p.Gln48Ter)	1460	CSNK2B	Pathogenic	GRCh38	4813315
+single nucleotide variant	NM_001320.7(CSNK2B):c.35G>A (p.Trp12Ter)	1460	CSNK2B	Pathogenic	GRCh38	4833034
+single nucleotide variant	NM_001320.7(CSNK2B):c.558-1G>A	1460	CSNK2B	Likely pathogenic	GRCh38	4851543
+single nucleotide variant	NM_001320.7(CSNK2B):c.609C>T (p.Ala203=)	1460	CSNK2B	Likely pathogenic	GRCh38	4876233
+single nucleotide variant	NM_001320.7(CSNK2B):c.331C>T (p.Arg111Cys)	1460	CSNK2B	Likely pathogenic	GRCh38	4876687
+single nucleotide variant	NM_001320.7(CSNK2B):c.411C>G (p.Cys137Trp)	1460	CSNK2B	Likely pathogenic	GRCh38	4876689
+single nucleotide variant	NM_001320.7(CSNK2B):c.474C>A (p.Tyr158Ter)	1460	CSNK2B	Pathogenic	GRCh38	4879740

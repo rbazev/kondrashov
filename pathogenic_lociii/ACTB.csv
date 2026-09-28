@@ -1,0 +1,117 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001101.5(ACTB):c.547C>T (p.Arg183Trp)	60	ACTB	Pathogenic	GRCh38	18275
+single nucleotide variant	NM_001101.5(ACTB):c.587G>A (p.Arg196His)	60	ACTB	Pathogenic	GRCh38	29599
+single nucleotide variant	NM_001101.5(ACTB):c.586C>T (p.Arg196Cys)	60	ACTB	Pathogenic	GRCh38	29600
+single nucleotide variant	NM_001101.5(ACTB):c.193C>G (p.Leu65Val)	60	ACTB	Pathogenic	GRCh38	29601
+single nucleotide variant	NM_001101.5(ACTB):c.34A>G (p.Asn12Asp)	60	ACTB	Pathogenic	GRCh38	29602
+single nucleotide variant	NM_001101.5(ACTB):c.349G>A (p.Glu117Lys)	60	ACTB	Pathogenic	GRCh38	66051
+single nucleotide variant	NM_001101.5(ACTB):c.220G>A (p.Gly74Ser)	60	ACTB	Likely pathogenic	GRCh38	127163
+single nucleotide variant	NM_001101.5(ACTB):c.224T>C (p.Ile75Thr)	60	ACTB	Likely pathogenic	GRCh38	127164
+single nucleotide variant	NM_001101.5(ACTB):c.34A>C (p.Asn12His)	60	ACTB	Pathogenic	GRCh38	127166
+single nucleotide variant	NM_001101.5(ACTB):c.356T>C (p.Met119Thr)	60	ACTB	Pathogenic	GRCh38	127167
+single nucleotide variant	NM_001101.5(ACTB):c.359C>T (p.Thr120Ile)	60	ACTB	Pathogenic	GRCh38	127168
+single nucleotide variant	NM_001101.5(ACTB):c.446C>T (p.Thr149Ile)	60	ACTB	Pathogenic	GRCh38	127169
+single nucleotide variant	NM_001101.5(ACTB):c.586C>A (p.Arg196Ser)	60	ACTB	Pathogenic	GRCh38	127170
+single nucleotide variant	NM_001101.5(ACTB):c.611C>G (p.Ala204Gly)	60	ACTB	Pathogenic	GRCh38	127171
+single nucleotide variant	NM_001101.5(ACTB):c.625G>A (p.Val209Met)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	127172
+single nucleotide variant	NM_001101.5(ACTB):c.64G>A (p.Ala22Thr)	60	ACTB	Likely pathogenic	GRCh38	128262
+single nucleotide variant	NM_001101.5(ACTB):c.217C>G (p.His73Asp)	60	ACTB	Likely pathogenic	GRCh38	191218
+single nucleotide variant	NM_001101.5(ACTB):c.123+1G>A	60	ACTB	Pathogenic	GRCh38	203375
+single nucleotide variant	NM_001101.5(ACTB):c.802G>C (p.Gly268Arg)	60	ACTB	Pathogenic	GRCh38	264642
+single nucleotide variant	NM_001101.5(ACTB):c.617G>A (p.Arg206Gln)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	265318
+single nucleotide variant	NM_001101.5(ACTB):c.1020G>T (p.Trp340Cys)	60	ACTB	Pathogenic	GRCh38	280619
+single nucleotide variant	NM_001101.5(ACTB):c.597C>G (p.Ser199Arg)	60	ACTB	Likely pathogenic	GRCh38	279938
+single nucleotide variant	NM_001101.5(ACTB):c.1043C>T (p.Ser348Leu)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	279997
+single nucleotide variant	NM_001101.5(ACTB):c.127G>A (p.Val43Met)	60	ACTB	Pathogenic	GRCh38	279939
+single nucleotide variant	NM_001101.5(ACTB):c.479C>T (p.Thr160Ile)	60	ACTB	Likely pathogenic	GRCh38	372917
+single nucleotide variant	NM_001101.5(ACTB):c.1020G>C (p.Trp340Cys)	60	ACTB	Likely pathogenic	GRCh38	372965
+single nucleotide variant	NM_001101.5(ACTB):c.868C>T (p.Arg290Cys)	60	ACTB	Likely pathogenic	GRCh38	372616
+single nucleotide variant	NM_001101.5(ACTB):c.616C>G (p.Arg206Gly)	60	ACTB	Likely pathogenic	GRCh38	372914
+single nucleotide variant	NM_001101.5(ACTB):c.629G>A (p.Arg210His)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	418804
+single nucleotide variant	NM_001101.5(ACTB):c.215A>G (p.Glu72Gly)	60	ACTB	Likely pathogenic	GRCh38	429359
+single nucleotide variant	NM_001101.5(ACTB):c.351G>T (p.Glu117Asp)	60	ACTB	Pathogenic	GRCh38	431099
+single nucleotide variant	NM_001101.5(ACTB):c.1013C>T (p.Ser338Phe)	60	ACTB	Likely pathogenic	GRCh38	438273
+single nucleotide variant	NM_001101.5(ACTB):c.350A>T (p.Glu117Val)	60	ACTB	Pathogenic	GRCh38	438274
+single nucleotide variant	NM_001101.5(ACTB):c.527T>C (p.Leu176Pro)	60	ACTB	Likely pathogenic	GRCh38	446430
+single nucleotide variant	NM_001101.5(ACTB):c.826G>A (p.Glu276Lys)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	449190
+single nucleotide variant	NM_001101.5(ACTB):c.258G>C (p.Trp86Cys)	60	ACTB	Likely pathogenic	GRCh38	451798
+single nucleotide variant	NM_001101.5(ACTB):c.113C>T (p.Pro38Leu)	60	ACTB	Likely pathogenic	GRCh38	466230
+single nucleotide variant	NM_001101.5(ACTB):c.1117A>T (p.Lys373Ter)	60	ACTB	Pathogenic	GRCh38	495295
+single nucleotide variant	NM_001101.5(ACTB):c.217C>T (p.His73Tyr)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	520411
+single nucleotide variant	NM_001101.5(ACTB):c.888C>G (p.Asn296Lys)	60	ACTB	Likely pathogenic	GRCh38	521672
+single nucleotide variant	NM_001101.5(ACTB):c.589G>A (p.Gly197Ser)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	522017
+single nucleotide variant	NM_001101.5(ACTB):c.259C>G (p.His87Asp)	60	ACTB	Pathogenic	GRCh38	521266
+single nucleotide variant	NM_001101.5(ACTB):c.773C>T (p.Pro258Leu)	60	ACTB	Likely pathogenic	GRCh38	545067
+single nucleotide variant	NM_001101.5(ACTB):c.495C>G (p.Ile165Met)	60	ACTB	Likely pathogenic	GRCh38	561747
+single nucleotide variant	NM_001101.5(ACTB):c.19G>A (p.Ala7Thr)	60	ACTB	Likely pathogenic	GRCh38	577358
+single nucleotide variant	NM_001101.5(ACTB):c.219C>G (p.His73Gln)	60	ACTB	Likely pathogenic	GRCh38	620046
+single nucleotide variant	NM_001101.5(ACTB):c.179G>A (p.Ser60Asn)	60	ACTB	Likely pathogenic	GRCh38	638167
+single nucleotide variant	NM_001101.5(ACTB):c.628C>T (p.Arg210Cys)	60	ACTB	Pathogenic	GRCh38	807362
+single nucleotide variant	NM_001101.5(ACTB):c.616C>T (p.Arg206Trp)	60	ACTB	Pathogenic	GRCh38	860924
+single nucleotide variant	NM_001101.5(ACTB):c.1003C>T (p.Arg335Cys)	60	ACTB	Likely pathogenic	GRCh38	871389
+single nucleotide variant	NM_001101.5(ACTB):c.583G>A (p.Glu195Lys)	60	ACTB	Likely pathogenic	GRCh38	871390
+single nucleotide variant	NM_001101.5(ACTB):c.73G>A (p.Asp25Asn)	60	ACTB	Likely pathogenic	GRCh38	916078
+single nucleotide variant	NM_001101.5(ACTB):c.325C>T (p.Pro109Ser)	60	ACTB	Likely pathogenic	GRCh38	917875
+single nucleotide variant	NM_001101.5(ACTB):c.166G>A (p.Asp56Asn)	60	ACTB	Likely pathogenic	GRCh38	932625
+single nucleotide variant	NM_001101.5(ACTB):c.491C>A (p.Pro164His)	60	ACTB	Likely pathogenic	GRCh38	973260
+single nucleotide variant	NM_001101.5(ACTB):c.965C>G (p.Pro322Arg)	60	ACTB	Likely pathogenic	GRCh38	976006
+single nucleotide variant	NM_001101.5(ACTB):c.4G>T (p.Asp2Tyr)	60	ACTB	Likely pathogenic	GRCh38	976684
+single nucleotide variant	NM_001101.5(ACTB):c.931G>C (p.Asp311His)	60	ACTB	Likely pathogenic	GRCh38	982395
+single nucleotide variant	NM_001101.5(ACTB):c.1021A>G (p.Ile341Val)	60	ACTB	Likely pathogenic	GRCh38	985391
+single nucleotide variant	NM_001101.5(ACTB):c.779C>A (p.Ala260Glu)	60	ACTB	Likely pathogenic	GRCh38	985268
+single nucleotide variant	NM_001101.5(ACTB):c.802G>T (p.Gly268Cys)	60	ACTB	Likely pathogenic	GRCh38	989343
+single nucleotide variant	NM_001101.5(ACTB):c.547C>G (p.Arg183Gly)	60	ACTB	Likely pathogenic	GRCh38	989344
+single nucleotide variant	NM_001101.5(ACTB):c.323C>A (p.Ala108Asp)	60	ACTB	Likely pathogenic	GRCh38	1066727
+single nucleotide variant	NM_001101.5(ACTB):c.587G>T (p.Arg196Leu)	60	ACTB	Likely pathogenic	GRCh38	1177326
+single nucleotide variant	NM_001101.5(ACTB):c.118C>T (p.His40Tyr)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	1177325
+single nucleotide variant	NM_001101.5(ACTB):c.70G>A (p.Asp24Asn)	60	ACTB	Likely pathogenic	GRCh38	1177309
+single nucleotide variant	NM_001101.5(ACTB):c.586C>G (p.Arg196Gly)	60	ACTB	Pathogenic	GRCh38	1193058
+single nucleotide variant	NM_001101.5(ACTB):c.158A>G (p.Tyr53Cys)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	1196724
+single nucleotide variant	NM_001101.5(ACTB):c.1045C>G (p.Leu349Val)	60	ACTB	Likely pathogenic	GRCh38	1200439
+single nucleotide variant	NM_001101.5(ACTB):c.484A>G (p.Thr162Ala)	60	ACTB	Pathogenic	GRCh38	1202044
+single nucleotide variant	NM_001101.5(ACTB):c.478A>G (p.Thr160Ala)	60	ACTB	Likely pathogenic	GRCh38	1251980
+single nucleotide variant	NM_001101.5(ACTB):c.142G>T (p.Gly48Cys)	60	ACTB	Likely pathogenic	GRCh38	1320256
+single nucleotide variant	NM_001101.5(ACTB):c.166G>T (p.Asp56Tyr)	60	ACTB	Likely pathogenic	GRCh38	1321972
+single nucleotide variant	NM_001101.5(ACTB):c.439C>T (p.Arg147Cys)	60	ACTB	Pathogenic	GRCh38	1334712
+single nucleotide variant	NM_001101.5(ACTB):c.598T>G (p.Phe200Val)	60	ACTB	Likely pathogenic	GRCh38	1334898
+single nucleotide variant	NM_001101.5(ACTB):c.439C>A (p.Arg147Ser)	60	ACTB	Pathogenic	GRCh38	1344710
+single nucleotide variant	NM_001101.5(ACTB):c.411G>T (p.Gln137His)	60	ACTB	Likely pathogenic	GRCh38	1344711
+single nucleotide variant	NM_001101.5(ACTB):c.437G>C (p.Gly146Ala)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	1344712
+single nucleotide variant	NM_001101.5(ACTB):c.436G>A (p.Gly146Ser)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	1344713
+single nucleotide variant	NM_001101.5(ACTB):c.331A>G (p.Asn111Asp)	60	ACTB	Likely pathogenic	GRCh38	1344714
+single nucleotide variant	NM_001101.5(ACTB):c.141G>A (p.Met47Ile)	60	ACTB	Pathogenic	GRCh38	1685500
+single nucleotide variant	NM_001101.5(ACTB):c.476T>C (p.Val159Ala)	60	ACTB	Likely pathogenic	GRCh38	1695182
+single nucleotide variant	NM_001101.5(ACTB):c.625G>T (p.Val209Leu)	60	ACTB	Likely pathogenic	GRCh38	1700136
+single nucleotide variant	NM_001101.5(ACTB):c.364-3C>G	60	ACTB	Likely pathogenic	GRCh38	1701517
+single nucleotide variant	NM_001101.5(ACTB):c.180C>G (p.Ser60Arg)	60	ACTB	Likely pathogenic	GRCh38	1703499
+single nucleotide variant	NM_001101.5(ACTB):c.602C>T (p.Thr201Ile)	60	ACTB	Likely pathogenic	GRCh38	1805821
+single nucleotide variant	NM_001101.5(ACTB):c.511C>T (p.Leu171Phe)	60	ACTB	Pathogenic/Likely pathogenic	GRCh38	2159436
+single nucleotide variant	NM_001101.5(ACTB):c.220G>T (p.Gly74Cys)	60	ACTB	Pathogenic	GRCh38	2445203
+single nucleotide variant	NM_001101.5(ACTB):c.430G>A (p.Ala144Thr)	60	ACTB	Likely pathogenic	GRCh38	2501314
+single nucleotide variant	NM_001101.5(ACTB):c.905G>C (p.Gly302Ala)	60	ACTB	Pathogenic	GRCh38	2574241
+single nucleotide variant	NM_001101.5(ACTB):c.437G>T (p.Gly146Val)	60	ACTB	Pathogenic	GRCh38	2575112
+single nucleotide variant	NM_001101.5(ACTB):c.437G>A (p.Gly146Asp)	60	ACTB	Pathogenic	GRCh38	2575113
+single nucleotide variant	NM_001101.5(ACTB):c.95C>G (p.Pro32Arg)	60	ACTB	Likely pathogenic	GRCh38	2635166
+single nucleotide variant	NM_001101.5(ACTB):c.355A>G (p.Met119Val)	60	ACTB	Pathogenic	GRCh38	3075716
+single nucleotide variant	NM_001101.5(ACTB):c.814T>C (p.Cys272Arg)	60	ACTB	Likely pathogenic	GRCh38	3075720
+single nucleotide variant	NM_001101.5(ACTB):c.367A>G (p.Met123Val)	60	ACTB	Pathogenic	GRCh38	3252291
+single nucleotide variant	NM_001101.5(ACTB):c.150G>C (p.Lys50Asn)	60	ACTB	Likely pathogenic	GRCh38	3336993
+single nucleotide variant	NM_001101.5(ACTB):c.328C>G (p.Leu110Val)	60	ACTB	Likely pathogenic	GRCh38	3342613
+single nucleotide variant	NM_001101.5(ACTB):c.332A>G (p.Asn111Ser)	60	ACTB	Likely pathogenic	GRCh38	3356875
+single nucleotide variant	NM_001101.5(ACTB):c.1004G>A (p.Arg335His)	60	ACTB	Pathogenic	GRCh38	3369117
+single nucleotide variant	NM_001101.5(ACTB):c.655G>A (p.Val219Ile)	60	ACTB	Likely pathogenic	GRCh38	3376709
+single nucleotide variant	NM_001101.5(ACTB):c.791C>A (p.Pro264His)	60	ACTB	Likely pathogenic	GRCh38	3378018
+single nucleotide variant	NM_001101.5(ACTB):c.1112A>G (p.His371Arg)	60	ACTB	Likely pathogenic	GRCh38	3773846
+single nucleotide variant	NM_001101.5(ACTB):c.214G>A (p.Glu72Lys)	60	ACTB	Pathogenic	GRCh38	3898858
+single nucleotide variant	NM_001101.5(ACTB):c.1051A>G (p.Thr351Ala)	60	ACTB	Pathogenic	GRCh38	3898883
+single nucleotide variant	NM_001101.5(ACTB):c.992C>A (p.Ala331Asp)	60	ACTB	Likely pathogenic	GRCh38	4056392
+single nucleotide variant	NM_001101.5(ACTB):c.733G>C (p.Gly245Arg)	60	ACTB	Likely pathogenic	GRCh38	4085964
+single nucleotide variant	NM_001101.5(ACTB):c.1067G>A (p.Trp356Ter)	60	ACTB	Likely pathogenic	GRCh38	4291104
+single nucleotide variant	NM_001101.5(ACTB):c.208C>A (p.Pro70Thr)	60	ACTB	Pathogenic	GRCh38	4530851
+single nucleotide variant	NM_001101.5(ACTB):c.1045C>A (p.Leu349Met)	60	ACTB	Likely pathogenic	GRCh38	4681092
+single nucleotide variant	NM_001101.5(ACTB):c.434C>G (p.Ser145Cys)	60	ACTB	Likely pathogenic	GRCh38	4681736
+single nucleotide variant	NM_001101.5(ACTB):c.901G>A (p.Gly301Ser)	60	ACTB	Pathogenic	GRCh38	4685516
+single nucleotide variant	NM_001101.5(ACTB):c.915G>A (p.Met305Ile)	60	ACTB	Likely pathogenic	GRCh38	4686181
+single nucleotide variant	NM_001101.5(ACTB):c.793T>A (p.Ser265Thr)	60	ACTB	Likely pathogenic	GRCh38	4689977
+single nucleotide variant	NM_001101.5(ACTB):c.484A>T (p.Thr162Ser)	60	ACTB	Likely pathogenic	GRCh38	4854319
+single nucleotide variant	NM_001101.5(ACTB):c.936G>T (p.Arg312Ser)	60	ACTB	Likely pathogenic	GRCh38	4857233

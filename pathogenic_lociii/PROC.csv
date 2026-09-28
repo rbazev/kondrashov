@@ -1,0 +1,98 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000312.4(PROC):c.1042C>T (p.Arg348Ter)	5624	PROC	Pathogenic	GRCh38	656
+single nucleotide variant	NM_000312.4(PROC):c.1332G>C (p.Trp444Cys)	5624	PROC	Pathogenic	GRCh38	657
+single nucleotide variant	NM_000312.4(PROC):c.631C>T (p.Arg211Trp)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	659
+single nucleotide variant	NM_000312.4(PROC):c.902C>T (p.Ala301Val)	5624	PROC	Likely pathogenic	GRCh38	660
+single nucleotide variant	NM_000312.4(PROC):c.629C>T (p.Pro210Leu)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	661
+single nucleotide variant	NM_000312.4(PROC):c.925G>A (p.Ala309Thr)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	662
+single nucleotide variant	NM_000312.4(PROC):c.1027G>A (p.Gly343Ser)	5624	PROC	Pathogenic	GRCh38	663
+single nucleotide variant	NM_000312.4(PROC):c.185A>C (p.Glu62Ala)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	664
+single nucleotide variant	NM_000312.4(PROC):c.226G>A (p.Val76Met)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	665
+single nucleotide variant	NM_000312.4(PROC):c.866C>T (p.Pro289Leu)	5624	PROC	Pathogenic	GRCh38	667
+single nucleotide variant	NM_000312.4(PROC):c.658C>T (p.Arg220Trp)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	668
+single nucleotide variant	NM_000312.4(PROC):c.659G>A (p.Arg220Gln)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	669
+single nucleotide variant	NM_000312.4(PROC):c.814C>T (p.Arg272Cys)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	671
+single nucleotide variant	NM_000312.4(PROC):c.678G>C (p.Gln226His)	5624	PROC	Pathogenic	GRCh38	674
+single nucleotide variant	NM_000312.4(PROC):c.1335C>G (p.Ile445Met)	5624	PROC	Pathogenic	GRCh38	676
+single nucleotide variant	NM_000312.4(PROC):c.1015G>A (p.Val339Met)	5624	PROC	Pathogenic	GRCh38	677
+single nucleotide variant	NC_000002.12:g.127418425T>C	5624	PROC	Pathogenic	GRCh38	678
+single nucleotide variant	NM_000312.4(PROC):c.446A>C (p.His149Pro)	5624	PROC	Pathogenic	GRCh38	679
+single nucleotide variant	NM_000312.4(PROC):c.935C>T (p.Ser312Leu)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	680
+single nucleotide variant	NM_000312.4(PROC):c.125G>A (p.Arg42His)	5624	PROC	Likely pathogenic	GRCh38	161333
+single nucleotide variant	NM_000312.4(PROC):c.1201G>A (p.Asp401Asn)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	161334
+single nucleotide variant	NM_000312.4(PROC):c.169C>T (p.Arg57Trp)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	188230
+single nucleotide variant	NM_000312.4(PROC):c.352T>C (p.Phe118Leu)	5624	PROC	Likely pathogenic	GRCh38	469122
+single nucleotide variant	NM_000312.4(PROC):c.340G>T (p.Gly114Cys)	5624	PROC	Pathogenic	GRCh38	522437
+single nucleotide variant	NM_000312.4(PROC):c.238-1G>A	5624	PROC	Likely pathogenic	GRCh38	536971
+single nucleotide variant	NM_000312.4(PROC):c.811C>T (p.Arg271Trp)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	536970
+single nucleotide variant	NM_000312.4(PROC):c.1216A>G (p.Met406Val)	5624	PROC	Likely pathogenic	GRCh38	546154
+single nucleotide variant	NM_000312.4(PROC):c.1242G>A (p.Trp414Ter)	5624	PROC	Likely pathogenic	GRCh38	579043
+single nucleotide variant	NM_000312.4(PROC):c.1019C>T (p.Thr340Met)	5624	PROC	Pathogenic	GRCh38	579309
+single nucleotide variant	NM_000312.4(PROC):c.962C>T (p.Pro321Leu)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	568712
+single nucleotide variant	NM_000312.4(PROC):c.199G>A (p.Glu67Lys)	5624	PROC	Likely pathogenic	GRCh38	623191
+single nucleotide variant	NM_000312.4(PROC):c.76G>A (p.Val26Met)	5624	PROC	Likely pathogenic	GRCh38	627133
+single nucleotide variant	NM_000312.4(PROC):c.421T>C (p.Ser141Pro)	5624	PROC	Likely pathogenic	GRCh38	627308
+single nucleotide variant	NM_000312.4(PROC):c.440G>A (p.Cys147Tyr)	5624	PROC	Likely pathogenic	GRCh38	627072
+single nucleotide variant	NM_000312.4(PROC):c.532G>C (p.Ala178Pro)	5624	PROC	Likely pathogenic	GRCh38	627329
+single nucleotide variant	NM_000312.4(PROC):c.715G>A (p.Gly239Arg)	5624	PROC	Likely pathogenic	GRCh38	627365
+single nucleotide variant	NM_000312.4(PROC):c.982C>T (p.Arg328Cys)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	627166
+single nucleotide variant	NM_000312.4(PROC):c.1019C>A (p.Thr340Lys)	5624	PROC	Likely pathogenic	GRCh38	627190
+single nucleotide variant	NM_000312.4(PROC):c.1331G>A (p.Trp444Ter)	5624	PROC	Likely pathogenic	GRCh38	626988
+single nucleotide variant	NM_000312.4(PROC):c.238-2A>G	5624	PROC	Likely pathogenic	GRCh38	627040
+single nucleotide variant	NM_000312.4(PROC):c.797-2A>T	5624	PROC	Likely pathogenic	GRCh38	627139
+single nucleotide variant	NM_000312.4(PROC):c.889G>C (p.Asp297His)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	663591
+single nucleotide variant	NM_000312.4(PROC):c.400+1G>A	5624	PROC	Pathogenic	GRCh38	661205
+single nucleotide variant	NM_000312.4(PROC):c.595C>T (p.Arg199Ter)	5624	PROC	Pathogenic	GRCh38	839161
+single nucleotide variant	NM_000312.4(PROC):c.124C>T (p.Arg42Cys)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	932369
+single nucleotide variant	NM_000312.4(PROC):c.41G>A (p.Trp14Ter)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	972257
+single nucleotide variant	NM_000312.4(PROC):c.862C>T (p.His288Tyr)	5624	PROC	Likely pathogenic	GRCh38	972699
+single nucleotide variant	NM_000312.4(PROC):c.400+2T>C	5624	PROC	Pathogenic	GRCh38	1048662
+single nucleotide variant	NM_000312.4(PROC):c.479G>C (p.Cys160Ser)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	1048663
+single nucleotide variant	NM_000312.4(PROC):c.632G>A (p.Arg211Gln)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	1048661
+single nucleotide variant	NM_000312.4(PROC):c.1099G>A (p.Val367Met)	5624	PROC	Likely pathogenic	GRCh38	1067579
+single nucleotide variant	NM_000312.4(PROC):c.400G>T (p.Glu134Ter)	5624	PROC	Pathogenic	GRCh38	1073999
+single nucleotide variant	NM_000312.4(PROC):c.520C>T (p.Gln174Ter)	5624	PROC	Pathogenic	GRCh38	1074000
+single nucleotide variant	NM_000312.4(PROC):c.561G>A (p.Trp187Ter)	5624	PROC	Pathogenic	GRCh38	1068737
+single nucleotide variant	NM_000312.4(PROC):c.1267G>A (p.Gly423Ser)	5624	PROC	Likely pathogenic	GRCh38	1300143
+single nucleotide variant	NM_000312.4(PROC):c.673T>C (p.Trp225Arg)	5624	PROC	Likely pathogenic	GRCh38	1330274
+single nucleotide variant	NM_000312.4(PROC):c.433G>A (p.Gly145Ser)	5624	PROC	Likely pathogenic	GRCh38	1330281
+single nucleotide variant	NM_000312.4(PROC):c.983G>A (p.Arg328His)	5624	PROC	Likely pathogenic	GRCh38	1330288
+single nucleotide variant	NM_000312.4(PROC):c.541T>G (p.Phe181Val)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	1394296
+single nucleotide variant	NM_000312.4(PROC):c.1218G>A (p.Met406Ile)	5624	PROC	Pathogenic	GRCh38	1427775
+single nucleotide variant	NM_000312.4(PROC):c.675G>A (p.Trp225Ter)	5624	PROC	Pathogenic	GRCh38	1420279
+single nucleotide variant	NM_000312.4(PROC):c.472C>T (p.Arg158Trp)	5624	PROC	Likely pathogenic	GRCh38	1676216
+single nucleotide variant	NM_000312.4(PROC):c.151C>T (p.Arg51Cys)	5624	PROC	Pathogenic	GRCh38	1676815
+single nucleotide variant	NM_000312.4(PROC):c.262+1G>A	5624	PROC	Likely pathogenic	GRCh38	1678107
+single nucleotide variant	NM_000312.4(PROC):c.759C>A (p.His253Gln)	5624	PROC	Likely pathogenic	GRCh38	1684347
+single nucleotide variant	NM_000312.4(PROC):c.752C>A (p.Ala251Glu)	5624	PROC	Likely pathogenic	GRCh38	1684348
+single nucleotide variant	NM_000312.4(PROC):c.508G>T (p.Asp170Tyr)	5624	PROC	Likely pathogenic	GRCh38	1684350
+single nucleotide variant	NM_000312.4(PROC):c.497A>G (p.Tyr166Cys)	5624	PROC	Likely pathogenic	GRCh38	1703787
+single nucleotide variant	NM_000312.4(PROC):c.560G>A (p.Trp187Ter)	5624	PROC	Pathogenic	GRCh38	2203144
+single nucleotide variant	NM_000312.4(PROC):c.790A>G (p.Arg264Gly)	5624	PROC	Likely pathogenic	GRCh38	2203145
+single nucleotide variant	NM_000312.4(PROC):c.94C>T (p.Arg32Cys)	5624	PROC	Pathogenic	GRCh38	1992373
+single nucleotide variant	NM_000312.4(PROC):c.679-2A>G	5624	PROC	Likely pathogenic	GRCh38	2637220
+single nucleotide variant	NM_000312.4(PROC):c.1298G>A (p.Gly433Asp)	5624	PROC	Likely pathogenic	GRCh38	2683256
+single nucleotide variant	NM_000312.4(PROC):c.989T>C (p.Leu330Pro)	5624	PROC	Likely pathogenic	GRCh38	2683966
+single nucleotide variant	NM_000312.4(PROC):c.382G>C (p.Gly128Arg)	5624	PROC	Likely pathogenic	GRCh38	2683970
+single nucleotide variant	NM_000312.4(PROC):c.6G>A (p.Trp2Ter)	5624	PROC	Pathogenic	GRCh38	2700349
+single nucleotide variant	NM_000312.4(PROC):c.400+5G>T	5624	PROC	Pathogenic	GRCh38	2734266
+single nucleotide variant	NM_000312.4(PROC):c.1265G>A (p.Trp422Ter)	5624	PROC	Likely pathogenic	GRCh38	2775426
+single nucleotide variant	NM_000312.4(PROC):c.325G>C (p.Gly109Arg)	5624	PROC	Likely pathogenic	GRCh38	3380946
+single nucleotide variant	NM_000312.4(PROC):c.373G>T (p.Gly125Cys)	5624	PROC	Pathogenic	GRCh38	3380947
+single nucleotide variant	NM_000312.4(PROC):c.378G>A (p.Trp126Ter)	5624	PROC	Likely pathogenic	GRCh38	3380948
+single nucleotide variant	NM_000312.4(PROC):c.900C>G (p.Ile300Met)	5624	PROC	Likely pathogenic	GRCh38	3380951
+single nucleotide variant	NM_000312.4(PROC):c.1117T>C (p.Cys373Arg)	5624	PROC	Likely pathogenic	GRCh38	3384042
+single nucleotide variant	NM_000312.4(PROC):c.360C>A (p.Cys120Ter)	5624	PROC	Pathogenic	GRCh38	3573001
+single nucleotide variant	NM_000312.4(PROC):c.262+5G>A	5624	PROC	Likely pathogenic	GRCh38	3600637
+single nucleotide variant	NM_000312.4(PROC):c.400+2T>A	5624	PROC	Pathogenic	GRCh38	3716585
+single nucleotide variant	NM_000312.4(PROC):c.400+5G>A	5624	PROC	Pathogenic	GRCh38	3720362
+single nucleotide variant	NM_000312.4(PROC):c.436G>T (p.Gly146Cys)	5624	PROC	Likely pathogenic	GRCh38	3899249
+single nucleotide variant	NM_000312.4(PROC):c.1160G>A (p.Cys387Tyr)	5624	PROC	Likely pathogenic	GRCh38	4530635
+single nucleotide variant	NM_000312.4(PROC):c.125G>T (p.Arg42Leu)	5624	PROC	Likely pathogenic	GRCh38	4540665
+single nucleotide variant	NM_000312.4(PROC):c.373G>C (p.Gly125Arg)	5624	PROC	Likely pathogenic	GRCh38	4540668
+single nucleotide variant	NM_000312.4(PROC):c.604G>T (p.Glu202Ter)	5624	PROC	Pathogenic/Likely pathogenic	GRCh38	4540671
+single nucleotide variant	NM_000312.4(PROC):c.1194C>G (p.Cys398Trp)	5624	PROC	Likely pathogenic	GRCh38	4540675
+single nucleotide variant	NM_000312.4(PROC):c.1330T>C (p.Trp444Arg)	5624	PROC	Pathogenic	GRCh38	4540676
+single nucleotide variant	NM_000312.4(PROC):c.318C>A (p.Cys106Ter)	5624	PROC	Pathogenic	GRCh38	4735017
+single nucleotide variant	NM_000312.4(PROC):c.714C>A (p.Cys238Ter)	5624	PROC	Pathogenic	GRCh38	4734045
+single nucleotide variant	NM_000312.4(PROC):c.1183C>T (p.Gln395Ter)	5624	PROC	Likely pathogenic	GRCh38	4882008

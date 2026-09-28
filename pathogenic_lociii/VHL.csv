@@ -13,7 +13,7 @@ single nucleotide variant	NM_000551.4(VHL):c.191G>C (p.Arg64Pro)	7428	VHL	Pathog
 single nucleotide variant	NM_000551.4(VHL):c.334T>A (p.Tyr112Asn)	7428	VHL	Pathogenic	GRCh38	2228
 single nucleotide variant	NM_000551.4(VHL):c.388G>C (p.Val130Leu)	7428	VHL	Pathogenic	GRCh38	2229
 single nucleotide variant	NM_000551.4(VHL):c.376G>T (p.Asp126Tyr)	7428	VHL	Likely pathogenic	GRCh38	2230
-single nucleotide variant	NM_000551.4(VHL):c.488T>C (p.Leu163Pro)	7428	VHL	Likely pathogenic	GRCh38	2231
+single nucleotide variant	NM_000551.4(VHL):c.488T>C (p.Leu163Pro)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	2231
 single nucleotide variant	NM_000551.4(VHL):c.571C>G (p.His191Asp)	7428	VHL	Likely pathogenic	GRCh38	2235
 single nucleotide variant	NM_000551.4(VHL):c.250G>T (p.Val84Leu)	7428	VHL	Pathogenic	GRCh38	2236
 single nucleotide variant	NM_000551.4(VHL):c.277G>A (p.Gly93Ser)	7428	VHL	Pathogenic	GRCh38	2237
@@ -132,7 +132,7 @@ single nucleotide variant	NM_000551.4(VHL):c.245G>T (p.Arg82Leu)	7428	VHL	Pathog
 single nucleotide variant	NM_000551.4(VHL):c.460C>G (p.Pro154Ala)	7428	VHL	Likely pathogenic	GRCh38	526670
 single nucleotide variant	NM_000551.4(VHL):c.463+1G>A	7428	VHL	Pathogenic	GRCh38	526679
 single nucleotide variant	NM_000551.4(VHL):c.193T>C (p.Ser65Pro)	7428	VHL	Pathogenic	GRCh38	547829
-single nucleotide variant	NM_000551.4(VHL):c.344A>C (p.His115Pro)	7428	VHL	Likely pathogenic	GRCh38	560744
+single nucleotide variant	NM_000551.4(VHL):c.344A>C (p.His115Pro)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	560744
 single nucleotide variant	NM_000551.4(VHL):c.264G>C (p.Trp88Cys)	7428	VHL	Pathogenic	GRCh38	580847
 single nucleotide variant	NM_000551.4(VHL):c.340G>A (p.Gly114Ser)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	583094
 single nucleotide variant	NM_000551.4(VHL):c.472C>G (p.Leu158Val)	7428	VHL	Pathogenic	GRCh38	567944
@@ -141,6 +141,7 @@ single nucleotide variant	NM_000551.4(VHL):c.463+2T>C	7428	VHL	Pathogenic/Likely
 single nucleotide variant	NM_000551.4(VHL):c.280G>T (p.Glu94Ter)	7428	VHL	Pathogenic	GRCh38	584477
 single nucleotide variant	NM_000551.4(VHL):c.481C>G (p.Arg161Gly)	7428	VHL	Pathogenic	GRCh38	618484
 single nucleotide variant	NM_000551.4(VHL):c.492G>C (p.Gln164His)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	618485
+single nucleotide variant	NM_000551.4(VHL):c.227T>A (p.Phe76Tyr)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	625224
 single nucleotide variant	NM_000551.4(VHL):c.232A>C (p.Asn78His)	7428	VHL	Pathogenic	GRCh38	625225
 single nucleotide variant	NM_000551.4(VHL):c.232A>G (p.Asn78Asp)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	625226
 single nucleotide variant	NM_000551.4(VHL):c.239G>T (p.Ser80Ile)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	625229
@@ -193,7 +194,7 @@ single nucleotide variant	NM_000551.4(VHL):c.406T>G (p.Phe136Val)	7428	VHL	Patho
 single nucleotide variant	NM_000551.4(VHL):c.335A>C (p.Tyr112Ser)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	1730577
 single nucleotide variant	NM_000551.4(VHL):c.357C>A (p.Phe119Leu)	7428	VHL	Likely pathogenic	GRCh38	1732864
 single nucleotide variant	NM_000551.4(VHL):c.482G>C (p.Arg161Pro)	7428	VHL	Pathogenic	GRCh38	1743417
-single nucleotide variant	NM_000551.4(VHL):c.251T>A (p.Val84Glu)	7428	VHL	Likely pathogenic	GRCh38	1792522
+single nucleotide variant	NM_000551.4(VHL):c.251T>A (p.Val84Glu)	7428	VHL	Pathogenic	GRCh38	1792522
 single nucleotide variant	NM_000551.4(VHL):c.302T>A (p.Leu101Gln)	7428	VHL	Likely pathogenic	GRCh38	1799025
 single nucleotide variant	NM_000551.4(VHL):c.302T>G (p.Leu101Arg)	7428	VHL	Likely pathogenic	GRCh38	1799028
 single nucleotide variant	NM_000551.4(VHL):c.361G>A (p.Asp121Asn)	7428	VHL	Pathogenic	GRCh38	2203306
@@ -222,7 +223,7 @@ single nucleotide variant	NM_000551.4(VHL):c.640T>C (p.Ter214Arg)	7428	VHL	Likel
 single nucleotide variant	NM_000551.4(VHL):c.460C>A (p.Pro154Thr)	7428	VHL	Likely pathogenic	GRCh38	2950212
 single nucleotide variant	NM_000551.4(VHL):c.240T>A (p.Ser80Arg)	7428	VHL	Likely pathogenic	GRCh38	3148494
 single nucleotide variant	NM_000551.4(VHL):c.478G>T (p.Glu160Ter)	7428	VHL	Pathogenic	GRCh38	3232223
-single nucleotide variant	NM_000551.4(VHL):c.462A>T (p.Pro154=)	7428	VHL	Likely pathogenic	GRCh38	3332043
+single nucleotide variant	NM_000551.4(VHL):c.462A>T (p.Pro154=)	7428	VHL	Pathogenic/Likely pathogenic	GRCh38	3332043
 single nucleotide variant	NM_000551.4(VHL):c.341-2A>C	7428	VHL	Pathogenic	GRCh38	3759078
 single nucleotide variant	NM_000551.4(VHL):c.523T>A (p.Tyr175Asn)	7428	VHL	Likely pathogenic	GRCh38	3759082
 single nucleotide variant	NM_000551.4(VHL):c.485G>C (p.Cys162Ser)	7428	VHL	Likely pathogenic	GRCh38	3753900

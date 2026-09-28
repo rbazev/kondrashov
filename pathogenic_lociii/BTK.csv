@@ -229,8 +229,9 @@ single nucleotide variant	NM_000061.3(BTK):c.182T>A (p.Ile61Asn)	695	BTK	Pathoge
 single nucleotide variant	NM_000061.3(BTK):c.1289A>G (p.Lys430Arg)	695	BTK	Likely pathogenic	GRCh38	3901290
 single nucleotide variant	NM_000061.3(BTK):c.1621G>T (p.Gly541Cys)	695	BTK	Likely pathogenic	GRCh38	3906180
 single nucleotide variant	NM_000061.3(BTK):c.588G>C (p.Gln196His)	695	BTK	Likely pathogenic	GRCh38	4081211
-single nucleotide variant	NM_000061.3(BTK):c.1748T>C (p.Phe583Ser)	695	BTK	Pathogenic	GRCh38	4279077
+single nucleotide variant	NM_000061.3(BTK):c.1748T>C (p.Phe583Ser)	695	BTK	Likely pathogenic	GRCh38	4279077
 single nucleotide variant	NM_000061.3(BTK):c.1486C>T (p.Gln496Ter)	695	BTK	Pathogenic	GRCh38	4279078
+single nucleotide variant	NM_000061.3(BTK):c.1909-2A>G	695	BTK	Likely pathogenic	GRCh38	4461014
 single nucleotide variant	NM_000061.3(BTK):c.974+1G>T	695	BTK	Pathogenic	GRCh38	4461065
 single nucleotide variant	NM_000061.3(BTK):c.1767A>T (p.Glu589Asp)	695	BTK	Likely pathogenic	GRCh38	4710825
 single nucleotide variant	NM_000061.3(BTK):c.1535T>A (p.Leu512Gln)	695	BTK	Likely pathogenic	GRCh38	4710827
@@ -243,3 +244,5 @@ single nucleotide variant	NM_000061.3(BTK):c.862C>G (p.Arg288Gly)	695	BTK	Pathog
 single nucleotide variant	NM_000061.3(BTK):c.1881T>A (p.Tyr627Ter)	695	BTK	Likely pathogenic	GRCh38	4796635
 single nucleotide variant	NM_000061.3(BTK):c.1A>G (p.Met1Val)	695	BTK	Likely pathogenic	GRCh38	4850862
 single nucleotide variant	NM_000061.3(BTK):c.1563C>A (p.Asp521Glu)	695	BTK	Likely pathogenic	GRCh38	4854933
+single nucleotide variant	NM_000061.3(BTK):c.1902G>A (p.Trp634Ter)	695	BTK	Likely pathogenic	GRCh38	4887997
+single nucleotide variant	NM_000061.3(BTK):c.1844G>A (p.Arg615His)	695	BTK	Likely pathogenic	GRCh38	4890746

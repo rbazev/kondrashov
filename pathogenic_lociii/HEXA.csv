@@ -68,6 +68,7 @@ single nucleotide variant	NM_000520.6(HEXA):c.459+4A>C	3073	HEXA	Pathogenic	GRCh
 single nucleotide variant	NM_000520.6(HEXA):c.316C>T (p.Gln106Ter)	3073	HEXA	Pathogenic/Likely pathogenic	GRCh38	375349
 single nucleotide variant	NM_000520.6(HEXA):c.155C>A (p.Ser52Ter)	3073	HEXA	Pathogenic	GRCh38	379311
 single nucleotide variant	NM_000520.6(HEXA):c.530C>G (p.Ser177Cys)	3073	HEXA	Likely pathogenic	GRCh38	421021
+single nucleotide variant	NM_000520.6(HEXA):c.931G>T (p.Val311Phe)	3073	HEXA	Likely pathogenic	GRCh38	431791
 single nucleotide variant	NM_000520.6(HEXA):c.233G>A (p.Trp78Ter)	3073	HEXA	Pathogenic/Likely pathogenic	GRCh38	453185
 single nucleotide variant	NM_000520.6(HEXA):c.460-1G>T	3073	HEXA	Pathogenic/Likely pathogenic	GRCh38	496011
 single nucleotide variant	NM_000520.6(HEXA):c.187G>T (p.Glu63Ter)	3073	HEXA	Pathogenic/Likely pathogenic	GRCh38	496010
@@ -206,3 +207,8 @@ single nucleotide variant	NM_000520.6(HEXA):c.672+1G>C	3073	HEXA	Pathogenic	GRCh
 single nucleotide variant	NM_000520.6(HEXA):c.681C>G (p.Tyr227Ter)	3073	HEXA	Pathogenic	GRCh38	4814271
 single nucleotide variant	NM_000520.6(HEXA):c.798G>A (p.Trp266Ter)	3073	HEXA	Likely pathogenic	GRCh38	4814274
 single nucleotide variant	NM_000520.6(HEXA):c.894T>A (p.Tyr298Ter)	3073	HEXA	Likely pathogenic	GRCh38	4814276
+single nucleotide variant	NM_000520.6(HEXA):c.634C>A (p.Pro212Thr)	3073	HEXA	Pathogenic	GRCh38	4884842
+single nucleotide variant	NM_000520.6(HEXA):c.781G>A (p.Gly261Ser)	3073	HEXA	Likely pathogenic	GRCh38	4890147
+single nucleotide variant	NM_000520.6(HEXA):c.254-34G>C	3073	HEXA	Likely pathogenic	GRCh38	4890149
+single nucleotide variant	NM_000520.6(HEXA):c.1269C>G (p.Asn423Lys)	3073	HEXA	Likely pathogenic	GRCh38	4890440
+single nucleotide variant	NM_000520.6(HEXA):c.772G>A (p.Asp258Asn)	3073	HEXA	Pathogenic	GRCh38	4890491

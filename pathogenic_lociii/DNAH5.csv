@@ -1,0 +1,571 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001369.3(DNAH5):c.10555G>C (p.Gly3519Arg)	1767	DNAH5	Likely pathogenic	GRCh38	6478
+single nucleotide variant	NM_001369.3(DNAH5):c.1828C>T (p.Gln610Ter)	1767	DNAH5	Pathogenic	GRCh38	6480
+single nucleotide variant	NM_001369.3(DNAH5):c.3139G>A (p.Gly1047Arg)	1767	DNAH5	Pathogenic	GRCh38	39652
+single nucleotide variant	NM_001369.3(DNAH5):c.1730G>C (p.Arg577Thr)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	65637
+single nucleotide variant	NM_001369.3(DNAH5):c.8998C>T (p.Arg3000Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	188388
+single nucleotide variant	NM_001369.3(DNAH5):c.4348C>T (p.Gln1450Ter)	1767	DNAH5	Pathogenic	GRCh38	208992
+single nucleotide variant	NM_001369.3(DNAH5):c.13126-2A>C	1767	DNAH5	Pathogenic	GRCh38	216084
+single nucleotide variant	NM_001369.3(DNAH5):c.10616G>A (p.Arg3539His)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	216542
+single nucleotide variant	NM_001369.3(DNAH5):c.9502C>T (p.Arg3168Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	216085
+single nucleotide variant	NM_001369.3(DNAH5):c.5557A>T (p.Lys1853Ter)	1767	DNAH5	Pathogenic	GRCh38	220581
+single nucleotide variant	NM_001369.3(DNAH5):c.5281C>T (p.Arg1761Ter)	1767	DNAH5	Pathogenic	GRCh38	220475
+single nucleotide variant	NM_001369.3(DNAH5):c.6249G>A (p.Met2083Ile)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	228251
+single nucleotide variant	NM_001369.3(DNAH5):c.10384C>T (p.Gln3462Ter)	1767	DNAH5	Pathogenic	GRCh38	238953
+single nucleotide variant	NM_001369.3(DNAH5):c.10226G>C (p.Trp3409Ser)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	238952
+single nucleotide variant	NM_001369.3(DNAH5):c.9986T>C (p.Leu3329Pro)	1767	DNAH5	Likely pathogenic	GRCh38	238991
+single nucleotide variant	NM_001369.3(DNAH5):c.8029C>T (p.Arg2677Ter)	1767	DNAH5	Pathogenic	GRCh38	238987
+single nucleotide variant	NM_001369.3(DNAH5):c.7034G>A (p.Trp2345Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	238985
+single nucleotide variant	NM_001369.3(DNAH5):c.5290T>C (p.Ser1764Pro)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	238980
+single nucleotide variant	NM_001369.3(DNAH5):c.5114+1G>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	238978
+single nucleotide variant	NM_001369.3(DNAH5):c.10441C>T (p.Arg3481Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	265361
+single nucleotide variant	NM_001369.3(DNAH5):c.6791G>A (p.Ser2264Asn)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	351068
+single nucleotide variant	NM_001369.3(DNAH5):c.5177T>C (p.Leu1726Pro)	1767	DNAH5	Pathogenic	GRCh38	369664
+single nucleotide variant	NM_001369.3(DNAH5):c.6688-1G>T	1767	DNAH5	Pathogenic	GRCh38	379701
+single nucleotide variant	NM_001369.3(DNAH5):c.13486C>T (p.Arg4496Ter)	1767	DNAH5	Pathogenic	GRCh38	407248
+single nucleotide variant	NM_001369.3(DNAH5):c.12265C>T (p.Gln4089Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	407227
+single nucleotide variant	NM_001369.3(DNAH5):c.5983C>T (p.Arg1995Ter)	1767	DNAH5	Pathogenic	GRCh38	407220
+single nucleotide variant	NM_001369.3(DNAH5):c.11725C>T (p.Arg3909Ter)	1767	DNAH5	Pathogenic	GRCh38	407242
+single nucleotide variant	NM_001369.3(DNAH5):c.6304C>T (p.Arg2102Cys)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	407218
+single nucleotide variant	NM_001369.3(DNAH5):c.13331G>A (p.Trp4444Ter)	1767	DNAH5	Pathogenic	GRCh38	407247
+single nucleotide variant	NM_001369.3(DNAH5):c.8465G>A (p.Trp2822Ter)	1767	DNAH5	Pathogenic	GRCh38	407212
+single nucleotide variant	NM_001369.3(DNAH5):c.4053+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	407245
+single nucleotide variant	NM_001369.3(DNAH5):c.2533C>T (p.Gln845Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	407232
+single nucleotide variant	NM_001369.3(DNAH5):c.8821-1G>C	1767	DNAH5	Pathogenic	GRCh38	407209
+single nucleotide variant	NM_001369.3(DNAH5):c.8314C>T (p.Arg2772Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	407217
+single nucleotide variant	NM_001369.3(DNAH5):c.559G>T (p.Glu187Ter)	1767	DNAH5	Pathogenic	GRCh38	407216
+single nucleotide variant	NM_001369.3(DNAH5):c.6427G>T (p.Glu2143Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	422000
+single nucleotide variant	NM_001369.3(DNAH5):c.5647C>T (p.Arg1883Ter)	1767	DNAH5	Pathogenic	GRCh38	430011
+single nucleotide variant	NM_001369.3(DNAH5):c.5118C>G (p.Tyr1706Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454780
+single nucleotide variant	NM_001369.3(DNAH5):c.3943G>T (p.Glu1315Ter)	1767	DNAH5	Pathogenic	GRCh38	454773
+single nucleotide variant	NM_001369.3(DNAH5):c.11211+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	454730
+single nucleotide variant	NM_001369.3(DNAH5):c.9720+5G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454819
+single nucleotide variant	NM_001369.3(DNAH5):c.1611C>G (p.Tyr537Ter)	1767	DNAH5	Pathogenic	GRCh38	454753
+single nucleotide variant	NM_001369.3(DNAH5):c.1432C>T (p.Arg478Ter)	1767	DNAH5	Pathogenic	GRCh38	454748
+single nucleotide variant	NM_001369.3(DNAH5):c.2710G>T (p.Glu904Ter)	1767	DNAH5	Pathogenic	GRCh38	454760
+single nucleotide variant	NM_001369.3(DNAH5):c.13426C>T (p.Arg4476Ter)	1767	DNAH5	Pathogenic	GRCh38	454743
+single nucleotide variant	NM_001369.3(DNAH5):c.8498G>A (p.Arg2833His)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454809
+single nucleotide variant	NM_001369.3(DNAH5):c.6763C>T (p.Arg2255Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454795
+single nucleotide variant	NM_001369.3(DNAH5):c.6037C>T (p.Arg2013Ter)	1767	DNAH5	Pathogenic	GRCh38	454789
+single nucleotide variant	NM_001369.3(DNAH5):c.5482C>T (p.Gln1828Ter)	1767	DNAH5	Pathogenic	GRCh38	454783
+single nucleotide variant	NM_001369.3(DNAH5):c.5146C>T (p.Arg1716Trp)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454781
+single nucleotide variant	NM_001369.3(DNAH5):c.13633T>C (p.Trp4545Arg)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454745
+single nucleotide variant	NM_001369.3(DNAH5):c.10858C>T (p.Arg3620Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454728
+single nucleotide variant	NM_001369.3(DNAH5):c.5710-2A>G	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454788
+single nucleotide variant	NM_001369.3(DNAH5):c.4796+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	454777
+single nucleotide variant	NM_001369.3(DNAH5):c.2224C>T (p.Arg742Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454757
+single nucleotide variant	NM_001369.3(DNAH5):c.349G>T (p.Glu117Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	454767
+single nucleotide variant	NM_001369.3(DNAH5):c.6000C>A (p.Tyr2000Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	488401
+single nucleotide variant	NM_001369.3(DNAH5):c.7915C>T (p.Arg2639Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	520775
+single nucleotide variant	NM_001369.3(DNAH5):c.3598+2T>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	520776
+single nucleotide variant	NM_001369.3(DNAH5):c.12586C>T (p.Gln4196Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525310
+single nucleotide variant	NM_001369.3(DNAH5):c.252T>G (p.Tyr84Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525260
+single nucleotide variant	NM_001369.3(DNAH5):c.11653C>T (p.Arg3885Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525218
+single nucleotide variant	NM_001369.3(DNAH5):c.8528T>C (p.Phe2843Ser)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525375
+single nucleotide variant	NM_001369.3(DNAH5):c.12614G>T (p.Gly4205Val)	1767	DNAH5	Pathogenic	GRCh38	525262
+single nucleotide variant	NM_001369.3(DNAH5):c.10615C>T (p.Arg3539Cys)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525386
+single nucleotide variant	NM_001369.3(DNAH5):c.8404C>T (p.Gln2802Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	525390
+single nucleotide variant	NM_001369.3(DNAH5):c.7096C>T (p.Arg2366Trp)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	548646
+single nucleotide variant	NM_001369.3(DNAH5):c.12617G>A (p.Trp4206Ter)	1767	DNAH5	Pathogenic	GRCh38	557901
+single nucleotide variant	NM_001369.3(DNAH5):c.12910-1G>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	566788
+single nucleotide variant	NM_001369.3(DNAH5):c.9897+1G>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	568873
+single nucleotide variant	NM_001369.3(DNAH5):c.5059C>T (p.Gln1687Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	576377
+single nucleotide variant	NM_001369.3(DNAH5):c.13346G>A (p.Trp4449Ter)	1767	DNAH5	Pathogenic	GRCh38	571327
+single nucleotide variant	NM_001369.3(DNAH5):c.9374-2A>T	1767	DNAH5	Pathogenic	GRCh38	578638
+single nucleotide variant	NM_001369.3(DNAH5):c.9235C>T (p.Arg3079Ter)	1767	DNAH5	Pathogenic	GRCh38	575414
+single nucleotide variant	NM_001369.3(DNAH5):c.5198C>A (p.Ser1733Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	577598
+single nucleotide variant	NM_001369.3(DNAH5):c.1089+1G>A	1767	DNAH5	Pathogenic	GRCh38	572984
+single nucleotide variant	NM_001369.3(DNAH5):c.11907G>A (p.Trp3969Ter)	1767	DNAH5	Pathogenic	GRCh38	566769
+single nucleotide variant	NM_001369.3(DNAH5):c.8449G>T (p.Asp2817Tyr)	1767	DNAH5	Likely pathogenic	GRCh38	572150
+single nucleotide variant	NM_001369.3(DNAH5):c.2984-2A>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	578086
+single nucleotide variant	NM_001369.3(DNAH5):c.2260-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	566548
+single nucleotide variant	NM_001369.3(DNAH5):c.997C>T (p.Arg333Ter)	1767	DNAH5	Pathogenic	GRCh38	573133
+single nucleotide variant	NM_001369.3(DNAH5):c.193-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	582484
+single nucleotide variant	NM_001369.3(DNAH5):c.13338+5G>A	1767	DNAH5	Pathogenic	GRCh38	572293
+single nucleotide variant	NM_001369.3(DNAH5):c.12499+2T>G	1767	DNAH5	Likely pathogenic	GRCh38	573364
+single nucleotide variant	NM_001369.3(DNAH5):c.6444G>A (p.Gln2148=)	1767	DNAH5	Pathogenic	GRCh38	576446
+single nucleotide variant	NM_001369.3(DNAH5):c.439-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	571328
+single nucleotide variant	NM_001369.3(DNAH5):c.4797-1G>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	595076
+single nucleotide variant	NM_001369.3(DNAH5):c.271G>T (p.Glu91Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	596293
+single nucleotide variant	NM_001369.3(DNAH5):c.12631G>T (p.Glu4211Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	660339
+single nucleotide variant	NM_001369.3(DNAH5):c.11804C>A (p.Ser3935Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	659274
+single nucleotide variant	NM_001369.3(DNAH5):c.9694C>T (p.Gln3232Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	663927
+single nucleotide variant	NM_001369.3(DNAH5):c.9534C>A (p.Tyr3178Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	652322
+single nucleotide variant	NM_001369.3(DNAH5):c.9480T>A (p.Cys3160Ter)	1767	DNAH5	Pathogenic	GRCh38	652346
+single nucleotide variant	NM_001369.3(DNAH5):c.9124C>T (p.Arg3042Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	643375
+single nucleotide variant	NM_001369.3(DNAH5):c.8383C>T (p.Arg2795Ter)	1767	DNAH5	Pathogenic	GRCh38	655872
+single nucleotide variant	NM_001369.3(DNAH5):c.8167C>T (p.Gln2723Ter)	1767	DNAH5	Pathogenic	GRCh38	665164
+single nucleotide variant	NM_001369.3(DNAH5):c.7985C>G (p.Pro2662Arg)	1767	DNAH5	Pathogenic	GRCh38	640838
+single nucleotide variant	NM_001369.3(DNAH5):c.5266G>T (p.Glu1756Ter)	1767	DNAH5	Pathogenic	GRCh38	661125
+single nucleotide variant	NM_001369.3(DNAH5):c.5162C>G (p.Ser1721Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	653170
+single nucleotide variant	NM_001369.3(DNAH5):c.5037T>A (p.Cys1679Ter)	1767	DNAH5	Pathogenic	GRCh38	658359
+single nucleotide variant	NM_001369.3(DNAH5):c.5036G>A (p.Cys1679Tyr)	1767	DNAH5	Likely pathogenic	GRCh38	643092
+single nucleotide variant	NM_001369.3(DNAH5):c.1915C>T (p.Gln639Ter)	1767	DNAH5	Pathogenic	GRCh38	642659
+single nucleotide variant	NM_001369.3(DNAH5):c.1852C>T (p.Arg618Ter)	1767	DNAH5	Pathogenic	GRCh38	644218
+single nucleotide variant	NM_001369.3(DNAH5):c.11029-2A>T	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	645014
+single nucleotide variant	NM_001369.3(DNAH5):c.9105+2T>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	658843
+single nucleotide variant	NM_001369.3(DNAH5):c.5883-2A>G	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	662265
+single nucleotide variant	NM_001369.3(DNAH5):c.12499+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	660214
+single nucleotide variant	NM_001369.3(DNAH5):c.13285C>T (p.Arg4429Ter)	1767	DNAH5	Pathogenic	GRCh38	856680
+single nucleotide variant	NM_001369.3(DNAH5):c.12779A>T (p.Asp4260Val)	1767	DNAH5	Likely pathogenic	GRCh38	855850
+single nucleotide variant	NM_001369.3(DNAH5):c.12287G>A (p.Trp4096Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	839512
+single nucleotide variant	NM_001369.3(DNAH5):c.10930G>T (p.Gly3644Ter)	1767	DNAH5	Pathogenic	GRCh38	844652
+single nucleotide variant	NM_001369.3(DNAH5):c.9346C>T (p.Arg3116Ter)	1767	DNAH5	Pathogenic	GRCh38	861235
+single nucleotide variant	NM_001369.3(DNAH5):c.6682A>T (p.Arg2228Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	839328
+single nucleotide variant	NM_001369.3(DNAH5):c.4360C>T (p.Arg1454Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	853579
+single nucleotide variant	NM_001369.3(DNAH5):c.3484C>T (p.Gln1162Ter)	1767	DNAH5	Pathogenic	GRCh38	852814
+single nucleotide variant	NM_001369.3(DNAH5):c.2734G>T (p.Glu912Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	854037
+single nucleotide variant	NM_001369.3(DNAH5):c.1054G>T (p.Glu352Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	855983
+single nucleotide variant	NM_001369.3(DNAH5):c.2744-1G>T	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	853580
+single nucleotide variant	NM_001369.3(DNAH5):c.12973C>T (p.Gln4325Ter)	1767	DNAH5	Pathogenic	GRCh38	869372
+single nucleotide variant	NM_001369.3(DNAH5):c.4643T>C (p.Leu1548Pro)	1767	DNAH5	Likely pathogenic	GRCh38	869371
+single nucleotide variant	NM_001369.3(DNAH5):c.13413G>A (p.Trp4471Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	915438
+single nucleotide variant	NM_001369.3(DNAH5):c.3949C>T (p.Gln1317Ter)	1767	DNAH5	Pathogenic	GRCh38	916124
+single nucleotide variant	NM_001369.3(DNAH5):c.12813G>A (p.Trp4271Ter)	1767	DNAH5	Pathogenic	GRCh38	948603
+single nucleotide variant	NM_001369.3(DNAH5):c.11941G>T (p.Glu3981Ter)	1767	DNAH5	Pathogenic	GRCh38	947457
+single nucleotide variant	NM_001369.3(DNAH5):c.11536C>T (p.Gln3846Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	944438
+single nucleotide variant	NM_001369.3(DNAH5):c.3912T>G (p.Tyr1304Ter)	1767	DNAH5	Pathogenic	GRCh38	949718
+single nucleotide variant	NM_001369.3(DNAH5):c.2050C>T (p.Gln684Ter)	1767	DNAH5	Pathogenic	GRCh38	948524
+single nucleotide variant	NM_001369.3(DNAH5):c.886A>T (p.Lys296Ter)	1767	DNAH5	Pathogenic	GRCh38	952727
+single nucleotide variant	NM_001369.3(DNAH5):c.13443G>A (p.Trp4481Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	941715
+single nucleotide variant	NM_001369.3(DNAH5):c.12495T>A (p.Tyr4165Ter)	1767	DNAH5	Pathogenic	GRCh38	941016
+single nucleotide variant	NM_001369.3(DNAH5):c.11026A>T (p.Lys3676Ter)	1767	DNAH5	Pathogenic	GRCh38	940958
+single nucleotide variant	NM_001369.3(DNAH5):c.9778C>T (p.Gln3260Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	943165
+single nucleotide variant	NM_001369.3(DNAH5):c.5147G>C (p.Arg1716Pro)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	934373
+single nucleotide variant	NM_001369.3(DNAH5):c.5131C>T (p.Arg1711Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	939448
+single nucleotide variant	NM_001369.3(DNAH5):c.9373+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	935108
+single nucleotide variant	NM_001369.3(DNAH5):c.7888-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	942784
+single nucleotide variant	NM_001369.3(DNAH5):c.2578-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	939043
+single nucleotide variant	NM_001369.3(DNAH5):c.193-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	951636
+single nucleotide variant	NM_001369.3(DNAH5):c.58-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	947532
+single nucleotide variant	NM_001369.3(DNAH5):c.12107G>A (p.Trp4036Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	953233
+single nucleotide variant	NM_001369.3(DNAH5):c.11263A>T (p.Arg3755Ter)	1767	DNAH5	Pathogenic	GRCh38	961693
+single nucleotide variant	NM_001369.3(DNAH5):c.8966C>G (p.Ser2989Ter)	1767	DNAH5	Pathogenic	GRCh38	953205
+single nucleotide variant	NM_001369.3(DNAH5):c.7276C>T (p.Gln2426Ter)	1767	DNAH5	Pathogenic	GRCh38	964432
+single nucleotide variant	NM_001369.3(DNAH5):c.5658C>G (p.Tyr1886Ter)	1767	DNAH5	Pathogenic	GRCh38	958471
+single nucleotide variant	NM_001369.3(DNAH5):c.3259C>T (p.Gln1087Ter)	1767	DNAH5	Pathogenic	GRCh38	959237
+single nucleotide variant	NM_001369.3(DNAH5):c.670C>T (p.Arg224Ter)	1767	DNAH5	Pathogenic	GRCh38	954107
+single nucleotide variant	NM_001369.3(DNAH5):c.13159C>T (p.Gln4387Ter)	1767	DNAH5	Pathogenic	GRCh38	970016
+single nucleotide variant	NM_001369.3(DNAH5):c.9065C>A (p.Ser3022Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	968888
+single nucleotide variant	NM_001369.3(DNAH5):c.6445-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	954562
+single nucleotide variant	NM_001369.3(DNAH5):c.2260-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	954807
+single nucleotide variant	NM_001369.3(DNAH5):c.6444+1G>A	1767	DNAH5	Pathogenic	GRCh38	970097
+single nucleotide variant	NM_001369.3(DNAH5):c.6657C>A (p.Tyr2219Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	977589
+single nucleotide variant	NM_001369.3(DNAH5):c.6308C>A (p.Ser2103Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	977578
+single nucleotide variant	NM_001369.3(DNAH5):c.11028+2T>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	993030
+single nucleotide variant	NM_001369.3(DNAH5):c.7967T>C (p.Ile2656Thr)	1767	DNAH5	Likely pathogenic	GRCh38	1012296
+single nucleotide variant	NM_001369.3(DNAH5):c.6088T>G (p.Cys2030Gly)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1016659
+single nucleotide variant	NM_001369.3(DNAH5):c.12907C>T (p.Gln4303Ter)	1767	DNAH5	Pathogenic	GRCh38	1027908
+single nucleotide variant	NM_001369.3(DNAH5):c.13774C>T (p.Arg4592Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1066064
+single nucleotide variant	NM_001369.3(DNAH5):c.13338+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	1067811
+single nucleotide variant	NM_001369.3(DNAH5):c.12909+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	1067310
+single nucleotide variant	NM_001369.3(DNAH5):c.11761+2T>A	1767	DNAH5	Likely pathogenic	GRCh38	1066039
+single nucleotide variant	NM_001369.3(DNAH5):c.11570+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	1067755
+single nucleotide variant	NM_001369.3(DNAH5):c.11028+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	1067363
+single nucleotide variant	NM_001369.3(DNAH5):c.9897+1G>A	1767	DNAH5	Pathogenic	GRCh38	1066241
+single nucleotide variant	NM_001369.3(DNAH5):c.6841+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	1068110
+single nucleotide variant	NM_001369.3(DNAH5):c.6250-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	1068398
+single nucleotide variant	NM_001369.3(DNAH5):c.4054-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1066157
+single nucleotide variant	NM_001369.3(DNAH5):c.1321-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	1066563
+single nucleotide variant	NM_001369.3(DNAH5):c.12238G>T (p.Glu4080Ter)	1767	DNAH5	Pathogenic	GRCh38	1076292
+single nucleotide variant	NM_001369.3(DNAH5):c.10825C>T (p.Gln3609Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1072564
+single nucleotide variant	NM_001369.3(DNAH5):c.9877G>T (p.Glu3293Ter)	1767	DNAH5	Pathogenic	GRCh38	1073261
+single nucleotide variant	NM_001369.3(DNAH5):c.9799C>T (p.Gln3267Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1075777
+single nucleotide variant	NM_001369.3(DNAH5):c.9399T>A (p.Tyr3133Ter)	1767	DNAH5	Pathogenic	GRCh38	1070339
+single nucleotide variant	NM_001369.3(DNAH5):c.9280A>T (p.Lys3094Ter)	1767	DNAH5	Pathogenic	GRCh38	1073922
+single nucleotide variant	NM_001369.3(DNAH5):c.8821-1G>T	1767	DNAH5	Pathogenic	GRCh38	1076155
+single nucleotide variant	NM_001369.3(DNAH5):c.8250T>A (p.Cys2750Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1072716
+single nucleotide variant	NM_001369.3(DNAH5):c.7821T>G (p.Tyr2607Ter)	1767	DNAH5	Pathogenic	GRCh38	1076690
+single nucleotide variant	NM_001369.3(DNAH5):c.7616G>A (p.Trp2539Ter)	1767	DNAH5	Pathogenic	GRCh38	1075804
+single nucleotide variant	NM_001369.3(DNAH5):c.7407+1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1073312
+single nucleotide variant	NM_001369.3(DNAH5):c.5883-1G>C	1767	DNAH5	Pathogenic	GRCh38	1070599
+single nucleotide variant	NM_001369.3(DNAH5):c.5883-1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1070301
+single nucleotide variant	NM_001369.3(DNAH5):c.5769C>G (p.Tyr1923Ter)	1767	DNAH5	Pathogenic	GRCh38	1069728
+single nucleotide variant	NM_001369.3(DNAH5):c.4596+1G>T	1767	DNAH5	Pathogenic	GRCh38	1073093
+single nucleotide variant	NM_001369.3(DNAH5):c.4201C>T (p.Gln1401Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1069152
+single nucleotide variant	NM_001369.3(DNAH5):c.4084C>T (p.Gln1362Ter)	1767	DNAH5	Pathogenic	GRCh38	1075787
+single nucleotide variant	NM_001369.3(DNAH5):c.3529C>T (p.Gln1177Ter)	1767	DNAH5	Pathogenic	GRCh38	1074724
+single nucleotide variant	NM_001369.3(DNAH5):c.2752G>T (p.Glu918Ter)	1767	DNAH5	Pathogenic	GRCh38	1070080
+single nucleotide variant	NM_001369.3(DNAH5):c.2660T>A (p.Leu887Ter)	1767	DNAH5	Pathogenic	GRCh38	1074838
+single nucleotide variant	NM_001369.3(DNAH5):c.1326C>G (p.Tyr442Ter)	1767	DNAH5	Pathogenic	GRCh38	1070742
+single nucleotide variant	NM_001369.3(DNAH5):c.985G>T (p.Glu329Ter)	1767	DNAH5	Pathogenic	GRCh38	1076200
+single nucleotide variant	NM_001369.3(DNAH5):c.980G>A (p.Trp327Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1072105
+single nucleotide variant	NM_001369.3(DNAH5):c.768C>A (p.Cys256Ter)	1767	DNAH5	Pathogenic	GRCh38	1072335
+single nucleotide variant	NM_001369.3(DNAH5):c.2052+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	1185018
+single nucleotide variant	NM_001369.3(DNAH5):c.5122G>T (p.Glu1708Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814897
+single nucleotide variant	NM_001369.3(DNAH5):c.4597-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1324270
+single nucleotide variant	NM_001369.3(DNAH5):c.8032C>T (p.Gln2678Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1335571
+single nucleotide variant	NM_001369.3(DNAH5):c.6988+2T>C	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1344585
+single nucleotide variant	NM_001369.3(DNAH5):c.1731-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	1344586
+single nucleotide variant	NM_001369.3(DNAH5):c.4117-2A>G	1767	DNAH5	Pathogenic	GRCh38	1344587
+single nucleotide variant	NM_001369.3(DNAH5):c.12009G>A (p.Trp4003Ter)	1767	DNAH5	Pathogenic	GRCh38	1344588
+single nucleotide variant	NM_001369.3(DNAH5):c.11571-1G>A	1767	DNAH5	Pathogenic	GRCh38	1344886
+single nucleotide variant	NM_001369.3(DNAH5):c.12397G>T (p.Glu4133Ter)	1767	DNAH5	Pathogenic	GRCh38	1344889
+single nucleotide variant	NM_001369.3(DNAH5):c.12500-1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1411300
+single nucleotide variant	NM_001369.3(DNAH5):c.5926G>T (p.Gly1976Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1385038
+single nucleotide variant	NM_001369.3(DNAH5):c.7288G>T (p.Glu2430Ter)	1767	DNAH5	Pathogenic	GRCh38	1439187
+single nucleotide variant	NM_001369.3(DNAH5):c.5827C>T (p.Gln1943Ter)	1767	DNAH5	Pathogenic	GRCh38	1439363
+single nucleotide variant	NM_001369.3(DNAH5):c.4597-1G>T	1767	DNAH5	Likely pathogenic	GRCh38	1496251
+single nucleotide variant	NM_001369.3(DNAH5):c.8225-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	1525444
+single nucleotide variant	NM_001369.3(DNAH5):c.6757A>T (p.Arg2253Ter)	1767	DNAH5	Pathogenic	GRCh38	1358586
+single nucleotide variant	NM_001369.3(DNAH5):c.9379G>T (p.Glu3127Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1452490
+single nucleotide variant	NM_001369.3(DNAH5):c.1933C>T (p.Gln645Ter)	1767	DNAH5	Pathogenic	GRCh38	1426761
+single nucleotide variant	NM_001369.3(DNAH5):c.6453T>A (p.Tyr2151Ter)	1767	DNAH5	Pathogenic	GRCh38	1453964
+single nucleotide variant	NM_001369.3(DNAH5):c.3184C>T (p.Gln1062Ter)	1767	DNAH5	Pathogenic	GRCh38	1415900
+single nucleotide variant	NM_001369.3(DNAH5):c.1569C>G (p.Tyr523Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1443203
+single nucleotide variant	NM_001369.3(DNAH5):c.8000G>A (p.Trp2667Ter)	1767	DNAH5	Pathogenic	GRCh38	1362173
+single nucleotide variant	NM_001369.3(DNAH5):c.8386G>C (p.Asp2796His)	1767	DNAH5	Likely pathogenic	GRCh38	1345928
+single nucleotide variant	NM_001369.3(DNAH5):c.7888-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1512742
+single nucleotide variant	NM_001369.3(DNAH5):c.7369C>T (p.Gln2457Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1361077
+single nucleotide variant	NM_001369.3(DNAH5):c.3675C>G (p.Tyr1225Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1444914
+single nucleotide variant	NM_001369.3(DNAH5):c.850C>T (p.Arg284Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1402806
+single nucleotide variant	NM_001369.3(DNAH5):c.9018C>T (p.Gly3006=)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1457372
+single nucleotide variant	NM_001369.3(DNAH5):c.2113G>T (p.Glu705Ter)	1767	DNAH5	Pathogenic	GRCh38	1457477
+single nucleotide variant	NM_001369.3(DNAH5):c.12664C>T (p.Gln4222Ter)	1767	DNAH5	Pathogenic	GRCh38	1457737
+single nucleotide variant	NM_001369.3(DNAH5):c.12500-14A>G	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1470815
+single nucleotide variant	NM_001369.3(DNAH5):c.9606-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	1498621
+single nucleotide variant	NM_001369.3(DNAH5):c.11761G>C (p.Gly3921Arg)	1767	DNAH5	Pathogenic	GRCh38	1501628
+single nucleotide variant	NM_001369.3(DNAH5):c.12716G>A (p.Trp4239Ter)	1767	DNAH5	Pathogenic	GRCh38	1367750
+single nucleotide variant	NM_001369.3(DNAH5):c.3262+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1502803
+single nucleotide variant	NM_001369.3(DNAH5):c.4636C>T (p.Gln1546Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1392045
+single nucleotide variant	NM_001369.3(DNAH5):c.3598+1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1366452
+single nucleotide variant	NM_001369.3(DNAH5):c.2983+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1506753
+single nucleotide variant	NM_001369.3(DNAH5):c.4078A>T (p.Lys1360Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1453484
+single nucleotide variant	NM_001369.3(DNAH5):c.6442C>T (p.Gln2148Ter)	1767	DNAH5	Pathogenic	GRCh38	1451397
+single nucleotide variant	NM_001369.3(DNAH5):c.4053+1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1490579
+single nucleotide variant	NM_001369.3(DNAH5):c.8821-1G>A	1767	DNAH5	Pathogenic	GRCh38	1452166
+single nucleotide variant	NM_001369.3(DNAH5):c.5485-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	1508586
+single nucleotide variant	NM_001369.3(DNAH5):c.6739C>T (p.Gln2247Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1455026
+single nucleotide variant	NM_001369.3(DNAH5):c.3457G>T (p.Glu1153Ter)	1767	DNAH5	Pathogenic	GRCh38	1455127
+single nucleotide variant	NM_001369.3(DNAH5):c.9975C>A (p.Cys3325Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1454439
+single nucleotide variant	NM_001369.3(DNAH5):c.10522C>T (p.Gln3508Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1454716
+single nucleotide variant	NM_001369.3(DNAH5):c.1342A>T (p.Lys448Ter)	1767	DNAH5	Pathogenic	GRCh38	1453560
+single nucleotide variant	NM_001369.3(DNAH5):c.9427A>T (p.Lys3143Ter)	1767	DNAH5	Pathogenic	GRCh38	1453822
+single nucleotide variant	NM_001369.3(DNAH5):c.13746C>A (p.Tyr4582Ter)	1767	DNAH5	Pathogenic	GRCh38	1456645
+single nucleotide variant	NM_001369.3(DNAH5):c.1627C>T (p.Gln543Ter)	1767	DNAH5	Pathogenic	GRCh38	1456357
+single nucleotide variant	NM_001369.3(DNAH5):c.4270G>T (p.Glu1424Ter)	1767	DNAH5	Pathogenic	GRCh38	1358360
+single nucleotide variant	NM_001369.3(DNAH5):c.12495T>G (p.Tyr4165Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1458474
+single nucleotide variant	NM_001369.3(DNAH5):c.10348G>T (p.Glu3450Ter)	1767	DNAH5	Pathogenic	GRCh38	1458102
+single nucleotide variant	NM_001369.3(DNAH5):c.5883-2A>C	1767	DNAH5	Pathogenic	GRCh38	1458108
+single nucleotide variant	NM_001369.3(DNAH5):c.7774C>T (p.Gln2592Ter)	1767	DNAH5	Pathogenic	GRCh38	1351626
+single nucleotide variant	NM_001369.3(DNAH5):c.3443G>A (p.Trp1148Ter)	1767	DNAH5	Pathogenic	GRCh38	1458706
+single nucleotide variant	NM_001369.3(DNAH5):c.10508G>A (p.Trp3503Ter)	1767	DNAH5	Pathogenic	GRCh38	1458959
+single nucleotide variant	NM_001369.3(DNAH5):c.5147G>T (p.Arg1716Leu)	1767	DNAH5	Pathogenic	GRCh38	1458963
+single nucleotide variant	NM_001369.3(DNAH5):c.4237C>T (p.Gln1413Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1458964
+single nucleotide variant	NM_001369.3(DNAH5):c.10051C>T (p.Gln3351Ter)	1767	DNAH5	Pathogenic	GRCh38	1409064
+single nucleotide variant	NM_001369.3(DNAH5):c.232C>T (p.Arg78Ter)	1767	DNAH5	Pathogenic	GRCh38	1353292
+single nucleotide variant	NM_001369.3(DNAH5):c.6962G>A (p.Trp2321Ter)	1767	DNAH5	Pathogenic	GRCh38	1353510
+single nucleotide variant	NM_001369.3(DNAH5):c.9682G>T (p.Glu3228Ter)	1767	DNAH5	Pathogenic	GRCh38	1407771
+single nucleotide variant	NM_001369.3(DNAH5):c.10872+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1490795
+single nucleotide variant	NM_001369.3(DNAH5):c.3262+2T>G	1767	DNAH5	Likely pathogenic	GRCh38	1520318
+single nucleotide variant	NM_001369.3(DNAH5):c.12033+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1520327
+single nucleotide variant	NM_001369.3(DNAH5):c.10324C>T (p.Gln3442Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1676811
+single nucleotide variant	NM_001369.3(DNAH5):c.8624T>A (p.Leu2875Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1723949
+single nucleotide variant	NM_001369.3(DNAH5):c.8044C>T (p.Gln2682Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1723986
+single nucleotide variant	NM_001369.3(DNAH5):c.3082G>T (p.Glu1028Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724027
+single nucleotide variant	NM_001369.3(DNAH5):c.10201G>T (p.Gly3401Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724031
+single nucleotide variant	NM_001369.3(DNAH5):c.11380G>T (p.Glu3794Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724185
+single nucleotide variant	NM_001369.3(DNAH5):c.9781A>T (p.Lys3261Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724253
+single nucleotide variant	NM_001369.3(DNAH5):c.4547T>A (p.Leu1516Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724333
+single nucleotide variant	NM_001369.3(DNAH5):c.1291A>T (p.Lys431Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724334
+single nucleotide variant	NM_001369.3(DNAH5):c.8058T>A (p.Tyr2686Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724436
+single nucleotide variant	NM_001369.3(DNAH5):c.6574A>T (p.Lys2192Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724591
+single nucleotide variant	NM_001369.3(DNAH5):c.2278C>T (p.Gln760Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724628
+single nucleotide variant	NM_001369.3(DNAH5):c.6083G>A (p.Trp2028Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1724802
+single nucleotide variant	NM_001369.3(DNAH5):c.2087T>A (p.Leu696Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724847
+single nucleotide variant	NM_001369.3(DNAH5):c.3152G>A (p.Trp1051Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724898
+single nucleotide variant	NM_001369.3(DNAH5):c.8370T>A (p.Tyr2790Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724905
+single nucleotide variant	NM_001369.3(DNAH5):c.8993T>A (p.Leu2998Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1724965
+single nucleotide variant	NM_001369.3(DNAH5):c.10289T>A (p.Leu3430Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725099
+single nucleotide variant	NM_001369.3(DNAH5):c.5593G>T (p.Glu1865Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725137
+single nucleotide variant	NM_001369.3(DNAH5):c.4874G>A (p.Trp1625Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725155
+single nucleotide variant	NM_001369.3(DNAH5):c.8691T>A (p.Tyr2897Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725159
+single nucleotide variant	NM_001369.3(DNAH5):c.7677T>A (p.Tyr2559Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725218
+single nucleotide variant	NM_001369.3(DNAH5):c.2780C>A (p.Ser927Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725315
+single nucleotide variant	NM_001369.3(DNAH5):c.9292A>T (p.Arg3098Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725343
+single nucleotide variant	NM_001369.3(DNAH5):c.11938G>T (p.Glu3980Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725394
+single nucleotide variant	NM_001369.3(DNAH5):c.9139G>T (p.Glu3047Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725436
+single nucleotide variant	NM_001369.3(DNAH5):c.8321G>A (p.Trp2774Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725445
+single nucleotide variant	NM_001369.3(DNAH5):c.8161A>T (p.Lys2721Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725482
+single nucleotide variant	NM_001369.3(DNAH5):c.8068A>T (p.Lys2690Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725531
+single nucleotide variant	NM_001369.3(DNAH5):c.9555T>A (p.Tyr3185Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725632
+single nucleotide variant	NM_001369.3(DNAH5):c.141T>A (p.Cys47Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725675
+single nucleotide variant	NM_001369.3(DNAH5):c.11668G>T (p.Glu3890Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725836
+single nucleotide variant	NM_001369.3(DNAH5):c.2947A>T (p.Lys983Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725850
+single nucleotide variant	NM_001369.3(DNAH5):c.8743C>T (p.Gln2915Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725854
+single nucleotide variant	NM_001369.3(DNAH5):c.12298C>T (p.Gln4100Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725906
+single nucleotide variant	NM_001369.3(DNAH5):c.3880G>T (p.Glu1294Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725925
+single nucleotide variant	NM_001369.3(DNAH5):c.12478G>T (p.Gly4160Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725950
+single nucleotide variant	NM_001369.3(DNAH5):c.5458G>T (p.Glu1820Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1725976
+single nucleotide variant	NM_001369.3(DNAH5):c.11203G>T (p.Glu3735Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726189
+single nucleotide variant	NM_001369.3(DNAH5):c.4018C>T (p.Gln1340Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726213
+single nucleotide variant	NM_001369.3(DNAH5):c.11857A>T (p.Arg3953Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726280
+single nucleotide variant	NM_001369.3(DNAH5):c.9620T>A (p.Leu3207Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726306
+single nucleotide variant	NM_001369.3(DNAH5):c.4304C>A (p.Ser1435Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726435
+single nucleotide variant	NM_001369.3(DNAH5):c.8659G>T (p.Glu2887Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726448
+single nucleotide variant	NM_001369.3(DNAH5):c.10771G>T (p.Gly3591Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726522
+single nucleotide variant	NM_001369.3(DNAH5):c.2188G>T (p.Glu730Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726547
+single nucleotide variant	NM_001369.3(DNAH5):c.4896G>A (p.Trp1632Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1726572
+single nucleotide variant	NM_001369.3(DNAH5):c.8001G>A (p.Trp2667Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726666
+single nucleotide variant	NM_001369.3(DNAH5):c.7240A>T (p.Lys2414Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726697
+single nucleotide variant	NM_001369.3(DNAH5):c.9766A>T (p.Lys3256Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726702
+single nucleotide variant	NM_001369.3(DNAH5):c.3799C>T (p.Gln1267Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726720
+single nucleotide variant	NM_001369.3(DNAH5):c.4648C>T (p.Gln1550Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1726801
+single nucleotide variant	NM_001369.3(DNAH5):c.2382G>A (p.Trp794Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726810
+single nucleotide variant	NM_001369.3(DNAH5):c.1411G>T (p.Gly471Ter)	1767	DNAH5	Likely pathogenic	GRCh38	1726959
+single nucleotide variant	NM_001369.3(DNAH5):c.4257C>A (p.Tyr1419Ter)	1767	DNAH5	Pathogenic	GRCh38	1739132
+single nucleotide variant	NM_001369.3(DNAH5):c.5389C>T (p.Gln1797Ter)	1767	DNAH5	Pathogenic	GRCh38	1747204
+single nucleotide variant	NM_001369.3(DNAH5):c.5902C>T (p.Gln1968Ter)	1767	DNAH5	Pathogenic	GRCh38	1750415
+single nucleotide variant	NM_001369.3(DNAH5):c.506C>A (p.Ser169Ter)	1767	DNAH5	Pathogenic	GRCh38	1745145
+single nucleotide variant	NM_001369.3(DNAH5):c.6898C>T (p.Gln2300Ter)	1767	DNAH5	Pathogenic	GRCh38	1756016
+single nucleotide variant	NM_001369.3(DNAH5):c.7610-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	1759795
+single nucleotide variant	NM_001369.3(DNAH5):c.8311C>T (p.Arg2771Cys)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1762881
+single nucleotide variant	NM_001369.3(DNAH5):c.8396G>C (p.Arg2799Pro)	1767	DNAH5	Likely pathogenic	GRCh38	1763200
+single nucleotide variant	NM_001369.3(DNAH5):c.8751T>G (p.Tyr2917Ter)	1767	DNAH5	Pathogenic	GRCh38	1764543
+single nucleotide variant	NM_001369.3(DNAH5):c.9679A>T (p.Lys3227Ter)	1767	DNAH5	Pathogenic	GRCh38	1767750
+single nucleotide variant	NM_001369.3(DNAH5):c.8010+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1761647
+single nucleotide variant	NM_001369.3(DNAH5):c.13332G>A (p.Trp4444Ter)	1767	DNAH5	Pathogenic	GRCh38	1770191
+single nucleotide variant	NM_001369.3(DNAH5):c.1534C>T (p.Gln512Ter)	1767	DNAH5	Pathogenic	GRCh38	1774694
+single nucleotide variant	NM_001369.3(DNAH5):c.2599C>T (p.Gln867Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1793603
+single nucleotide variant	NM_001369.3(DNAH5):c.2577+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2153494
+single nucleotide variant	NM_001369.3(DNAH5):c.13729C>T (p.Arg4577Ter)	1767	DNAH5	Pathogenic	GRCh38	2160128
+single nucleotide variant	NM_001369.3(DNAH5):c.2432-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	2162993
+single nucleotide variant	NM_001369.3(DNAH5):c.4664G>A (p.Trp1555Ter)	1767	DNAH5	Pathogenic	GRCh38	2151996
+single nucleotide variant	NM_001369.3(DNAH5):c.5710-6T>A	1767	DNAH5	Likely pathogenic	GRCh38	2173363
+single nucleotide variant	NM_001369.3(DNAH5):c.10138G>T (p.Glu3380Ter)	1767	DNAH5	Pathogenic	GRCh38	2163607
+single nucleotide variant	NM_001369.3(DNAH5):c.2137C>T (p.Gln713Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2165549
+single nucleotide variant	NM_001369.3(DNAH5):c.3304C>T (p.Gln1102Ter)	1767	DNAH5	Pathogenic	GRCh38	2184117
+single nucleotide variant	NM_001369.3(DNAH5):c.12409C>T (p.Gln4137Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1910494
+single nucleotide variant	NM_001369.3(DNAH5):c.12279+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1916262
+single nucleotide variant	NM_001369.3(DNAH5):c.9106-1G>A	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1929362
+single nucleotide variant	NM_001369.3(DNAH5):c.6061+1G>A	1767	DNAH5	Pathogenic	GRCh38	1929363
+single nucleotide variant	NM_001369.3(DNAH5):c.12705+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	1928835
+single nucleotide variant	NM_001369.3(DNAH5):c.13465C>T (p.Gln4489Ter)	1767	DNAH5	Pathogenic	GRCh38	1938123
+single nucleotide variant	NM_001369.3(DNAH5):c.9489T>G (p.Tyr3163Ter)	1767	DNAH5	Pathogenic	GRCh38	1938163
+single nucleotide variant	NM_001369.3(DNAH5):c.7596T>A (p.Tyr2532Ter)	1767	DNAH5	Pathogenic	GRCh38	1955231
+single nucleotide variant	NM_001369.3(DNAH5):c.6025C>T (p.Gln2009Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1964002
+single nucleotide variant	NM_001369.3(DNAH5):c.13491+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1966403
+single nucleotide variant	NM_001369.3(DNAH5):c.7753-1G>T	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	1980917
+single nucleotide variant	NM_001369.3(DNAH5):c.6841+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	1984485
+single nucleotide variant	NM_001369.3(DNAH5):c.2090T>A (p.Leu697Ter)	1767	DNAH5	Pathogenic	GRCh38	1984360
+single nucleotide variant	NM_001369.3(DNAH5):c.5114+1G>A	1767	DNAH5	Pathogenic	GRCh38	1996683
+single nucleotide variant	NM_001369.3(DNAH5):c.6754C>T (p.Gln2252Ter)	1767	DNAH5	Pathogenic	GRCh38	2004256
+single nucleotide variant	NM_001369.3(DNAH5):c.11810G>A (p.Trp3937Ter)	1767	DNAH5	Pathogenic	GRCh38	2012423
+single nucleotide variant	NM_001369.3(DNAH5):c.11389C>T (p.Gln3797Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2011819
+single nucleotide variant	NM_001369.3(DNAH5):c.4597-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	2015354
+single nucleotide variant	NM_001369.3(DNAH5):c.12280-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2022115
+single nucleotide variant	NM_001369.3(DNAH5):c.6494T>A (p.Leu2165Ter)	1767	DNAH5	Pathogenic	GRCh38	2022279
+single nucleotide variant	NM_001369.3(DNAH5):c.7610-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2020107
+single nucleotide variant	NM_001369.3(DNAH5):c.1989C>A (p.Tyr663Ter)	1767	DNAH5	Pathogenic	GRCh38	2020323
+single nucleotide variant	NM_001369.3(DNAH5):c.8951+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2023383
+single nucleotide variant	NM_001369.3(DNAH5):c.1198-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2023614
+single nucleotide variant	NM_001369.3(DNAH5):c.7625G>A (p.Trp2542Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2030564
+single nucleotide variant	NM_001369.3(DNAH5):c.10556-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2046235
+single nucleotide variant	NM_001369.3(DNAH5):c.3175-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2046386
+single nucleotide variant	NM_001369.3(DNAH5):c.3918G>A (p.Trp1306Ter)	1767	DNAH5	Pathogenic	GRCh38	2045998
+single nucleotide variant	NM_001369.3(DNAH5):c.4290T>A (p.Tyr1430Ter)	1767	DNAH5	Pathogenic	GRCh38	2087517
+single nucleotide variant	NM_001369.3(DNAH5):c.655G>T (p.Glu219Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2076380
+single nucleotide variant	NM_001369.3(DNAH5):c.3917G>A (p.Trp1306Ter)	1767	DNAH5	Pathogenic	GRCh38	2091060
+single nucleotide variant	NM_001369.3(DNAH5):c.10963G>T (p.Glu3655Ter)	1767	DNAH5	Pathogenic	GRCh38	2101515
+single nucleotide variant	NM_001369.3(DNAH5):c.8225-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2097476
+single nucleotide variant	NM_001369.3(DNAH5):c.2431+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2096840
+single nucleotide variant	NM_001369.3(DNAH5):c.12109G>T (p.Glu4037Ter)	1767	DNAH5	Pathogenic	GRCh38	2113199
+single nucleotide variant	NM_001369.3(DNAH5):c.9897+1G>T	1767	DNAH5	Pathogenic	GRCh38	2112684
+single nucleotide variant	NM_001369.3(DNAH5):c.8755G>T (p.Glu2919Ter)	1767	DNAH5	Pathogenic	GRCh38	2118310
+single nucleotide variant	NM_001369.3(DNAH5):c.7408-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2118357
+single nucleotide variant	NM_001369.3(DNAH5):c.9373+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2123133
+single nucleotide variant	NM_001369.3(DNAH5):c.10555+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2439863
+single nucleotide variant	NM_001369.3(DNAH5):c.1731-1G>C	1767	DNAH5	Pathogenic	GRCh38	2442557
+single nucleotide variant	NM_001369.3(DNAH5):c.13338+5G>C	1767	DNAH5	Pathogenic	GRCh38	2502279
+single nucleotide variant	NM_001369.3(DNAH5):c.12493T>C (p.Tyr4165His)	1767	DNAH5	Pathogenic	GRCh38	2505515
+single nucleotide variant	NM_001369.3(DNAH5):c.12072T>A (p.Tyr4024Ter)	1767	DNAH5	Likely pathogenic	GRCh38	2630883
+single nucleotide variant	NM_001369.3(DNAH5):c.57+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2635774
+single nucleotide variant	NM_001369.3(DNAH5):c.2052+3G>T	1767	DNAH5	Likely pathogenic	GRCh38	2671846
+single nucleotide variant	NM_001369.3(DNAH5):c.3599-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	2671847
+single nucleotide variant	NM_001369.3(DNAH5):c.12705+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2693401
+single nucleotide variant	NM_001369.3(DNAH5):c.5399T>A (p.Leu1800Ter)	1767	DNAH5	Pathogenic	GRCh38	2694897
+single nucleotide variant	NM_001369.3(DNAH5):c.1717A>T (p.Lys573Ter)	1767	DNAH5	Pathogenic	GRCh38	2696631
+single nucleotide variant	NM_001369.3(DNAH5):c.10420-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2700114
+single nucleotide variant	NM_001369.3(DNAH5):c.6580-1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2700155
+single nucleotide variant	NM_001369.3(DNAH5):c.6165T>A (p.Cys2055Ter)	1767	DNAH5	Pathogenic	GRCh38	2698136
+single nucleotide variant	NM_001369.3(DNAH5):c.1924C>T (p.Gln642Ter)	1767	DNAH5	Pathogenic	GRCh38	2703175
+single nucleotide variant	NM_001369.3(DNAH5):c.2431+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2694169
+single nucleotide variant	NM_001369.3(DNAH5):c.8010+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	2695780
+single nucleotide variant	NM_001369.3(DNAH5):c.13602T>A (p.Tyr4534Ter)	1767	DNAH5	Pathogenic	GRCh38	2701022
+single nucleotide variant	NM_001369.3(DNAH5):c.11923A>T (p.Lys3975Ter)	1767	DNAH5	Pathogenic	GRCh38	2707469
+single nucleotide variant	NM_001369.3(DNAH5):c.10399C>T (p.Gln3467Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2719308
+single nucleotide variant	NM_001369.3(DNAH5):c.5659G>T (p.Glu1887Ter)	1767	DNAH5	Pathogenic	GRCh38	2715182
+single nucleotide variant	NM_001369.3(DNAH5):c.11884-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	2705935
+single nucleotide variant	NM_001369.3(DNAH5):c.9721-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	2721414
+single nucleotide variant	NM_001369.3(DNAH5):c.325A>T (p.Lys109Ter)	1767	DNAH5	Pathogenic	GRCh38	2726717
+single nucleotide variant	NM_001369.3(DNAH5):c.7097G>A (p.Arg2366Gln)	1767	DNAH5	Pathogenic	GRCh38	2724558
+single nucleotide variant	NM_001369.3(DNAH5):c.8497C>A (p.Arg2833Ser)	1767	DNAH5	Pathogenic	GRCh38	2726506
+single nucleotide variant	NM_001369.3(DNAH5):c.13412G>A (p.Trp4471Ter)	1767	DNAH5	Pathogenic	GRCh38	2736495
+single nucleotide variant	NM_001369.3(DNAH5):c.8648-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	2746497
+single nucleotide variant	NM_001369.3(DNAH5):c.2259+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2744680
+single nucleotide variant	NM_001369.3(DNAH5):c.1090-2A>C	1767	DNAH5	Likely pathogenic	GRCh38	2743996
+single nucleotide variant	NM_001369.3(DNAH5):c.9606-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2754758
+single nucleotide variant	NM_001369.3(DNAH5):c.3834+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2760153
+single nucleotide variant	NM_001369.3(DNAH5):c.7420G>T (p.Glu2474Ter)	1767	DNAH5	Pathogenic	GRCh38	2761828
+single nucleotide variant	NM_001369.3(DNAH5):c.12500-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	2753988
+single nucleotide variant	NM_001369.3(DNAH5):c.4488G>A (p.Trp1496Ter)	1767	DNAH5	Pathogenic	GRCh38	2757587
+single nucleotide variant	NM_001369.3(DNAH5):c.5485-1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2753473
+single nucleotide variant	NM_001369.3(DNAH5):c.640C>T (p.Gln214Ter)	1767	DNAH5	Pathogenic	GRCh38	2771558
+single nucleotide variant	NM_001369.3(DNAH5):c.10735C>T (p.Gln3579Ter)	1767	DNAH5	Pathogenic	GRCh38	2766702
+single nucleotide variant	NM_001369.3(DNAH5):c.11211+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	2764548
+single nucleotide variant	NM_001369.3(DNAH5):c.7647C>G (p.Tyr2549Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2767687
+single nucleotide variant	NM_001369.3(DNAH5):c.13018C>T (p.Gln4340Ter)	1767	DNAH5	Pathogenic	GRCh38	2787374
+single nucleotide variant	NM_001369.3(DNAH5):c.10870C>T (p.Gln3624Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2798378
+single nucleotide variant	NM_001369.3(DNAH5):c.12262C>T (p.Gln4088Ter)	1767	DNAH5	Pathogenic	GRCh38	2792757
+single nucleotide variant	NM_001369.3(DNAH5):c.13338+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2801720
+single nucleotide variant	NM_001369.3(DNAH5):c.5271+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2801353
+single nucleotide variant	NM_001369.3(DNAH5):c.9530C>A (p.Ser3177Ter)	1767	DNAH5	Pathogenic	GRCh38	2810799
+single nucleotide variant	NM_001369.3(DNAH5):c.8030G>C (p.Arg2677Pro)	1767	DNAH5	Likely pathogenic	GRCh38	2812193
+single nucleotide variant	NM_001369.3(DNAH5):c.12673C>T (p.Gln4225Ter)	1767	DNAH5	Pathogenic	GRCh38	2815385
+single nucleotide variant	NM_001369.3(DNAH5):c.9019A>T (p.Lys3007Ter)	1767	DNAH5	Pathogenic	GRCh38	2810874
+single nucleotide variant	NM_001369.3(DNAH5):c.8875G>T (p.Gly2959Ter)	1767	DNAH5	Pathogenic	GRCh38	2810917
+single nucleotide variant	NM_001369.3(DNAH5):c.2577+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2816396
+single nucleotide variant	NM_001369.3(DNAH5):c.1645-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	2818470
+single nucleotide variant	NM_001369.3(DNAH5):c.3263-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	2826270
+single nucleotide variant	NM_001369.3(DNAH5):c.10900A>T (p.Arg3634Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2834349
+single nucleotide variant	NM_001369.3(DNAH5):c.4087G>T (p.Glu1363Ter)	1767	DNAH5	Pathogenic	GRCh38	2836211
+single nucleotide variant	NM_001369.3(DNAH5):c.3444G>A (p.Trp1148Ter)	1767	DNAH5	Pathogenic	GRCh38	2842460
+single nucleotide variant	NM_001369.3(DNAH5):c.1320+2T>C	1767	DNAH5	Pathogenic	GRCh38	2833714
+single nucleotide variant	NM_001369.3(DNAH5):c.8848G>T (p.Gly2950Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2844734
+single nucleotide variant	NM_001369.3(DNAH5):c.12630C>A (p.Tyr4210Ter)	1767	DNAH5	Pathogenic	GRCh38	2849691
+single nucleotide variant	NM_001369.3(DNAH5):c.5272-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2852992
+single nucleotide variant	NM_001369.3(DNAH5):c.4117-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2849467
+single nucleotide variant	NM_001369.3(DNAH5):c.6430C>T (p.Gln2144Ter)	1767	DNAH5	Pathogenic	GRCh38	2855884
+single nucleotide variant	NM_001369.3(DNAH5):c.694A>T (p.Lys232Ter)	1767	DNAH5	Pathogenic	GRCh38	2843900
+single nucleotide variant	NM_001369.3(DNAH5):c.11455+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	2845007
+single nucleotide variant	NM_001369.3(DNAH5):c.6356T>A (p.Leu2119Ter)	1767	DNAH5	Pathogenic	GRCh38	2847033
+single nucleotide variant	NM_001369.3(DNAH5):c.4054-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	2864685
+single nucleotide variant	NM_001369.3(DNAH5):c.2052+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	2866024
+single nucleotide variant	NM_001369.3(DNAH5):c.8272G>T (p.Glu2758Ter)	1767	DNAH5	Pathogenic	GRCh38	2866200
+single nucleotide variant	NM_001369.3(DNAH5):c.9339G>A (p.Trp3113Ter)	1767	DNAH5	Pathogenic	GRCh38	2871903
+single nucleotide variant	NM_001369.3(DNAH5):c.10996A>T (p.Arg3666Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2872583
+single nucleotide variant	NM_001369.3(DNAH5):c.798+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	2881411
+single nucleotide variant	NM_001369.3(DNAH5):c.2744-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	2885732
+single nucleotide variant	NM_001369.3(DNAH5):c.10616G>C (p.Arg3539Pro)	1767	DNAH5	Likely pathogenic	GRCh38	2897799
+single nucleotide variant	NM_001369.3(DNAH5):c.2440G>T (p.Glu814Ter)	1767	DNAH5	Pathogenic	GRCh38	2904785
+single nucleotide variant	NM_001369.3(DNAH5):c.6261T>G (p.Tyr2087Ter)	1767	DNAH5	Pathogenic	GRCh38	2913476
+single nucleotide variant	NM_001369.3(DNAH5):c.12205G>T (p.Glu4069Ter)	1767	DNAH5	Pathogenic	GRCh38	2969916
+single nucleotide variant	NM_001369.3(DNAH5):c.1047T>A (p.Tyr349Ter)	1767	DNAH5	Pathogenic	GRCh38	2969938
+single nucleotide variant	NM_001369.3(DNAH5):c.4936A>T (p.Lys1646Ter)	1767	DNAH5	Pathogenic	GRCh38	2971455
+single nucleotide variant	NM_001369.3(DNAH5):c.3514C>T (p.Gln1172Ter)	1767	DNAH5	Pathogenic	GRCh38	2971456
+single nucleotide variant	NM_001369.3(DNAH5):c.9286C>T (p.Arg3096Ter)	1767	DNAH5	Pathogenic	GRCh38	2973140
+single nucleotide variant	NM_001369.3(DNAH5):c.7469G>A (p.Trp2490Ter)	1767	DNAH5	Pathogenic	GRCh38	2982243
+single nucleotide variant	NM_001369.3(DNAH5):c.870G>A (p.Trp290Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	2996715
+single nucleotide variant	NM_001369.3(DNAH5):c.10420-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	3004395
+single nucleotide variant	NM_001369.3(DNAH5):c.3784G>T (p.Glu1262Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	3019112
+single nucleotide variant	NM_001369.3(DNAH5):c.5953G>C (p.Gly1985Arg)	1767	DNAH5	Likely pathogenic	GRCh38	3030734
+single nucleotide variant	NM_001369.3(DNAH5):c.1320+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3067821
+single nucleotide variant	NM_001369.3(DNAH5):c.1536+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	3344980
+single nucleotide variant	NM_001369.3(DNAH5):c.2259+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	3346856
+single nucleotide variant	NM_001369.3(DNAH5):c.817C>T (p.Gln273Ter)	1767	DNAH5	Pathogenic	GRCh38	3374755
+single nucleotide variant	NM_001369.3(DNAH5):c.4985G>A (p.Trp1662Ter)	1767	DNAH5	Pathogenic	GRCh38	3382806
+single nucleotide variant	NM_001369.3(DNAH5):c.13141C>T (p.Gln4381Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591755
+single nucleotide variant	NM_001369.3(DNAH5):c.13126-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	3591756
+single nucleotide variant	NM_001369.3(DNAH5):c.11883+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3591760
+single nucleotide variant	NM_001369.3(DNAH5):c.10757T>A (p.Leu3586Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591762
+single nucleotide variant	NM_001369.3(DNAH5):c.10555+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	3591763
+single nucleotide variant	NM_001369.3(DNAH5):c.10102-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	3591764
+single nucleotide variant	NM_001369.3(DNAH5):c.10102-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3591765
+single nucleotide variant	NM_001369.3(DNAH5):c.8692G>T (p.Glu2898Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591769
+single nucleotide variant	NM_001369.3(DNAH5):c.6842-1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3591774
+single nucleotide variant	NM_001369.3(DNAH5):c.5271+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3591781
+single nucleotide variant	NM_001369.3(DNAH5):c.3721A>T (p.Lys1241Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591784
+single nucleotide variant	NM_001369.3(DNAH5):c.3598G>A (p.Ala1200Thr)	1767	DNAH5	Likely pathogenic	GRCh38	3591785
+single nucleotide variant	NM_001369.3(DNAH5):c.3396+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3591786
+single nucleotide variant	NM_001369.3(DNAH5):c.2695G>T (p.Glu899Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591789
+single nucleotide variant	NM_001369.3(DNAH5):c.2557G>T (p.Glu853Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591791
+single nucleotide variant	NM_001369.3(DNAH5):c.2053-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	3591793
+single nucleotide variant	NM_001369.3(DNAH5):c.877A>T (p.Arg293Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3591798
+single nucleotide variant	NM_001369.3(DNAH5):c.4389G>A (p.Trp1463Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	3608544
+single nucleotide variant	NM_001369.3(DNAH5):c.6271C>T (p.Gln2091Ter)	1767	DNAH5	Pathogenic	GRCh38	3640567
+single nucleotide variant	NM_001369.3(DNAH5):c.12542G>A (p.Trp4181Ter)	1767	DNAH5	Pathogenic	GRCh38	3640771
+single nucleotide variant	NM_001369.3(DNAH5):c.4146C>A (p.Tyr1382Ter)	1767	DNAH5	Pathogenic	GRCh38	3651174
+single nucleotide variant	NM_001369.3(DNAH5):c.10590T>A (p.Tyr3530Ter)	1767	DNAH5	Pathogenic	GRCh38	3645907
+single nucleotide variant	NM_001369.3(DNAH5):c.3115G>T (p.Glu1039Ter)	1767	DNAH5	Pathogenic	GRCh38	3650482
+single nucleotide variant	NM_001369.3(DNAH5):c.9374-2A>C	1767	DNAH5	Pathogenic	GRCh38	3645077
+single nucleotide variant	NM_001369.3(DNAH5):c.5485-1G>A	1767	DNAH5	Pathogenic	GRCh38	3659106
+single nucleotide variant	NM_001369.3(DNAH5):c.119T>G (p.Leu40Ter)	1767	DNAH5	Pathogenic	GRCh38	3670467
+single nucleotide variant	NM_001369.3(DNAH5):c.11455+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	3674785
+single nucleotide variant	NM_001369.3(DNAH5):c.4116+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	3714466
+single nucleotide variant	NM_001369.3(DNAH5):c.9883G>T (p.Glu3295Ter)	1767	DNAH5	Pathogenic	GRCh38	3703805
+single nucleotide variant	NM_001369.3(DNAH5):c.13096A>T (p.Lys4366Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	3720608
+single nucleotide variant	NM_001369.3(DNAH5):c.5561A>T (p.Lys1854Ile)	1767	DNAH5	Pathogenic	GRCh38	3901109
+single nucleotide variant	NM_001369.3(DNAH5):c.12640C>T (p.Gln4214Ter)	1767	DNAH5	Likely pathogenic	GRCh38	3906968
+single nucleotide variant	NM_001369.3(DNAH5):c.10363C>T (p.Gln3455Ter)	1767	DNAH5	Pathogenic	GRCh38	3910610
+single nucleotide variant	NM_001369.3(DNAH5):c.4287T>G (p.Tyr1429Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4066759
+single nucleotide variant	NM_001369.3(DNAH5):c.5302C>T (p.Gln1768Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4066782
+single nucleotide variant	NM_001369.3(DNAH5):c.1489C>T (p.Gln497Ter)	1767	DNAH5	Pathogenic	GRCh38	4066816
+single nucleotide variant	NM_001369.3(DNAH5):c.13126-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	4066843
+single nucleotide variant	NM_001369.3(DNAH5):c.3420C>A (p.Cys1140Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4066629
+single nucleotide variant	NM_001369.3(DNAH5):c.2410G>T (p.Glu804Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4081339
+single nucleotide variant	NM_001369.3(DNAH5):c.1198-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	4081341
+single nucleotide variant	NM_001369.3(DNAH5):c.5114+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4081627
+single nucleotide variant	NM_001369.3(DNAH5):c.8225-1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4081628
+single nucleotide variant	NM_001369.3(DNAH5):c.12705+1G>C	1767	DNAH5	Likely pathogenic	GRCh38	4081630
+single nucleotide variant	NM_001369.3(DNAH5):c.5527G>T (p.Glu1843Ter)	1767	DNAH5	Pathogenic/Likely pathogenic	GRCh38	4694672
+single nucleotide variant	NM_001369.3(DNAH5):c.12748C>T (p.Gln4250Ter)	1767	DNAH5	Pathogenic	GRCh38	4696260
+single nucleotide variant	NM_001369.3(DNAH5):c.1726G>T (p.Glu576Ter)	1767	DNAH5	Pathogenic	GRCh38	4705429
+single nucleotide variant	NM_001369.3(DNAH5):c.6061+1G>C	1767	DNAH5	Pathogenic	GRCh38	4732812
+single nucleotide variant	NM_001369.3(DNAH5):c.3675C>A (p.Tyr1225Ter)	1767	DNAH5	Pathogenic	GRCh38	4736262
+single nucleotide variant	NM_001369.3(DNAH5):c.7970A>T (p.Asp2657Val)	1767	DNAH5	Likely pathogenic	GRCh38	4744920
+single nucleotide variant	NM_001369.3(DNAH5):c.7769G>T (p.Gly2590Val)	1767	DNAH5	Likely pathogenic	GRCh38	4755425
+single nucleotide variant	NM_001369.3(DNAH5):c.1582C>T (p.Gln528Ter)	1767	DNAH5	Pathogenic	GRCh38	4799317
+single nucleotide variant	NM_001369.3(DNAH5):c.4950+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	4813615
+single nucleotide variant	NM_001369.3(DNAH5):c.6974T>A (p.Leu2325Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4813770
+single nucleotide variant	NM_001369.3(DNAH5):c.10155C>G (p.Tyr3385Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814848
+single nucleotide variant	NM_001369.3(DNAH5):c.11811G>A (p.Trp3937Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814854
+single nucleotide variant	NM_001369.3(DNAH5):c.12558C>A (p.Tyr4186Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814857
+single nucleotide variant	NM_001369.3(DNAH5):c.12706-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	4814859
+single nucleotide variant	NM_001369.3(DNAH5):c.12861C>A (p.Tyr4287Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814860
+single nucleotide variant	NM_001369.3(DNAH5):c.13399C>T (p.Gln4467Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814864
+single nucleotide variant	NM_001369.3(DNAH5):c.13724-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	4814866
+single nucleotide variant	NM_001369.3(DNAH5):c.13724-2A>G	1767	DNAH5	Likely pathogenic	GRCh38	4814867
+single nucleotide variant	NM_001369.3(DNAH5):c.1648G>T (p.Glu550Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814869
+single nucleotide variant	NM_001369.3(DNAH5):c.1730+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	4814870
+single nucleotide variant	NM_001369.3(DNAH5):c.1936C>T (p.Gln646Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814873
+single nucleotide variant	NM_001369.3(DNAH5):c.1A>G (p.Met1Val)	1767	DNAH5	Likely pathogenic	GRCh38	4814874
+single nucleotide variant	NM_001369.3(DNAH5):c.2984-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	4814878
+single nucleotide variant	NM_001369.3(DNAH5):c.3817C>T (p.Gln1273Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814886
+single nucleotide variant	NM_001369.3(DNAH5):c.3834+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4814887
+single nucleotide variant	NM_001369.3(DNAH5):c.3970C>T (p.Gln1324Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814889
+single nucleotide variant	NM_001369.3(DNAH5):c.4766T>A (p.Leu1589Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814893
+single nucleotide variant	NM_001369.3(DNAH5):c.5083C>T (p.Gln1695Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814894
+single nucleotide variant	NM_001369.3(DNAH5):c.5115-2A>T	1767	DNAH5	Likely pathogenic	GRCh38	4814896
+single nucleotide variant	NM_001369.3(DNAH5):c.5272-1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4814898
+single nucleotide variant	NM_001369.3(DNAH5):c.5710-1G>A	1767	DNAH5	Pathogenic	GRCh38	4814900
+single nucleotide variant	NM_001369.3(DNAH5):c.5882+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4814901
+single nucleotide variant	NM_001369.3(DNAH5):c.5980G>T (p.Gly1994Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814905
+single nucleotide variant	NM_001369.3(DNAH5):c.5988C>A (p.Cys1996Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814906
+single nucleotide variant	NM_001369.3(DNAH5):c.61A>T (p.Arg21Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814908
+single nucleotide variant	NM_001369.3(DNAH5):c.6579+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4814909
+single nucleotide variant	NM_001369.3(DNAH5):c.7647C>A (p.Tyr2549Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814912
+single nucleotide variant	NM_001369.3(DNAH5):c.8448+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	4814915
+single nucleotide variant	NM_001369.3(DNAH5):c.8540T>A (p.Leu2847Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814916
+single nucleotide variant	NM_001369.3(DNAH5):c.8818A>T (p.Lys2940Ter)	1767	DNAH5	Pathogenic	GRCh38	4814918
+single nucleotide variant	NM_001369.3(DNAH5):c.8820+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	4814919
+single nucleotide variant	NM_001369.3(DNAH5):c.8951+2T>C	1767	DNAH5	Likely pathogenic	GRCh38	4814920
+single nucleotide variant	NM_001369.3(DNAH5):c.9641C>G (p.Ser3214Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4814923
+single nucleotide variant	NM_001369.3(DNAH5):c.8821-3C>A	1767	DNAH5	Likely pathogenic	GRCh38	4818929
+single nucleotide variant	NM_001369.3(DNAH5):c.277+1G>T	1767	DNAH5	Pathogenic	GRCh38	4820344
+single nucleotide variant	NM_001369.3(DNAH5):c.6139C>T (p.Gln2047Ter)	1767	DNAH5	Pathogenic	GRCh38	4820345
+single nucleotide variant	NM_001369.3(DNAH5):c.2043G>A (p.Trp681Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4852603
+single nucleotide variant	NM_001369.3(DNAH5):c.3396+1344C>T	1767	DNAH5	Likely pathogenic	GRCh38	4888330
+single nucleotide variant	NM_001369.3(DNAH5):c.11761G>T (p.Gly3921Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889617
+single nucleotide variant	NM_001369.3(DNAH5):c.11079C>A (p.Tyr3693Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889618
+single nucleotide variant	NM_001369.3(DNAH5):c.10342C>T (p.Gln3448Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889619
+single nucleotide variant	NM_001369.3(DNAH5):c.5396C>G (p.Ser1799Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889621
+single nucleotide variant	NM_001369.3(DNAH5):c.4800C>A (p.Tyr1600Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889622
+single nucleotide variant	NM_001369.3(DNAH5):c.2473G>T (p.Glu825Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889623
+single nucleotide variant	NM_001369.3(DNAH5):c.1603C>T (p.Gln535Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889625
+single nucleotide variant	NM_001369.3(DNAH5):c.409A>T (p.Lys137Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889626
+single nucleotide variant	NM_001369.3(DNAH5):c.253C>T (p.Gln85Ter)	1767	DNAH5	Likely pathogenic	GRCh38	4889627
+single nucleotide variant	NM_001369.3(DNAH5):c.9898-1G>C	1767	DNAH5	Likely pathogenic	GRCh38	4889901
+single nucleotide variant	NM_001369.3(DNAH5):c.5710-2A>C	1767	DNAH5	Likely pathogenic	GRCh38	4889902
+single nucleotide variant	NM_001369.3(DNAH5):c.11570+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	4890007
+single nucleotide variant	NM_001369.3(DNAH5):c.9720+1G>A	1767	DNAH5	Likely pathogenic	GRCh38	4890008
+single nucleotide variant	NM_001369.3(DNAH5):c.8010+1G>T	1767	DNAH5	Likely pathogenic	GRCh38	4890009

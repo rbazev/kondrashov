@@ -1,0 +1,98 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_139276.3(STAT3):c.1144C>T (p.Arg382Trp)	6774	STAT3	Pathogenic	GRCh38	18304
+single nucleotide variant	NM_139276.3(STAT3):c.1145G>A (p.Arg382Gln)	6774	STAT3	Pathogenic	GRCh38	18305
+single nucleotide variant	NM_139276.3(STAT3):c.1268G>A (p.Arg423Gln)	6774	STAT3	Pathogenic	GRCh38	18306
+single nucleotide variant	NM_139276.3(STAT3):c.1145G>T (p.Arg382Leu)	6774	STAT3	Pathogenic	GRCh38	18307
+single nucleotide variant	NM_139276.3(STAT3):c.1909G>A (p.Val637Met)	6774	STAT3	Pathogenic	GRCh38	18308
+single nucleotide variant	NM_139276.3(STAT3):c.1003C>T (p.Arg335Trp)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	36783
+single nucleotide variant	NM_139276.3(STAT3):c.1243G>A (p.Glu415Lys)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	36784
+single nucleotide variant	NM_139276.3(STAT3):c.1780G>A (p.Glu594Lys)	6774	STAT3	Likely pathogenic	GRCh38	36789
+single nucleotide variant	NM_139276.3(STAT3):c.1970A>G (p.Tyr657Cys)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	36790
+single nucleotide variant	NM_139276.3(STAT3):c.2134T>C (p.Cys712Arg)	6774	STAT3	Likely pathogenic	GRCh38	36791
+single nucleotide variant	NM_139276.3(STAT3):c.1166C>T (p.Thr389Ile)	6774	STAT3	Pathogenic	GRCh38	64689
+single nucleotide variant	NM_139276.3(STAT3):c.1175A>G (p.Lys392Arg)	6774	STAT3	Pathogenic	GRCh38	144030
+single nucleotide variant	NM_139276.3(STAT3):c.1938C>G (p.Asn646Lys)	6774	STAT3	Pathogenic	GRCh38	144031
+single nucleotide variant	NM_139276.3(STAT3):c.1974G>C (p.Lys658Asn)	6774	STAT3	Pathogenic	GRCh38	144032
+single nucleotide variant	NM_139276.3(STAT3):c.1868G>T (p.Trp623Leu)	6774	STAT3	Likely pathogenic	GRCh38	191078
+single nucleotide variant	NM_139276.3(STAT3):c.2147C>T (p.Thr716Met)	6774	STAT3	Pathogenic	GRCh38	224848
+single nucleotide variant	NM_139276.3(STAT3):c.2107G>A (p.Ala703Thr)	6774	STAT3	Pathogenic	GRCh38	224850
+single nucleotide variant	NM_139276.3(STAT3):c.1988C>T (p.Thr663Ile)	6774	STAT3	Pathogenic	GRCh38	224845
+single nucleotide variant	NM_139276.3(STAT3):c.1261G>A (p.Gly421Arg)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	224844
+single nucleotide variant	NM_139276.3(STAT3):c.1260T>G (p.Asn420Lys)	6774	STAT3	Pathogenic	GRCh38	224849
+single nucleotide variant	NM_139276.3(STAT3):c.1057G>T (p.Val353Phe)	6774	STAT3	Pathogenic	GRCh38	224847
+single nucleotide variant	NM_139276.3(STAT3):c.1032G>C (p.Gln344His)	6774	STAT3	Pathogenic	GRCh38	224843
+single nucleotide variant	NM_139276.3(STAT3):c.454C>T (p.Arg152Trp)	6774	STAT3	Pathogenic	GRCh38	224846
+single nucleotide variant	NM_139276.3(STAT3):c.1979T>C (p.Met660Thr)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	265261
+single nucleotide variant	NM_139276.3(STAT3):c.1414A>G (p.Asn472Asp)	6774	STAT3	Likely pathogenic	GRCh38	378672
+single nucleotide variant	NM_139276.3(STAT3):c.1397A>C (p.Asn466Thr)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	381595
+single nucleotide variant	NM_139276.3(STAT3):c.2144C>T (p.Pro715Leu)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	421171
+single nucleotide variant	NM_139276.3(STAT3):c.1943T>A (p.Met648Lys)	6774	STAT3	Likely pathogenic	GRCh38	424347
+single nucleotide variant	NM_139276.3(STAT3):c.1846G>C (p.Glu616Gln)	6774	STAT3	Likely pathogenic	GRCh38	421084
+single nucleotide variant	NM_139276.3(STAT3):c.1744G>A (p.Glu582Lys)	6774	STAT3	Likely pathogenic	GRCh38	424041
+single nucleotide variant	NM_139276.3(STAT3):c.1397A>G (p.Asn466Ser)	6774	STAT3	Pathogenic	GRCh38	418505
+single nucleotide variant	NM_139276.3(STAT3):c.992T>G (p.Met331Arg)	6774	STAT3	Likely pathogenic	GRCh38	427058
+single nucleotide variant	NM_139276.3(STAT3):c.2131A>G (p.Ile711Val)	6774	STAT3	Likely pathogenic	GRCh38	430388
+single nucleotide variant	NM_139276.3(STAT3):c.2117T>C (p.Leu706Pro)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	429592
+single nucleotide variant	NM_139276.3(STAT3):c.1022C>T (p.Thr341Ile)	6774	STAT3	Likely pathogenic	GRCh38	429432
+single nucleotide variant	NM_139276.3(STAT3):c.1853G>A (p.Gly618Asp)	6774	STAT3	Pathogenic	GRCh38	430904
+single nucleotide variant	NM_139276.3(STAT3):c.1863C>A (p.Phe621Leu)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	432937
+single nucleotide variant	NM_139276.3(STAT3):c.2125A>G (p.Lys709Glu)	6774	STAT3	Likely pathogenic	GRCh38	449411
+single nucleotide variant	NM_139276.3(STAT3):c.832C>T (p.Arg278Cys)	6774	STAT3	Likely pathogenic	GRCh38	450010
+single nucleotide variant	NM_139276.3(STAT3):c.986T>A (p.Met329Lys)	6774	STAT3	Pathogenic	GRCh38	476197
+single nucleotide variant	NM_139276.3(STAT3):c.1976T>A (p.Ile659Asn)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	495061
+single nucleotide variant	NM_139276.3(STAT3):c.1255G>A (p.Gly419Arg)	6774	STAT3	Likely pathogenic	GRCh38	546793
+single nucleotide variant	NM_139276.3(STAT3):c.307C>T (p.Arg103Trp)	6774	STAT3	Likely pathogenic	GRCh38	566510
+single nucleotide variant	NM_139276.3(STAT3):c.1843A>G (p.Lys615Glu)	6774	STAT3	Likely pathogenic	GRCh38	636585
+single nucleotide variant	NM_139276.3(STAT3):c.551-1G>A	6774	STAT3	Likely pathogenic	GRCh38	636954
+single nucleotide variant	NM_139276.3(STAT3):c.1311C>A (p.His437Gln)	6774	STAT3	Pathogenic	GRCh38	664121
+single nucleotide variant	NM_139276.3(STAT3):c.2132T>G (p.Ile711Ser)	6774	STAT3	Likely pathogenic	GRCh38	803390
+single nucleotide variant	NM_139276.3(STAT3):c.1110-1G>A	6774	STAT3	Likely pathogenic	GRCh38	808268
+single nucleotide variant	NM_139276.3(STAT3):c.833G>A (p.Arg278His)	6774	STAT3	Pathogenic	GRCh38	850251
+single nucleotide variant	NM_139276.3(STAT3):c.2113T>C (p.Tyr705His)	6774	STAT3	Likely pathogenic	GRCh38	946676
+single nucleotide variant	NM_139276.3(STAT3):c.1165A>G (p.Thr389Ala)	6774	STAT3	Likely pathogenic	GRCh38	948861
+single nucleotide variant	NM_139276.3(STAT3):c.1973A>G (p.Lys658Arg)	6774	STAT3	Likely pathogenic	GRCh38	973671
+single nucleotide variant	NM_139276.3(STAT3):c.1310A>T (p.His437Leu)	6774	STAT3	Likely pathogenic	GRCh38	976227
+single nucleotide variant	NM_139276.3(STAT3):c.1974G>T (p.Lys658Asn)	6774	STAT3	Likely pathogenic	GRCh38	977089
+single nucleotide variant	NM_139276.3(STAT3):c.2141C>T (p.Thr714Ile)	6774	STAT3	Pathogenic	GRCh38	1005984
+single nucleotide variant	NM_139276.3(STAT3):c.1699A>G (p.Asn567Asp)	6774	STAT3	Likely pathogenic	GRCh38	1012305
+single nucleotide variant	NM_139276.3(STAT3):c.1228C>T (p.His410Tyr)	6774	STAT3	Pathogenic	GRCh38	1039785
+single nucleotide variant	NM_139276.3(STAT3):c.1924A>G (p.Lys642Glu)	6774	STAT3	Likely pathogenic	GRCh38	1067430
+single nucleotide variant	NM_139276.3(STAT3):c.1182G>A (p.Met394Ile)	6774	STAT3	Likely pathogenic	GRCh38	1067042
+single nucleotide variant	NM_139276.3(STAT3):c.1859C>G (p.Thr620Ser)	6774	STAT3	Pathogenic	GRCh38	1068485
+single nucleotide variant	NM_139276.3(STAT3):c.1177G>T (p.Val393Leu)	6774	STAT3	Likely pathogenic	GRCh38	1176687
+single nucleotide variant	NM_139276.3(STAT3):c.2123C>G (p.Thr708Ser)	6774	STAT3	Likely pathogenic	GRCh38	1339186
+single nucleotide variant	NM_139276.3(STAT3):c.861G>T (p.Leu287Phe)	6774	STAT3	Likely pathogenic	GRCh38	1470407
+single nucleotide variant	NM_139276.3(STAT3):c.1110-2A>G	6774	STAT3	Pathogenic	GRCh38	1398166
+single nucleotide variant	NM_139276.3(STAT3):c.2116C>A (p.Leu706Met)	6774	STAT3	Pathogenic	GRCh38	1429110
+single nucleotide variant	NM_139276.3(STAT3):c.1915C>G (p.Pro639Ala)	6774	STAT3	Pathogenic	GRCh38	1429145
+single nucleotide variant	NM_139276.3(STAT3):c.994C>T (p.His332Tyr)	6774	STAT3	Pathogenic/Likely pathogenic	GRCh38	1701323
+single nucleotide variant	NM_139276.3(STAT3):c.1910T>C (p.Val637Ala)	6774	STAT3	Pathogenic	GRCh38	1705748
+single nucleotide variant	NM_139276.3(STAT3):c.988C>T (p.Pro330Ser)	6774	STAT3	Pathogenic	GRCh38	1800571
+single nucleotide variant	NM_139276.3(STAT3):c.985A>G (p.Met329Val)	6774	STAT3	Pathogenic	GRCh38	1804642
+single nucleotide variant	NM_139276.3(STAT3):c.1858A>G (p.Thr620Ala)	6774	STAT3	Pathogenic	GRCh38	1804643
+single nucleotide variant	NM_139276.3(STAT3):c.2114A>G (p.Tyr705Cys)	6774	STAT3	Likely pathogenic	GRCh38	2138011
+single nucleotide variant	NM_139276.3(STAT3):c.1915C>A (p.Pro639Thr)	6774	STAT3	Pathogenic	GRCh38	2138013
+single nucleotide variant	NM_139276.3(STAT3):c.1909G>T (p.Val637Leu)	6774	STAT3	Likely pathogenic	GRCh38	2138014
+single nucleotide variant	NM_139276.3(STAT3):c.1907C>A (p.Ser636Tyr)	6774	STAT3	Pathogenic	GRCh38	2138015
+single nucleotide variant	NM_139276.3(STAT3):c.1865C>T (p.Thr622Ile)	6774	STAT3	Pathogenic	GRCh38	2138016
+single nucleotide variant	NM_139276.3(STAT3):c.1861T>G (p.Phe621Val)	6774	STAT3	Likely pathogenic	GRCh38	2138017
+single nucleotide variant	NM_139276.3(STAT3):c.1934T>A (p.Leu645Gln)	6774	STAT3	Pathogenic	GRCh38	2169593
+single nucleotide variant	NM_139276.3(STAT3):c.2141C>A (p.Thr714Lys)	6774	STAT3	Likely pathogenic	GRCh38	1929511
+single nucleotide variant	NM_139276.3(STAT3):c.1145G>C (p.Arg382Pro)	6774	STAT3	Pathogenic	GRCh38	2099076
+single nucleotide variant	NM_139276.3(STAT3):c.995A>T (p.His332Leu)	6774	STAT3	Pathogenic	GRCh38	2308162
+single nucleotide variant	NM_139276.3(STAT3):c.1235C>T (p.Thr412Ile)	6774	STAT3	Likely pathogenic	GRCh38	2498705
+single nucleotide variant	NM_139276.3(STAT3):c.1018A>G (p.Lys340Glu)	6774	STAT3	Likely pathogenic	GRCh38	2635216
+single nucleotide variant	NM_139276.3(STAT3):c.1907C>T (p.Ser636Phe)	6774	STAT3	Pathogenic	GRCh38	2925614
+single nucleotide variant	NM_139276.3(STAT3):c.1181T>C (p.Met394Thr)	6774	STAT3	Pathogenic	GRCh38	2925616
+single nucleotide variant	NM_139276.3(STAT3):c.2137G>T (p.Val713Leu)	6774	STAT3	Pathogenic	GRCh38	2940006
+single nucleotide variant	NM_139276.3(STAT3):c.1552C>T (p.Arg518Ter)	6774	STAT3	Likely pathogenic	GRCh38	3234995
+single nucleotide variant	NM_139276.3(STAT3):c.1078T>C (p.Tyr360His)	6774	STAT3	Likely pathogenic	GRCh38	3239432
+single nucleotide variant	NM_139276.3(STAT3):c.1916C>T (p.Pro639Leu)	6774	STAT3	Likely pathogenic	GRCh38	3390956
+single nucleotide variant	NM_139276.3(STAT3):c.1309C>T (p.His437Tyr)	6774	STAT3	Pathogenic	GRCh38	3391073
+single nucleotide variant	NM_139276.3(STAT3):c.2137G>C (p.Val713Leu)	6774	STAT3	Pathogenic	GRCh38	3759433
+single nucleotide variant	NM_139276.3(STAT3):c.1979T>G (p.Met660Arg)	6774	STAT3	Likely pathogenic	GRCh38	3759434
+single nucleotide variant	NM_139276.3(STAT3):c.1418C>T (p.Ala473Val)	6774	STAT3	Likely pathogenic	GRCh38	4536256
+single nucleotide variant	NM_139276.3(STAT3):c.1909G>C (p.Val637Leu)	6774	STAT3	Likely pathogenic	GRCh38	4783063
+single nucleotide variant	NM_139276.3(STAT3):c.1862T>C (p.Phe621Ser)	6774	STAT3	Likely pathogenic	GRCh38	4783824
+single nucleotide variant	NM_139276.3(STAT3):c.2140A>G (p.Thr714Ala)	6774	STAT3	Likely pathogenic	GRCh38	4820162
+single nucleotide variant	NM_139276.3(STAT3):c.1262G>T (p.Gly421Val)	6774	STAT3	Likely pathogenic	GRCh38	4821591

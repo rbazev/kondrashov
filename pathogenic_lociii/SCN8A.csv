@@ -1,0 +1,325 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001330260.2(SCN8A):c.5302A>G (p.Asn1768Asp)	6334	SCN8A	Pathogenic	GRCh38	30123
+single nucleotide variant	NM_001330260.2(SCN8A):c.3991C>G (p.Leu1331Val)	6334	SCN8A	Pathogenic	GRCh38	60709
+single nucleotide variant	NM_001330260.2(SCN8A):c.4774G>C (p.Val1592Leu)	6334	SCN8A	Likely pathogenic	GRCh38	130249
+single nucleotide variant	NM_001330260.2(SCN8A):c.2549G>A (p.Arg850Gln)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	135651
+single nucleotide variant	NM_001330260.2(SCN8A):c.4850G>A (p.Arg1617Gln)	6334	SCN8A	Pathogenic	GRCh38	156106
+single nucleotide variant	NM_001330260.2(SCN8A):c.4398C>A (p.Asn1466Lys)	6334	SCN8A	Pathogenic	GRCh38	156107
+single nucleotide variant	NM_001330260.2(SCN8A):c.4397A>C (p.Asn1466Thr)	6334	SCN8A	Pathogenic	GRCh38	156108
+single nucleotide variant	NM_014191.4(SCN8A):c.667A>G (p.Arg223Gly)	6334	SCN8A	Likely pathogenic	GRCh38	162015
+single nucleotide variant	NM_001330260.2(SCN8A):c.2952C>G (p.Asn984Lys)	6334	SCN8A	Pathogenic	GRCh38	192317
+single nucleotide variant	NM_001330260.2(SCN8A):c.4351G>A (p.Gly1451Ser)	6334	SCN8A	Pathogenic	GRCh38	192318
+single nucleotide variant	NM_001330260.2(SCN8A):c.2287A>G (p.Ile763Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	194402
+single nucleotide variant	NM_001330260.2(SCN8A):c.3967G>A (p.Ala1323Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	195688
+single nucleotide variant	NM_001330260.2(SCN8A):c.3985A>G (p.Asn1329Asp)	6334	SCN8A	Likely pathogenic	GRCh38	195689
+single nucleotide variant	NM_001330260.2(SCN8A):c.614C>A (p.Ala205Glu)	6334	SCN8A	Likely pathogenic	GRCh38	207140
+single nucleotide variant	NM_001330260.2(SCN8A):c.1099A>G (p.Met367Val)	6334	SCN8A	Likely pathogenic	GRCh38	207105
+single nucleotide variant	NM_001330260.2(SCN8A):c.2534C>T (p.Ser845Phe)	6334	SCN8A	Likely pathogenic	GRCh38	207109
+single nucleotide variant	NM_001330260.2(SCN8A):c.3955G>T (p.Ala1319Ser)	6334	SCN8A	Pathogenic	GRCh38	207117
+single nucleotide variant	NM_001330260.2(SCN8A):c.4423G>A (p.Gly1475Arg)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	207119
+single nucleotide variant	NM_001330260.2(SCN8A):c.4435A>G (p.Ile1479Val)	6334	SCN8A	Pathogenic	GRCh38	207120
+single nucleotide variant	NM_001330260.2(SCN8A):c.4442T>A (p.Met1481Lys)	6334	SCN8A	Likely pathogenic	GRCh38	3238817
+single nucleotide variant	NM_001330260.2(SCN8A):c.4472C>T (p.Ala1491Val)	6334	SCN8A	Pathogenic	GRCh38	207123
+single nucleotide variant	NM_001330260.2(SCN8A):c.4889T>C (p.Leu1630Pro)	6334	SCN8A	Pathogenic	GRCh38	2735862
+single nucleotide variant	NM_001330260.2(SCN8A):c.4949C>T (p.Ala1650Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	207127
+single nucleotide variant	NM_001330260.2(SCN8A):c.5614C>T (p.Arg1872Trp)	6334	SCN8A	Pathogenic	GRCh38	207131
+single nucleotide variant	NM_001330260.2(SCN8A):c.5615G>T (p.Arg1872Leu)	6334	SCN8A	Pathogenic	GRCh38	207132
+single nucleotide variant	NM_001330260.2(SCN8A):c.2300C>T (p.Thr767Ile)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	208500
+single nucleotide variant	NM_001330260.2(SCN8A):c.2675T>G (p.Val892Gly)	6334	SCN8A	Likely pathogenic	GRCh38	217880
+single nucleotide variant	NM_001330260.2(SCN8A):c.5276A>G (p.Asn1759Ser)	6334	SCN8A	Likely pathogenic	GRCh38	224126
+single nucleotide variant	NM_001330260.2(SCN8A):c.4859G>T (p.Arg1620Leu)	6334	SCN8A	Pathogenic	GRCh38	225100
+single nucleotide variant	NM_001330260.2(SCN8A):c.800T>C (p.Leu267Ser)	6334	SCN8A	Pathogenic	GRCh38	236207
+single nucleotide variant	NM_001330260.2(SCN8A):c.2519T>G (p.Leu840Arg)	6334	SCN8A	Likely pathogenic	GRCh38	240885
+single nucleotide variant	NM_001330260.2(SCN8A):c.4447G>A (p.Glu1483Lys)	6334	SCN8A	Pathogenic	GRCh38	253195
+single nucleotide variant	NM_014191.4(SCN8A):c.641G>A (p.Gly214Asp)	6334	SCN8A	Likely pathogenic	GRCh38	253276
+single nucleotide variant	NM_014191.4(SCN8A):c.643A>G (p.Asn215Asp)	6334	SCN8A	Pathogenic	GRCh38	253277
+single nucleotide variant	NM_001330260.2(SCN8A):c.779T>C (p.Phe260Ser)	6334	SCN8A	Pathogenic	GRCh38	253279
+single nucleotide variant	NM_001330260.2(SCN8A):c.2537T>C (p.Phe846Ser)	6334	SCN8A	Pathogenic	GRCh38	253284
+single nucleotide variant	NM_001330260.2(SCN8A):c.2879T>A (p.Val960Asp)	6334	SCN8A	Pathogenic	GRCh38	253287
+single nucleotide variant	NM_001330260.2(SCN8A):c.3979A>G (p.Ile1327Val)	6334	SCN8A	Pathogenic	GRCh38	253288
+single nucleotide variant	NM_001330260.2(SCN8A):c.4787C>G (p.Ser1596Cys)	6334	SCN8A	Pathogenic	GRCh38	253290
+single nucleotide variant	NM_001330260.2(SCN8A):c.4862T>G (p.Leu1621Trp)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	253292
+single nucleotide variant	NM_001330260.2(SCN8A):c.4948G>A (p.Ala1650Thr)	6334	SCN8A	Pathogenic	GRCh38	253294
+single nucleotide variant	NM_001330260.2(SCN8A):c.5401C>G (p.Gln1801Glu)	6334	SCN8A	Pathogenic	GRCh38	253295
+single nucleotide variant	NM_001330260.2(SCN8A):c.5615G>A (p.Arg1872Gln)	6334	SCN8A	Pathogenic	GRCh38	253297
+single nucleotide variant	NM_001330260.2(SCN8A):c.4877G>A (p.Arg1626His)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	290005
+single nucleotide variant	NM_001330260.2(SCN8A):c.2533T>C (p.Ser845Pro)	6334	SCN8A	Likely pathogenic	GRCh38	373333
+single nucleotide variant	NM_014191.4(SCN8A):c.647T>G (p.Val216Gly)	6334	SCN8A	Likely pathogenic	GRCh38	374298
+single nucleotide variant	NM_001330260.2(SCN8A):c.4403A>G (p.Asn1468Ser)	6334	SCN8A	Likely pathogenic	GRCh38	374375
+single nucleotide variant	NM_001330260.2(SCN8A):c.1141C>T (p.Arg381Ter)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	374707
+single nucleotide variant	NM_001330260.2(SCN8A):c.2932A>G (p.Ser978Gly)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	375522
+single nucleotide variant	NM_001330260.2(SCN8A):c.4501C>A (p.Gln1501Lys)	6334	SCN8A	Likely pathogenic	GRCh38	377169
+single nucleotide variant	NM_001330260.2(SCN8A):c.4438T>A (p.Phe1480Ile)	6334	SCN8A	Pathogenic	GRCh38	391391
+single nucleotide variant	NM_001330260.2(SCN8A):c.4873G>T (p.Gly1625Trp)	6334	SCN8A	Likely pathogenic	GRCh38	383440
+single nucleotide variant	NM_001330260.2(SCN8A):c.2890G>C (p.Gly964Arg)	6334	SCN8A	Pathogenic	GRCh38	383545
+single nucleotide variant	NM_001330260.2(SCN8A):c.1339C>T (p.Gln447Ter)	6334	SCN8A	Pathogenic	GRCh38	406260
+single nucleotide variant	NM_014191.4(SCN8A):c.615-2A>C	6334	SCN8A	Likely pathogenic	GRCh38	413875
+single nucleotide variant	NM_014191.4(SCN8A):c.649T>C (p.Ser217Pro)	6334	SCN8A	Pathogenic	GRCh38	420809
+single nucleotide variant	NM_001330260.2(SCN8A):c.718A>C (p.Ile240Leu)	6334	SCN8A	Pathogenic	GRCh38	419511
+single nucleotide variant	NM_001330260.2(SCN8A):c.718A>G (p.Ile240Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	419568
+single nucleotide variant	NM_001330260.2(SCN8A):c.769C>G (p.Leu257Val)	6334	SCN8A	Likely pathogenic	GRCh38	420906
+single nucleotide variant	NM_001330260.2(SCN8A):c.4419+1A>G	6334	SCN8A	Pathogenic	GRCh38	419208
+single nucleotide variant	NM_001330260.2(SCN8A):c.5606T>C (p.Met1869Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	420831
+single nucleotide variant	NM_001330260.2(SCN8A):c.802A>C (p.Ile268Leu)	6334	SCN8A	Likely pathogenic	GRCh38	427189
+single nucleotide variant	NM_001330260.2(SCN8A):c.2525T>A (p.Val842Glu)	6334	SCN8A	Pathogenic	GRCh38	427069
+single nucleotide variant	NM_001330260.2(SCN8A):c.4892T>A (p.Ile1631Asn)	6334	SCN8A	Likely pathogenic	GRCh38	427167
+single nucleotide variant	NM_001330260.2(SCN8A):c.5614C>G (p.Arg1872Gly)	6334	SCN8A	Pathogenic	GRCh38	426434
+single nucleotide variant	NM_001330260.2(SCN8A):c.1342-3T>G	6334	SCN8A	Likely pathogenic	GRCh38	429567
+single nucleotide variant	NM_001330260.2(SCN8A):c.1759G>T (p.Glu587Ter)	6334	SCN8A	Likely pathogenic	GRCh38	429337
+single nucleotide variant	NM_001330260.2(SCN8A):c.4879A>C (p.Ile1627Leu)	6334	SCN8A	Likely pathogenic	GRCh38	429498
+single nucleotide variant	NM_001330260.2(SCN8A):c.5360C>A (p.Thr1787Asn)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	430208
+single nucleotide variant	NM_001330260.2(SCN8A):c.4394A>T (p.Asp1465Val)	6334	SCN8A	Pathogenic	GRCh38	431135
+single nucleotide variant	NM_001330260.2(SCN8A):c.1219T>A (p.Leu407Met)	6334	SCN8A	Likely pathogenic	GRCh38	432103
+single nucleotide variant	NM_001330260.2(SCN8A):c.3943G>T (p.Val1315Leu)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	432948
+single nucleotide variant	NM_001330260.2(SCN8A):c.2603T>C (p.Ile868Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	436672
+single nucleotide variant	NM_001330260.2(SCN8A):c.4883T>G (p.Leu1628Trp)	6334	SCN8A	Likely pathogenic	GRCh38	450347
+single nucleotide variant	NM_001330260.2(SCN8A):c.1101G>A (p.Met367Ile)	6334	SCN8A	Likely pathogenic	GRCh38	461331
+single nucleotide variant	NM_001330260.2(SCN8A):c.832C>T (p.Arg278Ter)	6334	SCN8A	Pathogenic	GRCh38	461350
+single nucleotide variant	NM_014191.4(SCN8A):c.615-1G>A	6334	SCN8A	Pathogenic	GRCh38	489373
+single nucleotide variant	NM_001330260.2(SCN8A):c.2620G>A (p.Ala874Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	495260
+single nucleotide variant	NM_001330260.2(SCN8A):c.2936C>T (p.Ser979Phe)	6334	SCN8A	Pathogenic	GRCh38	521297
+single nucleotide variant	NM_001330260.2(SCN8A):c.3448C>T (p.Gln1150Ter)	6334	SCN8A	Pathogenic	GRCh38	522036
+single nucleotide variant	NM_001330260.2(SCN8A):c.4754G>A (p.Trp1585Ter)	6334	SCN8A	Likely pathogenic	GRCh38	521907
+single nucleotide variant	NM_001330260.2(SCN8A):c.4865C>A (p.Ala1622Asp)	6334	SCN8A	Pathogenic	GRCh38	520653
+single nucleotide variant	NM_001330260.2(SCN8A):c.5279T>C (p.Met1760Thr)	6334	SCN8A	Likely pathogenic	GRCh38	521651
+single nucleotide variant	NM_001330260.2(SCN8A):c.2930T>C (p.Leu977Pro)	6334	SCN8A	Pathogenic	GRCh38	546250
+single nucleotide variant	NM_001330260.2(SCN8A):c.773C>T (p.Thr258Ile)	6334	SCN8A	Likely pathogenic	GRCh38	559632
+single nucleotide variant	NM_001330260.2(SCN8A):c.5270T>A (p.Val1757Asp)	6334	SCN8A	Likely pathogenic	GRCh38	559650
+single nucleotide variant	NM_001330260.2(SCN8A):c.2945C>T (p.Ala982Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	574400
+single nucleotide variant	NM_001330260.2(SCN8A):c.4800G>A (p.Met1600Ile)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	573377
+single nucleotide variant	NM_001330260.2(SCN8A):c.417G>A (p.Met139Ile)	6334	SCN8A	Pathogenic	GRCh38	569559
+single nucleotide variant	NM_001330260.2(SCN8A):c.4237A>G (p.Lys1413Glu)	6334	SCN8A	Likely pathogenic	GRCh38	565796
+single nucleotide variant	NM_001330260.2(SCN8A):c.4397A>G (p.Asn1466Ser)	6334	SCN8A	Pathogenic	GRCh38	565622
+single nucleotide variant	NM_001330260.2(SCN8A):c.5156C>G (p.Pro1719Arg)	6334	SCN8A	Pathogenic	GRCh38	623637
+single nucleotide variant	NM_001330260.2(SCN8A):c.614C>T (p.Ala205Val)	6334	SCN8A	Likely pathogenic	GRCh38	623808
+single nucleotide variant	NM_001330260.2(SCN8A):c.1603A>T (p.Arg535Ter)	6334	SCN8A	Likely pathogenic	GRCh38	623809
+single nucleotide variant	NM_001330260.2(SCN8A):c.3652G>A (p.Glu1218Lys)	6334	SCN8A	Pathogenic	GRCh38	624624
+single nucleotide variant	NM_014191.4(SCN8A):c.669G>T (p.Arg223Ser)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	665356
+single nucleotide variant	NM_001330260.2(SCN8A):c.2671G>A (p.Val891Met)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	657717
+single nucleotide variant	NM_001330260.2(SCN8A):c.2900T>G (p.Val967Gly)	6334	SCN8A	Likely pathogenic	GRCh38	650755
+single nucleotide variant	NM_001330260.2(SCN8A):c.3944T>C (p.Val1315Ala)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	642701
+single nucleotide variant	NM_001330260.2(SCN8A):c.4049C>T (p.Ala1350Val)	6334	SCN8A	Pathogenic	GRCh38	643045
+single nucleotide variant	NM_014191.4(SCN8A):c.676A>G (p.Arg226Gly)	6334	SCN8A	Likely pathogenic	GRCh38	689732
+single nucleotide variant	NM_014191.4(SCN8A):c.697G>A (p.Val233Ile)	6334	SCN8A	Likely pathogenic	GRCh38	689734
+single nucleotide variant	NM_001330260.2(SCN8A):c.2811G>T (p.Trp937Cys)	6334	SCN8A	Likely pathogenic	GRCh38	691261
+single nucleotide variant	NM_001330260.2(SCN8A):c.4501C>T (p.Gln1501Ter)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	691257
+single nucleotide variant	NM_001330260.2(SCN8A):c.4892T>C (p.Ile1631Thr)	6334	SCN8A	Likely pathogenic	GRCh38	691254
+single nucleotide variant	NM_001330260.2(SCN8A):c.719T>C (p.Ile240Thr)	6334	SCN8A	Likely pathogenic	GRCh38	692305
+single nucleotide variant	NM_001330260.2(SCN8A):c.3953A>G (p.Asn1318Ser)	6334	SCN8A	Likely pathogenic	GRCh38	694309
+single nucleotide variant	NM_001330260.2(SCN8A):c.632T>C (p.Val211Ala)	6334	SCN8A	Likely pathogenic	GRCh38	763582
+single nucleotide variant	NM_001330260.2(SCN8A):c.1228G>T (p.Val410Leu)	6334	SCN8A	Likely pathogenic	GRCh38	802857
+single nucleotide variant	NM_001330260.2(SCN8A):c.2641G>C (p.Val881Leu)	6334	SCN8A	Likely pathogenic	GRCh38	802858
+single nucleotide variant	NM_001330260.2(SCN8A):c.4883T>C (p.Leu1628Ser)	6334	SCN8A	Likely pathogenic	GRCh38	802860
+single nucleotide variant	NM_001330260.2(SCN8A):c.2546T>A (p.Leu849His)	6334	SCN8A	Likely pathogenic	GRCh38	807679
+single nucleotide variant	NM_001330260.2(SCN8A):c.4922T>G (p.Leu1641Arg)	6334	SCN8A	Likely pathogenic	GRCh38	812774
+single nucleotide variant	NM_001330260.2(SCN8A):c.5594T>C (p.Leu1865Pro)	6334	SCN8A	Pathogenic	GRCh38	813773
+single nucleotide variant	NM_001330260.2(SCN8A):c.4408C>A (p.Gln1470Lys)	6334	SCN8A	Likely pathogenic	GRCh38	813735
+single nucleotide variant	NM_001330260.2(SCN8A):c.765G>T (p.Met255Ile)	6334	SCN8A	Likely pathogenic	GRCh38	847572
+single nucleotide variant	NM_001330260.2(SCN8A):c.1106A>T (p.Gln369Leu)	6334	SCN8A	Likely pathogenic	GRCh38	844258
+single nucleotide variant	NM_001330260.2(SCN8A):c.4948G>T (p.Ala1650Ser)	6334	SCN8A	Likely pathogenic	GRCh38	836368
+single nucleotide variant	NM_001330260.2(SCN8A):c.5640A>C (p.Lys1880Asn)	6334	SCN8A	Pathogenic	GRCh38	839506
+single nucleotide variant	NM_001330260.2(SCN8A):c.4436T>C (p.Ile1479Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	869447
+single nucleotide variant	NM_001330260.2(SCN8A):c.2668G>C (p.Ala890Pro)	6334	SCN8A	Likely pathogenic	GRCh38	870198
+single nucleotide variant	NM_001330260.2(SCN8A):c.752T>G (p.Leu251Arg)	6334	SCN8A	Pathogenic	GRCh38	871343
+single nucleotide variant	NM_001330260.2(SCN8A):c.802A>T (p.Ile268Phe)	6334	SCN8A	Likely pathogenic	GRCh38	871344
+single nucleotide variant	NM_001330260.2(SCN8A):c.979A>C (p.Ser327Arg)	6334	SCN8A	Likely pathogenic	GRCh38	871345
+single nucleotide variant	NM_001330260.2(SCN8A):c.2617G>T (p.Gly873Cys)	6334	SCN8A	Likely pathogenic	GRCh38	930337
+single nucleotide variant	NM_001330260.2(SCN8A):c.796G>A (p.Ala266Thr)	6334	SCN8A	Likely pathogenic	GRCh38	944708
+single nucleotide variant	NM_001330260.2(SCN8A):c.4393G>A (p.Asp1465Asn)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	934328
+single nucleotide variant	NM_001330260.2(SCN8A):c.5278A>G (p.Met1760Val)	6334	SCN8A	Likely pathogenic	GRCh38	935285
+single nucleotide variant	NM_001330260.2(SCN8A):c.5458C>T (p.Arg1820Ter)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	943886
+single nucleotide variant	NM_001330260.2(SCN8A):c.2799G>T (p.Leu933Phe)	6334	SCN8A	Pathogenic	GRCh38	956913
+single nucleotide variant	NM_001330260.2(SCN8A):c.4880T>A (p.Ile1627Asn)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	964412
+single nucleotide variant	NM_001330260.2(SCN8A):c.5333A>G (p.Asp1778Gly)	6334	SCN8A	Likely pathogenic	GRCh38	973303
+single nucleotide variant	NM_001330260.2(SCN8A):c.2633T>C (p.Leu878Pro)	6334	SCN8A	Likely pathogenic	GRCh38	975769
+single nucleotide variant	NM_001330260.2(SCN8A):c.4850G>T (p.Arg1617Leu)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	976197
+single nucleotide variant	NM_001330260.2(SCN8A):c.2518C>T (p.Leu840Phe)	6334	SCN8A	Likely pathogenic	GRCh38	982943
+single nucleotide variant	NM_001330260.2(SCN8A):c.2921C>G (p.Ala974Gly)	6334	SCN8A	Likely pathogenic	GRCh38	986260
+single nucleotide variant	NM_001330260.2(SCN8A):c.4007T>C (p.Ile1336Thr)	6334	SCN8A	Likely pathogenic	GRCh38	989260
+single nucleotide variant	NM_001330260.2(SCN8A):c.2491G>A (p.Glu831Lys)	6334	SCN8A	Likely pathogenic	GRCh38	996906
+single nucleotide variant	NM_001330260.2(SCN8A):c.2617G>A (p.Gly873Ser)	6334	SCN8A	Pathogenic	GRCh38	1005108
+single nucleotide variant	NM_001330260.2(SCN8A):c.2674G>A (p.Val892Met)	6334	SCN8A	Pathogenic	GRCh38	1007517
+single nucleotide variant	NM_001330260.2(SCN8A):c.4933A>G (p.Met1645Val)	6334	SCN8A	Likely pathogenic	GRCh38	1007610
+single nucleotide variant	NM_001330260.2(SCN8A):c.4409A>G (p.Gln1470Arg)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1029253
+single nucleotide variant	NM_001330260.2(SCN8A):c.676C>G (p.Arg226Gly)	6334	SCN8A	Likely pathogenic	GRCh38	1031970
+single nucleotide variant	NM_001330260.2(SCN8A):c.5297T>G (p.Leu1766Arg)	6334	SCN8A	Likely pathogenic	GRCh38	1031807
+single nucleotide variant	NM_001330260.2(SCN8A):c.1100T>C (p.Met367Thr)	6334	SCN8A	Pathogenic	GRCh38	1043511
+single nucleotide variant	NM_001330260.2(SCN8A):c.1252A>G (p.Asn418Asp)	6334	SCN8A	Likely pathogenic	GRCh38	1047527
+single nucleotide variant	NM_001330260.2(SCN8A):c.727G>T (p.Ala243Ser)	6334	SCN8A	Pathogenic	GRCh38	1057399
+single nucleotide variant	NM_001330260.2(SCN8A):c.5538C>A (p.Asp1846Glu)	6334	SCN8A	Likely pathogenic	GRCh38	1056257
+single nucleotide variant	NM_001330260.2(SCN8A):c.5084T>C (p.Met1695Thr)	6334	SCN8A	Likely pathogenic	GRCh38	1064808
+single nucleotide variant	NM_001330260.2(SCN8A):c.3943G>A (p.Val1315Met)	6334	SCN8A	Pathogenic	GRCh38	1068482
+single nucleotide variant	NM_001330260.2(SCN8A):c.4911T>G (p.Ile1637Met)	6334	SCN8A	Likely pathogenic	GRCh38	1098394
+single nucleotide variant	NM_014191.4(SCN8A):c.706+1G>A	6334	SCN8A	Likely pathogenic	GRCh38	1163053
+single nucleotide variant	NM_001330260.2(SCN8A):c.4264G>A (p.Ala1422Thr)	6334	SCN8A	Likely pathogenic	GRCh38	1174109
+single nucleotide variant	NM_001330260.2(SCN8A):c.653C>A (p.Ala218Glu)	6334	SCN8A	Likely pathogenic	GRCh38	1176941
+single nucleotide variant	NM_001330260.2(SCN8A):c.5110T>A (p.Ser1704Thr)	6334	SCN8A	Likely pathogenic	GRCh38	1183709
+single nucleotide variant	NM_001330260.2(SCN8A):c.669G>C (p.Arg223Ser)	6334	SCN8A	Likely pathogenic	GRCh38	1191017
+single nucleotide variant	NM_001330260.2(SCN8A):c.2548C>T (p.Arg850Ter)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1197048
+single nucleotide variant	NM_001330260.2(SCN8A):c.4378A>G (p.Ile1460Val)	6334	SCN8A	Likely pathogenic	GRCh38	1206323
+single nucleotide variant	NM_001330260.2(SCN8A):c.4585A>G (p.Met1529Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1216663
+single nucleotide variant	NM_001330260.2(SCN8A):c.3914G>C (p.Arg1305Thr)	6334	SCN8A	Pathogenic	GRCh38	1254380
+single nucleotide variant	NM_001330260.2(SCN8A):c.2901+1G>C	6334	SCN8A	Likely pathogenic	GRCh38	1285460
+single nucleotide variant	NM_001330260.2(SCN8A):c.718A>T (p.Ile240Phe)	6334	SCN8A	Likely pathogenic	GRCh38	1285486
+single nucleotide variant	NM_001330260.2(SCN8A):c.4391T>C (p.Ile1464Thr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1285578
+single nucleotide variant	NM_001330260.2(SCN8A):c.4916C>T (p.Thr1639Ile)	6334	SCN8A	Likely pathogenic	GRCh38	1298546
+single nucleotide variant	NM_001330260.2(SCN8A):c.2539C>T (p.Arg847Ter)	6334	SCN8A	Pathogenic	GRCh38	1318747
+single nucleotide variant	NM_001330260.2(SCN8A):c.2792G>A (p.Arg931Gln)	6334	SCN8A	Likely pathogenic	GRCh38	1319789
+single nucleotide variant	NM_001330260.2(SCN8A):c.1168T>A (p.Phe390Ile)	6334	SCN8A	Likely pathogenic	GRCh38	1319790
+single nucleotide variant	NM_001330260.2(SCN8A):c.3995T>C (p.Leu1332Pro)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1320055
+single nucleotide variant	NM_001330260.2(SCN8A):c.4949C>A (p.Ala1650Asp)	6334	SCN8A	Likely pathogenic	GRCh38	1320078
+single nucleotide variant	NM_001330260.2(SCN8A):c.805G>A (p.Gly269Arg)	6334	SCN8A	Likely pathogenic	GRCh38	1325766
+single nucleotide variant	NM_001330260.2(SCN8A):c.4079C>A (p.Thr1360Asn)	6334	SCN8A	Likely pathogenic	GRCh38	1325767
+single nucleotide variant	NM_001330260.2(SCN8A):c.2464G>A (p.Gly822Arg)	6334	SCN8A	Likely pathogenic	GRCh38	1325768
+single nucleotide variant	NM_001330260.2(SCN8A):c.761T>G (p.Val254Gly)	6334	SCN8A	Likely pathogenic	GRCh38	1338766
+single nucleotide variant	NM_001330260.2(SCN8A):c.2901+2T>C	6334	SCN8A	Pathogenic	GRCh38	1342316
+single nucleotide variant	NM_001330260.2(SCN8A):c.3942+1G>T	6334	SCN8A	Likely pathogenic	GRCh38	1491768
+single nucleotide variant	NM_001330260.2(SCN8A):c.1226T>C (p.Val409Ala)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1385042
+single nucleotide variant	NM_001330260.2(SCN8A):c.632T>G (p.Val211Gly)	6334	SCN8A	Pathogenic	GRCh38	1399415
+single nucleotide variant	NM_001330260.2(SCN8A):c.4583T>A (p.Ile1528Asn)	6334	SCN8A	Pathogenic	GRCh38	1346284
+single nucleotide variant	NM_001330260.2(SCN8A):c.3967G>T (p.Ala1323Ser)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1472032
+single nucleotide variant	NM_001330260.2(SCN8A):c.3562C>T (p.Arg1188Trp)	6334	SCN8A	Likely pathogenic	GRCh38	1377157
+single nucleotide variant	NM_001330260.2(SCN8A):c.3250A>G (p.Met1084Val)	6334	SCN8A	Likely pathogenic	GRCh38	1504766
+single nucleotide variant	NM_001330260.2(SCN8A):c.4568C>A (p.Ala1523Asp)	6334	SCN8A	Pathogenic	GRCh38	1354780
+single nucleotide variant	NM_001330260.2(SCN8A):c.5605A>G (p.Met1869Val)	6334	SCN8A	Likely pathogenic	GRCh38	1505439
+single nucleotide variant	NM_001330260.2(SCN8A):c.4487G>A (p.Gly1496Asp)	6334	SCN8A	Pathogenic	GRCh38	1482151
+single nucleotide variant	NM_001330260.2(SCN8A):c.1087T>G (p.Leu363Val)	6334	SCN8A	Likely pathogenic	GRCh38	1426285
+single nucleotide variant	NM_001330260.2(SCN8A):c.4423G>C (p.Gly1475Arg)	6334	SCN8A	Pathogenic	GRCh38	1345807
+single nucleotide variant	NM_001330260.2(SCN8A):c.4613C>A (p.Thr1538Lys)	6334	SCN8A	Pathogenic	GRCh38	1346826
+single nucleotide variant	NM_001330260.2(SCN8A):c.4245G>A (p.Trp1415Ter)	6334	SCN8A	Pathogenic	GRCh38	1456194
+single nucleotide variant	NM_001330260.2(SCN8A):c.4384G>A (p.Val1462Ile)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1515093
+single nucleotide variant	NM_001330260.2(SCN8A):c.828C>A (p.Asn276Lys)	6334	SCN8A	Likely pathogenic	GRCh38	1514484
+single nucleotide variant	NM_001330260.2(SCN8A):c.1201T>C (p.Tyr401His)	6334	SCN8A	Likely pathogenic	GRCh38	1514764
+single nucleotide variant	NM_001330260.2(SCN8A):c.424A>G (p.Ile142Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1465027
+single nucleotide variant	NM_001330260.2(SCN8A):c.2548C>G (p.Arg850Gly)	6334	SCN8A	Pathogenic	GRCh38	1526183
+single nucleotide variant	NM_001330260.2(SCN8A):c.4849C>T (p.Arg1617Ter)	6334	SCN8A	Likely pathogenic	GRCh38	1677950
+single nucleotide variant	NM_001330260.2(SCN8A):c.4937T>C (p.Met1646Thr)	6334	SCN8A	Likely pathogenic	GRCh38	1685436
+single nucleotide variant	NM_001330260.2(SCN8A):c.4876C>T (p.Arg1626Cys)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1686172
+single nucleotide variant	NM_001330260.2(SCN8A):c.971G>A (p.Cys324Tyr)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1699202
+single nucleotide variant	NM_001330260.2(SCN8A):c.3922T>C (p.Ser1308Pro)	6334	SCN8A	Pathogenic	GRCh38	1700412
+single nucleotide variant	NM_001330260.2(SCN8A):c.736C>T (p.Gln246Ter)	6334	SCN8A	Likely pathogenic	GRCh38	1701837
+single nucleotide variant	NM_001330260.2(SCN8A):c.4399T>G (p.Phe1467Val)	6334	SCN8A	Likely pathogenic	GRCh38	1705830
+single nucleotide variant	NM_001330260.2(SCN8A):c.2675T>C (p.Val892Ala)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	1721320
+single nucleotide variant	NM_001330260.2(SCN8A):c.3988G>A (p.Val1330Met)	6334	SCN8A	Pathogenic	GRCh38	1721655
+single nucleotide variant	NM_001330260.2(SCN8A):c.2169G>A (p.Trp723Ter)	6334	SCN8A	Pathogenic	GRCh38	1787036
+single nucleotide variant	NM_001330260.2(SCN8A):c.2734T>G (p.Cys912Gly)	6334	SCN8A	Likely pathogenic	GRCh38	1802551
+single nucleotide variant	NM_001330260.2(SCN8A):c.2934C>A (p.Ser978Arg)	6334	SCN8A	Likely pathogenic	GRCh38	1803064
+single nucleotide variant	NM_001330260.2(SCN8A):c.778T>G (p.Phe260Val)	6334	SCN8A	Likely pathogenic	GRCh38	1803066
+single nucleotide variant	NM_001330260.2(SCN8A):c.4871T>G (p.Ile1624Ser)	6334	SCN8A	Likely pathogenic	GRCh38	1803067
+single nucleotide variant	NM_014191.4(SCN8A):c.668G>C (p.Arg223Thr)	6334	SCN8A	Likely pathogenic	GRCh38	1895463
+single nucleotide variant	NM_001330260.2(SCN8A):c.2942G>T (p.Ser981Ile)	6334	SCN8A	Pathogenic	GRCh38	1997152
+single nucleotide variant	NM_001330260.2(SCN8A):c.4934T>G (p.Met1645Arg)	6334	SCN8A	Pathogenic	GRCh38	2001117
+single nucleotide variant	NM_001330260.2(SCN8A):c.5816C>T (p.Pro1939Leu)	6334	SCN8A	Likely pathogenic	GRCh38	2008823
+single nucleotide variant	NM_001330260.2(SCN8A):c.828C>G (p.Asn276Lys)	6334	SCN8A	Likely pathogenic	GRCh38	2112939
+single nucleotide variant	NM_001330260.2(SCN8A):c.2266G>A (p.Asp756Asn)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	2129007
+single nucleotide variant	NM_001330260.2(SCN8A):c.1228G>A (p.Val410Met)	6334	SCN8A	Likely pathogenic	GRCh38	2231762
+single nucleotide variant	NM_001330260.2(SCN8A):c.5636C>T (p.Ser1879Phe)	6334	SCN8A	Likely pathogenic	GRCh38	2430619
+single nucleotide variant	NM_001330260.2(SCN8A):c.811C>T (p.Gln271Ter)	6334	SCN8A	Pathogenic	GRCh38	2499295
+single nucleotide variant	NM_001330260.2(SCN8A):c.5284A>C (p.Ile1762Leu)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	2499548
+single nucleotide variant	NM_001330260.2(SCN8A):c.4841C>A (p.Thr1614Asn)	6334	SCN8A	Likely pathogenic	GRCh38	2501688
+single nucleotide variant	NM_001330260.2(SCN8A):c.3739A>T (p.Met1247Leu)	6334	SCN8A	Likely pathogenic	GRCh38	2505887
+single nucleotide variant	NM_001330260.2(SCN8A):c.4044G>C (p.Leu1348Phe)	6334	SCN8A	Likely pathogenic	GRCh38	2572216
+single nucleotide variant	NM_001330260.2(SCN8A):c.1214T>G (p.Leu405Trp)	6334	SCN8A	Likely pathogenic	GRCh38	2572743
+single nucleotide variant	NM_001330260.2(SCN8A):c.396-1C>T	6334	SCN8A	Likely pathogenic	GRCh38	2576771
+single nucleotide variant	NM_001330260.2(SCN8A):c.737A>G (p.Gln246Arg)	6334	SCN8A	Likely pathogenic	GRCh38	2576971
+single nucleotide variant	NM_001330260.2(SCN8A):c.1238C>A (p.Ala413Asp)	6334	SCN8A	Likely pathogenic	GRCh38	2578022
+single nucleotide variant	NM_001330260.2(SCN8A):c.2812A>T (p.Ile938Phe)	6334	SCN8A	Likely pathogenic	GRCh38	2584400
+single nucleotide variant	NM_001330260.2(SCN8A):c.2683C>G (p.Gln895Glu)	6334	SCN8A	Likely pathogenic	GRCh38	2627813
+single nucleotide variant	NM_001330260.2(SCN8A):c.755C>G (p.Ser252Ter)	6334	SCN8A	Pathogenic	GRCh38	2627865
+single nucleotide variant	NM_001330260.2(SCN8A):c.751C>G (p.Leu251Val)	6334	SCN8A	Likely pathogenic	GRCh38	2633506
+single nucleotide variant	NM_001330260.2(SCN8A):c.4465T>C (p.Tyr1489His)	6334	SCN8A	Likely pathogenic	GRCh38	2663291
+single nucleotide variant	NM_001330260.2(SCN8A):c.2803G>T (p.Gly935Trp)	6334	SCN8A	Likely pathogenic	GRCh38	2664665
+single nucleotide variant	NM_001330260.2(SCN8A):c.4460A>T (p.Lys1487Met)	6334	SCN8A	Likely pathogenic	GRCh38	2687749
+single nucleotide variant	NM_001330260.2(SCN8A):c.4408C>G (p.Gln1470Glu)	6334	SCN8A	Pathogenic	GRCh38	2690491
+single nucleotide variant	NM_001330260.2(SCN8A):c.929-2A>G	6334	SCN8A	Pathogenic	GRCh38	2702457
+single nucleotide variant	NM_001330260.2(SCN8A):c.1498C>T (p.Gln500Ter)	6334	SCN8A	Pathogenic	GRCh38	2707574
+single nucleotide variant	NM_001330260.2(SCN8A):c.1101G>C (p.Met367Ile)	6334	SCN8A	Likely pathogenic	GRCh38	2743423
+single nucleotide variant	NM_001330260.2(SCN8A):c.276+1G>A	6334	SCN8A	Likely pathogenic	GRCh38	2765994
+single nucleotide variant	NM_001330260.2(SCN8A):c.2791C>T (p.Arg931Ter)	6334	SCN8A	Pathogenic	GRCh38	2780249
+single nucleotide variant	NM_001330260.2(SCN8A):c.5633C>G (p.Pro1878Arg)	6334	SCN8A	Pathogenic	GRCh38	2810214
+single nucleotide variant	NM_001330260.2(SCN8A):c.2617G>C (p.Gly873Arg)	6334	SCN8A	Pathogenic	GRCh38	2812823
+single nucleotide variant	NM_001330260.2(SCN8A):c.2534C>G (p.Ser845Cys)	6334	SCN8A	Likely pathogenic	GRCh38	2820766
+single nucleotide variant	NM_001330260.2(SCN8A):c.4935G>T (p.Met1645Ile)	6334	SCN8A	Likely pathogenic	GRCh38	2828198
+single nucleotide variant	NM_001330260.2(SCN8A):c.1222G>T (p.Ala408Ser)	6334	SCN8A	Likely pathogenic	GRCh38	2831124
+single nucleotide variant	NM_001330260.2(SCN8A):c.4948G>C (p.Ala1650Pro)	6334	SCN8A	Likely pathogenic	GRCh38	2839267
+single nucleotide variant	NM_001330260.2(SCN8A):c.4438T>G (p.Phe1480Val)	6334	SCN8A	Pathogenic	GRCh38	2831357
+single nucleotide variant	NM_001330260.2(SCN8A):c.4445C>A (p.Thr1482Asn)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	2851717
+single nucleotide variant	NM_001330260.2(SCN8A):c.4880T>C (p.Ile1627Thr)	6334	SCN8A	Likely pathogenic	GRCh38	2852598
+single nucleotide variant	NM_001330260.2(SCN8A):c.4377C>G (p.Phe1459Leu)	6334	SCN8A	Pathogenic	GRCh38	2865484
+single nucleotide variant	NM_001330260.2(SCN8A):c.4398C>G (p.Asn1466Lys)	6334	SCN8A	Pathogenic	GRCh38	2907429
+single nucleotide variant	NM_001330260.2(SCN8A):c.2507A>T (p.Asp836Val)	6334	SCN8A	Likely pathogenic	GRCh38	3063576
+single nucleotide variant	NM_001330260.2(SCN8A):c.4394A>G (p.Asp1465Gly)	6334	SCN8A	Likely pathogenic	GRCh38	3067598
+single nucleotide variant	NM_001330260.2(SCN8A):c.445A>G (p.Met149Val)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	3235701
+single nucleotide variant	NM_001330260.2(SCN8A):c.677G>C (p.Arg226Pro)	6334	SCN8A	Likely pathogenic	GRCh38	3238793
+single nucleotide variant	NM_001330260.2(SCN8A):c.3552G>A (p.Trp1184Ter)	6334	SCN8A	Pathogenic	GRCh38	3239378
+single nucleotide variant	NM_001330260.2(SCN8A):c.5282A>G (p.Tyr1761Cys)	6334	SCN8A	Pathogenic	GRCh38	3254875
+single nucleotide variant	NM_001330260.2(SCN8A):c.2396A>G (p.Glu799Gly)	6334	SCN8A	Likely pathogenic	GRCh38	3337560
+single nucleotide variant	NM_001330260.2(SCN8A):c.4355C>T (p.Ser1452Phe)	6334	SCN8A	Likely pathogenic	GRCh38	3337562
+single nucleotide variant	NM_001330260.2(SCN8A):c.4672A>G (p.Asn1558Asp)	6334	SCN8A	Likely pathogenic	GRCh38	3340911
+single nucleotide variant	NM_001330260.2(SCN8A):c.782G>T (p.Cys261Phe)	6334	SCN8A	Likely pathogenic	GRCh38	3344041
+single nucleotide variant	NM_001330260.2(SCN8A):c.1225G>C (p.Val409Leu)	6334	SCN8A	Likely pathogenic	GRCh38	3352028
+single nucleotide variant	NM_001330260.2(SCN8A):c.2857T>C (p.Cys953Arg)	6334	SCN8A	Likely pathogenic	GRCh38	3359013
+single nucleotide variant	NM_001330260.2(SCN8A):c.4963G>A (p.Gly1655Ser)	6334	SCN8A	Likely pathogenic	GRCh38	3359076
+single nucleotide variant	NM_001330260.2(SCN8A):c.323C>T (p.Ala108Val)	6334	SCN8A	Likely pathogenic	GRCh38	3359106
+single nucleotide variant	NM_001330260.2(SCN8A):c.3916G>A (p.Ala1306Thr)	6334	SCN8A	Likely pathogenic	GRCh38	3366192
+single nucleotide variant	NM_001330260.2(SCN8A):c.4784T>C (p.Leu1595Pro)	6334	SCN8A	Likely pathogenic	GRCh38	3370500
+single nucleotide variant	NM_001330260.2(SCN8A):c.677G>A (p.Arg226Gln)	6334	SCN8A	Likely pathogenic	GRCh38	3375736
+single nucleotide variant	NM_001330260.2(SCN8A):c.4774G>T (p.Val1592Leu)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	3375774
+single nucleotide variant	NM_001330260.2(SCN8A):c.4674C>A (p.Asn1558Lys)	6334	SCN8A	Likely pathogenic	GRCh38	3377217
+single nucleotide variant	NM_001330260.2(SCN8A):c.1723C>T (p.Arg575Ter)	6334	SCN8A	Likely pathogenic	GRCh38	3378401
+single nucleotide variant	NM_001330260.2(SCN8A):c.596T>G (p.Phe199Cys)	6334	SCN8A	Pathogenic	GRCh38	3390945
+single nucleotide variant	NM_001330260.2(SCN8A):c.2570C>A (p.Ser857Tyr)	6334	SCN8A	Pathogenic	GRCh38	3391489
+single nucleotide variant	NM_001330260.2(SCN8A):c.691A>C (p.Ile231Leu)	6334	SCN8A	Likely pathogenic	GRCh38	3392605
+single nucleotide variant	NM_001330260.2(SCN8A):c.842G>A (p.Cys281Tyr)	6334	SCN8A	Likely pathogenic	GRCh38	3393446
+single nucleotide variant	NM_001330260.2(SCN8A):c.431C>G (p.Thr144Ser)	6334	SCN8A	Likely pathogenic	GRCh38	3600649
+single nucleotide variant	NM_001330260.2(SCN8A):c.1202A>C (p.Tyr401Ser)	6334	SCN8A	Likely pathogenic	GRCh38	3635183
+single nucleotide variant	NM_001330260.2(SCN8A):c.4424G>C (p.Gly1475Ala)	6334	SCN8A	Likely pathogenic	GRCh38	3635206
+single nucleotide variant	NM_001330260.2(SCN8A):c.4863G>C (p.Leu1621Phe)	6334	SCN8A	Pathogenic	GRCh38	3635209
+single nucleotide variant	NM_001330260.2(SCN8A):c.4893C>G (p.Ile1631Met)	6334	SCN8A	Pathogenic	GRCh38	3635210
+single nucleotide variant	NM_001330260.2(SCN8A):c.3350C>A (p.Ser1117Ter)	6334	SCN8A	Pathogenic	GRCh38	3656575
+single nucleotide variant	NM_001330260.2(SCN8A):c.3925C>T (p.Arg1309Ter)	6334	SCN8A	Pathogenic/Likely pathogenic	GRCh38	3728554
+single nucleotide variant	NM_001330260.2(SCN8A):c.3926G>T (p.Arg1309Leu)	6334	SCN8A	Pathogenic	GRCh38	3764159
+single nucleotide variant	NM_001330260.2(SCN8A):c.2942G>C (p.Ser981Thr)	6334	SCN8A	Likely pathogenic	GRCh38	3770212
+single nucleotide variant	NM_001330260.2(SCN8A):c.3792G>A (p.Trp1264Ter)	6334	SCN8A	Likely pathogenic	GRCh38	3775072
+single nucleotide variant	NM_001330260.2(SCN8A):c.4469A>G (p.Asn1490Ser)	6334	SCN8A	Likely pathogenic	GRCh38	3775645
+single nucleotide variant	NM_001330260.2(SCN8A):c.506A>G (p.Tyr169Cys)	6334	SCN8A	Likely pathogenic	GRCh38	3793258
+single nucleotide variant	NM_001330260.2(SCN8A):c.752T>C (p.Leu251Pro)	6334	SCN8A	Pathogenic	GRCh38	3893314
+single nucleotide variant	NM_001330260.2(SCN8A):c.2641G>T (p.Val881Leu)	6334	SCN8A	Likely pathogenic	GRCh38	3897719
+single nucleotide variant	NM_001330260.2(SCN8A):c.4958A>T (p.Asn1653Ile)	6334	SCN8A	Likely pathogenic	GRCh38	3906519
+single nucleotide variant	NM_001330260.2(SCN8A):c.2858G>A (p.Cys953Tyr)	6334	SCN8A	Likely pathogenic	GRCh38	4056325
+single nucleotide variant	NM_001330260.2(SCN8A):c.2525T>C (p.Val842Ala)	6334	SCN8A	Likely pathogenic	GRCh38	4056851
+single nucleotide variant	NM_001330260.2(SCN8A):c.3819+2T>C	6334	SCN8A	Likely pathogenic	GRCh38	4056866
+single nucleotide variant	NM_001330260.2(SCN8A):c.4935G>A (p.Met1645Ile)	6334	SCN8A	Pathogenic	GRCh38	4073673
+single nucleotide variant	NM_001330260.2(SCN8A):c.3601G>A (p.Glu1201Lys)	6334	SCN8A	Pathogenic	GRCh38	4083413
+single nucleotide variant	NM_001330260.2(SCN8A):c.692T>C (p.Ile231Thr)	6334	SCN8A	Pathogenic	GRCh38	4086453
+single nucleotide variant	NM_001330260.2(SCN8A):c.1079T>C (p.Phe360Ser)	6334	SCN8A	Likely pathogenic	GRCh38	4277912
+single nucleotide variant	NM_001330260.2(SCN8A):c.3946G>A (p.Val1316Met)	6334	SCN8A	Likely pathogenic	GRCh38	4291098
+single nucleotide variant	NM_001330260.2(SCN8A):c.5290A>G (p.Ile1764Val)	6334	SCN8A	Likely pathogenic	GRCh38	4292416
+single nucleotide variant	NM_001330260.2(SCN8A):c.5383T>C (p.Phe1795Leu)	6334	SCN8A	Likely pathogenic	GRCh38	4293383
+single nucleotide variant	NM_001330260.2(SCN8A):c.3968C>A (p.Ala1323Asp)	6334	SCN8A	Likely pathogenic	GRCh38	4293410
+single nucleotide variant	NM_014191.4(SCN8A):c.644A>G (p.Asn215Ser)	6334	SCN8A	Likely pathogenic	GRCh38	4526558
+single nucleotide variant	NM_001330260.2(SCN8A):c.4214C>A (p.Ala1405Asp)	6334	SCN8A	Likely pathogenic	GRCh38	4528278
+single nucleotide variant	NM_001330260.2(SCN8A):c.5590A>T (p.Ile1864Phe)	6334	SCN8A	Likely pathogenic	GRCh38	4681338
+single nucleotide variant	NM_001330260.2(SCN8A):c.1135-1G>A	6334	SCN8A	Likely pathogenic	GRCh38	4683110
+single nucleotide variant	NM_001330260.2(SCN8A):c.5304C>A (p.Asn1768Lys)	6334	SCN8A	Likely pathogenic	GRCh38	4685081
+single nucleotide variant	NM_001330260.2(SCN8A):c.2540G>C (p.Arg847Pro)	6334	SCN8A	Pathogenic	GRCh38	4685498
+single nucleotide variant	NM_001330260.2(SCN8A):c.3926G>C (p.Arg1309Pro)	6334	SCN8A	Pathogenic	GRCh38	4686867
+single nucleotide variant	NM_001330260.2(SCN8A):c.614+1G>C	6334	SCN8A	Likely pathogenic	GRCh38	4731744
+single nucleotide variant	NM_001330260.2(SCN8A):c.5632C>T (p.Pro1878Ser)	6334	SCN8A	Likely pathogenic	GRCh38	4739097
+single nucleotide variant	NM_001330260.2(SCN8A):c.667A>G (p.Arg223Gly)	6334	SCN8A	Pathogenic	GRCh38	4750144
+single nucleotide variant	NM_001330260.2(SCN8A):c.1103C>T (p.Thr368Ile)	6334	SCN8A	Likely pathogenic	GRCh38	4801270
+single nucleotide variant	NM_001330260.2(SCN8A):c.1124T>C (p.Leu375Ser)	6334	SCN8A	Pathogenic	GRCh38	4801272
+single nucleotide variant	NM_001330260.2(SCN8A):c.4612A>G (p.Thr1538Ala)	6334	SCN8A	Likely pathogenic	GRCh38	4801286
+single nucleotide variant	NM_001330260.2(SCN8A):c.4859G>C (p.Arg1620Pro)	6334	SCN8A	Pathogenic	GRCh38	4812133
+single nucleotide variant	NM_001330260.2(SCN8A):c.3943-1G>A	6334	SCN8A	Likely pathogenic	GRCh38	4820633
+single nucleotide variant	NM_001330260.2(SCN8A):c.1242T>G (p.Tyr414Ter)	6334	SCN8A	Pathogenic	GRCh38	4840022
+single nucleotide variant	NM_001330260.2(SCN8A):c.1202A>G (p.Tyr401Cys)	6334	SCN8A	Pathogenic	GRCh38	4840838
+single nucleotide variant	NM_001330260.2(SCN8A):c.2575C>T (p.Pro859Ser)	6334	SCN8A	Likely pathogenic	GRCh38	4850190
+single nucleotide variant	NM_001330260.2(SCN8A):c.4502A>G (p.Gln1501Arg)	6334	SCN8A	Likely pathogenic	GRCh38	4852878
+single nucleotide variant	NM_001330260.2(SCN8A):c.4282-1G>A	6334	SCN8A	Likely pathogenic	GRCh38	4854991
+single nucleotide variant	NM_001330260.2(SCN8A):c.2549G>T (p.Arg850Leu)	6334	SCN8A	Likely pathogenic	GRCh38	4855563
+single nucleotide variant	NM_001330260.2(SCN8A):c.4876C>G (p.Arg1626Gly)	6334	SCN8A	Likely pathogenic	GRCh38	4864180
+single nucleotide variant	NM_001330260.2(SCN8A):c.714G>C (p.Lys238Asn)	6334	SCN8A	Likely pathogenic	GRCh38	4864181
+single nucleotide variant	NM_001330260.2(SCN8A):c.5615G>C (p.Arg1872Pro)	6334	SCN8A	Likely pathogenic	GRCh38	4871762
+single nucleotide variant	NM_001330260.2(SCN8A):c.1067T>A (p.Phe356Tyr)	6334	SCN8A	Likely pathogenic	GRCh38	4876701
+single nucleotide variant	NM_014191.4(SCN8A):c.669G>C (p.Arg223Ser)	6334	SCN8A	Likely pathogenic	GRCh38	4879832

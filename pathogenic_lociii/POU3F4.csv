@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000307.5(POU3F4):c.604A>T (p.Lys202Ter)	5456	POU3F4	Pathogenic	GRCh38	11678
+single nucleotide variant	NM_000307.5(POU3F4):c.950T>G (p.Leu317Trp)	5456	POU3F4	Pathogenic	GRCh38	11679
+single nucleotide variant	NM_000307.5(POU3F4):c.1000A>G (p.Lys334Glu)	5456	POU3F4	Likely pathogenic	GRCh38	11680
+single nucleotide variant	NM_000307.5(POU3F4):c.935C>T (p.Ala312Val)	5456	POU3F4	Pathogenic	GRCh38	11682
+single nucleotide variant	NM_000307.5(POU3F4):c.990A>T (p.Arg330Ser)	5456	POU3F4	Pathogenic	GRCh38	11683
+single nucleotide variant	NM_000307.5(POU3F4):c.967C>G (p.Arg323Gly)	5456	POU3F4	Pathogenic	GRCh38	11684
+single nucleotide variant	NM_000307.5(POU3F4):c.341G>A (p.Trp114Ter)	5456	POU3F4	Pathogenic/Likely pathogenic	GRCh38	43346
+single nucleotide variant	NM_000307.5(POU3F4):c.499C>T (p.Arg167Ter)	5456	POU3F4	Pathogenic	GRCh38	43347
+single nucleotide variant	NM_000307.5(POU3F4):c.695T>C (p.Ile232Thr)	5456	POU3F4	Likely pathogenic	GRCh38	43350
+single nucleotide variant	NM_000307.5(POU3F4):c.968G>A (p.Arg323His)	5456	POU3F4	Likely pathogenic	GRCh38	179963
+single nucleotide variant	NM_000307.5(POU3F4):c.235C>T (p.Gln79Ter)	5456	POU3F4	Pathogenic	GRCh38	236062
+single nucleotide variant	NM_000307.5(POU3F4):c.647G>A (p.Gly216Glu)	5456	POU3F4	Likely pathogenic	GRCh38	422492
+single nucleotide variant	NM_000307.5(POU3F4):c.232C>T (p.Gln78Ter)	5456	POU3F4	Pathogenic	GRCh38	426228
+single nucleotide variant	NM_000307.5(POU3F4):c.478C>T (p.Gln160Ter)	5456	POU3F4	Pathogenic	GRCh38	562096
+single nucleotide variant	NM_000307.5(POU3F4):c.975G>A (p.Trp325Ter)	5456	POU3F4	Pathogenic	GRCh38	599350
+single nucleotide variant	NM_000307.5(POU3F4):c.385C>T (p.Gln129Ter)	5456	POU3F4	Likely pathogenic	GRCh38	620545
+single nucleotide variant	NM_000307.5(POU3F4):c.170G>A (p.Trp57Ter)	5456	POU3F4	Pathogenic	GRCh38	627470
+single nucleotide variant	NM_000307.5(POU3F4):c.530C>A (p.Ser177Ter)	5456	POU3F4	Pathogenic	GRCh38	988337
+single nucleotide variant	NM_000307.5(POU3F4):c.929C>A (p.Ser310Ter)	5456	POU3F4	Likely pathogenic	GRCh38	1180654
+single nucleotide variant	NM_000307.5(POU3F4):c.669T>A (p.Tyr223Ter)	5456	POU3F4	Pathogenic	GRCh38	1185618
+single nucleotide variant	NM_000307.5(POU3F4):c.985C>G (p.Arg329Gly)	5456	POU3F4	Likely pathogenic	GRCh38	1297060
+single nucleotide variant	NM_000307.5(POU3F4):c.983A>G (p.Asn328Ser)	5456	POU3F4	Likely pathogenic	GRCh38	1799531
+single nucleotide variant	NM_000307.5(POU3F4):c.916C>T (p.Gln306Ter)	5456	POU3F4	Pathogenic	GRCh38	1799532
+single nucleotide variant	NM_000307.5(POU3F4):c.686A>G (p.Gln229Arg)	5456	POU3F4	Likely pathogenic	GRCh38	1879006
+single nucleotide variant	NM_000307.5(POU3F4):c.923T>A (p.Ile308Asn)	5456	POU3F4	Likely pathogenic	GRCh38	2505307
+single nucleotide variant	NM_000307.5(POU3F4):c.767T>C (p.Leu256Pro)	5456	POU3F4	Likely pathogenic	GRCh38	2505308
+single nucleotide variant	NM_000307.5(POU3F4):c.985C>T (p.Arg329Ter)	5456	POU3F4	Pathogenic	GRCh38	2582793
+single nucleotide variant	NM_000307.5(POU3F4):c.191G>A (p.Gly64Glu)	5456	POU3F4	Likely pathogenic	GRCh38	3250397
+single nucleotide variant	NM_000307.5(POU3F4):c.683C>T (p.Ser228Leu)	5456	POU3F4	Likely pathogenic	GRCh38	3346292
+single nucleotide variant	NM_000307.5(POU3F4):c.782C>A (p.Ser261Ter)	5456	POU3F4	Pathogenic	GRCh38	3387797
+single nucleotide variant	NM_000307.5(POU3F4):c.1085G>C (p.Ter362Ser)	5456	POU3F4	Pathogenic	GRCh38	3601644
+single nucleotide variant	NM_000307.5(POU3F4):c.126C>G (p.Tyr42Ter)	5456	POU3F4	Pathogenic	GRCh38	3601645
+single nucleotide variant	NM_000307.5(POU3F4):c.342G>A (p.Trp114Ter)	5456	POU3F4	Pathogenic	GRCh38	3601654
+single nucleotide variant	NM_000307.5(POU3F4):c.346G>T (p.Ala116Ser)	5456	POU3F4	Pathogenic	GRCh38	3601655
+single nucleotide variant	NM_000307.5(POU3F4):c.441C>G (p.His147Gln)	5456	POU3F4	Pathogenic	GRCh38	3601662
+single nucleotide variant	NM_000307.5(POU3F4):c.577G>T (p.Glu193Ter)	5456	POU3F4	Pathogenic	GRCh38	3601665
+single nucleotide variant	NM_000307.5(POU3F4):c.680T>C (p.Phe227Ser)	5456	POU3F4	Likely pathogenic	GRCh38	3601669
+single nucleotide variant	NM_000307.5(POU3F4):c.683C>A (p.Ser228Ter)	5456	POU3F4	Pathogenic	GRCh38	3601670
+single nucleotide variant	NM_000307.5(POU3F4):c.700A>G (p.Arg234Gly)	5456	POU3F4	Likely pathogenic	GRCh38	3601672
+single nucleotide variant	NM_000307.5(POU3F4):c.700A>T (p.Arg234Trp)	5456	POU3F4	Likely pathogenic	GRCh38	3601673
+single nucleotide variant	NM_000307.5(POU3F4):c.844C>T (p.Arg282Trp)	5456	POU3F4	Likely pathogenic	GRCh38	3601678
+single nucleotide variant	NM_000307.5(POU3F4):c.856G>T (p.Glu286Ter)	5456	POU3F4	Pathogenic	GRCh38	3601680
+single nucleotide variant	NM_000307.5(POU3F4):c.932T>A (p.Leu311Gln)	5456	POU3F4	Likely pathogenic	GRCh38	3601685
+single nucleotide variant	NM_000307.5(POU3F4):c.962T>A (p.Val321Glu)	5456	POU3F4	Likely pathogenic	GRCh38	3601687
+single nucleotide variant	NM_000307.5(POU3F4):c.976T>A (p.Phe326Ile)	5456	POU3F4	Pathogenic	GRCh38	3601688
+single nucleotide variant	NM_000307.5(POU3F4):c.991C>T (p.Gln331Ter)	5456	POU3F4	Pathogenic	GRCh38	3601689
+single nucleotide variant	NM_000307.5(POU3F4):c.583G>T (p.Glu195Ter)	5456	POU3F4	Pathogenic	GRCh38	3630026
+single nucleotide variant	NM_000307.5(POU3F4):c.974G>C (p.Trp325Ser)	5456	POU3F4	Likely pathogenic	GRCh38	3910026
+single nucleotide variant	NM_000307.5(POU3F4):c.769G>A (p.Glu257Lys)	5456	POU3F4	Likely pathogenic	GRCh38	4056410
+single nucleotide variant	NM_000307.5(POU3F4):c.986G>C (p.Arg329Pro)	5456	POU3F4	Likely pathogenic	GRCh38	4685572
+single nucleotide variant	NM_000307.5(POU3F4):c.935C>A (p.Ala312Glu)	5456	POU3F4	Likely pathogenic	GRCh38	4820154
+single nucleotide variant	NM_000307.5(POU3F4):c.598C>T (p.Gln200Ter)	5456	POU3F4	Pathogenic	GRCh38	4823835
+single nucleotide variant	NM_000307.5(POU3F4):c.962T>C (p.Val321Ala)	5456	POU3F4	Likely pathogenic	GRCh38	4854105
+single nucleotide variant	NM_000307.5(POU3F4):c.76C>T (p.Gln26Ter)	5456	POU3F4	Pathogenic	GRCh38	4857595

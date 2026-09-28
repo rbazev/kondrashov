@@ -88,6 +88,7 @@ single nucleotide variant	NM_000071.3(CBS):c.637G>T (p.Glu213Ter)	875	CBS	Likely
 single nucleotide variant	NM_000071.3(CBS):c.529A>T (p.Lys177Ter)	875	CBS	Likely pathogenic	GRCh38	984018
 single nucleotide variant	NM_000071.3(CBS):c.430G>T (p.Glu144Ter)	875	CBS	Likely pathogenic	GRCh38	984019
 single nucleotide variant	NM_000071.3(CBS):c.903C>A (p.Tyr301Ter)	875	CBS	Likely pathogenic	GRCh38	987499
+single nucleotide variant	NM_000071.3(CBS):c.359A>G (p.Asp120Gly)	875	CBS	Likely pathogenic	GRCh38	1041073
 single nucleotide variant	NM_000071.3(CBS):c.1007G>C (p.Arg336Pro)	875	CBS	Pathogenic/Likely pathogenic	GRCh38	1052953
 single nucleotide variant	NM_000071.3(CBS):c.1039+5G>C	875	CBS	Likely pathogenic	GRCh38	1066788
 single nucleotide variant	NM_000071.3(CBS):c.869C>T (p.Pro290Leu)	875	CBS	Pathogenic/Likely pathogenic	GRCh38	1066972
@@ -196,3 +197,11 @@ single nucleotide variant	NM_000071.3(CBS):c.1554C>A (p.Tyr518Ter)	875	CBS	Likel
 single nucleotide variant	NM_000071.3(CBS):c.1619T>A (p.Leu540Gln)	875	CBS	Likely pathogenic	GRCh38	4816525
 single nucleotide variant	NM_000071.3(CBS):c.316+2T>C	875	CBS	Likely pathogenic	GRCh38	4816551
 single nucleotide variant	NM_000071.3(CBS):c.847G>T (p.Glu283Ter)	875	CBS	Likely pathogenic	GRCh38	4816738
+single nucleotide variant	NM_000071.3(CBS):c.194A>C (p.His65Pro)	875	CBS	Likely pathogenic	GRCh38	4857211
+single nucleotide variant	NM_000071.3(CBS):c.1274T>C (p.Val425Ala)	875	CBS	Pathogenic	GRCh38	4888515
+single nucleotide variant	NM_000071.3(CBS):c.617T>C (p.Val206Ala)	875	CBS	Pathogenic	GRCh38	4888516
+single nucleotide variant	NM_000071.3(CBS):c.757G>A (p.Ala253Thr)	875	CBS	Pathogenic	GRCh38	4888592
+single nucleotide variant	NM_000071.3(CBS):c.1354G>A (p.Ala452Thr)	875	CBS	Pathogenic	GRCh38	4888622
+single nucleotide variant	NM_000071.3(CBS):c.1162G>T (p.Asp388Tyr)	875	CBS	Likely pathogenic	GRCh38	4889587
+single nucleotide variant	NM_000071.3(CBS):c.841G>A (p.Asp281Asn)	875	CBS	Pathogenic	GRCh38	4890417
+single nucleotide variant	NM_000071.3(CBS):c.317T>C (p.Leu106Ser)	875	CBS	Pathogenic	GRCh38	4890642

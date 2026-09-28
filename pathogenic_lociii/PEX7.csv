@@ -1,0 +1,67 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000288.4(PEX7):c.875T>A (p.Leu292Ter)	5191	PEX7	Pathogenic	GRCh38	7780
+single nucleotide variant	NM_000288.4(PEX7):c.653C>T (p.Ala218Val)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	7781
+single nucleotide variant	NM_000288.4(PEX7):c.649G>A (p.Gly217Arg)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	7782
+single nucleotide variant	NM_000288.4(PEX7):c.694C>T (p.Arg232Ter)	5191	PEX7	Pathogenic	GRCh38	7783
+single nucleotide variant	NM_000288.4(PEX7):c.903+1G>C	5191	PEX7	Pathogenic	GRCh38	7785
+single nucleotide variant	NM_000288.4(PEX7):c.345T>G (p.Tyr115Ter)	5191	PEX7	Pathogenic	GRCh38	7786
+single nucleotide variant	NM_000288.4(PEX7):c.120C>G (p.Tyr40Ter)	5191	PEX7	Pathogenic	GRCh38	7788
+single nucleotide variant	NM_000288.4(PEX7):c.40A>C (p.Thr14Pro)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	7790
+single nucleotide variant	NM_000288.4(PEX7):c.-45C>T	5191	PEX7	Likely pathogenic	GRCh38	38871
+single nucleotide variant	NM_000288.4(PEX7):c.854A>G (p.His285Arg)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	38872
+single nucleotide variant	NM_000288.4(PEX7):c.188+1G>C	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	188975
+single nucleotide variant	NM_000288.4(PEX7):c.400G>A (p.Asp134Asn)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	188711
+single nucleotide variant	NM_000288.4(PEX7):c.618G>A (p.Trp206Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	189076
+single nucleotide variant	NM_000288.4(PEX7):c.60C>G (p.Tyr20Ter)	5191	PEX7	Likely pathogenic	GRCh38	370938
+single nucleotide variant	NM_000288.4(PEX7):c.81C>G (p.Tyr27Ter)	5191	PEX7	Likely pathogenic	GRCh38	370746
+single nucleotide variant	NM_000288.4(PEX7):c.130+1G>C	5191	PEX7	Likely pathogenic	GRCh38	370520
+single nucleotide variant	NM_000288.4(PEX7):c.277C>T (p.Gln93Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	370682
+single nucleotide variant	NM_000288.4(PEX7):c.334C>T (p.Gln112Ter)	5191	PEX7	Pathogenic	GRCh38	371661
+single nucleotide variant	NM_000288.4(PEX7):c.339+2T>C	5191	PEX7	Pathogenic	GRCh38	371166
+single nucleotide variant	NM_000288.4(PEX7):c.527-2A>G	5191	PEX7	Likely pathogenic	GRCh38	371524
+single nucleotide variant	NM_000288.4(PEX7):c.633+1G>A	5191	PEX7	Likely pathogenic	GRCh38	371080
+single nucleotide variant	NM_000288.4(PEX7):c.748-2A>G	5191	PEX7	Likely pathogenic	GRCh38	370873
+single nucleotide variant	NM_000288.4(PEX7):c.922G>T (p.Asp308Tyr)	5191	PEX7	Likely pathogenic	GRCh38	430261
+single nucleotide variant	NM_000288.4(PEX7):c.357G>A (p.Trp119Ter)	5191	PEX7	Pathogenic	GRCh38	436286
+single nucleotide variant	NM_000288.4(PEX7):c.189-2A>G	5191	PEX7	Likely pathogenic	GRCh38	555298
+single nucleotide variant	NM_000288.4(PEX7):c.131-2A>G	5191	PEX7	Likely pathogenic	GRCh38	553298
+single nucleotide variant	NM_000288.4(PEX7):c.373G>T (p.Glu125Ter)	5191	PEX7	Likely pathogenic	GRCh38	554436
+single nucleotide variant	NM_000288.4(PEX7):c.130+1G>A	5191	PEX7	Pathogenic	GRCh38	639671
+single nucleotide variant	NM_000288.4(PEX7):c.188+1G>A	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	813363
+single nucleotide variant	NM_000288.4(PEX7):c.592C>T (p.Gln198Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	813366
+single nucleotide variant	NM_000288.4(PEX7):c.418-1G>C	5191	PEX7	Likely pathogenic	GRCh38	843768
+single nucleotide variant	NM_000288.4(PEX7):c.531T>G (p.Asp177Glu)	5191	PEX7	Likely pathogenic	GRCh38	986413
+single nucleotide variant	NM_000288.4(PEX7):c.131-1G>A	5191	PEX7	Likely pathogenic	GRCh38	1067814
+single nucleotide variant	NM_000288.4(PEX7):c.112C>T (p.Gln38Ter)	5191	PEX7	Pathogenic	GRCh38	1068851
+single nucleotide variant	NM_000288.4(PEX7):c.209T>G (p.Leu70Trp)	5191	PEX7	Likely pathogenic	GRCh38	1180601
+single nucleotide variant	NM_000288.4(PEX7):c.376C>T (p.Gln126Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	1339708
+single nucleotide variant	NM_000288.4(PEX7):c.488G>A (p.Trp163Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	1449189
+single nucleotide variant	NM_000288.4(PEX7):c.804-2A>C	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	1486959
+single nucleotide variant	NM_000288.4(PEX7):c.130+2T>G	5191	PEX7	Pathogenic	GRCh38	1453098
+single nucleotide variant	NM_000288.4(PEX7):c.340-1G>T	5191	PEX7	Likely pathogenic	GRCh38	1482899
+single nucleotide variant	NM_000288.4(PEX7):c.257G>A (p.Cys86Tyr)	5191	PEX7	Likely pathogenic	GRCh38	1488298
+single nucleotide variant	NM_000288.4(PEX7):c.418-1G>A	5191	PEX7	Likely pathogenic	GRCh38	1698602
+single nucleotide variant	NM_000288.4(PEX7):c.622A>T (p.Lys208Ter)	5191	PEX7	Likely pathogenic	GRCh38	1723913
+single nucleotide variant	NM_000288.4(PEX7):c.463G>T (p.Glu155Ter)	5191	PEX7	Likely pathogenic	GRCh38	1725220
+single nucleotide variant	NM_000288.4(PEX7):c.668T>A (p.Leu223Ter)	5191	PEX7	Likely pathogenic	GRCh38	1725870
+single nucleotide variant	NM_000288.4(PEX7):c.361C>T (p.Gln121Ter)	5191	PEX7	Likely pathogenic	GRCh38	2677724
+single nucleotide variant	NM_000288.4(PEX7):c.549G>A (p.Trp183Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	2677725
+single nucleotide variant	NM_000288.4(PEX7):c.634-2A>G	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	2677727
+single nucleotide variant	NM_000288.4(PEX7):c.224G>A (p.Trp75Ter)	5191	PEX7	Likely pathogenic	GRCh38	2677728
+single nucleotide variant	NM_000288.4(PEX7):c.803+1G>A	5191	PEX7	Likely pathogenic	GRCh38	2677731
+single nucleotide variant	NM_000288.4(PEX7):c.284G>A (p.Trp95Ter)	5191	PEX7	Likely pathogenic	GRCh38	2677733
+single nucleotide variant	NM_000288.4(PEX7):c.747+1G>A	5191	PEX7	Likely pathogenic	GRCh38	2706310
+single nucleotide variant	NM_000288.4(PEX7):c.818C>G (p.Ser273Ter)	5191	PEX7	Pathogenic	GRCh38	2829116
+single nucleotide variant	NM_000288.4(PEX7):c.747+2T>A	5191	PEX7	Likely pathogenic	GRCh38	2828287
+single nucleotide variant	NM_000288.4(PEX7):c.612T>A (p.Cys204Ter)	5191	PEX7	Likely pathogenic	GRCh38	3240102
+single nucleotide variant	NM_000288.4(PEX7):c.418-2A>G	5191	PEX7	Likely pathogenic	GRCh38	3240104
+single nucleotide variant	NM_000288.4(PEX7):c.283T>G (p.Trp95Gly)	5191	PEX7	Pathogenic	GRCh38	3336540
+single nucleotide variant	NM_000288.4(PEX7):c.398G>A (p.Trp133Ter)	5191	PEX7	Likely pathogenic	GRCh38	3593207
+single nucleotide variant	NM_000288.4(PEX7):c.678G>A (p.Trp226Ter)	5191	PEX7	Pathogenic/Likely pathogenic	GRCh38	3619127
+single nucleotide variant	NM_000288.4(PEX7):c.803+1G>C	5191	PEX7	Likely pathogenic	GRCh38	3647494
+single nucleotide variant	NM_000288.4(PEX7):c.339+1G>A	5191	PEX7	Likely pathogenic	GRCh38	3661112
+single nucleotide variant	NM_000288.4(PEX7):c.903+2T>G	5191	PEX7	Pathogenic	GRCh38	4059703
+single nucleotide variant	NM_000288.4(PEX7):c.130+3G>C	5191	PEX7	Likely pathogenic	GRCh38	4747544
+single nucleotide variant	NM_000288.4(PEX7):c.19G>T (p.Gly7Ter)	5191	PEX7	Likely pathogenic	GRCh38	4818123
+single nucleotide variant	NM_000288.4(PEX7):c.454A>T (p.Arg152Ter)	5191	PEX7	Likely pathogenic	GRCh38	4818127
+single nucleotide variant	NM_000288.4(PEX7):c.804-2A>G	5191	PEX7	Pathogenic	GRCh38	4818131

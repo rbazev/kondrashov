@@ -1,0 +1,98 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001352514.2(HLCS):c.1151T>C (p.Leu384Pro)	3141	HLCS	Pathogenic	GRCh38	1907
+single nucleotide variant	NM_001352514.2(HLCS):c.2152G>A (p.Asp718Asn)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1908
+single nucleotide variant	NM_001352514.2(HLCS):c.1963C>T (p.Arg655Trp)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1909
+single nucleotide variant	NM_001352514.2(HLCS):c.2182G>A (p.Gly728Ser)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1910
+single nucleotide variant	NM_001352514.2(HLCS):c.2089G>A (p.Val697Met)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1911
+single nucleotide variant	NM_001352514.2(HLCS):c.1960+5G>A	3141	HLCS	Pathogenic	GRCh38	1912
+single nucleotide variant	NM_001352514.2(HLCS):c.1088T>G (p.Leu363Arg)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1914
+single nucleotide variant	NM_001352514.2(HLCS):c.2065C>T (p.Gln689Ter)	3141	HLCS	Pathogenic	GRCh38	199017
+single nucleotide variant	NM_001352514.2(HLCS):c.2434C>T (p.Arg812Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	203770
+single nucleotide variant	NM_001352514.2(HLCS):c.664C>T (p.Gln222Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	203773
+single nucleotide variant	NM_001352514.2(HLCS):c.2446C>T (p.His816Tyr)	3141	HLCS	Pathogenic	GRCh38	235250
+single nucleotide variant	NM_001352514.2(HLCS):c.1163G>C (p.Gly388Ala)	3141	HLCS	Likely pathogenic	GRCh38	369667
+single nucleotide variant	NM_001352514.2(HLCS):c.857T>A (p.Leu286Ter)	3141	HLCS	Likely pathogenic	GRCh38	370852
+single nucleotide variant	NM_001352514.2(HLCS):c.2134C>T (p.Arg712Ter)	3141	HLCS	Pathogenic	GRCh38	426486
+single nucleotide variant	NM_001352514.2(HLCS):c.1576C>T (p.Gln526Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	495865
+single nucleotide variant	NM_001352514.2(HLCS):c.2527C>T (p.Gln843Ter)	3141	HLCS	Likely pathogenic	GRCh38	553590
+single nucleotide variant	NM_001352514.2(HLCS):c.2121+1G>A	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	550091
+single nucleotide variant	NM_001352514.2(HLCS):c.1850T>C (p.Leu617Ser)	3141	HLCS	Likely pathogenic	GRCh38	553944
+single nucleotide variant	NM_001352514.2(HLCS):c.1621-2A>G	3141	HLCS	Likely pathogenic	GRCh38	553797
+single nucleotide variant	NM_001352514.2(HLCS):c.1620+1G>A	3141	HLCS	Likely pathogenic	GRCh38	554535
+single nucleotide variant	NM_001352514.2(HLCS):c.1529T>A (p.Val510Asp)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	550218
+single nucleotide variant	NM_001352514.2(HLCS):c.1808A>G (p.Tyr603Cys)	3141	HLCS	Likely pathogenic	GRCh38	554029
+single nucleotide variant	NM_001352514.2(HLCS):c.691G>T (p.Glu231Ter)	3141	HLCS	Pathogenic	GRCh38	578930
+single nucleotide variant	NM_001352514.2(HLCS):c.1045G>T (p.Glu349Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	582885
+single nucleotide variant	NM_001352514.2(HLCS):c.2451-1G>A	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	590835
+single nucleotide variant	NM_001352514.2(HLCS):c.1496T>A (p.Leu499Ter)	3141	HLCS	Pathogenic	GRCh38	648263
+single nucleotide variant	NM_001352514.2(HLCS):c.1151T>G (p.Leu384Arg)	3141	HLCS	Likely pathogenic	GRCh38	658832
+single nucleotide variant	NM_001352514.2(HLCS):c.535C>T (p.Gln179Ter)	3141	HLCS	Pathogenic	GRCh38	961119
+single nucleotide variant	NM_001352514.2(HLCS):c.2201C>G (p.Ser734Ter)	3141	HLCS	Likely pathogenic	GRCh38	983890
+single nucleotide variant	NM_001352514.2(HLCS):c.2044G>T (p.Gly682Ter)	3141	HLCS	Likely pathogenic	GRCh38	983891
+single nucleotide variant	NM_001352514.2(HLCS):c.1957A>T (p.Lys653Ter)	3141	HLCS	Likely pathogenic	GRCh38	983892
+single nucleotide variant	NM_001352514.2(HLCS):c.1781C>G (p.Ser594Ter)	3141	HLCS	Likely pathogenic	GRCh38	983893
+single nucleotide variant	NM_001352514.2(HLCS):c.1771G>T (p.Glu591Ter)	3141	HLCS	Likely pathogenic	GRCh38	983894
+single nucleotide variant	NM_001352514.2(HLCS):c.1719C>A (p.Tyr573Ter)	3141	HLCS	Likely pathogenic	GRCh38	984052
+single nucleotide variant	NM_001352514.2(HLCS):c.1642C>T (p.Gln548Ter)	3141	HLCS	Likely pathogenic	GRCh38	984053
+single nucleotide variant	NM_001352514.2(HLCS):c.1434C>A (p.Cys478Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	984054
+single nucleotide variant	NM_001352514.2(HLCS):c.1250T>A (p.Leu417Ter)	3141	HLCS	Likely pathogenic	GRCh38	984055
+single nucleotide variant	NM_001352514.2(HLCS):c.1132C>T (p.Gln378Ter)	3141	HLCS	Likely pathogenic	GRCh38	984056
+single nucleotide variant	NM_001352514.2(HLCS):c.886G>T (p.Glu296Ter)	3141	HLCS	Likely pathogenic	GRCh38	984057
+single nucleotide variant	NM_001352514.2(HLCS):c.840C>A (p.Tyr280Ter)	3141	HLCS	Likely pathogenic	GRCh38	984058
+single nucleotide variant	NM_001352514.2(HLCS):c.542C>A (p.Ser181Ter)	3141	HLCS	Likely pathogenic	GRCh38	984059
+single nucleotide variant	NM_001352514.2(HLCS):c.1960+1G>A	3141	HLCS	Likely pathogenic	GRCh38	2119119
+single nucleotide variant	NM_001352514.2(HLCS):c.1439T>A (p.Val480Glu)	3141	HLCS	Likely pathogenic	GRCh38	1066875
+single nucleotide variant	NM_001352514.2(HLCS):c.1646G>A (p.Trp549Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1075784
+single nucleotide variant	NM_001352514.2(HLCS):c.1156C>T (p.Gln386Ter)	3141	HLCS	Pathogenic	GRCh38	1075159
+single nucleotide variant	NM_001352514.2(HLCS):c.1621-1G>C	3141	HLCS	Likely pathogenic	GRCh38	1525644
+single nucleotide variant	NM_001352514.2(HLCS):c.763G>T (p.Glu255Ter)	3141	HLCS	Pathogenic	GRCh38	1454873
+single nucleotide variant	NM_001352514.2(HLCS):c.2279T>C (p.Ile760Thr)	3141	HLCS	Pathogenic	GRCh38	1685876
+single nucleotide variant	NM_001352514.2(HLCS):c.2144G>A (p.Trp715Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1685877
+single nucleotide variant	NM_001352514.2(HLCS):c.1524C>G (p.Tyr508Ter)	3141	HLCS	Likely pathogenic	GRCh38	1724072
+single nucleotide variant	NM_001352514.2(HLCS):c.1276G>T (p.Glu426Ter)	3141	HLCS	Likely pathogenic	GRCh38	1725057
+single nucleotide variant	NM_001352514.2(HLCS):c.759C>A (p.Cys253Ter)	3141	HLCS	Likely pathogenic	GRCh38	1725170
+single nucleotide variant	NM_001352514.2(HLCS):c.1351C>T (p.Gln451Ter)	3141	HLCS	Likely pathogenic	GRCh38	1726302
+single nucleotide variant	NM_001352514.2(HLCS):c.1610C>A (p.Ser537Ter)	3141	HLCS	Likely pathogenic	GRCh38	1726507
+single nucleotide variant	NM_001352514.2(HLCS):c.958C>T (p.Gln320Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	2155521
+single nucleotide variant	NM_001352514.2(HLCS):c.1799T>G (p.Leu600Ter)	3141	HLCS	Pathogenic	GRCh38	2178678
+single nucleotide variant	NM_001352514.2(HLCS):c.1083T>A (p.Cys361Ter)	3141	HLCS	Pathogenic/Likely pathogenic	GRCh38	1914425
+single nucleotide variant	NM_001352514.2(HLCS):c.2301C>G (p.Tyr767Ter)	3141	HLCS	Pathogenic	GRCh38	1998913
+single nucleotide variant	NM_001352514.2(HLCS):c.1831C>T (p.Gln611Ter)	3141	HLCS	Pathogenic	GRCh38	2013320
+single nucleotide variant	NM_001352514.2(HLCS):c.1621-2A>T	3141	HLCS	Likely pathogenic	GRCh38	2017786
+single nucleotide variant	NM_001352514.2(HLCS):c.2439C>G (p.Tyr813Ter)	3141	HLCS	Pathogenic	GRCh38	2045052
+single nucleotide variant	NM_001352514.2(HLCS):c.494-2A>T	3141	HLCS	Likely pathogenic	GRCh38	2125850
+single nucleotide variant	NM_001352514.2(HLCS):c.2140A>T (p.Lys714Ter)	3141	HLCS	Pathogenic	GRCh38	2228569
+single nucleotide variant	NM_001352514.2(HLCS):c.331-1G>C	3141	HLCS	Likely pathogenic	GRCh38	2676008
+single nucleotide variant	NM_001352514.2(HLCS):c.2341G>T (p.Asp781Tyr)	3141	HLCS	Likely pathogenic	GRCh38	2676009
+single nucleotide variant	NM_001352514.2(HLCS):c.2237-2A>G	3141	HLCS	Likely pathogenic	GRCh38	2676013
+single nucleotide variant	NM_001352514.2(HLCS):c.2185G>A (p.Gly729Arg)	3141	HLCS	Likely pathogenic	GRCh38	2676015
+single nucleotide variant	NM_001352514.2(HLCS):c.1892+1G>A	3141	HLCS	Likely pathogenic	GRCh38	2676016
+single nucleotide variant	NM_001352514.2(HLCS):c.1961-2A>G	3141	HLCS	Likely pathogenic	GRCh38	2676018
+single nucleotide variant	NM_001352514.2(HLCS):c.494-1G>A	3141	HLCS	Likely pathogenic	GRCh38	2676019
+single nucleotide variant	NM_001352514.2(HLCS):c.1974T>A (p.Asn658Lys)	3141	HLCS	Likely pathogenic	GRCh38	2676026
+single nucleotide variant	NM_001352514.2(HLCS):c.2450+2T>A	3141	HLCS	Likely pathogenic	GRCh38	2676027
+single nucleotide variant	NM_001352514.2(HLCS):c.2308C>T (p.Gln770Ter)	3141	HLCS	Pathogenic	GRCh38	2702226
+single nucleotide variant	NM_001352514.2(HLCS):c.2038C>T (p.Gln680Ter)	3141	HLCS	Pathogenic	GRCh38	2702884
+single nucleotide variant	NM_001352514.2(HLCS):c.2333T>G (p.Leu778Ter)	3141	HLCS	Pathogenic	GRCh38	2702856
+single nucleotide variant	NM_001352514.2(HLCS):c.2176A>T (p.Lys726Ter)	3141	HLCS	Pathogenic	GRCh38	2755955
+single nucleotide variant	NM_001352514.2(HLCS):c.1505C>G (p.Ser502Ter)	3141	HLCS	Pathogenic	GRCh38	2867942
+single nucleotide variant	NM_001352514.2(HLCS):c.1091T>A (p.Leu364Ter)	3141	HLCS	Pathogenic	GRCh38	2862015
+single nucleotide variant	NM_001352514.2(HLCS):c.505C>T (p.Gln169Ter)	3141	HLCS	Pathogenic	GRCh38	2912516
+single nucleotide variant	NM_001352514.2(HLCS):c.1980G>A (p.Trp660Ter)	3141	HLCS	Pathogenic	GRCh38	2971466
+single nucleotide variant	NM_001352514.2(HLCS):c.1437+1G>A	3141	HLCS	Likely pathogenic	GRCh38	3008529
+single nucleotide variant	NM_001352514.2(HLCS):c.655G>T (p.Glu219Ter)	3141	HLCS	Pathogenic	GRCh38	3000880
+single nucleotide variant	NM_001352514.2(HLCS):c.1610C>G (p.Ser537Ter)	3141	HLCS	Likely pathogenic	GRCh38	3061789
+single nucleotide variant	NM_001352514.2(HLCS):c.2451-2A>G	3141	HLCS	Likely pathogenic	GRCh38	3241736
+single nucleotide variant	NM_001352514.2(HLCS):c.1438-1G>C	3141	HLCS	Likely pathogenic	GRCh38	3241737
+single nucleotide variant	NM_001352514.2(HLCS):c.493+2T>C	3141	HLCS	Likely pathogenic	GRCh38	3241738
+single nucleotide variant	NM_001352514.2(HLCS):c.1892+2T>C	3141	HLCS	Likely pathogenic	GRCh38	3587672
+single nucleotide variant	NM_001352514.2(HLCS):c.1620+2T>G	3141	HLCS	Likely pathogenic	GRCh38	3587674
+single nucleotide variant	NM_001352514.2(HLCS):c.1162G>T (p.Gly388Trp)	3141	HLCS	Likely pathogenic	GRCh38	3587678
+single nucleotide variant	NM_001352514.2(HLCS):c.529A>T (p.Lys177Ter)	3141	HLCS	Pathogenic	GRCh38	3685200
+single nucleotide variant	NM_001352514.2(HLCS):c.1964G>A (p.Arg655Gln)	3141	HLCS	Likely pathogenic	GRCh38	4719186
+single nucleotide variant	NM_001352514.2(HLCS):c.1826C>T (p.Thr609Ile)	3141	HLCS	Likely pathogenic	GRCh38	4818325
+single nucleotide variant	NM_001352514.2(HLCS):c.2081T>G (p.Val694Gly)	3141	HLCS	Likely pathogenic	GRCh38	4818326
+single nucleotide variant	NM_001352514.2(HLCS):c.2237-1G>A	3141	HLCS	Likely pathogenic	GRCh38	4818327
+single nucleotide variant	NM_001352514.2(HLCS):c.493+1G>A	3141	HLCS	Likely pathogenic	GRCh38	4818330
+single nucleotide variant	NM_001352514.2(HLCS):c.1270C>T (p.Gln424Ter)	3141	HLCS	Likely pathogenic	GRCh38	4818333
+single nucleotide variant	NM_001352514.2(HLCS):c.1315C>T (p.Gln439Ter)	3141	HLCS	Likely pathogenic	GRCh38	4818334

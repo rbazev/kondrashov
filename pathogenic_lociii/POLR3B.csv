@@ -1,0 +1,60 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_018082.6(POLR3B):c.1857-2A>C	55703	POLR3B	Likely pathogenic	GRCh38	31160
+single nucleotide variant	NM_018082.6(POLR3B):c.1648C>T (p.Arg550Ter)	55703	POLR3B	Pathogenic	GRCh38	31162
+single nucleotide variant	NM_018082.6(POLR3B):c.2778C>G (p.Asp926Glu)	55703	POLR3B	Pathogenic	GRCh38	31163
+single nucleotide variant	NM_018082.6(POLR3B):c.1508C>A (p.Thr503Lys)	55703	POLR3B	Pathogenic	GRCh38	31164
+single nucleotide variant	NM_018082.6(POLR3B):c.1568T>A (p.Val523Glu)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	31166
+single nucleotide variant	NM_018082.6(POLR3B):c.2686A>T (p.Lys896Ter)	55703	POLR3B	Pathogenic	GRCh38	31167
+single nucleotide variant	NM_018082.6(POLR3B):c.1988C>T (p.Thr663Ile)	55703	POLR3B	Likely pathogenic	GRCh38	242494
+single nucleotide variant	NM_018082.6(POLR3B):c.2774C>A (p.Pro925Gln)	55703	POLR3B	Pathogenic	GRCh38	375867
+single nucleotide variant	NM_018082.6(POLR3B):c.2818-1G>T	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	379918
+single nucleotide variant	NM_018082.6(POLR3B):c.2084-6A>G	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	419962
+single nucleotide variant	NM_018082.6(POLR3B):c.2207G>C (p.Gly736Ala)	55703	POLR3B	Likely pathogenic	GRCh38	424315
+single nucleotide variant	NM_018082.6(POLR3B):c.2777A>G (p.Asp926Gly)	55703	POLR3B	Pathogenic	GRCh38	419234
+single nucleotide variant	NM_018082.6(POLR3B):c.1263+2T>C	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	488794
+single nucleotide variant	NM_018082.6(POLR3B):c.2570+1G>A	55703	POLR3B	Pathogenic	GRCh38	620581
+single nucleotide variant	NM_018082.6(POLR3B):c.1263+1G>A	55703	POLR3B	Likely pathogenic	GRCh38	632180
+single nucleotide variant	NM_018082.6(POLR3B):c.2099A>C (p.Asn700Thr)	55703	POLR3B	Likely pathogenic	GRCh38	870531
+single nucleotide variant	NM_018082.6(POLR3B):c.1094C>T (p.Ala365Val)	55703	POLR3B	Pathogenic	GRCh38	972978
+single nucleotide variant	NM_018082.6(POLR3B):c.1277T>C (p.Leu426Ser)	55703	POLR3B	Likely pathogenic	GRCh38	1048117
+single nucleotide variant	NM_018082.6(POLR3B):c.1385C>G (p.Thr462Arg)	55703	POLR3B	Likely pathogenic	GRCh38	1048511
+single nucleotide variant	NM_018082.6(POLR3B):c.1124A>T (p.Asp375Val)	55703	POLR3B	Likely pathogenic	GRCh38	1048512
+single nucleotide variant	NM_018082.6(POLR3B):c.3137G>A (p.Arg1046His)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	1048513
+single nucleotide variant	NM_018082.6(POLR3B):c.2413C>T (p.Arg805Ter)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	1069879
+single nucleotide variant	NM_018082.6(POLR3B):c.312G>T (p.Leu104Phe)	55703	POLR3B	Pathogenic	GRCh38	1184080
+single nucleotide variant	NM_018082.6(POLR3B):c.1018C>T (p.Arg340Ter)	55703	POLR3B	Pathogenic	GRCh38	1184083
+single nucleotide variant	NM_018082.6(POLR3B):c.1101+1G>C	55703	POLR3B	Likely pathogenic	GRCh38	1184094
+single nucleotide variant	NM_018082.6(POLR3B):c.985C>T (p.Arg329Ter)	55703	POLR3B	Likely pathogenic	GRCh38	1184513
+single nucleotide variant	NM_018082.6(POLR3B):c.1373A>C (p.Gln458Pro)	55703	POLR3B	Pathogenic	GRCh38	1190591
+single nucleotide variant	NM_018082.6(POLR3B):c.2104C>T (p.Arg702Ter)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	1211101
+single nucleotide variant	NM_018082.6(POLR3B):c.1285T>G (p.Phe429Val)	55703	POLR3B	Pathogenic	GRCh38	1300550
+single nucleotide variant	NM_018082.6(POLR3B):c.1297C>T (p.Arg433Cys)	55703	POLR3B	Pathogenic	GRCh38	1304259
+single nucleotide variant	NM_018082.6(POLR3B):c.1087G>A (p.Glu363Lys)	55703	POLR3B	Likely pathogenic	GRCh38	1341670
+single nucleotide variant	NM_018082.6(POLR3B):c.2809C>T (p.Arg937Ter)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	2159514
+single nucleotide variant	NM_018082.6(POLR3B):c.2293+1G>A	55703	POLR3B	Likely pathogenic	GRCh38	2189949
+single nucleotide variant	NM_018082.6(POLR3B):c.73-2A>T	55703	POLR3B	Likely pathogenic	GRCh38	1952798
+single nucleotide variant	NM_018082.6(POLR3B):c.1628-1G>C	55703	POLR3B	Likely pathogenic	GRCh38	2026152
+single nucleotide variant	NM_018082.6(POLR3B):c.1102-2A>G	55703	POLR3B	Likely pathogenic	GRCh38	2098858
+single nucleotide variant	NM_018082.6(POLR3B):c.3272+1G>T	55703	POLR3B	Likely pathogenic	GRCh38	2432826
+single nucleotide variant	NM_018082.6(POLR3B):c.664C>T (p.Arg222Ter)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	2446612
+single nucleotide variant	NM_018082.6(POLR3B):c.1765G>A (p.Gly589Arg)	55703	POLR3B	Pathogenic	GRCh38	2571977
+single nucleotide variant	NM_018082.6(POLR3B):c.1304G>T (p.Gly435Val)	55703	POLR3B	Likely pathogenic	GRCh38	2575975
+single nucleotide variant	NM_018082.6(POLR3B):c.1123G>T (p.Asp375Tyr)	55703	POLR3B	Likely pathogenic	GRCh38	2576939
+single nucleotide variant	NM_018082.6(POLR3B):c.1464+1G>T	55703	POLR3B	Likely pathogenic	GRCh38	2580913
+single nucleotide variant	NM_018082.6(POLR3B):c.1028T>C (p.Ile343Thr)	55703	POLR3B	Likely pathogenic	GRCh38	2580914
+single nucleotide variant	NM_018082.6(POLR3B):c.1310C>T (p.Thr437Ile)	55703	POLR3B	Likely pathogenic	GRCh38	3308821
+single nucleotide variant	NM_018082.6(POLR3B):c.847-2A>G	55703	POLR3B	Likely pathogenic	GRCh38	3337487
+single nucleotide variant	NM_018082.6(POLR3B):c.847-2A>C	55703	POLR3B	Likely pathogenic	GRCh38	3338027
+single nucleotide variant	NM_018082.6(POLR3B):c.72+2T>G	55703	POLR3B	Likely pathogenic	GRCh38	3720019
+single nucleotide variant	NM_018082.6(POLR3B):c.1370C>T (p.Ser457Phe)	55703	POLR3B	Likely pathogenic	GRCh38	3778742
+single nucleotide variant	NM_018082.6(POLR3B):c.2237A>G (p.Tyr746Cys)	55703	POLR3B	Likely pathogenic	GRCh38	3899299
+single nucleotide variant	NM_018082.6(POLR3B):c.2083+5G>T	55703	POLR3B	Likely pathogenic	GRCh38	3906477
+single nucleotide variant	NM_018082.6(POLR3B):c.615-1G>A	55703	POLR3B	Likely pathogenic	GRCh38	4278263
+single nucleotide variant	NM_018082.6(POLR3B):c.1102-1G>T	55703	POLR3B	Likely pathogenic	GRCh38	4379126
+single nucleotide variant	NM_018082.6(POLR3B):c.1297C>G (p.Arg433Gly)	55703	POLR3B	Pathogenic	GRCh38	4689839
+single nucleotide variant	NM_018082.6(POLR3B):c.361C>T (p.Arg121Ter)	55703	POLR3B	Pathogenic/Likely pathogenic	GRCh38	4739274
+single nucleotide variant	NM_018082.6(POLR3B):c.637A>G (p.Arg213Gly)	55703	POLR3B	Pathogenic	GRCh38	4755696
+single nucleotide variant	NM_018082.6(POLR3B):c.3260G>A (p.Gly1087Glu)	55703	POLR3B	Likely pathogenic	GRCh38	4814153
+single nucleotide variant	NM_018082.6(POLR3B):c.2142T>G (p.Tyr714Ter)	55703	POLR3B	Likely pathogenic	GRCh38	4850201
+single nucleotide variant	NM_018082.6(POLR3B):c.3082C>T (p.Arg1028Ter)	55703	POLR3B	Likely pathogenic	GRCh38	4883340
+single nucleotide variant	NM_018082.6(POLR3B):c.2605G>C (p.Val869Leu)	55703	POLR3B	Likely pathogenic	GRCh38	4886755

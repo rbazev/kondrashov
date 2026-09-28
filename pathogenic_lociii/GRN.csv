@@ -1,0 +1,64 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002087.4(GRN):c.373C>T (p.Gln125Ter)	2896	GRN	Pathogenic	GRCh38	16007
+single nucleotide variant	NM_002087.4(GRN):c.2T>C (p.Met1Thr)	2896	GRN	Pathogenic	GRCh38	16008
+single nucleotide variant	NM_002087.4(GRN):c.3G>A (p.Met1Ile)	2896	GRN	Pathogenic	GRCh38	16009
+single nucleotide variant	NM_002087.4(GRN):c.835+1G>A	2896	GRN	Likely pathogenic	GRCh38	16012
+single nucleotide variant	NM_002087.4(GRN):c.26C>A (p.Ala9Asp)	2896	GRN	Pathogenic	GRCh38	16013
+single nucleotide variant	NM_002087.4(GRN):c.1477C>T (p.Arg493Ter)	2896	GRN	Pathogenic	GRCh38	16014
+single nucleotide variant	NM_002087.4(GRN):c.709-1G>A	2896	GRN	Pathogenic	GRCh38	29743
+single nucleotide variant	NM_002087.4(GRN):c.-8+5G>C	2896	GRN	Pathogenic	GRCh38	98119
+single nucleotide variant	NM_002087.4(GRN):c.138+1G>A	2896	GRN	Pathogenic	GRCh38	98126
+single nucleotide variant	NM_002087.4(GRN):c.264G>A (p.Glu88=)	2896	GRN	Pathogenic	GRCh38	98130
+single nucleotide variant	NM_002087.4(GRN):c.328C>T (p.Arg110Ter)	2896	GRN	Pathogenic	GRCh38	98134
+single nucleotide variant	NM_002087.4(GRN):c.708+1G>C	2896	GRN	Pathogenic	GRCh38	98149
+single nucleotide variant	NM_002087.4(GRN):c.709-2A>G	2896	GRN	Pathogenic	GRCh38	98150
+single nucleotide variant	NM_002087.4(GRN):c.836-1G>C	2896	GRN	Pathogenic	GRCh38	98157
+single nucleotide variant	NM_002087.4(GRN):c.911G>A (p.Trp304Ter)	2896	GRN	Pathogenic	GRCh38	98162
+single nucleotide variant	NM_002087.4(GRN):c.933+1G>A	2896	GRN	Likely pathogenic	GRCh38	98163
+single nucleotide variant	NM_002087.4(GRN):c.1009C>T (p.Gln337Ter)	2896	GRN	Pathogenic	GRCh38	98168
+single nucleotide variant	NM_002087.4(GRN):c.1252C>T (p.Arg418Ter)	2896	GRN	Pathogenic	GRCh38	98177
+single nucleotide variant	NM_002087.4(GRN):c.1402C>T (p.Gln468Ter)	2896	GRN	Pathogenic	GRCh38	98184
+single nucleotide variant	NM_002087.4(GRN):c.462+1G>C	2896	GRN	Pathogenic	GRCh38	203455
+single nucleotide variant	NM_002087.4(GRN):c.708+1G>A	2896	GRN	Pathogenic	GRCh38	203460
+single nucleotide variant	NM_002087.4(GRN):c.882T>G (p.Tyr294Ter)	2896	GRN	Pathogenic	GRCh38	203456
+single nucleotide variant	NM_002087.4(GRN):c.1212C>A (p.Cys404Ter)	2896	GRN	Pathogenic	GRCh38	203457
+single nucleotide variant	NM_002087.4(GRN):c.6G>A (p.Trp2Ter)	2896	GRN	Pathogenic/Likely pathogenic	GRCh38	447477
+single nucleotide variant	NM_002087.4(GRN):c.599-1G>A	2896	GRN	Pathogenic/Likely pathogenic	GRCh38	447476
+single nucleotide variant	NM_002087.4(GRN):c.898C>T (p.Gln300Ter)	2896	GRN	Pathogenic	GRCh38	447479
+single nucleotide variant	NM_002087.4(GRN):c.1072C>T (p.Gln358Ter)	2896	GRN	Pathogenic/Likely pathogenic	GRCh38	447470
+single nucleotide variant	NM_002087.4(GRN):c.1414-2A>G	2896	GRN	Pathogenic	GRCh38	447471
+single nucleotide variant	NM_002087.4(GRN):c.-8+3A>G	2896	GRN	Likely pathogenic	GRCh38	546798
+single nucleotide variant	NM_002087.4(GRN):c.991C>T (p.Gln331Ter)	2896	GRN	Pathogenic	GRCh38	569790
+single nucleotide variant	NM_002087.4(GRN):c.264+1G>A	2896	GRN	Likely pathogenic	GRCh38	599611
+single nucleotide variant	NM_002087.4(GRN):c.1446C>A (p.Cys482Ter)	2896	GRN	Pathogenic	GRCh38	599613
+single nucleotide variant	NM_002087.4(GRN):c.745C>T (p.Gln249Ter)	2896	GRN	Likely pathogenic	GRCh38	805123
+single nucleotide variant	NM_002087.4(GRN):c.146G>A (p.Trp49Ter)	2896	GRN	Pathogenic	GRCh38	807610
+single nucleotide variant	NM_002087.4(GRN):c.349+1G>C	2896	GRN	Pathogenic	GRCh38	807611
+single nucleotide variant	NM_002087.4(GRN):c.918C>A (p.Cys306Ter)	2896	GRN	Pathogenic	GRCh38	807426
+single nucleotide variant	NM_002087.4(GRN):c.614C>A (p.Ser205Ter)	2896	GRN	Pathogenic	GRCh38	1072132
+single nucleotide variant	NM_002087.4(GRN):c.78C>A (p.Cys26Ter)	2896	GRN	Pathogenic	GRCh38	1184870
+single nucleotide variant	NM_002087.4(GRN):c.139-2A>G	2896	GRN	Likely pathogenic	GRCh38	1324516
+single nucleotide variant	NM_002087.4(GRN):c.1216C>T (p.Gln406Ter)	2896	GRN	Pathogenic	GRCh38	1455419
+single nucleotide variant	NM_002087.4(GRN):c.934-1G>A	2896	GRN	Likely pathogenic	GRCh38	1497422
+single nucleotide variant	NM_002087.4(GRN):c.1A>G (p.Met1Val)	2896	GRN	Pathogenic	GRCh38	1352426
+single nucleotide variant	NM_002087.4(GRN):c.52A>G (p.Thr18Ala)	2896	GRN	Pathogenic	GRCh38	1687738
+single nucleotide variant	NM_002087.4(GRN):c.1558G>T (p.Glu520Ter)	2896	GRN	Pathogenic	GRCh38	1694848
+single nucleotide variant	NM_002087.4(GRN):c.599-2A>G	2896	GRN	Pathogenic	GRCh38	1697215
+single nucleotide variant	NM_002087.4(GRN):c.1153G>T (p.Glu385Ter)	2896	GRN	Pathogenic	GRCh38	1734749
+single nucleotide variant	NM_002087.4(GRN):c.1179+1G>C	2896	GRN	Pathogenic	GRCh38	2007840
+single nucleotide variant	NM_002087.4(GRN):c.1158G>A (p.Trp386Ter)	2896	GRN	Pathogenic	GRCh38	2127749
+single nucleotide variant	NM_002087.4(GRN):c.347C>A (p.Ser116Ter)	2896	GRN	Pathogenic	GRCh38	2633502
+single nucleotide variant	NM_002087.4(GRN):c.388C>T (p.Gln130Ter)	2896	GRN	Pathogenic	GRCh38	2925624
+single nucleotide variant	NM_002087.4(GRN):c.1179+3A>G	2896	GRN	Pathogenic	GRCh38	2927226
+single nucleotide variant	NM_002087.4(GRN):c.5G>A (p.Trp2Ter)	2896	GRN	Pathogenic	GRCh38	2928811
+single nucleotide variant	NM_002087.4(GRN):c.265-2A>T	2896	GRN	Likely pathogenic	GRCh38	2932432
+single nucleotide variant	NM_002087.4(GRN):c.1435C>T (p.Gln479Ter)	2896	GRN	Likely pathogenic	GRCh38	3239636
+single nucleotide variant	NM_002087.4(GRN):c.138+2T>C	2896	GRN	Likely pathogenic	GRCh38	3242000
+single nucleotide variant	NM_002087.4(GRN):c.596C>T (p.Ala199Val)	2896	GRN	Likely pathogenic	GRCh38	3342439
+single nucleotide variant	NM_002087.4(GRN):c.1414-1G>T	2896	GRN	Pathogenic	GRCh38	3759447
+single nucleotide variant	NM_002087.4(GRN):c.1458C>A (p.Tyr486Ter)	2896	GRN	Pathogenic	GRCh38	3759194
+single nucleotide variant	NM_002087.4(GRN):c.1A>T (p.Met1Leu)	2896	GRN	Pathogenic	GRCh38	3899952
+single nucleotide variant	NM_002087.4(GRN):c.709-3C>G	2896	GRN	Pathogenic	GRCh38	3899953
+single nucleotide variant	NM_002087.4(GRN):c.29T>C (p.Leu10Ser)	2896	GRN	Likely pathogenic	GRCh38	4531656
+single nucleotide variant	NM_002087.4(GRN):c.264+2T>C	2896	GRN	Likely pathogenic	GRCh38	4533744
+single nucleotide variant	NM_002087.4(GRN):c.687T>G (p.Tyr229Ter)	2896	GRN	Pathogenic	GRCh38	4874130

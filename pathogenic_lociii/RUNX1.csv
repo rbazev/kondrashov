@@ -1,0 +1,98 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001754.4(RUNX1):c.352-1G>T	861	RUNX1	Pathogenic	GRCh38	14463
+single nucleotide variant	NM_001754.5(RUNX1):c.602G>A (p.Arg201Gln)	861	RUNX1	Pathogenic	GRCh38	14464
+single nucleotide variant	NM_001754.5(RUNX1):c.328A>G (p.Lys110Glu)	861	RUNX1	Pathogenic	GRCh38	14465
+single nucleotide variant	NM_001754.5(RUNX1):c.861C>A (p.Tyr287Ter)	861	RUNX1	Pathogenic	GRCh38	14467
+single nucleotide variant	NM_001754.5(RUNX1):c.400G>C (p.Ala134Pro)	861	RUNX1	Pathogenic	GRCh38	14468
+single nucleotide variant	NM_001754.5(RUNX1):c.467C>A (p.Ala156Glu)	861	RUNX1	Likely pathogenic	GRCh38	14471
+single nucleotide variant	NM_001754.5(RUNX1):c.601C>T (p.Arg201Ter)	861	RUNX1	Pathogenic	GRCh38	376018
+single nucleotide variant	NM_001754.5(RUNX1):c.485G>A (p.Arg162Lys)	861	RUNX1	Likely pathogenic	GRCh38	376021
+single nucleotide variant	NM_001754.5(RUNX1):c.484A>G (p.Arg162Gly)	861	RUNX1	Pathogenic	GRCh38	376022
+single nucleotide variant	NM_001754.5(RUNX1):c.280A>C (p.Ser94Arg)	861	RUNX1	Likely pathogenic	GRCh38	389962
+single nucleotide variant	NM_001754.5(RUNX1):c.351+1G>C	861	RUNX1	Likely pathogenic	GRCh38	409822
+single nucleotide variant	NM_001754.5(RUNX1):c.497G>A (p.Arg166Gln)	861	RUNX1	Pathogenic	GRCh38	417961
+single nucleotide variant	NM_001754.5(RUNX1):c.352-1G>A	861	RUNX1	Pathogenic	GRCh38	436616
+single nucleotide variant	NM_001754.5(RUNX1):c.316T>A (p.Trp106Arg)	861	RUNX1	Likely pathogenic	GRCh38	436617
+single nucleotide variant	NM_001754.5(RUNX1):c.679G>T (p.Glu227Ter)	861	RUNX1	Pathogenic	GRCh38	545522
+single nucleotide variant	NM_001754.5(RUNX1):c.1163C>A (p.Ser388Ter)	861	RUNX1	Likely pathogenic	GRCh38	561222
+single nucleotide variant	NM_001754.5(RUNX1):c.1003C>T (p.Gln335Ter)	861	RUNX1	Likely pathogenic	GRCh38	561221
+single nucleotide variant	NM_001754.5(RUNX1):c.611G>A (p.Arg204Gln)	861	RUNX1	Pathogenic	GRCh38	561253
+single nucleotide variant	NM_001754.5(RUNX1):c.610C>T (p.Arg204Ter)	861	RUNX1	Pathogenic	GRCh38	561252
+single nucleotide variant	NM_001754.5(RUNX1):c.593A>C (p.Asp198Ala)	861	RUNX1	Likely pathogenic	GRCh38	561251
+single nucleotide variant	NM_001754.5(RUNX1):c.582A>C (p.Lys194Asn)	861	RUNX1	Likely pathogenic	GRCh38	561250
+single nucleotide variant	NM_001754.5(RUNX1):c.567C>G (p.Tyr189Ter)	861	RUNX1	Pathogenic	GRCh38	561248
+single nucleotide variant	NM_001754.5(RUNX1):c.502G>A (p.Gly168Arg)	861	RUNX1	Likely pathogenic	GRCh38	561243
+single nucleotide variant	NM_001754.5(RUNX1):c.351+1G>A	861	RUNX1	Pathogenic	GRCh38	561236
+single nucleotide variant	NM_001754.5(RUNX1):c.330G>C (p.Lys110Asn)	861	RUNX1	Pathogenic	GRCh38	561234
+single nucleotide variant	NM_001754.5(RUNX1):c.314A>C (p.His105Pro)	861	RUNX1	Likely pathogenic	GRCh38	561233
+single nucleotide variant	NM_001754.5(RUNX1):c.958C>T (p.Arg320Ter)	861	RUNX1	Pathogenic	GRCh38	618862
+single nucleotide variant	NM_001754.5(RUNX1):c.861C>G (p.Tyr287Ter)	861	RUNX1	Pathogenic	GRCh38	627152
+single nucleotide variant	NM_001754.5(RUNX1):c.784C>T (p.Gln262Ter)	861	RUNX1	Pathogenic	GRCh38	627384
+single nucleotide variant	NM_001754.5(RUNX1):c.622C>T (p.Gln208Ter)	861	RUNX1	Pathogenic	GRCh38	627101
+single nucleotide variant	NM_001754.5(RUNX1):c.593A>T (p.Asp198Val)	861	RUNX1	Likely pathogenic	GRCh38	627342
+single nucleotide variant	NM_001754.5(RUNX1):c.502G>T (p.Gly168Ter)	861	RUNX1	Likely pathogenic	GRCh38	627081
+single nucleotide variant	NM_001754.5(RUNX1):c.508+2T>C	861	RUNX1	Pathogenic	GRCh38	642956
+single nucleotide variant	NM_001754.5(RUNX1):c.315C>A (p.His105Gln)	861	RUNX1	Likely pathogenic	GRCh38	666274
+single nucleotide variant	NM_001754.5(RUNX1):c.320G>A (p.Arg107His)	861	RUNX1	Likely pathogenic	GRCh38	812740
+single nucleotide variant	NM_001754.5(RUNX1):c.508+1G>A	861	RUNX1	Pathogenic	GRCh38	812739
+single nucleotide variant	NM_001754.5(RUNX1):c.319C>A (p.Arg107Ser)	861	RUNX1	Likely pathogenic	GRCh38	856798
+single nucleotide variant	NM_001754.5(RUNX1):c.968-10C>A	861	RUNX1	Likely pathogenic	GRCh38	869208
+single nucleotide variant	NM_001754.5(RUNX1):c.596G>A (p.Gly199Glu)	861	RUNX1	Likely pathogenic	GRCh38	869210
+single nucleotide variant	NM_001754.5(RUNX1):c.506G>T (p.Arg169Ile)	861	RUNX1	Likely pathogenic	GRCh38	869207
+single nucleotide variant	NM_001754.5(RUNX1):c.351+2T>A	861	RUNX1	Likely pathogenic	GRCh38	943551
+single nucleotide variant	NM_001754.5(RUNX1):c.586A>G (p.Thr196Ala)	861	RUNX1	Likely pathogenic	GRCh38	988811
+single nucleotide variant	NM_001754.5(RUNX1):c.508+1G>T	861	RUNX1	Likely pathogenic	GRCh38	988808
+single nucleotide variant	NM_001754.5(RUNX1):c.351+1G>T	861	RUNX1	Pathogenic	GRCh38	988837
+single nucleotide variant	NM_001754.5(RUNX1):c.317G>A (p.Trp106Ter)	861	RUNX1	Pathogenic	GRCh38	988835
+single nucleotide variant	NM_001754.5(RUNX1):c.316T>C (p.Trp106Arg)	861	RUNX1	Likely pathogenic	GRCh38	1045299
+single nucleotide variant	NM_001754.5(RUNX1):c.1242C>G (p.Tyr414Ter)	861	RUNX1	Pathogenic	GRCh38	1194557
+single nucleotide variant	NM_001754.5(RUNX1):c.1221C>G (p.Tyr407Ter)	861	RUNX1	Likely pathogenic	GRCh38	1211932
+single nucleotide variant	NM_001754.5(RUNX1):c.508+1G>C	861	RUNX1	Likely pathogenic	GRCh38	1299484
+single nucleotide variant	NM_001754.5(RUNX1):c.508G>C (p.Gly170Arg)	861	RUNX1	Likely pathogenic	GRCh38	1338528
+single nucleotide variant	NM_001754.5(RUNX1):c.319C>T (p.Arg107Cys)	861	RUNX1	Likely pathogenic	GRCh38	1338536
+single nucleotide variant	NM_001754.5(RUNX1):c.496C>T (p.Arg166Ter)	861	RUNX1	Pathogenic	GRCh38	1459069
+single nucleotide variant	NM_001754.5(RUNX1):c.581A>C (p.Lys194Thr)	861	RUNX1	Likely pathogenic	GRCh38	1466051
+single nucleotide variant	NM_001754.5(RUNX1):c.805+1G>T	861	RUNX1	Likely pathogenic	GRCh38	1348351
+single nucleotide variant	NM_001754.5(RUNX1):c.401C>T (p.Ala134Val)	861	RUNX1	Likely pathogenic	GRCh38	1484777
+single nucleotide variant	NM_001754.5(RUNX1):c.500G>C (p.Ser167Thr)	861	RUNX1	Likely pathogenic	GRCh38	1351602
+single nucleotide variant	NM_001754.5(RUNX1):c.330G>T (p.Lys110Asn)	861	RUNX1	Pathogenic	GRCh38	1518631
+single nucleotide variant	NM_001754.5(RUNX1):c.505A>G (p.Arg169Gly)	861	RUNX1	Likely pathogenic	GRCh38	1684391
+single nucleotide variant	NM_001754.5(RUNX1):c.965C>G (p.Ser322Ter)	861	RUNX1	Likely pathogenic	GRCh38	1684398
+single nucleotide variant	NM_001754.5(RUNX1):c.802C>T (p.Gln268Ter)	861	RUNX1	Pathogenic	GRCh38	1684407
+single nucleotide variant	NM_001754.5(RUNX1):c.847C>T (p.Gln283Ter)	861	RUNX1	Pathogenic	GRCh38	1691248
+single nucleotide variant	NM_001754.5(RUNX1):c.610C>G (p.Arg204Gly)	861	RUNX1	Likely pathogenic	GRCh38	2177591
+single nucleotide variant	NM_001754.5(RUNX1):c.98-2A>G	861	RUNX1	Likely pathogenic	GRCh38	2011850
+single nucleotide variant	NM_001754.5(RUNX1):c.1417G>T (p.Glu473Ter)	861	RUNX1	Likely pathogenic	GRCh38	2028205
+single nucleotide variant	NM_001754.5(RUNX1):c.806-1G>A	861	RUNX1	Pathogenic	GRCh38	2094507
+single nucleotide variant	NM_001754.5(RUNX1):c.422C>A (p.Ser141Ter)	861	RUNX1	Pathogenic	GRCh38	2112037
+single nucleotide variant	NM_001754.5(RUNX1):c.814C>T (p.Gln272Ter)	861	RUNX1	Pathogenic	GRCh38	2123057
+single nucleotide variant	NM_001754.5(RUNX1):c.499A>G (p.Ser167Gly)	861	RUNX1	Likely pathogenic	GRCh38	2443682
+single nucleotide variant	NM_001754.5(RUNX1):c.1345C>T (p.Gln449Ter)	861	RUNX1	Likely pathogenic	GRCh38	2579542
+single nucleotide variant	NM_001754.5(RUNX1):c.509G>A (p.Gly170Glu)	861	RUNX1	Likely pathogenic	GRCh38	2633656
+single nucleotide variant	NM_001754.5(RUNX1):c.592G>T (p.Asp198Tyr)	861	RUNX1	Pathogenic	GRCh38	2665098
+single nucleotide variant	NM_001754.5(RUNX1):c.1271C>A (p.Ser424Ter)	861	RUNX1	Likely pathogenic	GRCh38	2757091
+single nucleotide variant	NM_001754.5(RUNX1):c.1221C>A (p.Tyr407Ter)	861	RUNX1	Likely pathogenic	GRCh38	2820100
+single nucleotide variant	NM_001754.5(RUNX1):c.318G>T (p.Trp106Cys)	861	RUNX1	Likely pathogenic	GRCh38	2844927
+single nucleotide variant	NM_001754.5(RUNX1):c.318G>A (p.Trp106Ter)	861	RUNX1	Pathogenic	GRCh38	2854758
+single nucleotide variant	NM_001754.5(RUNX1):c.351+2T>C	861	RUNX1	Likely pathogenic	GRCh38	2911507
+single nucleotide variant	NM_001754.5(RUNX1):c.820C>T (p.Gln274Ter)	861	RUNX1	Pathogenic	GRCh38	2997653
+single nucleotide variant	NM_001754.5(RUNX1):c.349A>T (p.Lys117Ter)	861	RUNX1	Pathogenic	GRCh38	3255393
+single nucleotide variant	NM_001754.5(RUNX1):c.553C>T (p.Gln185Ter)	861	RUNX1	Pathogenic	GRCh38	3257846
+single nucleotide variant	NM_001754.5(RUNX1):c.1118C>A (p.Ser373Ter)	861	RUNX1	Likely pathogenic	GRCh38	3340075
+single nucleotide variant	NM_001754.5(RUNX1):c.592G>A (p.Asp198Asn)	861	RUNX1	Likely pathogenic	GRCh38	3340076
+single nucleotide variant	NM_001754.5(RUNX1):c.581A>T (p.Lys194Ile)	861	RUNX1	Likely pathogenic	GRCh38	3340471
+single nucleotide variant	NM_001754.5(RUNX1):c.593A>G (p.Asp198Gly)	861	RUNX1	Likely pathogenic	GRCh38	3342374
+single nucleotide variant	NM_001754.5(RUNX1):c.503G>A (p.Gly168Glu)	861	RUNX1	Likely pathogenic	GRCh38	3367214
+single nucleotide variant	NM_001754.5(RUNX1):c.328A>C (p.Lys110Gln)	861	RUNX1	Likely pathogenic	GRCh38	3367215
+single nucleotide variant	NM_001754.5(RUNX1):c.329A>G (p.Lys110Arg)	861	RUNX1	Likely pathogenic	GRCh38	3367906
+single nucleotide variant	NM_001754.5(RUNX1):c.796C>T (p.Gln266Ter)	861	RUNX1	Pathogenic	GRCh38	3370501
+single nucleotide variant	NM_001754.5(RUNX1):c.485G>C (p.Arg162Thr)	861	RUNX1	Likely pathogenic	GRCh38	3656666
+single nucleotide variant	NM_001754.5(RUNX1):c.580A>G (p.Lys194Glu)	861	RUNX1	Likely pathogenic	GRCh38	3668347
+single nucleotide variant	NM_001754.5(RUNX1):c.400G>A (p.Ala134Thr)	861	RUNX1	Likely pathogenic	GRCh38	3772099
+single nucleotide variant	NM_001754.5(RUNX1):c.497G>T (p.Arg166Leu)	861	RUNX1	Likely pathogenic	GRCh38	3948883
+single nucleotide variant	NM_001754.5(RUNX1):c.508+2T>A	861	RUNX1	Likely pathogenic	GRCh38	4158175
+single nucleotide variant	NM_001754.5(RUNX1):c.509-2A>G	861	RUNX1	Likely pathogenic	GRCh38	4158201
+single nucleotide variant	NM_001754.5(RUNX1):c.494G>A (p.Gly165Asp)	861	RUNX1	Likely pathogenic	GRCh38	4542410
+single nucleotide variant	NM_001754.5(RUNX1):c.1140C>A (p.Tyr380Ter)	861	RUNX1	Pathogenic	GRCh38	4728759
+single nucleotide variant	NM_001754.5(RUNX1):c.805+6T>G	861	RUNX1	Likely pathogenic	GRCh38	4843714
+single nucleotide variant	NM_001754.5(RUNX1):c.688C>T (p.Gln230Ter)	861	RUNX1	Pathogenic	GRCh38	4863658

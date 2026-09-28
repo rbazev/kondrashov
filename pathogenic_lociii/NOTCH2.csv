@@ -1,0 +1,54 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_024408.4(NOTCH2):c.5930-1G>A	4853	NOTCH2	Pathogenic	GRCh38	9229
+single nucleotide variant	NM_024408.4(NOTCH2):c.1331G>A (p.Cys444Tyr)	4853	NOTCH2	Pathogenic	GRCh38	9230
+single nucleotide variant	NM_024408.4(NOTCH2):c.6622C>T (p.Gln2208Ter)	4853	NOTCH2	Pathogenic	GRCh38	30057
+single nucleotide variant	NM_024408.4(NOTCH2):c.7119T>G (p.Tyr2373Ter)	4853	NOTCH2	Pathogenic	GRCh38	30058
+single nucleotide variant	NM_024408.4(NOTCH2):c.6949C>T (p.Gln2317Ter)	4853	NOTCH2	Pathogenic	GRCh38	30059
+single nucleotide variant	NM_024408.4(NOTCH2):c.6895G>T (p.Glu2299Ter)	4853	NOTCH2	Pathogenic	GRCh38	30060
+single nucleotide variant	NM_024408.4(NOTCH2):c.7165C>T (p.Gln2389Ter)	4853	NOTCH2	Pathogenic	GRCh38	30061
+single nucleotide variant	NM_024408.4(NOTCH2):c.6007C>T (p.Arg2003Ter)	4853	NOTCH2	Pathogenic/Likely pathogenic	GRCh38	41266
+single nucleotide variant	NM_024408.4(NOTCH2):c.6659C>G (p.Ser2220Ter)	4853	NOTCH2	Pathogenic	GRCh38	280845
+single nucleotide variant	NM_024408.4(NOTCH2):c.6787C>T (p.Gln2263Ter)	4853	NOTCH2	Pathogenic	GRCh38	280705
+single nucleotide variant	NM_024408.4(NOTCH2):c.801C>A (p.His267Gln)	4853	NOTCH2	Likely pathogenic	GRCh38	431927
+single nucleotide variant	NM_024408.4(NOTCH2):c.6758G>A (p.Trp2253Ter)	4853	NOTCH2	Pathogenic	GRCh38	451587
+single nucleotide variant	NM_024408.4(NOTCH2):c.1313G>A (p.Gly438Asp)	4853	NOTCH2	Likely pathogenic	GRCh38	453174
+single nucleotide variant	NM_024408.4(NOTCH2):c.5274G>A (p.Trp1758Ter)	4853	NOTCH2	Pathogenic	GRCh38	500759
+single nucleotide variant	NM_024408.4(NOTCH2):c.7078C>T (p.Gln2360Ter)	4853	NOTCH2	Pathogenic	GRCh38	518449
+single nucleotide variant	NM_024408.4(NOTCH2):c.7198C>T (p.Arg2400Ter)	4853	NOTCH2	Pathogenic	GRCh38	518450
+single nucleotide variant	NM_024408.4(NOTCH2):c.6853C>T (p.Gln2285Ter)	4853	NOTCH2	Pathogenic/Likely pathogenic	GRCh38	545566
+single nucleotide variant	NM_024408.4(NOTCH2):c.4005+1G>A	4853	NOTCH2	Pathogenic	GRCh38	595673
+single nucleotide variant	NM_024408.4(NOTCH2):c.1567+2T>G	4853	NOTCH2	Likely pathogenic	GRCh38	598244
+single nucleotide variant	NM_024408.4(NOTCH2):c.5431C>T (p.Gln1811Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	599225
+single nucleotide variant	NM_024408.4(NOTCH2):c.5644C>T (p.His1882Tyr)	4853	NOTCH2	Pathogenic	GRCh38	684619
+single nucleotide variant	NM_024408.4(NOTCH2):c.4174C>T (p.Gln1392Ter)	4853	NOTCH2	Pathogenic	GRCh38	845754
+single nucleotide variant	NM_024408.4(NOTCH2):c.6125T>C (p.Met2042Thr)	4853	NOTCH2	Pathogenic	GRCh38	1012187
+single nucleotide variant	NM_024408.4(NOTCH2):c.2587C>T (p.Pro863Ser)	4853	NOTCH2	Likely pathogenic	GRCh38	1034042
+single nucleotide variant	NM_024408.4(NOTCH2):c.1668C>A (p.Cys556Ter)	4853	NOTCH2	Pathogenic	GRCh38	1068831
+single nucleotide variant	NM_024408.4(NOTCH2):c.3508G>T (p.Gly1170Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	1177430
+single nucleotide variant	NM_024408.4(NOTCH2):c.6586C>T (p.Gln2196Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	1329467
+single nucleotide variant	NM_024408.4(NOTCH2):c.30G>A (p.Trp10Ter)	4853	NOTCH2	Pathogenic	GRCh38	1344580
+single nucleotide variant	NM_024408.4(NOTCH2):c.1211C>T (p.Pro404Leu)	4853	NOTCH2	Pathogenic	GRCh38	1344880
+single nucleotide variant	NM_024408.4(NOTCH2):c.5930-2A>G	4853	NOTCH2	Pathogenic	GRCh38	1703257
+single nucleotide variant	NM_024408.4(NOTCH2):c.6667C>T (p.Gln2223Ter)	4853	NOTCH2	Pathogenic	GRCh38	1805545
+single nucleotide variant	NM_024408.4(NOTCH2):c.7030G>T (p.Glu2344Ter)	4853	NOTCH2	Pathogenic	GRCh38	1992457
+single nucleotide variant	NM_024408.4(NOTCH2):c.901G>T (p.Glu301Ter)	4853	NOTCH2	Pathogenic	GRCh38	2029083
+single nucleotide variant	NM_024408.4(NOTCH2):c.7099C>T (p.Gln2367Ter)	4853	NOTCH2	Pathogenic	GRCh38	2127842
+single nucleotide variant	NM_024408.4(NOTCH2):c.7021C>T (p.Gln2341Ter)	4853	NOTCH2	Pathogenic	GRCh38	2578107
+single nucleotide variant	NM_024408.4(NOTCH2):c.6028-5T>A	4853	NOTCH2	Likely pathogenic	GRCh38	2581163
+single nucleotide variant	NM_024408.4(NOTCH2):c.1492T>C (p.Cys498Arg)	4853	NOTCH2	Likely pathogenic	GRCh38	2582390
+single nucleotide variant	NM_024408.4(NOTCH2):c.5356C>T (p.Arg1786Ter)	4853	NOTCH2	Pathogenic	GRCh38	2788908
+single nucleotide variant	NM_024408.4(NOTCH2):c.5781+1G>T	4853	NOTCH2	Likely pathogenic	GRCh38	2808340
+single nucleotide variant	NM_024408.4(NOTCH2):c.5987T>A (p.Leu1996Ter)	4853	NOTCH2	Pathogenic	GRCh38	3010709
+single nucleotide variant	NM_024408.4(NOTCH2):c.7090C>T (p.Gln2364Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	3049088
+single nucleotide variant	NM_024408.4(NOTCH2):c.337C>T (p.Arg113Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	3061954
+single nucleotide variant	NM_024408.4(NOTCH2):c.416-2A>G	4853	NOTCH2	Likely pathogenic	GRCh38	3590518
+single nucleotide variant	NM_024408.4(NOTCH2):c.2626G>T (p.Glu876Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	3587878
+single nucleotide variant	NM_024408.4(NOTCH2):c.1310A>C (p.Asp437Ala)	4853	NOTCH2	Likely pathogenic	GRCh38	3600341
+single nucleotide variant	NM_024408.4(NOTCH2):c.3338-2A>G	4853	NOTCH2	Likely pathogenic	GRCh38	3900023
+single nucleotide variant	NM_024408.4(NOTCH2):c.1235G>T (p.Cys412Phe)	4853	NOTCH2	Likely pathogenic	GRCh38	4528331
+single nucleotide variant	NM_024408.4(NOTCH2):c.5002+1G>A	4853	NOTCH2	Likely pathogenic	GRCh38	4712192
+single nucleotide variant	NM_024408.4(NOTCH2):c.6759G>A (p.Trp2253Ter)	4853	NOTCH2	Pathogenic	GRCh38	4717528
+single nucleotide variant	NM_024408.4(NOTCH2):c.1495C>T (p.Gln499Ter)	4853	NOTCH2	Pathogenic	GRCh38	4716521
+single nucleotide variant	NM_024408.4(NOTCH2):c.6973C>T (p.Gln2325Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	4819333
+single nucleotide variant	NM_024408.4(NOTCH2):c.4540A>T (p.Lys1514Ter)	4853	NOTCH2	Likely pathogenic	GRCh38	4875632
+single nucleotide variant	NM_024408.4(NOTCH2):c.1639T>A (p.Cys547Ser)	4853	NOTCH2	Likely pathogenic	GRCh38	4879846

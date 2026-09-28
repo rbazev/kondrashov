@@ -22,7 +22,7 @@ single nucleotide variant	NM_153704.6(TMEM67):c.1319G>A (p.Arg440Gln)	91147	TMEM
 single nucleotide variant	NM_153704.6(TMEM67):c.1322G>T (p.Arg441Leu)	91147	TMEM67	Pathogenic/Likely pathogenic	GRCh38	56765
 single nucleotide variant	NM_153704.6(TMEM67):c.1413-1G>C	91147	TMEM67	Pathogenic	GRCh38	56767
 single nucleotide variant	NM_153704.6(TMEM67):c.161A>G (p.Tyr54Cys)	91147	TMEM67	Likely pathogenic	GRCh38	56769
-single nucleotide variant	NM_153704.6(TMEM67):c.2528A>G (p.Tyr843Cys)	91147	TMEM67	Pathogenic	GRCh38	56775
+single nucleotide variant	NM_153704.6(TMEM67):c.2528A>G (p.Tyr843Cys)	91147	TMEM67	Pathogenic/Likely pathogenic	GRCh38	56775
 single nucleotide variant	NM_153704.6(TMEM67):c.2542G>T (p.Glu848Ter)	91147	TMEM67	Likely pathogenic	GRCh38	56776
 single nucleotide variant	NM_153704.6(TMEM67):c.2557A>T (p.Lys853Ter)	91147	TMEM67	Pathogenic/Likely pathogenic	GRCh38	56777
 single nucleotide variant	NM_153704.6(TMEM67):c.2897T>C (p.Leu966Pro)	91147	TMEM67	Likely pathogenic	GRCh38	56780
@@ -161,3 +161,4 @@ single nucleotide variant	NM_153704.6(TMEM67):c.1672C>T (p.Gln558Ter)	91147	TMEM
 single nucleotide variant	NM_153704.6(TMEM67):c.2662-1G>A	91147	TMEM67	Likely pathogenic	GRCh38	4792343
 single nucleotide variant	NM_153704.6(TMEM67):c.714+1G>C	91147	TMEM67	Likely pathogenic	GRCh38	4793700
 single nucleotide variant	NM_153704.6(TMEM67):c.887G>T (p.Trp296Leu)	91147	TMEM67	Likely pathogenic	GRCh38	4813499
+single nucleotide variant	NM_153704.6(TMEM67):c.1066-2A>G	91147	TMEM67	Likely pathogenic	GRCh38	4881473

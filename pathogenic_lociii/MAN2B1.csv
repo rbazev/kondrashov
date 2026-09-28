@@ -73,7 +73,7 @@ single nucleotide variant	NM_000528.4(MAN2B1):c.2437-2A>G	4125	MAN2B1	Pathogenic
 single nucleotide variant	NM_000528.4(MAN2B1):c.1110-1G>T	4125	MAN2B1	Likely pathogenic	GRCh38	649866
 single nucleotide variant	NM_000528.4(MAN2B1):c.1963C>T (p.Gln655Ter)	4125	MAN2B1	Pathogenic	GRCh38	851283
 single nucleotide variant	NM_000528.4(MAN2B1):c.1954G>T (p.Glu652Ter)	4125	MAN2B1	Pathogenic/Likely pathogenic	GRCh38	837291
-single nucleotide variant	NM_000528.4(MAN2B1):c.388C>T (p.Gln130Ter)	4125	MAN2B1	Pathogenic	GRCh38	836978
+single nucleotide variant	NM_000528.4(MAN2B1):c.388C>T (p.Gln130Ter)	4125	MAN2B1	Pathogenic/Likely pathogenic	GRCh38	836978
 single nucleotide variant	NM_000528.4(MAN2B1):c.247C>T (p.Gln83Ter)	4125	MAN2B1	Pathogenic/Likely pathogenic	GRCh38	940305
 single nucleotide variant	NM_000528.4(MAN2B1):c.1109+1G>C	4125	MAN2B1	Pathogenic/Likely pathogenic	GRCh38	942231
 single nucleotide variant	NM_000528.4(MAN2B1):c.2887G>T (p.Glu963Ter)	4125	MAN2B1	Pathogenic/Likely pathogenic	GRCh38	962313
@@ -186,3 +186,7 @@ single nucleotide variant	NM_000528.4(MAN2B1):c.2510G>A (p.Trp837Ter)	4125	MAN2B
 single nucleotide variant	NM_000528.4(MAN2B1):c.262+1G>A	4125	MAN2B1	Likely pathogenic	GRCh38	4814312
 single nucleotide variant	NM_000528.4(MAN2B1):c.918T>G (p.Tyr306Ter)	4125	MAN2B1	Likely pathogenic	GRCh38	4814323
 single nucleotide variant	NM_000528.4(MAN2B1):c.2746C>A (p.Arg916Ser)	4125	MAN2B1	Pathogenic	GRCh38	4847880
+single nucleotide variant	NM_000528.4(MAN2B1):c.2281C>T (p.Pro761Ser)	4125	MAN2B1	Pathogenic	GRCh38	4888550
+single nucleotide variant	NM_000528.4(MAN2B1):c.2143T>C (p.Ser715Pro)	4125	MAN2B1	Likely pathogenic	GRCh38	4890160
+single nucleotide variant	NM_000528.4(MAN2B1):c.2405G>A (p.Ser802Asn)	4125	MAN2B1	Pathogenic	GRCh38	4890334
+single nucleotide variant	NM_000528.4(MAN2B1):c.2870T>G (p.Val957Gly)	4125	MAN2B1	Likely pathogenic	GRCh38	4890442

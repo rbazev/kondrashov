@@ -1,0 +1,77 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000043.6(FAS):c.721A>C (p.Thr241Pro)	355	FAS	Pathogenic	GRCh38	16499
+single nucleotide variant	NM_000043.6(FAS):c.569-2A>C	355	FAS	Pathogenic	GRCh38	16500
+single nucleotide variant	NM_000043.6(FAS):c.817C>T (p.Gln273Ter)	355	FAS	Pathogenic	GRCh38	16501
+single nucleotide variant	NM_000043.6(FAS):c.779A>T (p.Asp260Val)	355	FAS	Pathogenic	GRCh38	16504
+single nucleotide variant	NM_000043.6(FAS):c.749G>C (p.Arg250Pro)	355	FAS	Pathogenic	GRCh38	16505
+single nucleotide variant	NM_000043.6(FAS):c.651+2T>A	355	FAS	Pathogenic	GRCh38	16507
+single nucleotide variant	NM_000043.6(FAS):c.73G>A (p.Ala25Thr)	355	FAS	Pathogenic	GRCh38	16508
+single nucleotide variant	NM_000043.6(FAS):c.763A>G (p.Asn255Asp)	355	FAS	Pathogenic	GRCh38	16510
+single nucleotide variant	NM_000043.6(FAS):c.353A>G (p.Asn118Ser)	355	FAS	Pathogenic	GRCh38	16511
+single nucleotide variant	NM_000043.6(FAS):c.532T>C (p.Cys178Arg)	355	FAS	Pathogenic	GRCh38	16512
+single nucleotide variant	NM_000043.6(FAS):c.740G>C (p.Gly247Ala)	355	FAS	Pathogenic	GRCh38	16513
+single nucleotide variant	NM_000043.6(FAS):c.651+2T>C	355	FAS	Pathogenic	GRCh38	16514
+single nucleotide variant	NM_000043.6(FAS):c.778G>T (p.Asp260Tyr)	355	FAS	Pathogenic	GRCh38	16516
+single nucleotide variant	NM_000043.6(FAS):c.785T>C (p.Ile262Thr)	355	FAS	Likely pathogenic	GRCh38	100802
+single nucleotide variant	NM_000043.6(FAS):c.443+1G>A	355	FAS	Pathogenic/Likely pathogenic	GRCh38	265139
+single nucleotide variant	NM_000043.6(FAS):c.785T>A (p.Ile262Asn)	355	FAS	Likely pathogenic	GRCh38	381554
+single nucleotide variant	NM_000043.6(FAS):c.536T>G (p.Leu179Arg)	355	FAS	Likely pathogenic	GRCh38	523313
+single nucleotide variant	NM_000043.6(FAS):c.110T>A (p.Leu37Ter)	355	FAS	Pathogenic	GRCh38	580709
+single nucleotide variant	NM_000043.6(FAS):c.651+1G>A	355	FAS	Pathogenic/Likely pathogenic	GRCh38	573761
+single nucleotide variant	NM_000043.6(FAS):c.197-2A>G	355	FAS	Likely pathogenic	GRCh38	598753
+single nucleotide variant	NM_000043.6(FAS):c.506-6C>G	355	FAS	Likely pathogenic	GRCh38	644034
+single nucleotide variant	NM_000043.6(FAS):c.651+1G>T	355	FAS	Pathogenic	GRCh38	650729
+single nucleotide variant	NM_000043.6(FAS):c.652-1G>A	355	FAS	Pathogenic	GRCh38	664079
+single nucleotide variant	NM_000043.6(FAS):c.676+1G>A	355	FAS	Pathogenic	GRCh38	645697
+single nucleotide variant	NM_000043.6(FAS):c.748C>T (p.Arg250Ter)	355	FAS	Pathogenic/Likely pathogenic	GRCh38	802620
+single nucleotide variant	NM_000043.6(FAS):c.323A>G (p.Asp108Gly)	355	FAS	Likely pathogenic	GRCh38	864610
+single nucleotide variant	NM_000043.6(FAS):c.758G>T (p.Gly253Val)	355	FAS	Pathogenic/Likely pathogenic	GRCh38	863735
+single nucleotide variant	NM_000043.6(FAS):c.776T>C (p.Ile259Thr)	355	FAS	Likely pathogenic	GRCh38	860668
+single nucleotide variant	NM_000043.6(FAS):c.770C>A (p.Ala257Asp)	355	FAS	Pathogenic	GRCh38	872243
+single nucleotide variant	NM_000043.6(FAS):c.815A>G (p.Glu272Gly)	355	FAS	Pathogenic	GRCh38	872244
+single nucleotide variant	NM_000043.6(FAS):c.778G>A (p.Asp260Asn)	355	FAS	Pathogenic	GRCh38	1067934
+single nucleotide variant	NM_000043.6(FAS):c.442A>T (p.Lys148Ter)	355	FAS	Pathogenic	GRCh38	1070958
+single nucleotide variant	NM_000043.6(FAS):c.644T>A (p.Leu215Ter)	355	FAS	Pathogenic	GRCh38	1071139
+single nucleotide variant	NM_000043.6(FAS):c.676+1G>T	355	FAS	Pathogenic	GRCh38	1070181
+single nucleotide variant	NM_000043.6(FAS):c.749G>A (p.Arg250Gln)	355	FAS	Pathogenic/Likely pathogenic	GRCh38	1070182
+single nucleotide variant	NM_000043.6(FAS):c.20T>C (p.Leu7Pro)	355	FAS	Likely pathogenic	GRCh38	1213255
+single nucleotide variant	NM_000043.6(FAS):c.197-1G>A	355	FAS	Likely pathogenic	GRCh38	1473254
+single nucleotide variant	NM_000043.6(FAS):c.528G>A (p.Trp176Ter)	355	FAS	Pathogenic	GRCh38	1457614
+single nucleotide variant	NM_000043.6(FAS):c.332A>G (p.His111Arg)	355	FAS	Pathogenic/Likely pathogenic	GRCh38	1395111
+single nucleotide variant	NM_000043.6(FAS):c.259G>T (p.Glu87Ter)	355	FAS	Pathogenic	GRCh38	1451181
+single nucleotide variant	NM_000043.6(FAS):c.506-16A>G	355	FAS	Pathogenic	GRCh38	1506283
+single nucleotide variant	NM_000043.6(FAS):c.505+1G>C	355	FAS	Likely pathogenic	GRCh38	1350161
+single nucleotide variant	NM_000043.6(FAS):c.789G>C (p.Lys263Asn)	355	FAS	Likely pathogenic	GRCh38	1694462
+single nucleotide variant	NM_000043.6(FAS):c.334+2T>C	355	FAS	Pathogenic	GRCh38	1802177
+single nucleotide variant	NM_000043.6(FAS):c.335-2A>G	355	FAS	Pathogenic	GRCh38	2136912
+single nucleotide variant	NM_000043.6(FAS):c.404G>A (p.Cys135Tyr)	355	FAS	Likely pathogenic	GRCh38	2136913
+single nucleotide variant	NM_000043.6(FAS):c.506-1G>C	355	FAS	Pathogenic	GRCh38	2136914
+single nucleotide variant	NM_000043.6(FAS):c.651+5G>T	355	FAS	Likely pathogenic	GRCh38	2136915
+single nucleotide variant	NM_000043.6(FAS):c.779A>G (p.Asp260Gly)	355	FAS	Pathogenic	GRCh38	2136916
+single nucleotide variant	NM_000043.6(FAS):c.814G>A (p.Glu272Lys)	355	FAS	Pathogenic	GRCh38	2136917
+single nucleotide variant	NM_000043.6(FAS):c.569-1G>T	355	FAS	Likely pathogenic	GRCh38	2029508
+single nucleotide variant	NM_000043.6(FAS):c.857G>A (p.Gly286Glu)	355	FAS	Pathogenic	GRCh38	2083676
+single nucleotide variant	NM_000043.6(FAS):c.814G>C (p.Glu272Gln)	355	FAS	Likely pathogenic	GRCh38	2088724
+single nucleotide variant	NM_000043.6(FAS):c.676+1G>C	355	FAS	Pathogenic	GRCh38	2130948
+single nucleotide variant	NM_000043.6(FAS):c.506-3C>G	355	FAS	Likely pathogenic	GRCh38	2570772
+single nucleotide variant	NM_000043.6(FAS):c.794A>G (p.Asp265Gly)	355	FAS	Likely pathogenic	GRCh38	2573797
+single nucleotide variant	NM_000043.6(FAS):c.731A>T (p.Gln244Leu)	355	FAS	Likely pathogenic	GRCh38	2575948
+single nucleotide variant	NM_000043.6(FAS):c.115A>T (p.Lys39Ter)	355	FAS	Pathogenic	GRCh38	2698574
+single nucleotide variant	NM_000043.6(FAS):c.341A>T (p.Glu114Val)	355	FAS	Likely pathogenic	GRCh38	2735447
+single nucleotide variant	NM_000043.6(FAS):c.538C>T (p.Leu180Phe)	355	FAS	Pathogenic	GRCh38	2735449
+single nucleotide variant	NM_000043.6(FAS):c.722C>A (p.Thr241Lys)	355	FAS	Pathogenic	GRCh38	2735450
+single nucleotide variant	NM_000043.6(FAS):c.713G>T (p.Gly238Val)	355	FAS	Likely pathogenic	GRCh38	3256547
+single nucleotide variant	NM_000043.6(FAS):c.748C>G (p.Arg250Gly)	355	FAS	Likely pathogenic	GRCh38	3370437
+single nucleotide variant	NM_000043.6(FAS):c.381C>A (p.Cys127Ter)	355	FAS	Pathogenic	GRCh38	3376841
+single nucleotide variant	NM_000043.6(FAS):c.265A>T (p.Lys89Ter)	355	FAS	Likely pathogenic	GRCh38	3381062
+single nucleotide variant	NM_000043.6(FAS):c.506-3C>T	355	FAS	Likely pathogenic	GRCh38	3658353
+single nucleotide variant	NM_000043.6(FAS):c.786C>G (p.Ile262Met)	355	FAS	Pathogenic	GRCh38	3677088
+single nucleotide variant	NM_000043.6(FAS):c.133G>T (p.Glu45Ter)	355	FAS	Pathogenic	GRCh38	3720954
+single nucleotide variant	NM_000043.6(FAS):c.797A>G (p.Asn266Ser)	355	FAS	Likely pathogenic	GRCh38	3720955
+single nucleotide variant	NM_000043.6(FAS):c.586C>T (p.Gln196Ter)	355	FAS	Pathogenic	GRCh38	3765194
+single nucleotide variant	NM_000043.6(FAS):c.244T>C (p.Cys82Arg)	355	FAS	Likely pathogenic	GRCh38	4083279
+single nucleotide variant	NM_000043.6(FAS):c.691A>T (p.Lys231Ter)	355	FAS	Pathogenic/Likely pathogenic	GRCh38	4541559
+single nucleotide variant	NM_000043.6(FAS):c.569-5T>G	355	FAS	Likely pathogenic	GRCh38	4709756
+single nucleotide variant	NM_000043.6(FAS):c.443+2T>C	355	FAS	Pathogenic	GRCh38	4760225
+single nucleotide variant	NM_000043.6(FAS):c.196+1G>A	355	FAS	Pathogenic	GRCh38	4855962
+single nucleotide variant	NM_000043.6(FAS):c.814G>T (p.Glu272Ter)	355	FAS	Likely pathogenic	GRCh38	4875008

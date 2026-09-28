@@ -1,0 +1,129 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000384.3(APOB):c.3997C>T (p.Arg1333Ter)	338	APOB	Pathogenic	GRCh38	17883
+single nucleotide variant	NM_000384.3(APOB):c.6253C>T (p.Arg2085Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	17887
+single nucleotide variant	NM_000384.3(APOB):c.10580G>A (p.Arg3527Gln)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	17890
+single nucleotide variant	NM_000384.3(APOB):c.6835C>T (p.Gln2279Ter)	338	APOB	Pathogenic	GRCh38	17893
+single nucleotide variant	NM_000384.3(APOB):c.4429C>T (p.Gln1477Ter)	338	APOB	Pathogenic	GRCh38	17894
+single nucleotide variant	NM_000384.3(APOB):c.7564C>T (p.Arg2522Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	17895
+single nucleotide variant	NM_000384.3(APOB):c.819-2A>G	338	APOB	Likely pathogenic	GRCh38	17898
+single nucleotide variant	NM_000384.3(APOB):c.3600T>A (p.Tyr1200Ter)	338	APOB	Pathogenic	GRCh38	17901
+single nucleotide variant	NM_000384.3(APOB):c.10579C>T (p.Arg3527Trp)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	40223
+single nucleotide variant	NM_000384.3(APOB):c.7537C>T (p.Arg2513Ter)	338	APOB	Pathogenic	GRCh38	69511
+single nucleotide variant	NM_000384.3(APOB):c.5926G>T (p.Glu1976Ter)	338	APOB	Pathogenic	GRCh38	3752738
+single nucleotide variant	NM_000384.3(APOB):c.631C>T (p.Gln211Ter)	338	APOB	Likely pathogenic	GRCh38	228245
+single nucleotide variant	NM_000384.3(APOB):c.409G>T (p.Glu137Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	404400
+single nucleotide variant	NM_000384.3(APOB):c.11789-2A>C	338	APOB	Pathogenic	GRCh38	431502
+single nucleotide variant	NM_000384.3(APOB):c.4651C>T (p.Gln1551Ter)	338	APOB	Pathogenic	GRCh38	431499
+single nucleotide variant	NM_000384.3(APOB):c.10182G>T (p.Lys3394Asn)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	438310
+single nucleotide variant	NM_000384.3(APOB):c.13220T>C (p.Ile4407Thr)	338	APOB	Pathogenic	GRCh38	440505
+single nucleotide variant	NM_000384.3(APOB):c.13135C>T (p.Gln4379Ter)	338	APOB	Pathogenic	GRCh38	440509
+single nucleotide variant	NM_000384.3(APOB):c.13114C>T (p.Gln4372Ter)	338	APOB	Pathogenic	GRCh38	440512
+single nucleotide variant	NM_000384.3(APOB):c.10633G>T (p.Glu3545Ter)	338	APOB	Pathogenic	GRCh38	440522
+single nucleotide variant	NM_000384.3(APOB):c.10580G>T (p.Arg3527Leu)	338	APOB	Likely pathogenic	GRCh38	440523
+single nucleotide variant	NM_000384.3(APOB):c.5238T>G (p.Tyr1746Ter)	338	APOB	Pathogenic	GRCh38	440524
+single nucleotide variant	NM_000384.3(APOB):c.4089C>G (p.Tyr1363Ter)	338	APOB	Pathogenic	GRCh38	440525
+single nucleotide variant	NM_000384.3(APOB):c.10186G>A (p.Ala3396Thr)	338	APOB	Likely pathogenic	GRCh38	444010
+single nucleotide variant	NM_000384.3(APOB):c.4089C>A (p.Tyr1363Ter)	338	APOB	Pathogenic	GRCh38	477784
+single nucleotide variant	NM_000384.3(APOB):c.1830-1G>A	338	APOB	Pathogenic	GRCh38	477783
+single nucleotide variant	NM_000384.3(APOB):c.7605C>A (p.Tyr2535Ter)	338	APOB	Pathogenic	GRCh38	544071
+single nucleotide variant	NM_000384.3(APOB):c.11789-1G>C	338	APOB	Likely pathogenic	GRCh38	580451
+single nucleotide variant	NM_000384.3(APOB):c.4503T>G (p.Tyr1501Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	577519
+single nucleotide variant	NM_000384.3(APOB):c.4471A>T (p.Arg1491Ter)	338	APOB	Likely pathogenic	GRCh38	620216
+single nucleotide variant	NM_000384.3(APOB):c.2604+1G>A	338	APOB	Likely pathogenic	GRCh38	630334
+single nucleotide variant	NM_000384.3(APOB):c.2096C>T (p.Pro699Leu)	338	APOB	Likely pathogenic	GRCh38	635247
+single nucleotide variant	NM_000384.3(APOB):c.4571C>T (p.Ser1524Phe)	338	APOB	Likely pathogenic	GRCh38	827637
+single nucleotide variant	NM_000384.3(APOB):c.1279C>T (p.Arg427Ter)	338	APOB	Likely pathogenic	GRCh38	827638
+single nucleotide variant	NM_000384.3(APOB):c.1054G>T (p.Val352Phe)	338	APOB	Likely pathogenic	GRCh38	827639
+single nucleotide variant	NM_000384.3(APOB):c.8392G>T (p.Glu2798Ter)	338	APOB	Pathogenic	GRCh38	843259
+single nucleotide variant	NM_000384.3(APOB):c.4006C>T (p.Gln1336Ter)	338	APOB	Pathogenic	GRCh38	855100
+single nucleotide variant	NM_000384.3(APOB):c.7600C>T (p.Arg2534Ter)	338	APOB	Pathogenic	GRCh38	895430
+single nucleotide variant	NM_000384.3(APOB):c.6034C>T (p.Arg2012Ter)	338	APOB	Pathogenic	GRCh38	927955
+single nucleotide variant	NM_000384.3(APOB):c.1618-2A>C	338	APOB	Likely pathogenic	GRCh38	2931646
+single nucleotide variant	NM_000384.3(APOB):c.5893G>T (p.Glu1965Ter)	338	APOB	Likely pathogenic	GRCh38	930769
+single nucleotide variant	NM_000384.3(APOB):c.11764C>T (p.Gln3922Ter)	338	APOB	Pathogenic	GRCh38	951011
+single nucleotide variant	NM_000384.3(APOB):c.3562A>T (p.Lys1188Ter)	338	APOB	Pathogenic	GRCh38	976726
+single nucleotide variant	NM_000384.3(APOB):c.9706G>T (p.Glu3236Ter)	338	APOB	Likely pathogenic	GRCh38	982792
+single nucleotide variant	NM_000384.3(APOB):c.10181A>C (p.Lys3394Thr)	338	APOB	Likely pathogenic	GRCh38	1046270
+single nucleotide variant	NM_000384.3(APOB):c.7699C>T (p.Gln2567Ter)	338	APOB	Pathogenic	GRCh38	1070406
+single nucleotide variant	NM_000384.3(APOB):c.3511G>T (p.Glu1171Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	1323319
+single nucleotide variant	NM_000384.3(APOB):c.1315C>T (p.Arg439Ter)	338	APOB	Pathogenic	GRCh38	1323322
+single nucleotide variant	NM_000384.3(APOB):c.11040T>G (p.Tyr3680Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	1323325
+single nucleotide variant	NM_000384.3(APOB):c.3842+2T>C	338	APOB	Likely pathogenic	GRCh38	4783531
+single nucleotide variant	NM_000384.3(APOB):c.2999+1G>A	338	APOB	Likely pathogenic	GRCh38	1323920
+single nucleotide variant	NM_000384.3(APOB):c.2817-2A>C	338	APOB	Likely pathogenic	GRCh38	1323922
+single nucleotide variant	NM_000384.3(APOB):c.13020T>G (p.Tyr4340Ter)	338	APOB	Likely pathogenic	GRCh38	1330071
+single nucleotide variant	NM_000384.3(APOB):c.537+1G>T	338	APOB	Pathogenic/Likely pathogenic	GRCh38	1330634
+single nucleotide variant	NM_000384.3(APOB):c.3508+1G>A	338	APOB	Likely pathogenic	GRCh38	1468789
+single nucleotide variant	NM_000384.3(APOB):c.7489C>T (p.Gln2497Ter)	338	APOB	Pathogenic	GRCh38	1386291
+single nucleotide variant	NM_000384.3(APOB):c.3508+1G>T	338	APOB	Likely pathogenic	GRCh38	1494951
+single nucleotide variant	NM_000384.3(APOB):c.2979T>A (p.Tyr993Ter)	338	APOB	Pathogenic	GRCh38	1369494
+single nucleotide variant	NM_000384.3(APOB):c.10327G>T (p.Glu3443Ter)	338	APOB	Pathogenic	GRCh38	1454956
+single nucleotide variant	NM_000384.3(APOB):c.7704T>G (p.Tyr2568Ter)	338	APOB	Pathogenic	GRCh38	1456415
+single nucleotide variant	NM_000384.3(APOB):c.1258G>T (p.Glu420Ter)	338	APOB	Pathogenic	GRCh38	1458186
+single nucleotide variant	NM_000384.3(APOB):c.3778G>T (p.Glu1260Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	1458005
+single nucleotide variant	NM_000384.3(APOB):c.1998C>A (p.Tyr666Ter)	338	APOB	Pathogenic	GRCh38	1416940
+single nucleotide variant	NM_000384.3(APOB):c.693+2T>A	338	APOB	Likely pathogenic	GRCh38	1515327
+single nucleotide variant	NM_000384.3(APOB):c.1468C>T (p.Arg490Trp)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	1685527
+single nucleotide variant	NM_000384.3(APOB):c.11330C>A (p.Ser3777Ter)	338	APOB	Pathogenic	GRCh38	1704963
+single nucleotide variant	NM_000384.3(APOB):c.904+2T>C	338	APOB	Pathogenic	GRCh38	1705571
+single nucleotide variant	NM_000384.3(APOB):c.5516T>C (p.Ile1839Thr)	338	APOB	Likely pathogenic	GRCh38	1809710
+single nucleotide variant	NM_000384.3(APOB):c.1471-1G>A	338	APOB	Pathogenic	GRCh38	2203022
+single nucleotide variant	NM_000384.3(APOB):c.6567T>A (p.Tyr2189Ter)	338	APOB	Pathogenic	GRCh38	2202111
+single nucleotide variant	NM_000384.3(APOB):c.133C>T (p.Arg45Ter)	338	APOB	Pathogenic	GRCh38	1957134
+single nucleotide variant	NM_000384.3(APOB):c.6799C>T (p.Gln2267Ter)	338	APOB	Pathogenic	GRCh38	1991651
+single nucleotide variant	NM_000384.3(APOB):c.7558C>T (p.Arg2520Ter)	338	APOB	Pathogenic	GRCh38	1983784
+single nucleotide variant	NM_000384.3(APOB):c.10182G>C (p.Lys3394Asn)	338	APOB	Pathogenic	GRCh38	2084238
+single nucleotide variant	NM_000384.3(APOB):c.82+2T>C	338	APOB	Likely pathogenic	GRCh38	2134447
+single nucleotide variant	NM_000384.3(APOB):c.3127A>T (p.Lys1043Ter)	338	APOB	Likely pathogenic	GRCh38	2572439
+single nucleotide variant	NM_000384.3(APOB):c.3000-1G>A	338	APOB	Likely pathogenic	GRCh38	2636301
+single nucleotide variant	NM_000384.3(APOB):c.7659G>A (p.Trp2553Ter)	338	APOB	Likely pathogenic	GRCh38	2692513
+single nucleotide variant	NM_000384.3(APOB):c.2067+1G>T	338	APOB	Pathogenic	GRCh38	2927391
+single nucleotide variant	NM_000384.3(APOB):c.2341G>T (p.Gly781Ter)	338	APOB	Pathogenic	GRCh38	2929243
+single nucleotide variant	NM_000384.3(APOB):c.11400T>G (p.Tyr3800Ter)	338	APOB	Pathogenic	GRCh38	2925315
+single nucleotide variant	NM_000384.3(APOB):c.904+1G>A	338	APOB	Likely pathogenic	GRCh38	2928257
+single nucleotide variant	NM_000384.3(APOB):c.7144C>T (p.Gln2382Ter)	338	APOB	Pathogenic	GRCh38	2933458
+single nucleotide variant	NM_000384.3(APOB):c.10781G>A (p.Trp3594Ter)	338	APOB	Pathogenic/Likely pathogenic	GRCh38	2927812
+single nucleotide variant	NM_000384.3(APOB):c.5976C>A (p.Tyr1992Ter)	338	APOB	Pathogenic	GRCh38	2929773
+single nucleotide variant	NM_000384.3(APOB):c.1470+2T>C	338	APOB	Likely pathogenic	GRCh38	2931489
+single nucleotide variant	NM_000384.3(APOB):c.5838C>A (p.Tyr1946Ter)	338	APOB	Pathogenic	GRCh38	2937495
+single nucleotide variant	NM_000384.3(APOB):c.122-2A>G	338	APOB	Likely pathogenic	GRCh38	2943935
+single nucleotide variant	NM_000384.3(APOB):c.7363C>T (p.Gln2455Ter)	338	APOB	Pathogenic	GRCh38	2949743
+single nucleotide variant	NM_000384.3(APOB):c.3979G>T (p.Gly1327Ter)	338	APOB	Pathogenic	GRCh38	2951059
+single nucleotide variant	NM_000384.3(APOB):c.11269C>T (p.Gln3757Ter)	338	APOB	Pathogenic	GRCh38	2953129
+single nucleotide variant	NM_000384.3(APOB):c.10586C>A (p.Ser3529Ter)	338	APOB	Pathogenic	GRCh38	3067674
+single nucleotide variant	NM_000384.3(APOB):c.7765G>T (p.Glu2589Ter)	338	APOB	Likely pathogenic	GRCh38	3069184
+single nucleotide variant	NM_000384.3(APOB):c.2173C>T (p.Gln725Ter)	338	APOB	Pathogenic	GRCh38	3307797
+single nucleotide variant	NM_000384.3(APOB):c.12910C>T (p.Gln4304Ter)	338	APOB	Likely pathogenic	GRCh38	3358994
+single nucleotide variant	NM_000384.3(APOB):c.2431C>T (p.Gln811Ter)	338	APOB	Likely pathogenic	GRCh38	3381149
+single nucleotide variant	NM_000384.3(APOB):c.4578C>A (p.Tyr1526Ter)	338	APOB	Likely pathogenic	GRCh38	3382837
+single nucleotide variant	NM_000384.3(APOB):c.10625G>A (p.Trp3542Ter)	338	APOB	Likely pathogenic	GRCh38	3388716
+single nucleotide variant	NM_000384.3(APOB):c.12382G>T (p.Val4128Leu)	338	APOB	Pathogenic	GRCh38	3572065
+single nucleotide variant	NM_000384.3(APOB):c.11283C>A (p.Cys3761Ter)	338	APOB	Pathogenic	GRCh38	3758585
+single nucleotide variant	NM_000384.3(APOB):c.3790C>T (p.Gln1264Ter)	338	APOB	Pathogenic	GRCh38	3751074
+single nucleotide variant	NM_000384.3(APOB):c.7312G>T (p.Glu2438Ter)	338	APOB	Pathogenic	GRCh38	3751084
+single nucleotide variant	NM_000384.3(APOB):c.11095A>T (p.Arg3699Ter)	338	APOB	Pathogenic	GRCh38	3752274
+single nucleotide variant	NM_000384.3(APOB):c.3696+1G>A	338	APOB	Pathogenic	GRCh38	3755950
+single nucleotide variant	NM_000384.3(APOB):c.4216+2T>C	338	APOB	Likely pathogenic	GRCh38	3748465
+single nucleotide variant	NM_000384.3(APOB):c.237+2T>C	338	APOB	Likely pathogenic	GRCh38	3756925
+single nucleotide variant	NM_000384.3(APOB):c.11903+1G>C	338	APOB	Likely pathogenic	GRCh38	3760082
+single nucleotide variant	NM_000384.3(APOB):c.7658G>A (p.Trp2553Ter)	338	APOB	Pathogenic	GRCh38	3775164
+single nucleotide variant	NM_000384.3(APOB):c.237+1G>A	338	APOB	Likely pathogenic	GRCh38	3885619
+single nucleotide variant	NM_000384.3(APOB):c.9294C>A (p.Tyr3098Ter)	338	APOB	Likely pathogenic	GRCh38	3893241
+single nucleotide variant	NM_000384.3(APOB):c.904+2T>A	338	APOB	Likely pathogenic	GRCh38	3896614
+single nucleotide variant	NM_000384.3(APOB):c.12088-1G>C	338	APOB	Likely pathogenic	GRCh38	3898700
+single nucleotide variant	NM_000384.3(APOB):c.10142T>A (p.Leu3381Ter)	338	APOB	Likely pathogenic	GRCh38	3899242
+single nucleotide variant	NM_000384.3(APOB):c.1150C>T (p.Gln384Ter)	338	APOB	Likely pathogenic	GRCh38	3903258
+single nucleotide variant	NM_000384.3(APOB):c.819-1G>A	338	APOB	Likely pathogenic	GRCh38	4072067
+single nucleotide variant	NM_000384.3(APOB):c.4383G>A (p.Trp1461Ter)	338	APOB	Likely pathogenic	GRCh38	4077157
+single nucleotide variant	NM_000384.3(APOB):c.3696+1G>T	338	APOB	Pathogenic	GRCh38	4542537
+single nucleotide variant	NM_000384.3(APOB):c.1470+1G>T	338	APOB	Likely pathogenic	GRCh38	4542538
+single nucleotide variant	NM_000384.3(APOB):c.8602G>T (p.Glu2868Ter)	338	APOB	Pathogenic	GRCh38	4784371
+single nucleotide variant	NM_000384.3(APOB):c.5303C>A (p.Ser1768Ter)	338	APOB	Pathogenic	GRCh38	4786150
+single nucleotide variant	NM_000384.3(APOB):c.6022G>T (p.Glu2008Ter)	338	APOB	Pathogenic	GRCh38	4787609
+single nucleotide variant	NM_000384.3(APOB):c.11470C>T (p.Gln3824Ter)	338	APOB	Pathogenic	GRCh38	4792430
+single nucleotide variant	NM_000384.3(APOB):c.9721G>T (p.Glu3241Ter)	338	APOB	Pathogenic	GRCh38	4794201
+single nucleotide variant	NM_000384.3(APOB):c.6917C>A (p.Ser2306Ter)	338	APOB	Pathogenic	GRCh38	4823125
+single nucleotide variant	NM_000384.3(APOB):c.5409C>G (p.Tyr1803Ter)	338	APOB	Pathogenic	GRCh38	4862395
+single nucleotide variant	NM_000384.3(APOB):c.10783C>T (p.Gln3595Ter)	338	APOB	Pathogenic	GRCh38	4862565
+single nucleotide variant	NM_000384.3(APOB):c.8786G>A (p.Trp2929Ter)	338	APOB	Likely pathogenic	GRCh38	4885427
+single nucleotide variant	NM_000384.3(APOB):c.694-13A>G	338	APOB	Pathogenic	GRCh38	4888099

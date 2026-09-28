@@ -1,0 +1,85 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000346.4(SOX9):c.583C>T (p.Gln195Ter)	6662	SOX9	Pathogenic	GRCh38	2506
+single nucleotide variant	NM_000346.4(SOX9):c.1320C>G (p.Tyr440Ter)	6662	SOX9	Pathogenic	GRCh38	2510
+single nucleotide variant	NM_000346.4(SOX9):c.517A>G (p.Lys173Glu)	6662	SOX9	Pathogenic	GRCh38	2511
+single nucleotide variant	NM_000346.4(SOX9):c.493C>T (p.His165Tyr)	6662	SOX9	Pathogenic	GRCh38	2513
+single nucleotide variant	NM_000346.4(SOX9):c.227C>A (p.Ala76Glu)	6662	SOX9	Pathogenic	GRCh38	2514
+single nucleotide variant	NM_000346.4(SOX9):c.462C>G (p.Phe154Leu)	6662	SOX9	Pathogenic	GRCh38	2516
+single nucleotide variant	NM_000346.4(SOX9):c.472G>A (p.Ala158Thr)	6662	SOX9	Pathogenic	GRCh38	2517
+single nucleotide variant	NM_000346.4(SOX9):c.1320C>A (p.Tyr440Ter)	6662	SOX9	Pathogenic	GRCh38	21163
+single nucleotide variant	NM_000346.4(SOX9):c.442G>T (p.Glu148Ter)	6662	SOX9	Pathogenic	GRCh38	279897
+single nucleotide variant	NM_000346.4(SOX9):c.1249C>T (p.Gln417Ter)	6662	SOX9	Pathogenic	GRCh38	288215
+single nucleotide variant	NM_000346.4(SOX9):c.479G>C (p.Arg160Pro)	6662	SOX9	Likely pathogenic	GRCh38	373438
+single nucleotide variant	NM_000346.4(SOX9):c.1180C>T (p.Arg394Ter)	6662	SOX9	Pathogenic	GRCh38	373101
+single nucleotide variant	NM_000346.4(SOX9):c.1427T>C (p.Met476Thr)	6662	SOX9	Likely pathogenic	GRCh38	374384
+single nucleotide variant	NM_000346.4(SOX9):c.522C>G (p.Tyr174Ter)	6662	SOX9	Pathogenic	GRCh38	419613
+single nucleotide variant	NM_000346.4(SOX9):c.1418A>G (p.Gln473Arg)	6662	SOX9	Likely pathogenic	GRCh38	423957
+single nucleotide variant	NM_000346.4(SOX9):c.509C>T (p.Pro170Leu)	6662	SOX9	Pathogenic	GRCh38	429733
+single nucleotide variant	NM_000346.4(SOX9):c.526C>T (p.Pro176Ser)	6662	SOX9	Likely pathogenic	GRCh38	432189
+single nucleotide variant	NM_000346.4(SOX9):c.413C>A (p.Thr138Lys)	6662	SOX9	Likely pathogenic	GRCh38	453015
+single nucleotide variant	NM_000346.4(SOX9):c.527C>G (p.Pro176Arg)	6662	SOX9	Likely pathogenic	GRCh38	451006
+single nucleotide variant	NM_000346.4(SOX9):c.252C>G (p.Tyr84Ter)	6662	SOX9	Pathogenic	GRCh38	468239
+single nucleotide variant	NM_000346.4(SOX9):c.349C>T (p.Gln117Ter)	6662	SOX9	Pathogenic	GRCh38	468240
+single nucleotide variant	NM_000346.4(SOX9):c.515A>G (p.Tyr172Cys)	6662	SOX9	Likely pathogenic	GRCh38	488603
+single nucleotide variant	NM_000346.4(SOX9):c.1372C>T (p.Gln458Ter)	6662	SOX9	Pathogenic	GRCh38	488604
+single nucleotide variant	NM_000346.4(SOX9):c.1018C>T (p.Gln340Ter)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	489071
+single nucleotide variant	NM_000346.4(SOX9):c.781G>T (p.Glu261Ter)	6662	SOX9	Pathogenic	GRCh38	497284
+single nucleotide variant	NM_000346.4(SOX9):c.331G>A (p.Ala111Thr)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	520782
+single nucleotide variant	NM_000346.4(SOX9):c.508C>T (p.Pro170Ser)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	559879
+single nucleotide variant	NM_000346.4(SOX9):c.491A>C (p.Gln164Pro)	6662	SOX9	Pathogenic	GRCh38	617626
+single nucleotide variant	NM_000346.4(SOX9):c.344G>A (p.Trp115Ter)	6662	SOX9	Pathogenic	GRCh38	618381
+single nucleotide variant	NM_000346.4(SOX9):c.429G>T (p.Trp143Cys)	6662	SOX9	Likely pathogenic	GRCh38	618378
+single nucleotide variant	NM_000346.4(SOX9):c.522C>A (p.Tyr174Ter)	6662	SOX9	Pathogenic	GRCh38	620560
+single nucleotide variant	NM_000346.4(SOX9):c.196G>T (p.Glu66Ter)	6662	SOX9	Pathogenic	GRCh38	692026
+single nucleotide variant	NM_000346.4(SOX9):c.957C>G (p.Tyr319Ter)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	692092
+single nucleotide variant	NM_000346.4(SOX9):c.1177C>T (p.Gln393Ter)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	692094
+single nucleotide variant	NM_000346.4(SOX9):c.1234C>T (p.Gln412Ter)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	692093
+single nucleotide variant	NM_000346.4(SOX9):c.432-2A>T	6662	SOX9	Pathogenic	GRCh38	948349
+single nucleotide variant	NM_000346.4(SOX9):c.247G>C (p.Gly83Arg)	6662	SOX9	Likely pathogenic	GRCh38	985960
+single nucleotide variant	NM_000346.4(SOX9):c.494A>G (p.His165Arg)	6662	SOX9	Likely pathogenic	GRCh38	985989
+single nucleotide variant	NM_000346.4(SOX9):c.1081C>T (p.Gln361Ter)	6662	SOX9	Pathogenic	GRCh38	987430
+single nucleotide variant	NM_000346.4(SOX9):c.508C>G (p.Pro170Ala)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	996802
+single nucleotide variant	NM_000346.4(SOX9):c.419G>A (p.Gly140Asp)	6662	SOX9	Likely pathogenic	GRCh38	1067274
+single nucleotide variant	NM_000346.4(SOX9):c.529C>T (p.Arg177Trp)	6662	SOX9	Pathogenic	GRCh38	1164035
+single nucleotide variant	NM_000346.4(SOX9):c.319C>T (p.Arg107Trp)	6662	SOX9	Likely pathogenic	GRCh38	1176690
+single nucleotide variant	NM_000346.4(SOX9):c.473C>T (p.Ala158Val)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	1191722
+single nucleotide variant	NM_000346.4(SOX9):c.526C>A (p.Pro176Thr)	6662	SOX9	Likely pathogenic	GRCh38	1224435
+single nucleotide variant	NM_000346.4(SOX9):c.343T>C (p.Trp115Arg)	6662	SOX9	Likely pathogenic	GRCh38	1224442
+single nucleotide variant	NM_000346.4(SOX9):c.337A>G (p.Met113Val)	6662	SOX9	Pathogenic	GRCh38	1254813
+single nucleotide variant	NM_000346.4(SOX9):c.358C>G (p.Arg120Gly)	6662	SOX9	Likely pathogenic	GRCh38	1342866
+single nucleotide variant	NM_000346.4(SOX9):c.313G>T (p.Val105Phe)	6662	SOX9	Pathogenic	GRCh38	1422924
+single nucleotide variant	NM_000346.4(SOX9):c.527C>T (p.Pro176Leu)	6662	SOX9	Pathogenic	GRCh38	1454687
+single nucleotide variant	NM_000346.4(SOX9):c.508C>A (p.Pro170Thr)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	1485794
+single nucleotide variant	NM_000346.4(SOX9):c.339G>A (p.Met113Ile)	6662	SOX9	Likely pathogenic	GRCh38	1514843
+single nucleotide variant	NM_000346.4(SOX9):c.686-2A>G	6662	SOX9	Pathogenic	GRCh38	1527950
+single nucleotide variant	NM_000346.4(SOX9):c.218T>C (p.Ile73Thr)	6662	SOX9	Pathogenic	GRCh38	1699037
+single nucleotide variant	NM_000346.4(SOX9):c.517A>T (p.Lys173Ter)	6662	SOX9	Pathogenic	GRCh38	1699296
+single nucleotide variant	NM_000346.4(SOX9):c.1132C>T (p.Gln378Ter)	6662	SOX9	Likely pathogenic	GRCh38	1702489
+single nucleotide variant	NM_000346.4(SOX9):c.327G>T (p.Met109Ile)	6662	SOX9	Likely pathogenic	GRCh38	1809734
+single nucleotide variant	NM_000346.4(SOX9):c.432-2A>C	6662	SOX9	Pathogenic	GRCh38	2138102
+single nucleotide variant	NM_000346.4(SOX9):c.455G>C (p.Arg152Pro)	6662	SOX9	Pathogenic/Likely pathogenic	GRCh38	2138103
+single nucleotide variant	NM_000346.4(SOX9):c.337A>T (p.Met113Leu)	6662	SOX9	Likely pathogenic	GRCh38	1992803
+single nucleotide variant	NM_000346.4(SOX9):c.683C>A (p.Ser228Ter)	6662	SOX9	Pathogenic	GRCh38	2040173
+single nucleotide variant	NM_000346.4(SOX9):c.515A>T (p.Tyr172Phe)	6662	SOX9	Pathogenic	GRCh38	2047766
+single nucleotide variant	NM_000346.4(SOX9):c.685+2T>C	6662	SOX9	Pathogenic	GRCh38	2106821
+single nucleotide variant	NM_000346.4(SOX9):c.829G>T (p.Glu277Ter)	6662	SOX9	Likely pathogenic	GRCh38	2433674
+single nucleotide variant	NM_000346.4(SOX9):c.326T>C (p.Met109Thr)	6662	SOX9	Pathogenic	GRCh38	2582587
+single nucleotide variant	NM_000346.4(SOX9):c.790A>T (p.Arg264Ter)	6662	SOX9	Likely pathogenic	GRCh38	2631263
+single nucleotide variant	NM_000346.4(SOX9):c.760C>T (p.Arg254Ter)	6662	SOX9	Pathogenic	GRCh38	2699620
+single nucleotide variant	NM_000346.4(SOX9):c.685+1G>A	6662	SOX9	Pathogenic	GRCh38	2736641
+single nucleotide variant	NM_000346.4(SOX9):c.376C>T (p.Gln126Ter)	6662	SOX9	Pathogenic	GRCh38	2921059
+single nucleotide variant	NM_000346.4(SOX9):c.509C>G (p.Pro170Arg)	6662	SOX9	Pathogenic	GRCh38	3252744
+single nucleotide variant	NM_000346.4(SOX9):c.1498C>T (p.Gln500Ter)	6662	SOX9	Pathogenic	GRCh38	3336003
+single nucleotide variant	NM_000346.4(SOX9):c.494A>C (p.His165Pro)	6662	SOX9	Likely pathogenic	GRCh38	3338856
+single nucleotide variant	NM_000346.4(SOX9):c.512A>T (p.Asp171Val)	6662	SOX9	Pathogenic	GRCh38	3362078
+single nucleotide variant	NM_000346.4(SOX9):c.1069C>T (p.Gln357Ter)	6662	SOX9	Pathogenic	GRCh38	3375473
+single nucleotide variant	NM_000346.4(SOX9):c.1225G>T (p.Glu409Ter)	6662	SOX9	Likely pathogenic	GRCh38	3382698
+single nucleotide variant	NM_000346.4(SOX9):c.358C>T (p.Arg120Cys)	6662	SOX9	Likely pathogenic	GRCh38	3393529
+single nucleotide variant	NM_000346.4(SOX9):c.323C>T (p.Pro108Leu)	6662	SOX9	Pathogenic	GRCh38	3906407
+single nucleotide variant	NM_000346.4(SOX9):c.432-2A>G	6662	SOX9	Pathogenic	GRCh38	4685764
+single nucleotide variant	NM_000346.4(SOX9):c.395A>T (p.Asn132Ile)	6662	SOX9	Likely pathogenic	GRCh38	4818952
+single nucleotide variant	NM_000346.4(SOX9):c.498G>C (p.Lys166Asn)	6662	SOX9	Likely pathogenic	GRCh38	4819153
+single nucleotide variant	NM_000346.4(SOX9):c.462C>A (p.Phe154Leu)	6662	SOX9	Likely pathogenic	GRCh38	4820634
+single nucleotide variant	NM_000346.4(SOX9):c.345G>A (p.Trp115Ter)	6662	SOX9	Pathogenic	GRCh38	4850828
+single nucleotide variant	NM_000346.4(SOX9):c.506A>C (p.His169Pro)	6662	SOX9	Likely pathogenic	GRCh38	4854034
+single nucleotide variant	NM_000346.4(SOX9):c.338T>C (p.Met113Thr)	6662	SOX9	Likely pathogenic	GRCh38	4855318

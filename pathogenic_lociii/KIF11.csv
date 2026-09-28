@@ -1,0 +1,88 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004523.4(KIF11):c.1159C>T (p.Arg387Ter)	3832	KIF11	Pathogenic	GRCh38	29768
+single nucleotide variant	NM_004523.4(KIF11):c.2547+2T>C	3832	KIF11	Pathogenic	GRCh38	29772
+single nucleotide variant	NM_004523.4(KIF11):c.790-1G>A	3832	KIF11	Pathogenic	GRCh38	183017
+single nucleotide variant	NM_004523.4(KIF11):c.1408G>T (p.Glu470Ter)	3832	KIF11	Pathogenic	GRCh38	192300
+single nucleotide variant	NM_004523.4(KIF11):c.790-1G>T	3832	KIF11	Pathogenic	GRCh38	192301
+single nucleotide variant	NM_004523.4(KIF11):c.436A>T (p.Lys146Ter)	3832	KIF11	Pathogenic	GRCh38	211274
+single nucleotide variant	NM_004523.4(KIF11):c.1702+1G>A	3832	KIF11	Pathogenic	GRCh38	280215
+single nucleotide variant	NM_004523.4(KIF11):c.2341C>T (p.Gln781Ter)	3832	KIF11	Pathogenic	GRCh38	369969
+single nucleotide variant	NM_004523.4(KIF11):c.77+1G>A	3832	KIF11	Pathogenic	GRCh38	392999
+single nucleotide variant	NM_004523.4(KIF11):c.247C>T (p.Arg83Ter)	3832	KIF11	Pathogenic	GRCh38	424002
+single nucleotide variant	NM_004523.4(KIF11):c.2194A>T (p.Arg732Ter)	3832	KIF11	Likely pathogenic	GRCh38	422119
+single nucleotide variant	NM_004523.4(KIF11):c.868C>T (p.Gln290Ter)	3832	KIF11	Pathogenic	GRCh38	435617
+single nucleotide variant	NM_004523.4(KIF11):c.2160+1G>T	3832	KIF11	Pathogenic	GRCh38	435613
+single nucleotide variant	NM_004523.4(KIF11):c.2548-1G>A	3832	KIF11	Pathogenic	GRCh38	435615
+single nucleotide variant	NM_004523.4(KIF11):c.2922G>A (p.Pro974=)	3832	KIF11	Pathogenic	GRCh38	435616
+single nucleotide variant	NM_004523.4(KIF11):c.2230C>T (p.Gln744Ter)	3832	KIF11	Pathogenic	GRCh38	453264
+single nucleotide variant	NM_004523.4(KIF11):c.2T>C (p.Met1Thr)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	488843
+single nucleotide variant	NM_004523.4(KIF11):c.139C>T (p.Arg47Ter)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	488844
+single nucleotide variant	NM_004523.4(KIF11):c.274G>T (p.Glu92Ter)	3832	KIF11	Pathogenic	GRCh38	489054
+single nucleotide variant	NM_004523.4(KIF11):c.1634T>C (p.Met545Thr)	3832	KIF11	Likely pathogenic	GRCh38	666590
+single nucleotide variant	NM_004523.4(KIF11):c.2782C>T (p.Gln928Ter)	3832	KIF11	Pathogenic	GRCh38	802621
+single nucleotide variant	NM_004523.4(KIF11):c.1305+1G>A	3832	KIF11	Likely pathogenic	GRCh38	807619
+single nucleotide variant	NM_004523.4(KIF11):c.381G>A (p.Trp127Ter)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	810629
+single nucleotide variant	NM_004523.4(KIF11):c.2494C>T (p.Gln832Ter)	3832	KIF11	Pathogenic	GRCh38	849766
+single nucleotide variant	NM_004523.4(KIF11):c.388-1G>C	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	837625
+single nucleotide variant	NM_004523.4(KIF11):c.1134T>G (p.Tyr378Ter)	3832	KIF11	Likely pathogenic	GRCh38	866368
+single nucleotide variant	NM_004523.4(KIF11):c.2802C>G (p.Tyr934Ter)	3832	KIF11	Pathogenic	GRCh38	872767
+single nucleotide variant	NM_004523.4(KIF11):c.2449C>T (p.Gln817Ter)	3832	KIF11	Pathogenic	GRCh38	957914
+single nucleotide variant	NM_004523.4(KIF11):c.1643T>G (p.Leu548Ter)	3832	KIF11	Pathogenic	GRCh38	971022
+single nucleotide variant	NM_004523.4(KIF11):c.1A>G (p.Met1Val)	3832	KIF11	Pathogenic	GRCh38	977833
+single nucleotide variant	NM_004523.4(KIF11):c.2458G>T (p.Glu820Ter)	3832	KIF11	Likely pathogenic	GRCh38	977821
+single nucleotide variant	NM_004523.4(KIF11):c.2545G>T (p.Glu849Ter)	3832	KIF11	Likely pathogenic	GRCh38	977901
+single nucleotide variant	NM_004523.4(KIF11):c.308+1G>A	3832	KIF11	Pathogenic	GRCh38	977864
+single nucleotide variant	NM_004523.4(KIF11):c.2268-1G>A	3832	KIF11	Likely pathogenic	GRCh38	977905
+single nucleotide variant	NM_004523.4(KIF11):c.1580A>T (p.Asn527Ile)	3832	KIF11	Likely pathogenic	GRCh38	982377
+single nucleotide variant	NM_004523.4(KIF11):c.895A>G (p.Ile299Val)	3832	KIF11	Likely pathogenic	GRCh38	993007
+single nucleotide variant	NM_004523.4(KIF11):c.2161-1G>A	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	1029854
+single nucleotide variant	NM_004523.4(KIF11):c.2922G>T (p.Pro974=)	3832	KIF11	Pathogenic	GRCh38	1064447
+single nucleotide variant	NM_004523.4(KIF11):c.388-2A>T	3832	KIF11	Pathogenic	GRCh38	1068438
+single nucleotide variant	NM_004523.4(KIF11):c.157C>T (p.Arg53Ter)	3832	KIF11	Pathogenic	GRCh38	1070069
+single nucleotide variant	NM_004523.4(KIF11):c.934C>T (p.Arg312Ter)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	1075991
+single nucleotide variant	NM_004523.4(KIF11):c.2267+5G>C	3832	KIF11	Likely pathogenic	GRCh38	1175775
+single nucleotide variant	NM_004523.4(KIF11):c.2158C>T (p.Gln720Ter)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	1298494
+single nucleotide variant	NM_004523.4(KIF11):c.422A>T (p.His141Leu)	3832	KIF11	Likely pathogenic	GRCh38	1320107
+single nucleotide variant	NM_004523.4(KIF11):c.789+1G>T	3832	KIF11	Likely pathogenic	GRCh38	1338798
+single nucleotide variant	NM_004523.4(KIF11):c.76A>G (p.Arg26Gly)	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	1474738
+single nucleotide variant	NM_004523.4(KIF11):c.699-1G>C	3832	KIF11	Likely pathogenic	GRCh38	1699266
+single nucleotide variant	NM_004523.4(KIF11):c.2771-1G>C	3832	KIF11	Pathogenic	GRCh38	1699270
+single nucleotide variant	NM_004523.4(KIF11):c.1703-1G>A	3832	KIF11	Likely pathogenic	GRCh38	1709279
+single nucleotide variant	NM_004523.4(KIF11):c.2308C>T (p.Gln770Ter)	3832	KIF11	Pathogenic	GRCh38	1803208
+single nucleotide variant	NM_004523.4(KIF11):c.1090G>T (p.Glu364Ter)	3832	KIF11	Pathogenic	GRCh38	1994791
+single nucleotide variant	NM_004523.4(KIF11):c.2263C>T (p.Gln755Ter)	3832	KIF11	Pathogenic	GRCh38	2017310
+single nucleotide variant	NM_004523.4(KIF11):c.2573C>G (p.Ser858Ter)	3832	KIF11	Pathogenic	GRCh38	2023416
+single nucleotide variant	NM_004523.4(KIF11):c.2876T>A (p.Leu959Ter)	3832	KIF11	Pathogenic	GRCh38	2057404
+single nucleotide variant	NM_004523.4(KIF11):c.933T>A (p.Tyr311Ter)	3832	KIF11	Pathogenic	GRCh38	2098933
+single nucleotide variant	NM_004523.4(KIF11):c.89T>A (p.Leu30Ter)	3832	KIF11	Likely pathogenic	GRCh38	2412712
+single nucleotide variant	NM_004523.4(KIF11):c.961C>T (p.Gln321Ter)	3832	KIF11	Likely pathogenic	GRCh38	2412713
+single nucleotide variant	NM_004523.4(KIF11):c.2267+1G>A	3832	KIF11	Pathogenic	GRCh38	2500888
+single nucleotide variant	NM_004523.4(KIF11):c.2440G>T (p.Glu814Ter)	3832	KIF11	Likely pathogenic	GRCh38	2630727
+single nucleotide variant	NM_004523.4(KIF11):c.574-2A>G	3832	KIF11	Pathogenic/Likely pathogenic	GRCh38	2691882
+single nucleotide variant	NM_004523.4(KIF11):c.1867G>T (p.Glu623Ter)	3832	KIF11	Pathogenic	GRCh38	2708566
+single nucleotide variant	NM_004523.4(KIF11):c.2362C>T (p.Gln788Ter)	3832	KIF11	Pathogenic	GRCh38	2735455
+single nucleotide variant	NM_004523.4(KIF11):c.2548-1G>T	3832	KIF11	Likely pathogenic	GRCh38	2745425
+single nucleotide variant	NM_004523.4(KIF11):c.2938G>T (p.Glu980Ter)	3832	KIF11	Pathogenic	GRCh38	2760741
+single nucleotide variant	NM_004523.4(KIF11):c.1345C>T (p.Gln449Ter)	3832	KIF11	Likely pathogenic	GRCh38	3062326
+single nucleotide variant	NM_004523.4(KIF11):c.1235T>G (p.Leu412Ter)	3832	KIF11	Likely pathogenic	GRCh38	3064390
+single nucleotide variant	NM_004523.4(KIF11):c.693C>G (p.Tyr231Ter)	3832	KIF11	Pathogenic	GRCh38	3249942
+single nucleotide variant	NM_004523.4(KIF11):c.634C>T (p.Gln212Ter)	3832	KIF11	Pathogenic	GRCh38	3382091
+single nucleotide variant	NM_004523.4(KIF11):c.1189G>T (p.Gly397Ter)	3832	KIF11	Pathogenic	GRCh38	3637353
+single nucleotide variant	NM_004523.4(KIF11):c.2788A>T (p.Lys930Ter)	3832	KIF11	Pathogenic	GRCh38	3654397
+single nucleotide variant	NM_004523.4(KIF11):c.2557C>T (p.Gln853Ter)	3832	KIF11	Pathogenic	GRCh38	3664440
+single nucleotide variant	NM_004523.4(KIF11):c.574-1G>A	3832	KIF11	Likely pathogenic	GRCh38	3729080
+single nucleotide variant	NM_004523.4(KIF11):c.1129-2A>G	3832	KIF11	Pathogenic	GRCh38	3772039
+single nucleotide variant	NM_004523.4(KIF11):c.2687T>C (p.Leu896Pro)	3832	KIF11	Likely pathogenic	GRCh38	4081472
+single nucleotide variant	NM_004523.4(KIF11):c.1864C>T (p.Gln622Ter)	3832	KIF11	Pathogenic	GRCh38	4081885
+single nucleotide variant	NM_004523.4(KIF11):c.693C>A (p.Tyr231Ter)	3832	KIF11	Pathogenic	GRCh38	4622921
+single nucleotide variant	NM_004523.4(KIF11):c.547C>T (p.Gln183Ter)	3832	KIF11	Likely pathogenic	GRCh38	4685548
+single nucleotide variant	NM_004523.4(KIF11):c.424C>T (p.Gln142Ter)	3832	KIF11	Pathogenic	GRCh38	4714418
+single nucleotide variant	NM_004523.4(KIF11):c.2161-2A>C	3832	KIF11	Likely pathogenic	GRCh38	4726768
+single nucleotide variant	NM_004523.4(KIF11):c.2383G>T (p.Glu795Ter)	3832	KIF11	Pathogenic	GRCh38	4729967
+single nucleotide variant	NM_004523.4(KIF11):c.1804C>T (p.Gln602Ter)	3832	KIF11	Pathogenic	GRCh38	4818938
+single nucleotide variant	NM_004523.4(KIF11):c.2771-1G>A	3832	KIF11	Likely pathogenic	GRCh38	4820103
+single nucleotide variant	NM_004523.4(KIF11):c.2548-2A>T	3832	KIF11	Likely pathogenic	GRCh38	4845295
+single nucleotide variant	NM_004523.4(KIF11):c.1666C>T (p.Gln556Ter)	3832	KIF11	Likely pathogenic	GRCh38	4846835
+single nucleotide variant	NM_004523.4(KIF11):c.2689G>T (p.Glu897Ter)	3832	KIF11	Likely pathogenic	GRCh38	4851414
+single nucleotide variant	NM_004523.4(KIF11):c.387+1G>A	3832	KIF11	Pathogenic	GRCh38	4851977
+single nucleotide variant	NM_004523.4(KIF11):c.1495-1G>C	3832	KIF11	Likely pathogenic	GRCh38	4884536

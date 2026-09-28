@@ -1,0 +1,52 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_002547.3(OPHN1):c.184C>T (p.Gln62Ter)	4983	OPHN1	Pathogenic	GRCh38	11579
+single nucleotide variant	NM_002547.3(OPHN1):c.496C>T (p.Gln166Ter)	4983	OPHN1	Pathogenic	GRCh38	159477
+single nucleotide variant	NM_002547.3(OPHN1):c.2035G>A (p.Asp679Asn)	4983	OPHN1	Likely pathogenic	GRCh38	224098
+single nucleotide variant	NM_002547.3(OPHN1):c.746T>C (p.Leu249Pro)	4983	OPHN1	Likely pathogenic	GRCh38	374192
+single nucleotide variant	NM_002547.3(OPHN1):c.1246C>T (p.Gln416Ter)	4983	OPHN1	Pathogenic	GRCh38	379804
+single nucleotide variant	NM_002547.3(OPHN1):c.1225C>T (p.Arg409Cys)	4983	OPHN1	Pathogenic	GRCh38	421280
+single nucleotide variant	NM_002547.3(OPHN1):c.155-2A>C	4983	OPHN1	Likely pathogenic	GRCh38	419263
+single nucleotide variant	NM_002547.3(OPHN1):c.1277-1G>C	4983	OPHN1	Likely pathogenic	GRCh38	425502
+single nucleotide variant	NM_002547.3(OPHN1):c.1105-1G>T	4983	OPHN1	Likely pathogenic	GRCh38	444808
+single nucleotide variant	NM_002547.3(OPHN1):c.1834+1G>T	4983	OPHN1	Pathogenic	GRCh38	546456
+single nucleotide variant	NM_002547.3(OPHN1):c.1362-2A>G	4983	OPHN1	Likely pathogenic	GRCh38	588443
+single nucleotide variant	NM_002547.3(OPHN1):c.1489C>T (p.Arg497Ter)	4983	OPHN1	Pathogenic	GRCh38	620153
+single nucleotide variant	NM_002547.3(OPHN1):c.1361G>A (p.Arg454Lys)	4983	OPHN1	Likely pathogenic	GRCh38	636256
+single nucleotide variant	NM_002547.3(OPHN1):c.1138+1G>A	4983	OPHN1	Pathogenic	GRCh38	804020
+single nucleotide variant	NM_002547.3(OPHN1):c.1025+2T>C	4983	OPHN1	Likely pathogenic	GRCh38	807740
+single nucleotide variant	NM_002547.3(OPHN1):c.1141G>T (p.Glu381Ter)	4983	OPHN1	Pathogenic	GRCh38	985609
+single nucleotide variant	NM_002547.3(OPHN1):c.1202-1G>A	4983	OPHN1	Likely pathogenic	GRCh38	1064619
+single nucleotide variant	NM_002547.3(OPHN1):c.702+4A>G	4983	OPHN1	Likely pathogenic	GRCh38	1064589
+single nucleotide variant	NM_002547.3(OPHN1):c.2159-1G>C	4983	OPHN1	Pathogenic	GRCh38	1164012
+single nucleotide variant	NM_002547.3(OPHN1):c.170T>A (p.Val57Asp)	4983	OPHN1	Pathogenic	GRCh38	1164011
+single nucleotide variant	NM_002547.3(OPHN1):c.977C>T (p.Thr326Met)	4983	OPHN1	Likely pathogenic	GRCh38	1193428
+single nucleotide variant	NM_002547.3(OPHN1):c.1526+1G>A	4983	OPHN1	Likely pathogenic	GRCh38	1285464
+single nucleotide variant	NM_002547.3(OPHN1):c.1375C>A (p.Pro459Thr)	4983	OPHN1	Likely pathogenic	GRCh38	1300421
+single nucleotide variant	NM_002547.3(OPHN1):c.384+1G>A	4983	OPHN1	Pathogenic	GRCh38	1323384
+single nucleotide variant	NM_002547.3(OPHN1):c.702+1G>A	4983	OPHN1	Pathogenic	GRCh38	1326119
+single nucleotide variant	NM_002547.3(OPHN1):c.597+2T>C	4983	OPHN1	Pathogenic	GRCh38	1685999
+single nucleotide variant	NM_002547.3(OPHN1):c.702+4A>T	4983	OPHN1	Likely pathogenic	GRCh38	1698727
+single nucleotide variant	NM_002547.3(OPHN1):c.1586G>A (p.Gly529Glu)	4983	OPHN1	Likely pathogenic	GRCh38	1700065
+single nucleotide variant	NM_002547.3(OPHN1):c.1045C>T (p.Gln349Ter)	4983	OPHN1	Pathogenic	GRCh38	1701065
+single nucleotide variant	NM_002547.3(OPHN1):c.727C>T (p.Arg243Trp)	4983	OPHN1	Likely pathogenic	GRCh38	2430635
+single nucleotide variant	NM_002547.3(OPHN1):c.598-1G>C	4983	OPHN1	Likely pathogenic	GRCh38	2441882
+single nucleotide variant	NM_002547.3(OPHN1):c.931C>T (p.Gln311Ter)	4983	OPHN1	Likely pathogenic	GRCh38	2637016
+single nucleotide variant	NM_002547.3(OPHN1):c.1224C>A (p.Tyr408Ter)	4983	OPHN1	Pathogenic	GRCh38	2984577
+single nucleotide variant	NM_002547.3(OPHN1):c.155-1G>A	4983	OPHN1	Likely pathogenic	GRCh38	3257404
+single nucleotide variant	NM_002547.3(OPHN1):c.1177T>C (p.Cys393Arg)	4983	OPHN1	Likely pathogenic	GRCh38	3336926
+single nucleotide variant	NM_002547.3(OPHN1):c.1789C>T (p.Arg597Ter)	4983	OPHN1	Pathogenic	GRCh38	3340962
+single nucleotide variant	NM_002547.3(OPHN1):c.164C>T (p.Ser55Phe)	4983	OPHN1	Likely pathogenic	GRCh38	3376366
+single nucleotide variant	NM_002547.3(OPHN1):c.1356C>A (p.Tyr452Ter)	4983	OPHN1	Likely pathogenic	GRCh38	3380905
+single nucleotide variant	NM_002547.3(OPHN1):c.1420+1G>A	4983	OPHN1	Likely pathogenic	GRCh38	3649220
+single nucleotide variant	NM_002547.3(OPHN1):c.772C>T (p.Gln258Ter)	4983	OPHN1	Pathogenic	GRCh38	3656943
+single nucleotide variant	NM_002547.3(OPHN1):c.154+2T>C	4983	OPHN1	Pathogenic	GRCh38	3773923
+single nucleotide variant	NM_002547.3(OPHN1):c.292G>T (p.Glu98Ter)	4983	OPHN1	Likely pathogenic	GRCh38	3900678
+single nucleotide variant	NM_002547.3(OPHN1):c.250+1G>T	4983	OPHN1	Pathogenic	GRCh38	4056418
+single nucleotide variant	NM_002547.3(OPHN1):c.1402G>T (p.Glu468Ter)	4983	OPHN1	Likely pathogenic	GRCh38	4077052
+single nucleotide variant	NM_002547.3(OPHN1):c.1526+2T>G	4983	OPHN1	Likely pathogenic	GRCh38	4292003
+single nucleotide variant	NM_002547.3(OPHN1):c.1026-2A>G	4983	OPHN1	Pathogenic	GRCh38	4533353
+single nucleotide variant	NM_002547.3(OPHN1):c.568G>T (p.Glu190Ter)	4983	OPHN1	Pathogenic	GRCh38	4717675
+single nucleotide variant	NM_002547.3(OPHN1):c.826G>T (p.Glu276Ter)	4983	OPHN1	Pathogenic	GRCh38	4804931
+single nucleotide variant	NM_002547.3(OPHN1):c.1135G>T (p.Glu379Ter)	4983	OPHN1	Likely pathogenic	GRCh38	4846881
+single nucleotide variant	NM_002547.3(OPHN1):c.813T>A (p.Tyr271Ter)	4983	OPHN1	Pathogenic	GRCh38	4849910
+single nucleotide variant	NM_002547.3(OPHN1):c.154+1G>T	4983	OPHN1	Likely pathogenic	GRCh38	4890773

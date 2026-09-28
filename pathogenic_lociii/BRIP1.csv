@@ -37,7 +37,6 @@ single nucleotide variant	NM_032043.3(BRIP1):c.1780T>G (p.Leu594Val)	83990	BRIP1
 single nucleotide variant	NM_032043.3(BRIP1):c.1473+1G>A	83990	BRIP1	Likely pathogenic	GRCh38	231182
 single nucleotide variant	NM_032043.3(BRIP1):c.508-2A>T	83990	BRIP1	Pathogenic/Likely pathogenic	GRCh38	232339
 single nucleotide variant	NM_032043.3(BRIP1):c.507G>A (p.Gln169=)	83990	BRIP1	Likely pathogenic	GRCh38	234221
-single nucleotide variant	NM_032043.3(BRIP1):c.24T>A (p.Tyr8Ter)	83990	BRIP1	Pathogenic	GRCh38	231431
 single nucleotide variant	NM_032043.3(BRIP1):c.2479C>T (p.Gln827Ter)	83990	BRIP1	Pathogenic	GRCh38	241641
 single nucleotide variant	NM_032043.3(BRIP1):c.2138T>G (p.Leu713Ter)	83990	BRIP1	Pathogenic	GRCh38	241638
 single nucleotide variant	NM_032043.3(BRIP1):c.1936-2A>G	83990	BRIP1	Pathogenic/Likely pathogenic	GRCh38	241634
@@ -325,3 +324,5 @@ single nucleotide variant	NM_032043.3(BRIP1):c.1365T>A (p.Tyr455Ter)	83990	BRIP1
 single nucleotide variant	NM_032043.3(BRIP1):c.1668C>A (p.Tyr556Ter)	83990	BRIP1	Pathogenic	GRCh38	4787299
 single nucleotide variant	NM_032043.3(BRIP1):c.913A>T (p.Lys305Ter)	83990	BRIP1	Likely pathogenic	GRCh38	4819151
 single nucleotide variant	NM_032043.3(BRIP1):c.2395C>T (p.Gln799Ter)	83990	BRIP1	Likely pathogenic	GRCh38	4845631
+single nucleotide variant	NM_032043.3(BRIP1):c.2380-2A>G	83990	BRIP1	Likely pathogenic	GRCh38	4876145
+single nucleotide variant	NM_032043.3(BRIP1):c.2379G>C (p.Gln793His)	83990	BRIP1	Likely pathogenic	GRCh38	4876164

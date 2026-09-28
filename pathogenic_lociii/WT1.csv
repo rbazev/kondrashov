@@ -15,7 +15,7 @@ single nucleotide variant	NM_024426.6(WT1):c.1338C>G (p.His446Gln)	7490	WT1	Path
 single nucleotide variant	NM_024426.6(WT1):c.1036A>G (p.Ser346Gly)	7490	WT1	Pathogenic	GRCh38	3499
 single nucleotide variant	NM_024426.6(WT1):c.1447+4C>T	7490	WT1	Pathogenic/Likely pathogenic	GRCh38	3500
 single nucleotide variant	NM_024426.6(WT1):c.1366T>C (p.Phe456Leu)	7490	WT1	Pathogenic	GRCh38	3502
-single nucleotide variant	NM_024426.6(WT1):c.1393T>C (p.Phe465Leu)	7490	WT1	Pathogenic	GRCh38	3504
+single nucleotide variant	NM_024426.6(WT1):c.1393T>C (p.Phe465Leu)	7490	WT1	Likely pathogenic	GRCh38	3504
 single nucleotide variant	NM_024426.6(WT1):c.1315C>T (p.Arg439Cys)	7490	WT1	Pathogenic	GRCh38	3505
 single nucleotide variant	NM_024426.6(WT1):c.546C>A (p.Tyr182Ter)	7490	WT1	Pathogenic	GRCh38	3506
 single nucleotide variant	NM_024426.6(WT1):c.911C>T (p.Ser304Phe)	7490	WT1	Likely pathogenic	GRCh38	78338
@@ -101,3 +101,4 @@ single nucleotide variant	NM_024426.6(WT1):c.511G>T (p.Gly171Cys)	7490	WT1	Likel
 single nucleotide variant	NM_024426.6(WT1):c.1504G>T (p.Asp502Tyr)	7490	WT1	Likely pathogenic	GRCh38	4814206
 single nucleotide variant	NM_024426.6(WT1):c.109G>T (p.Gly37Ter)	7490	WT1	Likely pathogenic	GRCh38	4854460
 single nucleotide variant	NM_024426.6(WT1):c.1381T>C (p.Cys461Arg)	7490	WT1	Likely pathogenic	GRCh38	4854784
+single nucleotide variant	NM_024426.6(WT1):c.896T>G (p.Leu299Ter)	7490	WT1	Likely pathogenic	GRCh38	4883242

@@ -1,0 +1,62 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_005993.5(TBCD):c.1564-12C>G	6904	TBCD	Pathogenic	GRCh38	268166
+single nucleotide variant	NM_005993.5(TBCD):c.2314C>T (p.Arg772Cys)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	268167
+single nucleotide variant	NM_005993.5(TBCD):c.2761G>A (p.Ala921Thr)	6904	TBCD	Pathogenic	GRCh38	268168
+single nucleotide variant	NM_005993.5(TBCD):c.1160T>G (p.Met387Arg)	6904	TBCD	Pathogenic	GRCh38	268169
+single nucleotide variant	NM_005993.5(TBCD):c.2280C>A (p.Tyr760Ter)	6904	TBCD	Pathogenic	GRCh38	268170
+single nucleotide variant	NM_005993.5(TBCD):c.2810C>G (p.Pro937Arg)	6904	TBCD	Pathogenic	GRCh38	268172
+single nucleotide variant	NM_005993.5(TBCD):c.1130G>A (p.Arg377Gln)	6904	TBCD	Pathogenic	GRCh38	268175
+single nucleotide variant	NM_005993.5(TBCD):c.1423G>A (p.Ala475Thr)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	279953
+single nucleotide variant	NM_005993.5(TBCD):c.881G>A (p.Arg294Gln)	6904	TBCD	Likely pathogenic	GRCh38	449795
+single nucleotide variant	NM_005993.5(TBCD):c.1661C>T (p.Ala554Val)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	452575
+single nucleotide variant	NM_005993.5(TBCD):c.988C>T (p.Gln330Ter)	6904	TBCD	Pathogenic	GRCh38	489140
+single nucleotide variant	NM_005993.5(TBCD):c.337C>T (p.Arg113Ter)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	504433
+single nucleotide variant	NM_005993.5(TBCD):c.230A>G (p.His77Arg)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	624104
+single nucleotide variant	NM_005993.5(TBCD):c.967C>T (p.Arg323Ter)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	692021
+single nucleotide variant	NM_005993.5(TBCD):c.1504C>G (p.Arg502Gly)	6904	TBCD	Likely pathogenic	GRCh38	807699
+single nucleotide variant	NM_005993.5(TBCD):c.2380-1G>A	6904	TBCD	Likely pathogenic	GRCh38	807700
+single nucleotide variant	NM_005993.5(TBCD):c.1957C>T (p.Gln653Ter)	6904	TBCD	Pathogenic	GRCh38	1030991
+single nucleotide variant	NM_005993.5(TBCD):c.950+1G>T	6904	TBCD	Likely pathogenic	GRCh38	1068332
+single nucleotide variant	NM_005993.5(TBCD):c.907C>T (p.Arg303Ter)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	1342503
+single nucleotide variant	NM_005993.5(TBCD):c.2007-2A>G	6904	TBCD	Likely pathogenic	GRCh38	1496655
+single nucleotide variant	NM_005993.5(TBCD):c.2039-1G>A	6904	TBCD	Likely pathogenic	GRCh38	1345634
+single nucleotide variant	NM_005993.5(TBCD):c.1224-2A>G	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	1683318
+single nucleotide variant	NM_005993.5(TBCD):c.1306C>T (p.Arg436Ter)	6904	TBCD	Pathogenic	GRCh38	1700434
+single nucleotide variant	NM_005993.5(TBCD):c.1006C>T (p.Gln336Ter)	6904	TBCD	Pathogenic	GRCh38	1707501
+single nucleotide variant	NM_005993.5(TBCD):c.1738C>T (p.Arg580Ter)	6904	TBCD	Pathogenic	GRCh38	1975424
+single nucleotide variant	NM_005993.5(TBCD):c.1088-2A>G	6904	TBCD	Likely pathogenic	GRCh38	2064053
+single nucleotide variant	NM_005993.5(TBCD):c.2725C>T (p.Gln909Ter)	6904	TBCD	Pathogenic	GRCh38	2108292
+single nucleotide variant	NM_005993.5(TBCD):c.2472-2A>G	6904	TBCD	Likely pathogenic	GRCh38	2570652
+single nucleotide variant	NM_005993.5(TBCD):c.2077C>A (p.Pro693Thr)	6904	TBCD	Likely pathogenic	GRCh38	2570653
+single nucleotide variant	NM_005993.5(TBCD):c.1681C>T (p.Gln561Ter)	6904	TBCD	Pathogenic	GRCh38	2700170
+single nucleotide variant	NM_005993.5(TBCD):c.3256C>T (p.Gln1086Ter)	6904	TBCD	Pathogenic	GRCh38	2719123
+single nucleotide variant	NM_005993.5(TBCD):c.16G>T (p.Glu6Ter)	6904	TBCD	Pathogenic	GRCh38	2716645
+single nucleotide variant	NM_005993.5(TBCD):c.1543C>T (p.Gln515Ter)	6904	TBCD	Pathogenic	GRCh38	2744108
+single nucleotide variant	NM_005993.5(TBCD):c.2853-2A>G	6904	TBCD	Likely pathogenic	GRCh38	2754847
+single nucleotide variant	NM_005993.5(TBCD):c.3113+1G>A	6904	TBCD	Likely pathogenic	GRCh38	2758457
+single nucleotide variant	NM_005993.5(TBCD):c.2006+2T>A	6904	TBCD	Likely pathogenic	GRCh38	2753754
+single nucleotide variant	NM_005993.5(TBCD):c.817+1G>A	6904	TBCD	Pathogenic	GRCh38	2765107
+single nucleotide variant	NM_005993.5(TBCD):c.1149-2A>C	6904	TBCD	Likely pathogenic	GRCh38	2768075
+single nucleotide variant	NM_005993.5(TBCD):c.160G>T (p.Glu54Ter)	6904	TBCD	Pathogenic	GRCh38	2776803
+single nucleotide variant	NM_005993.5(TBCD):c.2393T>A (p.Leu798Ter)	6904	TBCD	Pathogenic	GRCh38	2783512
+single nucleotide variant	NM_005993.5(TBCD):c.1476-1G>T	6904	TBCD	Likely pathogenic	GRCh38	2794967
+single nucleotide variant	NM_005993.5(TBCD):c.817+2T>C	6904	TBCD	Pathogenic	GRCh38	2795116
+single nucleotide variant	NM_005993.5(TBCD):c.1504C>T (p.Arg502Ter)	6904	TBCD	Pathogenic	GRCh38	2806873
+single nucleotide variant	NM_005993.5(TBCD):c.610C>T (p.Arg204Ter)	6904	TBCD	Pathogenic	GRCh38	2806107
+single nucleotide variant	NM_005993.5(TBCD):c.3099C>A (p.Asn1033Lys)	6904	TBCD	Likely pathogenic	GRCh38	2838181
+single nucleotide variant	NM_005993.5(TBCD):c.1228C>T (p.Gln410Ter)	6904	TBCD	Pathogenic	GRCh38	2843738
+single nucleotide variant	NM_005993.5(TBCD):c.1923-2A>G	6904	TBCD	Likely pathogenic	GRCh38	2850154
+single nucleotide variant	NM_005993.5(TBCD):c.3480-2A>G	6904	TBCD	Likely pathogenic	GRCh38	2862291
+single nucleotide variant	NM_005993.5(TBCD):c.544C>T (p.Arg182Ter)	6904	TBCD	Pathogenic	GRCh38	2868878
+single nucleotide variant	NM_005993.5(TBCD):c.3399C>G (p.Tyr1133Ter)	6904	TBCD	Pathogenic	GRCh38	2874572
+single nucleotide variant	NM_005993.5(TBCD):c.3099C>G (p.Asn1033Lys)	6904	TBCD	Pathogenic/Likely pathogenic	GRCh38	2910444
+single nucleotide variant	NM_005993.5(TBCD):c.1000C>T (p.Gln334Ter)	6904	TBCD	Pathogenic	GRCh38	3006326
+single nucleotide variant	NM_005993.5(TBCD):c.1134G>A (p.Trp378Ter)	6904	TBCD	Pathogenic	GRCh38	3010024
+single nucleotide variant	NM_005993.5(TBCD):c.950+2T>C	6904	TBCD	Likely pathogenic	GRCh38	3393126
+single nucleotide variant	NM_005993.5(TBCD):c.2260G>T (p.Glu754Ter)	6904	TBCD	Likely pathogenic	GRCh38	3583156
+single nucleotide variant	NM_005993.5(TBCD):c.1563+1G>A	6904	TBCD	Likely pathogenic	GRCh38	3639454
+single nucleotide variant	NM_005993.5(TBCD):c.1534-1G>A	6904	TBCD	Likely pathogenic	GRCh38	3643309
+single nucleotide variant	NM_005993.5(TBCD):c.1533+1G>A	6904	TBCD	Likely pathogenic	GRCh38	3669537
+single nucleotide variant	NM_005993.5(TBCD):c.1757C>T (p.Ala586Val)	6904	TBCD	Pathogenic	GRCh38	3723007
+single nucleotide variant	NM_005993.5(TBCD):c.1148+1G>A	6904	TBCD	Likely pathogenic	GRCh38	4806187
+single nucleotide variant	NM_005993.5(TBCD):c.763C>T (p.Gln255Ter)	6904	TBCD	Likely pathogenic	GRCh38	4854781

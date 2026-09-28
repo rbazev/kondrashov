@@ -1,0 +1,61 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000285.4(PEPD):c.826G>A (p.Asp276Asn)	5184	PEPD	Pathogenic	GRCh38	208
+single nucleotide variant	NM_000285.4(PEPD):c.551G>A (p.Arg184Gln)	5184	PEPD	Pathogenic	GRCh38	211
+single nucleotide variant	NM_000285.4(PEPD):c.833G>A (p.Gly278Asp)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	212
+single nucleotide variant	NM_000285.4(PEPD):c.1342G>A (p.Gly448Arg)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	213
+single nucleotide variant	NM_000285.4(PEPD):c.793C>T (p.Arg265Ter)	5184	PEPD	Pathogenic	GRCh38	215
+single nucleotide variant	NM_000285.4(PEPD):c.1234G>A (p.Glu412Lys)	5184	PEPD	Pathogenic	GRCh38	216
+single nucleotide variant	NM_000285.4(PEPD):c.605C>T (p.Ser202Phe)	5184	PEPD	Pathogenic	GRCh38	218
+single nucleotide variant	NM_000285.4(PEPD):c.1103T>G (p.Leu368Arg)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	209998
+single nucleotide variant	NM_000285.4(PEPD):c.634G>C (p.Ala212Pro)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	209997
+single nucleotide variant	NM_000285.4(PEPD):c.977G>A (p.Trp326Ter)	5184	PEPD	Pathogenic	GRCh38	620168
+single nucleotide variant	NM_000285.4(PEPD):c.504-1G>A	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	804428
+single nucleotide variant	NM_000285.4(PEPD):c.1345-1G>A	5184	PEPD	Likely pathogenic	GRCh38	808508
+single nucleotide variant	NM_000285.4(PEPD):c.549-1G>A	5184	PEPD	Pathogenic	GRCh38	807649
+single nucleotide variant	NM_000285.4(PEPD):c.441+1G>A	5184	PEPD	Likely pathogenic	GRCh38	2181962
+single nucleotide variant	NM_000285.4(PEPD):c.2T>G (p.Met1Arg)	5184	PEPD	Pathogenic	GRCh38	1299535
+single nucleotide variant	NM_000285.4(PEPD):c.549-1G>T	5184	PEPD	Pathogenic	GRCh38	1299536
+single nucleotide variant	NM_000285.4(PEPD):c.418A>T (p.Lys140Ter)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	1324875
+single nucleotide variant	NM_000285.4(PEPD):c.340A>T (p.Lys114Ter)	5184	PEPD	Pathogenic	GRCh38	1439106
+single nucleotide variant	NM_000285.4(PEPD):c.550C>T (p.Arg184Ter)	5184	PEPD	Pathogenic	GRCh38	1440927
+single nucleotide variant	NM_000285.4(PEPD):c.2T>C (p.Met1Thr)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	1414673
+single nucleotide variant	NM_000285.4(PEPD):c.330-2A>G	5184	PEPD	Likely pathogenic	GRCh38	1496736
+single nucleotide variant	NM_000285.4(PEPD):c.1244T>A (p.Ile415Asn)	5184	PEPD	Likely pathogenic	GRCh38	1507015
+single nucleotide variant	NM_000285.4(PEPD):c.1A>G (p.Met1Val)	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	1403780
+single nucleotide variant	NM_000285.4(PEPD):c.819-1G>A	5184	PEPD	Likely pathogenic	GRCh38	1485637
+single nucleotide variant	NM_000285.4(PEPD):c.740+2T>C	5184	PEPD	Likely pathogenic	GRCh38	2086114
+single nucleotide variant	NM_000285.4(PEPD):c.671+2T>G	5184	PEPD	Likely pathogenic	GRCh38	2112424
+single nucleotide variant	NM_000285.4(PEPD):c.769G>T (p.Gly257Ter)	5184	PEPD	Pathogenic	GRCh38	2580569
+single nucleotide variant	NM_000285.4(PEPD):c.818+2T>G	5184	PEPD	Likely pathogenic	GRCh38	2630874
+single nucleotide variant	NM_000285.4(PEPD):c.393+2T>A	5184	PEPD	Likely pathogenic	GRCh38	2703490
+single nucleotide variant	NM_000285.4(PEPD):c.504-1G>T	5184	PEPD	Pathogenic	GRCh38	2731784
+single nucleotide variant	NM_000285.4(PEPD):c.17+2T>C	5184	PEPD	Likely pathogenic	GRCh38	2733074
+single nucleotide variant	NM_000285.4(PEPD):c.504-2A>G	5184	PEPD	Pathogenic	GRCh38	2736862
+single nucleotide variant	NM_000285.4(PEPD):c.442-1G>C	5184	PEPD	Pathogenic/Likely pathogenic	GRCh38	2754795
+single nucleotide variant	NM_000285.4(PEPD):c.379C>T (p.Gln127Ter)	5184	PEPD	Pathogenic	GRCh38	2761059
+single nucleotide variant	NM_000285.4(PEPD):c.741-2A>G	5184	PEPD	Likely pathogenic	GRCh38	2787558
+single nucleotide variant	NM_000285.4(PEPD):c.330-1G>A	5184	PEPD	Likely pathogenic	GRCh38	2818447
+single nucleotide variant	NM_000285.4(PEPD):c.163C>T (p.Gln55Ter)	5184	PEPD	Pathogenic	GRCh38	2817935
+single nucleotide variant	NM_000285.4(PEPD):c.625-1G>A	5184	PEPD	Likely pathogenic	GRCh38	2836307
+single nucleotide variant	NM_000285.4(PEPD):c.199C>T (p.Gln67Ter)	5184	PEPD	Pathogenic	GRCh38	2853264
+single nucleotide variant	NM_000285.4(PEPD):c.503+1G>C	5184	PEPD	Likely pathogenic	GRCh38	2858871
+single nucleotide variant	NM_000285.4(PEPD):c.843T>G (p.Tyr281Ter)	5184	PEPD	Pathogenic	GRCh38	2870362
+single nucleotide variant	NM_000285.4(PEPD):c.17+2T>G	5184	PEPD	Likely pathogenic	GRCh38	3013195
+single nucleotide variant	NM_000285.4(PEPD):c.1152+1G>A	5184	PEPD	Likely pathogenic	GRCh38	3583630
+single nucleotide variant	NM_000285.4(PEPD):c.768C>G (p.Tyr256Ter)	5184	PEPD	Pathogenic	GRCh38	3583632
+single nucleotide variant	NM_000285.4(PEPD):c.504-2A>C	5184	PEPD	Likely pathogenic	GRCh38	3583633
+single nucleotide variant	NM_000285.4(PEPD):c.79C>T (p.Arg27Trp)	5184	PEPD	Likely pathogenic	GRCh38	3611581
+single nucleotide variant	NM_000285.4(PEPD):c.202-1G>A	5184	PEPD	Likely pathogenic	GRCh38	3649017
+single nucleotide variant	NM_000285.4(PEPD):c.394-2A>T	5184	PEPD	Likely pathogenic	GRCh38	3643642
+single nucleotide variant	NM_000285.4(PEPD):c.18-2A>G	5184	PEPD	Likely pathogenic	GRCh38	3712981
+single nucleotide variant	NM_000285.4(PEPD):c.1159G>T (p.Glu387Ter)	5184	PEPD	Pathogenic	GRCh38	3716871
+single nucleotide variant	NM_000285.4(PEPD):c.1066C>T (p.Gln356Ter)	5184	PEPD	Pathogenic	GRCh38	3721734
+single nucleotide variant	NM_000285.4(PEPD):c.548+1G>A	5184	PEPD	Likely pathogenic	GRCh38	4706494
+single nucleotide variant	NM_000285.4(PEPD):c.968-1G>A	5184	PEPD	Likely pathogenic	GRCh38	4722528
+single nucleotide variant	NM_000285.4(PEPD):c.802C>T (p.Gln268Ter)	5184	PEPD	Pathogenic	GRCh38	4771410
+single nucleotide variant	NM_000285.4(PEPD):c.17+1G>C	5184	PEPD	Likely pathogenic	GRCh38	4763671
+single nucleotide variant	NM_000285.4(PEPD):c.1018G>A (p.Glu340Lys)	5184	PEPD	Pathogenic	GRCh38	4888478
+single nucleotide variant	NM_000285.4(PEPD):c.171C>A (p.Tyr57Ter)	5184	PEPD	Likely pathogenic	GRCh38	4889768
+single nucleotide variant	NM_000285.4(PEPD):c.1436T>A (p.Met479Lys)	5184	PEPD	Likely pathogenic	GRCh38	4890162
+single nucleotide variant	NM_000285.4(PEPD):c.743G>A (p.Gly248Asp)	5184	PEPD	Likely pathogenic	GRCh38	4890312
+single nucleotide variant	NM_000285.4(PEPD):c.741-1G>A	5184	PEPD	Pathogenic	GRCh38	4890639

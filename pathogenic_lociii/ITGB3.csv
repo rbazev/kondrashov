@@ -1,0 +1,129 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000212.3(ITGB3):c.719G>A (p.Arg240Gln)	3690	ITGB3	Pathogenic	GRCh38	13553
+single nucleotide variant	NM_000212.3(ITGB3):c.433G>T (p.Asp145Tyr)	3690	ITGB3	Pathogenic	GRCh38	13554
+single nucleotide variant	NM_000212.3(ITGB3):c.718C>T (p.Arg240Trp)	3690	ITGB3	Likely pathogenic	GRCh38	13555
+single nucleotide variant	NM_000212.3(ITGB3):c.165+1G>T	3690	ITGB3	Pathogenic	GRCh38	13560
+single nucleotide variant	NM_000212.3(ITGB3):c.1199G>A (p.Cys400Tyr)	3690	ITGB3	Pathogenic	GRCh38	13562
+single nucleotide variant	NM_000212.3(ITGB3):c.2248C>T (p.Arg750Ter)	3690	ITGB3	Pathogenic	GRCh38	13564
+single nucleotide variant	NM_000212.3(ITGB3):c.1924G>T (p.Glu642Ter)	3690	ITGB3	Pathogenic	GRCh38	13565
+single nucleotide variant	NM_000212.3(ITGB3):c.428T>G (p.Leu143Trp)	3690	ITGB3	Pathogenic	GRCh38	13567
+single nucleotide variant	NM_000212.3(ITGB3):c.2245G>C (p.Asp749His)	3690	ITGB3	Pathogenic	GRCh38	50227
+single nucleotide variant	NM_000212.3(ITGB3):c.2134+1G>C	3690	ITGB3	Pathogenic	GRCh38	50228
+single nucleotide variant	NM_000212.3(ITGB3):c.749A>G (p.Asp250Gly)	3690	ITGB3	Likely pathogenic	GRCh38	374016
+single nucleotide variant	NM_000212.3(ITGB3):c.1699C>T (p.Gln567Ter)	3690	ITGB3	Pathogenic	GRCh38	374015
+single nucleotide variant	NM_000212.3(ITGB3):c.433G>A (p.Asp145Asn)	3690	ITGB3	Likely pathogenic	GRCh38	627066
+single nucleotide variant	NM_000212.3(ITGB3):c.761A>G (p.Gln254Arg)	3690	ITGB3	Likely pathogenic	GRCh38	627131
+single nucleotide variant	NM_000212.3(ITGB3):c.856G>C (p.Gly286Arg)	3690	ITGB3	Likely pathogenic	GRCh38	627151
+single nucleotide variant	NM_000212.3(ITGB3):c.187C>T (p.Arg63Cys)	3690	ITGB3	Likely pathogenic	GRCh38	631774
+single nucleotide variant	NM_000212.3(ITGB3):c.362-1G>A	3690	ITGB3	Likely pathogenic	GRCh38	631775
+single nucleotide variant	NM_000212.3(ITGB3):c.727G>C (p.Asp243His)	3690	ITGB3	Likely pathogenic	GRCh38	800945
+single nucleotide variant	NM_000212.3(ITGB3):c.565C>T (p.Pro189Ser)	3690	ITGB3	Pathogenic	GRCh38	812736
+single nucleotide variant	NM_000212.3(ITGB3):c.777+1G>A	3690	ITGB3	Pathogenic	GRCh38	850886
+single nucleotide variant	NM_000212.3(ITGB3):c.31T>C (p.Trp11Arg)	3690	ITGB3	Pathogenic	GRCh38	953028
+single nucleotide variant	NM_000212.3(ITGB3):c.79+1G>A	3690	ITGB3	Pathogenic	GRCh38	953050
+single nucleotide variant	NM_000212.3(ITGB3):c.115T>G (p.Cys39Gly)	3690	ITGB3	Likely pathogenic	GRCh38	953043
+single nucleotide variant	NM_000212.3(ITGB3):c.448A>G (p.Met150Val)	3690	ITGB3	Likely pathogenic	GRCh38	953053
+single nucleotide variant	NM_000212.3(ITGB3):c.505C>T (p.Arg169Ter)	3690	ITGB3	Pathogenic	GRCh38	953061
+single nucleotide variant	NM_000212.3(ITGB3):c.629G>C (p.Cys210Ser)	3690	ITGB3	Pathogenic	GRCh38	953047
+single nucleotide variant	NM_000212.3(ITGB3):c.877C>T (p.Gln293Ter)	3690	ITGB3	Likely pathogenic	GRCh38	953048
+single nucleotide variant	NM_000212.3(ITGB3):c.1458C>G (p.Cys486Trp)	3690	ITGB3	Likely pathogenic	GRCh38	953012
+single nucleotide variant	NM_000212.3(ITGB3):c.1594T>C (p.Cys532Arg)	3690	ITGB3	Likely pathogenic	GRCh38	953010
+single nucleotide variant	NM_000212.3(ITGB3):c.1595G>A (p.Cys532Tyr)	3690	ITGB3	Likely pathogenic	GRCh38	953007
+single nucleotide variant	NM_000212.3(ITGB3):c.1702T>C (p.Cys568Arg)	3690	ITGB3	Likely pathogenic	GRCh38	953008
+single nucleotide variant	NM_000212.3(ITGB3):c.1913+5G>T	3690	ITGB3	Likely pathogenic	GRCh38	953041
+single nucleotide variant	NM_000212.3(ITGB3):c.2014+1G>A	3690	ITGB3	Pathogenic	GRCh38	953009
+single nucleotide variant	NM_000212.3(ITGB3):c.1641C>A (p.Cys547Ter)	3690	ITGB3	Pathogenic	GRCh38	977131
+single nucleotide variant	NM_000212.3(ITGB3):c.1697G>A (p.Gly566Asp)	3690	ITGB3	Pathogenic	GRCh38	977132
+single nucleotide variant	NM_000212.3(ITGB3):c.349C>T (p.Arg117Trp)	3690	ITGB3	Likely pathogenic	GRCh38	988836
+single nucleotide variant	NM_000212.3(ITGB3):c.100C>T (p.Arg34Ter)	3690	ITGB3	Pathogenic	GRCh38	996193
+single nucleotide variant	NM_000212.3(ITGB3):c.166-2A>G	3690	ITGB3	Pathogenic	GRCh38	996186
+single nucleotide variant	NM_000212.3(ITGB3):c.262C>T (p.Arg88Ter)	3690	ITGB3	Pathogenic	GRCh38	996209
+single nucleotide variant	NM_000212.3(ITGB3):c.353T>A (p.Leu118His)	3690	ITGB3	Likely pathogenic	GRCh38	996166
+single nucleotide variant	NM_000212.3(ITGB3):c.431T>G (p.Met144Arg)	3690	ITGB3	Pathogenic	GRCh38	996188
+single nucleotide variant	NM_000212.3(ITGB3):c.647A>G (p.Tyr216Cys)	3690	ITGB3	Likely pathogenic	GRCh38	996202
+single nucleotide variant	NM_000212.3(ITGB3):c.665T>C (p.Leu222Pro)	3690	ITGB3	Pathogenic	GRCh38	996163
+single nucleotide variant	NM_000212.3(ITGB3):c.724C>T (p.Arg242Ter)	3690	ITGB3	Pathogenic	GRCh38	996164
+single nucleotide variant	NM_000212.3(ITGB3):c.760C>A (p.Gln254Lys)	3690	ITGB3	Likely pathogenic	GRCh38	996175
+single nucleotide variant	NM_000212.3(ITGB3):c.940-2A>G	3690	ITGB3	Likely pathogenic	GRCh38	996190
+single nucleotide variant	NM_000212.3(ITGB3):c.940G>T (p.Asp314Tyr)	3690	ITGB3	Likely pathogenic	GRCh38	996176
+single nucleotide variant	NM_000212.3(ITGB3):c.941A>C (p.Asp314Ala)	3690	ITGB3	Likely pathogenic	GRCh38	996159
+single nucleotide variant	NM_000212.3(ITGB3):c.1260G>A (p.Thr420=)	3690	ITGB3	Likely pathogenic	GRCh38	996184
+single nucleotide variant	NM_000212.3(ITGB3):c.1646G>C (p.Cys549Ser)	3690	ITGB3	Likely pathogenic	GRCh38	996174
+single nucleotide variant	NM_000212.3(ITGB3):c.1801T>G (p.Cys601Gly)	3690	ITGB3	Likely pathogenic	GRCh38	996182
+single nucleotide variant	NM_000212.3(ITGB3):c.1871G>A (p.Cys624Tyr)	3690	ITGB3	Pathogenic	GRCh38	996162
+single nucleotide variant	NM_000212.3(ITGB3):c.1913+1G>A	3690	ITGB3	Pathogenic	GRCh38	996179
+single nucleotide variant	NM_000212.3(ITGB3):c.1132C>T (p.Arg378Cys)	3690	ITGB3	Likely pathogenic	GRCh38	1199410
+single nucleotide variant	NM_000212.3(ITGB3):c.392G>C (p.Arg131Pro)	3690	ITGB3	Likely pathogenic	GRCh38	1210198
+single nucleotide variant	NM_000212.3(ITGB3):c.614+1G>T	3690	ITGB3	Likely pathogenic	GRCh38	1210175
+single nucleotide variant	NM_000212.3(ITGB3):c.728A>T (p.Asp243Val)	3690	ITGB3	Pathogenic	GRCh38	1210177
+single nucleotide variant	NM_000212.3(ITGB3):c.774T>A (p.Cys258Ter)	3690	ITGB3	Pathogenic	GRCh38	1210170
+single nucleotide variant	NM_000212.3(ITGB3):c.1031A>C (p.Tyr344Ser)	3690	ITGB3	Likely pathogenic	GRCh38	1210200
+single nucleotide variant	NM_000212.3(ITGB3):c.1031A>G (p.Tyr344Cys)	3690	ITGB3	Likely pathogenic	GRCh38	1210199
+single nucleotide variant	NM_000212.3(ITGB3):c.1094A>G (p.Asn365Ser)	3690	ITGB3	Likely pathogenic	GRCh38	1210186
+single nucleotide variant	NM_000212.3(ITGB3):c.1801T>C (p.Cys601Arg)	3690	ITGB3	Pathogenic	GRCh38	1210194
+single nucleotide variant	NM_000212.3(ITGB3):c.2080C>T (p.Gln694Ter)	3690	ITGB3	Pathogenic	GRCh38	1210208
+single nucleotide variant	NM_000212.3(ITGB3):c.2302-1G>A	3690	ITGB3	Likely pathogenic	GRCh38	1210204
+single nucleotide variant	NM_000212.3(ITGB3):c.1495T>C (p.Cys499Arg)	3690	ITGB3	Likely pathogenic	GRCh38	1330310
+single nucleotide variant	NM_000212.3(ITGB3):c.917A>C (p.His306Pro)	3690	ITGB3	Likely pathogenic	GRCh38	1330311
+single nucleotide variant	NM_000212.3(ITGB3):c.1288C>T (p.Arg430Ter)	3690	ITGB3	Pathogenic	GRCh38	1330314
+single nucleotide variant	NM_000212.3(ITGB3):c.1736G>A (p.Trp579Ter)	3690	ITGB3	Pathogenic	GRCh38	1330324
+single nucleotide variant	NM_000212.3(ITGB3):c.892C>T (p.Gln298Ter)	3690	ITGB3	Pathogenic	GRCh38	1330332
+single nucleotide variant	NM_000212.3(ITGB3):c.2147G>T (p.Gly716Val)	3690	ITGB3	Likely pathogenic	GRCh38	1330333
+single nucleotide variant	NM_000212.3(ITGB3):c.1980C>A (p.Tyr660Ter)	3690	ITGB3	Pathogenic	GRCh38	1330334
+single nucleotide variant	NM_000212.3(ITGB3):c.842A>C (p.His281Pro)	3690	ITGB3	Likely pathogenic	GRCh38	1330335
+single nucleotide variant	NM_000212.3(ITGB3):c.1402G>T (p.Glu468Ter)	3690	ITGB3	Pathogenic	GRCh38	1330338
+single nucleotide variant	NM_000212.3(ITGB3):c.856G>A (p.Gly286Arg)	3690	ITGB3	Pathogenic	GRCh38	1330339
+single nucleotide variant	NM_000212.3(ITGB3):c.361+1G>A	3690	ITGB3	Pathogenic	GRCh38	1330340
+single nucleotide variant	NM_000212.3(ITGB3):c.921C>A (p.Tyr307Ter)	3690	ITGB3	Pathogenic	GRCh38	1330349
+single nucleotide variant	NM_000212.3(ITGB3):c.444C>G (p.Tyr148Ter)	3690	ITGB3	Pathogenic	GRCh38	1684354
+single nucleotide variant	NM_000212.3(ITGB3):c.2014+5G>A	3690	ITGB3	Likely pathogenic	GRCh38	1691457
+single nucleotide variant	NM_000212.3(ITGB3):c.989T>A (p.Ile330Asn)	3690	ITGB3	Likely pathogenic	GRCh38	1691459
+single nucleotide variant	NM_000212.3(ITGB3):c.1814G>A (p.Gly605Asp)	3690	ITGB3	Likely pathogenic	GRCh38	1691461
+single nucleotide variant	NM_000212.3(ITGB3):c.1641C>G (p.Cys547Trp)	3690	ITGB3	Pathogenic	GRCh38	1691476
+single nucleotide variant	NM_000212.3(ITGB3):c.422A>G (p.Tyr141Cys)	3690	ITGB3	Pathogenic	GRCh38	1691482
+single nucleotide variant	NM_000212.3(ITGB3):c.415G>C (p.Asp139His)	3690	ITGB3	Likely pathogenic	GRCh38	1691483
+single nucleotide variant	NM_000212.3(ITGB3):c.1388G>C (p.Cys463Ser)	3690	ITGB3	Likely pathogenic	GRCh38	1691487
+single nucleotide variant	NM_000212.3(ITGB3):c.1036-2A>G	3690	ITGB3	Pathogenic	GRCh38	1693575
+single nucleotide variant	NM_000212.3(ITGB3):c.1309G>T (p.Glu437Ter)	3690	ITGB3	Pathogenic	GRCh38	1695377
+single nucleotide variant	NM_000212.3(ITGB3):c.2278C>T (p.Arg760Cys)	3690	ITGB3	Pathogenic	GRCh38	1697255
+single nucleotide variant	NM_000212.3(ITGB3):c.863T>C (p.Leu288Pro)	3690	ITGB3	Pathogenic	GRCh38	1879009
+single nucleotide variant	NM_000212.3(ITGB3):c.1525C>T (p.Gln509Ter)	3690	ITGB3	Pathogenic	GRCh38	1879017
+single nucleotide variant	NM_000212.3(ITGB3):c.121C>T (p.Gln41Ter)	3690	ITGB3	Pathogenic	GRCh38	1879027
+single nucleotide variant	NM_000212.3(ITGB3):c.1595G>T (p.Cys532Phe)	3690	ITGB3	Likely pathogenic	GRCh38	1879032
+single nucleotide variant	NM_000212.3(ITGB3):c.118C>T (p.Gln40Ter)	3690	ITGB3	Pathogenic	GRCh38	1879041
+single nucleotide variant	NM_000212.3(ITGB3):c.1813G>A (p.Gly605Ser)	3690	ITGB3	Likely pathogenic	GRCh38	1879042
+single nucleotide variant	NM_000212.3(ITGB3):c.725G>A (p.Arg242Gln)	3690	ITGB3	Pathogenic	GRCh38	1879043
+single nucleotide variant	NM_000212.3(ITGB3):c.1639T>G (p.Cys547Gly)	3690	ITGB3	Pathogenic	GRCh38	1879045
+single nucleotide variant	NM_000212.3(ITGB3):c.1303G>T (p.Glu435Ter)	3690	ITGB3	Pathogenic	GRCh38	1879047
+single nucleotide variant	NM_000212.3(ITGB3):c.615-1G>A	3690	ITGB3	Pathogenic	GRCh38	2444336
+single nucleotide variant	NM_000212.3(ITGB3):c.655G>A (p.Val219Met)	3690	ITGB3	Likely pathogenic	GRCh38	2498348
+single nucleotide variant	NM_000212.3(ITGB3):c.1476G>A (p.Trp492Ter)	3690	ITGB3	Pathogenic	GRCh38	2498350
+single nucleotide variant	NM_000212.3(ITGB3):c.792G>A (p.Trp264Ter)	3690	ITGB3	Pathogenic	GRCh38	2498356
+single nucleotide variant	NM_000212.3(ITGB3):c.1990G>T (p.Glu664Ter)	3690	ITGB3	Pathogenic	GRCh38	2498364
+single nucleotide variant	NM_000212.3(ITGB3):c.1723T>C (p.Cys575Arg)	3690	ITGB3	Pathogenic	GRCh38	2506153
+single nucleotide variant	NM_000212.3(ITGB3):c.646T>C (p.Tyr216His)	3690	ITGB3	Likely pathogenic	GRCh38	2506412
+single nucleotide variant	NM_000212.3(ITGB3):c.2301+1G>C	3690	ITGB3	Pathogenic	GRCh38	2506414
+single nucleotide variant	NM_000212.3(ITGB3):c.694G>T (p.Glu232Ter)	3690	ITGB3	Pathogenic	GRCh38	2700805
+single nucleotide variant	NM_000212.3(ITGB3):c.1756T>C (p.Cys586Arg)	3690	ITGB3	Likely pathogenic	GRCh38	2736610
+single nucleotide variant	NM_000212.3(ITGB3):c.1261-2A>G	3690	ITGB3	Likely pathogenic	GRCh38	2800357
+single nucleotide variant	NM_000212.3(ITGB3):c.777+2T>G	3690	ITGB3	Pathogenic	GRCh38	2823537
+single nucleotide variant	NM_000212.3(ITGB3):c.2134+1G>T	3690	ITGB3	Pathogenic	GRCh38	2856940
+single nucleotide variant	NM_000212.3(ITGB3):c.1671C>A (p.Tyr557Ter)	3690	ITGB3	Pathogenic	GRCh38	2866783
+single nucleotide variant	NM_000212.3(ITGB3):c.939+1G>T	3690	ITGB3	Likely pathogenic	GRCh38	2889941
+single nucleotide variant	NM_000212.3(ITGB3):c.1035+1G>A	3690	ITGB3	Likely pathogenic	GRCh38	2902958
+single nucleotide variant	NM_000212.3(ITGB3):c.615-1G>C	3690	ITGB3	Likely pathogenic	GRCh38	2915187
+single nucleotide variant	NM_000212.3(ITGB3):c.2085C>G (p.Tyr695Ter)	3690	ITGB3	Likely pathogenic	GRCh38	3075873
+single nucleotide variant	NM_000212.3(ITGB3):c.428T>C (p.Leu143Ser)	3690	ITGB3	Likely pathogenic	GRCh38	3242394
+single nucleotide variant	NM_000212.3(ITGB3):c.1815C>T (p.Gly605=)	3690	ITGB3	Pathogenic	GRCh38	3242395
+single nucleotide variant	NM_000212.3(ITGB3):c.1431C>T (p.Gly477=)	3690	ITGB3	Pathogenic	GRCh38	3242396
+single nucleotide variant	NM_000212.3(ITGB3):c.2222G>A (p.Trp741Ter)	3690	ITGB3	Pathogenic	GRCh38	3242398
+single nucleotide variant	NM_000212.3(ITGB3):c.1448G>A (p.Cys483Tyr)	3690	ITGB3	Likely pathogenic	GRCh38	3242401
+single nucleotide variant	NM_000212.3(ITGB3):c.563C>T (p.Ser188Leu)	3690	ITGB3	Likely pathogenic	GRCh38	3242406
+single nucleotide variant	NM_000212.3(ITGB3):c.1801T>A (p.Cys601Ser)	3690	ITGB3	Pathogenic	GRCh38	3338985
+single nucleotide variant	NM_000212.3(ITGB3):c.2224A>T (p.Lys742Ter)	3690	ITGB3	Pathogenic	GRCh38	3689659
+single nucleotide variant	NM_000212.3(ITGB3):c.1260+9G>A	3690	ITGB3	Likely pathogenic	GRCh38	3764098
+single nucleotide variant	NM_000212.3(ITGB3):c.1552C>T (p.Gln518Ter)	3690	ITGB3	Pathogenic	GRCh38	3775049
+single nucleotide variant	NM_000212.3(ITGB3):c.432G>A (p.Met144Ile)	3690	ITGB3	Likely pathogenic	GRCh38	4074756
+single nucleotide variant	NM_000212.3(ITGB3):c.450G>A (p.Met150Ile)	3690	ITGB3	Likely pathogenic	GRCh38	4088267
+single nucleotide variant	NM_000212.3(ITGB3):c.1591C>T (p.Gln531Ter)	3690	ITGB3	Pathogenic	GRCh38	4689500
+single nucleotide variant	NM_000212.3(ITGB3):c.602A>T (p.Asn201Ile)	3690	ITGB3	Likely pathogenic	GRCh38	4747583

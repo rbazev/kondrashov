@@ -12,7 +12,7 @@ single nucleotide variant	NM_019098.5(CNGB3):c.112C>T (p.Gln38Ter)	54714	CNGB3	P
 single nucleotide variant	NM_019098.5(CNGB3):c.1929-2A>G	54714	CNGB3	Likely pathogenic	GRCh38	371588
 single nucleotide variant	NM_019098.5(CNGB3):c.1928+2T>C	54714	CNGB3	Likely pathogenic	GRCh38	371674
 single nucleotide variant	NM_019098.5(CNGB3):c.1579-1G>A	54714	CNGB3	Pathogenic	GRCh38	370459
-single nucleotide variant	NM_019098.5(CNGB3):c.1480+1G>A	54714	CNGB3	Likely pathogenic	GRCh38	370865
+single nucleotide variant	NM_019098.5(CNGB3):c.1480+1G>A	54714	CNGB3	Pathogenic/Likely pathogenic	GRCh38	370865
 single nucleotide variant	NM_019098.5(CNGB3):c.1179-2A>T	54714	CNGB3	Likely pathogenic	GRCh38	371304
 single nucleotide variant	NM_019098.5(CNGB3):c.11C>A (p.Ser4Ter)	54714	CNGB3	Pathogenic	GRCh38	370177
 single nucleotide variant	NM_019098.5(CNGB3):c.1662+1G>A	54714	CNGB3	Likely pathogenic	GRCh38	424095
@@ -98,7 +98,6 @@ single nucleotide variant	NM_019098.5(CNGB3):c.1619T>A (p.Leu540Ter)	54714	CNGB3
 single nucleotide variant	NM_019098.5(CNGB3):c.1107T>A (p.Cys369Ter)	54714	CNGB3	Likely pathogenic	GRCh38	1726477
 single nucleotide variant	NM_019098.5(CNGB3):c.874A>T (p.Lys292Ter)	54714	CNGB3	Likely pathogenic	GRCh38	1726894
 single nucleotide variant	NM_019098.5(CNGB3):c.1883T>C (p.Leu628Pro)	54714	CNGB3	Likely pathogenic	GRCh38	1805587
-single nucleotide variant	NM_019098.5(CNGB3):c.886A>T (p.Thr296Ser)	54714	CNGB3	Pathogenic	GRCh38	2158835
 single nucleotide variant	NM_019098.5(CNGB3):c.692G>A (p.Trp231Ter)	54714	CNGB3	Pathogenic	GRCh38	1969518
 single nucleotide variant	NM_019098.5(CNGB3):c.338+1G>A	54714	CNGB3	Likely pathogenic	GRCh38	1972066
 single nucleotide variant	NM_019098.5(CNGB3):c.212-2A>G	54714	CNGB3	Likely pathogenic	GRCh38	2019025
@@ -146,3 +145,10 @@ single nucleotide variant	NM_019098.5(CNGB3):c.1663-1G>T	54714	CNGB3	Likely path
 single nucleotide variant	NM_019098.5(CNGB3):c.212-1G>T	54714	CNGB3	Likely pathogenic	GRCh38	4816017
 single nucleotide variant	NM_019098.5(CNGB3):c.339-1G>T	54714	CNGB3	Likely pathogenic	GRCh38	4816020
 single nucleotide variant	NM_019098.5(CNGB3):c.1873C>T (p.Gln625Ter)	54714	CNGB3	Likely pathogenic	GRCh38	4850455
+single nucleotide variant	NM_019098.5(CNGB3):c.1250T>A (p.Leu417Ter)	54714	CNGB3	Likely pathogenic	GRCh38	4881465
+single nucleotide variant	NM_019098.5(CNGB3):c.2029A>T (p.Lys677Ter)	54714	CNGB3	Likely pathogenic	GRCh38	4889592
+single nucleotide variant	NM_019098.5(CNGB3):c.1214T>G (p.Leu405Ter)	54714	CNGB3	Likely pathogenic	GRCh38	4889593
+single nucleotide variant	NM_019098.5(CNGB3):c.2104-1G>A	54714	CNGB3	Likely pathogenic	GRCh38	4889891
+single nucleotide variant	NM_019098.5(CNGB3):c.1782-1G>A	54714	CNGB3	Likely pathogenic	GRCh38	4889892
+single nucleotide variant	NM_019098.5(CNGB3):c.1178+2T>C	54714	CNGB3	Likely pathogenic	GRCh38	4889996
+single nucleotide variant	NM_019098.5(CNGB3):c.129+1G>T	54714	CNGB3	Likely pathogenic	GRCh38	4889997

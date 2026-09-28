@@ -19,6 +19,7 @@ single nucleotide variant	NM_000497.4(CYP11B1):c.427C>T (p.Arg143Trp)	1584	CYP11
 single nucleotide variant	NM_000497.4(CYP11B1):c.896T>C (p.Leu299Pro)	1584	CYP11B1	Pathogenic	GRCh38	56832
 single nucleotide variant	NM_000497.4(CYP11B1):c.917C>T (p.Ala306Val)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	56833
 single nucleotide variant	NM_000497.4(CYP11B1):c.995G>A (p.Arg332Gln)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	56835
+single nucleotide variant	NM_000497.4(CYP11B1):c.422G>A (p.Arg141Gln)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	77208
 single nucleotide variant	NM_000497.4(CYP11B1):c.1331G>A (p.Gly444Asp)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	235678
 single nucleotide variant	NM_000497.4(CYP11B1):c.954G>A (p.Thr318=)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	447228
 single nucleotide variant	NM_000497.4(CYP11B1):c.1128C>A (p.Tyr376Ter)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	555319
@@ -42,7 +43,7 @@ single nucleotide variant	NM_000497.4(CYP11B1):c.953C>G (p.Thr318Arg)	1584	CYP11
 single nucleotide variant	NM_000497.4(CYP11B1):c.304C>T (p.Gln102Ter)	1584	CYP11B1	Likely pathogenic	GRCh38	554812
 single nucleotide variant	NM_000497.4(CYP11B1):c.235T>A (p.Phe79Ile)	1584	CYP11B1	Pathogenic/Likely pathogenic	GRCh38	550599
 single nucleotide variant	NM_000497.4(CYP11B1):c.217C>T (p.Gln73Ter)	1584	CYP11B1	Pathogenic	GRCh38	557913
-single nucleotide variant	NM_000497.4(CYP11B1):c.168G>A (p.Trp56Ter)	1584	CYP11B1	Likely pathogenic	GRCh38	556273
+single nucleotide variant	NM_000497.4(CYP11B1):c.168G>A (p.Trp56Ter)	1584	CYP11B1	Pathogenic	GRCh38	556273
 single nucleotide variant	NM_000497.4(CYP11B1):c.1398+5G>C	1584	CYP11B1	Pathogenic	GRCh38	585760
 single nucleotide variant	NM_000497.4(CYP11B1):c.1360C>T (p.Arg454Cys)	1584	CYP11B1	Pathogenic	GRCh38	646125
 single nucleotide variant	NM_000497.4(CYP11B1):c.1358G>A (p.Arg453Gln)	1584	CYP11B1	Pathogenic	GRCh38	857403

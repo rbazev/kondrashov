@@ -23,7 +23,7 @@ single nucleotide variant	NM_000187.4(HGD):c.15+1G>A	3081	HGD	Pathogenic/Likely 
 single nucleotide variant	NM_000187.4(HGD):c.3G>C (p.Met1Ile)	3081	HGD	Pathogenic	GRCh38	370258
 single nucleotide variant	NM_000187.4(HGD):c.189G>T (p.Arg63Ser)	3081	HGD	Pathogenic/Likely pathogenic	GRCh38	437464
 single nucleotide variant	NM_000187.4(HGD):c.94C>T (p.Pro32Ser)	3081	HGD	Likely pathogenic	GRCh38	493367
-single nucleotide variant	NM_000187.4(HGD):c.473C>T (p.Pro158Leu)	3081	HGD	Likely pathogenic	GRCh38	553516
+single nucleotide variant	NM_000187.4(HGD):c.473C>T (p.Pro158Leu)	3081	HGD	Pathogenic/Likely pathogenic	GRCh38	553516
 single nucleotide variant	NM_000187.4(HGD):c.347T>C (p.Leu116Pro)	3081	HGD	Pathogenic/Likely pathogenic	GRCh38	554869
 single nucleotide variant	NM_000187.4(HGD):c.1081G>A (p.Gly361Arg)	3081	HGD	Likely pathogenic	GRCh38	550415
 single nucleotide variant	NM_000187.4(HGD):c.879+1G>A	3081	HGD	Likely pathogenic	GRCh38	556131
@@ -154,7 +154,6 @@ single nucleotide variant	NM_000187.4(HGD):c.1085G>A (p.Gly362Glu)	3081	HGD	Path
 single nucleotide variant	NM_000187.4(HGD):c.649G>T (p.Gly217Trp)	3081	HGD	Pathogenic	GRCh38	2627702
 single nucleotide variant	NM_000187.4(HGD):c.806A>G (p.His269Arg)	3081	HGD	Pathogenic	GRCh38	2627703
 single nucleotide variant	NM_000187.4(HGD):c.1075C>T (p.Pro359Ser)	3081	HGD	Pathogenic	GRCh38	2627704
-single nucleotide variant	NM_000187.4(HGD):c.962G>A (p.Arg321Gln)	3081	HGD	Pathogenic	GRCh38	2627705
 single nucleotide variant	NM_000187.4(HGD):c.791A>G (p.Asn264Ser)	3081	HGD	Pathogenic	GRCh38	2627706
 single nucleotide variant	NM_000187.4(HGD):c.614G>T (p.Gly205Val)	3081	HGD	Pathogenic	GRCh38	2627707
 single nucleotide variant	NM_000187.4(HGD):c.742A>G (p.Lys248Glu)	3081	HGD	Pathogenic	GRCh38	2627708
@@ -202,3 +201,4 @@ single nucleotide variant	NM_000187.4(HGD):c.803G>A (p.Trp268Ter)	3081	HGD	Patho
 single nucleotide variant	NM_000187.4(HGD):c.1021G>T (p.Glu341Ter)	3081	HGD	Pathogenic	GRCh38	4081705
 single nucleotide variant	NM_000187.4(HGD):c.282+1G>A	3081	HGD	Likely pathogenic	GRCh38	4699561
 single nucleotide variant	NM_000187.4(HGD):c.2T>C (p.Met1Thr)	3081	HGD	Pathogenic	GRCh38	4731936
+single nucleotide variant	NM_000187.4(HGD):c.16-1G>C	3081	HGD	Likely pathogenic	GRCh38	4889922

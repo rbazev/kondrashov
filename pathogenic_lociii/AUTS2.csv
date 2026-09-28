@@ -1,0 +1,53 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_015570.4(AUTS2):c.1974G>A (p.Trp658Ter)	26053	AUTS2	Pathogenic	GRCh38	280395
+single nucleotide variant	NM_015570.4(AUTS2):c.1483C>T (p.Arg495Ter)	26053	AUTS2	Pathogenic	GRCh38	372310
+single nucleotide variant	NM_015570.4(AUTS2):c.1605C>G (p.His535Gln)	26053	AUTS2	Likely pathogenic	GRCh38	374224
+single nucleotide variant	NM_015570.4(AUTS2):c.624+2T>C	26053	AUTS2	Pathogenic	GRCh38	420780
+single nucleotide variant	NM_015570.4(AUTS2):c.1582C>T (p.Gln528Ter)	26053	AUTS2	Pathogenic	GRCh38	450622
+single nucleotide variant	NM_015570.4(AUTS2):c.946C>T (p.Arg316Ter)	26053	AUTS2	Pathogenic/Likely pathogenic	GRCh38	489014
+single nucleotide variant	NM_015570.4(AUTS2):c.856A>T (p.Lys286Ter)	26053	AUTS2	Pathogenic	GRCh38	521942
+single nucleotide variant	NM_015570.4(AUTS2):c.742+1G>A	26053	AUTS2	Pathogenic	GRCh38	546070
+single nucleotide variant	NM_015570.4(AUTS2):c.1603C>T (p.His535Tyr)	26053	AUTS2	Likely pathogenic	GRCh38	584456
+single nucleotide variant	NM_015570.4(AUTS2):c.376C>T (p.Arg126Ter)	26053	AUTS2	Pathogenic/Likely pathogenic	GRCh38	620261
+single nucleotide variant	NM_015570.4(AUTS2):c.1587C>G (p.His529Gln)	26053	AUTS2	Likely pathogenic	GRCh38	624282
+single nucleotide variant	NM_015570.4(AUTS2):c.1600A>C (p.Thr534Pro)	26053	AUTS2	Likely pathogenic	GRCh38	632598
+single nucleotide variant	NM_015570.4(AUTS2):c.901C>T (p.Gln301Ter)	26053	AUTS2	Pathogenic	GRCh38	666574
+single nucleotide variant	NM_015570.4(AUTS2):c.1604A>C (p.His535Pro)	26053	AUTS2	Likely pathogenic	GRCh38	807382
+single nucleotide variant	NM_015570.4(AUTS2):c.784C>T (p.Gln262Ter)	26053	AUTS2	Likely pathogenic	GRCh38	827791
+single nucleotide variant	NM_015570.4(AUTS2):c.976C>T (p.Gln326Ter)	26053	AUTS2	Pathogenic	GRCh38	985741
+single nucleotide variant	NM_015570.4(AUTS2):c.2T>C (p.Met1Thr)	26053	AUTS2	Pathogenic	GRCh38	1033782
+single nucleotide variant	NM_015570.4(AUTS2):c.1611C>A (p.His537Gln)	26053	AUTS2	Likely pathogenic	GRCh38	1164019
+single nucleotide variant	NM_015570.4(AUTS2):c.1A>T (p.Met1Leu)	26053	AUTS2	Pathogenic	GRCh38	1174542
+single nucleotide variant	NM_015570.4(AUTS2):c.2392C>T (p.Arg798Ter)	26053	AUTS2	Pathogenic	GRCh38	1194595
+single nucleotide variant	NM_015570.4(AUTS2):c.1610A>C (p.His537Pro)	26053	AUTS2	Pathogenic	GRCh38	1307520
+single nucleotide variant	NM_015570.4(AUTS2):c.1018C>T (p.Gln340Ter)	26053	AUTS2	Pathogenic/Likely pathogenic	GRCh38	1319752
+single nucleotide variant	NM_015570.4(AUTS2):c.478C>T (p.Gln160Ter)	26053	AUTS2	Likely pathogenic	GRCh38	1325531
+single nucleotide variant	NM_015570.4(AUTS2):c.2008C>T (p.Gln670Ter)	26053	AUTS2	Pathogenic	GRCh38	1457603
+single nucleotide variant	NM_015570.4(AUTS2):c.1135C>T (p.Gln379Ter)	26053	AUTS2	Pathogenic	GRCh38	1805683
+single nucleotide variant	NM_015570.4(AUTS2):c.1421C>G (p.Ser474Ter)	26053	AUTS2	Pathogenic	GRCh38	2129557
+single nucleotide variant	NM_015570.4(AUTS2):c.2005-1G>C	26053	AUTS2	Likely pathogenic	GRCh38	2429100
+single nucleotide variant	NM_015570.4(AUTS2):c.940C>T (p.Gln314Ter)	26053	AUTS2	Pathogenic/Likely pathogenic	GRCh38	2429962
+single nucleotide variant	NM_015570.4(AUTS2):c.454C>T (p.Arg152Ter)	26053	AUTS2	Pathogenic/Likely pathogenic	GRCh38	2444256
+single nucleotide variant	NM_015570.4(AUTS2):c.2224+1G>T	26053	AUTS2	Likely pathogenic	GRCh38	2499620
+single nucleotide variant	NM_015570.4(AUTS2):c.1557C>A (p.Tyr519Ter)	26053	AUTS2	Likely pathogenic	GRCh38	2578436
+single nucleotide variant	NM_015570.4(AUTS2):c.1592A>G (p.His531Arg)	26053	AUTS2	Likely pathogenic	GRCh38	2632944
+single nucleotide variant	NM_015570.4(AUTS2):c.2812C>T (p.Arg938Trp)	26053	AUTS2	Likely pathogenic	GRCh38	2664663
+single nucleotide variant	NM_015570.4(AUTS2):c.1A>G (p.Met1Val)	26053	AUTS2	Pathogenic	GRCh38	2761164
+single nucleotide variant	NM_015570.4(AUTS2):c.134C>A (p.Ala45Glu)	26053	AUTS2	Likely pathogenic	GRCh38	2776592
+single nucleotide variant	NM_015570.4(AUTS2):c.2680G>A (p.Glu894Lys)	26053	AUTS2	Likely pathogenic	GRCh38	2836498
+single nucleotide variant	NM_015570.4(AUTS2):c.1902+1G>A	26053	AUTS2	Pathogenic	GRCh38	3024247
+single nucleotide variant	NM_015570.4(AUTS2):c.1606C>T (p.Gln536Ter)	26053	AUTS2	Likely pathogenic	GRCh38	3255573
+single nucleotide variant	NM_015570.4(AUTS2):c.522+1G>A	26053	AUTS2	Pathogenic	GRCh38	3340669
+single nucleotide variant	NM_015570.4(AUTS2):c.1214+1G>T	26053	AUTS2	Likely pathogenic	GRCh38	3381755
+single nucleotide variant	NM_015570.4(AUTS2):c.1051C>T (p.Gln351Ter)	26053	AUTS2	Pathogenic	GRCh38	3594757
+single nucleotide variant	NM_015570.4(AUTS2):c.2608C>G (p.Arg870Gly)	26053	AUTS2	Likely pathogenic	GRCh38	3602950
+single nucleotide variant	NM_015570.4(AUTS2):c.1597C>T (p.His533Tyr)	26053	AUTS2	Pathogenic	GRCh38	3652882
+single nucleotide variant	NM_015570.4(AUTS2):c.2308+1G>C	26053	AUTS2	Likely pathogenic	GRCh38	3774607
+single nucleotide variant	NM_015570.4(AUTS2):c.2005-1G>A	26053	AUTS2	Likely pathogenic	GRCh38	3776119
+single nucleotide variant	NM_015570.4(AUTS2):c.1735-2A>C	26053	AUTS2	Pathogenic	GRCh38	3906247
+single nucleotide variant	NM_015570.4(AUTS2):c.1196T>A (p.Leu399Ter)	26053	AUTS2	Pathogenic	GRCh38	3906485
+single nucleotide variant	NM_015570.4(AUTS2):c.2T>G (p.Met1Arg)	26053	AUTS2	Likely pathogenic	GRCh38	3907753
+single nucleotide variant	NM_015570.4(AUTS2):c.922C>T (p.Gln308Ter)	26053	AUTS2	Likely pathogenic	GRCh38	4081198
+single nucleotide variant	NM_015570.4(AUTS2):c.742+2T>G	26053	AUTS2	Likely pathogenic	GRCh38	4292326
+single nucleotide variant	NM_015570.4(AUTS2):c.1215-1G>A	26053	AUTS2	Likely pathogenic	GRCh38	4796533
+single nucleotide variant	NM_015570.4(AUTS2):c.844C>T (p.Gln282Ter)	26053	AUTS2	Pathogenic	GRCh38	4875621

@@ -1,0 +1,161 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000186.4(CFH):c.3643C>G (p.Arg1215Gly)	3075	CFH	Pathogenic	GRCh38	16542
+single nucleotide variant	NM_000186.4(CFH):c.3572C>T (p.Ser1191Leu)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	16545
+single nucleotide variant	NM_000186.4(CFH):c.565G>T (p.Glu189Ter)	3075	CFH	Pathogenic	GRCh38	16547
+single nucleotide variant	NM_000186.4(CFH):c.1291T>A (p.Cys431Ser)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	16551
+single nucleotide variant	NM_000186.4(CFH):c.2697T>A (p.Tyr899Ter)	3075	CFH	Pathogenic	GRCh38	16553
+single nucleotide variant	NM_000186.4(CFH):c.380G>T (p.Arg127Leu)	3075	CFH	Likely pathogenic	GRCh38	16554
+single nucleotide variant	NM_000186.4(CFH):c.3514G>T (p.Glu1172Ter)	3075	CFH	Pathogenic	GRCh38	16559
+single nucleotide variant	NM_000186.4(CFH):c.1222C>T (p.Gln408Ter)	3075	CFH	Pathogenic	GRCh38	16560
+single nucleotide variant	NM_000186.4(CFH):c.3592G>T (p.Glu1198Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	16563
+single nucleotide variant	NM_000186.4(CFH):c.3643C>T (p.Arg1215Ter)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	294526
+single nucleotide variant	NM_000186.4(CFH):c.1126C>T (p.Gln376Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	635491
+single nucleotide variant	NM_000186.4(CFH):c.3542T>C (p.Leu1181Ser)	3075	CFH	Likely pathogenic	GRCh38	635550
+single nucleotide variant	NM_000186.4(CFH):c.3134-2A>G	3075	CFH	Pathogenic, low penetrance	GRCh38	829824
+single nucleotide variant	NM_000186.4(CFH):c.1574G>A (p.Trp525Ter)	3075	CFH	Pathogenic	GRCh38	988145
+single nucleotide variant	NM_000186.4(CFH):c.3398C>G (p.Ser1133Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	988221
+single nucleotide variant	NM_000186.4(CFH):c.3493+2T>C	3075	CFH	Pathogenic	GRCh38	988140
+single nucleotide variant	NM_000186.4(CFH):c.3546G>C (p.Arg1182Ser)	3075	CFH	Pathogenic, low penetrance	GRCh38	988141
+single nucleotide variant	NM_000186.4(CFH):c.157C>T (p.Arg53Cys)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	1068249
+single nucleotide variant	NM_000186.4(CFH):c.694C>T (p.Arg232Ter)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	1162886
+single nucleotide variant	NM_000186.4(CFH):c.1927G>T (p.Glu643Ter)	3075	CFH	Likely pathogenic	GRCh38	1163677
+single nucleotide variant	NM_000186.4(CFH):c.2057-1G>A	3075	CFH	Likely pathogenic	GRCh38	1163678
+single nucleotide variant	NM_000186.4(CFH):c.3593A>G (p.Glu1198Gly)	3075	CFH	Likely pathogenic	GRCh38	1163685
+single nucleotide variant	NM_000186.4(CFH):c.3610G>T (p.Gly1204Ter)	3075	CFH	Pathogenic	GRCh38	1163687
+single nucleotide variant	NM_000186.4(CFH):c.3548G>T (p.Trp1183Leu)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	1175202
+single nucleotide variant	NM_000186.4(CFH):c.1307G>A (p.Trp436Ter)	3075	CFH	Pathogenic	GRCh38	1322067
+single nucleotide variant	NM_000186.4(CFH):c.729C>G (p.Tyr243Ter)	3075	CFH	Pathogenic	GRCh38	1322068
+single nucleotide variant	NM_000186.4(CFH):c.3322A>T (p.Lys1108Ter)	3075	CFH	Likely pathogenic	GRCh38	1343354
+single nucleotide variant	NM_000186.4(CFH):c.3493+1G>A	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	1343362
+single nucleotide variant	NM_000186.4(CFH):c.1873G>T (p.Glu625Ter)	3075	CFH	Pathogenic	GRCh38	1450348
+single nucleotide variant	NM_000186.4(CFH):c.1520-1G>A	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	1493683
+single nucleotide variant	NM_000186.4(CFH):c.3531T>G (p.Tyr1177Ter)	3075	CFH	Likely pathogenic	GRCh38	1711233
+single nucleotide variant	NM_000186.4(CFH):c.3644G>T (p.Arg1215Leu)	3075	CFH	Likely pathogenic	GRCh38	1712431
+single nucleotide variant	NM_000186.4(CFH):c.2236+1G>C	3075	CFH	Likely pathogenic	GRCh38	1936765
+single nucleotide variant	NM_000186.4(CFH):c.1352C>G (p.Ser451Ter)	3075	CFH	Pathogenic	GRCh38	2017582
+single nucleotide variant	NM_000186.4(CFH):c.2575C>T (p.Gln859Ter)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	2025535
+single nucleotide variant	NM_000186.4(CFH):c.2975T>G (p.Leu992Ter)	3075	CFH	Likely pathogenic	GRCh38	2507420
+single nucleotide variant	NM_000186.4(CFH):c.1366G>T (p.Glu456Ter)	3075	CFH	Pathogenic	GRCh38	2738506
+single nucleotide variant	NM_000186.4(CFH):c.1390C>T (p.Gln464Ter)	3075	CFH	Pathogenic	GRCh38	2847460
+single nucleotide variant	NM_000186.4(CFH):c.58+1G>T	3075	CFH	Likely pathogenic	GRCh38	3016330
+single nucleotide variant	NM_000186.4(CFH):c.1520-2A>G	3075	CFH	Likely pathogenic	GRCh38	3066309
+single nucleotide variant	NM_000186.4(CFH):c.2609G>A (p.Cys870Tyr)	3075	CFH	Likely pathogenic	GRCh38	3066382
+single nucleotide variant	NM_000186.4(CFH):c.245-1G>C	3075	CFH	Pathogenic	GRCh38	3234076
+single nucleotide variant	NM_000186.4(CFH):c.1154G>T (p.Cys385Phe)	3075	CFH	Likely pathogenic	GRCh38	3236204
+single nucleotide variant	NM_000186.4(CFH):c.1673G>A (p.Trp558Ter)	3075	CFH	Likely pathogenic	GRCh38	3381091
+single nucleotide variant	NM_000186.4(CFH):c.2871C>A (p.Tyr957Ter)	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	3381093
+single nucleotide variant	NM_000186.4(CFH):c.39G>A (p.Trp13Ter)	3075	CFH	Likely pathogenic	GRCh38	3575053
+single nucleotide variant	NM_000186.4(CFH):c.336T>A (p.Tyr112Ter)	3075	CFH	Likely pathogenic	GRCh38	3575166
+single nucleotide variant	NM_000186.4(CFH):c.620-2A>G	3075	CFH	Likely pathogenic	GRCh38	3575263
+single nucleotide variant	NM_000186.4(CFH):c.1337-2A>G	3075	CFH	Likely pathogenic	GRCh38	3575324
+single nucleotide variant	NM_000186.4(CFH):c.592T>C (p.Trp198Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	3600348
+single nucleotide variant	NM_000186.4(CFH):c.619+1G>A	3075	CFH	Pathogenic/Likely pathogenic	GRCh38	3765465
+single nucleotide variant	NM_000186.4(CFH):c.55G>T (p.Glu19Ter)	3075	CFH	Likely pathogenic	GRCh38	3767361
+single nucleotide variant	NM_000186.4(CFH):c.882T>A (p.Cys294Ter)	3075	CFH	Pathogenic	GRCh38	4085222
+single nucleotide variant	NM_000186.4(CFH):c.504C>A (p.Tyr168Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291289
+single nucleotide variant	NM_000186.4(CFH):c.514C>T (p.Gln172Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291290
+single nucleotide variant	NM_000186.4(CFH):c.67G>T (p.Glu23Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291298
+single nucleotide variant	NM_000186.4(CFH):c.575G>T (p.Cys192Phe)	3075	CFH	Likely pathogenic	GRCh38	4291300
+single nucleotide variant	NM_000186.4(CFH):c.578C>T (p.Ser193Leu)	3075	CFH	Likely pathogenic	GRCh38	4291303
+single nucleotide variant	NM_000186.4(CFH):c.593G>A (p.Trp198Ter)	3075	CFH	Pathogenic	GRCh38	4291305
+single nucleotide variant	NM_000186.4(CFH):c.595A>G (p.Ser199Gly)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291307
+single nucleotide variant	NM_000186.4(CFH):c.615T>A (p.Cys205Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291309
+single nucleotide variant	NM_000186.4(CFH):c.653G>A (p.Gly218Glu)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291314
+single nucleotide variant	NM_000186.4(CFH):c.652G>T (p.Gly218Ter)	3075	CFH	Pathogenic	GRCh38	4291316
+single nucleotide variant	NM_000186.4(CFH):c.695G>A (p.Arg232Gln)	3075	CFH	Likely pathogenic	GRCh38	4291318
+single nucleotide variant	NM_000186.4(CFH):c.705T>A (p.Tyr235Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291321
+single nucleotide variant	NM_000186.4(CFH):c.790+1G>A	3075	CFH	Pathogenic	GRCh38	4291329
+single nucleotide variant	NM_000186.4(CFH):c.942G>A (p.Trp314Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291335
+single nucleotide variant	NM_000186.4(CFH):c.965-1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291338
+single nucleotide variant	NM_000186.4(CFH):c.974G>A (p.Cys325Tyr)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291340
+single nucleotide variant	NM_000186.4(CFH):c.1056T>A (p.Tyr352Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291352
+single nucleotide variant	NM_000186.4(CFH):c.1075G>T (p.Glu359Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291358
+single nucleotide variant	NM_000186.4(CFH):c.118C>T (p.Gln40Ter)	3075	CFH	Pathogenic	GRCh38	4291370
+single nucleotide variant	NM_000186.4(CFH):c.1160-2A>G	3075	CFH	Pathogenic, low penetrance	GRCh38	4291371
+single nucleotide variant	NM_000186.4(CFH):c.1292G>A (p.Cys431Tyr)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291379
+single nucleotide variant	NM_000186.4(CFH):c.1707C>A (p.Cys569Ter)	3075	CFH	Pathogenic	GRCh38	4291415
+single nucleotide variant	NM_000186.4(CFH):c.1750A>T (p.Lys584Ter)	3075	CFH	Pathogenic	GRCh38	4291418
+single nucleotide variant	NM_000186.4(CFH):c.1756C>T (p.Gln586Ter)	3075	CFH	Pathogenic	GRCh38	4291419
+single nucleotide variant	NM_000186.4(CFH):c.1778T>A (p.Leu593Ter)	3075	CFH	Pathogenic	GRCh38	4291421
+single nucleotide variant	NM_000186.4(CFH):c.1789T>C (p.Cys597Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291422
+single nucleotide variant	NM_000186.4(CFH):c.1791C>A (p.Cys597Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291423
+single nucleotide variant	NM_000186.4(CFH):c.1873+1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291431
+single nucleotide variant	NM_000186.4(CFH):c.1874-1G>C	3075	CFH	Pathogenic, low penetrance	GRCh38	4291432
+single nucleotide variant	NM_000186.4(CFH):c.157C>A (p.Arg53Ser)	3075	CFH	Likely pathogenic	GRCh38	4291433
+single nucleotide variant	NM_000186.4(CFH):c.2018G>A (p.Cys673Tyr)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291441
+single nucleotide variant	NM_000186.4(CFH):c.2019T>A (p.Cys673Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291442
+single nucleotide variant	NM_000186.4(CFH):c.2056+1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291444
+single nucleotide variant	NM_000186.4(CFH):c.2103G>A (p.Trp701Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291447
+single nucleotide variant	NM_000186.4(CFH):c.2141C>G (p.Ser714Ter)	3075	CFH	Pathogenic	GRCh38	4291450
+single nucleotide variant	NM_000186.4(CFH):c.2165C>A (p.Ser722Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291451
+single nucleotide variant	NM_000186.4(CFH):c.2284G>T (p.Glu762Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291464
+single nucleotide variant	NM_000186.4(CFH):c.2536C>T (p.Gln846Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291485
+single nucleotide variant	NM_000186.4(CFH):c.2557T>C (p.Cys853Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291488
+single nucleotide variant	NM_000186.4(CFH):c.2558G>A (p.Cys853Tyr)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291489
+single nucleotide variant	NM_000186.4(CFH):c.2572T>A (p.Trp858Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291490
+single nucleotide variant	NM_000186.4(CFH):c.2596+1G>C	3075	CFH	Pathogenic	GRCh38	4291491
+single nucleotide variant	NM_000186.4(CFH):c.2596+2T>C	3075	CFH	Pathogenic, low penetrance	GRCh38	4291492
+single nucleotide variant	NM_000186.4(CFH):c.2608T>C (p.Cys870Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291493
+single nucleotide variant	NM_000186.4(CFH):c.2665G>T (p.Glu889Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291499
+single nucleotide variant	NM_000186.4(CFH):c.2695T>G (p.Tyr899Asp)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291503
+single nucleotide variant	NM_000186.4(CFH):c.2745C>A (p.Cys915Ter)	3075	CFH	Pathogenic	GRCh38	4291504
+single nucleotide variant	NM_000186.4(CFH):c.2748C>G (p.Tyr916Ter)	3075	CFH	Pathogenic	GRCh38	4291505
+single nucleotide variant	NM_000186.4(CFH):c.2773C>T (p.Gln925Ter)	3075	CFH	Pathogenic	GRCh38	4291508
+single nucleotide variant	NM_000186.4(CFH):c.2782+2T>G	3075	CFH	Pathogenic, low penetrance	GRCh38	4291512
+single nucleotide variant	NM_000186.4(CFH):c.2934G>T (p.Trp978Cys)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291521
+single nucleotide variant	NM_000186.4(CFH):c.2932T>C (p.Trp978Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291523
+single nucleotide variant	NM_000186.4(CFH):c.244+2T>C	3075	CFH	Pathogenic, low penetrance	GRCh38	4291525
+single nucleotide variant	NM_000186.4(CFH):c.2956+1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291526
+single nucleotide variant	NM_000186.4(CFH):c.2957-1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291527
+single nucleotide variant	NM_000186.4(CFH):c.3048C>A (p.Tyr1016Ter)	3075	CFH	Pathogenic	GRCh38	4291532
+single nucleotide variant	NM_000186.4(CFH):c.3062A>T (p.Tyr1021Phe)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291533
+single nucleotide variant	NM_000186.4(CFH):c.3096C>A (p.Cys1032Ter)	3075	CFH	Pathogenic	GRCh38	4291534
+single nucleotide variant	NM_000186.4(CFH):c.3110G>A (p.Trp1037Ter)	3075	CFH	Pathogenic	GRCh38	4291535
+single nucleotide variant	NM_000186.4(CFH):c.3133+1G>A	3075	CFH	Pathogenic, low penetrance	GRCh38	4291538
+single nucleotide variant	NM_000186.4(CFH):c.3196A>T (p.Lys1066Ter)	3075	CFH	Pathogenic	GRCh38	4291543
+single nucleotide variant	NM_000186.4(CFH):c.3226C>T (p.Gln1076Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291547
+single nucleotide variant	NM_000186.4(CFH):c.249G>T (p.Arg83Ser)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291551
+single nucleotide variant	NM_000186.4(CFH):c.3286T>A (p.Trp1096Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291553
+single nucleotide variant	NM_000186.4(CFH):c.3288G>A (p.Trp1096Ter)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291554
+single nucleotide variant	NM_000186.4(CFH):c.262C>A (p.Pro88Thr)	3075	CFH	Likely pathogenic	GRCh38	4291558
+single nucleotide variant	NM_000186.4(CFH):c.3408C>G (p.Tyr1136Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291564
+single nucleotide variant	NM_000186.4(CFH):c.3409C>T (p.Gln1137Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291566
+single nucleotide variant	NM_000186.4(CFH):c.3415C>T (p.Gln1139Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291567
+single nucleotide variant	NM_000186.4(CFH):c.3422T>A (p.Leu1141Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291569
+single nucleotide variant	NM_000186.4(CFH):c.3445C>T (p.Arg1149Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291573
+single nucleotide variant	NM_000186.4(CFH):c.3463G>T (p.Gly1155Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291576
+single nucleotide variant	NM_000186.4(CFH):c.3469T>C (p.Trp1157Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291578
+single nucleotide variant	NM_000186.4(CFH):c.3473C>G (p.Ser1158Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291580
+single nucleotide variant	NM_000186.4(CFH):c.3489C>G (p.Cys1163Trp)	3075	CFH	Likely pathogenic	GRCh38	4291585
+single nucleotide variant	NM_000186.4(CFH):c.3493+1G>C	3075	CFH	Pathogenic, low penetrance	GRCh38	4291587
+single nucleotide variant	NM_000186.4(CFH):c.3549G>A (p.Trp1183Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291601
+single nucleotide variant	NM_000186.4(CFH):c.3562A>C (p.Lys1188Gln)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291610
+single nucleotide variant	NM_000186.4(CFH):c.3583G>T (p.Glu1195Ter)	3075	CFH	Pathogenic	GRCh38	4291619
+single nucleotide variant	NM_000186.4(CFH):c.3592G>A (p.Glu1198Lys)	3075	CFH	Likely pathogenic	GRCh38	4291623
+single nucleotide variant	NM_000186.4(CFH):c.3593A>T (p.Glu1198Val)	3075	CFH	Likely pathogenic	GRCh38	4291624
+single nucleotide variant	NM_000186.4(CFH):c.3595T>C (p.Phe1199Leu)	3075	CFH	Likely pathogenic	GRCh38	4291625
+single nucleotide variant	NM_000186.4(CFH):c.3628C>A (p.Arg1210Ser)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291634
+single nucleotide variant	NM_000186.4(CFH):c.1106G>A (p.Trp369Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291653
+single nucleotide variant	NM_000186.4(CFH):c.1107G>A (p.Trp369Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291654
+single nucleotide variant	NM_000186.4(CFH):c.350+1G>T	3075	CFH	Pathogenic	GRCh38	4291656
+single nucleotide variant	NM_000186.4(CFH):c.1868G>C (p.Cys623Ser)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291658
+single nucleotide variant	NM_000186.4(CFH):c.1867T>A (p.Cys623Ser)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291659
+single nucleotide variant	NM_000186.4(CFH):c.2933G>A (p.Trp978Ter)	3075	CFH	Pathogenic, low penetrance	GRCh38	4291665
+single nucleotide variant	NM_000186.4(CFH):c.3546G>T (p.Arg1182Ser)	3075	CFH	Pathogenic	GRCh38	4291668
+single nucleotide variant	NM_000186.4(CFH):c.3547T>A (p.Trp1183Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291669
+single nucleotide variant	NM_000186.4(CFH):c.3547T>C (p.Trp1183Arg)	3075	CFH	Likely pathogenic	GRCh38	4291670
+single nucleotide variant	NM_000186.4(CFH):c.351-2A>G	3075	CFH	Pathogenic	GRCh38	4291678
+single nucleotide variant	NM_000186.4(CFH):c.400T>C (p.Trp134Arg)	3075	CFH	Likely pathogenic, low penetrance	GRCh38	4291688
+single nucleotide variant	NM_000186.4(CFH):c.428-2A>G	3075	CFH	Pathogenic, low penetrance	GRCh38	4291697
+single nucleotide variant	NM_000186.4(CFH):c.3301C>T (p.Gln1101Ter)	3075	CFH	Likely pathogenic	GRCh38	4293679
+single nucleotide variant	NM_000186.4(CFH):c.2783-2A>T	3075	CFH	Likely pathogenic	GRCh38	4339709
+single nucleotide variant	NM_000186.4(CFH):c.629G>T (p.Cys210Phe)	3075	CFH	Likely pathogenic	GRCh38	4526562
+single nucleotide variant	NM_000186.4(CFH):c.2596+1G>A	3075	CFH	Likely pathogenic	GRCh38	4710685
+single nucleotide variant	NM_000186.4(CFH):c.1352C>A (p.Ser451Ter)	3075	CFH	Pathogenic	GRCh38	4730488
+single nucleotide variant	NM_000186.4(CFH):c.1608C>A (p.Cys536Ter)	3075	CFH	Pathogenic	GRCh38	4766478
+single nucleotide variant	NM_000186.4(CFH):c.3544A>T (p.Arg1182Trp)	3075	CFH	Likely pathogenic	GRCh38	4849203
+single nucleotide variant	NM_000186.4(CFH):c.3007G>T (p.Glu1003Ter)	3075	CFH	Pathogenic	GRCh38	4849208
+single nucleotide variant	NM_000186.4(CFH):c.3531T>A (p.Tyr1177Ter)	3075	CFH	Likely pathogenic	GRCh38	4855983
+single nucleotide variant	NM_000186.4(CFH):c.1336+2T>G	3075	CFH	Likely pathogenic	GRCh38	4857338
+single nucleotide variant	NM_000186.4(CFH):c.3494-1G>A	3075	CFH	Likely pathogenic	GRCh38	4857340
+single nucleotide variant	NM_000186.4(CFH):c.2264C>A (p.Ser755Ter)	3075	CFH	Likely pathogenic	GRCh38	4885249

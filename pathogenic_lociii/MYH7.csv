@@ -11,7 +11,7 @@ single nucleotide variant	NM_000257.4(MYH7):c.2722C>G (p.Leu908Val)	4625	MYH7	Pa
 single nucleotide variant	NM_000257.4(MYH7):c.2221G>C (p.Gly741Arg)	4625	MYH7	Pathogenic	GRCh38	14098
 single nucleotide variant	NM_000257.4(MYH7):c.767G>A (p.Gly256Glu)	4625	MYH7	Pathogenic	GRCh38	14099
 single nucleotide variant	NM_000257.4(MYH7):c.2333A>G (p.Asp778Gly)	4625	MYH7	Pathogenic	GRCh38	14100
-single nucleotide variant	NM_000257.4(MYH7):c.1208G>T (p.Arg403Leu)	4625	MYH7	Pathogenic	GRCh38	14101
+single nucleotide variant	NM_000257.4(MYH7):c.1208G>T (p.Arg403Leu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	14101
 single nucleotide variant	NM_000257.4(MYH7):c.1207C>T (p.Arg403Trp)	4625	MYH7	Pathogenic	GRCh38	14102
 single nucleotide variant	NM_000257.4(MYH7):c.1538T>G (p.Phe513Cys)	4625	MYH7	Pathogenic	GRCh38	14103
 single nucleotide variant	NM_000257.4(MYH7):c.2155C>T (p.Arg719Trp)	4625	MYH7	Pathogenic	GRCh38	14104
@@ -73,7 +73,6 @@ single nucleotide variant	NM_000257.4(MYH7):c.5717C>G (p.Ala1906Gly)	4625	MYH7	L
 single nucleotide variant	NM_000257.4(MYH7):c.5740G>A (p.Glu1914Lys)	4625	MYH7	Likely pathogenic	GRCh38	43088
 single nucleotide variant	NM_000257.4(MYH7):c.602T>C (p.Ile201Thr)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	43093
 single nucleotide variant	NM_000257.4(MYH7):c.611G>A (p.Arg204His)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	43095
-single nucleotide variant	NM_000257.4(MYH7):c.709C>T (p.Arg237Trp)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	43098
 single nucleotide variant	NM_000257.4(MYH7):c.715G>A (p.Asp239Asn)	4625	MYH7	Likely pathogenic	GRCh38	43100
 single nucleotide variant	NM_000257.4(MYH7):c.788T>C (p.Ile263Thr)	4625	MYH7	Pathogenic	GRCh38	43106
 single nucleotide variant	NM_000257.4(MYH7):c.847T>G (p.Tyr283Asp)	4625	MYH7	Likely pathogenic	GRCh38	66081
@@ -125,7 +124,7 @@ single nucleotide variant	NM_000257.4(MYH7):c.2246T>A (p.Leu749Gln)	4625	MYH7	Li
 single nucleotide variant	NM_000257.4(MYH7):c.2129C>A (p.Pro710His)	4625	MYH7	Likely pathogenic	GRCh38	177734
 single nucleotide variant	NM_000257.4(MYH7):c.2080C>T (p.Arg694Cys)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	177627
 single nucleotide variant	NM_000257.4(MYH7):c.2011C>T (p.Arg671Cys)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	164350
-single nucleotide variant	NM_000257.4(MYH7):c.1954A>G (p.Arg652Gly)	4625	MYH7	Pathogenic	GRCh38	177626
+single nucleotide variant	NM_000257.4(MYH7):c.1954A>G (p.Arg652Gly)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	177626
 single nucleotide variant	NM_000257.4(MYH7):c.1826A>G (p.Tyr609Cys)	4625	MYH7	Likely pathogenic	GRCh38	179525
 single nucleotide variant	NM_000257.4(MYH7):c.1549C>A (p.Leu517Met)	4625	MYH7	Likely pathogenic	GRCh38	177624
 single nucleotide variant	NM_000257.4(MYH7):c.1436A>G (p.Asn479Ser)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	177623
@@ -146,17 +145,16 @@ single nucleotide variant	NM_000257.4(MYH7):c.2707G>A (p.Glu903Lys)	4625	MYH7	Li
 single nucleotide variant	NM_000257.4(MYH7):c.2605C>T (p.Arg869Cys)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181196
 single nucleotide variant	NM_000257.4(MYH7):c.2593A>G (p.Lys865Glu)	4625	MYH7	Likely pathogenic	GRCh38	181195
 single nucleotide variant	NM_000257.4(MYH7):c.2555T>A (p.Met852Lys)	4625	MYH7	Likely pathogenic	GRCh38	181375
-single nucleotide variant	NM_000257.4(MYH7):c.2459C>T (p.Ala820Val)	4625	MYH7	Likely pathogenic	GRCh38	181187
 single nucleotide variant	NM_000257.4(MYH7):c.2346C>A (p.Ser782Arg)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181181
 single nucleotide variant	NM_000257.4(MYH7):c.2302G>C (p.Gly768Arg)	4625	MYH7	Pathogenic	GRCh38	181180
 single nucleotide variant	NM_000257.4(MYH7):c.2198G>T (p.Gly733Val)	4625	MYH7	Likely pathogenic	GRCh38	181177
 single nucleotide variant	NM_000257.4(MYH7):c.2191C>T (p.Pro731Ser)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181176
 single nucleotide variant	NM_000257.4(MYH7):c.2087A>G (p.Asn696Ser)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181173
-single nucleotide variant	NM_000257.4(MYH7):c.2018T>G (p.Ile673Ser)	4625	MYH7	Likely pathogenic	GRCh38	181358
-single nucleotide variant	NM_000257.4(MYH7):c.2012G>A (p.Arg671His)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181357
+single nucleotide variant	NM_000257.4(MYH7):c.1805A>G (p.Asn602Ser)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181354
 single nucleotide variant	NM_000257.4(MYH7):c.1615A>G (p.Met539Val)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181409
 single nucleotide variant	NM_000257.4(MYH7):c.1571T>C (p.Ile524Thr)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181408
 single nucleotide variant	NM_000257.4(MYH7):c.1477A>G (p.Met493Val)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181349
+single nucleotide variant	NM_000257.4(MYH7):c.1331A>G (p.Asn444Ser)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181343
 single nucleotide variant	NM_000257.4(MYH7):c.1316T>G (p.Met439Arg)	4625	MYH7	Likely pathogenic	GRCh38	181406
 single nucleotide variant	NM_000257.4(MYH7):c.1315A>G (p.Met439Val)	4625	MYH7	Likely pathogenic	GRCh38	181341
 single nucleotide variant	NM_000257.4(MYH7):c.1264T>G (p.Tyr422Asp)	4625	MYH7	Likely pathogenic	GRCh38	2848784
@@ -165,6 +163,7 @@ single nucleotide variant	NM_000257.4(MYH7):c.1231G>A (p.Val411Ile)	4625	MYH7	Pa
 single nucleotide variant	NM_000257.4(MYH7):c.1051A>G (p.Lys351Glu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181335
 single nucleotide variant	NM_000257.4(MYH7):c.842G>C (p.Arg281Thr)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181327
 single nucleotide variant	NM_000257.4(MYH7):c.748A>T (p.Ile250Phe)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181323
+single nucleotide variant	NM_000257.4(MYH7):c.745C>G (p.Arg249Gly)	4625	MYH7	Likely pathogenic	GRCh38	181322
 single nucleotide variant	NM_000257.4(MYH7):c.740T>G (p.Phe247Cys)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	181401
 single nucleotide variant	NM_000257.4(MYH7):c.730T>C (p.Phe244Leu)	4625	MYH7	Pathogenic	GRCh38	181319
 single nucleotide variant	NM_000257.4(MYH7):c.649G>C (p.Glu217Gln)	4625	MYH7	Likely pathogenic	GRCh38	181317
@@ -178,20 +177,16 @@ single nucleotide variant	NM_000257.4(MYH7):c.1544T>C (p.Met515Thr)	4625	MYH7	Li
 single nucleotide variant	NM_000257.4(MYH7):c.2524A>G (p.Ser842Gly)	4625	MYH7	Likely pathogenic	GRCh38	217474
 single nucleotide variant	NM_000257.4(MYH7):c.2291T>A (p.Phe764Tyr)	4625	MYH7	Likely pathogenic	GRCh38	217473
 single nucleotide variant	NM_000257.4(MYH7):c.2201A>C (p.Gln734Pro)	4625	MYH7	Likely pathogenic	GRCh38	217464
-single nucleotide variant	NM_000257.4(MYH7):c.2156G>C (p.Arg719Pro)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	217460
 single nucleotide variant	NM_000257.4(MYH7):c.2104A>G (p.Ile702Val)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	217470
 single nucleotide variant	NM_000257.4(MYH7):c.1479G>C (p.Met493Ile)	4625	MYH7	Likely pathogenic	GRCh38	217471
 single nucleotide variant	NM_000257.4(MYH7):c.755T>G (p.Phe252Cys)	4625	MYH7	Likely pathogenic	GRCh38	217472
 single nucleotide variant	NM_000257.4(MYH7):c.1615A>C (p.Met539Leu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	219836
-single nucleotide variant	NM_000257.4(MYH7):c.4402G>A (p.Glu1468Lys)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	235033
-single nucleotide variant	NM_000257.4(MYH7):c.2609G>T (p.Arg870Leu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	235031
-single nucleotide variant	NM_000257.4(MYH7):c.1358G>T (p.Arg453Leu)	4625	MYH7	Likely pathogenic	GRCh38	235026
-single nucleotide variant	NM_000257.4(MYH7):c.773T>C (p.Leu258Ser)	4625	MYH7	Likely pathogenic	GRCh38	235037
 single nucleotide variant	NM_000257.4(MYH7):c.761C>A (p.Ala254Glu)	4625	MYH7	Pathogenic	GRCh38	237444
 single nucleotide variant	NM_000257.4(MYH7):c.2081G>A (p.Arg694His)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	264068
 single nucleotide variant	NM_000257.4(MYH7):c.2345G>A (p.Ser782Asn)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	264539
 single nucleotide variant	NM_000257.4(MYH7):c.2334C>G (p.Asp778Glu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	265252
 single nucleotide variant	NM_000257.4(MYH7):c.3991C>G (p.His1331Asp)	4625	MYH7	Likely pathogenic	GRCh38	372604
+single nucleotide variant	NM_000257.4(MYH7):c.2092G>A (p.Val698Met)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	373704
 single nucleotide variant	NM_000257.4(MYH7):c.2191C>A (p.Pro731Thr)	4625	MYH7	Likely pathogenic	GRCh38	377060
 single nucleotide variant	NM_000257.4(MYH7):c.2222G>A (p.Gly741Glu)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	380277
 single nucleotide variant	NM_000257.4(MYH7):c.2189T>C (p.Ile730Thr)	4625	MYH7	Pathogenic/Likely pathogenic	GRCh38	407193
@@ -405,3 +400,9 @@ single nucleotide variant	NM_000257.4(MYH7):c.1712G>A (p.Gly571Glu)	4625	MYH7	Li
 single nucleotide variant	NM_000257.4(MYH7):c.1608G>C (p.Glu536Asp)	4625	MYH7	Likely pathogenic	GRCh38	4820541
 single nucleotide variant	NM_000257.4(MYH7):c.1427T>A (p.Leu476His)	4625	MYH7	Likely pathogenic	GRCh38	4851456
 single nucleotide variant	NM_000257.4(MYH7):c.2092G>T (p.Val698Leu)	4625	MYH7	Likely pathogenic	GRCh38	4855031
+single nucleotide variant	NM_000257.4(MYH7):c.2151C>A (p.Asp717Glu)	4625	MYH7	Likely pathogenic	GRCh38	4856609
+single nucleotide variant	NM_000257.4(MYH7):c.2021T>C (p.Ile674Thr)	4625	MYH7	Likely pathogenic	GRCh38	4856610
+single nucleotide variant	NM_000257.4(MYH7):c.2699A>C (p.Asp900Ala)	4625	MYH7	Likely pathogenic	GRCh38	4857461
+single nucleotide variant	NM_000257.4(MYH7):c.1248T>G (p.Asn416Lys)	4625	MYH7	Likely pathogenic	GRCh38	4871906
+single nucleotide variant	NM_000257.4(MYH7):c.853A>T (p.Ile285Phe)	4625	MYH7	Likely pathogenic	GRCh38	4880009
+single nucleotide variant	NM_000257.4(MYH7):c.1543A>G (p.Met515Val)	4625	MYH7	Pathogenic	GRCh38	4884318

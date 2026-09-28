@@ -1,0 +1,73 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_012330.4(KAT6B):c.4069G>T (p.Glu1357Ter)	23522	KAT6B	Pathogenic	GRCh38	30528
+single nucleotide variant	NM_012330.4(KAT6B):c.3892G>T (p.Gly1298Ter)	23522	KAT6B	Pathogenic	GRCh38	30532
+single nucleotide variant	NM_012330.4(KAT6B):c.3802G>T (p.Gly1268Ter)	23522	KAT6B	Pathogenic	GRCh38	30533
+single nucleotide variant	NM_012330.4(KAT6B):c.5389C>T (p.Arg1797Ter)	23522	KAT6B	Pathogenic	GRCh38	50357
+single nucleotide variant	NM_012330.4(KAT6B):c.3147G>A (p.Pro1049=)	23522	KAT6B	Pathogenic	GRCh38	279815
+single nucleotide variant	NM_012330.4(KAT6B):c.5101C>T (p.Gln1701Ter)	23522	KAT6B	Pathogenic	GRCh38	280733
+single nucleotide variant	NM_012330.4(KAT6B):c.3664+1G>A	23522	KAT6B	Pathogenic	GRCh38	369663
+single nucleotide variant	NM_012330.4(KAT6B):c.3021+1G>T	23522	KAT6B	Pathogenic	GRCh38	391816
+single nucleotide variant	NM_012330.4(KAT6B):c.3286G>T (p.Glu1096Ter)	23522	KAT6B	Pathogenic	GRCh38	424129
+single nucleotide variant	NM_012330.4(KAT6B):c.3349C>T (p.Gln1117Ter)	23522	KAT6B	Pathogenic	GRCh38	450178
+single nucleotide variant	NM_012330.4(KAT6B):c.5254C>T (p.Gln1752Ter)	23522	KAT6B	Pathogenic	GRCh38	489009
+single nucleotide variant	NM_012330.4(KAT6B):c.3172C>T (p.Arg1058Ter)	23522	KAT6B	Pathogenic	GRCh38	523902
+single nucleotide variant	NM_012330.4(KAT6B):c.3256G>T (p.Glu1086Ter)	23522	KAT6B	Likely pathogenic	GRCh38	559862
+single nucleotide variant	NM_012330.4(KAT6B):c.3118C>T (p.Gln1040Ter)	23522	KAT6B	Pathogenic	GRCh38	561859
+single nucleotide variant	NM_012330.4(KAT6B):c.5290C>T (p.Gln1764Ter)	23522	KAT6B	Pathogenic	GRCh38	567140
+single nucleotide variant	NM_012330.4(KAT6B):c.4087G>T (p.Glu1363Ter)	23522	KAT6B	Pathogenic	GRCh38	620340
+single nucleotide variant	NM_012330.4(KAT6B):c.4072G>T (p.Glu1358Ter)	23522	KAT6B	Likely pathogenic	GRCh38	802590
+single nucleotide variant	NM_012330.4(KAT6B):c.4993A>G (p.Ser1665Gly)	23522	KAT6B	Likely pathogenic	GRCh38	802592
+single nucleotide variant	NM_012330.4(KAT6B):c.3214G>C (p.Glu1072Gln)	23522	KAT6B	Likely pathogenic	GRCh38	806519
+single nucleotide variant	NM_012330.4(KAT6B):c.3022-1G>A	23522	KAT6B	Pathogenic	GRCh38	931557
+single nucleotide variant	NM_012330.4(KAT6B):c.2598G>A (p.Arg866=)	23522	KAT6B	Pathogenic	GRCh38	976119
+single nucleotide variant	NM_012330.4(KAT6B):c.847-2A>G	23522	KAT6B	Pathogenic	GRCh38	977071
+single nucleotide variant	NM_012330.4(KAT6B):c.4162C>T (p.Gln1388Ter)	23522	KAT6B	Likely pathogenic	GRCh38	986348
+single nucleotide variant	NM_012330.4(KAT6B):c.2629+2T>C	23522	KAT6B	Likely pathogenic	GRCh38	987406
+single nucleotide variant	NM_012330.4(KAT6B):c.4228G>T (p.Glu1410Ter)	23522	KAT6B	Pathogenic	GRCh38	996801
+single nucleotide variant	NM_012330.4(KAT6B):c.1238T>C (p.Ile413Thr)	23522	KAT6B	Likely pathogenic	GRCh38	1033225
+single nucleotide variant	NM_012330.4(KAT6B):c.5058C>A (p.Tyr1686Ter)	23522	KAT6B	Pathogenic	GRCh38	1064762
+single nucleotide variant	NM_012330.4(KAT6B):c.3040C>T (p.Gln1014Ter)	23522	KAT6B	Pathogenic	GRCh38	1215378
+single nucleotide variant	NM_012330.4(KAT6B):c.1061+1G>A	23522	KAT6B	Pathogenic/Likely pathogenic	GRCh38	1219116
+single nucleotide variant	NM_012330.4(KAT6B):c.5040C>G (p.Tyr1680Ter)	23522	KAT6B	Pathogenic	GRCh38	1301894
+single nucleotide variant	NM_012330.4(KAT6B):c.748A>C (p.Lys250Gln)	23522	KAT6B	Likely pathogenic	GRCh38	1313741
+single nucleotide variant	NM_012330.4(KAT6B):c.3217G>T (p.Glu1073Ter)	23522	KAT6B	Pathogenic	GRCh38	1335042
+single nucleotide variant	NM_012330.4(KAT6B):c.4298A>T (p.His1433Leu)	23522	KAT6B	Likely pathogenic	GRCh38	1339562
+single nucleotide variant	NM_012330.4(KAT6B):c.3665-1G>C	23522	KAT6B	Pathogenic	GRCh38	1679292
+single nucleotide variant	NM_012330.4(KAT6B):c.4231G>T (p.Glu1411Ter)	23522	KAT6B	Pathogenic	GRCh38	1690359
+single nucleotide variant	NM_012330.4(KAT6B):c.3004C>T (p.Arg1002Ter)	23522	KAT6B	Pathogenic/Likely pathogenic	GRCh38	1691130
+single nucleotide variant	NM_012330.4(KAT6B):c.1993+1G>A	23522	KAT6B	Pathogenic	GRCh38	1698807
+single nucleotide variant	NM_012330.4(KAT6B):c.130A>T (p.Lys44Ter)	23522	KAT6B	Likely pathogenic	GRCh38	1705681
+single nucleotide variant	NM_012330.4(KAT6B):c.1A>G (p.Met1Val)	23522	KAT6B	Likely pathogenic	GRCh38	1708059
+single nucleotide variant	NM_012330.4(KAT6B):c.5356G>T (p.Glu1786Ter)	23522	KAT6B	Pathogenic	GRCh38	1806175
+single nucleotide variant	NM_012330.4(KAT6B):c.3856C>T (p.Gln1286Ter)	23522	KAT6B	Pathogenic	GRCh38	2112300
+single nucleotide variant	NM_012330.4(KAT6B):c.5461C>T (p.Gln1821Ter)	23522	KAT6B	Pathogenic	GRCh38	2134903
+single nucleotide variant	NM_012330.4(KAT6B):c.3373-2A>C	23522	KAT6B	Pathogenic	GRCh38	2229134
+single nucleotide variant	NM_012330.4(KAT6B):c.3223G>T (p.Glu1075Ter)	23522	KAT6B	Pathogenic	GRCh38	2429920
+single nucleotide variant	NM_012330.4(KAT6B):c.2347C>T (p.Arg783Ter)	23522	KAT6B	Pathogenic	GRCh38	2444621
+single nucleotide variant	NM_012330.4(KAT6B):c.5302C>T (p.Gln1768Ter)	23522	KAT6B	Pathogenic	GRCh38	2500747
+single nucleotide variant	NM_012330.4(KAT6B):c.1030C>T (p.Arg344Ter)	23522	KAT6B	Pathogenic	GRCh38	2505580
+single nucleotide variant	NM_012330.4(KAT6B):c.4096G>T (p.Glu1366Ter)	23522	KAT6B	Likely pathogenic	GRCh38	2572478
+single nucleotide variant	NM_012330.4(KAT6B):c.5002A>G (p.Ser1668Gly)	23522	KAT6B	Likely pathogenic	GRCh38	2582697
+single nucleotide variant	NM_012330.4(KAT6B):c.3373-1G>A	23522	KAT6B	Likely pathogenic	GRCh38	3024357
+single nucleotide variant	NM_012330.4(KAT6B):c.3373-14G>A	23522	KAT6B	Pathogenic	GRCh38	2818419
+single nucleotide variant	NM_012330.4(KAT6B):c.3022-1G>C	23522	KAT6B	Likely pathogenic	GRCh38	2842661
+single nucleotide variant	NM_012330.4(KAT6B):c.2023G>T (p.Glu675Ter)	23522	KAT6B	Pathogenic	GRCh38	3234641
+single nucleotide variant	NM_012330.4(KAT6B):c.4237G>T (p.Glu1413Ter)	23522	KAT6B	Pathogenic	GRCh38	3236131
+single nucleotide variant	NM_012330.4(KAT6B):c.3822C>G (p.Tyr1274Ter)	23522	KAT6B	Pathogenic	GRCh38	3242223
+single nucleotide variant	NM_012330.4(KAT6B):c.3372+2T>A	23522	KAT6B	Likely pathogenic	GRCh38	3382337
+single nucleotide variant	NM_012330.4(KAT6B):c.5014A>G (p.Ser1672Gly)	23522	KAT6B	Likely pathogenic	GRCh38	3893187
+single nucleotide variant	NM_012330.4(KAT6B):c.3887C>A (p.Ser1296Ter)	23522	KAT6B	Pathogenic	GRCh38	3900019
+single nucleotide variant	NM_012330.4(KAT6B):c.145G>T (p.Glu49Ter)	23522	KAT6B	Pathogenic	GRCh38	4074973
+single nucleotide variant	NM_012330.4(KAT6B):c.5206C>T (p.Gln1736Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4082189
+single nucleotide variant	NM_012330.4(KAT6B):c.1054C>T (p.Arg352Ter)	23522	KAT6B	Pathogenic	GRCh38	4085197
+single nucleotide variant	NM_012330.4(KAT6B):c.3283G>T (p.Glu1095Ter)	23522	KAT6B	Pathogenic	GRCh38	4085608
+single nucleotide variant	NM_012330.4(KAT6B):c.4117G>T (p.Glu1373Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4277411
+single nucleotide variant	NM_012330.4(KAT6B):c.2960G>A (p.Trp987Ter)	23522	KAT6B	Pathogenic	GRCh38	4531522
+single nucleotide variant	NM_012330.4(KAT6B):c.5099C>A (p.Ser1700Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4681919
+single nucleotide variant	NM_012330.4(KAT6B):c.3241G>T (p.Glu1081Ter)	23522	KAT6B	Pathogenic	GRCh38	4685553
+single nucleotide variant	NM_012330.4(KAT6B):c.3214G>T (p.Glu1072Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4687907
+single nucleotide variant	NM_012330.4(KAT6B):c.3247G>T (p.Glu1083Ter)	23522	KAT6B	Pathogenic	GRCh38	4731364
+single nucleotide variant	NM_012330.4(KAT6B):c.3271G>T (p.Glu1091Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4795192
+single nucleotide variant	NM_012330.4(KAT6B):c.3304G>T (p.Glu1102Ter)	23522	KAT6B	Likely pathogenic	GRCh38	4855499
+single nucleotide variant	NM_012330.4(KAT6B):c.4111G>T (p.Glu1371Ter)	23522	KAT6B	Pathogenic	GRCh38	4888134
+single nucleotide variant	NM_012330.4(KAT6B):c.3122C>A (p.Ser1041Ter)	23522	KAT6B	Pathogenic	GRCh38	4888186

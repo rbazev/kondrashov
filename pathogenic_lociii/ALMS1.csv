@@ -15,7 +15,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.3781G>T (p.Glu1261Ter)	7840	AL
 single nucleotide variant	NM_001378454.1(ALMS1):c.3899C>A (p.Ser1300Ter)	7840	ALMS1	Pathogenic	GRCh38	264657
 single nucleotide variant	NM_001378454.1(ALMS1):c.11204C>A (p.Ser3735Ter)	7840	ALMS1	Pathogenic	GRCh38	280474
 single nucleotide variant	NM_001378454.1(ALMS1):c.1237+2T>C	7840	ALMS1	Likely pathogenic	GRCh38	390220
-single nucleotide variant	NM_001378454.1(ALMS1):c.7244C>A (p.Ser2415Ter)	7840	ALMS1	Pathogenic	GRCh38	403943
+single nucleotide variant	NM_001378454.1(ALMS1):c.7244C>A (p.Ser2415Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	403943
 single nucleotide variant	NM_001378454.1(ALMS1):c.5587C>T (p.Gln1863Ter)	7840	ALMS1	Pathogenic	GRCh38	403915
 single nucleotide variant	NM_001378454.1(ALMS1):c.10882C>T (p.Arg3628Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	434136
 single nucleotide variant	NM_001378454.1(ALMS1):c.4180C>T (p.Gln1394Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	459866
@@ -39,6 +39,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.6797T>A (p.Leu2266Ter)	7840	AL
 single nucleotide variant	NM_001378454.1(ALMS1):c.355C>T (p.Gln119Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	550543
 single nucleotide variant	NM_001378454.1(ALMS1):c.10079-1G>C	7840	ALMS1	Likely pathogenic	GRCh38	557183
 single nucleotide variant	NM_001378454.1(ALMS1):c.11669-1G>A	7840	ALMS1	Pathogenic	GRCh38	552775
+single nucleotide variant	NM_001378454.1(ALMS1):c.9539G>A (p.Arg3180Gln)	7840	ALMS1	Likely pathogenic	GRCh38	553784
 single nucleotide variant	NM_001378454.1(ALMS1):c.10384+1G>A	7840	ALMS1	Likely pathogenic	GRCh38	557218
 single nucleotide variant	NM_001378454.1(ALMS1):c.9539+1G>T	7840	ALMS1	Likely pathogenic	GRCh38	552716
 single nucleotide variant	NM_001378454.1(ALMS1):c.11872+2T>A	7840	ALMS1	Likely pathogenic	GRCh38	554708
@@ -98,9 +99,9 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.2038C>T (p.Arg680Ter)	7840	ALM
 single nucleotide variant	NM_001378454.1(ALMS1):c.2203C>T (p.Gln735Ter)	7840	ALMS1	Pathogenic	GRCh38	940433
 single nucleotide variant	NM_001378454.1(ALMS1):c.3325C>T (p.Gln1109Ter)	7840	ALMS1	Pathogenic	GRCh38	935545
 single nucleotide variant	NM_001378454.1(ALMS1):c.6094G>T (p.Gly2032Ter)	7840	ALMS1	Pathogenic	GRCh38	936916
-single nucleotide variant	NM_001378454.1(ALMS1):c.10357A>T (p.Lys3453Ter)	7840	ALMS1	Pathogenic	GRCh38	936137
+single nucleotide variant	NM_001378454.1(ALMS1):c.10357A>T (p.Lys3453Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	936137
 single nucleotide variant	NM_001378454.1(ALMS1):c.450+2T>C	7840	ALMS1	Likely pathogenic	GRCh38	936865
-single nucleotide variant	NM_001378454.1(ALMS1):c.12299-2A>G	7840	ALMS1	Likely pathogenic	GRCh38	933376
+single nucleotide variant	NM_001378454.1(ALMS1):c.12299-2A>G	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	933376
 single nucleotide variant	NM_001378454.1(ALMS1):c.350G>A (p.Trp117Ter)	7840	ALMS1	Pathogenic	GRCh38	958531
 single nucleotide variant	NM_001378454.1(ALMS1):c.3150C>A (p.Tyr1050Ter)	7840	ALMS1	Pathogenic	GRCh38	959797
 single nucleotide variant	NM_001378454.1(ALMS1):c.4318C>T (p.Gln1440Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	964040
@@ -126,7 +127,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.2041C>T (p.Gln681Ter)	7840	ALM
 single nucleotide variant	NM_001378454.1(ALMS1):c.2071C>T (p.Gln691Ter)	7840	ALMS1	Pathogenic	GRCh38	1072195
 single nucleotide variant	NM_001378454.1(ALMS1):c.2896C>T (p.Gln966Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1072171
 single nucleotide variant	NM_001378454.1(ALMS1):c.4210G>T (p.Glu1404Ter)	7840	ALMS1	Pathogenic	GRCh38	1071883
-single nucleotide variant	NM_001378454.1(ALMS1):c.4715C>G (p.Ser1572Ter)	7840	ALMS1	Pathogenic	GRCh38	1071884
+single nucleotide variant	NM_001378454.1(ALMS1):c.4715C>G (p.Ser1572Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1071884
 single nucleotide variant	NM_001378454.1(ALMS1):c.6831C>A (p.Cys2277Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1073857
 single nucleotide variant	NM_001378454.1(ALMS1):c.7405G>T (p.Glu2469Ter)	7840	ALMS1	Pathogenic	GRCh38	1073409
 single nucleotide variant	NM_001378454.1(ALMS1):c.7589C>G (p.Ser2530Ter)	7840	ALMS1	Pathogenic	GRCh38	1068526
@@ -135,7 +136,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.9442C>T (p.Gln3148Ter)	7840	AL
 single nucleotide variant	NM_001378454.1(ALMS1):c.9834T>A (p.Tyr3278Ter)	7840	ALMS1	Pathogenic	GRCh38	1076737
 single nucleotide variant	NM_001378454.1(ALMS1):c.10385-2A>G	7840	ALMS1	Pathogenic	GRCh38	1071887
 single nucleotide variant	NM_001378454.1(ALMS1):c.10750C>T (p.Gln3584Ter)	7840	ALMS1	Pathogenic	GRCh38	1071888
-single nucleotide variant	NM_001378454.1(ALMS1):c.11707C>T (p.Arg3903Ter)	7840	ALMS1	Pathogenic	GRCh38	1076053
+single nucleotide variant	NM_001378454.1(ALMS1):c.11707C>T (p.Arg3903Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1076053
 single nucleotide variant	NM_001378454.1(ALMS1):c.12124C>T (p.Gln4042Ter)	7840	ALMS1	Pathogenic	GRCh38	1073242
 single nucleotide variant	NM_001378454.1(ALMS1):c.11632C>T (p.Gln3878Ter)	7840	ALMS1	Likely pathogenic	GRCh38	1098779
 single nucleotide variant	NM_001378454.1(ALMS1):c.5690C>G (p.Ser1897Ter)	7840	ALMS1	Pathogenic	GRCh38	1184927
@@ -166,7 +167,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.1756C>T (p.Gln586Ter)	7840	ALM
 single nucleotide variant	NM_001378454.1(ALMS1):c.2513C>A (p.Ser838Ter)	7840	ALMS1	Pathogenic	GRCh38	1390599
 single nucleotide variant	NM_001378454.1(ALMS1):c.1433-2A>G	7840	ALMS1	Likely pathogenic	GRCh38	1472778
 single nucleotide variant	NM_001378454.1(ALMS1):c.11882G>A (p.Trp3961Ter)	7840	ALMS1	Pathogenic	GRCh38	1459237
-single nucleotide variant	NM_001378454.1(ALMS1):c.10834C>T (p.Gln3612Ter)	7840	ALMS1	Pathogenic	GRCh38	1459240
+single nucleotide variant	NM_001378454.1(ALMS1):c.10834C>T (p.Gln3612Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1459240
 single nucleotide variant	NM_001378454.1(ALMS1):c.5318T>A (p.Leu1773Ter)	7840	ALMS1	Pathogenic	GRCh38	1459363
 single nucleotide variant	NM_001378454.1(ALMS1):c.5966C>A (p.Ser1989Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1421573
 single nucleotide variant	NM_001378454.1(ALMS1):c.2536G>T (p.Gly846Ter)	7840	ALMS1	Pathogenic	GRCh38	1425902
@@ -189,7 +190,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.4271T>A (p.Leu1424Ter)	7840	AL
 single nucleotide variant	NM_001378454.1(ALMS1):c.450+1G>A	7840	ALMS1	Likely pathogenic	GRCh38	1485746
 single nucleotide variant	NM_001378454.1(ALMS1):c.9607C>T (p.Gln3203Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1376922
 single nucleotide variant	NM_001378454.1(ALMS1):c.3422C>G (p.Ser1141Ter)	7840	ALMS1	Pathogenic	GRCh38	1351997
-single nucleotide variant	NM_001378454.1(ALMS1):c.61G>T (p.Glu21Ter)	7840	ALMS1	Pathogenic	GRCh38	1379631
+single nucleotide variant	NM_001378454.1(ALMS1):c.61G>T (p.Glu21Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	1379631
 single nucleotide variant	NM_001378454.1(ALMS1):c.3436C>T (p.Gln1146Ter)	7840	ALMS1	Pathogenic	GRCh38	1407361
 single nucleotide variant	NM_001378454.1(ALMS1):c.7672A>T (p.Lys2558Ter)	7840	ALMS1	Pathogenic	GRCh38	1432328
 single nucleotide variant	NM_001378454.1(ALMS1):c.571G>T (p.Glu191Ter)	7840	ALMS1	Pathogenic	GRCh38	1459437
@@ -264,7 +265,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.451-2A>G	7840	ALMS1	Likely pat
 single nucleotide variant	NM_001378454.1(ALMS1):c.4143C>A (p.Tyr1381Ter)	7840	ALMS1	Pathogenic	GRCh38	1738203
 single nucleotide variant	NM_001378454.1(ALMS1):c.1969C>T (p.Gln657Ter)	7840	ALMS1	Pathogenic	GRCh38	2153602
 single nucleotide variant	NM_001378454.1(ALMS1):c.6061C>T (p.Gln2021Ter)	7840	ALMS1	Pathogenic	GRCh38	2159346
-single nucleotide variant	NM_001378454.1(ALMS1):c.1352C>A (p.Ser451Ter)	7840	ALMS1	Pathogenic	GRCh38	2174478
+single nucleotide variant	NM_001378454.1(ALMS1):c.1352C>A (p.Ser451Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	2174478
 single nucleotide variant	NM_001378454.1(ALMS1):c.8042C>G (p.Ser2681Ter)	7840	ALMS1	Pathogenic	GRCh38	2203101
 single nucleotide variant	NM_001378454.1(ALMS1):c.8935C>T (p.Gln2979Ter)	7840	ALMS1	Pathogenic	GRCh38	2203102
 single nucleotide variant	NM_001378454.1(ALMS1):c.11002C>T (p.Gln3668Ter)	7840	ALMS1	Pathogenic	GRCh38	2203103
@@ -312,7 +313,6 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.1625T>G (p.Leu542Ter)	7840	ALM
 single nucleotide variant	NM_001378454.1(ALMS1):c.12397A>T (p.Arg4133Ter)	7840	ALMS1	Pathogenic	GRCh38	2132533
 single nucleotide variant	NM_001378454.1(ALMS1):c.6538G>T (p.Gly2180Ter)	7840	ALMS1	Pathogenic	GRCh38	2133447
 single nucleotide variant	NM_001378454.1(ALMS1):c.31G>T (p.Glu11Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	2449616
-single nucleotide variant	NM_001378454.1(ALMS1):c.4375C>T (p.Pro1459Ser)	7840	ALMS1	Likely pathogenic	GRCh38	2498291
 single nucleotide variant	NM_001378454.1(ALMS1):c.9540-2A>G	7840	ALMS1	Pathogenic	GRCh38	2584378
 single nucleotide variant	NM_001378454.1(ALMS1):c.12313C>T (p.Gln4105Ter)	7840	ALMS1	Pathogenic	GRCh38	2626190
 single nucleotide variant	NM_001378454.1(ALMS1):c.352C>T (p.Gln118Ter)	7840	ALMS1	Likely pathogenic	GRCh38	2634093
@@ -324,7 +324,7 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.9907+1G>A	7840	ALMS1	Likely pa
 single nucleotide variant	NM_001378454.1(ALMS1):c.12409A>T (p.Lys4137Ter)	7840	ALMS1	Pathogenic	GRCh38	2706721
 single nucleotide variant	NM_001378454.1(ALMS1):c.7234A>T (p.Lys2412Ter)	7840	ALMS1	Pathogenic	GRCh38	2719753
 single nucleotide variant	NM_001378454.1(ALMS1):c.6993C>A (p.Cys2331Ter)	7840	ALMS1	Pathogenic	GRCh38	2731868
-single nucleotide variant	NM_001378454.1(ALMS1):c.3466C>T (p.Gln1156Ter)	7840	ALMS1	Pathogenic	GRCh38	2724763
+single nucleotide variant	NM_001378454.1(ALMS1):c.3466C>T (p.Gln1156Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	2724763
 single nucleotide variant	NM_001378454.1(ALMS1):c.2705C>G (p.Ser902Ter)	7840	ALMS1	Pathogenic	GRCh38	2734223
 single nucleotide variant	NM_001378454.1(ALMS1):c.3751C>T (p.Gln1251Ter)	7840	ALMS1	Pathogenic	GRCh38	2734225
 single nucleotide variant	NM_001378454.1(ALMS1):c.4036C>T (p.Gln1346Ter)	7840	ALMS1	Pathogenic	GRCh38	2734226
@@ -339,9 +339,9 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.765-1G>C	7840	ALMS1	Likely pat
 single nucleotide variant	NM_001378454.1(ALMS1):c.8153C>A (p.Ser2718Ter)	7840	ALMS1	Pathogenic	GRCh38	2763507
 single nucleotide variant	NM_001378454.1(ALMS1):c.2797A>T (p.Lys933Ter)	7840	ALMS1	Pathogenic	GRCh38	2766077
 single nucleotide variant	NM_001378454.1(ALMS1):c.9751C>T (p.Gln3251Ter)	7840	ALMS1	Pathogenic	GRCh38	2779521
-single nucleotide variant	NM_001378454.1(ALMS1):c.9068C>G (p.Ser3023Ter)	7840	ALMS1	Pathogenic	GRCh38	2800511
+single nucleotide variant	NM_001378454.1(ALMS1):c.9068C>G (p.Ser3023Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	2800511
 single nucleotide variant	NM_001378454.1(ALMS1):c.847G>T (p.Glu283Ter)	7840	ALMS1	Pathogenic	GRCh38	2813724
-single nucleotide variant	NM_001378454.1(ALMS1):c.2494G>T (p.Glu832Ter)	7840	ALMS1	Pathogenic	GRCh38	2815979
+single nucleotide variant	NM_001378454.1(ALMS1):c.2494G>T (p.Glu832Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	2815979
 single nucleotide variant	NM_001378454.1(ALMS1):c.5396C>G (p.Ser1799Ter)	7840	ALMS1	Pathogenic	GRCh38	2817353
 single nucleotide variant	NM_001378454.1(ALMS1):c.12299-1G>C	7840	ALMS1	Likely pathogenic	GRCh38	2823503
 single nucleotide variant	NM_001378454.1(ALMS1):c.10909C>T (p.Gln3637Ter)	7840	ALMS1	Pathogenic	GRCh38	2819610
@@ -434,3 +434,12 @@ single nucleotide variant	NM_001378454.1(ALMS1):c.7862C>G (p.Ser2621Ter)	7840	AL
 single nucleotide variant	NM_001378454.1(ALMS1):c.8782G>T (p.Glu2928Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4815807
 single nucleotide variant	NM_001378454.1(ALMS1):c.9089T>G (p.Leu3030Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4815808
 single nucleotide variant	NM_001378454.1(ALMS1):c.9781+1G>A	7840	ALMS1	Likely pathogenic	GRCh38	4815811
+single nucleotide variant	NM_001378454.1(ALMS1):c.10244C>A (p.Ser3415Ter)	7840	ALMS1	Pathogenic/Likely pathogenic	GRCh38	4887573
+single nucleotide variant	NM_001378454.1(ALMS1):c.6322G>T (p.Glu2108Ter)	7840	ALMS1	Pathogenic	GRCh38	4888600
+single nucleotide variant	NM_001378454.1(ALMS1):c.742G>T (p.Glu248Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889546
+single nucleotide variant	NM_001378454.1(ALMS1):c.1367C>G (p.Ser456Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889547
+single nucleotide variant	NM_001378454.1(ALMS1):c.4145C>G (p.Ser1382Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889548
+single nucleotide variant	NM_001378454.1(ALMS1):c.10198C>T (p.Gln3400Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889550
+single nucleotide variant	NM_001378454.1(ALMS1):c.12018T>A (p.Cys4006Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889551
+single nucleotide variant	NM_001378454.1(ALMS1):c.12119C>A (p.Ser4040Ter)	7840	ALMS1	Likely pathogenic	GRCh38	4889552
+single nucleotide variant	NM_001378454.1(ALMS1):c.12115-2A>G	7840	ALMS1	Likely pathogenic	GRCh38	4889882

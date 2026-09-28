@@ -1,0 +1,286 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000435.3(NOTCH3):c.213G>T (p.Trp71Cys)	4854	NOTCH3	Pathogenic	GRCh38	9218
+single nucleotide variant	NM_000435.3(NOTCH3):c.505C>T (p.Arg169Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	9219
+single nucleotide variant	NM_000435.3(NOTCH3):c.544C>T (p.Arg182Cys)	4854	NOTCH3	Pathogenic	GRCh38	9220
+single nucleotide variant	NM_000435.3(NOTCH3):c.187G>A (p.Ala63Thr)	4854	NOTCH3	Pathogenic	GRCh38	9221
+single nucleotide variant	NM_000435.3(NOTCH3):c.1363T>C (p.Cys455Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	9223
+single nucleotide variant	NM_000435.3(NOTCH3):c.994C>T (p.Arg332Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	9224
+single nucleotide variant	NM_000435.3(NOTCH3):c.397C>T (p.Arg133Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	9225
+single nucleotide variant	NM_000435.3(NOTCH3):c.2411-1G>T	4854	NOTCH3	Pathogenic	GRCh38	9226
+single nucleotide variant	NM_000435.3(NOTCH3):c.1282T>A (p.Cys428Ser)	4854	NOTCH3	Pathogenic	GRCh38	9228
+single nucleotide variant	NM_000435.3(NOTCH3):c.4556T>C (p.Leu1519Pro)	4854	NOTCH3	Likely pathogenic	GRCh38	55850
+single nucleotide variant	NM_000435.3(NOTCH3):c.146G>T (p.Cys49Phe)	4854	NOTCH3	Pathogenic	GRCh38	161467
+single nucleotide variant	NM_000435.3(NOTCH3):c.6247A>T (p.Lys2083Ter)	4854	NOTCH3	Pathogenic	GRCh38	208069
+single nucleotide variant	NM_000435.3(NOTCH3):c.457C>T (p.Arg153Cys)	4854	NOTCH3	Pathogenic	GRCh38	208501
+single nucleotide variant	NM_000435.3(NOTCH3):c.1187C>G (p.Ser396Cys)	4854	NOTCH3	Pathogenic	GRCh38	217882
+single nucleotide variant	NM_000435.3(NOTCH3):c.6732C>A (p.Tyr2244Ter)	4854	NOTCH3	Pathogenic	GRCh38	224882
+single nucleotide variant	NM_000435.3(NOTCH3):c.6663C>G (p.Tyr2221Ter)	4854	NOTCH3	Pathogenic	GRCh38	224883
+single nucleotide variant	NM_000435.3(NOTCH3):c.1364G>T (p.Cys455Phe)	4854	NOTCH3	Pathogenic	GRCh38	280277
+single nucleotide variant	NM_000435.3(NOTCH3):c.1819C>T (p.Arg607Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	374637
+single nucleotide variant	NM_000435.3(NOTCH3):c.3182G>A (p.Cys1061Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	419978
+single nucleotide variant	NM_000435.3(NOTCH3):c.3296G>A (p.Cys1099Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447832
+single nucleotide variant	NM_000435.3(NOTCH3):c.3226C>T (p.Arg1076Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447830
+single nucleotide variant	NM_000435.3(NOTCH3):c.3065G>T (p.Cys1022Phe)	4854	NOTCH3	Pathogenic	GRCh38	447826
+single nucleotide variant	NM_000435.3(NOTCH3):c.3062A>G (p.Tyr1021Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447825
+single nucleotide variant	NM_000435.3(NOTCH3):c.3016C>T (p.Arg1006Cys)	4854	NOTCH3	Pathogenic	GRCh38	447823
+single nucleotide variant	NM_000435.3(NOTCH3):c.3011G>A (p.Cys1004Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447822
+single nucleotide variant	NM_000435.3(NOTCH3):c.2989T>G (p.Cys997Gly)	4854	NOTCH3	Pathogenic	GRCh38	447820
+single nucleotide variant	NM_000435.3(NOTCH3):c.2953C>T (p.Arg985Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447819
+single nucleotide variant	NM_000435.3(NOTCH3):c.1672C>T (p.Arg558Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447794
+single nucleotide variant	NM_000435.3(NOTCH3):c.1646G>A (p.Cys549Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447792
+single nucleotide variant	NM_000435.3(NOTCH3):c.1597T>C (p.Cys533Arg)	4854	NOTCH3	Pathogenic	GRCh38	447789
+single nucleotide variant	NM_000435.3(NOTCH3):c.1268A>G (p.Tyr423Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447780
+single nucleotide variant	NM_000435.3(NOTCH3):c.1261C>T (p.Arg421Cys)	4854	NOTCH3	Pathogenic	GRCh38	447779
+single nucleotide variant	NM_000435.3(NOTCH3):c.1258G>T (p.Gly420Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447778
+single nucleotide variant	NM_000435.3(NOTCH3):c.1255T>G (p.Cys419Gly)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447777
+single nucleotide variant	NM_000435.3(NOTCH3):c.1135T>G (p.Cys379Gly)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447776
+single nucleotide variant	NM_000435.3(NOTCH3):c.773A>G (p.Tyr258Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447873
+single nucleotide variant	NM_000435.3(NOTCH3):c.752G>A (p.Cys251Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447872
+single nucleotide variant	NM_000435.3(NOTCH3):c.671G>A (p.Cys224Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447868
+single nucleotide variant	NM_000435.3(NOTCH3):c.665G>A (p.Cys222Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447867
+single nucleotide variant	NM_000435.3(NOTCH3):c.634T>A (p.Cys212Ser)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447864
+single nucleotide variant	NM_000435.3(NOTCH3):c.619C>T (p.Arg207Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447862
+single nucleotide variant	NM_000435.3(NOTCH3):c.602G>A (p.Cys201Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447861
+single nucleotide variant	NM_000435.3(NOTCH3):c.554G>A (p.Cys185Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447858
+single nucleotide variant	NM_000435.3(NOTCH3):c.521G>T (p.Cys174Phe)	4854	NOTCH3	Pathogenic	GRCh38	447855
+single nucleotide variant	NM_000435.3(NOTCH3):c.521G>A (p.Cys174Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447854
+single nucleotide variant	NM_000435.3(NOTCH3):c.437G>T (p.Cys146Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	447850
+single nucleotide variant	NM_000435.3(NOTCH3):c.437G>A (p.Cys146Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447849
+single nucleotide variant	NM_000435.3(NOTCH3):c.436T>C (p.Cys146Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447848
+single nucleotide variant	NM_000435.3(NOTCH3):c.421C>T (p.Arg141Cys)	4854	NOTCH3	Pathogenic	GRCh38	447846
+single nucleotide variant	NM_000435.3(NOTCH3):c.350G>T (p.Cys117Phe)	4854	NOTCH3	Pathogenic	GRCh38	447838
+single nucleotide variant	NM_000435.3(NOTCH3):c.350G>A (p.Cys117Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447837
+single nucleotide variant	NM_000435.3(NOTCH3):c.349T>G (p.Cys117Gly)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447836
+single nucleotide variant	NM_000435.3(NOTCH3):c.349T>C (p.Cys117Arg)	4854	NOTCH3	Pathogenic	GRCh38	447835
+single nucleotide variant	NM_000435.3(NOTCH3):c.328C>T (p.Arg110Cys)	4854	NOTCH3	Pathogenic	GRCh38	447831
+single nucleotide variant	NM_000435.3(NOTCH3):c.316T>C (p.Cys106Arg)	4854	NOTCH3	Pathogenic	GRCh38	447828
+single nucleotide variant	NM_000435.3(NOTCH3):c.268C>T (p.Arg90Cys)	4854	NOTCH3	Pathogenic	GRCh38	447816
+single nucleotide variant	NM_000435.3(NOTCH3):c.245G>T (p.Cys82Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447812
+single nucleotide variant	NM_000435.3(NOTCH3):c.226T>C (p.Cys76Arg)	4854	NOTCH3	Pathogenic	GRCh38	447808
+single nucleotide variant	NM_000435.3(NOTCH3):c.200G>T (p.Cys67Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447806
+single nucleotide variant	NM_000435.3(NOTCH3):c.194G>C (p.Cys65Ser)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447803
+single nucleotide variant	NM_000435.3(NOTCH3):c.193T>G (p.Cys65Gly)	4854	NOTCH3	Pathogenic	GRCh38	447802
+single nucleotide variant	NM_000435.3(NOTCH3):c.164G>A (p.Cys55Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447793
+single nucleotide variant	NM_000435.3(NOTCH3):c.160C>T (p.Arg54Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447791
+single nucleotide variant	NM_000435.3(NOTCH3):c.146G>A (p.Cys49Tyr)	4854	NOTCH3	Pathogenic	GRCh38	447786
+single nucleotide variant	NM_000435.3(NOTCH3):c.145T>C (p.Cys49Arg)	4854	NOTCH3	Pathogenic	GRCh38	447785
+single nucleotide variant	NM_000435.3(NOTCH3):c.128G>A (p.Cys43Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	447781
+single nucleotide variant	NM_000435.3(NOTCH3):c.323G>T (p.Cys108Phe)	4854	NOTCH3	Pathogenic	GRCh38	451938
+single nucleotide variant	NM_000435.3(NOTCH3):c.376A>T (p.Ser126Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	493249
+single nucleotide variant	NM_000435.3(NOTCH3):c.1450T>G (p.Cys484Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	523370
+single nucleotide variant	NM_000435.3(NOTCH3):c.1630C>T (p.Arg544Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	546089
+single nucleotide variant	NM_000435.3(NOTCH3):c.932G>T (p.Cys311Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	546834
+single nucleotide variant	NM_000435.3(NOTCH3):c.3026G>A (p.Cys1009Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585603
+single nucleotide variant	NM_000435.3(NOTCH3):c.2956T>G (p.Cys986Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	585602
+single nucleotide variant	NM_000435.3(NOTCH3):c.1816T>C (p.Cys606Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585598
+single nucleotide variant	NM_000435.3(NOTCH3):c.1451G>T (p.Cys484Phe)	4854	NOTCH3	Pathogenic	GRCh38	585595
+single nucleotide variant	NM_000435.3(NOTCH3):c.1451G>A (p.Cys484Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585594
+single nucleotide variant	NM_000435.3(NOTCH3):c.1433G>A (p.Cys478Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585593
+single nucleotide variant	NM_000435.3(NOTCH3):c.1337G>T (p.Cys446Phe)	4854	NOTCH3	Pathogenic	GRCh38	585592
+single nucleotide variant	NM_000435.3(NOTCH3):c.1283G>A (p.Cys428Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585591
+single nucleotide variant	NM_000435.3(NOTCH3):c.1204T>A (p.Cys402Ser)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585590
+single nucleotide variant	NM_000435.3(NOTCH3):c.751T>C (p.Cys251Arg)	4854	NOTCH3	Pathogenic	GRCh38	585613
+single nucleotide variant	NM_000435.3(NOTCH3):c.580T>C (p.Cys194Arg)	4854	NOTCH3	Pathogenic	GRCh38	585612
+single nucleotide variant	NM_000435.3(NOTCH3):c.580T>A (p.Cys194Ser)	4854	NOTCH3	Pathogenic	GRCh38	585611
+single nucleotide variant	NM_000435.3(NOTCH3):c.554G>T (p.Cys185Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585610
+single nucleotide variant	NM_000435.3(NOTCH3):c.553T>C (p.Cys185Arg)	4854	NOTCH3	Pathogenic	GRCh38	585609
+single nucleotide variant	NM_000435.3(NOTCH3):c.548G>T (p.Cys183Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585608
+single nucleotide variant	NM_000435.3(NOTCH3):c.548G>A (p.Cys183Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585607
+single nucleotide variant	NM_000435.3(NOTCH3):c.431G>A (p.Cys144Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585606
+single nucleotide variant	NM_000435.3(NOTCH3):c.383G>T (p.Cys128Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	585605
+single nucleotide variant	NM_000435.3(NOTCH3):c.351C>G (p.Cys117Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	585604
+single nucleotide variant	NM_000435.3(NOTCH3):c.259T>C (p.Cys87Arg)	4854	NOTCH3	Pathogenic	GRCh38	585601
+single nucleotide variant	NM_000435.3(NOTCH3):c.227G>A (p.Cys76Tyr)	4854	NOTCH3	Pathogenic	GRCh38	585600
+single nucleotide variant	NM_000435.3(NOTCH3):c.226T>A (p.Cys76Ser)	4854	NOTCH3	Pathogenic	GRCh38	585599
+single nucleotide variant	NM_000435.3(NOTCH3):c.163T>C (p.Cys55Arg)	4854	NOTCH3	Pathogenic	GRCh38	585597
+single nucleotide variant	NM_000435.3(NOTCH3):c.145T>G (p.Cys49Gly)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	585596
+single nucleotide variant	NM_000435.3(NOTCH3):c.2557T>C (p.Cys853Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	591191
+single nucleotide variant	NM_000435.3(NOTCH3):c.224G>C (p.Arg75Pro)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	632306
+single nucleotide variant	NM_000435.3(NOTCH3):c.3043T>C (p.Cys1015Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	803539
+single nucleotide variant	NM_000435.3(NOTCH3):c.1594C>T (p.Arg532Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	803540
+single nucleotide variant	NM_000435.3(NOTCH3):c.353C>G (p.Ser118Cys)	4854	NOTCH3	Pathogenic	GRCh38	804633
+single nucleotide variant	NM_000435.3(NOTCH3):c.1774C>T (p.Arg592Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	808495
+single nucleotide variant	NM_000435.3(NOTCH3):c.1732C>T (p.Arg578Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	808496
+single nucleotide variant	NM_000435.3(NOTCH3):c.1279C>T (p.Arg427Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	810779
+single nucleotide variant	NM_000435.3(NOTCH3):c.520T>C (p.Cys174Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	810776
+single nucleotide variant	NM_000435.3(NOTCH3):c.601T>G (p.Cys201Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	811362
+single nucleotide variant	NM_000435.3(NOTCH3):c.316T>G (p.Cys106Gly)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	811998
+single nucleotide variant	NM_000435.3(NOTCH3):c.2126G>A (p.Cys709Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	812742
+single nucleotide variant	NM_000435.3(NOTCH3):c.1162T>C (p.Cys388Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	812743
+single nucleotide variant	NM_000435.3(NOTCH3):c.1136G>C (p.Cys379Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	812744
+single nucleotide variant	NM_000435.3(NOTCH3):c.634T>C (p.Cys212Arg)	4854	NOTCH3	Pathogenic	GRCh38	812745
+single nucleotide variant	NM_000435.3(NOTCH3):c.1918C>T (p.Arg640Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	870211
+single nucleotide variant	NM_000435.3(NOTCH3):c.520T>A (p.Cys174Ser)	4854	NOTCH3	Pathogenic	GRCh38	872534
+single nucleotide variant	NM_000435.3(NOTCH3):c.323G>A (p.Cys108Tyr)	4854	NOTCH3	Pathogenic	GRCh38	872948
+single nucleotide variant	NM_000435.3(NOTCH3):c.3878G>T (p.Cys1293Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	916336
+single nucleotide variant	NM_000435.3(NOTCH3):c.463T>G (p.Cys155Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	918003
+single nucleotide variant	NM_000435.3(NOTCH3):c.1531T>G (p.Cys511Gly)	4854	NOTCH3	Pathogenic	GRCh38	930703
+single nucleotide variant	NM_000435.3(NOTCH3):c.1432T>A (p.Cys478Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	932357
+single nucleotide variant	NM_000435.3(NOTCH3):c.194G>T (p.Cys65Phe)	4854	NOTCH3	Pathogenic	GRCh38	972687
+single nucleotide variant	NM_000435.3(NOTCH3):c.1790G>A (p.Cys597Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	973083
+single nucleotide variant	NM_000435.3(NOTCH3):c.3241T>C (p.Cys1081Arg)	4854	NOTCH3	Pathogenic	GRCh38	975941
+single nucleotide variant	NM_000435.3(NOTCH3):c.2701T>C (p.Cys901Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	975967
+single nucleotide variant	NM_000435.3(NOTCH3):c.752G>T (p.Cys251Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	976176
+single nucleotide variant	NM_000435.3(NOTCH3):c.3009G>C (p.Trp1003Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	978702
+single nucleotide variant	NM_000435.3(NOTCH3):c.555T>G (p.Cys185Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	978700
+single nucleotide variant	NM_000435.3(NOTCH3):c.382T>C (p.Cys128Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	978701
+single nucleotide variant	NM_000435.3(NOTCH3):c.2929T>C (p.Cys977Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	987025
+single nucleotide variant	NM_000435.3(NOTCH3):c.1823G>A (p.Cys608Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	994829
+single nucleotide variant	NM_000435.3(NOTCH3):c.1669G>T (p.Gly557Cys)	4854	NOTCH3	Pathogenic	GRCh38	994828
+single nucleotide variant	NM_000435.3(NOTCH3):c.1547G>T (p.Cys516Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	994827
+single nucleotide variant	NM_000435.3(NOTCH3):c.1547G>A (p.Cys516Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	994826
+single nucleotide variant	NM_000435.3(NOTCH3):c.1216G>T (p.Gly406Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	994540
+single nucleotide variant	NM_000435.3(NOTCH3):c.1010A>G (p.Tyr337Cys)	4854	NOTCH3	Pathogenic	GRCh38	994539
+single nucleotide variant	NM_000435.3(NOTCH3):c.986G>A (p.Cys329Tyr)	4854	NOTCH3	Pathogenic	GRCh38	995059
+single nucleotide variant	NM_000435.3(NOTCH3):c.811T>C (p.Cys271Arg)	4854	NOTCH3	Pathogenic	GRCh38	995057
+single nucleotide variant	NM_000435.3(NOTCH3):c.798G>T (p.Trp266Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	994849
+single nucleotide variant	NM_000435.3(NOTCH3):c.779G>T (p.Cys260Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	994848
+single nucleotide variant	NM_000435.3(NOTCH3):c.602G>T (p.Cys201Phe)	4854	NOTCH3	Pathogenic	GRCh38	994839
+single nucleotide variant	NM_000435.3(NOTCH3):c.430T>C (p.Cys144Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	995327
+single nucleotide variant	NM_000435.3(NOTCH3):c.368G>T (p.Cys123Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	995322
+single nucleotide variant	NM_000435.3(NOTCH3):c.341-2A>G	4854	NOTCH3	Pathogenic	GRCh38	995318
+single nucleotide variant	NM_000435.3(NOTCH3):c.318C>G (p.Cys106Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	1013146
+single nucleotide variant	NM_000435.3(NOTCH3):c.967T>A (p.Cys323Ser)	4854	NOTCH3	Pathogenic	GRCh38	1064640
+single nucleotide variant	NM_000435.3(NOTCH3):c.698G>A (p.Cys233Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1173096
+single nucleotide variant	NM_000435.3(NOTCH3):c.581G>T (p.Cys194Phe)	4854	NOTCH3	Pathogenic	GRCh38	1175947
+single nucleotide variant	NM_000435.3(NOTCH3):c.1241C>G (p.Ser414Cys)	4854	NOTCH3	Pathogenic	GRCh38	1256484
+single nucleotide variant	NM_000435.3(NOTCH3):c.1736G>A (p.Cys579Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1256492
+single nucleotide variant	NM_000435.3(NOTCH3):c.244T>C (p.Cys82Arg)	4854	NOTCH3	Pathogenic	GRCh38	1256502
+single nucleotide variant	NM_000435.3(NOTCH3):c.3925C>T (p.Arg1309Cys)	4854	NOTCH3	Pathogenic	GRCh38	1256516
+single nucleotide variant	NM_000435.3(NOTCH3):c.485G>T (p.Cys162Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	1256523
+single nucleotide variant	NM_000435.3(NOTCH3):c.553T>G (p.Cys185Gly)	4854	NOTCH3	Pathogenic	GRCh38	1256528
+single nucleotide variant	NM_000435.3(NOTCH3):c.566A>G (p.Tyr189Cys)	4854	NOTCH3	Pathogenic	GRCh38	1256529
+single nucleotide variant	NM_000435.3(NOTCH3):c.581G>A (p.Cys194Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1256530
+single nucleotide variant	NM_000435.3(NOTCH3):c.602G>C (p.Cys201Ser)	4854	NOTCH3	Pathogenic	GRCh38	1256533
+single nucleotide variant	NM_000435.3(NOTCH3):c.954T>G (p.Cys318Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	1256541
+single nucleotide variant	NM_000435.3(NOTCH3):c.547T>C (p.Cys183Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	1297039
+single nucleotide variant	NM_000435.3(NOTCH3):c.1492G>T (p.Gly498Cys)	4854	NOTCH3	Pathogenic	GRCh38	1298355
+single nucleotide variant	NM_000435.3(NOTCH3):c.1591T>G (p.Cys531Gly)	4854	NOTCH3	Pathogenic	GRCh38	1328242
+single nucleotide variant	NM_000435.3(NOTCH3):c.1478G>C (p.Cys493Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	1333211
+single nucleotide variant	NM_000435.3(NOTCH3):c.1624T>C (p.Cys542Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1333478
+single nucleotide variant	NM_000435.3(NOTCH3):c.194G>A (p.Cys65Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1365706
+single nucleotide variant	NM_000435.3(NOTCH3):c.6299C>A (p.Ser2100Ter)	4854	NOTCH3	Likely pathogenic	GRCh38	1475865
+single nucleotide variant	NM_000435.3(NOTCH3):c.1144G>T (p.Gly382Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1372978
+single nucleotide variant	NM_000435.3(NOTCH3):c.1441G>T (p.Gly481Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	1508045
+single nucleotide variant	NM_000435.3(NOTCH3):c.730C>T (p.Arg244Ter)	4854	NOTCH3	Pathogenic	GRCh38	1471082
+single nucleotide variant	NM_000435.3(NOTCH3):c.1676G>A (p.Cys559Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	1678547
+single nucleotide variant	NM_000435.3(NOTCH3):c.398G>T (p.Arg133Leu)	4854	NOTCH3	Likely pathogenic	GRCh38	1687327
+single nucleotide variant	NM_000435.3(NOTCH3):c.484T>C (p.Cys162Arg)	4854	NOTCH3	Pathogenic	GRCh38	1701358
+single nucleotide variant	NM_000435.3(NOTCH3):c.2815T>C (p.Cys939Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	1709076
+single nucleotide variant	NM_000435.3(NOTCH3):c.2963G>A (p.Cys988Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1709532
+single nucleotide variant	NM_000435.3(NOTCH3):c.547T>A (p.Cys183Ser)	4854	NOTCH3	Pathogenic	GRCh38	1709694
+single nucleotide variant	NM_000435.3(NOTCH3):c.3945C>G (p.Cys1315Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	1709822
+single nucleotide variant	NM_000435.3(NOTCH3):c.699T>G (p.Cys233Trp)	4854	NOTCH3	Pathogenic	GRCh38	1709971
+single nucleotide variant	NM_000435.3(NOTCH3):c.431G>T (p.Cys144Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1803216
+single nucleotide variant	NM_000435.3(NOTCH3):c.1791C>G (p.Cys597Trp)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	1805526
+single nucleotide variant	NM_000435.3(NOTCH3):c.1282T>C (p.Cys428Arg)	4854	NOTCH3	Pathogenic	GRCh38	1807351
+single nucleotide variant	NM_000435.3(NOTCH3):c.213G>C (p.Trp71Cys)	4854	NOTCH3	Pathogenic	GRCh38	1807353
+single nucleotide variant	NM_000435.3(NOTCH3):c.278G>A (p.Cys93Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1807362
+single nucleotide variant	NM_000435.3(NOTCH3):c.2798G>T (p.Cys933Phe)	4854	NOTCH3	Pathogenic	GRCh38	1807365
+single nucleotide variant	NM_000435.3(NOTCH3):c.1533C>G (p.Cys511Trp)	4854	NOTCH3	Pathogenic	GRCh38	1807381
+single nucleotide variant	NM_000435.3(NOTCH3):c.1646G>C (p.Cys549Ser)	4854	NOTCH3	Pathogenic	GRCh38	1807383
+single nucleotide variant	NM_000435.3(NOTCH3):c.3628C>T (p.Arg1210Cys)	4854	NOTCH3	Pathogenic	GRCh38	1807385
+single nucleotide variant	NM_000435.3(NOTCH3):c.502T>A (p.Cys168Ser)	4854	NOTCH3	Pathogenic	GRCh38	1807386
+single nucleotide variant	NM_000435.3(NOTCH3):c.664T>C (p.Cys222Arg)	4854	NOTCH3	Pathogenic	GRCh38	1807387
+single nucleotide variant	NM_000435.3(NOTCH3):c.3571T>C (p.Cys1191Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	1807391
+single nucleotide variant	NM_000435.3(NOTCH3):c.316T>A (p.Cys106Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	1807396
+single nucleotide variant	NM_000435.3(NOTCH3):c.199T>A (p.Cys67Ser)	4854	NOTCH3	Pathogenic	GRCh38	1807398
+single nucleotide variant	NM_000435.3(NOTCH3):c.968G>A (p.Cys323Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1807404
+single nucleotide variant	NM_000435.3(NOTCH3):c.1492+1G>A	4854	NOTCH3	Likely pathogenic	GRCh38	1809996
+single nucleotide variant	NM_000435.3(NOTCH3):c.322T>A (p.Cys108Ser)	4854	NOTCH3	Pathogenic	GRCh38	2138257
+single nucleotide variant	NM_000435.3(NOTCH3):c.550C>T (p.Gln184Ter)	4854	NOTCH3	Pathogenic	GRCh38	2201587
+single nucleotide variant	NM_000435.3(NOTCH3):c.341-1G>C	4854	NOTCH3	Pathogenic	GRCh38	1879844
+single nucleotide variant	NM_000435.3(NOTCH3):c.1136G>A (p.Cys379Tyr)	4854	NOTCH3	Pathogenic	GRCh38	1879845
+single nucleotide variant	NM_000435.3(NOTCH3):c.2903C>A (p.Ser968Ter)	4854	NOTCH3	Likely pathogenic	GRCh38	1895440
+single nucleotide variant	NM_000435.3(NOTCH3):c.1511G>A (p.Cys504Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	2002851
+single nucleotide variant	NM_000435.3(NOTCH3):c.1327C>T (p.Gln443Ter)	4854	NOTCH3	Pathogenic	GRCh38	2016229
+single nucleotide variant	NM_000435.3(NOTCH3):c.1184G>A (p.Cys395Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	2082702
+single nucleotide variant	NM_000435.3(NOTCH3):c.932G>A (p.Cys311Tyr)	4854	NOTCH3	Pathogenic	GRCh38	2498762
+single nucleotide variant	NM_000435.3(NOTCH3):c.1702T>C (p.Cys568Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	2501691
+single nucleotide variant	NM_000435.3(NOTCH3):c.169C>T (p.Gln57Ter)	4854	NOTCH3	Likely pathogenic	GRCh38	2503445
+single nucleotide variant	NM_000435.3(NOTCH3):c.1582G>T (p.Gly528Cys)	4854	NOTCH3	Pathogenic	GRCh38	2578822
+single nucleotide variant	NM_000435.3(NOTCH3):c.2129A>G (p.Tyr710Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	2637069
+single nucleotide variant	NM_000435.3(NOTCH3):c.449A>G (p.Tyr150Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	2649443
+single nucleotide variant	NM_000435.3(NOTCH3):c.484T>G (p.Cys162Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	2683096
+single nucleotide variant	NM_000435.3(NOTCH3):c.709G>T (p.Val237Leu)	4854	NOTCH3	Likely pathogenic	GRCh38	2683875
+single nucleotide variant	NM_000435.3(NOTCH3):c.1223G>A (p.Cys408Tyr)	4854	NOTCH3	Pathogenic	GRCh38	2684123
+single nucleotide variant	NM_000435.3(NOTCH3):c.1283G>T (p.Cys428Phe)	4854	NOTCH3	Pathogenic	GRCh38	2684124
+single nucleotide variant	NM_000435.3(NOTCH3):c.1369T>G (p.Cys457Gly)	4854	NOTCH3	Pathogenic	GRCh38	2684126
+single nucleotide variant	NM_000435.3(NOTCH3):c.1370G>A (p.Cys457Tyr)	4854	NOTCH3	Pathogenic	GRCh38	2684128
+single nucleotide variant	NM_000435.3(NOTCH3):c.1450T>A (p.Cys484Ser)	4854	NOTCH3	Pathogenic	GRCh38	2684129
+single nucleotide variant	NM_000435.3(NOTCH3):c.3044G>T (p.Cys1015Phe)	4854	NOTCH3	Pathogenic	GRCh38	2684135
+single nucleotide variant	NM_000435.3(NOTCH3):c.3783C>G (p.Cys1261Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	2684137
+single nucleotide variant	NM_000435.3(NOTCH3):c.665G>C (p.Cys222Ser)	4854	NOTCH3	Pathogenic	GRCh38	2684147
+single nucleotide variant	NM_000435.3(NOTCH3):c.1510T>G (p.Cys504Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	2707343
+single nucleotide variant	NM_000435.3(NOTCH3):c.1625G>A (p.Cys542Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	2736832
+single nucleotide variant	NM_000435.3(NOTCH3):c.1013G>T (p.Cys338Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	2736834
+single nucleotide variant	NM_000435.3(NOTCH3):c.751T>A (p.Cys251Ser)	4854	NOTCH3	Pathogenic	GRCh38	2736835
+single nucleotide variant	NM_000435.3(NOTCH3):c.617G>A (p.Cys206Tyr)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	2736837
+single nucleotide variant	NM_000435.3(NOTCH3):c.322T>C (p.Cys108Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	2736839
+single nucleotide variant	NM_000435.3(NOTCH3):c.931T>G (p.Cys311Gly)	4854	NOTCH3	Pathogenic	GRCh38	2856771
+single nucleotide variant	NM_000435.3(NOTCH3):c.2793-2A>G	4854	NOTCH3	Likely pathogenic	GRCh38	2909216
+single nucleotide variant	NM_000435.3(NOTCH3):c.634T>G (p.Cys212Gly)	4854	NOTCH3	Pathogenic	GRCh38	2915520
+single nucleotide variant	NM_000435.3(NOTCH3):c.341-2A>T	4854	NOTCH3	Pathogenic	GRCh38	2921222
+single nucleotide variant	NM_000435.3(NOTCH3):c.3009G>T (p.Trp1003Cys)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	2972905
+single nucleotide variant	NM_000435.3(NOTCH3):c.2228G>A (p.Cys743Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	3026520
+single nucleotide variant	NM_000435.3(NOTCH3):c.265G>T (p.Gly89Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	3026521
+single nucleotide variant	NM_000435.3(NOTCH3):c.565T>G (p.Tyr189Asp)	4854	NOTCH3	Likely pathogenic	GRCh38	3065040
+single nucleotide variant	NM_000435.3(NOTCH3):c.521G>C (p.Cys174Ser)	4854	NOTCH3	Pathogenic	GRCh38	3075663
+single nucleotide variant	NM_000435.3(NOTCH3):c.436T>G (p.Cys146Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	3255558
+single nucleotide variant	NM_000435.3(NOTCH3):c.1817G>A (p.Cys606Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	3340732
+single nucleotide variant	NM_000435.3(NOTCH3):c.484T>A (p.Cys162Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	3344835
+single nucleotide variant	NM_000435.3(NOTCH3):c.697T>C (p.Cys233Arg)	4854	NOTCH3	Pathogenic	GRCh38	3344085
+single nucleotide variant	NM_000435.3(NOTCH3):c.1019G>A (p.Cys340Tyr)	4854	NOTCH3	Pathogenic	GRCh38	3347760
+single nucleotide variant	NM_000435.3(NOTCH3):c.3106C>T (p.Arg1036Ter)	4854	NOTCH3	Likely pathogenic	GRCh38	3351050
+single nucleotide variant	NM_000435.3(NOTCH3):c.629G>A (p.Gly210Asp)	4854	NOTCH3	Likely pathogenic	GRCh38	3362470
+single nucleotide variant	NM_000435.3(NOTCH3):c.2876G>C (p.Cys959Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	3363188
+single nucleotide variant	NM_000435.3(NOTCH3):c.3045C>G (p.Cys1015Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	3380912
+single nucleotide variant	NM_000435.3(NOTCH3):c.1531T>C (p.Cys511Arg)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	3380914
+single nucleotide variant	NM_000435.3(NOTCH3):c.1370G>C (p.Cys457Ser)	4854	NOTCH3	Pathogenic	GRCh38	3380915
+single nucleotide variant	NM_000435.3(NOTCH3):c.522C>G (p.Cys174Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	3571546
+single nucleotide variant	NM_000435.3(NOTCH3):c.985T>C (p.Cys329Arg)	4854	NOTCH3	Pathogenic	GRCh38	3571598
+single nucleotide variant	NM_000435.3(NOTCH3):c.719G>C (p.Cys240Ser)	4854	NOTCH3	Pathogenic	GRCh38	3571601
+single nucleotide variant	NM_000435.3(NOTCH3):c.671G>T (p.Cys224Phe)	4854	NOTCH3	Pathogenic	GRCh38	3571606
+single nucleotide variant	NM_000435.3(NOTCH3):c.812G>T (p.Cys271Phe)	4854	NOTCH3	Pathogenic	GRCh38	3571609
+single nucleotide variant	NM_000435.3(NOTCH3):c.733T>A (p.Cys245Ser)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	3571610
+single nucleotide variant	NM_000435.3(NOTCH3):c.163T>G (p.Cys55Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	3572976
+single nucleotide variant	NM_000435.3(NOTCH3):c.2991C>A (p.Cys997Ter)	4854	NOTCH3	Pathogenic	GRCh38	3651902
+single nucleotide variant	NM_000435.3(NOTCH3):c.128G>T (p.Cys43Phe)	4854	NOTCH3	Pathogenic	GRCh38	3723477
+single nucleotide variant	NM_000435.3(NOTCH3):c.601T>C (p.Cys201Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	3777153
+single nucleotide variant	NM_000435.3(NOTCH3):c.382T>G (p.Cys128Gly)	4854	NOTCH3	Pathogenic	GRCh38	3899394
+single nucleotide variant	NM_000435.3(NOTCH3):c.953G>T (p.Cys318Phe)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	3899395
+single nucleotide variant	NM_000435.3(NOTCH3):c.245G>A (p.Cys82Tyr)	4854	NOTCH3	Likely pathogenic	GRCh38	3906853
+single nucleotide variant	NM_000435.3(NOTCH3):c.3313G>T (p.Gly1105Cys)	4854	NOTCH3	Likely pathogenic	GRCh38	4056504
+single nucleotide variant	NM_000435.3(NOTCH3):c.402C>G (p.Cys134Trp)	4854	NOTCH3	Pathogenic/Likely pathogenic	GRCh38	4057115
+single nucleotide variant	NM_000435.3(NOTCH3):c.438C>G (p.Cys146Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	4072414
+single nucleotide variant	NM_000435.3(NOTCH3):c.2203C>T (p.Arg735Ter)	4854	NOTCH3	Pathogenic	GRCh38	4076094
+single nucleotide variant	NM_000435.3(NOTCH3):c.2410G>T (p.Gly804Cys)	4854	NOTCH3	Pathogenic	GRCh38	4277433
+single nucleotide variant	NM_000435.3(NOTCH3):c.872G>A (p.Cys291Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4281622
+single nucleotide variant	NM_000435.3(NOTCH3):c.1012T>A (p.Cys338Ser)	4854	NOTCH3	Pathogenic	GRCh38	4281643
+single nucleotide variant	NM_000435.3(NOTCH3):c.671G>C (p.Cys224Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	4281645
+single nucleotide variant	NM_000435.3(NOTCH3):c.3097T>C (p.Cys1033Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	4281662
+single nucleotide variant	NM_000435.3(NOTCH3):c.401G>A (p.Cys134Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4281677
+single nucleotide variant	NM_000435.3(NOTCH3):c.127T>G (p.Cys43Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	4281689
+single nucleotide variant	NM_000435.3(NOTCH3):c.1346G>A (p.Arg449His)	4854	NOTCH3	Likely pathogenic	GRCh38	4293617
+single nucleotide variant	NM_000435.3(NOTCH3):c.1398C>G (p.Cys466Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	4536877
+single nucleotide variant	NM_000435.3(NOTCH3):c.1183T>C (p.Cys395Arg)	4854	NOTCH3	Likely pathogenic	GRCh38	4542328
+single nucleotide variant	NM_000435.3(NOTCH3):c.832T>C (p.Cys278Arg)	4854	NOTCH3	Pathogenic	GRCh38	4542329
+single nucleotide variant	NM_000435.3(NOTCH3):c.1303T>A (p.Cys435Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	4682144
+single nucleotide variant	NM_000435.3(NOTCH3):c.454G>T (p.Gly152Cys)	4854	NOTCH3	Pathogenic	GRCh38	4682145
+single nucleotide variant	NM_000435.3(NOTCH3):c.1478G>A (p.Cys493Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4682146
+single nucleotide variant	NM_000435.3(NOTCH3):c.1257C>G (p.Cys419Trp)	4854	NOTCH3	Pathogenic	GRCh38	4682147
+single nucleotide variant	NM_000435.3(NOTCH3):c.719G>T (p.Cys240Phe)	4854	NOTCH3	Pathogenic	GRCh38	4682148
+single nucleotide variant	NM_000435.3(NOTCH3):c.485G>A (p.Cys162Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4682149
+single nucleotide variant	NM_000435.3(NOTCH3):c.635G>A (p.Cys212Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4682150
+single nucleotide variant	NM_000435.3(NOTCH3):c.1013G>C (p.Cys338Ser)	4854	NOTCH3	Pathogenic	GRCh38	4682151
+single nucleotide variant	NM_000435.3(NOTCH3):c.5677C>T (p.Arg1893Ter)	4854	NOTCH3	Pathogenic	GRCh38	4686001
+single nucleotide variant	NM_000435.3(NOTCH3):c.307C>T (p.Arg103Ter)	4854	NOTCH3	Pathogenic	GRCh38	4687927
+single nucleotide variant	NM_000435.3(NOTCH3):c.635G>T (p.Cys212Phe)	4854	NOTCH3	Likely pathogenic	GRCh38	4710517
+single nucleotide variant	NM_000435.3(NOTCH3):c.4359C>A (p.Tyr1453Ter)	4854	NOTCH3	Pathogenic	GRCh38	4725027
+single nucleotide variant	NM_000435.3(NOTCH3):c.1163G>A (p.Cys388Tyr)	4854	NOTCH3	Pathogenic	GRCh38	4812867
+single nucleotide variant	NM_000435.3(NOTCH3):c.1962T>G (p.Cys654Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	4822675
+single nucleotide variant	NM_000435.3(NOTCH3):c.581G>C (p.Cys194Ser)	4854	NOTCH3	Pathogenic	GRCh38	4847731
+single nucleotide variant	NM_000435.3(NOTCH3):c.5362+2T>A	4854	NOTCH3	Likely pathogenic	GRCh38	4851589
+single nucleotide variant	NM_000435.3(NOTCH3):c.1363T>G (p.Cys455Gly)	4854	NOTCH3	Likely pathogenic	GRCh38	4884203
+single nucleotide variant	NM_000435.3(NOTCH3):c.1098T>G (p.Cys366Trp)	4854	NOTCH3	Likely pathogenic	GRCh38	4884207
+single nucleotide variant	NM_000435.3(NOTCH3):c.146G>C (p.Cys49Ser)	4854	NOTCH3	Likely pathogenic	GRCh38	4886417

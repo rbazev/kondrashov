@@ -6,6 +6,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.6574T>A (p.Tyr2192Asn)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.5902C>T (p.Arg1968Ter)	4763	NF1	Pathogenic	GRCh38	343
 single nucleotide variant	NM_001042492.3(NF1):c.4084C>T (p.Arg1362Ter)	4763	NF1	Pathogenic	GRCh38	344
 single nucleotide variant	NM_001042492.3(NF1):c.3113+1G>A	4763	NF1	Pathogenic	GRCh38	345
+single nucleotide variant	NM_001042492.3(NF1):c.3104T>G (p.Met1035Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	347
 single nucleotide variant	NM_001042492.3(NF1):c.4236A>T (p.Arg1412Ser)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	348
 single nucleotide variant	NM_001042492.3(NF1):c.4677G>A (p.Trp1559Ter)	4763	NF1	Pathogenic	GRCh38	350
 single nucleotide variant	NM_001042492.3(NF1):c.1642-8A>G	4763	NF1	Pathogenic	GRCh38	352
@@ -108,7 +109,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.1185+1G>A	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.2251+2T>G	4763	NF1	Pathogenic	GRCh38	219531
 single nucleotide variant	NM_001042492.3(NF1):c.3975-2A>G	4763	NF1	Pathogenic	GRCh38	220232
 single nucleotide variant	NM_001042492.3(NF1):c.4600C>T (p.Arg1534Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	220152
-single nucleotide variant	NM_001042492.3(NF1):c.5268+5G>A	4763	NF1	Pathogenic	GRCh38	220498
+single nucleotide variant	NM_001042492.3(NF1):c.5268+5G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	220498
 single nucleotide variant	NM_001042492.3(NF1):c.5521C>T (p.Gln1841Ter)	4763	NF1	Pathogenic	GRCh38	220317
 single nucleotide variant	NM_001042492.3(NF1):c.6922-2A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	220397
 single nucleotide variant	NM_001042492.3(NF1):c.5305C>T (p.Arg1769Ter)	4763	NF1	Pathogenic	GRCh38	228381
@@ -134,7 +135,6 @@ single nucleotide variant	NM_001042492.3(NF1):c.649G>T (p.Glu217Ter)	4763	NF1	Pa
 single nucleotide variant	NM_001042492.3(NF1):c.889-2A>G	4763	NF1	Pathogenic	GRCh38	237610
 single nucleotide variant	NM_001042492.3(NF1):c.1381C>T (p.Arg461Ter)	4763	NF1	Pathogenic	GRCh38	237514
 single nucleotide variant	NM_001042492.3(NF1):c.1527+1159C>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	237518
-single nucleotide variant	NM_001042492.3(NF1):c.1595T>G (p.Leu532Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	237521
 single nucleotide variant	NM_001042492.3(NF1):c.2352G>A (p.Trp784Ter)	4763	NF1	Pathogenic	GRCh38	237535
 single nucleotide variant	NM_001042492.3(NF1):c.3046T>C (p.Cys1016Arg)	4763	NF1	Pathogenic	GRCh38	237543
 single nucleotide variant	NM_001042492.3(NF1):c.3502G>C (p.Gly1168Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	237550
@@ -183,7 +183,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.5768C>G (p.Thr1923Arg)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.6705-1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	404573
 single nucleotide variant	NM_001042492.3(NF1):c.7314C>G (p.Tyr2438Ter)	4763	NF1	Pathogenic	GRCh38	404615
 single nucleotide variant	NM_001042492.3(NF1):c.6147+1G>A	4763	NF1	Pathogenic	GRCh38	404489
-single nucleotide variant	NM_001042492.3(NF1):c.6921+1G>A	4763	NF1	Pathogenic	GRCh38	404571
+single nucleotide variant	NM_001042492.3(NF1):c.6921+1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	404571
 single nucleotide variant	NM_001042492.3(NF1):c.7107G>A (p.Trp2369Ter)	4763	NF1	Pathogenic	GRCh38	404475
 single nucleotide variant	NM_001042492.3(NF1):c.7920T>G (p.Tyr2640Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	404544
 single nucleotide variant	NM_001042492.3(NF1):c.730+1G>C	4763	NF1	Pathogenic	GRCh38	404459
@@ -240,6 +240,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.2850+1G>T	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.3044T>C (p.Leu1015Pro)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428992
 single nucleotide variant	NM_001042492.3(NF1):c.3097C>T (p.Gln1033Ter)	4763	NF1	Pathogenic	GRCh38	428983
 single nucleotide variant	NM_001042492.3(NF1):c.3198-2A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428967
+single nucleotide variant	NM_001042492.3(NF1):c.3446T>G (p.Met1149Arg)	4763	NF1	Likely pathogenic	GRCh38	429001
 single nucleotide variant	NM_001042492.3(NF1):c.3870+1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428951
 single nucleotide variant	NM_001042492.3(NF1):c.3871-2A>G	4763	NF1	Pathogenic	GRCh38	428953
 single nucleotide variant	NM_001042492.3(NF1):c.4064C>G (p.Ser1355Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428965
@@ -253,6 +254,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.6302C>G (p.Pro2101Arg)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.6557C>G (p.Ser2186Ter)	4763	NF1	Pathogenic	GRCh38	428969
 single nucleotide variant	NM_001042492.3(NF1):c.6705-3C>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428955
 single nucleotide variant	NM_001042492.3(NF1):c.6715C>T (p.Gln2239Ter)	4763	NF1	Pathogenic	GRCh38	428972
+single nucleotide variant	NM_001042492.3(NF1):c.6818A>G (p.Lys2273Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428947
 single nucleotide variant	NM_001042492.3(NF1):c.6922-1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	428995
 single nucleotide variant	NM_001042492.3(NF1):c.6970C>T (p.Gln2324Ter)	4763	NF1	Pathogenic	GRCh38	428948
 single nucleotide variant	NM_001042492.3(NF1):c.7063-1G>T	4763	NF1	Pathogenic	GRCh38	428994
@@ -377,7 +379,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.6819+1G>A	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.4258T>C (p.Ser1420Pro)	4763	NF1	Likely pathogenic	GRCh38	457688
 single nucleotide variant	NM_001042492.3(NF1):c.587-2A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	457770
 single nucleotide variant	NM_001042492.3(NF1):c.4352A>T (p.Asn1451Ile)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	457695
-single nucleotide variant	NM_001042492.3(NF1):c.1721+1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	457545
+single nucleotide variant	NM_001042492.3(NF1):c.1721+1G>A	4763	NF1	Pathogenic	GRCh38	457545
 single nucleotide variant	NM_001042492.3(NF1):c.2252-1G>A	4763	NF1	Pathogenic	GRCh38	457575
 single nucleotide variant	NM_001042492.3(NF1):c.5610-2A>G	4763	NF1	Pathogenic	GRCh38	457756
 single nucleotide variant	NM_001042492.3(NF1):c.2537C>A (p.Ala846Asp)	4763	NF1	Pathogenic	GRCh38	457588
@@ -418,6 +420,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.7869+1G>A	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.5744T>C (p.Leu1915Pro)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	485963
 single nucleotide variant	NM_001042492.3(NF1):c.2002-2A>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	485945
 single nucleotide variant	NM_001042492.3(NF1):c.4078C>T (p.Gln1360Ter)	4763	NF1	Pathogenic	GRCh38	480204
+single nucleotide variant	NM_001042492.3(NF1):c.4247C>T (p.Pro1416Leu)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	484031
 single nucleotide variant	NM_001042492.3(NF1):c.4725-1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	484015
 single nucleotide variant	NM_001042492.3(NF1):c.6705-3C>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	481981
 single nucleotide variant	NM_001042492.3(NF1):c.7762C>T (p.Gln2588Ter)	4763	NF1	Pathogenic	GRCh38	484056
@@ -469,7 +472,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.3198-2A>T	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.3708+1G>T	4763	NF1	Pathogenic	GRCh38	527457
 single nucleotide variant	NM_001042492.3(NF1):c.6148-1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	527537
 single nucleotide variant	NM_001042492.3(NF1):c.6402T>A (p.Cys2134Ter)	4763	NF1	Pathogenic	GRCh38	527417
-single nucleotide variant	NM_001042492.3(NF1):c.3709-1G>A	4763	NF1	Pathogenic	GRCh38	527473
+single nucleotide variant	NM_001042492.3(NF1):c.3709-1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	527473
 single nucleotide variant	NM_001042492.3(NF1):c.3773G>A (p.Trp1258Ter)	4763	NF1	Pathogenic	GRCh38	527540
 single nucleotide variant	NM_001042492.3(NF1):c.4030G>T (p.Glu1344Ter)	4763	NF1	Pathogenic	GRCh38	527464
 single nucleotide variant	NM_001042492.3(NF1):c.7189+1G>A	4763	NF1	Pathogenic	GRCh38	527538
@@ -499,6 +502,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.959C>A (p.Ala320Asp)	4763	NF1	Li
 single nucleotide variant	NM_001042492.3(NF1):c.989C>T (p.Ala330Val)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547578
 single nucleotide variant	NM_001042492.3(NF1):c.1063-1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547580
 single nucleotide variant	NM_001042492.3(NF1):c.1393-1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547589
+single nucleotide variant	NM_001042492.3(NF1):c.1496T>G (p.Leu499Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547592
 single nucleotide variant	NM_001042492.3(NF1):c.1527+2T>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547593
 single nucleotide variant	NM_001042492.3(NF1):c.1540C>T (p.Gln514Ter)	4763	NF1	Pathogenic	GRCh38	547594
 single nucleotide variant	NM_001042492.3(NF1):c.1607C>A (p.Ser536Ter)	4763	NF1	Pathogenic	GRCh38	547596
@@ -526,7 +530,6 @@ single nucleotide variant	NM_001042492.3(NF1):c.4183C>T (p.Gln1395Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.4231C>G (p.Leu1411Val)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547642
 single nucleotide variant	NM_001042492.3(NF1):c.4306G>T (p.Glu1436Ter)	4763	NF1	Pathogenic	GRCh38	547643
 single nucleotide variant	NM_001042492.3(NF1):c.4430+1G>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547645
-single nucleotide variant	NM_001042492.3(NF1):c.4586A>G (p.Lys1529Arg)	4763	NF1	Pathogenic	GRCh38	547646
 single nucleotide variant	NM_001042492.3(NF1):c.4635C>G (p.Tyr1545Ter)	4763	NF1	Pathogenic	GRCh38	547647
 single nucleotide variant	NM_001042492.3(NF1):c.4821T>A (p.Tyr1607Ter)	4763	NF1	Likely pathogenic	GRCh38	547651
 single nucleotide variant	NM_001042492.3(NF1):c.4835+1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	547652
@@ -564,7 +567,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.6430G>T (p.Glu2144Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.6642G>C (p.Glu2214Asp)	4763	NF1	Likely pathogenic	GRCh38	561893
 single nucleotide variant	NM_001042492.3(NF1):c.6819+2T>A	4763	NF1	Pathogenic	GRCh38	561509
 single nucleotide variant	NM_001042492.3(NF1):c.7970+5G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	561510
-single nucleotide variant	NM_001042492.3(NF1):c.288+1G>T	4763	NF1	Pathogenic	GRCh38	571198
+single nucleotide variant	NM_001042492.3(NF1):c.288+1G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	571198
 single nucleotide variant	NM_001042492.3(NF1):c.557A>T (p.Asp186Val)	4763	NF1	Likely pathogenic	GRCh38	582722
 single nucleotide variant	NM_001042492.3(NF1):c.668G>A (p.Trp223Ter)	4763	NF1	Pathogenic	GRCh38	579648
 single nucleotide variant	NM_001042492.3(NF1):c.681T>A (p.Tyr227Ter)	4763	NF1	Pathogenic	GRCh38	580256
@@ -574,6 +577,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.1765C>T (p.Gln589Ter)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.1797G>A (p.Trp599Ter)	4763	NF1	Pathogenic	GRCh38	580246
 single nucleotide variant	NM_001042492.3(NF1):c.1845+1G>A	4763	NF1	Pathogenic	GRCh38	579615
 single nucleotide variant	NM_001042492.3(NF1):c.2990G>C (p.Arg997Thr)	4763	NF1	Pathogenic	GRCh38	568334
+single nucleotide variant	NM_001042492.3(NF1):c.3596C>T (p.Thr1199Ile)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	580044
 single nucleotide variant	NM_001042492.3(NF1):c.3641T>G (p.Met1214Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	570979
 single nucleotide variant	NM_001042492.3(NF1):c.4000G>T (p.Glu1334Ter)	4763	NF1	Pathogenic	GRCh38	565647
 single nucleotide variant	NM_001042492.3(NF1):c.4245T>A (p.Asn1415Lys)	4763	NF1	Pathogenic	GRCh38	566848
@@ -605,6 +609,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.2617C>G (p.Arg873Gly)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.3314+1G>A	4763	NF1	Pathogenic	GRCh38	573917
 single nucleotide variant	NM_001042492.3(NF1):c.7870-1G>A	4763	NF1	Pathogenic	GRCh38	572065
 single nucleotide variant	NM_001042492.3(NF1):c.3361G>T (p.Glu1121Ter)	4763	NF1	Pathogenic	GRCh38	577899
+single nucleotide variant	NM_001042492.3(NF1):c.4556G>A (p.Gly1519Glu)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	565475
 single nucleotide variant	NM_001042492.3(NF1):c.4711G>T (p.Glu1571Ter)	4763	NF1	Pathogenic	GRCh38	575667
 single nucleotide variant	NM_001042492.3(NF1):c.6700C>T (p.Gln2234Ter)	4763	NF1	Pathogenic	GRCh38	583019
 single nucleotide variant	NM_001042492.3(NF1):c.6921G>A (p.Lys2307=)	4763	NF1	Likely pathogenic	GRCh38	572995
@@ -647,7 +652,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.4798A>T (p.Lys1600Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.4824T>A (p.Tyr1608Ter)	4763	NF1	Pathogenic	GRCh38	620127
 single nucleotide variant	NM_001042492.3(NF1):c.5959C>T (p.Gln1987Ter)	4763	NF1	Pathogenic	GRCh38	620128
 single nucleotide variant	NM_001042492.3(NF1):c.4316T>A (p.Leu1439Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	623196
-single nucleotide variant	NM_001042492.3(NF1):c.1527+5G>T	4763	NF1	Likely pathogenic	GRCh38	624115
+single nucleotide variant	NM_001042492.3(NF1):c.1527+5G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	624115
 single nucleotide variant	NM_001042492.3(NF1):c.4405A>T (p.Lys1469Ter)	4763	NF1	Pathogenic	GRCh38	623894
 single nucleotide variant	NM_001042492.3(NF1):c.7278T>A (p.Cys2426Ter)	4763	NF1	Pathogenic	GRCh38	627518
 single nucleotide variant	NM_001042492.3(NF1):c.2329T>G (p.Trp777Gly)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	635519
@@ -670,7 +675,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.681T>G (p.Tyr227Ter)	4763	NF1	Pa
 single nucleotide variant	NM_001042492.3(NF1):c.715C>T (p.Gln239Ter)	4763	NF1	Pathogenic	GRCh38	658113
 single nucleotide variant	NM_001042492.3(NF1):c.787A>G (p.Lys263Glu)	4763	NF1	Likely pathogenic	GRCh38	652545
 single nucleotide variant	NM_001042492.3(NF1):c.808C>T (p.Gln270Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	664218
-single nucleotide variant	NM_001042492.3(NF1):c.972T>A (p.Cys324Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	662589
+single nucleotide variant	NM_001042492.3(NF1):c.972T>A (p.Cys324Ter)	4763	NF1	Pathogenic	GRCh38	662589
 single nucleotide variant	NM_001042492.3(NF1):c.999C>G (p.Tyr333Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	647719
 single nucleotide variant	NM_001042492.3(NF1):c.1174C>T (p.Gln392Ter)	4763	NF1	Pathogenic	GRCh38	640314
 single nucleotide variant	NM_001042492.3(NF1):c.1238C>A (p.Ser413Ter)	4763	NF1	Pathogenic	GRCh38	662203
@@ -758,7 +763,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.2553C>A (p.Cys851Ter)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.4700C>G (p.Ser1567Ter)	4763	NF1	Pathogenic	GRCh38	811172
 single nucleotide variant	NM_001042492.3(NF1):c.5609+5G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	810859
 single nucleotide variant	NM_001042492.3(NF1):c.7895A>G (p.Asp2632Gly)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	811226
-single nucleotide variant	NM_001042492.3(NF1):c.205-19T>A	4763	NF1	Pathogenic	GRCh38	816721
+single nucleotide variant	NM_001042492.3(NF1):c.205-19T>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	816721
 single nucleotide variant	NM_001042492.3(NF1):c.205-6T>A	4763	NF1	Pathogenic	GRCh38	816750
 single nucleotide variant	NM_001042492.3(NF1):c.480-8C>G	4763	NF1	Pathogenic	GRCh38	816722
 single nucleotide variant	NM_001042492.3(NF1):c.731-14T>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	816724
@@ -834,7 +839,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.3034A>T (p.Lys1012Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.3058G>T (p.Glu1020Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	839592
 single nucleotide variant	NM_001042492.3(NF1):c.3305T>G (p.Leu1102Ter)	4763	NF1	Pathogenic	GRCh38	836913
 single nucleotide variant	NM_001042492.3(NF1):c.3467A>C (p.Asn1156Thr)	4763	NF1	Likely pathogenic	GRCh38	849941
-single nucleotide variant	NM_001042492.3(NF1):c.3662T>G (p.Leu1221Arg)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	843506
+single nucleotide variant	NM_001042492.3(NF1):c.3662T>G (p.Leu1221Arg)	4763	NF1	Pathogenic	GRCh38	843506
 single nucleotide variant	NM_001042492.3(NF1):c.3755T>A (p.Leu1252Ter)	4763	NF1	Pathogenic	GRCh38	841346
 single nucleotide variant	NM_001042492.3(NF1):c.3846T>G (p.Ser1282Arg)	4763	NF1	Pathogenic	GRCh38	834998
 single nucleotide variant	NM_001042492.3(NF1):c.3892C>T (p.Gln1298Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	859602
@@ -906,6 +911,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.4536G>A (p.Trp1512Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.6675G>A (p.Trp2225Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	872184
 single nucleotide variant	NM_001042492.3(NF1):c.289-6T>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	873034
 single nucleotide variant	NM_001042492.3(NF1):c.1722-11T>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	873035
+single nucleotide variant	NM_001042492.3(NF1):c.7063-4A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	873037
 single nucleotide variant	NM_001042492.3(NF1):c.827T>A (p.Leu276Ter)	4763	NF1	Pathogenic	GRCh38	915297
 single nucleotide variant	NM_001042492.3(NF1):c.3315-2A>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	917573
 single nucleotide variant	NM_001042492.3(NF1):c.3432T>A (p.Cys1144Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	928870
@@ -987,6 +993,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.1062+2T>C	4763	NF1	Pathogenic/Li
 single nucleotide variant	NM_001042492.3(NF1):c.1185+1G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	962619
 single nucleotide variant	NM_001042492.3(NF1):c.1528-2A>G	4763	NF1	Likely pathogenic	GRCh38	960524
 single nucleotide variant	NM_001042492.3(NF1):c.2001+1G>A	4763	NF1	Likely pathogenic	GRCh38	956590
+single nucleotide variant	NM_001042492.3(NF1):c.3708+5G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	956531
 single nucleotide variant	NM_001042492.3(NF1):c.3975-2A>T	4763	NF1	Pathogenic	GRCh38	963827
 single nucleotide variant	NM_001042492.3(NF1):c.4578-2A>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	955585
 single nucleotide variant	NM_001042492.3(NF1):c.4835+2T>A	4763	NF1	Pathogenic	GRCh38	963576
@@ -1058,7 +1065,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.376G>T (p.Glu126Ter)	4763	NF1	Pa
 single nucleotide variant	NM_001042492.3(NF1):c.385C>T (p.Gln129Ter)	4763	NF1	Pathogenic	GRCh38	1048748
 single nucleotide variant	NM_001042492.3(NF1):c.501T>A (p.Cys167Ter)	4763	NF1	Pathogenic	GRCh38	1048706
 single nucleotide variant	NM_001042492.3(NF1):c.586G>T (p.Glu196Ter)	4763	NF1	Pathogenic	GRCh38	1048743
-single nucleotide variant	NM_001042492.3(NF1):c.654+2T>C	4763	NF1	Pathogenic	GRCh38	1048732
+single nucleotide variant	NM_001042492.3(NF1):c.654+2T>C	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1048732
 single nucleotide variant	NM_001042492.3(NF1):c.2858T>A (p.Leu953Ter)	4763	NF1	Pathogenic	GRCh38	1048719
 single nucleotide variant	NM_001042492.3(NF1):c.3114-1G>C	4763	NF1	Pathogenic	GRCh38	1048680
 single nucleotide variant	NM_001042492.3(NF1):c.3142T>C (p.Trp1048Arg)	4763	NF1	Pathogenic	GRCh38	1048711
@@ -1113,7 +1120,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.2353G>T (p.Glu785Ter)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.2398G>T (p.Glu800Ter)	4763	NF1	Pathogenic	GRCh38	1069058
 single nucleotide variant	NM_001042492.3(NF1):c.2409+2T>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1076968
 single nucleotide variant	NM_001042492.3(NF1):c.2410-2A>C	4763	NF1	Pathogenic	GRCh38	1072206
-single nucleotide variant	NM_001042492.3(NF1):c.2410-2A>G	4763	NF1	Pathogenic	GRCh38	1073903
+single nucleotide variant	NM_001042492.3(NF1):c.2410-2A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1073903
 single nucleotide variant	NM_001042492.3(NF1):c.2614G>T (p.Glu872Ter)	4763	NF1	Pathogenic	GRCh38	1068661
 single nucleotide variant	NM_001042492.3(NF1):c.2648C>A (p.Ser883Ter)	4763	NF1	Pathogenic	GRCh38	1074410
 single nucleotide variant	NM_001042492.3(NF1):c.3028C>T (p.Gln1010Ter)	4763	NF1	Pathogenic	GRCh38	1069645
@@ -1169,7 +1176,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.7802C>G (p.Ser2601Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.7869+2T>A	4763	NF1	Pathogenic	GRCh38	1070509
 single nucleotide variant	NM_001042492.3(NF1):c.7869+2T>C	4763	NF1	Pathogenic	GRCh38	1071331
 single nucleotide variant	NM_001042492.3(NF1):c.1186-2A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1173030
-single nucleotide variant	NM_001042492.3(NF1):c.6006+2T>G	4763	NF1	Pathogenic	GRCh38	1176683
+single nucleotide variant	NM_001042492.3(NF1):c.6006+2T>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1176683
 single nucleotide variant	NM_001042492.3(NF1):c.1392+1G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1177439
 single nucleotide variant	NM_001042492.3(NF1):c.7457+2T>G	4763	NF1	Likely pathogenic	GRCh38	1184517
 single nucleotide variant	NM_001042492.3(NF1):c.4724G>C (p.Arg1575Thr)	4763	NF1	Likely pathogenic	GRCh38	1191403
@@ -1243,6 +1250,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.6989T>A (p.Leu2330Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.4702A>T (p.Lys1568Ter)	4763	NF1	Pathogenic	GRCh38	1459418
 single nucleotide variant	NM_001042492.3(NF1):c.5402T>G (p.Leu1801Ter)	4763	NF1	Pathogenic	GRCh38	1378893
 single nucleotide variant	NM_001042492.3(NF1):c.3143G>A (p.Trp1048Ter)	4763	NF1	Pathogenic	GRCh38	1406314
+single nucleotide variant	NM_001042492.3(NF1):c.2850+2T>C	4763	NF1	Pathogenic	GRCh38	1500399
 single nucleotide variant	NM_001042492.3(NF1):c.3548T>G (p.Leu1183Arg)	4763	NF1	Pathogenic	GRCh38	1364528
 single nucleotide variant	NM_001042492.3(NF1):c.2087G>A (p.Trp696Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1364718
 single nucleotide variant	NM_001042492.3(NF1):c.2326-1G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1364775
@@ -1298,7 +1306,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.4724+1G>T	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.5269-38A>G	4763	NF1	Likely pathogenic	GRCh38	1467882
 single nucleotide variant	NM_001042492.3(NF1):c.3833A>T (p.Asn1278Ile)	4763	NF1	Likely pathogenic	GRCh38	1467922
 single nucleotide variant	NM_001042492.3(NF1):c.6826G>T (p.Glu2276Ter)	4763	NF1	Pathogenic	GRCh38	1427903
-single nucleotide variant	NM_001042492.3(NF1):c.3197+1G>T	4763	NF1	Pathogenic	GRCh38	1427919
+single nucleotide variant	NM_001042492.3(NF1):c.3197+1G>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	1427919
 single nucleotide variant	NM_001042492.3(NF1):c.3318C>G (p.Tyr1106Ter)	4763	NF1	Pathogenic	GRCh38	1427947
 single nucleotide variant	NM_001042492.3(NF1):c.3844A>C (p.Ser1282Arg)	4763	NF1	Pathogenic	GRCh38	1428038
 single nucleotide variant	NM_001042492.3(NF1):c.4328C>G (p.Ser1443Ter)	4763	NF1	Pathogenic	GRCh38	1428112
@@ -1441,7 +1449,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.4612A>T (p.Lys1538Ter)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.5266A>T (p.Lys1756Ter)	4763	NF1	Pathogenic	GRCh38	2137988
 single nucleotide variant	NM_001042492.3(NF1):c.5268+1G>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	2137989
 single nucleotide variant	NM_001042492.3(NF1):c.5606T>A (p.Leu1869Ter)	4763	NF1	Pathogenic	GRCh38	2137992
-single nucleotide variant	NM_001042492.3(NF1):c.6427+4A>G	4763	NF1	Pathogenic	GRCh38	2137994
+single nucleotide variant	NM_001042492.3(NF1):c.6427+4A>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	2137994
 single nucleotide variant	NM_001042492.3(NF1):c.6557C>A (p.Ser2186Ter)	4763	NF1	Pathogenic	GRCh38	2137996
 single nucleotide variant	NM_001042492.3(NF1):c.6902T>A (p.Leu2301Ter)	4763	NF1	Pathogenic	GRCh38	2137999
 single nucleotide variant	NM_001042492.3(NF1):c.7400C>G (p.Ser2467Ter)	4763	NF1	Pathogenic	GRCh38	2138002
@@ -1512,7 +1520,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.2143G>T (p.Glu715Ter)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.3650A>G (p.Asp1217Gly)	4763	NF1	Pathogenic	GRCh38	2099059
 single nucleotide variant	NM_001042492.3(NF1):c.5612C>G (p.Ser1871Ter)	4763	NF1	Pathogenic	GRCh38	2099068
 single nucleotide variant	NM_001042492.3(NF1):c.7156T>A (p.Phe2386Ile)	4763	NF1	Likely pathogenic	GRCh38	2103355
-single nucleotide variant	NM_001042492.3(NF1):c.6642G>T (p.Glu2214Asp)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	2111707
+single nucleotide variant	NM_001042492.3(NF1):c.6642G>T (p.Glu2214Asp)	4763	NF1	Pathogenic	GRCh38	2111707
 single nucleotide variant	NM_001042492.3(NF1):c.5630T>C (p.Leu1877Pro)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	2113703
 single nucleotide variant	NM_001042492.3(NF1):c.3650A>T (p.Asp1217Val)	4763	NF1	Likely pathogenic	GRCh38	2113725
 single nucleotide variant	NM_001042492.3(NF1):c.3089C>A (p.Ser1030Ter)	4763	NF1	Pathogenic	GRCh38	2115165
@@ -1577,7 +1585,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.1721+2T>C	4763	NF1	Pathogenic/Li
 single nucleotide variant	NM_001042492.3(NF1):c.2326-2A>T	4763	NF1	Pathogenic	GRCh38	2736524
 single nucleotide variant	NM_001042492.3(NF1):c.2620A>T (p.Lys874Ter)	4763	NF1	Pathogenic	GRCh38	2736530
 single nucleotide variant	NM_001042492.3(NF1):c.6642+26C>G	4763	NF1	Pathogenic	GRCh38	2737810
-single nucleotide variant	NM_001042492.3(NF1):c.4374A>C (p.Glu1458Asp)	4763	NF1	Pathogenic	GRCh38	2737137
+single nucleotide variant	NM_001042492.3(NF1):c.4374A>C (p.Glu1458Asp)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	2737137
 single nucleotide variant	NM_001042492.3(NF1):c.3314+1G>T	4763	NF1	Pathogenic	GRCh38	2744228
 single nucleotide variant	NM_001042492.3(NF1):c.4174-2A>C	4763	NF1	Pathogenic	GRCh38	2747450
 single nucleotide variant	NM_001042492.3(NF1):c.3053T>G (p.Leu1018Ter)	4763	NF1	Pathogenic	GRCh38	2736535
@@ -1760,7 +1768,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.3496+2T>A	4763	NF1	Pathogenic	GR
 single nucleotide variant	NM_001042492.3(NF1):c.4110+2T>A	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	3728484
 single nucleotide variant	NM_001042492.3(NF1):c.2851-14T>A	4763	NF1	Likely pathogenic	GRCh38	3722392
 single nucleotide variant	NM_001042492.3(NF1):c.1060A>T (p.Lys354Ter)	4763	NF1	Pathogenic	GRCh38	3722577
-single nucleotide variant	NM_001042492.3(NF1):c.1722-3C>G	4763	NF1	Pathogenic	GRCh38	3722595
+single nucleotide variant	NM_001042492.3(NF1):c.1722-3C>G	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	3722595
 single nucleotide variant	NM_001042492.3(NF1):c.1742T>G (p.Ile581Ser)	4763	NF1	Likely pathogenic	GRCh38	3722602
 single nucleotide variant	NM_001042492.3(NF1):c.2076C>G (p.Tyr692Ter)	4763	NF1	Pathogenic	GRCh38	3722617
 single nucleotide variant	NM_001042492.3(NF1):c.3496+2T>G	4763	NF1	Pathogenic	GRCh38	3722658
@@ -1810,7 +1818,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.5744T>A (p.Leu1915Gln)	4763	NF1	
 single nucleotide variant	NM_001042492.3(NF1):c.1393-523A>T	4763	NF1	Likely pathogenic	GRCh38	4119126
 single nucleotide variant	NM_001042492.3(NF1):c.4318A>T (p.Lys1440Ter)	4763	NF1	Pathogenic	GRCh38	4278012
 single nucleotide variant	NM_001042492.3(NF1):c.397G>T (p.Glu133Ter)	4763	NF1	Pathogenic	GRCh38	4280817
-single nucleotide variant	NM_001042492.3(NF1):c.6074C>G (p.Ser2025Ter)	4763	NF1	Likely pathogenic	GRCh38	4281692
+single nucleotide variant	NM_001042492.3(NF1):c.6074C>G (p.Ser2025Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	4281692
 single nucleotide variant	NM_001042492.3(NF1):c.2990+5G>T	4763	NF1	Likely pathogenic	GRCh38	4526647
 single nucleotide variant	NM_001042492.3(NF1):c.5813-281T>G	4763	NF1	Likely pathogenic	GRCh38	4528302
 single nucleotide variant	NM_001042492.3(NF1):c.1062+1G>C	4763	NF1	Pathogenic	GRCh38	4528340
@@ -1821,7 +1829,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.3974+5G>A	4763	NF1	Likely pathog
 single nucleotide variant	NM_001042492.3(NF1):c.2912T>A (p.Leu971Ter)	4763	NF1	Pathogenic	GRCh38	4615732
 single nucleotide variant	NM_001042492.3(NF1):c.288+1139T>A	4763	NF1	Likely pathogenic	GRCh38	4615748
 single nucleotide variant	NM_001042492.3(NF1):c.4563T>A (p.Tyr1521Ter)	4763	NF1	Pathogenic	GRCh38	4615776
-single nucleotide variant	NM_001042492.3(NF1):c.3895A>T (p.Lys1299Ter)	4763	NF1	Pathogenic	GRCh38	4615779
+single nucleotide variant	NM_001042492.3(NF1):c.3895A>T (p.Lys1299Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	4615779
 single nucleotide variant	NM_001042492.3(NF1):c.2254A>T (p.Arg752Ter)	4763	NF1	Pathogenic	GRCh38	4615836
 single nucleotide variant	NM_001042492.3(NF1):c.3762C>G (p.Tyr1254Ter)	4763	NF1	Pathogenic	GRCh38	4685750
 single nucleotide variant	NM_001042492.3(NF1):c.4902T>G (p.Tyr1634Ter)	4763	NF1	Pathogenic	GRCh38	4685816
@@ -1858,7 +1866,7 @@ single nucleotide variant	NM_001042492.3(NF1):c.1492A>T (p.Lys498Ter)	4763	NF1	P
 single nucleotide variant	NM_001042492.3(NF1):c.3114-2A>T	4763	NF1	Pathogenic	GRCh38	4739055
 single nucleotide variant	NM_001042492.3(NF1):c.1392+751T>G	4763	NF1	Pathogenic	GRCh38	4755549
 single nucleotide variant	NM_001042492.3(NF1):c.4598G>T (p.Arg1533Ile)	4763	NF1	Likely pathogenic	GRCh38	4755761
-single nucleotide variant	NM_001042492.3(NF1):c.5837T>A (p.Leu1946Ter)	4763	NF1	Likely pathogenic	GRCh38	4759299
+single nucleotide variant	NM_001042492.3(NF1):c.5837T>A (p.Leu1946Ter)	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	4759299
 single nucleotide variant	NM_001042492.3(NF1):c.3914T>G (p.Leu1305Ter)	4763	NF1	Pathogenic	GRCh38	4762943
 single nucleotide variant	NM_001042492.3(NF1):c.2002-1G>T	4763	NF1	Pathogenic	GRCh38	4760613
 single nucleotide variant	NM_001042492.3(NF1):c.6922-2A>C	4763	NF1	Pathogenic	GRCh38	4763885
@@ -1872,11 +1880,20 @@ single nucleotide variant	NM_001042492.3(NF1):c.350T>A (p.Ile117Asn)	4763	NF1	Pa
 single nucleotide variant	NM_001042492.3(NF1):c.1721+3A>T	4763	NF1	Pathogenic	GRCh38	4797567
 single nucleotide variant	NM_001042492.3(NF1):c.3571A>C (p.Thr1191Pro)	4763	NF1	Pathogenic	GRCh38	4800752
 single nucleotide variant	NM_001042492.3(NF1):c.889-7324A>G	4763	NF1	Pathogenic	GRCh38	4819709
-single nucleotide variant	NM_001042492.3(NF1):c.3315-2A>T	4763	NF1	Likely pathogenic	GRCh38	4823930
+single nucleotide variant	NM_001042492.3(NF1):c.3315-2A>T	4763	NF1	Pathogenic/Likely pathogenic	GRCh38	4823930
 single nucleotide variant	NM_001042492.3(NF1):c.331A>T (p.Lys111Ter)	4763	NF1	Pathogenic	GRCh38	4823933
 single nucleotide variant	NM_001042492.3(NF1):c.3837C>G (p.Ser1279Arg)	4763	NF1	Likely pathogenic	GRCh38	4845364
 single nucleotide variant	NM_001042492.3(NF1):c.4383G>T (p.Met1461Ile)	4763	NF1	Likely pathogenic	GRCh38	4845519
 single nucleotide variant	NM_001042492.3(NF1):c.6921+2T>G	4763	NF1	Likely pathogenic	GRCh38	4851866
 single nucleotide variant	NM_001042492.3(NF1):c.4888A>C (p.Thr1630Pro)	4763	NF1	Likely pathogenic	GRCh38	4852313
 single nucleotide variant	NM_001042492.3(NF1):c.5268+1G>C	4763	NF1	Pathogenic	GRCh38	4852314
-single nucleotide variant	NM_001042492.3(NF1):c.1392+1288A>G	4763	NF1	Pathogenic	GRCh38	4854810
+single nucleotide variant	NM_001042492.3(NF1):c.3829G>C (p.Gly1277Arg)	4763	NF1	Likely pathogenic	GRCh38	4856714
+single nucleotide variant	NM_001042492.3(NF1):c.6054T>A (p.Ser2018Arg)	4763	NF1	Likely pathogenic	GRCh38	4857316
+single nucleotide variant	NM_001042492.3(NF1):c.5651T>C (p.Phe1884Ser)	4763	NF1	Likely pathogenic	GRCh38	4857605
+single nucleotide variant	NM_001042492.3(NF1):c.586+5G>T	4763	NF1	Pathogenic	GRCh38	4857610
+single nucleotide variant	NM_001042492.3(NF1):c.3871-2A>T	4763	NF1	Pathogenic	GRCh38	4857614
+single nucleotide variant	NM_001042492.3(NF1):c.587-1G>A	4763	NF1	Likely pathogenic	GRCh38	4860849
+single nucleotide variant	NM_001042492.3(NF1):c.6705-20T>A	4763	NF1	Likely pathogenic	GRCh38	4860912
+single nucleotide variant	NM_001042492.3(NF1):c.2252-16T>A	4763	NF1	Likely pathogenic	GRCh38	4871837
+single nucleotide variant	NM_001042492.3(NF1):c.3974+2T>A	4763	NF1	Pathogenic	GRCh38	4874129
+single nucleotide variant	NM_001042492.3(NF1):c.60+508G>T	4763	NF1	Likely pathogenic	GRCh38	4876212

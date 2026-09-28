@@ -1,0 +1,84 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_153240.5(NPHP3):c.1079G>C (p.Ser360Thr)	27031	NPHP3	Pathogenic	GRCh38	2633
+single nucleotide variant	NM_153240.5(NPHP3):c.1381G>T (p.Glu461Ter)	27031	NPHP3	Pathogenic	GRCh38	2634
+single nucleotide variant	NM_153240.5(NPHP3):c.1729C>T (p.Arg577Ter)	27031	NPHP3	Pathogenic	GRCh38	2636
+single nucleotide variant	NM_153240.5(NPHP3):c.3340C>T (p.Gln1114Ter)	27031	NPHP3	Pathogenic	GRCh38	2638
+single nucleotide variant	NM_153240.5(NPHP3):c.2104C>T (p.Arg702Ter)	27031	NPHP3	Pathogenic	GRCh38	2640
+single nucleotide variant	NM_153240.5(NPHP3):c.2369T>C (p.Leu790Pro)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	96511
+single nucleotide variant	NM_153240.5(NPHP3):c.3373C>T (p.Arg1125Ter)	27031	NPHP3	Pathogenic	GRCh38	96516
+single nucleotide variant	NM_153240.5(NPHP3):c.2994G>A (p.Trp998Ter)	27031	NPHP3	Pathogenic	GRCh38	195630
+single nucleotide variant	NM_153240.5(NPHP3):c.1817G>A (p.Trp606Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	216136
+single nucleotide variant	NM_153240.5(NPHP3):c.988G>A (p.Glu330Lys)	27031	NPHP3	Pathogenic	GRCh38	216011
+single nucleotide variant	NM_153240.5(NPHP3):c.1920T>G (p.Asp640Glu)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	224989
+single nucleotide variant	NM_153240.5(NPHP3):c.2T>C (p.Met1Thr)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	280859
+single nucleotide variant	NM_153240.5(NPHP3):c.424C>T (p.Arg142Ter)	27031	NPHP3	Pathogenic	GRCh38	430726
+single nucleotide variant	NM_153240.5(NPHP3):c.60C>G (p.Tyr20Ter)	27031	NPHP3	Pathogenic	GRCh38	462730
+single nucleotide variant	NM_153240.5(NPHP3):c.1985+1G>A	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	462725
+single nucleotide variant	NM_153240.5(NPHP3):c.2311-2A>G	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	499565
+single nucleotide variant	NM_153240.5(NPHP3):c.3570+2T>A	27031	NPHP3	Pathogenic	GRCh38	500381
+single nucleotide variant	NM_153240.5(NPHP3):c.3309C>G (p.Tyr1103Ter)	27031	NPHP3	Pathogenic	GRCh38	573010
+single nucleotide variant	NM_153240.5(NPHP3):c.3129T>A (p.Tyr1043Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	570632
+single nucleotide variant	NM_153240.5(NPHP3):c.2563C>T (p.Gln855Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	571559
+single nucleotide variant	NM_153240.5(NPHP3):c.1888-2A>G	27031	NPHP3	Pathogenic	GRCh38	596519
+single nucleotide variant	NM_153240.5(NPHP3):c.1174C>T (p.Arg392Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	635041
+single nucleotide variant	NM_153240.5(NPHP3):c.3619C>T (p.Arg1207Ter)	27031	NPHP3	Pathogenic	GRCh38	693989
+single nucleotide variant	NM_153240.5(NPHP3):c.3406C>T (p.Gln1136Ter)	27031	NPHP3	Pathogenic	GRCh38	800889
+single nucleotide variant	NM_153240.5(NPHP3):c.520-1G>T	27031	NPHP3	Pathogenic	GRCh38	812666
+single nucleotide variant	NM_153240.5(NPHP3):c.958-2A>G	27031	NPHP3	Pathogenic	GRCh38	848816
+single nucleotide variant	NM_153240.5(NPHP3):c.3111C>G (p.Tyr1037Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	949269
+single nucleotide variant	NM_153240.5(NPHP3):c.2851C>T (p.Arg951Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	936828
+single nucleotide variant	NM_153240.5(NPHP3):c.3812+1G>T	27031	NPHP3	Pathogenic	GRCh38	944911
+single nucleotide variant	NM_153240.5(NPHP3):c.3820G>T (p.Gly1274Ter)	27031	NPHP3	Pathogenic	GRCh38	959343
+single nucleotide variant	NM_153240.5(NPHP3):c.1928C>T (p.Pro643Leu)	27031	NPHP3	Likely pathogenic	GRCh38	988261
+single nucleotide variant	NM_153240.5(NPHP3):c.2805C>T (p.Gly935=)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	996537
+single nucleotide variant	NM_153240.5(NPHP3):c.2570+1G>T	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	1029229
+single nucleotide variant	NM_153240.5(NPHP3):c.2311-1G>C	27031	NPHP3	Likely pathogenic	GRCh38	1066027
+single nucleotide variant	NM_153240.5(NPHP3):c.1628+2T>A	27031	NPHP3	Likely pathogenic	GRCh38	1067254
+single nucleotide variant	NM_153240.5(NPHP3):c.2387G>A (p.Trp796Ter)	27031	NPHP3	Pathogenic	GRCh38	1070974
+single nucleotide variant	NM_153240.5(NPHP3):c.1911G>A (p.Trp637Ter)	27031	NPHP3	Pathogenic	GRCh38	1070327
+single nucleotide variant	NM_153240.5(NPHP3):c.3757C>G (p.Leu1253Val)	27031	NPHP3	Likely pathogenic	GRCh38	1077017
+single nucleotide variant	NM_153240.5(NPHP3):c.2172-2A>G	27031	NPHP3	Likely pathogenic	GRCh38	1505761
+single nucleotide variant	NM_153240.5(NPHP3):c.393+1G>C	27031	NPHP3	Likely pathogenic	GRCh38	1466369
+single nucleotide variant	NM_153240.5(NPHP3):c.3775C>T (p.Arg1259Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	1454640
+single nucleotide variant	NM_153240.5(NPHP3):c.2171+1G>A	27031	NPHP3	Likely pathogenic	GRCh38	1347165
+single nucleotide variant	NM_153240.5(NPHP3):c.2694-2A>T	27031	NPHP3	Likely pathogenic	GRCh38	1524627
+single nucleotide variant	NM_153240.5(NPHP3):c.3439G>T (p.Glu1147Ter)	27031	NPHP3	Pathogenic	GRCh38	1376656
+single nucleotide variant	NM_153240.5(NPHP3):c.2985C>G (p.Tyr995Ter)	27031	NPHP3	Pathogenic	GRCh38	1410318
+single nucleotide variant	NM_153240.5(NPHP3):c.1761G>A (p.Trp587Ter)	27031	NPHP3	Likely pathogenic	GRCh38	1705947
+single nucleotide variant	NM_153240.5(NPHP3):c.2218C>T (p.Gln740Ter)	27031	NPHP3	Pathogenic	GRCh38	2149097
+single nucleotide variant	NM_153240.5(NPHP3):c.2172-2A>C	27031	NPHP3	Likely pathogenic	GRCh38	2195063
+single nucleotide variant	NM_153240.5(NPHP3):c.1531C>T (p.Gln511Ter)	27031	NPHP3	Pathogenic/Likely pathogenic	GRCh38	2416723
+single nucleotide variant	NM_153240.5(NPHP3):c.391C>T (p.Gln131Ter)	27031	NPHP3	Pathogenic	GRCh38	1924475
+single nucleotide variant	NM_153240.5(NPHP3):c.1289C>G (p.Ser430Ter)	27031	NPHP3	Pathogenic	GRCh38	2019407
+single nucleotide variant	NM_153240.5(NPHP3):c.457C>T (p.Gln153Ter)	27031	NPHP3	Pathogenic	GRCh38	2046968
+single nucleotide variant	NM_153240.5(NPHP3):c.1124T>A (p.Leu375Ter)	27031	NPHP3	Pathogenic	GRCh38	2075621
+single nucleotide variant	NM_153240.5(NPHP3):c.273C>A (p.Tyr91Ter)	27031	NPHP3	Pathogenic	GRCh38	2088304
+single nucleotide variant	NM_153240.5(NPHP3):c.1706C>G (p.Ser569Ter)	27031	NPHP3	Pathogenic	GRCh38	2126113
+single nucleotide variant	NM_153240.5(NPHP3):c.3201+2T>G	27031	NPHP3	Likely pathogenic	GRCh38	2132626
+single nucleotide variant	NM_153240.5(NPHP3):c.1598G>A (p.Gly533Asp)	27031	NPHP3	Likely pathogenic	GRCh38	2498164
+single nucleotide variant	NM_153240.5(NPHP3):c.3020T>G (p.Leu1007Arg)	27031	NPHP3	Likely pathogenic	GRCh38	2498938
+single nucleotide variant	NM_153240.5(NPHP3):c.3466G>T (p.Glu1156Ter)	27031	NPHP3	Likely pathogenic	GRCh38	2584826
+single nucleotide variant	NM_153240.5(NPHP3):c.748C>T (p.Gln250Ter)	27031	NPHP3	Pathogenic	GRCh38	2681759
+single nucleotide variant	NM_153240.5(NPHP3):c.1525-2A>G	27031	NPHP3	Likely pathogenic	GRCh38	2919893
+single nucleotide variant	NM_153240.5(NPHP3):c.3118C>T (p.Gln1040Ter)	27031	NPHP3	Pathogenic	GRCh38	3001017
+single nucleotide variant	NM_153240.5(NPHP3):c.3726T>A (p.Tyr1242Ter)	27031	NPHP3	Pathogenic	GRCh38	3019092
+single nucleotide variant	NM_153240.5(NPHP3):c.2917C>T (p.Arg973Ter)	27031	NPHP3	Pathogenic	GRCh38	3075695
+single nucleotide variant	NM_153240.5(NPHP3):c.519+2T>C	27031	NPHP3	Pathogenic	GRCh38	3250079
+single nucleotide variant	NM_153240.5(NPHP3):c.3028C>T (p.Gln1010Ter)	27031	NPHP3	Likely pathogenic	GRCh38	3346966
+single nucleotide variant	NM_153240.5(NPHP3):c.742C>T (p.Gln248Ter)	27031	NPHP3	Likely pathogenic	GRCh38	3344254
+single nucleotide variant	NM_153240.5(NPHP3):c.644C>A (p.Ser215Ter)	27031	NPHP3	Pathogenic	GRCh38	3348653
+single nucleotide variant	NM_153240.5(NPHP3):c.3201+1G>T	27031	NPHP3	Likely pathogenic	GRCh38	3588525
+single nucleotide variant	NM_153240.5(NPHP3):c.1468C>T (p.Gln490Ter)	27031	NPHP3	Likely pathogenic	GRCh38	3588554
+single nucleotide variant	NM_153240.5(NPHP3):c.823+1G>T	27031	NPHP3	Likely pathogenic	GRCh38	3588571
+single nucleotide variant	NM_153240.5(NPHP3):c.544G>T (p.Glu182Ter)	27031	NPHP3	Likely pathogenic	GRCh38	3588577
+single nucleotide variant	NM_153240.5(NPHP3):c.326T>A (p.Leu109Ter)	27031	NPHP3	Likely pathogenic	GRCh38	3588584
+single nucleotide variant	NM_153240.5(NPHP3):c.14C>A (p.Ser5Ter)	27031	NPHP3	Pathogenic	GRCh38	3684808
+single nucleotide variant	NM_153240.5(NPHP3):c.823+1G>A	27031	NPHP3	Likely pathogenic	GRCh38	3718538
+single nucleotide variant	NM_153240.5(NPHP3):c.2214T>A (p.Cys738Ter)	27031	NPHP3	Pathogenic	GRCh38	3727221
+single nucleotide variant	NM_153240.5(NPHP3):c.3813-3A>G	27031	NPHP3	Pathogenic	GRCh38	3902444
+single nucleotide variant	NM_153240.5(NPHP3):c.3329+4A>G	27031	NPHP3	Likely pathogenic	GRCh38	4681197
+single nucleotide variant	NM_153240.5(NPHP3):c.3448C>T (p.Gln1150Ter)	27031	NPHP3	Pathogenic	GRCh38	4694669
+single nucleotide variant	NM_153240.5(NPHP3):c.3057T>A (p.Tyr1019Ter)	27031	NPHP3	Pathogenic	GRCh38	4733554
+single nucleotide variant	NM_153240.5(NPHP3):c.2570+1G>A	27031	NPHP3	Likely pathogenic	GRCh38	4750374
+single nucleotide variant	NM_153240.5(NPHP3):c.2237C>G (p.Ser746Ter)	27031	NPHP3	Pathogenic	GRCh38	4808992
+single nucleotide variant	NM_153240.5(NPHP3):c.274G>T (p.Glu92Ter)	27031	NPHP3	Pathogenic	GRCh38	4879701

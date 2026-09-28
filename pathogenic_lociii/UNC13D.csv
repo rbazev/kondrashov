@@ -15,7 +15,7 @@ single nucleotide variant	NM_199242.3(UNC13D):c.118-308C>T	201294	UNC13D	Pathoge
 single nucleotide variant	NM_199242.3(UNC13D):c.1472T>A (p.Leu491Ter)	201294	UNC13D	Pathogenic	GRCh38	533091
 single nucleotide variant	NM_199242.3(UNC13D):c.1240C>T (p.Arg414Cys)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	533094
 single nucleotide variant	NM_199242.3(UNC13D):c.2293G>T (p.Glu765Ter)	201294	UNC13D	Pathogenic	GRCh38	580834
-single nucleotide variant	NM_199242.3(UNC13D):c.1768C>T (p.Gln590Ter)	201294	UNC13D	Pathogenic	GRCh38	573522
+single nucleotide variant	NM_199242.3(UNC13D):c.1768C>T (p.Gln590Ter)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	573522
 single nucleotide variant	NM_199242.3(UNC13D):c.3173T>C (p.Leu1058Pro)	201294	UNC13D	Likely pathogenic	GRCh38	570304
 single nucleotide variant	NM_199242.3(UNC13D):c.247C>T (p.Arg83Ter)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	631788
 single nucleotide variant	NM_199242.3(UNC13D):c.520C>T (p.Gln174Ter)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	664792
@@ -46,21 +46,21 @@ single nucleotide variant	NM_199242.3(UNC13D):c.322-2A>T	201294	UNC13D	Pathogeni
 single nucleotide variant	NM_199242.3(UNC13D):c.640C>T (p.Arg214Ter)	201294	UNC13D	Pathogenic	GRCh38	1454697
 single nucleotide variant	NM_199242.3(UNC13D):c.817C>T (p.Arg273Ter)	201294	UNC13D	Pathogenic	GRCh38	1400833
 single nucleotide variant	NM_199242.3(UNC13D):c.2709+2T>A	201294	UNC13D	Pathogenic	GRCh38	1349251
-single nucleotide variant	NM_199242.3(UNC13D):c.2851C>T (p.Gln951Ter)	201294	UNC13D	Pathogenic	GRCh38	1420143
+single nucleotide variant	NM_199242.3(UNC13D):c.2851C>T (p.Gln951Ter)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	1420143
 single nucleotide variant	NM_199242.3(UNC13D):c.1612C>T (p.Gln538Ter)	201294	UNC13D	Pathogenic	GRCh38	1687358
 single nucleotide variant	NM_199242.3(UNC13D):c.1947G>A (p.Trp649Ter)	201294	UNC13D	Pathogenic	GRCh38	1694206
 single nucleotide variant	NM_199242.3(UNC13D):c.2258G>T (p.Gly753Val)	201294	UNC13D	Likely pathogenic	GRCh38	1694207
 single nucleotide variant	NM_199242.3(UNC13D):c.2261A>C (p.His754Pro)	201294	UNC13D	Likely pathogenic	GRCh38	1694209
 single nucleotide variant	NM_199242.3(UNC13D):c.570-2A>T	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	1694217
 single nucleotide variant	NM_199242.3(UNC13D):c.3053C>A (p.Ala1018Asp)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	1810215
-single nucleotide variant	NM_199242.3(UNC13D):c.570-2A>G	201294	UNC13D	Likely pathogenic	GRCh38	2182491
+single nucleotide variant	NM_199242.3(UNC13D):c.570-2A>G	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	2182491
 single nucleotide variant	NM_199242.3(UNC13D):c.2447+2T>C	201294	UNC13D	Likely pathogenic	GRCh38	2185334
 single nucleotide variant	NM_199242.3(UNC13D):c.683+1G>A	201294	UNC13D	Likely pathogenic	GRCh38	2177564
 single nucleotide variant	NM_199242.3(UNC13D):c.2434G>T (p.Glu812Ter)	201294	UNC13D	Pathogenic	GRCh38	2030809
 single nucleotide variant	NM_199242.3(UNC13D):c.321+2T>G	201294	UNC13D	Likely pathogenic	GRCh38	2101869
 single nucleotide variant	NM_199242.3(UNC13D):c.2704C>T (p.Gln902Ter)	201294	UNC13D	Pathogenic	GRCh38	2131281
 single nucleotide variant	NM_199242.3(UNC13D):c.469C>T (p.Gln157Ter)	201294	UNC13D	Likely pathogenic	GRCh38	2501020
-single nucleotide variant	NM_199242.3(UNC13D):c.151C>T (p.Gln51Ter)	201294	UNC13D	Pathogenic	GRCh38	2695791
+single nucleotide variant	NM_199242.3(UNC13D):c.151C>T (p.Gln51Ter)	201294	UNC13D	Pathogenic/Likely pathogenic	GRCh38	2695791
 single nucleotide variant	NM_199242.3(UNC13D):c.952-2A>G	201294	UNC13D	Likely pathogenic	GRCh38	2709285
 single nucleotide variant	NM_199242.3(UNC13D):c.2709+1G>T	201294	UNC13D	Pathogenic	GRCh38	2708452
 single nucleotide variant	NM_199242.3(UNC13D):c.1045C>T (p.Gln349Ter)	201294	UNC13D	Pathogenic	GRCh38	2715203
@@ -104,3 +104,9 @@ single nucleotide variant	NM_199242.3(UNC13D):c.1597-1G>T	201294	UNC13D	Pathogen
 single nucleotide variant	NM_199242.3(UNC13D):c.2954+2T>C	201294	UNC13D	Pathogenic	GRCh38	4528365
 single nucleotide variant	NM_199242.3(UNC13D):c.2955-2A>G	201294	UNC13D	Likely pathogenic	GRCh38	4710427
 single nucleotide variant	NM_199242.3(UNC13D):c.2062C>T (p.Gln688Ter)	201294	UNC13D	Pathogenic	GRCh38	4728639
+single nucleotide variant	NM_199242.3(UNC13D):c.2709+2T>G	201294	UNC13D	Likely pathogenic	GRCh38	4884556
+single nucleotide variant	NM_199242.3(UNC13D):c.2650C>T (p.Gln884Ter)	201294	UNC13D	Pathogenic	GRCh38	4888760
+single nucleotide variant	NM_199242.3(UNC13D):c.2685C>G (p.Tyr895Ter)	201294	UNC13D	Likely pathogenic	GRCh38	4889839
+single nucleotide variant	NM_199242.3(UNC13D):c.1787G>A (p.Trp596Ter)	201294	UNC13D	Likely pathogenic	GRCh38	4889840
+single nucleotide variant	NM_199242.3(UNC13D):c.1407G>A (p.Trp469Ter)	201294	UNC13D	Likely pathogenic	GRCh38	4889841
+single nucleotide variant	NM_199242.3(UNC13D):c.2954+5G>A	201294	UNC13D	Likely pathogenic	GRCh38	4890090

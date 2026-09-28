@@ -1,0 +1,79 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_020297.4(ABCC9):c.4537G>A (p.Ala1513Thr)	10060	ABCC9	Pathogenic	GRCh38	8162
+single nucleotide variant	NM_020297.4(ABCC9):c.3460C>T (p.Arg1154Trp)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	31946
+single nucleotide variant	NM_020297.4(ABCC9):c.3461G>A (p.Arg1154Gln)	10060	ABCC9	Pathogenic	GRCh38	31947
+single nucleotide variant	NM_020297.4(ABCC9):c.3128G>A (p.Cys1043Tyr)	10060	ABCC9	Pathogenic	GRCh38	31948
+single nucleotide variant	NM_020297.4(ABCC9):c.1433C>T (p.Ala478Val)	10060	ABCC9	Likely pathogenic	GRCh38	31949
+single nucleotide variant	NM_020297.4(ABCC9):c.3347G>A (p.Arg1116His)	10060	ABCC9	Pathogenic	GRCh38	35533
+single nucleotide variant	NM_020297.4(ABCC9):c.3346C>T (p.Arg1116Cys)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	35534
+single nucleotide variant	NM_020297.4(ABCC9):c.3058T>C (p.Ser1020Pro)	10060	ABCC9	Pathogenic	GRCh38	35535
+single nucleotide variant	NM_020297.4(ABCC9):c.178C>T (p.His60Tyr)	10060	ABCC9	Pathogenic	GRCh38	35536
+single nucleotide variant	NM_020297.4(ABCC9):c.2554C>T (p.Gln852Ter)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	35629
+single nucleotide variant	NM_020297.4(ABCC9):c.3520C>T (p.His1174Tyr)	10060	ABCC9	Likely pathogenic	GRCh38	191032
+single nucleotide variant	NM_020297.4(ABCC9):c.1165-2A>G	10060	ABCC9	Likely pathogenic	GRCh38	240201
+single nucleotide variant	NM_020297.4(ABCC9):c.3460C>G (p.Arg1154Gly)	10060	ABCC9	Pathogenic	GRCh38	265666
+single nucleotide variant	NM_020297.4(ABCC9):c.878T>C (p.Phe293Ser)	10060	ABCC9	Likely pathogenic	GRCh38	369679
+single nucleotide variant	NM_020297.4(ABCC9):c.4407T>G (p.Ile1469Met)	10060	ABCC9	Likely pathogenic	GRCh38	384013
+single nucleotide variant	NM_020297.4(ABCC9):c.3347G>T (p.Arg1116Leu)	10060	ABCC9	Likely pathogenic	GRCh38	387946
+single nucleotide variant	NM_020297.4(ABCC9):c.2378A>T (p.Asp793Val)	10060	ABCC9	Likely pathogenic	GRCh38	383474
+single nucleotide variant	NM_020297.4(ABCC9):c.3656T>G (p.Leu1219Arg)	10060	ABCC9	Likely pathogenic	GRCh38	420904
+single nucleotide variant	NM_020297.4(ABCC9):c.3637T>G (p.Ser1213Ala)	10060	ABCC9	Likely pathogenic	GRCh38	420903
+single nucleotide variant	NM_020297.4(ABCC9):c.1385T>C (p.Val462Ala)	10060	ABCC9	Likely pathogenic	GRCh38	421386
+single nucleotide variant	NM_020297.4(ABCC9):c.3796G>A (p.Val1266Met)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	464667
+single nucleotide variant	NM_020297.4(ABCC9):c.2019+2T>C	10060	ABCC9	Likely pathogenic	GRCh38	487597
+single nucleotide variant	NM_020297.4(ABCC9):c.3650G>A (p.Arg1217Lys)	10060	ABCC9	Likely pathogenic	GRCh38	545440
+single nucleotide variant	NM_020297.4(ABCC9):c.1703C>T (p.Pro568Leu)	10060	ABCC9	Likely pathogenic	GRCh38	666318
+single nucleotide variant	NM_020297.4(ABCC9):c.4450-1G>A	10060	ABCC9	Likely pathogenic	GRCh38	837050
+single nucleotide variant	NM_020297.4(ABCC9):c.1911+1G>A	10060	ABCC9	Likely pathogenic	GRCh38	933981
+single nucleotide variant	NM_020297.4(ABCC9):c.2425-1G>T	10060	ABCC9	Likely pathogenic	GRCh38	958344
+single nucleotide variant	NM_020297.4(ABCC9):c.2198+1G>T	10060	ABCC9	Likely pathogenic	GRCh38	964592
+single nucleotide variant	NM_020297.4(ABCC9):c.3190G>C (p.Ala1064Pro)	10060	ABCC9	Likely pathogenic	GRCh38	973522
+single nucleotide variant	NM_020297.4(ABCC9):c.2721T>G (p.Tyr907Ter)	10060	ABCC9	Pathogenic	GRCh38	1000443
+single nucleotide variant	NM_020297.4(ABCC9):c.2371C>T (p.Gln791Ter)	10060	ABCC9	Pathogenic	GRCh38	1022992
+single nucleotide variant	NM_020297.4(ABCC9):c.2826T>G (p.Tyr942Ter)	10060	ABCC9	Pathogenic	GRCh38	1044828
+single nucleotide variant	NM_020297.4(ABCC9):c.3203T>C (p.Leu1068Pro)	10060	ABCC9	Likely pathogenic	GRCh38	1175176
+single nucleotide variant	NM_020297.4(ABCC9):c.3605C>T (p.Thr1202Met)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	1323823
+single nucleotide variant	NM_020297.4(ABCC9):c.2954A>C (p.Tyr985Ser)	10060	ABCC9	Pathogenic	GRCh38	2663857
+single nucleotide variant	NM_020297.4(ABCC9):c.4039C>T (p.Arg1347Cys)	10060	ABCC9	Likely pathogenic	GRCh38	3764087
+single nucleotide variant	NM_020297.4(ABCC9):c.2199-1G>A	10060	ABCC9	Likely pathogenic	GRCh38	1418960
+single nucleotide variant	NM_020297.4(ABCC9):c.1321-2A>G	10060	ABCC9	Likely pathogenic	GRCh38	1485362
+single nucleotide variant	NM_020297.4(ABCC9):c.620A>C (p.Asp207Ala)	10060	ABCC9	Likely pathogenic	GRCh38	1404740
+single nucleotide variant	NM_020297.4(ABCC9):c.1619-2A>G	10060	ABCC9	Likely pathogenic	GRCh38	1366444
+single nucleotide variant	NM_020297.4(ABCC9):c.1867G>T (p.Glu623Ter)	10060	ABCC9	Pathogenic	GRCh38	1482842
+single nucleotide variant	NM_020297.4(ABCC9):c.1164+1G>T	10060	ABCC9	Likely pathogenic	GRCh38	1499130
+single nucleotide variant	NM_020297.4(ABCC9):c.1803-1G>A	10060	ABCC9	Likely pathogenic	GRCh38	1381567
+single nucleotide variant	NM_020297.4(ABCC9):c.2237+1G>C	10060	ABCC9	Likely pathogenic	GRCh38	1465409
+single nucleotide variant	NM_020297.4(ABCC9):c.4211+2T>C	10060	ABCC9	Likely pathogenic	GRCh38	1355082
+single nucleotide variant	NM_020297.4(ABCC9):c.2506-1G>A	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	1705465
+single nucleotide variant	NM_020297.4(ABCC9):c.3346C>G (p.Arg1116Gly)	10060	ABCC9	Pathogenic	GRCh38	1711337
+single nucleotide variant	NM_020297.4(ABCC9):c.2444G>C (p.Gly815Ala)	10060	ABCC9	Pathogenic	GRCh38	1712081
+single nucleotide variant	NM_020297.4(ABCC9):c.632T>G (p.Leu211Arg)	10060	ABCC9	Likely pathogenic	GRCh38	1752900
+single nucleotide variant	NM_020297.4(ABCC9):c.4375C>T (p.Leu1459Phe)	10060	ABCC9	Likely pathogenic	GRCh38	1803134
+single nucleotide variant	NM_020297.4(ABCC9):c.2625T>A (p.Tyr875Ter)	10060	ABCC9	Pathogenic	GRCh38	2004320
+single nucleotide variant	NM_020297.4(ABCC9):c.2828C>G (p.Ser943Ter)	10060	ABCC9	Pathogenic	GRCh38	2008293
+single nucleotide variant	NM_020297.4(ABCC9):c.1320+2T>G	10060	ABCC9	Pathogenic	GRCh38	2018281
+single nucleotide variant	NM_020297.4(ABCC9):c.3586C>T (p.Gln1196Ter)	10060	ABCC9	Pathogenic	GRCh38	2023230
+single nucleotide variant	NM_020297.4(ABCC9):c.565C>T (p.Arg189Ter)	10060	ABCC9	Pathogenic	GRCh38	2059714
+single nucleotide variant	NM_020297.4(ABCC9):c.2966G>A (p.Gly989Glu)	10060	ABCC9	Pathogenic/Likely pathogenic	GRCh38	2633610
+single nucleotide variant	NM_020297.4(ABCC9):c.1618+1G>A	10060	ABCC9	Likely pathogenic	GRCh38	2780156
+single nucleotide variant	NM_020297.4(ABCC9):c.1802+1G>T	10060	ABCC9	Likely pathogenic	GRCh38	2810658
+single nucleotide variant	NM_020297.4(ABCC9):c.2099T>G (p.Leu700Ter)	10060	ABCC9	Pathogenic	GRCh38	2842642
+single nucleotide variant	NM_020297.4(ABCC9):c.1266T>G (p.Asn422Lys)	10060	ABCC9	Pathogenic	GRCh38	2861982
+single nucleotide variant	NM_020297.4(ABCC9):c.3917G>A (p.Trp1306Ter)	10060	ABCC9	Pathogenic	GRCh38	3390249
+single nucleotide variant	NM_020297.4(ABCC9):c.1529G>A (p.Trp510Ter)	10060	ABCC9	Pathogenic	GRCh38	3627317
+single nucleotide variant	NM_020297.4(ABCC9):c.284+1G>A	10060	ABCC9	Likely pathogenic	GRCh38	3619840
+single nucleotide variant	NM_020297.4(ABCC9):c.3892+2T>C	10060	ABCC9	Likely pathogenic	GRCh38	3631543
+single nucleotide variant	NM_020297.4(ABCC9):c.2867-1G>A	10060	ABCC9	Likely pathogenic	GRCh38	3667626
+single nucleotide variant	NM_020297.4(ABCC9):c.4315+2T>C	10060	ABCC9	Likely pathogenic	GRCh38	3725970
+single nucleotide variant	NM_020297.4(ABCC9):c.2340-2A>G	10060	ABCC9	Pathogenic	GRCh38	4085998
+single nucleotide variant	NM_020297.4(ABCC9):c.4212-1G>T	10060	ABCC9	Likely pathogenic	GRCh38	4292746
+single nucleotide variant	NM_020297.4(ABCC9):c.2857G>T (p.Glu953Ter)	10060	ABCC9	Pathogenic	GRCh38	4719140
+single nucleotide variant	NM_020297.4(ABCC9):c.3313C>T (p.Gln1105Ter)	10060	ABCC9	Pathogenic	GRCh38	4725227
+single nucleotide variant	NM_020297.4(ABCC9):c.767G>T (p.Arg256Ile)	10060	ABCC9	Likely pathogenic	GRCh38	4795189
+single nucleotide variant	NM_020297.4(ABCC9):c.579T>A (p.Tyr193Ter)	10060	ABCC9	Pathogenic	GRCh38	4801239
+single nucleotide variant	NM_020297.4(ABCC9):c.285-1G>C	10060	ABCC9	Likely pathogenic	GRCh38	4811602
+single nucleotide variant	NM_020297.4(ABCC9):c.573+1G>T	10060	ABCC9	Likely pathogenic	GRCh38	4811001
+single nucleotide variant	NM_020297.4(ABCC9):c.3129T>G (p.Cys1043Trp)	10060	ABCC9	Likely pathogenic	GRCh38	4854777
+single nucleotide variant	NM_020297.4(ABCC9):c.1295C>T (p.Pro432Leu)	10060	ABCC9	Pathogenic	GRCh38	4879195
+single nucleotide variant	NM_020297.4(ABCC9):c.1936C>T (p.Gln646Ter)	10060	ABCC9	Likely pathogenic	GRCh38	4883399
+single nucleotide variant	NM_020297.4(ABCC9):c.3104A>G (p.Tyr1035Cys)	10060	ABCC9	Likely pathogenic	GRCh38	4884723

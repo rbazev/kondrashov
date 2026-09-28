@@ -53,12 +53,12 @@ single nucleotide variant	NM_019616.4(F7):c.1206G>A (p.Trp402Ter)	2155	F7	Likely
 single nucleotide variant	NM_019616.4(F7):c.175C>T (p.Gln59Ter)	2155	F7	Likely pathogenic	GRCh38	1703839
 single nucleotide variant	NM_000131.5(F7):c.130G>A (p.Val44Ile)	2155	F7	Likely pathogenic	GRCh38	2506137
 single nucleotide variant	NM_019616.4(F7):c.179G>T (p.Cys60Phe)	2155	F7	Likely pathogenic	GRCh38	2582790
-single nucleotide variant	NM_019616.4(F7):c.1057C>T (p.Arg353Trp)	2155	F7	Pathogenic	GRCh38	2634242
+single nucleotide variant	NM_019616.4(F7):c.1057C>T (p.Arg353Trp)	2155	F7	Pathogenic/Likely pathogenic	GRCh38	2634242
 single nucleotide variant	NM_019616.4(F7):c.2T>C (p.Met1Thr)	2155	F7	Pathogenic/Likely pathogenic	GRCh38	2683243
 single nucleotide variant	NM_019616.4(F7):c.385T>C (p.Cys129Arg)	2155	F7	Likely pathogenic	GRCh38	2683435
 single nucleotide variant	NM_019616.4(F7):c.739+1G>A	2155	F7	Pathogenic/Likely pathogenic	GRCh38	2683442
 single nucleotide variant	NM_019616.4(F7):c.580G>C (p.Gly194Arg)	2155	F7	Likely pathogenic	GRCh38	2692371
-single nucleotide variant	NM_019616.4(F7):c.178T>C (p.Cys60Arg)	2155	F7	Pathogenic	GRCh38	3029413
+single nucleotide variant	NM_019616.4(F7):c.178T>C (p.Cys60Arg)	2155	F7	Pathogenic/Likely pathogenic	GRCh38	3029413
 single nucleotide variant	NM_019616.4(F7):c.580G>T (p.Gly194Cys)	2155	F7	Likely pathogenic	GRCh38	3048959
 single nucleotide variant	NM_019616.4(F7):c.225G>C (p.Thr75=)	2155	F7	Likely pathogenic	GRCh38	3340422
 single nucleotide variant	NM_019616.4(F7):c.1024C>G (p.Arg342Gly)	2155	F7	Likely pathogenic	GRCh38	3349591
@@ -66,6 +66,7 @@ single nucleotide variant	NC_000013.11:g.113105784G>A	2155	F7	Likely pathogenic	
 single nucleotide variant	NM_019616.4(F7):c.943C>T (p.Arg315Cys)	2155	F7	Likely pathogenic	GRCh38	3351690
 single nucleotide variant	NM_019616.4(F7):c.1008G>A (p.Met336Ile)	2155	F7	Pathogenic	GRCh38	3352537
 single nucleotide variant	NM_019616.4(F7):c.895C>T (p.Leu299Phe)	2155	F7	Likely pathogenic	GRCh38	3377703
+single nucleotide variant	NM_019616.4(F7):c.365-2A>G	2155	F7	Likely pathogenic	GRCh38	3381103
 single nucleotide variant	NM_019616.4(F7):c.659T>C (p.Leu220Pro)	2155	F7	Likely pathogenic	GRCh38	3381105
 single nucleotide variant	NM_019616.4(F7):c.725T>C (p.Leu242Pro)	2155	F7	Likely pathogenic	GRCh38	3381106
 single nucleotide variant	NM_019616.4(F7):c.64G>A (p.Val22Ile)	2155	F7	Pathogenic/Likely pathogenic	GRCh38	3382510

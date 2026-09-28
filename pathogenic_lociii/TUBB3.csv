@@ -1,0 +1,57 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006086.4(TUBB3):c.784C>T (p.Arg262Cys)	10381	TUBB3	Pathogenic	GRCh38	6963
+single nucleotide variant	NM_006086.4(TUBB3):c.904G>A (p.Ala302Thr)	10381	TUBB3	Pathogenic	GRCh38	6964
+single nucleotide variant	NM_006086.4(TUBB3):c.1249G>C (p.Asp417His)	10381	TUBB3	Pathogenic	GRCh38	6965
+single nucleotide variant	NM_006086.4(TUBB3):c.1249G>A (p.Asp417Asn)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	6966
+single nucleotide variant	NM_006086.4(TUBB3):c.1228G>A (p.Glu410Lys)	10381	TUBB3	Pathogenic	GRCh38	6967
+single nucleotide variant	NM_006086.4(TUBB3):c.967A>G (p.Met323Val)	10381	TUBB3	Pathogenic	GRCh38	30272
+single nucleotide variant	NM_006086.4(TUBB3):c.613G>A (p.Glu205Lys)	10381	TUBB3	Pathogenic	GRCh38	30274
+single nucleotide variant	NM_006086.4(TUBB3):c.905C>T (p.Ala302Val)	10381	TUBB3	Pathogenic	GRCh38	30275
+single nucleotide variant	NM_006086.4(TUBB3):c.292G>A (p.Gly98Ser)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	160191
+single nucleotide variant	NM_006086.4(TUBB3):c.185G>A (p.Arg62Gln)	10381	TUBB3	Likely pathogenic	GRCh38	219254
+single nucleotide variant	NM_006086.4(TUBB3):c.211G>A (p.Gly71Arg)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	219255
+single nucleotide variant	NM_006086.4(TUBB3):c.785G>A (p.Arg262His)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	219256
+single nucleotide variant	NM_006086.4(TUBB3):c.1138C>T (p.Arg380Cys)	10381	TUBB3	Pathogenic	GRCh38	219257
+single nucleotide variant	NM_006086.4(TUBB3):c.1162A>G (p.Met388Val)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	236243
+single nucleotide variant	NM_006086.4(TUBB3):c.533C>T (p.Thr178Met)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	265335
+single nucleotide variant	NM_006086.4(TUBB3):c.1172G>T (p.Arg391Leu)	10381	TUBB3	Pathogenic	GRCh38	265354
+single nucleotide variant	NM_006086.4(TUBB3):c.689C>T (p.Ser230Leu)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	280212
+single nucleotide variant	NM_006086.4(TUBB3):c.614A>C (p.Glu205Ala)	10381	TUBB3	Likely pathogenic	GRCh38	373761
+single nucleotide variant	NM_006086.4(TUBB3):c.763G>A (p.Val255Ile)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	372654
+single nucleotide variant	NM_006086.4(TUBB3):c.862G>A (p.Glu288Lys)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	384329
+single nucleotide variant	NM_006086.4(TUBB3):c.845G>C (p.Arg282Pro)	10381	TUBB3	Pathogenic	GRCh38	421587
+single nucleotide variant	NM_006086.4(TUBB3):c.1081C>A (p.Leu361Ile)	10381	TUBB3	Likely pathogenic	GRCh38	421147
+single nucleotide variant	NM_006086.4(TUBB3):c.834C>G (p.Ser278Arg)	10381	TUBB3	Likely pathogenic	GRCh38	427208
+single nucleotide variant	NM_006086.4(TUBB3):c.424G>A (p.Gly142Ser)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	430312
+single nucleotide variant	NM_006086.4(TUBB3):c.1209G>C (p.Met403Ile)	10381	TUBB3	Likely pathogenic	GRCh38	429849
+single nucleotide variant	NM_006086.4(TUBB3):c.523G>C (p.Val175Leu)	10381	TUBB3	Pathogenic/Likely pathogenic	GRCh38	520851
+single nucleotide variant	NM_006086.4(TUBB3):c.716C>T (p.Ser239Phe)	10381	TUBB3	Likely pathogenic	GRCh38	546125
+single nucleotide variant	NM_006086.4(TUBB3):c.863A>C (p.Glu288Ala)	10381	TUBB3	Likely pathogenic	GRCh38	931842
+single nucleotide variant	NM_006086.4(TUBB3):c.577G>A (p.Val193Met)	10381	TUBB3	Pathogenic	GRCh38	975630
+single nucleotide variant	NM_006086.4(TUBB3):c.1163T>C (p.Met388Thr)	10381	TUBB3	Likely pathogenic	GRCh38	996661
+single nucleotide variant	NM_006086.4(TUBB3):c.1024G>A (p.Val342Met)	10381	TUBB3	Likely pathogenic	GRCh38	1027523
+single nucleotide variant	NM_006086.4(TUBB3):c.728C>G (p.Pro243Arg)	10381	TUBB3	Likely pathogenic	GRCh38	1218943
+single nucleotide variant	NM_006086.4(TUBB3):c.386G>A (p.Cys129Tyr)	10381	TUBB3	Likely pathogenic	GRCh38	1309208
+single nucleotide variant	NM_006086.4(TUBB3):c.178G>T (p.Val60Leu)	10381	TUBB3	Likely pathogenic	GRCh38	1320071
+single nucleotide variant	NM_006086.4(TUBB3):c.1139G>C (p.Arg380Pro)	10381	TUBB3	Likely pathogenic	GRCh38	1320230
+single nucleotide variant	NM_006086.4(TUBB3):c.212G>C (p.Gly71Ala)	10381	TUBB3	Likely pathogenic	GRCh38	1338328
+single nucleotide variant	NM_006086.4(TUBB3):c.137G>A (p.Arg46Gln)	10381	TUBB3	Pathogenic	GRCh38	1343012
+single nucleotide variant	NM_006086.4(TUBB3):c.929A>G (p.Tyr310Cys)	10381	TUBB3	Likely pathogenic	GRCh38	1679223
+single nucleotide variant	NM_006086.4(TUBB3):c.535G>C (p.Val179Leu)	10381	TUBB3	Likely pathogenic	GRCh38	1701033
+single nucleotide variant	NM_006086.4(TUBB3):c.817C>G (p.Leu273Val)	10381	TUBB3	Likely pathogenic	GRCh38	1708291
+single nucleotide variant	NM_006086.4(TUBB3):c.683T>C (p.Leu228Pro)	10381	TUBB3	Pathogenic	GRCh38	1708721
+single nucleotide variant	NM_006086.4(TUBB3):c.313C>A (p.His105Asn)	10381	TUBB3	Likely pathogenic	GRCh38	1710200
+single nucleotide variant	NM_006086.4(TUBB3):c.1172G>A (p.Arg391His)	10381	TUBB3	Likely pathogenic	GRCh38	1804227
+single nucleotide variant	NM_006086.4(TUBB3):c.1138C>A (p.Arg380Ser)	10381	TUBB3	Likely pathogenic	GRCh38	2499586
+single nucleotide variant	NM_006086.4(TUBB3):c.844C>G (p.Arg282Gly)	10381	TUBB3	Likely pathogenic	GRCh38	2629824
+single nucleotide variant	NM_006086.4(TUBB3):c.953G>A (p.Arg318Gln)	10381	TUBB3	Likely pathogenic	GRCh38	2690972
+single nucleotide variant	NM_006086.4(TUBB3):c.904G>T (p.Ala302Ser)	10381	TUBB3	Pathogenic	GRCh38	2744601
+single nucleotide variant	NM_006086.4(TUBB3):c.596C>T (p.Thr199Ile)	10381	TUBB3	Likely pathogenic	GRCh38	3026931
+single nucleotide variant	NM_006086.4(TUBB3):c.74G>A (p.Ser25Asn)	10381	TUBB3	Likely pathogenic	GRCh38	3340227
+single nucleotide variant	NM_006086.4(TUBB3):c.900G>A (p.Met300Ile)	10381	TUBB3	Likely pathogenic	GRCh38	3348900
+single nucleotide variant	NM_006086.4(TUBB3):c.551A>G (p.Asn184Ser)	10381	TUBB3	Likely pathogenic	GRCh38	3906514
+single nucleotide variant	NM_006086.4(TUBB3):c.613G>C (p.Glu205Gln)	10381	TUBB3	Likely pathogenic	GRCh38	4056411
+single nucleotide variant	NM_006086.4(TUBB3):c.233C>T (p.Ser78Leu)	10381	TUBB3	Likely pathogenic	GRCh38	4277735
+single nucleotide variant	NM_006086.4(TUBB3):c.847G>T (p.Ala283Ser)	10381	TUBB3	Likely pathogenic	GRCh38	4795476
+single nucleotide variant	NM_006086.4(TUBB3):c.511C>A (p.Pro171Thr)	10381	TUBB3	Likely pathogenic	GRCh38	4857864
+single nucleotide variant	NM_006086.4(TUBB3):c.1099T>A (p.Phe367Ile)	10381	TUBB3	Pathogenic	GRCh38	4888168

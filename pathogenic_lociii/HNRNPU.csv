@@ -1,0 +1,55 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_031844.3(HNRNPU):c.67C>T (p.Arg23Ter)	3192	HNRNPU	Pathogenic/Likely pathogenic	GRCh38	224141
+single nucleotide variant	NM_031844.3(HNRNPU):c.1714C>T (p.Arg572Ter)	3192	HNRNPU	Pathogenic	GRCh38	267737
+single nucleotide variant	NM_031844.3(HNRNPU):c.1089G>A (p.Trp363Ter)	3192	HNRNPU	Pathogenic	GRCh38	267736
+single nucleotide variant	NM_031844.3(HNRNPU):c.520C>T (p.Gln174Ter)	3192	HNRNPU	Pathogenic	GRCh38	280850
+single nucleotide variant	NM_031844.3(HNRNPU):c.353C>A (p.Ser118Ter)	3192	HNRNPU	Pathogenic	GRCh38	392665
+single nucleotide variant	NM_031844.3(HNRNPU):c.511C>T (p.Gln171Ter)	3192	HNRNPU	Pathogenic	GRCh38	393465
+single nucleotide variant	NM_031844.3(HNRNPU):c.307C>T (p.Gln103Ter)	3192	HNRNPU	Pathogenic	GRCh38	406728
+single nucleotide variant	NM_031844.3(HNRNPU):c.481C>T (p.Gln161Ter)	3192	HNRNPU	Pathogenic	GRCh38	446393
+single nucleotide variant	NM_031844.3(HNRNPU):c.1681C>T (p.Gln561Ter)	3192	HNRNPU	Pathogenic	GRCh38	449036
+single nucleotide variant	NM_031844.3(HNRNPU):c.1230+5G>A	3192	HNRNPU	Pathogenic	GRCh38	489084
+single nucleotide variant	NM_031844.3(HNRNPU):c.970A>G (p.Arg324Gly)	3192	HNRNPU	Likely pathogenic	GRCh38	522110
+single nucleotide variant	NM_031844.3(HNRNPU):c.1669C>T (p.Gln557Ter)	3192	HNRNPU	Pathogenic	GRCh38	523805
+single nucleotide variant	NM_031844.3(HNRNPU):c.1450C>T (p.Arg484Ter)	3192	HNRNPU	Pathogenic	GRCh38	523871
+single nucleotide variant	NM_031844.3(HNRNPU):c.1743G>C (p.Gln581His)	3192	HNRNPU	Likely pathogenic	GRCh38	545072
+single nucleotide variant	NM_031844.3(HNRNPU):c.2425-2A>G	3192	HNRNPU	Pathogenic	GRCh38	559858
+single nucleotide variant	NM_031844.3(HNRNPU):c.1117+1G>C	3192	HNRNPU	Likely pathogenic	GRCh38	581357
+single nucleotide variant	NM_031844.3(HNRNPU):c.415C>T (p.Gln139Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	801644
+single nucleotide variant	NM_031844.3(HNRNPU):c.1852C>T (p.Gln618Ter)	3192	HNRNPU	Pathogenic	GRCh38	871335
+single nucleotide variant	NM_031844.3(HNRNPU):c.575C>A (p.Ser192Ter)	3192	HNRNPU	Pathogenic	GRCh38	976700
+single nucleotide variant	NM_031844.3(HNRNPU):c.1913-1G>A	3192	HNRNPU	Pathogenic	GRCh38	987258
+single nucleotide variant	NM_031844.3(HNRNPU):c.1429C>T (p.Gln477Ter)	3192	HNRNPU	Pathogenic/Likely pathogenic	GRCh38	988469
+single nucleotide variant	NM_031844.3(HNRNPU):c.803G>A (p.Arg268Lys)	3192	HNRNPU	Likely pathogenic	GRCh38	992827
+single nucleotide variant	NM_031844.3(HNRNPU):c.2425-2A>T	3192	HNRNPU	Likely pathogenic	GRCh38	998090
+single nucleotide variant	NM_031844.3(HNRNPU):c.1118-1G>A	3192	HNRNPU	Pathogenic	GRCh38	1066807
+single nucleotide variant	NM_031844.3(HNRNPU):c.803+2T>C	3192	HNRNPU	Likely pathogenic	GRCh38	1066918
+single nucleotide variant	NM_031844.3(HNRNPU):c.1801C>T (p.Arg601Ter)	3192	HNRNPU	Pathogenic/Likely pathogenic	GRCh38	1184908
+single nucleotide variant	NM_031844.3(HNRNPU):c.2168-1G>T	3192	HNRNPU	Pathogenic	GRCh38	1219744
+single nucleotide variant	NM_031844.3(HNRNPU):c.1230+1G>C	3192	HNRNPU	Pathogenic	GRCh38	1325815
+single nucleotide variant	NM_031844.3(HNRNPU):c.1118G>A (p.Gly373Asp)	3192	HNRNPU	Likely pathogenic	GRCh38	1333693
+single nucleotide variant	NM_031844.3(HNRNPU):c.325G>T (p.Glu109Ter)	3192	HNRNPU	Pathogenic	GRCh38	1414731
+single nucleotide variant	NM_031844.3(HNRNPU):c.1743+1G>A	3192	HNRNPU	Likely pathogenic	GRCh38	1515365
+single nucleotide variant	NM_031844.3(HNRNPU):c.223G>T (p.Glu75Ter)	3192	HNRNPU	Pathogenic	GRCh38	1685883
+single nucleotide variant	NM_031844.3(HNRNPU):c.112C>A (p.Leu38Ile)	3192	HNRNPU	Pathogenic	GRCh38	1685884
+single nucleotide variant	NM_031844.3(HNRNPU):c.817C>T (p.Gln273Ter)	3192	HNRNPU	Pathogenic	GRCh38	1706354
+single nucleotide variant	NM_031844.3(HNRNPU):c.1930G>T (p.Glu644Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	1708404
+single nucleotide variant	NM_031844.3(HNRNPU):c.61A>G (p.Lys21Glu)	3192	HNRNPU	Likely pathogenic	GRCh38	1803039
+single nucleotide variant	NM_031844.3(HNRNPU):c.2425-3C>A	3192	HNRNPU	Likely pathogenic	GRCh38	1809599
+single nucleotide variant	NM_031844.3(HNRNPU):c.226C>T (p.Gln76Ter)	3192	HNRNPU	Pathogenic	GRCh38	2003133
+single nucleotide variant	NM_031844.3(HNRNPU):c.1807G>A (p.Ala603Thr)	3192	HNRNPU	Pathogenic	GRCh38	2042325
+single nucleotide variant	NM_031844.3(HNRNPU):c.490C>T (p.Gln164Ter)	3192	HNRNPU	Pathogenic	GRCh38	2430025
+single nucleotide variant	NM_031844.3(HNRNPU):c.1723C>T (p.Arg575Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	2431726
+single nucleotide variant	NM_031844.3(HNRNPU):c.484C>T (p.Gln162Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	2431829
+single nucleotide variant	NM_031844.3(HNRNPU):c.2365C>T (p.Arg789Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	2575984
+single nucleotide variant	NM_031844.3(HNRNPU):c.1A>C (p.Met1Leu)	3192	HNRNPU	Pathogenic	GRCh38	2708305
+single nucleotide variant	NM_031844.3(HNRNPU):c.868C>T (p.Leu290Phe)	3192	HNRNPU	Likely pathogenic	GRCh38	2768940
+single nucleotide variant	NM_031844.3(HNRNPU):c.1085G>T (p.Gly362Val)	3192	HNRNPU	Pathogenic	GRCh38	2822962
+single nucleotide variant	NM_031844.3(HNRNPU):c.1539G>A (p.Trp513Ter)	3192	HNRNPU	Pathogenic	GRCh38	2847910
+single nucleotide variant	NM_031844.3(HNRNPU):c.1117+1G>A	3192	HNRNPU	Pathogenic	GRCh38	3337162
+single nucleotide variant	NM_031844.3(HNRNPU):c.625C>T (p.Gln209Ter)	3192	HNRNPU	Pathogenic	GRCh38	3897867
+single nucleotide variant	NM_031844.3(HNRNPU):c.803+1G>T	3192	HNRNPU	Likely pathogenic	GRCh38	4056767
+single nucleotide variant	NM_031844.3(HNRNPU):c.619C>T (p.Gln207Ter)	3192	HNRNPU	Pathogenic	GRCh38	4292896
+single nucleotide variant	NM_031844.3(HNRNPU):c.115C>T (p.Gln39Ter)	3192	HNRNPU	Pathogenic	GRCh38	4533320
+single nucleotide variant	NM_031844.3(HNRNPU):c.1230+3A>T	3192	HNRNPU	Likely pathogenic	GRCh38	4759506
+single nucleotide variant	NM_031844.3(HNRNPU):c.526C>T (p.Gln176Ter)	3192	HNRNPU	Likely pathogenic	GRCh38	4854027

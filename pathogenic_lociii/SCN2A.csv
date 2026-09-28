@@ -1,0 +1,548 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001040142.2(SCN2A):c.3988C>T (p.Leu1330Phe)	6326	SCN2A	Pathogenic	GRCh38	12876
+single nucleotide variant	NM_001040142.2(SCN2A):c.4687C>G (p.Leu1563Val)	6326	SCN2A	Pathogenic	GRCh38	12877
+single nucleotide variant	NM_001040142.2(SCN2A):c.2674G>A (p.Val892Ile)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	12878
+single nucleotide variant	NM_001040142.2(SCN2A):c.668G>A (p.Arg223Gln)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	12879
+single nucleotide variant	NM_001040142.2(SCN2A):c.3956G>A (p.Arg1319Gln)	6326	SCN2A	Pathogenic	GRCh38	12880
+single nucleotide variant	NM_001040142.2(SCN2A):c.304C>T (p.Arg102Ter)	6326	SCN2A	Pathogenic	GRCh38	29885
+single nucleotide variant	NM_001040142.2(SCN2A):c.3631G>A (p.Glu1211Lys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	29886
+single nucleotide variant	NM_001040142.2(SCN2A):c.4419A>G (p.Ile1473Met)	6326	SCN2A	Pathogenic	GRCh38	29887
+single nucleotide variant	NM_001040142.2(SCN2A):c.788C>T (p.Ala263Val)	6326	SCN2A	Pathogenic	GRCh38	29888
+single nucleotide variant	NM_001040142.2(SCN2A):c.754A>G (p.Met252Val)	6326	SCN2A	Pathogenic	GRCh38	29889
+single nucleotide variant	NM_001040142.2(SCN2A):c.1178C>A (p.Thr393Lys)	6326	SCN2A	Likely pathogenic	GRCh38	193734
+single nucleotide variant	NM_001040142.2(SCN2A):c.2558G>A (p.Arg853Gln)	6326	SCN2A	Pathogenic	GRCh38	194555
+single nucleotide variant	NM_001040142.2(SCN2A):c.5645G>A (p.Arg1882Gln)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	196039
+single nucleotide variant	NM_001040142.2(SCN2A):c.387-2A>G	6326	SCN2A	Pathogenic	GRCh38	207037
+single nucleotide variant	NM_001040142.2(SCN2A):c.605+1G>T	6326	SCN2A	Pathogenic	GRCh38	207039
+single nucleotide variant	NM_001040142.2(SCN2A):c.647T>G (p.Leu216Trp)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207088
+single nucleotide variant	NM_001040142.2(SCN2A):c.823C>T (p.Arg275Ter)	6326	SCN2A	Pathogenic	GRCh38	207041
+single nucleotide variant	NM_001040142.2(SCN2A):c.851A>G (p.Asp284Gly)	6326	SCN2A	Pathogenic	GRCh38	2203161
+single nucleotide variant	NM_001040142.2(SCN2A):c.1027G>T (p.Asp343Tyr)	6326	SCN2A	Pathogenic	GRCh38	207046
+single nucleotide variant	NM_001040142.2(SCN2A):c.1147C>G (p.Gln383Glu)	6326	SCN2A	Pathogenic	GRCh38	207050
+single nucleotide variant	NM_001040142.2(SCN2A):c.1183C>T (p.Arg395Cys)	6326	SCN2A	Likely pathogenic	GRCh38	4854063
+single nucleotide variant	NM_001040142.2(SCN2A):c.1267G>C (p.Val423Leu)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207052
+single nucleotide variant	NM_001040142.2(SCN2A):c.1271T>C (p.Val424Ala)	6326	SCN2A	Pathogenic	GRCh38	207053
+single nucleotide variant	NM_001040142.2(SCN2A):c.1283A>G (p.Tyr428Cys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207054
+single nucleotide variant	NM_001040142.2(SCN2A):c.1289A>C (p.Glu430Ala)	6326	SCN2A	Pathogenic	GRCh38	207055
+single nucleotide variant	NM_001040142.2(SCN2A):c.1289A>G (p.Glu430Gly)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207056
+single nucleotide variant	NM_001040142.2(SCN2A):c.1312G>A (p.Glu438Lys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207057
+single nucleotide variant	NM_001040142.2(SCN2A):c.1570C>T (p.Arg524Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1333343
+single nucleotide variant	NM_001040142.2(SCN2A):c.2480A>G (p.Asp827Gly)	6326	SCN2A	Pathogenic	GRCh38	2928082
+single nucleotide variant	NM_001040142.2(SCN2A):c.2562+1G>T	6326	SCN2A	Pathogenic	GRCh38	206967
+single nucleotide variant	NM_001040142.2(SCN2A):c.2604T>G (p.Asn868Lys)	6326	SCN2A	Likely pathogenic	GRCh38	206968
+single nucleotide variant	NM_001040142.2(SCN2A):c.2635G>A (p.Gly879Arg)	6326	SCN2A	Pathogenic	GRCh38	206969
+single nucleotide variant	NM_001040142.2(SCN2A):c.2642T>A (p.Leu881Gln)	6326	SCN2A	Likely pathogenic	GRCh38	206970
+single nucleotide variant	NM_001040142.2(SCN2A):c.2657T>C (p.Leu886Ser)	6326	SCN2A	Likely pathogenic	GRCh38	206972
+single nucleotide variant	NM_001040142.2(SCN2A):c.2696G>A (p.Gly899Asp)	6326	SCN2A	Likely pathogenic	GRCh38	206975
+single nucleotide variant	NM_001040142.2(SCN2A):c.2715G>C (p.Lys905Asn)	6326	SCN2A	Pathogenic	GRCh38	206973
+single nucleotide variant	NM_001040142.2(SCN2A):c.2722A>G (p.Lys908Glu)	6326	SCN2A	Likely pathogenic	GRCh38	206976
+single nucleotide variant	NM_001040142.2(SCN2A):c.2809C>T (p.Arg937Cys)	6326	SCN2A	Pathogenic	GRCh38	207080
+single nucleotide variant	NM_001040142.2(SCN2A):c.2960G>T (p.Ser987Ile)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	206978
+single nucleotide variant	NM_001040142.2(SCN2A):c.2995G>A (p.Glu999Lys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	206981
+single nucleotide variant	NM_001040142.2(SCN2A):c.3944G>A (p.Arg1315Lys)	6326	SCN2A	Pathogenic	GRCh38	206990
+single nucleotide variant	NM_001040142.2(SCN2A):c.3947C>T (p.Ala1316Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	206991
+single nucleotide variant	NM_001040142.2(SCN2A):c.3977T>A (p.Val1326Asp)	6326	SCN2A	Pathogenic	GRCh38	206993
+single nucleotide variant	NM_001040142.2(SCN2A):c.3997G>A (p.Ala1333Thr)	6326	SCN2A	Pathogenic	GRCh38	206994
+single nucleotide variant	NM_001040142.2(SCN2A):c.4013T>G (p.Met1338Arg)	6326	SCN2A	Likely pathogenic	GRCh38	206995
+single nucleotide variant	NM_001040142.2(SCN2A):c.4025T>C (p.Leu1342Pro)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	206996
+single nucleotide variant	NM_001040142.2(SCN2A):c.4036A>G (p.Ile1346Val)	6326	SCN2A	Pathogenic	GRCh38	206997
+single nucleotide variant	NM_001040142.2(SCN2A):c.4059C>G (p.Ile1353Met)	6326	SCN2A	Likely pathogenic	GRCh38	206998
+single nucleotide variant	NM_001040142.2(SCN2A):c.4264A>G (p.Lys1422Glu)	6326	SCN2A	Pathogenic	GRCh38	206999
+single nucleotide variant	NM_001040142.2(SCN2A):c.4308+2T>C	6326	SCN2A	Pathogenic	GRCh38	207001
+single nucleotide variant	NM_001040142.2(SCN2A):c.4394T>G (p.Leu1465Trp)	6326	SCN2A	Likely pathogenic	GRCh38	207005
+single nucleotide variant	NM_001040142.2(SCN2A):c.4446+9A>G	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207002
+single nucleotide variant	NM_001040142.2(SCN2A):c.4463T>A (p.Ile1488Asn)	6326	SCN2A	Likely pathogenic	GRCh38	207006
+single nucleotide variant	NM_001040142.2(SCN2A):c.4630A>G (p.Asn1544Asp)	6326	SCN2A	Likely pathogenic	GRCh38	207011
+single nucleotide variant	NM_001040142.2(SCN2A):c.4633A>G (p.Met1545Val)	6326	SCN2A	Pathogenic	GRCh38	207012
+single nucleotide variant	NM_001040142.2(SCN2A):c.4701T>A (p.Asn1567Lys)	6326	SCN2A	Likely pathogenic	GRCh38	207013
+single nucleotide variant	NM_001040142.2(SCN2A):c.4718T>C (p.Leu1573Pro)	6326	SCN2A	Pathogenic	GRCh38	207014
+single nucleotide variant	NM_001040142.2(SCN2A):c.4822G>A (p.Gly1608Arg)	6326	SCN2A	Likely pathogenic	GRCh38	207016
+single nucleotide variant	NM_001040142.2(SCN2A):c.4877G>A (p.Arg1626Gln)	6326	SCN2A	Pathogenic	GRCh38	207017
+single nucleotide variant	NM_001040142.2(SCN2A):c.4879G>A (p.Val1627Met)	6326	SCN2A	Pathogenic	GRCh38	207018
+single nucleotide variant	NM_001040142.2(SCN2A):c.4886G>A (p.Arg1629His)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207019
+single nucleotide variant	NM_001040142.2(SCN2A):c.4901G>A (p.Gly1634Asp)	6326	SCN2A	Pathogenic	GRCh38	932954
+single nucleotide variant	NM_001040142.2(SCN2A):c.4908C>G (p.Ile1636Met)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	207022
+single nucleotide variant	NM_001040142.2(SCN2A):c.5317G>A (p.Ala1773Thr)	6326	SCN2A	Pathogenic	GRCh38	207024
+single nucleotide variant	NM_001040142.2(SCN2A):c.5339G>T (p.Ser1780Ile)	6326	SCN2A	Likely pathogenic	GRCh38	207025
+single nucleotide variant	NM_001040142.2(SCN2A):c.5644C>G (p.Arg1882Gly)	6326	SCN2A	Pathogenic	GRCh38	207028
+single nucleotide variant	NM_001040142.2(SCN2A):c.5645G>T (p.Arg1882Leu)	6326	SCN2A	Pathogenic	GRCh38	207029
+single nucleotide variant	NM_001040142.2(SCN2A):c.2567G>A (p.Arg856Gln)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	212125
+single nucleotide variant	NM_001040142.2(SCN2A):c.4841T>C (p.Leu1614Pro)	6326	SCN2A	Likely pathogenic	GRCh38	212129
+single nucleotide variant	NM_001040142.2(SCN2A):c.4468A>G (p.Met1490Val)	6326	SCN2A	Pathogenic	GRCh38	224077
+single nucleotide variant	NM_001040142.2(SCN2A):c.4726G>A (p.Gly1576Arg)	6326	SCN2A	Pathogenic	GRCh38	224078
+single nucleotide variant	NM_001040142.2(SCN2A):c.4001T>C (p.Ile1334Thr)	6326	SCN2A	Likely pathogenic	GRCh38	265305
+single nucleotide variant	NM_001040142.2(SCN2A):c.4308+1G>A	6326	SCN2A	Pathogenic	GRCh38	265589
+single nucleotide variant	NM_001040142.2(SCN2A):c.1027G>C (p.Asp343His)	6326	SCN2A	Pathogenic	GRCh38	280832
+single nucleotide variant	NM_001040142.2(SCN2A):c.4777G>A (p.Gly1593Arg)	6326	SCN2A	Pathogenic	GRCh38	279927
+single nucleotide variant	NM_001040142.2(SCN2A):c.2713A>G (p.Lys905Glu)	6326	SCN2A	Likely pathogenic	GRCh38	285909
+single nucleotide variant	NM_001040142.2(SCN2A):c.4780T>C (p.Trp1594Arg)	6326	SCN2A	Likely pathogenic	GRCh38	372973
+single nucleotide variant	NM_001040142.2(SCN2A):c.4861T>C (p.Ser1621Pro)	6326	SCN2A	Likely pathogenic	GRCh38	372556
+single nucleotide variant	NM_001040142.2(SCN2A):c.3972G>A (p.Arg1324=)	6326	SCN2A	Likely pathogenic	GRCh38	372982
+single nucleotide variant	NM_001040142.2(SCN2A):c.640T>C (p.Ser214Pro)	6326	SCN2A	Likely pathogenic	GRCh38	372557
+single nucleotide variant	NM_001040142.2(SCN2A):c.571T>G (p.Trp191Gly)	6326	SCN2A	Likely pathogenic	GRCh38	375507
+single nucleotide variant	NM_001040142.2(SCN2A):c.751G>A (p.Val251Ile)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	375510
+single nucleotide variant	NM_001040142.2(SCN2A):c.2687C>T (p.Ala896Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	375508
+single nucleotide variant	NM_001040142.2(SCN2A):c.3967A>G (p.Met1323Val)	6326	SCN2A	Pathogenic	GRCh38	375505
+single nucleotide variant	NM_001040142.2(SCN2A):c.4031G>A (p.Cys1344Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	375509
+single nucleotide variant	NM_001040142.2(SCN2A):c.4643T>C (p.Met1548Thr)	6326	SCN2A	Likely pathogenic	GRCh38	375506
+single nucleotide variant	NM_001040142.2(SCN2A):c.3697G>T (p.Glu1233Ter)	6326	SCN2A	Pathogenic	GRCh38	377394
+single nucleotide variant	NM_001040142.2(SCN2A):c.3964G>A (p.Gly1322Arg)	6326	SCN2A	Likely pathogenic	GRCh38	381961
+single nucleotide variant	NM_001040142.2(SCN2A):c.3972G>C (p.Arg1324Ser)	6326	SCN2A	Likely pathogenic	GRCh38	391978
+single nucleotide variant	NM_001040142.2(SCN2A):c.4157G>A (p.Cys1386Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	390338
+single nucleotide variant	NM_001040142.2(SCN2A):c.1028A>T (p.Asp343Val)	6326	SCN2A	Pathogenic	GRCh38	391613
+single nucleotide variant	NM_001040142.2(SCN2A):c.2767T>C (p.Trp923Arg)	6326	SCN2A	Likely pathogenic	GRCh38	392633
+single nucleotide variant	NM_001040142.2(SCN2A):c.4782G>C (p.Trp1594Cys)	6326	SCN2A	Likely pathogenic	GRCh38	383825
+single nucleotide variant	NM_001040142.2(SCN2A):c.3956G>T (p.Arg1319Leu)	6326	SCN2A	Pathogenic	GRCh38	379254
+single nucleotide variant	NM_001040142.2(SCN2A):c.3985G>T (p.Ala1329Ser)	6326	SCN2A	Pathogenic	GRCh38	391368
+single nucleotide variant	NM_001040142.2(SCN2A):c.4904G>A (p.Arg1635Gln)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	380389
+single nucleotide variant	NM_001040142.2(SCN2A):c.781G>A (p.Val261Met)	6326	SCN2A	Pathogenic	GRCh38	378927
+single nucleotide variant	NM_001040142.2(SCN2A):c.2875T>C (p.Cys959Arg)	6326	SCN2A	Likely pathogenic	GRCh38	390254
+single nucleotide variant	NM_001040142.2(SCN2A):c.2877C>A (p.Cys959Ter)	6326	SCN2A	Pathogenic	GRCh38	410979
+single nucleotide variant	NM_001040142.2(SCN2A):c.3955C>T (p.Arg1319Trp)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	410982
+single nucleotide variant	NM_001040142.2(SCN2A):c.4876C>T (p.Arg1626Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	410985
+single nucleotide variant	NM_001040142.2(SCN2A):c.4976C>T (p.Ala1659Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	410984
+single nucleotide variant	NM_001040142.2(SCN2A):c.305G>A (p.Arg102Gln)	6326	SCN2A	Pathogenic	GRCh38	422127
+single nucleotide variant	NM_001040142.2(SCN2A):c.620T>G (p.Phe207Cys)	6326	SCN2A	Likely pathogenic	GRCh38	423904
+single nucleotide variant	NM_001040142.2(SCN2A):c.718G>A (p.Ala240Thr)	6326	SCN2A	Likely pathogenic	GRCh38	421259
+single nucleotide variant	NM_001040142.2(SCN2A):c.775C>A (p.Leu259Ile)	6326	SCN2A	Likely pathogenic	GRCh38	421263
+single nucleotide variant	NM_001040142.2(SCN2A):c.1304C>T (p.Thr435Ile)	6326	SCN2A	Likely pathogenic	GRCh38	421470
+single nucleotide variant	NM_001040142.2(SCN2A):c.4303C>T (p.Arg1435Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	419721
+single nucleotide variant	NM_001040142.2(SCN2A):c.4903C>T (p.Arg1635Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	420835
+single nucleotide variant	NM_001040142.2(SCN2A):c.4964T>C (p.Met1655Thr)	6326	SCN2A	Likely pathogenic	GRCh38	420819
+single nucleotide variant	NM_001040142.2(SCN2A):c.5272A>C (p.Ser1758Arg)	6326	SCN2A	Pathogenic	GRCh38	419634
+single nucleotide variant	NM_001040142.2(SCN2A):c.2792C>A (p.Ser931Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	426287
+single nucleotide variant	NM_001040142.2(SCN2A):c.3703C>T (p.Arg1235Ter)	6326	SCN2A	Pathogenic	GRCh38	426208
+single nucleotide variant	NM_001040142.2(SCN2A):c.4418T>C (p.Ile1473Thr)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	427011
+single nucleotide variant	NM_001040142.2(SCN2A):c.4856T>C (p.Phe1619Ser)	6326	SCN2A	Likely pathogenic	GRCh38	426288
+single nucleotide variant	NM_001040142.2(SCN2A):c.643G>C (p.Ala215Pro)	6326	SCN2A	Likely pathogenic	GRCh38	430366
+single nucleotide variant	NM_001040142.2(SCN2A):c.2701C>G (p.Gln901Glu)	6326	SCN2A	Likely pathogenic	GRCh38	429576
+single nucleotide variant	NM_001040142.2(SCN2A):c.1300G>C (p.Ala434Pro)	6326	SCN2A	Likely pathogenic	GRCh38	432064
+single nucleotide variant	NM_001040142.2(SCN2A):c.2810G>A (p.Arg937His)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	432034
+single nucleotide variant	NM_001040142.2(SCN2A):c.4061T>C (p.Met1354Thr)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	432025
+single nucleotide variant	NM_001040142.2(SCN2A):c.2182T>C (p.Cys728Arg)	6326	SCN2A	Pathogenic	GRCh38	433097
+single nucleotide variant	NM_001040142.2(SCN2A):c.11C>G (p.Ser4Ter)	6326	SCN2A	Pathogenic	GRCh38	436659
+single nucleotide variant	NM_001040142.2(SCN2A):c.2566C>T (p.Arg856Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	436662
+single nucleotide variant	NM_001040142.2(SCN2A):c.4435C>A (p.Gln1479Lys)	6326	SCN2A	Likely pathogenic	GRCh38	436661
+single nucleotide variant	NM_001040142.2(SCN2A):c.386+2T>C	6326	SCN2A	Pathogenic	GRCh38	449290
+single nucleotide variant	NM_001040142.2(SCN2A):c.554C>T (p.Thr185Ile)	6326	SCN2A	Likely pathogenic	GRCh38	451069
+single nucleotide variant	NM_001040142.2(SCN2A):c.605C>T (p.Ala202Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	449147
+single nucleotide variant	NM_001040142.2(SCN2A):c.719C>T (p.Ala240Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	449164
+single nucleotide variant	NM_001040142.2(SCN2A):c.2627A>G (p.Asn876Ser)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	449958
+single nucleotide variant	NM_001040142.2(SCN2A):c.3972G>T (p.Arg1324Ser)	6326	SCN2A	Likely pathogenic	GRCh38	453152
+single nucleotide variant	NM_001040142.2(SCN2A):c.3986C>A (p.Ala1329Asp)	6326	SCN2A	Likely pathogenic	GRCh38	451715
+single nucleotide variant	NM_001040142.2(SCN2A):c.3995G>C (p.Gly1332Ala)	6326	SCN2A	Likely pathogenic	GRCh38	450844
+single nucleotide variant	NM_001040142.2(SCN2A):c.5644C>T (p.Arg1882Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	450533
+single nucleotide variant	NM_001040142.2(SCN2A):c.4766A>G (p.Tyr1589Cys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	464912
+single nucleotide variant	NM_001040142.2(SCN2A):c.4037T>A (p.Ile1346Asn)	6326	SCN2A	Likely pathogenic	GRCh38	464909
+single nucleotide variant	NM_001040142.2(SCN2A):c.685T>G (p.Ser229Ala)	6326	SCN2A	Likely pathogenic	GRCh38	464920
+single nucleotide variant	NM_001040142.2(SCN2A):c.1342C>T (p.Gln448Ter)	6326	SCN2A	Pathogenic	GRCh38	464901
+single nucleotide variant	NM_001371246.1(SCN2A):c.634A>G (p.Asn212Asp)	6326	SCN2A	Pathogenic	GRCh38	488391
+single nucleotide variant	NM_001040142.2(SCN2A):c.517A>T (p.Lys173Ter)	6326	SCN2A	Pathogenic	GRCh38	489024
+single nucleotide variant	NM_001040142.2(SCN2A):c.3892G>T (p.Glu1298Ter)	6326	SCN2A	Pathogenic	GRCh38	489238
+single nucleotide variant	NM_001040142.2(SCN2A):c.4591C>T (p.Gln1531Ter)	6326	SCN2A	Pathogenic	GRCh38	489345
+single nucleotide variant	NM_001040142.2(SCN2A):c.2548C>T (p.Arg850Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	493288
+single nucleotide variant	NM_001040142.2(SCN2A):c.788C>A (p.Ala263Glu)	6326	SCN2A	Likely pathogenic	GRCh38	520403
+single nucleotide variant	NM_001040142.2(SCN2A):c.2356C>T (p.Gln786Ter)	6326	SCN2A	Pathogenic	GRCh38	522022
+single nucleotide variant	NM_001040142.2(SCN2A):c.2645G>A (p.Gly882Glu)	6326	SCN2A	Pathogenic	GRCh38	520571
+single nucleotide variant	NM_001040142.2(SCN2A):c.4967C>T (p.Ser1656Phe)	6326	SCN2A	Pathogenic	GRCh38	520884
+single nucleotide variant	NM_001040142.2(SCN2A):c.5274T>A (p.Ser1758Arg)	6326	SCN2A	Likely pathogenic	GRCh38	521745
+single nucleotide variant	NM_001040142.2(SCN2A):c.5308A>T (p.Met1770Leu)	6326	SCN2A	Pathogenic	GRCh38	520713
+single nucleotide variant	NM_001040142.2(SCN2A):c.5318C>T (p.Ala1773Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	520893
+single nucleotide variant	NM_001040142.2(SCN2A):c.4502T>C (p.Met1501Thr)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	533495
+single nucleotide variant	NM_001040142.2(SCN2A):c.4801G>T (p.Val1601Leu)	6326	SCN2A	Likely pathogenic	GRCh38	548699
+single nucleotide variant	NM_001040142.2(SCN2A):c.1A>T (p.Met1Leu)	6326	SCN2A	Likely pathogenic	GRCh38	559888
+single nucleotide variant	NM_001040142.2(SCN2A):c.658A>G (p.Arg220Gly)	6326	SCN2A	Likely pathogenic	GRCh38	567919
+single nucleotide variant	NM_001040142.2(SCN2A):c.5737C>T (p.Gln1913Ter)	6326	SCN2A	Likely pathogenic	GRCh38	589964
+single nucleotide variant	NM_001040142.2(SCN2A):c.2636G>C (p.Gly879Ala)	6326	SCN2A	Likely pathogenic	GRCh38	590186
+single nucleotide variant	NM_001040142.2(SCN2A):c.1600A>T (p.Arg534Ter)	6326	SCN2A	Pathogenic	GRCh38	620037
+single nucleotide variant	NM_001040142.2(SCN2A):c.5231G>A (p.Gly1744Glu)	6326	SCN2A	Likely pathogenic	GRCh38	620045
+single nucleotide variant	NM_001040142.2(SCN2A):c.5306A>G (p.Asn1769Ser)	6326	SCN2A	Likely pathogenic	GRCh38	620041
+single nucleotide variant	NM_001040142.2(SCN2A):c.605+1G>A	6326	SCN2A	Pathogenic	GRCh38	619986
+single nucleotide variant	NM_001040142.2(SCN2A):c.1747C>T (p.Arg583Ter)	6326	SCN2A	Pathogenic	GRCh38	620152
+single nucleotide variant	NM_001040142.2(SCN2A):c.3217G>T (p.Gly1073Ter)	6326	SCN2A	Likely pathogenic	GRCh38	620347
+single nucleotide variant	NM_001040142.2(SCN2A):c.4267G>T (p.Gly1423Ter)	6326	SCN2A	Pathogenic	GRCh38	620576
+single nucleotide variant	NM_001040142.2(SCN2A):c.4517C>A (p.Ser1506Ter)	6326	SCN2A	Pathogenic	GRCh38	620445
+single nucleotide variant	NM_001040142.2(SCN2A):c.4865C>G (p.Pro1622Arg)	6326	SCN2A	Pathogenic	GRCh38	633560
+single nucleotide variant	NM_001040142.2(SCN2A):c.573G>T (p.Trp191Cys)	6326	SCN2A	Pathogenic	GRCh38	643515
+single nucleotide variant	NM_001040142.2(SCN2A):c.1028A>G (p.Asp343Gly)	6326	SCN2A	Pathogenic	GRCh38	661756
+single nucleotide variant	NM_001040142.2(SCN2A):c.1078C>T (p.Pro360Ser)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	644178
+single nucleotide variant	NM_001040142.2(SCN2A):c.1270G>A (p.Val424Met)	6326	SCN2A	Pathogenic	GRCh38	661206
+single nucleotide variant	NM_001040142.2(SCN2A):c.2528T>A (p.Val843Glu)	6326	SCN2A	Likely pathogenic	GRCh38	642543
+single nucleotide variant	NM_001040142.2(SCN2A):c.4223T>C (p.Val1408Ala)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	650423
+single nucleotide variant	NM_001040142.2(SCN2A):c.4350T>G (p.Tyr1450Ter)	6326	SCN2A	Pathogenic	GRCh38	665987
+single nucleotide variant	NM_001040142.2(SCN2A):c.4886G>T (p.Arg1629Leu)	6326	SCN2A	Pathogenic	GRCh38	660961
+single nucleotide variant	NM_001040142.2(SCN2A):c.5431C>G (p.Gln1811Glu)	6326	SCN2A	Pathogenic	GRCh38	665483
+single nucleotide variant	NM_001040142.2(SCN2A):c.5641G>T (p.Glu1881Ter)	6326	SCN2A	Likely pathogenic	GRCh38	689716
+single nucleotide variant	NM_001040142.2(SCN2A):c.2638G>A (p.Ala880Thr)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	689785
+single nucleotide variant	NM_001040142.2(SCN2A):c.638T>C (p.Val213Ala)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	801776
+single nucleotide variant	NM_001040142.2(SCN2A):c.1384-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	801777
+single nucleotide variant	NM_001040142.2(SCN2A):c.2659G>C (p.Val887Leu)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	801778
+single nucleotide variant	NM_001040142.2(SCN2A):c.3664A>C (p.Ser1222Arg)	6326	SCN2A	Likely pathogenic	GRCh38	801781
+single nucleotide variant	NM_001040142.2(SCN2A):c.4243C>A (p.Leu1415Ile)	6326	SCN2A	Likely pathogenic	GRCh38	801782
+single nucleotide variant	NM_001040142.2(SCN2A):c.4635G>C (p.Met1545Ile)	6326	SCN2A	Likely pathogenic	GRCh38	801783
+single nucleotide variant	NM_001040142.2(SCN2A):c.4635G>T (p.Met1545Ile)	6326	SCN2A	Likely pathogenic	GRCh38	801784
+single nucleotide variant	NM_001040142.2(SCN2A):c.4688T>G (p.Leu1563Arg)	6326	SCN2A	Likely pathogenic	GRCh38	801785
+single nucleotide variant	NM_001040142.2(SCN2A):c.5333A>T (p.Asn1778Ile)	6326	SCN2A	Likely pathogenic	GRCh38	801787
+single nucleotide variant	NM_001040142.2(SCN2A):c.5918C>G (p.Pro1973Arg)	6326	SCN2A	Likely pathogenic	GRCh38	801788
+single nucleotide variant	NM_001040142.2(SCN2A):c.4439A>G (p.Lys1480Arg)	6326	SCN2A	Likely pathogenic	GRCh38	807676
+single nucleotide variant	NM_001040142.2(SCN2A):c.1270G>T (p.Val424Leu)	6326	SCN2A	Likely pathogenic	GRCh38	812987
+single nucleotide variant	NM_001040142.2(SCN2A):c.5131A>G (p.Thr1711Ala)	6326	SCN2A	Likely pathogenic	GRCh38	813788
+single nucleotide variant	NM_001040142.2(SCN2A):c.5616G>C (p.Met1872Ile)	6326	SCN2A	Likely pathogenic	GRCh38	813765
+single nucleotide variant	NM_001040142.2(SCN2A):c.2317A>G (p.Thr773Ala)	6326	SCN2A	Pathogenic	GRCh38	816922
+single nucleotide variant	NM_001040142.2(SCN2A):c.164A>C (p.Asp55Ala)	6326	SCN2A	Likely pathogenic	GRCh38	827673
+single nucleotide variant	NM_001040142.2(SCN2A):c.4644G>C (p.Met1548Ile)	6326	SCN2A	Likely pathogenic	GRCh38	828183
+single nucleotide variant	NM_001040142.2(SCN2A):c.685T>A (p.Ser229Thr)	6326	SCN2A	Likely pathogenic	GRCh38	834051
+single nucleotide variant	NM_001040142.2(SCN2A):c.643G>A (p.Ala215Thr)	6326	SCN2A	Pathogenic	GRCh38	851358
+single nucleotide variant	NM_001040142.2(SCN2A):c.2950A>G (p.Ser984Gly)	6326	SCN2A	Likely pathogenic	GRCh38	836860
+single nucleotide variant	NM_001040142.2(SCN2A):c.3634A>C (p.Thr1212Pro)	6326	SCN2A	Likely pathogenic	GRCh38	839313
+single nucleotide variant	NM_001040142.2(SCN2A):c.3928G>C (p.Ala1310Pro)	6326	SCN2A	Likely pathogenic	GRCh38	859669
+single nucleotide variant	NM_001040142.2(SCN2A):c.4123T>G (p.Phe1375Val)	6326	SCN2A	Likely pathogenic	GRCh38	839303
+single nucleotide variant	NM_001040142.2(SCN2A):c.4432C>G (p.Gln1478Glu)	6326	SCN2A	Pathogenic	GRCh38	842452
+single nucleotide variant	NM_001040142.2(SCN2A):c.4745T>C (p.Leu1582Pro)	6326	SCN2A	Pathogenic	GRCh38	851010
+single nucleotide variant	NM_001040142.2(SCN2A):c.4880T>C (p.Val1627Ala)	6326	SCN2A	Likely pathogenic	GRCh38	837982
+single nucleotide variant	NM_001040142.2(SCN2A):c.4885C>T (p.Arg1629Cys)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	840614
+single nucleotide variant	NM_001040142.2(SCN2A):c.4918A>T (p.Ile1640Phe)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	835364
+single nucleotide variant	NM_001040142.2(SCN2A):c.5670A>C (p.Lys1890Asn)	6326	SCN2A	Likely pathogenic	GRCh38	853123
+single nucleotide variant	NM_001040142.2(SCN2A):c.4255-6T>A	6326	SCN2A	Likely pathogenic	GRCh38	854893
+single nucleotide variant	NM_001040142.2(SCN2A):c.1036C>T (p.Gln346Ter)	6326	SCN2A	Pathogenic	GRCh38	870191
+single nucleotide variant	NM_001040142.2(SCN2A):c.1058G>C (p.Cys353Ser)	6326	SCN2A	Likely pathogenic	GRCh38	870196
+single nucleotide variant	NM_001040142.2(SCN2A):c.1255T>A (p.Leu419Met)	6326	SCN2A	Likely pathogenic	GRCh38	870195
+single nucleotide variant	NM_001040142.2(SCN2A):c.2501G>A (p.Ser834Asn)	6326	SCN2A	Likely pathogenic	GRCh38	870189
+single nucleotide variant	NM_001040142.2(SCN2A):c.4832T>C (p.Leu1611Pro)	6326	SCN2A	Pathogenic	GRCh38	870190
+single nucleotide variant	NM_001040142.2(SCN2A):c.3850-2A>G	6326	SCN2A	Pathogenic	GRCh38	870194
+single nucleotide variant	NM_001040142.2(SCN2A):c.1031C>T (p.Ala344Val)	6326	SCN2A	Likely pathogenic	GRCh38	872400
+single nucleotide variant	NM_001040142.2(SCN2A):c.2217G>A (p.Trp739Ter)	6326	SCN2A	Likely pathogenic	GRCh38	872402
+single nucleotide variant	NM_001040142.2(SCN2A):c.2621T>C (p.Ile874Thr)	6326	SCN2A	Likely pathogenic	GRCh38	872403
+single nucleotide variant	NM_001040142.2(SCN2A):c.3850-3T>G	6326	SCN2A	Likely pathogenic	GRCh38	872404
+single nucleotide variant	NM_001040142.2(SCN2A):c.4949T>C (p.Leu1650Pro)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	870747
+single nucleotide variant	NM_001040142.2(SCN2A):c.2562+2T>C	6326	SCN2A	Pathogenic	GRCh38	916176
+single nucleotide variant	NM_001040142.2(SCN2A):c.4864C>T (p.Pro1622Ser)	6326	SCN2A	Pathogenic	GRCh38	932957
+single nucleotide variant	NM_001040142.2(SCN2A):c.843G>A (p.Trp281Ter)	6326	SCN2A	Pathogenic	GRCh38	946767
+single nucleotide variant	NM_001040142.2(SCN2A):c.466A>C (p.Lys156Gln)	6326	SCN2A	Likely pathogenic	GRCh38	933619
+single nucleotide variant	NM_001040142.2(SCN2A):c.629T>A (p.Leu210Gln)	6326	SCN2A	Likely pathogenic	GRCh38	934399
+single nucleotide variant	NM_001040142.2(SCN2A):c.1120T>C (p.Phe374Leu)	6326	SCN2A	Pathogenic	GRCh38	937577
+single nucleotide variant	NM_001040142.2(SCN2A):c.2948T>G (p.Leu983Trp)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	938446
+single nucleotide variant	NM_001040142.2(SCN2A):c.4769T>C (p.Phe1590Ser)	6326	SCN2A	Pathogenic	GRCh38	940493
+single nucleotide variant	NM_001040142.2(SCN2A):c.7C>T (p.Gln3Ter)	6326	SCN2A	Pathogenic	GRCh38	962441
+single nucleotide variant	NM_001040142.2(SCN2A):c.1363A>T (p.Lys455Ter)	6326	SCN2A	Pathogenic	GRCh38	955765
+single nucleotide variant	NM_001040142.2(SCN2A):c.3973-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	956502
+single nucleotide variant	NM_001040142.2(SCN2A):c.620T>C (p.Phe207Ser)	6326	SCN2A	Likely pathogenic	GRCh38	976279
+single nucleotide variant	NM_001040142.2(SCN2A):c.4466T>G (p.Phe1489Cys)	6326	SCN2A	Likely pathogenic	GRCh38	976140
+single nucleotide variant	NM_001040142.2(SCN2A):c.4391C>T (p.Thr1464Ile)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	978724
+single nucleotide variant	NM_001040142.2(SCN2A):c.4614G>T (p.Met1538Ile)	6326	SCN2A	Likely pathogenic	GRCh38	978723
+single nucleotide variant	NM_001040142.2(SCN2A):c.4082G>A (p.Gly1361Asp)	6326	SCN2A	Likely pathogenic	GRCh38	978923
+single nucleotide variant	NM_001040142.2(SCN2A):c.4959G>C (p.Leu1653Phe)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	978919
+single nucleotide variant	NM_001040142.2(SCN2A):c.4895G>T (p.Arg1632Met)	6326	SCN2A	Likely pathogenic	GRCh38	979196
+single nucleotide variant	NM_001040142.2(SCN2A):c.785T>C (p.Phe262Ser)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	982024
+single nucleotide variant	NM_001040142.2(SCN2A):c.781G>T (p.Val261Leu)	6326	SCN2A	Pathogenic	GRCh38	982411
+single nucleotide variant	NM_001040142.2(SCN2A):c.2388+1G>A	6326	SCN2A	Pathogenic	GRCh38	984752
+single nucleotide variant	NM_001040142.2(SCN2A):c.167T>A (p.Leu56Ter)	6326	SCN2A	Pathogenic	GRCh38	984813
+single nucleotide variant	NM_001040142.2(SCN2A):c.252C>A (p.Tyr84Ter)	6326	SCN2A	Pathogenic	GRCh38	984819
+single nucleotide variant	NM_001040142.2(SCN2A):c.593T>A (p.Val198Asp)	6326	SCN2A	Likely pathogenic	GRCh38	984815
+single nucleotide variant	NM_001040142.2(SCN2A):c.632G>A (p.Gly211Asp)	6326	SCN2A	Pathogenic	GRCh38	984860
+single nucleotide variant	NM_001040142.2(SCN2A):c.710T>A (p.Ile237Asn)	6326	SCN2A	Likely pathogenic	GRCh38	984863
+single nucleotide variant	NM_001040142.2(SCN2A):c.1528C>T (p.Gln510Ter)	6326	SCN2A	Pathogenic	GRCh38	984829
+single nucleotide variant	NM_001040142.2(SCN2A):c.1819C>T (p.Arg607Ter)	6326	SCN2A	Pathogenic	GRCh38	984895
+single nucleotide variant	NM_001040142.2(SCN2A):c.2538G>T (p.Leu846Phe)	6326	SCN2A	Pathogenic	GRCh38	984898
+single nucleotide variant	NM_001040142.2(SCN2A):c.2894T>G (p.Met965Arg)	6326	SCN2A	Likely pathogenic	GRCh38	984817
+single nucleotide variant	NM_001040142.2(SCN2A):c.2932T>C (p.Phe978Leu)	6326	SCN2A	Likely pathogenic	GRCh38	984864
+single nucleotide variant	NM_001040142.2(SCN2A):c.3399G>C (p.Glu1133Asp)	6326	SCN2A	Likely pathogenic	GRCh38	984816
+single nucleotide variant	NM_001040142.2(SCN2A):c.3778A>C (p.Lys1260Gln)	6326	SCN2A	Likely pathogenic	GRCh38	984832
+single nucleotide variant	NM_001040142.2(SCN2A):c.3778A>G (p.Lys1260Glu)	6326	SCN2A	Likely pathogenic	GRCh38	984831
+single nucleotide variant	NM_001040142.2(SCN2A):c.4506A>T (p.Lys1502Asn)	6326	SCN2A	Likely pathogenic	GRCh38	984897
+single nucleotide variant	NM_001040142.2(SCN2A):c.4972C>T (p.Pro1658Ser)	6326	SCN2A	Pathogenic	GRCh38	984818
+single nucleotide variant	NM_001040142.2(SCN2A):c.4984A>G (p.Asn1662Asp)	6326	SCN2A	Likely pathogenic	GRCh38	984857
+single nucleotide variant	NM_001040142.2(SCN2A):c.5318C>A (p.Ala1773Glu)	6326	SCN2A	Likely pathogenic	GRCh38	984900
+single nucleotide variant	NM_001040142.2(SCN2A):c.408G>A (p.Met136Ile)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	985353
+single nucleotide variant	NM_001040142.2(SCN2A):c.802C>T (p.Gln268Ter)	6326	SCN2A	Pathogenic	GRCh38	985424
+single nucleotide variant	NM_001040142.2(SCN2A):c.2504T>G (p.Leu835Ter)	6326	SCN2A	Pathogenic	GRCh38	986038
+single nucleotide variant	NM_001040142.2(SCN2A):c.2936T>G (p.Leu979Trp)	6326	SCN2A	Likely pathogenic	GRCh38	985318
+single nucleotide variant	NM_001040142.2(SCN2A):c.638T>A (p.Val213Asp)	6326	SCN2A	Likely pathogenic	GRCh38	986823
+single nucleotide variant	NM_001040142.2(SCN2A):c.730T>C (p.Ser244Pro)	6326	SCN2A	Likely pathogenic	GRCh38	986850
+single nucleotide variant	NM_001040142.2(SCN2A):c.4822+1G>A	6326	SCN2A	Likely pathogenic	GRCh38	988710
+single nucleotide variant	NM_001040142.2(SCN2A):c.4962G>T (p.Met1654Ile)	6326	SCN2A	Likely pathogenic	GRCh38	989272
+single nucleotide variant	NM_001040142.2(SCN2A):c.3399+1G>A	6326	SCN2A	Likely pathogenic	GRCh38	994227
+single nucleotide variant	NM_001040142.2(SCN2A):c.638T>G (p.Val213Gly)	6326	SCN2A	Likely pathogenic	GRCh38	996766
+single nucleotide variant	NM_001040142.2(SCN2A):c.4901G>T (p.Gly1634Val)	6326	SCN2A	Pathogenic	GRCh38	1000049
+single nucleotide variant	NM_001040142.2(SCN2A):c.4948C>T (p.Leu1650Phe)	6326	SCN2A	Pathogenic	GRCh38	1013421
+single nucleotide variant	NM_001040142.2(SCN2A):c.2305A>G (p.Ile769Val)	6326	SCN2A	Likely pathogenic	GRCh38	1014704
+single nucleotide variant	NM_001040142.2(SCN2A):c.4946T>C (p.Leu1649Pro)	6326	SCN2A	Likely pathogenic	GRCh38	1028211
+single nucleotide variant	NM_001040142.2(SCN2A):c.3986C>G (p.Ala1329Gly)	6326	SCN2A	Likely pathogenic	GRCh38	1045750
+single nucleotide variant	NM_001040142.2(SCN2A):c.304C>G (p.Arg102Gly)	6326	SCN2A	Likely pathogenic	GRCh38	1064766
+single nucleotide variant	NM_001040142.2(SCN2A):c.586T>G (p.Phe196Val)	6326	SCN2A	Likely pathogenic	GRCh38	1067056
+single nucleotide variant	NM_001040142.2(SCN2A):c.4501A>G (p.Met1501Val)	6326	SCN2A	Pathogenic	GRCh38	1068258
+single nucleotide variant	NM_001040142.2(SCN2A):c.4551+1G>A	6326	SCN2A	Pathogenic	GRCh38	1066198
+single nucleotide variant	NM_001040142.2(SCN2A):c.787G>A (p.Ala263Thr)	6326	SCN2A	Pathogenic	GRCh38	1070304
+single nucleotide variant	NM_001040142.2(SCN2A):c.1267G>T (p.Val423Leu)	6326	SCN2A	Pathogenic	GRCh38	1072191
+single nucleotide variant	NM_001040142.2(SCN2A):c.3782G>A (p.Trp1261Ter)	6326	SCN2A	Pathogenic	GRCh38	1074161
+single nucleotide variant	NM_001040142.2(SCN2A):c.4543C>T (p.Arg1515Ter)	6326	SCN2A	Pathogenic	GRCh38	1074300
+single nucleotide variant	NM_001040142.2(SCN2A):c.4787T>G (p.Ile1596Ser)	6326	SCN2A	Pathogenic	GRCh38	1074301
+single nucleotide variant	NM_001040142.2(SCN2A):c.4493A>C (p.Tyr1498Ser)	6326	SCN2A	Likely pathogenic	GRCh38	1098291
+single nucleotide variant	NM_001040142.2(SCN2A):c.330C>A (p.Tyr110Ter)	6326	SCN2A	Pathogenic	GRCh38	1173107
+single nucleotide variant	NM_001040142.2(SCN2A):c.4437G>T (p.Gln1479His)	6326	SCN2A	Likely pathogenic	GRCh38	1180106
+single nucleotide variant	NM_001040142.2(SCN2A):c.4865C>T (p.Pro1622Leu)	6326	SCN2A	Likely pathogenic	GRCh38	1193520
+single nucleotide variant	NM_001040142.2(SCN2A):c.5405G>A (p.Trp1802Ter)	6326	SCN2A	Pathogenic	GRCh38	1196824
+single nucleotide variant	NM_001040142.2(SCN2A):c.2960G>A (p.Ser987Asn)	6326	SCN2A	Likely pathogenic	GRCh38	1203296
+single nucleotide variant	NM_001040142.2(SCN2A):c.476+1G>A	6326	SCN2A	Pathogenic	GRCh38	1206719
+single nucleotide variant	NM_001040142.2(SCN2A):c.2842T>C (p.Trp948Arg)	6326	SCN2A	Likely pathogenic	GRCh38	1209483
+single nucleotide variant	NM_001040142.2(SCN2A):c.356G>T (p.Arg119Ile)	6326	SCN2A	Likely pathogenic	GRCh38	1219648
+single nucleotide variant	NM_001040142.2(SCN2A):c.2588C>A (p.Ser863Tyr)	6326	SCN2A	Pathogenic	GRCh38	1256055
+single nucleotide variant	NM_001040142.2(SCN2A):c.415A>G (p.Ile139Val)	6326	SCN2A	Likely pathogenic	GRCh38	1298830
+single nucleotide variant	NM_001040142.2(SCN2A):c.2017-2A>G	6326	SCN2A	Pathogenic	GRCh38	1298832
+single nucleotide variant	NM_001040142.2(SCN2A):c.2986G>A (p.Asp996Asn)	6326	SCN2A	Likely pathogenic	GRCh38	1299578
+single nucleotide variant	NM_001040142.2(SCN2A):c.4018G>A (p.Val1340Ile)	6326	SCN2A	Pathogenic	GRCh38	1300201
+single nucleotide variant	NM_001040142.2(SCN2A):c.4437G>C (p.Gln1479His)	6326	SCN2A	Likely pathogenic	GRCh38	1308640
+single nucleotide variant	NM_001040142.2(SCN2A):c.718G>T (p.Ala240Ser)	6326	SCN2A	Pathogenic	GRCh38	1318908
+single nucleotide variant	NM_001040142.2(SCN2A):c.971-1G>A	6326	SCN2A	Likely pathogenic	GRCh38	1320083
+single nucleotide variant	NM_001040142.2(SCN2A):c.4446+1A>G	6326	SCN2A	Pathogenic	GRCh38	1323562
+single nucleotide variant	NM_001040142.2(SCN2A):c.4013T>C (p.Met1338Thr)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1325038
+single nucleotide variant	NM_001040142.2(SCN2A):c.5308A>C (p.Met1770Leu)	6326	SCN2A	Likely pathogenic	GRCh38	1325039
+single nucleotide variant	NM_001040142.2(SCN2A):c.466A>G (p.Lys156Glu)	6326	SCN2A	Likely pathogenic	GRCh38	1335404
+single nucleotide variant	NM_001040142.2(SCN2A):c.1261T>G (p.Leu421Val)	6326	SCN2A	Pathogenic	GRCh38	1342670
+single nucleotide variant	NM_001040142.2(SCN2A):c.4364T>A (p.Ile1455Asn)	6326	SCN2A	Pathogenic	GRCh38	1342671
+single nucleotide variant	NM_001040142.2(SCN2A):c.4454G>A (p.Gly1485Asp)	6326	SCN2A	Likely pathogenic	GRCh38	1342672
+single nucleotide variant	NM_001040142.2(SCN2A):c.5144G>T (p.Gly1715Val)	6326	SCN2A	Pathogenic	GRCh38	1342673
+single nucleotide variant	NM_001040142.2(SCN2A):c.4498G>A (p.Ala1500Thr)	6326	SCN2A	Pathogenic	GRCh38	1342674
+single nucleotide variant	NM_001040142.2(SCN2A):c.4933G>A (p.Gly1645Arg)	6326	SCN2A	Pathogenic	GRCh38	1342676
+single nucleotide variant	NM_001040142.2(SCN2A):c.4399C>G (p.Leu1467Val)	6326	SCN2A	Pathogenic	GRCh38	1342677
+single nucleotide variant	NM_001040142.2(SCN2A):c.4015A>G (p.Asn1339Asp)	6326	SCN2A	Pathogenic	GRCh38	1342679
+single nucleotide variant	NM_001040142.2(SCN2A):c.5558A>G (p.His1853Arg)	6326	SCN2A	Pathogenic	GRCh38	1342680
+single nucleotide variant	NM_001040142.2(SCN2A):c.2872A>G (p.Met958Val)	6326	SCN2A	Likely pathogenic	GRCh38	1342681
+single nucleotide variant	NM_001040142.2(SCN2A):c.4712T>C (p.Ile1571Thr)	6326	SCN2A	Pathogenic	GRCh38	1342682
+single nucleotide variant	NM_001040142.2(SCN2A):c.4523A>T (p.Lys1508Ile)	6326	SCN2A	Pathogenic	GRCh38	1342683
+single nucleotide variant	NM_001040142.2(SCN2A):c.807G>T (p.Leu269Phe)	6326	SCN2A	Pathogenic	GRCh38	1342684
+single nucleotide variant	NM_001040142.2(SCN2A):c.4948C>A (p.Leu1650Ile)	6326	SCN2A	Pathogenic	GRCh38	1342685
+single nucleotide variant	NM_001040142.2(SCN2A):c.5237G>A (p.Cys1746Tyr)	6326	SCN2A	Pathogenic	GRCh38	1342686
+single nucleotide variant	NM_001040142.2(SCN2A):c.4432C>A (p.Gln1478Lys)	6326	SCN2A	Pathogenic	GRCh38	1342687
+single nucleotide variant	NM_001040142.2(SCN2A):c.3936G>T (p.Arg1312Ser)	6326	SCN2A	Pathogenic	GRCh38	1342688
+single nucleotide variant	NM_001040142.2(SCN2A):c.5640A>C (p.Glu1880Asp)	6326	SCN2A	Pathogenic	GRCh38	1342689
+single nucleotide variant	NM_001040142.2(SCN2A):c.1253A>T (p.Asn418Ile)	6326	SCN2A	Pathogenic	GRCh38	1342690
+single nucleotide variant	NM_001040142.2(SCN2A):c.752T>C (p.Val251Ala)	6326	SCN2A	Pathogenic	GRCh38	1342691
+single nucleotide variant	NM_001040142.2(SCN2A):c.2870C>A (p.Thr957Asn)	6326	SCN2A	Likely pathogenic	GRCh38	1342692
+single nucleotide variant	NM_001040142.2(SCN2A):c.4969C>T (p.Leu1657Phe)	6326	SCN2A	Pathogenic	GRCh38	1342693
+single nucleotide variant	NM_001040142.2(SCN2A):c.1288G>A (p.Glu430Lys)	6326	SCN2A	Pathogenic	GRCh38	1342694
+single nucleotide variant	NM_001040142.2(SCN2A):c.707C>G (p.Thr236Ser)	6326	SCN2A	Pathogenic	GRCh38	1342695
+single nucleotide variant	NM_001040142.2(SCN2A):c.4610T>C (p.Ile1537Thr)	6326	SCN2A	Pathogenic	GRCh38	1342696
+single nucleotide variant	NM_001040142.2(SCN2A):c.1307T>C (p.Leu436Ser)	6326	SCN2A	Pathogenic	GRCh38	1342697
+single nucleotide variant	NM_001040142.2(SCN2A):c.1737C>G (p.Ser579Arg)	6326	SCN2A	Pathogenic	GRCh38	1342698
+single nucleotide variant	NM_001040142.2(SCN2A):c.4835C>G (p.Ala1612Gly)	6326	SCN2A	Pathogenic	GRCh38	1342699
+single nucleotide variant	NM_001040142.2(SCN2A):c.1136G>A (p.Arg379His)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1343156
+single nucleotide variant	NM_001040142.2(SCN2A):c.4913G>C (p.Arg1638Pro)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1344839
+single nucleotide variant	NM_001040142.2(SCN2A):c.4451G>A (p.Gly1484Glu)	6326	SCN2A	Likely pathogenic	GRCh38	1494763
+single nucleotide variant	NM_001040142.2(SCN2A):c.5636T>C (p.Met1879Thr)	6326	SCN2A	Likely pathogenic	GRCh38	1478168
+single nucleotide variant	NM_001040142.2(SCN2A):c.664C>A (p.Leu222Ile)	6326	SCN2A	Likely pathogenic	GRCh38	1507589
+single nucleotide variant	NM_001040142.2(SCN2A):c.5660A>C (p.Asn1887Thr)	6326	SCN2A	Pathogenic	GRCh38	1493392
+single nucleotide variant	NM_001040142.2(SCN2A):c.2928C>A (p.Asn976Lys)	6326	SCN2A	Pathogenic	GRCh38	1443607
+single nucleotide variant	NM_001040142.2(SCN2A):c.1242C>G (p.Phe414Leu)	6326	SCN2A	Pathogenic	GRCh38	1471623
+single nucleotide variant	NM_001040142.2(SCN2A):c.5638G>A (p.Glu1880Lys)	6326	SCN2A	Pathogenic	GRCh38	1498691
+single nucleotide variant	NM_001040142.2(SCN2A):c.635A>G (p.Asn212Ser)	6326	SCN2A	Likely pathogenic	GRCh38	1420984
+single nucleotide variant	NM_001040142.2(SCN2A):c.2959A>T (p.Ser987Cys)	6326	SCN2A	Likely pathogenic	GRCh38	1502099
+single nucleotide variant	NM_001040142.2(SCN2A):c.1312G>C (p.Glu438Gln)	6326	SCN2A	Pathogenic	GRCh38	1490380
+single nucleotide variant	NM_001040142.2(SCN2A):c.2558G>C (p.Arg853Pro)	6326	SCN2A	Pathogenic	GRCh38	1451854
+single nucleotide variant	NM_001040142.2(SCN2A):c.4462A>G (p.Ile1488Val)	6326	SCN2A	Likely pathogenic	GRCh38	1508180
+single nucleotide variant	NM_001040142.2(SCN2A):c.2190T>A (p.Tyr730Ter)	6326	SCN2A	Pathogenic	GRCh38	1454390
+single nucleotide variant	NM_001040142.2(SCN2A):c.3823T>C (p.Cys1275Arg)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1508868
+single nucleotide variant	NM_001040142.2(SCN2A):c.3067G>T (p.Glu1023Ter)	6326	SCN2A	Pathogenic	GRCh38	1456085
+single nucleotide variant	NM_001040142.2(SCN2A):c.1147C>T (p.Gln383Ter)	6326	SCN2A	Pathogenic	GRCh38	1403875
+single nucleotide variant	NM_001040142.2(SCN2A):c.2150-2A>G	6326	SCN2A	Pathogenic	GRCh38	1497432
+single nucleotide variant	NM_001040142.2(SCN2A):c.4868C>A (p.Thr1623Asn)	6326	SCN2A	Pathogenic	GRCh38	1497461
+single nucleotide variant	NM_001040142.2(SCN2A):c.1148A>T (p.Gln383Leu)	6326	SCN2A	Likely pathogenic	GRCh38	1514630
+single nucleotide variant	NM_001040142.2(SCN2A):c.4885C>G (p.Arg1629Gly)	6326	SCN2A	Pathogenic	GRCh38	1418333
+single nucleotide variant	NM_001040142.2(SCN2A):c.4069A>T (p.Asn1357Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	1434531
+single nucleotide variant	NM_001040142.2(SCN2A):c.579G>A (p.Trp193Ter)	6326	SCN2A	Pathogenic	GRCh38	1460413
+single nucleotide variant	NM_001040142.2(SCN2A):c.1283A>T (p.Tyr428Phe)	6326	SCN2A	Likely pathogenic	GRCh38	1527961
+single nucleotide variant	NM_001040142.2(SCN2A):c.779G>T (p.Ser260Ile)	6326	SCN2A	Likely pathogenic	GRCh38	1675802
+single nucleotide variant	NM_001040142.2(SCN2A):c.1034+1G>A	6326	SCN2A	Likely pathogenic	GRCh38	1675803
+single nucleotide variant	NM_001040142.2(SCN2A):c.4778G>T (p.Gly1593Val)	6326	SCN2A	Likely pathogenic	GRCh38	1675804
+single nucleotide variant	NM_001040142.2(SCN2A):c.4446+2T>C	6326	SCN2A	Likely pathogenic	GRCh38	1677935
+single nucleotide variant	NM_001040142.2(SCN2A):c.634A>G (p.Asn212Asp)	6326	SCN2A	Pathogenic	GRCh38	1686160
+single nucleotide variant	NM_001040142.2(SCN2A):c.1271T>G (p.Val424Gly)	6326	SCN2A	Pathogenic	GRCh38	1686161
+single nucleotide variant	NM_001040142.2(SCN2A):c.2854G>T (p.Glu952Ter)	6326	SCN2A	Pathogenic	GRCh38	1686162
+single nucleotide variant	NM_001040142.2(SCN2A):c.3997G>T (p.Ala1333Ser)	6326	SCN2A	Pathogenic	GRCh38	1686165
+single nucleotide variant	NM_001040142.2(SCN2A):c.4316T>G (p.Leu1439Ter)	6326	SCN2A	Pathogenic	GRCh38	1686166
+single nucleotide variant	NM_001040142.2(SCN2A):c.4517C>G (p.Ser1506Ter)	6326	SCN2A	Pathogenic	GRCh38	1686169
+single nucleotide variant	NM_001040142.2(SCN2A):c.644C>A (p.Ala215Glu)	6326	SCN2A	Likely pathogenic	GRCh38	1690637
+single nucleotide variant	NM_001040142.2(SCN2A):c.1412C>G (p.Ser471Ter)	6326	SCN2A	Likely pathogenic	GRCh38	1700159
+single nucleotide variant	NM_001040142.2(SCN2A):c.2954C>T (p.Ser985Phe)	6326	SCN2A	Likely pathogenic	GRCh38	1701078
+single nucleotide variant	NM_001040142.2(SCN2A):c.4376T>G (p.Phe1459Cys)	6326	SCN2A	Likely pathogenic	GRCh38	1702654
+single nucleotide variant	NM_001040142.2(SCN2A):c.4954G>C (p.Ala1652Pro)	6326	SCN2A	Pathogenic	GRCh38	1704260
+single nucleotide variant	NM_001040142.2(SCN2A):c.4789T>C (p.Phe1597Leu)	6326	SCN2A	Pathogenic	GRCh38	1704269
+single nucleotide variant	NM_001040142.2(SCN2A):c.2844G>A (p.Trp948Ter)	6326	SCN2A	Pathogenic	GRCh38	1707883
+single nucleotide variant	NM_001040142.2(SCN2A):c.2815C>G (p.Leu939Val)	6326	SCN2A	Likely pathogenic	GRCh38	1708031
+single nucleotide variant	NM_001040142.2(SCN2A):c.2896G>C (p.Val966Leu)	6326	SCN2A	Likely pathogenic	GRCh38	1708032
+single nucleotide variant	NM_001040142.2(SCN2A):c.5350G>A (p.Glu1784Lys)	6326	SCN2A	Likely pathogenic	GRCh38	1708033
+single nucleotide variant	NM_001040142.2(SCN2A):c.4966T>C (p.Ser1656Pro)	6326	SCN2A	Likely pathogenic	GRCh38	1708034
+single nucleotide variant	NM_001040142.2(SCN2A):c.3945A>T (p.Arg1315Ser)	6326	SCN2A	Likely pathogenic	GRCh38	1708035
+single nucleotide variant	NM_001040142.2(SCN2A):c.1157G>A (p.Trp386Ter)	6326	SCN2A	Pathogenic	GRCh38	1708036
+single nucleotide variant	NM_001040142.2(SCN2A):c.2909G>C (p.Gly970Ala)	6326	SCN2A	Likely pathogenic	GRCh38	1708037
+single nucleotide variant	NM_001040142.2(SCN2A):c.2081T>A (p.Leu694Ter)	6326	SCN2A	Pathogenic	GRCh38	1708221
+single nucleotide variant	NM_001040142.2(SCN2A):c.4551+5G>A	6326	SCN2A	Likely pathogenic	GRCh38	1709190
+single nucleotide variant	NM_001040142.2(SCN2A):c.5408A>G (p.Glu1803Gly)	6326	SCN2A	Likely pathogenic	GRCh38	1727245
+single nucleotide variant	NM_001040142.2(SCN2A):c.3935G>C (p.Arg1312Thr)	6326	SCN2A	Likely pathogenic	GRCh38	1727247
+single nucleotide variant	NM_001040142.2(SCN2A):c.722T>G (p.Leu241Arg)	6326	SCN2A	Likely pathogenic	GRCh38	1757816
+single nucleotide variant	NM_001040142.2(SCN2A):c.2187G>C (p.Trp729Cys)	6326	SCN2A	Likely pathogenic	GRCh38	1787351
+single nucleotide variant	NM_001040142.2(SCN2A):c.3839T>C (p.Leu1280Pro)	6326	SCN2A	Likely pathogenic	GRCh38	1802560
+single nucleotide variant	NM_001040142.2(SCN2A):c.3676-7C>G	6326	SCN2A	Likely pathogenic	GRCh38	1803058
+single nucleotide variant	NM_001040142.2(SCN2A):c.4499C>T (p.Ala1500Val)	6326	SCN2A	Likely pathogenic	GRCh38	1803060
+single nucleotide variant	NM_001040142.2(SCN2A):c.4426T>A (p.Phe1476Ile)	6326	SCN2A	Likely pathogenic	GRCh38	1803061
+single nucleotide variant	NM_001040142.2(SCN2A):c.819C>A (p.Asn273Lys)	6326	SCN2A	Likely pathogenic	GRCh38	1803062
+single nucleotide variant	NM_001040142.2(SCN2A):c.4622T>A (p.Ile1541Asn)	6326	SCN2A	Likely pathogenic	GRCh38	1803063
+single nucleotide variant	NM_001040142.2(SCN2A):c.4425C>G (p.Asn1475Lys)	6326	SCN2A	Pathogenic	GRCh38	1804532
+single nucleotide variant	NM_001040142.2(SCN2A):c.1318G>T (p.Glu440Ter)	6326	SCN2A	Pathogenic	GRCh38	1805275
+single nucleotide variant	NM_001040142.2(SCN2A):c.5311T>A (p.Tyr1771Asn)	6326	SCN2A	Likely pathogenic	GRCh38	1806384
+single nucleotide variant	NM_001040142.2(SCN2A):c.1552G>T (p.Glu518Ter)	6326	SCN2A	Pathogenic	GRCh38	1809609
+single nucleotide variant	NM_001040142.2(SCN2A):c.4907T>C (p.Ile1636Thr)	6326	SCN2A	Likely pathogenic	GRCh38	1809730
+single nucleotide variant	NM_001040142.2(SCN2A):c.3973G>A (p.Val1325Ile)	6326	SCN2A	Pathogenic	GRCh38	2169504
+single nucleotide variant	NM_001040142.2(SCN2A):c.3956G>C (p.Arg1319Pro)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	2203163
+single nucleotide variant	NM_001040142.2(SCN2A):c.407T>G (p.Met136Arg)	6326	SCN2A	Pathogenic	GRCh38	1929277
+single nucleotide variant	NM_001040142.2(SCN2A):c.3520+1G>T	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	1954665
+single nucleotide variant	NM_001040142.2(SCN2A):c.4470G>C (p.Met1490Ile)	6326	SCN2A	Likely pathogenic	GRCh38	1980613
+single nucleotide variant	NM_001040142.2(SCN2A):c.4544G>A (p.Arg1515Gln)	6326	SCN2A	Pathogenic	GRCh38	1987551
+single nucleotide variant	NM_001040142.2(SCN2A):c.1291C>T (p.Gln431Ter)	6326	SCN2A	Pathogenic	GRCh38	1996825
+single nucleotide variant	NM_001040142.2(SCN2A):c.4652A>C (p.Glu1551Ala)	6326	SCN2A	Likely pathogenic	GRCh38	1994107
+single nucleotide variant	NM_001040142.2(SCN2A):c.4871T>C (p.Leu1624Pro)	6326	SCN2A	Pathogenic	GRCh38	2009829
+single nucleotide variant	NM_001040142.2(SCN2A):c.5433G>C (p.Gln1811His)	6326	SCN2A	Likely pathogenic	GRCh38	2024067
+single nucleotide variant	NM_001040142.2(SCN2A):c.2592G>A (p.Trp864Ter)	6326	SCN2A	Pathogenic	GRCh38	2027562
+single nucleotide variant	NM_001040142.2(SCN2A):c.4918A>C (p.Ile1640Leu)	6326	SCN2A	Likely pathogenic	GRCh38	2020237
+single nucleotide variant	NM_001040142.2(SCN2A):c.4907T>A (p.Ile1636Asn)	6326	SCN2A	Likely pathogenic	GRCh38	2028468
+single nucleotide variant	NM_001040142.2(SCN2A):c.2934C>A (p.Phe978Leu)	6326	SCN2A	Likely pathogenic	GRCh38	2021309
+single nucleotide variant	NM_001040142.2(SCN2A):c.3961G>C (p.Glu1321Gln)	6326	SCN2A	Likely pathogenic	GRCh38	2036225
+single nucleotide variant	NM_001040142.2(SCN2A):c.386+1A>C	6326	SCN2A	Likely pathogenic	GRCh38	2041733
+single nucleotide variant	NM_001040142.2(SCN2A):c.2343T>G (p.Tyr781Ter)	6326	SCN2A	Pathogenic	GRCh38	2034034
+single nucleotide variant	NM_001040142.2(SCN2A):c.2552C>A (p.Ser851Ter)	6326	SCN2A	Pathogenic	GRCh38	2049947
+single nucleotide variant	NM_001040142.2(SCN2A):c.5407G>T (p.Glu1803Ter)	6326	SCN2A	Pathogenic	GRCh38	2060907
+single nucleotide variant	NM_001040142.2(SCN2A):c.5018T>C (p.Ile1673Thr)	6326	SCN2A	Pathogenic	GRCh38	2098181
+single nucleotide variant	NM_001040142.2(SCN2A):c.4012A>G (p.Met1338Val)	6326	SCN2A	Likely pathogenic	GRCh38	2092509
+single nucleotide variant	NM_001040142.2(SCN2A):c.2970T>A (p.Asn990Lys)	6326	SCN2A	Pathogenic	GRCh38	2093457
+single nucleotide variant	NM_001040142.2(SCN2A):c.4460A>T (p.Asp1487Val)	6326	SCN2A	Likely pathogenic	GRCh38	2114859
+single nucleotide variant	NM_001040142.2(SCN2A):c.751G>T (p.Val251Phe)	6326	SCN2A	Likely pathogenic	GRCh38	2128939
+single nucleotide variant	NM_001040142.2(SCN2A):c.1672-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	2134674
+single nucleotide variant	NM_001040142.2(SCN2A):c.2819G>A (p.Cys940Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	2260702
+single nucleotide variant	NM_001040142.2(SCN2A):c.2187G>A (p.Trp729Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	2412771
+single nucleotide variant	NM_001040142.2(SCN2A):c.4192T>A (p.Trp1398Arg)	6326	SCN2A	Likely pathogenic	GRCh38	2430272
+single nucleotide variant	NM_001040142.2(SCN2A):c.1094C>T (p.Thr365Met)	6326	SCN2A	Likely pathogenic	GRCh38	2435687
+single nucleotide variant	NM_001040142.2(SCN2A):c.647T>C (p.Leu216Ser)	6326	SCN2A	Likely pathogenic	GRCh38	2444039
+single nucleotide variant	NM_001040142.2(SCN2A):c.2341T>C (p.Tyr781His)	6326	SCN2A	Likely pathogenic	GRCh38	2446305
+single nucleotide variant	NM_001040142.2(SCN2A):c.1177-2A>C	6326	SCN2A	Pathogenic	GRCh38	2500963
+single nucleotide variant	NM_001040142.2(SCN2A):c.5101G>A (p.Gly1701Ser)	6326	SCN2A	Likely pathogenic	GRCh38	2502049
+single nucleotide variant	NM_001040142.2(SCN2A):c.2816T>C (p.Leu939Pro)	6326	SCN2A	Likely pathogenic	GRCh38	2532195
+single nucleotide variant	NM_001040142.2(SCN2A):c.477-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	2572541
+single nucleotide variant	NM_001040142.2(SCN2A):c.1027G>A (p.Asp343Asn)	6326	SCN2A	Likely pathogenic	GRCh38	2575945
+single nucleotide variant	NM_001040142.2(SCN2A):c.3700C>T (p.Gln1234Ter)	6326	SCN2A	Likely pathogenic	GRCh38	2576043
+single nucleotide variant	NM_001040142.2(SCN2A):c.4913G>A (p.Arg1638His)	6326	SCN2A	Likely pathogenic	GRCh38	2578870
+single nucleotide variant	NM_001040142.2(SCN2A):c.4096T>C (p.Cys1366Arg)	6326	SCN2A	Likely pathogenic	GRCh38	2579150
+single nucleotide variant	NM_001040142.2(SCN2A):c.604G>T (p.Ala202Ser)	6326	SCN2A	Likely pathogenic	GRCh38	2579303
+single nucleotide variant	NM_001040142.2(SCN2A):c.547G>T (p.Asp183Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	2579387
+single nucleotide variant	NM_001040142.2(SCN2A):c.2380G>A (p.Gly794Arg)	6326	SCN2A	Likely pathogenic	GRCh38	2580161
+single nucleotide variant	NM_001040142.2(SCN2A):c.2597C>T (p.Thr866Ile)	6326	SCN2A	Likely pathogenic	GRCh38	2580772
+single nucleotide variant	NM_001371246.1(SCN2A):c.662T>A (p.Val221Asp)	6326	SCN2A	Likely pathogenic	GRCh38	2584477
+single nucleotide variant	NM_001040142.2(SCN2A):c.4494C>G (p.Tyr1498Ter)	6326	SCN2A	Likely pathogenic	GRCh38	2585557
+single nucleotide variant	NM_001040142.2(SCN2A):c.656T>C (p.Phe219Ser)	6326	SCN2A	Likely pathogenic	GRCh38	2633702
+single nucleotide variant	NM_001040142.2(SCN2A):c.2807T>C (p.Phe936Ser)	6326	SCN2A	Likely pathogenic	GRCh38	2635292
+single nucleotide variant	NM_001040142.2(SCN2A):c.981T>G (p.Tyr327Ter)	6326	SCN2A	Likely pathogenic	GRCh38	2632980
+single nucleotide variant	NM_001040142.2(SCN2A):c.4730A>G (p.Glu1577Gly)	6326	SCN2A	Pathogenic	GRCh38	2662818
+single nucleotide variant	NM_001040142.2(SCN2A):c.4642A>G (p.Met1548Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	2672830
+single nucleotide variant	NM_001040142.2(SCN2A):c.2715G>T (p.Lys905Asn)	6326	SCN2A	Likely pathogenic	GRCh38	2692367
+single nucleotide variant	NM_001040142.2(SCN2A):c.5017A>T (p.Ile1673Phe)	6326	SCN2A	Likely pathogenic	GRCh38	2921995
+single nucleotide variant	NM_001040142.2(SCN2A):c.1135C>T (p.Arg379Cys)	6326	SCN2A	Likely pathogenic	GRCh38	2922025
+single nucleotide variant	NM_001040142.2(SCN2A):c.4552-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	2921312
+single nucleotide variant	NM_001040142.2(SCN2A):c.4886G>C (p.Arg1629Pro)	6326	SCN2A	Pathogenic	GRCh38	2931831
+single nucleotide variant	NM_001040142.2(SCN2A):c.5637G>A (p.Met1879Ile)	6326	SCN2A	Likely pathogenic	GRCh38	2933303
+single nucleotide variant	NM_001040142.2(SCN2A):c.788C>G (p.Ala263Gly)	6326	SCN2A	Likely pathogenic	GRCh38	2939257
+single nucleotide variant	NM_001040142.2(SCN2A):c.1360A>T (p.Lys454Ter)	6326	SCN2A	Pathogenic	GRCh38	2941061
+single nucleotide variant	NM_001040142.2(SCN2A):c.3582G>A (p.Trp1194Ter)	6326	SCN2A	Pathogenic	GRCh38	2942859
+single nucleotide variant	NM_001040142.2(SCN2A):c.4377T>G (p.Phe1459Leu)	6326	SCN2A	Pathogenic	GRCh38	2944368
+single nucleotide variant	NM_001040142.2(SCN2A):c.1486A>T (p.Lys496Ter)	6326	SCN2A	Pathogenic	GRCh38	2944596
+single nucleotide variant	NM_001040142.2(SCN2A):c.4272G>A (p.Trp1424Ter)	6326	SCN2A	Pathogenic	GRCh38	2946060
+single nucleotide variant	NM_001040142.2(SCN2A):c.2674G>T (p.Val892Phe)	6326	SCN2A	Likely pathogenic	GRCh38	2947342
+single nucleotide variant	NM_001040142.2(SCN2A):c.1184G>A (p.Arg395His)	6326	SCN2A	Pathogenic	GRCh38	2947455
+single nucleotide variant	NM_001040142.2(SCN2A):c.4434A>C (p.Gln1478His)	6326	SCN2A	Likely pathogenic	GRCh38	2941718
+single nucleotide variant	NM_001040142.2(SCN2A):c.1086T>A (p.Tyr362Ter)	6326	SCN2A	Pathogenic	GRCh38	2943147
+single nucleotide variant	NM_001040142.2(SCN2A):c.5408A>T (p.Glu1803Val)	6326	SCN2A	Likely pathogenic	GRCh38	2944788
+single nucleotide variant	NM_001040142.2(SCN2A):c.5132C>G (p.Thr1711Arg)	6326	SCN2A	Pathogenic	GRCh38	2944817
+single nucleotide variant	NM_001040142.2(SCN2A):c.3843T>G (p.Ile1281Met)	6326	SCN2A	Pathogenic	GRCh38	2948571
+single nucleotide variant	NM_001040142.2(SCN2A):c.4928C>A (p.Ala1643Glu)	6326	SCN2A	Pathogenic	GRCh38	2949708
+single nucleotide variant	NM_001040142.2(SCN2A):c.3211G>T (p.Gly1071Ter)	6326	SCN2A	Pathogenic	GRCh38	2949093
+single nucleotide variant	NM_001040142.2(SCN2A):c.2936T>C (p.Leu979Ser)	6326	SCN2A	Pathogenic	GRCh38	2949441
+single nucleotide variant	NM_001040142.2(SCN2A):c.2926A>C (p.Asn976His)	6326	SCN2A	Likely pathogenic	GRCh38	2950020
+single nucleotide variant	NM_001040142.2(SCN2A):c.4822+1G>T	6326	SCN2A	Pathogenic	GRCh38	2951900
+single nucleotide variant	NM_001040142.2(SCN2A):c.4309-2A>G	6326	SCN2A	Likely pathogenic	GRCh38	3024239
+single nucleotide variant	NM_001040142.2(SCN2A):c.5435T>A (p.Phe1812Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	3031930
+single nucleotide variant	NM_001040142.2(SCN2A):c.2938G>C (p.Ala980Pro)	6326	SCN2A	Likely pathogenic	GRCh38	3053550
+single nucleotide variant	NM_001040142.2(SCN2A):c.4952T>G (p.Phe1651Cys)	6326	SCN2A	Likely pathogenic	GRCh38	3065413
+single nucleotide variant	NM_001040142.2(SCN2A):c.3626G>A (p.Trp1209Ter)	6326	SCN2A	Likely pathogenic	GRCh38	3068356
+single nucleotide variant	NM_001040142.2(SCN2A):c.1243T>C (p.Tyr415His)	6326	SCN2A	Likely pathogenic	GRCh38	3236774
+single nucleotide variant	NM_001040142.2(SCN2A):c.4481A>G (p.Gln1494Arg)	6326	SCN2A	Likely pathogenic	GRCh38	3238770
+single nucleotide variant	NM_001040142.2(SCN2A):c.3606T>G (p.Tyr1202Ter)	6326	SCN2A	Pathogenic	GRCh38	3254900
+single nucleotide variant	NM_001040142.2(SCN2A):c.2654C>A (p.Thr885Asn)	6326	SCN2A	Likely pathogenic	GRCh38	3338177
+single nucleotide variant	NM_001040142.2(SCN2A):c.3521-1G>T	6326	SCN2A	Pathogenic	GRCh38	3340818
+single nucleotide variant	NM_001040142.2(SCN2A):c.2914C>G (p.Leu972Val)	6326	SCN2A	Pathogenic	GRCh38	3340833
+single nucleotide variant	NM_001040142.2(SCN2A):c.468G>T (p.Lys156Asn)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	3340847
+single nucleotide variant	NM_001040142.2(SCN2A):c.2167C>T (p.Gln723Ter)	6326	SCN2A	Pathogenic	GRCh38	3342714
+single nucleotide variant	NM_001040142.2(SCN2A):c.3122C>T (p.Pro1041Leu)	6326	SCN2A	Pathogenic	GRCh38	3343633
+single nucleotide variant	NM_001040142.2(SCN2A):c.468G>C (p.Lys156Asn)	6326	SCN2A	Pathogenic	GRCh38	3343696
+single nucleotide variant	NM_001040142.2(SCN2A):c.4004C>A (p.Pro1335Gln)	6326	SCN2A	Likely pathogenic	GRCh38	3349133
+single nucleotide variant	NM_001040142.2(SCN2A):c.698-2A>C	6326	SCN2A	Likely pathogenic	GRCh38	3358924
+single nucleotide variant	NM_001040142.2(SCN2A):c.605+1G>C	6326	SCN2A	Pathogenic	GRCh38	3366956
+single nucleotide variant	NM_001040142.2(SCN2A):c.4418T>A (p.Ile1473Lys)	6326	SCN2A	Likely pathogenic	GRCh38	3367182
+single nucleotide variant	NM_001040142.2(SCN2A):c.1267G>A (p.Val423Met)	6326	SCN2A	Pathogenic	GRCh38	3370511
+single nucleotide variant	NM_001040142.2(SCN2A):c.2989G>T (p.Asp997Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	3375750
+single nucleotide variant	NM_001040142.2(SCN2A):c.5616G>A (p.Met1872Ile)	6326	SCN2A	Likely pathogenic	GRCh38	3382361
+single nucleotide variant	NM_001040142.2(SCN2A):c.4216G>T (p.Asp1406Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	3382570
+single nucleotide variant	NM_001040142.2(SCN2A):c.4879G>C (p.Val1627Leu)	6326	SCN2A	Likely pathogenic	GRCh38	3602105
+single nucleotide variant	NM_001040142.2(SCN2A):c.3521-1G>A	6326	SCN2A	Likely pathogenic	GRCh38	3756649
+single nucleotide variant	NM_001040142.2(SCN2A):c.2920-1G>A	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	3756723
+single nucleotide variant	NM_001040142.2(SCN2A):c.2783T>G (p.Phe928Cys)	6326	SCN2A	Pathogenic	GRCh38	3759060
+single nucleotide variant	NM_001040142.2(SCN2A):c.4433A>C (p.Gln1478Pro)	6326	SCN2A	Likely pathogenic	GRCh38	3759076
+single nucleotide variant	NM_001040142.2(SCN2A):c.2591G>A (p.Trp864Ter)	6326	SCN2A	Pathogenic	GRCh38	3759180
+single nucleotide variant	NM_001040142.2(SCN2A):c.1519A>T (p.Lys507Ter)	6326	SCN2A	Pathogenic	GRCh38	3759311
+single nucleotide variant	NM_001040142.2(SCN2A):c.1879C>T (p.Gln627Ter)	6326	SCN2A	Pathogenic	GRCh38	3760353
+single nucleotide variant	NM_001040142.2(SCN2A):c.407T>A (p.Met136Lys)	6326	SCN2A	Likely pathogenic	GRCh38	3753649
+single nucleotide variant	NM_001040142.2(SCN2A):c.631G>A (p.Gly211Ser)	6326	SCN2A	Pathogenic	GRCh38	3753652
+single nucleotide variant	NM_001040142.2(SCN2A):c.1183C>G (p.Arg395Gly)	6326	SCN2A	Likely pathogenic	GRCh38	3753655
+single nucleotide variant	NM_001040142.2(SCN2A):c.4720T>C (p.Phe1574Leu)	6326	SCN2A	Pathogenic	GRCh38	3753671
+single nucleotide variant	NM_001040142.2(SCN2A):c.4993C>G (p.Leu1665Val)	6326	SCN2A	Pathogenic	GRCh38	3753673
+single nucleotide variant	NM_001040142.2(SCN2A):c.5143G>A (p.Gly1715Ser)	6326	SCN2A	Likely pathogenic	GRCh38	3753674
+single nucleotide variant	NM_001040142.2(SCN2A):c.1384-1G>A	6326	SCN2A	Likely pathogenic	GRCh38	3755414
+single nucleotide variant	NM_001040142.2(SCN2A):c.5325C>G (p.Ile1775Met)	6326	SCN2A	Pathogenic	GRCh38	3756952
+single nucleotide variant	NM_001040142.2(SCN2A):c.3G>A (p.Met1Ile)	6326	SCN2A	Pathogenic	GRCh38	3760265
+single nucleotide variant	NM_001040142.2(SCN2A):c.1260C>G (p.Ile420Met)	6326	SCN2A	Likely pathogenic	GRCh38	3772295
+single nucleotide variant	NM_001040142.2(SCN2A):c.214G>T (p.Glu72Ter)	6326	SCN2A	Likely pathogenic	GRCh38	3777751
+single nucleotide variant	NM_001040142.2(SCN2A):c.1177-1G>A	6326	SCN2A	Pathogenic	GRCh38	3895530
+single nucleotide variant	NM_001040142.2(SCN2A):c.3331G>T (p.Glu1111Ter)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	3897643
+single nucleotide variant	NM_001040142.2(SCN2A):c.4138G>T (p.Val1380Phe)	6326	SCN2A	Likely pathogenic	GRCh38	3897865
+single nucleotide variant	NM_001040142.2(SCN2A):c.268-2A>T	6326	SCN2A	Likely pathogenic	GRCh38	3900652
+single nucleotide variant	NM_001040142.2(SCN2A):c.4193G>A (p.Trp1398Ter)	6326	SCN2A	Pathogenic	GRCh38	3903153
+single nucleotide variant	NM_001040142.2(SCN2A):c.4782G>T (p.Trp1594Cys)	6326	SCN2A	Likely pathogenic	GRCh38	3906896
+single nucleotide variant	NM_001040142.2(SCN2A):c.4780T>A (p.Trp1594Arg)	6326	SCN2A	Likely pathogenic	GRCh38	3906897
+single nucleotide variant	NM_001040142.2(SCN2A):c.3973-1G>A	6326	SCN2A	Pathogenic	GRCh38	3907757
+single nucleotide variant	NM_001040142.2(SCN2A):c.4652A>G (p.Glu1551Gly)	6326	SCN2A	Likely pathogenic	GRCh38	4073641
+single nucleotide variant	NM_001040142.2(SCN2A):c.1028A>C (p.Asp343Ala)	6326	SCN2A	Likely pathogenic	GRCh38	4073666
+single nucleotide variant	NM_001040142.2(SCN2A):c.4823G>T (p.Gly1608Val)	6326	SCN2A	Likely pathogenic	GRCh38	4073677
+single nucleotide variant	NM_001040142.2(SCN2A):c.2824G>C (p.Glu942Gln)	6326	SCN2A	Likely pathogenic	GRCh38	4082328
+single nucleotide variant	NM_001040142.2(SCN2A):c.3205A>T (p.Lys1069Ter)	6326	SCN2A	Likely pathogenic	GRCh38	4291719
+single nucleotide variant	NM_001040142.2(SCN2A):c.2788C>G (p.His930Asp)	6326	SCN2A	Likely pathogenic	GRCh38	4292323
+single nucleotide variant	NM_001040142.2(SCN2A):c.4025T>G (p.Leu1342Arg)	6326	SCN2A	Likely pathogenic	GRCh38	4292476
+single nucleotide variant	NM_001040142.2(SCN2A):c.796G>A (p.Gly266Arg)	6326	SCN2A	Likely pathogenic	GRCh38	4531776
+single nucleotide variant	NM_001040142.2(SCN2A):c.668G>T (p.Arg223Leu)	6326	SCN2A	Pathogenic	GRCh38	4532322
+single nucleotide variant	NM_001040142.2(SCN2A):c.4145A>G (p.Asn1382Ser)	6326	SCN2A	Likely pathogenic	GRCh38	4538664
+single nucleotide variant	NM_001040142.2(SCN2A):c.2926A>T (p.Asn976Tyr)	6326	SCN2A	Likely pathogenic	GRCh38	4789342
+single nucleotide variant	NM_001040142.2(SCN2A):c.4007C>T (p.Ser1336Phe)	6326	SCN2A	Likely pathogenic	GRCh38	4789350
+single nucleotide variant	NM_001040142.2(SCN2A):c.4038C>G (p.Ile1346Met)	6326	SCN2A	Likely pathogenic	GRCh38	4789351
+single nucleotide variant	NM_001040142.2(SCN2A):c.2919+2T>A	6326	SCN2A	Likely pathogenic	GRCh38	4785401
+single nucleotide variant	NM_001040142.2(SCN2A):c.3850-2A>C	6326	SCN2A	Likely pathogenic	GRCh38	4783591
+single nucleotide variant	NM_001040142.2(SCN2A):c.4529A>G (p.Gln1510Arg)	6326	SCN2A	Pathogenic	GRCh38	4783611
+single nucleotide variant	NM_001040142.2(SCN2A):c.4777G>C (p.Gly1593Arg)	6326	SCN2A	Pathogenic	GRCh38	4783612
+single nucleotide variant	NM_001040142.2(SCN2A):c.5563C>G (p.Leu1855Val)	6326	SCN2A	Likely pathogenic	GRCh38	4783615
+single nucleotide variant	NM_001040142.2(SCN2A):c.5431C>T (p.Gln1811Ter)	6326	SCN2A	Pathogenic	GRCh38	4785166
+single nucleotide variant	NM_001040142.2(SCN2A):c.1369C>T (p.Gln457Ter)	6326	SCN2A	Pathogenic	GRCh38	4786585
+single nucleotide variant	NM_001040142.2(SCN2A):c.2552C>T (p.Ser851Leu)	6326	SCN2A	Likely pathogenic	GRCh38	4814183
+single nucleotide variant	NM_001040142.2(SCN2A):c.5308A>G (p.Met1770Val)	6326	SCN2A	Pathogenic	GRCh38	4814186
+single nucleotide variant	NM_001040142.2(SCN2A):c.1034+5G>A	6326	SCN2A	Likely pathogenic	GRCh38	4850096
+single nucleotide variant	NM_001040142.2(SCN2A):c.2659G>T (p.Val887Leu)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	4850844
+single nucleotide variant	NM_001040142.2(SCN2A):c.4534C>G (p.Pro1512Ala)	6326	SCN2A	Likely pathogenic	GRCh38	4851535
+single nucleotide variant	NM_001040142.2(SCN2A):c.4959G>T (p.Leu1653Phe)	6326	SCN2A	Likely pathogenic	GRCh38	4854127
+single nucleotide variant	NM_001040142.2(SCN2A):c.4978T>G (p.Leu1660Val)	6326	SCN2A	Likely pathogenic	GRCh38	4854186
+single nucleotide variant	NM_001040142.2(SCN2A):c.1381C>T (p.Gln461Ter)	6326	SCN2A	Likely pathogenic	GRCh38	4857018
+single nucleotide variant	NM_001040142.2(SCN2A):c.4424A>T (p.Asn1475Ile)	6326	SCN2A	Likely pathogenic	GRCh38	4871753
+single nucleotide variant	NM_001040142.2(SCN2A):c.2639C>T (p.Ala880Val)	6326	SCN2A	Pathogenic/Likely pathogenic	GRCh38	4880189

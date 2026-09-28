@@ -1,0 +1,67 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1768A>C (p.Lys590Gln)	26137	ZBTB20	Pathogenic	GRCh38	139436
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1771C>G (p.Gln591Glu)	26137	ZBTB20	Pathogenic	GRCh38	139437
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1787A>G (p.His596Arg)	26137	ZBTB20	Pathogenic	GRCh38	139438
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1802C>T (p.Thr601Ile)	26137	ZBTB20	Pathogenic	GRCh38	139446
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1805G>C (p.Gly602Ala)	26137	ZBTB20	Pathogenic	GRCh38	139447
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1811A>C (p.Lys604Thr)	26137	ZBTB20	Pathogenic/Likely pathogenic	GRCh38	139448
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1861C>T (p.Leu621Phe)	26137	ZBTB20	Pathogenic	GRCh38	139449
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1876G>A (p.Val626Met)	26137	ZBTB20	Pathogenic	GRCh38	139450
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1847C>T (p.Ser616Phe)	26137	ZBTB20	Likely pathogenic	GRCh38	264659
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1786C>T (p.His596Tyr)	26137	ZBTB20	Pathogenic/Likely pathogenic	GRCh38	375372
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1766C>A (p.Ala589Asp)	26137	ZBTB20	Likely pathogenic	GRCh38	391421
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1873A>G (p.Met625Val)	26137	ZBTB20	Likely pathogenic	GRCh38	421824
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1802C>A (p.Thr601Lys)	26137	ZBTB20	Likely pathogenic	GRCh38	424168
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1885A>G (p.Thr629Ala)	26137	ZBTB20	Likely pathogenic	GRCh38	522009
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1869G>C (p.Lys623Asn)	26137	ZBTB20	Pathogenic	GRCh38	520946
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1955A>T (p.His652Leu)	26137	ZBTB20	Likely pathogenic	GRCh38	585297
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1800C>G (p.His600Gln)	26137	ZBTB20	Pathogenic	GRCh38	618973
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1822T>C (p.Cys608Arg)	26137	ZBTB20	Pathogenic	GRCh38	626309
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1955A>G (p.His652Arg)	26137	ZBTB20	Pathogenic	GRCh38	638659
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1862T>C (p.Leu621Pro)	26137	ZBTB20	Pathogenic/Likely pathogenic	GRCh38	638663
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1837C>T (p.Arg613Cys)	26137	ZBTB20	Pathogenic	GRCh38	638658
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1817A>C (p.His606Pro)	26137	ZBTB20	Pathogenic	GRCh38	638660
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1760T>G (p.Phe587Cys)	26137	ZBTB20	Pathogenic	GRCh38	638657
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1734T>A (p.Tyr578Ter)	26137	ZBTB20	Likely pathogenic	GRCh38	801992
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1813C>T (p.Pro605Ser)	26137	ZBTB20	Likely pathogenic	GRCh38	809522
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1916G>A (p.Cys639Tyr)	26137	ZBTB20	Pathogenic	GRCh38	929421
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1788C>G (p.His596Gln)	26137	ZBTB20	Likely pathogenic	GRCh38	975782
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1949A>T (p.Asn650Ile)	26137	ZBTB20	Likely pathogenic	GRCh38	986899
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1882C>A (p.His628Asn)	26137	ZBTB20	Likely pathogenic	GRCh38	1067339
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1783A>G (p.Lys595Glu)	26137	ZBTB20	Likely pathogenic	GRCh38	1675930
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1817A>G (p.His606Arg)	26137	ZBTB20	Pathogenic	GRCh38	1686308
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1916G>T (p.Cys639Phe)	26137	ZBTB20	Pathogenic	GRCh38	1691860
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1775A>G (p.Asn592Ser)	26137	ZBTB20	Likely pathogenic	GRCh38	1701904
+single nucleotide variant	NM_001348800.3(ZBTB20):c.744C>G (p.Tyr248Ter)	26137	ZBTB20	Likely pathogenic	GRCh38	1705716
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1838G>T (p.Arg613Leu)	26137	ZBTB20	Likely pathogenic	GRCh38	1709274
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1739G>A (p.Cys580Tyr)	26137	ZBTB20	Pathogenic	GRCh38	1712590
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1871A>C (p.His624Pro)	26137	ZBTB20	Pathogenic	GRCh38	1712633
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1795G>T (p.Val599Leu)	26137	ZBTB20	Pathogenic	GRCh38	1804424
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1852A>G (p.Lys618Glu)	26137	ZBTB20	Pathogenic	GRCh38	2023798
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1860C>G (p.Tyr620Ter)	26137	ZBTB20	Pathogenic	GRCh38	2024704
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1799A>G (p.His600Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	2091537
+single nucleotide variant	NM_001348800.3(ZBTB20):c.12-1G>A	26137	ZBTB20	Likely pathogenic	GRCh38	2111378
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1906T>C (p.Cys636Arg)	26137	ZBTB20	Pathogenic	GRCh38	2442541
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1832G>A (p.Cys611Tyr)	26137	ZBTB20	Pathogenic	GRCh38	2578946
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1948A>C (p.Asn650His)	26137	ZBTB20	Likely pathogenic	GRCh38	2580194
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1739G>T (p.Cys580Phe)	26137	ZBTB20	Likely pathogenic	GRCh38	2603704
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1862T>G (p.Leu621Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	2627841
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1747T>C (p.Cys583Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	2808726
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1879A>G (p.Thr627Ala)	26137	ZBTB20	Pathogenic	GRCh38	2883999
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1967A>G (p.His656Arg)	26137	ZBTB20	Pathogenic	GRCh38	2921295
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1915T>C (p.Cys639Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	3032096
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1714C>T (p.Gln572Ter)	26137	ZBTB20	Likely pathogenic	GRCh38	3256419
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1904A>G (p.Gln635Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	3337752
+single nucleotide variant	NM_001348800.3(ZBTB20):c.721G>T (p.Asp241Tyr)	26137	ZBTB20	Pathogenic	GRCh38	3342469
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1915T>G (p.Cys639Gly)	26137	ZBTB20	Pathogenic	GRCh38	3361980
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1177C>T (p.Gln393Ter)	26137	ZBTB20	Pathogenic	GRCh38	3372559
+single nucleotide variant	NM_001348800.3(ZBTB20):c.388C>T (p.Gln130Ter)	26137	ZBTB20	Pathogenic	GRCh38	3377070
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1897G>A (p.Ala633Thr)	26137	ZBTB20	Likely pathogenic	GRCh38	3377072
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1738T>G (p.Cys580Gly)	26137	ZBTB20	Likely pathogenic	GRCh38	3382542
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1805G>T (p.Gly602Val)	26137	ZBTB20	Likely pathogenic	GRCh38	3385379
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1768A>G (p.Lys590Glu)	26137	ZBTB20	Likely pathogenic	GRCh38	3472130
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1787A>C (p.His596Pro)	26137	ZBTB20	Pathogenic	GRCh38	3633366
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1886C>G (p.Thr629Arg)	26137	ZBTB20	Likely pathogenic	GRCh38	3776206
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1805-1G>A	26137	ZBTB20	Pathogenic	GRCh38	3900656
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1945C>T (p.Leu649Phe)	26137	ZBTB20	Pathogenic/Likely pathogenic	GRCh38	4292044
+single nucleotide variant	NM_001348800.3(ZBTB20):c.1880C>T (p.Thr627Ile)	26137	ZBTB20	Likely pathogenic	GRCh38	4879699

@@ -291,7 +291,7 @@ single nucleotide variant	NM_177438.3(DICER1):c.734+3A>C	23405	DICER1	Likely pat
 single nucleotide variant	NM_177438.3(DICER1):c.1774A>T (p.Lys592Ter)	23405	DICER1	Likely pathogenic	GRCh38	3336868
 single nucleotide variant	NM_177438.3(DICER1):c.2468G>T (p.Gly823Val)	23405	DICER1	Likely pathogenic	GRCh38	3384157
 single nucleotide variant	NM_177438.3(DICER1):c.3270-2A>G	23405	DICER1	Likely pathogenic	GRCh38	3501837
-single nucleotide variant	NM_177438.3(DICER1):c.890T>G (p.Leu297Ter)	23405	DICER1	Pathogenic	GRCh38	3501927
+single nucleotide variant	NM_177438.3(DICER1):c.890T>G (p.Leu297Ter)	23405	DICER1	Pathogenic/Likely pathogenic	GRCh38	3501927
 single nucleotide variant	NM_177438.3(DICER1):c.136A>T (p.Lys46Ter)	23405	DICER1	Likely pathogenic	GRCh38	3501937
 single nucleotide variant	NM_177438.3(DICER1):c.4798G>T (p.Glu1600Ter)	23405	DICER1	Pathogenic	GRCh38	3501954
 single nucleotide variant	NM_177438.3(DICER1):c.691A>T (p.Lys231Ter)	23405	DICER1	Pathogenic	GRCh38	3501965
@@ -325,3 +325,10 @@ single nucleotide variant	NM_177438.3(DICER1):c.588T>A (p.Cys196Ter)	23405	DICER
 single nucleotide variant	NM_177438.3(DICER1):c.4315G>T (p.Glu1439Ter)	23405	DICER1	Pathogenic	GRCh38	4843085
 single nucleotide variant	NM_177438.3(DICER1):c.574-26A>G	23405	DICER1	Likely pathogenic	GRCh38	4843086
 single nucleotide variant	NM_177438.3(DICER1):c.367G>T (p.Glu123Ter)	23405	DICER1	Likely pathogenic	GRCh38	4849982
+single nucleotide variant	NM_177438.3(DICER1):c.2805-2A>G	23405	DICER1	Likely pathogenic	GRCh38	4856729
+single nucleotide variant	NM_177438.3(DICER1):c.1510-16G>A	23405	DICER1	Likely pathogenic	GRCh38	4869747
+single nucleotide variant	NM_177438.3(DICER1):c.2581G>T (p.Glu861Ter)	23405	DICER1	Pathogenic	GRCh38	4869748
+single nucleotide variant	NM_177438.3(DICER1):c.1510-2A>T	23405	DICER1	Likely pathogenic	GRCh38	4869750
+single nucleotide variant	NM_177438.3(DICER1):c.4912G>T (p.Glu1638Ter)	23405	DICER1	Pathogenic	GRCh38	4869780
+single nucleotide variant	NM_177438.3(DICER1):c.1908-2A>G	23405	DICER1	Likely pathogenic	GRCh38	4869782
+single nucleotide variant	NM_177438.3(DICER1):c.5365-1G>C	23405	DICER1	Likely pathogenic	GRCh38	4876101

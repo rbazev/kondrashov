@@ -1,0 +1,91 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001079866.2(BCS1L):c.830G>A (p.Ser277Asn)	617	BCS1L	Pathogenic	GRCh38	6163
+single nucleotide variant	NM_001079866.2(BCS1L):c.296C>T (p.Pro99Leu)	617	BCS1L	Pathogenic	GRCh38	6164
+single nucleotide variant	NM_001079866.2(BCS1L):c.464G>C (p.Arg155Pro)	617	BCS1L	Pathogenic	GRCh38	6165
+single nucleotide variant	NM_001079866.2(BCS1L):c.232A>G (p.Ser78Gly)	617	BCS1L	Pathogenic	GRCh38	6167
+single nucleotide variant	NM_001079866.2(BCS1L):c.133C>T (p.Arg45Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	6168
+single nucleotide variant	NM_001079866.2(BCS1L):c.166C>T (p.Arg56Ter)	617	BCS1L	Pathogenic	GRCh38	6169
+single nucleotide variant	NM_001079866.2(BCS1L):c.548G>A (p.Arg183His)	617	BCS1L	Pathogenic	GRCh38	6170
+single nucleotide variant	NM_001079866.2(BCS1L):c.550C>T (p.Arg184Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	6171
+single nucleotide variant	NM_001079866.2(BCS1L):c.103G>C (p.Gly35Arg)	617	BCS1L	Pathogenic	GRCh38	6172
+single nucleotide variant	NM_001079866.2(BCS1L):c.148A>G (p.Thr50Ala)	617	BCS1L	Pathogenic	GRCh38	6173
+single nucleotide variant	NM_001079866.2(BCS1L):c.547C>T (p.Arg183Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	6174
+single nucleotide variant	NM_001079866.2(BCS1L):c.320+1G>T	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	56412
+single nucleotide variant	NM_001079866.2(BCS1L):c.431G>A (p.Arg144Gln)	617	BCS1L	Likely pathogenic	GRCh38	56413
+single nucleotide variant	NM_001079866.2(BCS1L):c.980T>C (p.Val327Ala)	617	BCS1L	Likely pathogenic	GRCh38	56414
+single nucleotide variant	NM_001079866.2(BCS1L):c.901T>A (p.Tyr301Asn)	617	BCS1L	Pathogenic	GRCh38	126497
+single nucleotide variant	NM_001079866.2(BCS1L):c.205C>T (p.Arg69Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	214160
+single nucleotide variant	NM_001079866.2(BCS1L):c.269G>A (p.Arg90His)	617	BCS1L	Likely pathogenic	GRCh38	214165
+single nucleotide variant	NM_001079866.2(BCS1L):c.325C>T (p.Arg109Trp)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	214166
+single nucleotide variant	NM_001079866.2(BCS1L):c.871C>T (p.Arg291Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	214162
+single nucleotide variant	NM_001079866.2(BCS1L):c.245C>A (p.Ser82Ter)	617	BCS1L	Pathogenic	GRCh38	371015
+single nucleotide variant	NM_001079866.2(BCS1L):c.349C>T (p.Arg117Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	370387
+single nucleotide variant	NM_001079866.2(BCS1L):c.460+2T>C	617	BCS1L	Likely pathogenic	GRCh38	371035
+single nucleotide variant	NM_001079866.2(BCS1L):c.556C>T (p.Arg186Ter)	617	BCS1L	Pathogenic	GRCh38	371250
+single nucleotide variant	NM_001079866.2(BCS1L):c.655+1G>A	617	BCS1L	Likely pathogenic	GRCh38	370831
+single nucleotide variant	NM_001079866.2(BCS1L):c.889+1G>T	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	370247
+single nucleotide variant	NM_001079866.2(BCS1L):c.598C>T (p.Arg200Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	374395
+single nucleotide variant	NM_001079866.2(BCS1L):c.385G>A (p.Gly129Arg)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	381524
+single nucleotide variant	NM_001079866.2(BCS1L):c.725C>G (p.Ala242Gly)	617	BCS1L	Likely pathogenic	GRCh38	387667
+single nucleotide variant	NM_001079866.2(BCS1L):c.755G>A (p.Cys252Tyr)	617	BCS1L	Likely pathogenic	GRCh38	545028
+single nucleotide variant	NM_001079866.2(BCS1L):c.1036C>T (p.Arg346Ter)	617	BCS1L	Likely pathogenic	GRCh38	554448
+single nucleotide variant	NM_001079866.2(BCS1L):c.460+1G>A	617	BCS1L	Likely pathogenic	GRCh38	557129
+single nucleotide variant	NM_001079866.2(BCS1L):c.889+1G>A	617	BCS1L	Likely pathogenic	GRCh38	550817
+single nucleotide variant	NM_001079866.2(BCS1L):c.1127T>A (p.Leu376Ter)	617	BCS1L	Likely pathogenic	GRCh38	558216
+single nucleotide variant	NM_001079866.2(BCS1L):c.-50+405A>G	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	553134
+single nucleotide variant	NM_001079866.2(BCS1L):c.268C>T (p.Arg90Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	625207
+single nucleotide variant	NM_001079866.2(BCS1L):c.430C>T (p.Arg144Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	646751
+single nucleotide variant	NM_001079866.2(BCS1L):c.-50+388C>G	617	BCS1L	Likely pathogenic	GRCh38	801896
+single nucleotide variant	NM_001079866.2(BCS1L):c.655+2T>C	617	BCS1L	Likely pathogenic	GRCh38	809158
+single nucleotide variant	NM_001079866.2(BCS1L):c.355C>T (p.Arg119Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	863524
+single nucleotide variant	NM_001079866.2(BCS1L):c.903C>G (p.Tyr301Ter)	617	BCS1L	Pathogenic	GRCh38	959008
+single nucleotide variant	NM_001079866.2(BCS1L):c.528G>A (p.Trp176Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	967029
+single nucleotide variant	NM_001079866.2(BCS1L):c.642G>A (p.Trp214Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1032892
+single nucleotide variant	NM_001079866.2(BCS1L):c.336G>A (p.Trp112Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1072216
+single nucleotide variant	NM_001079866.2(BCS1L):c.463C>T (p.Arg155Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1073784
+single nucleotide variant	NM_001079866.2(BCS1L):c.917G>A (p.Arg306His)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1071417
+single nucleotide variant	NM_001079866.2(BCS1L):c.441C>T (p.Phe147=)	617	BCS1L	Likely pathogenic	GRCh38	1252010
+single nucleotide variant	NM_001079866.2(BCS1L):c.712A>G (p.Ser238Gly)	617	BCS1L	Likely pathogenic	GRCh38	1341952
+single nucleotide variant	NM_001079866.2(BCS1L):c.233G>T (p.Ser78Ile)	617	BCS1L	Likely pathogenic	GRCh38	1466631
+single nucleotide variant	NM_001079866.2(BCS1L):c.493A>T (p.Lys165Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1414470
+single nucleotide variant	NM_001079866.2(BCS1L):c.340C>T (p.Arg114Trp)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1455942
+single nucleotide variant	NM_001079866.2(BCS1L):c.916C>T (p.Arg306Cys)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1457638
+single nucleotide variant	NM_001079866.2(BCS1L):c.253C>T (p.Gln85Ter)	617	BCS1L	Pathogenic	GRCh38	1453418
+single nucleotide variant	NM_001079866.2(BCS1L):c.478C>T (p.Gln160Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1452038
+single nucleotide variant	NM_001079866.2(BCS1L):c.720-2A>G	617	BCS1L	Likely pathogenic	GRCh38	1509134
+single nucleotide variant	NM_001079866.2(BCS1L):c.238G>T (p.Glu80Ter)	617	BCS1L	Pathogenic	GRCh38	1455266
+single nucleotide variant	NM_001079866.2(BCS1L):c.320+1G>A	617	BCS1L	Pathogenic	GRCh38	1458352
+single nucleotide variant	NM_001079866.2(BCS1L):c.1A>G (p.Met1Val)	617	BCS1L	Pathogenic	GRCh38	1350357
+single nucleotide variant	NM_001079866.2(BCS1L):c.703G>C (p.Gly235Arg)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1442140
+single nucleotide variant	NM_001079866.2(BCS1L):c.903C>A (p.Tyr301Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	1350830
+single nucleotide variant	NM_001079866.2(BCS1L):c.655+1G>C	617	BCS1L	Pathogenic	GRCh38	1685568
+single nucleotide variant	NM_001079866.2(BCS1L):c.476T>A (p.Leu159Ter)	617	BCS1L	Likely pathogenic	GRCh38	1725149
+single nucleotide variant	NM_001079866.2(BCS1L):c.702C>A (p.Cys234Ter)	617	BCS1L	Likely pathogenic	GRCh38	1725291
+single nucleotide variant	NM_001079866.2(BCS1L):c.793C>T (p.Arg265Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	2184969
+single nucleotide variant	NM_001079866.2(BCS1L):c.889+2T>G	617	BCS1L	Likely pathogenic	GRCh38	1993553
+single nucleotide variant	NM_001079866.2(BCS1L):c.656-1G>A	617	BCS1L	Likely pathogenic	GRCh38	2129294
+single nucleotide variant	NM_001079866.2(BCS1L):c.321-2A>G	617	BCS1L	Likely pathogenic	GRCh38	2444450
+single nucleotide variant	NM_001079866.2(BCS1L):c.1A>T (p.Met1Leu)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	2581363
+single nucleotide variant	NM_001079866.2(BCS1L):c.1076G>A (p.Trp359Ter)	617	BCS1L	Likely pathogenic	GRCh38	2680148
+single nucleotide variant	NM_001079866.2(BCS1L):c.580C>T (p.Gln194Ter)	617	BCS1L	Likely pathogenic	GRCh38	2680150
+single nucleotide variant	NM_001079866.2(BCS1L):c.397G>T (p.Glu133Ter)	617	BCS1L	Likely pathogenic	GRCh38	2680151
+single nucleotide variant	NM_001079866.2(BCS1L):c.1156C>T (p.Arg386Ter)	617	BCS1L	Likely pathogenic	GRCh38	2680159
+single nucleotide variant	NM_001079866.2(BCS1L):c.1070C>A (p.Ser357Ter)	617	BCS1L	Likely pathogenic	GRCh38	2680160
+single nucleotide variant	NM_001079866.2(BCS1L):c.133C>G (p.Arg45Gly)	617	BCS1L	Likely pathogenic	GRCh38	2692639
+single nucleotide variant	NM_001079866.2(BCS1L):c.575T>C (p.Val192Ala)	617	BCS1L	Likely pathogenic	GRCh38	2701060
+single nucleotide variant	NM_001079866.2(BCS1L):c.826C>T (p.Gln276Ter)	617	BCS1L	Pathogenic	GRCh38	2710671
+single nucleotide variant	NM_001079866.2(BCS1L):c.719+1G>T	617	BCS1L	Likely pathogenic	GRCh38	2761088
+single nucleotide variant	NM_001079866.2(BCS1L):c.386G>A (p.Gly129Glu)	617	BCS1L	Likely pathogenic	GRCh38	2773214
+single nucleotide variant	NM_001079866.2(BCS1L):c.25G>A (p.Ala9Thr)	617	BCS1L	Pathogenic	GRCh38	3065324
+single nucleotide variant	NM_001079866.2(BCS1L):c.464G>A (p.Arg155Gln)	617	BCS1L	Likely pathogenic	GRCh38	3240922
+single nucleotide variant	NM_001079866.2(BCS1L):c.1183C>T (p.Gln395Ter)	617	BCS1L	Likely pathogenic	GRCh38	3350116
+single nucleotide variant	NM_001079866.2(BCS1L):c.1189C>T (p.Gln397Ter)	617	BCS1L	Likely pathogenic	GRCh38	3585661
+single nucleotide variant	NM_001079866.2(BCS1L):c.666C>G (p.Tyr222Ter)	617	BCS1L	Likely pathogenic	GRCh38	3585651
+single nucleotide variant	NM_001079866.2(BCS1L):c.902A>G (p.Tyr301Cys)	617	BCS1L	Likely pathogenic	GRCh38	3601100
+single nucleotide variant	NM_001079866.2(BCS1L):c.180T>G (p.Tyr60Ter)	617	BCS1L	Pathogenic/Likely pathogenic	GRCh38	3616593
+single nucleotide variant	NM_001079866.2(BCS1L):c.185G>C (p.Trp62Ser)	617	BCS1L	Likely pathogenic	GRCh38	3767186
+single nucleotide variant	NM_001079866.2(BCS1L):c.198G>A (p.Trp66Ter)	617	BCS1L	Likely pathogenic	GRCh38	3767187
+single nucleotide variant	NM_001079866.2(BCS1L):c.1102T>A (p.Phe368Ile)	617	BCS1L	Likely pathogenic	GRCh38	4688571
+single nucleotide variant	NM_001079866.2(BCS1L):c.3G>A (p.Met1Ile)	617	BCS1L	Pathogenic	GRCh38	4733111
+single nucleotide variant	NM_001079866.2(BCS1L):c.306A>T (p.Gly102=)	617	BCS1L	Likely pathogenic	GRCh38	4815341
+single nucleotide variant	NM_001079866.2(BCS1L):c.904C>T (p.Gln302Ter)	617	BCS1L	Likely pathogenic	GRCh38	4815344

@@ -1,0 +1,74 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006343.3(MERTK):c.1605-2A>G	10461	MERTK	Pathogenic	GRCh38	5401
+single nucleotide variant	NM_006343.3(MERTK):c.1951C>T (p.Arg651Ter)	10461	MERTK	Pathogenic	GRCh38	5402
+single nucleotide variant	NM_006343.3(MERTK):c.2189+1G>T	10461	MERTK	Pathogenic	GRCh38	5403
+single nucleotide variant	NM_006343.3(MERTK):c.61+1G>A	10461	MERTK	Pathogenic	GRCh38	37303
+single nucleotide variant	NM_006343.3(MERTK):c.2323C>T (p.Arg775Ter)	10461	MERTK	Pathogenic	GRCh38	37305
+single nucleotide variant	NM_006343.3(MERTK):c.370C>T (p.Gln124Ter)	10461	MERTK	Likely pathogenic	GRCh38	143140
+single nucleotide variant	NM_006343.3(MERTK):c.325A>T (p.Lys109Ter)	10461	MERTK	Pathogenic	GRCh38	191123
+single nucleotide variant	NM_006343.3(MERTK):c.1604+2T>G	10461	MERTK	Pathogenic	GRCh38	191124
+single nucleotide variant	NM_006343.3(MERTK):c.2262C>G (p.Tyr754Ter)	10461	MERTK	Likely pathogenic	GRCh38	191125
+single nucleotide variant	NM_006343.3(MERTK):c.2192T>C (p.Leu731Ser)	10461	MERTK	Likely pathogenic	GRCh38	216961
+single nucleotide variant	NM_006343.3(MERTK):c.2180G>A (p.Arg727Gln)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	236454
+single nucleotide variant	NM_006343.3(MERTK):c.2302G>A (p.Ala768Thr)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	236453
+single nucleotide variant	NM_006343.3(MERTK):c.584-1G>T	10461	MERTK	Pathogenic	GRCh38	437469
+single nucleotide variant	NM_006343.3(MERTK):c.2164C>T (p.Arg722Ter)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	437995
+single nucleotide variant	NM_006343.3(MERTK):c.2179C>G (p.Arg727Gly)	10461	MERTK	Likely pathogenic	GRCh38	437996
+single nucleotide variant	NM_006343.3(MERTK):c.1296+5G>A	10461	MERTK	Likely pathogenic	GRCh38	520426
+single nucleotide variant	NM_006343.3(MERTK):c.2486+1G>A	10461	MERTK	Pathogenic	GRCh38	522500
+single nucleotide variant	NM_006343.3(MERTK):c.2059C>T (p.Arg687Ter)	10461	MERTK	Likely pathogenic	GRCh38	546038
+single nucleotide variant	NM_006343.3(MERTK):c.692G>C (p.Trp231Ser)	10461	MERTK	Likely pathogenic	GRCh38	635477
+single nucleotide variant	NM_006343.3(MERTK):c.345C>G (p.Cys115Trp)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	636044
+single nucleotide variant	NM_006343.3(MERTK):c.757+1G>A	10461	MERTK	Likely pathogenic	GRCh38	636045
+single nucleotide variant	NM_006343.3(MERTK):c.960+1G>A	10461	MERTK	Likely pathogenic	GRCh38	636046
+single nucleotide variant	NM_006343.3(MERTK):c.1296+1G>C	10461	MERTK	Pathogenic	GRCh38	801736
+single nucleotide variant	NM_006343.3(MERTK):c.2303C>T (p.Ala768Val)	10461	MERTK	Likely pathogenic	GRCh38	801737
+single nucleotide variant	NM_006343.3(MERTK):c.2530C>T (p.Arg844Cys)	10461	MERTK	Pathogenic	GRCh38	801738
+single nucleotide variant	NM_006343.3(MERTK):c.1296+1G>A	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	808793
+single nucleotide variant	NM_006343.3(MERTK):c.1450+2T>G	10461	MERTK	Likely pathogenic	GRCh38	811909
+single nucleotide variant	NM_006343.3(MERTK):c.2162A>C (p.His721Pro)	10461	MERTK	Likely pathogenic	GRCh38	811285
+single nucleotide variant	NM_006343.3(MERTK):c.1868T>A (p.Leu623Ter)	10461	MERTK	Pathogenic	GRCh38	849628
+single nucleotide variant	NM_006343.3(MERTK):c.604C>T (p.Gln202Ter)	10461	MERTK	Likely pathogenic	GRCh38	865846
+single nucleotide variant	NM_006343.3(MERTK):c.1672C>T (p.Arg558Ter)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	866904
+single nucleotide variant	NM_006343.3(MERTK):c.2179C>T (p.Arg727Ter)	10461	MERTK	Pathogenic	GRCh38	866075
+single nucleotide variant	NM_006343.3(MERTK):c.844+2T>C	10461	MERTK	Likely pathogenic	GRCh38	943681
+single nucleotide variant	NM_006343.3(MERTK):c.1787-2A>T	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	961145
+single nucleotide variant	NM_006343.3(MERTK):c.2079+2T>G	10461	MERTK	Pathogenic	GRCh38	979014
+single nucleotide variant	NM_006343.3(MERTK):c.2219C>T (p.Ala740Val)	10461	MERTK	Pathogenic	GRCh38	979015
+single nucleotide variant	NM_006343.3(MERTK):c.1843A>T (p.Lys615Ter)	10461	MERTK	Pathogenic	GRCh38	983473
+single nucleotide variant	NM_006343.3(MERTK):c.1689C>A (p.Thr563=)	10461	MERTK	Likely pathogenic	GRCh38	987003
+single nucleotide variant	NM_006343.3(MERTK):c.1690+1G>A	10461	MERTK	Likely pathogenic	GRCh38	987305
+single nucleotide variant	NM_006343.3(MERTK):c.1690+3A>T	10461	MERTK	Likely pathogenic	GRCh38	987306
+single nucleotide variant	NM_006343.3(MERTK):c.1090G>T (p.Glu364Ter)	10461	MERTK	Pathogenic	GRCh38	1065647
+single nucleotide variant	NM_006343.3(MERTK):c.2190-1G>T	10461	MERTK	Pathogenic	GRCh38	1065760
+single nucleotide variant	NM_006343.3(MERTK):c.1144+1G>A	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	1068170
+single nucleotide variant	NM_006343.3(MERTK):c.1868-1G>A	10461	MERTK	Pathogenic	GRCh38	1067939
+single nucleotide variant	NM_006343.3(MERTK):c.2190-2A>G	10461	MERTK	Pathogenic	GRCh38	1330299
+single nucleotide variant	NM_006343.3(MERTK):c.2020A>G (p.Met674Val)	10461	MERTK	Likely pathogenic	GRCh38	1338880
+single nucleotide variant	NM_006343.3(MERTK):c.1100G>A (p.Trp367Ter)	10461	MERTK	Pathogenic	GRCh38	1449144
+single nucleotide variant	NM_006343.3(MERTK):c.483-1G>C	10461	MERTK	Likely pathogenic	GRCh38	1467473
+single nucleotide variant	NM_006343.3(MERTK):c.2187C>A (p.Cys729Ter)	10461	MERTK	Pathogenic	GRCh38	1431964
+single nucleotide variant	NM_006343.3(MERTK):c.2352G>A (p.Trp784Ter)	10461	MERTK	Pathogenic	GRCh38	1378327
+single nucleotide variant	NM_006343.3(MERTK):c.1647T>G (p.Tyr549Ter)	10461	MERTK	Pathogenic	GRCh38	1691718
+single nucleotide variant	NM_006343.3(MERTK):c.2194C>T (p.Arg732Ter)	10461	MERTK	Pathogenic	GRCh38	1723184
+single nucleotide variant	NM_006343.3(MERTK):c.1186G>T (p.Glu396Ter)	10461	MERTK	Pathogenic	GRCh38	2203134
+single nucleotide variant	NM_006343.3(MERTK):c.912G>A (p.Trp304Ter)	10461	MERTK	Pathogenic	GRCh38	2110010
+single nucleotide variant	NM_006343.3(MERTK):c.263C>G (p.Ser88Ter)	10461	MERTK	Pathogenic	GRCh38	2114906
+single nucleotide variant	NM_006343.3(MERTK):c.2209G>T (p.Val737Phe)	10461	MERTK	Likely pathogenic	GRCh38	2577519
+single nucleotide variant	NM_006343.3(MERTK):c.721C>T (p.Gln241Ter)	10461	MERTK	Pathogenic/Likely pathogenic	GRCh38	2734259
+single nucleotide variant	NM_006343.3(MERTK):c.2389G>T (p.Gly797Ter)	10461	MERTK	Pathogenic	GRCh38	2800950
+single nucleotide variant	NM_006343.3(MERTK):c.2531G>A (p.Arg844His)	10461	MERTK	Pathogenic	GRCh38	2971429
+single nucleotide variant	NM_006343.3(MERTK):c.2227G>A (p.Gly743Ser)	10461	MERTK	Likely pathogenic	GRCh38	3065494
+single nucleotide variant	NM_006343.3(MERTK):c.1960+1G>A	10461	MERTK	Pathogenic	GRCh38	3248948
+single nucleotide variant	NM_006343.3(MERTK):c.1296+2T>G	10461	MERTK	Pathogenic	GRCh38	3249074
+single nucleotide variant	NM_006343.3(MERTK):c.1787-2A>C	10461	MERTK	Pathogenic	GRCh38	3250260
+single nucleotide variant	NM_006343.3(MERTK):c.2350-2A>C	10461	MERTK	Pathogenic	GRCh38	3250287
+single nucleotide variant	NM_006343.3(MERTK):c.1787-2A>G	10461	MERTK	Likely pathogenic	GRCh38	3381806
+single nucleotide variant	NM_006343.3(MERTK):c.655C>T (p.Gln219Ter)	10461	MERTK	Pathogenic	GRCh38	3646068
+single nucleotide variant	NM_006343.3(MERTK):c.1702G>T (p.Gly568Ter)	10461	MERTK	Pathogenic	GRCh38	3662669
+single nucleotide variant	NM_006343.3(MERTK):c.2510G>A (p.Trp837Ter)	10461	MERTK	Pathogenic	GRCh38	3670964
+single nucleotide variant	NM_006343.3(MERTK):c.841A>G (p.Lys281Glu)	10461	MERTK	Likely pathogenic	GRCh38	4533400
+single nucleotide variant	NM_006343.3(MERTK):c.1867+1G>A	10461	MERTK	Likely pathogenic	GRCh38	4795882
+single nucleotide variant	NM_006343.3(MERTK):c.1333C>T (p.Arg445Ter)	10461	MERTK	Pathogenic	GRCh38	4804123
+single nucleotide variant	NM_006343.3(MERTK):c.390G>A (p.Trp130Ter)	10461	MERTK	Pathogenic	GRCh38	4856159
+single nucleotide variant	NM_006343.3(MERTK):c.961-2A>G	10461	MERTK	Pathogenic	GRCh38	4856340

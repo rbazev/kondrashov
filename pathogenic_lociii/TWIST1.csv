@@ -1,0 +1,60 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000474.4(TWIST1):c.356A>C (p.Gln119Pro)	7291	TWIST1	Pathogenic	GRCh38	7974
+single nucleotide variant	NM_000474.4(TWIST1):c.309C>A (p.Tyr103Ter)	7291	TWIST1	Pathogenic	GRCh38	7975
+single nucleotide variant	NM_000474.4(TWIST1):c.368C>A (p.Ser123Ter)	7291	TWIST1	Pathogenic	GRCh38	7976
+single nucleotide variant	NM_000474.4(TWIST1):c.376G>T (p.Glu126Ter)	7291	TWIST1	Pathogenic	GRCh38	7977
+single nucleotide variant	NM_000474.4(TWIST1):c.392T>C (p.Leu131Pro)	7291	TWIST1	Pathogenic	GRCh38	7978
+single nucleotide variant	NM_000474.4(TWIST1):c.541G>T (p.Glu181Ter)	7291	TWIST1	Pathogenic	GRCh38	7980
+single nucleotide variant	NM_000474.4(TWIST1):c.466A>G (p.Ile156Val)	7291	TWIST1	Pathogenic/Likely pathogenic	GRCh38	7982
+single nucleotide variant	NM_000474.4(TWIST1):c.82C>T (p.Gln28Ter)	7291	TWIST1	Pathogenic	GRCh38	7983
+single nucleotide variant	NM_000474.4(TWIST1):c.211C>T (p.Gln71Ter)	7291	TWIST1	Pathogenic	GRCh38	7984
+single nucleotide variant	NM_000474.4(TWIST1):c.556G>A (p.Ala186Thr)	7291	TWIST1	Pathogenic	GRCh38	7985
+single nucleotide variant	NM_000474.4(TWIST1):c.352C>G (p.Arg118Gly)	7291	TWIST1	Likely pathogenic	GRCh38	438352
+single nucleotide variant	NM_000474.4(TWIST1):c.350A>T (p.Glu117Val)	7291	TWIST1	Pathogenic	GRCh38	444875
+single nucleotide variant	NM_000474.4(TWIST1):c.350A>G (p.Glu117Gly)	7291	TWIST1	Pathogenic	GRCh38	444876
+single nucleotide variant	NM_000474.4(TWIST1):c.419C>A (p.Ser140Ter)	7291	TWIST1	Pathogenic	GRCh38	489149
+single nucleotide variant	NM_000474.4(TWIST1):c.346C>G (p.Arg116Gly)	7291	TWIST1	Likely pathogenic	GRCh38	543078
+single nucleotide variant	NM_000474.4(TWIST1):c.475C>T (p.Leu159Phe)	7291	TWIST1	Pathogenic	GRCh38	572211
+single nucleotide variant	NM_000474.4(TWIST1):c.301C>T (p.Gln101Ter)	7291	TWIST1	Pathogenic/Likely pathogenic	GRCh38	575739
+single nucleotide variant	NM_000474.4(TWIST1):c.362C>T (p.Thr121Ile)	7291	TWIST1	Pathogenic	GRCh38	800915
+single nucleotide variant	NM_000474.4(TWIST1):c.309C>G (p.Tyr103Ter)	7291	TWIST1	Pathogenic	GRCh38	802300
+single nucleotide variant	NM_000474.4(TWIST1):c.397A>T (p.Lys133Ter)	7291	TWIST1	Pathogenic	GRCh38	827827
+single nucleotide variant	NM_000474.4(TWIST1):c.446T>G (p.Leu149Arg)	7291	TWIST1	Pathogenic	GRCh38	835124
+single nucleotide variant	NM_000474.4(TWIST1):c.443C>T (p.Thr148Ile)	7291	TWIST1	Likely pathogenic	GRCh38	942829
+single nucleotide variant	NM_000474.4(TWIST1):c.416C>T (p.Pro139Leu)	7291	TWIST1	Likely pathogenic	GRCh38	935674
+single nucleotide variant	NM_000474.4(TWIST1):c.433A>G (p.Lys145Glu)	7291	TWIST1	Pathogenic/Likely pathogenic	GRCh38	970861
+single nucleotide variant	NM_000474.4(TWIST1):c.475C>G (p.Leu159Val)	7291	TWIST1	Likely pathogenic	GRCh38	981189
+single nucleotide variant	NM_000474.4(TWIST1):c.476T>A (p.Leu159His)	7291	TWIST1	Likely pathogenic	GRCh38	1048585
+single nucleotide variant	NM_000474.4(TWIST1):c.587G>A (p.Trp196Ter)	7291	TWIST1	Pathogenic	GRCh38	1075291
+single nucleotide variant	NM_000474.4(TWIST1):c.472T>C (p.Phe158Leu)	7291	TWIST1	Likely pathogenic	GRCh38	1480108
+single nucleotide variant	NM_000474.4(TWIST1):c.358C>G (p.Arg120Gly)	7291	TWIST1	Pathogenic/Likely pathogenic	GRCh38	1474221
+single nucleotide variant	NM_000474.4(TWIST1):c.415C>T (p.Pro139Ser)	7291	TWIST1	Likely pathogenic	GRCh38	1488653
+single nucleotide variant	NM_000474.4(TWIST1):c.467T>G (p.Ile156Ser)	7291	TWIST1	Pathogenic	GRCh38	1455499
+single nucleotide variant	NM_000474.4(TWIST1):c.310G>T (p.Glu104Ter)	7291	TWIST1	Pathogenic	GRCh38	1458491
+single nucleotide variant	NM_000474.4(TWIST1):c.349G>T (p.Glu117Ter)	7291	TWIST1	Pathogenic	GRCh38	1418275
+single nucleotide variant	NM_000474.4(TWIST1):c.419C>T (p.Ser140Leu)	7291	TWIST1	Likely pathogenic	GRCh38	1420250
+single nucleotide variant	NM_000474.4(TWIST1):c.474C>G (p.Phe158Leu)	7291	TWIST1	Likely pathogenic	GRCh38	1474659
+single nucleotide variant	NM_000474.4(TWIST1):c.365A>G (p.Gln122Arg)	7291	TWIST1	Likely pathogenic	GRCh38	1685469
+single nucleotide variant	NM_000474.4(TWIST1):c.445C>T (p.Leu149Phe)	7291	TWIST1	Likely pathogenic	GRCh38	1693014
+single nucleotide variant	NM_000474.4(TWIST1):c.-18C>T	7291	TWIST1	Pathogenic	GRCh38	1722762
+single nucleotide variant	NM_000474.4(TWIST1):c.455C>T (p.Ala152Val)	7291	TWIST1	Likely pathogenic	GRCh38	2136496
+single nucleotide variant	NM_000474.4(TWIST1):c.465C>G (p.Tyr155Ter)	7291	TWIST1	Pathogenic	GRCh38	2070030
+single nucleotide variant	NM_000474.4(TWIST1):c.347G>C (p.Arg116Pro)	7291	TWIST1	Pathogenic	GRCh38	2093953
+single nucleotide variant	NM_000474.4(TWIST1):c.528C>G (p.Ser176Arg)	7291	TWIST1	Likely pathogenic	GRCh38	2430914
+single nucleotide variant	NM_000474.4(TWIST1):c.319C>T (p.Gln107Ter)	7291	TWIST1	Pathogenic	GRCh38	2444186
+single nucleotide variant	NM_000474.4(TWIST1):c.351G>T (p.Glu117Asp)	7291	TWIST1	Pathogenic	GRCh38	2572412
+single nucleotide variant	NM_000474.4(TWIST1):c.325C>G (p.Gln109Glu)	7291	TWIST1	Likely pathogenic	GRCh38	2627611
+single nucleotide variant	NM_000474.4(TWIST1):c.454G>C (p.Ala152Pro)	7291	TWIST1	Likely pathogenic	GRCh38	2630238
+single nucleotide variant	NM_000474.4(TWIST1):c.325C>T (p.Gln109Ter)	7291	TWIST1	Pathogenic	GRCh38	2920608
+single nucleotide variant	NM_000474.4(TWIST1):c.406C>G (p.Pro136Ala)	7291	TWIST1	Likely pathogenic	GRCh38	2925392
+single nucleotide variant	NM_000474.4(TWIST1):c.481C>T (p.Gln161Ter)	7291	TWIST1	Pathogenic/Likely pathogenic	GRCh38	3235827
+single nucleotide variant	NM_000474.4(TWIST1):c.431G>A (p.Ser144Asn)	7291	TWIST1	Likely pathogenic	GRCh38	3340704
+single nucleotide variant	NM_000474.4(TWIST1):c.329G>A (p.Arg110Gln)	7291	TWIST1	Likely pathogenic	GRCh38	3343959
+single nucleotide variant	NM_000474.4(TWIST1):c.346C>T (p.Arg116Trp)	7291	TWIST1	Pathogenic	GRCh38	3376165
+single nucleotide variant	NM_000474.4(TWIST1):c.480C>A (p.Tyr160Ter)	7291	TWIST1	Pathogenic	GRCh38	3760234
+single nucleotide variant	NM_000474.4(TWIST1):c.7C>T (p.Gln3Ter)	7291	TWIST1	Pathogenic	GRCh38	4083363
+single nucleotide variant	NM_000474.4(TWIST1):c.490C>T (p.Gln164Ter)	7291	TWIST1	Likely pathogenic	GRCh38	4633984
+single nucleotide variant	NM_000474.4(TWIST1):c.480C>G (p.Tyr160Ter)	7291	TWIST1	Pathogenic	GRCh38	4783655
+single nucleotide variant	NM_000474.4(TWIST1):c.364C>T (p.Gln122Ter)	7291	TWIST1	Pathogenic	GRCh38	4783656
+single nucleotide variant	NM_000474.4(TWIST1):c.434A>C (p.Lys145Thr)	7291	TWIST1	Likely pathogenic	GRCh38	4854177
+single nucleotide variant	NM_000474.4(TWIST1):c.355C>T (p.Gln119Ter)	7291	TWIST1	Pathogenic	GRCh38	4871881

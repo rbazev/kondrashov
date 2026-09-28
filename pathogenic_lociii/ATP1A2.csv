@@ -1,0 +1,106 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000702.4(ATP1A2):c.2291T>C (p.Leu764Pro)	477	ATP1A2	Pathogenic	GRCh38	12917
+single nucleotide variant	NM_000702.4(ATP1A2):c.2659T>C (p.Trp887Arg)	477	ATP1A2	Pathogenic	GRCh38	12918
+single nucleotide variant	NM_000702.4(ATP1A2):c.2192T>C (p.Met731Thr)	477	ATP1A2	Likely pathogenic	GRCh38	12919
+single nucleotide variant	NM_000702.4(ATP1A2):c.2066G>A (p.Arg689Gln)	477	ATP1A2	Likely pathogenic	GRCh38	12920
+single nucleotide variant	NM_000702.4(ATP1A2):c.1133C>A (p.Thr378Asn)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	12921
+single nucleotide variant	NM_000702.4(ATP1A2):c.901G>A (p.Gly301Arg)	477	ATP1A2	Pathogenic	GRCh38	12922
+single nucleotide variant	NM_000702.4(ATP1A2):c.1033A>G (p.Thr345Ala)	477	ATP1A2	Pathogenic	GRCh38	12923
+single nucleotide variant	NM_000702.4(ATP1A2):c.2936C>T (p.Pro979Leu)	477	ATP1A2	Pathogenic	GRCh38	12925
+single nucleotide variant	NM_000702.4(ATP1A2):c.1643G>A (p.Arg548His)	477	ATP1A2	Pathogenic	GRCh38	12926
+single nucleotide variant	NM_000702.4(ATP1A2):c.857T>C (p.Ile286Thr)	477	ATP1A2	Likely pathogenic	GRCh38	12927
+single nucleotide variant	NM_000702.4(ATP1A2):c.1127C>T (p.Thr376Met)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	12930
+single nucleotide variant	NM_000702.4(ATP1A2):c.2564G>A (p.Gly855Glu)	477	ATP1A2	Pathogenic	GRCh38	68985
+single nucleotide variant	NM_000702.4(ATP1A2):c.1091C>T (p.Thr364Met)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	204884
+single nucleotide variant	NM_000702.4(ATP1A2):c.1148G>A (p.Arg383His)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	204886
+single nucleotide variant	NM_000702.4(ATP1A2):c.2438T>A (p.Met813Lys)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	204898
+single nucleotide variant	NM_000702.4(ATP1A2):c.571G>A (p.Val191Met)	477	ATP1A2	Pathogenic	GRCh38	222078
+single nucleotide variant	NM_000702.4(ATP1A2):c.1022G>T (p.Cys341Phe)	477	ATP1A2	Pathogenic	GRCh38	383452
+single nucleotide variant	NM_000702.4(ATP1A2):c.1017+5G>A	477	ATP1A2	Likely pathogenic	GRCh38	427094
+single nucleotide variant	NM_000702.4(ATP1A2):c.889G>A (p.Ala297Thr)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	430293
+single nucleotide variant	NM_000702.4(ATP1A2):c.1261C>T (p.Arg421Ter)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	444184
+single nucleotide variant	NM_000702.4(ATP1A2):c.117+1G>A	477	ATP1A2	Likely pathogenic	GRCh38	446868
+single nucleotide variant	NM_000702.4(ATP1A2):c.2143G>A (p.Gly715Arg)	477	ATP1A2	Pathogenic	GRCh38	446869
+single nucleotide variant	NM_000702.4(ATP1A2):c.2563G>A (p.Gly855Arg)	477	ATP1A2	Pathogenic	GRCh38	446871
+single nucleotide variant	NM_000702.4(ATP1A2):c.2698G>A (p.Gly900Arg)	477	ATP1A2	Likely pathogenic	GRCh38	446873
+single nucleotide variant	NM_000702.4(ATP1A2):c.1816G>A (p.Ala606Thr)	477	ATP1A2	Pathogenic	GRCh38	449379
+single nucleotide variant	NM_000702.4(ATP1A2):c.1882G>A (p.Val628Met)	477	ATP1A2	Pathogenic	GRCh38	449380
+single nucleotide variant	NM_000702.4(ATP1A2):c.1096G>A (p.Gly366Ser)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	493055
+single nucleotide variant	NM_000702.4(ATP1A2):c.879C>G (p.Ile293Met)	477	ATP1A2	Pathogenic	GRCh38	520908
+single nucleotide variant	NM_000702.4(ATP1A2):c.2810G>A (p.Arg937His)	477	ATP1A2	Likely pathogenic	GRCh38	521207
+single nucleotide variant	NM_000702.4(ATP1A2):c.1817C>A (p.Ala606Glu)	477	ATP1A2	Likely pathogenic	GRCh38	546612
+single nucleotide variant	NM_000702.4(ATP1A2):c.2869G>T (p.Glu957Ter)	477	ATP1A2	Pathogenic	GRCh38	549759
+single nucleotide variant	NM_000702.4(ATP1A2):c.2434G>C (p.Asp812His)	477	ATP1A2	Pathogenic	GRCh38	572285
+single nucleotide variant	NM_000702.4(ATP1A2):c.788C>T (p.Thr263Met)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	585463
+single nucleotide variant	NM_000702.4(ATP1A2):c.3005G>A (p.Arg1002Gln)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	585462
+single nucleotide variant	NM_000702.4(ATP1A2):c.1743C>A (p.Cys581Ter)	477	ATP1A2	Pathogenic	GRCh38	644202
+single nucleotide variant	NM_000702.4(ATP1A2):c.1778G>T (p.Arg593Leu)	477	ATP1A2	Pathogenic	GRCh38	647596
+single nucleotide variant	NM_000702.4(ATP1A2):c.2424C>G (p.Asp808Glu)	477	ATP1A2	Likely pathogenic	GRCh38	645609
+single nucleotide variant	NM_000702.4(ATP1A2):c.3027T>A (p.Tyr1009Ter)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	692197
+single nucleotide variant	NM_000702.4(ATP1A2):c.1642C>T (p.Arg548Cys)	477	ATP1A2	Pathogenic	GRCh38	871961
+single nucleotide variant	NM_000702.4(ATP1A2):c.2151C>A (p.Asn717Lys)	477	ATP1A2	Pathogenic	GRCh38	872510
+single nucleotide variant	NM_000702.4(ATP1A2):c.496-1G>A	477	ATP1A2	Likely pathogenic	GRCh38	972074
+single nucleotide variant	NM_000702.4(ATP1A2):c.1888A>C (p.Ile630Leu)	477	ATP1A2	Likely pathogenic	GRCh38	996134
+single nucleotide variant	NM_000702.4(ATP1A2):c.2776G>T (p.Val926Leu)	477	ATP1A2	Likely pathogenic	GRCh38	996765
+single nucleotide variant	NM_000702.4(ATP1A2):c.1810C>T (p.Arg604Ter)	477	ATP1A2	Pathogenic	GRCh38	1013256
+single nucleotide variant	NM_000702.4(ATP1A2):c.2387C>G (p.Pro796Arg)	477	ATP1A2	Likely pathogenic	GRCh38	1013257
+single nucleotide variant	NM_000702.4(ATP1A2):c.2285-2A>C	477	ATP1A2	Pathogenic	GRCh38	1027522
+single nucleotide variant	NM_000702.4(ATP1A2):c.1843G>A (p.Gly615Arg)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	1029935
+single nucleotide variant	NM_000702.4(ATP1A2):c.2563+2T>C	477	ATP1A2	Likely pathogenic	GRCh38	1064213
+single nucleotide variant	NM_000702.4(ATP1A2):c.1097G>T (p.Gly366Val)	477	ATP1A2	Pathogenic	GRCh38	1071760
+single nucleotide variant	NM_000702.4(ATP1A2):c.2501G>A (p.Arg834Gln)	477	ATP1A2	Pathogenic	GRCh38	1072573
+single nucleotide variant	NM_000702.4(ATP1A2):c.2723G>A (p.Arg908Gln)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	1216390
+single nucleotide variant	NM_000702.4(ATP1A2):c.2323T>G (p.Tyr775Asp)	477	ATP1A2	Likely pathogenic	GRCh38	1313247
+single nucleotide variant	NM_000702.4(ATP1A2):c.2809C>T (p.Arg937Cys)	477	ATP1A2	Likely pathogenic	GRCh38	1315281
+single nucleotide variant	NM_000702.4(ATP1A2):c.2336G>A (p.Ser779Asn)	477	ATP1A2	Likely pathogenic	GRCh38	1321203
+single nucleotide variant	NM_000702.4(ATP1A2):c.2357C>T (p.Pro786Leu)	477	ATP1A2	Pathogenic	GRCh38	1439209
+single nucleotide variant	NM_000702.4(ATP1A2):c.1453A>T (p.Lys485Ter)	477	ATP1A2	Pathogenic	GRCh38	1356232
+single nucleotide variant	NM_000702.4(ATP1A2):c.381+1G>A	477	ATP1A2	Likely pathogenic	GRCh38	1359599
+single nucleotide variant	NM_000702.4(ATP1A2):c.2485A>G (p.Met829Val)	477	ATP1A2	Likely pathogenic	GRCh38	1347948
+single nucleotide variant	NM_000702.4(ATP1A2):c.1103C>T (p.Thr368Met)	477	ATP1A2	Likely pathogenic	GRCh38	1349197
+single nucleotide variant	NM_000702.4(ATP1A2):c.604C>T (p.Arg202Trp)	477	ATP1A2	Likely pathogenic	GRCh38	1471341
+single nucleotide variant	NM_000702.4(ATP1A2):c.1130G>T (p.Gly377Val)	477	ATP1A2	Pathogenic	GRCh38	1719913
+single nucleotide variant	NM_000702.4(ATP1A2):c.2501G>T (p.Arg834Leu)	477	ATP1A2	Likely pathogenic	GRCh38	2003217
+single nucleotide variant	NM_000702.4(ATP1A2):c.991C>G (p.Pro331Ala)	477	ATP1A2	Pathogenic	GRCh38	2009052
+single nucleotide variant	NM_000702.4(ATP1A2):c.902G>A (p.Gly301Glu)	477	ATP1A2	Likely pathogenic	GRCh38	2020422
+single nucleotide variant	NM_000702.4(ATP1A2):c.2708G>A (p.Trp903Ter)	477	ATP1A2	Pathogenic	GRCh38	2042154
+single nucleotide variant	NM_000702.4(ATP1A2):c.1022G>A (p.Cys341Tyr)	477	ATP1A2	Likely pathogenic	GRCh38	2430257
+single nucleotide variant	NM_000702.4(ATP1A2):c.2072C>T (p.Ser691Phe)	477	ATP1A2	Likely pathogenic	GRCh38	2498437
+single nucleotide variant	NM_000702.4(ATP1A2):c.2827C>T (p.Gln943Ter)	477	ATP1A2	Likely pathogenic	GRCh38	2498438
+single nucleotide variant	NM_000702.4(ATP1A2):c.2288G>T (p.Arg763Leu)	477	ATP1A2	Likely pathogenic	GRCh38	2573648
+single nucleotide variant	NM_000702.4(ATP1A2):c.1234C>T (p.Arg412Ter)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	2507016
+single nucleotide variant	NM_000702.4(ATP1A2):c.1084G>A (p.Val362Met)	477	ATP1A2	Likely pathogenic	GRCh38	2570741
+single nucleotide variant	NM_000702.4(ATP1A2):c.1216+1G>A	477	ATP1A2	Likely pathogenic	GRCh38	2631443
+single nucleotide variant	NM_000702.4(ATP1A2):c.495+2T>C	477	ATP1A2	Likely pathogenic	GRCh38	2699989
+single nucleotide variant	NM_000702.4(ATP1A2):c.1405A>T (p.Arg469Ter)	477	ATP1A2	Pathogenic	GRCh38	2713294
+single nucleotide variant	NM_000702.4(ATP1A2):c.605G>A (p.Arg202Gln)	477	ATP1A2	Pathogenic	GRCh38	2734006
+single nucleotide variant	NM_000702.4(ATP1A2):c.12+1G>A	477	ATP1A2	Likely pathogenic	GRCh38	2752813
+single nucleotide variant	NM_000702.4(ATP1A2):c.2432C>G (p.Thr811Arg)	477	ATP1A2	Pathogenic	GRCh38	2752869
+single nucleotide variant	NM_000702.4(ATP1A2):c.1652-1G>T	477	ATP1A2	Likely pathogenic	GRCh38	2766600
+single nucleotide variant	NM_000702.4(ATP1A2):c.1477C>T (p.Arg493Ter)	477	ATP1A2	Pathogenic/Likely pathogenic	GRCh38	2775453
+single nucleotide variant	NM_000702.4(ATP1A2):c.2284+1G>A	477	ATP1A2	Likely pathogenic	GRCh38	2794810
+single nucleotide variant	NM_000702.4(ATP1A2):c.1570G>T (p.Glu524Ter)	477	ATP1A2	Pathogenic	GRCh38	2814730
+single nucleotide variant	NM_000702.4(ATP1A2):c.1965-2A>G	477	ATP1A2	Likely pathogenic	GRCh38	2996042
+single nucleotide variant	NM_000702.4(ATP1A2):c.2285-1G>A	477	ATP1A2	Likely pathogenic	GRCh38	3033419
+single nucleotide variant	NM_000702.4(ATP1A2):c.12+2T>A	477	ATP1A2	Likely pathogenic	GRCh38	3064837
+single nucleotide variant	NM_000702.4(ATP1A2):c.2135C>T (p.Thr712Met)	477	ATP1A2	Likely pathogenic	GRCh38	3065454
+single nucleotide variant	NM_000702.4(ATP1A2):c.1021T>C (p.Cys341Arg)	477	ATP1A2	Likely pathogenic	GRCh38	3068468
+single nucleotide variant	NM_000702.4(ATP1A2):c.3061T>C (p.Ter1021Arg)	477	ATP1A2	Likely pathogenic	GRCh38	3234579
+single nucleotide variant	NM_000702.4(ATP1A2):c.2444C>G (p.Pro815Arg)	477	ATP1A2	Likely pathogenic	GRCh38	3382567
+single nucleotide variant	NM_000702.4(ATP1A2):c.1459C>T (p.Gln487Ter)	477	ATP1A2	Pathogenic	GRCh38	3393233
+single nucleotide variant	NM_000702.4(ATP1A2):c.959T>A (p.Ile320Asn)	477	ATP1A2	Likely pathogenic	GRCh38	3393289
+single nucleotide variant	NM_000702.4(ATP1A2):c.580G>T (p.Gly194Ter)	477	ATP1A2	Pathogenic	GRCh38	3656099
+single nucleotide variant	NM_000702.4(ATP1A2):c.177+2T>G	477	ATP1A2	Likely pathogenic	GRCh38	3653767
+single nucleotide variant	NM_000702.4(ATP1A2):c.2995G>C (p.Asp999His)	477	ATP1A2	Pathogenic	GRCh38	3905629
+single nucleotide variant	NM_000702.4(ATP1A2):c.2069C>A (p.Thr690Lys)	477	ATP1A2	Likely pathogenic	GRCh38	4277857
+single nucleotide variant	NM_000702.4(ATP1A2):c.1132A>C (p.Thr378Pro)	477	ATP1A2	Likely pathogenic	GRCh38	4279597
+single nucleotide variant	NM_000702.4(ATP1A2):c.1799T>C (p.Val600Ala)	477	ATP1A2	Likely pathogenic	GRCh38	4527822
+single nucleotide variant	NM_000702.4(ATP1A2):c.2789A>T (p.Asp930Val)	477	ATP1A2	Likely pathogenic	GRCh38	4532042
+single nucleotide variant	NM_000702.4(ATP1A2):c.178-2A>G	477	ATP1A2	Likely pathogenic	GRCh38	4721451
+single nucleotide variant	NM_000702.4(ATP1A2):c.2494C>T (p.Gln832Ter)	477	ATP1A2	Pathogenic	GRCh38	4736499
+single nucleotide variant	NM_000702.4(ATP1A2):c.1124A>G (p.Lys375Arg)	477	ATP1A2	Pathogenic	GRCh38	4761402
+single nucleotide variant	NM_000702.4(ATP1A2):c.1326+2T>C	477	ATP1A2	Likely pathogenic	GRCh38	4807784
+single nucleotide variant	NM_000702.4(ATP1A2):c.2440-1G>T	477	ATP1A2	Likely pathogenic	GRCh38	4809151
+single nucleotide variant	NM_000702.4(ATP1A2):c.1216+1G>T	477	ATP1A2	Pathogenic	GRCh38	4823160
+single nucleotide variant	NM_000702.4(ATP1A2):c.997G>C (p.Gly333Arg)	477	ATP1A2	Likely pathogenic	GRCh38	4851539
+single nucleotide variant	NM_000702.4(ATP1A2):c.826G>T (p.Glu276Ter)	477	ATP1A2	Likely pathogenic	GRCh38	4871756

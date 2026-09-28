@@ -1,0 +1,689 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000548.5(TSC2):c.5024C>T (p.Pro1675Leu)	7249	TSC2	Pathogenic	GRCh38	12393
+single nucleotide variant	NM_000548.5(TSC2):c.34A>T (p.Lys12Ter)	7249	TSC2	Pathogenic	GRCh38	12394
+single nucleotide variant	NM_000548.5(TSC2):c.1513C>T (p.Arg505Ter)	7249	TSC2	Pathogenic	GRCh38	12396
+single nucleotide variant	NM_000548.5(TSC2):c.1832G>A (p.Arg611Gln)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	12397
+single nucleotide variant	NM_000548.5(TSC2):c.2150T>G (p.Leu717Arg)	7249	TSC2	Pathogenic	GRCh38	12398
+single nucleotide variant	NM_000548.5(TSC2):c.1432C>T (p.Gln478Ter)	7249	TSC2	Pathogenic	GRCh38	12399
+single nucleotide variant	NM_000548.5(TSC2):c.1096G>T (p.Glu366Ter)	7249	TSC2	Pathogenic	GRCh38	12400
+single nucleotide variant	NM_000548.5(TSC2):c.4508A>C (p.Gln1503Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	12401
+single nucleotide variant	NM_000548.5(TSC2):c.2714G>A (p.Arg905Gln)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	12403
+single nucleotide variant	NM_000548.5(TSC2):c.2713C>T (p.Arg905Trp)	7249	TSC2	Pathogenic	GRCh38	12404
+single nucleotide variant	NM_000548.5(TSC2):c.2713C>G (p.Arg905Gly)	7249	TSC2	Pathogenic	GRCh38	12405
+single nucleotide variant	NM_000548.5(TSC2):c.1322G>A (p.Trp441Ter)	7249	TSC2	Pathogenic	GRCh38	12407
+single nucleotide variant	NM_000548.5(TSC2):c.1085T>C (p.Leu362Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49140
+single nucleotide variant	NM_000548.5(TSC2):c.1111C>T (p.Gln371Ter)	7249	TSC2	Pathogenic	GRCh38	49142
+single nucleotide variant	NM_000548.5(TSC2):c.1372C>T (p.Arg458Ter)	7249	TSC2	Pathogenic	GRCh38	49153
+single nucleotide variant	NM_000548.5(TSC2):c.138+2T>C	7249	TSC2	Pathogenic	GRCh38	49155
+single nucleotide variant	NM_000548.5(TSC2):c.1440T>G (p.Tyr480Ter)	7249	TSC2	Pathogenic	GRCh38	49158
+single nucleotide variant	NM_000548.5(TSC2):c.1477C>G (p.Leu493Val)	7249	TSC2	Likely pathogenic	GRCh38	49161
+single nucleotide variant	NM_000548.5(TSC2):c.1783C>T (p.Gln595Ter)	7249	TSC2	Pathogenic	GRCh38	49174
+single nucleotide variant	NM_000548.5(TSC2):c.1792T>C (p.Tyr598His)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49175
+single nucleotide variant	NM_000548.5(TSC2):c.1831C>G (p.Arg611Gly)	7249	TSC2	Pathogenic	GRCh38	49177
+single nucleotide variant	NM_000548.5(TSC2):c.2095C>T (p.Gln699Ter)	7249	TSC2	Pathogenic	GRCh38	49191
+single nucleotide variant	NM_000548.5(TSC2):c.2221-1G>C	7249	TSC2	Pathogenic	GRCh38	49197
+single nucleotide variant	NM_000548.5(TSC2):c.2225C>G (p.Ser742Ter)	7249	TSC2	Pathogenic	GRCh38	49199
+single nucleotide variant	NM_000548.5(TSC2):c.226-2A>G	7249	TSC2	Pathogenic	GRCh38	49200
+single nucleotide variant	NM_000548.5(TSC2):c.2356-1G>A	7249	TSC2	Pathogenic	GRCh38	49204
+single nucleotide variant	NM_000548.5(TSC2):c.2356-2A>C	7249	TSC2	Pathogenic	GRCh38	49205
+single nucleotide variant	NM_000548.5(TSC2):c.2407C>T (p.Gln803Ter)	7249	TSC2	Pathogenic	GRCh38	49207
+single nucleotide variant	NM_000548.5(TSC2):c.2440G>A (p.Glu814Lys)	7249	TSC2	Likely pathogenic	GRCh38	49209
+single nucleotide variant	NM_000548.5(TSC2):c.2661T>A (p.Cys887Ter)	7249	TSC2	Pathogenic	GRCh38	49222
+single nucleotide variant	NM_000548.5(TSC2):c.2974C>T (p.Gln992Ter)	7249	TSC2	Pathogenic	GRCh38	49236
+single nucleotide variant	NM_000548.5(TSC2):c.3094C>T (p.Arg1032Ter)	7249	TSC2	Pathogenic	GRCh38	49240
+single nucleotide variant	NM_000548.5(TSC2):c.3095G>C (p.Arg1032Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49241
+single nucleotide variant	NM_000548.5(TSC2):c.3131+1G>A	7249	TSC2	Pathogenic	GRCh38	49244
+single nucleotide variant	NM_000548.5(TSC2):c.3132-1G>C	7249	TSC2	Likely pathogenic	GRCh38	49245
+single nucleotide variant	NM_000548.5(TSC2):c.3212C>G (p.Thr1071Arg)	7249	TSC2	Pathogenic	GRCh38	49247
+single nucleotide variant	NM_000548.5(TSC2):c.3343C>T (p.Gln1115Ter)	7249	TSC2	Pathogenic	GRCh38	49252
+single nucleotide variant	NM_000548.5(TSC2):c.337-1G>T	7249	TSC2	Pathogenic	GRCh38	49253
+single nucleotide variant	NM_000548.5(TSC2):c.3397+1G>A	7249	TSC2	Pathogenic	GRCh38	49256
+single nucleotide variant	NM_000548.5(TSC2):c.3412C>T (p.Arg1138Ter)	7249	TSC2	Pathogenic	GRCh38	49257
+single nucleotide variant	NM_000548.5(TSC2):c.3532C>T (p.Gln1178Ter)	7249	TSC2	Pathogenic	GRCh38	49263
+single nucleotide variant	NM_000548.5(TSC2):c.3610+1G>A	7249	TSC2	Pathogenic	GRCh38	49264
+single nucleotide variant	NM_000548.5(TSC2):c.3662C>A (p.Ser1221Ter)	7249	TSC2	Pathogenic	GRCh38	49269
+single nucleotide variant	NM_000548.5(TSC2):c.3685C>T (p.Gln1229Ter)	7249	TSC2	Pathogenic	GRCh38	49270
+single nucleotide variant	NM_000548.5(TSC2):c.4289G>A (p.Trp1430Ter)	7249	TSC2	Likely pathogenic	GRCh38	49290
+single nucleotide variant	NM_000548.5(TSC2):c.4290G>A (p.Trp1430Ter)	7249	TSC2	Pathogenic	GRCh38	49291
+single nucleotide variant	NM_000548.5(TSC2):c.4355C>A (p.Ser1452Ter)	7249	TSC2	Pathogenic	GRCh38	49294
+single nucleotide variant	NM_000548.5(TSC2):c.4507C>T (p.Gln1503Ter)	7249	TSC2	Pathogenic	GRCh38	49301
+single nucleotide variant	NM_000548.5(TSC2):c.4573C>T (p.Gln1525Ter)	7249	TSC2	Pathogenic	GRCh38	49306
+single nucleotide variant	NM_000548.5(TSC2):c.4663-1G>A	7249	TSC2	Pathogenic	GRCh38	49312
+single nucleotide variant	NM_000548.5(TSC2):c.478C>G (p.Leu160Val)	7249	TSC2	Likely pathogenic	GRCh38	49319
+single nucleotide variant	NM_000548.5(TSC2):c.4790T>C (p.Leu1597Pro)	7249	TSC2	Pathogenic	GRCh38	49320
+single nucleotide variant	NM_000548.5(TSC2):c.481+1G>T	7249	TSC2	Pathogenic	GRCh38	49321
+single nucleotide variant	NM_000548.5(TSC2):c.4829G>A (p.Trp1610Ter)	7249	TSC2	Pathogenic	GRCh38	49323
+single nucleotide variant	NM_000548.5(TSC2):c.4846C>T (p.Gln1616Ter)	7249	TSC2	Pathogenic	GRCh38	49326
+single nucleotide variant	NM_000548.5(TSC2):c.4858C>T (p.His1620Tyr)	7249	TSC2	Pathogenic	GRCh38	49327
+single nucleotide variant	NM_000548.5(TSC2):c.4918C>T (p.His1640Tyr)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49333
+single nucleotide variant	NM_000548.5(TSC2):c.4949A>G (p.Tyr1650Cys)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49334
+single nucleotide variant	NM_000548.5(TSC2):c.4952A>G (p.Asn1651Ser)	7249	TSC2	Pathogenic	GRCh38	49335
+single nucleotide variant	NM_000548.5(TSC2):c.4993C>T (p.Gln1665Ter)	7249	TSC2	Pathogenic	GRCh38	49340
+single nucleotide variant	NM_000548.5(TSC2):c.5043C>G (p.Asn1681Lys)	7249	TSC2	Pathogenic	GRCh38	49342
+single nucleotide variant	NM_000548.5(TSC2):c.5050T>C (p.Ser1684Pro)	7249	TSC2	Likely pathogenic	GRCh38	49343
+single nucleotide variant	NM_000548.5(TSC2):c.5068G>T (p.Asp1690Tyr)	7249	TSC2	Pathogenic	GRCh38	49344
+single nucleotide variant	NM_000548.5(TSC2):c.5069-18A>G	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49345
+single nucleotide variant	NM_000548.5(TSC2):c.5126C>G (p.Pro1709Arg)	7249	TSC2	Pathogenic	GRCh38	49350
+single nucleotide variant	NM_000548.5(TSC2):c.5140C>T (p.Gln1714Ter)	7249	TSC2	Pathogenic	GRCh38	49351
+single nucleotide variant	NM_000548.5(TSC2):c.5150T>C (p.Leu1717Pro)	7249	TSC2	Likely pathogenic	GRCh38	49352
+single nucleotide variant	NM_000548.5(TSC2):c.5219G>A (p.Trp1740Ter)	7249	TSC2	Pathogenic	GRCh38	49362
+single nucleotide variant	NM_000548.5(TSC2):c.5220G>A (p.Trp1740Ter)	7249	TSC2	Pathogenic	GRCh38	49363
+single nucleotide variant	NM_000548.5(TSC2):c.598C>T (p.Gln200Ter)	7249	TSC2	Pathogenic	GRCh38	49376
+single nucleotide variant	NM_000548.5(TSC2):c.599+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49377
+single nucleotide variant	NM_000548.5(TSC2):c.646G>T (p.Glu216Ter)	7249	TSC2	Pathogenic	GRCh38	49380
+single nucleotide variant	NM_000548.5(TSC2):c.774+2T>A	7249	TSC2	Pathogenic	GRCh38	49385
+single nucleotide variant	NM_000548.5(TSC2):c.849-1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49388
+single nucleotide variant	NM_000548.5(TSC2):c.976-15G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49396
+single nucleotide variant	NM_000548.5(TSC2):c.976-1G>A	7249	TSC2	Pathogenic	GRCh38	49397
+single nucleotide variant	NM_000548.5(TSC2):c.880G>A (p.Gly294Arg)	7249	TSC2	Pathogenic	GRCh38	49402
+single nucleotide variant	NM_000548.5(TSC2):c.911G>A (p.Trp304Ter)	7249	TSC2	Pathogenic	GRCh38	49405
+single nucleotide variant	NM_000548.5(TSC2):c.648+1G>A	7249	TSC2	Pathogenic	GRCh38	49410
+single nucleotide variant	NM_000548.5(TSC2):c.658C>T (p.Gln220Ter)	7249	TSC2	Pathogenic	GRCh38	49411
+single nucleotide variant	NM_000548.5(TSC2):c.5160+1G>A	7249	TSC2	Pathogenic	GRCh38	49425
+single nucleotide variant	NM_000548.5(TSC2):c.5160+1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49427
+single nucleotide variant	NM_000548.5(TSC2):c.5160+5G>A	7249	TSC2	Pathogenic	GRCh38	49429
+single nucleotide variant	NM_000548.5(TSC2):c.5034C>A (p.Tyr1678Ter)	7249	TSC2	Pathogenic	GRCh38	49437
+single nucleotide variant	NM_000548.5(TSC2):c.5056C>T (p.Gln1686Ter)	7249	TSC2	Pathogenic	GRCh38	49440
+single nucleotide variant	NM_000548.5(TSC2):c.5068G>C (p.Asp1690His)	7249	TSC2	Pathogenic	GRCh38	49443
+single nucleotide variant	NM_000548.5(TSC2):c.5208C>A (p.Tyr1736Ter)	7249	TSC2	Pathogenic	GRCh38	49453
+single nucleotide variant	NM_000548.5(TSC2):c.4943T>C (p.Ile1648Thr)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49458
+single nucleotide variant	NM_000548.5(TSC2):c.4783G>A (p.Gly1595Arg)	7249	TSC2	Likely pathogenic	GRCh38	49464
+single nucleotide variant	NM_000548.5(TSC2):c.4989+1G>A	7249	TSC2	Pathogenic	GRCh38	49468
+single nucleotide variant	NM_000548.5(TSC2):c.5227C>T (p.Arg1743Trp)	7249	TSC2	Pathogenic	GRCh38	49471
+single nucleotide variant	NM_000548.5(TSC2):c.4606C>T (p.Gln1536Ter)	7249	TSC2	Pathogenic	GRCh38	49475
+single nucleotide variant	NM_000548.5(TSC2):c.4620C>A (p.Tyr1540Ter)	7249	TSC2	Pathogenic	GRCh38	49476
+single nucleotide variant	NM_000548.5(TSC2):c.4646A>G (p.Tyr1549Cys)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49479
+single nucleotide variant	NM_000548.5(TSC2):c.4662G>A (p.Gln1554=)	7249	TSC2	Pathogenic	GRCh38	49485
+single nucleotide variant	NM_000548.5(TSC2):c.4662G>T (p.Gln1554His)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49486
+single nucleotide variant	NM_000548.5(TSC2):c.4489C>A (p.Pro1497Thr)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49490
+single nucleotide variant	NM_000548.5(TSC2):c.4490C>G (p.Pro1497Arg)	7249	TSC2	Pathogenic	GRCh38	49491
+single nucleotide variant	NM_000548.5(TSC2):c.4494-1G>A	7249	TSC2	Likely pathogenic	GRCh38	49492
+single nucleotide variant	NM_000548.5(TSC2):c.4138C>T (p.Gln1380Ter)	7249	TSC2	Pathogenic	GRCh38	49497
+single nucleotide variant	NM_000548.5(TSC2):c.4509G>T (p.Gln1503His)	7249	TSC2	Likely pathogenic	GRCh38	49498
+single nucleotide variant	NM_000548.5(TSC2):c.3884-2A>T	7249	TSC2	Pathogenic	GRCh38	49515
+single nucleotide variant	NM_000548.5(TSC2):c.4298C>A (p.Ser1433Ter)	7249	TSC2	Pathogenic	GRCh38	49516
+single nucleotide variant	NM_000548.5(TSC2):c.4712A>G (p.Tyr1571Cys)	7249	TSC2	Likely pathogenic	GRCh38	49518
+single nucleotide variant	NM_000548.5(TSC2):c.4318C>T (p.Gln1440Ter)	7249	TSC2	Pathogenic	GRCh38	49524
+single nucleotide variant	NM_000548.5(TSC2):c.3610G>A (p.Gly1204Arg)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49527
+single nucleotide variant	NM_000548.5(TSC2):c.3028C>T (p.Gln1010Ter)	7249	TSC2	Pathogenic	GRCh38	49545
+single nucleotide variant	NM_000548.5(TSC2):c.3082G>A (p.Asp1028Asn)	7249	TSC2	Likely pathogenic	GRCh38	49547
+single nucleotide variant	NM_000548.5(TSC2):c.3750C>A (p.Tyr1250Ter)	7249	TSC2	Pathogenic	GRCh38	49549
+single nucleotide variant	NM_000548.5(TSC2):c.3750C>G (p.Tyr1250Ter)	7249	TSC2	Pathogenic	GRCh38	49550
+single nucleotide variant	NM_000548.5(TSC2):c.4096G>T (p.Glu1366Ter)	7249	TSC2	Pathogenic	GRCh38	49555
+single nucleotide variant	NM_000548.5(TSC2):c.2743-1G>A	7249	TSC2	Pathogenic	GRCh38	49560
+single nucleotide variant	NM_000548.5(TSC2):c.2743-1G>C	7249	TSC2	Pathogenic	GRCh38	49561
+single nucleotide variant	NM_000548.5(TSC2):c.2546-1G>A	7249	TSC2	Pathogenic	GRCh38	49569
+single nucleotide variant	NM_000548.5(TSC2):c.2546-1G>C	7249	TSC2	Pathogenic	GRCh38	49570
+single nucleotide variant	NM_000548.5(TSC2):c.3509C>G (p.Ser1170Ter)	7249	TSC2	Pathogenic	GRCh38	49578
+single nucleotide variant	NM_000548.5(TSC2):c.2647C>T (p.Gln883Ter)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49580
+single nucleotide variant	NM_000548.5(TSC2):c.2380C>T (p.Gln794Ter)	7249	TSC2	Pathogenic	GRCh38	49583
+single nucleotide variant	NM_000548.5(TSC2):c.2666C>T (p.Ala889Val)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49586
+single nucleotide variant	NM_000548.5(TSC2):c.2423T>C (p.Leu808Ser)	7249	TSC2	Likely pathogenic	GRCh38	49587
+single nucleotide variant	NM_000548.5(TSC2):c.3265C>T (p.Gln1089Ter)	7249	TSC2	Pathogenic	GRCh38	49589
+single nucleotide variant	NM_000548.5(TSC2):c.2690T>C (p.Phe897Ser)	7249	TSC2	Pathogenic	GRCh38	49595
+single nucleotide variant	NM_000548.5(TSC2):c.2210T>C (p.Leu737Pro)	7249	TSC2	Likely pathogenic	GRCh38	49601
+single nucleotide variant	NM_000548.5(TSC2):c.1717-1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49618
+single nucleotide variant	NM_000548.5(TSC2):c.1790A>G (p.His597Arg)	7249	TSC2	Pathogenic	GRCh38	49629
+single nucleotide variant	NM_000548.5(TSC2):c.2083C>T (p.Gln695Ter)	7249	TSC2	Pathogenic	GRCh38	49632
+single nucleotide variant	NM_000548.5(TSC2):c.1444-2A>G	7249	TSC2	Pathogenic	GRCh38	49633
+single nucleotide variant	NM_000548.5(TSC2):c.1492G>T (p.Glu498Ter)	7249	TSC2	Pathogenic	GRCh38	49637
+single nucleotide variant	NM_000548.5(TSC2):c.1831C>T (p.Arg611Trp)	7249	TSC2	Pathogenic	GRCh38	49643
+single nucleotide variant	NM_000548.5(TSC2):c.1599+1G>A	7249	TSC2	Pathogenic	GRCh38	49646
+single nucleotide variant	NM_000548.5(TSC2):c.1599+2T>C	7249	TSC2	Pathogenic	GRCh38	49647
+single nucleotide variant	NM_000548.5(TSC2):c.1348G>T (p.Glu450Ter)	7249	TSC2	Pathogenic	GRCh38	49651
+single nucleotide variant	NM_000548.5(TSC2):c.1060C>T (p.Gln354Ter)	7249	TSC2	Pathogenic	GRCh38	49656
+single nucleotide variant	NM_000548.5(TSC2):c.138+1G>A	7249	TSC2	Likely pathogenic	GRCh38	49661
+single nucleotide variant	NM_000548.5(TSC2):c.1210C>T (p.Gln404Ter)	7249	TSC2	Pathogenic	GRCh38	49676
+single nucleotide variant	NM_000548.5(TSC2):c.2328C>A (p.Tyr776Ter)	7249	TSC2	Pathogenic	GRCh38	49679
+single nucleotide variant	NM_000548.5(TSC2):c.1257+2T>C	7249	TSC2	Pathogenic	GRCh38	49683
+single nucleotide variant	NM_000548.5(TSC2):c.1837C>T (p.Gln613Ter)	7249	TSC2	Pathogenic	GRCh38	49684
+single nucleotide variant	NM_000548.5(TSC2):c.1361+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49693
+single nucleotide variant	NM_000548.5(TSC2):c.2355+1G>A	7249	TSC2	Pathogenic	GRCh38	49711
+single nucleotide variant	NM_000548.5(TSC2):c.2355+2T>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49713
+single nucleotide variant	NM_000548.5(TSC2):c.1841C>A (p.Ala614Asp)	7249	TSC2	Pathogenic	GRCh38	49721
+single nucleotide variant	NM_000548.5(TSC2):c.2410T>C (p.Cys804Arg)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49725
+single nucleotide variant	NM_000548.5(TSC2):c.2098-1G>A	7249	TSC2	Pathogenic	GRCh38	49730
+single nucleotide variant	NM_000548.5(TSC2):c.2098-2A>G	7249	TSC2	Pathogenic	GRCh38	49731
+single nucleotide variant	NM_000548.5(TSC2):c.3099C>A (p.Tyr1033Ter)	7249	TSC2	Pathogenic	GRCh38	49734
+single nucleotide variant	NM_000548.5(TSC2):c.3099C>G (p.Tyr1033Ter)	7249	TSC2	Pathogenic	GRCh38	49735
+single nucleotide variant	NM_000548.5(TSC2):c.2108G>A (p.Trp703Ter)	7249	TSC2	Pathogenic	GRCh38	49736
+single nucleotide variant	NM_000548.5(TSC2):c.2109G>A (p.Trp703Ter)	7249	TSC2	Pathogenic	GRCh38	49737
+single nucleotide variant	NM_000548.5(TSC2):c.268C>T (p.Gln90Ter)	7249	TSC2	Pathogenic	GRCh38	49738
+single nucleotide variant	NM_000548.5(TSC2):c.1443G>A (p.Glu481=)	7249	TSC2	Pathogenic	GRCh38	49743
+single nucleotide variant	NM_000548.5(TSC2):c.2742+1G>A	7249	TSC2	Pathogenic	GRCh38	49746
+single nucleotide variant	NM_000548.5(TSC2):c.3132-1G>A	7249	TSC2	Pathogenic	GRCh38	49749
+single nucleotide variant	NM_000548.5(TSC2):c.2477T>C (p.Leu826Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49751
+single nucleotide variant	NM_000548.5(TSC2):c.1117C>T (p.Gln373Ter)	7249	TSC2	Pathogenic	GRCh38	49759
+single nucleotide variant	NM_000548.5(TSC2):c.3598C>T (p.Arg1200Trp)	7249	TSC2	Pathogenic	GRCh38	49770
+single nucleotide variant	NM_000548.5(TSC2):c.4005+1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49778
+single nucleotide variant	NM_000548.5(TSC2):c.2546-2A>G	7249	TSC2	Pathogenic	GRCh38	49780
+single nucleotide variant	NM_000548.5(TSC2):c.2785G>T (p.Glu929Ter)	7249	TSC2	Pathogenic	GRCh38	49782
+single nucleotide variant	NM_000548.5(TSC2):c.4672G>A (p.Glu1558Lys)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49794
+single nucleotide variant	NM_000548.5(TSC2):c.3352C>T (p.Gln1118Ter)	7249	TSC2	Pathogenic	GRCh38	49797
+single nucleotide variant	NM_000548.5(TSC2):c.4129C>T (p.Gln1377Ter)	7249	TSC2	Pathogenic	GRCh38	49800
+single nucleotide variant	NM_000548.5(TSC2):c.4174C>T (p.Gln1392Ter)	7249	TSC2	Pathogenic	GRCh38	49806
+single nucleotide variant	NM_000548.5(TSC2):c.2221-2A>G	7249	TSC2	Pathogenic	GRCh38	49815
+single nucleotide variant	NM_000548.5(TSC2):c.496C>T (p.Gln166Ter)	7249	TSC2	Pathogenic	GRCh38	49819
+single nucleotide variant	NM_000548.5(TSC2):c.4779C>G (p.Tyr1593Ter)	7249	TSC2	Pathogenic	GRCh38	49820
+single nucleotide variant	NM_000548.5(TSC2):c.4255C>T (p.Gln1419Ter)	7249	TSC2	Pathogenic	GRCh38	49821
+single nucleotide variant	NM_000548.5(TSC2):c.481+5G>T	7249	TSC2	Pathogenic	GRCh38	49825
+single nucleotide variant	NM_000548.5(TSC2):c.482-1G>C	7249	TSC2	Likely pathogenic	GRCh38	49826
+single nucleotide variant	NM_000548.5(TSC2):c.3395C>A (p.Ser1132Ter)	7249	TSC2	Pathogenic	GRCh38	49828
+single nucleotide variant	NM_000548.5(TSC2):c.5227C>G (p.Arg1743Gly)	7249	TSC2	Likely pathogenic	GRCh38	49834
+single nucleotide variant	NM_000548.5(TSC2):c.4276G>T (p.Glu1426Ter)	7249	TSC2	Pathogenic	GRCh38	49836
+single nucleotide variant	NM_000548.5(TSC2):c.4830G>A (p.Trp1610Ter)	7249	TSC2	Pathogenic	GRCh38	49841
+single nucleotide variant	NM_000548.5(TSC2):c.2824G>T (p.Glu942Ter)	7249	TSC2	Pathogenic	GRCh38	49843
+single nucleotide variant	NM_000548.5(TSC2):c.2639+1G>C	7249	TSC2	Pathogenic	GRCh38	49845
+single nucleotide variant	NM_000548.5(TSC2):c.5161-1G>T	7249	TSC2	Pathogenic	GRCh38	49848
+single nucleotide variant	NM_000548.5(TSC2):c.4620C>G (p.Tyr1540Ter)	7249	TSC2	Pathogenic	GRCh38	49849
+single nucleotide variant	NM_000548.5(TSC2):c.5034C>G (p.Tyr1678Ter)	7249	TSC2	Pathogenic	GRCh38	49852
+single nucleotide variant	NM_000548.5(TSC2):c.4849+1G>A	7249	TSC2	Pathogenic	GRCh38	49864
+single nucleotide variant	NM_000548.5(TSC2):c.5069-1G>C	7249	TSC2	Pathogenic	GRCh38	49868
+single nucleotide variant	NM_000548.5(TSC2):c.3398-1G>A	7249	TSC2	Pathogenic	GRCh38	49871
+single nucleotide variant	NM_000548.5(TSC2):c.3080T>C (p.Leu1027Pro)	7249	TSC2	Pathogenic	GRCh38	49874
+single nucleotide variant	NM_000548.5(TSC2):c.599+2T>G	7249	TSC2	Pathogenic	GRCh38	49876
+single nucleotide variant	NM_000548.5(TSC2):c.599+5G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49877
+single nucleotide variant	NM_000548.5(TSC2):c.618C>A (p.Cys206Ter)	7249	TSC2	Pathogenic	GRCh38	49883
+single nucleotide variant	NM_000548.5(TSC2):c.730T>C (p.Cys244Arg)	7249	TSC2	Pathogenic	GRCh38	49896
+single nucleotide variant	NM_000548.5(TSC2):c.600-1G>A	7249	TSC2	Pathogenic	GRCh38	49902
+single nucleotide variant	NM_000548.5(TSC2):c.600-2A>G	7249	TSC2	Likely pathogenic	GRCh38	49903
+single nucleotide variant	NM_000548.5(TSC2):c.4927A>C (p.Asn1643His)	7249	TSC2	Pathogenic	GRCh38	49910
+single nucleotide variant	NM_000548.5(TSC2):c.759C>A (p.Cys253Ter)	7249	TSC2	Pathogenic	GRCh38	49914
+single nucleotide variant	NM_000548.5(TSC2):c.774+1G>A	7249	TSC2	Pathogenic	GRCh38	49919
+single nucleotide variant	NM_000548.5(TSC2):c.791T>C (p.Leu264Pro)	7249	TSC2	Likely pathogenic	GRCh38	49921
+single nucleotide variant	NM_000548.5(TSC2):c.848+1G>A	7249	TSC2	Pathogenic	GRCh38	49922
+single nucleotide variant	NM_000548.5(TSC2):c.848+281C>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49923
+single nucleotide variant	NM_000548.5(TSC2):c.4439T>A (p.Leu1480Ter)	7249	TSC2	Pathogenic	GRCh38	49926
+single nucleotide variant	NM_000548.5(TSC2):c.5126C>T (p.Pro1709Leu)	7249	TSC2	Pathogenic	GRCh38	49929
+single nucleotide variant	NM_000548.5(TSC2):c.5138G>A (p.Arg1713His)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49930
+single nucleotide variant	NM_000548.5(TSC2):c.5138G>C (p.Arg1713Pro)	7249	TSC2	Likely pathogenic	GRCh38	49931
+single nucleotide variant	NM_000548.5(TSC2):c.5161-1G>A	7249	TSC2	Pathogenic	GRCh38	49943
+single nucleotide variant	NM_000548.5(TSC2):c.5161-1G>C	7249	TSC2	Pathogenic	GRCh38	49944
+single nucleotide variant	NM_000548.5(TSC2):c.972C>A (p.Tyr324Ter)	7249	TSC2	Pathogenic	GRCh38	49946
+single nucleotide variant	NM_000548.5(TSC2):c.975+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49948
+single nucleotide variant	NM_000548.5(TSC2):c.5170C>T (p.Gln1724Ter)	7249	TSC2	Pathogenic	GRCh38	49950
+single nucleotide variant	NM_000548.5(TSC2):c.4735G>A (p.Gly1579Ser)	7249	TSC2	Likely pathogenic	GRCh38	49956
+single nucleotide variant	NM_000548.5(TSC2):c.5228G>A (p.Arg1743Gln)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	49960
+single nucleotide variant	NM_000548.5(TSC2):c.5228G>C (p.Arg1743Pro)	7249	TSC2	Pathogenic	GRCh38	49961
+single nucleotide variant	NM_000548.5(TSC2):c.5231T>C (p.Leu1744Pro)	7249	TSC2	Likely pathogenic	GRCh38	49962
+single nucleotide variant	NM_000548.5(TSC2):c.4850-1G>A	7249	TSC2	Pathogenic	GRCh38	49965
+single nucleotide variant	NM_000548.5(TSC2):c.4925G>A (p.Gly1642Asp)	7249	TSC2	Pathogenic	GRCh38	49978
+single nucleotide variant	NM_000548.5(TSC2):c.775-1G>A	7249	TSC2	Likely pathogenic	GRCh38	49984
+single nucleotide variant	NM_000548.5(TSC2):c.4397C>A (p.Ser1466Ter)	7249	TSC2	Pathogenic	GRCh38	49987
+single nucleotide variant	NM_000548.5(TSC2):c.4989+1G>T	7249	TSC2	Pathogenic	GRCh38	49992
+single nucleotide variant	NM_000548.5(TSC2):c.5068+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50026
+single nucleotide variant	NM_000548.5(TSC2):c.4662+1G>A	7249	TSC2	Pathogenic	GRCh38	50031
+single nucleotide variant	NM_000548.5(TSC2):c.577G>T (p.Glu193Ter)	7249	TSC2	Pathogenic	GRCh38	50039
+single nucleotide variant	NM_000548.5(TSC2):c.3132-2A>C	7249	TSC2	Pathogenic	GRCh38	50048
+single nucleotide variant	NM_000548.5(TSC2):c.4685T>C (p.Leu1562Pro)	7249	TSC2	Likely pathogenic	GRCh38	50052
+single nucleotide variant	NM_000548.5(TSC2):c.4700G>A (p.Gly1567Asp)	7249	TSC2	Likely pathogenic	GRCh38	50054
+single nucleotide variant	NM_000548.5(TSC2):c.3254C>A (p.Ser1085Ter)	7249	TSC2	Pathogenic	GRCh38	50055
+single nucleotide variant	NM_000548.5(TSC2):c.3284+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50057
+single nucleotide variant	NM_000548.5(TSC2):c.3284G>A (p.Ser1095Asn)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50058
+single nucleotide variant	NM_000548.5(TSC2):c.3355C>T (p.Gln1119Ter)	7249	TSC2	Pathogenic	GRCh38	50063
+single nucleotide variant	NM_000548.5(TSC2):c.336+1G>A	7249	TSC2	Pathogenic	GRCh38	50064
+single nucleotide variant	NM_000548.5(TSC2):c.336+2T>G	7249	TSC2	Pathogenic	GRCh38	50065
+single nucleotide variant	NM_000548.5(TSC2):c.5069-2A>G	7249	TSC2	Pathogenic	GRCh38	50066
+single nucleotide variant	NM_000548.5(TSC2):c.2549T>C (p.Leu850Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50077
+single nucleotide variant	NM_000548.5(TSC2):c.2590C>T (p.Gln864Ter)	7249	TSC2	Pathogenic	GRCh38	50080
+single nucleotide variant	NM_000548.5(TSC2):c.3442C>T (p.Gln1148Ter)	7249	TSC2	Pathogenic	GRCh38	50087
+single nucleotide variant	NM_000548.5(TSC2):c.2700C>A (p.Cys900Ter)	7249	TSC2	Pathogenic	GRCh38	50093
+single nucleotide variant	NM_000548.5(TSC2):c.4733T>C (p.Leu1578Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50095
+single nucleotide variant	NM_000548.5(TSC2):c.4751T>G (p.Leu1584Arg)	7249	TSC2	Likely pathogenic	GRCh38	50096
+single nucleotide variant	NM_000548.5(TSC2):c.4762C>T (p.Gln1588Ter)	7249	TSC2	Pathogenic	GRCh38	50097
+single nucleotide variant	NM_000548.5(TSC2):c.2742+1G>T	7249	TSC2	Pathogenic	GRCh38	50102
+single nucleotide variant	NM_000548.5(TSC2):c.2742G>A (p.Lys914=)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50103
+single nucleotide variant	NM_000548.5(TSC2):c.2086T>C (p.Cys696Arg)	7249	TSC2	Likely pathogenic	GRCh38	50105
+single nucleotide variant	NM_000548.5(TSC2):c.2087G>A (p.Cys696Tyr)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50106
+single nucleotide variant	NM_000548.5(TSC2):c.3574C>T (p.Gln1192Ter)	7249	TSC2	Pathogenic	GRCh38	50109
+single nucleotide variant	NM_000548.5(TSC2):c.2194C>T (p.Gln732Ter)	7249	TSC2	Pathogenic	GRCh38	50118
+single nucleotide variant	NM_000548.5(TSC2):c.2198T>C (p.Leu733Pro)	7249	TSC2	Likely pathogenic	GRCh38	50119
+single nucleotide variant	NM_000548.5(TSC2):c.2220+1G>T	7249	TSC2	Pathogenic	GRCh38	50120
+single nucleotide variant	NM_000548.5(TSC2):c.1444-1G>A	7249	TSC2	Pathogenic	GRCh38	50127
+single nucleotide variant	NM_000548.5(TSC2):c.2251C>T (p.Arg751Ter)	7249	TSC2	Pathogenic	GRCh38	50131
+single nucleotide variant	NM_000548.5(TSC2):c.2353C>T (p.Gln785Ter)	7249	TSC2	Pathogenic	GRCh38	50143
+single nucleotide variant	NM_000548.5(TSC2):c.1661C>A (p.Ser554Ter)	7249	TSC2	Pathogenic	GRCh38	50145
+single nucleotide variant	NM_000548.5(TSC2):c.1716+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50147
+single nucleotide variant	NM_000548.5(TSC2):c.3611G>A (p.Gly1204Glu)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50148
+single nucleotide variant	NM_000548.5(TSC2):c.2370C>G (p.Tyr790Ter)	7249	TSC2	Pathogenic	GRCh38	50156
+single nucleotide variant	NM_000548.5(TSC2):c.1793A>G (p.Tyr598Cys)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50162
+single nucleotide variant	NM_000548.5(TSC2):c.1794C>G (p.Tyr598Ter)	7249	TSC2	Pathogenic	GRCh38	50163
+single nucleotide variant	NM_000548.5(TSC2):c.1249C>T (p.Gln417Ter)	7249	TSC2	Pathogenic	GRCh38	50175
+single nucleotide variant	NM_000548.5(TSC2):c.1255C>T (p.Pro419Ser)	7249	TSC2	Pathogenic	GRCh38	50176
+single nucleotide variant	NM_000548.5(TSC2):c.1839+1G>T	7249	TSC2	Pathogenic	GRCh38	50178
+single nucleotide variant	NM_000548.5(TSC2):c.1362-2A>G	7249	TSC2	Pathogenic	GRCh38	50186
+single nucleotide variant	NM_000548.5(TSC2):c.136A>T (p.Arg46Ter)	7249	TSC2	Pathogenic	GRCh38	50188
+single nucleotide variant	NM_000548.5(TSC2):c.1947-2A>G	7249	TSC2	Pathogenic	GRCh38	50190
+single nucleotide variant	NM_000548.5(TSC2):c.138+5G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	50192
+single nucleotide variant	NM_000548.5(TSC2):c.1397T>C (p.Leu466Pro)	7249	TSC2	Likely pathogenic	GRCh38	50194
+single nucleotide variant	NM_000548.5(TSC2):c.1397T>G (p.Leu466Arg)	7249	TSC2	Likely pathogenic	GRCh38	50195
+single nucleotide variant	NM_000548.5(TSC2):c.912G>A (p.Trp304Ter)	7249	TSC2	Pathogenic	GRCh38	64852
+single nucleotide variant	NM_000548.5(TSC2):c.4813C>T (p.Gln1605Ter)	7249	TSC2	Pathogenic	GRCh38	64857
+single nucleotide variant	NM_000548.5(TSC2):c.1257+2T>G	7249	TSC2	Pathogenic	GRCh38	64864
+single nucleotide variant	NM_000548.5(TSC2):c.1221C>A (p.Tyr407Ter)	7249	TSC2	Likely pathogenic	GRCh38	64871
+single nucleotide variant	NM_000548.5(TSC2):c.3814+1G>A	7249	TSC2	Pathogenic	GRCh38	64876
+single nucleotide variant	NM_000548.5(TSC2):c.1447G>T (p.Glu483Ter)	7249	TSC2	Pathogenic	GRCh38	64885
+single nucleotide variant	NM_000548.5(TSC2):c.2688G>A (p.Trp896Ter)	7249	TSC2	Pathogenic	GRCh38	64888
+single nucleotide variant	NM_000548.5(TSC2):c.1864C>T (p.Arg622Trp)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	64889
+single nucleotide variant	NM_000548.5(TSC2):c.1840-2A>G	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	64895
+single nucleotide variant	NM_000548.5(TSC2):c.3182T>C (p.Leu1061Pro)	7249	TSC2	Likely pathogenic	GRCh38	64897
+single nucleotide variant	NM_000548.5(TSC2):c.1583T>C (p.Leu528Pro)	7249	TSC2	Likely pathogenic	GRCh38	64901
+single nucleotide variant	NM_000548.5(TSC2):c.1507C>T (p.Gln503Ter)	7249	TSC2	Pathogenic	GRCh38	64909
+single nucleotide variant	NM_000548.5(TSC2):c.245G>A (p.Trp82Ter)	7249	TSC2	Pathogenic	GRCh38	64913
+single nucleotide variant	NM_000548.5(TSC2):c.2531T>C (p.Leu844Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	64921
+single nucleotide variant	NM_000548.5(TSC2):c.4006-2A>G	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	64922
+single nucleotide variant	NM_000548.5(TSC2):c.1840-1G>A	7249	TSC2	Pathogenic	GRCh38	64936
+single nucleotide variant	NM_000548.5(TSC2):c.975+1G>T	7249	TSC2	Pathogenic	GRCh38	64960
+single nucleotide variant	NM_000548.5(TSC2):c.3310C>T (p.Gln1104Ter)	7249	TSC2	Pathogenic	GRCh38	64972
+single nucleotide variant	NM_000548.5(TSC2):c.3623G>A (p.Trp1208Ter)	7249	TSC2	Pathogenic	GRCh38	64973
+single nucleotide variant	NM_000548.5(TSC2):c.481+5G>A	7249	TSC2	Pathogenic	GRCh38	64988
+single nucleotide variant	NM_000548.5(TSC2):c.2370C>A (p.Tyr790Ter)	7249	TSC2	Pathogenic	GRCh38	64995
+single nucleotide variant	NM_000548.5(TSC2):c.1946+1G>C	7249	TSC2	Pathogenic	GRCh38	64998
+single nucleotide variant	NM_000548.5(TSC2):c.4078G>T (p.Glu1360Ter)	7249	TSC2	Pathogenic	GRCh38	65003
+single nucleotide variant	NM_000548.5(TSC2):c.3884-1G>C	7249	TSC2	Pathogenic	GRCh38	65005
+single nucleotide variant	NM_000548.5(TSC2):c.4024C>T (p.Gln1342Ter)	7249	TSC2	Pathogenic	GRCh38	65012
+single nucleotide variant	NM_000548.5(TSC2):c.4787G>T (p.Gly1596Val)	7249	TSC2	Pathogenic	GRCh38	65024
+single nucleotide variant	NM_000548.5(TSC2):c.700G>T (p.Glu234Ter)	7249	TSC2	Pathogenic	GRCh38	65028
+single nucleotide variant	NM_000548.5(TSC2):c.3814+1G>C	7249	TSC2	Likely pathogenic	GRCh38	65032
+single nucleotide variant	NM_000548.5(TSC2):c.340G>T (p.Glu114Ter)	7249	TSC2	Pathogenic	GRCh38	65033
+single nucleotide variant	NM_000548.5(TSC2):c.337-1G>A	7249	TSC2	Pathogenic	GRCh38	65038
+single nucleotide variant	NM_000548.5(TSC2):c.334C>T (p.Gln112Ter)	7249	TSC2	Pathogenic	GRCh38	65049
+single nucleotide variant	NM_000548.5(TSC2):c.4168G>T (p.Glu1390Ter)	7249	TSC2	Pathogenic	GRCh38	65050
+single nucleotide variant	NM_000548.5(TSC2):c.585C>A (p.Ile195=)	7249	TSC2	Likely pathogenic	GRCh38	65051
+single nucleotide variant	NM_000548.5(TSC2):c.4030G>T (p.Glu1344Ter)	7249	TSC2	Pathogenic	GRCh38	65053
+single nucleotide variant	NM_000548.5(TSC2):c.187C>T (p.Gln63Ter)	7249	TSC2	Pathogenic	GRCh38	65057
+single nucleotide variant	NM_000548.5(TSC2):c.2665G>C (p.Ala889Pro)	7249	TSC2	Likely pathogenic	GRCh38	65074
+single nucleotide variant	NM_000548.5(TSC2):c.4515C>G (p.Tyr1505Ter)	7249	TSC2	Pathogenic	GRCh38	65087
+single nucleotide variant	NM_000548.5(TSC2):c.1257+1G>A	7249	TSC2	Pathogenic	GRCh38	65089
+single nucleotide variant	NM_000548.5(TSC2):c.849-1G>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	65091
+single nucleotide variant	NM_000548.5(TSC2):c.4643T>C (p.Leu1548Pro)	7249	TSC2	Pathogenic	GRCh38	65095
+single nucleotide variant	NM_000548.5(TSC2):c.2742+5G>A	7249	TSC2	Pathogenic	GRCh38	65101
+single nucleotide variant	NM_000548.5(TSC2):c.3236C>A (p.Ser1079Ter)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	65117
+single nucleotide variant	NM_000548.5(TSC2):c.973C>T (p.Gln325Ter)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	65130
+single nucleotide variant	NM_000548.5(TSC2):c.225+2T>A	7249	TSC2	Pathogenic	GRCh38	65138
+single nucleotide variant	NM_000548.5(TSC2):c.1361+2T>C	7249	TSC2	Likely pathogenic	GRCh38	65150
+single nucleotide variant	NM_000548.5(TSC2):c.4850-2A>C	7249	TSC2	Pathogenic	GRCh38	65151
+single nucleotide variant	NM_000548.5(TSC2):c.1840-3C>G	7249	TSC2	Likely pathogenic	GRCh38	65210
+single nucleotide variant	NM_000548.5(TSC2):c.4957T>C (p.Ser1653Pro)	7249	TSC2	Pathogenic	GRCh38	65215
+single nucleotide variant	NM_000548.5(TSC2):c.2197C>G (p.Leu733Val)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	65222
+single nucleotide variant	NM_000548.5(TSC2):c.3581G>A (p.Trp1194Ter)	7249	TSC2	Pathogenic	GRCh38	65230
+single nucleotide variant	NM_000548.5(TSC2):c.3611-2A>T	7249	TSC2	Likely pathogenic	GRCh38	65232
+single nucleotide variant	NM_000548.5(TSC2):c.5160+2T>C	7249	TSC2	Pathogenic	GRCh38	65234
+single nucleotide variant	NM_000548.5(TSC2):c.4928A>G (p.Asn1643Ser)	7249	TSC2	Likely pathogenic	GRCh38	65236
+single nucleotide variant	NM_000548.5(TSC2):c.774+1G>T	7249	TSC2	Pathogenic	GRCh38	65237
+single nucleotide variant	NM_000548.5(TSC2):c.4859A>G (p.His1620Arg)	7249	TSC2	Likely pathogenic	GRCh38	65243
+single nucleotide variant	NM_000548.5(TSC2):c.3284+1G>C	7249	TSC2	Pathogenic	GRCh38	65245
+single nucleotide variant	NM_000548.5(TSC2):c.976-14G>A	7249	TSC2	Likely pathogenic	GRCh38	65256
+single nucleotide variant	NM_000548.5(TSC2):c.2220+1G>A	7249	TSC2	Pathogenic	GRCh38	65259
+single nucleotide variant	NM_000548.5(TSC2):c.2640-1G>A	7249	TSC2	Pathogenic	GRCh38	65277
+single nucleotide variant	NM_000548.5(TSC2):c.3G>A (p.Met1Ile)	7249	TSC2	Likely pathogenic	GRCh38	65284
+single nucleotide variant	NM_000548.5(TSC2):c.5228G>T (p.Arg1743Leu)	7249	TSC2	Likely pathogenic	GRCh38	65291
+single nucleotide variant	NM_000548.5(TSC2):c.2743-9C>G	7249	TSC2	Pathogenic	GRCh38	65300
+single nucleotide variant	NM_000548.5(TSC2):c.4868C>T (p.Thr1623Ile)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	65301
+single nucleotide variant	NM_000548.5(TSC2):c.4493G>C (p.Ser1498Thr)	7249	TSC2	Likely pathogenic	GRCh38	65304
+single nucleotide variant	NM_000548.5(TSC2):c.3131G>A (p.Arg1044Lys)	7249	TSC2	Pathogenic	GRCh38	65309
+single nucleotide variant	NM_000548.5(TSC2):c.26C>G (p.Ser9Ter)	7249	TSC2	Pathogenic	GRCh38	65313
+single nucleotide variant	NM_000548.5(TSC2):c.4700G>T (p.Gly1567Val)	7249	TSC2	Likely pathogenic	GRCh38	65318
+single nucleotide variant	NM_000548.5(TSC2):c.1789C>T (p.His597Tyr)	7249	TSC2	Likely pathogenic	GRCh38	65334
+single nucleotide variant	NM_000548.5(TSC2):c.1946+2T>C	7249	TSC2	Pathogenic	GRCh38	65335
+single nucleotide variant	NM_000548.5(TSC2):c.3083A>G (p.Asp1028Gly)	7249	TSC2	Likely pathogenic	GRCh38	65344
+single nucleotide variant	NM_000548.5(TSC2):c.1443+1G>T	7249	TSC2	Pathogenic	GRCh38	65346
+single nucleotide variant	NM_000548.5(TSC2):c.2545+2T>C	7249	TSC2	Pathogenic	GRCh38	65351
+single nucleotide variant	NM_000548.5(TSC2):c.5164G>C (p.Ala1722Pro)	7249	TSC2	Likely pathogenic	GRCh38	65360
+single nucleotide variant	NM_000548.5(TSC2):c.5123T>C (p.Leu1708Pro)	7249	TSC2	Likely pathogenic	GRCh38	65364
+single nucleotide variant	NM_000548.5(TSC2):c.4707C>G (p.Tyr1569Ter)	7249	TSC2	Pathogenic	GRCh38	65367
+single nucleotide variant	NM_000548.5(TSC2):c.4850-2A>G	7249	TSC2	Pathogenic	GRCh38	65369
+single nucleotide variant	NM_000548.5(TSC2):c.3203C>T (p.Thr1068Ile)	7249	TSC2	Pathogenic	GRCh38	65377
+single nucleotide variant	NM_000548.5(TSC2):c.4919A>C (p.His1640Pro)	7249	TSC2	Likely pathogenic	GRCh38	197025
+single nucleotide variant	NM_000548.5(TSC2):c.649-1G>C	7249	TSC2	Pathogenic	GRCh38	198742
+single nucleotide variant	NM_000548.5(TSC2):c.1258G>T (p.Glu420Ter)	7249	TSC2	Pathogenic	GRCh38	207712
+single nucleotide variant	NM_000548.5(TSC2):c.1946+2T>A	7249	TSC2	Pathogenic	GRCh38	207779
+single nucleotide variant	NM_000548.5(TSC2):c.2639+1G>A	7249	TSC2	Pathogenic	GRCh38	207733
+single nucleotide variant	NM_000548.5(TSC2):c.3180G>A (p.Trp1060Ter)	7249	TSC2	Pathogenic	GRCh38	207780
+single nucleotide variant	NM_000548.5(TSC2):c.3624G>A (p.Trp1208Ter)	7249	TSC2	Pathogenic	GRCh38	207747
+single nucleotide variant	NM_000548.5(TSC2):c.1840G>C (p.Ala614Pro)	7249	TSC2	Pathogenic	GRCh38	237972
+single nucleotide variant	NM_000548.5(TSC2):c.3611-2A>G	7249	TSC2	Likely pathogenic	GRCh38	238023
+single nucleotide variant	NM_000548.5(TSC2):c.3904G>T (p.Glu1302Ter)	7249	TSC2	Pathogenic	GRCh38	265629
+single nucleotide variant	NM_000548.5(TSC2):c.930T>A (p.Tyr310Ter)	7249	TSC2	Pathogenic	GRCh38	280581
+single nucleotide variant	NM_000548.5(TSC2):c.1195G>T (p.Glu399Ter)	7249	TSC2	Pathogenic	GRCh38	280323
+single nucleotide variant	NM_000548.5(TSC2):c.2640-2A>G	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	280185
+single nucleotide variant	NM_000548.5(TSC2):c.1957A>T (p.Arg653Ter)	7249	TSC2	Pathogenic	GRCh38	280891
+single nucleotide variant	NM_000548.5(TSC2):c.4183C>T (p.Gln1395Ter)	7249	TSC2	Pathogenic	GRCh38	280596
+single nucleotide variant	NM_000548.5(TSC2):c.1929C>G (p.Tyr643Ter)	7249	TSC2	Pathogenic	GRCh38	280365
+single nucleotide variant	NM_000548.5(TSC2):c.4594C>T (p.Gln1532Ter)	7249	TSC2	Pathogenic	GRCh38	280774
+single nucleotide variant	NM_000548.5(TSC2):c.4493+1G>A	7249	TSC2	Pathogenic	GRCh38	373118
+single nucleotide variant	NM_000548.5(TSC2):c.5160+4A>C	7249	TSC2	Pathogenic	GRCh38	373972
+single nucleotide variant	NM_000548.5(TSC2):c.1119G>C (p.Gln373His)	7249	TSC2	Likely pathogenic	GRCh38	390324
+single nucleotide variant	NM_000548.5(TSC2):c.336+5G>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	388832
+single nucleotide variant	NM_000548.5(TSC2):c.3727G>T (p.Glu1243Ter)	7249	TSC2	Pathogenic	GRCh38	379853
+single nucleotide variant	NM_000548.5(TSC2):c.1240T>G (p.Cys414Gly)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	389695
+single nucleotide variant	NM_000548.5(TSC2):c.3131+2T>A	7249	TSC2	Pathogenic	GRCh38	379256
+single nucleotide variant	NM_000548.5(TSC2):c.5069-2A>C	7249	TSC2	Pathogenic	GRCh38	379819
+single nucleotide variant	NM_000548.5(TSC2):c.5168C>G (p.Ser1723Ter)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	397548
+single nucleotide variant	NM_000548.5(TSC2):c.1474C>T (p.Gln492Ter)	7249	TSC2	Pathogenic	GRCh38	405998
+single nucleotide variant	NM_000548.5(TSC2):c.4569+1G>T	7249	TSC2	Pathogenic	GRCh38	406119
+single nucleotide variant	NM_000548.5(TSC2):c.421G>T (p.Glu141Ter)	7249	TSC2	Pathogenic	GRCh38	405985
+single nucleotide variant	NM_000548.5(TSC2):c.3132-1G>T	7249	TSC2	Pathogenic	GRCh38	406021
+single nucleotide variant	NM_000548.5(TSC2):c.3202A>C (p.Thr1068Pro)	7249	TSC2	Likely pathogenic	GRCh38	406049
+single nucleotide variant	NM_000548.5(TSC2):c.328C>T (p.Gln110Ter)	7249	TSC2	Pathogenic	GRCh38	423588
+single nucleotide variant	NM_000548.5(TSC2):c.1806C>G (p.Tyr602Ter)	7249	TSC2	Pathogenic	GRCh38	424291
+single nucleotide variant	NM_000548.5(TSC2):c.2221-1G>A	7249	TSC2	Pathogenic	GRCh38	419433
+single nucleotide variant	NM_000548.5(TSC2):c.3952G>T (p.Glu1318Ter)	7249	TSC2	Pathogenic	GRCh38	419329
+single nucleotide variant	NM_000548.5(TSC2):c.4859A>T (p.His1620Leu)	7249	TSC2	Likely pathogenic	GRCh38	424510
+single nucleotide variant	NM_000548.5(TSC2):c.4936G>A (p.Val1646Met)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	424444
+single nucleotide variant	NM_000548.5(TSC2):c.3259G>T (p.Glu1087Ter)	7249	TSC2	Pathogenic	GRCh38	426725
+single nucleotide variant	NM_000548.5(TSC2):c.4006-1G>A	7249	TSC2	Pathogenic	GRCh38	426923
+single nucleotide variant	NM_000548.5(TSC2):c.751G>T (p.Glu251Ter)	7249	TSC2	Pathogenic	GRCh38	427994
+single nucleotide variant	NM_000548.5(TSC2):c.1294C>T (p.Gln432Ter)	7249	TSC2	Pathogenic	GRCh38	427991
+single nucleotide variant	NM_000548.5(TSC2):c.1600-2A>G	7249	TSC2	Pathogenic	GRCh38	427997
+single nucleotide variant	NM_000548.5(TSC2):c.4324G>T (p.Glu1442Ter)	7249	TSC2	Pathogenic	GRCh38	427995
+single nucleotide variant	NM_000548.5(TSC2):c.5161-2A>G	7249	TSC2	Pathogenic	GRCh38	427999
+single nucleotide variant	NM_000548.5(TSC2):c.358A>T (p.Arg120Ter)	7249	TSC2	Pathogenic	GRCh38	429805
+single nucleotide variant	NM_000548.5(TSC2):c.500G>A (p.Trp167Ter)	7249	TSC2	Pathogenic	GRCh38	430129
+single nucleotide variant	NM_000548.5(TSC2):c.2545+5G>C	7249	TSC2	Likely pathogenic	GRCh38	430442
+single nucleotide variant	NM_000548.5(TSC2):c.976-10C>A	7249	TSC2	Likely pathogenic	GRCh38	431920
+single nucleotide variant	NM_000548.5(TSC2):c.1954G>T (p.Glu652Ter)	7249	TSC2	Pathogenic	GRCh38	431929
+single nucleotide variant	NM_000548.5(TSC2):c.5259+2T>G	7249	TSC2	Likely pathogenic	GRCh38	432820
+single nucleotide variant	NM_000548.5(TSC2):c.1119+1G>C	7249	TSC2	Pathogenic	GRCh38	444097
+single nucleotide variant	NM_000548.5(TSC2):c.139G>T (p.Glu47Ter)	7249	TSC2	Pathogenic	GRCh38	448720
+single nucleotide variant	NM_000548.5(TSC2):c.848+2T>G	7249	TSC2	Pathogenic	GRCh38	448741
+single nucleotide variant	NM_000548.5(TSC2):c.1946+1G>A	7249	TSC2	Pathogenic	GRCh38	448722
+single nucleotide variant	NM_000548.5(TSC2):c.2747T>C (p.Leu916Pro)	7249	TSC2	Pathogenic	GRCh38	448726
+single nucleotide variant	NM_000548.5(TSC2):c.4569+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	448732
+single nucleotide variant	NM_000548.5(TSC2):c.5018T>G (p.Val1673Gly)	7249	TSC2	Pathogenic	GRCh38	448735
+single nucleotide variant	NM_000548.5(TSC2):c.482-1G>A	7249	TSC2	Pathogenic	GRCh38	449786
+single nucleotide variant	NM_000548.5(TSC2):c.1287T>A (p.Tyr429Ter)	7249	TSC2	Pathogenic	GRCh38	451112
+single nucleotide variant	NM_000548.5(TSC2):c.5068+2T>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	449636
+single nucleotide variant	NM_000548.5(TSC2):c.1549G>T (p.Glu517Ter)	7249	TSC2	Pathogenic	GRCh38	467879
+single nucleotide variant	NM_000548.5(TSC2):c.1839+2T>C	7249	TSC2	Pathogenic	GRCh38	467900
+single nucleotide variant	NM_000548.5(TSC2):c.3610+1G>C	7249	TSC2	Pathogenic	GRCh38	468027
+single nucleotide variant	NM_000548.5(TSC2):c.4569+2T>A	7249	TSC2	Pathogenic	GRCh38	468101
+single nucleotide variant	NM_000548.5(TSC2):c.4569+2T>G	7249	TSC2	Pathogenic	GRCh38	468102
+single nucleotide variant	NM_000548.5(TSC2):c.1839G>C (p.Gln613His)	7249	TSC2	Pathogenic	GRCh38	467902
+single nucleotide variant	NM_000548.5(TSC2):c.4508A>G (p.Gln1503Arg)	7249	TSC2	Likely pathogenic	GRCh38	468092
+single nucleotide variant	NM_000548.5(TSC2):c.4571C>G (p.Ser1524Ter)	7249	TSC2	Pathogenic	GRCh38	468103
+single nucleotide variant	NM_000548.5(TSC2):c.412G>T (p.Glu138Ter)	7249	TSC2	Pathogenic	GRCh38	489046
+single nucleotide variant	NM_000548.5(TSC2):c.1443+5G>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	489133
+single nucleotide variant	NM_000548.5(TSC2):c.5024C>A (p.Pro1675Gln)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	535873
+single nucleotide variant	NM_000548.5(TSC2):c.475G>T (p.Glu159Ter)	7249	TSC2	Pathogenic	GRCh38	535913
+single nucleotide variant	NM_000548.5(TSC2):c.336+1G>C	7249	TSC2	Pathogenic	GRCh38	535935
+single nucleotide variant	NM_000548.5(TSC2):c.440C>A (p.Thr147Lys)	7249	TSC2	Pathogenic	GRCh38	535892
+single nucleotide variant	NM_000548.5(TSC2):c.3586G>T (p.Glu1196Ter)	7249	TSC2	Pathogenic	GRCh38	535875
+single nucleotide variant	NM_000548.5(TSC2):c.4711T>C (p.Tyr1571His)	7249	TSC2	Pathogenic	GRCh38	535941
+single nucleotide variant	NM_000548.5(TSC2):c.1946+1G>T	7249	TSC2	Pathogenic	GRCh38	546435
+single nucleotide variant	NM_000548.5(TSC2):c.649-1G>A	7249	TSC2	Likely pathogenic	GRCh38	547825
+single nucleotide variant	NM_000548.5(TSC2):c.4919A>G (p.His1640Arg)	7249	TSC2	Likely pathogenic	GRCh38	547828
+single nucleotide variant	NM_000548.5(TSC2):c.2838-122G>A	7249	TSC2	Pathogenic	GRCh38	570837
+single nucleotide variant	NM_000548.5(TSC2):c.139-1G>A	7249	TSC2	Pathogenic	GRCh38	579576
+single nucleotide variant	NM_000548.5(TSC2):c.246G>A (p.Trp82Ter)	7249	TSC2	Pathogenic	GRCh38	580963
+single nucleotide variant	NM_000548.5(TSC2):c.1118A>G (p.Gln373Arg)	7249	TSC2	Likely pathogenic	GRCh38	570588
+single nucleotide variant	NM_000548.5(TSC2):c.2125G>T (p.Val709Phe)	7249	TSC2	Likely pathogenic	GRCh38	579442
+single nucleotide variant	NM_000548.5(TSC2):c.3558T>G (p.Tyr1186Ter)	7249	TSC2	Pathogenic	GRCh38	565758
+single nucleotide variant	NM_000548.5(TSC2):c.3999C>A (p.Tyr1333Ter)	7249	TSC2	Pathogenic	GRCh38	575698
+single nucleotide variant	NM_000548.5(TSC2):c.4663-1G>T	7249	TSC2	Pathogenic	GRCh38	568594
+single nucleotide variant	NM_000548.5(TSC2):c.3089T>G (p.Met1030Arg)	7249	TSC2	Likely pathogenic	GRCh38	586852
+single nucleotide variant	NM_000548.5(TSC2):c.3G>T (p.Met1Ile)	7249	TSC2	Likely pathogenic	GRCh38	593812
+single nucleotide variant	NM_000548.5(TSC2):c.1761T>G (p.Tyr587Ter)	7249	TSC2	Pathogenic	GRCh38	620479
+single nucleotide variant	NM_000548.5(TSC2):c.1938C>A (p.Cys646Ter)	7249	TSC2	Pathogenic	GRCh38	620215
+single nucleotide variant	NM_000548.5(TSC2):c.4541C>G (p.Ser1514Ter)	7249	TSC2	Pathogenic	GRCh38	620335
+single nucleotide variant	NM_000548.5(TSC2):c.4571C>A (p.Ser1524Ter)	7249	TSC2	Pathogenic	GRCh38	620252
+single nucleotide variant	NM_000548.5(TSC2):c.225+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	626196
+single nucleotide variant	NM_000548.5(TSC2):c.2355+2T>G	7249	TSC2	Pathogenic	GRCh38	635436
+single nucleotide variant	NM_000548.5(TSC2):c.1108C>T (p.Gln370Ter)	7249	TSC2	Pathogenic	GRCh38	647290
+single nucleotide variant	NM_000548.5(TSC2):c.2440G>T (p.Glu814Ter)	7249	TSC2	Pathogenic	GRCh38	645592
+single nucleotide variant	NM_000548.5(TSC2):c.2827A>T (p.Arg943Ter)	7249	TSC2	Pathogenic	GRCh38	654223
+single nucleotide variant	NM_000548.5(TSC2):c.3145G>T (p.Glu1049Ter)	7249	TSC2	Pathogenic	GRCh38	663337
+single nucleotide variant	NM_000548.5(TSC2):c.1716+5G>C	7249	TSC2	Pathogenic	GRCh38	664388
+single nucleotide variant	NM_000548.5(TSC2):c.1257+1G>C	7249	TSC2	Pathogenic	GRCh38	656920
+single nucleotide variant	NM_000548.5(TSC2):c.5068+1G>T	7249	TSC2	Pathogenic	GRCh38	648950
+single nucleotide variant	NM_000548.5(TSC2):c.2356-1G>C	7249	TSC2	Pathogenic	GRCh38	658503
+single nucleotide variant	NM_000548.5(TSC2):c.400G>T (p.Glu134Ter)	7249	TSC2	Pathogenic	GRCh38	803147
+single nucleotide variant	NM_000548.5(TSC2):c.1717-2A>C	7249	TSC2	Pathogenic	GRCh38	803148
+single nucleotide variant	NM_000548.5(TSC2):c.2350A>T (p.Lys784Ter)	7249	TSC2	Pathogenic	GRCh38	803150
+single nucleotide variant	NM_000548.5(TSC2):c.2501C>G (p.Ser834Ter)	7249	TSC2	Pathogenic	GRCh38	803151
+single nucleotide variant	NM_000548.5(TSC2):c.4005+1G>A	7249	TSC2	Pathogenic	GRCh38	803154
+single nucleotide variant	NM_000548.5(TSC2):c.4005+2T>C	7249	TSC2	Likely pathogenic	GRCh38	803155
+single nucleotide variant	NM_000548.5(TSC2):c.2356-1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	805696
+single nucleotide variant	NM_000548.5(TSC2):c.4006-1G>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	805698
+single nucleotide variant	NM_000548.5(TSC2):c.2377G>T (p.Glu793Ter)	7249	TSC2	Pathogenic	GRCh38	817536
+single nucleotide variant	NM_000548.5(TSC2):c.311T>C (p.Leu104Pro)	7249	TSC2	Likely pathogenic	GRCh38	859124
+single nucleotide variant	NM_000548.5(TSC2):c.567T>A (p.Cys189Ter)	7249	TSC2	Pathogenic	GRCh38	839179
+single nucleotide variant	NM_000548.5(TSC2):c.1636G>T (p.Glu546Ter)	7249	TSC2	Pathogenic	GRCh38	842141
+single nucleotide variant	NM_000548.5(TSC2):c.1762G>T (p.Glu588Ter)	7249	TSC2	Pathogenic	GRCh38	846684
+single nucleotide variant	NM_000548.5(TSC2):c.2623T>G (p.Tyr875Asp)	7249	TSC2	Likely pathogenic	GRCh38	846778
+single nucleotide variant	NM_000548.5(TSC2):c.3096A>G (p.Arg1032=)	7249	TSC2	Likely pathogenic	GRCh38	851678
+single nucleotide variant	NM_000548.5(TSC2):c.4051G>T (p.Glu1351Ter)	7249	TSC2	Pathogenic	GRCh38	862394
+single nucleotide variant	NM_000548.5(TSC2):c.1947-2A>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	835464
+single nucleotide variant	NM_000548.5(TSC2):c.4662+1G>C	7249	TSC2	Likely pathogenic	GRCh38	858998
+single nucleotide variant	NM_000548.5(TSC2):c.139-2A>G	7249	TSC2	Pathogenic	GRCh38	863043
+single nucleotide variant	NM_000548.5(TSC2):c.1361+1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	871457
+single nucleotide variant	NM_000548.5(TSC2):c.965C>A (p.Ser322Ter)	7249	TSC2	Pathogenic	GRCh38	929515
+single nucleotide variant	NM_000548.5(TSC2):c.4672G>T (p.Glu1558Ter)	7249	TSC2	Pathogenic	GRCh38	929512
+single nucleotide variant	NM_000548.5(TSC2):c.1119+129G>T	7249	TSC2	Pathogenic	GRCh38	930216
+single nucleotide variant	NM_000548.5(TSC2):c.501G>A (p.Trp167Ter)	7249	TSC2	Pathogenic	GRCh38	930277
+single nucleotide variant	NM_000548.5(TSC2):c.582C>G (p.Tyr194Ter)	7249	TSC2	Pathogenic	GRCh38	952313
+single nucleotide variant	NM_000548.5(TSC2):c.2608G>C (p.Ala870Pro)	7249	TSC2	Likely pathogenic	GRCh38	947280
+single nucleotide variant	NM_000548.5(TSC2):c.3239T>A (p.Leu1080Ter)	7249	TSC2	Pathogenic	GRCh38	951399
+single nucleotide variant	NM_000548.5(TSC2):c.3281C>A (p.Ser1094Ter)	7249	TSC2	Pathogenic	GRCh38	951721
+single nucleotide variant	NM_000548.5(TSC2):c.1714C>T (p.Gln572Ter)	7249	TSC2	Pathogenic	GRCh38	943529
+single nucleotide variant	NM_000548.5(TSC2):c.4303G>T (p.Glu1435Ter)	7249	TSC2	Pathogenic	GRCh38	941899
+single nucleotide variant	NM_000548.5(TSC2):c.4660C>T (p.Gln1554Ter)	7249	TSC2	Pathogenic	GRCh38	962178
+single nucleotide variant	NM_000548.5(TSC2):c.1177G>T (p.Glu393Ter)	7249	TSC2	Pathogenic	GRCh38	974587
+single nucleotide variant	NM_000548.5(TSC2):c.2098-2A>T	7249	TSC2	Pathogenic	GRCh38	974584
+single nucleotide variant	NM_000548.5(TSC2):c.4006-2A>T	7249	TSC2	Pathogenic	GRCh38	974588
+single nucleotide variant	NM_000548.5(TSC2):c.775-1G>C	7249	TSC2	Pathogenic	GRCh38	983048
+single nucleotide variant	NM_000548.5(TSC2):c.1720A>T (p.Lys574Ter)	7249	TSC2	Pathogenic	GRCh38	987350
+single nucleotide variant	NM_000548.5(TSC2):c.2087G>T (p.Cys696Phe)	7249	TSC2	Likely pathogenic	GRCh38	993650
+single nucleotide variant	NM_000548.5(TSC2):c.1840-2A>C	7249	TSC2	Likely pathogenic	GRCh38	995052
+single nucleotide variant	NM_000548.5(TSC2):c.4005+1G>C	7249	TSC2	Pathogenic	GRCh38	995055
+single nucleotide variant	NM_000548.5(TSC2):c.600-2A>T	7249	TSC2	Pathogenic	GRCh38	1028343
+single nucleotide variant	NM_000548.5(TSC2):c.1258-2A>G	7249	TSC2	Pathogenic	GRCh38	1028339
+single nucleotide variant	NM_000548.5(TSC2):c.3179G>C (p.Trp1060Ser)	7249	TSC2	Pathogenic	GRCh38	1042872
+single nucleotide variant	NM_000548.5(TSC2):c.4930G>T (p.Asp1644Tyr)	7249	TSC2	Pathogenic	GRCh38	1045993
+single nucleotide variant	NM_000548.5(TSC2):c.551T>A (p.Val184Asp)	7249	TSC2	Pathogenic	GRCh38	1068227
+single nucleotide variant	NM_000548.5(TSC2):c.2837+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	1067682
+single nucleotide variant	NM_000548.5(TSC2):c.3611-1G>C	7249	TSC2	Likely pathogenic	GRCh38	1068074
+single nucleotide variant	NM_000548.5(TSC2):c.138+5G>C	7249	TSC2	Pathogenic	GRCh38	1069935
+single nucleotide variant	NM_000548.5(TSC2):c.975+2T>C	7249	TSC2	Pathogenic	GRCh38	1074350
+single nucleotide variant	NM_000548.5(TSC2):c.1074G>A (p.Trp358Ter)	7249	TSC2	Pathogenic	GRCh38	1074283
+single nucleotide variant	NM_000548.5(TSC2):c.1948G>T (p.Glu650Ter)	7249	TSC2	Pathogenic	GRCh38	1076299
+single nucleotide variant	NM_000548.5(TSC2):c.2285T>A (p.Leu762Ter)	7249	TSC2	Pathogenic	GRCh38	1072814
+single nucleotide variant	NM_000548.5(TSC2):c.3316A>T (p.Lys1106Ter)	7249	TSC2	Pathogenic	GRCh38	1072867
+single nucleotide variant	NM_000548.5(TSC2):c.3397+1G>T	7249	TSC2	Pathogenic	GRCh38	1068835
+single nucleotide variant	NM_000548.5(TSC2):c.3582G>A (p.Trp1194Ter)	7249	TSC2	Pathogenic	GRCh38	1072663
+single nucleotide variant	NM_000548.5(TSC2):c.3610+1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	1072488
+single nucleotide variant	NM_000548.5(TSC2):c.4827C>A (p.Cys1609Ter)	7249	TSC2	Pathogenic	GRCh38	1069644
+single nucleotide variant	NM_000548.5(TSC2):c.4950C>G (p.Tyr1650Ter)	7249	TSC2	Pathogenic	GRCh38	1076715
+single nucleotide variant	NM_000548.5(TSC2):c.481+1G>A	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	1077128
+single nucleotide variant	NM_000548.5(TSC2):c.4494-2A>G	7249	TSC2	Pathogenic	GRCh38	1256579
+single nucleotide variant	NM_000548.5(TSC2):c.5012T>A (p.Val1671Glu)	7249	TSC2	Likely pathogenic	GRCh38	1256580
+single nucleotide variant	NM_000548.5(TSC2):c.855C>G (p.Tyr285Ter)	7249	TSC2	Pathogenic	GRCh38	1330490
+single nucleotide variant	NM_000548.5(TSC2):c.2184C>A (p.Cys728Ter)	7249	TSC2	Pathogenic	GRCh38	1330746
+single nucleotide variant	NM_000548.5(TSC2):c.1443+2T>A	7249	TSC2	Pathogenic	GRCh38	1333076
+single nucleotide variant	NM_000548.5(TSC2):c.3884-1G>T	7249	TSC2	Likely pathogenic	GRCh38	1339106
+single nucleotide variant	NM_000548.5(TSC2):c.987T>A (p.Cys329Ter)	7249	TSC2	Pathogenic	GRCh38	1339559
+single nucleotide variant	NM_000548.5(TSC2):c.5048T>G (p.Val1683Gly)	7249	TSC2	Pathogenic	GRCh38	1436643
+single nucleotide variant	NM_000548.5(TSC2):c.2058C>A (p.Tyr686Ter)	7249	TSC2	Pathogenic	GRCh38	1440861
+single nucleotide variant	NM_000548.5(TSC2):c.4989+2T>A	7249	TSC2	Pathogenic	GRCh38	1480119
+single nucleotide variant	NM_000548.5(TSC2):c.5237A>C (p.His1746Pro)	7249	TSC2	Likely pathogenic	GRCh38	1473495
+single nucleotide variant	NM_000548.5(TSC2):c.4490C>T (p.Pro1497Leu)	7249	TSC2	Pathogenic	GRCh38	1457373
+single nucleotide variant	NM_000548.5(TSC2):c.2T>A (p.Met1Lys)	7249	TSC2	Likely pathogenic	GRCh38	1378864
+single nucleotide variant	NM_000548.5(TSC2):c.5160+3G>T	7249	TSC2	Pathogenic	GRCh38	1476749
+single nucleotide variant	NM_000548.5(TSC2):c.2412C>A (p.Cys804Ter)	7249	TSC2	Pathogenic	GRCh38	1452824
+single nucleotide variant	NM_000548.5(TSC2):c.4645T>C (p.Tyr1549His)	7249	TSC2	Likely pathogenic	GRCh38	1519233
+single nucleotide variant	NM_000548.5(TSC2):c.1929C>A (p.Tyr643Ter)	7249	TSC2	Pathogenic	GRCh38	1452046
+single nucleotide variant	NM_000548.5(TSC2):c.2743-1G>T	7249	TSC2	Pathogenic	GRCh38	1372985
+single nucleotide variant	NM_000548.5(TSC2):c.2699G>A (p.Cys900Tyr)	7249	TSC2	Pathogenic	GRCh38	1455380
+single nucleotide variant	NM_000548.5(TSC2):c.4849+1G>T	7249	TSC2	Pathogenic	GRCh38	1430667
+single nucleotide variant	NM_000548.5(TSC2):c.3131G>C (p.Arg1044Thr)	7249	TSC2	Pathogenic	GRCh38	1458097
+single nucleotide variant	NM_000548.5(TSC2):c.1947-1G>T	7249	TSC2	Likely pathogenic	GRCh38	1484599
+single nucleotide variant	NM_000548.5(TSC2):c.2158A>T (p.Lys720Ter)	7249	TSC2	Pathogenic	GRCh38	1458946
+single nucleotide variant	NM_000548.5(TSC2):c.4936G>T (p.Val1646Leu)	7249	TSC2	Likely pathogenic	GRCh38	1490108
+single nucleotide variant	NM_000548.5(TSC2):c.1327C>T (p.Gln443Ter)	7249	TSC2	Pathogenic	GRCh38	1696844
+single nucleotide variant	NM_000548.5(TSC2):c.4033A>T (p.Lys1345Ter)	7249	TSC2	Pathogenic	GRCh38	1696845
+single nucleotide variant	NM_000548.5(TSC2):c.2220+2T>C	7249	TSC2	Pathogenic	GRCh38	1696846
+single nucleotide variant	NM_000548.5(TSC2):c.5024C>G (p.Pro1675Arg)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	1697094
+single nucleotide variant	NM_000548.5(TSC2):c.843G>T (p.Glu281Asp)	7249	TSC2	Likely pathogenic	GRCh38	1700567
+single nucleotide variant	NM_000548.5(TSC2):c.5165C>A (p.Ala1722Asp)	7249	TSC2	Likely pathogenic	GRCh38	1700570
+single nucleotide variant	NM_000548.5(TSC2):c.1599+4A>C	7249	TSC2	Pathogenic	GRCh38	1700634
+single nucleotide variant	NM_000548.5(TSC2):c.600-124G>A	7249	TSC2	Pathogenic	GRCh38	1700636
+single nucleotide variant	NM_000548.5(TSC2):c.2157T>G (p.Tyr719Ter)	7249	TSC2	Pathogenic	GRCh38	1701269
+single nucleotide variant	NM_000548.5(TSC2):c.775-2A>G	7249	TSC2	Likely pathogenic	GRCh38	1705534
+single nucleotide variant	NM_000548.5(TSC2):c.4441A>T (p.Lys1481Ter)	7249	TSC2	Pathogenic	GRCh38	1708477
+single nucleotide variant	NM_000548.5(TSC2):c.3134C>T (p.Ser1045Phe)	7249	TSC2	Likely pathogenic	GRCh38	1711398
+single nucleotide variant	NM_000548.5(TSC2):c.3814+2T>G	7249	TSC2	Likely pathogenic	GRCh38	1735184
+single nucleotide variant	NM_000548.5(TSC2):c.1172T>A (p.Val391Glu)	7249	TSC2	Likely pathogenic	GRCh38	1739949
+single nucleotide variant	NM_000548.5(TSC2):c.3132-2A>G	7249	TSC2	Pathogenic	GRCh38	1727977
+single nucleotide variant	NM_000548.5(TSC2):c.4663-2A>G	7249	TSC2	Pathogenic	GRCh38	1742266
+single nucleotide variant	NM_000548.5(TSC2):c.599+2T>C	7249	TSC2	Likely pathogenic	GRCh38	1750906
+single nucleotide variant	NM_000548.5(TSC2):c.4589C>A (p.Ser1530Ter)	7249	TSC2	Pathogenic	GRCh38	1741685
+single nucleotide variant	NM_000548.5(TSC2):c.5043C>A (p.Asn1681Lys)	7249	TSC2	Pathogenic	GRCh38	1744965
+single nucleotide variant	NM_000548.5(TSC2):c.5045T>C (p.Leu1682Pro)	7249	TSC2	Likely pathogenic	GRCh38	1744973
+single nucleotide variant	NM_000548.5(TSC2):c.848+2T>A	7249	TSC2	Likely pathogenic	GRCh38	1763543
+single nucleotide variant	NM_000548.5(TSC2):c.1717-1G>C	7249	TSC2	Likely pathogenic	GRCh38	1778644
+single nucleotide variant	NM_000548.5(TSC2):c.1717-3C>A	7249	TSC2	Likely pathogenic	GRCh38	1778645
+single nucleotide variant	NM_000548.5(TSC2):c.220G>T (p.Glu74Ter)	7249	TSC2	Pathogenic	GRCh38	1787749
+single nucleotide variant	NM_000548.5(TSC2):c.2737A>C (p.Thr913Pro)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	1795355
+single nucleotide variant	NM_000548.5(TSC2):c.2742+5G>C	7249	TSC2	Pathogenic	GRCh38	1801724
+single nucleotide variant	NM_000548.5(TSC2):c.5056C>A (p.Gln1686Lys)	7249	TSC2	Likely pathogenic	GRCh38	1802241
+single nucleotide variant	NM_000548.5(TSC2):c.3397+4A>G	7249	TSC2	Pathogenic	GRCh38	1805434
+single nucleotide variant	NM_000548.5(TSC2):c.1528C>T (p.Gln510Ter)	7249	TSC2	Pathogenic	GRCh38	1810234
+single nucleotide variant	NM_000548.5(TSC2):c.770G>A (p.Trp257Ter)	7249	TSC2	Pathogenic	GRCh38	2137758
+single nucleotide variant	NM_000548.5(TSC2):c.4966G>T (p.Asp1656Tyr)	7249	TSC2	Pathogenic	GRCh38	2152255
+single nucleotide variant	NM_000548.5(TSC2):c.994G>T (p.Glu332Ter)	7249	TSC2	Pathogenic	GRCh38	1998350
+single nucleotide variant	NM_000548.5(TSC2):c.4663-2A>C	7249	TSC2	Pathogenic	GRCh38	1993912
+single nucleotide variant	NM_000548.5(TSC2):c.1189C>T (p.Gln397Ter)	7249	TSC2	Pathogenic	GRCh38	2011701
+single nucleotide variant	NM_000548.5(TSC2):c.4493+1G>C	7249	TSC2	Pathogenic	GRCh38	2012670
+single nucleotide variant	NM_000548.5(TSC2):c.4951A>C (p.Asn1651His)	7249	TSC2	Likely pathogenic	GRCh38	2032747
+single nucleotide variant	NM_000548.5(TSC2):c.1659C>G (p.Tyr553Ter)	7249	TSC2	Pathogenic	GRCh38	2027350
+single nucleotide variant	NM_000548.5(TSC2):c.2098G>T (p.Glu700Ter)	7249	TSC2	Pathogenic	GRCh38	2029164
+single nucleotide variant	NM_000548.5(TSC2):c.3083A>T (p.Asp1028Val)	7249	TSC2	Likely pathogenic	GRCh38	2033708
+single nucleotide variant	NM_000548.5(TSC2):c.3598C>G (p.Arg1200Gly)	7249	TSC2	Likely pathogenic	GRCh38	2049812
+single nucleotide variant	NM_000548.5(TSC2):c.4824C>G (p.Tyr1608Ter)	7249	TSC2	Pathogenic	GRCh38	2073389
+single nucleotide variant	NM_000548.5(TSC2):c.2545A>C (p.Thr849Pro)	7249	TSC2	Likely pathogenic	GRCh38	2068302
+single nucleotide variant	NM_000548.5(TSC2):c.3761C>A (p.Ser1254Ter)	7249	TSC2	Pathogenic	GRCh38	2098888
+single nucleotide variant	NM_000548.5(TSC2):c.337-2A>C	7249	TSC2	Pathogenic	GRCh38	2113612
+single nucleotide variant	NM_000548.5(TSC2):c.2698T>G (p.Cys900Gly)	7249	TSC2	Likely pathogenic	GRCh38	2115144
+single nucleotide variant	NM_000548.5(TSC2):c.336+1G>T	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	2109602
+single nucleotide variant	NM_000548.5(TSC2):c.4710G>C (p.Arg1570Ser)	7249	TSC2	Pathogenic	GRCh38	2109270
+single nucleotide variant	NM_000548.5(TSC2):c.472G>T (p.Glu158Ter)	7249	TSC2	Pathogenic	GRCh38	2105554
+single nucleotide variant	NM_000548.5(TSC2):c.1443+2T>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	2107068
+single nucleotide variant	NM_000548.5(TSC2):c.3398-1G>C	7249	TSC2	Likely pathogenic	GRCh38	2114065
+single nucleotide variant	NM_000548.5(TSC2):c.1443+1G>A	7249	TSC2	Pathogenic	GRCh38	2121635
+single nucleotide variant	NM_000548.5(TSC2):c.4784G>A (p.Gly1595Glu)	7249	TSC2	Likely pathogenic	GRCh38	2117469
+single nucleotide variant	NM_000548.5(TSC2):c.599+2T>A	7249	TSC2	Pathogenic	GRCh38	2130841
+single nucleotide variant	NM_000548.5(TSC2):c.1600-1G>C	7249	TSC2	Pathogenic	GRCh38	2130573
+single nucleotide variant	NM_000548.5(TSC2):c.4537G>T (p.Glu1513Ter)	7249	TSC2	Pathogenic	GRCh38	2428816
+single nucleotide variant	NM_000548.5(TSC2):c.109G>T (p.Glu37Ter)	7249	TSC2	Pathogenic	GRCh38	2430255
+single nucleotide variant	NM_000548.5(TSC2):c.3127A>T (p.Lys1043Ter)	7249	TSC2	Likely pathogenic	GRCh38	2434292
+single nucleotide variant	NM_000548.5(TSC2):c.1659C>A (p.Tyr553Ter)	7249	TSC2	Likely pathogenic	GRCh38	2444425
+single nucleotide variant	NM_000548.5(TSC2):c.4181T>C (p.Leu1394Pro)	7249	TSC2	Likely pathogenic	GRCh38	2445326
+single nucleotide variant	NM_000548.5(TSC2):c.4582G>T (p.Glu1528Ter)	7249	TSC2	Pathogenic	GRCh38	2500105
+single nucleotide variant	NM_000548.5(TSC2):c.774+2T>C	7249	TSC2	Pathogenic	GRCh38	2500640
+single nucleotide variant	NM_000548.5(TSC2):c.2126T>G (p.Val709Gly)	7249	TSC2	Likely pathogenic	GRCh38	2504642
+single nucleotide variant	NM_000548.5(TSC2):c.4223G>A (p.Gly1408Asp)	7249	TSC2	Pathogenic	GRCh38	2506402
+single nucleotide variant	NM_000548.5(TSC2):c.839T>C (p.Met280Thr)	7249	TSC2	Likely pathogenic	GRCh38	2564634
+single nucleotide variant	NM_000548.5(TSC2):c.4662+1G>T	7249	TSC2	Pathogenic	GRCh38	2580417
+single nucleotide variant	NM_000548.5(TSC2):c.2587G>T (p.Glu863Ter)	7249	TSC2	Pathogenic	GRCh38	2633779
+single nucleotide variant	NM_000548.5(TSC2):c.2639+5G>C	7249	TSC2	Likely pathogenic	GRCh38	2636544
+single nucleotide variant	NM_000548.5(TSC2):c.4569+2T>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	2674428
+single nucleotide variant	NM_000548.5(TSC2):c.1728C>G (p.Tyr576Ter)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	2682993
+single nucleotide variant	NM_000548.5(TSC2):c.4804G>T (p.Glu1602Ter)	7249	TSC2	Pathogenic	GRCh38	2698197
+single nucleotide variant	NM_000548.5(TSC2):c.849-2A>C	7249	TSC2	Pathogenic	GRCh38	2701409
+single nucleotide variant	NM_000548.5(TSC2):c.2765T>A (p.Leu922Ter)	7249	TSC2	Pathogenic	GRCh38	2697524
+single nucleotide variant	NM_000548.5(TSC2):c.4616C>A (p.Ser1539Ter)	7249	TSC2	Pathogenic	GRCh38	2725064
+single nucleotide variant	NM_000548.5(TSC2):c.4783G>C (p.Gly1595Arg)	7249	TSC2	Pathogenic	GRCh38	2728549
+single nucleotide variant	NM_000548.5(TSC2):c.1037T>A (p.Ile346Asn)	7249	TSC2	Likely pathogenic	GRCh38	2732728
+single nucleotide variant	NM_000548.5(TSC2):c.1362-1G>A	7249	TSC2	Pathogenic	GRCh38	2736283
+single nucleotide variant	NM_000548.5(TSC2):c.2726T>A (p.Val909Asp)	7249	TSC2	Likely pathogenic	GRCh38	2736292
+single nucleotide variant	NM_000548.5(TSC2):c.4149C>T (p.Ser1383=)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	2736296
+single nucleotide variant	NM_000548.5(TSC2):c.1599+2T>G	7249	TSC2	Pathogenic	GRCh38	2741633
+single nucleotide variant	NM_000548.5(TSC2):c.1803C>G (p.Ser601Arg)	7249	TSC2	Likely pathogenic	GRCh38	2744117
+single nucleotide variant	NM_000548.5(TSC2):c.4662+2T>C	7249	TSC2	Pathogenic	GRCh38	2747517
+single nucleotide variant	NM_000548.5(TSC2):c.3086T>G (p.Met1029Arg)	7249	TSC2	Likely pathogenic	GRCh38	2754808
+single nucleotide variant	NM_000548.5(TSC2):c.1443G>T (p.Glu481Asp)	7249	TSC2	Likely pathogenic	GRCh38	2760443
+single nucleotide variant	NM_000548.5(TSC2):c.3616A>C (p.Thr1206Pro)	7249	TSC2	Likely pathogenic	GRCh38	2767430
+single nucleotide variant	NM_000548.5(TSC2):c.2545+1G>A	7249	TSC2	Pathogenic	GRCh38	2780314
+single nucleotide variant	NM_000548.5(TSC2):c.1932C>A (p.Cys644Ter)	7249	TSC2	Pathogenic	GRCh38	2816262
+single nucleotide variant	NM_000548.5(TSC2):c.3610+2T>C	7249	TSC2	Pathogenic	GRCh38	2822858
+single nucleotide variant	NM_000548.5(TSC2):c.336G>A (p.Gln112=)	7249	TSC2	Pathogenic	GRCh38	2832231
+single nucleotide variant	NM_000548.5(TSC2):c.3307A>T (p.Arg1103Ter)	7249	TSC2	Pathogenic	GRCh38	2834245
+single nucleotide variant	NM_000548.5(TSC2):c.1523C>A (p.Ala508Asp)	7249	TSC2	Likely pathogenic	GRCh38	2835640
+single nucleotide variant	NM_000548.5(TSC2):c.690C>A (p.Cys230Ter)	7249	TSC2	Pathogenic	GRCh38	2836723
+single nucleotide variant	NM_000548.5(TSC2):c.1213G>T (p.Glu405Ter)	7249	TSC2	Pathogenic	GRCh38	2838404
+single nucleotide variant	NM_000548.5(TSC2):c.3610+419C>G	7249	TSC2	Pathogenic	GRCh38	2844238
+single nucleotide variant	NM_000548.5(TSC2):c.728T>C (p.Leu243Pro)	7249	TSC2	Likely pathogenic	GRCh38	2846749
+single nucleotide variant	NM_000548.5(TSC2):c.2735T>C (p.Ile912Thr)	7249	TSC2	Likely pathogenic	GRCh38	2910388
+single nucleotide variant	NM_000548.5(TSC2):c.1221C>G (p.Tyr407Ter)	7249	TSC2	Likely pathogenic	GRCh38	3065267
+single nucleotide variant	NM_000548.5(TSC2):c.648+1G>C	7249	TSC2	Pathogenic	GRCh38	3220903
+single nucleotide variant	NM_000548.5(TSC2):c.2097+1G>T	7249	TSC2	Likely pathogenic	GRCh38	3232103
+single nucleotide variant	NM_000548.5(TSC2):c.225+2T>G	7249	TSC2	Pathogenic	GRCh38	3236656
+single nucleotide variant	NM_000548.5(TSC2):c.1856T>A (p.Leu619Ter)	7249	TSC2	Pathogenic	GRCh38	3236707
+single nucleotide variant	NM_000548.5(TSC2):c.4634T>C (p.Ile1545Thr)	7249	TSC2	Likely pathogenic	GRCh38	3342104
+single nucleotide variant	NM_000548.5(TSC2):c.1460C>G (p.Ser487Ter)	7249	TSC2	Pathogenic	GRCh38	3362709
+single nucleotide variant	NM_000548.5(TSC2):c.5240T>A (p.Ile1747Asn)	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	3372115
+single nucleotide variant	NM_000548.5(TSC2):c.4849+1G>C	7249	TSC2	Pathogenic	GRCh38	3382616
+single nucleotide variant	NM_000548.5(TSC2):c.599+1G>C	7249	TSC2	Pathogenic/Likely pathogenic	GRCh38	3393429
+single nucleotide variant	NM_000548.5(TSC2):c.1832G>C (p.Arg611Pro)	7249	TSC2	Pathogenic	GRCh38	3578789
+single nucleotide variant	NM_000548.5(TSC2):c.3611-1G>A	7249	TSC2	Likely pathogenic	GRCh38	3572422
+single nucleotide variant	NM_000548.5(TSC2):c.1361G>A (p.Arg454Lys)	7249	TSC2	Likely pathogenic	GRCh38	3609734
+single nucleotide variant	NM_000548.5(TSC2):c.2625C>A (p.Tyr875Ter)	7249	TSC2	Pathogenic	GRCh38	3642439
+single nucleotide variant	NM_000548.5(TSC2):c.4692T>G (p.Asn1564Lys)	7249	TSC2	Likely pathogenic	GRCh38	3637247
+single nucleotide variant	NM_000548.5(TSC2):c.975+1G>C	7249	TSC2	Pathogenic	GRCh38	3649418
+single nucleotide variant	NM_000548.5(TSC2):c.5035G>T (p.Glu1679Ter)	7249	TSC2	Pathogenic	GRCh38	3649277
+single nucleotide variant	NM_000548.5(TSC2):c.4493+2T>C	7249	TSC2	Pathogenic	GRCh38	3656086
+single nucleotide variant	NM_000548.5(TSC2):c.1242T>A (p.Cys414Ter)	7249	TSC2	Pathogenic	GRCh38	3672893
+single nucleotide variant	NM_000548.5(TSC2):c.4007C>A (p.Ser1336Ter)	7249	TSC2	Pathogenic	GRCh38	3689912
+single nucleotide variant	NM_000548.5(TSC2):c.5160+4A>T	7249	TSC2	Pathogenic	GRCh38	3704471
+single nucleotide variant	NM_000548.5(TSC2):c.600-3C>G	7249	TSC2	Pathogenic	GRCh38	3721949
+single nucleotide variant	NM_000548.5(TSC2):c.2355+1G>T	7249	TSC2	Pathogenic	GRCh38	3721958
+single nucleotide variant	NM_000548.5(TSC2):c.5048T>C (p.Val1683Ala)	7249	TSC2	Pathogenic	GRCh38	3770216
+single nucleotide variant	NM_000548.5(TSC2):c.3838C>T (p.Gln1280Ter)	7249	TSC2	Pathogenic	GRCh38	3772024
+single nucleotide variant	NM_000548.5(TSC2):c.3239T>G (p.Leu1080Ter)	7249	TSC2	Likely pathogenic	GRCh38	3775960
+single nucleotide variant	NM_000548.5(TSC2):c.3393G>C (p.Met1131Ile)	7249	TSC2	Likely pathogenic	GRCh38	3777068
+single nucleotide variant	NM_000548.5(TSC2):c.226-3C>G	7249	TSC2	Likely pathogenic	GRCh38	3777070
+single nucleotide variant	NM_000548.5(TSC2):c.4511T>C (p.Leu1504Pro)	7249	TSC2	Pathogenic	GRCh38	3895493
+single nucleotide variant	NM_000548.5(TSC2):c.4874T>A (p.Met1625Lys)	7249	TSC2	Likely pathogenic	GRCh38	3901192
+single nucleotide variant	NM_000548.5(TSC2):c.274G>T (p.Glu92Ter)	7249	TSC2	Pathogenic	GRCh38	3911794
+single nucleotide variant	NM_000548.5(TSC2):c.1717-2A>T	7249	TSC2	Pathogenic	GRCh38	4055801
+single nucleotide variant	NM_000548.5(TSC2):c.138+1G>T	7249	TSC2	Likely pathogenic	GRCh38	4072022
+single nucleotide variant	NM_000548.5(TSC2):c.2355+1G>C	7249	TSC2	Pathogenic	GRCh38	4075470
+single nucleotide variant	NM_000548.5(TSC2):c.4383C>A (p.Tyr1461Ter)	7249	TSC2	Likely pathogenic	GRCh38	4082535
+single nucleotide variant	NM_000548.5(TSC2):c.1599G>T (p.Lys533Asn)	7249	TSC2	Likely pathogenic	GRCh38	4083472
+single nucleotide variant	NM_000548.5(TSC2):c.4493+1G>T	7249	TSC2	Likely pathogenic	GRCh38	4192125
+single nucleotide variant	NM_000548.5(TSC2):c.1792T>A (p.Tyr598Asn)	7249	TSC2	Likely pathogenic	GRCh38	4281635
+single nucleotide variant	NM_000548.5(TSC2):c.3277G>T (p.Glu1093Ter)	7249	TSC2	Pathogenic	GRCh38	4281670
+single nucleotide variant	NM_000548.5(TSC2):c.523G>T (p.Glu175Ter)	7249	TSC2	Pathogenic	GRCh38	4281687
+single nucleotide variant	NM_000548.5(TSC2):c.4471A>T (p.Lys1491Ter)	7249	TSC2	Likely pathogenic	GRCh38	4293083
+single nucleotide variant	NM_000548.5(TSC2):c.1944C>A (p.Tyr648Ter)	7249	TSC2	Likely pathogenic	GRCh38	4293278
+single nucleotide variant	NM_000548.5(TSC2):c.3337G>T (p.Glu1113Ter)	7249	TSC2	Pathogenic	GRCh38	4294488
+single nucleotide variant	NM_000548.5(TSC2):c.5023C>T (p.Pro1675Ser)	7249	TSC2	Likely pathogenic	GRCh38	4526490
+single nucleotide variant	NM_000548.5(TSC2):c.4882A>T (p.Lys1628Ter)	7249	TSC2	Pathogenic	GRCh38	4540598
+single nucleotide variant	NM_000548.5(TSC2):c.4950C>A (p.Tyr1650Ter)	7249	TSC2	Pathogenic	GRCh38	4557566
+single nucleotide variant	NM_000548.5(TSC2):c.481+1G>C	7249	TSC2	Pathogenic	GRCh38	4682104
+single nucleotide variant	NM_000548.5(TSC2):c.899G>T (p.Gly300Val)	7249	TSC2	Likely pathogenic	GRCh38	4682135
+single nucleotide variant	NM_000548.5(TSC2):c.1257+1G>T	7249	TSC2	Pathogenic	GRCh38	4682140
+single nucleotide variant	NM_000548.5(TSC2):c.1853T>C (p.Leu618Pro)	7249	TSC2	Pathogenic	GRCh38	4682152
+single nucleotide variant	NM_000548.5(TSC2):c.1362-1G>C	7249	TSC2	Pathogenic	GRCh38	4685675
+single nucleotide variant	NM_000548.5(TSC2):c.649-2A>G	7249	TSC2	Likely pathogenic	GRCh38	4710214
+single nucleotide variant	NM_000548.5(TSC2):c.4493G>T (p.Ser1498Ile)	7249	TSC2	Likely pathogenic	GRCh38	4713567
+single nucleotide variant	NM_000548.5(TSC2):c.1047T>A (p.Tyr349Ter)	7249	TSC2	Pathogenic	GRCh38	4719825
+single nucleotide variant	NM_000548.5(TSC2):c.1716+2T>G	7249	TSC2	Likely pathogenic	GRCh38	4716218
+single nucleotide variant	NM_000548.5(TSC2):c.3179G>A (p.Trp1060Ter)	7249	TSC2	Pathogenic	GRCh38	4716290
+single nucleotide variant	NM_000548.5(TSC2):c.390C>G (p.Tyr130Ter)	7249	TSC2	Pathogenic	GRCh38	4723423
+single nucleotide variant	NM_000548.5(TSC2):c.2110A>T (p.Lys704Ter)	7249	TSC2	Pathogenic	GRCh38	4724699
+single nucleotide variant	NM_000548.5(TSC2):c.4259C>G (p.Ser1420Ter)	7249	TSC2	Pathogenic	GRCh38	4729704
+single nucleotide variant	NM_000548.5(TSC2):c.2337C>G (p.Tyr779Ter)	7249	TSC2	Pathogenic	GRCh38	4727501
+single nucleotide variant	NM_000548.5(TSC2):c.5061C>A (p.Cys1687Ter)	7249	TSC2	Pathogenic	GRCh38	4728644
+single nucleotide variant	NM_000548.5(TSC2):c.1234G>T (p.Glu412Ter)	7249	TSC2	Likely pathogenic	GRCh38	4759337
+single nucleotide variant	NM_000548.5(TSC2):c.2T>G (p.Met1Arg)	7249	TSC2	Likely pathogenic	GRCh38	4802825
+single nucleotide variant	NM_000548.5(TSC2):c.774+2T>G	7249	TSC2	Pathogenic	GRCh38	4813940
+single nucleotide variant	NM_000548.5(TSC2):c.4859A>C (p.His1620Pro)	7249	TSC2	Likely pathogenic	GRCh38	4819460
+single nucleotide variant	NM_000548.5(TSC2):c.1525A>C (p.Thr509Pro)	7249	TSC2	Likely pathogenic	GRCh38	4823963
+single nucleotide variant	NM_000548.5(TSC2):c.3752A>T (p.Lys1251Met)	7249	TSC2	Pathogenic	GRCh38	4845365
+single nucleotide variant	NM_000548.5(TSC2):c.195T>A (p.Cys65Ter)	7249	TSC2	Pathogenic	GRCh38	4849099
+single nucleotide variant	NM_000548.5(TSC2):c.5068+1G>C	7249	TSC2	Likely pathogenic	GRCh38	4849581
+single nucleotide variant	NM_000548.5(TSC2):c.908T>C (p.Leu303Pro)	7249	TSC2	Likely pathogenic	GRCh38	4866070
+single nucleotide variant	NM_000548.5(TSC2):c.4847A>C (p.Gln1616Pro)	7249	TSC2	Likely pathogenic	GRCh38	4866084
+single nucleotide variant	NM_000548.5(TSC2):c.5160+2T>A	7249	TSC2	Likely pathogenic	GRCh38	4866111
+single nucleotide variant	NM_000548.5(TSC2):c.2740A>T (p.Lys914Ter)	7249	TSC2	Likely pathogenic	GRCh38	4879363

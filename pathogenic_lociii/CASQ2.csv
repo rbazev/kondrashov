@@ -1,0 +1,59 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001232.4(CASQ2):c.919G>C (p.Asp307His)	845	CASQ2	Pathogenic	GRCh38	17610
+single nucleotide variant	NM_001232.4(CASQ2):c.500T>A (p.Leu167His)	845	CASQ2	Pathogenic	GRCh38	17612
+single nucleotide variant	NM_001232.4(CASQ2):c.97C>T (p.Arg33Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	41043
+single nucleotide variant	NM_001232.4(CASQ2):c.94G>A (p.Asp32Asn)	845	CASQ2	Likely pathogenic	GRCh38	68878
+single nucleotide variant	NM_001232.4(CASQ2):c.923C>T (p.Pro308Leu)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	190755
+single nucleotide variant	NM_001232.4(CASQ2):c.606+1G>C	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	190743
+single nucleotide variant	NM_001232.4(CASQ2):c.940-1G>T	845	CASQ2	Likely pathogenic	GRCh38	228247
+single nucleotide variant	NM_001232.4(CASQ2):c.235-2A>G	845	CASQ2	Likely pathogenic	GRCh38	408869
+single nucleotide variant	NM_001232.4(CASQ2):c.783G>A (p.Trp261Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	427947
+single nucleotide variant	NM_001232.4(CASQ2):c.164A>G (p.Tyr55Cys)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	427946
+single nucleotide variant	NM_001232.4(CASQ2):c.2T>C (p.Met1Thr)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	452250
+single nucleotide variant	NM_001232.4(CASQ2):c.115G>T (p.Glu39Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	488772
+single nucleotide variant	NM_001232.4(CASQ2):c.939+1G>T	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	519365
+single nucleotide variant	NM_001232.4(CASQ2):c.856G>T (p.Glu286Ter)	845	CASQ2	Pathogenic	GRCh38	651334
+single nucleotide variant	NM_001232.4(CASQ2):c.475G>T (p.Glu159Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	654552
+single nucleotide variant	NM_001232.4(CASQ2):c.381C>T (p.Gly127=)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	801535
+single nucleotide variant	NM_001232.4(CASQ2):c.733C>T (p.Gln245Ter)	845	CASQ2	Pathogenic	GRCh38	859128
+single nucleotide variant	NM_001232.4(CASQ2):c.98G>A (p.Arg33Gln)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	862119
+single nucleotide variant	NM_001232.4(CASQ2):c.466C>T (p.Gln156Ter)	845	CASQ2	Pathogenic	GRCh38	942279
+single nucleotide variant	NM_001232.4(CASQ2):c.737+2T>A	845	CASQ2	Pathogenic	GRCh38	1033372
+single nucleotide variant	NM_001232.4(CASQ2):c.715G>T (p.Glu239Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	1757434
+single nucleotide variant	NM_001232.4(CASQ2):c.319+1G>A	845	CASQ2	Likely pathogenic	GRCh38	1324014
+single nucleotide variant	NM_001232.4(CASQ2):c.839-2A>G	845	CASQ2	Likely pathogenic	GRCh38	1523438
+single nucleotide variant	NM_001232.4(CASQ2):c.1014+1G>A	845	CASQ2	Pathogenic	GRCh38	1457736
+single nucleotide variant	NM_001232.4(CASQ2):c.576C>A (p.Tyr192Ter)	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	1367739
+single nucleotide variant	NM_001232.4(CASQ2):c.988C>T (p.Gln330Ter)	845	CASQ2	Pathogenic	GRCh38	1425730
+single nucleotide variant	NM_001232.4(CASQ2):c.939+5G>C	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	1455253
+single nucleotide variant	NM_001232.4(CASQ2):c.319+1G>C	845	CASQ2	Likely pathogenic	GRCh38	1515619
+single nucleotide variant	NM_001232.4(CASQ2):c.532+1G>A	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	1746831
+single nucleotide variant	NM_001232.4(CASQ2):c.199C>T (p.Gln67Ter)	845	CASQ2	Pathogenic	GRCh38	1784131
+single nucleotide variant	NM_001232.4(CASQ2):c.737+1G>A	845	CASQ2	Pathogenic/Likely pathogenic	GRCh38	2202832
+single nucleotide variant	NM_001232.4(CASQ2):c.319+2T>G	845	CASQ2	Likely pathogenic	GRCh38	2089290
+single nucleotide variant	NM_001232.4(CASQ2):c.607-1G>A	845	CASQ2	Likely pathogenic	GRCh38	2438853
+single nucleotide variant	NM_001232.4(CASQ2):c.736A>T (p.Arg246Ter)	845	CASQ2	Likely pathogenic	GRCh38	2505552
+single nucleotide variant	NM_001232.4(CASQ2):c.1028G>A (p.Trp343Ter)	845	CASQ2	Pathogenic	GRCh38	2565185
+single nucleotide variant	NM_001232.4(CASQ2):c.1083G>A (p.Trp361Ter)	845	CASQ2	Likely pathogenic	GRCh38	2574853
+single nucleotide variant	NM_001232.4(CASQ2):c.1082G>A (p.Trp361Ter)	845	CASQ2	Pathogenic	GRCh38	2717451
+single nucleotide variant	NM_001232.4(CASQ2):c.939+1G>A	845	CASQ2	Likely pathogenic	GRCh38	2754358
+single nucleotide variant	NM_001232.4(CASQ2):c.846C>A (p.Tyr282Ter)	845	CASQ2	Pathogenic	GRCh38	2794330
+single nucleotide variant	NM_001232.4(CASQ2):c.205C>T (p.Gln69Ter)	845	CASQ2	Pathogenic	GRCh38	2806492
+single nucleotide variant	NM_001232.4(CASQ2):c.3G>A (p.Met1Ile)	845	CASQ2	Pathogenic	GRCh38	2811031
+single nucleotide variant	NM_001232.4(CASQ2):c.537C>A (p.Tyr179Ter)	845	CASQ2	Pathogenic	GRCh38	2865838
+single nucleotide variant	NM_001232.4(CASQ2):c.784-1G>A	845	CASQ2	Likely pathogenic	GRCh38	2914884
+single nucleotide variant	NM_001232.4(CASQ2):c.244C>T (p.Gln82Ter)	845	CASQ2	Pathogenic	GRCh38	2914975
+single nucleotide variant	NM_001232.4(CASQ2):c.420+1G>A	845	CASQ2	Likely pathogenic	GRCh38	2997913
+single nucleotide variant	NM_001232.4(CASQ2):c.320-2A>G	845	CASQ2	Pathogenic	GRCh38	3236407
+single nucleotide variant	NM_001232.4(CASQ2):c.533-2A>G	845	CASQ2	Likely pathogenic	GRCh38	3263466
+single nucleotide variant	NM_001232.4(CASQ2):c.606+1G>T	845	CASQ2	Likely pathogenic	GRCh38	3485292
+single nucleotide variant	NM_001232.4(CASQ2):c.738-1G>T	845	CASQ2	Likely pathogenic	GRCh38	3575248
+single nucleotide variant	NM_001232.4(CASQ2):c.606+2T>A	845	CASQ2	Likely pathogenic	GRCh38	3575384
+single nucleotide variant	NM_001232.4(CASQ2):c.2T>A (p.Met1Lys)	845	CASQ2	Likely pathogenic	GRCh38	3575736
+single nucleotide variant	NM_001232.4(CASQ2):c.421-2A>T	845	CASQ2	Pathogenic	GRCh38	3676998
+single nucleotide variant	NM_001232.4(CASQ2):c.172G>T (p.Glu58Ter)	845	CASQ2	Pathogenic	GRCh38	3722580
+single nucleotide variant	NM_001232.4(CASQ2):c.382G>T (p.Glu128Ter)	845	CASQ2	Likely pathogenic	GRCh38	4281696
+single nucleotide variant	NM_001232.4(CASQ2):c.839-1G>C	845	CASQ2	Likely pathogenic	GRCh38	4778592
+single nucleotide variant	NM_001232.4(CASQ2):c.954G>A (p.Trp318Ter)	845	CASQ2	Pathogenic	GRCh38	4798117
+single nucleotide variant	NM_001232.4(CASQ2):c.532+2T>C	845	CASQ2	Likely pathogenic	GRCh38	4885333
+single nucleotide variant	NM_001232.4(CASQ2):c.606+1G>A	845	CASQ2	Likely pathogenic	GRCh38	4889993

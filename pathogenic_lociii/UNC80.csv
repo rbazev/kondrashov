@@ -1,0 +1,105 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001371986.1(UNC80):c.565G>A (p.Val189Met)	285175	UNC80	Likely pathogenic	GRCh38	219190
+single nucleotide variant	NM_001371986.1(UNC80):c.1078C>T (p.Arg360Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	219189
+single nucleotide variant	NM_001371986.1(UNC80):c.3787C>T (p.Arg1263Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	219188
+single nucleotide variant	NM_001371986.1(UNC80):c.7805G>C (p.Arg2602Thr)	285175	UNC80	Likely pathogenic	GRCh38	222011
+single nucleotide variant	NM_001371986.1(UNC80):c.7955T>A (p.Leu2652Ter)	285175	UNC80	Likely pathogenic	GRCh38	222013
+single nucleotide variant	NM_001371986.1(UNC80):c.151C>T (p.Arg51Ter)	285175	UNC80	Pathogenic	GRCh38	222017
+single nucleotide variant	NM_001371986.1(UNC80):c.6373C>T (p.Arg2125Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	422552
+single nucleotide variant	NM_001371986.1(UNC80):c.6893G>A (p.Trp2298Ter)	285175	UNC80	Pathogenic	GRCh38	424333
+single nucleotide variant	NM_001371986.1(UNC80):c.4144G>T (p.Glu1382Ter)	285175	UNC80	Pathogenic	GRCh38	431144
+single nucleotide variant	NM_001371986.1(UNC80):c.653T>C (p.Met218Thr)	285175	UNC80	Likely pathogenic	GRCh38	432359
+single nucleotide variant	NM_001371986.1(UNC80):c.2527C>T (p.Arg843Ter)	285175	UNC80	Pathogenic	GRCh38	432358
+single nucleotide variant	NM_001371986.1(UNC80):c.8269G>T (p.Asp2757Tyr)	285175	UNC80	Likely pathogenic	GRCh38	432173
+single nucleotide variant	NM_001371986.1(UNC80):c.8772+2T>G	285175	UNC80	Likely pathogenic	GRCh38	453302
+single nucleotide variant	NM_001371986.1(UNC80):c.2736C>A (p.Cys912Ter)	285175	UNC80	Likely pathogenic	GRCh38	488771
+single nucleotide variant	NM_001371986.1(UNC80):c.1513C>T (p.Arg505Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	505011
+single nucleotide variant	NM_001371986.1(UNC80):c.520C>T (p.Arg174Ter)	285175	UNC80	Pathogenic	GRCh38	684713
+single nucleotide variant	NM_001371986.1(UNC80):c.5869C>T (p.Arg1957Ter)	285175	UNC80	Pathogenic	GRCh38	684715
+single nucleotide variant	NM_001371986.1(UNC80):c.8314C>T (p.Arg2772Ter)	285175	UNC80	Pathogenic	GRCh38	684712
+single nucleotide variant	NM_001371986.1(UNC80):c.601-1G>A	285175	UNC80	Likely pathogenic	GRCh38	684717
+single nucleotide variant	NM_001371986.1(UNC80):c.8256+2T>G	285175	UNC80	Likely pathogenic	GRCh38	684716
+single nucleotide variant	NM_001371986.1(UNC80):c.3358-1G>C	285175	UNC80	Pathogenic	GRCh38	801862
+single nucleotide variant	NM_001371986.1(UNC80):c.3853C>T (p.Arg1285Ter)	285175	UNC80	Pathogenic	GRCh38	801863
+single nucleotide variant	NM_001371986.1(UNC80):c.8511C>A (p.Cys2837Ter)	285175	UNC80	Likely pathogenic	GRCh38	871308
+single nucleotide variant	NM_001371986.1(UNC80):c.409C>T (p.Arg137Ter)	285175	UNC80	Pathogenic	GRCh38	993028
+single nucleotide variant	NM_001371986.1(UNC80):c.1696C>T (p.Arg566Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	1028448
+single nucleotide variant	NM_001371986.1(UNC80):c.3042-1G>T	285175	UNC80	Pathogenic	GRCh38	1028452
+single nucleotide variant	NM_001371986.1(UNC80):c.2914C>T (p.Gln972Ter)	285175	UNC80	Pathogenic	GRCh38	1323741
+single nucleotide variant	NM_001371986.1(UNC80):c.2331+1G>T	285175	UNC80	Pathogenic	GRCh38	1323742
+single nucleotide variant	NM_001371986.1(UNC80):c.4582-2A>G	285175	UNC80	Likely pathogenic	GRCh38	1325332
+single nucleotide variant	NM_001371986.1(UNC80):c.2776-3C>G	285175	UNC80	Likely pathogenic	GRCh38	1329858
+single nucleotide variant	NM_001371986.1(UNC80):c.3190C>T (p.Arg1064Ter)	285175	UNC80	Pathogenic	GRCh38	1357323
+single nucleotide variant	NM_001371986.1(UNC80):c.4110+1G>C	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	1521559
+single nucleotide variant	NM_001371986.1(UNC80):c.8380+1G>T	285175	UNC80	Likely pathogenic	GRCh38	1465732
+single nucleotide variant	NM_001371986.1(UNC80):c.7287-1G>A	285175	UNC80	Likely pathogenic	GRCh38	1468092
+single nucleotide variant	NM_001371986.1(UNC80):c.5995-2A>G	285175	UNC80	Likely pathogenic	GRCh38	1496007
+single nucleotide variant	NM_001371986.1(UNC80):c.6445C>T (p.Gln2149Ter)	285175	UNC80	Pathogenic	GRCh38	1371926
+single nucleotide variant	NM_001371986.1(UNC80):c.5476C>T (p.Gln1826Ter)	285175	UNC80	Pathogenic	GRCh38	1454189
+single nucleotide variant	NM_001371986.1(UNC80):c.2470C>T (p.Arg824Ter)	285175	UNC80	Pathogenic	GRCh38	1357913
+single nucleotide variant	NM_001371986.1(UNC80):c.286C>T (p.Arg96Ter)	285175	UNC80	Pathogenic	GRCh38	1373605
+single nucleotide variant	NM_001371986.1(UNC80):c.4063C>T (p.Arg1355Ter)	285175	UNC80	Pathogenic	GRCh38	1457621
+single nucleotide variant	NM_001371986.1(UNC80):c.1357C>T (p.Arg453Ter)	285175	UNC80	Pathogenic	GRCh38	1451796
+single nucleotide variant	NM_001371986.1(UNC80):c.1351G>T (p.Glu451Ter)	285175	UNC80	Pathogenic	GRCh38	1451819
+single nucleotide variant	NM_001371986.1(UNC80):c.5907+1G>A	285175	UNC80	Likely pathogenic	GRCh38	1482461
+single nucleotide variant	NM_001371986.1(UNC80):c.7645C>T (p.Arg2549Ter)	285175	UNC80	Pathogenic	GRCh38	1456340
+single nucleotide variant	NM_001371986.1(UNC80):c.9520C>T (p.Arg3174Ter)	285175	UNC80	Pathogenic	GRCh38	1457938
+single nucleotide variant	NM_001371986.1(UNC80):c.4846G>T (p.Glu1616Ter)	285175	UNC80	Pathogenic	GRCh38	1458163
+single nucleotide variant	NM_001371986.1(UNC80):c.1858C>T (p.Arg620Ter)	285175	UNC80	Pathogenic	GRCh38	1361501
+single nucleotide variant	NM_001371986.1(UNC80):c.7287-2A>C	285175	UNC80	Likely pathogenic	GRCh38	1474911
+single nucleotide variant	NM_001371986.1(UNC80):c.4678C>T (p.Arg1560Ter)	285175	UNC80	Pathogenic	GRCh38	1675836
+single nucleotide variant	NM_001371986.1(UNC80):c.8772+1G>A	285175	UNC80	Likely pathogenic	GRCh38	1699440
+single nucleotide variant	NM_001371986.1(UNC80):c.6976C>T (p.Gln2326Ter)	285175	UNC80	Pathogenic	GRCh38	1699471
+single nucleotide variant	NM_001371986.1(UNC80):c.8008C>T (p.Arg2670Ter)	285175	UNC80	Pathogenic	GRCh38	1704946
+single nucleotide variant	NM_001371986.1(UNC80):c.3977-1G>T	285175	UNC80	Likely pathogenic	GRCh38	1802583
+single nucleotide variant	NM_001371986.1(UNC80):c.2431C>T (p.Arg811Ter)	285175	UNC80	Likely pathogenic	GRCh38	1804515
+single nucleotide variant	NM_001371986.1(UNC80):c.3535C>T (p.Arg1179Ter)	285175	UNC80	Pathogenic	GRCh38	1935934
+single nucleotide variant	NM_001371986.1(UNC80):c.422G>A (p.Trp141Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	1952272
+single nucleotide variant	NM_001371986.1(UNC80):c.939-1G>A	285175	UNC80	Likely pathogenic	GRCh38	2027686
+single nucleotide variant	NM_001371986.1(UNC80):c.6036G>A (p.Trp2012Ter)	285175	UNC80	Pathogenic	GRCh38	2032758
+single nucleotide variant	NM_001371986.1(UNC80):c.6184A>T (p.Lys2062Ter)	285175	UNC80	Pathogenic	GRCh38	2043606
+single nucleotide variant	NM_001371986.1(UNC80):c.938+2T>C	285175	UNC80	Likely pathogenic	GRCh38	2087194
+single nucleotide variant	NM_001371986.1(UNC80):c.667C>T (p.Gln223Ter)	285175	UNC80	Pathogenic	GRCh38	2103634
+single nucleotide variant	NM_001371986.1(UNC80):c.2942+1G>A	285175	UNC80	Likely pathogenic	GRCh38	2120465
+single nucleotide variant	NM_001371986.1(UNC80):c.5029+1G>A	285175	UNC80	Likely pathogenic	GRCh38	2131232
+single nucleotide variant	NM_001371986.1(UNC80):c.3205C>T (p.Arg1069Ter)	285175	UNC80	Pathogenic	GRCh38	2662943
+single nucleotide variant	NM_001371986.1(UNC80):c.7551-1G>C	285175	UNC80	Likely pathogenic	GRCh38	2711152
+single nucleotide variant	NM_001371986.1(UNC80):c.4276+1G>T	285175	UNC80	Likely pathogenic	GRCh38	2720242
+single nucleotide variant	NM_001371986.1(UNC80):c.4891-1G>A	285175	UNC80	Likely pathogenic	GRCh38	2752208
+single nucleotide variant	NM_001371986.1(UNC80):c.3328C>T (p.Arg1110Ter)	285175	UNC80	Pathogenic	GRCh38	2788446
+single nucleotide variant	NM_001371986.1(UNC80):c.6475C>T (p.Arg2159Ter)	285175	UNC80	Pathogenic	GRCh38	2791845
+single nucleotide variant	NM_001371986.1(UNC80):c.4985G>A (p.Trp1662Ter)	285175	UNC80	Pathogenic	GRCh38	2795999
+single nucleotide variant	NM_001371986.1(UNC80):c.8939-1G>A	285175	UNC80	Likely pathogenic	GRCh38	2805196
+single nucleotide variant	NM_001371986.1(UNC80):c.3250+7G>A	285175	UNC80	Likely pathogenic	GRCh38	2807976
+single nucleotide variant	NM_001371986.1(UNC80):c.2478+1G>A	285175	UNC80	Likely pathogenic	GRCh38	2817734
+single nucleotide variant	NM_001371986.1(UNC80):c.6216C>A (p.Cys2072Ter)	285175	UNC80	Pathogenic	GRCh38	2817767
+single nucleotide variant	NM_001371986.1(UNC80):c.9643G>T (p.Glu3215Ter)	285175	UNC80	Pathogenic	GRCh38	2841903
+single nucleotide variant	NM_001371986.1(UNC80):c.3226C>T (p.Arg1076Ter)	285175	UNC80	Pathogenic	GRCh38	2883996
+single nucleotide variant	NM_001371986.1(UNC80):c.6337C>T (p.Arg2113Ter)	285175	UNC80	Pathogenic	GRCh38	2920703
+single nucleotide variant	NM_001371986.1(UNC80):c.1552+2T>C	285175	UNC80	Likely pathogenic	GRCh38	3012602
+single nucleotide variant	NM_001371986.1(UNC80):c.7050+1G>T	285175	UNC80	Likely pathogenic	GRCh38	3345045
+single nucleotide variant	NM_001371986.1(UNC80):c.3840+1G>A	285175	UNC80	Likely pathogenic	GRCh38	3347031
+single nucleotide variant	NM_001371986.1(UNC80):c.3203C>A (p.Ser1068Ter)	285175	UNC80	Likely pathogenic	GRCh38	3376416
+single nucleotide variant	NM_001371986.1(UNC80):c.1029G>A (p.Trp343Ter)	285175	UNC80	Likely pathogenic	GRCh38	3377699
+single nucleotide variant	NM_001371986.1(UNC80):c.8772+1G>T	285175	UNC80	Likely pathogenic	GRCh38	3647969
+single nucleotide variant	NM_001371986.1(UNC80):c.5212-1G>T	285175	UNC80	Likely pathogenic	GRCh38	3654626
+single nucleotide variant	NM_001371986.1(UNC80):c.6139C>T (p.Gln2047Ter)	285175	UNC80	Pathogenic	GRCh38	3655689
+single nucleotide variant	NM_001371986.1(UNC80):c.8588-2A>G	285175	UNC80	Likely pathogenic	GRCh38	3646446
+single nucleotide variant	NM_001371986.1(UNC80):c.724+1G>T	285175	UNC80	Likely pathogenic	GRCh38	3653301
+single nucleotide variant	NM_001371986.1(UNC80):c.2775+1G>T	285175	UNC80	Likely pathogenic	GRCh38	3656825
+single nucleotide variant	NM_001371986.1(UNC80):c.871C>T (p.Arg291Ter)	285175	UNC80	Pathogenic/Likely pathogenic	GRCh38	3681924
+single nucleotide variant	NM_001371986.1(UNC80):c.6178+1G>T	285175	UNC80	Likely pathogenic	GRCh38	3689153
+single nucleotide variant	NM_001371986.1(UNC80):c.3834G>A (p.Trp1278Ter)	285175	UNC80	Pathogenic	GRCh38	3725199
+single nucleotide variant	NM_001371986.1(UNC80):c.2224G>T (p.Gly742Ter)	285175	UNC80	Pathogenic	GRCh38	3725486
+single nucleotide variant	NM_001371986.1(UNC80):c.7050+1G>C	285175	UNC80	Likely pathogenic	GRCh38	4532342
+single nucleotide variant	NM_001371986.1(UNC80):c.2776-2A>C	285175	UNC80	Likely pathogenic	GRCh38	4711915
+single nucleotide variant	NM_001371986.1(UNC80):c.6626C>A (p.Ser2209Ter)	285175	UNC80	Pathogenic	GRCh38	4720243
+single nucleotide variant	NM_001371986.1(UNC80):c.298+1G>A	285175	UNC80	Likely pathogenic	GRCh38	4711143
+single nucleotide variant	NM_001371986.1(UNC80):c.3257G>A (p.Trp1086Ter)	285175	UNC80	Pathogenic	GRCh38	4722483
+single nucleotide variant	NM_001371986.1(UNC80):c.1336-2A>T	285175	UNC80	Likely pathogenic	GRCh38	4735242
+single nucleotide variant	NM_001371986.1(UNC80):c.9298G>T (p.Glu3100Ter)	285175	UNC80	Pathogenic	GRCh38	4726180
+single nucleotide variant	NM_001371986.1(UNC80):c.5858C>A (p.Ser1953Ter)	285175	UNC80	Pathogenic	GRCh38	4730810
+single nucleotide variant	NM_001371986.1(UNC80):c.7848T>A (p.Tyr2616Ter)	285175	UNC80	Pathogenic	GRCh38	4734210
+single nucleotide variant	NM_001371986.1(UNC80):c.7381C>T (p.Arg2461Ter)	285175	UNC80	Pathogenic	GRCh38	4778656
+single nucleotide variant	NM_001371986.1(UNC80):c.5029+2T>C	285175	UNC80	Likely pathogenic	GRCh38	4807330
+single nucleotide variant	NM_001371986.1(UNC80):c.6466-2A>G	285175	UNC80	Likely pathogenic	GRCh38	4804650

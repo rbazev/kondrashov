@@ -1,0 +1,56 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_170784.3(MKKS):c.250C>T (p.His84Tyr)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	478890
+single nucleotide variant	NM_170784.3(MKKS):c.110A>G (p.Tyr37Cys)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	5309
+single nucleotide variant	NM_170784.3(MKKS):c.155G>A (p.Gly52Asp)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	5311
+single nucleotide variant	NM_170784.3(MKKS):c.792T>A (p.Tyr264Ter)	8195	MKKS	Pathogenic	GRCh38	5312
+single nucleotide variant	NM_170784.3(MKKS):c.169A>G (p.Thr57Ala)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	5316
+single nucleotide variant	NM_170784.3(MKKS):c.442C>T (p.Gln148Ter)	8195	MKKS	Pathogenic	GRCh38	5318
+single nucleotide variant	NM_170784.3(MKKS):c.1496G>C (p.Cys499Ser)	8195	MKKS	Pathogenic	GRCh38	5319
+single nucleotide variant	NM_170784.3(MKKS):c.1334T>G (p.Leu445Ter)	8195	MKKS	Likely pathogenic	GRCh38	369846
+single nucleotide variant	NM_170784.3(MKKS):c.613A>T (p.Lys205Ter)	8195	MKKS	Pathogenic	GRCh38	522402
+single nucleotide variant	NM_170784.3(MKKS):c.119C>G (p.Ser40Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	549478
+single nucleotide variant	NM_170784.3(MKKS):c.792T>G (p.Tyr264Ter)	8195	MKKS	Pathogenic	GRCh38	585168
+single nucleotide variant	NM_170784.3(MKKS):c.492T>A (p.Cys164Ter)	8195	MKKS	Pathogenic	GRCh38	585167
+single nucleotide variant	NM_170784.3(MKKS):c.1272+1G>A	8195	MKKS	Pathogenic	GRCh38	631869
+single nucleotide variant	NM_170784.3(MKKS):c.175C>T (p.Gln59Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	971909
+single nucleotide variant	NM_170784.3(MKKS):c.29C>A (p.Ser10Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	970291
+single nucleotide variant	NM_170784.3(MKKS):c.415C>T (p.Arg139Ter)	8195	MKKS	Pathogenic	GRCh38	985054
+single nucleotide variant	NM_170784.3(MKKS):c.1034G>A (p.Gly345Glu)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	1066030
+single nucleotide variant	NM_170784.3(MKKS):c.986-1G>A	8195	MKKS	Pathogenic	GRCh38	1179069
+single nucleotide variant	NM_170784.3(MKKS):c.1436C>G (p.Ser479Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	1297700
+single nucleotide variant	NM_170784.3(MKKS):c.1175C>T (p.Thr392Met)	8195	MKKS	Likely pathogenic	GRCh38	1475670
+single nucleotide variant	NM_170784.3(MKKS):c.676C>T (p.Gln226Ter)	8195	MKKS	Pathogenic	GRCh38	1408352
+single nucleotide variant	NM_170784.3(MKKS):c.1013C>A (p.Ser338Ter)	8195	MKKS	Pathogenic	GRCh38	1450424
+single nucleotide variant	NM_170784.3(MKKS):c.1272+2T>C	8195	MKKS	Pathogenic	GRCh38	2154926
+single nucleotide variant	NM_170784.3(MKKS):c.1149G>A (p.Trp383Ter)	8195	MKKS	Pathogenic	GRCh38	2119610
+single nucleotide variant	NM_170784.3(MKKS):c.1148G>A (p.Trp383Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	2629959
+single nucleotide variant	NM_170784.3(MKKS):c.221T>G (p.Leu74Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	2676533
+single nucleotide variant	NM_170784.3(MKKS):c.668C>A (p.Ser223Ter)	8195	MKKS	Likely pathogenic	GRCh38	2676535
+single nucleotide variant	NM_170784.3(MKKS):c.61A>T (p.Arg21Ter)	8195	MKKS	Likely pathogenic	GRCh38	2676538
+single nucleotide variant	NM_170784.3(MKKS):c.1434G>A (p.Trp478Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	2676540
+single nucleotide variant	NM_170784.3(MKKS):c.1486C>T (p.Gln496Ter)	8195	MKKS	Likely pathogenic	GRCh38	2676541
+single nucleotide variant	NM_170784.3(MKKS):c.619C>T (p.Gln207Ter)	8195	MKKS	Likely pathogenic	GRCh38	2676546
+single nucleotide variant	NM_170784.3(MKKS):c.182C>G (p.Ser61Ter)	8195	MKKS	Likely pathogenic	GRCh38	2676547
+single nucleotide variant	NM_170784.3(MKKS):c.871G>T (p.Val291Phe)	8195	MKKS	Likely pathogenic	GRCh38	2676549
+single nucleotide variant	NM_170784.3(MKKS):c.1530G>A (p.Trp510Ter)	8195	MKKS	Likely pathogenic	GRCh38	2683529
+single nucleotide variant	NM_170784.3(MKKS):c.2T>A (p.Met1Lys)	8195	MKKS	Pathogenic	GRCh38	2924131
+single nucleotide variant	NM_170784.3(MKKS):c.2T>G (p.Met1Arg)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	2925645
+single nucleotide variant	NM_170784.3(MKKS):c.257C>A (p.Ser86Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	2928460
+single nucleotide variant	NM_170784.3(MKKS):c.1646T>C (p.Leu549Pro)	8195	MKKS	Likely pathogenic	GRCh38	3064189
+single nucleotide variant	NM_170784.3(MKKS):c.1192C>T (p.Gln398Ter)	8195	MKKS	Pathogenic	GRCh38	3241927
+single nucleotide variant	NM_170784.3(MKKS):c.883A>T (p.Lys295Ter)	8195	MKKS	Likely pathogenic	GRCh38	3241930
+single nucleotide variant	NM_170784.3(MKKS):c.1470G>A (p.Trp490Ter)	8195	MKKS	Likely pathogenic	GRCh38	3241931
+single nucleotide variant	NM_170784.3(MKKS):c.844C>T (p.Gln282Ter)	8195	MKKS	Likely pathogenic	GRCh38	3241932
+single nucleotide variant	NM_170784.3(MKKS):c.1529G>A (p.Trp510Ter)	8195	MKKS	Likely pathogenic	GRCh38	3241934
+single nucleotide variant	NM_170784.3(MKKS):c.848T>C (p.Leu283Pro)	8195	MKKS	Likely pathogenic	GRCh38	3252021
+single nucleotide variant	NM_170784.3(MKKS):c.518A>C (p.His173Pro)	8195	MKKS	Likely pathogenic	GRCh38	3339524
+single nucleotide variant	NM_170784.3(MKKS):c.530T>A (p.Leu177Ter)	8195	MKKS	Likely pathogenic	GRCh38	3356735
+single nucleotide variant	NM_170784.3(MKKS):c.1273-1G>C	8195	MKKS	Likely pathogenic	GRCh38	3587032
+single nucleotide variant	NM_170784.3(MKKS):c.13G>T (p.Glu5Ter)	8195	MKKS	Pathogenic	GRCh38	3749720
+single nucleotide variant	NM_170784.3(MKKS):c.1196T>G (p.Leu399Ter)	8195	MKKS	Pathogenic	GRCh38	3754817
+single nucleotide variant	NM_170784.3(MKKS):c.1186G>T (p.Val396Phe)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	3905429
+single nucleotide variant	NM_170784.3(MKKS):c.1171C>T (p.Gln391Ter)	8195	MKKS	Pathogenic/Likely pathogenic	GRCh38	4057102
+single nucleotide variant	NM_170784.3(MKKS):c.893A>C (p.His298Pro)	8195	MKKS	Likely pathogenic	GRCh38	4755456
+single nucleotide variant	NM_170784.3(MKKS):c.668C>G (p.Ser223Ter)	8195	MKKS	Likely pathogenic	GRCh38	4755457
+single nucleotide variant	NM_170784.3(MKKS):c.1033G>A (p.Gly345Arg)	8195	MKKS	Likely pathogenic	GRCh38	4783722
+single nucleotide variant	NM_170784.3(MKKS):c.122G>A (p.Gly41Asp)	8195	MKKS	Likely pathogenic	GRCh38	4791360

@@ -1,0 +1,58 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_207352.4(CYP4V2):c.332T>C (p.Ile111Thr)	285440	CYP4V2	Pathogenic	GRCh38	2188
+single nucleotide variant	NM_207352.4(CYP4V2):c.181G>A (p.Gly61Ser)	285440	CYP4V2	Pathogenic	GRCh38	2190
+single nucleotide variant	NM_207352.4(CYP4V2):c.1091-2A>G	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	2191
+single nucleotide variant	NM_207352.4(CYP4V2):c.1020G>A (p.Trp340Ter)	285440	CYP4V2	Pathogenic	GRCh38	39248
+single nucleotide variant	NM_207352.4(CYP4V2):c.1021T>C (p.Ser341Pro)	285440	CYP4V2	Pathogenic	GRCh38	39249
+single nucleotide variant	NM_207352.4(CYP4V2):c.1157A>C (p.Lys386Thr)	285440	CYP4V2	Pathogenic	GRCh38	39250
+single nucleotide variant	NM_207352.4(CYP4V2):c.1169G>A (p.Arg390His)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39251
+single nucleotide variant	NM_207352.4(CYP4V2):c.1187C>T (p.Pro396Leu)	285440	CYP4V2	Pathogenic	GRCh38	39252
+single nucleotide variant	NM_207352.4(CYP4V2):c.1199G>A (p.Arg400His)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39254
+single nucleotide variant	NM_207352.4(CYP4V2):c.1348C>T (p.Gln450Ter)	285440	CYP4V2	Pathogenic	GRCh38	39256
+single nucleotide variant	NM_207352.4(CYP4V2):c.1445C>A (p.Ser482Ter)	285440	CYP4V2	Pathogenic	GRCh38	39257
+single nucleotide variant	NM_207352.4(CYP4V2):c.253C>T (p.Arg85Cys)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39260
+single nucleotide variant	NM_207352.4(CYP4V2):c.283G>A (p.Gly95Arg)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39261
+single nucleotide variant	NM_207352.4(CYP4V2):c.327+1G>A	285440	CYP4V2	Pathogenic	GRCh38	39262
+single nucleotide variant	NM_207352.4(CYP4V2):c.335T>G (p.Leu112Ter)	285440	CYP4V2	Pathogenic	GRCh38	39263
+single nucleotide variant	NM_207352.4(CYP4V2):c.400G>T (p.Gly134Ter)	285440	CYP4V2	Pathogenic	GRCh38	39265
+single nucleotide variant	NM_207352.4(CYP4V2):c.518T>G (p.Leu173Trp)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39266
+single nucleotide variant	NM_207352.4(CYP4V2):c.655T>C (p.Tyr219His)	285440	CYP4V2	Pathogenic	GRCh38	39268
+single nucleotide variant	NM_207352.4(CYP4V2):c.958C>T (p.Arg320Ter)	285440	CYP4V2	Pathogenic	GRCh38	39272
+single nucleotide variant	NM_207352.4(CYP4V2):c.971A>T (p.Asp324Val)	285440	CYP4V2	Pathogenic	GRCh38	39273
+single nucleotide variant	NM_207352.4(CYP4V2):c.974C>T (p.Thr325Ile)	285440	CYP4V2	Pathogenic	GRCh38	39274
+single nucleotide variant	NM_207352.4(CYP4V2):c.992A>C (p.His331Pro)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	39275
+single nucleotide variant	NM_207352.4(CYP4V2):c.1393A>G (p.Arg465Gly)	285440	CYP4V2	Pathogenic	GRCh38	166978
+single nucleotide variant	NM_207352.4(CYP4V2):c.1396A>G (p.Asn466Asp)	285440	CYP4V2	Pathogenic	GRCh38	209986
+single nucleotide variant	NM_207352.4(CYP4V2):c.197T>G (p.Met66Arg)	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	438149
+single nucleotide variant	NM_207352.4(CYP4V2):c.380T>A (p.Leu127Ter)	285440	CYP4V2	Pathogenic	GRCh38	631943
+single nucleotide variant	NM_207352.4(CYP4V2):c.1169G>T (p.Arg390Leu)	285440	CYP4V2	Likely pathogenic	GRCh38	802105
+single nucleotide variant	NM_207352.4(CYP4V2):c.120C>G (p.Tyr40Ter)	285440	CYP4V2	Pathogenic	GRCh38	812304
+single nucleotide variant	NM_207352.4(CYP4V2):c.694C>T (p.Arg232Ter)	285440	CYP4V2	Pathogenic	GRCh38	866939
+single nucleotide variant	NM_207352.4(CYP4V2):c.928G>T (p.Glu310Ter)	285440	CYP4V2	Pathogenic	GRCh38	941286
+single nucleotide variant	NM_207352.4(CYP4V2):c.802-8T>G	285440	CYP4V2	Pathogenic	GRCh38	968498
+single nucleotide variant	NM_207352.4(CYP4V2):c.987+1G>A	285440	CYP4V2	Likely pathogenic	GRCh38	1068199
+single nucleotide variant	NM_207352.4(CYP4V2):c.988-1G>A	285440	CYP4V2	Pathogenic	GRCh38	1067395
+single nucleotide variant	NM_207352.4(CYP4V2):c.1168C>T (p.Arg390Cys)	285440	CYP4V2	Pathogenic	GRCh38	1075096
+single nucleotide variant	NM_207352.4(CYP4V2):c.414-1G>A	285440	CYP4V2	Pathogenic/Likely pathogenic	GRCh38	1335569
+single nucleotide variant	NM_207352.4(CYP4V2):c.1318C>T (p.Gln440Ter)	285440	CYP4V2	Pathogenic	GRCh38	1401206
+single nucleotide variant	NM_207352.4(CYP4V2):c.605-2A>G	285440	CYP4V2	Likely pathogenic	GRCh38	1504632
+single nucleotide variant	NM_207352.4(CYP4V2):c.988-1G>C	285440	CYP4V2	Pathogenic	GRCh38	1451669
+single nucleotide variant	NM_207352.4(CYP4V2):c.550G>T (p.Glu184Ter)	285440	CYP4V2	Pathogenic	GRCh38	1456652
+single nucleotide variant	NM_207352.4(CYP4V2):c.801+1G>A	285440	CYP4V2	Pathogenic	GRCh38	1697294
+single nucleotide variant	NM_207352.4(CYP4V2):c.1219G>T (p.Glu407Ter)	285440	CYP4V2	Pathogenic	GRCh38	1698830
+single nucleotide variant	NM_207352.4(CYP4V2):c.1480C>T (p.Gln494Ter)	285440	CYP4V2	Likely pathogenic	GRCh38	1916261
+single nucleotide variant	NM_207352.4(CYP4V2):c.413+1G>C	285440	CYP4V2	Likely pathogenic	GRCh38	2033513
+single nucleotide variant	NM_207352.4(CYP4V2):c.413+1G>A	285440	CYP4V2	Likely pathogenic	GRCh38	2043557
+single nucleotide variant	NM_207352.4(CYP4V2):c.219T>A (p.Phe73Leu)	285440	CYP4V2	Pathogenic	GRCh38	2734687
+single nucleotide variant	NM_207352.4(CYP4V2):c.252C>A (p.Tyr84Ter)	285440	CYP4V2	Likely pathogenic	GRCh38	2920618
+single nucleotide variant	NM_207352.4(CYP4V2):c.217T>C (p.Phe73Leu)	285440	CYP4V2	Likely pathogenic	GRCh38	2976397
+single nucleotide variant	NM_207352.4(CYP4V2):c.1507G>C (p.Gly503Arg)	285440	CYP4V2	Likely pathogenic	GRCh38	3007899
+single nucleotide variant	NM_207352.4(CYP4V2):c.1090G>A (p.Gly364Arg)	285440	CYP4V2	Likely pathogenic	GRCh38	3027689
+single nucleotide variant	NM_207352.4(CYP4V2):c.1297T>C (p.Phe433Leu)	285440	CYP4V2	Likely pathogenic	GRCh38	3027690
+single nucleotide variant	NM_207352.4(CYP4V2):c.47G>A (p.Trp16Ter)	285440	CYP4V2	Likely pathogenic	GRCh38	3075981
+single nucleotide variant	NM_207352.4(CYP4V2):c.283G>C (p.Gly95Arg)	285440	CYP4V2	Likely pathogenic	GRCh38	3239433
+single nucleotide variant	NM_207352.4(CYP4V2):c.414-1G>T	285440	CYP4V2	Pathogenic	GRCh38	3249709
+single nucleotide variant	NM_207352.4(CYP4V2):c.1090+1G>C	285440	CYP4V2	Pathogenic	GRCh38	3250016
+single nucleotide variant	NM_207352.4(CYP4V2):c.1027T>G (p.Tyr343Asp)	285440	CYP4V2	Pathogenic	GRCh38	3720604
+single nucleotide variant	NM_207352.4(CYP4V2):c.732G>A (p.Trp244Ter)	285440	CYP4V2	Likely pathogenic	GRCh38	3767358
+single nucleotide variant	NM_207352.4(CYP4V2):c.2T>A (p.Met1Lys)	285440	CYP4V2	Pathogenic	GRCh38	4733955

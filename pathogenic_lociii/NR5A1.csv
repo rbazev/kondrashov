@@ -1,0 +1,87 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004959.5(NR5A1):c.275G>A (p.Arg92Gln)	2516	NR5A1	Pathogenic	GRCh38	12796
+single nucleotide variant	NM_004959.5(NR5A1):c.48C>A (p.Cys16Ter)	2516	NR5A1	Pathogenic	GRCh38	12798
+single nucleotide variant	NM_004959.5(NR5A1):c.43G>A (p.Val15Met)	2516	NR5A1	Pathogenic	GRCh38	12800
+single nucleotide variant	NM_004959.5(NR5A1):c.234G>A (p.Met78Ile)	2516	NR5A1	Pathogenic	GRCh38	12801
+single nucleotide variant	NM_004959.5(NR5A1):c.271G>A (p.Gly91Ser)	2516	NR5A1	Likely pathogenic	GRCh38	12802
+single nucleotide variant	NM_004959.5(NR5A1):c.1310T>A (p.Leu437Gln)	2516	NR5A1	Pathogenic	GRCh38	12803
+single nucleotide variant	NM_004959.5(NR5A1):c.877G>A (p.Asp293Asn)	2516	NR5A1	Pathogenic	GRCh38	12805
+single nucleotide variant	NM_004959.5(NR5A1):c.3G>A (p.Met1Ile)	2516	NR5A1	Pathogenic	GRCh38	12806
+single nucleotide variant	NM_004959.5(NR5A1):c.392C>T (p.Pro131Leu)	2516	NR5A1	Pathogenic	GRCh38	29894
+single nucleotide variant	NM_004959.5(NR5A1):c.634G>A (p.Gly212Ser)	2516	NR5A1	Pathogenic	GRCh38	29895
+single nucleotide variant	NM_004959.5(NR5A1):c.1210T>G (p.Tyr404Asp)	2516	NR5A1	Pathogenic	GRCh38	216976
+single nucleotide variant	NM_004959.5(NR5A1):c.151G>T (p.Glu51Ter)	2516	NR5A1	Pathogenic	GRCh38	216975
+single nucleotide variant	NM_004959.5(NR5A1):c.274C>T (p.Arg92Trp)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	265792
+single nucleotide variant	NM_004959.5(NR5A1):c.937C>T (p.Arg313Cys)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	372437
+single nucleotide variant	NM_004959.5(NR5A1):c.835T>A (p.Trp279Arg)	2516	NR5A1	Likely pathogenic	GRCh38	420085
+single nucleotide variant	NM_004959.5(NR5A1):c.938G>T (p.Arg313Leu)	2516	NR5A1	Likely pathogenic	GRCh38	436030
+single nucleotide variant	NM_004959.5(NR5A1):c.938G>A (p.Arg313His)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	449434
+single nucleotide variant	NM_004959.5(NR5A1):c.1227C>G (p.Tyr409Ter)	2516	NR5A1	Likely pathogenic	GRCh38	583141
+single nucleotide variant	NM_004959.5(NR5A1):c.251G>A (p.Arg84His)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	641278
+single nucleotide variant	NM_004959.5(NR5A1):c.990G>A (p.Glu330=)	2516	NR5A1	Likely pathogenic	GRCh38	666298
+single nucleotide variant	NM_004959.5(NR5A1):c.219C>G (p.Cys73Trp)	2516	NR5A1	Pathogenic	GRCh38	935575
+single nucleotide variant	NM_004959.5(NR5A1):c.334C>T (p.Gln112Ter)	2516	NR5A1	Pathogenic	GRCh38	958902
+single nucleotide variant	NM_004959.5(NR5A1):c.1052C>T (p.Ala351Val)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	981142
+single nucleotide variant	NM_004959.5(NR5A1):c.100A>T (p.Lys34Ter)	2516	NR5A1	Likely pathogenic	GRCh38	988508
+single nucleotide variant	NM_004959.5(NR5A1):c.97T>A (p.Cys33Ser)	2516	NR5A1	Pathogenic	GRCh38	988279
+single nucleotide variant	NM_004959.5(NR5A1):c.75C>G (p.Tyr25Ter)	2516	NR5A1	Pathogenic	GRCh38	1075535
+single nucleotide variant	NM_004959.5(NR5A1):c.244+1G>T	2516	NR5A1	Pathogenic	GRCh38	1202586
+single nucleotide variant	NM_004959.5(NR5A1):c.218G>A (p.Cys73Tyr)	2516	NR5A1	Pathogenic	GRCh38	1202587
+single nucleotide variant	NM_004959.5(NR5A1):c.104G>A (p.Gly35Asp)	2516	NR5A1	Pathogenic	GRCh38	1202588
+single nucleotide variant	NM_004959.5(NR5A1):c.1223A>C (p.His408Pro)	2516	NR5A1	Pathogenic	GRCh38	1202604
+single nucleotide variant	NM_004959.5(NR5A1):c.250C>T (p.Arg84Cys)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	1256011
+single nucleotide variant	NM_004959.5(NR5A1):c.565C>A (p.Pro189Thr)	2516	NR5A1	Likely pathogenic	GRCh38	1256015
+single nucleotide variant	NM_004959.5(NR5A1):c.909C>A (p.Ser303Arg)	2516	NR5A1	Likely pathogenic	GRCh38	1256024
+single nucleotide variant	NM_004959.5(NR5A1):c.578T>A (p.Ile193Asn)	2516	NR5A1	Likely pathogenic	GRCh38	1299627
+single nucleotide variant	NM_004959.5(NR5A1):c.958G>T (p.Glu320Ter)	2516	NR5A1	Pathogenic	GRCh38	1338234
+single nucleotide variant	NM_004959.5(NR5A1):c.102+1G>C	2516	NR5A1	Likely pathogenic	GRCh38	1338669
+single nucleotide variant	NM_004959.5(NR5A1):c.140A>G (p.Tyr47Cys)	2516	NR5A1	Likely pathogenic	GRCh38	1338783
+single nucleotide variant	NM_004959.5(NR5A1):c.19G>T (p.Glu7Ter)	2516	NR5A1	Pathogenic	GRCh38	1341694
+single nucleotide variant	NM_004959.5(NR5A1):c.97T>C (p.Cys33Arg)	2516	NR5A1	Likely pathogenic	GRCh38	1341695
+single nucleotide variant	NM_004959.5(NR5A1):c.1048C>T (p.Arg350Trp)	2516	NR5A1	Pathogenic	GRCh38	1342834
+single nucleotide variant	NM_004959.5(NR5A1):c.895C>T (p.Gln299Ter)	2516	NR5A1	Pathogenic	GRCh38	1412226
+single nucleotide variant	NM_004959.5(NR5A1):c.86C>T (p.Thr29Met)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	1442980
+single nucleotide variant	NM_004959.5(NR5A1):c.11C>A (p.Ser4Ter)	2516	NR5A1	Pathogenic	GRCh38	1687524
+single nucleotide variant	NM_004959.5(NR5A1):c.259C>T (p.Arg87Cys)	2516	NR5A1	Pathogenic	GRCh38	1687572
+single nucleotide variant	NM_004959.5(NR5A1):c.44T>C (p.Val15Ala)	2516	NR5A1	Likely pathogenic	GRCh38	1691292
+single nucleotide variant	NM_004959.5(NR5A1):c.991-1G>C	2516	NR5A1	Pathogenic	GRCh38	1691445
+single nucleotide variant	NM_004959.5(NR5A1):c.1090G>T (p.Asp364Tyr)	2516	NR5A1	Likely pathogenic	GRCh38	1698917
+single nucleotide variant	NM_004959.5(NR5A1):c.1073T>C (p.Leu358Pro)	2516	NR5A1	Likely pathogenic	GRCh38	1699162
+single nucleotide variant	NM_004959.5(NR5A1):c.983G>T (p.Gly328Val)	2516	NR5A1	Pathogenic	GRCh38	1699288
+single nucleotide variant	NM_004959.5(NR5A1):c.205C>G (p.Arg69Gly)	2516	NR5A1	Pathogenic	GRCh38	2136807
+single nucleotide variant	NM_004959.5(NR5A1):c.1221C>A (p.Cys407Ter)	2516	NR5A1	Pathogenic	GRCh38	2000749
+single nucleotide variant	NM_004959.5(NR5A1):c.591C>G (p.Tyr197Ter)	2516	NR5A1	Pathogenic	GRCh38	2019693
+single nucleotide variant	NM_004959.5(NR5A1):c.848G>A (p.Cys283Tyr)	2516	NR5A1	Likely pathogenic	GRCh38	2501554
+single nucleotide variant	NM_004959.5(NR5A1):c.61T>G (p.Ser21Ala)	2516	NR5A1	Likely pathogenic	GRCh38	2507402
+single nucleotide variant	NM_004959.5(NR5A1):c.15C>A (p.Tyr5Ter)	2516	NR5A1	Pathogenic	GRCh38	2572556
+single nucleotide variant	NM_004959.5(NR5A1):c.86C>G (p.Thr29Arg)	2516	NR5A1	Pathogenic	GRCh38	2636138
+single nucleotide variant	NM_004959.5(NR5A1):c.940C>T (p.Gln314Ter)	2516	NR5A1	Likely pathogenic	GRCh38	2633654
+single nucleotide variant	NM_004959.5(NR5A1):c.871-1G>C	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	2629953
+single nucleotide variant	NM_004959.5(NR5A1):c.1140T>C (p.Asp380=)	2516	NR5A1	Likely pathogenic	GRCh38	2690957
+single nucleotide variant	NM_004959.5(NR5A1):c.22G>C (p.Asp8His)	2516	NR5A1	Likely pathogenic	GRCh38	2690961
+single nucleotide variant	NM_004959.5(NR5A1):c.31G>A (p.Glu11Lys)	2516	NR5A1	Likely pathogenic	GRCh38	2690962
+single nucleotide variant	NM_004959.5(NR5A1):c.244G>T (p.Ala82Ser)	2516	NR5A1	Likely pathogenic	GRCh38	2933342
+single nucleotide variant	NM_004959.5(NR5A1):c.236G>C (p.Arg79Pro)	2516	NR5A1	Pathogenic	GRCh38	2941241
+single nucleotide variant	NM_004959.5(NR5A1):c.245-2A>G	2516	NR5A1	Pathogenic	GRCh38	2944523
+single nucleotide variant	NM_004959.5(NR5A1):c.991-18C>A	2516	NR5A1	Pathogenic	GRCh38	2947882
+single nucleotide variant	NM_004959.5(NR5A1):c.64G>A (p.Gly22Ser)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	2938097
+single nucleotide variant	NM_004959.5(NR5A1):c.870+1G>A	2516	NR5A1	Likely pathogenic	GRCh38	2949072
+single nucleotide variant	NM_004959.5(NR5A1):c.808G>A (p.Asp270Asn)	2516	NR5A1	Likely pathogenic	GRCh38	3061776
+single nucleotide variant	NM_004959.5(NR5A1):c.908G>A (p.Ser303Asn)	2516	NR5A1	Likely pathogenic	GRCh38	3061777
+single nucleotide variant	NM_004959.5(NR5A1):c.841C>T (p.Arg281Cys)	2516	NR5A1	Pathogenic	GRCh38	3235911
+single nucleotide variant	NM_004959.5(NR5A1):c.974T>C (p.Leu325Pro)	2516	NR5A1	Likely pathogenic	GRCh38	3343862
+single nucleotide variant	NM_004959.5(NR5A1):c.247G>A (p.Val83Met)	2516	NR5A1	Pathogenic/Likely pathogenic	GRCh38	3596432
+single nucleotide variant	NM_004959.5(NR5A1):c.103-3C>A	2516	NR5A1	Likely pathogenic	GRCh38	3759142
+single nucleotide variant	NM_004959.5(NR5A1):c.1252C>T (p.Gln418Ter)	2516	NR5A1	Likely pathogenic	GRCh38	3891321
+single nucleotide variant	NM_004959.5(NR5A1):c.88T>A (p.Cys30Ser)	2516	NR5A1	Pathogenic	GRCh38	4082474
+single nucleotide variant	NM_004959.5(NR5A1):c.340C>T (p.Arg114Trp)	2516	NR5A1	Likely pathogenic	GRCh38	4278137
+single nucleotide variant	NM_004959.5(NR5A1):c.52G>C (p.Asp18His)	2516	NR5A1	Likely pathogenic	GRCh38	4538412
+single nucleotide variant	NM_004959.5(NR5A1):c.692T>C (p.Leu231Pro)	2516	NR5A1	Likely pathogenic	GRCh38	4538416
+single nucleotide variant	NM_004959.5(NR5A1):c.1211A>G (p.Tyr404Cys)	2516	NR5A1	Likely pathogenic	GRCh38	4538430
+single nucleotide variant	NM_004959.5(NR5A1):c.76G>T (p.Gly26Ter)	2516	NR5A1	Pathogenic	GRCh38	4538443
+single nucleotide variant	NM_004959.5(NR5A1):c.104G>C (p.Gly35Ala)	2516	NR5A1	Likely pathogenic	GRCh38	4783650
+single nucleotide variant	NM_004959.5(NR5A1):c.319C>T (p.Gln107Ter)	2516	NR5A1	Pathogenic	GRCh38	4783699
+single nucleotide variant	NM_004959.5(NR5A1):c.103-2A>G	2516	NR5A1	Likely pathogenic	GRCh38	4783700
+single nucleotide variant	NM_004959.5(NR5A1):c.779C>T (p.Ala260Val)	2516	NR5A1	Likely pathogenic	GRCh38	4820221
+single nucleotide variant	NM_004959.5(NR5A1):c.72C>G (p.His24Gln)	2516	NR5A1	Likely pathogenic	GRCh38	4856080
+single nucleotide variant	NM_004959.5(NR5A1):c.-16+1G>A	2516	NR5A1	Likely pathogenic	GRCh38	4887959

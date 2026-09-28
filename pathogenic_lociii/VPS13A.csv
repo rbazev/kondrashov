@@ -45,7 +45,7 @@ single nucleotide variant	NM_033305.3(VPS13A):c.8105+1G>A	23230	VPS13A	Likely pa
 single nucleotide variant	NM_033305.3(VPS13A):c.8668-1G>A	23230	VPS13A	Likely pathogenic	GRCh38	1066476
 single nucleotide variant	NM_033305.3(VPS13A):c.9078-1G>C	23230	VPS13A	Likely pathogenic	GRCh38	1066238
 single nucleotide variant	NM_033305.3(VPS13A):c.9275+1G>A	23230	VPS13A	Likely pathogenic	GRCh38	1066506
-single nucleotide variant	NM_033305.3(VPS13A):c.1313C>G (p.Ser438Ter)	23230	VPS13A	Pathogenic	GRCh38	1074876
+single nucleotide variant	NM_033305.3(VPS13A):c.1313C>G (p.Ser438Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	1074876
 single nucleotide variant	NM_033305.3(VPS13A):c.3232G>T (p.Glu1078Ter)	23230	VPS13A	Pathogenic	GRCh38	1070929
 single nucleotide variant	NM_033305.3(VPS13A):c.6392C>A (p.Ser2131Ter)	23230	VPS13A	Pathogenic	GRCh38	1073143
 single nucleotide variant	NM_033305.3(VPS13A):c.6841G>T (p.Gly2281Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	1071099
@@ -59,7 +59,7 @@ single nucleotide variant	NM_033305.3(VPS13A):c.6877C>T (p.Gln2293Ter)	23230	VPS
 single nucleotide variant	NM_033305.3(VPS13A):c.6774+2T>C	23230	VPS13A	Likely pathogenic	GRCh38	1494772
 single nucleotide variant	NM_033305.3(VPS13A):c.2512+2T>C	23230	VPS13A	Likely pathogenic	GRCh38	1523268
 single nucleotide variant	NM_033305.3(VPS13A):c.9094G>T (p.Glu3032Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	1355990
-single nucleotide variant	NM_033305.3(VPS13A):c.8907+2T>A	23230	VPS13A	Likely pathogenic	GRCh38	1495882
+single nucleotide variant	NM_033305.3(VPS13A):c.8907+2T>A	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	1495882
 single nucleotide variant	NM_033305.3(VPS13A):c.1099G>T (p.Glu367Ter)	23230	VPS13A	Pathogenic	GRCh38	1454374
 single nucleotide variant	NM_033305.3(VPS13A):c.5830+1G>A	23230	VPS13A	Likely pathogenic	GRCh38	1470181
 single nucleotide variant	NM_033305.3(VPS13A):c.1095T>G (p.Tyr365Ter)	23230	VPS13A	Pathogenic	GRCh38	1401475
@@ -115,7 +115,7 @@ single nucleotide variant	NM_033305.3(VPS13A):c.1052C>A (p.Ser351Ter)	23230	VPS1
 single nucleotide variant	NM_033305.3(VPS13A):c.6774+1G>A	23230	VPS13A	Likely pathogenic	GRCh38	2029495
 single nucleotide variant	NM_033305.3(VPS13A):c.882+1G>A	23230	VPS13A	Likely pathogenic	GRCh38	2029033
 single nucleotide variant	NM_033305.3(VPS13A):c.883-1G>C	23230	VPS13A	Likely pathogenic	GRCh38	2034608
-single nucleotide variant	NM_033305.3(VPS13A):c.2824+1G>A	23230	VPS13A	Pathogenic	GRCh38	2046164
+single nucleotide variant	NM_033305.3(VPS13A):c.2824+1G>A	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	2046164
 single nucleotide variant	NM_033305.3(VPS13A):c.3562C>T (p.Gln1188Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	2058985
 single nucleotide variant	NM_033305.3(VPS13A):c.7806G>A (p.Pro2602=)	23230	VPS13A	Pathogenic	GRCh38	2054570
 single nucleotide variant	NM_033305.3(VPS13A):c.3909G>A (p.Trp1303Ter)	23230	VPS13A	Pathogenic	GRCh38	2064491
@@ -144,12 +144,12 @@ single nucleotide variant	NM_033305.3(VPS13A):c.2964+2T>C	23230	VPS13A	Likely pa
 single nucleotide variant	NM_033305.3(VPS13A):c.5992-2A>T	23230	VPS13A	Likely pathogenic	GRCh38	2714109
 single nucleotide variant	NM_033305.3(VPS13A):c.7078G>T (p.Glu2360Ter)	23230	VPS13A	Pathogenic	GRCh38	2716370
 single nucleotide variant	NM_033305.3(VPS13A):c.3664C>T (p.Gln1222Ter)	23230	VPS13A	Pathogenic	GRCh38	2718356
-single nucleotide variant	NM_033305.3(VPS13A):c.9219C>G (p.Tyr3073Ter)	23230	VPS13A	Pathogenic	GRCh38	2735283
+single nucleotide variant	NM_033305.3(VPS13A):c.9219C>G (p.Tyr3073Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	2735283
 single nucleotide variant	NM_033305.3(VPS13A):c.3340-2A>C	23230	VPS13A	Likely pathogenic	GRCh38	2749248
 single nucleotide variant	NM_033305.3(VPS13A):c.2516C>A (p.Ser839Ter)	23230	VPS13A	Pathogenic	GRCh38	2754572
 single nucleotide variant	NM_033305.3(VPS13A):c.7156-1G>C	23230	VPS13A	Likely pathogenic	GRCh38	2756363
 single nucleotide variant	NM_033305.3(VPS13A):c.8954-2A>G	23230	VPS13A	Likely pathogenic	GRCh38	2768380
-single nucleotide variant	NM_033305.3(VPS13A):c.3943C>T (p.Gln1315Ter)	23230	VPS13A	Pathogenic	GRCh38	2786610
+single nucleotide variant	NM_033305.3(VPS13A):c.3943C>T (p.Gln1315Ter)	23230	VPS13A	Pathogenic/Likely pathogenic	GRCh38	2786610
 single nucleotide variant	NM_033305.3(VPS13A):c.3235+1G>T	23230	VPS13A	Likely pathogenic	GRCh38	2791716
 single nucleotide variant	NM_033305.3(VPS13A):c.4115-2A>C	23230	VPS13A	Likely pathogenic	GRCh38	2796302
 single nucleotide variant	NM_033305.3(VPS13A):c.8325+1G>T	23230	VPS13A	Likely pathogenic	GRCh38	2814138
@@ -241,3 +241,21 @@ single nucleotide variant	NM_033305.3(VPS13A):c.6296G>A (p.Trp2099Ter)	23230	VPS
 single nucleotide variant	NM_033305.3(VPS13A):c.6385G>T (p.Glu2129Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4816412
 single nucleotide variant	NM_033305.3(VPS13A):c.9190-1G>C	23230	VPS13A	Likely pathogenic	GRCh38	4849303
 single nucleotide variant	NM_033305.3(VPS13A):c.6093C>A (p.Tyr2031Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4849480
+single nucleotide variant	NM_033305.3(VPS13A):c.148C>T (p.Gln50Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889848
+single nucleotide variant	NM_033305.3(VPS13A):c.302T>A (p.Leu101Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889849
+single nucleotide variant	NM_033305.3(VPS13A):c.661C>T (p.Gln221Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889850
+single nucleotide variant	NM_033305.3(VPS13A):c.2898T>G (p.Tyr966Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889852
+single nucleotide variant	NM_033305.3(VPS13A):c.3268G>T (p.Glu1090Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889853
+single nucleotide variant	NM_033305.3(VPS13A):c.5464G>T (p.Glu1822Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889854
+single nucleotide variant	NM_033305.3(VPS13A):c.6132T>A (p.Tyr2044Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889855
+single nucleotide variant	NM_033305.3(VPS13A):c.6324G>A (p.Trp2108Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889856
+single nucleotide variant	NM_033305.3(VPS13A):c.6495G>A (p.Trp2165Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889857
+single nucleotide variant	NM_033305.3(VPS13A):c.7021G>T (p.Glu2341Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889858
+single nucleotide variant	NM_033305.3(VPS13A):c.7387A>T (p.Arg2463Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889859
+single nucleotide variant	NM_033305.3(VPS13A):c.7463T>G (p.Leu2488Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889860
+single nucleotide variant	NM_033305.3(VPS13A):c.8719A>T (p.Lys2907Ter)	23230	VPS13A	Likely pathogenic	GRCh38	4889861
+single nucleotide variant	NM_033305.3(VPS13A):c.1225-1G>C	23230	VPS13A	Likely pathogenic	GRCh38	4889972
+single nucleotide variant	NM_033305.3(VPS13A):c.4115-2A>G	23230	VPS13A	Likely pathogenic	GRCh38	4889973
+single nucleotide variant	NM_033305.3(VPS13A):c.1785+1G>C	23230	VPS13A	Likely pathogenic	GRCh38	4890074
+single nucleotide variant	NM_033305.3(VPS13A):c.3339+1G>T	23230	VPS13A	Likely pathogenic	GRCh38	4890075
+single nucleotide variant	NM_033305.3(VPS13A):c.8553+2T>A	23230	VPS13A	Likely pathogenic	GRCh38	4890076

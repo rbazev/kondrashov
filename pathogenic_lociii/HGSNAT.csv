@@ -88,7 +88,7 @@ single nucleotide variant	NM_152419.3(HGSNAT):c.818A>T (p.Asn273Ile)	138050	HGSN
 single nucleotide variant	NM_152419.3(HGSNAT):c.1726+1G>A	138050	HGSNAT	Pathogenic/Likely pathogenic	GRCh38	2925436
 single nucleotide variant	NM_152419.3(HGSNAT):c.852G>A (p.Trp284Ter)	138050	HGSNAT	Pathogenic/Likely pathogenic	GRCh38	2930442
 single nucleotide variant	NM_152419.3(HGSNAT):c.86C>A (p.Ser29Ter)	138050	HGSNAT	Pathogenic	GRCh38	2942731
-single nucleotide variant	NM_152419.3(HGSNAT):c.610G>T (p.Glu204Ter)	138050	HGSNAT	Pathogenic	GRCh38	2938905
+single nucleotide variant	NM_152419.3(HGSNAT):c.610G>T (p.Glu204Ter)	138050	HGSNAT	Pathogenic/Likely pathogenic	GRCh38	2938905
 single nucleotide variant	NM_152419.3(HGSNAT):c.493+1G>C	138050	HGSNAT	Pathogenic	GRCh38	2949524
 single nucleotide variant	NM_152419.3(HGSNAT):c.127A>T (p.Lys43Ter)	138050	HGSNAT	Pathogenic	GRCh38	2948880
 single nucleotide variant	NM_152419.3(HGSNAT):c.820+1G>A	138050	HGSNAT	Likely pathogenic	GRCh38	2952377
@@ -112,3 +112,5 @@ single nucleotide variant	NM_152419.3(HGSNAT):c.227G>T (p.Cys76Phe)	138050	HGSNA
 single nucleotide variant	NM_152419.3(HGSNAT):c.334C>T (p.Gln112Ter)	138050	HGSNAT	Likely pathogenic	GRCh38	4816871
 single nucleotide variant	NM_152419.3(HGSNAT):c.381C>G (p.Tyr127Ter)	138050	HGSNAT	Likely pathogenic	GRCh38	4816873
 single nucleotide variant	NM_152419.3(HGSNAT):c.973G>T (p.Gly325Ter)	138050	HGSNAT	Likely pathogenic	GRCh38	4816876
+single nucleotide variant	NM_152419.3(HGSNAT):c.119-2A>G	138050	HGSNAT	Likely pathogenic	GRCh38	4856909
+single nucleotide variant	NM_152419.3(HGSNAT):c.1127C>A (p.Ser376Ter)	138050	HGSNAT	Likely pathogenic	GRCh38	4881394

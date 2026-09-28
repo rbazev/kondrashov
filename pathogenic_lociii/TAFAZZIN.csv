@@ -1,0 +1,66 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.239-1G>A	6901	TAFAZZIN	Pathogenic	GRCh38	11100
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.153C>G (p.Tyr51Ter)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	11101
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.239-1G>C	6901	TAFAZZIN	Pathogenic	GRCh38	11102
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.589G>A (p.Gly197Arg)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	11105
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.109+5G>C	6901	TAFAZZIN	Likely pathogenic	GRCh38	11106
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.284+110G>A	6901	TAFAZZIN	Pathogenic	GRCh38	11107
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.110-2A>G	6901	TAFAZZIN	Pathogenic	GRCh38	11109
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.280C>A (p.Arg94Ser)	6901	TAFAZZIN	Pathogenic	GRCh38	11110
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.647-1G>C	6901	TAFAZZIN	Pathogenic	GRCh38	11112
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.718G>A (p.Gly240Arg)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	35505
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.208C>T (p.Gln70Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	42254
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.307T>C (p.Cys103Arg)	6901	TAFAZZIN	Likely pathogenic	GRCh38	42256
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.700-1G>A	6901	TAFAZZIN	Pathogenic	GRCh38	42265
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.718G>C (p.Gly240Arg)	6901	TAFAZZIN	Pathogenic	GRCh38	42266
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.647G>T (p.Gly216Val)	6901	TAFAZZIN	Likely pathogenic	GRCh38	177990
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.154G>T (p.Glu52Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	202091
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.280C>T (p.Arg94Cys)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	202092
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.526C>T (p.His176Tyr)	6901	TAFAZZIN	Pathogenic	GRCh38	202100
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.582G>A (p.Trp194Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	202093
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.461-2A>G	6901	TAFAZZIN	Pathogenic	GRCh38	234475
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.227C>G (p.Pro76Arg)	6901	TAFAZZIN	Likely pathogenic	GRCh38	237009
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.699+1G>A	6901	TAFAZZIN	Pathogenic	GRCh38	373434
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.281G>T (p.Arg94Leu)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	403954
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.646G>A (p.Gly216Arg)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	426783
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.542-3C>G	6901	TAFAZZIN	Likely pathogenic	GRCh38	488616
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.639G>A (p.Trp213Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	504385
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.238G>A (p.Gly80Arg)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	531184
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.207C>G (p.His69Gln)	6901	TAFAZZIN	Pathogenic	GRCh38	559335
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.583G>T (p.Gly195Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	559336
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.367C>T (p.Arg123Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	560626
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.281G>A (p.Arg94His)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	653322
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.370G>T (p.Gly124Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	638931
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.697C>T (p.Gln233Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	662186
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.355G>A (p.Val119Met)	6901	TAFAZZIN	Likely pathogenic	GRCh38	691833
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.238G>C (p.Gly80Arg)	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	807698
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.542-2A>G	6901	TAFAZZIN	Likely pathogenic	GRCh38	855841
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.777+1G>A	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	928890
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.773C>A (p.Ser258Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	992964
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.109+5G>A	6901	TAFAZZIN	Pathogenic/Likely pathogenic	GRCh38	1073013
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.281G>C (p.Arg94Pro)	6901	TAFAZZIN	Likely pathogenic	GRCh38	1202910
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.542-2A>T	6901	TAFAZZIN	Likely pathogenic	GRCh38	1879779
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.584-1G>A	6901	TAFAZZIN	Likely pathogenic	GRCh38	1953409
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.153C>A (p.Tyr51Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	2112174
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.532T>A (p.Phe178Ile)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2500766
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.541+1G>T	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506882
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.370G>C (p.Gly124Arg)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506886
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.497T>A (p.Leu166Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	2506891
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.285G>A (p.Trp95Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506898
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.748G>T (p.Glu250Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506900
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.51G>A (p.Trp17Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506901
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.163G>T (p.Glu55Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506903
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.609T>A (p.Cys203Ter)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506904
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.222C>A (p.Asp74Glu)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506908
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.280C>G (p.Arg94Gly)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506909
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.699+1G>T	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506920
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.236G>A (p.Trp79Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	2506921
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.238+2T>G	6901	TAFAZZIN	Likely pathogenic	GRCh38	2506922
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.215G>T (p.Cys72Phe)	6901	TAFAZZIN	Likely pathogenic	GRCh38	2580153
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.284+28G>A	6901	TAFAZZIN	Pathogenic	GRCh38	2661806
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.562G>T (p.Glu188Ter)	6901	TAFAZZIN	Pathogenic	GRCh38	2737444
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.797T>C (p.Leu266Pro)	6901	TAFAZZIN	Likely pathogenic	GRCh38	3338754
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.583+3A>G	6901	TAFAZZIN	Likely pathogenic	GRCh38	3776792
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.109+1G>A	6901	TAFAZZIN	Pathogenic	GRCh38	4527096
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.238+1G>A	6901	TAFAZZIN	Likely pathogenic	GRCh38	4713939
+single nucleotide variant	NM_000116.5(TAFAZZIN):c.284+1G>A	6901	TAFAZZIN	Likely pathogenic	GRCh38	4777750

@@ -50,7 +50,7 @@ single nucleotide variant	NM_001365088.1(SLC12A6):c.3228-1G>A	9990	SLC12A6	Likel
 single nucleotide variant	NM_001365088.1(SLC12A6):c.550C>T (p.Gln184Ter)	9990	SLC12A6	Pathogenic	GRCh38	1455015
 single nucleotide variant	NM_001365088.1(SLC12A6):c.2015G>A (p.Trp672Ter)	9990	SLC12A6	Pathogenic	GRCh38	1458003
 single nucleotide variant	NM_001365088.1(SLC12A6):c.691-2A>T	9990	SLC12A6	Likely pathogenic	GRCh38	1465314
-single nucleotide variant	NM_001365088.1(SLC12A6):c.3076C>T (p.Arg1026Ter)	9990	SLC12A6	Likely pathogenic	GRCh38	1693281
+single nucleotide variant	NM_001365088.1(SLC12A6):c.3076C>T (p.Arg1026Ter)	9990	SLC12A6	Pathogenic/Likely pathogenic	GRCh38	1693281
 single nucleotide variant	NM_001365088.1(SLC12A6):c.2971A>G (p.Thr991Ala)	9990	SLC12A6	Likely pathogenic	GRCh38	1708535
 single nucleotide variant	NM_001365088.1(SLC12A6):c.865G>A (p.Glu289Lys)	9990	SLC12A6	Pathogenic	GRCh38	1708538
 single nucleotide variant	NM_001365088.1(SLC12A6):c.2036A>C (p.Tyr679Ser)	9990	SLC12A6	Pathogenic	GRCh38	1708540
@@ -115,3 +115,4 @@ single nucleotide variant	NM_001365088.1(SLC12A6):c.1825-2A>C	9990	SLC12A6	Likel
 single nucleotide variant	NM_001365088.1(SLC12A6):c.1825-2A>G	9990	SLC12A6	Likely pathogenic	GRCh38	4816516
 single nucleotide variant	NM_001365088.1(SLC12A6):c.1990C>T (p.Gln664Ter)	9990	SLC12A6	Likely pathogenic	GRCh38	4816518
 single nucleotide variant	NM_001365088.1(SLC12A6):c.1334-1G>A	9990	SLC12A6	Pathogenic	GRCh38	4855034
+single nucleotide variant	NM_001365088.1(SLC12A6):c.3382C>T (p.Leu1128Phe)	9990	SLC12A6	Likely pathogenic	GRCh38	4890133

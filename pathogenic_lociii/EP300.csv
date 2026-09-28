@@ -1,0 +1,133 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001429.4(EP300):c.1738C>T (p.Arg580Ter)	2033	EP300	Pathogenic	GRCh38	6880
+single nucleotide variant	NM_001429.4(EP300):c.6662C>A (p.Pro2221Gln)	2033	EP300	Pathogenic	GRCh38	6881
+single nucleotide variant	NM_001429.4(EP300):c.1942C>T (p.Arg648Ter)	2033	EP300	Pathogenic	GRCh38	6882
+single nucleotide variant	NM_001429.4(EP300):c.4933C>T (p.Arg1645Ter)	2033	EP300	Pathogenic	GRCh38	183678
+single nucleotide variant	NM_001429.4(EP300):c.1092C>A (p.Cys364Ter)	2033	EP300	Likely pathogenic	GRCh38	191170
+single nucleotide variant	NM_001429.4(EP300):c.3573T>A (p.Tyr1191Ter)	2033	EP300	Likely pathogenic	GRCh38	208498
+single nucleotide variant	NM_001429.4(EP300):c.3163C>T (p.Arg1055Ter)	2033	EP300	Pathogenic	GRCh38	253312
+single nucleotide variant	NM_001429.4(EP300):c.3728+5G>C	2033	EP300	Pathogenic	GRCh38	253311
+single nucleotide variant	NM_001429.4(EP300):c.4511T>G (p.Phe1504Cys)	2033	EP300	Pathogenic	GRCh38	253314
+single nucleotide variant	NM_001429.4(EP300):c.3472C>T (p.Gln1158Ter)	2033	EP300	Pathogenic	GRCh38	280554
+single nucleotide variant	NM_001429.4(EP300):c.3502-1G>T	2033	EP300	Pathogenic	GRCh38	280286
+single nucleotide variant	NM_001429.4(EP300):c.4065C>A (p.Tyr1355Ter)	2033	EP300	Pathogenic	GRCh38	287229
+single nucleotide variant	NM_001429.4(EP300):c.4783T>G (p.Phe1595Val)	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	372363
+single nucleotide variant	NM_001429.4(EP300):c.5483T>C (p.Leu1828Pro)	2033	EP300	Likely pathogenic	GRCh38	372823
+single nucleotide variant	NM_001429.4(EP300):c.4763T>C (p.Met1588Thr)	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	383803
+single nucleotide variant	NM_001429.3(EP300):c.3857A>G	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	378053
+single nucleotide variant	NM_001429.4(EP300):c.319C>T (p.Gln107Ter)	2033	EP300	Pathogenic	GRCh38	424555
+single nucleotide variant	NM_001429.4(EP300):c.4016T>C (p.Met1339Thr)	2033	EP300	Likely pathogenic	GRCh38	422178
+single nucleotide variant	NM_001429.4(EP300):c.3649G>A (p.Asp1217Asn)	2033	EP300	Likely pathogenic	GRCh38	427031
+single nucleotide variant	NM_001429.4(EP300):c.4363C>T (p.Gln1455Ter)	2033	EP300	Pathogenic	GRCh38	440864
+single nucleotide variant	NM_001429.4(EP300):c.5074T>C (p.Cys1692Arg)	2033	EP300	Likely pathogenic	GRCh38	450583
+single nucleotide variant	NM_001429.4(EP300):c.5074T>G (p.Cys1692Gly)	2033	EP300	Likely pathogenic	GRCh38	451791
+single nucleotide variant	NM_001429.4(EP300):c.6868C>T (p.Gln2290Ter)	2033	EP300	Likely pathogenic	GRCh38	451064
+single nucleotide variant	NM_001429.4(EP300):c.3262-2A>G	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	488375
+single nucleotide variant	NM_001429.4(EP300):c.1164C>A (p.Cys388Ter)	2033	EP300	Likely pathogenic	GRCh38	493346
+single nucleotide variant	NM_001429.4(EP300):c.1066C>T (p.Gln356Ter)	2033	EP300	Pathogenic	GRCh38	520726
+single nucleotide variant	NM_001429.4(EP300):c.4026-2A>G	2033	EP300	Pathogenic	GRCh38	521140
+single nucleotide variant	NM_001429.4(EP300):c.3841C>T (p.Arg1281Ter)	2033	EP300	Pathogenic	GRCh38	523774
+single nucleotide variant	NM_001429.4(EP300):c.2983G>T (p.Glu995Ter)	2033	EP300	Pathogenic	GRCh38	538873
+single nucleotide variant	NM_001429.4(EP300):c.3934C>T (p.Arg1312Ter)	2033	EP300	Pathogenic	GRCh38	545969
+single nucleotide variant	NM_001429.4(EP300):c.6196C>T (p.Gln2066Ter)	2033	EP300	Likely pathogenic	GRCh38	559658
+single nucleotide variant	NM_001429.4(EP300):c.4452+5G>T	2033	EP300	Likely pathogenic	GRCh38	559899
+single nucleotide variant	NM_001429.4(EP300):c.4585C>T (p.Arg1529Ter)	2033	EP300	Pathogenic	GRCh38	574856
+single nucleotide variant	NM_001429.4(EP300):c.5471A>C (p.Gln1824Pro)	2033	EP300	Likely pathogenic	GRCh38	619095
+single nucleotide variant	NM_001429.4(EP300):c.3166C>T (p.Gln1056Ter)	2033	EP300	Pathogenic	GRCh38	666310
+single nucleotide variant	NM_001429.4(EP300):c.4232C>T (p.Thr1411Ile)	2033	EP300	Likely pathogenic	GRCh38	666594
+single nucleotide variant	NM_001429.4(EP300):c.5492G>C (p.Arg1831Thr)	2033	EP300	Likely pathogenic	GRCh38	689757
+single nucleotide variant	NM_001429.4(EP300):c.3749G>A (p.Cys1250Tyr)	2033	EP300	Likely pathogenic	GRCh38	803701
+single nucleotide variant	NM_001429.4(EP300):c.256C>T (p.Arg86Ter)	2033	EP300	Pathogenic	GRCh38	817520
+single nucleotide variant	NM_001429.4(EP300):c.1957C>T (p.Gln653Ter)	2033	EP300	Pathogenic	GRCh38	827622
+single nucleotide variant	NM_001429.4(EP300):c.4173G>C (p.Arg1391Ser)	2033	EP300	Likely pathogenic	GRCh38	827626
+single nucleotide variant	NM_001429.4(EP300):c.4390C>T (p.Gln1464Ter)	2033	EP300	Pathogenic	GRCh38	827627
+single nucleotide variant	NM_001429.4(EP300):c.7244A>G (p.Ter2415Trp)	2033	EP300	Pathogenic	GRCh38	827631
+single nucleotide variant	NM_001429.4(EP300):c.584C>A (p.Ser195Ter)	2033	EP300	Pathogenic	GRCh38	861851
+single nucleotide variant	NM_001429.4(EP300):c.4066C>T (p.Arg1356Ter)	2033	EP300	Pathogenic	GRCh38	842871
+single nucleotide variant	NM_001429.4(EP300):c.1878+1G>A	2033	EP300	Likely pathogenic	GRCh38	950890
+single nucleotide variant	NM_001429.4(EP300):c.4026-9A>G	2033	EP300	Pathogenic	GRCh38	955890
+single nucleotide variant	NM_001429.4(EP300):c.7111T>A (p.Ser2371Thr)	2033	EP300	Likely pathogenic	GRCh38	973766
+single nucleotide variant	NM_001429.4(EP300):c.4337A>G (p.Tyr1446Cys)	2033	EP300	Likely pathogenic	GRCh38	978404
+single nucleotide variant	NM_001429.4(EP300):c.4484T>A (p.Leu1495Ter)	2033	EP300	Pathogenic	GRCh38	981330
+single nucleotide variant	NM_001429.4(EP300):c.2855C>G (p.Ser952Ter)	2033	EP300	Pathogenic	GRCh38	985281
+single nucleotide variant	NM_001429.4(EP300):c.3502-2A>G	2033	EP300	Likely pathogenic	GRCh38	985799
+single nucleotide variant	NM_001429.4(EP300):c.2660C>T (p.Thr887Ile)	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	987884
+single nucleotide variant	NM_001429.4(EP300):c.3685G>T (p.Glu1229Ter)	2033	EP300	Pathogenic	GRCh38	996790
+single nucleotide variant	NM_001429.4(EP300):c.3729-1G>T	2033	EP300	Likely pathogenic	GRCh38	1067143
+single nucleotide variant	NM_001429.4(EP300):c.3671+1G>A	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	1174646
+single nucleotide variant	NM_001429.4(EP300):c.3740G>A (p.Cys1247Tyr)	2033	EP300	Pathogenic	GRCh38	1194133
+single nucleotide variant	NM_001429.4(EP300):c.4307G>A (p.Trp1436Ter)	2033	EP300	Pathogenic	GRCh38	1254455
+single nucleotide variant	NM_001429.4(EP300):c.5493G>C (p.Arg1831Ser)	2033	EP300	Likely pathogenic	GRCh38	1320204
+single nucleotide variant	NM_001429.4(EP300):c.5486G>C (p.Arg1829Pro)	2033	EP300	Likely pathogenic	GRCh38	1320268
+single nucleotide variant	NM_001429.4(EP300):c.3205G>A (p.Asp1069Asn)	2033	EP300	Likely pathogenic	GRCh38	1331276
+single nucleotide variant	NM_001429.4(EP300):c.2305C>T (p.Gln769Ter)	2033	EP300	Pathogenic	GRCh38	1335486
+single nucleotide variant	NM_001429.4(EP300):c.5485C>T (p.Arg1829Cys)	2033	EP300	Likely pathogenic	GRCh38	1335488
+single nucleotide variant	NM_001429.4(EP300):c.7081C>T (p.Gln2361Ter)	2033	EP300	Pathogenic	GRCh38	1341985
+single nucleotide variant	NM_001429.4(EP300):c.3589A>T (p.Arg1197Trp)	2033	EP300	Likely pathogenic	GRCh38	1519083
+single nucleotide variant	NM_001429.4(EP300):c.4065C>G (p.Tyr1355Ter)	2033	EP300	Pathogenic	GRCh38	1365909
+single nucleotide variant	NM_001429.4(EP300):c.2132-1G>A	2033	EP300	Likely pathogenic	GRCh38	1526077
+single nucleotide variant	NM_001429.4(EP300):c.3875-2A>C	2033	EP300	Pathogenic	GRCh38	1685770
+single nucleotide variant	NM_001429.4(EP300):c.4783T>A (p.Phe1595Ile)	2033	EP300	Pathogenic	GRCh38	1685771
+single nucleotide variant	NM_001429.4(EP300):c.598C>T (p.Arg200Ter)	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	1698627
+single nucleotide variant	NM_001429.4(EP300):c.5047T>C (p.Cys1683Arg)	2033	EP300	Likely pathogenic	GRCh38	1700088
+single nucleotide variant	NM_001429.4(EP300):c.7223A>G (p.Gln2408Arg)	2033	EP300	Likely pathogenic	GRCh38	1704693
+single nucleotide variant	NM_001429.4(EP300):c.2734C>T (p.Gln912Ter)	2033	EP300	Pathogenic	GRCh38	1710191
+single nucleotide variant	NM_001429.4(EP300):c.4301A>T (p.His1434Leu)	2033	EP300	Pathogenic	GRCh38	1711553
+single nucleotide variant	NM_001429.4(EP300):c.1876C>T (p.Arg626Ter)	2033	EP300	Pathogenic	GRCh38	1801010
+single nucleotide variant	NM_001429.4(EP300):c.3671+5G>C	2033	EP300	Likely pathogenic	GRCh38	1802542
+single nucleotide variant	NM_001429.4(EP300):c.4287-1G>T	2033	EP300	Likely pathogenic	GRCh38	2000799
+single nucleotide variant	NM_001429.4(EP300):c.1447C>T (p.Gln483Ter)	2033	EP300	Pathogenic	GRCh38	2290525
+single nucleotide variant	NM_001429.4(EP300):c.4318C>A (p.Pro1440Thr)	2033	EP300	Likely pathogenic	GRCh38	2429476
+single nucleotide variant	NM_001429.4(EP300):c.2893C>T (p.Gln965Ter)	2033	EP300	Pathogenic	GRCh38	2429846
+single nucleotide variant	NM_001429.4(EP300):c.6454C>T (p.Gln2152Ter)	2033	EP300	Likely pathogenic	GRCh38	2572086
+single nucleotide variant	NM_001429.4(EP300):c.3889A>T (p.Arg1297Ter)	2033	EP300	Likely pathogenic	GRCh38	2575334
+single nucleotide variant	NM_001429.4(EP300):c.4540G>C (p.Glu1514Gln)	2033	EP300	Likely pathogenic	GRCh38	2576103
+single nucleotide variant	NM_001429.4(EP300):c.4898T>G (p.Leu1633Arg)	2033	EP300	Likely pathogenic	GRCh38	2580919
+single nucleotide variant	NM_001429.4(EP300):c.3451C>T (p.Gln1151Ter)	2033	EP300	Likely pathogenic	GRCh38	2628992
+single nucleotide variant	NM_001429.4(EP300):c.478C>T (p.Gln160Ter)	2033	EP300	Pathogenic	GRCh38	2632645
+single nucleotide variant	NM_001429.4(EP300):c.6532C>T (p.Gln2178Ter)	2033	EP300	Likely pathogenic	GRCh38	2653214
+single nucleotide variant	NM_001429.4(EP300):c.2485C>T (p.Gln829Ter)	2033	EP300	Pathogenic	GRCh38	2691901
+single nucleotide variant	NM_001429.4(EP300):c.4465C>T (p.Gln1489Ter)	2033	EP300	Pathogenic	GRCh38	2710706
+single nucleotide variant	NM_001429.4(EP300):c.4513G>T (p.Glu1505Ter)	2033	EP300	Pathogenic	GRCh38	2720879
+single nucleotide variant	NM_001429.4(EP300):c.604C>T (p.Arg202Ter)	2033	EP300	Pathogenic	GRCh38	2921094
+single nucleotide variant	NM_001429.4(EP300):c.1282+1G>A	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	2973028
+single nucleotide variant	NM_001429.4(EP300):c.6787C>T (p.Arg2263Ter)	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	2978296
+single nucleotide variant	NM_001429.4(EP300):c.5255A>G (p.Asn1752Ser)	2033	EP300	Likely pathogenic	GRCh38	3054747
+single nucleotide variant	NM_001429.4(EP300):c.1879-12A>G	2033	EP300	Pathogenic	GRCh38	3253149
+single nucleotide variant	NM_001429.4(EP300):c.5075G>C (p.Cys1692Ser)	2033	EP300	Likely pathogenic	GRCh38	3337078
+single nucleotide variant	NM_001429.4(EP300):c.7243T>C (p.Ter2415Gln)	2033	EP300	Likely pathogenic	GRCh38	3337079
+single nucleotide variant	NM_001429.4(EP300):c.6571C>T (p.Gln2191Ter)	2033	EP300	Likely pathogenic	GRCh38	3349291
+single nucleotide variant	NM_001429.4(EP300):c.1921C>A (p.Gln641Lys)	2033	EP300	Likely pathogenic	GRCh38	3362786
+single nucleotide variant	NM_001429.4(EP300):c.1192C>T (p.Gln398Ter)	2033	EP300	Pathogenic	GRCh38	3377305
+single nucleotide variant	NM_001429.4(EP300):c.2164C>T (p.Gln722Ter)	2033	EP300	Pathogenic	GRCh38	3390622
+single nucleotide variant	NM_001429.4(EP300):c.1372C>T (p.Gln458Ter)	2033	EP300	Pathogenic	GRCh38	3508825
+single nucleotide variant	NM_001429.4(EP300):c.1739G>A (p.Arg580Gln)	2033	EP300	Likely pathogenic	GRCh38	3619170
+single nucleotide variant	NM_001429.4(EP300):c.4879C>T (p.Arg1627Trp)	2033	EP300	Likely pathogenic	GRCh38	3764638
+single nucleotide variant	NM_001429.4(EP300):c.4124G>T (p.Gly1375Val)	2033	EP300	Likely pathogenic	GRCh38	3765498
+single nucleotide variant	NM_001429.4(EP300):c.4892T>G (p.Leu1631Arg)	2033	EP300	Likely pathogenic	GRCh38	3769596
+single nucleotide variant	NM_001429.4(EP300):c.3625C>T (p.Gln1209Ter)	2033	EP300	Pathogenic	GRCh38	3845134
+single nucleotide variant	NM_001429.4(EP300):c.5857C>T (p.Gln1953Ter)	2033	EP300	Likely pathogenic	GRCh38	3845135
+single nucleotide variant	NM_001429.4(EP300):c.2749C>T (p.Gln917Ter)	2033	EP300	Pathogenic	GRCh38	3893227
+single nucleotide variant	NM_001429.4(EP300):c.2998-1G>A	2033	EP300	Likely pathogenic	GRCh38	3897591
+single nucleotide variant	NM_001429.4(EP300):c.4351C>T (p.His1451Tyr)	2033	EP300	Likely pathogenic	GRCh38	4056384
+single nucleotide variant	NM_001429.4(EP300):c.589G>T (p.Gly197Ter)	2033	EP300	Pathogenic	GRCh38	4072350
+single nucleotide variant	NM_001429.4(EP300):c.4192C>T (p.Leu1398Phe)	2033	EP300	Pathogenic	GRCh38	4075467
+single nucleotide variant	NM_001429.4(EP300):c.2053+1G>C	2033	EP300	Pathogenic	GRCh38	4076578
+single nucleotide variant	NM_001429.4(EP300):c.1898T>C (p.Leu633Pro)	2033	EP300	Likely pathogenic	GRCh38	4082423
+single nucleotide variant	NM_001429.4(EP300):c.2818-1G>T	2033	EP300	Likely pathogenic	GRCh38	4278362
+single nucleotide variant	NM_001429.4(EP300):c.4026-1G>T	2033	EP300	Likely pathogenic	GRCh38	4292523
+single nucleotide variant	NM_001429.4(EP300):c.4384C>T (p.Arg1462Ter)	2033	EP300	Pathogenic	GRCh38	4459051
+single nucleotide variant	NM_001429.4(EP300):c.4521T>G (p.Asp1507Glu)	2033	EP300	Likely pathogenic	GRCh38	4531854
+single nucleotide variant	NM_001429.4(EP300):c.4135C>G (p.Gln1379Glu)	2033	EP300	Likely pathogenic	GRCh38	4689846
+single nucleotide variant	NM_001429.4(EP300):c.6754G>T (p.Glu2252Ter)	2033	EP300	Pathogenic	GRCh38	4718826
+single nucleotide variant	NM_001429.4(EP300):c.3142+2T>A	2033	EP300	Likely pathogenic	GRCh38	4723064
+single nucleotide variant	NM_001429.4(EP300):c.6694C>T (p.Gln2232Ter)	2033	EP300	Pathogenic	GRCh38	4729014
+single nucleotide variant	NM_001429.4(EP300):c.2377C>T (p.Gln793Ter)	2033	EP300	Pathogenic	GRCh38	4795376
+single nucleotide variant	NM_001429.4(EP300):c.4301A>G (p.His1434Arg)	2033	EP300	Likely pathogenic	GRCh38	4821933
+single nucleotide variant	NM_001429.4(EP300):c.1111A>G (p.Thr371Ala)	2033	EP300	Likely pathogenic	GRCh38	4823915
+single nucleotide variant	NM_001429.4(EP300):c.2582C>T (p.Ala861Val)	2033	EP300	Likely pathogenic	GRCh38	4823916
+single nucleotide variant	NM_001429.4(EP300):c.5941G>T (p.Glu1981Ter)	2033	EP300	Likely pathogenic	GRCh38	4854439
+single nucleotide variant	NM_001429.4(EP300):c.727A>T (p.Lys243Ter)	2033	EP300	Likely pathogenic	GRCh38	4854621
+single nucleotide variant	NM_001429.4(EP300):c.3729-2A>G	2033	EP300	Pathogenic/Likely pathogenic	GRCh38	4855166
+single nucleotide variant	NM_001429.4(EP300):c.4173-2A>G	2033	EP300	Likely pathogenic	GRCh38	4856323
+single nucleotide variant	NM_001429.4(EP300):c.5251G>A (p.Ala1751Thr)	2033	EP300	Likely pathogenic	GRCh38	4876801

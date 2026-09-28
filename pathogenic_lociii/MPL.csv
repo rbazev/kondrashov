@@ -1,0 +1,121 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_005373.3(MPL):c.556C>T (p.Gln186Ter)	4352	MPL	Pathogenic	GRCh38	14154
+single nucleotide variant	NM_005373.3(MPL):c.769C>T (p.Arg257Cys)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	14156
+single nucleotide variant	NM_005373.3(MPL):c.1904C>T (p.Pro635Leu)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	14157
+single nucleotide variant	NM_005373.3(MPL):c.305G>C (p.Arg102Pro)	4352	MPL	Pathogenic	GRCh38	14158
+single nucleotide variant	NM_005373.3(MPL):c.1473G>A (p.Trp491Ter)	4352	MPL	Pathogenic	GRCh38	14159
+single nucleotide variant	NM_005373.3(MPL):c.1566-1G>T	4352	MPL	Pathogenic	GRCh38	14160
+single nucleotide variant	NM_005373.3(MPL):c.1514G>A (p.Ser505Asn)	4352	MPL	Pathogenic	GRCh38	14163
+single nucleotide variant	NM_005373.3(MPL):c.1621C>T (p.Gln541Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	134819
+single nucleotide variant	NM_005373.3(MPL):c.263G>A (p.Gly88Glu)	4352	MPL	Likely pathogenic	GRCh38	134824
+single nucleotide variant	NM_005373.3(MPL):c.79+2T>A	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	135563
+single nucleotide variant	NM_005373.3(MPL):c.317C>T (p.Pro106Leu)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	265248
+single nucleotide variant	NM_005373.3(MPL):c.127C>T (p.Arg43Ter)	4352	MPL	Pathogenic	GRCh38	371574
+single nucleotide variant	NM_005373.3(MPL):c.1468+2T>C	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	372410
+single nucleotide variant	NM_005373.3(MPL):c.1303T>A (p.Trp435Arg)	4352	MPL	Likely pathogenic	GRCh38	435889
+single nucleotide variant	NM_005373.3(MPL):c.1422G>A (p.Trp474Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	631606
+single nucleotide variant	NM_005373.3(MPL):c.1774C>T (p.Arg592Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	631607
+single nucleotide variant	NM_005373.3(MPL):c.304C>T (p.Arg102Cys)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	644406
+single nucleotide variant	NM_005373.3(MPL):c.311T>C (p.Phe104Ser)	4352	MPL	Likely pathogenic	GRCh38	653595
+single nucleotide variant	NM_005373.3(MPL):c.1069C>T (p.Arg357Ter)	4352	MPL	Pathogenic	GRCh38	660904
+single nucleotide variant	NM_005373.3(MPL):c.1194G>A (p.Trp398Ter)	4352	MPL	Pathogenic	GRCh38	660831
+single nucleotide variant	NM_005373.3(MPL):c.1462G>T (p.Glu488Ter)	4352	MPL	Pathogenic	GRCh38	656664
+single nucleotide variant	NM_005373.3(MPL):c.981-1G>C	4352	MPL	Likely pathogenic	GRCh38	665962
+single nucleotide variant	NM_005373.3(MPL):c.1247G>A (p.Trp416Ter)	4352	MPL	Pathogenic	GRCh38	855899
+single nucleotide variant	NM_005373.3(MPL):c.1165+1G>C	4352	MPL	Likely pathogenic	GRCh38	834439
+single nucleotide variant	NM_005373.3(MPL):c.189C>A (p.Tyr63Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	917671
+single nucleotide variant	NM_005373.3(MPL):c.1270C>T (p.Gln424Ter)	4352	MPL	Pathogenic	GRCh38	948825
+single nucleotide variant	NM_005373.3(MPL):c.1348G>T (p.Glu450Ter)	4352	MPL	Pathogenic	GRCh38	947960
+single nucleotide variant	NM_005373.3(MPL):c.268C>T (p.Arg90Ter)	4352	MPL	Pathogenic	GRCh38	956954
+single nucleotide variant	NM_005373.3(MPL):c.98C>A (p.Ser33Ter)	4352	MPL	Likely pathogenic	GRCh38	983966
+single nucleotide variant	NM_005373.3(MPL):c.214G>T (p.Glu72Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	983967
+single nucleotide variant	NM_005373.3(MPL):c.244C>T (p.Gln82Ter)	4352	MPL	Likely pathogenic	GRCh38	983968
+single nucleotide variant	NM_005373.3(MPL):c.280C>T (p.Gln94Ter)	4352	MPL	Likely pathogenic	GRCh38	983969
+single nucleotide variant	NM_005373.3(MPL):c.461G>A (p.Trp154Ter)	4352	MPL	Likely pathogenic	GRCh38	983970
+single nucleotide variant	NM_005373.3(MPL):c.695C>A (p.Ser232Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	983971
+single nucleotide variant	NM_005373.3(MPL):c.756C>A (p.Tyr252Ter)	4352	MPL	Likely pathogenic	GRCh38	983972
+single nucleotide variant	NM_005373.3(MPL):c.758G>A (p.Trp253Ter)	4352	MPL	Likely pathogenic	GRCh38	984129
+single nucleotide variant	NM_005373.3(MPL):c.763C>T (p.Gln255Ter)	4352	MPL	Likely pathogenic	GRCh38	984130
+single nucleotide variant	NM_005373.3(MPL):c.807G>A (p.Trp269Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	984131
+single nucleotide variant	NM_005373.3(MPL):c.815G>A (p.Trp272Ter)	4352	MPL	Likely pathogenic	GRCh38	984132
+single nucleotide variant	NM_005373.3(MPL):c.1003G>T (p.Glu335Ter)	4352	MPL	Likely pathogenic	GRCh38	984133
+single nucleotide variant	NM_005373.3(MPL):c.305G>A (p.Arg102His)	4352	MPL	Likely pathogenic	GRCh38	988868
+single nucleotide variant	NM_005373.3(MPL):c.1309-1G>T	4352	MPL	Likely pathogenic	GRCh38	1066276
+single nucleotide variant	NM_005373.3(MPL):c.1469-1G>T	4352	MPL	Likely pathogenic	GRCh38	1067496
+single nucleotide variant	NM_005373.3(MPL):c.273C>A (p.Tyr91Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1069689
+single nucleotide variant	NM_005373.3(MPL):c.1042C>T (p.Gln348Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1072100
+single nucleotide variant	NM_005373.3(MPL):c.1276C>T (p.Arg426Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1068628
+single nucleotide variant	NM_005373.3(MPL):c.1563C>A (p.Tyr521Ter)	4352	MPL	Pathogenic	GRCh38	1072631
+single nucleotide variant	NM_005373.3(MPL):c.1670C>A (p.Ser557Ter)	4352	MPL	Pathogenic	GRCh38	1236205
+single nucleotide variant	NM_005373.3(MPL):c.367C>T (p.Arg123Ter)	4352	MPL	Pathogenic	GRCh38	1301356
+single nucleotide variant	NM_005373.3(MPL):c.1468+1G>C	4352	MPL	Pathogenic	GRCh38	1320277
+single nucleotide variant	NM_005373.3(MPL):c.1454C>T (p.Thr485Ile)	4352	MPL	Likely pathogenic	GRCh38	1338350
+single nucleotide variant	NM_005373.3(MPL):c.460T>C (p.Trp154Arg)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1504060
+single nucleotide variant	NM_005373.3(MPL):c.1248G>A (p.Trp416Ter)	4352	MPL	Pathogenic	GRCh38	1436487
+single nucleotide variant	NM_005373.3(MPL):c.1166-1G>C	4352	MPL	Likely pathogenic	GRCh38	1523230
+single nucleotide variant	NM_005373.3(MPL):c.1378C>T (p.Gln460Ter)	4352	MPL	Pathogenic	GRCh38	1442900
+single nucleotide variant	NM_005373.3(MPL):c.1219G>T (p.Glu407Ter)	4352	MPL	Pathogenic	GRCh38	1455725
+single nucleotide variant	NM_005373.3(MPL):c.1546C>T (p.Gln516Ter)	4352	MPL	Pathogenic	GRCh38	1457364
+single nucleotide variant	NM_005373.3(MPL):c.189C>G (p.Tyr63Ter)	4352	MPL	Pathogenic	GRCh38	1457605
+single nucleotide variant	NM_005373.3(MPL):c.980+2T>A	4352	MPL	Likely pathogenic	GRCh38	1501999
+single nucleotide variant	NM_005373.3(MPL):c.190C>T (p.Gln64Ter)	4352	MPL	Pathogenic	GRCh38	1448576
+single nucleotide variant	NM_005373.3(MPL):c.1431G>A (p.Trp477Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1453832
+single nucleotide variant	NM_005373.3(MPL):c.407C>A (p.Pro136His)	4352	MPL	Likely pathogenic	GRCh38	1379348
+single nucleotide variant	NM_005373.3(MPL):c.478G>T (p.Glu160Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1416785
+single nucleotide variant	NM_005373.3(MPL):c.690+2T>A	4352	MPL	Likely pathogenic	GRCh38	1486580
+single nucleotide variant	NM_005373.3(MPL):c.79+1G>T	4352	MPL	Likely pathogenic	GRCh38	1489422
+single nucleotide variant	NM_005373.3(MPL):c.1566-1G>A	4352	MPL	Likely pathogenic	GRCh38	1492963
+single nucleotide variant	NM_005373.3(MPL):c.579C>A (p.Cys193Ter)	4352	MPL	Likely pathogenic	GRCh38	1725010
+single nucleotide variant	NM_005373.3(MPL):c.973A>T (p.Arg325Ter)	4352	MPL	Likely pathogenic	GRCh38	1725458
+single nucleotide variant	NM_005373.3(MPL):c.992G>A (p.Trp331Ter)	4352	MPL	Likely pathogenic	GRCh38	1725623
+single nucleotide variant	NM_005373.3(MPL):c.292C>T (p.Gln98Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	1726060
+single nucleotide variant	NM_005373.3(MPL):c.731C>A (p.Ser244Ter)	4352	MPL	Likely pathogenic	GRCh38	1726471
+single nucleotide variant	NM_005373.3(MPL):c.155G>A (p.Trp52Ter)	4352	MPL	Likely pathogenic	GRCh38	1726937
+single nucleotide variant	NM_005373.3(MPL):c.1684G>T (p.Glu562Ter)	4352	MPL	Pathogenic	GRCh38	2179041
+single nucleotide variant	NM_005373.3(MPL):c.1469-2A>T	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	2062579
+single nucleotide variant	NM_005373.3(MPL):c.948C>A (p.Tyr316Ter)	4352	MPL	Pathogenic	GRCh38	2129052
+single nucleotide variant	NM_005373.3(MPL):c.873C>A (p.Cys291Ter)	4352	MPL	Pathogenic	GRCh38	2134039
+single nucleotide variant	NM_005373.3(MPL):c.1653+2T>C	4352	MPL	Likely pathogenic	GRCh38	2445949
+single nucleotide variant	NM_005373.3(MPL):c.205T>C (p.Tyr69His)	4352	MPL	Pathogenic	GRCh38	2445433
+single nucleotide variant	NM_005373.3(MPL):c.761T>C (p.Leu254Pro)	4352	MPL	Likely pathogenic	GRCh38	2445436
+single nucleotide variant	NM_005373.3(MPL):c.1277G>C (p.Arg426Pro)	4352	MPL	Pathogenic	GRCh38	2445437
+single nucleotide variant	NM_005373.3(MPL):c.407C>G (p.Pro136Arg)	4352	MPL	Likely pathogenic	GRCh38	2445438
+single nucleotide variant	NM_005373.3(MPL):c.1308+2T>G	4352	MPL	Likely pathogenic	GRCh38	2922400
+single nucleotide variant	NM_005373.3(MPL):c.1430G>A (p.Trp477Ter)	4352	MPL	Pathogenic	GRCh38	2924315
+single nucleotide variant	NM_005373.3(MPL):c.690+2T>C	4352	MPL	Likely pathogenic	GRCh38	2933946
+single nucleotide variant	NM_005373.3(MPL):c.213-1G>A	4352	MPL	Likely pathogenic	GRCh38	2925291
+single nucleotide variant	NM_005373.3(MPL):c.1033C>T (p.Gln345Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	2928056
+single nucleotide variant	NM_005373.3(MPL):c.79+1G>A	4352	MPL	Likely pathogenic	GRCh38	2942728
+single nucleotide variant	NM_005373.3(MPL):c.1468+1G>A	4352	MPL	Likely pathogenic	GRCh38	2937309
+single nucleotide variant	NM_005373.3(MPL):c.11G>A (p.Trp4Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	2938714
+single nucleotide variant	NM_005373.3(MPL):c.89T>A (p.Leu30Ter)	4352	MPL	Pathogenic	GRCh38	2945714
+single nucleotide variant	NM_005373.3(MPL):c.582C>A (p.Cys194Ter)	4352	MPL	Pathogenic	GRCh38	2937936
+single nucleotide variant	NM_005373.3(MPL):c.1231C>T (p.Gln411Ter)	4352	MPL	Pathogenic	GRCh38	2938176
+single nucleotide variant	NM_005373.3(MPL):c.709G>T (p.Glu237Ter)	4352	MPL	Pathogenic	GRCh38	2943339
+single nucleotide variant	NM_005373.3(MPL):c.1015A>T (p.Lys339Ter)	4352	MPL	Pathogenic	GRCh38	2949176
+single nucleotide variant	NM_005373.3(MPL):c.854-1G>A	4352	MPL	Likely pathogenic	GRCh38	2954326
+single nucleotide variant	NM_005373.3(MPL):c.916C>T (p.Gln306Ter)	4352	MPL	Pathogenic	GRCh38	2948624
+single nucleotide variant	NM_005373.3(MPL):c.407C>T (p.Pro136Leu)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	2952264
+single nucleotide variant	NM_005373.3(MPL):c.1545G>A (p.Trp515Ter)	4352	MPL	Pathogenic/Likely pathogenic	GRCh38	3340285
+single nucleotide variant	NM_005373.3(MPL):c.391G>C (p.Gly131Arg)	4352	MPL	Likely pathogenic	GRCh38	3367097
+single nucleotide variant	NM_005373.3(MPL):c.690+1G>A	4352	MPL	Likely pathogenic	GRCh38	3584273
+single nucleotide variant	NM_005373.3(MPL):c.733G>T (p.Gly245Ter)	4352	MPL	Likely pathogenic	GRCh38	3584278
+single nucleotide variant	NM_005373.3(MPL):c.775G>T (p.Glu259Ter)	4352	MPL	Likely pathogenic	GRCh38	3584287
+single nucleotide variant	NM_005373.3(MPL):c.981-1G>T	4352	MPL	Likely pathogenic	GRCh38	3584315
+single nucleotide variant	NM_005373.3(MPL):c.1653+1G>C	4352	MPL	Likely pathogenic	GRCh38	3584373
+single nucleotide variant	NM_005373.3(MPL):c.1654-1G>A	4352	MPL	Likely pathogenic	GRCh38	3584381
+single nucleotide variant	NM_005373.3(MPL):c.1680T>A (p.Cys560Ter)	4352	MPL	Pathogenic	GRCh38	3754764
+single nucleotide variant	NM_005373.3(MPL):c.853+1G>A	4352	MPL	Likely pathogenic	GRCh38	3752576
+single nucleotide variant	NM_005373.3(MPL):c.691-2A>G	4352	MPL	Likely pathogenic	GRCh38	4057876
+single nucleotide variant	NM_005373.3(MPL):c.806G>A (p.Trp269Ter)	4352	MPL	Likely pathogenic	GRCh38	4057879
+single nucleotide variant	NM_005373.3(MPL):c.406C>G (p.Pro136Ala)	4352	MPL	Likely pathogenic	GRCh38	4082466
+single nucleotide variant	NM_005373.3(MPL):c.461G>T (p.Trp154Leu)	4352	MPL	Likely pathogenic	GRCh38	4082467
+single nucleotide variant	NM_005373.3(MPL):c.770G>T (p.Arg257Leu)	4352	MPL	Likely pathogenic	GRCh38	4292399
+single nucleotide variant	NM_005373.3(MPL):c.1159C>T (p.Gln387Ter)	4352	MPL	Pathogenic	GRCh38	4788443
+single nucleotide variant	NM_005373.3(MPL):c.1166-1G>T	4352	MPL	Likely pathogenic	GRCh38	4815415
+single nucleotide variant	NM_005373.3(MPL):c.1255C>T (p.Gln419Ter)	4352	MPL	Likely pathogenic	GRCh38	4815416
+single nucleotide variant	NM_005373.3(MPL):c.212+5G>A	4352	MPL	Likely pathogenic	GRCh38	4815419
+single nucleotide variant	NM_005373.3(MPL):c.501C>A (p.Tyr167Ter)	4352	MPL	Likely pathogenic	GRCh38	4815420
+single nucleotide variant	NM_005373.3(MPL):c.80-1G>T	4352	MPL	Likely pathogenic	GRCh38	4815422
+single nucleotide variant	NM_005373.3(MPL):c.980+2T>C	4352	MPL	Likely pathogenic	GRCh38	4815427
+single nucleotide variant	NM_005373.3(MPL):c.98C>G (p.Ser33Ter)	4352	MPL	Likely pathogenic	GRCh38	4815428

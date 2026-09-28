@@ -1,0 +1,99 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.753G>C (p.Trp251Cys)	64699	TMPRSS3	Pathogenic	GRCh38	4944
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1208C>T (p.Pro403Leu)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	4945
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.647G>T (p.Arg216Leu)	64699	TMPRSS3	Pathogenic	GRCh38	4946
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.308A>G (p.Asp103Gly)	64699	TMPRSS3	Pathogenic	GRCh38	30493
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1025G>A (p.Gly342Glu)	64699	TMPRSS3	Likely pathogenic	GRCh38	46093
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1273G>A (p.Ala425Thr)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46102
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1340T>C (p.Met447Thr)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46104
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.323-6G>A	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46113
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.325C>T (p.Arg109Trp)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46114
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.413C>A (p.Ala138Glu)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46119
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.647G>A (p.Arg216His)	64699	TMPRSS3	Likely pathogenic	GRCh38	46127
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.916G>A (p.Ala306Thr)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	46131
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1189C>T (p.Gln397Ter)	64699	TMPRSS3	Pathogenic	GRCh38	177740
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.727G>A (p.Gly243Arg)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	178549
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.316C>T (p.Arg106Cys)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	381714
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.582T>A (p.Cys194Ter)	64699	TMPRSS3	Pathogenic	GRCh38	402283
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.346G>A (p.Val116Met)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	432009
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.310G>A (p.Glu104Lys)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	504522
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.783-1G>T	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	562094
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1048+1G>A	64699	TMPRSS3	Pathogenic	GRCh38	627482
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1192-1G>C	64699	TMPRSS3	Pathogenic	GRCh38	828127
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.771C>A (p.His257Gln)	64699	TMPRSS3	Likely pathogenic	GRCh38	974621
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1216T>C (p.Cys406Arg)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	996724
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.767C>T (p.Ala256Val)	64699	TMPRSS3	Likely pathogenic	GRCh38	996723
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.581G>T (p.Cys194Phe)	64699	TMPRSS3	Likely pathogenic	GRCh38	996722
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.271C>T (p.Arg91Ter)	64699	TMPRSS3	Pathogenic	GRCh38	996721
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.965C>A (p.Pro322His)	64699	TMPRSS3	Likely pathogenic	GRCh38	1065053
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.398G>A (p.Trp133Ter)	64699	TMPRSS3	Pathogenic	GRCh38	1075246
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.646C>T (p.Arg216Cys)	64699	TMPRSS3	Pathogenic	GRCh38	1175710
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.400A>T (p.Lys134Ter)	64699	TMPRSS3	Pathogenic	GRCh38	1175709
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.242C>G (p.Ser81Ter)	64699	TMPRSS3	Pathogenic	GRCh38	1185592
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.46C>T (p.Arg16Ter)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	1210028
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.743C>T (p.Thr248Met)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	1335824
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1304G>C (p.Arg435Pro)	64699	TMPRSS3	Pathogenic	GRCh38	1509020
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1201G>A (p.Gly401Arg)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	2138388
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1049-4G>A	64699	TMPRSS3	Likely pathogenic	GRCh38	2159764
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.717C>A (p.Tyr239Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2191688
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1180G>A (p.Asp394Asn)	64699	TMPRSS3	Likely pathogenic	GRCh38	1934530
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.425G>A (p.Cys142Tyr)	64699	TMPRSS3	Likely pathogenic	GRCh38	1939154
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1028G>C (p.Trp343Ser)	64699	TMPRSS3	Likely pathogenic	GRCh38	1970207
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1A>G (p.Met1Val)	64699	TMPRSS3	Pathogenic	GRCh38	1995820
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1328T>C (p.Ile443Thr)	64699	TMPRSS3	Likely pathogenic	GRCh38	2445667
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.917C>T (p.Ala306Val)	64699	TMPRSS3	Likely pathogenic	GRCh38	2445668
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.818G>T (p.Gly273Val)	64699	TMPRSS3	Likely pathogenic	GRCh38	2445669
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.188T>G (p.Leu63Arg)	64699	TMPRSS3	Likely pathogenic	GRCh38	2445670
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.567T>G (p.Tyr189Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2498898
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1288C>A (p.Pro430Thr)	64699	TMPRSS3	Likely pathogenic	GRCh38	2700615
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.616+1G>T	64699	TMPRSS3	Likely pathogenic	GRCh38	2699900
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.95-2A>C	64699	TMPRSS3	Likely pathogenic	GRCh38	2709966
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1156G>A (p.Ala386Thr)	64699	TMPRSS3	Pathogenic	GRCh38	2736991
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1019C>G (p.Thr340Arg)	64699	TMPRSS3	Likely pathogenic	GRCh38	2736993
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.953-5A>G	64699	TMPRSS3	Pathogenic	GRCh38	2736994
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.783-1G>A	64699	TMPRSS3	Pathogenic	GRCh38	2736995
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.436G>A (p.Gly146Ser)	64699	TMPRSS3	Likely pathogenic	GRCh38	2736996
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.115C>T (p.Gln39Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2736997
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1201G>T (p.Gly401Trp)	64699	TMPRSS3	Likely pathogenic	GRCh38	2755968
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1156G>C (p.Ala386Pro)	64699	TMPRSS3	Likely pathogenic	GRCh38	2772340
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.447-1G>A	64699	TMPRSS3	Likely pathogenic	GRCh38	2793602
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.953-1G>A	64699	TMPRSS3	Likely pathogenic	GRCh38	2801830
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1191+1G>A	64699	TMPRSS3	Likely pathogenic	GRCh38	2791323
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.876C>A (p.Tyr292Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2808450
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.690G>A (p.Trp230Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2835793
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.917C>A (p.Ala306Asp)	64699	TMPRSS3	Likely pathogenic	GRCh38	2836923
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1017G>A (p.Trp339Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2856116
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.446+1G>T	64699	TMPRSS3	Likely pathogenic	GRCh38	2871642
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.94+2T>C	64699	TMPRSS3	Likely pathogenic	GRCh38	2871965
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.458C>G (p.Ser153Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2882012
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.551T>C (p.Leu184Ser)	64699	TMPRSS3	Pathogenic	GRCh38	2907554
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1028G>A (p.Trp343Ter)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	2966618
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.3G>A (p.Met1Ile)	64699	TMPRSS3	Pathogenic	GRCh38	2986577
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1029G>C (p.Trp343Cys)	64699	TMPRSS3	Likely pathogenic	GRCh38	2982422
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.206-2A>G	64699	TMPRSS3	Likely pathogenic	GRCh38	2994098
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.447-1G>C	64699	TMPRSS3	Likely pathogenic	GRCh38	3002414
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.703C>T (p.Gln235Ter)	64699	TMPRSS3	Pathogenic	GRCh38	2995631
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.796A>T (p.Lys266Ter)	64699	TMPRSS3	Pathogenic	GRCh38	3010536
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.399G>A (p.Trp133Ter)	64699	TMPRSS3	Pathogenic/Likely pathogenic	GRCh38	3018931
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1153T>C (p.Cys385Arg)	64699	TMPRSS3	Likely pathogenic	GRCh38	3375402
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.274T>C (p.Cys92Arg)	64699	TMPRSS3	Likely pathogenic	GRCh38	3384980
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1022C>A (p.Ser341Ter)	64699	TMPRSS3	Likely pathogenic	GRCh38	3587680
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.953-2A>G	64699	TMPRSS3	Likely pathogenic	GRCh38	3587681
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.573-1G>A	64699	TMPRSS3	Likely pathogenic	GRCh38	3587682
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.41C>A (p.Ser14Ter)	64699	TMPRSS3	Likely pathogenic	GRCh38	3587684
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1195G>A (p.Asp399Asn)	64699	TMPRSS3	Pathogenic	GRCh38	3601929
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1196A>T (p.Asp399Val)	64699	TMPRSS3	Likely pathogenic	GRCh38	3601930
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1272C>A (p.Cys424Ter)	64699	TMPRSS3	Likely pathogenic	GRCh38	3601933
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1345-2A>G	64699	TMPRSS3	Pathogenic	GRCh38	3601934
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.205+5G>C	64699	TMPRSS3	Likely pathogenic	GRCh38	3601935
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.311A>G (p.Glu104Gly)	64699	TMPRSS3	Likely pathogenic	GRCh38	3601936
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.425G>C (p.Cys142Ser)	64699	TMPRSS3	Likely pathogenic	GRCh38	3601938
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.572+2T>C	64699	TMPRSS3	Pathogenic	GRCh38	3601939
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.572G>A (p.Arg191Lys)	64699	TMPRSS3	Pathogenic	GRCh38	3601940
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1207C>G (p.Pro403Ala)	64699	TMPRSS3	Likely pathogenic	GRCh38	3607665
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1304G>T (p.Arg435Leu)	64699	TMPRSS3	Likely pathogenic	GRCh38	3637825
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.1325G>A (p.Trp442Ter)	64699	TMPRSS3	Pathogenic	GRCh38	3643892
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.572+2T>G	64699	TMPRSS3	Likely pathogenic	GRCh38	3774376
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.731G>A (p.Gly244Asp)	64699	TMPRSS3	Pathogenic	GRCh38	4540609
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.952+1G>T	64699	TMPRSS3	Likely pathogenic	GRCh38	4695895
+single nucleotide variant	NM_001256317.3(TMPRSS3):c.753G>A (p.Trp251Ter)	64699	TMPRSS3	Likely pathogenic	GRCh38	4849686

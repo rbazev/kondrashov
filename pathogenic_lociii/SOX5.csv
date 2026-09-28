@@ -1,0 +1,60 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006940.6(SOX5):c.1060G>T (p.Gly354Ter)	6660	SOX5	Pathogenic	GRCh38	222022
+single nucleotide variant	NM_006940.6(SOX5):c.1831C>G (p.Arg611Gly)	6660	SOX5	Likely pathogenic	GRCh38	224817
+single nucleotide variant	NM_006940.6(SOX5):c.904C>T (p.Pro302Ser)	6660	SOX5	Likely pathogenic	GRCh38	374147
+single nucleotide variant	NM_006940.6(SOX5):c.482-2A>C	6660	SOX5	Likely pathogenic	GRCh38	374026
+single nucleotide variant	NM_006940.6(SOX5):c.1895C>A (p.Thr632Asn)	6660	SOX5	Likely pathogenic	GRCh38	431148
+single nucleotide variant	NM_006940.6(SOX5):c.1597+2T>A	6660	SOX5	Pathogenic	GRCh38	449233
+single nucleotide variant	NM_006940.6(SOX5):c.637C>T (p.Arg213Ter)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	503755
+single nucleotide variant	NM_006940.6(SOX5):c.622C>T (p.Gln208Ter)	6660	SOX5	Pathogenic	GRCh38	545592
+single nucleotide variant	NM_006940.6(SOX5):c.1711C>T (p.Arg571Trp)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	620040
+single nucleotide variant	NM_006940.6(SOX5):c.1764G>C (p.Lys588Asn)	6660	SOX5	Likely pathogenic	GRCh38	633579
+single nucleotide variant	NM_006940.6(SOX5):c.1868A>G (p.Tyr623Cys)	6660	SOX5	Pathogenic	GRCh38	695089
+single nucleotide variant	NM_006940.6(SOX5):c.1819G>T (p.Glu607Ter)	6660	SOX5	Pathogenic	GRCh38	695088
+single nucleotide variant	NM_006940.6(SOX5):c.1814A>G (p.Tyr605Cys)	6660	SOX5	Pathogenic	GRCh38	695087
+single nucleotide variant	NM_006940.6(SOX5):c.1782G>A (p.Trp594Ter)	6660	SOX5	Pathogenic	GRCh38	695086
+single nucleotide variant	NM_006940.6(SOX5):c.1681A>C (p.Asn561His)	6660	SOX5	Likely pathogenic	GRCh38	695084
+single nucleotide variant	NM_006940.6(SOX5):c.1613C>G (p.Ser538Ter)	6660	SOX5	Pathogenic	GRCh38	695082
+single nucleotide variant	NM_006940.6(SOX5):c.1477C>T (p.Arg493Ter)	6660	SOX5	Pathogenic	GRCh38	695081
+single nucleotide variant	NM_006940.6(SOX5):c.1411C>T (p.Arg471Ter)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	695079
+single nucleotide variant	NM_006940.6(SOX5):c.820C>T (p.Gln274Ter)	6660	SOX5	Pathogenic	GRCh38	695078
+single nucleotide variant	NM_006940.6(SOX5):c.518G>A (p.Trp173Ter)	6660	SOX5	Pathogenic	GRCh38	695077
+single nucleotide variant	NM_006940.6(SOX5):c.1672C>T (p.Arg558Cys)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	806852
+single nucleotide variant	NM_006940.6(SOX5):c.1814A>C (p.Tyr605Ser)	6660	SOX5	Likely pathogenic	GRCh38	807695
+single nucleotide variant	NM_006940.6(SOX5):c.1164+2T>G	6660	SOX5	Pathogenic	GRCh38	872102
+single nucleotide variant	NM_006940.6(SOX5):c.519G>A (p.Trp173Ter)	6660	SOX5	Pathogenic	GRCh38	872103
+single nucleotide variant	NM_006940.6(SOX5):c.1789A>G (p.Met597Val)	6660	SOX5	Likely pathogenic	GRCh38	873457
+single nucleotide variant	NM_006940.6(SOX5):c.1673G>A (p.Arg558His)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	973345
+single nucleotide variant	NM_006940.6(SOX5):c.559G>T (p.Glu187Ter)	6660	SOX5	Likely pathogenic	GRCh38	981401
+single nucleotide variant	NM_006940.6(SOX5):c.1759A>T (p.Ser587Cys)	6660	SOX5	Likely pathogenic	GRCh38	982856
+single nucleotide variant	NM_006940.6(SOX5):c.931+1G>C	6660	SOX5	Pathogenic	GRCh38	985465
+single nucleotide variant	NM_006940.6(SOX5):c.442C>T (p.Gln148Ter)	6660	SOX5	Pathogenic	GRCh38	987290
+single nucleotide variant	NM_006940.6(SOX5):c.352C>T (p.Arg118Ter)	6660	SOX5	Pathogenic	GRCh38	1098341
+single nucleotide variant	NM_006940.6(SOX5):c.932-1G>C	6660	SOX5	Pathogenic	GRCh38	1195659
+single nucleotide variant	NM_006940.6(SOX5):c.1639C>T (p.Arg547Ter)	6660	SOX5	Pathogenic	GRCh38	1297543
+single nucleotide variant	NM_006940.6(SOX5):c.811-2A>G	6660	SOX5	Pathogenic	GRCh38	1421590
+single nucleotide variant	NM_006940.6(SOX5):c.1748A>G (p.Asn583Ser)	6660	SOX5	Pathogenic	GRCh38	1526379
+single nucleotide variant	NM_006940.6(SOX5):c.1807C>T (p.Gln603Ter)	6660	SOX5	Pathogenic	GRCh38	1527935
+single nucleotide variant	NM_006940.6(SOX5):c.1489-2A>G	6660	SOX5	Pathogenic	GRCh38	1686224
+single nucleotide variant	NM_006940.6(SOX5):c.932-2A>C	6660	SOX5	Likely pathogenic	GRCh38	1709787
+single nucleotide variant	NM_006940.6(SOX5):c.1697G>A (p.Trp566Ter)	6660	SOX5	Pathogenic	GRCh38	1879227
+single nucleotide variant	NM_006940.6(SOX5):c.1867T>C (p.Tyr623His)	6660	SOX5	Likely pathogenic	GRCh38	2433667
+single nucleotide variant	NM_006940.6(SOX5):c.1694T>A (p.Val565Glu)	6660	SOX5	Likely pathogenic	GRCh38	2442354
+single nucleotide variant	NM_006940.6(SOX5):c.814C>T (p.Gln272Ter)	6660	SOX5	Likely pathogenic	GRCh38	2446711
+single nucleotide variant	NM_006940.6(SOX5):c.1676C>T (p.Pro559Leu)	6660	SOX5	Pathogenic	GRCh38	2501978
+single nucleotide variant	NM_006940.6(SOX5):c.1712G>A (p.Arg571Gln)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	2572283
+single nucleotide variant	NM_006940.6(SOX5):c.700C>T (p.Gln234Ter)	6660	SOX5	Pathogenic	GRCh38	2642785
+single nucleotide variant	NM_006940.6(SOX5):c.1342+1G>T	6660	SOX5	Pathogenic	GRCh38	3378162
+single nucleotide variant	NM_006940.6(SOX5):c.234T>A (p.Cys78Ter)	6660	SOX5	Likely pathogenic	GRCh38	3381758
+single nucleotide variant	NM_006940.6(SOX5):c.1423C>T (p.Gln475Ter)	6660	SOX5	Pathogenic	GRCh38	3382063
+single nucleotide variant	NM_006940.6(SOX5):c.1691T>C (p.Met564Thr)	6660	SOX5	Pathogenic/Likely pathogenic	GRCh38	3382648
+single nucleotide variant	NM_006940.6(SOX5):c.1598-1G>A	6660	SOX5	Pathogenic	GRCh38	3383983
+single nucleotide variant	NM_006940.6(SOX5):c.1771G>A (p.Gly591Arg)	6660	SOX5	Pathogenic	GRCh38	3392524
+single nucleotide variant	NM_006940.6(SOX5):c.1699G>C (p.Ala567Pro)	6660	SOX5	Likely pathogenic	GRCh38	3600319
+single nucleotide variant	NM_006940.6(SOX5):c.1516C>T (p.Gln506Ter)	6660	SOX5	Likely pathogenic	GRCh38	3775552
+single nucleotide variant	NM_006940.6(SOX5):c.1850T>C (p.Leu617Pro)	6660	SOX5	Likely pathogenic	GRCh38	3898908
+single nucleotide variant	NM_006940.6(SOX5):c.1760G>A (p.Ser587Asn)	6660	SOX5	Likely pathogenic	GRCh38	3899384
+single nucleotide variant	NM_006940.6(SOX5):c.1343-1G>C	6660	SOX5	Pathogenic	GRCh38	4172189
+single nucleotide variant	NM_006940.6(SOX5):c.751C>T (p.Gln251Ter)	6660	SOX5	Likely pathogenic	GRCh38	4871907
+single nucleotide variant	NM_006940.6(SOX5):c.688C>T (p.Gln230Ter)	6660	SOX5	Pathogenic	GRCh38	4875643
+single nucleotide variant	NM_006940.6(SOX5):c.1165-2A>G	6660	SOX5	Likely pathogenic	GRCh38	4886038

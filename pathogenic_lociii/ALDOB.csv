@@ -1,0 +1,85 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000035.4(ALDOB):c.448G>C (p.Ala150Pro)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	464
+single nucleotide variant	NM_000035.4(ALDOB):c.524C>A (p.Ala175Asp)	229	ALDOB	Pathogenic	GRCh38	465
+single nucleotide variant	NM_000035.4(ALDOB):c.720C>A (p.Cys240Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	468
+single nucleotide variant	NM_000035.4(ALDOB):c.1005C>G (p.Asn335Lys)	229	ALDOB	Pathogenic	GRCh38	469
+single nucleotide variant	NM_000035.4(ALDOB):c.10C>T (p.Arg4Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	471
+single nucleotide variant	NM_000035.4(ALDOB):c.178C>T (p.Arg60Ter)	229	ALDOB	Pathogenic	GRCh38	472
+single nucleotide variant	NM_000035.4(ALDOB):c.625-1G>A	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	473
+single nucleotide variant	NM_000035.4(ALDOB):c.1013C>T (p.Ala338Val)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	188739
+single nucleotide variant	NM_000035.4(ALDOB):c.625-2A>G	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	188837
+single nucleotide variant	NM_000035.4(ALDOB):c.612T>A (p.Tyr204Ter)	229	ALDOB	Pathogenic	GRCh38	188782
+single nucleotide variant	NM_000035.4(ALDOB):c.324G>A (p.Lys108=)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	188779
+single nucleotide variant	NM_000035.4(ALDOB):c.324+1G>A	229	ALDOB	Pathogenic	GRCh38	218380
+single nucleotide variant	NM_000035.4(ALDOB):c.888G>A (p.Trp296Ter)	229	ALDOB	Pathogenic	GRCh38	371260
+single nucleotide variant	NM_000035.4(ALDOB):c.444G>A (p.Trp148Ter)	229	ALDOB	Pathogenic	GRCh38	370966
+single nucleotide variant	NM_000035.4(ALDOB):c.379+1G>A	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	371023
+single nucleotide variant	NM_000035.4(ALDOB):c.324+2T>A	229	ALDOB	Pathogenic	GRCh38	370293
+single nucleotide variant	NM_000035.4(ALDOB):c.800-2A>C	229	ALDOB	Likely pathogenic	GRCh38	432193
+single nucleotide variant	NM_000035.4(ALDOB):c.-11+1G>C	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	495347
+single nucleotide variant	NM_000035.4(ALDOB):c.325-1G>A	229	ALDOB	Pathogenic	GRCh38	558033
+single nucleotide variant	NM_000035.4(ALDOB):c.522C>G (p.Tyr174Ter)	229	ALDOB	Pathogenic	GRCh38	555545
+single nucleotide variant	NM_000035.4(ALDOB):c.380-1G>A	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	553732
+single nucleotide variant	NM_000035.4(ALDOB):c.380-2A>G	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	556271
+single nucleotide variant	NM_000035.4(ALDOB):c.964G>T (p.Glu322Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	552618
+single nucleotide variant	NM_000035.4(ALDOB):c.941G>A (p.Trp314Ter)	229	ALDOB	Likely pathogenic	GRCh38	551627
+single nucleotide variant	NM_000035.4(ALDOB):c.686T>C (p.Leu229Pro)	229	ALDOB	Likely pathogenic	GRCh38	550941
+single nucleotide variant	NM_000035.4(ALDOB):c.664G>T (p.Val222Phe)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	553075
+single nucleotide variant	NM_000035.4(ALDOB):c.612T>G (p.Tyr204Ter)	229	ALDOB	Pathogenic	GRCh38	632627
+single nucleotide variant	NM_000035.4(ALDOB):c.2T>C (p.Met1Thr)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	945084
+single nucleotide variant	NM_000035.4(ALDOB):c.113-1G>A	229	ALDOB	Likely pathogenic	GRCh38	945681
+single nucleotide variant	NM_000035.4(ALDOB):c.474T>A (p.Cys158Ter)	229	ALDOB	Likely pathogenic	GRCh38	983977
+single nucleotide variant	NM_000035.4(ALDOB):c.439A>T (p.Lys147Ter)	229	ALDOB	Likely pathogenic	GRCh38	983978
+single nucleotide variant	NM_000035.4(ALDOB):c.214C>T (p.Gln72Ter)	229	ALDOB	Likely pathogenic	GRCh38	983979
+single nucleotide variant	NM_000035.4(ALDOB):c.172C>T (p.Gln58Ter)	229	ALDOB	Likely pathogenic	GRCh38	983980
+single nucleotide variant	NM_000035.4(ALDOB):c.887G>A (p.Trp296Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	993008
+single nucleotide variant	NM_000035.4(ALDOB):c.*516T>A	229	ALDOB	Likely pathogenic	GRCh38	1065874
+single nucleotide variant	NM_000035.4(ALDOB):c.932T>C (p.Leu311Pro)	229	ALDOB	Likely pathogenic	GRCh38	1065859
+single nucleotide variant	NM_000035.4(ALDOB):c.839C>A (p.Ala280Asp)	229	ALDOB	Likely pathogenic	GRCh38	1065856
+single nucleotide variant	NM_000035.4(ALDOB):c.799+2T>A	229	ALDOB	Pathogenic	GRCh38	1065878
+single nucleotide variant	NM_000035.4(ALDOB):c.770T>C (p.Leu257Pro)	229	ALDOB	Pathogenic	GRCh38	1065855
+single nucleotide variant	NM_000035.4(ALDOB):c.677G>A (p.Gly226Asp)	229	ALDOB	Likely pathogenic	GRCh38	1065854
+single nucleotide variant	NM_000035.4(ALDOB):c.554C>G (p.Pro185Arg)	229	ALDOB	Likely pathogenic	GRCh38	1065853
+single nucleotide variant	NM_000035.4(ALDOB):c.540+1G>C	229	ALDOB	Likely pathogenic	GRCh38	1065877
+single nucleotide variant	NM_000035.4(ALDOB):c.532T>C (p.Cys178Arg)	229	ALDOB	Likely pathogenic	GRCh38	1065852
+single nucleotide variant	NM_000035.4(ALDOB):c.469C>T (p.Gln157Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	1065851
+single nucleotide variant	NM_000035.4(ALDOB):c.403T>C (p.Cys135Arg)	229	ALDOB	Pathogenic	GRCh38	1065850
+single nucleotide variant	NM_000035.4(ALDOB):c.331C>T (p.Gln111Ter)	229	ALDOB	Pathogenic	GRCh38	1065849
+single nucleotide variant	NM_000035.4(ALDOB):c.325-1G>C	229	ALDOB	Likely pathogenic	GRCh38	1065876
+single nucleotide variant	NM_000035.4(ALDOB):c.170G>C (p.Arg57Pro)	229	ALDOB	Likely pathogenic	GRCh38	1065848
+single nucleotide variant	NM_000035.4(ALDOB):c.112+1G>A	229	ALDOB	Likely pathogenic	GRCh38	1065875
+single nucleotide variant	NM_000035.4(ALDOB):c.379+1G>T	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	1066749
+single nucleotide variant	NM_000035.4(ALDOB):c.607C>T (p.Gln203Ter)	229	ALDOB	Pathogenic	GRCh38	1069392
+single nucleotide variant	NM_000035.4(ALDOB):c.325-1G>T	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	1071688
+single nucleotide variant	NM_000035.4(ALDOB):c.914C>T (p.Ala305Val)	229	ALDOB	Likely pathogenic	GRCh38	1196790
+single nucleotide variant	NM_000035.4(ALDOB):c.34C>T (p.Gln12Ter)	229	ALDOB	Pathogenic	GRCh38	1454003
+single nucleotide variant	NM_000035.4(ALDOB):c.113-1G>C	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	1513041
+single nucleotide variant	NM_000035.4(ALDOB):c.255C>G (p.Tyr85Ter)	229	ALDOB	Pathogenic	GRCh38	1451325
+single nucleotide variant	NM_000035.4(ALDOB):c.61C>T (p.Gln21Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	1410748
+single nucleotide variant	NM_000035.4(ALDOB):c.812T>C (p.Leu271Ser)	229	ALDOB	Pathogenic	GRCh38	1675307
+single nucleotide variant	NM_000035.4(ALDOB):c.227G>T (p.Gly76Val)	229	ALDOB	Likely pathogenic	GRCh38	1685239
+single nucleotide variant	NM_000035.4(ALDOB):c.724A>T (p.Lys242Ter)	229	ALDOB	Likely pathogenic	GRCh38	1724491
+single nucleotide variant	NM_000035.4(ALDOB):c.157G>T (p.Glu53Ter)	229	ALDOB	Likely pathogenic	GRCh38	1725450
+single nucleotide variant	NM_000035.4(ALDOB):c.1A>G (p.Met1Val)	229	ALDOB	Likely pathogenic	GRCh38	2166048
+single nucleotide variant	NM_000035.4(ALDOB):c.642C>A (p.Tyr214Ter)	229	ALDOB	Pathogenic	GRCh38	2016414
+single nucleotide variant	NM_000035.4(ALDOB):c.799+1G>A	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	2069207
+single nucleotide variant	NM_000035.4(ALDOB):c.999+2T>C	229	ALDOB	Pathogenic	GRCh38	2094555
+single nucleotide variant	NM_000035.4(ALDOB):c.624+1G>C	229	ALDOB	Likely pathogenic	GRCh38	2105809
+single nucleotide variant	NM_000035.4(ALDOB):c.113-2A>G	229	ALDOB	Likely pathogenic	GRCh38	2107734
+single nucleotide variant	NM_000035.4(ALDOB):c.2T>G (p.Met1Arg)	229	ALDOB	Likely pathogenic	GRCh38	2131193
+single nucleotide variant	NM_000035.4(ALDOB):c.538C>T (p.Gln180Ter)	229	ALDOB	Pathogenic	GRCh38	2675466
+single nucleotide variant	NM_000035.4(ALDOB):c.742C>T (p.Gln248Ter)	229	ALDOB	Pathogenic/Likely pathogenic	GRCh38	2675487
+single nucleotide variant	NM_000035.4(ALDOB):c.800-2A>G	229	ALDOB	Likely pathogenic	GRCh38	2675494
+single nucleotide variant	NM_000035.4(ALDOB):c.606C>A (p.Cys202Ter)	229	ALDOB	Likely pathogenic	GRCh38	2675500
+single nucleotide variant	NM_000035.4(ALDOB):c.624+1G>A	229	ALDOB	Likely pathogenic	GRCh38	2675507
+single nucleotide variant	NM_000035.4(ALDOB):c.541-2A>G	229	ALDOB	Likely pathogenic	GRCh38	2675516
+single nucleotide variant	NM_000035.4(ALDOB):c.799+2T>C	229	ALDOB	Likely pathogenic	GRCh38	2675545
+single nucleotide variant	NM_000035.4(ALDOB):c.1A>T (p.Met1Leu)	229	ALDOB	Likely pathogenic	GRCh38	2854555
+single nucleotide variant	NM_000035.4(ALDOB):c.414C>A (p.Tyr138Ter)	229	ALDOB	Pathogenic	GRCh38	2853159
+single nucleotide variant	NM_000035.4(ALDOB):c.271G>T (p.Gly91Ter)	229	ALDOB	Pathogenic	GRCh38	2864033
+single nucleotide variant	NM_000035.4(ALDOB):c.732T>A (p.Tyr244Ter)	229	ALDOB	Likely pathogenic	GRCh38	3241390
+single nucleotide variant	NM_000035.4(ALDOB):c.405T>A (p.Cys135Ter)	229	ALDOB	Likely pathogenic	GRCh38	3241409
+single nucleotide variant	NM_000035.4(ALDOB):c.322A>T (p.Lys108Ter)	229	ALDOB	Likely pathogenic	GRCh38	3596201
+single nucleotide variant	NM_000035.4(ALDOB):c.133C>T (p.Gln45Ter)	229	ALDOB	Likely pathogenic	GRCh38	3596203
+single nucleotide variant	NM_000035.4(ALDOB):c.148G>T (p.Glu50Ter)	229	ALDOB	Likely pathogenic	GRCh38	4069871
+single nucleotide variant	NM_000035.4(ALDOB):c.1000-1G>A	229	ALDOB	Likely pathogenic	GRCh38	4281672

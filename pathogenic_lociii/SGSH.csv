@@ -45,7 +45,6 @@ single nucleotide variant	NM_000199.5(SGSH):c.448C>T (p.Arg150Trp)	6448	SGSH	Pat
 single nucleotide variant	NM_000199.5(SGSH):c.118T>A (p.Tyr40Asn)	6448	SGSH	Likely pathogenic	GRCh38	638087
 single nucleotide variant	NM_000199.5(SGSH):c.490C>T (p.Gln164Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	654350
 single nucleotide variant	NM_000199.5(SGSH):c.1A>C (p.Met1Leu)	6448	SGSH	Pathogenic	GRCh38	694732
-single nucleotide variant	NM_000199.5(SGSH):c.1448C>T (p.Pro483Leu)	6448	SGSH	Likely pathogenic	GRCh38	801413
 single nucleotide variant	NM_000199.5(SGSH):c.745+1G>C	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	936519
 single nucleotide variant	NM_000199.5(SGSH):c.267C>A (p.Tyr89Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	983123
 single nucleotide variant	NM_000199.5(SGSH):c.268G>C (p.Gly90Arg)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1066348
@@ -53,7 +52,7 @@ single nucleotide variant	NM_000199.5(SGSH):c.1412G>A (p.Trp471Ter)	6448	SGSH	Pa
 single nucleotide variant	NM_000199.5(SGSH):c.630G>A (p.Trp210Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1072646
 single nucleotide variant	NM_000199.5(SGSH):c.545G>A (p.Arg182His)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1071734
 single nucleotide variant	NM_000199.5(SGSH):c.466A>T (p.Lys156Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1075867
-single nucleotide variant	NM_000199.5(SGSH):c.716A>G (p.Gln239Arg)	6448	SGSH	Pathogenic	GRCh38	1184569
+single nucleotide variant	NM_000199.5(SGSH):c.716A>G (p.Gln239Arg)	6448	SGSH	Likely pathogenic	GRCh38	1184569
 single nucleotide variant	NM_000199.5(SGSH):c.1130G>A (p.Arg377His)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1297691
 single nucleotide variant	NM_000199.5(SGSH):c.627C>G (p.Asp209Glu)	6448	SGSH	Likely pathogenic	GRCh38	1321020
 single nucleotide variant	NM_000199.5(SGSH):c.733C>T (p.Arg245Cys)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	1325064
@@ -90,7 +89,7 @@ single nucleotide variant	NM_000199.5(SGSH):c.1431C>A (p.Asp477Glu)	6448	SGSH	Li
 single nucleotide variant	NM_000199.5(SGSH):c.496C>T (p.Gln166Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	2757203
 single nucleotide variant	NM_000199.5(SGSH):c.703G>T (p.Asp235Tyr)	6448	SGSH	Likely pathogenic	GRCh38	2778794
 single nucleotide variant	NM_000199.5(SGSH):c.733C>A (p.Arg245Ser)	6448	SGSH	Likely pathogenic	GRCh38	2791543
-single nucleotide variant	NM_000199.5(SGSH):c.598G>T (p.Gly200Ter)	6448	SGSH	Pathogenic	GRCh38	2847131
+single nucleotide variant	NM_000199.5(SGSH):c.598G>T (p.Gly200Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	2847131
 single nucleotide variant	NM_000199.5(SGSH):c.1268G>A (p.Trp423Ter)	6448	SGSH	Pathogenic	GRCh38	2879174
 single nucleotide variant	NM_000199.5(SGSH):c.1345C>T (p.Gln449Ter)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	2894590
 single nucleotide variant	NM_000199.5(SGSH):c.1340A>G (p.Glu447Gly)	6448	SGSH	Likely pathogenic	GRCh38	2918842
@@ -106,12 +105,11 @@ single nucleotide variant	NM_000199.5(SGSH):c.449G>C (p.Arg150Pro)	6448	SGSH	Lik
 single nucleotide variant	NM_000199.5(SGSH):c.120C>A (p.Tyr40Ter)	6448	SGSH	Pathogenic	GRCh38	3583113
 single nucleotide variant	NM_000199.5(SGSH):c.745G>T (p.Gly249Ter)	6448	SGSH	Pathogenic	GRCh38	3643122
 single nucleotide variant	NM_000199.5(SGSH):c.1232T>C (p.Leu411Pro)	6448	SGSH	Likely pathogenic	GRCh38	3906112
-single nucleotide variant	NM_000199.5(SGSH):c.1195G>C (p.Asp399His)	6448	SGSH	Likely pathogenic	GRCh38	4061361
 single nucleotide variant	NM_000199.5(SGSH):c.1307G>A (p.Trp436Ter)	6448	SGSH	Likely pathogenic	GRCh38	4077508
 single nucleotide variant	NM_000199.5(SGSH):c.1456G>T (p.Val486Phe)	6448	SGSH	Likely pathogenic	GRCh38	4535841
 single nucleotide variant	NM_000199.5(SGSH):c.874G>A (p.Glu292Lys)	6448	SGSH	Likely pathogenic	GRCh38	4710437
 single nucleotide variant	NM_000199.5(SGSH):c.572G>C (p.Gly191Ala)	6448	SGSH	Likely pathogenic	GRCh38	4761457
-single nucleotide variant	NM_000199.5(SGSH):c.1A>T (p.Met1Leu)	6448	SGSH	Pathogenic	GRCh38	4765375
+single nucleotide variant	NM_000199.5(SGSH):c.1A>T (p.Met1Leu)	6448	SGSH	Pathogenic/Likely pathogenic	GRCh38	4765375
 single nucleotide variant	NM_000199.5(SGSH):c.382C>T (p.Pro128Ser)	6448	SGSH	Likely pathogenic	GRCh38	4809985
 single nucleotide variant	NM_000199.5(SGSH):c.541C>T (p.His181Tyr)	6448	SGSH	Likely pathogenic	GRCh38	4797463
 single nucleotide variant	NM_000199.5(SGSH):c.239G>A (p.Gly80Asp)	6448	SGSH	Likely pathogenic	GRCh38	4800922
@@ -123,3 +121,7 @@ single nucleotide variant	NM_000199.5(SGSH):c.249+1G>A	6448	SGSH	Likely pathogen
 single nucleotide variant	NM_000199.5(SGSH):c.949G>C (p.Asp317His)	6448	SGSH	Likely pathogenic	GRCh38	4817911
 single nucleotide variant	NM_000199.5(SGSH):c.97G>T (p.Gly33Ter)	6448	SGSH	Pathogenic	GRCh38	4817912
 single nucleotide variant	NM_000199.5(SGSH):c.672C>A (p.Tyr224Ter)	6448	SGSH	Pathogenic	GRCh38	4854399
+single nucleotide variant	NM_000199.5(SGSH):c.1309G>A (p.Glu437Lys)	6448	SGSH	Likely pathogenic	GRCh38	4886974
+single nucleotide variant	NM_000199.5(SGSH):c.1127T>A (p.Met376Lys)	6448	SGSH	Likely pathogenic	GRCh38	4886975
+single nucleotide variant	NM_000199.5(SGSH):c.858C>G (p.Tyr286Ter)	6448	SGSH	Likely pathogenic	GRCh38	4889803
+single nucleotide variant	NM_000199.5(SGSH):c.745+1G>A	6448	SGSH	Likely pathogenic	GRCh38	4890052

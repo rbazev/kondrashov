@@ -1,0 +1,96 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006015.6(ARID1A):c.2758C>T (p.Gln920Ter)	8289	ARID1A	Pathogenic	GRCh38	30293
+single nucleotide variant	NM_006015.6(ARID1A):c.4003C>T (p.Arg1335Ter)	8289	ARID1A	Pathogenic	GRCh38	30294
+single nucleotide variant	NM_006015.6(ARID1A):c.5138T>C (p.Leu1713Pro)	8289	ARID1A	Likely pathogenic	GRCh38	210260
+single nucleotide variant	NM_006015.6(ARID1A):c.5965C>T (p.Arg1989Ter)	8289	ARID1A	Pathogenic	GRCh38	225842
+single nucleotide variant	NM_006015.6(ARID1A):c.3679G>T (p.Glu1227Ter)	8289	ARID1A	Pathogenic	GRCh38	225844
+single nucleotide variant	NM_006015.6(ARID1A):c.1207C>T (p.Gln403Ter)	8289	ARID1A	Pathogenic	GRCh38	235660
+single nucleotide variant	NM_006015.6(ARID1A):c.2988+1G>A	8289	ARID1A	Pathogenic	GRCh38	280918
+single nucleotide variant	NM_006015.6(ARID1A):c.1390C>T (p.Gln464Ter)	8289	ARID1A	Pathogenic	GRCh38	379359
+single nucleotide variant	NM_006015.6(ARID1A):c.1920+5G>A	8289	ARID1A	Likely pathogenic	GRCh38	423667
+single nucleotide variant	NM_006015.6(ARID1A):c.3764G>A (p.Gly1255Glu)	8289	ARID1A	Likely pathogenic	GRCh38	427049
+single nucleotide variant	NM_006015.6(ARID1A):c.6410C>A (p.Ala2137Asp)	8289	ARID1A	Likely pathogenic	GRCh38	432033
+single nucleotide variant	NM_006015.6(ARID1A):c.5164C>T (p.Arg1722Ter)	8289	ARID1A	Pathogenic	GRCh38	434343
+single nucleotide variant	NM_006015.6(ARID1A):c.3033G>T (p.Leu1011Phe)	8289	ARID1A	Pathogenic/Likely pathogenic	GRCh38	452118
+single nucleotide variant	NM_006015.6(ARID1A):c.6400C>G (p.Leu2134Val)	8289	ARID1A	Likely pathogenic	GRCh38	546575
+single nucleotide variant	NM_006015.6(ARID1A):c.1348C>T (p.Gln450Ter)	8289	ARID1A	Pathogenic	GRCh38	560946
+single nucleotide variant	NM_006015.6(ARID1A):c.3067T>C (p.Trp1023Arg)	8289	ARID1A	Pathogenic/Likely pathogenic	GRCh38	635055
+single nucleotide variant	NM_006015.6(ARID1A):c.3148G>T (p.Asp1050Tyr)	8289	ARID1A	Likely pathogenic	GRCh38	689740
+single nucleotide variant	NM_006015.6(ARID1A):c.6196A>T (p.Asn2066Tyr)	8289	ARID1A	Likely pathogenic	GRCh38	801462
+single nucleotide variant	NM_006015.6(ARID1A):c.2879-1G>A	8289	ARID1A	Pathogenic	GRCh38	812670
+single nucleotide variant	NM_006015.6(ARID1A):c.6518A>T (p.Asn2173Ile)	8289	ARID1A	Likely pathogenic	GRCh38	917881
+single nucleotide variant	NM_006015.6(ARID1A):c.1602C>A (p.Tyr534Ter)	8289	ARID1A	Pathogenic	GRCh38	973289
+single nucleotide variant	NM_006015.6(ARID1A):c.3061A>G (p.Lys1021Glu)	8289	ARID1A	Pathogenic	GRCh38	975337
+single nucleotide variant	NM_006015.6(ARID1A):c.4102-1G>C	8289	ARID1A	Likely pathogenic	GRCh38	975871
+single nucleotide variant	NM_006015.6(ARID1A):c.5531G>A (p.Trp1844Ter)	8289	ARID1A	Pathogenic	GRCh38	984945
+single nucleotide variant	NM_006015.6(ARID1A):c.3196C>T (p.Gln1066Ter)	8289	ARID1A	Pathogenic	GRCh38	986358
+single nucleotide variant	NM_006015.6(ARID1A):c.5963T>C (p.Ile1988Thr)	8289	ARID1A	Likely pathogenic	GRCh38	1028997
+single nucleotide variant	NM_006015.6(ARID1A):c.175G>T (p.Glu59Ter)	8289	ARID1A	Pathogenic	GRCh38	1065491
+single nucleotide variant	NM_006015.6(ARID1A):c.3169T>C (p.Ser1057Pro)	8289	ARID1A	Likely pathogenic	GRCh38	1176188
+single nucleotide variant	NM_006015.6(ARID1A):c.166C>T (p.Gln56Ter)	8289	ARID1A	Pathogenic	GRCh38	1177329
+single nucleotide variant	NM_006015.6(ARID1A):c.3146T>G (p.Leu1049Arg)	8289	ARID1A	Likely pathogenic	GRCh38	1177344
+single nucleotide variant	NM_006015.6(ARID1A):c.3230C>A (p.Ala1077Glu)	8289	ARID1A	Pathogenic/Likely pathogenic	GRCh38	1182296
+single nucleotide variant	NM_006015.6(ARID1A):c.791C>A (p.Ser264Ter)	8289	ARID1A	Likely pathogenic	GRCh38	1298412
+single nucleotide variant	NM_006015.6(ARID1A):c.4101G>A (p.Gln1367=)	8289	ARID1A	Likely pathogenic	GRCh38	1307168
+single nucleotide variant	NM_006015.6(ARID1A):c.2341A>G (p.Ile781Val)	8289	ARID1A	Likely pathogenic	GRCh38	1314744
+single nucleotide variant	NM_006015.6(ARID1A):c.595C>T (p.Gln199Ter)	8289	ARID1A	Likely pathogenic	GRCh38	1320102
+single nucleotide variant	NM_006015.6(ARID1A):c.1850C>A (p.Ser617Ter)	8289	ARID1A	Pathogenic	GRCh38	1323396
+single nucleotide variant	NM_006015.6(ARID1A):c.2122C>T (p.Gln708Ter)	8289	ARID1A	Pathogenic	GRCh38	1323404
+single nucleotide variant	NM_006015.6(ARID1A):c.666C>G (p.Tyr222Ter)	8289	ARID1A	Pathogenic	GRCh38	1338402
+single nucleotide variant	NM_006015.6(ARID1A):c.1642C>T (p.Gln548Ter)	8289	ARID1A	Pathogenic	GRCh38	1675353
+single nucleotide variant	NM_006015.6(ARID1A):c.6625C>T (p.Gln2209Ter)	8289	ARID1A	Pathogenic	GRCh38	1693158
+single nucleotide variant	NM_006015.6(ARID1A):c.3058A>T (p.Arg1020Trp)	8289	ARID1A	Pathogenic	GRCh38	1699033
+single nucleotide variant	NM_006015.6(ARID1A):c.3155A>C (p.Tyr1052Ser)	8289	ARID1A	Likely pathogenic	GRCh38	1700160
+single nucleotide variant	NM_006015.6(ARID1A):c.2248C>T (p.Arg750Ter)	8289	ARID1A	Likely pathogenic	GRCh38	4884560
+single nucleotide variant	NM_006015.6(ARID1A):c.3826C>T (p.Arg1276Ter)	8289	ARID1A	Pathogenic	GRCh38	1735301
+single nucleotide variant	NM_006015.6(ARID1A):c.5329G>T (p.Glu1777Ter)	8289	ARID1A	Pathogenic	GRCh38	1746859
+single nucleotide variant	NM_006015.6(ARID1A):c.1251C>G (p.Tyr417Ter)	8289	ARID1A	Pathogenic	GRCh38	1760779
+single nucleotide variant	NM_006015.6(ARID1A):c.6698G>A (p.Arg2233Gln)	8289	ARID1A	Likely pathogenic	GRCh38	1803502
+single nucleotide variant	NM_006015.6(ARID1A):c.4087C>T (p.Gln1363Ter)	8289	ARID1A	Pathogenic	GRCh38	2412701
+single nucleotide variant	NM_006015.6(ARID1A):c.3067T>G (p.Trp1023Gly)	8289	ARID1A	Likely pathogenic	GRCh38	2442202
+single nucleotide variant	NM_006015.6(ARID1A):c.3185G>T (p.Gly1062Val)	8289	ARID1A	Pathogenic	GRCh38	2446550
+single nucleotide variant	NM_006015.6(ARID1A):c.3287A>G (p.Tyr1096Cys)	8289	ARID1A	Pathogenic/Likely pathogenic	GRCh38	2500289
+single nucleotide variant	NM_006015.6(ARID1A):c.511C>T (p.Gln171Ter)	8289	ARID1A	Pathogenic	GRCh38	2582238
+single nucleotide variant	NM_006015.6(ARID1A):c.1813C>T (p.Gln605Ter)	8289	ARID1A	Pathogenic	GRCh38	2582239
+single nucleotide variant	NM_006015.6(ARID1A):c.2434C>T (p.Gln812Ter)	8289	ARID1A	Pathogenic	GRCh38	2582240
+single nucleotide variant	NM_006015.6(ARID1A):c.3988C>T (p.Gln1330Ter)	8289	ARID1A	Pathogenic	GRCh38	2582241
+single nucleotide variant	NM_006015.6(ARID1A):c.4372C>T (p.Gln1458Ter)	8289	ARID1A	Pathogenic	GRCh38	2582242
+single nucleotide variant	NM_006015.6(ARID1A):c.2632C>T (p.Gln878Ter)	8289	ARID1A	Pathogenic	GRCh38	2582250
+single nucleotide variant	NM_006015.6(ARID1A):c.5566C>T (p.Gln1856Ter)	8289	ARID1A	Pathogenic	GRCh38	2582256
+single nucleotide variant	NM_006015.6(ARID1A):c.6144G>A (p.Trp2048Ter)	8289	ARID1A	Pathogenic	GRCh38	2582260
+single nucleotide variant	NM_006015.6(ARID1A):c.1210C>T (p.Gln404Ter)	8289	ARID1A	Pathogenic	GRCh38	2582261
+single nucleotide variant	NM_006015.6(ARID1A):c.1585C>T (p.Gln529Ter)	8289	ARID1A	Pathogenic	GRCh38	2582262
+single nucleotide variant	NM_006015.6(ARID1A):c.2008C>T (p.Gln670Ter)	8289	ARID1A	Pathogenic	GRCh38	2582263
+single nucleotide variant	NM_006015.6(ARID1A):c.2272C>T (p.Gln758Ter)	8289	ARID1A	Pathogenic	GRCh38	2582264
+single nucleotide variant	NM_006015.6(ARID1A):c.2323C>T (p.Gln775Ter)	8289	ARID1A	Pathogenic	GRCh38	2582265
+single nucleotide variant	NM_006015.6(ARID1A):c.2683C>T (p.Gln895Ter)	8289	ARID1A	Pathogenic	GRCh38	2582266
+single nucleotide variant	NM_006015.6(ARID1A):c.4072C>T (p.Gln1358Ter)	8289	ARID1A	Pathogenic	GRCh38	2582268
+single nucleotide variant	NM_006015.6(ARID1A):c.4258C>T (p.Gln1420Ter)	8289	ARID1A	Pathogenic	GRCh38	2582269
+single nucleotide variant	NM_006015.6(ARID1A):c.4435C>T (p.Gln1479Ter)	8289	ARID1A	Pathogenic	GRCh38	2582270
+single nucleotide variant	NM_006015.6(ARID1A):c.4891C>T (p.Gln1631Ter)	8289	ARID1A	Pathogenic	GRCh38	2582271
+single nucleotide variant	NM_006015.6(ARID1A):c.5058G>A (p.Trp1686Ter)	8289	ARID1A	Pathogenic	GRCh38	2582272
+single nucleotide variant	NM_006015.6(ARID1A):c.5919G>A (p.Trp1973Ter)	8289	ARID1A	Pathogenic	GRCh38	2582273
+single nucleotide variant	NM_006015.6(ARID1A):c.6200T>C (p.Ile2067Thr)	8289	ARID1A	Likely pathogenic	GRCh38	2582556
+single nucleotide variant	NM_006015.6(ARID1A):c.6472C>T (p.Arg2158Ter)	8289	ARID1A	Likely pathogenic	GRCh38	2637152
+single nucleotide variant	NM_006015.6(ARID1A):c.1135C>T (p.Gln379Ter)	8289	ARID1A	Likely pathogenic	GRCh38	2634789
+single nucleotide variant	NM_006015.6(ARID1A):c.5965C>G (p.Arg1989Gly)	8289	ARID1A	Likely pathogenic	GRCh38	2920687
+single nucleotide variant	NM_006015.6(ARID1A):c.1507C>T (p.Gln503Ter)	8289	ARID1A	Pathogenic	GRCh38	3235938
+single nucleotide variant	NM_006015.6(ARID1A):c.4582C>T (p.Arg1528Ter)	8289	ARID1A	Pathogenic	GRCh38	3237157
+single nucleotide variant	NM_006015.6(ARID1A):c.961C>T (p.Gln321Ter)	8289	ARID1A	Pathogenic	GRCh38	3255192
+single nucleotide variant	NM_006015.6(ARID1A):c.3199-15G>A	8289	ARID1A	Likely pathogenic	GRCh38	3256744
+single nucleotide variant	NM_006015.6(ARID1A):c.3406G>A (p.Ala1136Thr)	8289	ARID1A	Likely pathogenic	GRCh38	3340598
+single nucleotide variant	NM_006015.6(ARID1A):c.4643A>C (p.His1548Pro)	8289	ARID1A	Likely pathogenic	GRCh38	3341001
+single nucleotide variant	NM_006015.6(ARID1A):c.88C>T (p.Gln30Ter)	8289	ARID1A	Likely pathogenic	GRCh38	3376314
+single nucleotide variant	NM_006015.6(ARID1A):c.3044G>T (p.Gly1015Val)	8289	ARID1A	Likely pathogenic	GRCh38	3376396
+single nucleotide variant	NM_006015.6(ARID1A):c.3198+2T>A	8289	ARID1A	Likely pathogenic	GRCh38	3382678
+single nucleotide variant	NM_006015.6(ARID1A):c.3155A>G (p.Tyr1052Cys)	8289	ARID1A	Likely pathogenic	GRCh38	3776770
+single nucleotide variant	NM_006015.6(ARID1A):c.3198+5G>A	8289	ARID1A	Likely pathogenic	GRCh38	3897603
+single nucleotide variant	NM_006015.6(ARID1A):c.3819G>T (p.Met1273Ile)	8289	ARID1A	Likely pathogenic	GRCh38	3899469
+single nucleotide variant	NM_006015.6(ARID1A):c.3059G>A (p.Arg1020Lys)	8289	ARID1A	Likely pathogenic	GRCh38	4680906
+single nucleotide variant	NM_006015.6(ARID1A):c.2251+1G>A	8289	ARID1A	Likely pathogenic	GRCh38	4717845
+single nucleotide variant	NM_006015.6(ARID1A):c.2162-1G>A	8289	ARID1A	Likely pathogenic	GRCh38	4812901
+single nucleotide variant	NM_006015.6(ARID1A):c.802C>T (p.Gln268Ter)	8289	ARID1A	Pathogenic	GRCh38	4813059
+single nucleotide variant	NM_006015.6(ARID1A):c.2161+1G>A	8289	ARID1A	Likely pathogenic	GRCh38	4855482
+single nucleotide variant	NM_006015.6(ARID1A):c.1920+2T>G	8289	ARID1A	Likely pathogenic	GRCh38	4855966
+single nucleotide variant	NM_006015.6(ARID1A):c.3314G>A (p.Cys1105Tyr)	8289	ARID1A	Likely pathogenic	GRCh38	4879570
+single nucleotide variant	NM_006015.6(ARID1A):c.2296C>T (p.Gln766Ter)	8289	ARID1A	Pathogenic	GRCh38	4888389

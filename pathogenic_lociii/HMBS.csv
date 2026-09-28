@@ -2,7 +2,7 @@ Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
 single nucleotide variant	NM_000190.4(HMBS):c.33+1G>A	3145	HMBS	Pathogenic	GRCh38	1441
 single nucleotide variant	NM_000190.4(HMBS):c.77G>A (p.Arg26His)	3145	HMBS	Pathogenic	GRCh38	1443
 single nucleotide variant	NM_000190.4(HMBS):c.33+1G>T	3145	HMBS	Pathogenic	GRCh38	1444
-single nucleotide variant	NM_000190.4(HMBS):c.346C>T (p.Arg116Trp)	3145	HMBS	Pathogenic	GRCh38	1445
+single nucleotide variant	NM_000190.4(HMBS):c.346C>T (p.Arg116Trp)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1445
 single nucleotide variant	NM_000190.4(HMBS):c.500G>A (p.Arg167Gln)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1446
 single nucleotide variant	NM_000190.4(HMBS):c.518G>A (p.Arg173Gln)	3145	HMBS	Pathogenic	GRCh38	1447
 single nucleotide variant	NM_000190.4(HMBS):c.463C>T (p.Gln155Ter)	3145	HMBS	Pathogenic	GRCh38	1448
@@ -15,7 +15,6 @@ single nucleotide variant	NM_000190.4(HMBS):c.499C>T (p.Arg167Trp)	3145	HMBS	Pat
 single nucleotide variant	NM_000190.4(HMBS):c.500G>T (p.Arg167Leu)	3145	HMBS	Pathogenic	GRCh38	1457
 single nucleotide variant	NM_000190.4(HMBS):c.211-1G>A	3145	HMBS	Pathogenic	GRCh38	1461
 single nucleotide variant	NM_000190.4(HMBS):c.331G>A (p.Gly111Arg)	3145	HMBS	Pathogenic/Likely pathogenic	GRCh38	1464
-single nucleotide variant	NM_000190.4(HMBS):c.499-1G>A	3145	HMBS	Pathogenic	GRCh38	1465
 single nucleotide variant	NM_000190.4(HMBS):c.530T>G (p.Leu177Arg)	3145	HMBS	Pathogenic	GRCh38	1466
 single nucleotide variant	NM_000190.4(HMBS):c.739T>C (p.Cys247Arg)	3145	HMBS	Likely pathogenic	GRCh38	1469
 single nucleotide variant	NM_000190.4(HMBS):c.748G>A (p.Glu250Lys)	3145	HMBS	Pathogenic	GRCh38	1471

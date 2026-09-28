@@ -1,0 +1,64 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_006261.5(PROP1):c.358C>T (p.Arg120Cys)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	8095
+single nucleotide variant	NM_006261.5(PROP1):c.349T>A (p.Phe117Ile)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	8096
+single nucleotide variant	NM_006261.5(PROP1):c.263T>C (p.Phe88Ser)	5626	PROP1	Pathogenic	GRCh38	8100
+single nucleotide variant	NM_006261.5(PROP1):c.218G>A (p.Arg73His)	5626	PROP1	Pathogenic	GRCh38	8103
+single nucleotide variant	NM_006261.5(PROP1):c.217C>T (p.Arg73Cys)	5626	PROP1	Pathogenic	GRCh38	8104
+single nucleotide variant	NM_006261.5(PROP1):c.295C>T (p.Arg99Ter)	5626	PROP1	Pathogenic	GRCh38	8105
+single nucleotide variant	NM_006261.5(PROP1):c.296G>A (p.Arg99Gln)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	8106
+single nucleotide variant	NM_006261.5(PROP1):c.582G>A (p.Trp194Ter)	5626	PROP1	Pathogenic	GRCh38	8107
+single nucleotide variant	NM_006261.5(PROP1):c.46C>T (p.Arg16Ter)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	36702
+single nucleotide variant	NM_006261.5(PROP1):c.274C>T (p.Gln92Ter)	5626	PROP1	Likely pathogenic	GRCh38	161433
+single nucleotide variant	NM_006261.5(PROP1):c.334C>T (p.Arg112Ter)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	188982
+single nucleotide variant	NM_006261.5(PROP1):c.343-2A>T	5626	PROP1	Pathogenic	GRCh38	371145
+single nucleotide variant	NM_006261.5(PROP1):c.110-2A>G	5626	PROP1	Likely pathogenic	GRCh38	370889
+single nucleotide variant	NM_006261.5(PROP1):c.3G>C (p.Met1Ile)	5626	PROP1	Likely pathogenic	GRCh38	424617
+single nucleotide variant	NM_006261.5(PROP1):c.373C>T (p.Arg125Trp)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	552692
+single nucleotide variant	NM_006261.5(PROP1):c.342+1G>A	5626	PROP1	Likely pathogenic	GRCh38	553577
+single nucleotide variant	NM_006261.5(PROP1):c.340C>T (p.Gln114Ter)	5626	PROP1	Pathogenic	GRCh38	558722
+single nucleotide variant	NM_006261.5(PROP1):c.2T>C (p.Met1Thr)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	551288
+single nucleotide variant	NM_006261.5(PROP1):c.109+1G>T	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	631963
+single nucleotide variant	NM_006261.5(PROP1):c.109+1G>C	5626	PROP1	Pathogenic	GRCh38	1070216
+single nucleotide variant	NM_006261.5(PROP1):c.352C>T (p.Gln118Ter)	5626	PROP1	Pathogenic	GRCh38	1454453
+single nucleotide variant	NM_006261.5(PROP1):c.343-1G>A	5626	PROP1	Likely pathogenic	GRCh38	1705572
+single nucleotide variant	NM_006261.5(PROP1):c.211C>T (p.Arg71Cys)	5626	PROP1	Pathogenic/Likely pathogenic	GRCh38	2678070
+single nucleotide variant	NM_006261.5(PROP1):c.109+1G>A	5626	PROP1	Pathogenic	GRCh38	2678071
+single nucleotide variant	NM_006261.5(PROP1):c.568C>T (p.Gln190Ter)	5626	PROP1	Likely pathogenic	GRCh38	2678072
+single nucleotide variant	NM_006261.5(PROP1):c.129C>A (p.Cys43Ter)	5626	PROP1	Pathogenic	GRCh38	2694409
+single nucleotide variant	NM_006261.5(PROP1):c.1A>G (p.Met1Val)	5626	PROP1	Pathogenic	GRCh38	2729647
+single nucleotide variant	NM_006261.5(PROP1):c.581G>A (p.Trp194Ter)	5626	PROP1	Likely pathogenic	GRCh38	2752750
+single nucleotide variant	NM_006261.5(PROP1):c.397C>T (p.Gln133Ter)	5626	PROP1	Likely pathogenic	GRCh38	3240210
+single nucleotide variant	NM_006261.5(PROP1):c.238C>T (p.Gln80Ter)	5626	PROP1	Likely pathogenic	GRCh38	4073471
+single nucleotide variant	NM_006261.5(PROP1):c.266G>T (p.Gly89Val)	5626	PROP1	Likely pathogenic	GRCh38	4073472
+single nucleotide variant	NM_006261.5(PROP1):c.359G>T (p.Arg120Leu)	5626	PROP1	Likely pathogenic	GRCh38	4073473
+single nucleotide variant	NM_006261.5(PROP1):c.365C>A (p.Ala122Asp)	5626	PROP1	Likely pathogenic	GRCh38	4073474
+single nucleotide variant	NM_006261.5(PROP1):c.394C>A (p.Leu132Ile)	5626	PROP1	Likely pathogenic	GRCh38	4073475
+single nucleotide variant	NM_006261.5(PROP1):c.415T>A (p.Ser139Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073476
+single nucleotide variant	NM_006261.5(PROP1):c.434G>C (p.Ser145Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073477
+single nucleotide variant	NM_006261.5(PROP1):c.605C>A (p.Pro202His)	5626	PROP1	Likely pathogenic	GRCh38	4073479
+single nucleotide variant	NM_006261.5(PROP1):c.454G>A (p.Ala152Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073480
+single nucleotide variant	NM_006261.5(PROP1):c.642G>A (p.Met214Ile)	5626	PROP1	Likely pathogenic	GRCh38	4073481
+single nucleotide variant	NM_006261.5(PROP1):c.610G>C (p.Gly204Arg)	5626	PROP1	Likely pathogenic	GRCh38	4073482
+single nucleotide variant	NM_006261.5(PROP1):c.529T>A (p.Ser177Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073483
+single nucleotide variant	NM_006261.5(PROP1):c.538T>A (p.Ser180Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073484
+single nucleotide variant	NM_006261.5(PROP1):c.568C>A (p.Gln190Lys)	5626	PROP1	Likely pathogenic	GRCh38	4073485
+single nucleotide variant	NM_006261.5(PROP1):c.579C>G (p.Asp193Glu)	5626	PROP1	Likely pathogenic	GRCh38	4073486
+single nucleotide variant	NM_006261.5(PROP1):c.580T>A (p.Trp194Arg)	5626	PROP1	Likely pathogenic	GRCh38	4073487
+single nucleotide variant	NM_006261.5(PROP1):c.592T>A (p.Leu198Met)	5626	PROP1	Likely pathogenic	GRCh38	4073488
+single nucleotide variant	NM_006261.5(PROP1):c.596A>G (p.His199Arg)	5626	PROP1	Likely pathogenic	GRCh38	4073490
+single nucleotide variant	NM_006261.5(PROP1):c.598C>A (p.Pro200Thr)	5626	PROP1	Likely pathogenic	GRCh38	4073491
+single nucleotide variant	NM_006261.5(PROP1):c.620C>G (p.Pro207Arg)	5626	PROP1	Likely pathogenic	GRCh38	4073492
+single nucleotide variant	NM_006261.5(PROP1):c.626C>G (p.Pro209Arg)	5626	PROP1	Likely pathogenic	GRCh38	4073493
+single nucleotide variant	NM_006261.5(PROP1):c.463T>G (p.Tyr155Asp)	5626	PROP1	Likely pathogenic	GRCh38	4073494
+single nucleotide variant	NM_006261.5(PROP1):c.482C>T (p.Pro161Leu)	5626	PROP1	Likely pathogenic	GRCh38	4073495
+single nucleotide variant	NM_006261.5(PROP1):c.499T>A (p.Phe167Ile)	5626	PROP1	Likely pathogenic	GRCh38	4073496
+single nucleotide variant	NM_006261.5(PROP1):c.392T>A (p.Leu131Gln)	5626	PROP1	Likely pathogenic	GRCh38	4073497
+single nucleotide variant	NM_006261.5(PROP1):c.449C>G (p.Ser150Cys)	5626	PROP1	Likely pathogenic	GRCh38	4073498
+single nucleotide variant	NM_006261.5(PROP1):c.386G>A (p.Arg129His)	5626	PROP1	Likely pathogenic	GRCh38	4073499
+single nucleotide variant	NM_006261.5(PROP1):c.401C>A (p.Pro134His)	5626	PROP1	Likely pathogenic	GRCh38	4073501
+single nucleotide variant	NM_006261.5(PROP1):c.451A>G (p.Thr151Ala)	5626	PROP1	Likely pathogenic	GRCh38	4073502
+single nucleotide variant	NM_006261.5(PROP1):c.374G>A (p.Arg125Gln)	5626	PROP1	Likely pathogenic	GRCh38	4526068
+single nucleotide variant	NM_006261.5(PROP1):c.343-11C>G	5626	PROP1	Likely pathogenic	GRCh38	4812874
+single nucleotide variant	NM_006261.5(PROP1):c.212G>A (p.Arg71His)	5626	PROP1	Likely pathogenic	GRCh38	4815500
+single nucleotide variant	NM_006261.5(PROP1):c.3G>A (p.Met1Ile)	5626	PROP1	Likely pathogenic	GRCh38	4815501
+single nucleotide variant	NM_006261.5(PROP1):c.585C>A (p.Tyr195Ter)	5626	PROP1	Likely pathogenic	GRCh38	4889785

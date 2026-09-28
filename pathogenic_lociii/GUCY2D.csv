@@ -1,0 +1,166 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000180.4(GUCY2D):c.1694T>C (p.Phe565Ser)	3000	GUCY2D	Pathogenic	GRCh38	9350
+single nucleotide variant	NM_000180.4(GUCY2D):c.2512C>T (p.Arg838Cys)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	9355
+single nucleotide variant	NM_000180.4(GUCY2D):c.2513G>A (p.Arg838His)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	9357
+single nucleotide variant	NM_000180.4(GUCY2D):c.2846T>C (p.Ile949Thr)	3000	GUCY2D	Pathogenic	GRCh38	9359
+single nucleotide variant	NM_000180.4(GUCY2D):c.2512C>A (p.Arg838Ser)	3000	GUCY2D	Pathogenic	GRCh38	98568
+single nucleotide variant	NM_000180.4(GUCY2D):c.1052A>G (p.Tyr351Cys)	3000	GUCY2D	Likely pathogenic	GRCh38	98536
+single nucleotide variant	NM_000180.4(GUCY2D):c.1343C>A (p.Ser448Ter)	3000	GUCY2D	Pathogenic	GRCh38	98540
+single nucleotide variant	NM_000180.4(GUCY2D):c.1566+2T>C	3000	GUCY2D	Pathogenic	GRCh38	98544
+single nucleotide variant	NM_000180.4(GUCY2D):c.1956+2T>A	3000	GUCY2D	Likely pathogenic	GRCh38	98550
+single nucleotide variant	NM_000180.4(GUCY2D):c.1957-1G>T	3000	GUCY2D	Pathogenic	GRCh38	98552
+single nucleotide variant	NM_000180.4(GUCY2D):c.1978C>T (p.Arg660Ter)	3000	GUCY2D	Pathogenic	GRCh38	98554
+single nucleotide variant	NM_000180.4(GUCY2D):c.2302C>T (p.Arg768Trp)	3000	GUCY2D	Pathogenic	GRCh38	98563
+single nucleotide variant	NM_000180.4(GUCY2D):c.2800G>C (p.Ala934Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	98575
+single nucleotide variant	NM_000180.4(GUCY2D):c.2861T>C (p.Leu954Pro)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	98578
+single nucleotide variant	NM_000180.4(GUCY2D):c.2927G>T (p.Arg976Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	98581
+single nucleotide variant	NM_000180.4(GUCY2D):c.2983C>T (p.Arg995Trp)	3000	GUCY2D	Likely pathogenic	GRCh38	98584
+single nucleotide variant	NM_000180.4(GUCY2D):c.2T>A (p.Met1Lys)	3000	GUCY2D	Pathogenic	GRCh38	98585
+single nucleotide variant	NM_000180.4(GUCY2D):c.3025A>T (p.Met1009Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	98586
+single nucleotide variant	NM_000180.4(GUCY2D):c.307G>A (p.Glu103Lys)	3000	GUCY2D	Likely pathogenic	GRCh38	98590
+single nucleotide variant	NM_000180.4(GUCY2D):c.3118C>T (p.Arg1040Ter)	3000	GUCY2D	Pathogenic	GRCh38	98594
+single nucleotide variant	NM_000180.4(GUCY2D):c.314G>A (p.Cys105Tyr)	3000	GUCY2D	Pathogenic	GRCh38	98595
+single nucleotide variant	NM_000180.4(GUCY2D):c.387C>A (p.Asn129Lys)	3000	GUCY2D	Likely pathogenic	GRCh38	98601
+single nucleotide variant	NM_000180.4(GUCY2D):c.3G>A (p.Met1Ile)	3000	GUCY2D	Pathogenic	GRCh38	98603
+single nucleotide variant	NM_000180.4(GUCY2D):c.3G>C (p.Met1Ile)	3000	GUCY2D	Pathogenic	GRCh38	98604
+single nucleotide variant	NM_000180.4(GUCY2D):c.935C>T (p.Thr312Met)	3000	GUCY2D	Likely pathogenic	GRCh38	98610
+single nucleotide variant	NM_000180.4(GUCY2D):c.937C>T (p.Arg313Cys)	3000	GUCY2D	Likely pathogenic	GRCh38	98611
+single nucleotide variant	NM_000180.4(GUCY2D):c.416T>C (p.Leu139Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	191069
+single nucleotide variant	NM_000180.4(GUCY2D):c.527T>C (p.Leu176Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	191070
+single nucleotide variant	NM_000180.4(GUCY2D):c.3175A>T (p.Arg1059Ter)	3000	GUCY2D	Likely pathogenic	GRCh38	236435
+single nucleotide variant	NM_000180.4(GUCY2D):c.3139-1G>C	3000	GUCY2D	Pathogenic	GRCh38	280359
+single nucleotide variant	NM_000180.4(GUCY2D):c.2335G>T (p.Glu779Ter)	3000	GUCY2D	Pathogenic	GRCh38	419706
+single nucleotide variant	NM_000180.4(GUCY2D):c.2598G>C (p.Lys866Asn)	3000	GUCY2D	Pathogenic	GRCh38	471238
+single nucleotide variant	NM_000180.4(GUCY2D):c.2563C>T (p.Gln855Ter)	3000	GUCY2D	Pathogenic	GRCh38	497765
+single nucleotide variant	NM_000180.4(GUCY2D):c.849C>G (p.Tyr283Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	521653
+single nucleotide variant	NM_000180.4(GUCY2D):c.1566+1G>A	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	521652
+single nucleotide variant	NM_000180.4(GUCY2D):c.2303G>A (p.Arg768Gln)	3000	GUCY2D	Pathogenic	GRCh38	560463
+single nucleotide variant	NM_000180.4(GUCY2D):c.2618C>G (p.Pro873Arg)	3000	GUCY2D	Pathogenic	GRCh38	575081
+single nucleotide variant	NM_000180.4(GUCY2D):c.3224+1G>C	3000	GUCY2D	Pathogenic	GRCh38	581095
+single nucleotide variant	NM_000180.4(GUCY2D):c.2766C>G (p.Tyr922Ter)	3000	GUCY2D	Pathogenic	GRCh38	587413
+single nucleotide variant	NM_000180.4(GUCY2D):c.2384G>A (p.Arg795Gln)	3000	GUCY2D	Likely pathogenic	GRCh38	596790
+single nucleotide variant	NM_000180.4(GUCY2D):c.571C>T (p.Gln191Ter)	3000	GUCY2D	Pathogenic	GRCh38	596884
+single nucleotide variant	NM_000180.4(GUCY2D):c.1561C>T (p.Arg521Ter)	3000	GUCY2D	Pathogenic	GRCh38	638494
+single nucleotide variant	NM_000180.4(GUCY2D):c.2731C>T (p.Leu911Phe)	3000	GUCY2D	Pathogenic	GRCh38	689382
+single nucleotide variant	NM_000180.4(GUCY2D):c.1633C>T (p.Gln545Ter)	3000	GUCY2D	Pathogenic	GRCh38	689384
+single nucleotide variant	NM_000180.4(GUCY2D):c.247C>T (p.Arg83Cys)	3000	GUCY2D	Pathogenic	GRCh38	689385
+single nucleotide variant	NM_000180.4(GUCY2D):c.1957-2A>G	3000	GUCY2D	Pathogenic	GRCh38	803315
+single nucleotide variant	NM_000180.4(GUCY2D):c.1972C>T (p.His658Tyr)	3000	GUCY2D	Likely pathogenic	GRCh38	803316
+single nucleotide variant	NM_000180.4(GUCY2D):c.839C>G (p.Thr280Arg)	3000	GUCY2D	Likely pathogenic	GRCh38	808220
+single nucleotide variant	NM_000180.4(GUCY2D):c.2513G>C (p.Arg838Pro)	3000	GUCY2D	Pathogenic	GRCh38	811743
+single nucleotide variant	NM_000180.4(GUCY2D):c.1992T>G (p.His664Gln)	3000	GUCY2D	Pathogenic	GRCh38	812326
+single nucleotide variant	NM_000180.4(GUCY2D):c.2129C>T (p.Ala710Val)	3000	GUCY2D	Pathogenic	GRCh38	812327
+single nucleotide variant	NM_000180.4(GUCY2D):c.2521G>A (p.Glu841Lys)	3000	GUCY2D	Likely pathogenic	GRCh38	812328
+single nucleotide variant	NM_000180.4(GUCY2D):c.2538G>C (p.Lys846Asn)	3000	GUCY2D	Pathogenic	GRCh38	812329
+single nucleotide variant	NM_000180.4(GUCY2D):c.2704G>T (p.Val902Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	812330
+single nucleotide variant	NM_000180.4(GUCY2D):c.1573C>T (p.Gln525Ter)	3000	GUCY2D	Pathogenic	GRCh38	861650
+single nucleotide variant	NM_000180.4(GUCY2D):c.1996C>T (p.Arg666Trp)	3000	GUCY2D	Likely pathogenic	GRCh38	860894
+single nucleotide variant	NM_000180.4(GUCY2D):c.2988C>G (p.Tyr996Ter)	3000	GUCY2D	Pathogenic	GRCh38	851765
+single nucleotide variant	NM_000180.4(GUCY2D):c.3065T>A (p.Leu1022Ter)	3000	GUCY2D	Pathogenic	GRCh38	864510
+single nucleotide variant	NM_000180.4(GUCY2D):c.2182G>A (p.Asp728Asn)	3000	GUCY2D	Likely pathogenic	GRCh38	866419
+single nucleotide variant	NM_000180.4(GUCY2D):c.3025A>C (p.Met1009Leu)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	866787
+single nucleotide variant	NM_000180.4(GUCY2D):c.3271C>T (p.Arg1091Ter)	3000	GUCY2D	Pathogenic	GRCh38	866048
+single nucleotide variant	NM_000180.4(GUCY2D):c.2945-2A>C	3000	GUCY2D	Pathogenic	GRCh38	915393
+single nucleotide variant	NM_000180.4(GUCY2D):c.65G>A (p.Trp22Ter)	3000	GUCY2D	Pathogenic	GRCh38	961067
+single nucleotide variant	NM_000180.4(GUCY2D):c.1582C>T (p.Arg528Ter)	3000	GUCY2D	Pathogenic	GRCh38	961926
+single nucleotide variant	NM_000180.4(GUCY2D):c.543G>A (p.Trp181Ter)	3000	GUCY2D	Pathogenic	GRCh38	974658
+single nucleotide variant	NM_000180.4(GUCY2D):c.725T>G (p.Val242Gly)	3000	GUCY2D	Likely pathogenic	GRCh38	974634
+single nucleotide variant	NM_000180.4(GUCY2D):c.997G>T (p.Glu333Ter)	3000	GUCY2D	Pathogenic	GRCh38	974635
+single nucleotide variant	NM_000180.4(GUCY2D):c.1211T>C (p.Leu404Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	974669
+single nucleotide variant	NM_000180.4(GUCY2D):c.1924T>G (p.Phe642Val)	3000	GUCY2D	Likely pathogenic	GRCh38	974637
+single nucleotide variant	NM_000180.4(GUCY2D):c.1943T>C (p.Leu648Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	974662
+single nucleotide variant	NM_000180.4(GUCY2D):c.2008C>T (p.Arg670Trp)	3000	GUCY2D	Likely pathogenic	GRCh38	974638
+single nucleotide variant	NM_000180.4(GUCY2D):c.2132C>T (p.Pro711Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	974639
+single nucleotide variant	NM_000180.4(GUCY2D):c.2338T>C (p.Cys780Arg)	3000	GUCY2D	Likely pathogenic	GRCh38	974641
+single nucleotide variant	NM_000180.4(GUCY2D):c.2521G>T (p.Glu841Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	974643
+single nucleotide variant	NM_000180.4(GUCY2D):c.2627T>C (p.Phe876Ser)	3000	GUCY2D	Likely pathogenic	GRCh38	974664
+single nucleotide variant	NM_000180.4(GUCY2D):c.2660T>G (p.Val887Gly)	3000	GUCY2D	Likely pathogenic	GRCh38	974646
+single nucleotide variant	NM_000180.4(GUCY2D):c.2783G>C (p.Gly928Ala)	3000	GUCY2D	Likely pathogenic	GRCh38	974648
+single nucleotide variant	NM_000180.4(GUCY2D):c.2836G>A (p.Ala946Thr)	3000	GUCY2D	Likely pathogenic	GRCh38	974649
+single nucleotide variant	NM_000180.4(GUCY2D):c.2836G>T (p.Ala946Ser)	3000	GUCY2D	Likely pathogenic	GRCh38	974657
+single nucleotide variant	NM_000180.4(GUCY2D):c.2848G>A (p.Ala950Thr)	3000	GUCY2D	Likely pathogenic	GRCh38	974650
+single nucleotide variant	NM_000180.4(GUCY2D):c.2939A>T (p.His980Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	974671
+single nucleotide variant	NM_000180.4(GUCY2D):c.3037G>A (p.Gly1013Arg)	3000	GUCY2D	Pathogenic	GRCh38	974654
+single nucleotide variant	NM_000180.4(GUCY2D):c.3056A>C (p.His1019Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	974655
+single nucleotide variant	NM_000180.4(GUCY2D):c.3163T>G (p.Trp1055Gly)	3000	GUCY2D	Likely pathogenic	GRCh38	974665
+single nucleotide variant	NM_000180.4(GUCY2D):c.1378+1G>A	3000	GUCY2D	Pathogenic	GRCh38	974668
+single nucleotide variant	NM_000180.4(GUCY2D):c.2263+2T>C	3000	GUCY2D	Pathogenic	GRCh38	974661
+single nucleotide variant	NM_000180.4(GUCY2D):c.2413-1G>C	3000	GUCY2D	Pathogenic	GRCh38	974660
+single nucleotide variant	NM_000180.4(GUCY2D):c.2577-2A>C	3000	GUCY2D	Pathogenic	GRCh38	974645
+single nucleotide variant	NM_000180.4(GUCY2D):c.2770-2A>G	3000	GUCY2D	Pathogenic	GRCh38	974647
+single nucleotide variant	NM_000180.4(GUCY2D):c.2770-1G>C	3000	GUCY2D	Pathogenic	GRCh38	974629
+single nucleotide variant	NM_000180.4(GUCY2D):c.3224+3G>T	3000	GUCY2D	Likely pathogenic	GRCh38	974673
+single nucleotide variant	NM_000180.4(GUCY2D):c.1937T>C (p.Leu646Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	975046
+single nucleotide variant	NM_000180.4(GUCY2D):c.1991A>C (p.His664Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	982529
+single nucleotide variant	NM_000180.4(GUCY2D):c.2984G>A (p.Arg995Gln)	3000	GUCY2D	Likely pathogenic	GRCh38	982530
+single nucleotide variant	NM_000180.4(GUCY2D):c.3038G>A (p.Gly1013Glu)	3000	GUCY2D	Pathogenic	GRCh38	982538
+single nucleotide variant	NM_000180.4(GUCY2D):c.929C>A (p.Thr310Asn)	3000	GUCY2D	Likely pathogenic	GRCh38	1048129
+single nucleotide variant	NM_000180.4(GUCY2D):c.1749+1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	1066403
+single nucleotide variant	NM_000180.4(GUCY2D):c.2383C>T (p.Arg795Trp)	3000	GUCY2D	Pathogenic	GRCh38	1070768
+single nucleotide variant	NM_000180.4(GUCY2D):c.2476C>T (p.Gln826Ter)	3000	GUCY2D	Pathogenic	GRCh38	1070769
+single nucleotide variant	NM_000180.4(GUCY2D):c.2646C>G (p.Tyr882Ter)	3000	GUCY2D	Pathogenic	GRCh38	1074833
+single nucleotide variant	NM_000180.4(GUCY2D):c.3105C>G (p.Tyr1035Ter)	3000	GUCY2D	Pathogenic	GRCh38	1075556
+single nucleotide variant	NM_000180.4(GUCY2D):c.2872A>C (p.Ser958Arg)	3000	GUCY2D	Likely pathogenic	GRCh38	1184571
+single nucleotide variant	NM_000180.4(GUCY2D):c.3043+5G>A	3000	GUCY2D	Likely pathogenic	GRCh38	1184616
+single nucleotide variant	NM_000180.4(GUCY2D):c.1567-1G>C	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	1213843
+single nucleotide variant	NM_000180.4(GUCY2D):c.3026T>A (p.Met1009Lys)	3000	GUCY2D	Pathogenic	GRCh38	1333159
+single nucleotide variant	NM_000180.4(GUCY2D):c.2260G>T (p.Glu754Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	1366687
+single nucleotide variant	NM_000180.4(GUCY2D):c.743C>G (p.Ser248Trp)	3000	GUCY2D	Likely pathogenic	GRCh38	1445009
+single nucleotide variant	NM_000180.4(GUCY2D):c.2209C>T (p.Gln737Ter)	3000	GUCY2D	Pathogenic	GRCh38	1456503
+single nucleotide variant	NM_000180.4(GUCY2D):c.760G>T (p.Glu254Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	1459421
+single nucleotide variant	NM_000180.4(GUCY2D):c.2545A>G (p.Thr849Ala)	3000	GUCY2D	Likely pathogenic	GRCh38	1491160
+single nucleotide variant	NM_000180.4(GUCY2D):c.2412+2T>C	3000	GUCY2D	Likely pathogenic	GRCh38	1492836
+single nucleotide variant	NM_000180.4(GUCY2D):c.2135A>T (p.Glu712Val)	3000	GUCY2D	Likely pathogenic	GRCh38	1679291
+single nucleotide variant	NM_000180.4(GUCY2D):c.1A>G (p.Met1Val)	3000	GUCY2D	Pathogenic	GRCh38	1685872
+single nucleotide variant	NM_000180.4(GUCY2D):c.2512C>G (p.Arg838Gly)	3000	GUCY2D	Pathogenic	GRCh38	1685873
+single nucleotide variant	NM_000180.4(GUCY2D):c.2006C>G (p.Ser669Ter)	3000	GUCY2D	Likely pathogenic	GRCh38	1687295
+single nucleotide variant	NM_000180.4(GUCY2D):c.315C>A (p.Cys105Ter)	3000	GUCY2D	Pathogenic	GRCh38	1687499
+single nucleotide variant	NM_000180.4(GUCY2D):c.1762C>T (p.Arg588Trp)	3000	GUCY2D	Pathogenic	GRCh38	2137915
+single nucleotide variant	NM_000180.4(GUCY2D):c.2323C>T (p.Gln775Ter)	3000	GUCY2D	Pathogenic	GRCh38	2046697
+single nucleotide variant	NM_000180.4(GUCY2D):c.2263+1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	2102919
+single nucleotide variant	NM_000180.4(GUCY2D):c.2264-1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	2135119
+single nucleotide variant	NM_000180.4(GUCY2D):c.2952C>A (p.Cys984Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	2585236
+single nucleotide variant	NM_000180.4(GUCY2D):c.2180G>A (p.Gly727Asp)	3000	GUCY2D	Likely pathogenic	GRCh38	2628038
+single nucleotide variant	NM_000180.4(GUCY2D):c.2769+1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	2922312
+single nucleotide variant	NM_000180.4(GUCY2D):c.185G>A (p.Trp62Ter)	3000	GUCY2D	Pathogenic	GRCh38	2923457
+single nucleotide variant	NM_000180.4(GUCY2D):c.186G>A (p.Trp62Ter)	3000	GUCY2D	Pathogenic	GRCh38	2925598
+single nucleotide variant	NM_000180.4(GUCY2D):c.308A>T (p.Glu103Val)	3000	GUCY2D	Pathogenic	GRCh38	2925599
+single nucleotide variant	NM_000180.4(GUCY2D):c.450G>A (p.Trp150Ter)	3000	GUCY2D	Pathogenic/Likely pathogenic	GRCh38	2925600
+single nucleotide variant	NM_000180.4(GUCY2D):c.1116G>A (p.Trp372Ter)	3000	GUCY2D	Pathogenic	GRCh38	2925603
+single nucleotide variant	NM_000180.4(GUCY2D):c.2080C>T (p.Gln694Ter)	3000	GUCY2D	Pathogenic	GRCh38	2925605
+single nucleotide variant	NM_000180.4(GUCY2D):c.2113+1G>A	3000	GUCY2D	Pathogenic	GRCh38	2925606
+single nucleotide variant	NM_000180.4(GUCY2D):c.2576+1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	2925607
+single nucleotide variant	NM_000180.4(GUCY2D):c.3020C>T (p.Ser1007Leu)	3000	GUCY2D	Likely pathogenic	GRCh38	2925608
+single nucleotide variant	NM_000180.4(GUCY2D):c.1026+2T>C	3000	GUCY2D	Likely pathogenic	GRCh38	2933720
+single nucleotide variant	NM_000180.4(GUCY2D):c.1753C>T (p.Gln585Ter)	3000	GUCY2D	Pathogenic	GRCh38	2926236
+single nucleotide variant	NM_000180.4(GUCY2D):c.2577-2A>G	3000	GUCY2D	Likely pathogenic	GRCh38	2946359
+single nucleotide variant	NM_000180.4(GUCY2D):c.1371C>A (p.Cys457Ter)	3000	GUCY2D	Pathogenic	GRCh38	2938421
+single nucleotide variant	NM_000180.4(GUCY2D):c.51C>A (p.Cys17Ter)	3000	GUCY2D	Pathogenic	GRCh38	2945151
+single nucleotide variant	NM_000180.4(GUCY2D):c.2632C>T (p.Gln878Ter)	3000	GUCY2D	Pathogenic	GRCh38	2953457
+single nucleotide variant	NM_000180.4(GUCY2D):c.2363G>A (p.Trp788Ter)	3000	GUCY2D	Pathogenic	GRCh38	3248662
+single nucleotide variant	NM_000180.4(GUCY2D):c.2747T>C (p.Ile916Thr)	3000	GUCY2D	Pathogenic	GRCh38	3248753
+single nucleotide variant	NM_000180.4(GUCY2D):c.2522A>G (p.Glu841Gly)	3000	GUCY2D	Likely pathogenic	GRCh38	3248754
+single nucleotide variant	NM_000180.4(GUCY2D):c.2642T>C (p.Leu881Pro)	3000	GUCY2D	Likely pathogenic	GRCh38	3249014
+single nucleotide variant	NM_000180.4(GUCY2D):c.2480A>T (p.Tyr827Phe)	3000	GUCY2D	Likely pathogenic	GRCh38	3249714
+single nucleotide variant	NM_000180.4(GUCY2D):c.2384G>C (p.Arg795Pro)	3000	GUCY2D	Pathogenic	GRCh38	3249787
+single nucleotide variant	NM_000180.4(GUCY2D):c.2480A>C (p.Tyr827Ser)	3000	GUCY2D	Likely pathogenic	GRCh38	3249829
+single nucleotide variant	NM_000180.4(GUCY2D):c.985C>T (p.Gln329Ter)	3000	GUCY2D	Pathogenic	GRCh38	3249962
+single nucleotide variant	NM_000180.4(GUCY2D):c.2944+1G>T	3000	GUCY2D	Pathogenic	GRCh38	3249976
+single nucleotide variant	NM_000180.4(GUCY2D):c.2740G>A (p.Ala914Thr)	3000	GUCY2D	Likely pathogenic	GRCh38	3250213
+single nucleotide variant	NM_000180.4(GUCY2D):c.2T>C (p.Met1Thr)	3000	GUCY2D	Likely pathogenic	GRCh38	3381797
+single nucleotide variant	NM_000180.4(GUCY2D):c.2263+1G>C	3000	GUCY2D	Likely pathogenic	GRCh38	3544490
+single nucleotide variant	NM_000180.4(GUCY2D):c.1378+1G>T	3000	GUCY2D	Likely pathogenic	GRCh38	3583119
+single nucleotide variant	NM_000180.4(GUCY2D):c.1956+1G>A	3000	GUCY2D	Pathogenic	GRCh38	3583120
+single nucleotide variant	NM_000180.4(GUCY2D):c.2833C>T (p.His945Tyr)	3000	GUCY2D	Likely pathogenic	GRCh38	3602089
+single nucleotide variant	NM_000180.4(GUCY2D):c.722-1G>T	3000	GUCY2D	Pathogenic	GRCh38	3602090
+single nucleotide variant	NM_000180.4(GUCY2D):c.2765A>G (p.Tyr922Cys)	3000	GUCY2D	Likely pathogenic	GRCh38	3602091
+single nucleotide variant	NM_000180.4(GUCY2D):c.2272C>T (p.Gln758Ter)	3000	GUCY2D	Pathogenic	GRCh38	3757639
+single nucleotide variant	NM_000180.4(GUCY2D):c.66G>A (p.Trp22Ter)	3000	GUCY2D	Pathogenic	GRCh38	3755347
+single nucleotide variant	NM_000180.4(GUCY2D):c.19C>T (p.Arg7Ter)	3000	GUCY2D	Pathogenic	GRCh38	3775398
+single nucleotide variant	NM_000180.4(GUCY2D):c.582G>A (p.Trp194Ter)	3000	GUCY2D	Pathogenic	GRCh38	3775417
+single nucleotide variant	NM_000180.4(GUCY2D):c.2842G>T (p.Glu948Ter)	3000	GUCY2D	Likely pathogenic	GRCh38	4526605
+single nucleotide variant	NM_000180.4(GUCY2D):c.1918T>C (p.Trp640Arg)	3000	GUCY2D	Likely pathogenic	GRCh38	4536043
+single nucleotide variant	NM_000180.4(GUCY2D):c.1354G>A (p.Asp452Asn)	3000	GUCY2D	Likely pathogenic	GRCh38	4537471
+single nucleotide variant	NM_000180.4(GUCY2D):c.3020C>A (p.Ser1007Ter)	3000	GUCY2D	Likely pathogenic	GRCh38	4538536
+single nucleotide variant	NM_000180.4(GUCY2D):c.1750-1G>A	3000	GUCY2D	Likely pathogenic	GRCh38	4787340
+single nucleotide variant	NM_000180.4(GUCY2D):c.2413-2A>C	3000	GUCY2D	Likely pathogenic	GRCh38	4884174

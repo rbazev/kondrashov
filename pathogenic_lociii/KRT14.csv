@@ -1,0 +1,61 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000526.5(KRT14):c.1151T>C (p.Leu384Pro)	3861	KRT14	Likely pathogenic	GRCh38	14611
+single nucleotide variant	NM_000526.5(KRT14):c.373C>T (p.Arg125Cys)	3861	KRT14	Pathogenic	GRCh38	14612
+single nucleotide variant	NM_000526.5(KRT14):c.374G>A (p.Arg125His)	3861	KRT14	Pathogenic	GRCh38	14613
+single nucleotide variant	NM_000526.5(KRT14):c.431A>C (p.Glu144Ala)	3861	KRT14	Pathogenic	GRCh38	14614
+single nucleotide variant	NM_000526.5(KRT14):c.612T>A (p.Tyr204Ter)	3861	KRT14	Pathogenic	GRCh38	14616
+single nucleotide variant	NM_000526.5(KRT14):c.815T>G (p.Met272Arg)	3861	KRT14	Pathogenic	GRCh38	14617
+single nucleotide variant	NM_000526.5(KRT14):c.356T>C (p.Met119Thr)	3861	KRT14	Pathogenic	GRCh38	14619
+single nucleotide variant	NM_000526.5(KRT14):c.357G>A (p.Met119Ile)	3861	KRT14	Pathogenic	GRCh38	14620
+single nucleotide variant	NM_000526.5(KRT14):c.1243T>C (p.Tyr415His)	3861	KRT14	Pathogenic	GRCh38	14621
+single nucleotide variant	NM_000526.5(KRT14):c.1256T>A (p.Leu419Gln)	3861	KRT14	Pathogenic	GRCh38	14622
+single nucleotide variant	NM_000526.5(KRT14):c.1264G>A (p.Glu422Lys)	3861	KRT14	Pathogenic	GRCh38	14623
+single nucleotide variant	NM_000526.5(KRT14):c.368A>G (p.Asn123Ser)	3861	KRT14	Pathogenic	GRCh38	14628
+single nucleotide variant	NM_000526.5(KRT14):c.1130T>C (p.Ile377Thr)	3861	KRT14	Pathogenic	GRCh38	66303
+single nucleotide variant	NM_000526.5(KRT14):c.1162C>T (p.Arg388Cys)	3861	KRT14	Pathogenic	GRCh38	66306
+single nucleotide variant	NM_000526.5(KRT14):c.1186C>T (p.Gln396Ter)	3861	KRT14	Pathogenic/Likely pathogenic	GRCh38	66309
+single nucleotide variant	NM_000526.5(KRT14):c.1228C>T (p.Gln410Ter)	3861	KRT14	Pathogenic	GRCh38	66313
+single nucleotide variant	NM_000526.5(KRT14):c.1231G>A (p.Glu411Lys)	3861	KRT14	Pathogenic	GRCh38	66314
+single nucleotide variant	NM_000526.5(KRT14):c.1231G>T (p.Glu411Ter)	3861	KRT14	Pathogenic	GRCh38	66315
+single nucleotide variant	NM_000526.5(KRT14):c.1244A>G (p.Tyr415Cys)	3861	KRT14	Pathogenic	GRCh38	66322
+single nucleotide variant	NM_000526.5(KRT14):c.19C>T (p.Gln7Ter)	3861	KRT14	Pathogenic	GRCh38	66333
+single nucleotide variant	NM_000526.5(KRT14):c.346A>T (p.Lys116Ter)	3861	KRT14	Pathogenic	GRCh38	66339
+single nucleotide variant	NM_000526.5(KRT14):c.355A>G (p.Met119Val)	3861	KRT14	Pathogenic/Likely pathogenic	GRCh38	66341
+single nucleotide variant	NM_000526.5(KRT14):c.364C>T (p.Leu122Phe)	3861	KRT14	Pathogenic	GRCh38	66344
+single nucleotide variant	NM_000526.5(KRT14):c.374G>C (p.Arg125Pro)	3861	KRT14	Pathogenic	GRCh38	66348
+single nucleotide variant	NM_000526.5(KRT14):c.374G>T (p.Arg125Leu)	3861	KRT14	Pathogenic	GRCh38	66349
+single nucleotide variant	NM_000526.5(KRT14):c.385T>G (p.Tyr129Asp)	3861	KRT14	Pathogenic	GRCh38	66353
+single nucleotide variant	NM_000526.5(KRT14):c.386A>G (p.Tyr129Cys)	3861	KRT14	Pathogenic	GRCh38	66354
+single nucleotide variant	NM_000526.5(KRT14):c.389T>C (p.Leu130Pro)	3861	KRT14	Pathogenic	GRCh38	66355
+single nucleotide variant	NM_000526.5(KRT14):c.397G>A (p.Val133Met)	3861	KRT14	Pathogenic/Likely pathogenic	GRCh38	66356
+single nucleotide variant	NM_000526.5(KRT14):c.397G>T (p.Val133Leu)	3861	KRT14	Pathogenic	GRCh38	66358
+single nucleotide variant	NM_000526.5(KRT14):c.419A>G (p.Asn140Ser)	3861	KRT14	Likely pathogenic	GRCh38	66365
+single nucleotide variant	NM_000526.5(KRT14):c.526-2A>C	3861	KRT14	Likely pathogenic	GRCh38	66369
+single nucleotide variant	NM_000526.5(KRT14):c.808G>A (p.Val270Met)	3861	KRT14	Pathogenic	GRCh38	66377
+single nucleotide variant	NM_000526.5(KRT14):c.815T>C (p.Met272Thr)	3861	KRT14	Pathogenic	GRCh38	66378
+single nucleotide variant	NM_000526.5(KRT14):c.818A>G (p.Asp273Gly)	3861	KRT14	Likely pathogenic	GRCh38	66379
+single nucleotide variant	NM_000526.5(KRT14):c.915G>A (p.Trp305Ter)	3861	KRT14	Pathogenic	GRCh38	66382
+single nucleotide variant	NM_000526.5(KRT14):c.927+1G>A	3861	KRT14	Pathogenic	GRCh38	66383
+single nucleotide variant	NM_000526.5(KRT14):c.1163G>A (p.Arg388His)	3861	KRT14	Likely pathogenic	GRCh38	419836
+single nucleotide variant	NM_000526.5(KRT14):c.353C>T (p.Thr118Ile)	3861	KRT14	Likely pathogenic	GRCh38	421214
+single nucleotide variant	NM_000526.5(KRT14):c.1109T>C (p.Leu370Pro)	3861	KRT14	Likely pathogenic	GRCh38	450450
+single nucleotide variant	NM_000526.5(KRT14):c.1274+5G>C	3861	KRT14	Pathogenic	GRCh38	1048027
+single nucleotide variant	NM_000526.5(KRT14):c.1223T>A (p.Leu408Gln)	3861	KRT14	Pathogenic	GRCh38	1048026
+single nucleotide variant	NM_000526.5(KRT14):c.1205T>G (p.Leu402Arg)	3861	KRT14	Pathogenic	GRCh38	1048025
+single nucleotide variant	NM_000526.5(KRT14):c.1144G>T (p.Glu382Ter)	3861	KRT14	Pathogenic	GRCh38	1048024
+single nucleotide variant	NM_000526.5(KRT14):c.385T>C (p.Tyr129His)	3861	KRT14	Pathogenic	GRCh38	1198508
+single nucleotide variant	NM_000526.5(KRT14):c.766G>T (p.Glu256Ter)	3861	KRT14	Pathogenic	GRCh38	1526072
+single nucleotide variant	NM_000526.5(KRT14):c.372C>A (p.Asp124Glu)	3861	KRT14	Likely pathogenic	GRCh38	1685364
+single nucleotide variant	NM_000526.5(KRT14):c.356T>G (p.Met119Arg)	3861	KRT14	Likely pathogenic	GRCh38	1685365
+single nucleotide variant	NM_000526.5(KRT14):c.803T>C (p.Val268Ala)	3861	KRT14	Likely pathogenic	GRCh38	2065713
+single nucleotide variant	NM_000526.5(KRT14):c.863G>T (p.Arg288Leu)	3861	KRT14	Pathogenic/Likely pathogenic	GRCh38	2444582
+single nucleotide variant	NM_000526.5(KRT14):c.376C>G (p.Leu126Val)	3861	KRT14	Pathogenic	GRCh38	2811999
+single nucleotide variant	NM_000526.5(KRT14):c.1130T>G (p.Ile377Ser)	3861	KRT14	Likely pathogenic	GRCh38	2844050
+single nucleotide variant	NM_000526.5(KRT14):c.815T>A (p.Met272Lys)	3861	KRT14	Likely pathogenic	GRCh38	3064710
+single nucleotide variant	NM_000526.5(KRT14):c.1235T>C (p.Ile412Thr)	3861	KRT14	Pathogenic	GRCh38	3340854
+single nucleotide variant	NM_000526.5(KRT14):c.120C>A (p.Cys40Ter)	3861	KRT14	Likely pathogenic	GRCh38	3391196
+single nucleotide variant	NM_000526.5(KRT14):c.1096T>G (p.Tyr366Asp)	3861	KRT14	Likely pathogenic	GRCh38	4057201
+single nucleotide variant	NM_000526.5(KRT14):c.1232A>G (p.Glu411Gly)	3861	KRT14	Likely pathogenic	GRCh38	4082343
+single nucleotide variant	NM_000526.5(KRT14):c.364C>G (p.Leu122Val)	3861	KRT14	Likely pathogenic	GRCh38	4710373
+single nucleotide variant	NM_000526.5(KRT14):c.1167C>A (p.Cys389Ter)	3861	KRT14	Likely pathogenic	GRCh38	4849386
+single nucleotide variant	NM_000526.5(KRT14):c.398T>G (p.Val133Gly)	3861	KRT14	Likely pathogenic	GRCh38	4855641

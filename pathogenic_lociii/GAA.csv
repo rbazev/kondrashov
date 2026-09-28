@@ -10,7 +10,7 @@ single nucleotide variant	NM_000152.5(GAA):c.1634C>T (p.Pro545Leu)	2548	GAA	Path
 single nucleotide variant	NM_000152.5(GAA):c.2560C>T (p.Arg854Ter)	2548	GAA	Pathogenic	GRCh38	4034
 single nucleotide variant	NM_000152.5(GAA):c.877G>A (p.Gly293Arg)	2548	GAA	Pathogenic	GRCh38	4036
 single nucleotide variant	NM_000152.5(GAA):c.1465G>A (p.Asp489Asn)	2548	GAA	Pathogenic	GRCh38	92465
-single nucleotide variant	NM_000152.5(GAA):c.2012T>G (p.Met671Arg)	2548	GAA	Pathogenic	GRCh38	92469
+single nucleotide variant	NM_000152.5(GAA):c.2012T>G (p.Met671Arg)	2548	GAA	Likely pathogenic	GRCh38	92469
 single nucleotide variant	NM_000152.5(GAA):c.2105G>T (p.Arg702Leu)	2548	GAA	Pathogenic	GRCh38	92472
 single nucleotide variant	NM_000152.5(GAA):c.2512C>T (p.Gln838Ter)	2548	GAA	Pathogenic	GRCh38	92479
 single nucleotide variant	NM_000152.5(GAA):c.1841C>A (p.Thr614Lys)	2548	GAA	Pathogenic	GRCh38	167113
@@ -34,14 +34,13 @@ single nucleotide variant	NM_000152.5(GAA):c.1548G>A (p.Trp516Ter)	2548	GAA	Path
 single nucleotide variant	NM_000152.5(GAA):c.1556T>C (p.Met519Thr)	2548	GAA	Pathogenic	GRCh38	189124
 single nucleotide variant	NM_000152.5(GAA):c.1843G>A (p.Gly615Arg)	2548	GAA	Pathogenic	GRCh38	188786
 single nucleotide variant	NM_000152.5(GAA):c.1933G>A (p.Asp645Asn)	2548	GAA	Pathogenic	GRCh38	188728
-single nucleotide variant	NM_000152.5(GAA):c.1933G>C (p.Asp645His)	2548	GAA	Pathogenic	GRCh38	189013
+single nucleotide variant	NM_000152.5(GAA):c.1933G>C (p.Asp645His)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	189013
 single nucleotide variant	NM_000152.5(GAA):c.1942G>A (p.Gly648Ser)	2548	GAA	Pathogenic	GRCh38	188902
 single nucleotide variant	NM_000152.5(GAA):c.1979G>A (p.Arg660His)	2548	GAA	Pathogenic	GRCh38	189172
 single nucleotide variant	NM_000152.5(GAA):c.2014C>T (p.Arg672Trp)	2548	GAA	Pathogenic	GRCh38	188773
 single nucleotide variant	NM_000152.5(GAA):c.2104C>T (p.Arg702Cys)	2548	GAA	Pathogenic	GRCh38	189040
 single nucleotide variant	NM_000152.5(GAA):c.2608C>T (p.Arg870Ter)	2548	GAA	Pathogenic	GRCh38	189009
 single nucleotide variant	NM_000152.5(GAA):c.2646+2T>A	2548	GAA	Likely pathogenic	GRCh38	188924
-single nucleotide variant	NM_000152.5(GAA):c.1583G>C (p.Gly528Ala)	2548	GAA	Likely pathogenic	GRCh38	193796
 single nucleotide variant	NM_000152.5(GAA):c.1802C>T (p.Ser601Leu)	2548	GAA	Pathogenic	GRCh38	194154
 single nucleotide variant	NM_000152.5(GAA):c.854C>G (p.Pro285Arg)	2548	GAA	Likely pathogenic	GRCh38	225114
 single nucleotide variant	NM_000152.5(GAA):c.2238G>C (p.Trp746Cys)	2548	GAA	Pathogenic	GRCh38	265160
@@ -70,8 +69,8 @@ single nucleotide variant	NM_000152.5(GAA):c.573C>A (p.Tyr191Ter)	2548	GAA	Patho
 single nucleotide variant	NM_000152.5(GAA):c.875A>G (p.Tyr292Cys)	2548	GAA	Pathogenic	GRCh38	370577
 single nucleotide variant	NM_000152.5(GAA):c.1076-22T>G	2548	GAA	Pathogenic	GRCh38	370278
 single nucleotide variant	NM_000152.5(GAA):c.1076-2A>G	2548	GAA	Pathogenic	GRCh38	370173
-single nucleotide variant	NM_000152.5(GAA):c.1115A>T (p.His372Leu)	2548	GAA	Pathogenic	GRCh38	370483
-single nucleotide variant	NM_000152.5(GAA):c.1194+2T>C	2548	GAA	Likely pathogenic	GRCh38	370077
+single nucleotide variant	NM_000152.5(GAA):c.1115A>T (p.His372Leu)	2548	GAA	Likely pathogenic	GRCh38	370483
+single nucleotide variant	NM_000152.5(GAA):c.1194+2T>C	2548	GAA	Pathogenic	GRCh38	370077
 single nucleotide variant	NM_000152.5(GAA):c.1222A>G (p.Met408Val)	2548	GAA	Likely pathogenic	GRCh38	371235
 single nucleotide variant	NM_000152.5(GAA):c.1316T>A (p.Met439Lys)	2548	GAA	Pathogenic	GRCh38	371305
 single nucleotide variant	NM_000152.5(GAA):c.1564C>G (p.Pro522Ala)	2548	GAA	Pathogenic	GRCh38	371277
@@ -105,7 +104,7 @@ single nucleotide variant	NM_000152.5(GAA):c.2740C>T (p.Gln914Ter)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.2455C>T (p.Arg819Trp)	2548	GAA	Likely pathogenic	GRCh38	456402
 single nucleotide variant	NM_000152.5(GAA):c.2188G>T (p.Glu730Ter)	2548	GAA	Pathogenic	GRCh38	495665
 single nucleotide variant	NM_000152.5(GAA):c.1735G>A (p.Glu579Lys)	2548	GAA	Pathogenic	GRCh38	495664
-single nucleotide variant	NM_000152.5(GAA):c.858+2T>A	2548	GAA	Likely pathogenic	GRCh38	495669
+single nucleotide variant	NM_000152.5(GAA):c.858+2T>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	495669
 single nucleotide variant	NM_000152.5(GAA):c.1129G>C (p.Gly377Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	497033
 single nucleotide variant	NM_000152.5(GAA):c.2236T>C (p.Trp746Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	499293
 single nucleotide variant	NM_000152.5(GAA):c.1802C>G (p.Ser601Trp)	2548	GAA	Likely pathogenic	GRCh38	501793
@@ -114,7 +113,7 @@ single nucleotide variant	NM_000152.5(GAA):c.1438-2A>G	2548	GAA	Pathogenic	GRCh3
 single nucleotide variant	NM_000152.5(GAA):c.2003A>G (p.Tyr668Cys)	2548	GAA	Likely pathogenic	GRCh38	546808
 single nucleotide variant	NM_000152.5(GAA):c.241C>T (p.Gln81Ter)	2548	GAA	Pathogenic	GRCh38	557360
 single nucleotide variant	NM_000152.5(GAA):c.692+2T>C	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	553874
-single nucleotide variant	NM_000152.5(GAA):c.1076-1G>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	551193
+single nucleotide variant	NM_000152.5(GAA):c.1076-1G>A	2548	GAA	Pathogenic	GRCh38	551193
 single nucleotide variant	NM_000152.5(GAA):c.989G>A (p.Trp330Ter)	2548	GAA	Pathogenic	GRCh38	550355
 single nucleotide variant	NM_000152.5(GAA):c.1496G>A (p.Trp499Ter)	2548	GAA	Pathogenic	GRCh38	556959
 single nucleotide variant	NM_000152.5(GAA):c.1195-1G>A	2548	GAA	Pathogenic	GRCh38	549946
@@ -122,7 +121,7 @@ single nucleotide variant	NM_000152.5(GAA):c.1437+1G>A	2548	GAA	Likely pathogeni
 single nucleotide variant	NM_000152.5(GAA):c.1551+1G>T	2548	GAA	Pathogenic	GRCh38	555986
 single nucleotide variant	NM_000152.5(GAA):c.1933G>T (p.Asp645Tyr)	2548	GAA	Pathogenic	GRCh38	556386
 single nucleotide variant	NM_000152.5(GAA):c.1710C>G (p.Asn570Lys)	2548	GAA	Likely pathogenic	GRCh38	555153
-single nucleotide variant	NM_000152.5(GAA):c.2189+1G>T	2548	GAA	Likely pathogenic	GRCh38	558223
+single nucleotide variant	NM_000152.5(GAA):c.2189+1G>T	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	558223
 single nucleotide variant	NM_000152.5(GAA):c.1784C>T (p.Pro595Leu)	2548	GAA	Likely pathogenic	GRCh38	550968
 single nucleotide variant	NM_000152.5(GAA):c.1941C>G (p.Cys647Trp)	2548	GAA	Pathogenic	GRCh38	550327
 single nucleotide variant	NM_000152.5(GAA):c.2647-7G>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	551106
@@ -131,24 +130,22 @@ single nucleotide variant	NM_000152.5(GAA):c.953T>A (p.Met318Lys)	2548	GAA	Likel
 single nucleotide variant	NM_000152.5(GAA):c.1216G>A (p.Asp406Asn)	2548	GAA	Likely pathogenic	GRCh38	552776
 single nucleotide variant	NM_000152.5(GAA):c.1432G>A (p.Gly478Arg)	2548	GAA	Pathogenic	GRCh38	551295
 single nucleotide variant	NM_000152.5(GAA):c.1551+1G>C	2548	GAA	Pathogenic	GRCh38	554983
-single nucleotide variant	NM_000152.5(GAA):c.1552-2A>G	2548	GAA	Pathogenic	GRCh38	550010
+single nucleotide variant	NM_000152.5(GAA):c.1552-2A>G	2548	GAA	Likely pathogenic	GRCh38	550010
 single nucleotide variant	NM_000152.5(GAA):c.1669A>T (p.Ile557Phe)	2548	GAA	Pathogenic	GRCh38	558634
 single nucleotide variant	NM_000152.5(GAA):c.1796C>A (p.Ser599Tyr)	2548	GAA	Likely pathogenic	GRCh38	551558
 single nucleotide variant	NM_000152.5(GAA):c.1857C>G (p.Ser619Arg)	2548	GAA	Pathogenic	GRCh38	550825
 single nucleotide variant	NM_000152.5(GAA):c.2407C>T (p.Gln803Ter)	2548	GAA	Pathogenic	GRCh38	552368
 single nucleotide variant	NM_000152.5(GAA):c.2647-20T>G	2548	GAA	Likely pathogenic	GRCh38	555277
+single nucleotide variant	NM_000152.5(GAA):c.2746G>T (p.Val916Phe)	2548	GAA	Likely pathogenic	GRCh38	556487
 single nucleotide variant	NM_000152.5(GAA):c.352C>T (p.Gln118Ter)	2548	GAA	Pathogenic	GRCh38	553894
 single nucleotide variant	NM_000152.5(GAA):c.796C>T (p.Pro266Ser)	2548	GAA	Likely pathogenic	GRCh38	556117
 single nucleotide variant	NM_000152.5(GAA):c.1099T>C (p.Trp367Arg)	2548	GAA	Likely pathogenic	GRCh38	555820
-single nucleotide variant	NM_000152.5(GAA):c.1280T>C (p.Met427Thr)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	550859
 single nucleotide variant	NM_000152.5(GAA):c.1326+2T>C	2548	GAA	Likely pathogenic	GRCh38	554895
 single nucleotide variant	NM_000152.5(GAA):c.1978C>T (p.Arg660Cys)	2548	GAA	Pathogenic	GRCh38	558604
 single nucleotide variant	NM_000152.5(GAA):c.2236T>G (p.Trp746Gly)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	556431
 single nucleotide variant	NM_000152.5(GAA):c.2314T>C (p.Trp772Arg)	2548	GAA	Likely pathogenic	GRCh38	552527
 single nucleotide variant	NM_000152.5(GAA):c.4G>T (p.Gly2Ter)	2548	GAA	Likely pathogenic	GRCh38	560377
 single nucleotide variant	NM_000152.5(GAA):c.2228A>G (p.Gln743Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	561162
-single nucleotide variant	NM_000152.5(GAA):c.1124G>A (p.Arg375His)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	572725
-single nucleotide variant	NM_000152.5(GAA):c.858G>A (p.Thr286=)	2548	GAA	Likely pathogenic	GRCh38	572952
 single nucleotide variant	NM_000152.5(GAA):c.2662G>T (p.Glu888Ter)	2548	GAA	Pathogenic	GRCh38	578595
 single nucleotide variant	NM_000152.5(GAA):c.1802C>A (p.Ser601Ter)	2548	GAA	Pathogenic	GRCh38	593486
 single nucleotide variant	NM_000152.5(GAA):c.1134C>G (p.Tyr378Ter)	2548	GAA	Pathogenic	GRCh38	595469
@@ -156,7 +153,6 @@ single nucleotide variant	NM_000152.5(GAA):c.1880C>T (p.Ser627Phe)	2548	GAA	Path
 single nucleotide variant	NM_000152.5(GAA):c.1326+1G>A	2548	GAA	Pathogenic	GRCh38	597944
 single nucleotide variant	NM_000152.5(GAA):c.1905C>A (p.Asn635Lys)	2548	GAA	Likely pathogenic	GRCh38	632823
 single nucleotide variant	NM_000152.5(GAA):c.876C>G (p.Tyr292Ter)	2548	GAA	Pathogenic	GRCh38	637958
-single nucleotide variant	NM_000152.5(GAA):c.1895T>G (p.Leu632Arg)	2548	GAA	Pathogenic	GRCh38	637961
 single nucleotide variant	NM_000152.5(GAA):c.1538A>G (p.Asp513Gly)	2548	GAA	Likely pathogenic	GRCh38	638014
 single nucleotide variant	NM_000152.5(GAA):c.276C>A (p.Cys92Ter)	2548	GAA	Likely pathogenic	GRCh38	654482
 single nucleotide variant	NM_000152.5(GAA):c.671G>A (p.Arg224Gln)	2548	GAA	Likely pathogenic	GRCh38	664582
@@ -167,7 +163,6 @@ single nucleotide variant	NM_000152.5(GAA):c.1941C>A (p.Cys647Ter)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.1943G>T (p.Gly648Val)	2548	GAA	Likely pathogenic	GRCh38	662559
 single nucleotide variant	NM_000152.5(GAA):c.2383G>T (p.Glu795Ter)	2548	GAA	Pathogenic	GRCh38	649354
 single nucleotide variant	NM_000152.5(GAA):c.1438-1G>T	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	661381
-single nucleotide variant	NM_000152.5(GAA):c.1193T>C (p.Leu398Pro)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	694452
 single nucleotide variant	NM_000152.5(GAA):c.2074C>T (p.Gln692Ter)	2548	GAA	Pathogenic	GRCh38	810666
 single nucleotide variant	NM_000152.5(GAA):c.316C>G (p.Arg106Gly)	2548	GAA	Likely pathogenic	GRCh38	840775
 single nucleotide variant	NM_000152.5(GAA):c.322T>A (p.Cys108Ser)	2548	GAA	Pathogenic	GRCh38	847865
@@ -177,12 +172,10 @@ single nucleotide variant	NM_000152.5(GAA):c.1195-2A>C	2548	GAA	Likely pathogeni
 single nucleotide variant	NM_000152.5(GAA):c.1755-1G>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	849168
 single nucleotide variant	NM_000152.5(GAA):c.1437+2T>C	2548	GAA	Pathogenic	GRCh38	849313
 single nucleotide variant	NM_000152.5(GAA):c.2479C>T (p.Gln827Ter)	2548	GAA	Pathogenic	GRCh38	871521
-single nucleotide variant	NM_000152.5(GAA):c.2434G>A (p.Asp812Asn)	2548	GAA	Pathogenic	GRCh38	918084
 single nucleotide variant	NM_000152.5(GAA):c.307T>C (p.Cys103Arg)	2548	GAA	Likely pathogenic	GRCh38	928929
-single nucleotide variant	NM_000152.5(GAA):c.836G>A (p.Trp279Ter)	2548	GAA	Likely pathogenic	GRCh38	928706
+single nucleotide variant	NM_000152.5(GAA):c.836G>A (p.Trp279Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	928706
 single nucleotide variant	NM_000152.5(GAA):c.1716C>G (p.His572Gln)	2548	GAA	Likely pathogenic	GRCh38	929167
 single nucleotide variant	NM_000152.5(GAA):c.1913G>T (p.Gly638Val)	2548	GAA	Pathogenic	GRCh38	928930
-single nucleotide variant	NM_000152.5(GAA):c.461G>C (p.Arg154Pro)	2548	GAA	Likely pathogenic	GRCh38	930446
 single nucleotide variant	NM_000152.5(GAA):c.1194+5G>A	2548	GAA	Likely pathogenic	GRCh38	930445
 single nucleotide variant	NM_000152.5(GAA):c.1820G>A (p.Gly607Asp)	2548	GAA	Likely pathogenic	GRCh38	932221
 single nucleotide variant	NM_000152.5(GAA):c.377G>A (p.Trp126Ter)	2548	GAA	Pathogenic	GRCh38	932904
@@ -198,7 +191,7 @@ single nucleotide variant	NM_000152.5(GAA):c.871C>T (p.Leu291Phe)	2548	GAA	Patho
 single nucleotide variant	NM_000152.5(GAA):c.883C>A (p.His295Asn)	2548	GAA	Likely pathogenic	GRCh38	953728
 single nucleotide variant	NM_000152.5(GAA):c.1211A>G (p.Asp404Gly)	2548	GAA	Likely pathogenic	GRCh38	959950
 single nucleotide variant	NM_000152.5(GAA):c.1537G>A (p.Asp513Asn)	2548	GAA	Likely pathogenic	GRCh38	960182
-single nucleotide variant	NM_000152.5(GAA):c.1754G>A (p.Arg585Lys)	2548	GAA	Likely pathogenic	GRCh38	968057
+single nucleotide variant	NM_000152.5(GAA):c.1754G>A (p.Arg585Lys)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	968057
 single nucleotide variant	NM_000152.5(GAA):c.-32-2A>G	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	972817
 single nucleotide variant	NM_000152.5(GAA):c.3G>A (p.Met1Ile)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	972816
 single nucleotide variant	NM_000152.5(GAA):c.671G>C (p.Arg224Pro)	2548	GAA	Likely pathogenic	GRCh38	972794
@@ -207,7 +200,7 @@ single nucleotide variant	NM_000152.5(GAA):c.692+1G>C	2548	GAA	Pathogenic	GRCh38
 single nucleotide variant	NM_000152.5(GAA):c.743T>C (p.Leu248Pro)	2548	GAA	Likely pathogenic	GRCh38	972791
 single nucleotide variant	NM_000152.5(GAA):c.1003G>A (p.Gly335Arg)	2548	GAA	Likely pathogenic	GRCh38	972790
 single nucleotide variant	NM_000152.5(GAA):c.1100G>A (p.Trp367Ter)	2548	GAA	Pathogenic	GRCh38	972773
-single nucleotide variant	NM_000152.5(GAA):c.1195-2A>G	2548	GAA	Likely pathogenic	GRCh38	972772
+single nucleotide variant	NM_000152.5(GAA):c.1195-2A>G	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	972772
 single nucleotide variant	NM_000152.5(GAA):c.1327-2A>G	2548	GAA	Pathogenic	GRCh38	972762
 single nucleotide variant	NM_000152.5(GAA):c.1562A>T (p.Glu521Val)	2548	GAA	Pathogenic	GRCh38	972760
 single nucleotide variant	NM_000152.5(GAA):c.1564C>T (p.Pro522Ser)	2548	GAA	Likely pathogenic	GRCh38	972746
@@ -220,7 +213,6 @@ single nucleotide variant	NM_000152.5(GAA):c.1888+1G>A	2548	GAA	Pathogenic/Likel
 single nucleotide variant	NM_000152.5(GAA):c.1943G>A (p.Gly648Asp)	2548	GAA	Likely pathogenic	GRCh38	972799
 single nucleotide variant	NM_000152.5(GAA):c.1958C>A (p.Thr653Asn)	2548	GAA	Likely pathogenic	GRCh38	972798
 single nucleotide variant	NM_000152.5(GAA):c.2041-1G>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	972797
-single nucleotide variant	NM_000152.5(GAA):c.2210C>A (p.Thr737Asn)	2548	GAA	Likely pathogenic	GRCh38	972796
 single nucleotide variant	NM_000152.5(GAA):c.1657C>T (p.Gln553Ter)	2548	GAA	Pathogenic	GRCh38	982109
 single nucleotide variant	NM_000152.5(GAA):c.1445C>T (p.Pro482Leu)	2548	GAA	Likely pathogenic	GRCh38	982297
 single nucleotide variant	NM_000152.5(GAA):c.1001G>A (p.Gly334Asp)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	982365
@@ -235,8 +227,7 @@ single nucleotide variant	NM_000152.5(GAA):c.1A>T (p.Met1Leu)	2548	GAA	Likely pa
 single nucleotide variant	NM_000152.5(GAA):c.2T>C (p.Met1Thr)	2548	GAA	Pathogenic	GRCh38	984802
 single nucleotide variant	NM_000152.5(GAA):c.763C>T (p.Gln255Ter)	2548	GAA	Pathogenic	GRCh38	984801
 single nucleotide variant	NM_000152.5(GAA):c.2040G>A (p.Leu680=)	2548	GAA	Likely pathogenic	GRCh38	984800
-single nucleotide variant	NM_000152.5(GAA):c.1844G>T (p.Gly615Val)	2548	GAA	Pathogenic	GRCh38	1002225
-single nucleotide variant	NM_000152.5(GAA):c.364A>G (p.Met122Val)	2548	GAA	Likely pathogenic	GRCh38	1045584
+single nucleotide variant	NM_000152.5(GAA):c.1844G>T (p.Gly615Val)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1002225
 single nucleotide variant	NM_000152.5(GAA):c.1103G>A (p.Gly368Asp)	2548	GAA	Likely pathogenic	GRCh38	1037598
 single nucleotide variant	NM_000152.5(GAA):c.1106T>C (p.Leu369Pro)	2548	GAA	Likely pathogenic	GRCh38	1034639
 single nucleotide variant	NM_000152.5(GAA):c.1633C>T (p.Pro545Ser)	2548	GAA	Likely pathogenic	GRCh38	1062425
@@ -259,7 +250,6 @@ single nucleotide variant	NM_000152.5(GAA):c.2055C>A (p.Tyr685Ter)	2548	GAA	Path
 single nucleotide variant	NM_000152.5(GAA):c.2161G>T (p.Glu721Ter)	2548	GAA	Pathogenic	GRCh38	1322967
 single nucleotide variant	NM_000152.5(GAA):c.2646+1G>A	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1324436
 single nucleotide variant	NM_000152.5(GAA):c.877G>C (p.Gly293Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1324438
-single nucleotide variant	NM_000152.5(GAA):c.1703A>T (p.His568Leu)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1324439
 single nucleotide variant	NM_000152.5(GAA):c.301G>T (p.Glu101Ter)	2548	GAA	Likely pathogenic	GRCh38	1324441
 single nucleotide variant	NM_000152.5(GAA):c.872T>C (p.Leu291Pro)	2548	GAA	Pathogenic	GRCh38	1327502
 single nucleotide variant	NM_000152.5(GAA):c.444C>G (p.Tyr148Ter)	2548	GAA	Pathogenic	GRCh38	1327503
@@ -268,27 +258,24 @@ single nucleotide variant	NM_000152.5(GAA):c.1565C>T (p.Pro522Leu)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.2189+3G>C	2548	GAA	Likely pathogenic	GRCh38	1409309
 single nucleotide variant	NM_000152.5(GAA):c.1075+2T>A	2548	GAA	Likely pathogenic	GRCh38	1521801
 single nucleotide variant	NM_000152.5(GAA):c.923A>C (p.His308Pro)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1493530
-single nucleotide variant	NM_000152.5(GAA):c.2131A>C (p.Thr711Pro)	2548	GAA	Likely pathogenic	GRCh38	1479743
 single nucleotide variant	NM_000152.5(GAA):c.355G>T (p.Gly119Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1454364
-single nucleotide variant	NM_000152.5(GAA):c.1557G>A (p.Met519Ile)	2548	GAA	Pathogenic	GRCh38	1415612
+single nucleotide variant	NM_000152.5(GAA):c.1557G>A (p.Met519Ile)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1415612
 single nucleotide variant	NM_000152.5(GAA):c.2109C>A (p.Tyr703Ter)	2548	GAA	Pathogenic	GRCh38	1455954
 single nucleotide variant	NM_000152.5(GAA):c.2782T>C (p.Tyr928His)	2548	GAA	Likely pathogenic	GRCh38	1483591
 single nucleotide variant	NM_000152.5(GAA):c.547-1G>C	2548	GAA	Pathogenic	GRCh38	1431937
-single nucleotide variant	NM_000152.5(GAA):c.693-1G>C	2548	GAA	Likely pathogenic	GRCh38	1500390
+single nucleotide variant	NM_000152.5(GAA):c.693-1G>C	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1500390
 single nucleotide variant	NM_000152.5(GAA):c.1585T>G (p.Ser529Ala)	2548	GAA	Likely pathogenic	GRCh38	1504777
 single nucleotide variant	NM_000152.5(GAA):c.1076-1G>C	2548	GAA	Pathogenic	GRCh38	1353052
 single nucleotide variant	NM_000152.5(GAA):c.361C>T (p.Gln121Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1369778
 single nucleotide variant	NM_000152.5(GAA):c.1798C>G (p.Arg600Gly)	2548	GAA	Likely pathogenic	GRCh38	1510329
 single nucleotide variant	NM_000152.5(GAA):c.1637-2A>G	2548	GAA	Pathogenic	GRCh38	1454720
-single nucleotide variant	NM_000152.5(GAA):c.1846G>A (p.Asp616Asn)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1411511
 single nucleotide variant	NM_000152.5(GAA):c.304C>T (p.Gln102Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1453562
 single nucleotide variant	NM_000152.5(GAA):c.1003G>T (p.Gly335Trp)	2548	GAA	Likely pathogenic	GRCh38	1346780
 single nucleotide variant	NM_000152.5(GAA):c.1376A>T (p.Asp459Val)	2548	GAA	Likely pathogenic	GRCh38	1483894
 single nucleotide variant	NM_000152.5(GAA):c.1903A>G (p.Asn635Asp)	2548	GAA	Likely pathogenic	GRCh38	1348299
-single nucleotide variant	NM_000152.5(GAA):c.309C>G (p.Cys103Trp)	2548	GAA	Pathogenic	GRCh38	1400946
+single nucleotide variant	NM_000152.5(GAA):c.309C>G (p.Cys103Trp)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1400946
 single nucleotide variant	NM_000152.5(GAA):c.859-2A>G	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1485821
-single nucleotide variant	NM_000152.5(GAA):c.2131A>G (p.Thr711Ala)	2548	GAA	Likely pathogenic	GRCh38	1469435
-single nucleotide variant	NM_000152.5(GAA):c.2040+1G>C	2548	GAA	Pathogenic	GRCh38	1434322
+single nucleotide variant	NM_000152.5(GAA):c.2040+1G>C	2548	GAA	Likely pathogenic	GRCh38	1434322
 single nucleotide variant	NM_000152.5(GAA):c.308G>A (p.Cys103Tyr)	2548	GAA	Likely pathogenic	GRCh38	1502634
 single nucleotide variant	NM_000152.5(GAA):c.1754+2T>G	2548	GAA	Likely pathogenic	GRCh38	1687091
 single nucleotide variant	NM_000152.5(GAA):c.246C>A (p.Cys82Ter)	2548	GAA	Pathogenic	GRCh38	1693546
@@ -296,20 +283,18 @@ single nucleotide variant	NM_000152.5(GAA):c.1670T>G (p.Ile557Ser)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.1385T>C (p.Leu462Pro)	2548	GAA	Likely pathogenic	GRCh38	1693548
 single nucleotide variant	NM_000152.5(GAA):c.2456G>C (p.Arg819Pro)	2548	GAA	Likely pathogenic	GRCh38	1693550
 single nucleotide variant	NM_000152.5(GAA):c.2411G>A (p.Trp804Ter)	2548	GAA	Pathogenic	GRCh38	1693552
-single nucleotide variant	NM_000152.5(GAA):c.1106T>A (p.Leu369Gln)	2548	GAA	Likely pathogenic	GRCh38	1709586
 single nucleotide variant	NM_000152.5(GAA):c.1497G>A (p.Trp499Ter)	2548	GAA	Pathogenic	GRCh38	1711447
 single nucleotide variant	NM_000152.5(GAA):c.2319C>A (p.Tyr773Ter)	2548	GAA	Likely pathogenic	GRCh38	1725018
 single nucleotide variant	NM_000152.5(GAA):c.1020C>G (p.Tyr340Ter)	2548	GAA	Likely pathogenic	GRCh38	1725920
-single nucleotide variant	NM_000152.5(GAA):c.546+2T>C	2548	GAA	Likely pathogenic	GRCh38	2138112
+single nucleotide variant	NM_000152.5(GAA):c.546+2T>C	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2138112
 single nucleotide variant	NM_000152.5(GAA):c.1054C>T (p.Gln352Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2138114
 single nucleotide variant	NM_000152.5(GAA):c.1827C>G (p.Tyr609Ter)	2548	GAA	Pathogenic	GRCh38	2138117
 single nucleotide variant	NM_000152.5(GAA):c.922C>G (p.His308Asp)	2548	GAA	Likely pathogenic	GRCh38	2140918
-single nucleotide variant	NM_000152.5(GAA):c.1396G>T (p.Val466Phe)	2548	GAA	Likely pathogenic	GRCh38	2154447
+single nucleotide variant	NM_000152.5(GAA):c.1396G>T (p.Val466Phe)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2154447
 single nucleotide variant	NM_000152.5(GAA):c.1477C>T (p.Pro493Ser)	2548	GAA	Likely pathogenic	GRCh38	2160730
-single nucleotide variant	NM_000152.5(GAA):c.1645G>A (p.Gly549Arg)	2548	GAA	Pathogenic	GRCh38	2202283
+single nucleotide variant	NM_000152.5(GAA):c.1645G>A (p.Gly549Arg)	2548	GAA	Likely pathogenic	GRCh38	2202283
 single nucleotide variant	NM_000152.5(GAA):c.1853G>A (p.Trp618Ter)	2548	GAA	Pathogenic	GRCh38	2419146
 single nucleotide variant	NM_000152.5(GAA):c.2619C>G (p.Tyr873Ter)	2548	GAA	Pathogenic	GRCh38	2419147
-single nucleotide variant	NM_000152.5(GAA):c.844G>C (p.Asp282His)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1895435
 single nucleotide variant	NM_000152.5(GAA):c.1827C>A (p.Tyr609Ter)	2548	GAA	Pathogenic	GRCh38	1902509
 single nucleotide variant	NM_000152.5(GAA):c.2040+2T>G	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	1941292
 single nucleotide variant	NM_000152.5(GAA):c.1754+2T>C	2548	GAA	Likely pathogenic	GRCh38	1945670
@@ -319,29 +304,25 @@ single nucleotide variant	NM_000152.5(GAA):c.1285C>T (p.Gln429Ter)	2548	GAA	Path
 single nucleotide variant	NM_000152.5(GAA):c.739C>T (p.Gln247Ter)	2548	GAA	Pathogenic	GRCh38	2013899
 single nucleotide variant	NM_000152.5(GAA):c.2577G>A (p.Trp859Ter)	2548	GAA	Pathogenic	GRCh38	2030537
 single nucleotide variant	NM_000152.5(GAA):c.1370C>G (p.Pro457Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2035414
-single nucleotide variant	NM_000152.5(GAA):c.2647-2A>G	2548	GAA	Likely pathogenic	GRCh38	2067614
 single nucleotide variant	NM_000152.5(GAA):c.1314C>A (p.Tyr438Ter)	2548	GAA	Pathogenic	GRCh38	2071694
 single nucleotide variant	NM_000152.5(GAA):c.990G>C (p.Trp330Cys)	2548	GAA	Likely pathogenic	GRCh38	2066523
-single nucleotide variant	NM_000152.5(GAA):c.693-2A>C	2548	GAA	Likely pathogenic	GRCh38	2099113
+single nucleotide variant	NM_000152.5(GAA):c.693-2A>C	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2099113
 single nucleotide variant	NM_000152.5(GAA):c.1646G>A (p.Gly549Glu)	2548	GAA	Likely pathogenic	GRCh38	2091465
 single nucleotide variant	NM_000152.5(GAA):c.1819G>T (p.Gly607Cys)	2548	GAA	Likely pathogenic	GRCh38	2118057
 single nucleotide variant	NM_000152.5(GAA):c.584T>A (p.Leu195Ter)	2548	GAA	Pathogenic	GRCh38	2123166
 single nucleotide variant	NM_000152.5(GAA):c.1961C>G (p.Ser654Ter)	2548	GAA	Likely pathogenic	GRCh38	2440365
 single nucleotide variant	NM_000152.5(GAA):c.1552-2A>C	2548	GAA	Pathogenic	GRCh38	2440386
-single nucleotide variant	NM_000152.5(GAA):c.1663G>C (p.Ala555Pro)	2548	GAA	Likely pathogenic	GRCh38	2445989
 single nucleotide variant	NM_000152.5(GAA):c.1525C>T (p.Gln509Ter)	2548	GAA	Likely pathogenic	GRCh38	2505480
 single nucleotide variant	NM_000152.5(GAA):c.2481+1G>T	2548	GAA	Likely pathogenic	GRCh38	2506428
 single nucleotide variant	NM_000152.5(GAA):c.2303C>T (p.Pro768Leu)	2548	GAA	Likely pathogenic	GRCh38	2507030
-single nucleotide variant	NM_000152.5(GAA):c.2702T>A (p.Leu901Gln)	2548	GAA	Pathogenic	GRCh38	2585303
+single nucleotide variant	NM_000152.5(GAA):c.2702T>A (p.Leu901Gln)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2585303
 single nucleotide variant	NM_000152.5(GAA):c.1466A>G (p.Asp489Gly)	2548	GAA	Likely pathogenic	GRCh38	2628097
 single nucleotide variant	NM_000152.5(GAA):c.1456G>C (p.Ala486Pro)	2548	GAA	Likely pathogenic	GRCh38	2675751
 single nucleotide variant	NM_000152.5(GAA):c.2799+2C>G	2548	GAA	Likely pathogenic	GRCh38	2675752
 single nucleotide variant	NM_000152.5(GAA):c.2015G>T (p.Arg672Leu)	2548	GAA	Likely pathogenic	GRCh38	2675756
 single nucleotide variant	NM_000152.5(GAA):c.2303C>G (p.Pro768Arg)	2548	GAA	Likely pathogenic	GRCh38	2675759
-single nucleotide variant	NM_000152.5(GAA):c.323G>A (p.Cys108Tyr)	2548	GAA	Likely pathogenic	GRCh38	2675760
 single nucleotide variant	NM_000152.5(GAA):c.1799G>T (p.Arg600Leu)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2675761
 single nucleotide variant	NM_000152.5(GAA):c.1075+1G>T	2548	GAA	Likely pathogenic	GRCh38	2675762
-single nucleotide variant	NM_000152.5(GAA):c.1924G>T (p.Val642Phe)	2548	GAA	Likely pathogenic	GRCh38	2675763
 single nucleotide variant	NM_000152.5(GAA):c.1721T>C (p.Leu574Pro)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2675764
 single nucleotide variant	NM_000152.5(GAA):c.2332-1G>A	2548	GAA	Likely pathogenic	GRCh38	2675765
 single nucleotide variant	NM_000152.5(GAA):c.1438-1G>A	2548	GAA	Likely pathogenic	GRCh38	2675766
@@ -353,28 +334,20 @@ single nucleotide variant	NM_000152.5(GAA):c.858+1G>A	2548	GAA	Likely pathogenic
 single nucleotide variant	NM_000152.5(GAA):c.1636+1G>A	2548	GAA	Likely pathogenic	GRCh38	2675783
 single nucleotide variant	NM_000152.5(GAA):c.1205G>A (p.Trp402Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2675785
 single nucleotide variant	NM_000152.5(GAA):c.2331+1G>A	2548	GAA	Pathogenic	GRCh38	2675789
-single nucleotide variant	NM_000152.5(GAA):c.2331+4A>G	2548	GAA	Likely pathogenic	GRCh38	2675791
 single nucleotide variant	NM_000152.5(GAA):c.1855A>G (p.Ser619Gly)	2548	GAA	Likely pathogenic	GRCh38	2698749
 single nucleotide variant	NM_000152.5(GAA):c.1123C>A (p.Arg375Ser)	2548	GAA	Likely pathogenic	GRCh38	2698939
 single nucleotide variant	NM_000152.5(GAA):c.2131A>T (p.Thr711Ser)	2548	GAA	Likely pathogenic	GRCh38	2697945
 single nucleotide variant	NM_000152.5(GAA):c.2554G>T (p.Glu852Ter)	2548	GAA	Pathogenic	GRCh38	2701302
 single nucleotide variant	NM_000152.5(GAA):c.656G>A (p.Gly219Glu)	2548	GAA	Likely pathogenic	GRCh38	2697707
-single nucleotide variant	NM_000152.5(GAA):c.1855A>C (p.Ser619Arg)	2548	GAA	Pathogenic	GRCh38	2702493
+single nucleotide variant	NM_000152.5(GAA):c.1855A>C (p.Ser619Arg)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2702493
 single nucleotide variant	NM_000152.5(GAA):c.2482-1G>T	2548	GAA	Likely pathogenic	GRCh38	2704465
 single nucleotide variant	NM_000152.5(GAA):c.1942G>T (p.Gly648Cys)	2548	GAA	Likely pathogenic	GRCh38	2719267
-single nucleotide variant	NM_000152.5(GAA):c.2014C>G (p.Arg672Gly)	2548	GAA	Likely pathogenic	GRCh38	2728759
 single nucleotide variant	NM_000152.5(GAA):c.1075G>A (p.Gly359Arg)	2548	GAA	Pathogenic	GRCh38	2727745
 single nucleotide variant	NM_000152.5(GAA):c.925G>T (p.Gly309Trp)	2548	GAA	Likely pathogenic	GRCh38	2729477
 single nucleotide variant	NM_000152.5(GAA):c.671G>T (p.Arg224Leu)	2548	GAA	Likely pathogenic	GRCh38	2743371
-single nucleotide variant	NM_000152.5(GAA):c.2399G>T (p.Ser800Ile)	2548	GAA	Pathogenic	GRCh38	2747737
-single nucleotide variant	NM_000152.5(GAA):c.1364A>G (p.Tyr455Cys)	2548	GAA	Pathogenic	GRCh38	2736675
-single nucleotide variant	NM_000152.5(GAA):c.1561G>C (p.Glu521Gln)	2548	GAA	Pathogenic	GRCh38	2736677
+single nucleotide variant	NM_000152.5(GAA):c.1561G>C (p.Glu521Gln)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2736677
 single nucleotide variant	NM_000152.5(GAA):c.1754+2T>A	2548	GAA	Pathogenic	GRCh38	2736680
 single nucleotide variant	NM_000152.5(GAA):c.2004C>A (p.Tyr668Ter)	2548	GAA	Pathogenic	GRCh38	2736681
-single nucleotide variant	NM_000152.5(GAA):c.2481+1G>A	2548	GAA	Likely pathogenic	GRCh38	2736682
-single nucleotide variant	NM_000152.5(GAA):c.2563G>C (p.Gly855Arg)	2548	GAA	Likely pathogenic	GRCh38	2736684
-single nucleotide variant	NM_000152.5(GAA):c.266G>T (p.Arg89Leu)	2548	GAA	Likely pathogenic	GRCh38	2754338
-single nucleotide variant	NM_000152.5(GAA):c.1456G>T (p.Ala486Ser)	2548	GAA	Likely pathogenic	GRCh38	2752316
 single nucleotide variant	NM_000152.5(GAA):c.2109C>G (p.Tyr703Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2769971
 single nucleotide variant	NM_000152.5(GAA):c.859-1G>C	2548	GAA	Likely pathogenic	GRCh38	2764469
 single nucleotide variant	NM_000152.5(GAA):c.1709A>G (p.Asn570Ser)	2548	GAA	Likely pathogenic	GRCh38	2793202
@@ -386,29 +359,22 @@ single nucleotide variant	NM_000152.5(GAA):c.1697C>T (p.Ser566Phe)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.1369C>T (p.Pro457Ser)	2548	GAA	Likely pathogenic	GRCh38	2862966
 single nucleotide variant	NM_000152.5(GAA):c.2743C>T (p.Gln915Ter)	2548	GAA	Pathogenic	GRCh38	2869228
 single nucleotide variant	NM_000152.5(GAA):c.2174G>T (p.Arg725Leu)	2548	GAA	Likely pathogenic	GRCh38	2860164
-single nucleotide variant	NM_000152.5(GAA):c.1928G>C (p.Gly643Ala)	2548	GAA	Likely pathogenic	GRCh38	2865261
-single nucleotide variant	NM_000152.5(GAA):c.2296T>C (p.Tyr766His)	2548	GAA	Likely pathogenic	GRCh38	2874367
 single nucleotide variant	NM_000152.5(GAA):c.1978C>G (p.Arg660Gly)	2548	GAA	Likely pathogenic	GRCh38	2882160
-single nucleotide variant	NM_000152.5(GAA):c.2096T>C (p.Leu699Pro)	2548	GAA	Pathogenic	GRCh38	2892105
 single nucleotide variant	NM_000152.5(GAA):c.1714C>T (p.His572Tyr)	2548	GAA	Likely pathogenic	GRCh38	2891554
-single nucleotide variant	NM_000152.5(GAA):c.1220A>G (p.Tyr407Cys)	2548	GAA	Likely pathogenic	GRCh38	2908096
 single nucleotide variant	NM_000152.5(GAA):c.967C>T (p.Gln323Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	2910440
 single nucleotide variant	NM_000152.5(GAA):c.692+1G>T	2548	GAA	Pathogenic	GRCh38	2956380
 single nucleotide variant	NM_000152.5(GAA):c.1654C>T (p.Leu552Phe)	2548	GAA	Likely pathogenic	GRCh38	2977309
-single nucleotide variant	NM_000152.5(GAA):c.1559A>T (p.Asn520Ile)	2548	GAA	Pathogenic	GRCh38	3065656
 single nucleotide variant	NM_000152.5(GAA):c.1703A>G (p.His568Arg)	2548	GAA	Pathogenic	GRCh38	3235261
 single nucleotide variant	NM_000152.5(GAA):c.1437G>C (p.Lys479Asn)	2548	GAA	Likely pathogenic	GRCh38	3241647
 single nucleotide variant	NM_000152.5(GAA):c.546+1G>T	2548	GAA	Pathogenic	GRCh38	3241650
 single nucleotide variant	NM_000152.5(GAA):c.1707C>G (p.Tyr569Ter)	2548	GAA	Likely pathogenic	GRCh38	3241653
 single nucleotide variant	NM_000152.5(GAA):c.729C>A (p.Asp243Glu)	2548	GAA	Likely pathogenic	GRCh38	3338327
 single nucleotide variant	NM_000152.5(GAA):c.1905C>G (p.Asn635Lys)	2548	GAA	Likely pathogenic	GRCh38	3339100
-single nucleotide variant	NM_000152.5(GAA):c.1221C>A (p.Tyr407Ter)	2548	GAA	Pathogenic	GRCh38	3361330
-single nucleotide variant	NM_000152.5(GAA):c.1913G>A (p.Gly638Glu)	2548	GAA	Likely pathogenic	GRCh38	3366619
+single nucleotide variant	NM_000152.5(GAA):c.1221C>A (p.Tyr407Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	3361330
 single nucleotide variant	NM_000152.5(GAA):c.3G>T (p.Met1Ile)	2548	GAA	Likely pathogenic	GRCh38	3367095
-single nucleotide variant	NM_000152.5(GAA):c.2799G>A (p.Lys933=)	2548	GAA	Pathogenic	GRCh38	3393042
 single nucleotide variant	NM_000152.5(GAA):c.1075+1G>A	2548	GAA	Likely pathogenic	GRCh38	3583093
 single nucleotide variant	NM_000152.5(GAA):c.2047G>T (p.Glu683Ter)	2548	GAA	Likely pathogenic	GRCh38	3583099
-single nucleotide variant	NM_000152.5(GAA):c.2326C>T (p.Gln776Ter)	2548	GAA	Likely pathogenic	GRCh38	3583102
+single nucleotide variant	NM_000152.5(GAA):c.2326C>T (p.Gln776Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	3583102
 single nucleotide variant	NM_000152.5(GAA):c.370C>T (p.Gln124Ter)	2548	GAA	Likely pathogenic	GRCh38	3583090
 single nucleotide variant	NM_000152.5(GAA):c.1664C>T (p.Ala555Val)	2548	GAA	Likely pathogenic	GRCh38	3605906
 single nucleotide variant	NM_000152.5(GAA):c.1222A>C (p.Met408Leu)	2548	GAA	Likely pathogenic	GRCh38	3627795
@@ -417,20 +383,15 @@ single nucleotide variant	NM_000152.5(GAA):c.1934A>G (p.Asp645Gly)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.2229G>C (p.Gln743His)	2548	GAA	Likely pathogenic	GRCh38	3634759
 single nucleotide variant	NM_000152.5(GAA):c.693-1G>A	2548	GAA	Likely pathogenic	GRCh38	3653200
 single nucleotide variant	NM_000152.5(GAA):c.1588G>T (p.Glu530Ter)	2548	GAA	Pathogenic	GRCh38	3657633
-single nucleotide variant	NM_000152.5(GAA):c.1420C>T (p.Gln474Ter)	2548	GAA	Pathogenic	GRCh38	3647163
+single nucleotide variant	NM_000152.5(GAA):c.1420C>T (p.Gln474Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	3647163
 single nucleotide variant	NM_000152.5(GAA):c.1374C>A (p.Tyr458Ter)	2548	GAA	Pathogenic	GRCh38	3721981
-single nucleotide variant	NM_000152.5(GAA):c.1560C>G (p.Asn520Lys)	2548	GAA	Likely pathogenic	GRCh38	3769307
 single nucleotide variant	NM_000152.5(GAA):c.1645G>C (p.Gly549Arg)	2548	GAA	Likely pathogenic	GRCh38	3769497
-single nucleotide variant	NM_000152.5(GAA):c.1370C>A (p.Pro457His)	2548	GAA	Likely pathogenic	GRCh38	3895928
 single nucleotide variant	NM_000152.5(GAA):c.1673G>C (p.Cys558Ser)	2548	GAA	Likely pathogenic	GRCh38	3896319
-single nucleotide variant	NM_000152.5(GAA):c.1829C>T (p.Ala610Val)	2548	GAA	Pathogenic	GRCh38	3902630
+single nucleotide variant	NM_000152.5(GAA):c.1829C>T (p.Ala610Val)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	3902630
 single nucleotide variant	NM_000152.5(GAA):c.819G>A (p.Trp273Ter)	2548	GAA	Likely pathogenic	GRCh38	4068164
 single nucleotide variant	NM_000152.5(GAA):c.1958C>T (p.Thr653Ile)	2548	GAA	Likely pathogenic	GRCh38	4068168
 single nucleotide variant	NM_000152.5(GAA):c.1447G>C (p.Gly483Arg)	2548	GAA	Likely pathogenic	GRCh38	4068191
-single nucleotide variant	NM_000152.5(GAA):c.935T>G (p.Leu312Arg)	2548	GAA	Likely pathogenic	GRCh38	4081407
-single nucleotide variant	NM_000152.5(GAA):c.2051C>G (p.Pro684Arg)	2548	GAA	Likely pathogenic	GRCh38	4081687
 single nucleotide variant	NM_000152.5(GAA):c.2174G>C (p.Arg725Pro)	2548	GAA	Likely pathogenic	GRCh38	4086092
-single nucleotide variant	NM_000152.5(GAA):c.2171C>A (p.Ala724Asp)	2548	GAA	Likely pathogenic	GRCh38	4292969
 single nucleotide variant	NM_000152.5(GAA):c.2189+1G>A	2548	GAA	Likely pathogenic	GRCh38	4294433
 single nucleotide variant	NM_000152.5(GAA):c.1820G>T (p.Gly607Val)	2548	GAA	Likely pathogenic	GRCh38	4705006
 single nucleotide variant	NM_000152.5(GAA):c.1062C>G (p.Tyr354Ter)	2548	GAA	Pathogenic	GRCh38	4710429
@@ -439,14 +400,78 @@ single nucleotide variant	NM_000152.5(GAA):c.1780C>A (p.Arg594Ser)	2548	GAA	Like
 single nucleotide variant	NM_000152.5(GAA):c.1598G>A (p.Cys533Tyr)	2548	GAA	Likely pathogenic	GRCh38	4780825
 single nucleotide variant	NM_000152.5(GAA):c.656G>T (p.Gly219Val)	2548	GAA	Likely pathogenic	GRCh38	4800915
 single nucleotide variant	NM_000152.5(GAA):c.1538A>C (p.Asp513Ala)	2548	GAA	Likely pathogenic	GRCh38	4800916
-single nucleotide variant	NM_000152.5(GAA):c.2006C>T (p.Pro669Leu)	2548	GAA	Likely pathogenic	GRCh38	4800918
 single nucleotide variant	NM_000152.5(GAA):c.1256A>T (p.Asp419Val)	2548	GAA	Likely pathogenic	GRCh38	4817580
 single nucleotide variant	NM_000152.5(GAA):c.1397T>G (p.Val466Gly)	2548	GAA	Likely pathogenic	GRCh38	4817581
-single nucleotide variant	NM_000152.5(GAA):c.1615G>A (p.Glu539Lys)	2548	GAA	Likely pathogenic	GRCh38	4817582
 single nucleotide variant	NM_000152.5(GAA):c.1754+1G>T	2548	GAA	Pathogenic	GRCh38	4817583
-single nucleotide variant	NM_000152.5(GAA):c.1799G>C (p.Arg600Pro)	2548	GAA	Likely pathogenic	GRCh38	4817584
 single nucleotide variant	NM_000152.5(GAA):c.1846G>C (p.Asp616His)	2548	GAA	Likely pathogenic	GRCh38	4817585
 single nucleotide variant	NM_000152.5(GAA):c.2022C>G (p.His674Gln)	2548	GAA	Likely pathogenic	GRCh38	4817587
 single nucleotide variant	NM_000152.5(GAA):c.547-2A>G	2548	GAA	Pathogenic	GRCh38	4817594
 single nucleotide variant	NM_000152.5(GAA):c.701C>A (p.Thr234Lys)	2548	GAA	Likely pathogenic	GRCh38	4817596
 single nucleotide variant	NM_000152.5(GAA):c.1411G>T (p.Glu471Ter)	2548	GAA	Pathogenic	GRCh38	4855433
+single nucleotide variant	NM_000152.5(GAA):c.1696T>C (p.Ser566Pro)	2548	GAA	Likely pathogenic	GRCh38	4876257
+single nucleotide variant	NM_000152.5(GAA):c.1636+1G>C	2548	GAA	Pathogenic	GRCh38	4876269
+single nucleotide variant	NM_000152.5(GAA):c.701C>G (p.Thr234Arg)	2548	GAA	Likely pathogenic	GRCh38	4876270
+single nucleotide variant	NM_000152.5(GAA):c.988T>G (p.Trp330Gly)	2548	GAA	Likely pathogenic	GRCh38	4876304
+single nucleotide variant	NM_000152.5(GAA):c.1099T>G (p.Trp367Gly)	2548	GAA	Likely pathogenic	GRCh38	4876305
+single nucleotide variant	NM_000152.5(GAA):c.1101G>A (p.Trp367Ter)	2548	GAA	Pathogenic	GRCh38	4876306
+single nucleotide variant	NM_000152.5(GAA):c.1636+5G>C	2548	GAA	Pathogenic	GRCh38	4876307
+single nucleotide variant	NM_000152.5(GAA):c.1442G>A (p.Trp481Ter)	2548	GAA	Pathogenic	GRCh38	4876309
+single nucleotide variant	NM_000152.5(GAA):c.1493G>A (p.Trp498Ter)	2548	GAA	Pathogenic	GRCh38	4876311
+single nucleotide variant	NM_000152.5(GAA):c.1839G>C (p.Trp613Cys)	2548	GAA	Likely pathogenic	GRCh38	4876314
+single nucleotide variant	NM_000152.5(GAA):c.1837T>G (p.Trp613Gly)	2548	GAA	Likely pathogenic	GRCh38	4876315
+single nucleotide variant	NM_000152.5(GAA):c.1839G>A (p.Trp613Ter)	2548	GAA	Pathogenic/Likely pathogenic	GRCh38	4876316
+single nucleotide variant	NM_000152.5(GAA):c.1861T>G (p.Trp621Gly)	2548	GAA	Likely pathogenic	GRCh38	4876317
+single nucleotide variant	NM_000152.5(GAA):c.2316G>A (p.Trp772Ter)	2548	GAA	Pathogenic	GRCh38	4876320
+single nucleotide variant	NM_000152.5(GAA):c.1080C>G (p.Tyr360Ter)	2548	GAA	Likely pathogenic	GRCh38	4876329
+single nucleotide variant	NM_000152.5(GAA):c.1364A>T (p.Tyr455Phe)	2548	GAA	Likely pathogenic	GRCh38	4876333
+single nucleotide variant	NM_000152.5(GAA):c.1629C>G (p.Tyr543Ter)	2548	GAA	Likely pathogenic	GRCh38	4876337
+single nucleotide variant	NM_000152.5(GAA):c.1724A>G (p.Tyr575Cys)	2548	GAA	Likely pathogenic	GRCh38	4876338
+single nucleotide variant	NM_000152.5(GAA):c.1724A>C (p.Tyr575Ser)	2548	GAA	Likely pathogenic	GRCh38	4876340
+single nucleotide variant	NM_000152.5(GAA):c.2055C>G (p.Tyr685Ter)	2548	GAA	Likely pathogenic	GRCh38	4876342
+single nucleotide variant	NM_000152.5(GAA):c.1889-1G>A	2548	GAA	Pathogenic	GRCh38	4876348
+single nucleotide variant	NM_000152.5(GAA):c.2040+2T>C	2548	GAA	Pathogenic	GRCh38	4876351
+single nucleotide variant	NM_000152.5(GAA):c.2041-2A>C	2548	GAA	Likely pathogenic	GRCh38	4876353
+single nucleotide variant	NM_000152.5(GAA):c.2041-2A>G	2548	GAA	Pathogenic	GRCh38	4876354
+single nucleotide variant	NM_000152.5(GAA):c.2190-345A>G	2548	GAA	Pathogenic	GRCh38	4876375
+single nucleotide variant	NM_000152.5(GAA):c.2331+2T>C	2548	GAA	Pathogenic	GRCh38	4876382
+single nucleotide variant	NM_000152.5(GAA):c.-32-3C>G	2548	GAA	Likely pathogenic	GRCh38	4876383
+single nucleotide variant	NM_000152.5(GAA):c.2331+2T>G	2548	GAA	Pathogenic	GRCh38	4876384
+single nucleotide variant	NM_000152.5(GAA):c.2481+2T>C	2548	GAA	Pathogenic	GRCh38	4876386
+single nucleotide variant	NM_000152.5(GAA):c.859-2A>T	2548	GAA	Pathogenic	GRCh38	4876425
+single nucleotide variant	NM_000152.5(GAA):c.955+2T>G	2548	GAA	Pathogenic	GRCh38	4876428
+single nucleotide variant	NM_000152.5(GAA):c.2639C>A (p.Ala880Asp)	2548	GAA	Likely pathogenic	GRCh38	4876449
+single nucleotide variant	NM_000152.5(GAA):c.380G>T (p.Cys127Phe)	2548	GAA	Likely pathogenic	GRCh38	4876454
+single nucleotide variant	NM_000152.5(GAA):c.1121G>T (p.Cys374Phe)	2548	GAA	Likely pathogenic	GRCh38	4876455
+single nucleotide variant	NM_000152.5(GAA):c.1121G>A (p.Cys374Tyr)	2548	GAA	Likely pathogenic	GRCh38	4876458
+single nucleotide variant	NM_000152.5(GAA):c.1465G>T (p.Asp489Tyr)	2548	GAA	Likely pathogenic	GRCh38	4876473
+single nucleotide variant	NM_000152.5(GAA):c.1378G>T (p.Glu460Ter)	2548	GAA	Likely pathogenic	GRCh38	4876482
+single nucleotide variant	NM_000152.5(GAA):c.1460T>C (p.Phe487Ser)	2548	GAA	Likely pathogenic	GRCh38	4876496
+single nucleotide variant	NM_000152.5(GAA):c.877G>T (p.Gly293Trp)	2548	GAA	Likely pathogenic	GRCh38	4876505
+single nucleotide variant	NM_000152.5(GAA):c.1075G>C (p.Gly359Arg)	2548	GAA	Pathogenic	GRCh38	4876507
+single nucleotide variant	NM_000152.5(GAA):c.1194+2T>A	2548	GAA	Pathogenic	GRCh38	4876508
+single nucleotide variant	NM_000152.5(GAA):c.1447G>T (p.Gly483Trp)	2548	GAA	Likely pathogenic	GRCh38	4876513
+single nucleotide variant	NM_000152.5(GAA):c.1637G>A (p.Gly546Glu)	2548	GAA	Likely pathogenic	GRCh38	4876515
+single nucleotide variant	NM_000152.5(GAA):c.1636G>C (p.Gly546Arg)	2548	GAA	Likely pathogenic	GRCh38	4876516
+single nucleotide variant	NM_000152.5(GAA):c.1726G>C (p.Gly576Arg)	2548	GAA	Likely pathogenic	GRCh38	4876520
+single nucleotide variant	NM_000152.5(GAA):c.2240G>A (p.Gly747Glu)	2548	GAA	Likely pathogenic	GRCh38	4876531
+single nucleotide variant	NM_000152.5(GAA):c.1714C>G (p.His572Asp)	2548	GAA	Likely pathogenic	GRCh38	4876550
+single nucleotide variant	NM_000152.5(GAA):c.2020C>G (p.His674Asp)	2548	GAA	Likely pathogenic	GRCh38	4876553
+single nucleotide variant	NM_000152.5(GAA):c.2135T>C (p.Leu712Pro)	2548	GAA	Likely pathogenic	GRCh38	4876591
+single nucleotide variant	NM_000152.5(GAA):c.1327-2A>C	2548	GAA	Likely pathogenic	GRCh38	4876602
+single nucleotide variant	NM_000152.5(GAA):c.947A>G (p.Asn316Ser)	2548	GAA	Likely pathogenic	GRCh38	4876613
+single nucleotide variant	NM_000152.5(GAA):c.1717A>C (p.Asn573His)	2548	GAA	Likely pathogenic	GRCh38	4876621
+single nucleotide variant	NM_000152.5(GAA):c.1040C>G (p.Pro347Arg)	2548	GAA	Likely pathogenic	GRCh38	4876628
+single nucleotide variant	NM_000152.5(GAA):c.1532C>A (p.Pro511His)	2548	GAA	Likely pathogenic	GRCh38	4876632
+single nucleotide variant	NM_000152.5(GAA):c.1565C>G (p.Pro522Arg)	2548	GAA	Likely pathogenic	GRCh38	4876634
+single nucleotide variant	NM_000152.5(GAA):c.1622C>T (p.Pro541Leu)	2548	GAA	Likely pathogenic	GRCh38	4876635
+single nucleotide variant	NM_000152.5(GAA):c.730C>T (p.Gln244Ter)	2548	GAA	Pathogenic	GRCh38	4876647
+single nucleotide variant	NM_000152.5(GAA):c.1057C>T (p.Gln353Ter)	2548	GAA	Pathogenic	GRCh38	4876648
+single nucleotide variant	NM_000152.5(GAA):c.1202A>G (p.Gln401Arg)	2548	GAA	Likely pathogenic	GRCh38	4876650
+single nucleotide variant	NM_000152.5(GAA):c.205C>T (p.Gln69Ter)	2548	GAA	Likely pathogenic	GRCh38	4876655
+single nucleotide variant	NM_000152.5(GAA):c.2228A>C (p.Gln743Pro)	2548	GAA	Likely pathogenic	GRCh38	4876657
+single nucleotide variant	NM_000152.5(GAA):c.2515C>T (p.Gln839Ter)	2548	GAA	Pathogenic	GRCh38	4876660
+single nucleotide variant	NM_000152.5(GAA):c.1551+2T>G	2548	GAA	Pathogenic	GRCh38	4876663
+single nucleotide variant	NM_000152.5(GAA):c.842G>T (p.Arg281Leu)	2548	GAA	Likely pathogenic	GRCh38	4876667
+single nucleotide variant	NM_000152.5(GAA):c.842G>C (p.Arg281Pro)	2548	GAA	Likely pathogenic	GRCh38	4876668
+single nucleotide variant	NM_000152.5(GAA):c.1754G>T (p.Arg585Met)	2548	GAA	Likely pathogenic	GRCh38	4876673
+single nucleotide variant	NM_000152.5(GAA):c.2596G>T (p.Glu866Ter)	2548	GAA	Likely pathogenic	GRCh38	4889667

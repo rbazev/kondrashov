@@ -83,7 +83,7 @@ single nucleotide variant	NM_000709.4(BCKDHA):c.566G>A (p.Arg189His)	593	BCKDHA	
 single nucleotide variant	NM_000709.4(BCKDHA):c.507C>G (p.Tyr169Ter)	593	BCKDHA	Pathogenic/Likely pathogenic	GRCh38	1973712
 single nucleotide variant	NM_000709.4(BCKDHA):c.905A>G (p.Asp302Gly)	593	BCKDHA	Likely pathogenic	GRCh38	2044440
 single nucleotide variant	NM_000709.4(BCKDHA):c.277G>T (p.Glu93Ter)	593	BCKDHA	Pathogenic	GRCh38	2104559
-single nucleotide variant	NM_000709.4(BCKDHA):c.568C>T (p.Gln190Ter)	593	BCKDHA	Pathogenic	GRCh38	2230997
+single nucleotide variant	NM_000709.4(BCKDHA):c.568C>T (p.Gln190Ter)	593	BCKDHA	Pathogenic/Likely pathogenic	GRCh38	2230997
 single nucleotide variant	NM_000709.4(BCKDHA):c.32G>A (p.Trp11Ter)	593	BCKDHA	Likely pathogenic	GRCh38	2445876
 single nucleotide variant	NM_000709.4(BCKDHA):c.993C>G (p.Tyr331Ter)	593	BCKDHA	Likely pathogenic	GRCh38	2680112
 single nucleotide variant	NM_000709.4(BCKDHA):c.376-1G>A	593	BCKDHA	Likely pathogenic	GRCh38	2680115
@@ -112,3 +112,8 @@ single nucleotide variant	NM_000709.4(BCKDHA):c.1279C>G (p.Leu427Val)	593	BCKDHA
 single nucleotide variant	NM_000709.4(BCKDHA):c.288+1G>T	593	BCKDHA	Pathogenic	GRCh38	4814468
 single nucleotide variant	NM_000709.4(BCKDHA):c.646+1G>C	593	BCKDHA	Likely pathogenic	GRCh38	4814470
 single nucleotide variant	NM_000709.4(BCKDHA):c.784T>A (p.Phe262Ile)	593	BCKDHA	Likely pathogenic	GRCh38	4850634
+single nucleotide variant	NM_000709.4(BCKDHA):c.731G>A (p.Gly244Glu)	593	BCKDHA	Likely pathogenic	GRCh38	4884880
+single nucleotide variant	NM_000709.4(BCKDHA):c.982G>A (p.Ala328Thr)	593	BCKDHA	Pathogenic	GRCh38	4889204
+single nucleotide variant	NM_000709.4(BCKDHA):c.109-2A>G	593	BCKDHA	Likely pathogenic	GRCh38	4889890
+single nucleotide variant	NM_000709.4(BCKDHA):c.1122G>A (p.Trp374Ter)	593	BCKDHA	Likely pathogenic	GRCh38	4890404
+single nucleotide variant	NM_000709.4(BCKDHA):c.855A>G (p.Ala285=)	593	BCKDHA	Pathogenic	GRCh38	4890648

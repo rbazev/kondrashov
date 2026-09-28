@@ -1,0 +1,155 @@
+IQ-TREE version 3.1.3 for MacOS ARM 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Azevedo-Pro.local (SSE4.2, 192 GB RAM)
+Command: iqtree -s HBB_NP_000509.1_match.aln
+Seed:    988543 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Sep 23 13:18:52 2026
+Kernel:  SSE2 - 1 threads (24 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 24 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file HBB_NP_000509.1_match.aln ... Fasta format detected
+Reading fasta file: done in 0.000144958 secs using 55.19% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000231981 secs using 50.44% CPU
+Alignment has 19 sequences with 147 columns, 54 distinct patterns
+19 parsimony-informative, 16 singleton sites, 112 constant sites
+                Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 3.19481e-05 secs using 21.91% CPU
+   1  XP_012642085.1    0.00%    failed      0.12%
+   2  XP_008050892.1    0.00%    passed    100.00%
+   3  XP_003781034.1    0.00%    passed    100.00%
+   4  XP_003923418.1    0.00%    passed    100.00%
+   5  XP_023065381.1    0.00%    passed    100.00%
+   6  XP_011818991.1    0.00%    passed    100.00%
+   7  NP_001316847.1    0.00%    passed    100.00%
+   8  NP_001157900.1    0.00%    passed    100.00%
+   9  XP_045227322.1    0.00%    passed    100.00%
+  10  NP_001162318.1    0.00%    passed    100.00%
+  11  XP_025213811.1    0.00%    passed    100.00%
+  12  XP_002754937.1    0.00%    passed    100.00%
+  13  NP_000509.1       0.00%    passed    100.00%
+  14  XP_018891709.1    0.00%    passed    100.00%
+  15  XP_004090697.3    0.00%    passed    100.00%
+  16  XP_002822173.1    0.00%    passed    100.00%
+  17  XP_012312232.1    0.00%    passed    100.00%
+  18  XP_017362775.1    0.00%    passed    100.00%
+  19  XP_032096415.1    0.00%    passed    100.00%
+****  TOTAL             0.00%  1 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 3.8147e-05 secs using 52.43% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -881.826
+Optimal log-likelihood: -881.821
+Proportion of invariable sites: 0.387
+Gamma shape alpha: 0.285
+Parameters optimization took 1 rounds (0.006 sec)
+Time for fast ML tree search: 0.073 seconds
+
+NOTE: ModelFinder requires 2 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 147 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           DAYHOFF+G4
+Corrected Akaike Information Criterion: DAYHOFF+G4
+Bayesian Information Criterion:         DAYHOFF+G4
+Best-fit model: DAYHOFF+G4 chosen according to BIC
+
+All model information printed to HBB_NP_000509.1_match.aln.model.gz
+CPU time for ModelFinder: 3.188 seconds (0h:0m:3s)
+Wall-clock time for ModelFinder: 3.227 seconds (0h:0m:3s)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -866.798
+2. Current log-likelihood: -866.135
+Optimal log-likelihood: -866.122
+Gamma shape alpha: 0.145
+Parameters optimization took 2 rounds (0.014 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0742021 secs using 98.31% CPU
+Computing ML distances took 0.074252 sec (of wall-clock time) 0.072962 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 1.78814e-05 secs using 67.11% CPU
+Constructing RapidNJ tree: done in 3.69549e-05 secs using 86.59% CPU
+Computing RapidNJ tree took 0.000080 sec (of wall-clock time) 0.000054 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -875.608
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.037 second
+Computing log-likelihood of 98 initial trees ... 0.145 seconds
+Current best score: -863.956
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -862.248
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -861.591
+Iteration 10 / LogL: -865.425 / Time: 0h:0m:3s
+Iteration 20 / LogL: -869.092 / Time: 0h:0m:3s
+Finish initializing candidate tree set (12)
+Current best tree score: -861.591 / CPU time: 0.554
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 23: -861.591
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -861.519
+Iteration 30 / LogL: -861.591 / Time: 0h:0m:4s (0h:0m:2s left)
+UPDATE BEST LOG-LIKELIHOOD: -861.519
+UPDATE BEST LOG-LIKELIHOOD: -861.519
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 39: -861.485
+Iteration 40 / LogL: -861.485 / Time: 0h:0m:4s (0h:0m:3s left)
+Iteration 50 / LogL: -862.430 / Time: 0h:0m:4s (0h:0m:2s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -861.414
+UPDATE BEST LOG-LIKELIHOOD: -861.413
+Iteration 60 / LogL: -861.413 / Time: 0h:0m:5s (0h:0m:2s left)
+Iteration 70 / LogL: -861.808 / Time: 0h:0m:5s (0h:0m:2s left)
+UPDATE BEST LOG-LIKELIHOOD: -861.413
+Iteration 80 / LogL: -861.520 / Time: 0h:0m:5s (0h:0m:1s left)
+Iteration 90 / LogL: -861.486 / Time: 0h:0m:5s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -861.413
+Iteration 100 / LogL: -861.880 / Time: 0h:0m:6s (0h:0m:1s left)
+Iteration 110 / LogL: -861.413 / Time: 0h:0m:6s (0h:0m:0s left)
+Iteration 120 / LogL: -861.485 / Time: 0h:0m:6s (0h:0m:0s left)
+Iteration 130 / LogL: -861.591 / Time: 0h:0m:6s (0h:0m:0s left)
+Iteration 140 / LogL: -861.591 / Time: 0h:0m:7s (0h:0m:-1s left)
+TREE SEARCH COMPLETED AFTER 140 ITERATIONS / Time: 0h:0m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -861.413
+Optimal log-likelihood: -861.413
+Gamma shape alpha: 0.145
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -861.413
+Total tree length: 0.672
+
+Total number of iterations: 140
+CPU time used for tree search: 3.868 sec (0h:0m:3s)
+Wall-clock time used for tree search: 3.913 sec (0h:0m:3s)
+Total CPU time used: 7.157 sec (0h:0m:7s)
+Total wall-clock time used: 7.244 sec (0h:0m:7s)
+
+Analysis results written to: 
+  IQ-TREE report:                HBB_NP_000509.1_match.aln.iqtree
+  Maximum-likelihood tree:       HBB_NP_000509.1_match.aln.treefile
+  Likelihood distances:          HBB_NP_000509.1_match.aln.mldist
+  Screen log file:               HBB_NP_000509.1_match.aln.log
+
+Date and Time: Wed Sep 23 13:19:00 2026

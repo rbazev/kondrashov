@@ -37,8 +37,6 @@ single nucleotide variant	NM_000016.6(ACADM):c.599+1G>A	34	ACADM	Pathogenic/Like
 single nucleotide variant	NM_000016.6(ACADM):c.600-18G>A	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226084
 single nucleotide variant	NM_000016.6(ACADM):c.609A>C (p.Leu203Phe)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226065
 single nucleotide variant	NM_000016.6(ACADM):c.742A>G (p.Arg248Gly)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226089
-single nucleotide variant	NM_000016.6(ACADM):c.757G>A (p.Glu253Lys)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226054
-single nucleotide variant	NM_000016.6(ACADM):c.881G>C (p.Arg294Thr)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226075
 single nucleotide variant	NM_000016.6(ACADM):c.985A>C (p.Lys329Gln)	34	ACADM	Pathogenic	GRCh38	226057
 single nucleotide variant	NM_000016.6(ACADM):c.1012C>T (p.Gln338Ter)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226087
 single nucleotide variant	NM_000016.6(ACADM):c.1189T>A (p.Tyr397Asn)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	226095
@@ -221,6 +219,7 @@ single nucleotide variant	NM_000016.6(ACADM):c.203A>G (p.Asp68Gly)	34	ACADM	Like
 single nucleotide variant	NM_000016.6(ACADM):c.163T>C (p.Phe55Leu)	34	ACADM	Pathogenic	GRCh38	3684891
 single nucleotide variant	NM_000016.6(ACADM):c.839C>T (p.Thr280Ile)	34	ACADM	Likely pathogenic	GRCh38	3706271
 single nucleotide variant	NM_000016.6(ACADM):c.484G>T (p.Glu162Ter)	34	ACADM	Pathogenic	GRCh38	3729777
+single nucleotide variant	NM_000016.6(ACADM):c.1093G>A (p.Ala365Thr)	34	ACADM	Likely pathogenic	GRCh38	4064511
 single nucleotide variant	NM_000016.6(ACADM):c.247G>T (p.Glu83Ter)	34	ACADM	Likely pathogenic	GRCh38	4064313
 single nucleotide variant	NM_000016.6(ACADM):c.30+1G>T	34	ACADM	Pathogenic	GRCh38	4064366
 single nucleotide variant	NM_000016.6(ACADM):c.31-1G>A	34	ACADM	Likely pathogenic	GRCh38	4697911
@@ -242,7 +241,7 @@ single nucleotide variant	NM_000016.6(ACADM):c.27C>A (p.Cys9Ter)	34	ACADM	Likely
 single nucleotide variant	NM_000016.6(ACADM):c.286+1G>C	34	ACADM	Likely pathogenic	GRCh38	4818289
 single nucleotide variant	NM_000016.6(ACADM):c.31-9T>A	34	ACADM	Likely pathogenic	GRCh38	4818472
 single nucleotide variant	NM_000016.6(ACADM):c.421C>T (p.Gln141Ter)	34	ACADM	Likely pathogenic	GRCh38	4814409
-single nucleotide variant	NM_000016.6(ACADM):c.724C>T (p.Gln242Ter)	34	ACADM	Likely pathogenic	GRCh38	4815999
+single nucleotide variant	NM_000016.6(ACADM):c.724C>T (p.Gln242Ter)	34	ACADM	Pathogenic/Likely pathogenic	GRCh38	4815999
 single nucleotide variant	NM_000016.6(ACADM):c.833A>G (p.Asp278Gly)	34	ACADM	Likely pathogenic	GRCh38	4816326
 single nucleotide variant	NM_000016.6(ACADM):c.139G>T (p.Glu47Ter)	34	ACADM	Likely pathogenic	GRCh38	4817763
 single nucleotide variant	NM_000016.6(ACADM):c.217-1G>C	34	ACADM	Pathogenic	GRCh38	4818033
@@ -252,3 +251,12 @@ single nucleotide variant	NM_000016.6(ACADM):c.708+2T>C	34	ACADM	Pathogenic	GRCh
 single nucleotide variant	NM_000016.6(ACADM):c.1213C>T (p.Gln405Ter)	34	ACADM	Likely pathogenic	GRCh38	4817485
 single nucleotide variant	NM_000016.6(ACADM):c.1225C>T (p.Leu409Phe)	34	ACADM	Likely pathogenic	GRCh38	4817541
 single nucleotide variant	NM_000016.6(ACADM):c.1033G>C (p.Asp345His)	34	ACADM	Likely pathogenic	GRCh38	4819495
+single nucleotide variant	NM_000016.6(ACADM):c.850-17A>G	34	ACADM	Likely pathogenic	GRCh38	4874121
+single nucleotide variant	NM_000016.6(ACADM):c.217-1G>T	34	ACADM	Likely pathogenic	GRCh38	4885348
+single nucleotide variant	NM_000016.6(ACADM):c.656T>C (p.Phe219Ser)	34	ACADM	Likely pathogenic	GRCh38	4888218
+single nucleotide variant	NM_000016.6(ACADM):c.1147A>G (p.Thr383Ala)	34	ACADM	Pathogenic	GRCh38	4888553
+single nucleotide variant	NM_000016.6(ACADM):c.1150G>A (p.Glu384Lys)	34	ACADM	Pathogenic	GRCh38	4888575
+single nucleotide variant	NM_000016.6(ACADM):c.1014G>A (p.Gln338=)	34	ACADM	Likely pathogenic	GRCh38	4890300
+single nucleotide variant	NM_000016.6(ACADM):c.1031T>C (p.Val344Ala)	34	ACADM	Likely pathogenic	GRCh38	4890366
+single nucleotide variant	NM_000016.6(ACADM):c.1180G>C (p.Ala394Pro)	34	ACADM	Likely pathogenic	GRCh38	4890367
+single nucleotide variant	NM_000016.6(ACADM):c.570G>C (p.Met190Ile)	34	ACADM	Likely pathogenic	GRCh38	4890418

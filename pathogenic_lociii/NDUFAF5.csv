@@ -1,0 +1,70 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_024120.5(NDUFAF5):c.477A>C (p.Leu159Phe)	79133	NDUFAF5	Pathogenic	GRCh38	571
+single nucleotide variant	NM_024120.5(NDUFAF5):c.44G>A (p.Trp15Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2139992
+single nucleotide variant	NM_024120.5(NDUFAF5):c.289G>A (p.Gly97Ser)	79133	NDUFAF5	Likely pathogenic	GRCh38	214199
+single nucleotide variant	NM_024120.5(NDUFAF5):c.155A>C (p.Lys52Thr)	79133	NDUFAF5	Likely pathogenic	GRCh38	225006
+single nucleotide variant	NM_024120.5(NDUFAF5):c.836T>G (p.Met279Arg)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	225036
+single nucleotide variant	NM_024120.5(NDUFAF5):c.327G>C (p.Lys109Asn)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	265061
+single nucleotide variant	NM_024120.5(NDUFAF5):c.749G>T (p.Gly250Val)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	372253
+single nucleotide variant	NM_024120.5(NDUFAF5):c.290G>A (p.Gly97Asp)	79133	NDUFAF5	Likely pathogenic	GRCh38	374217
+single nucleotide variant	NM_024120.5(NDUFAF5):c.146G>T (p.Arg49Leu)	79133	NDUFAF5	Likely pathogenic	GRCh38	803603
+single nucleotide variant	NM_024120.5(NDUFAF5):c.223-907A>C	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	1162277
+single nucleotide variant	NM_024120.5(NDUFAF5):c.604C>T (p.Gln202Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	1321429
+single nucleotide variant	NM_024120.5(NDUFAF5):c.519+2T>G	79133	NDUFAF5	Likely pathogenic	GRCh38	1677179
+single nucleotide variant	NM_024120.5(NDUFAF5):c.752T>G (p.Met251Arg)	79133	NDUFAF5	Likely pathogenic	GRCh38	1802978
+single nucleotide variant	NM_024120.5(NDUFAF5):c.519+2T>C	79133	NDUFAF5	Likely pathogenic	GRCh38	1804830
+single nucleotide variant	NM_024120.5(NDUFAF5):c.29T>A (p.Leu10Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2138338
+single nucleotide variant	NM_024120.5(NDUFAF5):c.826C>T (p.Arg276Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2141503
+single nucleotide variant	NM_024120.5(NDUFAF5):c.223-1G>T	79133	NDUFAF5	Likely pathogenic	GRCh38	2158968
+single nucleotide variant	NM_024120.5(NDUFAF5):c.33T>A (p.Cys11Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2200296
+single nucleotide variant	NM_024120.5(NDUFAF5):c.519+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	2428237
+single nucleotide variant	NM_024120.5(NDUFAF5):c.375+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	1942040
+single nucleotide variant	NM_024120.5(NDUFAF5):c.733C>T (p.Gln245Ter)	79133	NDUFAF5	Pathogenic	GRCh38	1957246
+single nucleotide variant	NM_024120.5(NDUFAF5):c.476T>G (p.Leu159Ter)	79133	NDUFAF5	Pathogenic	GRCh38	1965673
+single nucleotide variant	NM_024120.5(NDUFAF5):c.479+1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	1973722
+single nucleotide variant	NM_024120.5(NDUFAF5):c.328-2A>G	79133	NDUFAF5	Likely pathogenic	GRCh38	1976579
+single nucleotide variant	NM_024120.5(NDUFAF5):c.24G>A (p.Trp8Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	1982970
+single nucleotide variant	NM_024120.5(NDUFAF5):c.23G>A (p.Trp8Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	1983600
+single nucleotide variant	NM_024120.5(NDUFAF5):c.445G>T (p.Glu149Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	1985636
+single nucleotide variant	NM_024120.5(NDUFAF5):c.263+1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2039861
+single nucleotide variant	NM_024120.5(NDUFAF5):c.327+2T>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2063118
+single nucleotide variant	NM_024120.5(NDUFAF5):c.773T>A (p.Leu258Ter)	79133	NDUFAF5	Pathogenic	GRCh38	2094481
+single nucleotide variant	NM_024120.5(NDUFAF5):c.782T>G (p.Met261Arg)	79133	NDUFAF5	Likely pathogenic	GRCh38	2412932
+single nucleotide variant	NM_024120.5(NDUFAF5):c.782T>C (p.Met261Thr)	79133	NDUFAF5	Likely pathogenic	GRCh38	2579155
+single nucleotide variant	NM_024120.5(NDUFAF5):c.223-2A>T	79133	NDUFAF5	Pathogenic	GRCh38	2579156
+single nucleotide variant	NM_024120.5(NDUFAF5):c.479+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	2676971
+single nucleotide variant	NM_024120.5(NDUFAF5):c.926G>A (p.Trp309Ter)	79133	NDUFAF5	Likely pathogenic	GRCh38	2676973
+single nucleotide variant	NM_024120.5(NDUFAF5):c.520-1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2676974
+single nucleotide variant	NM_024120.5(NDUFAF5):c.37C>T (p.Arg13Ter)	79133	NDUFAF5	Likely pathogenic	GRCh38	2676977
+single nucleotide variant	NM_024120.5(NDUFAF5):c.717+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	2676979
+single nucleotide variant	NM_024120.5(NDUFAF5):c.489G>A (p.Trp163Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2676980
+single nucleotide variant	NM_024120.5(NDUFAF5):c.779-1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2676982
+single nucleotide variant	NM_024120.5(NDUFAF5):c.877G>T (p.Glu293Ter)	79133	NDUFAF5	Likely pathogenic	GRCh38	2676983
+single nucleotide variant	NM_024120.5(NDUFAF5):c.803G>A (p.Trp268Ter)	79133	NDUFAF5	Likely pathogenic	GRCh38	2676984
+single nucleotide variant	NM_024120.5(NDUFAF5):c.945+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	2676987
+single nucleotide variant	NM_024120.5(NDUFAF5):c.1A>C (p.Met1Leu)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2703746
+single nucleotide variant	NM_024120.5(NDUFAF5):c.717+1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2726523
+single nucleotide variant	NM_024120.5(NDUFAF5):c.263+2T>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2755003
+single nucleotide variant	NM_024120.5(NDUFAF5):c.1A>T (p.Met1Leu)	79133	NDUFAF5	Pathogenic	GRCh38	2773256
+single nucleotide variant	NM_024120.5(NDUFAF5):c.3G>A (p.Met1Ile)	79133	NDUFAF5	Pathogenic	GRCh38	2797761
+single nucleotide variant	NM_024120.5(NDUFAF5):c.220G>T (p.Glu74Ter)	79133	NDUFAF5	Pathogenic	GRCh38	2824264
+single nucleotide variant	NM_024120.5(NDUFAF5):c.263+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	2856067
+single nucleotide variant	NM_024120.5(NDUFAF5):c.174G>A (p.Trp58Ter)	79133	NDUFAF5	Pathogenic/Likely pathogenic	GRCh38	2889767
+single nucleotide variant	NM_024120.5(NDUFAF5):c.862+1G>C	79133	NDUFAF5	Likely pathogenic	GRCh38	2904742
+single nucleotide variant	NM_024120.5(NDUFAF5):c.480-1G>T	79133	NDUFAF5	Likely pathogenic	GRCh38	3239846
+single nucleotide variant	NM_024120.5(NDUFAF5):c.376-1G>T	79133	NDUFAF5	Likely pathogenic	GRCh38	3239847
+single nucleotide variant	NM_024120.5(NDUFAF5):c.425A>C (p.Glu142Ala)	79133	NDUFAF5	Likely pathogenic	GRCh38	3374914
+single nucleotide variant	NM_024120.5(NDUFAF5):c.1A>G (p.Met1Val)	79133	NDUFAF5	Pathogenic	GRCh38	3629234
+single nucleotide variant	NM_024120.5(NDUFAF5):c.778+1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	3642910
+single nucleotide variant	NM_024120.5(NDUFAF5):c.328-1G>A	79133	NDUFAF5	Likely pathogenic	GRCh38	3633103
+single nucleotide variant	NM_024120.5(NDUFAF5):c.533T>G (p.Leu178Ter)	79133	NDUFAF5	Pathogenic	GRCh38	3644486
+single nucleotide variant	NM_024120.5(NDUFAF5):c.163C>A (p.Gln55Lys)	79133	NDUFAF5	Pathogenic	GRCh38	4056399
+single nucleotide variant	NM_024120.5(NDUFAF5):c.787G>A (p.Glu263Lys)	79133	NDUFAF5	Likely pathogenic	GRCh38	4056402
+single nucleotide variant	NM_024120.5(NDUFAF5):c.222+2T>G	79133	NDUFAF5	Likely pathogenic	GRCh38	4058400
+single nucleotide variant	NM_024120.5(NDUFAF5):c.519+1G>T	79133	NDUFAF5	Likely pathogenic	GRCh38	4447797
+single nucleotide variant	NM_024120.5(NDUFAF5):c.2T>C (p.Met1Thr)	79133	NDUFAF5	Likely pathogenic	GRCh38	4816121
+single nucleotide variant	NM_024120.5(NDUFAF5):c.376-2A>T	79133	NDUFAF5	Likely pathogenic	GRCh38	4816122
+single nucleotide variant	NM_024120.5(NDUFAF5):c.3G>T (p.Met1Ile)	79133	NDUFAF5	Likely pathogenic	GRCh38	4816125
+single nucleotide variant	NM_024120.5(NDUFAF5):c.717+1G>T	79133	NDUFAF5	Likely pathogenic	GRCh38	4850384
+single nucleotide variant	NM_024120.5(NDUFAF5):c.614A>C (p.Glu205Ala)	79133	NDUFAF5	Likely pathogenic	GRCh38	4850499
+single nucleotide variant	NM_024120.5(NDUFAF5):c.223-2A>G	79133	NDUFAF5	Likely pathogenic	GRCh38	4857715

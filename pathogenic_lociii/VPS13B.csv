@@ -131,7 +131,7 @@ single nucleotide variant	NM_152564.5(VPS13B):c.4746-2A>T	157680	VPS13B	Likely p
 single nucleotide variant	NM_152564.5(VPS13B):c.3666+1G>T	157680	VPS13B	Likely pathogenic	GRCh38	552169
 single nucleotide variant	NM_152564.5(VPS13B):c.3667-1G>A	157680	VPS13B	Likely pathogenic	GRCh38	551461
 single nucleotide variant	NM_152564.5(VPS13B):c.8361+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	553060
-single nucleotide variant	NM_152564.5(VPS13B):c.1150A>T (p.Lys384Ter)	157680	VPS13B	Pathogenic	GRCh38	552240
+single nucleotide variant	NM_152564.5(VPS13B):c.1150A>T (p.Lys384Ter)	157680	VPS13B	Pathogenic/Likely pathogenic	GRCh38	552240
 single nucleotide variant	NM_152564.5(VPS13B):c.3082+2T>C	157680	VPS13B	Likely pathogenic	GRCh38	556973
 single nucleotide variant	NM_152564.5(VPS13B):c.6047-1G>A	157680	VPS13B	Likely pathogenic	GRCh38	554813
 single nucleotide variant	NM_152564.5(VPS13B):c.7941+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	554985
@@ -245,7 +245,6 @@ single nucleotide variant	NM_152564.5(VPS13B):c.3974G>A (p.Trp1325Ter)	157680	VP
 single nucleotide variant	NM_152564.5(VPS13B):c.7946T>A (p.Leu2649Ter)	157680	VPS13B	Pathogenic	GRCh38	1456897
 single nucleotide variant	NM_152564.5(VPS13B):c.7248-1G>C	157680	VPS13B	Likely pathogenic	GRCh38	1484250
 single nucleotide variant	NM_152564.5(VPS13B):c.10867+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	1348700
-single nucleotide variant	NM_152564.5(VPS13B):c.3870+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	1348730
 single nucleotide variant	NM_152564.5(VPS13B):c.10696C>T (p.Gln3566Ter)	157680	VPS13B	Pathogenic/Likely pathogenic	GRCh38	1456479
 single nucleotide variant	NM_152564.5(VPS13B):c.3461G>A (p.Trp1154Ter)	157680	VPS13B	Pathogenic	GRCh38	1377977
 single nucleotide variant	NM_152564.5(VPS13B):c.7968G>A (p.Trp2656Ter)	157680	VPS13B	Pathogenic	GRCh38	1457906
@@ -313,7 +312,7 @@ single nucleotide variant	NM_152564.5(VPS13B):c.9328G>T (p.Glu3110Ter)	157680	VP
 single nucleotide variant	NM_152564.5(VPS13B):c.5946C>A (p.Cys1982Ter)	157680	VPS13B	Pathogenic	GRCh38	2036397
 single nucleotide variant	NM_152564.5(VPS13B):c.8309C>G (p.Ser2770Ter)	157680	VPS13B	Pathogenic	GRCh38	2043351
 single nucleotide variant	NM_152564.5(VPS13B):c.9183+2T>G	157680	VPS13B	Likely pathogenic	GRCh38	2056256
-single nucleotide variant	NM_152564.5(VPS13B):c.5527G>T (p.Glu1843Ter)	157680	VPS13B	Pathogenic	GRCh38	2063699
+single nucleotide variant	NM_152564.5(VPS13B):c.5527G>T (p.Glu1843Ter)	157680	VPS13B	Pathogenic/Likely pathogenic	GRCh38	2063699
 single nucleotide variant	NM_152564.5(VPS13B):c.4157+2T>G	157680	VPS13B	Likely pathogenic	GRCh38	2086544
 single nucleotide variant	NM_152564.5(VPS13B):c.8995-1G>A	157680	VPS13B	Likely pathogenic	GRCh38	2088482
 single nucleotide variant	NM_152564.5(VPS13B):c.9742+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	2113581
@@ -364,7 +363,7 @@ single nucleotide variant	NM_152564.5(VPS13B):c.7555C>T (p.Gln2519Ter)	157680	VP
 single nucleotide variant	NM_152564.5(VPS13B):c.3682G>T (p.Glu1228Ter)	157680	VPS13B	Pathogenic	GRCh38	2814631
 single nucleotide variant	NM_152564.5(VPS13B):c.11431C>T (p.Gln3811Ter)	157680	VPS13B	Pathogenic	GRCh38	2816203
 single nucleotide variant	NM_152564.5(VPS13B):c.937+1G>A	157680	VPS13B	Likely pathogenic	GRCh38	2818722
-single nucleotide variant	NM_152564.5(VPS13B):c.1034G>A (p.Trp345Ter)	157680	VPS13B	Pathogenic	GRCh38	2823704
+single nucleotide variant	NM_152564.5(VPS13B):c.1034G>A (p.Trp345Ter)	157680	VPS13B	Pathogenic/Likely pathogenic	GRCh38	2823704
 single nucleotide variant	NM_152564.5(VPS13B):c.7184T>G (p.Leu2395Ter)	157680	VPS13B	Pathogenic	GRCh38	2831027
 single nucleotide variant	NM_152564.5(VPS13B):c.142G>T (p.Glu48Ter)	157680	VPS13B	Pathogenic	GRCh38	2839485
 single nucleotide variant	NM_152564.5(VPS13B):c.11638C>T (p.Gln3880Ter)	157680	VPS13B	Pathogenic	GRCh38	2837360
@@ -473,3 +472,5 @@ single nucleotide variant	NM_152564.5(VPS13B):c.7084C>T (p.Gln2362Ter)	157680	VP
 single nucleotide variant	NM_152564.5(VPS13B):c.7438C>T (p.Gln2480Ter)	157680	VPS13B	Likely pathogenic	GRCh38	4815973
 single nucleotide variant	NM_152564.5(VPS13B):c.7843G>T (p.Glu2615Ter)	157680	VPS13B	Likely pathogenic	GRCh38	4815975
 single nucleotide variant	NM_152564.5(VPS13B):c.808C>T (p.Gln270Ter)	157680	VPS13B	Likely pathogenic	GRCh38	4815977
+single nucleotide variant	NM_152564.5(VPS13B):c.173T>A (p.Leu58Ter)	157680	VPS13B	Likely pathogenic	GRCh38	4889862
+single nucleotide variant	NM_152564.5(VPS13B):c.1030G>T (p.Gly344Ter)	157680	VPS13B	Likely pathogenic	GRCh38	4889864

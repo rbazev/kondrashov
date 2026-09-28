@@ -45,7 +45,7 @@ single nucleotide variant	NM_000051.4(ATM):c.8998C>T (p.Gln3000Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.5908C>T (p.Gln1970Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	141404
 single nucleotide variant	NM_000051.4(ATM):c.3993+1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	141447
 single nucleotide variant	NM_000051.4(ATM):c.3284G>A (p.Arg1095Lys)	472	ATM	Likely pathogenic	GRCh38	141522
-single nucleotide variant	NM_000051.4(ATM):c.9023G>A (p.Arg3008His)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	141634
+single nucleotide variant	NM_000051.4(ATM):c.9023G>A (p.Arg3008His)	472	ATM	Likely pathogenic	GRCh38	141634
 single nucleotide variant	NM_000051.4(ATM):c.3388G>T (p.Gly1130Ter)	472	ATM	Pathogenic	GRCh38	141653
 single nucleotide variant	NM_000051.4(ATM):c.4776+2T>C	472	ATM	Pathogenic/Likely pathogenic	GRCh38	141672
 single nucleotide variant	NM_000051.4(ATM):c.4198A>T (p.Lys1400Ter)	472	ATM	Pathogenic	GRCh38	141704
@@ -95,7 +95,7 @@ single nucleotide variant	NM_000051.4(ATM):c.1424C>G (p.Ser475Ter)	472	ATM	Patho
 single nucleotide variant	NM_000051.4(ATM):c.1737G>A (p.Trp579Ter)	472	ATM	Pathogenic	GRCh38	184782
 single nucleotide variant	NM_000051.4(ATM):c.1844T>C (p.Leu615Pro)	472	ATM	Likely pathogenic	GRCh38	187501
 single nucleotide variant	NM_000051.4(ATM):c.2098C>T (p.Gln700Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	186167
-single nucleotide variant	NM_000051.4(ATM):c.2251-4A>G	472	ATM	Pathogenic/Likely pathogenic	GRCh38	186418
+single nucleotide variant	NM_000051.4(ATM):c.2251-4A>G	472	ATM	Likely pathogenic	GRCh38	186418
 single nucleotide variant	NM_000051.4(ATM):c.2426C>A (p.Ser809Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	187556
 single nucleotide variant	NM_000051.4(ATM):c.2789T>G (p.Leu930Ter)	472	ATM	Pathogenic	GRCh38	186898
 single nucleotide variant	NM_000051.4(ATM):c.2849T>G (p.Leu950Arg)	472	ATM	Likely pathogenic	GRCh38	186574
@@ -118,8 +118,9 @@ single nucleotide variant	NM_000051.4(ATM):c.3G>A (p.Met1Ile)	472	ATM	Pathogenic
 single nucleotide variant	NM_000051.4(ATM):c.802C>T (p.Gln268Ter)	472	ATM	Pathogenic	GRCh38	188961
 single nucleotide variant	NM_000051.4(ATM):c.5188C>T (p.Arg1730Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	189054
 single nucleotide variant	NM_000051.4(ATM):c.5515C>T (p.Gln1839Ter)	472	ATM	Pathogenic	GRCh38	189177
-single nucleotide variant	NM_000051.4(ATM):c.5644C>T (p.Arg1882Ter)	472	ATM	Pathogenic	GRCh38	188737
+single nucleotide variant	NM_000051.4(ATM):c.5644C>T (p.Arg1882Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	188737
 single nucleotide variant	NM_000051.4(ATM):c.8307G>A (p.Trp2769Ter)	472	ATM	Pathogenic	GRCh38	189104
+single nucleotide variant	NM_000051.4(ATM):c.8732C>T (p.Thr2911Ile)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	199662
 single nucleotide variant	NM_000051.4(ATM):c.140C>G (p.Ser47Ter)	472	ATM	Pathogenic	GRCh38	216020
 single nucleotide variant	NM_000051.4(ATM):c.748C>T (p.Arg250Ter)	472	ATM	Pathogenic	GRCh38	216024
 single nucleotide variant	NM_000051.4(ATM):c.2413C>T (p.Arg805Ter)	472	ATM	Pathogenic	GRCh38	216021
@@ -142,6 +143,7 @@ single nucleotide variant	NM_000051.4(ATM):c.6198+1G>A	472	ATM	Pathogenic/Likely
 single nucleotide variant	NM_000051.4(ATM):c.3747-1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	221913
 single nucleotide variant	NM_000051.4(ATM):c.4735C>T (p.Gln1579Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	224518
 single nucleotide variant	NM_000051.4(ATM):c.5762+1G>T	472	ATM	Pathogenic/Likely pathogenic	GRCh38	224519
+single nucleotide variant	NM_000051.4(ATM):c.2455T>C (p.Cys819Arg)	472	ATM	Likely pathogenic	GRCh38	226114
 single nucleotide variant	NM_000051.4(ATM):c.67C>T (p.Arg23Ter)	472	ATM	Pathogenic	GRCh38	232248
 single nucleotide variant	NM_000051.4(ATM):c.205C>T (p.Gln69Ter)	472	ATM	Pathogenic	GRCh38	233772
 single nucleotide variant	NM_000051.4(ATM):c.331+5G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	230851
@@ -176,7 +178,7 @@ single nucleotide variant	NM_000051.4(ATM):c.6082C>T (p.Gln2028Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.6397C>T (p.Gln2133Ter)	472	ATM	Pathogenic	GRCh38	229729
 single nucleotide variant	NM_000051.4(ATM):c.7189C>T (p.Gln2397Ter)	472	ATM	Pathogenic	GRCh38	233267
 single nucleotide variant	NM_000051.4(ATM):c.7408T>G (p.Tyr2470Asp)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	231789
-single nucleotide variant	NM_000051.4(ATM):c.8105T>G (p.Ile2702Arg)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	232389
+single nucleotide variant	NM_000051.4(ATM):c.8105T>G (p.Ile2702Arg)	472	ATM	Likely pathogenic	GRCh38	232389
 single nucleotide variant	NM_000051.4(ATM):c.8218C>T (p.Gln2740Ter)	472	ATM	Pathogenic	GRCh38	233930
 single nucleotide variant	NM_000051.4(ATM):c.8268+1G>T	472	ATM	Likely pathogenic	GRCh38	231097
 single nucleotide variant	NM_000051.4(ATM):c.8287C>T (p.Arg2763Ter)	472	ATM	Pathogenic	GRCh38	232612
@@ -192,6 +194,7 @@ single nucleotide variant	NM_000051.4(ATM):c.1240C>T (p.Gln414Ter)	472	ATM	Patho
 single nucleotide variant	NM_000051.4(ATM):c.2466+2T>A	472	ATM	Likely pathogenic	GRCh38	236690
 single nucleotide variant	NM_000051.4(ATM):c.4396C>T (p.Arg1466Ter)	472	ATM	Pathogenic	GRCh38	236716
 single nucleotide variant	NM_000051.4(ATM):c.5549T>A (p.Leu1850Ter)	472	ATM	Pathogenic	GRCh38	236741
+single nucleotide variant	NM_000051.4(ATM):c.7563C>G (p.Tyr2521Ter)	472	ATM	Pathogenic	GRCh38	236776
 single nucleotide variant	NM_000051.4(ATM):c.7788G>T (p.Glu2596Asp)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	236779
 single nucleotide variant	NM_000051.4(ATM):c.1463G>A (p.Trp488Ter)	472	ATM	Pathogenic	GRCh38	246090
 single nucleotide variant	NM_000051.4(ATM):c.1918A>T (p.Lys640Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	246276
@@ -286,6 +289,7 @@ single nucleotide variant	NM_000051.4(ATM):c.8140C>T (p.Gln2714Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.8149A>T (p.Lys2717Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	422041
 single nucleotide variant	NM_000051.4(ATM):c.8268+1G>A	472	ATM	Likely pathogenic	GRCh38	420799
 single nucleotide variant	NM_000051.4(ATM):c.8373C>A (p.Tyr2791Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	420016
+single nucleotide variant	NM_000051.4(ATM):c.8486C>T (p.Pro2829Leu)	472	ATM	Likely pathogenic	GRCh38	418777
 single nucleotide variant	NM_000051.4(ATM):c.850C>T (p.Gln284Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	429069
 single nucleotide variant	NM_000051.4(ATM):c.2639-384A>G	472	ATM	Pathogenic/Likely pathogenic	GRCh38	429070
 single nucleotide variant	NM_000051.4(ATM):c.3865A>T (p.Lys1289Ter)	472	ATM	Pathogenic	GRCh38	429077
@@ -295,7 +299,7 @@ single nucleotide variant	NM_000051.4(ATM):c.5771C>A (p.Ser1924Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.7032G>A (p.Trp2344Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	429080
 single nucleotide variant	NM_000051.4(ATM):c.8431A>T (p.Lys2811Ter)	472	ATM	Pathogenic	GRCh38	429074
 single nucleotide variant	NM_000051.4(ATM):c.8879G>A (p.Trp2960Ter)	472	ATM	Pathogenic	GRCh38	429062
-single nucleotide variant	NM_000051.4(ATM):c.8495G>T (p.Arg2832Leu)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	430406
+single nucleotide variant	NM_000051.4(ATM):c.8495G>T (p.Arg2832Leu)	472	ATM	Pathogenic	GRCh38	430406
 single nucleotide variant	NM_000051.4(ATM):c.6312G>A (p.Trp2104Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	430593
 single nucleotide variant	NM_000051.4(ATM):c.652C>T (p.Gln218Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	451807
 single nucleotide variant	NM_000051.4(ATM):c.664C>T (p.Gln222Ter)	472	ATM	Pathogenic	GRCh38	449343
@@ -446,7 +450,7 @@ single nucleotide variant	NM_000051.4(ATM):c.3154-1G>A	472	ATM	Pathogenic/Likely
 single nucleotide variant	NM_000051.4(ATM):c.7789G>T (p.Asp2597Tyr)	472	ATM	Likely pathogenic	GRCh38	557639
 single nucleotide variant	NM_000051.4(ATM):c.8535G>A (p.Trp2845Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	555284
 single nucleotide variant	NM_000051.4(ATM):c.8988-2A>C	472	ATM	Likely pathogenic	GRCh38	552963
-single nucleotide variant	NM_000051.4(ATM):c.9109C>T (p.Gln3037Ter)	472	ATM	Pathogenic	GRCh38	557378
+single nucleotide variant	NM_000051.4(ATM):c.9109C>T (p.Gln3037Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	557378
 single nucleotide variant	NM_000051.4(ATM):c.5177+5G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	557726
 single nucleotide variant	NM_000051.4(ATM):c.5178-1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	558613
 single nucleotide variant	NM_000051.4(ATM):c.5433T>A (p.Cys1811Ter)	472	ATM	Likely pathogenic	GRCh38	558088
@@ -646,7 +650,7 @@ single nucleotide variant	NM_000051.4(ATM):c.3338T>A (p.Leu1113Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.5755C>T (p.Gln1919Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	936134
 single nucleotide variant	NM_000051.4(ATM):c.186-2A>G	472	ATM	Likely pathogenic	GRCh38	941969
 single nucleotide variant	NM_000051.4(ATM):c.3077+1G>T	472	ATM	Pathogenic/Likely pathogenic	GRCh38	936903
-single nucleotide variant	NM_000051.4(ATM):c.6199-2A>C	472	ATM	Pathogenic	GRCh38	934134
+single nucleotide variant	NM_000051.4(ATM):c.6199-2A>C	472	ATM	Pathogenic/Likely pathogenic	GRCh38	934134
 single nucleotide variant	NM_000051.4(ATM):c.6453-2A>G	472	ATM	Likely pathogenic	GRCh38	934774
 single nucleotide variant	NM_000051.4(ATM):c.8786+2T>C	472	ATM	Pathogenic	GRCh38	941781
 single nucleotide variant	NM_000051.4(ATM):c.8787-2A>G	472	ATM	Pathogenic/Likely pathogenic	GRCh38	943453
@@ -757,6 +761,7 @@ single nucleotide variant	NM_000051.4(ATM):c.8914C>T (p.Gln2972Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.3448A>T (p.Arg1150Ter)	472	ATM	Pathogenic	GRCh38	1386175
 single nucleotide variant	NM_000051.4(ATM):c.72+1G>T	472	ATM	Pathogenic	GRCh38	1452631
 single nucleotide variant	NM_000051.4(ATM):c.1882C>T (p.Gln628Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	1454260
+single nucleotide variant	NM_000051.4(ATM):c.8150A>C (p.Lys2717Thr)	472	ATM	Likely pathogenic	GRCh38	1495088
 single nucleotide variant	NM_000051.4(ATM):c.2839-1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	1469238
 single nucleotide variant	NM_000051.4(ATM):c.8564G>T (p.Ser2855Ile)	472	ATM	Likely pathogenic	GRCh38	1469285
 single nucleotide variant	NM_000051.4(ATM):c.7963A>T (p.Lys2655Ter)	472	ATM	Pathogenic	GRCh38	1362644
@@ -950,7 +955,7 @@ single nucleotide variant	NM_000051.4(ATM):c.1803-270T>G	472	ATM	Pathogenic	GRCh
 single nucleotide variant	NM_000051.4(ATM):c.4777-2A>C	472	ATM	Pathogenic	GRCh38	1804525
 single nucleotide variant	NM_000051.4(ATM):c.4858C>T (p.Gln1620Ter)	472	ATM	Pathogenic	GRCh38	2137241
 single nucleotide variant	NM_000051.4(ATM):c.8269-1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	2137244
-single nucleotide variant	NM_000051.4(ATM):c.8671+1G>A	472	ATM	Pathogenic/Likely pathogenic	GRCh38	2193209
+single nucleotide variant	NM_000051.4(ATM):c.8671+1G>A	472	ATM	Likely pathogenic	GRCh38	2193209
 single nucleotide variant	NM_000051.4(ATM):c.1572G>A (p.Trp524Ter)	472	ATM	Pathogenic	GRCh38	2418981
 single nucleotide variant	NM_000051.4(ATM):c.7926A>T (p.Arg2642Ser)	472	ATM	Likely pathogenic	GRCh38	1929577
 single nucleotide variant	NM_000051.4(ATM):c.3470T>A (p.Leu1157Ter)	472	ATM	Pathogenic	GRCh38	1942641
@@ -1151,7 +1156,7 @@ single nucleotide variant	NM_000051.4(ATM):c.1589C>G (p.Ser530Ter)	472	ATM	Patho
 single nucleotide variant	NM_000051.4(ATM):c.6874C>T (p.Gln2292Ter)	472	ATM	Pathogenic	GRCh38	3148173
 single nucleotide variant	NM_000051.4(ATM):c.1152C>A (p.Cys384Ter)	472	ATM	Pathogenic	GRCh38	3148185
 single nucleotide variant	NM_000051.4(ATM):c.3837G>A (p.Trp1279Ter)	472	ATM	Pathogenic	GRCh38	3148187
-single nucleotide variant	NM_000051.4(ATM):c.5177+1G>T	472	ATM	Likely pathogenic	GRCh38	3148195
+single nucleotide variant	NM_000051.4(ATM):c.5177+1G>T	472	ATM	Pathogenic	GRCh38	3148195
 single nucleotide variant	NM_000051.4(ATM):c.4188T>A (p.Cys1396Ter)	472	ATM	Pathogenic	GRCh38	3148214
 single nucleotide variant	NM_000051.4(ATM):c.465C>A (p.Tyr155Ter)	472	ATM	Pathogenic	GRCh38	3148217
 single nucleotide variant	NM_000051.4(ATM):c.1A>T (p.Met1Leu)	472	ATM	Pathogenic	GRCh38	3148226
@@ -1167,7 +1172,7 @@ single nucleotide variant	NM_000051.4(ATM):c.8010+1G>C	472	ATM	Likely pathogenic
 single nucleotide variant	NM_000051.4(ATM):c.3078-1G>T	472	ATM	Likely pathogenic	GRCh38	3148313
 single nucleotide variant	NM_000051.4(ATM):c.979G>T (p.Gly327Ter)	472	ATM	Pathogenic	GRCh38	3148341
 single nucleotide variant	NM_000051.4(ATM):c.2654T>A (p.Leu885Ter)	472	ATM	Pathogenic	GRCh38	3148348
-single nucleotide variant	NM_000051.4(ATM):c.2922-1G>C	472	ATM	Likely pathogenic	GRCh38	3148362
+single nucleotide variant	NM_000051.4(ATM):c.2922-1G>C	472	ATM	Pathogenic	GRCh38	3148362
 single nucleotide variant	NM_000051.4(ATM):c.1803-1G>T	472	ATM	Likely pathogenic	GRCh38	3148364
 single nucleotide variant	NM_000051.4(ATM):c.3G>C (p.Met1Ile)	472	ATM	Pathogenic	GRCh38	3148372
 single nucleotide variant	NM_000051.4(ATM):c.988G>T (p.Gly330Ter)	472	ATM	Pathogenic	GRCh38	3148395
@@ -1226,7 +1231,7 @@ single nucleotide variant	NM_000051.4(ATM):c.7516-1G>T	472	ATM	Likely pathogenic
 single nucleotide variant	NM_000051.4(ATM):c.2674A>T (p.Lys892Ter)	472	ATM	Likely pathogenic	GRCh38	3393422
 single nucleotide variant	NM_000051.4(ATM):c.1236-404C>T	472	ATM	Likely pathogenic	GRCh38	3446536
 single nucleotide variant	NM_000051.4(ATM):c.3994-161G>A	472	ATM	Likely pathogenic	GRCh38	3445836
-single nucleotide variant	NM_000051.4(ATM):c.2922-2A>G	472	ATM	Likely pathogenic	GRCh38	3447779
+single nucleotide variant	NM_000051.4(ATM):c.2922-2A>G	472	ATM	Pathogenic/Likely pathogenic	GRCh38	3447779
 single nucleotide variant	NM_000051.4(ATM):c.7393A>T (p.Lys2465Ter)	472	ATM	Pathogenic	GRCh38	3449816
 single nucleotide variant	NM_000051.4(ATM):c.8093T>G (p.Leu2698Ter)	472	ATM	Pathogenic	GRCh38	3449845
 single nucleotide variant	NM_000051.4(ATM):c.6510T>A (p.Tyr2170Ter)	472	ATM	Pathogenic/Likely pathogenic	GRCh38	3449929
@@ -1287,6 +1292,7 @@ single nucleotide variant	NM_000051.4(ATM):c.4612-12A>G	472	ATM	Likely pathogeni
 single nucleotide variant	NM_000051.4(ATM):c.2124+1G>C	472	ATM	Likely pathogenic	GRCh38	3906166
 single nucleotide variant	NM_000051.4(ATM):c.9101T>A (p.Leu3034Ter)	472	ATM	Likely pathogenic	GRCh38	3966552
 single nucleotide variant	NM_000051.4(ATM):c.6991A>T (p.Lys2331Ter)	472	ATM	Pathogenic	GRCh38	3965816
+single nucleotide variant	NM_000051.4(ATM):c.5675-26T>C	472	ATM	Likely pathogenic	GRCh38	3966033
 single nucleotide variant	NM_000051.4(ATM):c.6835A>T (p.Lys2279Ter)	472	ATM	Pathogenic	GRCh38	3966130
 single nucleotide variant	NM_000051.4(ATM):c.8418+1G>T	472	ATM	Likely pathogenic	GRCh38	3967312
 single nucleotide variant	NM_000051.4(ATM):c.2251-2A>T	472	ATM	Pathogenic	GRCh38	4056347
@@ -1342,3 +1348,14 @@ single nucleotide variant	NM_000051.4(ATM):c.6300C>A (p.Tyr2100Ter)	472	ATM	Path
 single nucleotide variant	NM_000051.4(ATM):c.5398G>T (p.Glu1800Ter)	472	ATM	Pathogenic	GRCh38	4843923
 single nucleotide variant	NM_000051.4(ATM):c.2125-1G>C	472	ATM	Likely pathogenic	GRCh38	4848906
 single nucleotide variant	NM_000051.4(ATM):c.355G>T (p.Glu119Ter)	472	ATM	Pathogenic	GRCh38	4852868
+single nucleotide variant	NM_000051.4(ATM):c.5883T>A (p.Tyr1961Ter)	472	ATM	Pathogenic	GRCh38	4856777
+single nucleotide variant	NM_000051.4(ATM):c.3648T>A (p.Tyr1216Ter)	472	ATM	Pathogenic	GRCh38	4866468
+single nucleotide variant	NM_000051.4(ATM):c.5497-1G>C	472	ATM	Likely pathogenic	GRCh38	4865989
+single nucleotide variant	NM_000051.4(ATM):c.8752A>G (p.Met2918Val)	472	ATM	Likely pathogenic	GRCh38	4866204
+single nucleotide variant	NM_000051.4(ATM):c.1429A>T (p.Lys477Ter)	472	ATM	Pathogenic	GRCh38	4865485
+single nucleotide variant	NM_000051.4(ATM):c.5818G>T (p.Glu1940Ter)	472	ATM	Pathogenic	GRCh38	4867086
+single nucleotide variant	NM_000051.4(ATM):c.2212G>T (p.Glu738Ter)	472	ATM	Pathogenic	GRCh38	4867094
+single nucleotide variant	NM_000051.4(ATM):c.3746+1G>C	472	ATM	Likely pathogenic	GRCh38	4867110
+single nucleotide variant	NM_000051.4(ATM):c.2638+1G>A	472	ATM	Likely pathogenic	GRCh38	4867007
+single nucleotide variant	NM_000051.4(ATM):c.8032G>T (p.Gly2678Ter)	472	ATM	Pathogenic	GRCh38	4876000
+single nucleotide variant	NM_000051.4(ATM):c.5151C>G (p.Tyr1717Ter)	472	ATM	Pathogenic	GRCh38	4876072

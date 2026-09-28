@@ -13,7 +13,6 @@ single nucleotide variant	NM_000030.3(AGXT):c.508G>A (p.Gly170Arg)	189	AGXT	Path
 single nucleotide variant	NM_000030.3(AGXT):c.560C>T (p.Ser187Phe)	189	AGXT	Pathogenic	GRCh38	140584
 single nucleotide variant	NM_000030.3(AGXT):c.106C>T (p.Arg36Cys)	189	AGXT	Pathogenic	GRCh38	188957
 single nucleotide variant	NM_000030.3(AGXT):c.122G>T (p.Gly41Val)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	188985
-single nucleotide variant	NM_000030.3(AGXT):c.302T>C (p.Leu101Pro)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	188866
 single nucleotide variant	NM_000030.3(AGXT):c.322T>C (p.Trp108Arg)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	188891
 single nucleotide variant	NM_000030.3(AGXT):c.346G>A (p.Gly116Arg)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	189021
 single nucleotide variant	NM_000030.3(AGXT):c.481G>T (p.Gly161Cys)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	188738
@@ -168,7 +167,7 @@ single nucleotide variant	NM_000030.3(AGXT):c.569G>A (p.Gly190Glu)	189	AGXT	Like
 single nucleotide variant	NM_000030.3(AGXT):c.490C>T (p.Gln164Ter)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	2029609
 single nucleotide variant	NM_000030.3(AGXT):c.107G>C (p.Arg36Pro)	189	AGXT	Likely pathogenic	GRCh38	2088931
 single nucleotide variant	NM_000030.3(AGXT):c.165+1G>T	189	AGXT	Likely pathogenic	GRCh38	2503875
-single nucleotide variant	NM_000030.3(AGXT):c.568G>C (p.Gly190Arg)	189	AGXT	Pathogenic	GRCh38	2577088
+single nucleotide variant	NM_000030.3(AGXT):c.568G>C (p.Gly190Arg)	189	AGXT	Pathogenic/Likely pathogenic	GRCh38	2577088
 single nucleotide variant	NM_000030.3(AGXT):c.191T>A (p.Ile64Asn)	189	AGXT	Likely pathogenic	GRCh38	2664118
 single nucleotide variant	NM_000030.3(AGXT):c.292G>C (p.Asp98His)	189	AGXT	Likely pathogenic	GRCh38	2664120
 single nucleotide variant	NM_000030.3(AGXT):c.352C>A (p.Arg118Ser)	189	AGXT	Likely pathogenic	GRCh38	2664121
@@ -231,3 +230,4 @@ single nucleotide variant	NM_000030.3(AGXT):c.595+1G>C	189	AGXT	Pathogenic	GRCh3
 single nucleotide variant	NM_000030.3(AGXT):c.777-1G>T	189	AGXT	Pathogenic	GRCh38	4818044
 single nucleotide variant	NM_000030.3(AGXT):c.1049G>T (p.Gly350Val)	189	AGXT	Likely pathogenic	GRCh38	4852183
 single nucleotide variant	NM_000030.3(AGXT):c.539T>G (p.Leu180Arg)	189	AGXT	Likely pathogenic	GRCh38	4852963
+single nucleotide variant	NM_000030.3(AGXT):c.943-2A>T	189	AGXT	Likely pathogenic	GRCh38	4889880

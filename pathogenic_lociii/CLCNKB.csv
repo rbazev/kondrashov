@@ -1,0 +1,53 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000085.5(CLCNKB):c.371C>T (p.Pro124Leu)	1188	CLCNKB	Pathogenic	GRCh38	7591
+single nucleotide variant	NM_000085.5(CLCNKB):c.610G>A (p.Ala204Thr)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	7592
+single nucleotide variant	NM_000085.5(CLCNKB):c.1312C>T (p.Arg438Cys)	1188	CLCNKB	Pathogenic	GRCh38	7593
+single nucleotide variant	NM_000085.5(CLCNKB):c.1046C>A (p.Ala349Asp)	1188	CLCNKB	Pathogenic	GRCh38	7594
+single nucleotide variant	NM_000085.5(CLCNKB):c.1294T>C (p.Tyr432His)	1188	CLCNKB	Pathogenic	GRCh38	7595
+single nucleotide variant	NM_000085.5(CLCNKB):c.782-2A>G	1188	CLCNKB	Pathogenic	GRCh38	7597
+single nucleotide variant	NM_000085.5(CLCNKB):c.1830G>A (p.Trp610Ter)	1188	CLCNKB	Pathogenic	GRCh38	7599
+single nucleotide variant	NM_000085.5(CLCNKB):c.230-1G>C	1188	CLCNKB	Pathogenic	GRCh38	7600
+single nucleotide variant	NM_000085.5(CLCNKB):c.1929+1G>A	1188	CLCNKB	Likely pathogenic	GRCh38	7601
+single nucleotide variant	NM_000085.5(CLCNKB):c.359G>T (p.Gly120Val)	1188	CLCNKB	Likely pathogenic	GRCh38	381727
+single nucleotide variant	NM_000085.5(CLCNKB):c.1783C>T (p.Arg595Ter)	1188	CLCNKB	Pathogenic	GRCh38	447098
+single nucleotide variant	NM_000085.5(CLCNKB):c.1166G>A (p.Trp389Ter)	1188	CLCNKB	Pathogenic	GRCh38	497329
+single nucleotide variant	NM_000085.5(CLCNKB):c.673G>T (p.Glu225Ter)	1188	CLCNKB	Pathogenic	GRCh38	801446
+single nucleotide variant	NM_000085.5(CLCNKB):c.708C>A (p.Tyr236Ter)	1188	CLCNKB	Pathogenic	GRCh38	801447
+single nucleotide variant	NM_000085.5(CLCNKB):c.910C>T (p.Arg304Ter)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	801448
+single nucleotide variant	NM_000085.5(CLCNKB):c.1309G>A (p.Gly437Arg)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	801449
+single nucleotide variant	NM_000085.5(CLCNKB):c.1400C>T (p.Ala467Val)	1188	CLCNKB	Likely pathogenic	GRCh38	801450
+single nucleotide variant	NM_000085.5(CLCNKB):c.1560T>G (p.Tyr520Ter)	1188	CLCNKB	Pathogenic	GRCh38	801451
+single nucleotide variant	NM_000085.5(CLCNKB):c.1325A>G (p.Glu442Gly)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	804713
+single nucleotide variant	NM_000085.5(CLCNKB):c.1270G>A (p.Gly424Arg)	1188	CLCNKB	Likely pathogenic	GRCh38	974420
+single nucleotide variant	NM_000085.5(CLCNKB):c.226C>T (p.Arg76Ter)	1188	CLCNKB	Pathogenic	GRCh38	975076
+single nucleotide variant	NM_000085.5(CLCNKB):c.274C>T (p.Arg92Trp)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	1179088
+single nucleotide variant	NM_000085.5(CLCNKB):c.968+1G>A	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	1285112
+single nucleotide variant	NM_000085.5(CLCNKB):c.1163G>A (p.Trp388Ter)	1188	CLCNKB	Likely pathogenic	GRCh38	1322093
+single nucleotide variant	NM_000085.5(CLCNKB):c.508G>A (p.Val170Met)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	1322094
+single nucleotide variant	NM_000085.5(CLCNKB):c.1051C>T (p.Arg351Trp)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	1456684
+single nucleotide variant	NM_000085.5(CLCNKB):c.498+1G>C	1188	CLCNKB	Pathogenic	GRCh38	2151863
+single nucleotide variant	NM_000085.5(CLCNKB):c.1172G>A (p.Trp391Ter)	1188	CLCNKB	Pathogenic	GRCh38	2202706
+single nucleotide variant	NM_000085.5(CLCNKB):c.1930-1G>A	1188	CLCNKB	Likely pathogenic	GRCh38	1915287
+single nucleotide variant	NM_000085.5(CLCNKB):c.1227+1G>A	1188	CLCNKB	Likely pathogenic	GRCh38	1976514
+single nucleotide variant	NM_000085.5(CLCNKB):c.1313G>A (p.Arg438His)	1188	CLCNKB	Pathogenic	GRCh38	2055600
+single nucleotide variant	NM_000085.5(CLCNKB):c.498+2T>G	1188	CLCNKB	Pathogenic	GRCh38	2081409
+single nucleotide variant	NM_000085.5(CLCNKB):c.1316T>C (p.Leu439Pro)	1188	CLCNKB	Likely pathogenic	GRCh38	2733833
+single nucleotide variant	NM_000085.5(CLCNKB):c.761C>T (p.Ala254Val)	1188	CLCNKB	Likely pathogenic	GRCh38	2910098
+single nucleotide variant	NM_000085.5(CLCNKB):c.1845+1G>C	1188	CLCNKB	Likely pathogenic	GRCh38	3004235
+single nucleotide variant	NM_000085.5(CLCNKB):c.1324G>A (p.Glu442Lys)	1188	CLCNKB	Likely pathogenic	GRCh38	3064072
+single nucleotide variant	NM_000085.5(CLCNKB):c.1408G>C (p.Gly470Arg)	1188	CLCNKB	Likely pathogenic	GRCh38	3233380
+single nucleotide variant	NM_000085.5(CLCNKB):c.736G>C (p.Gly246Arg)	1188	CLCNKB	Likely pathogenic	GRCh38	3253068
+single nucleotide variant	NM_000085.5(CLCNKB):c.229G>C (p.Ala77Pro)	1188	CLCNKB	Pathogenic/Likely pathogenic	GRCh38	3340165
+single nucleotide variant	NM_000085.5(CLCNKB):c.1755A>G (p.Thr585=)	1188	CLCNKB	Likely pathogenic	GRCh38	3381989
+single nucleotide variant	NM_000085.5(CLCNKB):c.490G>T (p.Gly164Trp)	1188	CLCNKB	Likely pathogenic	GRCh38	3383988
+single nucleotide variant	NM_000085.5(CLCNKB):c.781G>T (p.Glu261Ter)	1188	CLCNKB	Likely pathogenic	GRCh38	3599296
+single nucleotide variant	NM_000085.5(CLCNKB):c.969-2A>C	1188	CLCNKB	Likely pathogenic	GRCh38	3599368
+single nucleotide variant	NM_000085.5(CLCNKB):c.1053+2T>A	1188	CLCNKB	Likely pathogenic	GRCh38	3599402
+single nucleotide variant	NM_000085.5(CLCNKB):c.1153C>T (p.Gln385Ter)	1188	CLCNKB	Likely pathogenic	GRCh38	3599410
+single nucleotide variant	NM_000085.5(CLCNKB):c.1228-2A>G	1188	CLCNKB	Pathogenic	GRCh38	3599427
+single nucleotide variant	NM_000085.5(CLCNKB):c.1846-1G>A	1188	CLCNKB	Likely pathogenic	GRCh38	3599583
+single nucleotide variant	NM_000085.5(CLCNKB):c.1987A>T (p.Arg663Ter)	1188	CLCNKB	Likely pathogenic	GRCh38	3599664
+single nucleotide variant	NM_000085.5(CLCNKB):c.735C>A (p.Cys245Ter)	1188	CLCNKB	Pathogenic	GRCh38	3714992
+single nucleotide variant	NM_000085.5(CLCNKB):c.1217T>C (p.Leu406Pro)	1188	CLCNKB	Likely pathogenic	GRCh38	4086139
+single nucleotide variant	NM_000085.5(CLCNKB):c.1066C>T (p.Gln356Ter)	1188	CLCNKB	Pathogenic	GRCh38	4688289
+single nucleotide variant	NM_000085.5(CLCNKB):c.499G>T (p.Gly167Cys)	1188	CLCNKB	Likely pathogenic	GRCh38	4850142

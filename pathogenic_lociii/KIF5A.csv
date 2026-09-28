@@ -1,0 +1,76 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_004984.4(KIF5A):c.767A>G (p.Asn256Ser)	3798	KIF5A	Pathogenic	GRCh38	6806
+single nucleotide variant	NM_004984.4(KIF5A):c.838C>T (p.Arg280Cys)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	6807
+single nucleotide variant	NM_004984.4(KIF5A):c.827A>G (p.Tyr276Cys)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	6808
+single nucleotide variant	NM_004984.4(KIF5A):c.751G>A (p.Glu251Lys)	3798	KIF5A	Pathogenic	GRCh38	37127
+single nucleotide variant	NM_004984.4(KIF5A):c.611G>A (p.Arg204Gln)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	37129
+single nucleotide variant	NM_004984.4(KIF5A):c.839G>A (p.Arg280His)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	37130
+single nucleotide variant	NM_004984.4(KIF5A):c.704G>A (p.Gly235Glu)	3798	KIF5A	Likely pathogenic	GRCh38	37131
+single nucleotide variant	NM_004984.4(KIF5A):c.694G>A (p.Asp232Asn)	3798	KIF5A	Pathogenic	GRCh38	162100
+single nucleotide variant	NM_004984.4(KIF5A):c.847A>G (p.Lys283Glu)	3798	KIF5A	Likely pathogenic	GRCh38	390371
+single nucleotide variant	NM_004984.4(KIF5A):c.604A>C (p.Ser202Arg)	3798	KIF5A	Likely pathogenic	GRCh38	391690
+single nucleotide variant	NM_004984.4(KIF5A):c.3020G>A (p.Arg1007Lys)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	409669
+single nucleotide variant	NM_004984.4(KIF5A):c.967C>T (p.Arg323Trp)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	409666
+single nucleotide variant	NM_004984.4(KIF5A):c.610C>T (p.Arg204Trp)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	424651
+single nucleotide variant	NM_004984.4(KIF5A):c.833C>T (p.Pro278Leu)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	424658
+single nucleotide variant	NM_004984.4(KIF5A):c.868G>C (p.Asp290His)	3798	KIF5A	Likely pathogenic	GRCh38	424659
+single nucleotide variant	NM_004984.4(KIF5A):c.799T>C (p.Ser267Pro)	3798	KIF5A	Likely pathogenic	GRCh38	430828
+single nucleotide variant	NM_004984.4(KIF5A):c.2314C>T (p.Arg772Ter)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	439849
+single nucleotide variant	NM_004984.4(KIF5A):c.2993-3C>T	3798	KIF5A	Pathogenic	GRCh38	504476
+single nucleotide variant	NM_004984.4(KIF5A):c.3020+1G>A	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	504478
+single nucleotide variant	NM_004984.4(KIF5A):c.3019A>G (p.Arg1007Gly)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	504479
+single nucleotide variant	NM_004984.4(KIF5A):c.698T>C (p.Leu233Pro)	3798	KIF5A	Likely pathogenic	GRCh38	660470
+single nucleotide variant	NM_004984.4(KIF5A):c.2608G>T (p.Glu870Ter)	3798	KIF5A	Pathogenic	GRCh38	662246
+single nucleotide variant	NM_004984.4(KIF5A):c.969-1G>C	3798	KIF5A	Likely pathogenic	GRCh38	845783
+single nucleotide variant	NM_004984.4(KIF5A):c.3020+1G>T	3798	KIF5A	Likely pathogenic	GRCh38	836624
+single nucleotide variant	NM_004984.4(KIF5A):c.484C>T (p.Arg162Trp)	3798	KIF5A	Pathogenic/Likely pathogenic	GRCh38	944917
+single nucleotide variant	NM_004984.4(KIF5A):c.698T>A (p.Leu233Gln)	3798	KIF5A	Likely pathogenic	GRCh38	973760
+single nucleotide variant	NM_004984.4(KIF5A):c.1378C>T (p.Arg460Ter)	3798	KIF5A	Pathogenic	GRCh38	986795
+single nucleotide variant	NM_004984.4(KIF5A):c.2755+1G>T	3798	KIF5A	Likely pathogenic	GRCh38	987274
+single nucleotide variant	NM_004984.4(KIF5A):c.395A>G (p.Lys132Arg)	3798	KIF5A	Pathogenic	GRCh38	989064
+single nucleotide variant	NM_004984.4(KIF5A):c.604A>G (p.Ser202Gly)	3798	KIF5A	Pathogenic	GRCh38	989067
+single nucleotide variant	NM_004984.4(KIF5A):c.605G>A (p.Ser202Asn)	3798	KIF5A	Pathogenic	GRCh38	989068
+single nucleotide variant	NM_004984.4(KIF5A):c.728G>A (p.Gly243Glu)	3798	KIF5A	Pathogenic	GRCh38	989069
+single nucleotide variant	NM_004984.4(KIF5A):c.765C>G (p.Ile255Met)	3798	KIF5A	Pathogenic	GRCh38	989071
+single nucleotide variant	NM_004984.4(KIF5A):c.854C>T (p.Thr285Ile)	3798	KIF5A	Pathogenic	GRCh38	989072
+single nucleotide variant	NM_004984.4(KIF5A):c.532G>T (p.Glu178Ter)	3798	KIF5A	Likely pathogenic	GRCh38	1176950
+single nucleotide variant	NM_004984.4(KIF5A):c.687T>A (p.Tyr229Ter)	3798	KIF5A	Likely pathogenic	GRCh38	1184563
+single nucleotide variant	NM_004984.4(KIF5A):c.397-2A>G	3798	KIF5A	Likely pathogenic	GRCh38	1184883
+single nucleotide variant	NM_004984.4(KIF5A):c.608C>T (p.Ser203Phe)	3798	KIF5A	Likely pathogenic	GRCh38	1187058
+single nucleotide variant	NM_004984.4(KIF5A):c.2987A>G (p.Asp996Gly)	3798	KIF5A	Likely pathogenic	GRCh38	1299492
+single nucleotide variant	NM_004984.4(KIF5A):c.2310C>G (p.Tyr770Ter)	3798	KIF5A	Likely pathogenic	GRCh38	1324622
+single nucleotide variant	NM_004984.4(KIF5A):c.1858G>T (p.Glu620Ter)	3798	KIF5A	Pathogenic	GRCh38	1335110
+single nucleotide variant	NM_004984.4(KIF5A):c.43C>T (p.Arg15Ter)	3798	KIF5A	Pathogenic	GRCh38	1508288
+single nucleotide variant	NM_004984.4(KIF5A):c.3020+1G>C	3798	KIF5A	Pathogenic	GRCh38	1458651
+single nucleotide variant	NM_004984.4(KIF5A):c.262A>G (p.Thr88Ala)	3798	KIF5A	Likely pathogenic	GRCh38	1707549
+single nucleotide variant	NM_004984.4(KIF5A):c.217G>A (p.Asp73Asn)	3798	KIF5A	Likely pathogenic	GRCh38	1709386
+single nucleotide variant	NM_004984.4(KIF5A):c.501+2T>C	3798	KIF5A	Likely pathogenic	GRCh38	1709701
+single nucleotide variant	NM_004984.4(KIF5A):c.129+1G>A	3798	KIF5A	Likely pathogenic	GRCh38	1711150
+single nucleotide variant	NM_004984.4(KIF5A):c.3020+3A>G	3798	KIF5A	Pathogenic	GRCh38	2152154
+single nucleotide variant	NM_004984.4(KIF5A):c.2068C>T (p.Gln690Ter)	3798	KIF5A	Pathogenic	GRCh38	2027343
+single nucleotide variant	NM_004984.4(KIF5A):c.1342C>T (p.Gln448Ter)	3798	KIF5A	Pathogenic	GRCh38	2028586
+single nucleotide variant	NM_004984.4(KIF5A):c.2756-2A>G	3798	KIF5A	Likely pathogenic	GRCh38	2123782
+single nucleotide variant	NM_004984.4(KIF5A):c.737G>T (p.Gly246Val)	3798	KIF5A	Pathogenic	GRCh38	2500188
+single nucleotide variant	NM_004984.4(KIF5A):c.566C>G (p.Ser189Ter)	3798	KIF5A	Likely pathogenic	GRCh38	2505561
+single nucleotide variant	NM_004984.4(KIF5A):c.263C>T (p.Thr88Ile)	3798	KIF5A	Pathogenic	GRCh38	2574240
+single nucleotide variant	NM_004984.4(KIF5A):c.2396A>G (p.Lys799Arg)	3798	KIF5A	Likely pathogenic	GRCh38	2683883
+single nucleotide variant	NM_004984.4(KIF5A):c.611G>T (p.Arg204Leu)	3798	KIF5A	Likely pathogenic	GRCh38	2710738
+single nucleotide variant	NM_004984.4(KIF5A):c.745C>G (p.Leu249Val)	3798	KIF5A	Pathogenic	GRCh38	2735901
+single nucleotide variant	NM_004984.4(KIF5A):c.839G>C (p.Arg280Pro)	3798	KIF5A	Likely pathogenic	GRCh38	2768832
+single nucleotide variant	NM_004984.4(KIF5A):c.806T>C (p.Leu269Pro)	3798	KIF5A	Likely pathogenic	GRCh38	3235264
+single nucleotide variant	NM_004984.4(KIF5A):c.614G>A (p.Ser205Asn)	3798	KIF5A	Likely pathogenic	GRCh38	3256743
+single nucleotide variant	NM_004984.4(KIF5A):c.2266G>T (p.Glu756Ter)	3798	KIF5A	Likely pathogenic	GRCh38	3337225
+single nucleotide variant	NM_004984.4(KIF5A):c.340C>T (p.Arg114Ter)	3798	KIF5A	Likely pathogenic	GRCh38	3372319
+single nucleotide variant	NM_004984.4(KIF5A):c.1309C>T (p.Gln437Ter)	3798	KIF5A	Pathogenic	GRCh38	3632245
+single nucleotide variant	NM_004984.4(KIF5A):c.2198+1G>A	3798	KIF5A	Likely pathogenic	GRCh38	3657624
+single nucleotide variant	NM_004984.4(KIF5A):c.1716+2T>C	3798	KIF5A	Likely pathogenic	GRCh38	3663275
+single nucleotide variant	NM_004984.4(KIF5A):c.2422C>T (p.Arg808Ter)	3798	KIF5A	Pathogenic	GRCh38	3707733
+single nucleotide variant	NM_004984.4(KIF5A):c.1630C>T (p.Arg544Ter)	3798	KIF5A	Pathogenic	GRCh38	3721627
+single nucleotide variant	NM_004984.4(KIF5A):c.2903A>G (p.Asp968Gly)	3798	KIF5A	Likely pathogenic	GRCh38	3902840
+single nucleotide variant	NM_004984.4(KIF5A):c.1251C>G (p.Tyr417Ter)	3798	KIF5A	Likely pathogenic	GRCh38	4074920
+single nucleotide variant	NM_004984.4(KIF5A):c.1118-2A>G	3798	KIF5A	Pathogenic	GRCh38	4682485
+single nucleotide variant	NM_004984.4(KIF5A):c.3020+2T>C	3798	KIF5A	Pathogenic	GRCh38	4737635
+single nucleotide variant	NM_004984.4(KIF5A):c.1819C>T (p.Gln607Ter)	3798	KIF5A	Likely pathogenic	GRCh38	4852384
+single nucleotide variant	NM_004984.4(KIF5A):c.758A>T (p.Lys253Met)	3798	KIF5A	Likely pathogenic	GRCh38	4857022
+single nucleotide variant	NM_004984.4(KIF5A):c.691G>A (p.Val231Met)	3798	KIF5A	Likely pathogenic	GRCh38	4857354
+single nucleotide variant	NM_004984.4(KIF5A):c.331C>T (p.Arg111Ter)	3798	KIF5A	Likely pathogenic	GRCh38	4883427

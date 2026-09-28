@@ -1,7 +1,7 @@
 Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
 single nucleotide variant	NM_001139.3(ALOX12B):c.1277T>C (p.Leu426Pro)	242	ALOX12B	Pathogenic	GRCh38	6083
 single nucleotide variant	NM_001139.3(ALOX12B):c.1734C>A (p.His578Gln)	242	ALOX12B	Pathogenic	GRCh38	6084
-single nucleotide variant	NM_001139.3(ALOX12B):c.340C>T (p.Arg114Trp)	242	ALOX12B	Pathogenic/Likely pathogenic	GRCh38	39538
+single nucleotide variant	NM_001139.3(ALOX12B):c.340C>T (p.Arg114Trp)	242	ALOX12B	Pathogenic	GRCh38	39538
 single nucleotide variant	NM_001139.3(ALOX12B):c.1294C>T (p.Arg432Ter)	242	ALOX12B	Pathogenic/Likely pathogenic	GRCh38	39539
 single nucleotide variant	NM_001139.3(ALOX12B):c.2036G>T (p.Arg679Leu)	242	ALOX12B	Pathogenic	GRCh38	39540
 single nucleotide variant	NM_001139.3(ALOX12B):c.1180G>A (p.Glu394Lys)	242	ALOX12B	Pathogenic	GRCh38	39541
@@ -57,7 +57,7 @@ single nucleotide variant	NM_001139.3(ALOX12B):c.1309A>T (p.Ile437Phe)	242	ALOX1
 single nucleotide variant	NM_001139.3(ALOX12B):c.1265C>T (p.Pro422Leu)	242	ALOX12B	Pathogenic/Likely pathogenic	GRCh38	995739
 single nucleotide variant	NM_001139.3(ALOX12B):c.1261C>T (p.His421Tyr)	242	ALOX12B	Likely pathogenic	GRCh38	995737
 single nucleotide variant	NM_001139.3(ALOX12B):c.1211T>G (p.Leu404Arg)	242	ALOX12B	Pathogenic	GRCh38	995501
-single nucleotide variant	NM_001139.3(ALOX12B):c.1192C>T (p.His398Tyr)	242	ALOX12B	Likely pathogenic	GRCh38	995741
+single nucleotide variant	NM_001139.3(ALOX12B):c.1192C>T (p.His398Tyr)	242	ALOX12B	Pathogenic/Likely pathogenic	GRCh38	995741
 single nucleotide variant	NM_001139.3(ALOX12B):c.1157G>A (p.Arg386His)	242	ALOX12B	Likely pathogenic	GRCh38	995738
 single nucleotide variant	NM_001139.3(ALOX12B):c.1127G>A (p.Trp376Ter)	242	ALOX12B	Pathogenic	GRCh38	995736
 single nucleotide variant	NM_001139.3(ALOX12B):c.1078C>G (p.Gln360Glu)	242	ALOX12B	Pathogenic	GRCh38	995735
@@ -103,3 +103,5 @@ single nucleotide variant	NM_001139.3(ALOX12B):c.1161T>A (p.Tyr387Ter)	242	ALOX1
 single nucleotide variant	NM_001139.3(ALOX12B):c.1654G>T (p.Gly552Cys)	242	ALOX12B	Pathogenic/Likely pathogenic	GRCh38	3896024
 single nucleotide variant	NM_001139.3(ALOX12B):c.1248C>A (p.Asn416Lys)	242	ALOX12B	Likely pathogenic	GRCh38	4535766
 single nucleotide variant	NM_001139.3(ALOX12B):c.1013C>T (p.Ala338Val)	242	ALOX12B	Likely pathogenic	GRCh38	4685542
+single nucleotide variant	NM_001139.3(ALOX12B):c.1518G>A (p.Trp506Ter)	242	ALOX12B	Likely pathogenic	GRCh38	4889553
+single nucleotide variant	NM_001139.3(ALOX12B):c.898G>T (p.Glu300Ter)	242	ALOX12B	Likely pathogenic	GRCh38	4889554

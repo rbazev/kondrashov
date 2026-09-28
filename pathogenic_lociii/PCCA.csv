@@ -1,0 +1,175 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000282.4(PCCA):c.862A>T (p.Arg288Ter)	5095	PCCA	Pathogenic	GRCh38	12023
+single nucleotide variant	NM_000282.4(PCCA):c.1118T>A (p.Met373Lys)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	12024
+single nucleotide variant	NM_000282.4(PCCA):c.1285-1416A>G	5095	PCCA	Pathogenic	GRCh38	12025
+single nucleotide variant	NM_000282.4(PCCA):c.412G>A (p.Ala138Thr)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	38867
+single nucleotide variant	NM_000282.4(PCCA):c.491T>C (p.Ile164Thr)	5095	PCCA	Likely pathogenic	GRCh38	38868
+single nucleotide variant	NM_000282.4(PCCA):c.862A>G (p.Arg288Gly)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	38869
+single nucleotide variant	NM_000282.4(PCCA):c.937C>T (p.Arg313Ter)	5095	PCCA	Pathogenic	GRCh38	38870
+single nucleotide variant	NM_000282.4(PCCA):c.1788G>A (p.Trp596Ter)	5095	PCCA	Pathogenic	GRCh38	195456
+single nucleotide variant	NM_000282.4(PCCA):c.232-1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	197126
+single nucleotide variant	NM_000282.4(PCCA):c.425G>A (p.Gly142Asp)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	203880
+single nucleotide variant	NM_000282.4(PCCA):c.1891G>C (p.Gly631Arg)	5095	PCCA	Likely pathogenic	GRCh38	203878
+single nucleotide variant	NM_000282.4(PCCA):c.105+1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218251
+single nucleotide variant	NM_000282.4(PCCA):c.184-1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218257
+single nucleotide variant	NM_000282.4(PCCA):c.284A>G (p.Asp95Gly)	5095	PCCA	Pathogenic	GRCh38	218248
+single nucleotide variant	NM_000282.4(PCCA):c.431G>T (p.Gly144Val)	5095	PCCA	Pathogenic	GRCh38	218259
+single nucleotide variant	NM_000282.4(PCCA):c.467T>A (p.Leu156Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218260
+single nucleotide variant	NM_000282.4(PCCA):c.548T>G (p.Leu183Ter)	5095	PCCA	Pathogenic	GRCh38	218263
+single nucleotide variant	NM_000282.4(PCCA):c.600+1G>T	5095	PCCA	Pathogenic	GRCh38	218249
+single nucleotide variant	NM_000282.4(PCCA):c.863G>A (p.Arg288Lys)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218262
+single nucleotide variant	NM_000282.4(PCCA):c.1426C>T (p.Arg476Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218264
+single nucleotide variant	NM_000282.4(PCCA):c.1747-1G>C	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218250
+single nucleotide variant	NM_000282.4(PCCA):c.2002G>A (p.Gly668Arg)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218266
+single nucleotide variant	NM_000282.4(PCCA):c.2040G>A (p.Ala680=)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	218256
+single nucleotide variant	NM_000282.4(PCCA):c.806A>G (p.His269Arg)	5095	PCCA	Likely pathogenic	GRCh38	265708
+single nucleotide variant	NM_000282.4(PCCA):c.1284+1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	279863
+single nucleotide variant	NM_000282.4(PCCA):c.2118+1G>A	5095	PCCA	Likely pathogenic	GRCh38	285210
+single nucleotide variant	NM_000282.4(PCCA):c.893A>G (p.Lys298Arg)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	449078
+single nucleotide variant	NM_000282.4(PCCA):c.782A>G (p.Glu261Gly)	5095	PCCA	Likely pathogenic	GRCh38	459939
+single nucleotide variant	NM_000282.4(PCCA):c.2119-9A>G	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	459938
+single nucleotide variant	NM_000282.4(PCCA):c.1747-3C>G	5095	PCCA	Likely pathogenic	GRCh38	498770
+single nucleotide variant	NM_000282.4(PCCA):c.659C>A (p.Ala220Asp)	5095	PCCA	Likely pathogenic	GRCh38	553867
+single nucleotide variant	NM_000282.4(PCCA):c.915-1G>C	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	552178
+single nucleotide variant	NM_000282.4(PCCA):c.1540+2T>A	5095	PCCA	Likely pathogenic	GRCh38	554305
+single nucleotide variant	NM_000282.4(PCCA):c.2040+1G>T	5095	PCCA	Likely pathogenic	GRCh38	558180
+single nucleotide variant	NM_000282.4(PCCA):c.183+2T>C	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	552127
+single nucleotide variant	NM_000282.4(PCCA):c.229C>T (p.Arg77Trp)	5095	PCCA	Pathogenic	GRCh38	550747
+single nucleotide variant	NM_000282.4(PCCA):c.1209+3A>G	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	553422
+single nucleotide variant	NM_000282.4(PCCA):c.1746G>A (p.Ser582=)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	556480
+single nucleotide variant	NM_000282.4(PCCA):c.231+1G>C	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	550113
+single nucleotide variant	NM_000282.4(PCCA):c.1846-1G>A	5095	PCCA	Likely pathogenic	GRCh38	557415
+single nucleotide variant	NM_000282.4(PCCA):c.1855C>T (p.Arg619Ter)	5095	PCCA	Pathogenic	GRCh38	553941
+single nucleotide variant	NM_000282.4(PCCA):c.1268C>T (p.Pro423Leu)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	554310
+single nucleotide variant	NM_000282.4(PCCA):c.1540+1G>C	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	554789
+single nucleotide variant	NM_000282.4(PCCA):c.2041-2A>G	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	552574
+single nucleotide variant	NM_000282.4(PCCA):c.2056G>T (p.Glu686Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	552545
+single nucleotide variant	NM_000282.4(PCCA):c.230G>A (p.Arg77Gln)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	631693
+single nucleotide variant	NM_000282.4(PCCA):c.415-2A>C	5095	PCCA	Pathogenic	GRCh38	632933
+single nucleotide variant	NM_000282.4(PCCA):c.2T>A (p.Met1Lys)	5095	PCCA	Pathogenic	GRCh38	638018
+single nucleotide variant	NM_000282.4(PCCA):c.43G>T (p.Gly15Ter)	5095	PCCA	Pathogenic	GRCh38	638019
+single nucleotide variant	NM_000282.4(PCCA):c.524G>A (p.Gly175Asp)	5095	PCCA	Likely pathogenic	GRCh38	638022
+single nucleotide variant	NM_000282.4(PCCA):c.683G>T (p.Gly228Val)	5095	PCCA	Likely pathogenic	GRCh38	638023
+single nucleotide variant	NM_000282.4(PCCA):c.734C>G (p.Ser245Ter)	5095	PCCA	Pathogenic	GRCh38	638024
+single nucleotide variant	NM_000282.4(PCCA):c.803G>T (p.Arg268Leu)	5095	PCCA	Likely pathogenic	GRCh38	638025
+single nucleotide variant	NM_000282.4(PCCA):c.872C>T (p.Ser291Leu)	5095	PCCA	Likely pathogenic	GRCh38	638027
+single nucleotide variant	NM_000282.4(PCCA):c.1066G>C (p.Val356Leu)	5095	PCCA	Likely pathogenic	GRCh38	638028
+single nucleotide variant	NM_000282.4(PCCA):c.2077A>T (p.Met693Leu)	5095	PCCA	Likely pathogenic	GRCh38	638032
+single nucleotide variant	NM_000282.4(PCCA):c.688C>T (p.Arg230Cys)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	646053
+single nucleotide variant	NM_000282.4(PCCA):c.1195C>T (p.Arg399Trp)	5095	PCCA	Pathogenic	GRCh38	662772
+single nucleotide variant	NM_000282.4(PCCA):c.2041-1G>T	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	648058
+single nucleotide variant	NM_000282.4(PCCA):c.1845+1G>A	5095	PCCA	Pathogenic	GRCh38	830055
+single nucleotide variant	NM_000282.4(PCCA):c.451G>T (p.Glu151Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	850325
+single nucleotide variant	NM_000282.4(PCCA):c.556A>T (p.Lys186Ter)	5095	PCCA	Pathogenic	GRCh38	853682
+single nucleotide variant	NM_000282.4(PCCA):c.1288C>T (p.Arg430Ter)	5095	PCCA	Pathogenic	GRCh38	851298
+single nucleotide variant	NM_000282.4(PCCA):c.717-2A>G	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	850378
+single nucleotide variant	NM_000282.4(PCCA):c.1065+1G>C	5095	PCCA	Likely pathogenic	GRCh38	861598
+single nucleotide variant	NM_000282.4(PCCA):c.805C>T (p.His269Tyr)	5095	PCCA	Likely pathogenic	GRCh38	870415
+single nucleotide variant	NM_000282.4(PCCA):c.1181G>A (p.Trp394Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	935344
+single nucleotide variant	NM_000282.4(PCCA):c.637+1G>A	5095	PCCA	Likely pathogenic	GRCh38	933980
+single nucleotide variant	NM_000282.4(PCCA):c.820-1G>A	5095	PCCA	Likely pathogenic	GRCh38	946188
+single nucleotide variant	NM_000282.4(PCCA):c.106-1G>A	5095	PCCA	Likely pathogenic	GRCh38	962880
+single nucleotide variant	NM_000282.4(PCCA):c.2119-2A>G	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	982108
+single nucleotide variant	NM_000282.4(PCCA):c.468+1G>A	5095	PCCA	Pathogenic	GRCh38	997844
+single nucleotide variant	NM_000282.4(PCCA):c.1187T>G (p.Val396Gly)	5095	PCCA	Pathogenic	GRCh38	997845
+single nucleotide variant	NM_000282.4(PCCA):c.183+1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1066791
+single nucleotide variant	NM_000282.4(PCCA):c.232-2A>G	5095	PCCA	Likely pathogenic	GRCh38	1067742
+single nucleotide variant	NM_000282.4(PCCA):c.232-2A>T	5095	PCCA	Likely pathogenic	GRCh38	1066571
+single nucleotide variant	NM_000282.4(PCCA):c.637+2T>A	5095	PCCA	Likely pathogenic	GRCh38	1068396
+single nucleotide variant	NM_000282.4(PCCA):c.1846-1G>T	5095	PCCA	Likely pathogenic	GRCh38	1066950
+single nucleotide variant	NM_000282.4(PCCA):c.872C>G (p.Ser291Ter)	5095	PCCA	Pathogenic	GRCh38	1072653
+single nucleotide variant	NM_000282.4(PCCA):c.1189G>T (p.Glu397Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1071149
+single nucleotide variant	NM_000282.4(PCCA):c.1312G>T (p.Gly438Ter)	5095	PCCA	Pathogenic	GRCh38	1073696
+single nucleotide variant	NM_000282.4(PCCA):c.1561G>T (p.Glu521Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1074143
+single nucleotide variant	NM_000282.4(PCCA):c.1409T>G (p.Leu470Arg)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1299769
+single nucleotide variant	NM_000282.4(PCCA):c.1831C>T (p.Gln611Ter)	5095	PCCA	Pathogenic	GRCh38	1301319
+single nucleotide variant	NM_000282.4(PCCA):c.362A>G (p.Tyr121Cys)	5095	PCCA	Likely pathogenic	GRCh38	1324852
+single nucleotide variant	NM_000282.4(PCCA):c.1900-2A>G	5095	PCCA	Likely pathogenic	GRCh38	1324853
+single nucleotide variant	NM_000282.4(PCCA):c.1430-1G>A	5095	PCCA	Likely pathogenic	GRCh38	1465661
+single nucleotide variant	NM_000282.4(PCCA):c.1456C>T (p.Arg486Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1414656
+single nucleotide variant	NM_000282.4(PCCA):c.415-2A>G	5095	PCCA	Pathogenic	GRCh38	1386877
+single nucleotide variant	NM_000282.4(PCCA):c.1900-1G>A	5095	PCCA	Likely pathogenic	GRCh38	1506828
+single nucleotide variant	NM_000282.4(PCCA):c.1196G>T (p.Arg399Leu)	5095	PCCA	Likely pathogenic	GRCh38	1490406
+single nucleotide variant	NM_000282.4(PCCA):c.689G>A (p.Arg230His)	5095	PCCA	Likely pathogenic	GRCh38	1510205
+single nucleotide variant	NM_000282.4(PCCA):c.414+1G>T	5095	PCCA	Likely pathogenic	GRCh38	1482026
+single nucleotide variant	NM_000282.4(PCCA):c.217G>T (p.Glu73Ter)	5095	PCCA	Pathogenic	GRCh38	1456785
+single nucleotide variant	NM_000282.4(PCCA):c.127C>T (p.Gln43Ter)	5095	PCCA	Pathogenic	GRCh38	1374012
+single nucleotide variant	NM_000282.4(PCCA):c.600+1G>A	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1358281
+single nucleotide variant	NM_000282.4(PCCA):c.1746+1G>A	5095	PCCA	Pathogenic	GRCh38	1459857
+single nucleotide variant	NM_000282.4(PCCA):c.1196G>A (p.Arg399Gln)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	1472931
+single nucleotide variant	NM_000282.4(PCCA):c.493G>T (p.Gly165Ter)	5095	PCCA	Likely pathogenic	GRCh38	1724797
+single nucleotide variant	NM_000282.4(PCCA):c.904G>T (p.Glu302Ter)	5095	PCCA	Likely pathogenic	GRCh38	1726523
+single nucleotide variant	NM_000282.4(PCCA):c.959C>A (p.Ala320Asp)	5095	PCCA	Pathogenic	GRCh38	1803092
+single nucleotide variant	NM_000282.4(PCCA):c.1117A>G (p.Met373Val)	5095	PCCA	Likely pathogenic	GRCh38	2181243
+single nucleotide variant	NM_000282.4(PCCA):c.468+1G>C	5095	PCCA	Likely pathogenic	GRCh38	1936549
+single nucleotide variant	NM_000282.4(PCCA):c.1408C>G (p.Leu470Val)	5095	PCCA	Likely pathogenic	GRCh38	1991548
+single nucleotide variant	NM_000282.4(PCCA):c.468+2T>C	5095	PCCA	Likely pathogenic	GRCh38	2026721
+single nucleotide variant	NM_000282.4(PCCA):c.300+1G>A	5095	PCCA	Likely pathogenic	GRCh38	2046028
+single nucleotide variant	NM_000282.4(PCCA):c.1209+2T>G	5095	PCCA	Likely pathogenic	GRCh38	2060765
+single nucleotide variant	NM_000282.4(PCCA):c.1763C>A (p.Ser588Ter)	5095	PCCA	Pathogenic	GRCh38	2075809
+single nucleotide variant	NM_000282.4(PCCA):c.914+1G>A	5095	PCCA	Likely pathogenic	GRCh38	2084041
+single nucleotide variant	NM_000282.4(PCCA):c.2040+2T>G	5095	PCCA	Likely pathogenic	GRCh38	2115205
+single nucleotide variant	NM_000282.4(PCCA):c.638-1G>A	5095	PCCA	Likely pathogenic	GRCh38	2109283
+single nucleotide variant	NM_000282.4(PCCA):c.300+2T>G	5095	PCCA	Likely pathogenic	GRCh38	2117221
+single nucleotide variant	NM_000282.4(PCCA):c.317C>A (p.Ala106Glu)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	2428818
+single nucleotide variant	NM_000282.4(PCCA):c.2002G>T (p.Gly668Ter)	5095	PCCA	Likely pathogenic	GRCh38	2677490
+single nucleotide variant	NM_000282.4(PCCA):c.820-1G>T	5095	PCCA	Likely pathogenic	GRCh38	2677491
+single nucleotide variant	NM_000282.4(PCCA):c.734C>A (p.Ser245Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	2677492
+single nucleotide variant	NM_000282.4(PCCA):c.1065+1G>A	5095	PCCA	Likely pathogenic	GRCh38	2677494
+single nucleotide variant	NM_000282.4(PCCA):c.106-2A>G	5095	PCCA	Likely pathogenic	GRCh38	2677495
+single nucleotide variant	NM_000282.4(PCCA):c.1349C>G (p.Ser450Ter)	5095	PCCA	Pathogenic/Likely pathogenic	GRCh38	2677497
+single nucleotide variant	NM_000282.4(PCCA):c.716+2T>C	5095	PCCA	Likely pathogenic	GRCh38	2677498
+single nucleotide variant	NM_000282.4(PCCA):c.2119-1G>C	5095	PCCA	Pathogenic	GRCh38	2677499
+single nucleotide variant	NM_000282.4(PCCA):c.889C>T (p.Gln297Ter)	5095	PCCA	Likely pathogenic	GRCh38	2677500
+single nucleotide variant	NM_000282.4(PCCA):c.414+1G>C	5095	PCCA	Likely pathogenic	GRCh38	2677501
+single nucleotide variant	NM_000282.4(PCCA):c.955C>T (p.Gln319Ter)	5095	PCCA	Pathogenic	GRCh38	2677502
+single nucleotide variant	NM_000282.4(PCCA):c.1899+1G>T	5095	PCCA	Likely pathogenic	GRCh38	2677503
+single nucleotide variant	NM_000282.4(PCCA):c.870C>A (p.Cys290Ter)	5095	PCCA	Likely pathogenic	GRCh38	2677506
+single nucleotide variant	NM_000282.4(PCCA):c.105+1G>C	5095	PCCA	Likely pathogenic	GRCh38	2677509
+single nucleotide variant	NM_000282.4(PCCA):c.415-1G>C	5095	PCCA	Likely pathogenic	GRCh38	2677511
+single nucleotide variant	NM_000282.4(PCCA):c.2086C>T (p.Gln696Ter)	5095	PCCA	Likely pathogenic	GRCh38	2677512
+single nucleotide variant	NM_000282.4(PCCA):c.1541-1G>C	5095	PCCA	Likely pathogenic	GRCh38	2677513
+single nucleotide variant	NM_000282.4(PCCA):c.699G>A (p.Trp233Ter)	5095	PCCA	Pathogenic	GRCh38	2677514
+single nucleotide variant	NM_000282.4(PCCA):c.716+1G>C	5095	PCCA	Likely pathogenic	GRCh38	2700540
+single nucleotide variant	NM_000282.4(PCCA):c.1132A>T (p.Lys378Ter)	5095	PCCA	Pathogenic	GRCh38	2710634
+single nucleotide variant	NM_000282.4(PCCA):c.322G>T (p.Glu108Ter)	5095	PCCA	Pathogenic	GRCh38	2705966
+single nucleotide variant	NM_000282.4(PCCA):c.1285-2A>G	5095	PCCA	Likely pathogenic	GRCh38	2744265
+single nucleotide variant	NM_000282.4(PCCA):c.415-1G>A	5095	PCCA	Pathogenic	GRCh38	2754350
+single nucleotide variant	NM_000282.4(PCCA):c.1845+2T>G	5095	PCCA	Pathogenic	GRCh38	2767272
+single nucleotide variant	NM_000282.4(PCCA):c.1746+2T>C	5095	PCCA	Pathogenic	GRCh38	2765099
+single nucleotide variant	NM_000282.4(PCCA):c.638-2A>G	5095	PCCA	Likely pathogenic	GRCh38	2798591
+single nucleotide variant	NM_000282.4(PCCA):c.1430-2A>T	5095	PCCA	Likely pathogenic	GRCh38	2811112
+single nucleotide variant	NM_000282.4(PCCA):c.819+1G>A	5095	PCCA	Likely pathogenic	GRCh38	2825522
+single nucleotide variant	NM_000282.4(PCCA):c.1902C>G (p.Tyr634Ter)	5095	PCCA	Pathogenic	GRCh38	2849711
+single nucleotide variant	NM_000282.4(PCCA):c.1210-1G>A	5095	PCCA	Likely pathogenic	GRCh38	2897072
+single nucleotide variant	NM_000282.4(PCCA):c.496C>A (p.Pro166Thr)	5095	PCCA	Likely pathogenic	GRCh38	3065456
+single nucleotide variant	NM_000282.4(PCCA):c.1306C>T (p.Gln436Ter)	5095	PCCA	Likely pathogenic	GRCh38	3240028
+single nucleotide variant	NM_000282.4(PCCA):c.414+5G>A	5095	PCCA	Likely pathogenic	GRCh38	3240032
+single nucleotide variant	NM_000282.4(PCCA):c.1524T>G (p.Tyr508Ter)	5095	PCCA	Likely pathogenic	GRCh38	3240034
+single nucleotide variant	NM_000282.4(PCCA):c.819+1G>T	5095	PCCA	Likely pathogenic	GRCh38	3240035
+single nucleotide variant	NM_000282.4(PCCA):c.1367G>T (p.Gly456Val)	5095	PCCA	Likely pathogenic	GRCh38	3251878
+single nucleotide variant	NM_000282.4(PCCA):c.756T>A (p.Ser252Arg)	5095	PCCA	Likely pathogenic	GRCh38	3384972
+single nucleotide variant	NM_000282.4(PCCA):c.67C>T (p.Gln23Ter)	5095	PCCA	Likely pathogenic	GRCh38	3575628
+single nucleotide variant	NM_000282.4(PCCA):c.105+1G>T	5095	PCCA	Likely pathogenic	GRCh38	3575629
+single nucleotide variant	NM_000282.4(PCCA):c.301-2A>G	5095	PCCA	Likely pathogenic	GRCh38	3575630
+single nucleotide variant	NM_000282.4(PCCA):c.915-2A>G	5095	PCCA	Likely pathogenic	GRCh38	3575631
+single nucleotide variant	NM_000282.4(PCCA):c.1746+5G>C	5095	PCCA	Likely pathogenic	GRCh38	3575636
+single nucleotide variant	NM_000282.4(PCCA):c.2137C>T (p.Gln713Ter)	5095	PCCA	Likely pathogenic	GRCh38	3575639
+single nucleotide variant	NM_000282.4(PCCA):c.1846-2A>G	5095	PCCA	Likely pathogenic	GRCh38	4059245
+single nucleotide variant	NM_000282.4(PCCA):c.637+2T>C	5095	PCCA	Likely pathogenic	GRCh38	4059265
+single nucleotide variant	NM_000282.4(PCCA):c.59G>A (p.Trp20Ter)	5095	PCCA	Pathogenic	GRCh38	4292787
+single nucleotide variant	NM_000282.4(PCCA):c.1724C>G (p.Ser575Ter)	5095	PCCA	Pathogenic	GRCh38	4716713
+single nucleotide variant	NM_000282.4(PCCA):c.1066-1G>T	5095	PCCA	Likely pathogenic	GRCh38	4718249
+single nucleotide variant	NM_000282.4(PCCA):c.915-1G>A	5095	PCCA	Likely pathogenic	GRCh38	4711094
+single nucleotide variant	NM_000282.4(PCCA):c.2040+2T>C	5095	PCCA	Likely pathogenic	GRCh38	4732180
+single nucleotide variant	NM_000282.4(PCCA):c.414+1G>A	5095	PCCA	Likely pathogenic	GRCh38	4809939
+single nucleotide variant	NM_000282.4(PCCA):c.1677G>A (p.Trp559Ter)	5095	PCCA	Likely pathogenic	GRCh38	4818101
+single nucleotide variant	NM_000282.4(PCCA):c.425G>T (p.Gly142Val)	5095	PCCA	Likely pathogenic	GRCh38	4818103
+single nucleotide variant	NM_000282.4(PCCA):c.637+1G>T	5095	PCCA	Likely pathogenic	GRCh38	4818104
+single nucleotide variant	NM_000282.4(PCCA):c.673G>A (p.Gly225Ser)	5095	PCCA	Likely pathogenic	GRCh38	4852322
+single nucleotide variant	NM_000282.4(PCCA):c.1540+2T>C	5095	PCCA	Likely pathogenic	GRCh38	4854502
+single nucleotide variant	NM_000282.4(PCCA):c.232-1G>T	5095	PCCA	Likely pathogenic	GRCh38	4886092
+single nucleotide variant	NM_000282.4(PCCA):c.631G>T (p.Glu211Ter)	5095	PCCA	Likely pathogenic	GRCh38	4889765
+single nucleotide variant	NM_000282.4(PCCA):c.914+2T>G	5095	PCCA	Likely pathogenic	GRCh38	4890038
+single nucleotide variant	NM_000282.4(PCCA):c.1845+1G>T	5095	PCCA	Likely pathogenic	GRCh38	4890039
+single nucleotide variant	NM_000282.4(PCCA):c.2143G>A (p.Gly715Arg)	5095	PCCA	Likely pathogenic	GRCh38	4890410

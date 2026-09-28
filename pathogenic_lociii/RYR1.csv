@@ -1,0 +1,491 @@
+Type	Name	GeneID	GeneSymbol	ClinicalSignificance	Assembly	VariationID
+single nucleotide variant	NM_000540.3(RYR1):c.742G>A (p.Gly248Arg)	6261	RYR1	Likely pathogenic	GRCh38	12965
+single nucleotide variant	NM_000540.3(RYR1):c.1021G>A (p.Gly341Arg)	6261	RYR1	Pathogenic	GRCh38	12969
+single nucleotide variant	NM_000540.3(RYR1):c.6617C>T (p.Thr2206Met)	6261	RYR1	Pathogenic	GRCh38	12977
+single nucleotide variant	NM_000540.3(RYR1):c.10579C>T (p.Pro3527Ser)	6261	RYR1	Pathogenic	GRCh38	12983
+single nucleotide variant	NM_000540.3(RYR1):c.8026C>T (p.Arg2676Trp)	6261	RYR1	Likely pathogenic	GRCh38	133217
+single nucleotide variant	NM_000540.2(RYR1):c.14647-1449A>G	6261	RYR1	Pathogenic	GRCh38	12987
+single nucleotide variant	NM_000540.3(RYR1):c.14365-2A>T	6261	RYR1	Pathogenic	GRCh38	12990
+single nucleotide variant	NM_000540.3(RYR1):c.13909A>G (p.Thr4637Ala)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	12992
+single nucleotide variant	NM_000540.3(RYR1):c.10204T>G (p.Cys3402Gly)	6261	RYR1	Pathogenic	GRCh38	42098
+single nucleotide variant	NM_000540.3(RYR1):c.1205T>C (p.Met402Thr)	6261	RYR1	Likely pathogenic	GRCh38	42099
+single nucleotide variant	NM_000540.3(RYR1):c.13480G>T (p.Glu4494Ter)	6261	RYR1	Pathogenic	GRCh38	42100
+single nucleotide variant	NM_000540.3(RYR1):c.5333C>A (p.Ser1778Ter)	6261	RYR1	Pathogenic	GRCh38	42101
+single nucleotide variant	NM_000540.3(RYR1):c.97A>G (p.Lys33Glu)	6261	RYR1	Likely pathogenic	GRCh38	55831
+single nucleotide variant	NM_000540.3(RYR1):c.10348-6C>G	6261	RYR1	Pathogenic	GRCh38	132994
+single nucleotide variant	NM_000540.3(RYR1):c.12986C>A (p.Ala4329Asp)	6261	RYR1	Pathogenic	GRCh38	65924
+single nucleotide variant	NM_000540.3(RYR1):c.14717C>T (p.Ala4906Val)	6261	RYR1	Likely pathogenic	GRCh38	65926
+single nucleotide variant	NM_000540.3(RYR1):c.13900G>A (p.Glu4634Lys)	6261	RYR1	Pathogenic	GRCh38	65934
+single nucleotide variant	NM_000540.3(RYR1):c.14762T>C (p.Phe4921Ser)	6261	RYR1	Pathogenic	GRCh38	65939
+single nucleotide variant	NM_000540.3(RYR1):c.14671G>C (p.Gly4891Arg)	6261	RYR1	Pathogenic	GRCh38	65945
+single nucleotide variant	NM_000540.3(RYR1):c.14690G>T (p.Gly4897Val)	6261	RYR1	Pathogenic	GRCh38	65947
+single nucleotide variant	NM_000540.3(RYR1):c.14696G>A (p.Gly4899Glu)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	65948
+single nucleotide variant	NM_000540.3(RYR1):c.13952A>C (p.His4651Pro)	6261	RYR1	Pathogenic	GRCh38	65951
+single nucleotide variant	NM_000540.3(RYR1):c.14659C>T (p.His4887Tyr)	6261	RYR1	Likely pathogenic	GRCh38	65952
+single nucleotide variant	NM_000540.3(RYR1):c.7358T>C (p.Ile2453Thr)	6261	RYR1	Likely pathogenic	GRCh38	65953
+single nucleotide variant	NM_000540.3(RYR1):c.10817T>C (p.Leu3606Pro)	6261	RYR1	Likely pathogenic	GRCh38	65958
+single nucleotide variant	NM_000540.3(RYR1):c.14440C>T (p.Leu4814Phe)	6261	RYR1	Pathogenic	GRCh38	65964
+single nucleotide variant	NM_000540.3(RYR1):c.14572A>G (p.Asn4858Asp)	6261	RYR1	Pathogenic	GRCh38	65969
+single nucleotide variant	NM_000540.3(RYR1):c.7522C>T (p.Arg2508Cys)	6261	RYR1	Likely pathogenic	GRCh38	65981
+single nucleotide variant	NM_000540.3(RYR1):c.14473C>T (p.Arg4825Cys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	65985
+single nucleotide variant	NM_000540.3(RYR1):c.14678G>C (p.Arg4893Pro)	6261	RYR1	Pathogenic	GRCh38	65987
+single nucleotide variant	NM_000540.3(RYR1):c.14677C>T (p.Arg4893Trp)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	65989
+single nucleotide variant	NM_000540.3(RYR1):c.14740A>G (p.Arg4914Gly)	6261	RYR1	Pathogenic	GRCh38	65990
+single nucleotide variant	NM_000540.3(RYR1):c.14741G>C (p.Arg4914Thr)	6261	RYR1	Pathogenic	GRCh38	65991
+single nucleotide variant	NM_000540.3(RYR1):c.13910C>T (p.Thr4637Ile)	6261	RYR1	Pathogenic	GRCh38	65995
+single nucleotide variant	NM_000540.3(RYR1):c.14759C>A (p.Thr4920Asn)	6261	RYR1	Likely pathogenic	GRCh38	65997
+single nucleotide variant	NM_000540.3(RYR1):c.13891T>A (p.Tyr4631Asn)	6261	RYR1	Pathogenic	GRCh38	66002
+single nucleotide variant	NM_000540.3(RYR1):c.14591A>G (p.Tyr4864Cys)	6261	RYR1	Pathogenic	GRCh38	66004
+single nucleotide variant	NM_000540.3(RYR1):c.12335C>T (p.Ser4112Leu)	6261	RYR1	Likely pathogenic	GRCh38	81136
+single nucleotide variant	NM_000540.3(RYR1):c.1021G>C (p.Gly341Arg)	6261	RYR1	Pathogenic	GRCh38	132992
+single nucleotide variant	NM_000540.3(RYR1):c.11315G>A (p.Arg3772Gln)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	133012
+single nucleotide variant	NM_000540.3(RYR1):c.11708G>A (p.Arg3903Gln)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	133017
+single nucleotide variant	NM_000540.3(RYR1):c.11958C>G (p.Asp3986Glu)	6261	RYR1	Likely pathogenic	GRCh38	133026
+single nucleotide variant	NM_000540.3(RYR1):c.1202G>A (p.Arg401His)	6261	RYR1	Pathogenic	GRCh38	133030
+single nucleotide variant	NM_000540.3(RYR1):c.12149C>A (p.Ser4050Tyr)	6261	RYR1	Likely pathogenic	GRCh38	133033
+single nucleotide variant	NM_000540.3(RYR1):c.12700G>C (p.Val4234Leu)	6261	RYR1	Pathogenic	GRCh38	133040
+single nucleotide variant	NM_000540.3(RYR1):c.14209C>T (p.Arg4737Trp)	6261	RYR1	Likely pathogenic	GRCh38	133060
+single nucleotide variant	NM_000540.3(RYR1):c.14210G>A (p.Arg4737Gln)	6261	RYR1	Pathogenic	GRCh38	133061
+single nucleotide variant	NM_000540.3(RYR1):c.14627A>G (p.Lys4876Arg)	6261	RYR1	Pathogenic	GRCh38	133081
+single nucleotide variant	NM_000540.3(RYR1):c.14779G>T (p.Val4927Phe)	6261	RYR1	Likely pathogenic	GRCh38	133091
+single nucleotide variant	NM_000540.3(RYR1):c.14918C>T (p.Pro4973Leu)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	133098
+single nucleotide variant	NM_000540.3(RYR1):c.1565A>G (p.Tyr522Cys)	6261	RYR1	Likely pathogenic	GRCh38	133100
+single nucleotide variant	NM_000540.3(RYR1):c.1589G>A (p.Arg530His)	6261	RYR1	Likely pathogenic	GRCh38	133101
+single nucleotide variant	NM_000540.3(RYR1):c.1615T>C (p.Phe539Leu)	6261	RYR1	Likely pathogenic	GRCh38	133104
+single nucleotide variant	NM_000540.3(RYR1):c.2455C>T (p.Arg819Ter)	6261	RYR1	Pathogenic	GRCh38	133116
+single nucleotide variant	NM_000540.3(RYR1):c.38T>G (p.Leu13Arg)	6261	RYR1	Likely pathogenic	GRCh38	133129
+single nucleotide variant	NM_000540.3(RYR1):c.463C>A (p.Gln155Lys)	6261	RYR1	Likely pathogenic	GRCh38	133132
+single nucleotide variant	NM_000540.3(RYR1):c.5183C>T (p.Ser1728Phe)	6261	RYR1	Likely pathogenic	GRCh38	133144
+single nucleotide variant	NM_000540.3(RYR1):c.529C>T (p.Arg177Cys)	6261	RYR1	Pathogenic	GRCh38	133147
+single nucleotide variant	NM_000540.3(RYR1):c.5988C>T (p.Arg1996=)	6261	RYR1	Likely pathogenic	GRCh38	133154
+single nucleotide variant	NM_000540.3(RYR1):c.6349G>C (p.Val2117Leu)	6261	RYR1	Likely pathogenic	GRCh38	133156
+single nucleotide variant	NM_000540.3(RYR1):c.6387C>G (p.Asp2129Glu)	6261	RYR1	Likely pathogenic	GRCh38	133157
+single nucleotide variant	NM_000540.3(RYR1):c.6488G>C (p.Arg2163Pro)	6261	RYR1	Likely pathogenic	GRCh38	133159
+single nucleotide variant	NM_000540.3(RYR1):c.6599C>T (p.Ala2200Val)	6261	RYR1	Likely pathogenic	GRCh38	133162
+single nucleotide variant	NM_000540.3(RYR1):c.6628G>T (p.Val2210Phe)	6261	RYR1	Likely pathogenic	GRCh38	133165
+single nucleotide variant	NM_000540.3(RYR1):c.6838G>A (p.Val2280Ile)	6261	RYR1	Likely pathogenic	GRCh38	133172
+single nucleotide variant	NM_000540.3(RYR1):c.7090T>G (p.Phe2364Val)	6261	RYR1	Likely pathogenic	GRCh38	133185
+single nucleotide variant	NM_000540.3(RYR1):c.7291G>A (p.Asp2431Asn)	6261	RYR1	Likely pathogenic	GRCh38	133194
+single nucleotide variant	NM_000540.3(RYR1):c.7291G>T (p.Asp2431Tyr)	6261	RYR1	Likely pathogenic	GRCh38	133195
+single nucleotide variant	NM_000540.3(RYR1):c.7304G>T (p.Arg2435Leu)	6261	RYR1	Likely pathogenic	GRCh38	133196
+single nucleotide variant	NM_000540.3(RYR1):c.7310C>T (p.Ala2437Val)	6261	RYR1	Likely pathogenic	GRCh38	133197
+single nucleotide variant	NM_000540.3(RYR1):c.7324-1G>T	6261	RYR1	Pathogenic	GRCh38	133200
+single nucleotide variant	NM_000540.3(RYR1):c.742G>C (p.Gly248Arg)	6261	RYR1	Pathogenic	GRCh38	133203
+single nucleotide variant	NM_000540.3(RYR1):c.8189A>G (p.Asp2730Gly)	6261	RYR1	Likely pathogenic	GRCh38	133219
+single nucleotide variant	NM_000540.3(RYR1):c.2119G>A (p.Gly707Ser)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	161368
+single nucleotide variant	NM_000540.3(RYR1):c.3800C>G (p.Pro1267Arg)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	161370
+single nucleotide variant	NM_000540.3(RYR1):c.12499G>T (p.Glu4167Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	199203
+single nucleotide variant	NM_000540.3(RYR1):c.12612G>A (p.Trp4204Ter)	6261	RYR1	Pathogenic	GRCh38	199204
+single nucleotide variant	NM_000540.3(RYR1):c.12625-1G>T	6261	RYR1	Pathogenic	GRCh38	199214
+single nucleotide variant	NM_000540.3(RYR1):c.2989C>T (p.Arg997Ter)	6261	RYR1	Pathogenic	GRCh38	201146
+single nucleotide variant	NM_000540.3(RYR1):c.14928C>G (p.Phe4976Leu)	6261	RYR1	Pathogenic	GRCh38	201154
+single nucleotide variant	NM_000540.3(RYR1):c.3381+1G>A	6261	RYR1	Pathogenic	GRCh38	212103
+single nucleotide variant	NM_000540.3(RYR1):c.8724C>A (p.Tyr2908Ter)	6261	RYR1	Pathogenic	GRCh38	212107
+single nucleotide variant	NM_000540.3(RYR1):c.2029C>T (p.Gln677Ter)	6261	RYR1	Pathogenic	GRCh38	242414
+single nucleotide variant	NM_000540.3(RYR1):c.10347+1G>A	6261	RYR1	Pathogenic	GRCh38	224998
+single nucleotide variant	NM_000540.3(RYR1):c.14416A>G (p.Asn4806Asp)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	265505
+single nucleotide variant	NM_000540.3(RYR1):c.10648C>T (p.Arg3550Trp)	6261	RYR1	Likely pathogenic	GRCh38	281479
+single nucleotide variant	NM_000540.3(RYR1):c.14555A>G (p.Tyr4852Cys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	284245
+single nucleotide variant	NM_000540.3(RYR1):c.8554C>T (p.Arg2852Ter)	6261	RYR1	Likely pathogenic	GRCh38	329081
+single nucleotide variant	NM_000540.3(RYR1):c.8400+2T>A	6261	RYR1	Likely pathogenic	GRCh38	372658
+single nucleotide variant	NM_000540.3(RYR1):c.1186G>A (p.Glu396Lys)	6261	RYR1	Likely pathogenic	GRCh38	374199
+single nucleotide variant	NM_000540.3(RYR1):c.7111G>A (p.Glu2371Lys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	374164
+single nucleotide variant	NM_000540.3(RYR1):c.5814+1G>A	6261	RYR1	Likely pathogenic	GRCh38	374618
+single nucleotide variant	NM_000540.3(RYR1):c.7835+1G>A	6261	RYR1	Likely pathogenic	GRCh38	393262
+single nucleotide variant	NM_000540.3(RYR1):c.14495C>A (p.Thr4832Asn)	6261	RYR1	Pathogenic	GRCh38	379719
+single nucleotide variant	NM_000540.3(RYR1):c.11908-2A>T	6261	RYR1	Likely pathogenic	GRCh38	393121
+single nucleotide variant	NM_000540.3(RYR1):c.2361-1G>C	6261	RYR1	Likely pathogenic	GRCh38	424225
+single nucleotide variant	NM_000540.3(RYR1):c.4672C>T (p.Gln1558Ter)	6261	RYR1	Pathogenic	GRCh38	419203
+single nucleotide variant	NM_000540.3(RYR1):c.13654T>A (p.Phe4552Ile)	6261	RYR1	Likely pathogenic	GRCh38	427029
+single nucleotide variant	NM_000540.3(RYR1):c.14552T>C (p.Leu4851Pro)	6261	RYR1	Pathogenic	GRCh38	426450
+single nucleotide variant	NM_000540.3(RYR1):c.5309C>A (p.Ser1770Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	429732
+single nucleotide variant	NM_000540.3(RYR1):c.6232G>T (p.Glu2078Ter)	6261	RYR1	Pathogenic	GRCh38	429839
+single nucleotide variant	NM_000540.3(RYR1):c.6631A>C (p.Met2211Leu)	6261	RYR1	Likely pathogenic	GRCh38	430273
+single nucleotide variant	NM_000540.3(RYR1):c.2682G>A (p.Pro894=)	6261	RYR1	Likely pathogenic	GRCh38	432001
+single nucleotide variant	NM_000540.3(RYR1):c.10620C>G (p.Tyr3540Ter)	6261	RYR1	Pathogenic	GRCh38	433177
+single nucleotide variant	NM_000540.3(RYR1):c.784G>T (p.Glu262Ter)	6261	RYR1	Pathogenic	GRCh38	436630
+single nucleotide variant	NM_000540.3(RYR1):c.1901C>G (p.Thr634Arg)	6261	RYR1	Likely pathogenic	GRCh38	436621
+single nucleotide variant	NM_000540.3(RYR1):c.2870+1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	436622
+single nucleotide variant	NM_000540.3(RYR1):c.6127+1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	436626
+single nucleotide variant	NM_000540.3(RYR1):c.14842C>A (p.Gln4948Lys)	6261	RYR1	Pathogenic	GRCh38	436629
+single nucleotide variant	NM_000540.3(RYR1):c.2575C>T (p.Gln859Ter)	6261	RYR1	Likely pathogenic	GRCh38	445805
+single nucleotide variant	NM_000540.3(RYR1):c.455C>A (p.Ala152Asp)	6261	RYR1	Likely pathogenic	GRCh38	448182
+single nucleotide variant	NM_000540.3(RYR1):c.9472+1G>A	6261	RYR1	Pathogenic	GRCh38	451330
+single nucleotide variant	NM_000540.3(RYR1):c.14129+1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	449641
+single nucleotide variant	NM_000540.3(RYR1):c.9047A>G (p.Tyr3016Cys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	478296
+single nucleotide variant	NM_000540.3(RYR1):c.13903G>A (p.Glu4635Lys)	6261	RYR1	Pathogenic	GRCh38	478192
+single nucleotide variant	NM_000540.3(RYR1):c.14833C>T (p.Arg4945Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	478201
+single nucleotide variant	NM_000540.3(RYR1):c.4294-2A>G	6261	RYR1	Likely pathogenic	GRCh38	478231
+single nucleotide variant	NM_000540.3(RYR1):c.7926+2T>C	6261	RYR1	Likely pathogenic	GRCh38	478282
+single nucleotide variant	NM_000540.3(RYR1):c.13952A>G (p.His4651Arg)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	478194
+single nucleotide variant	NM_000540.3(RYR1):c.475G>A (p.Gly159Arg)	6261	RYR1	Likely pathogenic	GRCh38	478232
+single nucleotide variant	NM_000540.3(RYR1):c.4934G>T (p.Arg1645Leu)	6261	RYR1	Likely pathogenic	GRCh38	478234
+single nucleotide variant	NM_000540.3(RYR1):c.6274+1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	478250
+single nucleotide variant	NM_000540.3(RYR1):c.7237G>T (p.Glu2413Ter)	6261	RYR1	Pathogenic	GRCh38	478262
+single nucleotide variant	NM_000540.3(RYR1):c.10922T>C (p.Leu3641Pro)	6261	RYR1	Likely pathogenic	GRCh38	478155
+single nucleotide variant	NM_000540.3(RYR1):c.13898T>C (p.Leu4633Pro)	6261	RYR1	Likely pathogenic	GRCh38	478191
+single nucleotide variant	NM_000540.3(RYR1):c.11662C>T (p.Gln3888Ter)	6261	RYR1	Pathogenic	GRCh38	478161
+single nucleotide variant	NM_000540.3(RYR1):c.14489C>A (p.Ser4830Tyr)	6261	RYR1	Likely pathogenic	GRCh38	478200
+single nucleotide variant	NM_000540.3(RYR1):c.1990G>C (p.Glu664Gln)	6261	RYR1	Likely pathogenic	GRCh38	523378
+single nucleotide variant	NM_000540.3(RYR1):c.9847C>T (p.Arg3283Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	523793
+single nucleotide variant	NM_000540.3(RYR1):c.12613G>T (p.Glu4205Ter)	6261	RYR1	Pathogenic	GRCh38	523895
+single nucleotide variant	NM_000540.3(RYR1):c.1840C>G (p.Arg614Gly)	6261	RYR1	Likely pathogenic	GRCh38	544395
+single nucleotide variant	NM_000540.3(RYR1):c.5218G>T (p.Glu1740Ter)	6261	RYR1	Pathogenic	GRCh38	544435
+single nucleotide variant	NM_000540.3(RYR1):c.5509C>T (p.Gln1837Ter)	6261	RYR1	Pathogenic	GRCh38	544402
+single nucleotide variant	NM_000540.3(RYR1):c.1250T>C (p.Leu417Pro)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	544398
+single nucleotide variant	NM_000540.3(RYR1):c.13940T>C (p.Leu4647Pro)	6261	RYR1	Likely pathogenic	GRCh38	544414
+single nucleotide variant	NM_000540.3(RYR1):c.8311-1G>C	6261	RYR1	Likely pathogenic	GRCh38	544397
+single nucleotide variant	NM_000540.3(RYR1):c.12727G>A (p.Glu4243Lys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	544454
+single nucleotide variant	NM_000540.3(RYR1):c.179A>G (p.Asp60Gly)	6261	RYR1	Likely pathogenic	GRCh38	548651
+single nucleotide variant	NM_000540.3(RYR1):c.7836-1G>A	6261	RYR1	Likely pathogenic	GRCh38	560259
+single nucleotide variant	NM_000540.3(RYR1):c.12580T>C (p.Phe4194Leu)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	578395
+single nucleotide variant	NM_000540.3(RYR1):c.13898T>A (p.Leu4633Gln)	6261	RYR1	Likely pathogenic	GRCh38	573342
+single nucleotide variant	NM_000540.3(RYR1):c.14585A>C (p.Lys4862Thr)	6261	RYR1	Pathogenic	GRCh38	574633
+single nucleotide variant	NM_000540.3(RYR1):c.958G>A (p.Glu320Lys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	569043
+single nucleotide variant	NM_000540.3(RYR1):c.1440+1G>A	6261	RYR1	Likely pathogenic	GRCh38	580009
+single nucleotide variant	NM_000540.3(RYR1):c.7076G>A (p.Arg2359Gln)	6261	RYR1	Likely pathogenic	GRCh38	573252
+single nucleotide variant	NM_000540.3(RYR1):c.12822C>T (p.Gly4274=)	6261	RYR1	Pathogenic	GRCh38	573401
+single nucleotide variant	NM_000540.3(RYR1):c.1342A>T (p.Ile448Phe)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	571022
+single nucleotide variant	NM_000540.3(RYR1):c.10937+1G>A	6261	RYR1	Likely pathogenic	GRCh38	571396
+single nucleotide variant	NM_000540.3(RYR1):c.14690G>A (p.Gly4897Asp)	6261	RYR1	Likely pathogenic	GRCh38	582126
+single nucleotide variant	NM_000540.3(RYR1):c.7210G>T (p.Glu2404Ter)	6261	RYR1	Pathogenic	GRCh38	573880
+single nucleotide variant	NM_000540.3(RYR1):c.13534G>T (p.Glu4512Ter)	6261	RYR1	Pathogenic	GRCh38	569883
+single nucleotide variant	NM_000540.3(RYR1):c.10627-1G>C	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	586413
+single nucleotide variant	NM_000540.3(RYR1):c.1982G>A (p.Trp661Ter)	6261	RYR1	Pathogenic	GRCh38	590493
+single nucleotide variant	NM_000540.3(RYR1):c.4707+1G>A	6261	RYR1	Likely pathogenic	GRCh38	590538
+single nucleotide variant	NM_000540.3(RYR1):c.4789C>T (p.Gln1597Ter)	6261	RYR1	Likely pathogenic	GRCh38	590540
+single nucleotide variant	NM_000540.3(RYR1):c.6488G>T (p.Arg2163Leu)	6261	RYR1	Likely pathogenic	GRCh38	590571
+single nucleotide variant	NM_000540.3(RYR1):c.6757C>T (p.His2253Tyr)	6261	RYR1	Likely pathogenic	GRCh38	590575
+single nucleotide variant	NM_000540.3(RYR1):c.7035C>G (p.Ser2345Arg)	6261	RYR1	Likely pathogenic	GRCh38	590578
+single nucleotide variant	NM_000540.3(RYR1):c.7060G>A (p.Val2354Met)	6261	RYR1	Pathogenic	GRCh38	590580
+single nucleotide variant	NM_000540.3(RYR1):c.7123G>A (p.Gly2375Arg)	6261	RYR1	Likely pathogenic	GRCh38	590582
+single nucleotide variant	NM_000540.3(RYR1):c.7373G>T (p.Arg2458Leu)	6261	RYR1	Likely pathogenic	GRCh38	590585
+single nucleotide variant	NM_000540.3(RYR1):c.7543C>T (p.Gln2515Ter)	6261	RYR1	Likely pathogenic	GRCh38	590590
+single nucleotide variant	NM_000540.3(RYR1):c.8693-1G>A	6261	RYR1	Likely pathogenic	GRCh38	590620
+single nucleotide variant	NM_000540.3(RYR1):c.11929C>T (p.Gln3977Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590392
+single nucleotide variant	NM_000540.3(RYR1):c.12624+1G>C	6261	RYR1	Likely pathogenic	GRCh38	590410
+single nucleotide variant	NM_000540.3(RYR1):c.13437+1G>A	6261	RYR1	Pathogenic	GRCh38	590431
+single nucleotide variant	NM_000540.3(RYR1):c.13724A>C (p.Asn4575Thr)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590436
+single nucleotide variant	NM_000540.3(RYR1):c.13836G>A (p.Trp4612Ter)	6261	RYR1	Likely pathogenic	GRCh38	590439
+single nucleotide variant	NM_000540.3(RYR1):c.13892A>G (p.Tyr4631Cys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590440
+single nucleotide variant	NM_000540.3(RYR1):c.13919T>G (p.Met4640Arg)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590442
+single nucleotide variant	NM_000540.3(RYR1):c.14539G>C (p.Val4847Leu)	6261	RYR1	Likely pathogenic	GRCh38	590456
+single nucleotide variant	NM_000540.3(RYR1):c.14807T>G (p.Leu4936Arg)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590473
+single nucleotide variant	NM_000540.3(RYR1):c.14822T>G (p.Phe4941Cys)	6261	RYR1	Likely pathogenic	GRCh38	590476
+single nucleotide variant	NM_000540.3(RYR1):c.14869-1G>T	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590477
+single nucleotide variant	NM_000540.3(RYR1):c.15016G>A (p.Gly5006Ser)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	590479
+single nucleotide variant	NM_000540.3(RYR1):c.14411A>G (p.His4804Arg)	6261	RYR1	Likely pathogenic	GRCh38	617545
+single nucleotide variant	NM_000540.3(RYR1):c.4837C>T (p.Gln1613Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	617578
+single nucleotide variant	NM_000540.3(RYR1):c.838C>T (p.Arg280Ter)	6261	RYR1	Pathogenic	GRCh38	620584
+single nucleotide variant	NM_000540.3(RYR1):c.8159C>A (p.Ser2720Ter)	6261	RYR1	Pathogenic	GRCh38	634550
+single nucleotide variant	NM_000540.3(RYR1):c.3291C>T (p.Gly1097=)	6261	RYR1	Likely pathogenic	GRCh38	635020
+single nucleotide variant	NM_000540.3(RYR1):c.1841G>A (p.Arg614His)	6261	RYR1	Likely pathogenic	GRCh38	635268
+single nucleotide variant	NM_000540.3(RYR1):c.163C>T (p.Gln55Ter)	6261	RYR1	Pathogenic	GRCh38	665235
+single nucleotide variant	NM_000540.3(RYR1):c.7343G>A (p.Gly2448Asp)	6261	RYR1	Pathogenic	GRCh38	642226
+single nucleotide variant	NM_000540.3(RYR1):c.8888T>C (p.Leu2963Pro)	6261	RYR1	Pathogenic	GRCh38	642707
+single nucleotide variant	NM_000540.3(RYR1):c.10799C>G (p.Ser3600Ter)	6261	RYR1	Pathogenic	GRCh38	640541
+single nucleotide variant	NM_000540.3(RYR1):c.13498G>T (p.Glu4500Ter)	6261	RYR1	Pathogenic	GRCh38	659408
+single nucleotide variant	NM_000540.3(RYR1):c.13672C>G (p.Arg4558Gly)	6261	RYR1	Pathogenic	GRCh38	646594
+single nucleotide variant	NM_000540.3(RYR1):c.13892A>C (p.Tyr4631Ser)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	653142
+single nucleotide variant	NM_000540.3(RYR1):c.14423T>G (p.Phe4808Cys)	6261	RYR1	Likely pathogenic	GRCh38	665348
+single nucleotide variant	NM_000540.3(RYR1):c.14667C>A (p.Tyr4889Ter)	6261	RYR1	Pathogenic	GRCh38	647148
+single nucleotide variant	NM_000540.3(RYR1):c.14684G>T (p.Gly4895Val)	6261	RYR1	Pathogenic	GRCh38	662610
+single nucleotide variant	NM_000540.3(RYR1):c.7615-1G>T	6261	RYR1	Likely pathogenic	GRCh38	659749
+single nucleotide variant	NM_000540.3(RYR1):c.10687-2A>G	6261	RYR1	Likely pathogenic	GRCh38	663778
+single nucleotide variant	NM_000540.3(RYR1):c.14129+1G>T	6261	RYR1	Likely pathogenic	GRCh38	647115
+single nucleotide variant	NM_000540.3(RYR1):c.2290C>T (p.Gln764Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	666984
+single nucleotide variant	NM_000540.3(RYR1):c.1835C>A (p.Ala612Asp)	6261	RYR1	Likely pathogenic	GRCh38	692290
+single nucleotide variant	NM_000540.3(RYR1):c.2167G>A (p.Gly723Arg)	6261	RYR1	Likely pathogenic	GRCh38	692284
+single nucleotide variant	NM_000540.3(RYR1):c.8024C>A (p.Thr2675Lys)	6261	RYR1	Likely pathogenic	GRCh38	692287
+single nucleotide variant	NM_000540.3(RYR1):c.13998G>A (p.Lys4666=)	6261	RYR1	Likely pathogenic	GRCh38	692291
+single nucleotide variant	NM_000540.3(RYR1):c.7123G>C (p.Gly2375Arg)	6261	RYR1	Likely pathogenic	GRCh38	803554
+single nucleotide variant	NM_000540.3(RYR1):c.14579T>C (p.Phe4860Ser)	6261	RYR1	Likely pathogenic	GRCh38	808572
+single nucleotide variant	NM_000540.3(RYR1):c.685T>C (p.Cys229Arg)	6261	RYR1	Likely pathogenic	GRCh38	807480
+single nucleotide variant	NM_000540.3(RYR1):c.1670C>T (p.Ser557Phe)	6261	RYR1	Pathogenic	GRCh38	854823
+single nucleotide variant	NM_000540.3(RYR1):c.1983G>A (p.Trp661Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	853883
+single nucleotide variant	NM_000540.3(RYR1):c.9157C>T (p.Arg3053Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	852784
+single nucleotide variant	NM_000540.3(RYR1):c.14110C>T (p.Arg4704Ter)	6261	RYR1	Pathogenic	GRCh38	849189
+single nucleotide variant	NM_000540.3(RYR1):c.14570T>C (p.Phe4857Ser)	6261	RYR1	Pathogenic	GRCh38	840563
+single nucleotide variant	NM_000540.3(RYR1):c.14759C>T (p.Thr4920Ile)	6261	RYR1	Likely pathogenic	GRCh38	843552
+single nucleotide variant	NM_000540.3(RYR1):c.2786+2T>G	6261	RYR1	Likely pathogenic	GRCh38	851270
+single nucleotide variant	NM_000540.3(RYR1):c.8401-1G>A	6261	RYR1	Likely pathogenic	GRCh38	858474
+single nucleotide variant	NM_000540.3(RYR1):c.9000+1G>A	6261	RYR1	Pathogenic	GRCh38	859750
+single nucleotide variant	NM_000540.3(RYR1):c.5989G>A (p.Glu1997Lys)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	870400
+single nucleotide variant	NM_000540.3(RYR1):c.2044C>G (p.Arg682Gly)	6261	RYR1	Likely pathogenic	GRCh38	870618
+single nucleotide variant	NM_000540.3(RYR1):c.3880G>T (p.Val1294Phe)	6261	RYR1	Likely pathogenic	GRCh38	870619
+single nucleotide variant	NM_000540.3(RYR1):c.4715T>C (p.Met1572Thr)	6261	RYR1	Likely pathogenic	GRCh38	870621
+single nucleotide variant	NM_000540.3(RYR1):c.7330C>T (p.Gln2444Ter)	6261	RYR1	Pathogenic	GRCh38	870624
+single nucleotide variant	NM_000540.3(RYR1):c.14447A>G (p.Asp4816Gly)	6261	RYR1	Pathogenic	GRCh38	870616
+single nucleotide variant	NM_000540.3(RYR1):c.2836G>T (p.Glu946Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	929034
+single nucleotide variant	NM_000540.3(RYR1):c.6517C>T (p.Gln2173Ter)	6261	RYR1	Pathogenic	GRCh38	936942
+single nucleotide variant	NM_000540.3(RYR1):c.10839C>A (p.Tyr3613Ter)	6261	RYR1	Pathogenic	GRCh38	933499
+single nucleotide variant	NM_000540.3(RYR1):c.14581C>G (p.Arg4861Gly)	6261	RYR1	Likely pathogenic	GRCh38	943431
+single nucleotide variant	NM_000540.3(RYR1):c.14752G>A (p.Asp4918Asn)	6261	RYR1	Pathogenic	GRCh38	940673
+single nucleotide variant	NM_000540.3(RYR1):c.4935-2A>T	6261	RYR1	Likely pathogenic	GRCh38	935390
+single nucleotide variant	NM_000540.3(RYR1):c.10453C>T (p.Gln3485Ter)	6261	RYR1	Pathogenic	GRCh38	954805
+single nucleotide variant	NM_000540.3(RYR1):c.14545G>T (p.Val4849Phe)	6261	RYR1	Likely pathogenic	GRCh38	965443
+single nucleotide variant	NM_000540.3(RYR1):c.10924T>G (p.Tyr3642Asp)	6261	RYR1	Likely pathogenic	GRCh38	978722
+single nucleotide variant	NM_000540.3(RYR1):c.1925+1G>C	6261	RYR1	Likely pathogenic	GRCh38	982438
+single nucleotide variant	NM_000540.3(RYR1):c.1202G>T (p.Arg401Leu)	6261	RYR1	Likely pathogenic	GRCh38	983140
+single nucleotide variant	NM_000540.3(RYR1):c.4435C>T (p.Gln1479Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	988288
+single nucleotide variant	NM_000540.3(RYR1):c.424+2T>C	6261	RYR1	Likely pathogenic	GRCh38	994093
+single nucleotide variant	NM_000540.3(RYR1):c.7124G>A (p.Gly2375Glu)	6261	RYR1	Likely pathogenic	GRCh38	1012447
+single nucleotide variant	NM_000540.3(RYR1):c.12729G>C (p.Glu4243Asp)	6261	RYR1	Likely pathogenic	GRCh38	1061001
+single nucleotide variant	NM_000540.3(RYR1):c.3223C>T (p.Arg1075Trp)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1066833
+single nucleotide variant	NM_000540.3(RYR1):c.3766-1G>A	6261	RYR1	Likely pathogenic	GRCh38	1067504
+single nucleotide variant	NM_000540.3(RYR1):c.13994T>C (p.Leu4665Pro)	6261	RYR1	Pathogenic	GRCh38	1067471
+single nucleotide variant	NM_000540.3(RYR1):c.14582G>C (p.Arg4861Pro)	6261	RYR1	Pathogenic	GRCh38	1066439
+single nucleotide variant	NM_000540.3(RYR1):c.1381G>T (p.Glu461Ter)	6261	RYR1	Pathogenic	GRCh38	1069774
+single nucleotide variant	NM_000540.3(RYR1):c.2005G>T (p.Glu669Ter)	6261	RYR1	Pathogenic	GRCh38	1075694
+single nucleotide variant	NM_000540.3(RYR1):c.5917C>T (p.Gln1973Ter)	6261	RYR1	Pathogenic	GRCh38	1075282
+single nucleotide variant	NM_000540.3(RYR1):c.8773G>T (p.Glu2925Ter)	6261	RYR1	Pathogenic	GRCh38	1069514
+single nucleotide variant	NM_000540.3(RYR1):c.10471C>T (p.Gln3491Ter)	6261	RYR1	Pathogenic	GRCh38	1073108
+single nucleotide variant	NM_000540.3(RYR1):c.12022C>T (p.Gln4008Ter)	6261	RYR1	Pathogenic	GRCh38	1076444
+single nucleotide variant	NM_000540.3(RYR1):c.12700G>T (p.Val4234Leu)	6261	RYR1	Likely pathogenic	GRCh38	1071064
+single nucleotide variant	NM_000540.3(RYR1):c.5435T>C (p.Leu1812Pro)	6261	RYR1	Likely pathogenic	GRCh38	1174881
+single nucleotide variant	NM_000540.3(RYR1):c.5915A>T (p.Asn1972Ile)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1175194
+single nucleotide variant	NM_000540.3(RYR1):c.9851G>A (p.Trp3284Ter)	6261	RYR1	Pathogenic	GRCh38	1180626
+single nucleotide variant	NM_000540.3(RYR1):c.14437C>T (p.His4813Tyr)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1180698
+single nucleotide variant	NM_000540.3(RYR1):c.14738A>G (p.Tyr4913Cys)	6261	RYR1	Likely pathogenic	GRCh38	1180845
+single nucleotide variant	NM_000540.3(RYR1):c.1615T>G (p.Phe539Val)	6261	RYR1	Likely pathogenic	GRCh38	1210317
+single nucleotide variant	NM_000540.3(RYR1):c.1630G>T (p.Asp544Tyr)	6261	RYR1	Likely pathogenic	GRCh38	1210298
+single nucleotide variant	NM_000540.3(RYR1):c.3166G>C (p.Asp1056His)	6261	RYR1	Likely pathogenic	GRCh38	1210300
+single nucleotide variant	NM_000540.3(RYR1):c.7035C>A (p.Ser2345Arg)	6261	RYR1	Likely pathogenic	GRCh38	1210320
+single nucleotide variant	NM_000540.3(RYR1):c.7292A>T (p.Asp2431Val)	6261	RYR1	Likely pathogenic	GRCh38	1210302
+single nucleotide variant	NM_000540.3(RYR1):c.14803G>A (p.Gly4935Ser)	6261	RYR1	Likely pathogenic	GRCh38	1210316
+single nucleotide variant	NM_000540.3(RYR1):c.1024G>A (p.Glu342Lys)	6261	RYR1	Likely pathogenic	GRCh38	1214000
+single nucleotide variant	NM_000540.3(RYR1):c.7084G>A (p.Glu2362Lys)	6261	RYR1	Likely pathogenic	GRCh38	1214002
+single nucleotide variant	NM_000540.3(RYR1):c.6082C>T (p.Arg2028Ter)	6261	RYR1	Pathogenic	GRCh38	1217048
+single nucleotide variant	NM_000540.3(RYR1):c.8310+1G>T	6261	RYR1	Pathogenic	GRCh38	1253809
+single nucleotide variant	NM_000540.3(RYR1):c.10063C>T (p.Gln3355Ter)	6261	RYR1	Pathogenic	GRCh38	1323545
+single nucleotide variant	NM_000540.3(RYR1):c.8614C>T (p.Gln2872Ter)	6261	RYR1	Pathogenic	GRCh38	1323547
+single nucleotide variant	NM_000540.3(RYR1):c.7879G>C (p.Val2627Leu)	6261	RYR1	Pathogenic	GRCh38	1330358
+single nucleotide variant	NM_000540.3(RYR1):c.533A>G (p.Tyr178Cys)	6261	RYR1	Likely pathogenic	GRCh38	1330371
+single nucleotide variant	NM_000540.3(RYR1):c.14650T>C (p.Tyr4884His)	6261	RYR1	Likely pathogenic	GRCh38	1341368
+single nucleotide variant	NM_000540.3(RYR1):c.7614+1G>A	6261	RYR1	Pathogenic	GRCh38	1341369
+single nucleotide variant	NM_000540.3(RYR1):c.14591A>C (p.Tyr4864Ser)	6261	RYR1	Likely pathogenic	GRCh38	1341372
+single nucleotide variant	NM_000540.3(RYR1):c.14811C>G (p.Ile4937Met)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1341373
+single nucleotide variant	NM_000540.3(RYR1):c.2792T>C (p.Leu931Pro)	6261	RYR1	Likely pathogenic	GRCh38	1341374
+single nucleotide variant	NM_000540.3(RYR1):c.10729C>G (p.Arg3577Gly)	6261	RYR1	Likely pathogenic	GRCh38	1341375
+single nucleotide variant	NM_000540.3(RYR1):c.14570T>A (p.Phe4857Tyr)	6261	RYR1	Likely pathogenic	GRCh38	1468610
+single nucleotide variant	NM_000540.3(RYR1):c.867C>A (p.Tyr289Ter)	6261	RYR1	Pathogenic	GRCh38	1454087
+single nucleotide variant	NM_000540.3(RYR1):c.14130-2A>G	6261	RYR1	Pathogenic	GRCh38	1454292
+single nucleotide variant	NM_000540.3(RYR1):c.12766G>T (p.Glu4256Ter)	6261	RYR1	Pathogenic	GRCh38	1415771
+single nucleotide variant	NM_000540.3(RYR1):c.46-1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1524261
+single nucleotide variant	NM_000540.3(RYR1):c.12582C>G (p.Phe4194Leu)	6261	RYR1	Pathogenic	GRCh38	1443288
+single nucleotide variant	NM_000540.3(RYR1):c.3178+1G>A	6261	RYR1	Likely pathogenic	GRCh38	1473275
+single nucleotide variant	NM_000540.3(RYR1):c.1576+1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1498610
+single nucleotide variant	NM_000540.3(RYR1):c.6796+1G>A	6261	RYR1	Likely pathogenic	GRCh38	1472519
+single nucleotide variant	NM_000540.3(RYR1):c.14868+1G>C	6261	RYR1	Likely pathogenic	GRCh38	1478885
+single nucleotide variant	NM_000540.3(RYR1):c.14569T>C (p.Phe4857Leu)	6261	RYR1	Pathogenic	GRCh38	1451182
+single nucleotide variant	NM_000540.3(RYR1):c.3828G>A (p.Trp1276Ter)	6261	RYR1	Pathogenic	GRCh38	1354564
+single nucleotide variant	NM_000540.3(RYR1):c.13724A>G (p.Asn4575Ser)	6261	RYR1	Likely pathogenic	GRCh38	1508627
+single nucleotide variant	NM_000540.3(RYR1):c.8027G>A (p.Arg2676Gln)	6261	RYR1	Likely pathogenic	GRCh38	1508739
+single nucleotide variant	NM_000540.3(RYR1):c.13573C>T (p.Gln4525Ter)	6261	RYR1	Pathogenic	GRCh38	1427137
+single nucleotide variant	NM_000540.3(RYR1):c.11690-2A>C	6261	RYR1	Likely pathogenic	GRCh38	1509798
+single nucleotide variant	NM_000540.3(RYR1):c.12829G>T (p.Glu4277Ter)	6261	RYR1	Pathogenic	GRCh38	1429242
+single nucleotide variant	NM_000540.3(RYR1):c.13900G>T (p.Glu4634Ter)	6261	RYR1	Pathogenic	GRCh38	1456732
+single nucleotide variant	NM_000540.3(RYR1):c.8530C>T (p.Gln2844Ter)	6261	RYR1	Pathogenic	GRCh38	1428815
+single nucleotide variant	NM_000540.3(RYR1):c.7324-1G>A	6261	RYR1	Pathogenic	GRCh38	1455460
+single nucleotide variant	NM_000540.3(RYR1):c.12535C>T (p.Arg4179Cys)	6261	RYR1	Likely pathogenic	GRCh38	1482988
+single nucleotide variant	NM_000540.3(RYR1):c.2870+1G>T	6261	RYR1	Pathogenic	GRCh38	1379931
+single nucleotide variant	NM_000540.3(RYR1):c.14227G>A (p.Gly4743Ser)	6261	RYR1	Likely pathogenic	GRCh38	1487442
+single nucleotide variant	NM_000540.3(RYR1):c.7850C>A (p.Ser2617Ter)	6261	RYR1	Pathogenic	GRCh38	1416843
+single nucleotide variant	NM_000540.3(RYR1):c.4299T>G (p.Tyr1433Ter)	6261	RYR1	Pathogenic	GRCh38	1390940
+single nucleotide variant	NM_000540.3(RYR1):c.7006C>T (p.Arg2336Cys)	6261	RYR1	Likely pathogenic	GRCh38	1516407
+single nucleotide variant	NM_000540.3(RYR1):c.1588C>A (p.Arg530Ser)	6261	RYR1	Likely pathogenic	GRCh38	1500771
+single nucleotide variant	NM_000540.3(RYR1):c.10561G>C (p.Gly3521Arg)	6261	RYR1	Likely pathogenic	GRCh38	1677886
+single nucleotide variant	NM_000540.3(RYR1):c.2683-1G>A	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	1678712
+single nucleotide variant	NM_000540.3(RYR1):c.7835+2T>G	6261	RYR1	Likely pathogenic	GRCh38	1690953
+single nucleotide variant	NM_000540.3(RYR1):c.11715G>C (p.Gln3905His)	6261	RYR1	Likely pathogenic	GRCh38	1695404
+single nucleotide variant	NM_000540.3(RYR1):c.1421A>T (p.Gln474Leu)	6261	RYR1	Likely pathogenic	GRCh38	1691866
+single nucleotide variant	NM_000540.3(RYR1):c.14904C>A (p.Tyr4968Ter)	6261	RYR1	Likely pathogenic	GRCh38	1698564
+single nucleotide variant	NM_000540.3(RYR1):c.14970-1G>A	6261	RYR1	Likely pathogenic	GRCh38	1701918
+single nucleotide variant	NM_000540.3(RYR1):c.2168-1G>A	6261	RYR1	Likely pathogenic	GRCh38	1705733
+single nucleotide variant	NM_000540.3(RYR1):c.14596A>G (p.Lys4866Glu)	6261	RYR1	Likely pathogenic	GRCh38	1709977
+single nucleotide variant	NM_000540.3(RYR1):c.12094+2T>C	6261	RYR1	Likely pathogenic	GRCh38	1809729
+single nucleotide variant	NM_000540.3(RYR1):c.8953C>T (p.Arg2985Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	2138288
+single nucleotide variant	NM_000540.3(RYR1):c.12010C>T (p.Gln4004Ter)	6261	RYR1	Pathogenic	GRCh38	2138291
+single nucleotide variant	NM_000540.3(RYR1):c.2449C>T (p.Arg817Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	2168951
+single nucleotide variant	NM_000540.3(RYR1):c.9473-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2178932
+single nucleotide variant	NM_000540.3(RYR1):c.4459A>T (p.Lys1487Ter)	6261	RYR1	Pathogenic	GRCh38	2418907
+single nucleotide variant	NM_000540.3(RYR1):c.11434C>T (p.Gln3812Ter)	6261	RYR1	Pathogenic	GRCh38	1895487
+single nucleotide variant	NM_000540.3(RYR1):c.5053T>C (p.Cys1685Arg)	6261	RYR1	Likely pathogenic	GRCh38	1912705
+single nucleotide variant	NM_000540.3(RYR1):c.6577C>T (p.Gln2193Ter)	6261	RYR1	Pathogenic	GRCh38	1919562
+single nucleotide variant	NM_000540.3(RYR1):c.8067+1G>T	6261	RYR1	Likely pathogenic	GRCh38	1919052
+single nucleotide variant	NM_000540.3(RYR1):c.6856C>G (p.Leu2286Val)	6261	RYR1	Likely pathogenic	GRCh38	1980358
+single nucleotide variant	NM_000540.3(RYR1):c.10543A>T (p.Lys3515Ter)	6261	RYR1	Pathogenic	GRCh38	1998475
+single nucleotide variant	NM_000540.3(RYR1):c.14558C>A (p.Thr4853Asn)	6261	RYR1	Pathogenic	GRCh38	2001954
+single nucleotide variant	NM_000540.3(RYR1):c.12624+1G>A	6261	RYR1	Likely pathogenic	GRCh38	1995631
+single nucleotide variant	NM_000540.3(RYR1):c.13665C>G (p.Tyr4555Ter)	6261	RYR1	Pathogenic	GRCh38	2004359
+single nucleotide variant	NM_000540.3(RYR1):c.4368C>G (p.Tyr1456Ter)	6261	RYR1	Pathogenic	GRCh38	2012363
+single nucleotide variant	NM_000540.3(RYR1):c.45+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2026049
+single nucleotide variant	NM_000540.3(RYR1):c.13011G>A (p.Trp4337Ter)	6261	RYR1	Pathogenic	GRCh38	2023949
+single nucleotide variant	NM_000540.3(RYR1):c.7007G>T (p.Arg2336Leu)	6261	RYR1	Likely pathogenic	GRCh38	2038577
+single nucleotide variant	NM_000540.3(RYR1):c.5812C>T (p.Gln1938Ter)	6261	RYR1	Pathogenic	GRCh38	2052609
+single nucleotide variant	NM_000540.3(RYR1):c.11245G>T (p.Glu3749Ter)	6261	RYR1	Pathogenic	GRCh38	2067355
+single nucleotide variant	NM_000540.3(RYR1):c.7444+2T>C	6261	RYR1	Likely pathogenic	GRCh38	2078153
+single nucleotide variant	NM_000540.3(RYR1):c.10824+1G>C	6261	RYR1	Likely pathogenic	GRCh38	2086700
+single nucleotide variant	NM_000540.3(RYR1):c.4708-1G>C	6261	RYR1	Likely pathogenic	GRCh38	2101279
+single nucleotide variant	NM_000540.3(RYR1):c.8400+2T>C	6261	RYR1	Likely pathogenic	GRCh38	2103198
+single nucleotide variant	NM_000540.3(RYR1):c.13228G>T (p.Glu4410Ter)	6261	RYR1	Pathogenic	GRCh38	2104844
+single nucleotide variant	NM_000540.3(RYR1):c.14845G>T (p.Glu4949Ter)	6261	RYR1	Pathogenic	GRCh38	2114327
+single nucleotide variant	NM_000540.3(RYR1):c.3799C>G (p.Pro1267Ala)	6261	RYR1	Likely pathogenic	GRCh38	2117609
+single nucleotide variant	NM_000540.3(RYR1):c.14126C>G (p.Thr4709Arg)	6261	RYR1	Likely pathogenic	GRCh38	2132034
+single nucleotide variant	NM_000540.3(RYR1):c.14488T>C (p.Ser4830Pro)	6261	RYR1	Likely pathogenic	GRCh38	2412687
+single nucleotide variant	NM_000540.3(RYR1):c.4935-1G>A	6261	RYR1	Likely pathogenic	GRCh38	2433101
+single nucleotide variant	NM_000540.3(RYR1):c.6500T>G (p.Ile2167Ser)	6261	RYR1	Likely pathogenic	GRCh38	2444194
+single nucleotide variant	NM_000540.3(RYR1):c.128A>C (p.Asn43Thr)	6261	RYR1	Likely pathogenic	GRCh38	2572642
+single nucleotide variant	NM_000540.3(RYR1):c.14815G>T (p.Asp4939Tyr)	6261	RYR1	Likely pathogenic	GRCh38	2581842
+single nucleotide variant	NM_000540.3(RYR1):c.10441-48G>A	6261	RYR1	Likely pathogenic	GRCh38	2583137
+single nucleotide variant	NM_000540.3(RYR1):c.9910T>C (p.Cys3304Arg)	6261	RYR1	Likely pathogenic	GRCh38	2584344
+single nucleotide variant	NM_000540.3(RYR1):c.4343G>A (p.Trp1448Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	2633558
+single nucleotide variant	NM_000540.3(RYR1):c.9852G>A (p.Trp3284Ter)	6261	RYR1	Pathogenic	GRCh38	2649808
+single nucleotide variant	NM_000540.3(RYR1):c.3178+587A>G	6261	RYR1	Likely pathogenic	GRCh38	2674604
+single nucleotide variant	NM_000540.3(RYR1):c.14438A>G (p.His4813Arg)	6261	RYR1	Likely pathogenic	GRCh38	2687747
+single nucleotide variant	NM_000540.3(RYR1):c.14869-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2701325
+single nucleotide variant	NM_000540.3(RYR1):c.11557G>C (p.Glu3853Gln)	6261	RYR1	Likely pathogenic	GRCh38	2694212
+single nucleotide variant	NM_000540.3(RYR1):c.10259+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2699017
+single nucleotide variant	NM_000540.3(RYR1):c.13659+2T>A	6261	RYR1	Likely pathogenic	GRCh38	2707388
+single nucleotide variant	NM_000540.3(RYR1):c.11591-1G>A	6261	RYR1	Likely pathogenic	GRCh38	2715827
+single nucleotide variant	NM_000540.3(RYR1):c.10171G>T (p.Glu3391Ter)	6261	RYR1	Likely pathogenic	GRCh38	2710027
+single nucleotide variant	NM_000540.3(RYR1):c.11494C>T (p.Gln3832Ter)	6261	RYR1	Pathogenic	GRCh38	2731585
+single nucleotide variant	NM_000540.3(RYR1):c.2366G>T (p.Arg789Leu)	6261	RYR1	Likely pathogenic	GRCh38	2736874
+single nucleotide variant	NM_000540.3(RYR1):c.8758C>T (p.Arg2920Ter)	6261	RYR1	Pathogenic	GRCh38	2736880
+single nucleotide variant	NM_000540.3(RYR1):c.9221C>T (p.Ser3074Phe)	6261	RYR1	Likely pathogenic	GRCh38	2736881
+single nucleotide variant	NM_000540.3(RYR1):c.12013-2A>G	6261	RYR1	Pathogenic	GRCh38	2736884
+single nucleotide variant	NM_000540.3(RYR1):c.14678G>T (p.Arg4893Leu)	6261	RYR1	Likely pathogenic	GRCh38	2738605
+single nucleotide variant	NM_000540.3(RYR1):c.7360C>A (p.Arg2454Ser)	6261	RYR1	Likely pathogenic	GRCh38	2745548
+single nucleotide variant	NM_000540.3(RYR1):c.1488C>A (p.Tyr496Ter)	6261	RYR1	Pathogenic	GRCh38	2750838
+single nucleotide variant	NM_000540.3(RYR1):c.13660-1G>A	6261	RYR1	Likely pathogenic	GRCh38	2750906
+single nucleotide variant	NM_000540.3(RYR1):c.2635G>T (p.Glu879Ter)	6261	RYR1	Pathogenic	GRCh38	2750617
+single nucleotide variant	NM_000540.3(RYR1):c.13743T>G (p.Tyr4581Ter)	6261	RYR1	Pathogenic	GRCh38	2752508
+single nucleotide variant	NM_000540.3(RYR1):c.1673-1G>A	6261	RYR1	Likely pathogenic	GRCh38	2758833
+single nucleotide variant	NM_000540.3(RYR1):c.6487C>G (p.Arg2163Gly)	6261	RYR1	Likely pathogenic	GRCh38	2760642
+single nucleotide variant	NM_000540.3(RYR1):c.14928C>A (p.Phe4976Leu)	6261	RYR1	Pathogenic	GRCh38	2760740
+single nucleotide variant	NM_000540.3(RYR1):c.10686+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2767984
+single nucleotide variant	NM_000540.3(RYR1):c.12145G>C (p.Glu4049Gln)	6261	RYR1	Likely pathogenic	GRCh38	2794367
+single nucleotide variant	NM_000540.3(RYR1):c.12607C>T (p.Gln4203Ter)	6261	RYR1	Pathogenic	GRCh38	2797923
+single nucleotide variant	NM_000540.3(RYR1):c.346-1G>A	6261	RYR1	Likely pathogenic	GRCh38	2802613
+single nucleotide variant	NM_000540.3(RYR1):c.9234-1G>C	6261	RYR1	Likely pathogenic	GRCh38	2810533
+single nucleotide variant	NM_000540.3(RYR1):c.8617-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2804611
+single nucleotide variant	NM_000540.3(RYR1):c.9379C>T (p.Gln3127Ter)	6261	RYR1	Pathogenic	GRCh38	2816246
+single nucleotide variant	NM_000540.3(RYR1):c.131G>C (p.Arg44Pro)	6261	RYR1	Likely pathogenic	GRCh38	2829750
+single nucleotide variant	NM_000540.3(RYR1):c.7215-1G>T	6261	RYR1	Likely pathogenic	GRCh38	2839567
+single nucleotide variant	NM_000540.3(RYR1):c.7983G>A (p.Trp2661Ter)	6261	RYR1	Pathogenic	GRCh38	2830106
+single nucleotide variant	NM_000540.3(RYR1):c.13893C>G (p.Tyr4631Ter)	6261	RYR1	Pathogenic	GRCh38	2837079
+single nucleotide variant	NM_000540.3(RYR1):c.3955G>T (p.Glu1319Ter)	6261	RYR1	Pathogenic	GRCh38	2841757
+single nucleotide variant	NM_000540.3(RYR1):c.10686+2T>C	6261	RYR1	Likely pathogenic	GRCh38	2854594
+single nucleotide variant	NM_000540.3(RYR1):c.6663+2T>C	6261	RYR1	Likely pathogenic	GRCh38	2867238
+single nucleotide variant	NM_000540.3(RYR1):c.14801A>T (p.Gln4934Leu)	6261	RYR1	Likely pathogenic	GRCh38	2865439
+single nucleotide variant	NM_000540.3(RYR1):c.958-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2873152
+single nucleotide variant	NM_000540.3(RYR1):c.735C>G (p.Tyr245Ter)	6261	RYR1	Pathogenic	GRCh38	2890992
+single nucleotide variant	NM_000540.3(RYR1):c.12147A>C (p.Glu4049Asp)	6261	RYR1	Likely pathogenic	GRCh38	2892845
+single nucleotide variant	NM_000540.3(RYR1):c.10381C>T (p.Gln3461Ter)	6261	RYR1	Pathogenic	GRCh38	2886824
+single nucleotide variant	NM_000540.3(RYR1):c.11517-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2888246
+single nucleotide variant	NM_000540.3(RYR1):c.10626+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2894666
+single nucleotide variant	NM_000540.3(RYR1):c.3772C>T (p.Arg1258Ter)	6261	RYR1	Pathogenic	GRCh38	2904229
+single nucleotide variant	NM_000540.3(RYR1):c.6350T>C (p.Val2117Ala)	6261	RYR1	Likely pathogenic	GRCh38	2904258
+single nucleotide variant	NM_000540.3(RYR1):c.11776C>T (p.Gln3926Ter)	6261	RYR1	Pathogenic	GRCh38	2898604
+single nucleotide variant	NM_000540.3(RYR1):c.11708G>T (p.Arg3903Leu)	6261	RYR1	Likely pathogenic	GRCh38	2901490
+single nucleotide variant	NM_000540.3(RYR1):c.14384G>A (p.Trp4795Ter)	6261	RYR1	Pathogenic	GRCh38	2904708
+single nucleotide variant	NM_000540.3(RYR1):c.2276A>G (p.Asn759Ser)	6261	RYR1	Likely pathogenic	GRCh38	2906637
+single nucleotide variant	NM_000540.3(RYR1):c.6663+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2914867
+single nucleotide variant	NM_000540.3(RYR1):c.11608+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2916612
+single nucleotide variant	NM_000540.3(RYR1):c.166-2A>C	6261	RYR1	Likely pathogenic	GRCh38	2959831
+single nucleotide variant	NM_000540.3(RYR1):c.11439+1G>C	6261	RYR1	Likely pathogenic	GRCh38	2969347
+single nucleotide variant	NM_000540.3(RYR1):c.12916C>T (p.Arg4306Ter)	6261	RYR1	Pathogenic	GRCh38	2971266
+single nucleotide variant	NM_000540.3(RYR1):c.11326G>T (p.Glu3776Ter)	6261	RYR1	Pathogenic	GRCh38	2968926
+single nucleotide variant	NM_000540.3(RYR1):c.14172+1G>A	6261	RYR1	Likely pathogenic	GRCh38	2972458
+single nucleotide variant	NM_000540.3(RYR1):c.1522G>T (p.Glu508Ter)	6261	RYR1	Pathogenic	GRCh38	2977733
+single nucleotide variant	NM_000540.3(RYR1):c.8770C>T (p.Gln2924Ter)	6261	RYR1	Pathogenic	GRCh38	2984895
+single nucleotide variant	NM_000540.3(RYR1):c.12095-2A>G	6261	RYR1	Likely pathogenic	GRCh38	2991180
+single nucleotide variant	NM_000540.3(RYR1):c.5158G>T (p.Glu1720Ter)	6261	RYR1	Pathogenic	GRCh38	3006867
+single nucleotide variant	NM_000540.3(RYR1):c.2643G>A (p.Trp881Ter)	6261	RYR1	Pathogenic	GRCh38	2996294
+single nucleotide variant	NM_000540.3(RYR1):c.7927-1G>T	6261	RYR1	Likely pathogenic	GRCh38	3017700
+single nucleotide variant	NM_000540.3(RYR1):c.5053T>G (p.Cys1685Gly)	6261	RYR1	Likely pathogenic	GRCh38	3019533
+single nucleotide variant	NM_000540.3(RYR1):c.14173-1G>A	6261	RYR1	Pathogenic	GRCh38	3021126
+single nucleotide variant	NM_000540.3(RYR1):c.3655C>T (p.Gln1219Ter)	6261	RYR1	Pathogenic	GRCh38	3019254
+single nucleotide variant	NM_000540.3(RYR1):c.10334G>A (p.Trp3445Ter)	6261	RYR1	Pathogenic	GRCh38	3017047
+single nucleotide variant	NM_000540.3(RYR1):c.2200C>T (p.Gln734Ter)	6261	RYR1	Pathogenic/Likely pathogenic	GRCh38	3011522
+single nucleotide variant	NM_000540.3(RYR1):c.14804G>A (p.Gly4935Asp)	6261	RYR1	Pathogenic	GRCh38	3024255
+single nucleotide variant	NM_000540.3(RYR1):c.643G>T (p.Gly215Ter)	6261	RYR1	Pathogenic	GRCh38	3063880
+single nucleotide variant	NM_000540.3(RYR1):c.7282G>T (p.Ala2428Ser)	6261	RYR1	Likely pathogenic	GRCh38	3065285
+single nucleotide variant	NM_000540.3(RYR1):c.1441-2A>G	6261	RYR1	Likely pathogenic	GRCh38	3075759
+single nucleotide variant	NM_000540.3(RYR1):c.2578-2A>G	6261	RYR1	Likely pathogenic	GRCh38	3075935
+single nucleotide variant	NM_000540.3(RYR1):c.7968C>A (p.Cys2656Ter)	6261	RYR1	Likely pathogenic	GRCh38	3075936
+single nucleotide variant	NM_000540.3(RYR1):c.725G>A (p.Arg242Lys)	6261	RYR1	Likely pathogenic	GRCh38	3233234
+single nucleotide variant	NM_000540.3(RYR1):c.6891+1G>T	6261	RYR1	Pathogenic	GRCh38	3233237
+single nucleotide variant	NM_000540.3(RYR1):c.3263A>G (p.Tyr1088Cys)	6261	RYR1	Likely pathogenic	GRCh38	3233238
+single nucleotide variant	NM_000540.3(RYR1):c.13940T>A (p.Leu4647Gln)	6261	RYR1	Likely pathogenic	GRCh38	3233239
+single nucleotide variant	NM_000540.3(RYR1):c.345G>A (p.Met115Ile)	6261	RYR1	Likely pathogenic	GRCh38	3233276
+single nucleotide variant	NM_000540.3(RYR1):c.2361-1G>A	6261	RYR1	Likely pathogenic	GRCh38	3233278
+single nucleotide variant	NM_000540.3(RYR1):c.7522C>A (p.Arg2508Ser)	6261	RYR1	Likely pathogenic	GRCh38	3237453
+single nucleotide variant	NM_000540.3(RYR1):c.13913G>T (p.Gly4638Val)	6261	RYR1	Likely pathogenic	GRCh38	3256762
+single nucleotide variant	NM_000540.3(RYR1):c.2065G>T (p.Glu689Ter)	6261	RYR1	Likely pathogenic	GRCh38	3341464
+single nucleotide variant	NM_000540.3(RYR1):c.6739C>G (p.Gln2247Glu)	6261	RYR1	Likely pathogenic	GRCh38	3341993
+single nucleotide variant	NM_000540.3(RYR1):c.5581C>T (p.Gln1861Ter)	6261	RYR1	Likely pathogenic	GRCh38	3344859
+single nucleotide variant	NM_000540.3(RYR1):c.12625-2A>G	6261	RYR1	Likely pathogenic	GRCh38	3345543
+single nucleotide variant	NM_000540.3(RYR1):c.13667T>C (p.Leu4556Pro)	6261	RYR1	Likely pathogenic	GRCh38	3382725
+single nucleotide variant	NM_000540.3(RYR1):c.12623A>G (p.Gln4208Arg)	6261	RYR1	Likely pathogenic	GRCh38	3390957
+single nucleotide variant	NM_000540.3(RYR1):c.14228G>T (p.Gly4743Val)	6261	RYR1	Likely pathogenic	GRCh38	3393241
+single nucleotide variant	NM_000540.3(RYR1):c.12541G>A (p.Glu4181Lys)	6261	RYR1	Likely pathogenic	GRCh38	3393532
+single nucleotide variant	NM_000540.3(RYR1):c.718C>T (p.Gln240Ter)	6261	RYR1	Pathogenic	GRCh38	3583767
+single nucleotide variant	NM_000540.3(RYR1):c.3382-1G>A	6261	RYR1	Likely pathogenic	GRCh38	3583769
+single nucleotide variant	NM_000540.3(RYR1):c.9625C>T (p.Gln3209Ter)	6261	RYR1	Likely pathogenic	GRCh38	3583771
+single nucleotide variant	NM_000540.3(RYR1):c.10828G>T (p.Glu3610Ter)	6261	RYR1	Likely pathogenic	GRCh38	3583773
+single nucleotide variant	NM_000540.3(RYR1):c.7833C>T (p.Cys2611=)	6261	RYR1	Likely pathogenic	GRCh38	3573465
+single nucleotide variant	NM_000540.3(RYR1):c.1064G>A (p.Trp355Ter)	6261	RYR1	Pathogenic	GRCh38	3614077
+single nucleotide variant	NM_000540.3(RYR1):c.99G>C (p.Lys33Asn)	6261	RYR1	Likely pathogenic	GRCh38	3629468
+single nucleotide variant	NM_000540.3(RYR1):c.11132C>A (p.Thr3711Lys)	6261	RYR1	Likely pathogenic	GRCh38	3636243
+single nucleotide variant	NM_000540.3(RYR1):c.424+1G>T	6261	RYR1	Likely pathogenic	GRCh38	3639072
+single nucleotide variant	NM_000540.3(RYR1):c.9122+1G>A	6261	RYR1	Likely pathogenic	GRCh38	3640612
+single nucleotide variant	NM_000540.3(RYR1):c.4372C>T (p.Gln1458Ter)	6261	RYR1	Pathogenic	GRCh38	3642989
+single nucleotide variant	NM_000540.3(RYR1):c.11907+1G>C	6261	RYR1	Likely pathogenic	GRCh38	3661271
+single nucleotide variant	NM_000540.3(RYR1):c.14129+1G>C	6261	RYR1	Likely pathogenic	GRCh38	3659662
+single nucleotide variant	NM_000540.3(RYR1):c.8977C>T (p.Gln2993Ter)	6261	RYR1	Pathogenic	GRCh38	3671176
+single nucleotide variant	NM_000540.3(RYR1):c.7523G>C (p.Arg2508Pro)	6261	RYR1	Likely pathogenic	GRCh38	3692780
+single nucleotide variant	NM_000540.3(RYR1):c.8310+1G>A	6261	RYR1	Likely pathogenic	GRCh38	3693975
+single nucleotide variant	NM_000540.3(RYR1):c.3883C>T (p.Gln1295Ter)	6261	RYR1	Pathogenic	GRCh38	3707090
+single nucleotide variant	NM_000540.3(RYR1):c.5701C>T (p.Gln1901Ter)	6261	RYR1	Pathogenic	GRCh38	3723557
+single nucleotide variant	NM_000540.3(RYR1):c.5815-2A>G	6261	RYR1	Likely pathogenic	GRCh38	3727374
+single nucleotide variant	NM_000540.3(RYR1):c.14647-1G>C	6261	RYR1	Likely pathogenic	GRCh38	3773857
+single nucleotide variant	NM_000540.3(RYR1):c.2786+1G>C	6261	RYR1	Likely pathogenic	GRCh38	3775467
+single nucleotide variant	NM_000540.3(RYR1):c.12536G>A (p.Arg4179His)	6261	RYR1	Likely pathogenic	GRCh38	3791598
+single nucleotide variant	NM_000540.3(RYR1):c.2682+1G>T	6261	RYR1	Likely pathogenic	GRCh38	3903055
+single nucleotide variant	NM_000540.3(RYR1):c.455C>T (p.Ala152Val)	6261	RYR1	Likely pathogenic	GRCh38	3903338
+single nucleotide variant	NM_000540.3(RYR1):c.14789T>G (p.Leu4930Trp)	6261	RYR1	Likely pathogenic	GRCh38	4072122
+single nucleotide variant	NM_000540.3(RYR1):c.14303+1G>T	6261	RYR1	Likely pathogenic	GRCh38	4075507
+single nucleotide variant	NM_000540.3(RYR1):c.14763C>A (p.Phe4921Leu)	6261	RYR1	Likely pathogenic	GRCh38	4077477
+single nucleotide variant	NM_000540.3(RYR1):c.5814+2T>C	6261	RYR1	Likely pathogenic	GRCh38	4077478
+single nucleotide variant	NM_000540.3(RYR1):c.5547+2T>C	6261	RYR1	Likely pathogenic	GRCh38	4077480
+single nucleotide variant	NM_000540.3(RYR1):c.14551C>G (p.Leu4851Val)	6261	RYR1	Likely pathogenic	GRCh38	4087686
+single nucleotide variant	NM_000540.3(RYR1):c.6700C>A (p.Arg2234Ser)	6261	RYR1	Pathogenic	GRCh38	4277460
+single nucleotide variant	NM_000540.3(RYR1):c.8547T>G (p.Tyr2849Ter)	6261	RYR1	Likely pathogenic	GRCh38	4278968
+single nucleotide variant	NM_000540.3(RYR1):c.14929G>A (p.Glu4977Lys)	6261	RYR1	Likely pathogenic	GRCh38	4282367
+single nucleotide variant	NM_000540.3(RYR1):c.14549A>C (p.Tyr4850Ser)	6261	RYR1	Pathogenic	GRCh38	4526964
+single nucleotide variant	NM_000540.3(RYR1):c.1024G>T (p.Glu342Ter)	6261	RYR1	Pathogenic	GRCh38	4531720
+single nucleotide variant	NM_000540.3(RYR1):c.14761T>C (p.Phe4921Leu)	6261	RYR1	Pathogenic	GRCh38	4531722
+single nucleotide variant	NM_000540.3(RYR1):c.1712C>T (p.Pro571Leu)	6261	RYR1	Likely pathogenic	GRCh38	4533558
+single nucleotide variant	NM_000540.3(RYR1):c.9122+1G>T	6261	RYR1	Pathogenic	GRCh38	4681971
+single nucleotide variant	NM_000540.3(RYR1):c.1791G>T (p.Lys597Asn)	6261	RYR1	Likely pathogenic	GRCh38	4684999
+single nucleotide variant	NM_000540.3(RYR1):c.7354C>G (p.Arg2452Gly)	6261	RYR1	Likely pathogenic	GRCh38	4687995
+single nucleotide variant	NM_000540.3(RYR1):c.13514+1G>A	6261	RYR1	Likely pathogenic	GRCh38	4706139
+single nucleotide variant	NM_000540.3(RYR1):c.9172+1G>A	6261	RYR1	Likely pathogenic	GRCh38	4710544
+single nucleotide variant	NM_000540.3(RYR1):c.14601C>A (p.Ser4867Arg)	6261	RYR1	Likely pathogenic	GRCh38	4710547
+single nucleotide variant	NM_000540.3(RYR1):c.8310+2T>C	6261	RYR1	Likely pathogenic	GRCh38	4716323
+single nucleotide variant	NM_000540.3(RYR1):c.7445-2A>C	6261	RYR1	Likely pathogenic	GRCh38	4733661
+single nucleotide variant	NM_000540.3(RYR1):c.7982G>A (p.Trp2661Ter)	6261	RYR1	Pathogenic	GRCh38	4724650
+single nucleotide variant	NM_000540.3(RYR1):c.2670G>A (p.Trp890Ter)	6261	RYR1	Pathogenic	GRCh38	4725553
+single nucleotide variant	NM_000540.3(RYR1):c.12511G>T (p.Glu4171Ter)	6261	RYR1	Pathogenic	GRCh38	4743023
+single nucleotide variant	NM_000540.3(RYR1):c.11653C>T (p.Arg3885Ter)	6261	RYR1	Pathogenic	GRCh38	4739275
+single nucleotide variant	NM_000540.3(RYR1):c.11696A>G (p.Gln3899Arg)	6261	RYR1	Likely pathogenic	GRCh38	4763900
+single nucleotide variant	NM_000540.3(RYR1):c.14740A>T (p.Arg4914Trp)	6261	RYR1	Likely pathogenic	GRCh38	4814018
+single nucleotide variant	NM_000540.3(RYR1):c.14671G>A (p.Gly4891Ser)	6261	RYR1	Likely pathogenic	GRCh38	4819359
+single nucleotide variant	NM_000540.3(RYR1):c.1390C>A (p.Gln464Lys)	6261	RYR1	Likely pathogenic	GRCh38	4820220
+single nucleotide variant	NM_000540.3(RYR1):c.7034G>A (p.Ser2345Asn)	6261	RYR1	Likely pathogenic	GRCh38	4850775
+single nucleotide variant	NM_000540.3(RYR1):c.11948G>A (p.Arg3983His)	6261	RYR1	Likely pathogenic	GRCh38	4850776
+single nucleotide variant	NM_000540.3(RYR1):c.1021G>T (p.Gly341Trp)	6261	RYR1	Likely pathogenic	GRCh38	4857185
+single nucleotide variant	NM_000540.3(RYR1):c.14758A>C (p.Thr4920Pro)	6261	RYR1	Likely pathogenic	GRCh38	4879553
+single nucleotide variant	NM_000540.3(RYR1):c.14513T>G (p.Leu4838Arg)	6261	RYR1	Likely pathogenic	GRCh38	4879812
+single nucleotide variant	NM_000540.3(RYR1):c.14423T>C (p.Phe4808Ser)	6261	RYR1	Likely pathogenic	GRCh38	4886414
