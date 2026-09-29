@@ -1861,7 +1861,7 @@ def write_best_species_matches(gene, reference_seq, aligner, outfile):
 
 
 
-def write_species_matches(gene, reference_seq, aligner, outfile):
+def write_species_matches(gene, reference_seq, aligner):
     """
     For each species in fasta/{gene}.fasta, keep the sequence with the
     highest alignment score to the human reference sequence (provided) and write
@@ -1897,7 +1897,7 @@ def write_species_matches(gene, reference_seq, aligner, outfile):
         #print(f"{record.id}: {species}: {score:.4f}")
     
     best_records = [v["record"] for v in best.values()]
-    SeqIO.write(best_records, outfile, "fasta")
+    #SeqIO.write(best_records, outfile, "fasta")
     
     #return record_id, species, score
 
