@@ -1857,4 +1857,49 @@ def write_best_species_matches(gene, reference_seq, aligner, outfile):
 
     #print(f"{len(best_records)} sequences written to {outfile}")
     return best
+
+
+
+
+def write_species_matches(gene, reference_seq, aligner, outfile):
+    """
+    For each species in fasta/{gene}.fasta, keep the sequence with the
+    highest alignment score to the human reference sequence (provided) and write
+    them to fasta/{gene}_match.fasta.
+
+    Parameters
+    ----------
+    gene : str
+        Gene name (e.g. "ALPL")
+    aligner : Bio.Align.PairwiseAligner
+        Configured Biopython PairwiseAligner.
+    reference_seq: Bio.Seq.Seq
+        Reference Human sequence(s), from clinvar variants: (hum_sequences[0])
+
+    """
+    infile = f"fasta_lociii/{gene}.fasta"
+    #outfile = f"fasta/{gene}_match.fasta"
+
+    records = list(SeqIO.parse(infile, "fasta"))
+
+    max_score = aligner.score(reference_seq, reference_seq)
+
+    best = {}
+
+    for record in records:
+        species = "[" + record.description.split("[")[-1]
+        score = round(aligner.score(reference_seq, record.seq) / max_score, 4)
+        record_id = record.id
+        best[species] = {
+            "record": record,
+            "score": score
+            }
+        #print(f"{record.id}: {species}: {score:.4f}")
     
+    best_records = [v["record"] for v in best.values()]
+    SeqIO.write(best_records, outfile, "fasta")
+    
+    #return record_id, species, score
+
+    #print(f"{len(best_records)} sequences written to {outfile}")
+    return best
