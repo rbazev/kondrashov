@@ -1815,6 +1815,35 @@ def get_reference_proteins(gene, transcript):
     return proteins
 
 
+def get_reference_proteins_only(gene, transcript):
+    """
+    Retrieve the reference protein(s) corresponding to the unique
+    transcript(s) used by ClinVar for a gene.
+    ----------
+    gene : str
+        Gene symbol (e.g., 'ALPL', 'ABCD1')
+    Returns
+    -------
+    list of dict
+        Each dictionary contains:
+            - transcript
+            - protein_id
+            - protein_seq
+    """
+    #transcripts = identify_unique_transcripts(gene)
+
+    #proteins = []
+
+    #for transcript in tqdm(sorted(transcripts), desc=f"{gene}: transcripts"):
+    #    print(transcript)
+    transcript_record = get_transcript(transcript)
+    cds_seq, prot_seq, protein_id, start, end= get_protein_from_transcript(transcript_record)
+    proteins= protein_id
+    #proteins.append({transcript : protein_id,
+    #    })
+    return proteins
+
+
 def write_best_species_matches(gene, reference_seq, aligner, outfile):
     """
     For each species in fasta/{gene}.fasta, keep the sequence with the
