@@ -51,6 +51,7 @@ one_letter = {
     "Ter": "*",
     "=": "=",
     "Xaa": "X",
+    "Sec": "Sec"
 }
 
 
