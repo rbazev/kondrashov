@@ -886,6 +886,7 @@ def get_variable_sites(gene, protein, verbose):
         print("gene\tprotein\tOrig\tAln\tHuman\tOthers")
 
     fasta_file = os.path.join("fasta_lociii_match", f"{gene}_{protein}_match.fasta")
+    #fasta = None
     for record in SeqIO.parse(fasta_file, "fasta"):
         recordid = record.description.split()[0]
         if recordid == protein:
@@ -896,6 +897,7 @@ def get_variable_sites(gene, protein, verbose):
 
 
     aln_file = os.path.join("aln_lociii_match", f"{gene}_{protein}_match.aln")    
+    #fasta = None
     align = AlignIO.read(aln_file, "fasta")
     for record in align:
         if record.id == protein:
@@ -1844,7 +1846,8 @@ def get_reference_proteins_only(gene, transcript):
     return proteins
 
 
-def write_best_species_matches(gene, reference_seq, aligner, outfile):
+#def write_best_species_matches(gene, reference_seq, aligner, outfile):
+def write_best_species_matches(gene, reference_seq, aligner):
     """
     For each species in fasta/{gene}.fasta, keep the sequence with the
     highest alignment score to the human reference sequence (provided) and write
@@ -1876,15 +1879,18 @@ def write_best_species_matches(gene, reference_seq, aligner, outfile):
         if species not in best or score > best[species]["score"]:
             best[species] = {
                 "record": record,
+                "record_id": record_id,
                 "score": score
             }
         #print(f"{record.id}: {species}: {score:.4f}")
     
     best_records = [v["record"] for v in best.values()]
+    prott= best["[Homo sapiens]"]["record_id"]
+    outfile = f"fasta_lociii_match/{gene}_{prott}_match.fasta"
+    
     SeqIO.write(best_records, outfile, "fasta")
     
     #return record_id, species, score
-
     #print(f"{len(best_records)} sequences written to {outfile}")
     return best
 
