@@ -1,0 +1,5572 @@
+     Gene: ACADM
+    Human: 29 R
+Alignment: 117 R
+R    20
+P     6
+L     4
+-     3
+Q     1
+Name: count, dtype: int64
+
+P XP_012516579.1 Propithecus coquereli
+P XP_012657175.1 Otolemur garnettii
+P XP_053447073.1 Nycticebus coucang
+- XP_008053273.1 Carlito syrichta
+P XP_012643243.1 Microcebus murinus
+P XP_045403682.1 Lemur catta
+P XP_069334191.1 Eulemur rufifrons
+L XP_064228588.1 Aotus nancymaae
+- XP_037595556.1 Cebus imitator
+L XP_039329541.1 Saimiri boliviensis
+L XP_035107801.2 Callithrix jacchus
+L XP_032152462.1 Sapajus apella
+R XP_063480144.1 Symphalangus syndactylus
+Q XP_032011454.1 Hylobates moloch
+R XP_009247163.2 Pongo abelii
+R XP_054350511.1 Pongo pygmaeus
+R XP_018875470.2 Gorilla gorilla gorilla
+R NP_000007.1 Homo sapiens
+R NP_001104286.1 Pan troglodytes
+R XP_003830620.1 Pan paniscus
+R XP_017707083.1 Rhinopithecus bieti
+R XP_010366900.1 Rhinopithecus roxellana
+R XP_023065093.1 Piliocolobus tephrosceles
+R XP_033081217.1 Trachypithecus francoisi
+R XP_011792328.1 Colobus angolensis palliatus
+R XP_011937597.1 Cercocebus atys
+R XP_005543049.3 Macaca fascicularis
+R XP_021798821.1 Papio anubis
+R XP_001101274.2 Macaca mulatta
+R XP_050661074.1 Macaca thibetana thibetana
+R XP_025240877.1 Theropithecus gelada
+R XP_011741173.2 Macaca nemestrina
+R XP_037857788.1 Chlorocebus sabaeus
+- XP_011833234.1 Mandrillus leucophaeus
+     Gene: ACADM
+    Human: 31 R
+Alignment: 119 R
+R    26
+-     3
+H     2
+G     2
+C     1
+Name: count, dtype: int64
+
+C XP_012516579.1 Propithecus coquereli
+H XP_012657175.1 Otolemur garnettii
+H XP_053447073.1 Nycticebus coucang
+- XP_008053273.1 Carlito syrichta
+R XP_012643243.1 Microcebus murinus
+G XP_045403682.1 Lemur catta
+G XP_069334191.1 Eulemur rufifrons
+R XP_064228588.1 Aotus nancymaae
+- XP_037595556.1 Cebus imitator
+R XP_039329541.1 Saimiri boliviensis
+R XP_035107801.2 Callithrix jacchus
+R XP_032152462.1 Sapajus apella
+R XP_063480144.1 Symphalangus syndactylus
+R XP_032011454.1 Hylobates moloch
+R XP_009247163.2 Pongo abelii
+R XP_054350511.1 Pongo pygmaeus
+R XP_018875470.2 Gorilla gorilla gorilla
+R NP_000007.1 Homo sapiens
+R NP_001104286.1 Pan troglodytes
+R XP_003830620.1 Pan paniscus
+R XP_017707083.1 Rhinopithecus bieti
+R XP_010366900.1 Rhinopithecus roxellana
+R XP_023065093.1 Piliocolobus tephrosceles
+R XP_033081217.1 Trachypithecus francoisi
+R XP_011792328.1 Colobus angolensis palliatus
+R XP_011937597.1 Cercocebus atys
+R XP_005543049.3 Macaca fascicularis
+R XP_021798821.1 Papio anubis
+R XP_001101274.2 Macaca mulatta
+R XP_050661074.1 Macaca thibetana thibetana
+R XP_025240877.1 Theropithecus gelada
+R XP_011741173.2 Macaca nemestrina
+R XP_037857788.1 Chlorocebus sabaeus
+- XP_011833234.1 Mandrillus leucophaeus
+     Gene: ACADM
+    Human: 103 F
+Alignment: 191 F
+F    32
+L     1
+-     1
+Name: count, dtype: int64
+
+F XP_012516579.1 Propithecus coquereli
+F XP_012657175.1 Otolemur garnettii
+F XP_053447073.1 Nycticebus coucang
+F XP_008053273.1 Carlito syrichta
+F XP_012643243.1 Microcebus murinus
+L XP_045403682.1 Lemur catta
+F XP_069334191.1 Eulemur rufifrons
+F XP_064228588.1 Aotus nancymaae
+F XP_037595556.1 Cebus imitator
+F XP_039329541.1 Saimiri boliviensis
+F XP_035107801.2 Callithrix jacchus
+F XP_032152462.1 Sapajus apella
+F XP_063480144.1 Symphalangus syndactylus
+F XP_032011454.1 Hylobates moloch
+F XP_009247163.2 Pongo abelii
+F XP_054350511.1 Pongo pygmaeus
+F XP_018875470.2 Gorilla gorilla gorilla
+F NP_000007.1 Homo sapiens
+F NP_001104286.1 Pan troglodytes
+F XP_003830620.1 Pan paniscus
+F XP_017707083.1 Rhinopithecus bieti
+F XP_010366900.1 Rhinopithecus roxellana
+F XP_023065093.1 Piliocolobus tephrosceles
+F XP_033081217.1 Trachypithecus francoisi
+F XP_011792328.1 Colobus angolensis palliatus
+F XP_011937597.1 Cercocebus atys
+F XP_005543049.3 Macaca fascicularis
+F XP_021798821.1 Papio anubis
+F XP_001101274.2 Macaca mulatta
+F XP_050661074.1 Macaca thibetana thibetana
+F XP_025240877.1 Theropithecus gelada
+F XP_011741173.2 Macaca nemestrina
+F XP_037857788.1 Chlorocebus sabaeus
+- XP_011833234.1 Mandrillus leucophaeus
+     Gene: ACADM
+    Human: 29 R
+Alignment: 117 R
+R    20
+P     6
+L     4
+-     3
+Q     1
+Name: count, dtype: int64
+
+P XP_012516579.1 Propithecus coquereli
+P XP_012657175.1 Otolemur garnettii
+P XP_053447073.1 Nycticebus coucang
+- XP_008053273.1 Carlito syrichta
+P XP_012643243.1 Microcebus murinus
+P XP_045403682.1 Lemur catta
+P XP_069334191.1 Eulemur rufifrons
+L XP_064228588.1 Aotus nancymaae
+- XP_037595556.1 Cebus imitator
+L XP_039329541.1 Saimiri boliviensis
+L XP_035107801.2 Callithrix jacchus
+L XP_032152462.1 Sapajus apella
+R XP_063480144.1 Symphalangus syndactylus
+Q XP_032011454.1 Hylobates moloch
+R XP_009247163.2 Pongo abelii
+R XP_054350511.1 Pongo pygmaeus
+R XP_018875470.2 Gorilla gorilla gorilla
+R NP_000007.1 Homo sapiens
+R NP_001104286.1 Pan troglodytes
+R XP_003830620.1 Pan paniscus
+R XP_017707083.1 Rhinopithecus bieti
+R XP_010366900.1 Rhinopithecus roxellana
+R XP_023065093.1 Piliocolobus tephrosceles
+R XP_033081217.1 Trachypithecus francoisi
+R XP_011792328.1 Colobus angolensis palliatus
+R XP_011937597.1 Cercocebus atys
+R XP_005543049.3 Macaca fascicularis
+R XP_021798821.1 Papio anubis
+R XP_001101274.2 Macaca mulatta
+R XP_050661074.1 Macaca thibetana thibetana
+R XP_025240877.1 Theropithecus gelada
+R XP_011741173.2 Macaca nemestrina
+R XP_037857788.1 Chlorocebus sabaeus
+- XP_011833234.1 Mandrillus leucophaeus
+     Gene: ACADVL
+    Human: 174 V
+Alignment: 221 V
+V    34
+M     1
+Name: count, dtype: int64
+
+V XP_053423543.1 Nycticebus coucang
+V XP_003791220.1 Otolemur garnettii
+M XP_012511118.1 Propithecus coquereli
+V XP_012632557.1 Microcebus murinus
+V XP_045426011.1 Lemur catta
+V XP_069338073.1 Eulemur rufifrons
+V XP_008059122.1 Carlito syrichta
+V XP_035155682.2 Callithrix jacchus
+V XP_012312866.1 Aotus nancymaae
+V XP_003929185.1 Saimiri boliviensis
+V XP_017387177.1 Cebus imitator
+V XP_032136424.1 Sapajus apella
+V XP_011909030.1 Cercocebus atys
+V XP_008008286.2 Chlorocebus sabaeus
+V XP_011850018.1 Mandrillus leucophaeus
+V XP_045231401.2 Macaca fascicularis
+V XP_025216966.1 Theropithecus gelada
+V XP_011725107.2 Macaca nemestrina
+V XP_003912269.1 Papio anubis
+V XP_050621267.1 Macaca thibetana thibetana
+V XP_014973924.2 Macaca mulatta
+V XP_023040339.1 Piliocolobus tephrosceles
+V XP_011813867.1 Colobus angolensis palliatus
+V XP_033040701.1 Trachypithecus francoisi
+V XP_017705894.1 Rhinopithecus bieti
+V XP_010375640.1 Rhinopithecus roxellana
+V XP_055114570.1 Symphalangus syndactylus
+V XP_003282188.3 Nomascus leucogenys
+V XP_031995619.2 Hylobates moloch
+V XP_054314073.1 Pongo pygmaeus
+V XP_024090154.1 Pongo abelii
+V XP_016786900.1 Pan troglodytes
+V XP_003810154.1 Pan paniscus
+V NP_000009.1 Homo sapiens
+V XP_004058497.4 Gorilla gorilla gorilla
+     Gene: ACADVL
+    Human: 219 P
+Alignment: 266 P
+P    30
+S     5
+Name: count, dtype: int64
+
+P XP_053423543.1 Nycticebus coucang
+P XP_003791220.1 Otolemur garnettii
+P XP_012511118.1 Propithecus coquereli
+P XP_012632557.1 Microcebus murinus
+P XP_045426011.1 Lemur catta
+P XP_069338073.1 Eulemur rufifrons
+P XP_008059122.1 Carlito syrichta
+P XP_035155682.2 Callithrix jacchus
+P XP_012312866.1 Aotus nancymaae
+P XP_003929185.1 Saimiri boliviensis
+P XP_017387177.1 Cebus imitator
+P XP_032136424.1 Sapajus apella
+P XP_011909030.1 Cercocebus atys
+P XP_008008286.2 Chlorocebus sabaeus
+P XP_011850018.1 Mandrillus leucophaeus
+P XP_045231401.2 Macaca fascicularis
+P XP_025216966.1 Theropithecus gelada
+P XP_011725107.2 Macaca nemestrina
+P XP_003912269.1 Papio anubis
+P XP_050621267.1 Macaca thibetana thibetana
+P XP_014973924.2 Macaca mulatta
+P XP_023040339.1 Piliocolobus tephrosceles
+P XP_011813867.1 Colobus angolensis palliatus
+P XP_033040701.1 Trachypithecus francoisi
+P XP_017705894.1 Rhinopithecus bieti
+P XP_010375640.1 Rhinopithecus roxellana
+S XP_055114570.1 Symphalangus syndactylus
+S XP_003282188.3 Nomascus leucogenys
+S XP_031995619.2 Hylobates moloch
+P XP_054314073.1 Pongo pygmaeus
+P XP_024090154.1 Pongo abelii
+S XP_016786900.1 Pan troglodytes
+S XP_003810154.1 Pan paniscus
+P NP_000009.1 Homo sapiens
+P XP_004058497.4 Gorilla gorilla gorilla
+     Gene: ACADVL
+    Human: 286 R
+Alignment: 333 R
+R    29
+K     6
+Name: count, dtype: int64
+
+K XP_053423543.1 Nycticebus coucang
+K XP_003791220.1 Otolemur garnettii
+K XP_012511118.1 Propithecus coquereli
+K XP_012632557.1 Microcebus murinus
+K XP_045426011.1 Lemur catta
+K XP_069338073.1 Eulemur rufifrons
+R XP_008059122.1 Carlito syrichta
+R XP_035155682.2 Callithrix jacchus
+R XP_012312866.1 Aotus nancymaae
+R XP_003929185.1 Saimiri boliviensis
+R XP_017387177.1 Cebus imitator
+R XP_032136424.1 Sapajus apella
+R XP_011909030.1 Cercocebus atys
+R XP_008008286.2 Chlorocebus sabaeus
+R XP_011850018.1 Mandrillus leucophaeus
+R XP_045231401.2 Macaca fascicularis
+R XP_025216966.1 Theropithecus gelada
+R XP_011725107.2 Macaca nemestrina
+R XP_003912269.1 Papio anubis
+R XP_050621267.1 Macaca thibetana thibetana
+R XP_014973924.2 Macaca mulatta
+R XP_023040339.1 Piliocolobus tephrosceles
+R XP_011813867.1 Colobus angolensis palliatus
+R XP_033040701.1 Trachypithecus francoisi
+R XP_017705894.1 Rhinopithecus bieti
+R XP_010375640.1 Rhinopithecus roxellana
+R XP_055114570.1 Symphalangus syndactylus
+R XP_003282188.3 Nomascus leucogenys
+R XP_031995619.2 Hylobates moloch
+R XP_054314073.1 Pongo pygmaeus
+R XP_024090154.1 Pongo abelii
+R XP_016786900.1 Pan troglodytes
+R XP_003810154.1 Pan paniscus
+R NP_000009.1 Homo sapiens
+R XP_004058497.4 Gorilla gorilla gorilla
+     Gene: ACADVL
+    Human: 647 V
+Alignment: 694 V
+V    30
+M     5
+Name: count, dtype: int64
+
+M XP_053423543.1 Nycticebus coucang
+M XP_003791220.1 Otolemur garnettii
+V XP_012511118.1 Propithecus coquereli
+M XP_012632557.1 Microcebus murinus
+M XP_045426011.1 Lemur catta
+M XP_069338073.1 Eulemur rufifrons
+V XP_008059122.1 Carlito syrichta
+V XP_035155682.2 Callithrix jacchus
+V XP_012312866.1 Aotus nancymaae
+V XP_003929185.1 Saimiri boliviensis
+V XP_017387177.1 Cebus imitator
+V XP_032136424.1 Sapajus apella
+V XP_011909030.1 Cercocebus atys
+V XP_008008286.2 Chlorocebus sabaeus
+V XP_011850018.1 Mandrillus leucophaeus
+V XP_045231401.2 Macaca fascicularis
+V XP_025216966.1 Theropithecus gelada
+V XP_011725107.2 Macaca nemestrina
+V XP_003912269.1 Papio anubis
+V XP_050621267.1 Macaca thibetana thibetana
+V XP_014973924.2 Macaca mulatta
+V XP_023040339.1 Piliocolobus tephrosceles
+V XP_011813867.1 Colobus angolensis palliatus
+V XP_033040701.1 Trachypithecus francoisi
+V XP_017705894.1 Rhinopithecus bieti
+V XP_010375640.1 Rhinopithecus roxellana
+V XP_055114570.1 Symphalangus syndactylus
+V XP_003282188.3 Nomascus leucogenys
+V XP_031995619.2 Hylobates moloch
+V XP_054314073.1 Pongo pygmaeus
+V XP_024090154.1 Pongo abelii
+V XP_016786900.1 Pan troglodytes
+V XP_003810154.1 Pan paniscus
+V NP_000009.1 Homo sapiens
+V XP_004058497.4 Gorilla gorilla gorilla
+     Gene: ACAT1
+    Human: 1 M
+Alignment: 115 M
+M    26
+-     2
+D     1
+L     1
+Name: count, dtype: int64
+
+M XP_037601130.1 Cebus imitator
+M XP_012629178.2 Microcebus murinus
+D XP_017710761.1 Rhinopithecus bieti
+M XP_032023195.1 Hylobates moloch
+M XP_055128972.1 Symphalangus syndactylus
+M XP_003253143.2 Nomascus leucogenys
+M XP_008018937.2 Chlorocebus sabaeus
+L XP_011840136.1 Mandrillus leucophaeus
+- XP_050614664.1 Macaca thibetana thibetana
+M XP_003910695.1 Papio anubis
+M XP_011921893.1 Cercocebus atys
+M XP_025214176.1 Theropithecus gelada
+M XP_065385026.1 Macaca fascicularis
+M NP_001252622.1 Macaca mulatta
+M XP_033063540.1 Trachypithecus francoisi
+M XP_011782059.1 Colobus angolensis palliatus
+M XP_054297509.1 Pongo pygmaeus
+M XP_030871760.2 Gorilla gorilla gorilla
+M NP_000010.1 Homo sapiens
+M XP_003828394.3 Pan paniscus
+M XP_035120332.1 Callithrix jacchus
+M XP_012330013.2 Aotus nancymaae
+M XP_032141572.1 Sapajus apella
+M XP_003923792.1 Saimiri boliviensis
+M XP_053450024.1 Nycticebus coucang
+M XP_023371827.1 Otolemur garnettii
+- XP_008053486.1 Carlito syrichta
+M XP_012514692.1 Propithecus coquereli
+M XP_069327022.1 Eulemur rufifrons
+M XP_045412622.1 Lemur catta
+     Gene: ACAT1
+    Human: 1 M
+Alignment: 115 M
+M    26
+-     2
+D     1
+L     1
+Name: count, dtype: int64
+
+M XP_037601130.1 Cebus imitator
+M XP_012629178.2 Microcebus murinus
+D XP_017710761.1 Rhinopithecus bieti
+M XP_032023195.1 Hylobates moloch
+M XP_055128972.1 Symphalangus syndactylus
+M XP_003253143.2 Nomascus leucogenys
+M XP_008018937.2 Chlorocebus sabaeus
+L XP_011840136.1 Mandrillus leucophaeus
+- XP_050614664.1 Macaca thibetana thibetana
+M XP_003910695.1 Papio anubis
+M XP_011921893.1 Cercocebus atys
+M XP_025214176.1 Theropithecus gelada
+M XP_065385026.1 Macaca fascicularis
+M NP_001252622.1 Macaca mulatta
+M XP_033063540.1 Trachypithecus francoisi
+M XP_011782059.1 Colobus angolensis palliatus
+M XP_054297509.1 Pongo pygmaeus
+M XP_030871760.2 Gorilla gorilla gorilla
+M NP_000010.1 Homo sapiens
+M XP_003828394.3 Pan paniscus
+M XP_035120332.1 Callithrix jacchus
+M XP_012330013.2 Aotus nancymaae
+M XP_032141572.1 Sapajus apella
+M XP_003923792.1 Saimiri boliviensis
+M XP_053450024.1 Nycticebus coucang
+M XP_023371827.1 Otolemur garnettii
+- XP_008053486.1 Carlito syrichta
+M XP_012514692.1 Propithecus coquereli
+M XP_069327022.1 Eulemur rufifrons
+M XP_045412622.1 Lemur catta
+     Gene: ADA
+    Human: 15 H
+Alignment: 54 H
+H    32
+P     1
+Name: count, dtype: int64
+
+H XP_008065101.1 Carlito syrichta
+H XP_053429777.1 Nycticebus coucang
+H XP_012659258.1 Otolemur garnettii
+H XP_075867256.1 Microcebus murinus
+H XP_012513400.1 Propithecus coquereli
+H XP_069351986.1 Eulemur rufifrons
+H XP_045385118.1 Lemur catta
+P XP_017733490.1 Rhinopithecus bieti
+H XP_032119629.1 Sapajus apella
+H XP_017396666.1 Cebus imitator
+H XP_010345201.1 Saimiri boliviensis
+H XP_002747684.1 Callithrix jacchus
+H XP_012322665.1 Aotus nancymaae
+H XP_011853020.1 Mandrillus leucophaeus
+H XP_050662503.1 Macaca thibetana thibetana
+H NP_000013.2 Homo sapiens
+H XP_033042389.1 Trachypithecus francoisi
+H XP_011784375.1 Colobus angolensis palliatus
+H XP_023083619.1 Piliocolobus tephrosceles
+H XP_025255097.1 Theropithecus gelada
+H XP_008014692.1 Chlorocebus sabaeus
+H XP_003904754.1 Papio anubis
+H XP_011921136.1 Cercocebus atys
+H XP_028684274.1 Macaca mulatta
+H XP_011765112.1 Macaca nemestrina
+H XP_004062252.3 Gorilla gorilla gorilla
+H XP_001144517.1 Pan troglodytes
+H XP_003825981.1 Pan paniscus
+H XP_031999201.1 Hylobates moloch
+H XP_003253658.1 Nomascus leucogenys
+H XP_055122373.1 Symphalangus syndactylus
+H XP_054322460.1 Pongo pygmaeus
+H XP_024094500.1 Pongo abelii
+     Gene: ADA
+    Human: 17 H
+Alignment: 56 H
+H    32
+P     1
+Name: count, dtype: int64
+
+H XP_008065101.1 Carlito syrichta
+H XP_053429777.1 Nycticebus coucang
+H XP_012659258.1 Otolemur garnettii
+H XP_075867256.1 Microcebus murinus
+H XP_012513400.1 Propithecus coquereli
+H XP_069351986.1 Eulemur rufifrons
+H XP_045385118.1 Lemur catta
+P XP_017733490.1 Rhinopithecus bieti
+H XP_032119629.1 Sapajus apella
+H XP_017396666.1 Cebus imitator
+H XP_010345201.1 Saimiri boliviensis
+H XP_002747684.1 Callithrix jacchus
+H XP_012322665.1 Aotus nancymaae
+H XP_011853020.1 Mandrillus leucophaeus
+H XP_050662503.1 Macaca thibetana thibetana
+H NP_000013.2 Homo sapiens
+H XP_033042389.1 Trachypithecus francoisi
+H XP_011784375.1 Colobus angolensis palliatus
+H XP_023083619.1 Piliocolobus tephrosceles
+H XP_025255097.1 Theropithecus gelada
+H XP_008014692.1 Chlorocebus sabaeus
+H XP_003904754.1 Papio anubis
+H XP_011921136.1 Cercocebus atys
+H XP_028684274.1 Macaca mulatta
+H XP_011765112.1 Macaca nemestrina
+H XP_004062252.3 Gorilla gorilla gorilla
+H XP_001144517.1 Pan troglodytes
+H XP_003825981.1 Pan paniscus
+H XP_031999201.1 Hylobates moloch
+H XP_003253658.1 Nomascus leucogenys
+H XP_055122373.1 Symphalangus syndactylus
+H XP_054322460.1 Pongo pygmaeus
+H XP_024094500.1 Pongo abelii
+     Gene: AGXT
+    Human: 156 G
+Alignment: 260 G
+G    34
+A     1
+Name: count, dtype: int64
+
+G XP_032609172.2 Hylobates moloch
+G XP_030658870.1 Nomascus leucogenys
+G XP_055143864.1 Symphalangus syndactylus
+G XP_054334986.2 Pongo pygmaeus
+G NP_001125018.1 Pongo abelii
+G NP_000021.1 Homo sapiens
+G XP_018878332.3 Gorilla gorilla gorilla
+G XP_024210943.1 Pan troglodytes
+G XP_003813122.2 Pan paniscus
+G XP_007965133.1 Chlorocebus sabaeus
+G XP_025260587.1 Theropithecus gelada
+G XP_003908226.1 Papio anubis
+G XP_011896991.1 Cercocebus atys
+G XP_011851782.1 Mandrillus leucophaeus
+G XP_005574906.2 Macaca fascicularis
+G XP_011726084.1 Macaca nemestrina
+G XP_050607986.1 Macaca thibetana thibetana
+G XP_001090301.2 Macaca mulatta
+G XP_017716141.1 Rhinopithecus bieti
+G XP_011784959.1 Colobus angolensis palliatus
+G XP_010375322.1 Rhinopithecus roxellana
+G XP_033085427.1 Trachypithecus francoisi
+G XP_023050886.1 Piliocolobus tephrosceles
+G XP_012320482.2 Aotus nancymaae
+G XP_074254842.1 Saimiri boliviensis
+G XP_002750020.4 Callithrix jacchus
+G XP_032125387.1 Sapajus apella
+G XP_017366221.1 Cebus imitator
+G XP_008052438.1 Carlito syrichta
+G XP_053454048.1 Nycticebus coucang
+A XP_003798296.1 Otolemur garnettii
+G XP_012611190.1 Microcebus murinus
+G XP_012517881.1 Propithecus coquereli
+G XP_069352953.1 Eulemur rufifrons
+G XP_045415864.1 Lemur catta
+     Gene: AGXT
+    Human: 260 Y
+Alignment: 364 Y
+Y    34
+C     1
+Name: count, dtype: int64
+
+Y XP_032609172.2 Hylobates moloch
+Y XP_030658870.1 Nomascus leucogenys
+Y XP_055143864.1 Symphalangus syndactylus
+Y XP_054334986.2 Pongo pygmaeus
+Y NP_001125018.1 Pongo abelii
+Y NP_000021.1 Homo sapiens
+Y XP_018878332.3 Gorilla gorilla gorilla
+Y XP_024210943.1 Pan troglodytes
+Y XP_003813122.2 Pan paniscus
+Y XP_007965133.1 Chlorocebus sabaeus
+Y XP_025260587.1 Theropithecus gelada
+Y XP_003908226.1 Papio anubis
+Y XP_011896991.1 Cercocebus atys
+Y XP_011851782.1 Mandrillus leucophaeus
+Y XP_005574906.2 Macaca fascicularis
+Y XP_011726084.1 Macaca nemestrina
+Y XP_050607986.1 Macaca thibetana thibetana
+Y XP_001090301.2 Macaca mulatta
+C XP_017716141.1 Rhinopithecus bieti
+Y XP_011784959.1 Colobus angolensis palliatus
+Y XP_010375322.1 Rhinopithecus roxellana
+Y XP_033085427.1 Trachypithecus francoisi
+Y XP_023050886.1 Piliocolobus tephrosceles
+Y XP_012320482.2 Aotus nancymaae
+Y XP_074254842.1 Saimiri boliviensis
+Y XP_002750020.4 Callithrix jacchus
+Y XP_032125387.1 Sapajus apella
+Y XP_017366221.1 Cebus imitator
+Y XP_008052438.1 Carlito syrichta
+Y XP_053454048.1 Nycticebus coucang
+Y XP_003798296.1 Otolemur garnettii
+Y XP_012611190.1 Microcebus murinus
+Y XP_012517881.1 Propithecus coquereli
+Y XP_069352953.1 Eulemur rufifrons
+Y XP_045415864.1 Lemur catta
+     Gene: AGXT
+    Human: 82 G
+Alignment: 105 G
+G    33
+A     2
+Name: count, dtype: int64
+
+G XP_032609172.2 Hylobates moloch
+G XP_030658870.1 Nomascus leucogenys
+G XP_055143864.1 Symphalangus syndactylus
+A XP_054334986.2 Pongo pygmaeus
+A NP_001125018.1 Pongo abelii
+G NP_000021.1 Homo sapiens
+G XP_018878332.3 Gorilla gorilla gorilla
+G XP_024210943.1 Pan troglodytes
+G XP_003813122.2 Pan paniscus
+G XP_007965133.1 Chlorocebus sabaeus
+G XP_025260587.1 Theropithecus gelada
+G XP_003908226.1 Papio anubis
+G XP_011896991.1 Cercocebus atys
+G XP_011851782.1 Mandrillus leucophaeus
+G XP_005574906.2 Macaca fascicularis
+G XP_011726084.1 Macaca nemestrina
+G XP_050607986.1 Macaca thibetana thibetana
+G XP_001090301.2 Macaca mulatta
+G XP_017716141.1 Rhinopithecus bieti
+G XP_011784959.1 Colobus angolensis palliatus
+G XP_010375322.1 Rhinopithecus roxellana
+G XP_033085427.1 Trachypithecus francoisi
+G XP_023050886.1 Piliocolobus tephrosceles
+G XP_012320482.2 Aotus nancymaae
+G XP_074254842.1 Saimiri boliviensis
+G XP_002750020.4 Callithrix jacchus
+G XP_032125387.1 Sapajus apella
+G XP_017366221.1 Cebus imitator
+G XP_008052438.1 Carlito syrichta
+G XP_053454048.1 Nycticebus coucang
+G XP_003798296.1 Otolemur garnettii
+G XP_012611190.1 Microcebus murinus
+G XP_012517881.1 Propithecus coquereli
+G XP_069352953.1 Eulemur rufifrons
+G XP_045415864.1 Lemur catta
+     Gene: AHI1
+    Human: 383 D
+Alignment: 397 D
+D    33
+G     1
+-     1
+Name: count, dtype: int64
+
+G XP_012520629.1 Propithecus coquereli
+D XP_021571896.1 Carlito syrichta
+D XP_030665581.1 Nomascus leucogenys
+D XP_063487309.1 Symphalangus syndactylus
+D XP_032015475.1 Hylobates moloch
+D XP_054349527.2 Pongo pygmaeus
+D XP_024104550.3 Pongo abelii
+D XP_004044771.4 Gorilla gorilla gorilla
+D NP_001128302.1 Homo sapiens
+D XP_001170641.1 Pan troglodytes
+D XP_034818793.3 Pan paniscus
+- XP_011846863.1 Mandrillus leucophaeus
+D XP_086584251.1 Theropithecus gelada
+D XP_008005130.1 Chlorocebus sabaeus
+D XP_003898189.2 Papio anubis
+D XP_011946984.1 Cercocebus atys
+D XP_070952592.1 Macaca nemestrina
+D XP_050643877.1 Macaca thibetana thibetana
+D XP_014992872.3 Macaca mulatta
+D XP_065399500.1 Macaca fascicularis
+D XP_033091269.1 Trachypithecus francoisi
+D XP_017730970.1 Rhinopithecus bieti
+D XP_030785212.1 Rhinopithecus roxellana
+D XP_023086420.1 Piliocolobus tephrosceles
+D XP_011817499.1 Colobus angolensis palliatus
+D XP_035152660.3 Callithrix jacchus
+D XP_074253519.1 Saimiri boliviensis
+D XP_064216723.1 Aotus nancymaae
+D XP_032130597.1 Sapajus apella
+D XP_017373628.1 Cebus imitator
+D XP_053447616.1 Nycticebus coucang
+D XP_023369307.1 Otolemur garnettii
+D XP_012594922.1 Microcebus murinus
+D XP_069343843.1 Eulemur rufifrons
+D XP_045400372.1 Lemur catta
+     Gene: AIRE
+    Human: 21 A
+Alignment: 184 A
+A    32
+-     1
+V     1
+M     1
+Name: count, dtype: int64
+
+A XP_021567211.1 Carlito syrichta
+A XP_030662217.1 Nomascus leucogenys
+A XP_055135853.2 Symphalangus syndactylus
+A XP_058283893.1 Hylobates moloch
+A XP_054324938.2 Pongo pygmaeus
+A XP_024095063.3 Pongo abelii
+A XP_531580.2 Pan troglodytes
+A XP_008975805.4 Pan paniscus
+A NP_000374.1 Homo sapiens
+A XP_004062941.4 Gorilla gorilla gorilla
+A XP_023048329.1 Piliocolobus tephrosceles
+A XP_033085279.1 Trachypithecus francoisi
+- XP_017744148.1 Rhinopithecus bieti
+A XP_010358410.2 Rhinopithecus roxellana
+A XP_007968013.3 Chlorocebus sabaeus
+A XP_050640401.1 Macaca thibetana thibetana
+A XP_011724197.1 Macaca nemestrina
+A XP_077851677.1 Macaca mulatta
+A XP_005548614.3 Macaca fascicularis
+A XP_011892819.1 Cercocebus atys
+A XP_031521648.1 Papio anubis
+A XP_025236535.1 Theropithecus gelada
+V XP_011809621.1 Colobus angolensis palliatus
+M XP_011857992.1 Mandrillus leucophaeus
+A XP_039336352.2 Saimiri boliviensis
+A XP_078214853.1 Callithrix jacchus
+A XP_012300124.2 Aotus nancymaae
+A XP_032132455.1 Sapajus apella
+A XP_037597917.1 Cebus imitator
+A XP_053421658.1 Nycticebus coucang
+A XP_003798178.1 Otolemur garnettii
+A XP_075856571.1 Microcebus murinus
+A XP_012516977.1 Propithecus coquereli
+A XP_045414326.1 Lemur catta
+A XP_069332773.1 Eulemur rufifrons
+     Gene: AIRE
+    Human: 1 M
+Alignment: 164 M
+M    21
+-    12
+A     1
+T     1
+Name: count, dtype: int64
+
+A XP_021567211.1 Carlito syrichta
+M XP_030662217.1 Nomascus leucogenys
+M XP_055135853.2 Symphalangus syndactylus
+M XP_058283893.1 Hylobates moloch
+M XP_054324938.2 Pongo pygmaeus
+M XP_024095063.3 Pongo abelii
+M XP_531580.2 Pan troglodytes
+M XP_008975805.4 Pan paniscus
+M NP_000374.1 Homo sapiens
+M XP_004062941.4 Gorilla gorilla gorilla
+M XP_023048329.1 Piliocolobus tephrosceles
+M XP_033085279.1 Trachypithecus francoisi
+M XP_017744148.1 Rhinopithecus bieti
+M XP_010358410.2 Rhinopithecus roxellana
+M XP_007968013.3 Chlorocebus sabaeus
+M XP_050640401.1 Macaca thibetana thibetana
+M XP_011724197.1 Macaca nemestrina
+M XP_077851677.1 Macaca mulatta
+M XP_005548614.3 Macaca fascicularis
+M XP_011892819.1 Cercocebus atys
+M XP_031521648.1 Papio anubis
+M XP_025236535.1 Theropithecus gelada
+- XP_011809621.1 Colobus angolensis palliatus
+- XP_011857992.1 Mandrillus leucophaeus
+- XP_039336352.2 Saimiri boliviensis
+- XP_078214853.1 Callithrix jacchus
+- XP_012300124.2 Aotus nancymaae
+- XP_032132455.1 Sapajus apella
+- XP_037597917.1 Cebus imitator
+- XP_053421658.1 Nycticebus coucang
+- XP_003798178.1 Otolemur garnettii
+- XP_075856571.1 Microcebus murinus
+- XP_012516977.1 Propithecus coquereli
+- XP_045414326.1 Lemur catta
+T XP_069332773.1 Eulemur rufifrons
+     Gene: ALMS1
+    Human: 2378 L
+Alignment: 3867 L
+L    32
+F     2
+H     1
+Name: count, dtype: int64
+
+L XP_008054818.1 Carlito syrichta
+F XP_053444271.1 Nycticebus coucang
+F XP_023371049.1 Otolemur garnettii
+L XP_072879176.1 Chlorocebus sabaeus
+L XP_031511361.1 Papio anubis
+L XP_011895216.1 Cercocebus atys
+L XP_011836081.1 Mandrillus leucophaeus
+L XP_086587650.1 Theropithecus gelada
+L XP_070933019.1 Macaca nemestrina
+L XP_050610315.1 Macaca thibetana thibetana
+L XP_077815291.1 Macaca mulatta
+L XP_015289026.3 Macaca fascicularis
+L XP_011800897.1 Colobus angolensis palliatus
+L XP_023079734.2 Piliocolobus tephrosceles
+L XP_033030991.1 Trachypithecus francoisi
+L XP_017732030.1 Rhinopithecus bieti
+L XP_010360272.2 Rhinopithecus roxellana
+L XP_058284797.1 Hylobates moloch
+L XP_055098923.1 Symphalangus syndactylus
+L XP_003268845.2 Nomascus leucogenys
+L XP_054329507.1 Pongo pygmaeus
+L XP_002811934.3 Pongo abelii
+L XP_055234060.2 Gorilla gorilla gorilla
+L NP_001365383.1 Homo sapiens
+L XP_016804275.3 Pan troglodytes
+L XP_034809279.2 Pan paniscus
+H XP_035128194.3 Callithrix jacchus
+L XP_064220312.1 Aotus nancymaae
+L XP_074254395.1 Saimiri boliviensis
+L XP_032147606.1 Sapajus apella
+L XP_037592039.1 Cebus imitator
+L XP_075857006.1 Microcebus murinus
+L XP_012501869.1 Propithecus coquereli
+L XP_069350271.1 Eulemur rufifrons
+L XP_045405824.1 Lemur catta
+     Gene: ALMS1
+    Human: 1155 H
+Alignment: 2307 H
+H    28
+Y     6
+-     1
+Name: count, dtype: int64
+
+Y XP_008054818.1 Carlito syrichta
+Y XP_053444271.1 Nycticebus coucang
+Y XP_023371049.1 Otolemur garnettii
+H XP_072879176.1 Chlorocebus sabaeus
+H XP_031511361.1 Papio anubis
+H XP_011895216.1 Cercocebus atys
+H XP_011836081.1 Mandrillus leucophaeus
+H XP_086587650.1 Theropithecus gelada
+H XP_070933019.1 Macaca nemestrina
+H XP_050610315.1 Macaca thibetana thibetana
+H XP_077815291.1 Macaca mulatta
+H XP_015289026.3 Macaca fascicularis
+H XP_011800897.1 Colobus angolensis palliatus
+H XP_023079734.2 Piliocolobus tephrosceles
+H XP_033030991.1 Trachypithecus francoisi
+H XP_017732030.1 Rhinopithecus bieti
+H XP_010360272.2 Rhinopithecus roxellana
+H XP_058284797.1 Hylobates moloch
+H XP_055098923.1 Symphalangus syndactylus
+H XP_003268845.2 Nomascus leucogenys
+H XP_054329507.1 Pongo pygmaeus
+H XP_002811934.3 Pongo abelii
+H XP_055234060.2 Gorilla gorilla gorilla
+H NP_001365383.1 Homo sapiens
+H XP_016804275.3 Pan troglodytes
+H XP_034809279.2 Pan paniscus
+H XP_035128194.3 Callithrix jacchus
+H XP_064220312.1 Aotus nancymaae
+H XP_074254395.1 Saimiri boliviensis
+H XP_032147606.1 Sapajus apella
+H XP_037592039.1 Cebus imitator
+Y XP_075857006.1 Microcebus murinus
+- XP_012501869.1 Propithecus coquereli
+Y XP_069350271.1 Eulemur rufifrons
+Y XP_045405824.1 Lemur catta
+     Gene: ALMS1
+    Human: 2465 V
+Alignment: 3954 V
+V    28
+M     6
+L     1
+Name: count, dtype: int64
+
+L XP_008054818.1 Carlito syrichta
+M XP_053444271.1 Nycticebus coucang
+M XP_023371049.1 Otolemur garnettii
+V XP_072879176.1 Chlorocebus sabaeus
+V XP_031511361.1 Papio anubis
+V XP_011895216.1 Cercocebus atys
+V XP_011836081.1 Mandrillus leucophaeus
+V XP_086587650.1 Theropithecus gelada
+V XP_070933019.1 Macaca nemestrina
+V XP_050610315.1 Macaca thibetana thibetana
+V XP_077815291.1 Macaca mulatta
+V XP_015289026.3 Macaca fascicularis
+V XP_011800897.1 Colobus angolensis palliatus
+V XP_023079734.2 Piliocolobus tephrosceles
+V XP_033030991.1 Trachypithecus francoisi
+V XP_017732030.1 Rhinopithecus bieti
+V XP_010360272.2 Rhinopithecus roxellana
+V XP_058284797.1 Hylobates moloch
+V XP_055098923.1 Symphalangus syndactylus
+V XP_003268845.2 Nomascus leucogenys
+V XP_054329507.1 Pongo pygmaeus
+V XP_002811934.3 Pongo abelii
+V XP_055234060.2 Gorilla gorilla gorilla
+V NP_001365383.1 Homo sapiens
+V XP_016804275.3 Pan troglodytes
+V XP_034809279.2 Pan paniscus
+V XP_035128194.3 Callithrix jacchus
+V XP_064220312.1 Aotus nancymaae
+V XP_074254395.1 Saimiri boliviensis
+V XP_032147606.1 Sapajus apella
+V XP_037592039.1 Cebus imitator
+M XP_075857006.1 Microcebus murinus
+M XP_012501869.1 Propithecus coquereli
+M XP_069350271.1 Eulemur rufifrons
+M XP_045405824.1 Lemur catta
+     Gene: ALPL
+    Human: 51 A
+Alignment: 94 A
+A    26
+-     4
+V     1
+Name: count, dtype: int64
+
+A XP_053432878.1 Nycticebus coucang
+A XP_012657049.2 Otolemur garnettii
+V XP_011845537.1 Mandrillus leucophaeus
+A XP_012624158.1 Microcebus murinus
+A XP_012506383.1 Propithecus coquereli
+A XP_045404442.1 Lemur catta
+A XP_069335566.1 Eulemur rufifrons
+A XP_008060913.1 Carlito syrichta
+- XP_037586579.1 Cebus imitator
+A NP_001171963.1 Callithrix jacchus
+A XP_012295593.1 Aotus nancymaae
+A XP_032156576.1 Sapajus apella
+A XP_003934953.1 Saimiri boliviensis
+- XP_037856105.1 Chlorocebus sabaeus
+A XP_031521022.1 Papio anubis
+- XP_011789364.1 Colobus angolensis palliatus
+A XP_017742028.1 Rhinopithecus bieti
+A XP_033083837.1 Trachypithecus francoisi
+A XP_025210024.1 Theropithecus gelada
+A NP_001253798.1 Macaca mulatta
+A XP_011935673.1 Cercocebus atys
+A XP_005544582.2 Macaca fascicularis
+- XP_063457713.1 Pan paniscus
+A XP_032615099.1 Hylobates moloch
+A XP_055118431.1 Symphalangus syndactylus
+A XP_003271616.1 Nomascus leucogenys
+A NP_000469.3 Homo sapiens
+A XP_054402715.1 Pongo abelii
+A XP_054303319.1 Pongo pygmaeus
+A XP_016811306.1 Pan troglodytes
+A XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ALPL
+    Human: 82 G
+Alignment: 128 G
+G    29
+R     1
+-     1
+Name: count, dtype: int64
+
+G XP_053432878.1 Nycticebus coucang
+G XP_012657049.2 Otolemur garnettii
+R XP_011845537.1 Mandrillus leucophaeus
+G XP_012624158.1 Microcebus murinus
+G XP_012506383.1 Propithecus coquereli
+G XP_045404442.1 Lemur catta
+G XP_069335566.1 Eulemur rufifrons
+G XP_008060913.1 Carlito syrichta
+- XP_037586579.1 Cebus imitator
+G NP_001171963.1 Callithrix jacchus
+G XP_012295593.1 Aotus nancymaae
+G XP_032156576.1 Sapajus apella
+G XP_003934953.1 Saimiri boliviensis
+G XP_037856105.1 Chlorocebus sabaeus
+G XP_031521022.1 Papio anubis
+G XP_011789364.1 Colobus angolensis palliatus
+G XP_017742028.1 Rhinopithecus bieti
+G XP_033083837.1 Trachypithecus francoisi
+G XP_025210024.1 Theropithecus gelada
+G NP_001253798.1 Macaca mulatta
+G XP_011935673.1 Cercocebus atys
+G XP_005544582.2 Macaca fascicularis
+G XP_063457713.1 Pan paniscus
+G XP_032615099.1 Hylobates moloch
+G XP_055118431.1 Symphalangus syndactylus
+G XP_003271616.1 Nomascus leucogenys
+G NP_000469.3 Homo sapiens
+G XP_054402715.1 Pongo abelii
+G XP_054303319.1 Pongo pygmaeus
+G XP_016811306.1 Pan troglodytes
+G XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ALPL
+    Human: 82 G
+Alignment: 128 G
+G    29
+R     1
+-     1
+Name: count, dtype: int64
+
+G XP_053432878.1 Nycticebus coucang
+G XP_012657049.2 Otolemur garnettii
+R XP_011845537.1 Mandrillus leucophaeus
+G XP_012624158.1 Microcebus murinus
+G XP_012506383.1 Propithecus coquereli
+G XP_045404442.1 Lemur catta
+G XP_069335566.1 Eulemur rufifrons
+G XP_008060913.1 Carlito syrichta
+- XP_037586579.1 Cebus imitator
+G NP_001171963.1 Callithrix jacchus
+G XP_012295593.1 Aotus nancymaae
+G XP_032156576.1 Sapajus apella
+G XP_003934953.1 Saimiri boliviensis
+G XP_037856105.1 Chlorocebus sabaeus
+G XP_031521022.1 Papio anubis
+G XP_011789364.1 Colobus angolensis palliatus
+G XP_017742028.1 Rhinopithecus bieti
+G XP_033083837.1 Trachypithecus francoisi
+G XP_025210024.1 Theropithecus gelada
+G NP_001253798.1 Macaca mulatta
+G XP_011935673.1 Cercocebus atys
+G XP_005544582.2 Macaca fascicularis
+G XP_063457713.1 Pan paniscus
+G XP_032615099.1 Hylobates moloch
+G XP_055118431.1 Symphalangus syndactylus
+G XP_003271616.1 Nomascus leucogenys
+G NP_000469.3 Homo sapiens
+G XP_054402715.1 Pongo abelii
+G XP_054303319.1 Pongo pygmaeus
+G XP_016811306.1 Pan troglodytes
+G XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ALPL
+    Human: 85 T
+Alignment: 138 T
+T    29
+P     1
+-     1
+Name: count, dtype: int64
+
+T XP_053432878.1 Nycticebus coucang
+T XP_012657049.2 Otolemur garnettii
+P XP_011845537.1 Mandrillus leucophaeus
+T XP_012624158.1 Microcebus murinus
+T XP_012506383.1 Propithecus coquereli
+T XP_045404442.1 Lemur catta
+T XP_069335566.1 Eulemur rufifrons
+T XP_008060913.1 Carlito syrichta
+- XP_037586579.1 Cebus imitator
+T NP_001171963.1 Callithrix jacchus
+T XP_012295593.1 Aotus nancymaae
+T XP_032156576.1 Sapajus apella
+T XP_003934953.1 Saimiri boliviensis
+T XP_037856105.1 Chlorocebus sabaeus
+T XP_031521022.1 Papio anubis
+T XP_011789364.1 Colobus angolensis palliatus
+T XP_017742028.1 Rhinopithecus bieti
+T XP_033083837.1 Trachypithecus francoisi
+T XP_025210024.1 Theropithecus gelada
+T NP_001253798.1 Macaca mulatta
+T XP_011935673.1 Cercocebus atys
+T XP_005544582.2 Macaca fascicularis
+T XP_063457713.1 Pan paniscus
+T XP_032615099.1 Hylobates moloch
+T XP_055118431.1 Symphalangus syndactylus
+T XP_003271616.1 Nomascus leucogenys
+T NP_000469.3 Homo sapiens
+T XP_054402715.1 Pongo abelii
+T XP_054303319.1 Pongo pygmaeus
+T XP_016811306.1 Pan troglodytes
+T XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ALPL
+    Human: 93 P
+Alignment: 155 P
+P    29
+T     1
+S     1
+Name: count, dtype: int64
+
+P XP_053432878.1 Nycticebus coucang
+P XP_012657049.2 Otolemur garnettii
+T XP_011845537.1 Mandrillus leucophaeus
+P XP_012624158.1 Microcebus murinus
+P XP_012506383.1 Propithecus coquereli
+P XP_045404442.1 Lemur catta
+P XP_069335566.1 Eulemur rufifrons
+P XP_008060913.1 Carlito syrichta
+S XP_037586579.1 Cebus imitator
+P NP_001171963.1 Callithrix jacchus
+P XP_012295593.1 Aotus nancymaae
+P XP_032156576.1 Sapajus apella
+P XP_003934953.1 Saimiri boliviensis
+P XP_037856105.1 Chlorocebus sabaeus
+P XP_031521022.1 Papio anubis
+P XP_011789364.1 Colobus angolensis palliatus
+P XP_017742028.1 Rhinopithecus bieti
+P XP_033083837.1 Trachypithecus francoisi
+P XP_025210024.1 Theropithecus gelada
+P NP_001253798.1 Macaca mulatta
+P XP_011935673.1 Cercocebus atys
+P XP_005544582.2 Macaca fascicularis
+P XP_063457713.1 Pan paniscus
+P XP_032615099.1 Hylobates moloch
+P XP_055118431.1 Symphalangus syndactylus
+P XP_003271616.1 Nomascus leucogenys
+P NP_000469.3 Homo sapiens
+P XP_054402715.1 Pongo abelii
+P XP_054303319.1 Pongo pygmaeus
+P XP_016811306.1 Pan troglodytes
+P XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ALPL
+    Human: 295 M
+Alignment: 372 M
+M    30
+L     1
+Name: count, dtype: int64
+
+M XP_053432878.1 Nycticebus coucang
+L XP_012657049.2 Otolemur garnettii
+M XP_011845537.1 Mandrillus leucophaeus
+M XP_012624158.1 Microcebus murinus
+M XP_012506383.1 Propithecus coquereli
+M XP_045404442.1 Lemur catta
+M XP_069335566.1 Eulemur rufifrons
+M XP_008060913.1 Carlito syrichta
+M XP_037586579.1 Cebus imitator
+M NP_001171963.1 Callithrix jacchus
+M XP_012295593.1 Aotus nancymaae
+M XP_032156576.1 Sapajus apella
+M XP_003934953.1 Saimiri boliviensis
+M XP_037856105.1 Chlorocebus sabaeus
+M XP_031521022.1 Papio anubis
+M XP_011789364.1 Colobus angolensis palliatus
+M XP_017742028.1 Rhinopithecus bieti
+M XP_033083837.1 Trachypithecus francoisi
+M XP_025210024.1 Theropithecus gelada
+M NP_001253798.1 Macaca mulatta
+M XP_011935673.1 Cercocebus atys
+M XP_005544582.2 Macaca fascicularis
+M XP_063457713.1 Pan paniscus
+M XP_032615099.1 Hylobates moloch
+M XP_055118431.1 Symphalangus syndactylus
+M XP_003271616.1 Nomascus leucogenys
+M NP_000469.3 Homo sapiens
+M XP_054402715.1 Pongo abelii
+M XP_054303319.1 Pongo pygmaeus
+M XP_016811306.1 Pan troglodytes
+M XP_055243051.1 Gorilla gorilla gorilla
+     Gene: ARSB
+    Human: 97 Q
+Alignment: 150 Q
+Q    31
+-     2
+R     1
+Name: count, dtype: int64
+
+R XP_021566074.1 Carlito syrichta
+Q XP_053443799.1 Nycticebus coucang
+Q XP_003785985.1 Otolemur garnettii
+Q XP_069348100.1 Eulemur rufifrons
+Q XP_045422135.1 Lemur catta
+Q XP_075864254.1 Microcebus murinus
+Q XP_012519993.1 Propithecus coquereli
+Q XP_033035843.1 Trachypithecus francoisi
+Q XP_017726390.1 Rhinopithecus bieti
+Q XP_023070696.2 Piliocolobus tephrosceles
+Q XP_011944600.1 Cercocebus atys
+Q XP_007974428.2 Chlorocebus sabaeus
+Q XP_025245015.2 Theropithecus gelada
+Q XP_017815173.2 Papio anubis
+Q XP_001108389.4 Macaca mulatta
+Q XP_011728395.2 Macaca nemestrina
+Q XP_050651630.1 Macaca thibetana thibetana
+Q XP_005557290.3 Macaca fascicularis
+Q XP_012317524.2 Aotus nancymaae
+Q XP_054344940.1 Pongo pygmaeus
+Q XP_024102662.3 Pongo abelii
+Q XP_055153886.1 Symphalangus syndactylus
+Q XP_032012875.1 Hylobates moloch
+Q XP_030656340.1 Nomascus leucogenys
+Q XP_018869103.3 Gorilla gorilla gorilla
+Q XP_034815800.1 Pan paniscus
+Q NP_000037.2 Homo sapiens
+Q XP_009447244.4 Pan troglodytes
+Q XP_002744878.2 Callithrix jacchus
+Q XP_039327207.1 Saimiri boliviensis
+Q XP_032133401.1 Sapajus apella
+Q XP_017383199.1 Cebus imitator
+- XP_011847601.1 Mandrillus leucophaeus
+- XP_011814747.1 Colobus angolensis palliatus
+     Gene: ARSB
+    Human: 85 Y
+Alignment: 138 Y
+Y    32
+H     1
+-     1
+Name: count, dtype: int64
+
+H XP_021566074.1 Carlito syrichta
+Y XP_053443799.1 Nycticebus coucang
+Y XP_003785985.1 Otolemur garnettii
+Y XP_069348100.1 Eulemur rufifrons
+Y XP_045422135.1 Lemur catta
+Y XP_075864254.1 Microcebus murinus
+Y XP_012519993.1 Propithecus coquereli
+Y XP_033035843.1 Trachypithecus francoisi
+Y XP_017726390.1 Rhinopithecus bieti
+Y XP_023070696.2 Piliocolobus tephrosceles
+Y XP_011944600.1 Cercocebus atys
+Y XP_007974428.2 Chlorocebus sabaeus
+Y XP_025245015.2 Theropithecus gelada
+Y XP_017815173.2 Papio anubis
+Y XP_001108389.4 Macaca mulatta
+Y XP_011728395.2 Macaca nemestrina
+Y XP_050651630.1 Macaca thibetana thibetana
+Y XP_005557290.3 Macaca fascicularis
+Y XP_012317524.2 Aotus nancymaae
+Y XP_054344940.1 Pongo pygmaeus
+Y XP_024102662.3 Pongo abelii
+Y XP_055153886.1 Symphalangus syndactylus
+Y XP_032012875.1 Hylobates moloch
+Y XP_030656340.1 Nomascus leucogenys
+Y XP_018869103.3 Gorilla gorilla gorilla
+Y XP_034815800.1 Pan paniscus
+Y NP_000037.2 Homo sapiens
+Y XP_009447244.4 Pan troglodytes
+Y XP_002744878.2 Callithrix jacchus
+Y XP_039327207.1 Saimiri boliviensis
+Y XP_032133401.1 Sapajus apella
+Y XP_017383199.1 Cebus imitator
+Y XP_011847601.1 Mandrillus leucophaeus
+- XP_011814747.1 Colobus angolensis palliatus
+     Gene: ARSB
+    Human: 152 R
+Alignment: 205 R
+R    33
+Q     1
+Name: count, dtype: int64
+
+Q XP_021566074.1 Carlito syrichta
+R XP_053443799.1 Nycticebus coucang
+R XP_003785985.1 Otolemur garnettii
+R XP_069348100.1 Eulemur rufifrons
+R XP_045422135.1 Lemur catta
+R XP_075864254.1 Microcebus murinus
+R XP_012519993.1 Propithecus coquereli
+R XP_033035843.1 Trachypithecus francoisi
+R XP_017726390.1 Rhinopithecus bieti
+R XP_023070696.2 Piliocolobus tephrosceles
+R XP_011944600.1 Cercocebus atys
+R XP_007974428.2 Chlorocebus sabaeus
+R XP_025245015.2 Theropithecus gelada
+R XP_017815173.2 Papio anubis
+R XP_001108389.4 Macaca mulatta
+R XP_011728395.2 Macaca nemestrina
+R XP_050651630.1 Macaca thibetana thibetana
+R XP_005557290.3 Macaca fascicularis
+R XP_012317524.2 Aotus nancymaae
+R XP_054344940.1 Pongo pygmaeus
+R XP_024102662.3 Pongo abelii
+R XP_055153886.1 Symphalangus syndactylus
+R XP_032012875.1 Hylobates moloch
+R XP_030656340.1 Nomascus leucogenys
+R XP_018869103.3 Gorilla gorilla gorilla
+R XP_034815800.1 Pan paniscus
+R NP_000037.2 Homo sapiens
+R XP_009447244.4 Pan troglodytes
+R XP_002744878.2 Callithrix jacchus
+R XP_039327207.1 Saimiri boliviensis
+R XP_032133401.1 Sapajus apella
+R XP_017383199.1 Cebus imitator
+R XP_011847601.1 Mandrillus leucophaeus
+R XP_011814747.1 Colobus angolensis palliatus
+     Gene: ARSB
+    Human: 95 R
+Alignment: 148 R
+R    31
+-     2
+W     1
+Name: count, dtype: int64
+
+W XP_021566074.1 Carlito syrichta
+R XP_053443799.1 Nycticebus coucang
+R XP_003785985.1 Otolemur garnettii
+R XP_069348100.1 Eulemur rufifrons
+R XP_045422135.1 Lemur catta
+R XP_075864254.1 Microcebus murinus
+R XP_012519993.1 Propithecus coquereli
+R XP_033035843.1 Trachypithecus francoisi
+R XP_017726390.1 Rhinopithecus bieti
+R XP_023070696.2 Piliocolobus tephrosceles
+R XP_011944600.1 Cercocebus atys
+R XP_007974428.2 Chlorocebus sabaeus
+R XP_025245015.2 Theropithecus gelada
+R XP_017815173.2 Papio anubis
+R XP_001108389.4 Macaca mulatta
+R XP_011728395.2 Macaca nemestrina
+R XP_050651630.1 Macaca thibetana thibetana
+R XP_005557290.3 Macaca fascicularis
+R XP_012317524.2 Aotus nancymaae
+R XP_054344940.1 Pongo pygmaeus
+R XP_024102662.3 Pongo abelii
+R XP_055153886.1 Symphalangus syndactylus
+R XP_032012875.1 Hylobates moloch
+R XP_030656340.1 Nomascus leucogenys
+R XP_018869103.3 Gorilla gorilla gorilla
+R XP_034815800.1 Pan paniscus
+R NP_000037.2 Homo sapiens
+R XP_009447244.4 Pan troglodytes
+R XP_002744878.2 Callithrix jacchus
+R XP_039327207.1 Saimiri boliviensis
+R XP_032133401.1 Sapajus apella
+R XP_017383199.1 Cebus imitator
+- XP_011847601.1 Mandrillus leucophaeus
+- XP_011814747.1 Colobus angolensis palliatus
+     Gene: ASL
+    Human: 113 R
+Alignment: 158 R
+R    27
+-     1
+W     1
+Name: count, dtype: int64
+
+- XP_037587702.1 Cebus imitator
+R XP_011848271.1 Mandrillus leucophaeus
+R XP_053411067.1 Nycticebus coucang
+R XP_003794265.1 Otolemur garnettii
+R XP_008050932.1 Carlito syrichta
+R XP_039316266.1 Saimiri boliviensis
+R XP_035147853.2 Callithrix jacchus
+R XP_012304533.2 Aotus nancymaae
+R XP_032120656.1 Sapajus apella
+W XP_011807504.1 Colobus angolensis palliatus
+R XP_011931740.1 Cercocebus atys
+R XP_045243894.1 Macaca fascicularis
+R XP_008016445.2 Chlorocebus sabaeus
+R XP_025234351.1 Theropithecus gelada
+R XP_009197610.1 Papio anubis
+R XP_033049287.1 Trachypithecus francoisi
+R XP_023053423.2 Piliocolobus tephrosceles
+R XP_032613145.1 Hylobates moloch
+R XP_055148960.1 Symphalangus syndactylus
+R XP_030664422.1 Nomascus leucogenys
+R XP_018886961.1 Gorilla gorilla gorilla
+R NP_000039.2 Homo sapiens
+R XP_054351095.1 Pongo pygmaeus
+R XP_024105625.1 Pongo abelii
+R XP_054970996.1 Pan paniscus
+R XP_024213947.3 Pan troglodytes
+R XP_012619546.1 Microcebus murinus
+R XP_069342234.1 Eulemur rufifrons
+R XP_045399158.1 Lemur catta
+     Gene: ASL
+    Human: 146 R
+Alignment: 191 R
+R    28
+P     1
+Name: count, dtype: int64
+
+P XP_037587702.1 Cebus imitator
+R XP_011848271.1 Mandrillus leucophaeus
+R XP_053411067.1 Nycticebus coucang
+R XP_003794265.1 Otolemur garnettii
+R XP_008050932.1 Carlito syrichta
+R XP_039316266.1 Saimiri boliviensis
+R XP_035147853.2 Callithrix jacchus
+R XP_012304533.2 Aotus nancymaae
+R XP_032120656.1 Sapajus apella
+R XP_011807504.1 Colobus angolensis palliatus
+R XP_011931740.1 Cercocebus atys
+R XP_045243894.1 Macaca fascicularis
+R XP_008016445.2 Chlorocebus sabaeus
+R XP_025234351.1 Theropithecus gelada
+R XP_009197610.1 Papio anubis
+R XP_033049287.1 Trachypithecus francoisi
+R XP_023053423.2 Piliocolobus tephrosceles
+R XP_032613145.1 Hylobates moloch
+R XP_055148960.1 Symphalangus syndactylus
+R XP_030664422.1 Nomascus leucogenys
+R XP_018886961.1 Gorilla gorilla gorilla
+R NP_000039.2 Homo sapiens
+R XP_054351095.1 Pongo pygmaeus
+R XP_024105625.1 Pongo abelii
+R XP_054970996.1 Pan paniscus
+R XP_024213947.3 Pan troglodytes
+R XP_012619546.1 Microcebus murinus
+R XP_069342234.1 Eulemur rufifrons
+R XP_045399158.1 Lemur catta
+     Gene: ASL
+    Human: 241 E
+Alignment: 286 E
+E    28
+K     1
+Name: count, dtype: int64
+
+E XP_037587702.1 Cebus imitator
+K XP_011848271.1 Mandrillus leucophaeus
+E XP_053411067.1 Nycticebus coucang
+E XP_003794265.1 Otolemur garnettii
+E XP_008050932.1 Carlito syrichta
+E XP_039316266.1 Saimiri boliviensis
+E XP_035147853.2 Callithrix jacchus
+E XP_012304533.2 Aotus nancymaae
+E XP_032120656.1 Sapajus apella
+E XP_011807504.1 Colobus angolensis palliatus
+E XP_011931740.1 Cercocebus atys
+E XP_045243894.1 Macaca fascicularis
+E XP_008016445.2 Chlorocebus sabaeus
+E XP_025234351.1 Theropithecus gelada
+E XP_009197610.1 Papio anubis
+E XP_033049287.1 Trachypithecus francoisi
+E XP_023053423.2 Piliocolobus tephrosceles
+E XP_032613145.1 Hylobates moloch
+E XP_055148960.1 Symphalangus syndactylus
+E XP_030664422.1 Nomascus leucogenys
+E XP_018886961.1 Gorilla gorilla gorilla
+E NP_000039.2 Homo sapiens
+E XP_054351095.1 Pongo pygmaeus
+E XP_024105625.1 Pongo abelii
+E XP_054970996.1 Pan paniscus
+E XP_024213947.3 Pan troglodytes
+E XP_012619546.1 Microcebus murinus
+E XP_069342234.1 Eulemur rufifrons
+E XP_045399158.1 Lemur catta
+     Gene: ATP7B
+    Human: 969 R
+Alignment: 1102 R
+R    33
+Q     1
+Name: count, dtype: int64
+
+R XP_053419999.1 Nycticebus coucang
+R XP_012668202.1 Otolemur garnettii
+R XP_012638109.2 Microcebus murinus
+R XP_012504526.1 Propithecus coquereli
+R XP_069323793.1 Eulemur rufifrons
+R XP_045423253.1 Lemur catta
+R XP_008070482.1 Carlito syrichta
+R XP_011920046.1 Cercocebus atys
+R XP_023043183.1 Piliocolobus tephrosceles
+R XP_033033524.1 Trachypithecus francoisi
+R XP_011794322.1 Colobus angolensis palliatus
+R XP_017713762.1 Rhinopithecus bieti
+R XP_010351222.1 Rhinopithecus roxellana
+R XP_086579210.1 Theropithecus gelada
+R XP_037842588.2 Chlorocebus sabaeus
+R XP_011754956.2 Macaca nemestrina
+R XP_050622214.1 Macaca thibetana thibetana
+R XP_011844134.1 Mandrillus leucophaeus
+R XP_028693404.2 Macaca mulatta
+R XP_065389351.1 Macaca fascicularis
+R XP_017806752.3 Papio anubis
+R XP_058293894.1 Hylobates moloch
+Q XP_030669295.1 Nomascus leucogenys
+R XP_054302292.2 Pongo pygmaeus
+R XP_024086846.3 Pongo abelii
+R NP_000044.2 Homo sapiens
+R XP_016780791.3 Pan troglodytes
+R XP_024781039.4 Pan paniscus
+R XP_004054587.3 Gorilla gorilla gorilla
+R XP_035153347.2 Callithrix jacchus
+R XP_003927227.1 Saimiri boliviensis
+R XP_032150439.1 Sapajus apella
+R XP_017397954.1 Cebus imitator
+R XP_012321637.1 Aotus nancymaae
+     Gene: ATP7B
+    Human: 335 G
+Alignment: 467 G
+G    29
+E     4
+R     1
+Name: count, dtype: int64
+
+G XP_053419999.1 Nycticebus coucang
+G XP_012668202.1 Otolemur garnettii
+E XP_012638109.2 Microcebus murinus
+E XP_012504526.1 Propithecus coquereli
+E XP_069323793.1 Eulemur rufifrons
+E XP_045423253.1 Lemur catta
+R XP_008070482.1 Carlito syrichta
+G XP_011920046.1 Cercocebus atys
+G XP_023043183.1 Piliocolobus tephrosceles
+G XP_033033524.1 Trachypithecus francoisi
+G XP_011794322.1 Colobus angolensis palliatus
+G XP_017713762.1 Rhinopithecus bieti
+G XP_010351222.1 Rhinopithecus roxellana
+G XP_086579210.1 Theropithecus gelada
+G XP_037842588.2 Chlorocebus sabaeus
+G XP_011754956.2 Macaca nemestrina
+G XP_050622214.1 Macaca thibetana thibetana
+G XP_011844134.1 Mandrillus leucophaeus
+G XP_028693404.2 Macaca mulatta
+G XP_065389351.1 Macaca fascicularis
+G XP_017806752.3 Papio anubis
+G XP_058293894.1 Hylobates moloch
+G XP_030669295.1 Nomascus leucogenys
+G XP_054302292.2 Pongo pygmaeus
+G XP_024086846.3 Pongo abelii
+G NP_000044.2 Homo sapiens
+G XP_016780791.3 Pan troglodytes
+G XP_024781039.4 Pan paniscus
+G XP_004054587.3 Gorilla gorilla gorilla
+G XP_035153347.2 Callithrix jacchus
+G XP_003927227.1 Saimiri boliviensis
+G XP_032150439.1 Sapajus apella
+G XP_017397954.1 Cebus imitator
+G XP_012321637.1 Aotus nancymaae
+     Gene: ATP7B
+    Human: 1407 D
+Alignment: 1578 D
+D    33
+N     1
+Name: count, dtype: int64
+
+D XP_053419999.1 Nycticebus coucang
+N XP_012668202.1 Otolemur garnettii
+D XP_012638109.2 Microcebus murinus
+D XP_012504526.1 Propithecus coquereli
+D XP_069323793.1 Eulemur rufifrons
+D XP_045423253.1 Lemur catta
+D XP_008070482.1 Carlito syrichta
+D XP_011920046.1 Cercocebus atys
+D XP_023043183.1 Piliocolobus tephrosceles
+D XP_033033524.1 Trachypithecus francoisi
+D XP_011794322.1 Colobus angolensis palliatus
+D XP_017713762.1 Rhinopithecus bieti
+D XP_010351222.1 Rhinopithecus roxellana
+D XP_086579210.1 Theropithecus gelada
+D XP_037842588.2 Chlorocebus sabaeus
+D XP_011754956.2 Macaca nemestrina
+D XP_050622214.1 Macaca thibetana thibetana
+D XP_011844134.1 Mandrillus leucophaeus
+D XP_028693404.2 Macaca mulatta
+D XP_065389351.1 Macaca fascicularis
+D XP_017806752.3 Papio anubis
+D XP_058293894.1 Hylobates moloch
+D XP_030669295.1 Nomascus leucogenys
+D XP_054302292.2 Pongo pygmaeus
+D XP_024086846.3 Pongo abelii
+D NP_000044.2 Homo sapiens
+D XP_016780791.3 Pan troglodytes
+D XP_024781039.4 Pan paniscus
+D XP_004054587.3 Gorilla gorilla gorilla
+D XP_035153347.2 Callithrix jacchus
+D XP_003927227.1 Saimiri boliviensis
+D XP_032150439.1 Sapajus apella
+D XP_017397954.1 Cebus imitator
+D XP_012321637.1 Aotus nancymaae
+     Gene: ATP7B
+    Human: 1217 V
+Alignment: 1388 V
+V    33
+I     1
+Name: count, dtype: int64
+
+V XP_053419999.1 Nycticebus coucang
+V XP_012668202.1 Otolemur garnettii
+V XP_012638109.2 Microcebus murinus
+V XP_012504526.1 Propithecus coquereli
+V XP_069323793.1 Eulemur rufifrons
+V XP_045423253.1 Lemur catta
+V XP_008070482.1 Carlito syrichta
+V XP_011920046.1 Cercocebus atys
+I XP_023043183.1 Piliocolobus tephrosceles
+V XP_033033524.1 Trachypithecus francoisi
+V XP_011794322.1 Colobus angolensis palliatus
+V XP_017713762.1 Rhinopithecus bieti
+V XP_010351222.1 Rhinopithecus roxellana
+V XP_086579210.1 Theropithecus gelada
+V XP_037842588.2 Chlorocebus sabaeus
+V XP_011754956.2 Macaca nemestrina
+V XP_050622214.1 Macaca thibetana thibetana
+V XP_011844134.1 Mandrillus leucophaeus
+V XP_028693404.2 Macaca mulatta
+V XP_065389351.1 Macaca fascicularis
+V XP_017806752.3 Papio anubis
+V XP_058293894.1 Hylobates moloch
+V XP_030669295.1 Nomascus leucogenys
+V XP_054302292.2 Pongo pygmaeus
+V XP_024086846.3 Pongo abelii
+V NP_000044.2 Homo sapiens
+V XP_016780791.3 Pan troglodytes
+V XP_024781039.4 Pan paniscus
+V XP_004054587.3 Gorilla gorilla gorilla
+V XP_035153347.2 Callithrix jacchus
+V XP_003927227.1 Saimiri boliviensis
+V XP_032150439.1 Sapajus apella
+V XP_017397954.1 Cebus imitator
+V XP_012321637.1 Aotus nancymaae
+     Gene: BCKDHA
+    Human: 438 Y
+Alignment: 475 Y
+Y    30
+H     1
+S     1
+Name: count, dtype: int64
+
+H XP_050624431.1 Macaca thibetana thibetana
+S XP_011942248.1 Cercocebus atys
+Y XP_008056991.1 Carlito syrichta
+Y XP_012512522.1 Propithecus coquereli
+Y XP_012616197.1 Microcebus murinus
+Y XP_069312995.1 Eulemur rufifrons
+Y XP_045387576.1 Lemur catta
+Y XP_053461161.1 Nycticebus coucang
+Y XP_003802125.1 Otolemur garnettii
+Y XP_003943240.1 Saimiri boliviensis
+Y NP_000700.1 Homo sapiens
+Y XP_010379099.2 Rhinopithecus roxellana
+Y XP_033054416.1 Trachypithecus francoisi
+Y XP_023085267.2 Piliocolobus tephrosceles
+Y XP_017738189.1 Rhinopithecus bieti
+Y XP_055225474.1 Gorilla gorilla gorilla
+Y NP_001092034.1 Pan troglodytes
+Y XP_003812505.1 Pan paniscus
+Y XP_030651601.1 Nomascus leucogenys
+Y XP_055105896.1 Symphalangus syndactylus
+Y XP_032028715.1 Hylobates moloch
+Y XP_054318895.1 Pongo pygmaeus
+Y XP_007995094.1 Chlorocebus sabaeus
+Y XP_011838816.1 Mandrillus leucophaeus
+Y XP_025222086.1 Theropithecus gelada
+Y XP_028695615.2 Macaca mulatta
+Y XP_003915629.2 Papio anubis
+Y NP_001271018.2 Macaca fascicularis
+Y XP_012316892.2 Aotus nancymaae
+Y XP_032104550.1 Sapajus apella
+Y XP_017358418.1 Cebus imitator
+Y XP_008986318.1 Callithrix jacchus
+     Gene: BEST1
+    Human: 15 G
+Alignment: 72 G
+G    31
+-     3
+D     1
+Name: count, dtype: int64
+
+G XP_008065042.1 Carlito syrichta
+G XP_053418294.1 Nycticebus coucang
+G XP_003798779.1 Otolemur garnettii
+- XP_054380218.1 Pongo abelii
+G XP_011798096.1 Colobus angolensis palliatus
+G XP_050612872.1 Macaca thibetana thibetana
+- XP_073869529.1 Macaca fascicularis
+G XP_014969466.2 Macaca mulatta
+G XP_070930575.1 Macaca nemestrina
+G XP_007993963.1 Chlorocebus sabaeus
+G XP_011897477.1 Cercocebus atys
+G XP_011848742.1 Mandrillus leucophaeus
+G XP_003909763.1 Papio anubis
+G XP_025211199.1 Theropithecus gelada
+G XP_023045270.1 Piliocolobus tephrosceles
+G XP_033063321.1 Trachypithecus francoisi
+G XP_017733885.1 Rhinopithecus bieti
+G XP_030773614.1 Rhinopithecus roxellana
+G XP_002755463.1 Callithrix jacchus
+G XP_012309827.2 Aotus nancymaae
+G XP_003920266.1 Saimiri boliviensis
+G XP_032139048.1 Sapajus apella
+G XP_017359317.1 Cebus imitator
+G XP_054294204.1 Pongo pygmaeus
+D XP_054518318.1 Pan troglodytes
+G XP_018891909.1 Gorilla gorilla gorilla
+G NP_004174.1 Homo sapiens
+- XP_063464582.1 Pan paniscus
+G XP_055141281.2 Symphalangus syndactylus
+G XP_032008961.1 Hylobates moloch
+G XP_012367626.1 Nomascus leucogenys
+G XP_069326210.1 Eulemur rufifrons
+G XP_045411945.1 Lemur catta
+G XP_012633707.1 Microcebus murinus
+G XP_012518157.1 Propithecus coquereli
+     Gene: BEST1
+    Human: 17 F
+Alignment: 74 F
+F    31
+-     3
+Y     1
+Name: count, dtype: int64
+
+F XP_008065042.1 Carlito syrichta
+F XP_053418294.1 Nycticebus coucang
+F XP_003798779.1 Otolemur garnettii
+- XP_054380218.1 Pongo abelii
+F XP_011798096.1 Colobus angolensis palliatus
+F XP_050612872.1 Macaca thibetana thibetana
+- XP_073869529.1 Macaca fascicularis
+F XP_014969466.2 Macaca mulatta
+F XP_070930575.1 Macaca nemestrina
+F XP_007993963.1 Chlorocebus sabaeus
+F XP_011897477.1 Cercocebus atys
+F XP_011848742.1 Mandrillus leucophaeus
+F XP_003909763.1 Papio anubis
+F XP_025211199.1 Theropithecus gelada
+F XP_023045270.1 Piliocolobus tephrosceles
+F XP_033063321.1 Trachypithecus francoisi
+F XP_017733885.1 Rhinopithecus bieti
+F XP_030773614.1 Rhinopithecus roxellana
+F XP_002755463.1 Callithrix jacchus
+F XP_012309827.2 Aotus nancymaae
+F XP_003920266.1 Saimiri boliviensis
+F XP_032139048.1 Sapajus apella
+F XP_017359317.1 Cebus imitator
+F XP_054294204.1 Pongo pygmaeus
+Y XP_054518318.1 Pan troglodytes
+F XP_018891909.1 Gorilla gorilla gorilla
+F NP_004174.1 Homo sapiens
+- XP_063464582.1 Pan paniscus
+F XP_055141281.2 Symphalangus syndactylus
+F XP_032008961.1 Hylobates moloch
+F XP_012367626.1 Nomascus leucogenys
+F XP_069326210.1 Eulemur rufifrons
+F XP_045411945.1 Lemur catta
+F XP_012633707.1 Microcebus murinus
+F XP_012518157.1 Propithecus coquereli
+     Gene: BTD
+    Human: 489 P
+Alignment: 612 P
+P    33
+S     1
+Name: count, dtype: int64
+
+S XP_021563154.1 Carlito syrichta
+P XP_017821370.1 Callithrix jacchus
+P XP_010333965.3 Saimiri boliviensis
+P XP_032115058.1 Sapajus apella
+P XP_017377948.1 Cebus imitator
+P XP_012322201.2 Aotus nancymaae
+P XP_025230142.1 Theropithecus gelada
+P XP_008007381.2 Chlorocebus sabaeus
+P XP_009200021.1 Papio anubis
+P XP_011754280.2 Macaca nemestrina
+P XP_014987709.3 Macaca mulatta
+P XP_065395443.1 Macaca fascicularis
+P XP_011899322.1 Cercocebus atys
+P XP_011833343.1 Mandrillus leucophaeus
+P XP_017737773.1 Rhinopithecus bieti
+P XP_010354361.2 Rhinopithecus roxellana
+P XP_033068612.1 Trachypithecus francoisi
+P XP_011789083.1 Colobus angolensis palliatus
+P XP_023063145.1 Piliocolobus tephrosceles
+P XP_054339177.1 Pongo pygmaeus
+P XP_009237577.3 Pongo abelii
+P XP_030672714.1 Nomascus leucogenys
+P XP_063466838.1 Symphalangus syndactylus
+P XP_032000168.1 Hylobates moloch
+P XP_018878994.3 Gorilla gorilla gorilla
+P NP_001268652.2 Homo sapiens
+P NP_001289363.1 Pan troglodytes
+P XP_008949921.1 Pan paniscus
+P XP_053456581.1 Nycticebus coucang
+P XP_012661283.1 Otolemur garnettii
+P XP_069331539.1 Eulemur rufifrons
+P XP_045394365.1 Lemur catta
+P XP_012622400.1 Microcebus murinus
+P XP_012519598.1 Propithecus coquereli
+     Gene: BTD
+    Human: 282 H
+Alignment: 405 H
+H    32
+R     1
+Q     1
+Name: count, dtype: int64
+
+R XP_021563154.1 Carlito syrichta
+H XP_017821370.1 Callithrix jacchus
+H XP_010333965.3 Saimiri boliviensis
+H XP_032115058.1 Sapajus apella
+H XP_017377948.1 Cebus imitator
+H XP_012322201.2 Aotus nancymaae
+H XP_025230142.1 Theropithecus gelada
+Q XP_008007381.2 Chlorocebus sabaeus
+H XP_009200021.1 Papio anubis
+H XP_011754280.2 Macaca nemestrina
+H XP_014987709.3 Macaca mulatta
+H XP_065395443.1 Macaca fascicularis
+H XP_011899322.1 Cercocebus atys
+H XP_011833343.1 Mandrillus leucophaeus
+H XP_017737773.1 Rhinopithecus bieti
+H XP_010354361.2 Rhinopithecus roxellana
+H XP_033068612.1 Trachypithecus francoisi
+H XP_011789083.1 Colobus angolensis palliatus
+H XP_023063145.1 Piliocolobus tephrosceles
+H XP_054339177.1 Pongo pygmaeus
+H XP_009237577.3 Pongo abelii
+H XP_030672714.1 Nomascus leucogenys
+H XP_063466838.1 Symphalangus syndactylus
+H XP_032000168.1 Hylobates moloch
+H XP_018878994.3 Gorilla gorilla gorilla
+H NP_001268652.2 Homo sapiens
+H NP_001289363.1 Pan troglodytes
+H XP_008949921.1 Pan paniscus
+H XP_053456581.1 Nycticebus coucang
+H XP_012661283.1 Otolemur garnettii
+H XP_069331539.1 Eulemur rufifrons
+H XP_045394365.1 Lemur catta
+H XP_012622400.1 Microcebus murinus
+H XP_012519598.1 Propithecus coquereli
+     Gene: CBS
+    Human: 65 H
+Alignment: 85 H
+H    30
+L     1
+Name: count, dtype: int64
+
+L XP_011892990.1 Cercocebus atys
+H XP_074245297.1 Saimiri boliviensis
+H XP_064236273.1 Aotus nancymaae
+H XP_035138823.1 Callithrix jacchus
+H XP_032132660.1 Sapajus apella
+H XP_037597973.1 Cebus imitator
+H XP_045245288.1 Macaca fascicularis
+H XP_054398570.2 Pongo abelii
+H XP_055135778.2 Symphalangus syndactylus
+H XP_032031397.1 Hylobates moloch
+H XP_030662045.1 Nomascus leucogenys
+H XP_054324867.1 Pongo pygmaeus
+H XP_004062921.2 Gorilla gorilla gorilla
+H XP_009436402.1 Pan troglodytes
+H NP_000062.1 Homo sapiens
+H XP_034803734.3 Pan paniscus
+H XP_037840803.1 Chlorocebus sabaeus
+H XP_017727413.1 Rhinopithecus bieti
+H XP_025234468.1 Theropithecus gelada
+H XP_003895474.1 Papio anubis
+H XP_014988295.1 Macaca mulatta
+H XP_070951865.1 Macaca nemestrina
+H XP_023047987.1 Piliocolobus tephrosceles
+H XP_033088491.1 Trachypithecus francoisi
+H XP_010381471.1 Rhinopithecus roxellana
+H XP_053421633.1 Nycticebus coucang
+H XP_003798121.1 Otolemur garnettii
+H XP_012515441.1 Propithecus coquereli
+H XP_012634570.2 Microcebus murinus
+H XP_069331029.1 Eulemur rufifrons
+H XP_045396703.1 Lemur catta
+     Gene: CERKL
+    Human: 283 L
+Alignment: 312 L
+L    32
+F     1
+Name: count, dtype: int64
+
+L XP_053453677.1 Nycticebus coucang
+L XP_023369935.1 Otolemur garnettii
+F XP_008069045.1 Carlito syrichta
+L XP_033085296.1 Trachypithecus francoisi
+L XP_017722978.1 Rhinopithecus bieti
+L XP_025261249.1 Theropithecus gelada
+L NP_963842.1 Homo sapiens
+L XP_016805618.1 Pan troglodytes
+L XP_032611131.1 Hylobates moloch
+L XP_055145883.1 Symphalangus syndactylus
+L XP_030658253.1 Nomascus leucogenys
+L XP_007963724.3 Chlorocebus sabaeus
+L XP_003907730.2 Papio anubis
+L XP_011770436.2 Macaca nemestrina
+L XP_065381792.1 Macaca fascicularis
+L XP_077812734.1 Macaca mulatta
+L XP_050606520.1 Macaca thibetana thibetana
+L XP_004032946.3 Gorilla gorilla gorilla
+L XP_030771974.1 Rhinopithecus roxellana
+L XP_011814818.1 Colobus angolensis palliatus
+L XP_054335272.1 Pongo pygmaeus
+L XP_011902560.1 Cercocebus atys
+L XP_011855430.1 Mandrillus leucophaeus
+L XP_026310081.2 Piliocolobus tephrosceles
+L XP_032148658.1 Sapajus apella
+L XP_017388241.1 Cebus imitator
+L XP_003921854.2 Saimiri boliviensis
+L XP_035160245.1 Callithrix jacchus
+L XP_064229354.1 Aotus nancymaae
+L XP_045415272.1 Lemur catta
+L XP_012641267.2 Microcebus murinus
+L XP_012506600.1 Propithecus coquereli
+L XP_069330390.1 Eulemur rufifrons
+     Gene: CFTR
+    Human: 13 S
+Alignment: 128 S
+S    29
+A     2
+G     1
+R     1
+V     1
+F     1
+Name: count, dtype: int64
+
+S XP_021569956.1 Carlito syrichta
+S XP_032132088.1 Sapajus apella
+S XP_017390566.1 Cebus imitator
+S XP_003921101.3 Saimiri boliviensis
+S XP_017830972.2 Callithrix jacchus
+S XP_064230188.1 Aotus nancymaae
+S XP_023083957.1 Piliocolobus tephrosceles
+S XP_011792769.1 Colobus angolensis palliatus
+S XP_033049058.1 Trachypithecus francoisi
+S XP_017722839.1 Rhinopithecus bieti
+S XP_010387634.1 Rhinopithecus roxellana
+G XP_086586259.1 Theropithecus gelada
+S XP_011827053.1 Mandrillus leucophaeus
+S XP_072865400.1 Chlorocebus sabaeus
+S XP_050641062.1 Macaca thibetana thibetana
+S XP_011943221.1 Cercocebus atys
+S XP_011729139.2 Macaca nemestrina
+S NP_001106085.2 Papio anubis
+S XP_005550655.2 Macaca fascicularis
+S XP_077850572.1 Macaca mulatta
+S XP_058297543.1 Hylobates moloch
+A XP_063564140.1 Gorilla gorilla gorilla
+S XP_055139757.1 Symphalangus syndactylus
+S XP_003261288.2 Nomascus leucogenys
+A XP_054970807.1 Pan paniscus
+S NP_001162017.1 Pongo abelii
+S XP_054351518.1 Pongo pygmaeus
+S NP_000483.3 Homo sapiens
+S NP_001073386.1 Pan troglodytes
+S XP_012508190.1 Propithecus coquereli
+S XP_012616557.1 Microcebus murinus
+S XP_069318158.1 Eulemur rufifrons
+R XP_045420101.1 Lemur catta
+V XP_053409505.1 Nycticebus coucang
+F XP_003789873.1 Otolemur garnettii
+     Gene: CFTR
+    Human: 1 M
+Alignment: 86 M
+M    26
+W     2
+G     2
+N     1
+R     1
+P     1
+F     1
+Q     1
+Name: count, dtype: int64
+
+N XP_021569956.1 Carlito syrichta
+M XP_032132088.1 Sapajus apella
+M XP_017390566.1 Cebus imitator
+M XP_003921101.3 Saimiri boliviensis
+M XP_017830972.2 Callithrix jacchus
+M XP_064230188.1 Aotus nancymaae
+M XP_023083957.1 Piliocolobus tephrosceles
+M XP_011792769.1 Colobus angolensis palliatus
+M XP_033049058.1 Trachypithecus francoisi
+M XP_017722839.1 Rhinopithecus bieti
+M XP_010387634.1 Rhinopithecus roxellana
+R XP_086586259.1 Theropithecus gelada
+W XP_011827053.1 Mandrillus leucophaeus
+M XP_072865400.1 Chlorocebus sabaeus
+M XP_050641062.1 Macaca thibetana thibetana
+M XP_011943221.1 Cercocebus atys
+M XP_011729139.2 Macaca nemestrina
+M NP_001106085.2 Papio anubis
+M XP_005550655.2 Macaca fascicularis
+M XP_077850572.1 Macaca mulatta
+P XP_058297543.1 Hylobates moloch
+G XP_063564140.1 Gorilla gorilla gorilla
+M XP_055139757.1 Symphalangus syndactylus
+M XP_003261288.2 Nomascus leucogenys
+G XP_054970807.1 Pan paniscus
+M NP_001162017.1 Pongo abelii
+M XP_054351518.1 Pongo pygmaeus
+M NP_000483.3 Homo sapiens
+M NP_001073386.1 Pan troglodytes
+W XP_012508190.1 Propithecus coquereli
+M XP_012616557.1 Microcebus murinus
+M XP_069318158.1 Eulemur rufifrons
+M XP_045420101.1 Lemur catta
+F XP_053409505.1 Nycticebus coucang
+Q XP_003789873.1 Otolemur garnettii
+     Gene: CLN3
+    Human: 295 E
+Alignment: 301 E
+E    33
+K     1
+Name: count, dtype: int64
+
+E XP_053412993.1 Nycticebus coucang
+E XP_003795819.1 Otolemur garnettii
+E XP_075851562.1 Microcebus murinus
+E XP_069343231.1 Eulemur rufifrons
+E XP_045399397.1 Lemur catta
+E XP_012515754.1 Propithecus coquereli
+E XP_008048873.1 Carlito syrichta
+E XP_021787562.1 Papio anubis
+E XP_035123215.2 Callithrix jacchus
+E XP_064218680.1 Aotus nancymaae
+E XP_003928758.1 Saimiri boliviensis
+E XP_032098979.1 Sapajus apella
+E XP_017374616.1 Cebus imitator
+E XP_011837754.1 Mandrillus leucophaeus
+E XP_007987336.2 Chlorocebus sabaeus
+E XP_017719879.1 Rhinopithecus bieti
+E XP_014981412.2 Macaca mulatta
+E XP_065393078.1 Macaca fascicularis
+E XP_011741589.2 Macaca nemestrina
+E XP_033073882.1 Trachypithecus francoisi
+E XP_050629910.1 Macaca thibetana thibetana
+E XP_025225823.1 Theropithecus gelada
+E XP_011943802.1 Cercocebus atys
+E XP_023048770.1 Piliocolobus tephrosceles
+E XP_011788876.1 Colobus angolensis palliatus
+E XP_030654842.1 Nomascus leucogenys
+E XP_032011646.1 Hylobates moloch
+E XP_055154262.1 Symphalangus syndactylus
+E NP_000077.1 Homo sapiens
+E XP_018867043.1 Gorilla gorilla gorilla
+E XP_054310426.1 Pongo pygmaeus
+E XP_054389728.1 Pongo abelii
+K XP_063453494.1 Pan paniscus
+E XP_054525081.1 Pan troglodytes
+     Gene: CNGB3
+    Human: 309 P
+Alignment: 312 P
+P    32
+-     1
+L     1
+Name: count, dtype: int64
+
+P XP_008053089.1 Carlito syrichta
+P XP_012326453.2 Aotus nancymaae
+P XP_003940551.1 Saimiri boliviensis
+P XP_002759095.4 Callithrix jacchus
+P XP_032105821.1 Sapajus apella
+P XP_017377292.1 Cebus imitator
+- XP_011823453.1 Mandrillus leucophaeus
+P XP_055142660.1 Symphalangus syndactylus
+P XP_032615886.1 Hylobates moloch
+P XP_003268318.1 Nomascus leucogenys
+P XP_054354540.1 Pongo pygmaeus
+P XP_002819291.3 Pongo abelii
+P XP_004047295.5 Gorilla gorilla gorilla
+P NP_061971.3 Homo sapiens
+P XP_519846.5 Pan troglodytes
+P XP_003821201.2 Pan paniscus
+P XP_007999221.3 Chlorocebus sabaeus
+P XP_025250188.1 Theropithecus gelada
+P XP_031525518.1 Papio anubis
+P XP_001083646.3 Macaca mulatta
+P XP_005563712.3 Macaca fascicularis
+P XP_050657177.1 Macaca thibetana thibetana
+P XP_011731836.2 Macaca nemestrina
+P XP_023078689.2 Piliocolobus tephrosceles
+P XP_011792472.1 Colobus angolensis palliatus
+P XP_033058661.1 Trachypithecus francoisi
+P XP_017730680.1 Rhinopithecus bieti
+P XP_010376859.2 Rhinopithecus roxellana
+P XP_075860790.1 Microcebus murinus
+L XP_012499049.1 Propithecus coquereli
+P XP_069322362.1 Eulemur rufifrons
+P XP_045416454.1 Lemur catta
+P XP_053414642.1 Nycticebus coucang
+P XP_012665089.1 Otolemur garnettii
+     Gene: CPS1
+    Human: 1173 A
+Alignment: 1184 A
+A    34
+P     1
+Name: count, dtype: int64
+
+P XP_012516669.1 ammonia], mitochondrial, partia
+A XP_053454286.1 ammonia], mitochondria
+A XP_023366141.1 ammonia], mitochondria
+A XP_008061693.1 ammonia], mitochondria
+A XP_012606934.2 ammonia], mitochondria
+A XP_069338838.1 ammonia], mitochondria
+A XP_045415746.1 ammonia], mitochondria
+A XP_017744836.1 ammonia], mitochondria
+A XP_033086298.1 ammonia], mitochondria
+A XP_023075946.1 ammonia], mitochondrial isoform X
+A XP_011787713.1 ammonia], mitochondrial isoform X
+A XP_010353218.1 ammonia], mitochondria
+A XP_011821940.1 ammonia], mitochondrial isoform X
+A XP_011903227.1 ammonia], mitochondria
+A XP_011738778.2 ammonia], mitochondria
+A XP_001110375.2 ammonia], mitochondria
+A XP_050607391.1 ammonia], mitochondria
+A XP_005574235.3 ammonia], mitochondria
+A XP_007964328.1 ammonia], mitochondria
+A XP_021779648.1 ammonia], mitochondria
+A XP_025261413.2 ammonia], mitochondria
+A XP_055146458.1 ammonia], mitochondria
+A XP_032610552.1 ammonia], mitochondria
+A XP_030659198.1 ammonia], mitochondrial isoform X
+A XP_054333374.1 ammonia], mitochondria
+A XP_002812854.1 ammonia], mitochondria
+A NP_001116105.2 ammonia], mitochondrial isoform b precurso
+A XP_018877711.3 ammonia], mitochondrial isoform X
+A XP_063646794.1 ammonia], mitochondrial isoform X
+A XP_008957239.1 ammonia], mitochondrial isoform X
+A XP_008997666.4 ammonia], mitochondria
+A XP_021522694.1 ammonia], mitochondria
+A XP_003925632.2 ammonia], mitochondria
+A XP_032134226.1 ammonia], mitochondria
+A XP_017402301.1 ammonia], mitochondrial isoform X
+     Gene: CRB1
+    Human: 564 D
+Alignment: 594 D
+D    34
+N     1
+Name: count, dtype: int64
+
+D XP_075853105.1 Microcebus murinus
+D XP_045392469.1 Lemur catta
+D XP_069315423.1 Eulemur rufifrons
+D XP_012505915.1 Propithecus coquereli
+D XP_008046402.1 Carlito syrichta
+D XP_011807004.1 Colobus angolensis palliatus
+D XP_030785523.1 Rhinopithecus roxellana
+D XP_017720122.1 Rhinopithecus bieti
+D XP_033051902.1 Trachypithecus francoisi
+D XP_023080497.2 Piliocolobus tephrosceles
+D XP_007987247.3 Chlorocebus sabaeus
+D XP_001110912.3 Macaca mulatta
+D XP_005540376.3 Macaca fascicularis
+D XP_011744793.2 Macaca nemestrina
+D XP_050621148.1 Macaca thibetana thibetana
+D XP_021789613.1 Papio anubis
+D XP_086593994.1 Theropithecus gelada
+D XP_011891705.1 Cercocebus atys
+D XP_011851061.1 Mandrillus leucophaeus
+D XP_012357400.2 Nomascus leucogenys
+D XP_055090145.1 Symphalangus syndactylus
+D XP_031992920.1 Hylobates moloch
+D XP_054308076.1 Pongo pygmaeus
+D XP_002809709.2 Pongo abelii
+D XP_004028144.3 Gorilla gorilla gorilla
+D NP_957705.1 Homo sapiens
+D XP_525009.3 Pan troglodytes
+D XP_003823123.4 Pan paniscus
+D XP_008983596.2 Callithrix jacchus
+D XP_012315011.2 Aotus nancymaae
+D XP_003944187.2 Saimiri boliviensis
+D XP_032144509.1 Sapajus apella
+D XP_017361545.1 Cebus imitator
+N XP_053462326.1 Nycticebus coucang
+D XP_003792356.1 Otolemur garnettii
+     Gene: CRB1
+    Human: 611 S
+Alignment: 641 S
+S    32
+A     2
+P     1
+Name: count, dtype: int64
+
+S XP_075853105.1 Microcebus murinus
+A XP_045392469.1 Lemur catta
+A XP_069315423.1 Eulemur rufifrons
+S XP_012505915.1 Propithecus coquereli
+S XP_008046402.1 Carlito syrichta
+S XP_011807004.1 Colobus angolensis palliatus
+S XP_030785523.1 Rhinopithecus roxellana
+P XP_017720122.1 Rhinopithecus bieti
+S XP_033051902.1 Trachypithecus francoisi
+S XP_023080497.2 Piliocolobus tephrosceles
+S XP_007987247.3 Chlorocebus sabaeus
+S XP_001110912.3 Macaca mulatta
+S XP_005540376.3 Macaca fascicularis
+S XP_011744793.2 Macaca nemestrina
+S XP_050621148.1 Macaca thibetana thibetana
+S XP_021789613.1 Papio anubis
+S XP_086593994.1 Theropithecus gelada
+S XP_011891705.1 Cercocebus atys
+S XP_011851061.1 Mandrillus leucophaeus
+S XP_012357400.2 Nomascus leucogenys
+S XP_055090145.1 Symphalangus syndactylus
+S XP_031992920.1 Hylobates moloch
+S XP_054308076.1 Pongo pygmaeus
+S XP_002809709.2 Pongo abelii
+S XP_004028144.3 Gorilla gorilla gorilla
+S NP_957705.1 Homo sapiens
+S XP_525009.3 Pan troglodytes
+S XP_003823123.4 Pan paniscus
+S XP_008983596.2 Callithrix jacchus
+S XP_012315011.2 Aotus nancymaae
+S XP_003944187.2 Saimiri boliviensis
+S XP_032144509.1 Sapajus apella
+S XP_017361545.1 Cebus imitator
+S XP_053462326.1 Nycticebus coucang
+S XP_003792356.1 Otolemur garnettii
+     Gene: CRB1
+    Human: 539 S
+Alignment: 569 S
+S    30
+G     2
+R     2
+N     1
+Name: count, dtype: int64
+
+G XP_075853105.1 Microcebus murinus
+R XP_045392469.1 Lemur catta
+G XP_069315423.1 Eulemur rufifrons
+R XP_012505915.1 Propithecus coquereli
+N XP_008046402.1 Carlito syrichta
+S XP_011807004.1 Colobus angolensis palliatus
+S XP_030785523.1 Rhinopithecus roxellana
+S XP_017720122.1 Rhinopithecus bieti
+S XP_033051902.1 Trachypithecus francoisi
+S XP_023080497.2 Piliocolobus tephrosceles
+S XP_007987247.3 Chlorocebus sabaeus
+S XP_001110912.3 Macaca mulatta
+S XP_005540376.3 Macaca fascicularis
+S XP_011744793.2 Macaca nemestrina
+S XP_050621148.1 Macaca thibetana thibetana
+S XP_021789613.1 Papio anubis
+S XP_086593994.1 Theropithecus gelada
+S XP_011891705.1 Cercocebus atys
+S XP_011851061.1 Mandrillus leucophaeus
+S XP_012357400.2 Nomascus leucogenys
+S XP_055090145.1 Symphalangus syndactylus
+S XP_031992920.1 Hylobates moloch
+S XP_054308076.1 Pongo pygmaeus
+S XP_002809709.2 Pongo abelii
+S XP_004028144.3 Gorilla gorilla gorilla
+S NP_957705.1 Homo sapiens
+S XP_525009.3 Pan troglodytes
+S XP_003823123.4 Pan paniscus
+S XP_008983596.2 Callithrix jacchus
+S XP_012315011.2 Aotus nancymaae
+S XP_003944187.2 Saimiri boliviensis
+S XP_032144509.1 Sapajus apella
+S XP_017361545.1 Cebus imitator
+S XP_053462326.1 Nycticebus coucang
+S XP_003792356.1 Otolemur garnettii
+     Gene: CYP11B1
+    Human: 88 M
+Alignment: 138 M
+M    13
+T     5
+R     2
+I     1
+Name: count, dtype: int64
+
+R XP_003803786.1 Otolemur garnettii
+T XP_012612805.2 Microcebus murinus
+I XP_012503461.1 Propithecus coquereli
+R XP_008072042.1 Carlito syrichta
+M XP_031525658.1 Papio anubis
+M XP_002819552.4 Pongo abelii
+M XP_072874540.1 Chlorocebus sabaeus
+M XP_011905412.1 Cercocebus atys
+M XP_011831014.1 Mandrillus leucophaeus
+M NP_001180667.2 Macaca mulatta
+M XP_005564254.2 Macaca fascicularis
+M XP_011793493.1 Colobus angolensis palliatus
+M XP_070923593.1 Macaca nemestrina
+M XP_030870030.3 Gorilla gorilla gorilla
+M XP_063673508.1 Pan troglodytes
+M XP_057159086.2 Pan paniscus
+M NP_000488.3 Homo sapiens
+T XP_008981377.1 Callithrix jacchus
+T XP_017366970.1 Cebus imitator
+T XP_012323779.2 Aotus nancymaae
+T XP_039320504.1 Saimiri boliviensis
+     Gene: CYP17A1
+    Human: 82 A
+Alignment: 82 A
+A    23
+D     1
+-     1
+Name: count, dtype: int64
+
+D XP_021564209.1 Carlito syrichta
+A XP_012625638.1 Microcebus murinus
+A XP_069316744.1 Eulemur rufifrons
+A XP_012517188.1 Propithecus coquereli
+A XP_011907079.1 Cercocebus atys
+A XP_007962182.1 Chlorocebus sabaeus
+- XP_073858732.1 Macaca fascicularis
+A XP_011832877.1 Mandrillus leucophaeus
+A NP_001035322.1 Macaca mulatta
+A XP_025251273.1 Theropithecus gelada
+A XP_023062285.1 Piliocolobus tephrosceles
+A XP_011812759.1 Colobus angolensis palliatus
+A XP_017707160.1 Rhinopithecus bieti
+A XP_055106667.1 Symphalangus syndactylus
+A XP_003255456.1 Nomascus leucogenys
+A XP_054292812.1 Pongo pygmaeus
+A XP_002821155.4 Pongo abelii
+A XP_018890268.1 Gorilla gorilla gorilla
+A NP_000093.1 Homo sapiens
+A NP_001009052.1 Pan troglodytes
+A XP_034787281.1 Pan paniscus
+A XP_012295005.1 Aotus nancymaae
+A NP_001254697.1 Callithrix jacchus
+A XP_017386578.1 Cebus imitator
+A XP_003922290.1 Saimiri boliviensis
+     Gene: ERCC6
+    Human: 934 A
+Alignment: 1241 A
+A    20
+M     8
+T     1
+Name: count, dtype: int64
+
+A XP_021798945.2 Papio anubis
+A XP_065376802.1 Macaca fascicularis
+A XP_015002513.2 Macaca mulatta
+A XP_011747902.2 Macaca nemestrina
+A XP_023085925.1 Piliocolobus tephrosceles
+A XP_033065906.1 Trachypithecus francoisi
+A XP_010381149.2 Rhinopithecus roxellana
+A XP_004091169.1 Nomascus leucogenys
+A XP_031998131.1 Hylobates moloch
+A XP_054359598.1 Pongo pygmaeus
+A XP_024109707.3 Pongo abelii
+A NP_001263987.1 Homo sapiens
+A XP_004049440.1 Gorilla gorilla gorilla
+A XP_003954268.3 Pan troglodytes
+A XP_057154871.1 Pan paniscus
+A XP_009007806.1 Callithrix jacchus
+A XP_012332903.1 Aotus nancymaae
+A XP_010338903.2 Saimiri boliviensis
+A XP_032122721.1 Sapajus apella
+A XP_017360177.1 Cebus imitator
+M XP_053440248.1 Nycticebus coucang
+M XP_003801707.1 Otolemur garnettii
+M XP_075866341.1 Microcebus murinus
+M XP_012519321.1 Propithecus coquereli
+M XP_069316016.1 Eulemur rufifrons
+M XP_045423793.1 Lemur catta
+T XP_008050949.1 Carlito syrichta
+M XP_025253643.1 Theropithecus gelada
+M XP_017741007.1 Rhinopithecus bieti
+     Gene: EYS
+    Human: 2502 S
+Alignment: 2680 S
+S    25
+-     9
+R     1
+Name: count, dtype: int64
+
+S XP_008054979.2 Carlito syrichta
+S XP_045399761.1 Lemur catta
+S XP_069344431.1 Eulemur rufifrons
+S XP_020142719.2 Microcebus murinus
+S XP_012505731.1 Propithecus coquereli
+- XP_032155738.1 Sapajus apella
+- XP_039323703.2 Saimiri boliviensis
+S XP_003926489.1 Saimiri boliviensis boliviensis
+S XP_017380180.2 Cebus imitator
+S XP_035151917.3 Callithrix jacchus
+S XP_021531834.2 Aotus nancymaae
+S XP_030665269.1 Nomascus leucogenys
+S XP_032010220.1 Hylobates moloch
+S XP_063474836.1 Symphalangus syndactylus
+- XP_054541951.1 Pan troglodytes
+S NP_001361280.2 Pongo abelii
+S XP_063522367.1 Pongo pygmaeus
+S XP_063461394.1 Pan paniscus
+S NP_001136272.1 Homo sapiens
+S XP_011801025.1 Colobus angolensis palliatus
+S XP_033073439.1 Trachypithecus francoisi
+S XP_030784418.1 Rhinopithecus roxellana
+- XP_055247292.1 Gorilla gorilla gorilla
+- XP_017723101.1 Rhinopithecus bieti
+S XP_011848453.1 Mandrillus leucophaeus
+S XP_026311246.1 Piliocolobus tephrosceles
+- XP_031523547.1 Papio anubis
+S XP_077857390.1 Macaca mulatta
+R XP_011923757.1 Cercocebus atys
+S XP_086584951.1 Theropithecus gelada
+- XP_070953013.1 Macaca nemestrina
+- XP_050644601.1 Macaca thibetana thibetana
+- XP_065399961.1 Macaca fascicularis
+S XP_012660506.1 Otolemur garnettii
+S XP_053457605.1 Nycticebus coucang
+     Gene: F8
+    Human: 2038 N
+Alignment: 2055 N
+N    22
+K     6
+S     1
+-     1
+H     1
+Name: count, dtype: int64
+
+K XP_053435824.1 Nycticebus coucang
+K XP_003802782.1 Otolemur garnettii
+K XP_075855879.1 Microcebus murinus
+K XP_012517042.1 Propithecus coquereli
+K XP_069319343.1 Eulemur rufifrons
+K XP_045394744.1 Lemur catta
+N XP_064227599.1 Aotus nancymaae
+S XP_078219844.1 Callithrix jacchus
+N XP_003943974.1 Saimiri boliviensis
+N XP_032121190.1 Sapajus apella
+N XP_017376032.2 Cebus imitator
+- XP_026307119.1 Piliocolobus tephrosceles
+N XP_072869373.1 Chlorocebus sabaeus
+N XP_005595091.3 Macaca fascicularis
+N XP_014984059.2 Macaca mulatta
+N XP_050631365.1 Macaca thibetana thibetana
+H XP_011716754.2 Macaca nemestrina
+N XP_011889280.1 Cercocebus atys
+N XP_031516314.1 Papio anubis
+N XP_011818598.1 Colobus angolensis palliatus
+N XP_033057806.1 Trachypithecus francoisi
+N XP_010351130.1 Rhinopithecus roxellana
+N XP_003279379.1 Nomascus leucogenys
+N XP_055125143.1 Symphalangus syndactylus
+N XP_058297352.1 Hylobates moloch
+N XP_054327961.1 Pongo pygmaeus
+N XP_024096329.1 Pongo abelii
+N NP_000123.1 Homo sapiens
+N XP_004065205.1 Gorilla gorilla gorilla
+N XP_003317837.1 Pan troglodytes
+N XP_003810005.2 Pan paniscus
+     Gene: F8
+    Human: 2157 N
+Alignment: 2174 N
+N    28
+-     2
+S     1
+Name: count, dtype: int64
+
+N XP_053435824.1 Nycticebus coucang
+N XP_003802782.1 Otolemur garnettii
+N XP_075855879.1 Microcebus murinus
+N XP_012517042.1 Propithecus coquereli
+N XP_069319343.1 Eulemur rufifrons
+N XP_045394744.1 Lemur catta
+S XP_064227599.1 Aotus nancymaae
+N XP_078219844.1 Callithrix jacchus
+N XP_003943974.1 Saimiri boliviensis
+N XP_032121190.1 Sapajus apella
+N XP_017376032.2 Cebus imitator
+N XP_026307119.1 Piliocolobus tephrosceles
+N XP_072869373.1 Chlorocebus sabaeus
+N XP_005595091.3 Macaca fascicularis
+N XP_014984059.2 Macaca mulatta
+N XP_050631365.1 Macaca thibetana thibetana
+N XP_011716754.2 Macaca nemestrina
+N XP_011889280.1 Cercocebus atys
+- XP_031516314.1 Papio anubis
+N XP_011818598.1 Colobus angolensis palliatus
+N XP_033057806.1 Trachypithecus francoisi
+N XP_010351130.1 Rhinopithecus roxellana
+N XP_003279379.1 Nomascus leucogenys
+N XP_055125143.1 Symphalangus syndactylus
+- XP_058297352.1 Hylobates moloch
+N XP_054327961.1 Pongo pygmaeus
+N XP_024096329.1 Pongo abelii
+N NP_000123.1 Homo sapiens
+N XP_004065205.1 Gorilla gorilla gorilla
+N XP_003317837.1 Pan troglodytes
+N XP_003810005.2 Pan paniscus
+     Gene: F9
+    Human: 75 R
+Alignment: 75 R
+R    31
+Q     1
+Name: count, dtype: int64
+
+R XP_002763378.1 Callithrix jacchus
+R XP_012325320.1 Aotus nancymaae
+R XP_017355402.1 Cebus imitator
+R XP_032124214.1 Sapajus apella
+R XP_003940777.1 Saimiri boliviensis
+R XP_011930388.1 Cercocebus atys
+R XP_050631496.1 Macaca thibetana thibetana
+R XP_003918402.1 Papio anubis
+R XP_007991031.1 Chlorocebus sabaeus
+R XP_011857017.1 Mandrillus leucophaeus
+R NP_001103153.1 Macaca mulatta
+R XP_005594774.1 Macaca fascicularis
+R XP_023058338.1 Piliocolobus tephrosceles
+R XP_033057437.1 Trachypithecus francoisi
+R XP_010387043.1 Rhinopithecus roxellana
+R XP_011816430.1 Colobus angolensis palliatus
+R XP_054329188.1 Pongo pygmaeus
+R XP_009233598.2 Pongo abelii
+R XP_004064996.1 Gorilla gorilla gorilla
+R NP_000124.1 Homo sapiens
+R NP_001129063.1 Pan troglodytes
+R XP_054962296.1 Pan paniscus
+R XP_032612350.1 Hylobates moloch
+R XP_055123354.1 Symphalangus syndactylus
+R XP_003272634.1 Nomascus leucogenys
+R XP_008059974.1 Carlito syrichta
+R XP_012637954.1 Microcebus murinus
+R XP_012520761.1 Propithecus coquereli
+R XP_069320183.1 Eulemur rufifrons
+R XP_045394114.1 Lemur catta
+R XP_053436226.1 Nycticebus coucang
+Q XP_023373463.1 Otolemur garnettii
+     Gene: FANCA
+    Human: 936 E
+Alignment: 1122 E
+E    34
+K     1
+Name: count, dtype: int64
+
+E XP_008048229.1 Carlito syrichta
+E XP_055088869.1 Symphalangus syndactylus
+E XP_032012000.1 Hylobates moloch
+E XP_030676821.1 Nomascus leucogenys
+E XP_054311437.2 Pongo pygmaeus
+E XP_024089186.2 Pongo abelii
+E XP_055220554.2 Gorilla gorilla gorilla
+E XP_016785906.3 Pan troglodytes
+E XP_034796972.2 Pan paniscus
+E NP_000126.2 Homo sapiens
+E XP_011884876.1 Cercocebus atys
+E XP_026303175.1 Piliocolobus tephrosceles
+E XP_017726513.1 Rhinopithecus bieti
+E XP_010376685.1 Rhinopithecus roxellana
+E XP_033075306.1 Trachypithecus francoisi
+E XP_011783367.1 Colobus angolensis palliatus
+E XP_007992618.2 Chlorocebus sabaeus
+E XP_070939801.1 Macaca nemestrina
+E XP_050628827.1 Macaca thibetana thibetana
+E XP_028697088.2 Macaca mulatta
+E XP_045238021.2 Macaca fascicularis
+E XP_011827500.1 Mandrillus leucophaeus
+E XP_025225283.2 Theropithecus gelada
+E XP_003917387.2 Papio anubis
+E XP_035137539.3 Callithrix jacchus
+E XP_064226019.1 Aotus nancymaae
+E XP_039316205.1 Saimiri boliviensis
+E XP_032140638.1 Sapajus apella
+E XP_037589203.1 Cebus imitator
+E XP_053411746.1 Nycticebus coucang
+E XP_023363274.1 Otolemur garnettii
+K XP_012512613.1 Propithecus coquereli
+E XP_075852015.1 Microcebus murinus
+E XP_069320856.1 Eulemur rufifrons
+E XP_045389272.1 Lemur catta
+     Gene: FANCA
+    Human: 358 L
+Alignment: 526 L
+L    34
+R     1
+Name: count, dtype: int64
+
+L XP_008048229.1 Carlito syrichta
+L XP_055088869.1 Symphalangus syndactylus
+L XP_032012000.1 Hylobates moloch
+L XP_030676821.1 Nomascus leucogenys
+L XP_054311437.2 Pongo pygmaeus
+L XP_024089186.2 Pongo abelii
+L XP_055220554.2 Gorilla gorilla gorilla
+L XP_016785906.3 Pan troglodytes
+L XP_034796972.2 Pan paniscus
+L NP_000126.2 Homo sapiens
+L XP_011884876.1 Cercocebus atys
+L XP_026303175.1 Piliocolobus tephrosceles
+L XP_017726513.1 Rhinopithecus bieti
+L XP_010376685.1 Rhinopithecus roxellana
+L XP_033075306.1 Trachypithecus francoisi
+L XP_011783367.1 Colobus angolensis palliatus
+L XP_007992618.2 Chlorocebus sabaeus
+R XP_070939801.1 Macaca nemestrina
+L XP_050628827.1 Macaca thibetana thibetana
+L XP_028697088.2 Macaca mulatta
+L XP_045238021.2 Macaca fascicularis
+L XP_011827500.1 Mandrillus leucophaeus
+L XP_025225283.2 Theropithecus gelada
+L XP_003917387.2 Papio anubis
+L XP_035137539.3 Callithrix jacchus
+L XP_064226019.1 Aotus nancymaae
+L XP_039316205.1 Saimiri boliviensis
+L XP_032140638.1 Sapajus apella
+L XP_037589203.1 Cebus imitator
+L XP_053411746.1 Nycticebus coucang
+L XP_023363274.1 Otolemur garnettii
+L XP_012512613.1 Propithecus coquereli
+L XP_075852015.1 Microcebus murinus
+L XP_069320856.1 Eulemur rufifrons
+L XP_045389272.1 Lemur catta
+     Gene: G6PD
+    Human: 3 R
+Alignment: 19 R
+R    9
+W    6
+M    4
+-    3
+G    2
+E    1
+T    1
+Name: count, dtype: int64
+
+E XP_053436618.1 Nycticebus coucang
+T XP_023364223.1 Otolemur garnettii
+G XP_032612180.2 Hylobates moloch
+R XP_008988368.3 Callithrix jacchus
+R XP_039319925.1 Saimiri boliviensis
+R XP_032121206.1 Sapajus apella
+R XP_017376294.1 Cebus imitator
+- XP_012322482.1 Aotus nancymaae
+W XP_030663505.1 Nomascus leucogenys
+W XP_054326588.1 Pongo pygmaeus
+R NP_001253399.1 Macaca mulatta
+R XP_017712909.1 Rhinopithecus bieti
+R NP_000393.4 Homo sapiens
+R XP_054532678.1 Pan troglodytes
+R XP_055124805.1 Symphalangus syndactylus
+M XP_007991357.1 Chlorocebus sabaeus
+M XP_050631393.1 Macaca thibetana thibetana
+M XP_070944843.1 Macaca nemestrina
+M XP_015299768.1 Macaca fascicularis
+- XP_011902278.1 Cercocebus atys
+G XP_011828370.1 Mandrillus leucophaeus
+- XP_021565823.1 Carlito syrichta
+W XP_012613637.1 Microcebus murinus
+W XP_069320023.1 Eulemur rufifrons
+W XP_045394214.1 Lemur catta
+W XP_012517460.1 Propithecus coquereli
+     Gene: G6PD
+    Human: 12 R
+Alignment: 28 R
+R    13
+P     5
+-     3
+S     2
+L     1
+H     1
+A     1
+Name: count, dtype: int64
+
+L XP_053436618.1 Nycticebus coucang
+P XP_023364223.1 Otolemur garnettii
+H XP_032612180.2 Hylobates moloch
+R XP_008988368.3 Callithrix jacchus
+R XP_039319925.1 Saimiri boliviensis
+R XP_032121206.1 Sapajus apella
+R XP_017376294.1 Cebus imitator
+- XP_012322482.1 Aotus nancymaae
+S XP_030663505.1 Nomascus leucogenys
+R XP_054326588.1 Pongo pygmaeus
+R NP_001253399.1 Macaca mulatta
+R XP_017712909.1 Rhinopithecus bieti
+R NP_000393.4 Homo sapiens
+R XP_054532678.1 Pan troglodytes
+R XP_055124805.1 Symphalangus syndactylus
+P XP_007991357.1 Chlorocebus sabaeus
+P XP_050631393.1 Macaca thibetana thibetana
+P XP_070944843.1 Macaca nemestrina
+P XP_015299768.1 Macaca fascicularis
+- XP_011902278.1 Cercocebus atys
+A XP_011828370.1 Mandrillus leucophaeus
+- XP_021565823.1 Carlito syrichta
+R XP_012613637.1 Microcebus murinus
+R XP_069320023.1 Eulemur rufifrons
+R XP_045394214.1 Lemur catta
+S XP_012517460.1 Propithecus coquereli
+     Gene: G6PD
+    Human: 166 R
+Alignment: 232 R
+R    23
+H     3
+Name: count, dtype: int64
+
+R XP_053436618.1 Nycticebus coucang
+R XP_023364223.1 Otolemur garnettii
+H XP_032612180.2 Hylobates moloch
+R XP_008988368.3 Callithrix jacchus
+R XP_039319925.1 Saimiri boliviensis
+R XP_032121206.1 Sapajus apella
+R XP_017376294.1 Cebus imitator
+R XP_012322482.1 Aotus nancymaae
+H XP_030663505.1 Nomascus leucogenys
+R XP_054326588.1 Pongo pygmaeus
+R NP_001253399.1 Macaca mulatta
+R XP_017712909.1 Rhinopithecus bieti
+R NP_000393.4 Homo sapiens
+R XP_054532678.1 Pan troglodytes
+H XP_055124805.1 Symphalangus syndactylus
+R XP_007991357.1 Chlorocebus sabaeus
+R XP_050631393.1 Macaca thibetana thibetana
+R XP_070944843.1 Macaca nemestrina
+R XP_015299768.1 Macaca fascicularis
+R XP_011902278.1 Cercocebus atys
+R XP_011828370.1 Mandrillus leucophaeus
+R XP_021565823.1 Carlito syrichta
+R XP_012613637.1 Microcebus murinus
+R XP_069320023.1 Eulemur rufifrons
+R XP_045394214.1 Lemur catta
+R XP_012517460.1 Propithecus coquereli
+     Gene: GALC
+    Human: 1 M
+Alignment: 71 M
+M    33
+V     1
+Name: count, dtype: int64
+
+M XP_053458014.1 Nycticebus coucang
+M XP_012658937.1 Otolemur garnettii
+M XP_008071947.2 Carlito syrichta
+M XP_002807300.2 Callithrix jacchus
+M XP_064231179.1 Aotus nancymaae
+M XP_017380108.1 Cebus imitator
+M XP_032143586.1 Sapajus apella
+M XP_039324826.1 Saimiri boliviensis
+V XP_011939001.1 Cercocebus atys
+M XP_007985694.1 Chlorocebus sabaeus
+M XP_003902184.2 Papio anubis
+M XP_011829669.1 Mandrillus leucophaeus
+M XP_025247334.1 Theropithecus gelada
+M XP_077793799.1 Macaca mulatta
+M XP_005562021.3 Macaca fascicularis
+M XP_050655998.1 Macaca thibetana thibetana
+M XP_011804846.1 Colobus angolensis palliatus
+M XP_023061155.1 Piliocolobus tephrosceles
+M XP_033047580.1 Trachypithecus francoisi
+M XP_017718716.1 Rhinopithecus bieti
+M XP_010369619.1 Rhinopithecus roxellana
+M XP_032035285.2 Hylobates moloch
+M XP_055144476.1 Symphalangus syndactylus
+M XP_003260898.1 Nomascus leucogenys
+M XP_054303679.2 Pongo pygmaeus
+M XP_024087391.3 Pongo abelii
+M XP_018865546.2 Gorilla gorilla gorilla
+M XP_003832784.2 Pan paniscus
+M NP_000144.2 Homo sapiens
+M XP_016782020.3 Pan troglodytes
+M XP_012629454.1 Microcebus murinus
+M XP_012495857.1 Propithecus coquereli
+M XP_069321294.1 Eulemur rufifrons
+M XP_045418338.1 Lemur catta
+     Gene: GALC
+    Human: 1 M
+Alignment: 71 M
+M    33
+V     1
+Name: count, dtype: int64
+
+M XP_053458014.1 Nycticebus coucang
+M XP_012658937.1 Otolemur garnettii
+M XP_008071947.2 Carlito syrichta
+M XP_002807300.2 Callithrix jacchus
+M XP_064231179.1 Aotus nancymaae
+M XP_017380108.1 Cebus imitator
+M XP_032143586.1 Sapajus apella
+M XP_039324826.1 Saimiri boliviensis
+V XP_011939001.1 Cercocebus atys
+M XP_007985694.1 Chlorocebus sabaeus
+M XP_003902184.2 Papio anubis
+M XP_011829669.1 Mandrillus leucophaeus
+M XP_025247334.1 Theropithecus gelada
+M XP_077793799.1 Macaca mulatta
+M XP_005562021.3 Macaca fascicularis
+M XP_050655998.1 Macaca thibetana thibetana
+M XP_011804846.1 Colobus angolensis palliatus
+M XP_023061155.1 Piliocolobus tephrosceles
+M XP_033047580.1 Trachypithecus francoisi
+M XP_017718716.1 Rhinopithecus bieti
+M XP_010369619.1 Rhinopithecus roxellana
+M XP_032035285.2 Hylobates moloch
+M XP_055144476.1 Symphalangus syndactylus
+M XP_003260898.1 Nomascus leucogenys
+M XP_054303679.2 Pongo pygmaeus
+M XP_024087391.3 Pongo abelii
+M XP_018865546.2 Gorilla gorilla gorilla
+M XP_003832784.2 Pan paniscus
+M NP_000144.2 Homo sapiens
+M XP_016782020.3 Pan troglodytes
+M XP_012629454.1 Microcebus murinus
+M XP_012495857.1 Propithecus coquereli
+M XP_069321294.1 Eulemur rufifrons
+M XP_045418338.1 Lemur catta
+     Gene: GALNS
+    Human: 318 M
+Alignment: 466 M
+M    34
+V     1
+Name: count, dtype: int64
+
+M XP_026303165.1 Piliocolobus tephrosceles
+M XP_011783466.1 Colobus angolensis palliatus
+M XP_017714757.1 Rhinopithecus bieti
+M XP_010353851.2 Rhinopithecus roxellana
+M XP_011827275.1 Mandrillus leucophaeus
+M XP_021526698.2 Aotus nancymaae
+M XP_032140578.1 Sapajus apella
+M XP_017369400.1 Cebus imitator
+M XP_035138534.1 Callithrix jacchus
+M XP_039330906.2 Saimiri boliviensis
+M XP_054956462.1 Pan paniscus
+M XP_032012080.1 Hylobates moloch
+M XP_055088784.1 Symphalangus syndactylus
+M XP_030676149.1 Nomascus leucogenys
+M XP_054308764.2 Pongo pygmaeus
+M XP_024089745.2 Pongo abelii
+M NP_000503.1 Homo sapiens
+M XP_024205762.1 Pan troglodytes
+M XP_030862504.1 Gorilla gorilla gorilla
+M XP_007992549.3 Chlorocebus sabaeus
+M XP_033075234.1 Trachypithecus francoisi
+M XP_050629616.1 Macaca thibetana thibetana
+M XP_005592850.3 Macaca fascicularis
+M XP_014982279.2 Macaca mulatta
+M XP_011751615.2 Macaca nemestrina
+M XP_011922021.1 Cercocebus atys
+M XP_025225715.1 Theropithecus gelada
+M XP_009195318.2 Papio anubis
+V XP_021563077.1 Carlito syrichta
+M XP_053410980.1 Nycticebus coucang
+M XP_003800850.1 Otolemur garnettii
+M XP_020138298.2 Microcebus murinus
+M XP_012513141.1 Propithecus coquereli
+M XP_069312442.1 Eulemur rufifrons
+M XP_045389780.1 Lemur catta
+     Gene: GALNS
+    Human: 388 D
+Alignment: 540 D
+D    28
+N     6
+-     1
+Name: count, dtype: int64
+
+D XP_026303165.1 Piliocolobus tephrosceles
+D XP_011783466.1 Colobus angolensis palliatus
+- XP_017714757.1 Rhinopithecus bieti
+D XP_010353851.2 Rhinopithecus roxellana
+D XP_011827275.1 Mandrillus leucophaeus
+D XP_021526698.2 Aotus nancymaae
+D XP_032140578.1 Sapajus apella
+D XP_017369400.1 Cebus imitator
+D XP_035138534.1 Callithrix jacchus
+D XP_039330906.2 Saimiri boliviensis
+D XP_054956462.1 Pan paniscus
+D XP_032012080.1 Hylobates moloch
+D XP_055088784.1 Symphalangus syndactylus
+D XP_030676149.1 Nomascus leucogenys
+D XP_054308764.2 Pongo pygmaeus
+D XP_024089745.2 Pongo abelii
+D NP_000503.1 Homo sapiens
+D XP_024205762.1 Pan troglodytes
+D XP_030862504.1 Gorilla gorilla gorilla
+D XP_007992549.3 Chlorocebus sabaeus
+D XP_033075234.1 Trachypithecus francoisi
+D XP_050629616.1 Macaca thibetana thibetana
+D XP_005592850.3 Macaca fascicularis
+D XP_014982279.2 Macaca mulatta
+D XP_011751615.2 Macaca nemestrina
+D XP_011922021.1 Cercocebus atys
+D XP_025225715.1 Theropithecus gelada
+D XP_009195318.2 Papio anubis
+D XP_021563077.1 Carlito syrichta
+N XP_053410980.1 Nycticebus coucang
+N XP_003800850.1 Otolemur garnettii
+N XP_020138298.2 Microcebus murinus
+N XP_012513141.1 Propithecus coquereli
+N XP_069312442.1 Eulemur rufifrons
+N XP_045389780.1 Lemur catta
+     Gene: GALNS
+    Human: 94 R
+Alignment: 211 R
+R    34
+L     1
+Name: count, dtype: int64
+
+L XP_026303165.1 Piliocolobus tephrosceles
+R XP_011783466.1 Colobus angolensis palliatus
+R XP_017714757.1 Rhinopithecus bieti
+R XP_010353851.2 Rhinopithecus roxellana
+R XP_011827275.1 Mandrillus leucophaeus
+R XP_021526698.2 Aotus nancymaae
+R XP_032140578.1 Sapajus apella
+R XP_017369400.1 Cebus imitator
+R XP_035138534.1 Callithrix jacchus
+R XP_039330906.2 Saimiri boliviensis
+R XP_054956462.1 Pan paniscus
+R XP_032012080.1 Hylobates moloch
+R XP_055088784.1 Symphalangus syndactylus
+R XP_030676149.1 Nomascus leucogenys
+R XP_054308764.2 Pongo pygmaeus
+R XP_024089745.2 Pongo abelii
+R NP_000503.1 Homo sapiens
+R XP_024205762.1 Pan troglodytes
+R XP_030862504.1 Gorilla gorilla gorilla
+R XP_007992549.3 Chlorocebus sabaeus
+R XP_033075234.1 Trachypithecus francoisi
+R XP_050629616.1 Macaca thibetana thibetana
+R XP_005592850.3 Macaca fascicularis
+R XP_014982279.2 Macaca mulatta
+R XP_011751615.2 Macaca nemestrina
+R XP_011922021.1 Cercocebus atys
+R XP_025225715.1 Theropithecus gelada
+R XP_009195318.2 Papio anubis
+R XP_021563077.1 Carlito syrichta
+R XP_053410980.1 Nycticebus coucang
+R XP_003800850.1 Otolemur garnettii
+R XP_020138298.2 Microcebus murinus
+R XP_012513141.1 Propithecus coquereli
+R XP_069312442.1 Eulemur rufifrons
+R XP_045389780.1 Lemur catta
+     Gene: GALNS
+    Human: 496 W
+Alignment: 648 W
+W    32
+L     1
+S     1
+-     1
+Name: count, dtype: int64
+
+W XP_026303165.1 Piliocolobus tephrosceles
+L XP_011783466.1 Colobus angolensis palliatus
+W XP_017714757.1 Rhinopithecus bieti
+W XP_010353851.2 Rhinopithecus roxellana
+W XP_011827275.1 Mandrillus leucophaeus
+W XP_021526698.2 Aotus nancymaae
+W XP_032140578.1 Sapajus apella
+W XP_017369400.1 Cebus imitator
+W XP_035138534.1 Callithrix jacchus
+W XP_039330906.2 Saimiri boliviensis
+S XP_054956462.1 Pan paniscus
+W XP_032012080.1 Hylobates moloch
+W XP_055088784.1 Symphalangus syndactylus
+W XP_030676149.1 Nomascus leucogenys
+W XP_054308764.2 Pongo pygmaeus
+W XP_024089745.2 Pongo abelii
+W NP_000503.1 Homo sapiens
+W XP_024205762.1 Pan troglodytes
+W XP_030862504.1 Gorilla gorilla gorilla
+W XP_007992549.3 Chlorocebus sabaeus
+W XP_033075234.1 Trachypithecus francoisi
+- XP_050629616.1 Macaca thibetana thibetana
+W XP_005592850.3 Macaca fascicularis
+W XP_014982279.2 Macaca mulatta
+W XP_011751615.2 Macaca nemestrina
+W XP_011922021.1 Cercocebus atys
+W XP_025225715.1 Theropithecus gelada
+W XP_009195318.2 Papio anubis
+W XP_021563077.1 Carlito syrichta
+W XP_053410980.1 Nycticebus coucang
+W XP_003800850.1 Otolemur garnettii
+W XP_020138298.2 Microcebus murinus
+W XP_012513141.1 Propithecus coquereli
+W XP_069312442.1 Eulemur rufifrons
+W XP_045389780.1 Lemur catta
+     Gene: GALNS
+    Human: 113 I
+Alignment: 230 I
+I    33
+G     1
+V     1
+Name: count, dtype: int64
+
+G XP_026303165.1 Piliocolobus tephrosceles
+V XP_011783466.1 Colobus angolensis palliatus
+I XP_017714757.1 Rhinopithecus bieti
+I XP_010353851.2 Rhinopithecus roxellana
+I XP_011827275.1 Mandrillus leucophaeus
+I XP_021526698.2 Aotus nancymaae
+I XP_032140578.1 Sapajus apella
+I XP_017369400.1 Cebus imitator
+I XP_035138534.1 Callithrix jacchus
+I XP_039330906.2 Saimiri boliviensis
+I XP_054956462.1 Pan paniscus
+I XP_032012080.1 Hylobates moloch
+I XP_055088784.1 Symphalangus syndactylus
+I XP_030676149.1 Nomascus leucogenys
+I XP_054308764.2 Pongo pygmaeus
+I XP_024089745.2 Pongo abelii
+I NP_000503.1 Homo sapiens
+I XP_024205762.1 Pan troglodytes
+I XP_030862504.1 Gorilla gorilla gorilla
+I XP_007992549.3 Chlorocebus sabaeus
+I XP_033075234.1 Trachypithecus francoisi
+I XP_050629616.1 Macaca thibetana thibetana
+I XP_005592850.3 Macaca fascicularis
+I XP_014982279.2 Macaca mulatta
+I XP_011751615.2 Macaca nemestrina
+I XP_011922021.1 Cercocebus atys
+I XP_025225715.1 Theropithecus gelada
+I XP_009195318.2 Papio anubis
+I XP_021563077.1 Carlito syrichta
+I XP_053410980.1 Nycticebus coucang
+I XP_003800850.1 Otolemur garnettii
+I XP_020138298.2 Microcebus murinus
+I XP_012513141.1 Propithecus coquereli
+I XP_069312442.1 Eulemur rufifrons
+I XP_045389780.1 Lemur catta
+     Gene: GALT
+    Human: 223 R
+Alignment: 249 R
+R    27
+H     4
+C     2
+Name: count, dtype: int64
+
+R XP_070934053.1 Macaca nemestrina
+C XP_008068994.1 Carlito syrichta
+R XP_053425949.1 Nycticebus coucang
+R XP_003800307.1 Otolemur garnettii
+R XP_012625552.1 Microcebus murinus
+R XP_012512299.1 Propithecus coquereli
+R XP_069330487.1 Eulemur rufifrons
+R XP_045418884.1 Lemur catta
+R XP_050616753.1 Macaca thibetana thibetana
+R XP_009186860.2 Papio anubis
+H XP_033094120.1 Trachypithecus francoisi
+H XP_011924618.1 Cercocebus atys
+R XP_011805904.1 Colobus angolensis palliatus
+R XP_011835461.1 Mandrillus leucophaeus
+R XP_023059053.1 Piliocolobus tephrosceles
+R XP_017747545.1 Rhinopithecus bieti
+R XP_086588915.1 Theropithecus gelada
+R XP_073873350.1 Macaca fascicularis
+R XP_028690927.1 Macaca mulatta
+R XP_012318674.1 Aotus nancymaae
+R XP_003732050.1 Callithrix jacchus
+R XP_010330019.1 Saimiri boliviensis
+R XP_032155758.1 Sapajus apella
+R XP_017398495.1 Cebus imitator
+R NP_000146.2 Homo sapiens
+C XP_001163419.2 Pan troglodytes
+R XP_003829858.2 Pan paniscus
+H XP_004048011.1 Gorilla gorilla gorilla
+R XP_054376965.2 Pongo abelii
+R XP_054358709.1 Pongo pygmaeus
+H XP_003263433.1 Nomascus leucogenys
+R XP_032019924.1 Hylobates moloch
+R XP_055149891.1 Symphalangus syndactylus
+     Gene: GBA1
+    Human: 502 R
+Alignment: 506 R
+R    26
+C     1
+Name: count, dtype: int64
+
+R XP_069336586.1 Eulemur rufifrons
+R XP_045401239.1 Lemur catta
+R XP_012623305.1 Microcebus murinus
+R XP_012514200.1 Propithecus coquereli
+R XP_053461099.1 Nycticebus coucang
+R XP_012664043.1 Otolemur garnettii
+R XP_011932225.1 Cercocebus atys
+R XP_008048281.1 Carlito syrichta
+R XP_058295195.1 Hylobates moloch
+R XP_064226889.1 Aotus nancymaae
+R XP_039315823.1 Saimiri boliviensis
+R XP_017368968.1 Cebus imitator
+R XP_032129097.1 Sapajus apella
+C XP_031509384.1 Papio anubis
+R XP_011783700.1 Colobus angolensis palliatus
+R XP_030791629.1 Rhinopithecus roxellana
+R XP_033052140.1 Trachypithecus francoisi
+R XP_070940337.1 Macaca nemestrina
+R XP_014966754.3 Macaca mulatta
+R XP_086590985.1 Theropithecus gelada
+R XP_072864417.1 Chlorocebus sabaeus
+R XP_030680202.1 Nomascus leucogenys
+R NP_001127488.1 Pongo abelii
+R NP_000148.2 Homo sapiens
+R XP_054956797.1 Pan paniscus
+R NP_001008997.1 Pan troglodytes
+R XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 535 R
+Alignment: 539 R
+R    26
+H     1
+Name: count, dtype: int64
+
+R XP_069336586.1 Eulemur rufifrons
+R XP_045401239.1 Lemur catta
+R XP_012623305.1 Microcebus murinus
+R XP_012514200.1 Propithecus coquereli
+R XP_053461099.1 Nycticebus coucang
+R XP_012664043.1 Otolemur garnettii
+R XP_011932225.1 Cercocebus atys
+R XP_008048281.1 Carlito syrichta
+H XP_058295195.1 Hylobates moloch
+R XP_064226889.1 Aotus nancymaae
+R XP_039315823.1 Saimiri boliviensis
+R XP_017368968.1 Cebus imitator
+R XP_032129097.1 Sapajus apella
+R XP_031509384.1 Papio anubis
+R XP_011783700.1 Colobus angolensis palliatus
+R XP_030791629.1 Rhinopithecus roxellana
+R XP_033052140.1 Trachypithecus francoisi
+R XP_070940337.1 Macaca nemestrina
+R XP_014966754.3 Macaca mulatta
+R XP_086590985.1 Theropithecus gelada
+R XP_072864417.1 Chlorocebus sabaeus
+R XP_030680202.1 Nomascus leucogenys
+R NP_001127488.1 Pongo abelii
+R NP_000148.2 Homo sapiens
+R XP_054956797.1 Pan paniscus
+R NP_001008997.1 Pan troglodytes
+R XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 227 N
+Alignment: 229 N
+N    25
+S     2
+Name: count, dtype: int64
+
+N XP_069336586.1 Eulemur rufifrons
+N XP_045401239.1 Lemur catta
+N XP_012623305.1 Microcebus murinus
+N XP_012514200.1 Propithecus coquereli
+N XP_053461099.1 Nycticebus coucang
+N XP_012664043.1 Otolemur garnettii
+S XP_011932225.1 Cercocebus atys
+N XP_008048281.1 Carlito syrichta
+N XP_058295195.1 Hylobates moloch
+N XP_064226889.1 Aotus nancymaae
+N XP_039315823.1 Saimiri boliviensis
+N XP_017368968.1 Cebus imitator
+N XP_032129097.1 Sapajus apella
+S XP_031509384.1 Papio anubis
+N XP_011783700.1 Colobus angolensis palliatus
+N XP_030791629.1 Rhinopithecus roxellana
+N XP_033052140.1 Trachypithecus francoisi
+N XP_070940337.1 Macaca nemestrina
+N XP_014966754.3 Macaca mulatta
+N XP_086590985.1 Theropithecus gelada
+N XP_072864417.1 Chlorocebus sabaeus
+N XP_030680202.1 Nomascus leucogenys
+N NP_001127488.1 Pongo abelii
+N NP_000148.2 Homo sapiens
+N XP_054956797.1 Pan paniscus
+N NP_001008997.1 Pan troglodytes
+N XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 351 W
+Alignment: 353 W
+W    26
+C     1
+Name: count, dtype: int64
+
+W XP_069336586.1 Eulemur rufifrons
+W XP_045401239.1 Lemur catta
+W XP_012623305.1 Microcebus murinus
+W XP_012514200.1 Propithecus coquereli
+W XP_053461099.1 Nycticebus coucang
+W XP_012664043.1 Otolemur garnettii
+C XP_011932225.1 Cercocebus atys
+W XP_008048281.1 Carlito syrichta
+W XP_058295195.1 Hylobates moloch
+W XP_064226889.1 Aotus nancymaae
+W XP_039315823.1 Saimiri boliviensis
+W XP_017368968.1 Cebus imitator
+W XP_032129097.1 Sapajus apella
+W XP_031509384.1 Papio anubis
+W XP_011783700.1 Colobus angolensis palliatus
+W XP_030791629.1 Rhinopithecus roxellana
+W XP_033052140.1 Trachypithecus francoisi
+W XP_070940337.1 Macaca nemestrina
+W XP_014966754.3 Macaca mulatta
+W XP_086590985.1 Theropithecus gelada
+W XP_072864417.1 Chlorocebus sabaeus
+W XP_030680202.1 Nomascus leucogenys
+W NP_001127488.1 Pongo abelii
+W NP_000148.2 Homo sapiens
+W XP_054956797.1 Pan paniscus
+W NP_001008997.1 Pan troglodytes
+W XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 350 H
+Alignment: 352 H
+H    26
+R     1
+Name: count, dtype: int64
+
+H XP_069336586.1 Eulemur rufifrons
+H XP_045401239.1 Lemur catta
+H XP_012623305.1 Microcebus murinus
+H XP_012514200.1 Propithecus coquereli
+H XP_053461099.1 Nycticebus coucang
+H XP_012664043.1 Otolemur garnettii
+H XP_011932225.1 Cercocebus atys
+H XP_008048281.1 Carlito syrichta
+H XP_058295195.1 Hylobates moloch
+H XP_064226889.1 Aotus nancymaae
+H XP_039315823.1 Saimiri boliviensis
+H XP_017368968.1 Cebus imitator
+R XP_032129097.1 Sapajus apella
+H XP_031509384.1 Papio anubis
+H XP_011783700.1 Colobus angolensis palliatus
+H XP_030791629.1 Rhinopithecus roxellana
+H XP_033052140.1 Trachypithecus francoisi
+H XP_070940337.1 Macaca nemestrina
+H XP_014966754.3 Macaca mulatta
+H XP_086590985.1 Theropithecus gelada
+H XP_072864417.1 Chlorocebus sabaeus
+H XP_030680202.1 Nomascus leucogenys
+H NP_001127488.1 Pongo abelii
+H NP_000148.2 Homo sapiens
+H XP_054956797.1 Pan paniscus
+H NP_001008997.1 Pan troglodytes
+H XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 416 G
+Alignment: 419 G
+G    25
+S     2
+Name: count, dtype: int64
+
+G XP_069336586.1 Eulemur rufifrons
+G XP_045401239.1 Lemur catta
+G XP_012623305.1 Microcebus murinus
+G XP_012514200.1 Propithecus coquereli
+G XP_053461099.1 Nycticebus coucang
+G XP_012664043.1 Otolemur garnettii
+S XP_011932225.1 Cercocebus atys
+G XP_008048281.1 Carlito syrichta
+G XP_058295195.1 Hylobates moloch
+G XP_064226889.1 Aotus nancymaae
+G XP_039315823.1 Saimiri boliviensis
+G XP_017368968.1 Cebus imitator
+G XP_032129097.1 Sapajus apella
+S XP_031509384.1 Papio anubis
+G XP_011783700.1 Colobus angolensis palliatus
+G XP_030791629.1 Rhinopithecus roxellana
+G XP_033052140.1 Trachypithecus francoisi
+G XP_070940337.1 Macaca nemestrina
+G XP_014966754.3 Macaca mulatta
+G XP_086590985.1 Theropithecus gelada
+G XP_072864417.1 Chlorocebus sabaeus
+G XP_030680202.1 Nomascus leucogenys
+G NP_001127488.1 Pongo abelii
+G NP_000148.2 Homo sapiens
+G XP_054956797.1 Pan paniscus
+G NP_001008997.1 Pan troglodytes
+G XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 426 P
+Alignment: 429 P
+P    26
+L     1
+Name: count, dtype: int64
+
+P XP_069336586.1 Eulemur rufifrons
+P XP_045401239.1 Lemur catta
+P XP_012623305.1 Microcebus murinus
+P XP_012514200.1 Propithecus coquereli
+P XP_053461099.1 Nycticebus coucang
+P XP_012664043.1 Otolemur garnettii
+P XP_011932225.1 Cercocebus atys
+P XP_008048281.1 Carlito syrichta
+P XP_058295195.1 Hylobates moloch
+P XP_064226889.1 Aotus nancymaae
+P XP_039315823.1 Saimiri boliviensis
+P XP_017368968.1 Cebus imitator
+P XP_032129097.1 Sapajus apella
+P XP_031509384.1 Papio anubis
+P XP_011783700.1 Colobus angolensis palliatus
+L XP_030791629.1 Rhinopithecus roxellana
+P XP_033052140.1 Trachypithecus francoisi
+P XP_070940337.1 Macaca nemestrina
+P XP_014966754.3 Macaca mulatta
+P XP_086590985.1 Theropithecus gelada
+P XP_072864417.1 Chlorocebus sabaeus
+P XP_030680202.1 Nomascus leucogenys
+P NP_001127488.1 Pongo abelii
+P NP_000148.2 Homo sapiens
+P XP_054956797.1 Pan paniscus
+P NP_001008997.1 Pan troglodytes
+P XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 230 V
+Alignment: 232 V
+V    25
+G     2
+Name: count, dtype: int64
+
+V XP_069336586.1 Eulemur rufifrons
+V XP_045401239.1 Lemur catta
+V XP_012623305.1 Microcebus murinus
+V XP_012514200.1 Propithecus coquereli
+V XP_053461099.1 Nycticebus coucang
+V XP_012664043.1 Otolemur garnettii
+G XP_011932225.1 Cercocebus atys
+V XP_008048281.1 Carlito syrichta
+V XP_058295195.1 Hylobates moloch
+V XP_064226889.1 Aotus nancymaae
+V XP_039315823.1 Saimiri boliviensis
+V XP_017368968.1 Cebus imitator
+V XP_032129097.1 Sapajus apella
+G XP_031509384.1 Papio anubis
+V XP_011783700.1 Colobus angolensis palliatus
+V XP_030791629.1 Rhinopithecus roxellana
+V XP_033052140.1 Trachypithecus francoisi
+V XP_070940337.1 Macaca nemestrina
+V XP_014966754.3 Macaca mulatta
+V XP_086590985.1 Theropithecus gelada
+V XP_072864417.1 Chlorocebus sabaeus
+V XP_030680202.1 Nomascus leucogenys
+V NP_001127488.1 Pongo abelii
+V NP_000148.2 Homo sapiens
+V XP_054956797.1 Pan paniscus
+V NP_001008997.1 Pan troglodytes
+V XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 351 W
+Alignment: 353 W
+W    26
+C     1
+Name: count, dtype: int64
+
+W XP_069336586.1 Eulemur rufifrons
+W XP_045401239.1 Lemur catta
+W XP_012623305.1 Microcebus murinus
+W XP_012514200.1 Propithecus coquereli
+W XP_053461099.1 Nycticebus coucang
+W XP_012664043.1 Otolemur garnettii
+C XP_011932225.1 Cercocebus atys
+W XP_008048281.1 Carlito syrichta
+W XP_058295195.1 Hylobates moloch
+W XP_064226889.1 Aotus nancymaae
+W XP_039315823.1 Saimiri boliviensis
+W XP_017368968.1 Cebus imitator
+W XP_032129097.1 Sapajus apella
+W XP_031509384.1 Papio anubis
+W XP_011783700.1 Colobus angolensis palliatus
+W XP_030791629.1 Rhinopithecus roxellana
+W XP_033052140.1 Trachypithecus francoisi
+W XP_070940337.1 Macaca nemestrina
+W XP_014966754.3 Macaca mulatta
+W XP_086590985.1 Theropithecus gelada
+W XP_072864417.1 Chlorocebus sabaeus
+W XP_030680202.1 Nomascus leucogenys
+W NP_001127488.1 Pongo abelii
+W NP_000148.2 Homo sapiens
+W XP_054956797.1 Pan paniscus
+W NP_001008997.1 Pan troglodytes
+W XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GBA1
+    Human: 391 V
+Alignment: 394 V
+V    26
+A     1
+Name: count, dtype: int64
+
+V XP_069336586.1 Eulemur rufifrons
+V XP_045401239.1 Lemur catta
+V XP_012623305.1 Microcebus murinus
+V XP_012514200.1 Propithecus coquereli
+V XP_053461099.1 Nycticebus coucang
+V XP_012664043.1 Otolemur garnettii
+A XP_011932225.1 Cercocebus atys
+V XP_008048281.1 Carlito syrichta
+V XP_058295195.1 Hylobates moloch
+V XP_064226889.1 Aotus nancymaae
+V XP_039315823.1 Saimiri boliviensis
+V XP_017368968.1 Cebus imitator
+V XP_032129097.1 Sapajus apella
+V XP_031509384.1 Papio anubis
+V XP_011783700.1 Colobus angolensis palliatus
+V XP_030791629.1 Rhinopithecus roxellana
+V XP_033052140.1 Trachypithecus francoisi
+V XP_070940337.1 Macaca nemestrina
+V XP_014966754.3 Macaca mulatta
+V XP_086590985.1 Theropithecus gelada
+V XP_072864417.1 Chlorocebus sabaeus
+V XP_030680202.1 Nomascus leucogenys
+V NP_001127488.1 Pongo abelii
+V NP_000148.2 Homo sapiens
+V XP_054956797.1 Pan paniscus
+V NP_001008997.1 Pan troglodytes
+V XP_030866465.1 Gorilla gorilla gorilla
+     Gene: GCDH
+    Human: 298 A
+Alignment: 347 A
+A    24
+T    10
+Name: count, dtype: int64
+
+A XP_017750547.1 Rhinopithecus bieti
+T XP_008046221.1 Carlito syrichta
+T XP_008985624.1 Callithrix jacchus
+T XP_010327765.1 Saimiri boliviensis
+T XP_012291293.1 Aotus nancymaae
+T XP_032121802.1 Sapajus apella
+T XP_017353272.1 Cebus imitator
+A XP_031515710.1 Papio anubis
+A XP_010359926.1 Rhinopithecus roxellana
+A XP_030676551.1 Nomascus leucogenys
+A XP_055092702.1 Symphalangus syndactylus
+A XP_032025748.1 Hylobates moloch
+A XP_008965927.1 Pan paniscus
+A XP_018870743.1 Gorilla gorilla gorilla
+A NP_000150.1 Homo sapiens
+A XP_016790693.1 Pan troglodytes
+A NP_001127611.1 Pongo abelii
+A XP_054320151.1 Pongo pygmaeus
+A XP_011850291.1 Mandrillus leucophaeus
+A XP_025223145.1 Theropithecus gelada
+A XP_011949439.1 Cercocebus atys
+A XP_007993640.2 Chlorocebus sabaeus
+A XP_011711880.1 Macaca nemestrina
+A XP_001110430.2 Macaca mulatta
+A XP_045236083.2 Macaca fascicularis
+A XP_011810076.1 Colobus angolensis palliatus
+A XP_033051821.1 Trachypithecus francoisi
+A XP_026312695.1 Piliocolobus tephrosceles
+A XP_053441030.1 Nycticebus coucang
+A XP_003798069.1 Otolemur garnettii
+T XP_012496843.1 Propithecus coquereli
+T XP_012645886.1 Microcebus murinus
+T XP_069333769.1 Eulemur rufifrons
+T XP_045406285.1 Lemur catta
+     Gene: GCDH
+    Human: 191 M
+Alignment: 240 M
+M    32
+-     1
+R     1
+Name: count, dtype: int64
+
+- XP_017750547.1 Rhinopithecus bieti
+M XP_008046221.1 Carlito syrichta
+M XP_008985624.1 Callithrix jacchus
+M XP_010327765.1 Saimiri boliviensis
+M XP_012291293.1 Aotus nancymaae
+M XP_032121802.1 Sapajus apella
+M XP_017353272.1 Cebus imitator
+R XP_031515710.1 Papio anubis
+M XP_010359926.1 Rhinopithecus roxellana
+M XP_030676551.1 Nomascus leucogenys
+M XP_055092702.1 Symphalangus syndactylus
+M XP_032025748.1 Hylobates moloch
+M XP_008965927.1 Pan paniscus
+M XP_018870743.1 Gorilla gorilla gorilla
+M NP_000150.1 Homo sapiens
+M XP_016790693.1 Pan troglodytes
+M NP_001127611.1 Pongo abelii
+M XP_054320151.1 Pongo pygmaeus
+M XP_011850291.1 Mandrillus leucophaeus
+M XP_025223145.1 Theropithecus gelada
+M XP_011949439.1 Cercocebus atys
+M XP_007993640.2 Chlorocebus sabaeus
+M XP_011711880.1 Macaca nemestrina
+M XP_001110430.2 Macaca mulatta
+M XP_045236083.2 Macaca fascicularis
+M XP_011810076.1 Colobus angolensis palliatus
+M XP_033051821.1 Trachypithecus francoisi
+M XP_026312695.1 Piliocolobus tephrosceles
+M XP_053441030.1 Nycticebus coucang
+M XP_003798069.1 Otolemur garnettii
+M XP_012496843.1 Propithecus coquereli
+M XP_012645886.1 Microcebus murinus
+M XP_069333769.1 Eulemur rufifrons
+M XP_045406285.1 Lemur catta
+     Gene: HBB
+    Human: 102 E
+Alignment: 102 E
+E    18
+Q     1
+Name: count, dtype: int64
+
+Q XP_012642085.1 Microcebus murinus
+E XP_008050892.1 Carlito syrichta
+E XP_003781034.1 Otolemur garnettii
+E XP_003923418.1 Saimiri boliviensis
+E XP_023065381.1 Piliocolobus tephrosceles
+E XP_011818991.1 Colobus angolensis palliatus
+E NP_001316847.1 Chlorocebus sabaeus
+E NP_001157900.1 Macaca mulatta
+E XP_045227322.1 Macaca fascicularis
+E NP_001162318.1 Papio anubis
+E XP_025213811.1 Theropithecus gelada
+E XP_002754937.1 Callithrix jacchus
+E NP_000509.1 Homo sapiens
+E XP_018891709.1 Gorilla gorilla gorilla
+E XP_004090697.3 Nomascus leucogenys
+E XP_002822173.1 Pongo abelii
+E XP_012312232.1 Aotus nancymaae
+E XP_017362775.1 Cebus imitator
+E XP_032096415.1 Sapajus apella
+     Gene: HGD
+    Human: 53 R
+Alignment: 53 R
+R    28
+-     1
+Q     1
+Name: count, dtype: int64
+
+R XP_073889477.1 Macaca fascicularis
+R XP_008052496.1 Carlito syrichta
+R XP_053420786.1 Nycticebus coucang
+R XP_003795136.1 Otolemur garnettii
+R XP_002758811.1 Callithrix jacchus
+R XP_030657575.1 Nomascus leucogenys
+R XP_055115434.1 Symphalangus syndactylus
+R XP_032005965.1 Hylobates moloch
+R NP_001124743.1 Pongo abelii
+R XP_054337027.1 Pongo pygmaeus
+- XP_072865854.1 Chlorocebus sabaeus
+Q XP_011923849.1 Cercocebus atys
+R XP_050637848.1 Macaca thibetana thibetana
+R XP_001110996.1 Macaca mulatta
+R XP_025231390.1 Theropithecus gelada
+R XP_003894032.1 Papio anubis
+R XP_023070106.1 Piliocolobus tephrosceles
+R XP_033066987.1 Trachypithecus francoisi
+R XP_010385386.1 Rhinopithecus roxellana
+R XP_017746774.1 Rhinopithecus bieti
+R XP_001164938.1 Pan troglodytes
+R XP_018880223.1 Gorilla gorilla gorilla
+R NP_000178.2 Homo sapiens
+R XP_032154838.1 Sapajus apella
+R XP_012319338.2 Aotus nancymaae
+R XP_003935450.2 Saimiri boliviensis
+R XP_012497174.1 Propithecus coquereli
+R XP_012635997.1 Microcebus murinus
+R XP_069331205.1 Eulemur rufifrons
+R XP_045396137.1 Lemur catta
+     Gene: IVD
+    Human: 47 R
+Alignment: 53 R
+R    22
+K    12
+Name: count, dtype: int64
+
+K XP_008068042.1 Carlito syrichta
+R XP_030785879.1 Rhinopithecus roxellana
+K XP_053450515.1 Nycticebus coucang
+K XP_003791767.1 Otolemur garnettii
+R XP_073851621.1 Macaca fascicularis
+R XP_021796114.1 Papio anubis
+K XP_032117034.1 Sapajus apella
+K XP_017386440.1 Cebus imitator
+K XP_012317923.1 Aotus nancymaae
+K XP_003935766.1 Saimiri boliviensis
+K XP_002753594.1 Callithrix jacchus
+R XP_008015221.1 Chlorocebus sabaeus
+R XP_011844661.1 Mandrillus leucophaeus
+R XP_011890162.1 Cercocebus atys
+R XP_050655484.1 Macaca thibetana thibetana
+R XP_001096354.1 Macaca mulatta
+R XP_086581552.1 Theropithecus gelada
+R XP_070923196.1 Macaca nemestrina
+R XP_011788013.1 Colobus angolensis palliatus
+R XP_017719512.1 Rhinopithecus bieti
+R XP_033046456.1 Trachypithecus francoisi
+R XP_055134688.1 Symphalangus syndactylus
+R XP_032031835.1 Hylobates moloch
+R XP_030670162.1 Nomascus leucogenys
+R XP_054306235.1 Pongo pygmaeus
+R NP_001125529.1 Pongo abelii
+R XP_001143110.3 Pan troglodytes
+R XP_054954600.2 Pan paniscus
+R NP_002216.3 Homo sapiens
+R XP_004056031.3 Gorilla gorilla gorilla
+K XP_012621873.1 Microcebus murinus
+K XP_012504951.1 Propithecus coquereli
+K XP_069340865.1 Eulemur rufifrons
+K XP_045389242.1 Lemur catta
+     Gene: IVD
+    Human: 147 E
+Alignment: 153 E
+E    32
+K     2
+Name: count, dtype: int64
+
+E XP_008068042.1 Carlito syrichta
+K XP_030785879.1 Rhinopithecus roxellana
+E XP_053450515.1 Nycticebus coucang
+E XP_003791767.1 Otolemur garnettii
+E XP_073851621.1 Macaca fascicularis
+E XP_021796114.1 Papio anubis
+E XP_032117034.1 Sapajus apella
+E XP_017386440.1 Cebus imitator
+E XP_012317923.1 Aotus nancymaae
+E XP_003935766.1 Saimiri boliviensis
+E XP_002753594.1 Callithrix jacchus
+E XP_008015221.1 Chlorocebus sabaeus
+E XP_011844661.1 Mandrillus leucophaeus
+E XP_011890162.1 Cercocebus atys
+E XP_050655484.1 Macaca thibetana thibetana
+E XP_001096354.1 Macaca mulatta
+E XP_086581552.1 Theropithecus gelada
+E XP_070923196.1 Macaca nemestrina
+E XP_011788013.1 Colobus angolensis palliatus
+K XP_017719512.1 Rhinopithecus bieti
+E XP_033046456.1 Trachypithecus francoisi
+E XP_055134688.1 Symphalangus syndactylus
+E XP_032031835.1 Hylobates moloch
+E XP_030670162.1 Nomascus leucogenys
+E XP_054306235.1 Pongo pygmaeus
+E NP_001125529.1 Pongo abelii
+E XP_001143110.3 Pan troglodytes
+E XP_054954600.2 Pan paniscus
+E NP_002216.3 Homo sapiens
+E XP_004056031.3 Gorilla gorilla gorilla
+E XP_012621873.1 Microcebus murinus
+E XP_012504951.1 Propithecus coquereli
+E XP_069340865.1 Eulemur rufifrons
+E XP_045389242.1 Lemur catta
+     Gene: KCNQ1
+    Human: 114 L
+Alignment: 307 L
+L    29
+M     2
+-     2
+P     1
+Name: count, dtype: int64
+
+L XP_053416788.1 Nycticebus coucang
+L XP_003798416.1 Otolemur garnettii
+L XP_020142406.1 Microcebus murinus
+L XP_008056392.1 Carlito syrichta
+L XP_003734381.2 Callithrix jacchus
+L XP_021532636.1 Aotus nancymaae
+L XP_039327092.2 Saimiri boliviensis
+L XP_032124374.1 Sapajus apella
+L XP_017363210.1 Cebus imitator
+L XP_037854768.1 Chlorocebus sabaeus
+L XP_055127739.2 Symphalangus syndactylus
+L XP_032009692.1 Hylobates moloch
+L XP_016775680.1 Pan troglodytes
+L XP_008967333.1 Pan paniscus
+L XP_055211133.1 Gorilla gorilla gorilla
+L NP_000209.2 Homo sapiens
+L XP_054294670.1 Pongo pygmaeus
+L XP_024111353.1 Pongo abelii
+M XP_011785491.1 Colobus angolensis palliatus
+L XP_017741504.1 Rhinopithecus bieti
+M XP_011843587.1 Mandrillus leucophaeus
+L XP_031792548.1 Piliocolobus tephrosceles
+L XP_033063420.1 Trachypithecus francoisi
+L XP_030773835.1 Rhinopithecus roxellana
+L XP_017803633.2 Papio anubis
+L XP_025213707.1 Theropithecus gelada
+L XP_011896599.1 Cercocebus atys
+- XP_073868991.1 Macaca fascicularis
+L XP_050614250.1 Macaca thibetana thibetana
+L XP_011719592.1 Macaca nemestrina
+L XP_028688894.1 Macaca mulatta
+P XP_012520406.1 Propithecus coquereli
+L XP_069327940.1 Eulemur rufifrons
+- XP_045414415.1 Lemur catta
+     Gene: KCNQ1
+    Human: 115 E
+Alignment: 308 E
+E    27
+K     2
+-     2
+G     1
+L     1
+Q     1
+Name: count, dtype: int64
+
+E XP_053416788.1 Nycticebus coucang
+E XP_003798416.1 Otolemur garnettii
+E XP_020142406.1 Microcebus murinus
+G XP_008056392.1 Carlito syrichta
+E XP_003734381.2 Callithrix jacchus
+E XP_021532636.1 Aotus nancymaae
+E XP_039327092.2 Saimiri boliviensis
+E XP_032124374.1 Sapajus apella
+E XP_017363210.1 Cebus imitator
+E XP_037854768.1 Chlorocebus sabaeus
+E XP_055127739.2 Symphalangus syndactylus
+E XP_032009692.1 Hylobates moloch
+E XP_016775680.1 Pan troglodytes
+E XP_008967333.1 Pan paniscus
+E XP_055211133.1 Gorilla gorilla gorilla
+E NP_000209.2 Homo sapiens
+E XP_054294670.1 Pongo pygmaeus
+E XP_024111353.1 Pongo abelii
+K XP_011785491.1 Colobus angolensis palliatus
+L XP_017741504.1 Rhinopithecus bieti
+K XP_011843587.1 Mandrillus leucophaeus
+E XP_031792548.1 Piliocolobus tephrosceles
+E XP_033063420.1 Trachypithecus francoisi
+E XP_030773835.1 Rhinopithecus roxellana
+E XP_017803633.2 Papio anubis
+E XP_025213707.1 Theropithecus gelada
+E XP_011896599.1 Cercocebus atys
+- XP_073868991.1 Macaca fascicularis
+E XP_050614250.1 Macaca thibetana thibetana
+E XP_011719592.1 Macaca nemestrina
+E XP_028688894.1 Macaca mulatta
+Q XP_012520406.1 Propithecus coquereli
+E XP_069327940.1 Eulemur rufifrons
+- XP_045414415.1 Lemur catta
+     Gene: KCNQ1
+    Human: 125 Y
+Alignment: 318 Y
+Y    27
+F     2
+-     2
+D     1
+A     1
+S     1
+Name: count, dtype: int64
+
+Y XP_053416788.1 Nycticebus coucang
+Y XP_003798416.1 Otolemur garnettii
+Y XP_020142406.1 Microcebus murinus
+D XP_008056392.1 Carlito syrichta
+Y XP_003734381.2 Callithrix jacchus
+Y XP_021532636.1 Aotus nancymaae
+Y XP_039327092.2 Saimiri boliviensis
+Y XP_032124374.1 Sapajus apella
+Y XP_017363210.1 Cebus imitator
+Y XP_037854768.1 Chlorocebus sabaeus
+Y XP_055127739.2 Symphalangus syndactylus
+Y XP_032009692.1 Hylobates moloch
+Y XP_016775680.1 Pan troglodytes
+Y XP_008967333.1 Pan paniscus
+Y XP_055211133.1 Gorilla gorilla gorilla
+Y NP_000209.2 Homo sapiens
+Y XP_054294670.1 Pongo pygmaeus
+Y XP_024111353.1 Pongo abelii
+F XP_011785491.1 Colobus angolensis palliatus
+A XP_017741504.1 Rhinopithecus bieti
+F XP_011843587.1 Mandrillus leucophaeus
+Y XP_031792548.1 Piliocolobus tephrosceles
+Y XP_033063420.1 Trachypithecus francoisi
+Y XP_030773835.1 Rhinopithecus roxellana
+Y XP_017803633.2 Papio anubis
+Y XP_025213707.1 Theropithecus gelada
+Y XP_011896599.1 Cercocebus atys
+- XP_073868991.1 Macaca fascicularis
+Y XP_050614250.1 Macaca thibetana thibetana
+Y XP_011719592.1 Macaca nemestrina
+Y XP_028688894.1 Macaca mulatta
+S XP_012520406.1 Propithecus coquereli
+Y XP_069327940.1 Eulemur rufifrons
+- XP_045414415.1 Lemur catta
+     Gene: KCNQ1
+    Human: 117 P
+Alignment: 310 P
+P    27
+S     2
+-     2
+E     1
+A     1
+R     1
+Name: count, dtype: int64
+
+P XP_053416788.1 Nycticebus coucang
+P XP_003798416.1 Otolemur garnettii
+P XP_020142406.1 Microcebus murinus
+E XP_008056392.1 Carlito syrichta
+P XP_003734381.2 Callithrix jacchus
+P XP_021532636.1 Aotus nancymaae
+P XP_039327092.2 Saimiri boliviensis
+P XP_032124374.1 Sapajus apella
+P XP_017363210.1 Cebus imitator
+P XP_037854768.1 Chlorocebus sabaeus
+P XP_055127739.2 Symphalangus syndactylus
+P XP_032009692.1 Hylobates moloch
+P XP_016775680.1 Pan troglodytes
+P XP_008967333.1 Pan paniscus
+P XP_055211133.1 Gorilla gorilla gorilla
+P NP_000209.2 Homo sapiens
+P XP_054294670.1 Pongo pygmaeus
+P XP_024111353.1 Pongo abelii
+S XP_011785491.1 Colobus angolensis palliatus
+A XP_017741504.1 Rhinopithecus bieti
+S XP_011843587.1 Mandrillus leucophaeus
+P XP_031792548.1 Piliocolobus tephrosceles
+P XP_033063420.1 Trachypithecus francoisi
+P XP_030773835.1 Rhinopithecus roxellana
+P XP_017803633.2 Papio anubis
+P XP_025213707.1 Theropithecus gelada
+P XP_011896599.1 Cercocebus atys
+- XP_073868991.1 Macaca fascicularis
+P XP_050614250.1 Macaca thibetana thibetana
+P XP_011719592.1 Macaca nemestrina
+P XP_028688894.1 Macaca mulatta
+R XP_012520406.1 Propithecus coquereli
+P XP_069327940.1 Eulemur rufifrons
+- XP_045414415.1 Lemur catta
+     Gene: KCNQ1
+    Human: 119 G
+Alignment: 312 G
+G    29
+-     3
+S     1
+N     1
+Name: count, dtype: int64
+
+G XP_053416788.1 Nycticebus coucang
+G XP_003798416.1 Otolemur garnettii
+G XP_020142406.1 Microcebus murinus
+S XP_008056392.1 Carlito syrichta
+G XP_003734381.2 Callithrix jacchus
+G XP_021532636.1 Aotus nancymaae
+G XP_039327092.2 Saimiri boliviensis
+G XP_032124374.1 Sapajus apella
+G XP_017363210.1 Cebus imitator
+G XP_037854768.1 Chlorocebus sabaeus
+G XP_055127739.2 Symphalangus syndactylus
+G XP_032009692.1 Hylobates moloch
+G XP_016775680.1 Pan troglodytes
+G XP_008967333.1 Pan paniscus
+G XP_055211133.1 Gorilla gorilla gorilla
+G NP_000209.2 Homo sapiens
+G XP_054294670.1 Pongo pygmaeus
+G XP_024111353.1 Pongo abelii
+G XP_011785491.1 Colobus angolensis palliatus
+- XP_017741504.1 Rhinopithecus bieti
+G XP_011843587.1 Mandrillus leucophaeus
+G XP_031792548.1 Piliocolobus tephrosceles
+G XP_033063420.1 Trachypithecus francoisi
+G XP_030773835.1 Rhinopithecus roxellana
+G XP_017803633.2 Papio anubis
+G XP_025213707.1 Theropithecus gelada
+G XP_011896599.1 Cercocebus atys
+- XP_073868991.1 Macaca fascicularis
+G XP_050614250.1 Macaca thibetana thibetana
+G XP_011719592.1 Macaca nemestrina
+G XP_028688894.1 Macaca mulatta
+N XP_012520406.1 Propithecus coquereli
+G XP_069327940.1 Eulemur rufifrons
+- XP_045414415.1 Lemur catta
+     Gene: LDLR
+    Human: 46 C
+Alignment: 83 C
+C    30
+-     3
+S     1
+Name: count, dtype: int64
+
+- XP_021573646.1 Carlito syrichta
+C XP_020139390.1 Microcebus murinus
+C XP_064237923.1 Aotus nancymaae
+C XP_002761791.3 Callithrix jacchus
+C XP_039321728.1 Saimiri boliviensis
+C XP_032107631.1 Sapajus apella
+- XP_037583448.1 Cebus imitator
+C XP_031790584.1 Piliocolobus tephrosceles
+S XP_011810343.1 Colobus angolensis palliatus
+C XP_030676686.1 Nomascus leucogenys
+C XP_055094492.1 Symphalangus syndactylus
+- XP_032025606.1 Hylobates moloch
+C XP_054319927.2 Pongo pygmaeus
+C XP_063576005.1 Pongo abelii
+C NP_000518.1 Homo sapiens
+C XP_018871450.1 Gorilla gorilla gorilla
+C XP_034800281.1 Pan paniscus
+C XP_024206933.1 Pan troglodytes
+C XP_011884149.1 Cercocebus atys
+C XP_033056644.1 Trachypithecus francoisi
+C XP_017724974.1 Rhinopithecus bieti
+C XP_030791739.1 Rhinopithecus roxellana
+C XP_072873051.1 Chlorocebus sabaeus
+C XP_025222238.1 Theropithecus gelada
+C XP_031515756.1 Papio anubis
+C XP_011850139.1 Mandrillus leucophaeus
+C XP_014978386.3 Macaca mulatta
+C XP_005588053.3 Macaca fascicularis
+C XP_070942884.1 Macaca nemestrina
+C XP_053439240.1 Nycticebus coucang
+C XP_023373820.1 Otolemur garnettii
+C XP_012496802.1 Propithecus coquereli
+C XP_069334632.1 Eulemur rufifrons
+C XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 583 H
+Alignment: 631 H
+H    33
+D     1
+Name: count, dtype: int64
+
+H XP_021573646.1 Carlito syrichta
+D XP_020139390.1 Microcebus murinus
+H XP_064237923.1 Aotus nancymaae
+H XP_002761791.3 Callithrix jacchus
+H XP_039321728.1 Saimiri boliviensis
+H XP_032107631.1 Sapajus apella
+H XP_037583448.1 Cebus imitator
+H XP_031790584.1 Piliocolobus tephrosceles
+H XP_011810343.1 Colobus angolensis palliatus
+H XP_030676686.1 Nomascus leucogenys
+H XP_055094492.1 Symphalangus syndactylus
+H XP_032025606.1 Hylobates moloch
+H XP_054319927.2 Pongo pygmaeus
+H XP_063576005.1 Pongo abelii
+H NP_000518.1 Homo sapiens
+H XP_018871450.1 Gorilla gorilla gorilla
+H XP_034800281.1 Pan paniscus
+H XP_024206933.1 Pan troglodytes
+H XP_011884149.1 Cercocebus atys
+H XP_033056644.1 Trachypithecus francoisi
+H XP_017724974.1 Rhinopithecus bieti
+H XP_030791739.1 Rhinopithecus roxellana
+H XP_072873051.1 Chlorocebus sabaeus
+H XP_025222238.1 Theropithecus gelada
+H XP_031515756.1 Papio anubis
+H XP_011850139.1 Mandrillus leucophaeus
+H XP_014978386.3 Macaca mulatta
+H XP_005588053.3 Macaca fascicularis
+H XP_070942884.1 Macaca nemestrina
+H XP_053439240.1 Nycticebus coucang
+H XP_023373820.1 Otolemur garnettii
+H XP_012496802.1 Propithecus coquereli
+H XP_069334632.1 Eulemur rufifrons
+H XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 579 D
+Alignment: 627 D
+D    33
+G     1
+Name: count, dtype: int64
+
+D XP_021573646.1 Carlito syrichta
+G XP_020139390.1 Microcebus murinus
+D XP_064237923.1 Aotus nancymaae
+D XP_002761791.3 Callithrix jacchus
+D XP_039321728.1 Saimiri boliviensis
+D XP_032107631.1 Sapajus apella
+D XP_037583448.1 Cebus imitator
+D XP_031790584.1 Piliocolobus tephrosceles
+D XP_011810343.1 Colobus angolensis palliatus
+D XP_030676686.1 Nomascus leucogenys
+D XP_055094492.1 Symphalangus syndactylus
+D XP_032025606.1 Hylobates moloch
+D XP_054319927.2 Pongo pygmaeus
+D XP_063576005.1 Pongo abelii
+D NP_000518.1 Homo sapiens
+D XP_018871450.1 Gorilla gorilla gorilla
+D XP_034800281.1 Pan paniscus
+D XP_024206933.1 Pan troglodytes
+D XP_011884149.1 Cercocebus atys
+D XP_033056644.1 Trachypithecus francoisi
+D XP_017724974.1 Rhinopithecus bieti
+D XP_030791739.1 Rhinopithecus roxellana
+D XP_072873051.1 Chlorocebus sabaeus
+D XP_025222238.1 Theropithecus gelada
+D XP_031515756.1 Papio anubis
+D XP_011850139.1 Mandrillus leucophaeus
+D XP_014978386.3 Macaca mulatta
+D XP_005588053.3 Macaca fascicularis
+D XP_070942884.1 Macaca nemestrina
+D XP_053439240.1 Nycticebus coucang
+D XP_023373820.1 Otolemur garnettii
+D XP_012496802.1 Propithecus coquereli
+D XP_069334632.1 Eulemur rufifrons
+D XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 88 R
+Alignment: 125 R
+R    30
+-     3
+K     1
+Name: count, dtype: int64
+
+K XP_021573646.1 Carlito syrichta
+R XP_020139390.1 Microcebus murinus
+R XP_064237923.1 Aotus nancymaae
+R XP_002761791.3 Callithrix jacchus
+R XP_039321728.1 Saimiri boliviensis
+R XP_032107631.1 Sapajus apella
+R XP_037583448.1 Cebus imitator
+- XP_031790584.1 Piliocolobus tephrosceles
+- XP_011810343.1 Colobus angolensis palliatus
+R XP_030676686.1 Nomascus leucogenys
+R XP_055094492.1 Symphalangus syndactylus
+R XP_032025606.1 Hylobates moloch
+R XP_054319927.2 Pongo pygmaeus
+R XP_063576005.1 Pongo abelii
+R NP_000518.1 Homo sapiens
+R XP_018871450.1 Gorilla gorilla gorilla
+R XP_034800281.1 Pan paniscus
+R XP_024206933.1 Pan troglodytes
+R XP_011884149.1 Cercocebus atys
+R XP_033056644.1 Trachypithecus francoisi
+- XP_017724974.1 Rhinopithecus bieti
+R XP_030791739.1 Rhinopithecus roxellana
+R XP_072873051.1 Chlorocebus sabaeus
+R XP_025222238.1 Theropithecus gelada
+R XP_031515756.1 Papio anubis
+R XP_011850139.1 Mandrillus leucophaeus
+R XP_014978386.3 Macaca mulatta
+R XP_005588053.3 Macaca fascicularis
+R XP_070942884.1 Macaca nemestrina
+R XP_053439240.1 Nycticebus coucang
+R XP_023373820.1 Otolemur garnettii
+R XP_012496802.1 Propithecus coquereli
+R XP_069334632.1 Eulemur rufifrons
+R XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 301 D
+Alignment: 343 D
+D    32
+H     1
+V     1
+Name: count, dtype: int64
+
+D XP_021573646.1 Carlito syrichta
+D XP_020139390.1 Microcebus murinus
+D XP_064237923.1 Aotus nancymaae
+D XP_002761791.3 Callithrix jacchus
+D XP_039321728.1 Saimiri boliviensis
+D XP_032107631.1 Sapajus apella
+D XP_037583448.1 Cebus imitator
+D XP_031790584.1 Piliocolobus tephrosceles
+D XP_011810343.1 Colobus angolensis palliatus
+D XP_030676686.1 Nomascus leucogenys
+D XP_055094492.1 Symphalangus syndactylus
+D XP_032025606.1 Hylobates moloch
+D XP_054319927.2 Pongo pygmaeus
+D XP_063576005.1 Pongo abelii
+D NP_000518.1 Homo sapiens
+D XP_018871450.1 Gorilla gorilla gorilla
+D XP_034800281.1 Pan paniscus
+D XP_024206933.1 Pan troglodytes
+H XP_011884149.1 Cercocebus atys
+D XP_033056644.1 Trachypithecus francoisi
+D XP_017724974.1 Rhinopithecus bieti
+D XP_030791739.1 Rhinopithecus roxellana
+D XP_072873051.1 Chlorocebus sabaeus
+D XP_025222238.1 Theropithecus gelada
+D XP_031515756.1 Papio anubis
+D XP_011850139.1 Mandrillus leucophaeus
+D XP_014978386.3 Macaca mulatta
+D XP_005588053.3 Macaca fascicularis
+D XP_070942884.1 Macaca nemestrina
+D XP_053439240.1 Nycticebus coucang
+D XP_023373820.1 Otolemur garnettii
+V XP_012496802.1 Propithecus coquereli
+D XP_069334632.1 Eulemur rufifrons
+D XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 718 A
+Alignment: 766 A
+A    25
+I     3
+V     2
+T     2
+L     2
+Name: count, dtype: int64
+
+I XP_021573646.1 Carlito syrichta
+V XP_020139390.1 Microcebus murinus
+T XP_064237923.1 Aotus nancymaae
+T XP_002761791.3 Callithrix jacchus
+A XP_039321728.1 Saimiri boliviensis
+A XP_032107631.1 Sapajus apella
+A XP_037583448.1 Cebus imitator
+A XP_031790584.1 Piliocolobus tephrosceles
+A XP_011810343.1 Colobus angolensis palliatus
+A XP_030676686.1 Nomascus leucogenys
+A XP_055094492.1 Symphalangus syndactylus
+A XP_032025606.1 Hylobates moloch
+A XP_054319927.2 Pongo pygmaeus
+A XP_063576005.1 Pongo abelii
+A NP_000518.1 Homo sapiens
+A XP_018871450.1 Gorilla gorilla gorilla
+A XP_034800281.1 Pan paniscus
+A XP_024206933.1 Pan troglodytes
+A XP_011884149.1 Cercocebus atys
+A XP_033056644.1 Trachypithecus francoisi
+A XP_017724974.1 Rhinopithecus bieti
+A XP_030791739.1 Rhinopithecus roxellana
+A XP_072873051.1 Chlorocebus sabaeus
+A XP_025222238.1 Theropithecus gelada
+A XP_031515756.1 Papio anubis
+A XP_011850139.1 Mandrillus leucophaeus
+A XP_014978386.3 Macaca mulatta
+A XP_005588053.3 Macaca fascicularis
+A XP_070942884.1 Macaca nemestrina
+L XP_053439240.1 Nycticebus coucang
+L XP_023373820.1 Otolemur garnettii
+I XP_012496802.1 Propithecus coquereli
+I XP_069334632.1 Eulemur rufifrons
+V XP_045402139.1 Lemur catta
+     Gene: LDLR
+    Human: 853 V
+Alignment: 988 V
+V    33
+I     1
+Name: count, dtype: int64
+
+I XP_021573646.1 Carlito syrichta
+V XP_020139390.1 Microcebus murinus
+V XP_064237923.1 Aotus nancymaae
+V XP_002761791.3 Callithrix jacchus
+V XP_039321728.1 Saimiri boliviensis
+V XP_032107631.1 Sapajus apella
+V XP_037583448.1 Cebus imitator
+V XP_031790584.1 Piliocolobus tephrosceles
+V XP_011810343.1 Colobus angolensis palliatus
+V XP_030676686.1 Nomascus leucogenys
+V XP_055094492.1 Symphalangus syndactylus
+V XP_032025606.1 Hylobates moloch
+V XP_054319927.2 Pongo pygmaeus
+V XP_063576005.1 Pongo abelii
+V NP_000518.1 Homo sapiens
+V XP_018871450.1 Gorilla gorilla gorilla
+V XP_034800281.1 Pan paniscus
+V XP_024206933.1 Pan troglodytes
+V XP_011884149.1 Cercocebus atys
+V XP_033056644.1 Trachypithecus francoisi
+V XP_017724974.1 Rhinopithecus bieti
+V XP_030791739.1 Rhinopithecus roxellana
+V XP_072873051.1 Chlorocebus sabaeus
+V XP_025222238.1 Theropithecus gelada
+V XP_031515756.1 Papio anubis
+V XP_011850139.1 Mandrillus leucophaeus
+V XP_014978386.3 Macaca mulatta
+V XP_005588053.3 Macaca fascicularis
+V XP_070942884.1 Macaca nemestrina
+V XP_053439240.1 Nycticebus coucang
+V XP_023373820.1 Otolemur garnettii
+V XP_012496802.1 Propithecus coquereli
+V XP_069334632.1 Eulemur rufifrons
+V XP_045402139.1 Lemur catta
+     Gene: MUTYH
+    Human: 386 Q
+Alignment: 406 Q
+Q    22
+R    12
+H     1
+Name: count, dtype: int64
+
+R XP_012631449.1 Microcebus murinus
+R XP_012504426.1 Propithecus coquereli
+R XP_069335977.1 Eulemur rufifrons
+R XP_045401511.1 Lemur catta
+R XP_053432967.1 Nycticebus coucang
+R XP_003801231.1 Otolemur garnettii
+R XP_008055613.1 Carlito syrichta
+Q XP_018873059.1 Gorilla gorilla gorilla
+Q NP_001121897.1 Homo sapiens
+Q XP_009454585.1 Pan troglodytes
+Q XP_063464019.1 Pan paniscus
+Q XP_032016535.1 Hylobates moloch
+Q XP_055110594.1 Symphalangus syndactylus
+Q XP_030679657.1 Nomascus leucogenys
+Q XP_054346147.1 Pongo pygmaeus
+Q XP_054391632.1 Pongo abelii
+Q XP_017737293.1 Rhinopithecus bieti
+Q XP_023077218.1 Piliocolobus tephrosceles
+Q XP_011801805.1 Colobus angolensis palliatus
+H XP_007977148.3 Chlorocebus sabaeus
+Q XP_033082515.1 Trachypithecus francoisi
+Q XP_030798502.1 Rhinopithecus roxellana
+Q XP_011934314.1 Cercocebus atys
+Q XP_025239807.2 Theropithecus gelada
+Q XP_011857265.1 Mandrillus leucophaeus
+Q XP_021796660.2 Papio anubis
+Q XP_015307246.2 Macaca fascicularis
+Q XP_077815200.1 Macaca mulatta
+Q XP_011762285.2 Macaca nemestrina
+Q XP_050654871.1 Macaca thibetana thibetana
+R XP_008999371.3 Callithrix jacchus
+R XP_003936952.3 Saimiri boliviensis
+R XP_012290157.1 Aotus nancymaae
+R XP_032103279.1 Sapajus apella
+R XP_017396312.1 Cebus imitator
+     Gene: MUTYH
+    Human: 83 S
+Alignment: 102 S
+P    25
+S     9
+-     1
+Name: count, dtype: int64
+
+P XP_012631449.1 Microcebus murinus
+P XP_012504426.1 Propithecus coquereli
+P XP_069335977.1 Eulemur rufifrons
+P XP_045401511.1 Lemur catta
+P XP_053432967.1 Nycticebus coucang
+P XP_003801231.1 Otolemur garnettii
+P XP_008055613.1 Carlito syrichta
+S XP_018873059.1 Gorilla gorilla gorilla
+S NP_001121897.1 Homo sapiens
+S XP_009454585.1 Pan troglodytes
+S XP_063464019.1 Pan paniscus
+S XP_032016535.1 Hylobates moloch
+S XP_055110594.1 Symphalangus syndactylus
+S XP_030679657.1 Nomascus leucogenys
+S XP_054346147.1 Pongo pygmaeus
+- XP_054391632.1 Pongo abelii
+P XP_017737293.1 Rhinopithecus bieti
+P XP_023077218.1 Piliocolobus tephrosceles
+P XP_011801805.1 Colobus angolensis palliatus
+P XP_007977148.3 Chlorocebus sabaeus
+P XP_033082515.1 Trachypithecus francoisi
+P XP_030798502.1 Rhinopithecus roxellana
+P XP_011934314.1 Cercocebus atys
+P XP_025239807.2 Theropithecus gelada
+P XP_011857265.1 Mandrillus leucophaeus
+P XP_021796660.2 Papio anubis
+P XP_015307246.2 Macaca fascicularis
+P XP_077815200.1 Macaca mulatta
+P XP_011762285.2 Macaca nemestrina
+P XP_050654871.1 Macaca thibetana thibetana
+P XP_008999371.3 Callithrix jacchus
+S XP_003936952.3 Saimiri boliviensis
+P XP_012290157.1 Aotus nancymaae
+P XP_032103279.1 Sapajus apella
+P XP_017396312.1 Cebus imitator
+     Gene: NAGLU
+    Human: 35 L
+Alignment: 44 L
+L    31
+-     2
+P     1
+R     1
+Name: count, dtype: int64
+
+- XP_008047020.1 Carlito syrichta
+P XP_011854414.1 Mandrillus leucophaeus
+L XP_012299318.2 Aotus nancymaae
+L XP_035157422.1 Callithrix jacchus
+L XP_010329005.2 Saimiri boliviensis
+L XP_032135496.1 Sapajus apella
+L XP_017364886.1 Cebus imitator
+R XP_017712084.1 Rhinopithecus bieti
+- XP_011785102.1 Colobus angolensis palliatus
+L XP_032019574.1 Hylobates moloch
+L XP_055112671.2 Symphalangus syndactylus
+L XP_030664144.1 Nomascus leucogenys
+L XP_054313588.1 Pongo pygmaeus
+L XP_002827555.2 Pongo abelii
+L XP_004041658.2 Gorilla gorilla gorilla
+L NP_000254.2 Homo sapiens
+L XP_034797710.1 Pan paniscus
+L XP_523654.2 Pan troglodytes
+L XP_033038833.1 Trachypithecus francoisi
+L XP_010384417.1 Rhinopithecus roxellana
+L XP_023059838.1 Piliocolobus tephrosceles
+L XP_008010821.3 Chlorocebus sabaeus
+L XP_005584302.3 Macaca fascicularis
+L XP_050618595.1 Macaca thibetana thibetana
+L XP_014975199.3 Macaca mulatta
+L XP_011723401.1 Macaca nemestrina
+L XP_086577544.1 Theropithecus gelada
+L XP_011902089.1 Cercocebus atys
+L XP_003913130.1 Papio anubis
+L XP_053424837.1 Nycticebus coucang
+L XP_003786703.1 Otolemur garnettii
+L XP_012598655.2 Microcebus murinus
+L XP_012512134.1 Propithecus coquereli
+L XP_069338663.1 Eulemur rufifrons
+L XP_045382981.1 Lemur catta
+     Gene: NAGLU
+    Human: 309 Y
+Alignment: 446 Y
+Y    33
+F     2
+Name: count, dtype: int64
+
+Y XP_008047020.1 Carlito syrichta
+Y XP_011854414.1 Mandrillus leucophaeus
+Y XP_012299318.2 Aotus nancymaae
+Y XP_035157422.1 Callithrix jacchus
+Y XP_010329005.2 Saimiri boliviensis
+Y XP_032135496.1 Sapajus apella
+Y XP_017364886.1 Cebus imitator
+Y XP_017712084.1 Rhinopithecus bieti
+Y XP_011785102.1 Colobus angolensis palliatus
+Y XP_032019574.1 Hylobates moloch
+Y XP_055112671.2 Symphalangus syndactylus
+Y XP_030664144.1 Nomascus leucogenys
+F XP_054313588.1 Pongo pygmaeus
+F XP_002827555.2 Pongo abelii
+Y XP_004041658.2 Gorilla gorilla gorilla
+Y NP_000254.2 Homo sapiens
+Y XP_034797710.1 Pan paniscus
+Y XP_523654.2 Pan troglodytes
+Y XP_033038833.1 Trachypithecus francoisi
+Y XP_010384417.1 Rhinopithecus roxellana
+Y XP_023059838.1 Piliocolobus tephrosceles
+Y XP_008010821.3 Chlorocebus sabaeus
+Y XP_005584302.3 Macaca fascicularis
+Y XP_050618595.1 Macaca thibetana thibetana
+Y XP_014975199.3 Macaca mulatta
+Y XP_011723401.1 Macaca nemestrina
+Y XP_086577544.1 Theropithecus gelada
+Y XP_011902089.1 Cercocebus atys
+Y XP_003913130.1 Papio anubis
+Y XP_053424837.1 Nycticebus coucang
+Y XP_003786703.1 Otolemur garnettii
+Y XP_012598655.2 Microcebus murinus
+Y XP_012512134.1 Propithecus coquereli
+Y XP_069338663.1 Eulemur rufifrons
+Y XP_045382981.1 Lemur catta
+     Gene: NAGLU
+    Human: 1 M
+Alignment: 10 M
+M    30
+-     2
+A     2
+L     1
+Name: count, dtype: int64
+
+- XP_008047020.1 Carlito syrichta
+L XP_011854414.1 Mandrillus leucophaeus
+M XP_012299318.2 Aotus nancymaae
+M XP_035157422.1 Callithrix jacchus
+M XP_010329005.2 Saimiri boliviensis
+M XP_032135496.1 Sapajus apella
+M XP_017364886.1 Cebus imitator
+M XP_017712084.1 Rhinopithecus bieti
+- XP_011785102.1 Colobus angolensis palliatus
+M XP_032019574.1 Hylobates moloch
+M XP_055112671.2 Symphalangus syndactylus
+M XP_030664144.1 Nomascus leucogenys
+M XP_054313588.1 Pongo pygmaeus
+M XP_002827555.2 Pongo abelii
+M XP_004041658.2 Gorilla gorilla gorilla
+M NP_000254.2 Homo sapiens
+M XP_034797710.1 Pan paniscus
+M XP_523654.2 Pan troglodytes
+M XP_033038833.1 Trachypithecus francoisi
+M XP_010384417.1 Rhinopithecus roxellana
+M XP_023059838.1 Piliocolobus tephrosceles
+M XP_008010821.3 Chlorocebus sabaeus
+A XP_005584302.3 Macaca fascicularis
+M XP_050618595.1 Macaca thibetana thibetana
+M XP_014975199.3 Macaca mulatta
+M XP_011723401.1 Macaca nemestrina
+M XP_086577544.1 Theropithecus gelada
+M XP_011902089.1 Cercocebus atys
+M XP_003913130.1 Papio anubis
+M XP_053424837.1 Nycticebus coucang
+M XP_003786703.1 Otolemur garnettii
+M XP_012598655.2 Microcebus murinus
+M XP_012512134.1 Propithecus coquereli
+M XP_069338663.1 Eulemur rufifrons
+A XP_045382981.1 Lemur catta
+     Gene: NPC1
+    Human: 372 R
+Alignment: 519 R
+R    30
+Q     2
+W     1
+Name: count, dtype: int64
+
+R XP_008058964.1 Carlito syrichta
+Q XP_053427651.1 Nycticebus coucang
+R XP_012657471.1 Otolemur garnettii
+R XP_012518129.1 Propithecus coquereli
+R XP_012601560.2 Microcebus murinus
+R XP_069324616.1 Eulemur rufifrons
+R XP_045383505.1 Lemur catta
+R XP_074240331.1 Saimiri boliviensis
+R XP_017739486.1 Rhinopithecus bieti
+R XP_030781882.1 Rhinopithecus roxellana
+R XP_033034007.1 Trachypithecus francoisi
+R XP_011794640.1 Colobus angolensis palliatus
+R XP_026311804.1 Piliocolobus tephrosceles
+R XP_011911535.1 Cercocebus atys
+R XP_011843477.1 Mandrillus leucophaeus
+R XP_005587086.3 Macaca fascicularis
+R XP_014977155.3 Macaca mulatta
+R XP_050623952.1 Macaca thibetana thibetana
+R XP_037838368.2 Chlorocebus sabaeus
+Q XP_003914281.2 Papio anubis
+R XP_025220781.1 Theropithecus gelada
+R XP_030666509.1 Nomascus leucogenys
+R XP_055092158.2 Symphalangus syndactylus
+R XP_032008534.1 Hylobates moloch
+R XP_054317010.2 Pongo pygmaeus
+R NP_000262.2 Homo sapiens
+R XP_018869631.2 Gorilla gorilla gorilla
+W XP_024206757.2 Pan troglodytes
+R XP_003830338.3 Pan paniscus
+R XP_032149084.1 Sapajus apella
+R XP_017354108.1 Cebus imitator
+R XP_035126640.1 Callithrix jacchus
+R XP_012300440.1 Aotus nancymaae
+     Gene: NPC1
+    Human: 167 S
+Alignment: 297 S
+S    32
+L     1
+Name: count, dtype: int64
+
+S XP_008058964.1 Carlito syrichta
+S XP_053427651.1 Nycticebus coucang
+S XP_012657471.1 Otolemur garnettii
+L XP_012518129.1 Propithecus coquereli
+S XP_012601560.2 Microcebus murinus
+S XP_069324616.1 Eulemur rufifrons
+S XP_045383505.1 Lemur catta
+S XP_074240331.1 Saimiri boliviensis
+S XP_017739486.1 Rhinopithecus bieti
+S XP_030781882.1 Rhinopithecus roxellana
+S XP_033034007.1 Trachypithecus francoisi
+S XP_011794640.1 Colobus angolensis palliatus
+S XP_026311804.1 Piliocolobus tephrosceles
+S XP_011911535.1 Cercocebus atys
+S XP_011843477.1 Mandrillus leucophaeus
+S XP_005587086.3 Macaca fascicularis
+S XP_014977155.3 Macaca mulatta
+S XP_050623952.1 Macaca thibetana thibetana
+S XP_037838368.2 Chlorocebus sabaeus
+S XP_003914281.2 Papio anubis
+S XP_025220781.1 Theropithecus gelada
+S XP_030666509.1 Nomascus leucogenys
+S XP_055092158.2 Symphalangus syndactylus
+S XP_032008534.1 Hylobates moloch
+S XP_054317010.2 Pongo pygmaeus
+S NP_000262.2 Homo sapiens
+S XP_018869631.2 Gorilla gorilla gorilla
+S XP_024206757.2 Pan troglodytes
+S XP_003830338.3 Pan paniscus
+S XP_032149084.1 Sapajus apella
+S XP_017354108.1 Cebus imitator
+S XP_035126640.1 Callithrix jacchus
+S XP_012300440.1 Aotus nancymaae
+     Gene: OCA2
+    Human: 780 G
+Alignment: 822 G
+G    33
+S     1
+Name: count, dtype: int64
+
+G XP_053438011.1 Nycticebus coucang
+G XP_003800217.1 Otolemur garnettii
+S XP_012503455.1 Propithecus coquereli
+G XP_020144648.2 Microcebus murinus
+G XP_069321930.1 Eulemur rufifrons
+G XP_045416370.1 Lemur catta
+G XP_074256243.1 Saimiri boliviensis
+G XP_032115867.1 Sapajus apella
+G XP_017363990.1 Cebus imitator
+G XP_017828730.4 Callithrix jacchus
+G XP_064223890.1 Aotus nancymaae
+G XP_011836873.1 Mandrillus leucophaeus
+G XP_054308316.1 Pongo pygmaeus
+G NP_001124965.3 Pongo abelii
+G XP_030669675.1 Nomascus leucogenys
+G XP_055134450.1 Symphalangus syndactylus
+G XP_032030335.1 Hylobates moloch
+G NP_000266.2 Homo sapiens
+G XP_016783295.3 Pan troglodytes
+G XP_004055917.5 Gorilla gorilla gorilla
+G XP_003828104.2 Pan paniscus
+G XP_026302981.1 Piliocolobus tephrosceles
+G XP_011798268.1 Colobus angolensis palliatus
+G XP_033046699.1 Trachypithecus francoisi
+G XP_017737899.1 Rhinopithecus bieti
+G XP_010353510.2 Rhinopithecus roxellana
+G XP_072868079.1 Chlorocebus sabaeus
+G XP_025246181.1 Theropithecus gelada
+G XP_011766838.2 Macaca nemestrina
+G XP_077795059.1 Macaca mulatta
+G XP_045251101.2 Macaca fascicularis
+G XP_050652089.1 Macaca thibetana thibetana
+G XP_011931059.1 Cercocebus atys
+G XP_003900728.2 Papio anubis
+     Gene: PAH
+    Human: 164 I
+Alignment: 185 I
+I    23
+T     5
+Name: count, dtype: int64
+
+I XP_053442669.1 Nycticebus coucang
+I XP_003783345.1 Otolemur garnettii
+I XP_008060410.1 Carlito syrichta
+I XP_012628136.1 Microcebus murinus
+I XP_012505717.1 Propithecus coquereli
+I XP_045409048.1 Lemur catta
+I XP_069346063.1 Eulemur rufifrons
+I NP_001124971.1 Pongo abelii
+I XP_054301667.1 Pongo pygmaeus
+I XP_033076760.1 Trachypithecus francoisi
+I XP_023044955.1 Piliocolobus tephrosceles
+I XP_017748935.1 Rhinopithecus bieti
+I XP_010355577.1 Rhinopithecus roxellana
+T XP_021778512.2 Papio anubis
+T XP_050606181.1 Macaca thibetana thibetana
+T XP_025258879.1 Theropithecus gelada
+T XP_001094859.1 Macaca mulatta
+T XP_005572100.1 Macaca fascicularis
+I XP_055093596.1 Symphalangus syndactylus
+I XP_032024754.1 Hylobates moloch
+I NP_000268.1 Homo sapiens
+I XP_004053827.1 Gorilla gorilla gorilla
+I XP_001156919.1 Pan troglodytes
+I XP_008956262.1 Pan paniscus
+I XP_012324641.2 Aotus nancymaae
+I XP_032155339.1 Sapajus apella
+I XP_003929669.1 Saimiri boliviensis
+I XP_002752958.1 Callithrix jacchus
+     Gene: PAH
+    Human: 176 R
+Alignment: 197 R
+R    25
+Q     3
+Name: count, dtype: int64
+
+R XP_053442669.1 Nycticebus coucang
+R XP_003783345.1 Otolemur garnettii
+R XP_008060410.1 Carlito syrichta
+R XP_012628136.1 Microcebus murinus
+R XP_012505717.1 Propithecus coquereli
+R XP_045409048.1 Lemur catta
+R XP_069346063.1 Eulemur rufifrons
+R NP_001124971.1 Pongo abelii
+R XP_054301667.1 Pongo pygmaeus
+R XP_033076760.1 Trachypithecus francoisi
+R XP_023044955.1 Piliocolobus tephrosceles
+R XP_017748935.1 Rhinopithecus bieti
+R XP_010355577.1 Rhinopithecus roxellana
+R XP_021778512.2 Papio anubis
+R XP_050606181.1 Macaca thibetana thibetana
+R XP_025258879.1 Theropithecus gelada
+R XP_001094859.1 Macaca mulatta
+R XP_005572100.1 Macaca fascicularis
+R XP_055093596.1 Symphalangus syndactylus
+R XP_032024754.1 Hylobates moloch
+R NP_000268.1 Homo sapiens
+R XP_004053827.1 Gorilla gorilla gorilla
+R XP_001156919.1 Pan troglodytes
+R XP_008956262.1 Pan paniscus
+Q XP_012324641.2 Aotus nancymaae
+R XP_032155339.1 Sapajus apella
+Q XP_003929669.1 Saimiri boliviensis
+Q XP_002752958.1 Callithrix jacchus
+     Gene: PAH
+    Human: 413 R
+Alignment: 434 R
+R    22
+H     5
+-     1
+Name: count, dtype: int64
+
+R XP_053442669.1 Nycticebus coucang
+R XP_003783345.1 Otolemur garnettii
+R XP_008060410.1 Carlito syrichta
+R XP_012628136.1 Microcebus murinus
+R XP_012505717.1 Propithecus coquereli
+R XP_045409048.1 Lemur catta
+R XP_069346063.1 Eulemur rufifrons
+- NP_001124971.1 Pongo abelii
+H XP_054301667.1 Pongo pygmaeus
+R XP_033076760.1 Trachypithecus francoisi
+R XP_023044955.1 Piliocolobus tephrosceles
+R XP_017748935.1 Rhinopithecus bieti
+R XP_010355577.1 Rhinopithecus roxellana
+R XP_021778512.2 Papio anubis
+R XP_050606181.1 Macaca thibetana thibetana
+R XP_025258879.1 Theropithecus gelada
+R XP_001094859.1 Macaca mulatta
+R XP_005572100.1 Macaca fascicularis
+R XP_055093596.1 Symphalangus syndactylus
+R XP_032024754.1 Hylobates moloch
+R NP_000268.1 Homo sapiens
+R XP_004053827.1 Gorilla gorilla gorilla
+R XP_001156919.1 Pan troglodytes
+R XP_008956262.1 Pan paniscus
+H XP_012324641.2 Aotus nancymaae
+H XP_032155339.1 Sapajus apella
+H XP_003929669.1 Saimiri boliviensis
+H XP_002752958.1 Callithrix jacchus
+     Gene: PAH
+    Human: 156 A
+Alignment: 177 A
+A    24
+E     2
+R     1
+G     1
+Name: count, dtype: int64
+
+A XP_053442669.1 Nycticebus coucang
+A XP_003783345.1 Otolemur garnettii
+A XP_008060410.1 Carlito syrichta
+R XP_012628136.1 Microcebus murinus
+E XP_012505717.1 Propithecus coquereli
+G XP_045409048.1 Lemur catta
+E XP_069346063.1 Eulemur rufifrons
+A NP_001124971.1 Pongo abelii
+A XP_054301667.1 Pongo pygmaeus
+A XP_033076760.1 Trachypithecus francoisi
+A XP_023044955.1 Piliocolobus tephrosceles
+A XP_017748935.1 Rhinopithecus bieti
+A XP_010355577.1 Rhinopithecus roxellana
+A XP_021778512.2 Papio anubis
+A XP_050606181.1 Macaca thibetana thibetana
+A XP_025258879.1 Theropithecus gelada
+A XP_001094859.1 Macaca mulatta
+A XP_005572100.1 Macaca fascicularis
+A XP_055093596.1 Symphalangus syndactylus
+A XP_032024754.1 Hylobates moloch
+A NP_000268.1 Homo sapiens
+A XP_004053827.1 Gorilla gorilla gorilla
+A XP_001156919.1 Pan troglodytes
+A XP_008956262.1 Pan paniscus
+A XP_012324641.2 Aotus nancymaae
+A XP_032155339.1 Sapajus apella
+A XP_003929669.1 Saimiri boliviensis
+A XP_002752958.1 Callithrix jacchus
+     Gene: PAX6
+    Human: 1 M
+Alignment: 83 M
+M    8
+C    5
+Y    3
+-    3
+G    1
+L    1
+P    1
+Name: count, dtype: int64
+
+Y XP_033061166.1 Trachypithecus francoisi
+Y XP_030773281.1 Rhinopithecus roxellana
+Y XP_031789822.1 Piliocolobus tephrosceles
+C XP_063527090.1 Pongo pygmaeus
+G XP_045413686.1 Lemur catta
+L XP_011820972.1 Mandrillus leucophaeus
+C XP_074257386.1 Saimiri boliviensis
+C XP_034788232.1 Pan paniscus
+C XP_032022217.1 Hylobates moloch
+C XP_055137984.1 Symphalangus syndactylus
+M XP_012307695.1 Aotus nancymaae
+M XP_009184623.1 Papio anubis
+M XP_032138226.1 Sapajus apella
+P XP_011791731.1 Colobus angolensis palliatus
+M XP_069327307.1 Eulemur rufifrons
+M NP_001245391.1 Homo sapiens
+- XP_054518166.1 Pan troglodytes
+- XP_030871608.2 Gorilla gorilla gorilla
+- XP_021568147.1 Carlito syrichta
+M XP_037853428.1 Chlorocebus sabaeus
+M XP_011917509.1 Cercocebus atys
+M XP_011722290.2 Macaca nemestrina
+     Gene: PKHD1
+    Human: 760 R
+Alignment: 765 R
+R    27
+H     5
+C     1
+Name: count, dtype: int64
+
+R XP_035151768.3 Callithrix jacchus
+R XP_032155554.1 Sapajus apella
+R XP_037583857.1 Cebus imitator
+R XP_021521118.2 Aotus nancymaae
+R XP_039323833.2 Saimiri boliviensis
+R XP_007970465.3 Chlorocebus sabaeus
+R XP_011836719.1 Mandrillus leucophaeus
+R XP_025238760.2 Theropithecus gelada
+R XP_021793057.2 Papio anubis
+R XP_077855944.1 Macaca mulatta
+R XP_050645204.1 Macaca thibetana thibetana
+R XP_070953051.1 Macaca nemestrina
+R XP_005552817.3 Macaca fascicularis
+H XP_023068761.1 Piliocolobus tephrosceles
+H XP_011815634.1 Colobus angolensis palliatus
+H XP_033073315.1 Trachypithecus francoisi
+H XP_017705097.1 Rhinopithecus bieti
+H XP_010362548.2 Rhinopithecus roxellana
+R XP_055119074.2 Symphalangus syndactylus
+R XP_031997014.1 Hylobates moloch
+R XP_003254212.2 Nomascus leucogenys
+R XP_054348240.2 Pongo pygmaeus
+R XP_024104185.3 Pongo abelii
+R XP_030868334.2 Gorilla gorilla gorilla
+R NP_619639.3 Homo sapiens
+R XP_518534.5 Pan troglodytes
+R XP_008956905.4 Pan paniscus
+R XP_053458513.1 Nycticebus coucang
+C XP_023368903.1 Otolemur garnettii
+R XP_075859417.1 Microcebus murinus
+R XP_012504005.1 Propithecus coquereli
+R XP_069343439.1 Eulemur rufifrons
+R XP_045399681.1 Lemur catta
+     Gene: PKHD1
+    Human: 222 I
+Alignment: 222 I
+I    32
+L     1
+Name: count, dtype: int64
+
+I XP_035151768.3 Callithrix jacchus
+I XP_032155554.1 Sapajus apella
+I XP_037583857.1 Cebus imitator
+I XP_021521118.2 Aotus nancymaae
+I XP_039323833.2 Saimiri boliviensis
+I XP_007970465.3 Chlorocebus sabaeus
+I XP_011836719.1 Mandrillus leucophaeus
+I XP_025238760.2 Theropithecus gelada
+I XP_021793057.2 Papio anubis
+I XP_077855944.1 Macaca mulatta
+I XP_050645204.1 Macaca thibetana thibetana
+I XP_070953051.1 Macaca nemestrina
+I XP_005552817.3 Macaca fascicularis
+I XP_023068761.1 Piliocolobus tephrosceles
+I XP_011815634.1 Colobus angolensis palliatus
+I XP_033073315.1 Trachypithecus francoisi
+I XP_017705097.1 Rhinopithecus bieti
+I XP_010362548.2 Rhinopithecus roxellana
+I XP_055119074.2 Symphalangus syndactylus
+I XP_031997014.1 Hylobates moloch
+I XP_003254212.2 Nomascus leucogenys
+I XP_054348240.2 Pongo pygmaeus
+I XP_024104185.3 Pongo abelii
+I XP_030868334.2 Gorilla gorilla gorilla
+I NP_619639.3 Homo sapiens
+I XP_518534.5 Pan troglodytes
+I XP_008956905.4 Pan paniscus
+I XP_053458513.1 Nycticebus coucang
+I XP_023368903.1 Otolemur garnettii
+I XP_075859417.1 Microcebus murinus
+I XP_012504005.1 Propithecus coquereli
+I XP_069343439.1 Eulemur rufifrons
+L XP_045399681.1 Lemur catta
+     Gene: PMM2
+    Human: 237 T
+Alignment: 271 T
+T    27
+R     2
+Name: count, dtype: int64
+
+T XP_008055856.1 Carlito syrichta
+T XP_011839594.1 Mandrillus leucophaeus
+T XP_053413316.1 Nycticebus coucang
+T XP_003802115.2 Otolemur garnettii
+T XP_017808659.1 Papio anubis
+T XP_069343058.1 Eulemur rufifrons
+T XP_045398512.1 Lemur catta
+T NP_000294.1 Homo sapiens
+T XP_033091680.1 Trachypithecus francoisi
+T XP_023081474.1 Piliocolobus tephrosceles
+T XP_011816771.1 Colobus angolensis palliatus
+T XP_004057223.1 Gorilla gorilla gorilla
+T XP_055096387.1 Symphalangus syndactylus
+T XP_016784872.1 Pan troglodytes
+T XP_054311182.1 Pongo pygmaeus
+T XP_050630474.1 Macaca thibetana thibetana
+T NP_001244362.1 Macaca mulatta
+T XP_011885861.1 Cercocebus atys
+T XP_025225334.1 Theropithecus gelada
+T XP_017729927.1 Rhinopithecus bieti
+T XP_010381939.1 Rhinopithecus roxellana
+T XP_012303706.1 Aotus nancymaae
+T XP_032113970.1 Sapajus apella
+T XP_003928557.3 Saimiri boliviensis
+T XP_002755925.1 Callithrix jacchus
+T XP_012640774.1 Microcebus murinus
+T XP_012503119.1 Propithecus coquereli
+R XP_032001228.1 Hylobates moloch
+R XP_054389417.1 Pongo abelii
+     Gene: PMM2
+    Human: 239 R
+Alignment: 273 R
+R    26
+K     1
+-     1
+S     1
+Name: count, dtype: int64
+
+R XP_008055856.1 Carlito syrichta
+R XP_011839594.1 Mandrillus leucophaeus
+R XP_053413316.1 Nycticebus coucang
+R XP_003802115.2 Otolemur garnettii
+R XP_017808659.1 Papio anubis
+R XP_069343058.1 Eulemur rufifrons
+R XP_045398512.1 Lemur catta
+R NP_000294.1 Homo sapiens
+R XP_033091680.1 Trachypithecus francoisi
+R XP_023081474.1 Piliocolobus tephrosceles
+R XP_011816771.1 Colobus angolensis palliatus
+R XP_004057223.1 Gorilla gorilla gorilla
+R XP_055096387.1 Symphalangus syndactylus
+R XP_016784872.1 Pan troglodytes
+R XP_054311182.1 Pongo pygmaeus
+R XP_050630474.1 Macaca thibetana thibetana
+R NP_001244362.1 Macaca mulatta
+R XP_011885861.1 Cercocebus atys
+R XP_025225334.1 Theropithecus gelada
+R XP_017729927.1 Rhinopithecus bieti
+R XP_010381939.1 Rhinopithecus roxellana
+R XP_012303706.1 Aotus nancymaae
+K XP_032113970.1 Sapajus apella
+R XP_003928557.3 Saimiri boliviensis
+R XP_002755925.1 Callithrix jacchus
+R XP_012640774.1 Microcebus murinus
+R XP_012503119.1 Propithecus coquereli
+- XP_032001228.1 Hylobates moloch
+S XP_054389417.1 Pongo abelii
+     Gene: RECQL4
+    Human: 1021 R
+Alignment: 1342 R
+R    22
+W     5
+P     4
+Q     3
+S     1
+Name: count, dtype: int64
+
+R XP_053414140.1 Nycticebus coucang
+R XP_023364124.1 Otolemur garnettii
+P XP_069321951.1 Eulemur rufifrons
+P XP_045417115.1 Lemur catta
+P XP_075861026.1 Microcebus murinus
+P XP_012503415.1 Propithecus coquereli
+S XP_008068161.1 Carlito syrichta
+W XP_064240796.1 Aotus nancymaae
+W XP_002759208.1 Callithrix jacchus
+W XP_039320673.1 Saimiri boliviensis
+W XP_032112419.1 Sapajus apella
+W XP_017367191.1 Cebus imitator
+R XP_011831141.1 Mandrillus leucophaeus
+R XP_008000146.3 Chlorocebus sabaeus
+R XP_011710212.2 Macaca nemestrina
+R XP_050658091.1 Macaca thibetana thibetana
+R XP_015001782.3 Macaca mulatta
+R XP_005564444.3 Macaca fascicularis
+R XP_011905641.1 Cercocebus atys
+Q XP_025250970.1 Theropithecus gelada
+R XP_003903331.2 Papio anubis
+R XP_026305499.1 Piliocolobus tephrosceles
+R XP_017739047.1 Rhinopithecus bieti
+R XP_011793402.1 Colobus angolensis palliatus
+R XP_033058982.1 Trachypithecus francoisi
+R XP_030776691.1 Rhinopithecus roxellana
+Q XP_054355306.1 Pongo pygmaeus
+Q XP_002819610.4 Pongo abelii
+R XP_030660648.1 Nomascus leucogenys
+R XP_055143664.1 Symphalangus syndactylus
+R XP_032616709.1 Hylobates moloch
+R XP_055204548.2 Gorilla gorilla gorilla
+R NP_004251.4 Homo sapiens
+R XP_520023.6 Pan troglodytes
+R XP_054972089.2 Pan paniscus
+     Gene: RP1
+    Human: 793 R
+Alignment: 808 R
+R    33
+G     1
+Name: count, dtype: int64
+
+R XP_053414826.1 Nycticebus coucang
+R XP_054512720.1 Pan troglodytes
+R XP_063525532.1 Pongo pygmaeus
+R XP_035133366.2 Callithrix jacchus
+R XP_012319188.2 Aotus nancymaae
+R XP_010344323.2 Saimiri boliviensis
+R XP_032151989.1 Sapajus apella
+R XP_017387243.1 Cebus imitator
+R XP_007998850.1 Chlorocebus sabaeus
+R XP_050658294.1 Macaca thibetana thibetana
+R XP_011740612.2 Macaca nemestrina
+R XP_001083644.2 Macaca mulatta
+R XP_015310349.3 Macaca fascicularis
+R XP_025250198.1 Theropithecus gelada
+R XP_031525424.1 Papio anubis
+R XP_011929215.1 Cercocebus atys
+R XP_011853483.1 Mandrillus leucophaeus
+R XP_033058676.1 Trachypithecus francoisi
+R XP_010386300.2 Rhinopithecus roxellana
+R XP_017745633.1 Rhinopithecus bieti
+R XP_011792969.1 Colobus angolensis palliatus
+R XP_023040003.1 Piliocolobus tephrosceles
+G XP_032615653.1 Hylobates moloch
+R XP_055142367.1 Symphalangus syndactylus
+R XP_030650913.1 Nomascus leucogenys
+R XP_054417599.2 Pongo abelii
+R XP_004047062.2 Gorilla gorilla gorilla
+R NP_006260.1 Homo sapiens
+R XP_008975093.1 Pan paniscus
+R XP_012663027.1 Otolemur garnettii
+R XP_012644737.2 Microcebus murinus
+R XP_012516851.1 Propithecus coquereli
+R XP_069322600.1 Eulemur rufifrons
+R XP_045416942.1 Lemur catta
+     Gene: SACS
+    Human: 1 M
+Alignment: 54 M
+M    24
+-     8
+F     1
+T     1
+Name: count, dtype: int64
+
+- XP_008071891.1 Carlito syrichta
+F XP_012296931.2 Aotus nancymaae
+T XP_074244032.1 Saimiri boliviensis
+M XP_035158229.2 Callithrix jacchus
+M XP_032115985.1 Sapajus apella
+M XP_017370215.1 Cebus imitator
+M XP_008019906.3 Chlorocebus sabaeus
+- XP_011855318.1 Mandrillus leucophaeus
+M XP_025220333.2 Theropithecus gelada
+M XP_003913715.3 Papio anubis
+M XP_011754008.2 Macaca nemestrina
+M XP_050623034.1 Macaca thibetana thibetana
+M XP_028693259.2 Macaca mulatta
+M XP_005585534.3 Macaca fascicularis
+- XP_017729976.1 Rhinopithecus bieti
+M XP_033093099.1 Trachypithecus francoisi
+M XP_030777905.1 Rhinopithecus roxellana
+M XP_023046045.2 Piliocolobus tephrosceles
+- XP_011814243.1 Colobus angolensis palliatus
+M XP_054302807.2 Pongo pygmaeus
+M XP_054385359.2 Pongo abelii
+M XP_004054297.3 Gorilla gorilla gorilla
+M NP_055178.3 Homo sapiens
+M XP_016780528.4 Pan troglodytes
+M XP_034792343.3 Pan paniscus
+M XP_055100002.2 Symphalangus syndactylus
+M XP_032006552.1 Hylobates moloch
+M XP_030669104.1 Nomascus leucogenys
+M XP_069323519.1 Eulemur rufifrons
+- XP_045422597.1 Lemur catta
+M XP_012599490.2 Microcebus murinus
+- XP_012505357.1 Propithecus coquereli
+- XP_053419452.1 Nycticebus coucang
+- XP_012664968.2 Otolemur garnettii
+     Gene: SLC26A4
+    Human: 422 V
+Alignment: 429 V
+V    27
+I     6
+Name: count, dtype: int64
+
+I XP_021565405.1 Carlito syrichta
+V XP_033049109.1 Trachypithecus francoisi
+V XP_007980738.1 Chlorocebus sabaeus
+V XP_009201918.2 Papio anubis
+V XP_011841760.1 Mandrillus leucophaeus
+V XP_011909961.1 Cercocebus atys
+V XP_050641162.1 Macaca thibetana thibetana
+V XP_028702001.2 Macaca mulatta
+V XP_011728732.2 Macaca nemestrina
+V XP_010380735.1 Rhinopithecus roxellana
+V XP_017745060.1 Rhinopithecus bieti
+V XP_011803591.1 Colobus angolensis palliatus
+V XP_023038878.1 Piliocolobus tephrosceles
+V NP_000432.1 Homo sapiens
+V XP_055248603.1 Gorilla gorilla gorilla
+V XP_009452244.2 Pan troglodytes
+V XP_008961818.2 Pan paniscus
+V XP_054350168.1 Pongo pygmaeus
+V XP_024105659.1 Pongo abelii
+V XP_032617270.1 Hylobates moloch
+V XP_003268184.1 Nomascus leucogenys
+V XP_063498184.1 Symphalangus syndactylus
+V XP_010342533.1 Saimiri boliviensis
+V XP_002751785.1 Callithrix jacchus
+V XP_012311377.2 Aotus nancymaae
+V XP_032132197.1 Sapajus apella
+V XP_017402315.1 Cebus imitator
+I XP_053465235.1 Nycticebus coucang
+I XP_003782839.2 Otolemur garnettii
+V XP_012601504.2 Microcebus murinus
+I XP_012505772.1 Propithecus coquereli
+I XP_069318278.1 Eulemur rufifrons
+I XP_045421398.1 Lemur catta
+     Gene: SYNE1
+    Human: 815 I
+Alignment: 830 I
+I    27
+V     4
+T     2
+-     1
+Name: count, dtype: int64
+
+I XP_021571700.1 Carlito syrichta
+I XP_011799175.1 Colobus angolensis palliatus
+I XP_008005808.3 Chlorocebus sabaeus
+I XP_011751949.2 Macaca nemestrina
+I XP_050642807.1 Macaca thibetana thibetana
+I XP_028703079.2 Macaca mulatta
+I XP_005552214.3 Macaca fascicularis
+I XP_011852197.1 Mandrillus leucophaeus
+I XP_011922096.1 Cercocebus atys
+I XP_025240303.1 Theropithecus gelada
+I XP_031523574.1 Papio anubis
+I XP_026310182.1 Piliocolobus tephrosceles
+- XP_017743104.1 Rhinopithecus bieti
+I XP_033090935.1 Trachypithecus francoisi
+I XP_030784504.1 Rhinopithecus roxellana
+I XP_063488261.1 Symphalangus syndactylus
+I XP_030665715.1 Nomascus leucogenys
+I XP_054346724.2 Pongo pygmaeus
+I XP_054414306.2 Pongo abelii
+I NP_892006.3 Homo sapiens
+I XP_018884799.3 Gorilla gorilla gorilla
+I XP_016812226.3 Pan troglodytes
+I XP_054970215.2 Pan paniscus
+I XP_008993508.4 Callithrix jacchus
+I XP_074253360.1 Saimiri boliviensis
+I XP_064216628.1 Aotus nancymaae
+I XP_032114669.1 Sapajus apella
+I XP_017393006.1 Cebus imitator
+T XP_053446481.1 Nycticebus coucang
+T XP_003797918.1 Otolemur garnettii
+V XP_012502236.1 Propithecus coquereli
+V XP_075858975.1 Microcebus murinus
+V XP_069344838.1 Eulemur rufifrons
+V XP_045400549.1 Lemur catta
+     Gene: TCIRG1
+    Human: 558 V
+Alignment: 560 V
+V    16
+M    13
+L     4
+Name: count, dtype: int64
+
+M XP_012308362.2 Aotus nancymaae
+M XP_035119427.1 Callithrix jacchus
+M XP_003941229.3 Saimiri boliviensis
+M XP_032138495.1 Sapajus apella
+M XP_017392441.1 Cebus imitator
+M XP_054293718.1 Pongo pygmaeus
+M XP_024111650.2 Pongo abelii
+V XP_031509622.1 Papio anubis
+V XP_025214172.2 Theropithecus gelada
+V XP_011896776.1 Cercocebus atys
+V XP_011842436.1 Mandrillus leucophaeus
+V XP_007960355.2 Chlorocebus sabaeus
+V XP_070930253.1 Macaca nemestrina
+V XP_014968993.2 Macaca mulatta
+V XP_050612565.1 Macaca thibetana thibetana
+V XP_026303466.1 Piliocolobus tephrosceles
+V XP_011797720.1 Colobus angolensis palliatus
+V XP_010364614.1 Rhinopithecus roxellana
+V XP_033062294.1 Trachypithecus francoisi
+V XP_017712723.1 Rhinopithecus bieti
+M XP_003274001.1 Nomascus leucogenys
+M XP_055126233.2 Symphalangus syndactylus
+M XP_032009576.1 Hylobates moloch
+M XP_004051712.1 Gorilla gorilla gorilla
+V NP_001427481.1 Homo sapiens
+V XP_054517442.1 Pan troglodytes
+V XP_003828794.4 Pan paniscus
+M XP_053416590.1 Nycticebus coucang
+M XP_003798437.1 Otolemur garnettii
+L XP_012612866.2 Microcebus murinus
+L XP_012521016.1 Propithecus coquereli
+L XP_069327841.1 Eulemur rufifrons
+L XP_045414236.1 Lemur catta
+     Gene: TMEM67
+    Human: 92 G
+Alignment: 92 G
+G    30
+-     2
+S     2
+R     1
+Name: count, dtype: int64
+
+G XP_008061905.1 Carlito syrichta
+G XP_037597776.1 Cebus imitator
+G XP_002759121.4 Callithrix jacchus
+G XP_012294017.2 Aotus nancymaae
+G XP_032105057.1 Sapajus apella
+G XP_003938813.1 Saimiri boliviensis
+G XP_032615940.2 Hylobates moloch
+G XP_018888481.2 Gorilla gorilla gorilla
+G XP_003821159.1 Pan paniscus
+G NP_714915.3 Homo sapiens
+G XP_528307.3 Pan troglodytes
+G XP_011916926.1 Cercocebus atys
+G XP_055142733.1 Symphalangus syndactylus
+G XP_030651118.1 Nomascus leucogenys
+G XP_054354898.2 Pongo pygmaeus
+G XP_002819322.3 Pongo abelii
+G XP_033058486.1 Trachypithecus francoisi
+G XP_017702825.1 Rhinopithecus bieti
+G XP_010356928.1 Rhinopithecus roxellana
+G XP_023078628.1 Piliocolobus tephrosceles
+G XP_011834071.1 Mandrillus leucophaeus
+G XP_011792425.1 Colobus angolensis palliatus
+G XP_007999279.1 Chlorocebus sabaeus
+G XP_003903019.3 Papio anubis
+G XP_025250966.1 Theropithecus gelada
+- XP_073855188.1 Macaca fascicularis
+G XP_002805487.3 Macaca mulatta
+G XP_011766534.2 Macaca nemestrina
+G XP_050656437.1 Macaca thibetana thibetana
+G XP_053414520.1 Nycticebus coucang
+G XP_003782613.1 Otolemur garnettii
+- XP_012498988.1 Propithecus coquereli
+R XP_012628320.1 Microcebus murinus
+S XP_069322326.1 Eulemur rufifrons
+S XP_045416724.1 Lemur catta
+     Gene: TTR
+    Human: 142 V
+Alignment: 142 V
+V    27
+I     1
+Name: count, dtype: int64
+
+V XP_010333768.1 Saimiri boliviensis
+V XP_032149005.1 Sapajus apella
+V NP_001254679.1 Callithrix jacchus
+V XP_012302669.1 Aotus nancymaae
+V XP_008071577.1 Carlito syrichta
+V XP_054316271.1 Pongo pygmaeus
+V NP_001127064.1 Pongo abelii
+V XP_055148491.1 Symphalangus syndactylus
+V XP_032008476.1 Hylobates moloch
+V NP_000362.1 Homo sapiens
+V XP_004059337.2 Gorilla gorilla gorilla
+V NP_001009137.1 Pan troglodytes
+V XP_003830303.2 Pan paniscus
+I XP_007972558.2 Chlorocebus sabaeus
+V XP_045233838.2 Macaca fascicularis
+V XP_011829762.1 Mandrillus leucophaeus
+V NP_001248608.1 Macaca mulatta
+V XP_023063511.2 Piliocolobus tephrosceles
+V XP_017713537.1 Rhinopithecus bieti
+V XP_010379114.1 Rhinopithecus roxellana
+V XP_033033949.1 Trachypithecus francoisi
+V XP_011788674.1 Colobus angolensis palliatus
+V XP_012638014.1 Microcebus murinus
+V XP_069324602.1 Eulemur rufifrons
+V XP_045383556.1 Lemur catta
+V XP_012512049.1 Propithecus coquereli
+V XP_053427103.1 Nycticebus coucang
+V XP_003784812.1 Otolemur garnettii
+     Gene: TTR
+    Human: 127 I
+Alignment: 127 I
+I    24
+V     4
+Name: count, dtype: int64
+
+V XP_010333768.1 Saimiri boliviensis
+V XP_032149005.1 Sapajus apella
+V NP_001254679.1 Callithrix jacchus
+V XP_012302669.1 Aotus nancymaae
+I XP_008071577.1 Carlito syrichta
+I XP_054316271.1 Pongo pygmaeus
+I NP_001127064.1 Pongo abelii
+I XP_055148491.1 Symphalangus syndactylus
+I XP_032008476.1 Hylobates moloch
+I NP_000362.1 Homo sapiens
+I XP_004059337.2 Gorilla gorilla gorilla
+I NP_001009137.1 Pan troglodytes
+I XP_003830303.2 Pan paniscus
+I XP_007972558.2 Chlorocebus sabaeus
+I XP_045233838.2 Macaca fascicularis
+I XP_011829762.1 Mandrillus leucophaeus
+I NP_001248608.1 Macaca mulatta
+I XP_023063511.2 Piliocolobus tephrosceles
+I XP_017713537.1 Rhinopithecus bieti
+I XP_010379114.1 Rhinopithecus roxellana
+I XP_033033949.1 Trachypithecus francoisi
+I XP_011788674.1 Colobus angolensis palliatus
+I XP_012638014.1 Microcebus murinus
+I XP_069324602.1 Eulemur rufifrons
+I XP_045383556.1 Lemur catta
+I XP_012512049.1 Propithecus coquereli
+I XP_053427103.1 Nycticebus coucang
+I XP_003784812.1 Otolemur garnettii
+     Gene: TTR
+    Human: 82 E
+Alignment: 82 E
+E    27
+K     1
+Name: count, dtype: int64
+
+E XP_010333768.1 Saimiri boliviensis
+E XP_032149005.1 Sapajus apella
+E NP_001254679.1 Callithrix jacchus
+E XP_012302669.1 Aotus nancymaae
+E XP_008071577.1 Carlito syrichta
+E XP_054316271.1 Pongo pygmaeus
+E NP_001127064.1 Pongo abelii
+E XP_055148491.1 Symphalangus syndactylus
+E XP_032008476.1 Hylobates moloch
+E NP_000362.1 Homo sapiens
+E XP_004059337.2 Gorilla gorilla gorilla
+E NP_001009137.1 Pan troglodytes
+E XP_003830303.2 Pan paniscus
+E XP_007972558.2 Chlorocebus sabaeus
+E XP_045233838.2 Macaca fascicularis
+K XP_011829762.1 Mandrillus leucophaeus
+E NP_001248608.1 Macaca mulatta
+E XP_023063511.2 Piliocolobus tephrosceles
+E XP_017713537.1 Rhinopithecus bieti
+E XP_010379114.1 Rhinopithecus roxellana
+E XP_033033949.1 Trachypithecus francoisi
+E XP_011788674.1 Colobus angolensis palliatus
+E XP_012638014.1 Microcebus murinus
+E XP_069324602.1 Eulemur rufifrons
+E XP_045383556.1 Lemur catta
+E XP_012512049.1 Propithecus coquereli
+E XP_053427103.1 Nycticebus coucang
+E XP_003784812.1 Otolemur garnettii
+     Gene: TTR
+    Human: 77 G
+Alignment: 77 G
+G    27
+R     1
+Name: count, dtype: int64
+
+G XP_010333768.1 Saimiri boliviensis
+G XP_032149005.1 Sapajus apella
+G NP_001254679.1 Callithrix jacchus
+G XP_012302669.1 Aotus nancymaae
+R XP_008071577.1 Carlito syrichta
+G XP_054316271.1 Pongo pygmaeus
+G NP_001127064.1 Pongo abelii
+G XP_055148491.1 Symphalangus syndactylus
+G XP_032008476.1 Hylobates moloch
+G NP_000362.1 Homo sapiens
+G XP_004059337.2 Gorilla gorilla gorilla
+G NP_001009137.1 Pan troglodytes
+G XP_003830303.2 Pan paniscus
+G XP_007972558.2 Chlorocebus sabaeus
+G XP_045233838.2 Macaca fascicularis
+G XP_011829762.1 Mandrillus leucophaeus
+G NP_001248608.1 Macaca mulatta
+G XP_023063511.2 Piliocolobus tephrosceles
+G XP_017713537.1 Rhinopithecus bieti
+G XP_010379114.1 Rhinopithecus roxellana
+G XP_033033949.1 Trachypithecus francoisi
+G XP_011788674.1 Colobus angolensis palliatus
+G XP_012638014.1 Microcebus murinus
+G XP_069324602.1 Eulemur rufifrons
+G XP_045383556.1 Lemur catta
+G XP_012512049.1 Propithecus coquereli
+G XP_053427103.1 Nycticebus coucang
+G XP_003784812.1 Otolemur garnettii
+     Gene: TTR
+    Human: 126 T
+Alignment: 126 T
+T    24
+I     4
+Name: count, dtype: int64
+
+I XP_010333768.1 Saimiri boliviensis
+I XP_032149005.1 Sapajus apella
+I NP_001254679.1 Callithrix jacchus
+I XP_012302669.1 Aotus nancymaae
+T XP_008071577.1 Carlito syrichta
+T XP_054316271.1 Pongo pygmaeus
+T NP_001127064.1 Pongo abelii
+T XP_055148491.1 Symphalangus syndactylus
+T XP_032008476.1 Hylobates moloch
+T NP_000362.1 Homo sapiens
+T XP_004059337.2 Gorilla gorilla gorilla
+T NP_001009137.1 Pan troglodytes
+T XP_003830303.2 Pan paniscus
+T XP_007972558.2 Chlorocebus sabaeus
+T XP_045233838.2 Macaca fascicularis
+T XP_011829762.1 Mandrillus leucophaeus
+T NP_001248608.1 Macaca mulatta
+T XP_023063511.2 Piliocolobus tephrosceles
+T XP_017713537.1 Rhinopithecus bieti
+T XP_010379114.1 Rhinopithecus roxellana
+T XP_033033949.1 Trachypithecus francoisi
+T XP_011788674.1 Colobus angolensis palliatus
+T XP_012638014.1 Microcebus murinus
+T XP_069324602.1 Eulemur rufifrons
+T XP_045383556.1 Lemur catta
+T XP_012512049.1 Propithecus coquereli
+T XP_053427103.1 Nycticebus coucang
+T XP_003784812.1 Otolemur garnettii
+     Gene: USH2A
+    Human: 3719 R
+Alignment: 3733 R
+R    33
+C     1
+Name: count, dtype: int64
+
+R XP_003930400.3 Saimiri boliviensis
+R XP_002760562.4 Callithrix jacchus
+R XP_064239573.1 Aotus nancymaae
+R XP_032145124.1 Sapajus apella
+R XP_017364716.1 Cebus imitator
+R XP_007986638.3 Chlorocebus sabaeus
+C XP_011896095.1 Cercocebus atys
+R XP_005540904.3 Macaca fascicularis
+R XP_014971746.3 Macaca mulatta
+R XP_024652258.2 Macaca nemestrina
+R XP_050636459.1 Macaca thibetana thibetana
+R XP_011842788.1 Mandrillus leucophaeus
+R XP_025223042.2 Theropithecus gelada
+R XP_021782893.2 Papio anubis
+R XP_033051544.1 Trachypithecus francoisi
+R XP_017725517.1 Rhinopithecus bieti
+R XP_030792353.1 Rhinopithecus roxellana
+R XP_023059505.1 Piliocolobus tephrosceles
+R XP_011784811.1 Colobus angolensis palliatus
+R XP_031992372.1 Hylobates moloch
+R XP_012362082.2 Nomascus leucogenys
+R XP_055089771.1 Symphalangus syndactylus
+R XP_054340278.1 Pongo pygmaeus
+R XP_024095075.2 Pongo abelii
+R XP_030871467.3 Gorilla gorilla gorilla
+R NP_996816.3 Homo sapiens
+R XP_016794151.3 Pan troglodytes
+R XP_003814198.3 Pan paniscus
+R XP_053463887.1 Nycticebus coucang
+R XP_003800190.1 Otolemur garnettii
+R XP_012493770.1 Propithecus coquereli
+R XP_075853168.1 Microcebus murinus
+R XP_069315365.1 Eulemur rufifrons
+R XP_045391986.1 Lemur catta
+     Gene: VHL
+    Human: 151 I
+Alignment: 216 I
+I    26
+L     1
+Name: count, dtype: int64
+
+L XP_024783971.1 Pan paniscus
+I XP_008057847.1 Carlito syrichta
+I XP_008980388.1 Callithrix jacchus
+I XP_023074229.2 Piliocolobus tephrosceles
+I XP_055116549.1 Symphalangus syndactylus
+I XP_054337337.1 Pongo pygmaeus
+I XP_004033637.3 Gorilla gorilla gorilla
+I NP_000542.1 Homo sapiens
+I XP_033066540.1 Trachypithecus francoisi
+I XP_011807665.1 Colobus angolensis palliatus
+I XP_007983401.2 Chlorocebus sabaeus
+I XP_025231003.1 Theropithecus gelada
+I XP_003894161.2 Papio anubis
+I XP_011915503.1 Cercocebus atys
+I XP_045241686.2 Macaca fascicularis
+I XP_011732630.2 Macaca nemestrina
+I XP_028700273.1 Macaca mulatta
+I XP_012327282.1 Aotus nancymaae
+I XP_010336089.3 Saimiri boliviensis
+I XP_032126550.1 Sapajus apella
+I XP_017356996.1 Cebus imitator
+I XP_012616058.1 Microcebus murinus
+I XP_012502480.1 Propithecus coquereli
+I XP_045385692.1 Lemur catta
+I XP_069332235.1 Eulemur rufifrons
+I XP_053455248.1 Nycticebus coucang
+I XP_003785492.1 Otolemur garnettii
+     Gene: VHL
+    Human: 132 Q
+Alignment: 195 Q
+Q    26
+P     1
+Name: count, dtype: int64
+
+P XP_024783971.1 Pan paniscus
+Q XP_008057847.1 Carlito syrichta
+Q XP_008980388.1 Callithrix jacchus
+Q XP_023074229.2 Piliocolobus tephrosceles
+Q XP_055116549.1 Symphalangus syndactylus
+Q XP_054337337.1 Pongo pygmaeus
+Q XP_004033637.3 Gorilla gorilla gorilla
+Q NP_000542.1 Homo sapiens
+Q XP_033066540.1 Trachypithecus francoisi
+Q XP_011807665.1 Colobus angolensis palliatus
+Q XP_007983401.2 Chlorocebus sabaeus
+Q XP_025231003.1 Theropithecus gelada
+Q XP_003894161.2 Papio anubis
+Q XP_011915503.1 Cercocebus atys
+Q XP_045241686.2 Macaca fascicularis
+Q XP_011732630.2 Macaca nemestrina
+Q XP_028700273.1 Macaca mulatta
+Q XP_012327282.1 Aotus nancymaae
+Q XP_010336089.3 Saimiri boliviensis
+Q XP_032126550.1 Sapajus apella
+Q XP_017356996.1 Cebus imitator
+Q XP_012616058.1 Microcebus murinus
+Q XP_012502480.1 Propithecus coquereli
+Q XP_045385692.1 Lemur catta
+Q XP_069332235.1 Eulemur rufifrons
+Q XP_053455248.1 Nycticebus coucang
+Q XP_003785492.1 Otolemur garnettii
+     Gene: VHL
+    Human: 154 P
+Alignment: 219 P
+P    26
+A     1
+Name: count, dtype: int64
+
+A XP_024783971.1 Pan paniscus
+P XP_008057847.1 Carlito syrichta
+P XP_008980388.1 Callithrix jacchus
+P XP_023074229.2 Piliocolobus tephrosceles
+P XP_055116549.1 Symphalangus syndactylus
+P XP_054337337.1 Pongo pygmaeus
+P XP_004033637.3 Gorilla gorilla gorilla
+P NP_000542.1 Homo sapiens
+P XP_033066540.1 Trachypithecus francoisi
+P XP_011807665.1 Colobus angolensis palliatus
+P XP_007983401.2 Chlorocebus sabaeus
+P XP_025231003.1 Theropithecus gelada
+P XP_003894161.2 Papio anubis
+P XP_011915503.1 Cercocebus atys
+P XP_045241686.2 Macaca fascicularis
+P XP_011732630.2 Macaca nemestrina
+P XP_028700273.1 Macaca mulatta
+P XP_012327282.1 Aotus nancymaae
+P XP_010336089.3 Saimiri boliviensis
+P XP_032126550.1 Sapajus apella
+P XP_017356996.1 Cebus imitator
+P XP_012616058.1 Microcebus murinus
+P XP_012502480.1 Propithecus coquereli
+P XP_045385692.1 Lemur catta
+P XP_069332235.1 Eulemur rufifrons
+P XP_053455248.1 Nycticebus coucang
+P XP_003785492.1 Otolemur garnettii
+     Gene: VHL
+    Human: 114 G
+Alignment: 177 G
+G    25
+-     1
+S     1
+Name: count, dtype: int64
+
+- XP_024783971.1 Pan paniscus
+S XP_008057847.1 Carlito syrichta
+G XP_008980388.1 Callithrix jacchus
+G XP_023074229.2 Piliocolobus tephrosceles
+G XP_055116549.1 Symphalangus syndactylus
+G XP_054337337.1 Pongo pygmaeus
+G XP_004033637.3 Gorilla gorilla gorilla
+G NP_000542.1 Homo sapiens
+G XP_033066540.1 Trachypithecus francoisi
+G XP_011807665.1 Colobus angolensis palliatus
+G XP_007983401.2 Chlorocebus sabaeus
+G XP_025231003.1 Theropithecus gelada
+G XP_003894161.2 Papio anubis
+G XP_011915503.1 Cercocebus atys
+G XP_045241686.2 Macaca fascicularis
+G XP_011732630.2 Macaca nemestrina
+G XP_028700273.1 Macaca mulatta
+G XP_012327282.1 Aotus nancymaae
+G XP_010336089.3 Saimiri boliviensis
+G XP_032126550.1 Sapajus apella
+G XP_017356996.1 Cebus imitator
+G XP_012616058.1 Microcebus murinus
+G XP_012502480.1 Propithecus coquereli
+G XP_045385692.1 Lemur catta
+G XP_069332235.1 Eulemur rufifrons
+G XP_053455248.1 Nycticebus coucang
+G XP_003785492.1 Otolemur garnettii
+     Gene: VHL
+    Human: 161 R
+Alignment: 226 R
+R    26
+G     1
+Name: count, dtype: int64
+
+G XP_024783971.1 Pan paniscus
+R XP_008057847.1 Carlito syrichta
+R XP_008980388.1 Callithrix jacchus
+R XP_023074229.2 Piliocolobus tephrosceles
+R XP_055116549.1 Symphalangus syndactylus
+R XP_054337337.1 Pongo pygmaeus
+R XP_004033637.3 Gorilla gorilla gorilla
+R NP_000542.1 Homo sapiens
+R XP_033066540.1 Trachypithecus francoisi
+R XP_011807665.1 Colobus angolensis palliatus
+R XP_007983401.2 Chlorocebus sabaeus
+R XP_025231003.1 Theropithecus gelada
+R XP_003894161.2 Papio anubis
+R XP_011915503.1 Cercocebus atys
+R XP_045241686.2 Macaca fascicularis
+R XP_011732630.2 Macaca nemestrina
+R XP_028700273.1 Macaca mulatta
+R XP_012327282.1 Aotus nancymaae
+R XP_010336089.3 Saimiri boliviensis
+R XP_032126550.1 Sapajus apella
+R XP_017356996.1 Cebus imitator
+R XP_012616058.1 Microcebus murinus
+R XP_012502480.1 Propithecus coquereli
+R XP_045385692.1 Lemur catta
+R XP_069332235.1 Eulemur rufifrons
+R XP_053455248.1 Nycticebus coucang
+R XP_003785492.1 Otolemur garnettii
+     Gene: VHL
+    Human: 170 V
+Alignment: 244 V
+V    26
+L     1
+Name: count, dtype: int64
+
+L XP_024783971.1 Pan paniscus
+V XP_008057847.1 Carlito syrichta
+V XP_008980388.1 Callithrix jacchus
+V XP_023074229.2 Piliocolobus tephrosceles
+V XP_055116549.1 Symphalangus syndactylus
+V XP_054337337.1 Pongo pygmaeus
+V XP_004033637.3 Gorilla gorilla gorilla
+V NP_000542.1 Homo sapiens
+V XP_033066540.1 Trachypithecus francoisi
+V XP_011807665.1 Colobus angolensis palliatus
+V XP_007983401.2 Chlorocebus sabaeus
+V XP_025231003.1 Theropithecus gelada
+V XP_003894161.2 Papio anubis
+V XP_011915503.1 Cercocebus atys
+V XP_045241686.2 Macaca fascicularis
+V XP_011732630.2 Macaca nemestrina
+V XP_028700273.1 Macaca mulatta
+V XP_012327282.1 Aotus nancymaae
+V XP_010336089.3 Saimiri boliviensis
+V XP_032126550.1 Sapajus apella
+V XP_017356996.1 Cebus imitator
+V XP_012616058.1 Microcebus murinus
+V XP_012502480.1 Propithecus coquereli
+V XP_045385692.1 Lemur catta
+V XP_069332235.1 Eulemur rufifrons
+V XP_053455248.1 Nycticebus coucang
+V XP_003785492.1 Otolemur garnettii
+     Gene: VWF
+    Human: 528 N
+Alignment: 563 N
+N    34
+S     1
+Name: count, dtype: int64
+
+S XP_021573487.1 Carlito syrichta
+N XP_032110427.1 Sapajus apella
+N XP_017401652.1 Cebus imitator
+N XP_002752289.4 Callithrix jacchus
+N XP_064233591.1 Aotus nancymaae
+N XP_010328324.3 Saimiri boliviensis
+N XP_055136942.2 Symphalangus syndactylus
+N XP_032015257.1 Hylobates moloch
+N XP_030660340.1 Nomascus leucogenys
+N NP_001233206.1 Pongo abelii
+N XP_054298701.1 Pongo pygmaeus
+N XP_030872518.2 Gorilla gorilla gorilla
+N NP_000543.3 Homo sapiens
+N XP_001160508.4 Pan troglodytes
+N XP_003820375.3 Pan paniscus
+N XP_072876515.1 Chlorocebus sabaeus
+N XP_070928431.1 Macaca nemestrina
+N XP_005569945.3 Macaca fascicularis
+N NP_001230015.1 Macaca mulatta
+N XP_050603342.1 Macaca thibetana thibetana
+N XP_021777625.2 Papio anubis
+N XP_011909654.1 Cercocebus atys
+N XP_025257537.2 Theropithecus gelada
+N XP_011838322.1 Mandrillus leucophaeus
+N XP_033079013.1 Trachypithecus francoisi
+N XP_017738808.1 Rhinopithecus bieti
+N XP_030795012.1 Rhinopithecus roxellana
+N XP_011810696.1 Colobus angolensis palliatus
+N XP_031792119.1 Piliocolobus tephrosceles
+N XP_053410942.1 Nycticebus coucang
+N XP_003796464.1 Otolemur garnettii
+N XP_012616034.2 Microcebus murinus
+N XP_012493348.1 Propithecus coquereli
+N XP_069347559.1 Eulemur rufifrons
+N XP_045410500.1 Lemur catta
+     Gene: WT1
+    Human: 341 S
+Alignment: 523 S
+G    24
+S     1
+Name: count, dtype: int64
+
+G XP_021562474.1 Carlito syrichta
+G XP_009006128.2 Callithrix jacchus
+G XP_012656774.1 Otolemur garnettii
+G XP_053418132.1 Nycticebus coucang
+S NP_077744.4 Homo sapiens
+G XP_032139544.1 Sapajus apella
+G XP_039326885.1 Saimiri boliviensis
+G XP_012307709.2 Aotus nancymaae
+G XP_075857497.1 Microcebus murinus
+G XP_054297593.1 Pongo pygmaeus
+G NP_001422862.1 Pan troglodytes
+G NP_001422864.1 Macaca mulatta
+G XP_012505037.1 Propithecus coquereli
+G XP_065384406.1 Macaca fascicularis
+G XP_017705228.1 Rhinopithecus bieti
+G XP_025212117.1 Theropithecus gelada
+G XP_050614982.1 Macaca thibetana thibetana
+G XP_031789677.1 Piliocolobus tephrosceles
+G XP_070931006.1 Macaca nemestrina
+G XP_024111035.1 Pongo abelii
+G XP_030684745.1 Nomascus leucogenys
+G XP_055212506.1 Gorilla gorilla gorilla
+G XP_055137999.1 Symphalangus syndactylus
+G XP_069325873.1 Eulemur rufifrons
+G XP_032023887.1 Hylobates moloch
+     Gene: ZEB2
+    Human: 1049 H
+Alignment: 1091 H
+H    32
+R     1
+Name: count, dtype: int64
+
+H XP_053452465.1 Nycticebus coucang
+H XP_008056888.1 Carlito syrichta
+H XP_003793051.1 Otolemur garnettii
+H XP_012497196.1 Propithecus coquereli
+H XP_069329070.1 Eulemur rufifrons
+H XP_045415380.1 Lemur catta
+H XP_012600225.1 Microcebus murinus
+H XP_037592536.1 Cebus imitator
+H XP_032142119.1 Sapajus apella
+H XP_023073245.1 Piliocolobus tephrosceles
+H XP_012328867.2 Aotus nancymaae
+H XP_003922041.1 Saimiri boliviensis
+R NP_001125020.1 Pongo abelii
+H XP_055118033.1 Symphalangus syndactylus
+H XP_003267668.2 Nomascus leucogenys
+H XP_011844092.1 Mandrillus leucophaeus
+H XP_031507070.1 Papio anubis
+H XP_033087484.1 Trachypithecus francoisi
+H XP_010352139.1 Rhinopithecus roxellana
+H XP_054333394.1 Pongo pygmaeus
+H XP_017750872.1 Rhinopithecus bieti
+H XP_004032670.1 Gorilla gorilla gorilla
+H XP_078183994.1 Callithrix jacchus
+H XP_011791094.1 Colobus angolensis palliatus
+H XP_007963107.2 Chlorocebus sabaeus
+H XP_014965539.2 Macaca mulatta
+H XP_011893688.1 Cercocebus atys
+H XP_005573164.1 Macaca fascicularis
+H XP_050607677.1 Macaca thibetana thibetana
+H XP_070928815.1 Macaca nemestrina
+H XP_063451214.1 Pan paniscus
+H NP_055610.1 Homo sapiens
+H XP_001158120.1 Pan troglodytes

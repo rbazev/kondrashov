@@ -22,6 +22,11 @@ The analysis has the following components:
 
 4. [align.ipynb](align.ipynb) align orthologous sequences in each `*.fasta` file and save it to a `*.aln` file.
 
-5. [find_CPDs.ipynb](find_CPDs.ipynb) find putative CPDs.
+5. [find_CPDs_Mary.ipynb](find_CPDs.ipynb) find putative CPDs.
 
-6. [clean_up.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
+6. [clean_up_Mary.ipynb](clean_up.ipynb) establish connections between transcripts in ClinVar data and proteins in ortholog collections.
+
+7. [Flanking_region_stat](Flanking_region_stat.ipynb) create a dictionary with flanking positions details and assign scores
+
+8. [Validate_CPDs_Mary] (Validate_CPDs_Mary.ipynb) generate visual plot of CPDs and flanking regions
+
