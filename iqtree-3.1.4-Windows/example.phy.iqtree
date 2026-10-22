@@ -1,0 +1,263 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: .\example.phy
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 65135
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+Since you used ModelFinder please also cite: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 17 sequences with 1998 nucleotide sites
+Number of constant sites: 686 (= 34.3343% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 686 (= 34.3343% of all sites)
+Number of parsimony informative sites: 1009
+Number of distinct site patterns: 1152
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TIM2+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TIM2+F+I+G4      -21152.739   42383.477 +   0.0742   42385.071 +   0.0829   42601.873 +    0.974
+GTR+F+I+G4       -21148.956   42379.912 +    0.441   42381.673 +    0.453   42609.508 -   0.0214
+TIM2+F+R3        -21150.544   42383.088 +   0.0901   42384.849 +   0.0926   42612.684 -  0.00438
+GTR+F+R3         -21147.067   42380.134 +    0.395   42382.071 +    0.371   42620.930 - 7.09e-005
+TPM2u+F+R3       -21283.140   42646.279 - 6.36e-059   42647.955 - 6.82e-059   42870.275 - 5.08e-059
+TPM2u+F+I+G4     -21291.533   42659.067 - 1.06e-061   42660.580 - 1.24e-061   42871.863 - 2.3e-059
+TVM+F+R3         -21279.783   42643.567 - 2.47e-058   42645.414 - 2.43e-058   42878.762 - 7.29e-061
+TVM+F+I+G4       -21287.934   42655.867 - 5.27e-061   42657.543 - 5.65e-061   42879.863 - 4.21e-061
+TIM2+I+G4        -21308.990   42689.980 - 2.06e-068   42691.339 - 2.59e-068   42891.577 - 1.2e-063
+TIM2e+I+G4       -21309.009   42690.018 - 2.02e-068   42691.377 - 2.54e-068   42891.615 - 1.18e-063
+TIM2e+I+G4       -21309.009   42690.018 - 2.02e-068   42691.377 - 2.54e-068   42891.615 - 1.18e-063
+TIM2+R3          -21303.600   42683.200 - 6.12e-067   42684.713 - 7.11e-067   42895.996 - 1.32e-064
+TIM2e+R3         -21303.615   42683.231 - 6.02e-067   42684.744 -   7e-067   42896.027 - 1.3e-064
+TIM2e+R3         -21303.615   42683.231 - 6.02e-067   42684.744 -   7e-067   42896.027 - 1.3e-064
+GTR+I+G4         -21306.021   42688.043 - 5.43e-068   42689.556 - 6.31e-068   42900.839 - 1.17e-065
+SYM+I+G4         -21306.024   42688.047 - 5.42e-068   42689.560 - 6.3e-068   42900.844 - 1.17e-065
+SYM+I+G4         -21306.024   42688.047 - 5.42e-068   42689.560 - 6.3e-068   42900.844 - 1.17e-065
+GTR+R3           -21300.830   42681.659 - 1.32e-066   42683.335 - 1.42e-066   42905.655 - 1.05e-066
+SYM+R3           -21300.830   42681.660 - 1.32e-066   42683.336 - 1.42e-066   42905.656 - 1.05e-066
+SYM+R3           -21300.830   42681.660 - 1.32e-066   42683.336 - 1.42e-066   42905.656 - 1.05e-066
+TN+F+I+G4        -21360.555   42797.110 - 1.12e-091   42798.623 - 1.31e-091   43009.907 - 2.43e-089
+TIM3+F+I+G4      -21359.497   42796.994 - 1.19e-091   42798.587 - 1.33e-091   43015.390 - 1.57e-090
+TIM+F+I+G4       -21360.249   42798.498 - 5.62e-092   42800.092 - 6.28e-092   43016.894 - 7.38e-091
+TN+F+R3          -21357.894   42795.788 - 2.18e-091   42797.464 - 2.34e-091   43019.784 - 1.74e-091
+TIM3+F+R3        -21357.074   42796.147 - 1.82e-091   42797.908 - 1.87e-091   43025.743 - 8.84e-093
+TIM+F+R3         -21357.475   42796.950 - 1.22e-091   42798.711 - 1.25e-091   43026.546 - 5.92e-093
+TPM2u+I+G4       -21409.971   42889.942 - 7.81e-112   42891.226 - 1.02e-111   43085.939 - 7.5e-106
+TPM2+I+G4        -21410.050   42890.100 - 7.22e-112   42891.385 - 9.41e-112   43086.097 - 6.93e-106
+TPM2+I+G4        -21410.050   42890.100 - 7.22e-112   42891.385 - 9.41e-112   43086.097 - 6.93e-106
+TPM2u+R3         -21403.672   42881.344 - 5.75e-110   42882.778 - 6.96e-110   43088.540 - 2.04e-106
+TPM2+R3          -21403.723   42881.446 - 5.47e-110   42882.881 - 6.61e-110   43088.642 - 1.94e-106
+TPM2+R3          -21403.723   42881.446 - 5.47e-110   42882.881 - 6.61e-110   43088.642 - 1.94e-106
+TVM+I+G4         -21407.612   42889.225 - 1.12e-111   42890.659 - 1.35e-111   43096.421 - 3.97e-108
+TVMe+I+G4        -21407.625   42889.249 - 1.1e-111   42890.684 - 1.34e-111   43096.446 - 3.92e-108
+TVMe+I+G4        -21407.625   42889.249 - 1.1e-111   42890.684 - 1.34e-111   43096.446 - 3.92e-108
+TVM+R3           -21401.456   42880.912 - 7.14e-110   42882.506 - 7.98e-110   43099.308 - 9.38e-109
+TVMe+R3          -21401.514   42881.028 - 6.74e-110   42882.622 - 7.53e-110   43099.425 - 8.85e-109
+TVMe+R3          -21401.514   42881.028 - 6.74e-110   42882.622 - 7.53e-110   43099.425 - 8.85e-109
+HKY+F+R3         -21463.043   43004.087 - 1.28e-136   43005.680 - 1.43e-136   43222.483 - 1.68e-135
+TPM3u+F+R3       -21462.248   43004.497 - 1.04e-136   43006.173 - 1.12e-136   43228.493 - 8.32e-137
+K3Pu+F+R3        -21462.781   43005.561 - 6.12e-137   43007.237 - 6.56e-137   43229.557 - 4.88e-137
+HKY+F+I+G4       -21475.609   43025.218 - 3.3e-141   43026.653 - 3.99e-141   43232.414 - 1.17e-137
+TPM3u+F+I+G4     -21474.773   43025.547 - 2.8e-141   43027.060 - 3.25e-141   43238.343 - 6.04e-139
+K3Pu+F+I+G4      -21475.268   43026.535 - 1.71e-141   43028.048 - 1.98e-141   43239.331 - 3.68e-139
+TN+I+G4          -21709.192   43488.383 - 8.77e-242   43489.668 - 1.14e-241   43684.380 - 8.42e-236
+TNe+I+G4         -21709.208   43488.416 - 8.63e-242   43489.700 - 1.12e-241   43684.412 - 8.28e-236
+TNe+I+G4         -21709.208   43488.416 - 8.63e-242   43489.700 - 1.12e-241   43684.412 - 8.28e-236
+TN+R3            -21704.531   43483.062 - 1.25e-240   43484.497 - 1.52e-240   43690.258 - 4.45e-237
+TNe+R3           -21704.627   43483.254 - 1.14e-240   43484.689 - 1.38e-240   43690.451 - 4.05e-237
+TNe+R3           -21704.627   43483.254 - 1.14e-240   43484.689 - 1.38e-240   43690.451 - 4.05e-237
+TIM3+I+G4        -21708.481   43488.962 - 6.57e-242   43490.321 - 8.25e-242   43690.559 - 3.83e-237
+TIM3e+I+G4       -21708.502   43489.003 - 6.43e-242   43490.362 - 8.08e-242   43690.600 - 3.76e-237
+TIM3e+I+G4       -21708.502   43489.003 - 6.43e-242   43490.362 - 8.08e-242   43690.600 - 3.76e-237
+TIM+I+G4         -21709.159   43490.318 - 3.33e-242   43491.677 - 4.19e-242   43691.915 - 1.95e-237
+TIMe+I+G4        -21709.177   43490.354 - 3.27e-242   43491.712 - 4.11e-242   43691.950 - 1.91e-237
+TIMe+I+G4        -21709.177   43490.354 - 3.27e-242   43491.712 - 4.11e-242   43691.950 - 1.91e-237
+TIM3+R3          -21703.960   43483.920 - 8.17e-241   43485.433 - 9.5e-241   43696.716 - 1.76e-238
+TIM3e+R3         -21703.969   43483.938 - 8.1e-241   43485.451 - 9.42e-241   43696.734 - 1.75e-238
+TIM3e+R3         -21703.969   43483.938 - 8.1e-241   43485.451 - 9.42e-241   43696.734 - 1.75e-238
+TIM+R3           -21704.417   43484.835 - 5.17e-241   43486.348 - 6.01e-241   43697.631 - 1.12e-238
+TIMe+R3          -21704.568   43485.137 - 4.45e-241   43486.650 - 5.17e-241   43697.933 - 9.6e-239
+TIMe+R3          -21704.568   43485.137 - 4.45e-241   43486.650 - 5.17e-241   43697.933 - 9.6e-239
+HKY+R3           -21823.375   43718.750 - 8.31e-292   43720.109 - 1.04e-291   43920.347 - 4.85e-287
+K2P+R3           -21823.497   43718.994 - 7.35e-292   43720.353 - 9.24e-292   43920.591 - 4.29e-287
+K2P+R3           -21823.497   43718.994 - 7.35e-292   43720.353 - 9.24e-292   43920.591 - 4.29e-287
+HKY+I+G4         -21833.726   43735.452 - 1.96e-295   43736.664 - 2.65e-295   43925.848 - 3.1e-288
+K2P+I+G4         -21833.758   43735.515 - 1.9e-295   43736.727 - 2.57e-295   43925.912 -   3e-288
+K2P+I+G4         -21833.758   43735.515 - 1.9e-295   43736.727 - 2.57e-295   43925.912 -   3e-288
+TPM3u+R3         -21822.895   43719.791 - 4.94e-292   43721.225 - 5.97e-292   43926.987 - 1.75e-288
+TPM3+R3          -21822.918   43719.835 - 4.83e-292   43721.270 - 5.84e-292   43927.032 - 1.71e-288
+TPM3+R3          -21822.918   43719.835 - 4.83e-292   43721.270 - 5.84e-292   43927.032 - 1.71e-288
+K3Pu+R3          -21823.146   43720.291 - 3.84e-292   43721.726 - 4.65e-292   43927.488 - 1.37e-288
+K3P+R3           -21823.165   43720.329 - 3.77e-292   43721.764 - 4.56e-292   43927.526 - 1.34e-288
+K3P+R3           -21823.165   43720.329 - 3.77e-292   43721.764 - 4.56e-292   43927.526 - 1.34e-288
+TPM3u+I+G4       -21833.166   43736.331 - 1.26e-295   43737.616 - 1.65e-295   43932.328 - 1.21e-289
+TPM3+I+G4        -21833.174   43736.348 - 1.25e-295   43737.632 - 1.63e-295   43932.344 - 1.2e-289
+TPM3+I+G4        -21833.174   43736.348 - 1.25e-295   43737.632 - 1.63e-295   43932.344 - 1.2e-289
+K3Pu+I+G4        -21833.491   43736.983 - 9.13e-296   43738.267 - 1.19e-295   43932.980 - 8.76e-290
+K3P+I+G4         -21833.501   43737.002 - 9.04e-296   43738.286 - 1.18e-295   43932.999 - 8.68e-290
+K3P+I+G4         -21833.501   43737.002 - 9.04e-296   43738.286 - 1.18e-295   43932.999 - 8.68e-290
+F81+F+R3         -22009.710   44095.420 -        0   44096.933 -        0   44308.216 -        0
+F81+F+I+G4       -22019.015   44110.030 -        0   44111.388 -        0   44311.626 -        0
+F81+R3           -22234.423   44538.847 -        0   44540.131 -        0   44734.843 -        0
+JC+R3            -22234.529   44539.059 -        0   44540.343 -        0   44735.056 -        0
+JC+R3            -22234.529   44539.059 -        0   44540.343 -        0   44735.056 -        0
+F81+I+G4         -22245.398   44556.796 -        0   44557.939 -        0   44741.593 -        0
+JC+I+G4          -22245.557   44557.113 -        0   44558.256 -        0   44741.910 -        0
+JC+I+G4          -22245.557   44557.113 -        0   44558.256 -        0   44741.910 -        0
+JC+I+R3          -22236.278   44544.556 -        0   44545.915 -        0   44746.153 -        0
+JC+R4            -22234.316   44542.631 -        0   44544.066 -        0   44749.828 -        0
+JC+G4            -22258.086   44580.171 -        0   44581.246 -        0   44759.368 -        0
+JC+I+R4          -22236.046   44548.092 -        0   44549.605 -        0   44760.888 -        0
+JC+I+R2          -22253.511   44575.021 -        0   44576.233 -        0   44765.418 -        0
+JC+R2            -22280.896   44627.792 -        0   44628.935 -        0   44812.589 -        0
+JC+I             -22587.297   45238.594 -        0   45239.668 -        0   45417.791 -        0
+JC               -23662.322   47386.644 -        0   47387.653 -        0   47560.241 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM2+F+I+G4
+
+Rate parameter R:
+
+  A-C: 5.5843
+  A-G: 7.6324
+  A-T: 5.5843
+  C-G: 1.0000
+  C-T: 22.6443
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3547
+  pi(C) = 0.2282
+  pi(G) = 0.1919
+  pi(T) = 0.2252
+
+Rate matrix Q:
+
+  A   -0.7489    0.2388    0.2745    0.2356
+  C    0.3711    -1.363   0.03596    0.9554
+  G    0.5073   0.04277   -0.5922   0.04219
+  T    0.3711    0.9684   0.03596    -1.376
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.154
+Gamma shape alpha: 0.7287
+
+ Category  Relative_rate  Proportion
+  0         0              0.154
+  1         0.09494        0.2115
+  2         0.4453         0.2115
+  3         1.105          0.2115
+  4         3.083          0.2115
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -21152.5377 (s.e. 336.3357)
+Unconstrained log-likelihood (without tree): -11402.5956
+Number of free parameters (#branches + #model parameters): 39
+Akaike information criterion (AIC) score: 42383.0754
+Corrected Akaike information criterion (AICc) score: 42384.6688
+Bayesian information criterion (BIC) score: 42601.4716
+
+Total tree length (sum of branch lengths): 4.2173
+Sum of internal branch lengths: 0.9936 (23.5594% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'LngfishAu' is drawn at root
+
++-------------LngfishAu
+|
+|       +--------------LngfishSA
++-------|
+|       +------------LngfishAf
+|
+|      +--------------------Frog
++------|
+       |                     +-----------------Turtle
+       |                  +--|
+       |                  |  |    +------------------------Crocodile
+       |                  |  +----|
+       |                  |       +------------------Bird
+       |               +--|
+       |               |  +---------------------------Sphenodon
+       |         +-----|
+       |         |     +-------------------------------Lizard
+       +---------|
+                 |                   +--------------Human
+                 |                +--|
+                 |                |  |  +------Seal
+                 |                |  +--|
+                 |                |     |  +-----Cow
+                 |                |     +--|
+                 |                |        +-------Whale
+                 |           +----|
+                 |           |    |         +---Mouse
+                 |           |    +---------|
+                 |           |              +------Rat
+                 +-----------|
+                             |  +--------------Platypus
+                             +--|
+                                +-----------Opossum
+
+Tree in newick format:
+
+(LngfishAu:0.1709069231,(LngfishSA:0.1883312746,LngfishAf:0.1648033753):0.1073256973,(Frog:0.2561722444,((((Turtle:0.2214956407,(Crocodile:0.3056438595,Bird:0.2309754299):0.0651735217):0.0364941414,Sphenodon:0.3446306025):0.0204677774,Lizard:0.3859796959):0.0739928703,(((Human:0.1850871683,(Seal:0.0943875904,(Cow:0.0822573047,Whale:0.1012437503):0.0404175167):0.0252594927):0.0340514292,(Mouse:0.0583901266,Rat:0.0905005383):0.1217433000):0.0607172972,(Platypus:0.1919646804,Opossum:0.1509516417):0.0373002749):0.1490261053):0.1275595379):0.0940391632);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t .\example.phy.treefile -m "TIM2{5.58434,7.63241,22.6443}+F{0.354671,0.228235,0.191925,0.225169}+I{0.154018}+G4{0.728671}" --length 1998
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s .\example.phy --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s .\example.phy --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Oct 21 13:12:25 2026
+Total CPU time used: 6.29688 seconds (0h:0m:6s)
+Total wall-clock time used: 6.66162 seconds (0h:0m:6s)
+

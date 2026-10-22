@@ -1,0 +1,199 @@
+IQ-TREE version 3.1.4 for Windows 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Mary (AVX2, FMA3, 15 GB RAM)
+Command: C:\Users\adesi\Downloads\iqtree-3.1.4-Windows\iqtree-3.1.4-Windows\bin\iqtree3.exe -s .\CFTR_NP_000483.3_match_Copy.fasta --seqtype AA
+Seed:    239461 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 21 15:53:24 2026
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file .\CFTR_NP_000483.3_match_Copy.fasta ... Fasta format detected
+Reading fasta file: done in 0.0013843 secs
+NOTE: Change sequence name 'Carlito syrichta' -> Carlito_syrichta
+NOTE: Change sequence name 'Sapajus apella' -> Sapajus_apella
+NOTE: Change sequence name 'Cebus imitator' -> Cebus_imitator
+NOTE: Change sequence name 'Saimiri boliviensis' -> Saimiri_boliviensis
+NOTE: Change sequence name 'Callithrix jacchus' -> Callithrix_jacchus
+NOTE: Change sequence name 'Aotus nancymaae' -> Aotus_nancymaae
+NOTE: Change sequence name 'Piliocolobus tephrosceles' -> Piliocolobus_tephrosceles
+NOTE: Change sequence name 'Colobus angolensis palliatus' -> Colobus_angolensis
+NOTE: Change sequence name 'Trachypithecus francoisi' -> Trachypithecus_francoisi
+NOTE: Change sequence name 'Rhinopithecus bieti' -> Rhinopithecus_bieti
+NOTE: Change sequence name 'Rhinopithecus roxellana' -> Rhinopithecus_roxellana
+NOTE: Change sequence name 'Theropithecus gelada' -> Theropithecus_gelada
+NOTE: Change sequence name 'Mandrillus leucophaeus' -> Mandrillus_leucophaeus
+NOTE: Change sequence name 'Chlorocebus sabaeus' -> Chlorocebus_sabaeus
+NOTE: Change sequence name 'Macaca thibetana' -> Macaca_thibetana
+NOTE: Change sequence name 'Cercocebus atys' -> Cercocebus_atys
+NOTE: Change sequence name 'Macaca nemestrina' -> Macaca_nemestrina
+NOTE: Change sequence name 'Papio anubis' -> Papio_anubis
+NOTE: Change sequence name 'Macaca fascicularis' -> Macaca_fascicularis
+NOTE: Change sequence name 'Macaca mulatta' -> Macaca_mulatta
+NOTE: Change sequence name 'Hylobates moloch' -> Hylobates_moloch
+NOTE: Change sequence name 'Gorilla gorilla' -> Gorilla_gorilla
+NOTE: Change sequence name 'Symphalangus syndactylus' -> Symphalangus_syndactylus
+NOTE: Change sequence name 'Nomascus leucogenys' -> Nomascus_leucogenys
+NOTE: Change sequence name 'Pan paniscus' -> Pan_paniscus
+NOTE: Change sequence name 'Pongo abelii' -> Pongo_abelii
+NOTE: Change sequence name 'Pongo pygmaeus' -> Pongo_pygmaeus
+NOTE: Change sequence name 'Homo sapiens' -> Homo_sapiens
+NOTE: Change sequence name 'Pan troglodytes' -> Pan_troglodytes
+NOTE: Change sequence name 'Propithecus coquereli' -> Propithecus_coquereli
+NOTE: Change sequence name 'Microcebus murinus' -> Microcebus_murinus
+NOTE: Change sequence name 'Eulemur rufifrons' -> Eulemur_rufifrons
+NOTE: Change sequence name 'Lemur catta' -> Lemur_catta
+NOTE: Change sequence name 'Nycticebus coucang' -> Nycticebus_coucang
+NOTE: Change sequence name 'Otolemur garnettii' -> Otolemur_garnettii
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0031076 secs
+Alignment has 35 sequences with 1659 columns, 487 distinct patterns
+207 parsimony-informative, 235 singleton sites, 1217 constant sites
+                           Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 7.05e-005 secs
+   1  Carlito_syrichta            10.61%    passed    100.00%
+   2  Sapajus_apella              10.73%    passed    100.00%
+   3  Cebus_imitator              10.73%    passed    100.00%
+   4  Saimiri_boliviensis         10.73%    passed    100.00%
+   5  Callithrix_jacchus          10.73%    passed    100.00%
+   6  Aotus_nancymaae             10.73%    passed    100.00%
+   7  Piliocolobus_tephrosceles   10.73%    passed    100.00%
+   8  Colobus_angolensis          10.73%    passed    100.00%
+   9  Trachypithecus_francoisi    10.73%    passed    100.00%
+  10  Rhinopithecus_bieti         10.73%    passed    100.00%
+  11  Rhinopithecus_roxellana     10.73%    passed    100.00%
+  12  Theropithecus_gelada         2.47%    passed     99.14%
+  13  Mandrillus_leucophaeus      10.19%    passed    100.00%
+  14  Chlorocebus_sabaeus         10.73%    passed    100.00%
+  15  Macaca_thibetana            10.73%    passed    100.00%
+  16  Cercocebus_atys             10.73%    passed    100.00%
+  17  Macaca_nemestrina           10.73%    passed    100.00%
+  18  Papio_anubis                10.73%    passed    100.00%
+  19  Macaca_fascicularis         10.73%    passed    100.00%
+  20  Macaca_mulatta              10.73%    passed    100.00%
+  21  Hylobates_moloch             9.10%    passed    100.00%
+  22  Gorilla_gorilla              5.61%    passed     99.98%
+  23  Symphalangus_syndactylus    10.79%    passed    100.00%
+  24  Nomascus_leucogenys         10.79%    passed    100.00%
+  25  Pan_paniscus                 7.59%    passed    100.00%
+  26  Pongo_abelii                10.79%    passed    100.00%
+  27  Pongo_pygmaeus              10.79%    passed    100.00%
+  28  Homo_sapiens                10.79%    passed    100.00%
+  29  Pan_troglodytes             10.79%    passed    100.00%
+  30  Propithecus_coquereli       12.18%    passed     99.99%
+  31  Microcebus_murinus          10.73%    passed    100.00%
+  32  Eulemur_rufifrons           10.73%    passed    100.00%
+  33  Lemur_catta                  9.46%    passed    100.00%
+  34  Nycticebus_coucang           6.03%    passed     98.47%
+  35  Otolemur_garnettii          10.43%    passed    100.00%
+****  TOTAL                       10.06%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.0001918 secs
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.008 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -10275.670
+2. Current log-likelihood: -10274.097
+Optimal log-likelihood: -10272.951
+Proportion of invariable sites: 0.407
+Gamma shape alpha: 0.249
+Parameters optimization took 2 rounds (0.246 sec)
+Time for fast ML tree search: 1.473 seconds
+
+NOTE: ModelFinder requires 27 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 1659 epsilon: 0.100) ...
+Akaike Information Criterion:           Q.MAMMAL+F+I+R3
+Corrected Akaike Information Criterion: Q.MAMMAL+F+I+R3
+Bayesian Information Criterion:         Q.BIRD+I+R3
+Best-fit model: Q.BIRD+I+R3 chosen according to BIC
+
+All model information printed to .\CFTR_NP_000483.3_match_Copy.fasta.model.gz
+CPU time for ModelFinder: 62.203 seconds (0h:1m:2s)
+Wall-clock time for ModelFinder: 65.804 seconds (0h:1m:5s)
+
+NOTE: 8 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -10052.480
+2. Current log-likelihood: -10048.915
+Optimal log-likelihood: -10048.842
+Proportion of invariable sites: 0.556
+Site proportion and rates:  (0.381,0.306) (0.027,4.550) (0.036,21.095)
+Parameters optimization took 2 rounds (0.352 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0965181 secs using 80.94% CPU
+Computing ML distances took 0.112203 sec (of wall-clock time) 0.078125 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0001363 secs
+Constructing RapidNJ tree: done in 0.0003686 secs using 4239% CPU
+Computing RapidNJ tree took 0.016953 sec (of wall-clock time) 0.031250 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -10184.757
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.446 second
+Computing log-likelihood of 98 initial trees ... 2.070 seconds
+Current best score: -10048.842
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -10048.833
+BETTER TREE FOUND at iteration 2: -10048.832
+BETTER TREE FOUND at iteration 3: -10048.832
+BETTER TREE FOUND at iteration 9: -10048.832
+Iteration 10 / LogL: -10049.605 / Time: 0h:1m:13s
+Iteration 20 / LogL: -10049.605 / Time: 0h:1m:17s
+Finish initializing candidate tree set (15)
+Current best tree score: -10048.832 / CPU time: 10.857
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 23: -10048.832
+Iteration 30 / LogL: -10048.833 / Time: 0h:1m:22s (0h:0m:52s left)
+Iteration 40 / LogL: -10048.833 / Time: 0h:1m:28s (0h:0m:48s left)
+UPDATE BEST LOG-LIKELIHOOD: -10048.832
+Iteration 50 / LogL: -10048.832 / Time: 0h:1m:32s (0h:0m:39s left)
+UPDATE BEST LOG-LIKELIHOOD: -10048.832
+Iteration 60 / LogL: -10048.832 / Time: 0h:1m:37s (0h:0m:33s left)
+Iteration 70 / LogL: -10048.833 / Time: 0h:1m:41s (0h:0m:27s left)
+Iteration 80 / LogL: -10048.833 / Time: 0h:1m:46s (0h:0m:21s left)
+Iteration 90 / LogL: -10048.833 / Time: 0h:1m:50s (0h:0m:16s left)
+Iteration 100 / LogL: -10048.832 / Time: 0h:1m:54s (0h:0m:11s left)
+Iteration 110 / LogL: -10048.833 / Time: 0h:1m:59s (0h:0m:6s left)
+Iteration 120 / LogL: -10048.833 / Time: 0h:2m:6s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -10048.832
+TREE SEARCH COMPLETED AFTER 124 ITERATIONS / Time: 0h:2m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -10048.832
+Optimal log-likelihood: -10048.830
+Proportion of invariable sites: 0.558
+Site proportion and rates:  (0.379,0.306) (0.027,4.520) (0.036,21.115)
+Parameters optimization took 1 rounds (0.211 sec)
+BEST SCORE FOUND : -10048.830
+Total tree length: 3.012
+
+Total number of iterations: 124
+CPU time used for tree search: 58.844 sec (0h:0m:58s)
+Wall-clock time used for tree search: 61.422 sec (0h:1m:1s)
+Total CPU time used: 122.047 sec (0h:2m:2s)
+Total wall-clock time used: 128.251 sec (0h:2m:8s)
+
+Analysis results written to: 
+  IQ-TREE report:                .\CFTR_NP_000483.3_match_Copy.fasta.iqtree
+  Maximum-likelihood tree:       .\CFTR_NP_000483.3_match_Copy.fasta.treefile
+  Likelihood distances:          .\CFTR_NP_000483.3_match_Copy.fasta.mldist
+  Screen log file:               .\CFTR_NP_000483.3_match_Copy.fasta.log
+
+Date and Time: Wed Oct 21 15:55:32 2026
