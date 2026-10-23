@@ -1,0 +1,171 @@
+IQ-TREE version 3.1.4 for MacOS ARM 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Azevedo-Pro.local (SSE4.2, 192 GB RAM)
+Command: ../bin/iqtree3 -s PKHD1_NP_619639.3_match_renamed.fasta -B 1000 -alrt 1000
+Seed:    114598 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Oct 22 19:11:07 2026
+Kernel:  SSE2 - 1 threads (24 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 24 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file PKHD1_NP_619639.3_match_renamed.fasta ... Fasta format detected
+Reading fasta file: done in 0.0014472 secs using 86.37% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00278711 secs using 61.78% CPU
+Alignment has 33 sequences with 4114 columns, 1745 distinct patterns
+1121 parsimony-informative, 635 singleton sites, 2358 constant sites
+                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000120163 secs using 92.37% CPU
+   1  Callithrix_jacchus              0.88%    passed    100.00%
+   2  Sapajus_apella                  0.97%    passed    100.00%
+   3  Cebus_imitator                 16.19%    passed     99.63%
+   4  Aotus_nancymaae                 0.95%    passed    100.00%
+   5  Saimiri_boliviensis             0.97%    passed    100.00%
+   6  Chlorocebus_sabaeus             1.00%    passed    100.00%
+   7  Mandrillus_leucophaeus          3.28%    passed    100.00%
+   8  Theropithecus_gelada            1.02%    passed    100.00%
+   9  Papio_anubis                    1.02%    passed    100.00%
+  10  Macaca_mulatta                  1.90%    passed    100.00%
+  11  Macaca_thibetana_thibetana      1.02%    passed    100.00%
+  12  Macaca_nemestrina               1.05%    passed    100.00%
+  13  Macaca_fascicularis             1.02%    passed    100.00%
+  14  Piliocolobus_tephrosceles       1.82%    passed    100.00%
+  15  Colobus_angolensis_palliatus    1.00%    passed    100.00%
+  16  Trachypithecus_francoisi        1.02%    passed    100.00%
+  17  Rhinopithecus_bieti             0.36%    passed    100.00%
+  18  Rhinopithecus_roxellana         0.39%    passed    100.00%
+  19  Symphalangus_syndactylus        1.00%    passed    100.00%
+  20  Hylobates_moloch                1.00%    passed    100.00%
+  21  Nomascus_leucogenys             1.00%    passed    100.00%
+  22  Pongo_pygmaeus                  0.97%    passed    100.00%
+  23  Pongo_abelii                    0.97%    passed    100.00%
+  24  Gorilla_gorilla_gorilla         0.97%    passed    100.00%
+  25  Homo_sapiens                    0.97%    passed    100.00%
+  26  Pan_troglodytes                 0.97%    passed    100.00%
+  27  Pan_paniscus                    0.97%    passed    100.00%
+  28  Nycticebus_coucang              0.46%    passed    100.00%
+  29  Otolemur_garnettii              1.31%    passed     99.24%
+  30  Microcebus_murinus              0.41%    passed     96.07%
+  31  Propithecus_coquereli           1.77%    passed     99.99%
+  32  Eulemur_rufifrons               0.46%    passed     96.47%
+  33  Lemur_catta                     0.46%    passed     99.56%
+****  TOTAL                           1.50%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.000138044 secs using 86.2% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -33776.767
+Optimal log-likelihood: -33776.560
+Proportion of invariable sites: 0.270
+Gamma shape alpha: 2.012
+Parameters optimization took 1 rounds (0.294 sec)
+Time for fast ML tree search: 1.371 seconds
+
+NOTE: ModelFinder requires 96 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 4114 epsilon: 0.100) ...
+Akaike Information Criterion:           Q.BIRD+F+I+R2
+Corrected Akaike Information Criterion: Q.BIRD+F+I+R2
+Bayesian Information Criterion:         Q.BIRD+G4
+Best-fit model: Q.BIRD+G4 chosen according to BIC
+
+All model information printed to PKHD1_NP_619639.3_match_renamed.fasta.model.gz
+CPU time for ModelFinder: 94.787 seconds (0h:1m:34s)
+Wall-clock time for ModelFinder: 95.203 seconds (0h:1m:35s)
+Generating 1000 samples for ultrafast bootstrap (seed: 114598)...
+
+NOTE: 42 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -32416.687
+2. Current log-likelihood: -32406.421
+Optimal log-likelihood: -32406.397
+Gamma shape alpha: 0.808
+Parameters optimization took 2 rounds (0.681 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.220448 secs using 98.22% CPU
+Computing ML distances took 0.220637 sec (of wall-clock time) 0.216678 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 3.19481e-05 secs using 78.25% CPU
+Constructing RapidNJ tree: done in 6.69956e-05 secs using 86.57% CPU
+Computing RapidNJ tree took 0.000135 sec (of wall-clock time) 0.000094 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -32413.859
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.494 second
+Computing log-likelihood of 98 initial trees ... 6.929 seconds
+Current best score: -32406.237
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -32406.138
+UPDATE BEST LOG-LIKELIHOOD: -32406.138
+Iteration 10 / LogL: -32406.411 / Time: 0h:1m:49s
+Iteration 20 / LogL: -32406.406 / Time: 0h:1m:59s
+Finish initializing candidate tree set (2)
+Current best tree score: -32406.138 / CPU time: 23.297
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -32406.416 / Time: 0h:2m:10s (0h:1m:27s left)
+Iteration 40 / LogL: -32406.472 / Time: 0h:2m:22s (0h:1m:13s left)
+Iteration 50 / LogL: -32406.497 / Time: 0h:2m:33s (0h:1m:0s left)
+Log-likelihood cutoff on original alignment: -32453.342
+Iteration 60 / LogL: -32406.138 / Time: 0h:2m:45s (0h:0m:49s left)
+Iteration 70 / LogL: -32406.138 / Time: 0h:3m:0s (0h:0m:38s left)
+Iteration 80 / LogL: -32406.437 / Time: 0h:3m:14s (0h:0m:26s left)
+Iteration 90 / LogL: -32406.418 / Time: 0h:3m:26s (0h:0m:13s left)
+Iteration 100 / LogL: -32406.138 / Time: 0h:3m:40s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -32453.342
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:3m:42s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -32406.138
+Optimal log-likelihood: -32406.138
+Gamma shape alpha: 0.808
+Parameters optimization took 1 rounds (0.236 sec)
+BEST SCORE FOUND : -32406.138
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+1.296 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file PKHD1_NP_619639.3_match_renamed.fasta.splits.nex
+Total tree length: 0.797
+
+Total number of iterations: 102
+CPU time used for tree search: 126.050 sec (0h:2m:6s)
+Wall-clock time used for tree search: 126.549 sec (0h:2m:6s)
+Total CPU time used: 223.554 sec (0h:3m:43s)
+Total wall-clock time used: 224.500 sec (0h:3m:44s)
+
+Computing bootstrap consensus tree...
+Reading input file PKHD1_NP_619639.3_match_renamed.fasta.splits.nex...
+33 taxa and 94 splits.
+Consensus tree written to PKHD1_NP_619639.3_match_renamed.fasta.contree
+Reading input trees file PKHD1_NP_619639.3_match_renamed.fasta.contree
+Log-likelihood of consensus tree: -32406.972
+
+Analysis results written to: 
+  IQ-TREE report:                PKHD1_NP_619639.3_match_renamed.fasta.iqtree
+  Maximum-likelihood tree:       PKHD1_NP_619639.3_match_renamed.fasta.treefile
+  Likelihood distances:          PKHD1_NP_619639.3_match_renamed.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          PKHD1_NP_619639.3_match_renamed.fasta.splits.nex
+  Consensus tree:                PKHD1_NP_619639.3_match_renamed.fasta.contree
+  Screen log file:               PKHD1_NP_619639.3_match_renamed.fasta.log
+
+Date and Time: Thu Oct 22 19:14:51 2026

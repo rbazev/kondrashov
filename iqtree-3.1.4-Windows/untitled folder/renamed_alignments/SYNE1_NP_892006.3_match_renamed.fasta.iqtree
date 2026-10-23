@@ -1,0 +1,408 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: SYNE1_NP_892006.3_match_renamed.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 235864
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+Since you used ModelFinder please also cite: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 34 sequences with 8950 amino-acid sites
+Number of constant sites: 6769 (= 75.6313% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 6769 (= 75.6313% of all sites)
+Number of parsimony informative sites: 1089
+Number of distinct site patterns: 2083
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: Q.BIRD+F+I+R2
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+Q.BIRD+F+I+R2    -48279.882   96733.763 +        1   96735.491 +        1   97351.412 +    0.991
+Q.BIRD+F+R2      -48289.103   96750.206 - 0.000269   96751.894 - 0.000274   97360.755 -  0.00927
+Q.MAMMAL+F+I+R2  -48348.322   96870.644 - 1.89e-30   96872.372 - 1.89e-30   97488.293 - 1.87e-30
+Q.MAMMAL+F+R2    -48357.054   96886.108 - 8.29e-34   96887.797 - 8.46e-34   97496.658 - 2.86e-32
+Q.BIRD+I+R2      -48733.706   97603.412 - 1.44e-189   97604.468 - 2.01e-189   98086.172 - 2.79e-160
+Q.BIRD+R2        -48742.414   97618.829 - 6.46e-193   97619.854 - 9.18e-193   98094.489 - 4.35e-162
+Q.MAMMAL+I+R2    -48796.573   97729.146 - 7.17e-217   97730.203 -   1e-216   98211.906 - 1.39e-187
+Q.MAMMAL+R2      -48804.844   97743.688 - 4.98e-220   97744.714 - 7.08e-220   98219.349 - 3.36e-189
+HIVB+F+I+R2      -48733.513   97641.027 - 9.77e-198   97642.755 - 9.77e-198   98258.675 - 9.69e-198
+Q.PLANT+F+I+R2   -48746.483   97666.965 - 2.28e-203   97668.693 - 2.28e-203   98284.614 - 2.26e-203
+HIVB+F+R2        -48751.443   97674.887 - 4.34e-205   97676.575 - 4.43e-205   98285.436 - 1.5e-203
+Q.PLANT+F+R2     -48756.735   97685.470 - 2.18e-207   97687.158 - 2.23e-207   98296.019 - 7.54e-206
+JTT+F+I+R2       -48867.824   97909.648 - 4.57e-256   97911.376 - 4.57e-256   98527.297 - 4.53e-256
+FLAVI+F+I+R2     -48871.714   97917.428 - 9.34e-258   97919.155 - 9.34e-258   98535.076 - 9.26e-258
+JTT+F+R2         -48876.384   97924.769 - 2.38e-259   97926.457 - 2.43e-259   98535.318 - 8.2e-258
+FLAVI+F+R2       -48887.230   97946.461 - 4.63e-264   97948.149 - 4.73e-264   98557.010 - 1.6e-262
+JTTDCMUT+F+I+R2  -48904.160   97982.320 - 7.57e-272   97984.047 - 7.57e-272   98599.968 - 7.51e-272
+JTTDCMUT+F+R2    -48914.040   98000.080 - 1.05e-275   98001.768 - 1.07e-275   98610.629 - 3.63e-274
+MTMET+F+I+R2     -48959.006   98092.013 - 1.15e-295   98093.740 - 1.15e-295   98709.661 - 1.14e-295
+MTMET+F+R2       -48972.411   98116.821 - 4.71e-301   98118.509 - 4.8e-301   98727.370 - 1.62e-299
+MTVER+F+I+R2     -48970.058   98114.117 - 1.82e-300   98115.845 - 1.82e-300   98731.765 - 1.8e-300
+MTVER+F+R2       -48983.955   98139.910 - 4.56e-306   98141.599 - 4.65e-306   98750.460 - 1.57e-304
+Q.PLANT+I+R2     -49190.330   98516.661 -        0   98517.717 -        0   98999.421 -        0
+Q.PLANT+R2       -49199.905   98533.810 -        0   98534.836 -        0   99009.470 -        0
+FLU+F+I+R2       -49131.340   98436.680 -        0   98438.408 -        0   99054.329 -        0
+Q.INSECT+F+I+R2  -49138.829   98451.657 -        0   98453.385 -        0   99069.306 -        0
+FLU+F+R2         -49144.063   98460.126 -        0   98461.814 -        0   99070.675 -        0
+Q.INSECT+F+R2    -49147.607   98467.214 -        0   98468.902 -        0   99077.763 -        0
+HIVW+F+I+R2      -49216.712   98607.425 -        0   98609.153 -        0   99225.073 -        0
+HIVW+F+R2        -49234.040   98640.080 -        0   98641.769 -        0   99250.629 -        0
+MTINV+F+I+R2     -49252.896   98679.791 -        0   98681.519 -        0   99297.440 -        0
+MTINV+F+R2       -49265.928   98703.856 -        0   98705.545 -        0   99314.405 -        0
+HIVB+I+R2        -49423.921   98983.843 -        0   98984.900 -        0   99466.603 -        0
+JTT+I+R2         -49430.471   98996.942 -        0   98997.998 -        0   99479.701 -        0
+JTT+R2           -49437.933   99009.866 -        0   99010.892 -        0   99485.527 -        0
+HIVB+R2          -49438.813   99011.627 -        0   99012.653 -        0   99487.287 -        0
+Q.YEAST+F+I+R2   -49366.495   98906.990 -        0   98908.717 -        0   99524.638 -        0
+Q.YEAST+F+R2     -49374.649   98921.298 -        0   98922.987 -        0   99531.847 -        0
+JTTDCMUT+I+R2    -49465.637   99067.274 -        0   99068.330 -        0   99550.034 -        0
+JTTDCMUT+R2      -49474.191   99082.382 -        0   99083.408 -        0   99558.042 -        0
+Q.INSECT+I+R2    -49471.186   99078.373 -        0   99079.429 -        0   99561.133 -        0
+Q.INSECT+R2      -49479.146   99092.291 -        0   99093.317 -        0   99567.952 -        0
+MTREV+F+I+R2     -49514.817   99203.634 -        0   99205.361 -        0   99821.282 -        0
+Q.PFAM+F+I+R2    -49522.313   99218.625 -        0   99220.353 -        0   99836.274 -        0
+Q.PFAM+F+R2      -49529.983   99231.967 -        0   99233.655 -        0   99842.516 -        0
+MTREV+F+R2       -49535.806   99243.611 -        0   99245.300 -        0   99854.161 -        0
+MTMAM+F+I+R2     -49538.153   99250.305 -        0   99252.033 -        0   99867.954 -        0
+MTMAM+F+R2       -49562.717   99297.434 -        0   99299.123 -        0   99907.983 -        0
+VT+F+I+R2        -49580.113   99334.226 -        0   99335.954 -        0   99951.875 -        0
+VT+F+R2          -49590.947   99353.894 -        0   99355.582 -        0   99964.443 -        0
+LG+F+I+R2        -49594.117   99362.234 -        0   99363.962 -        0   99979.883 -        0
+LG+F+R2          -49601.504   99375.009 -        0   99376.697 -        0   99985.558 -        0
+MTZOA+F+I+R2     -49666.666   99507.332 -        0   99509.060 -        0  100124.980 -        0
+MTZOA+F+R2       -49680.729   99533.459 -        0   99535.147 -        0  100144.008 -        0
+WAG+F+I+R2       -49690.406   99554.811 -        0   99556.539 -        0  100172.460 -        0
+WAG+F+R2         -49698.923   99569.847 -        0   99571.535 -        0  100180.396 -        0
+DAYHOFF+F+I+R2   -49695.966   99565.931 -        0   99567.659 -        0  100183.580 -        0
+DCMUT+F+I+R2     -49699.625   99573.249 -        0   99574.977 -        0  100190.898 -        0
+DAYHOFF+F+R2     -49712.275   99596.550 -        0   99598.239 -        0  100207.100 -        0
+DCMUT+F+R2       -49715.397   99602.793 -        0   99604.482 -        0  100213.342 -        0
+FLAVI+I+R2       -49857.172   99850.345 -        0   99851.401 -        0  100333.104 -        0
+FLAVI+R2         -49869.189   99872.378 -        0   99873.403 -        0  100348.038 -        0
+Q.YEAST+I+R2     -49864.671   99865.342 -        0   99866.399 -        0  100348.102 -        0
+Q.YEAST+R2       -49872.134   99878.269 -        0   99879.295 -        0  100353.929 -        0
+CPREV+F+I+R2     -49802.490   99778.981 -        0   99780.709 -        0  100396.629 -        0
+CPREV+F+R2       -49822.333   99816.666 -        0   99818.355 -        0  100427.215 -        0
+Q.PFAM+I+R2      -49941.217  100018.434 -        0  100019.490 -        0  100501.193 -        0
+Q.PFAM+R2        -49948.178  100030.356 -        0  100031.382 -        0  100506.017 -        0
+LG+I+R2          -49978.418  100092.837 -        0  100093.893 -        0  100575.597 -        0
+LG+R2            -49985.017  100104.034 -        0  100105.060 -        0  100579.694 -        0
+LG+R3            -49978.969  100095.938 -        0  100097.026 -        0  100585.797 -        0
+LG+I+R3          -49976.497  100092.994 -        0  100094.114 -        0  100589.953 -        0
+LG+I+G4          -49992.955  100119.910 -        0  100120.936 -        0  100595.571 -        0
+LG+G4            -49997.778  100127.557 -        0  100128.552 -        0  100596.118 -        0
+RTREV+F+I+R2     -49908.413   99990.826 -        0   99992.554 -        0  100608.475 -        0
+RTREV+F+R2       -49920.592  100013.184 -        0  100014.873 -        0  100623.733 -        0
+LG+I             -50034.516  100201.032 -        0  100202.028 -        0  100669.593 -        0
+VT+I+R2          -50026.689  100189.377 -        0  100190.434 -        0  100672.137 -        0
+VT+R2            -50036.171  100206.343 -        0  100207.369 -        0  100682.003 -        0
+FLU+I+R2         -50217.291  100570.581 -        0  100571.638 -        0  101053.341 -        0
+FLU+R2           -50227.569  100589.138 -        0  100590.164 -        0  101064.798 -        0
+WAG+I+R2         -50227.492  100590.983 -        0  100592.040 -        0  101073.743 -        0
+WAG+R2           -50235.363  100604.727 -        0  100605.753 -        0  101080.387 -        0
+PMB+F+I+R2       -50185.455  100544.910 -        0  100546.637 -        0  101162.558 -        0
+PMB+F+R2         -50196.384  100564.769 -        0  100566.457 -        0  101175.318 -        0
+BLOSUM62+F+I+R2  -50287.372  100748.744 -        0  100750.472 -        0  101366.392 -        0
+BLOSUM62+F+R2    -50297.197  100766.394 -        0  100768.082 -        0  101376.943 -        0
+MTART+F+I+R2     -50328.037  100830.073 -        0  100831.801 -        0  101447.722 -        0
+MTART+F+R2       -50351.926  100875.853 -        0  100877.541 -        0  101486.402 -        0
+LG               -50457.288  101044.576 -        0  101045.542 -        0  101506.038 -        0
+DAYHOFF+I+R2     -50462.064  101060.129 -        0  101061.185 -        0  101542.888 -        0
+DCMUT+I+R2       -50468.393  101072.785 -        0  101073.842 -        0  101555.545 -        0
+DAYHOFF+R2       -50475.322  101084.645 -        0  101085.671 -        0  101560.305 -        0
+CPREV+I+R2       -50473.808  101083.616 -        0  101084.673 -        0  101566.376 -        0
+DCMUT+R2         -50479.965  101093.931 -        0  101094.957 -        0  101569.591 -        0
+RTREV+I+R2       -50476.739  101089.478 -        0  101090.534 -        0  101572.237 -        0
+RTREV+R2         -50485.775  101105.551 -        0  101106.577 -        0  101581.211 -        0
+CPREV+R2         -50489.220  101112.440 -        0  101113.466 -        0  101588.100 -        0
+PMB+I+R2         -50816.597  101769.193 -        0  101770.250 -        0  102251.953 -        0
+PMB+R2           -50825.929  101785.857 -        0  101786.883 -        0  102261.517 -        0
+HIVW+I+R2        -50864.218  101864.436 -        0  101865.492 -        0  102347.195 -        0
+HIVW+R2          -50877.374  101888.747 -        0  101889.773 -        0  102364.408 -        0
+BLOSUM62+I+R2    -50873.761  101883.522 -        0  101884.579 -        0  102366.282 -        0
+BLOSUM62+R2      -50882.013  101898.026 -        0  101899.052 -        0  102373.686 -        0
+MTVER+I+R2       -52019.469  104174.939 -        0  104175.996 -        0  104657.699 -        0
+MTVER+R2         -52029.369  104192.737 -        0  104193.763 -        0  104668.397 -        0
+MTMET+I+R2       -52252.587  104641.175 -        0  104642.231 -        0  105123.934 -        0
+MTMET+R2         -52264.315  104662.631 -        0  104663.657 -        0  105138.291 -        0
+MTREV+I+R2       -52378.981  104893.962 -        0  104895.018 -        0  105376.721 -        0
+MTREV+R2         -52399.574  104933.148 -        0  104934.174 -        0  105408.808 -        0
+MTZOA+I+R2       -52550.961  105237.922 -        0  105238.979 -        0  105720.682 -        0
+MTZOA+R2         -52569.481  105272.963 -        0  105273.988 -        0  105748.623 -        0
+MTMAM+I+R2       -52639.612  105415.225 -        0  105416.281 -        0  105897.984 -        0
+MTMAM+R2         -52683.655  105501.310 -        0  105502.335 -        0  105976.970 -        0
+MTINV+I+R2       -53169.913  106475.827 -        0  106476.883 -        0  106958.587 -        0
+MTINV+R2         -53181.745  106497.490 -        0  106498.516 -        0  106973.150 -        0
+MTART+I+R2       -53599.800  107335.599 -        0  107336.656 -        0  107818.359 -        0
+MTART+R2         -53638.843  107411.685 -        0  107412.711 -        0  107887.346 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.BIRD+F+I+R2
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0651
+  pi(R) = 0.0484
+  pi(N) = 0.0326
+  pi(D) = 0.0530
+  pi(C) = 0.0136
+  pi(Q) = 0.0867
+  pi(E) = 0.1100
+  pi(G) = 0.0332
+  pi(H) = 0.0274
+  pi(I) = 0.0446
+  pi(L) = 0.1308
+  pi(K) = 0.0788
+  pi(M) = 0.0227
+  pi(F) = 0.0228
+  pi(P) = 0.0200
+  pi(S) = 0.0827
+  pi(T) = 0.0470
+  pi(W) = 0.0150
+  pi(Y) = 0.0162
+  pi(V) = 0.0495
+
+Model of rate heterogeneity: Invar+FreeRate with 2 categories
+Proportion of invariable sites: 0.4589
+Site proportion and rates:  (0.4972,1.4751) (0.0439,6.0720)
+
+ Category  Relative_rate  Proportion
+  0         0              0.4589
+  1         1.4751         0.4972
+  2         6.0720         0.0439
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -48276.1144 (s.e. 459.8820)
+Unconstrained log-likelihood (without tree): -46857.8746
+Number of free parameters (#branches + #model parameters): 87
+Akaike information criterion (AIC) score: 96726.2287
+Corrected Akaike information criterion (AICc) score: 96727.9566
+Bayesian information criterion (BIC) score: 97343.8773
+
+Total tree length (sum of branch lengths): 0.3922
+Sum of internal branch lengths: 0.1457 (37.1515% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Carlito_syrichta' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++---------------------------Carlito_syrichta
+|
+|                        +----Colobus_angolensis_palliatus
+|                     +--| (97.5/100)
+|                     |  +--Piliocolobus_tephrosceles
+|                  +--| (99.9/100)
+|                  |  |     +---Rhinopithecus_bieti
+|                  |  |  +--| (99.5/100)
+|                  |  |  |  +--Rhinopithecus_roxellana
+|                  |  +--| (99.4/100)
+|                  |     +--Trachypithecus_francoisi
+|              +---| (100/100)
+|              |   |  +--Chlorocebus_sabaeus
+|              |   +--| (97.5/100)
+|              |      |     +--Macaca_nemestrina
+|              |      |  +--| (99/100)
+|              |      |  |  |  +--Macaca_thibetana_thibetana
+|              |      |  |  +--| (89.7/90)
+|              |      |  |     |  +--Macaca_mulatta
+|              |      |  |     +--| (94.8/99)
+|              |      |  |        +--Macaca_fascicularis
+|              |      +--| (84.7/85)
+|              |         |     +--Mandrillus_leucophaeus
+|              |         |  +--| (85.8/89)
+|              |         |  |  +--Cercocebus_atys
+|              |         +--| (92.2/97)
+|              |            |  +--Theropithecus_gelada
+|              |            +--| (96.2/98)
+|              |               +--Papio_anubis
+|           +--| (100/100)
+|           |  |     +--Symphalangus_syndactylus
+|           |  |  +--| (100/100)
+|           |  |  |  +--Nomascus_leucogenys
+|           |  +--| (99.6/100)
+|           |     |     +--Pongo_pygmaeus
+|           |     |  +--| (100/100)
+|           |     |  |  +--Pongo_abelii
+|           |     +--| (92.9/94)
+|           |        |     +--Homo_sapiens
+|           |        |  +--| (94.8/95)
+|           |        |  |  |  +--Pan_troglodytes
+|           |        |  |  +--| (98.5/100)
+|           |        |  |     +--Pan_paniscus
+|           |        +--| (100/100)
+|           |           +--Gorilla_gorilla_gorilla
++-----------| (100/100)
+|           |         +------Callithrix_jacchus
+|           |      +--| (45.6/64)
+|           |      |  |  +-----Saimiri_boliviensis
+|           |      |  +--| (98/99)
+|           |      |     |  +--Sapajus_apella
+|           |      |     +--| (100/100)
+|           |      |        +--Cebus_imitator
+|           +------| (100/100)
+|                  +----Aotus_nancymaae
+|
+|                                    +----------------Nycticebus_coucang
+|            +-----------------------| (100/100)
+|            |                       +---------Otolemur_garnettii
++------------| (100/100)
+             |           +-----------------------------------Propithecus_coquereli
+             |        +--| (24.6/58)
+             |        |  +-----------Microcebus_murinus
+             +--------| (100/100)
+                      |  +----Eulemur_rufifrons
+                      +--| (99.9/100)
+                         +----Lemur_catta
+
+Tree in newick format:
+
+(Carlito_syrichta:0.0399394455,(((((Colobus_angolensis_palliatus:0.0082501263,Piliocolobus_tephrosceles:0.0028157956)97.5/100:0.0010454872,((Rhinopithecus_bieti:0.0056562294,Rhinopithecus_roxellana:0.0009751470)99.5/100:0.0016258451,Trachypithecus_francoisi:0.0031600744)99.4/100:0.0012067834)99.9/100:0.0021842185,(Chlorocebus_sabaeus:0.0039370890,((Macaca_nemestrina:0.0012493480,(Macaca_thibetana_thibetana:0.0011156006,(Macaca_mulatta:0.0008954209,Macaca_fascicularis:0.0005622135)94.8/99:0.0004583292)89.7/90:0.0003355647)99/100:0.0008779375,((Mandrillus_leucophaeus:0.0015964252,Cercocebus_atys:0.0011197512)85.8/89:0.0002439612,(Theropithecus_gelada:0.0013333892,Papio_anubis:0.0009219272)96.2/98:0.0006761830)92.2/97:0.0004368859)84.7/85:0.0004751893)97.5/100:0.0011264856)100/100:0.0058751714,((Symphalangus_syndactylus:0.0036870943,Nomascus_leucogenys:0.0019634148)100/100:0.0053003066,((Pongo_pygmaeus:0.0007839317,Pongo_abelii:0.0009057244)100/100:0.0046134319,((Homo_sapiens:0.0043001556,(Pan_troglodytes:0.0011168980,Pan_paniscus:0.0020378470)98.5/100:0.0009147588)94.8/95:0.0005516829,Gorilla_gorilla_gorilla:0.0037571617)100/100:0.0024604259)92.9/94:0.0006978552)99.6/100:0.0022195727)100/100:0.0047407039,((Callithrix_jacchus:0.0104959382,(Saimiri_boliviensis:0.0098001551,(Sapajus_apella:0.0022948361,Cebus_imitator:0.0028216658)100/100:0.0044135788)98/99:0.0012624595)45.6/64:0.0008605722,Aotus_nancymaae:0.0074550347)100/100:0.0111033742)100/100:0.0177911071,((Nycticebus_coucang:0.0246690459,Otolemur_garnettii:0.0143281718)100/100:0.0339238303,((Propithecus_coquereli:0.0507858648,Microcebus_murinus:0.0171257502)24.6/58:0.0012742911,(Eulemur_rufifrons:0.0070510549,Lemur_catta:0.0075824808)99.9/100:0.0048508434)100/100:0.0129882302)100/100:0.0191719361);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -48276.114361
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++---------------------------Carlito_syrichta
+|
+|                        +----Colobus_angolensis_palliatus
+|                     +--| (100)
+|                     |  +--Piliocolobus_tephrosceles
+|                  +--| (100)
+|                  |  |     +---Rhinopithecus_bieti
+|                  |  |  +--| (100)
+|                  |  |  |  +--Rhinopithecus_roxellana
+|                  |  +--| (100)
+|                  |     +--Trachypithecus_francoisi
+|              +---| (100)
+|              |   |  +--Chlorocebus_sabaeus
+|              |   +--| (100)
+|              |      |     +--Macaca_nemestrina
+|              |      |  +--| (100)
+|              |      |  |  |  +--Macaca_thibetana_thibetana
+|              |      |  |  +--| (90)
+|              |      |  |     |  +--Macaca_mulatta
+|              |      |  |     +--| (99)
+|              |      |  |        +--Macaca_fascicularis
+|              |      +--| (85)
+|              |         |     +--Mandrillus_leucophaeus
+|              |         |  +--| (89)
+|              |         |  |  +--Cercocebus_atys
+|              |         +--| (97)
+|              |            |  +--Theropithecus_gelada
+|              |            +--| (98)
+|              |               +--Papio_anubis
+|           +--| (100)
+|           |  |     +--Symphalangus_syndactylus
+|           |  |  +--| (100)
+|           |  |  |  +--Nomascus_leucogenys
+|           |  +--| (100)
+|           |     |     +--Pongo_pygmaeus
+|           |     |  +--| (100)
+|           |     |  |  +--Pongo_abelii
+|           |     +--| (94)
+|           |        |     +--Homo_sapiens
+|           |        |  +--| (95)
+|           |        |  |  |  +--Pan_troglodytes
+|           |        |  |  +--| (100)
+|           |        |  |     +--Pan_paniscus
+|           |        +--| (100)
+|           |           +--Gorilla_gorilla_gorilla
++-----------| (100)
+|           |         +------Callithrix_jacchus
+|           |      +--| (64)
+|           |      |  |  +-----Saimiri_boliviensis
+|           |      |  +--| (99)
+|           |      |     |  +--Sapajus_apella
+|           |      |     +--| (100)
+|           |      |        +--Cebus_imitator
+|           +------| (100)
+|                  +----Aotus_nancymaae
+|
+|                                    +----------------Nycticebus_coucang
+|            +-----------------------| (100)
+|            |                       +---------Otolemur_garnettii
++------------| (100)
+             |           +-----------------------------------Propithecus_coquereli
+             |        +--| (58)
+             |        |  +-----------Microcebus_murinus
+             +--------| (100)
+                      |  +----Eulemur_rufifrons
+                      +--| (100)
+                         +----Lemur_catta
+
+
+Consensus tree in newick format: 
+
+(Carlito_syrichta:0.0399376871,(((((Colobus_angolensis_palliatus:0.0082497333,Piliocolobus_tephrosceles:0.0028156434)100:0.0010463016,((Rhinopithecus_bieti:0.0056559671,Rhinopithecus_roxellana:0.0009753070)100:0.0016251469,Trachypithecus_francoisi:0.0031593960)100:0.0012068419)100:0.0021831908,(Chlorocebus_sabaeus:0.0039369341,((Macaca_nemestrina:0.0012494858,(Macaca_thibetana_thibetana:0.0011158188,(Macaca_mulatta:0.0008955959,Macaca_fascicularis:0.0005623246)99:0.0004583282)90:0.0003356175)100:0.0008780474,((Mandrillus_leucophaeus:0.0015966272,Cercocebus_atys:0.0011198877)89:0.0002447017,(Theropithecus_gelada:0.0013333797,Papio_anubis:0.0009220720)98:0.0006762679)97:0.0004365309)85:0.0004750285)100:0.0011257678)100:0.0058749062,((Symphalangus_syndactylus:0.0036869152,Nomascus_leucogenys:0.0019640509)100:0.0053000735,((Pongo_pygmaeus:0.0007836300,Pongo_abelii:0.0009054485)100:0.0046132075,((Homo_sapiens:0.0042999513,(Pan_troglodytes:0.0011163756,Pan_paniscus:0.0020380824)100:0.0009143793)95:0.0005512433,Gorilla_gorilla_gorilla:0.0037569668)100:0.0024604751)94:0.0006974873)100:0.0022194923)100:0.0047409524,((Callithrix_jacchus:0.0104954168,(Saimiri_boliviensis:0.0097996694,(Sapajus_apella:0.0022947506,Cebus_imitator:0.0028214584)100:0.0044133610)99:0.0012625731)64:0.0008600207,Aotus_nancymaae:0.0074547089)100:0.0111028573)100:0.0177904746,((Nycticebus_coucang:0.0246683829,Otolemur_garnettii:0.0143277308)100:0.0339227172,((Propithecus_coquereli:0.0507848545,Microcebus_murinus:0.0171256687)58:0.0012738155,(Eulemur_rufifrons:0.0070514434,Lemur_catta:0.0075827422)100:0.0048511316)100:0.0129879477)100:0.0191713225);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t SYNE1_NP_892006.3_match_renamed.fasta.treefile -m "Q.BIRD+F+I{0.45893}+R2{0.497159,1.47513,0.0439113,6.07197}" --length 8950
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s SYNE1_NP_892006.3_match_renamed.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s SYNE1_NP_892006.3_match_renamed.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Thu Oct 22 19:00:30 2026
+Total CPU time used: 192.061558 seconds (0h:3m:12s)
+Total wall-clock time used: 193.1461871 seconds (0h:3m:13s)
+
