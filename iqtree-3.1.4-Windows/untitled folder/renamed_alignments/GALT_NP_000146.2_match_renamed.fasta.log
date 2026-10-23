@@ -1,0 +1,73 @@
+IQ-TREE version 3.1.4 for Windows 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Mary (AVX2, FMA3, 15 GB RAM)
+Command: C:\Users\adesi\OneDrive - University Of Houston\Documents\Ricardo_lab\GitHub\kondrashov\iqtree-3.1.4-Windows\bin\iqtree3.exe -s .\GALT_NP_000146.2_match_renamed.fasta --seqtype AA -B 1000 -alrt 1000
+Seed:    86922 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Oct 22 19:06:39 2026
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file .\GALT_NP_000146.2_match_renamed.fasta ... Fasta format detected
+Reading fasta file: done in 0.000274 secs
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0004318 secs
+Alignment has 33 sequences with 405 columns, 219 distinct patterns
+41 parsimony-informative, 69 singleton sites, 295 constant sites
+                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.06e-005 secs
+   1  Macaca_nemestrina              21.73%    passed     96.03%
+   2  Carlito_syrichta                7.16%    passed     99.99%
+   3  Nycticebus_coucang              6.42%    passed    100.00%
+   4  Otolemur_garnettii              6.42%    passed    100.00%
+   5  Microcebus_murinus              6.42%    passed    100.00%
+   6  Propithecus_coquereli           6.42%    passed    100.00%
+   7  Eulemur_rufifrons               6.42%    passed    100.00%
+   8  Lemur_catta                     6.42%    passed    100.00%
+   9  Macaca_thibetana_thibetana     11.60%    passed    100.00%
+  10  Papio_anubis                    2.96%    passed    100.00%
+  11  Trachypithecus_francoisi        6.17%    passed    100.00%
+  12  Cercocebus_atys                 6.42%    passed    100.00%
+  13  Colobus_angolensis_palliatus    6.42%    passed    100.00%
+  14  Mandrillus_leucophaeus          6.42%    passed    100.00%
+  15  Piliocolobus_tephrosceles       6.42%    passed    100.00%
+  16  Rhinopithecus_bieti             6.17%    passed    100.00%
+  17  Theropithecus_gelada            3.95%    passed    100.00%
+  18  Macaca_fascicularis            27.41%    passed     99.99%
+  19  Macaca_mulatta                  6.42%    passed    100.00%
+  20  Aotus_nancymaae                 6.42%    passed    100.00%
+  21  Callithrix_jacchus              6.42%    passed    100.00%
+  22  Saimiri_boliviensis             6.42%    passed    100.00%
+  23  Sapajus_apella                  6.42%    passed    100.00%
+  24  Cebus_imitator                  6.42%    passed    100.00%
+  25  Homo_sapiens                    6.42%    passed    100.00%
+  26  Pan_troglodytes                 6.42%    passed    100.00%
+  27  Pan_paniscus                    6.42%    passed    100.00%
+  28  Gorilla_gorilla_gorilla         6.42%    passed    100.00%
+  29  Pongo_abelii                    6.42%    passed    100.00%
+  30  Pongo_pygmaeus                  6.42%    passed    100.00%
+  31  Nomascus_leucogenys             6.42%    passed    100.00%
+  32  Hylobates_moloch               13.58%    passed    100.00%
+  33  Symphalangus_syndactylus        6.67%    passed    100.00%
+****  TOTAL                           7.73%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 4.86e-005 secs
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -2348.764
+Optimal log-likelihood: -2348.763
+Proportion of invariable sites: 0.360
+Gamma shape alpha: 1.116
+Parameters optimization took 1 rounds (0.026 sec)
+Time for fast ML tree search: 0.237 seconds
+
+NOTE: ModelFinder requires 13 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 405 epsilon: 0.100) ...
