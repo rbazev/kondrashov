@@ -127,3 +127,52 @@ Iteration 40 / LogL: -8465.935 / Time: 0h:0m:38s (0h:0m:29s left)
 Iteration 50 / LogL: -8464.706 / Time: 0h:0m:52s (0h:0m:34s left)
 Log-likelihood cutoff on original alignment: -8504.830
 Iteration 60 / LogL: -8465.936 / Time: 0h:1m:5s (0h:0m:32s left)
+Iteration 70 / LogL: -8464.706 / Time: 0h:1m:17s (0h:0m:26s left)
+Iteration 80 / LogL: -8468.554 / Time: 0h:1m:22s (0h:0m:17s left)
+Iteration 90 / LogL: -8464.705 / Time: 0h:1m:27s (0h:0m:9s left)
+Iteration 100 / LogL: -8464.705 / Time: 0h:1m:33s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -8504.883
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+TREE SEARCH COMPLETED AFTER 103 ITERATIONS / Time: 0h:1m:34s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -8464.705
+Optimal log-likelihood: -8464.705
+Gamma shape alpha: 0.678
+Parameters optimization took 1 rounds (0.078 sec)
+BEST SCORE FOUND : -8464.705
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+1.522 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file .\LDLR_NP_000518.1_match_renamed.fasta.splits.nex
+Total tree length: 1.230
+
+Total number of iterations: 103
+CPU time used for tree search: 70.141 sec (0h:1m:10s)
+Wall-clock time used for tree search: 74.979 sec (0h:1m:14s)
+Total CPU time used: 90.141 sec (0h:1m:30s)
+Total wall-clock time used: 96.714 sec (0h:1m:36s)
+
+Computing bootstrap consensus tree...
+Reading input file .\LDLR_NP_000518.1_match_renamed.fasta.splits.nex...
+34 taxa and 169 splits.
+Consensus tree written to .\LDLR_NP_000518.1_match_renamed.fasta.contree
+Reading input trees file .\LDLR_NP_000518.1_match_renamed.fasta.contree
+Log-likelihood of consensus tree: -8464.711
+
+Analysis results written to: 
+  IQ-TREE report:                .\LDLR_NP_000518.1_match_renamed.fasta.iqtree
+  Maximum-likelihood tree:       .\LDLR_NP_000518.1_match_renamed.fasta.treefile
+  Likelihood distances:          .\LDLR_NP_000518.1_match_renamed.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          .\LDLR_NP_000518.1_match_renamed.fasta.splits.nex
+  Consensus tree:                .\LDLR_NP_000518.1_match_renamed.fasta.contree
+  Screen log file:               .\LDLR_NP_000518.1_match_renamed.fasta.log
+
+Date and Time: Thu Oct 22 19:25:46 2026
