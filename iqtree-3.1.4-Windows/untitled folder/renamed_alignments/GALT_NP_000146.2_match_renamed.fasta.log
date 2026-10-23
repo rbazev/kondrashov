@@ -239,3 +239,54 @@ Log-likelihood cutoff on original alignment: -2317.758
 NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
 Iteration 810 / LogL: -2286.501 / Time: 0h:4m:30s (0h:0m:27s left)
 Iteration 820 / LogL: -2286.502 / Time: 0h:4m:34s (0h:0m:24s left)
+Iteration 830 / LogL: -2286.505 / Time: 0h:4m:41s (0h:0m:21s left)
+Iteration 840 / LogL: -2286.504 / Time: 0h:4m:44s (0h:0m:18s left)
+Iteration 850 / LogL: -2286.503 / Time: 0h:4m:51s (0h:0m:15s left)
+Log-likelihood cutoff on original alignment: -2317.758
+Iteration 860 / LogL: -2286.501 / Time: 0h:4m:56s (0h:0m:12s left)
+Iteration 870 / LogL: -2286.503 / Time: 0h:4m:58s (0h:0m:9s left)
+Iteration 880 / LogL: -2301.901 / Time: 0h:5m:0s (0h:0m:6s left)
+Iteration 890 / LogL: -2286.501 / Time: 0h:5m:1s (0h:0m:3s left)
+TREE SEARCH COMPLETED AFTER 898 ITERATIONS / Time: 0h:5m:3s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2286.501
+Optimal log-likelihood: -2286.501
+Gamma shape alpha: 0.389
+Parameters optimization took 1 rounds (0.019 sec)
+BEST SCORE FOUND : -2286.501
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.442 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file .\GALT_NP_000146.2_match_renamed.fasta.splits.nex
+Total tree length: 0.586
+
+Total number of iterations: 898
+CPU time used for tree search: 262.109 sec (0h:4m:22s)
+Wall-clock time used for tree search: 280.299 sec (0h:4m:40s)
+Total CPU time used: 283.156 sec (0h:4m:43s)
+Total wall-clock time used: 304.038 sec (0h:5m:4s)
+
+Computing bootstrap consensus tree...
+Reading input file .\GALT_NP_000146.2_match_renamed.fasta.splits.nex...
+33 taxa and 647 splits.
+Consensus tree written to .\GALT_NP_000146.2_match_renamed.fasta.contree
+Reading input trees file .\GALT_NP_000146.2_match_renamed.fasta.contree
+Log-likelihood of consensus tree: -2286.511
+
+Analysis results written to: 
+  IQ-TREE report:                .\GALT_NP_000146.2_match_renamed.fasta.iqtree
+  Maximum-likelihood tree:       .\GALT_NP_000146.2_match_renamed.fasta.treefile
+  Likelihood distances:          .\GALT_NP_000146.2_match_renamed.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          .\GALT_NP_000146.2_match_renamed.fasta.splits.nex
+  Consensus tree:                .\GALT_NP_000146.2_match_renamed.fasta.contree
+  Screen log file:               .\GALT_NP_000146.2_match_renamed.fasta.log
+
+Date and Time: Thu Oct 22 19:11:43 2026
