@@ -123,3 +123,7 @@ UPDATE BEST LOG-LIKELIHOOD: -8464.705
 UPDATE BEST LOG-LIKELIHOOD: -8464.705
 UPDATE BEST LOG-LIKELIHOOD: -8464.705
 Iteration 30 / LogL: -8464.706 / Time: 0h:0m:29s (0h:0m:25s left)
+Iteration 40 / LogL: -8465.935 / Time: 0h:0m:38s (0h:0m:29s left)
+Iteration 50 / LogL: -8464.706 / Time: 0h:0m:52s (0h:0m:34s left)
+Log-likelihood cutoff on original alignment: -8504.830
+Iteration 60 / LogL: -8465.936 / Time: 0h:1m:5s (0h:0m:32s left)
