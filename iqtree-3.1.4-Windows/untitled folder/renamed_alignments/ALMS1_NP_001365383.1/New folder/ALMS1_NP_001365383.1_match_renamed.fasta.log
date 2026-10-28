@@ -1,0 +1,140 @@
+IQ-TREE version 3.1.4 for Windows 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Mary (AVX2, FMA3, 15 GB RAM)
+Command: C:\Users\adesi\OneDrive - University Of Houston\Documents\Ricardo_lab\GitHub\kondrashov\iqtree-3.1.4-Windows\bin\iqtree3.exe -s .\ALMS1_NP_001365383.1_match_renamed.fasta -m JTT+G+I+F
+Seed:    643280 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 27 15:52:47 2026
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file .\ALMS1_NP_001365383.1_match_renamed.fasta ... Fasta format detected
+Reading fasta file: done in 0.0066342 secs
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0117217 secs using 133.3% CPU
+Alignment has 35 sequences with 5715 columns, 3443 distinct patterns
+1849 parsimony-informative, 1281 singleton sites, 2585 constant sites
+                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.0004287 secs
+   1  Carlito_syrichta               46.70%    passed     58.63%
+   2  Nycticebus_coucang             16.94%    passed     16.76%
+   3  Otolemur_garnettii              7.09%    failed      0.31%
+   4  Chlorocebus_sabaeus            26.12%    passed    100.00%
+   5  Papio_anubis                   31.41%    passed     99.99%
+   6  Cercocebus_atys                25.42%    passed    100.00%
+   7  Mandrillus_leucophaeus         26.96%    passed    100.00%
+   8  Theropithecus_gelada           18.34%    passed    100.00%
+   9  Macaca_nemestrina              25.35%    passed    100.00%
+  10  Macaca_thibetana_thibetana     25.39%    passed    100.00%
+  11  Macaca_mulatta                 27.02%    passed    100.00%
+  12  Macaca_fascicularis            25.34%    passed    100.00%
+  13  Colobus_angolensis_palliatus   27.59%    passed     99.99%
+  14  Piliocolobus_tephrosceles      28.36%    passed    100.00%
+  15  Trachypithecus_francoisi       27.12%    passed    100.00%
+  16  Rhinopithecus_bieti            26.86%    passed    100.00%
+  17  Rhinopithecus_roxellana        26.89%    passed    100.00%
+  18  Hylobates_moloch               36.38%    passed     99.72%
+  19  Symphalangus_syndactylus       28.94%    passed    100.00%
+  20  Nomascus_leucogenys            28.91%    passed    100.00%
+  21  Pongo_pygmaeus                 24.90%    passed     99.88%
+  22  Pongo_abelii                   27.21%    passed    100.00%
+  23  Gorilla_gorilla_gorilla        27.23%    passed    100.00%
+  24  Homo_sapiens                   27.07%    passed    100.00%
+  25  Pan_troglodytes                27.80%    passed    100.00%
+  26  Pan_paniscus                   27.70%    passed    100.00%
+  27  Callithrix_jacchus             27.14%    passed     99.28%
+  28  Aotus_nancymaae                29.06%    passed     99.11%
+  29  Saimiri_boliviensis            26.46%    passed    100.00%
+  30  Sapajus_apella                 27.94%    passed    100.00%
+  31  Cebus_imitator                 28.01%    passed    100.00%
+  32  Microcebus_murinus             23.76%    passed     66.42%
+  33  Propithecus_coquereli          31.41%    passed     98.57%
+  34  Eulemur_rufifrons              31.85%    passed     92.81%
+  35  Lemur_catta                    31.18%    passed     96.70%
+****  TOTAL                          27.20%  1 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.0004749 secs
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.030 seconds
+
+NOTE: 74 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 1.645 / LogL: -51339.370
+Init pinv, alpha: 0.050, 1.000 / Estimate: 0.049, 2.041 / LogL: -51339.093
+Init pinv, alpha: 0.101, 1.000 / Estimate: 0.094, 2.594 / LogL: -51341.036
+Init pinv, alpha: 0.151, 1.000 / Estimate: 0.094, 2.590 / LogL: -51341.014
+Init pinv, alpha: 0.201, 1.000 / Estimate: 0.094, 2.587 / LogL: -51341.000
+Init pinv, alpha: 0.251, 1.000 / Estimate: 0.094, 2.595 / LogL: -51341.038
+Init pinv, alpha: 0.302, 1.000 / Estimate: 0.094, 2.580 / LogL: -51340.964
+Init pinv, alpha: 0.352, 1.000 / Estimate: 0.094, 2.593 / LogL: -51341.028
+Init pinv, alpha: 0.402, 1.000 / Estimate: 0.094, 2.583 / LogL: -51340.975
+Init pinv, alpha: 0.452, 1.000 / Estimate: 0.094, 2.588 / LogL: -51341.002
+Optimal pinv,alpha: 0.049, 2.041 / LogL: -51339.093
+
+Parameters optimization took 225.352 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.464203 secs using 84.15% CPU
+Computing ML distances took 0.502153 sec (of wall-clock time) 0.390625 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0001341 secs
+Constructing RapidNJ tree: done in 0.0005713 secs
+Computing RapidNJ tree took 0.090350 sec (of wall-clock time) 0.078125 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -51368.900
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 8.210 second
+Computing log-likelihood of 98 initial trees ... 47.264 seconds
+Current best score: -51339.093
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -51339.091
+Iteration 10 / LogL: -51339.178 / Time: 0h:5m:26s
+Iteration 20 / LogL: -51339.116 / Time: 0h:6m:26s
+Finish initializing candidate tree set (2)
+Current best tree score: -51339.091 / CPU time: 158.198
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -51339.091 / Time: 0h:7m:20s (0h:17m:57s left)
+Iteration 40 / LogL: -51339.222 / Time: 0h:8m:1s (0h:12m:32s left)
+Iteration 50 / LogL: -51339.093 / Time: 0h:8m:56s (0h:9m:18s left)
+Iteration 60 / LogL: -51339.093 / Time: 0h:12m:23s (0h:8m:36s left)
+Iteration 70 / LogL: -51339.091 / Time: 0h:13m:43s (0h:6m:10s left)
+Iteration 80 / LogL: -51339.091 / Time: 0h:14m:53s (0h:3m:57s left)
+Iteration 90 / LogL: -51339.355 / Time: 0h:16m:38s (0h:2m:3s left)
+Iteration 100 / LogL: -51339.091 / Time: 0h:18m:20s (0h:0m:11s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:18m:34s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -51339.091
+Optimal log-likelihood: -51339.090
+Proportion of invariable sites: 0.049
+Gamma shape alpha: 2.039
+Parameters optimization took 1 rounds (0.817 sec)
+BEST SCORE FOUND : -51339.090
+Total tree length: 1.578
+
+Total number of iterations: 102
+CPU time used for tree search: 768.094 sec (0h:12m:48s)
+Wall-clock time used for tree search: 886.270 sec (0h:14m:46s)
+Total CPU time used: 980.688 sec (0h:16m:20s)
+Total wall-clock time used: 1115.954 sec (0h:18m:35s)
+
+Analysis results written to: 
+  IQ-TREE report:                .\ALMS1_NP_001365383.1_match_renamed.fasta.iqtree
+  Maximum-likelihood tree:       .\ALMS1_NP_001365383.1_match_renamed.fasta.treefile
+  Likelihood distances:          .\ALMS1_NP_001365383.1_match_renamed.fasta.mldist
+  Screen log file:               .\ALMS1_NP_001365383.1_match_renamed.fasta.log
+
+Date and Time: Tue Oct 27 16:11:24 2026

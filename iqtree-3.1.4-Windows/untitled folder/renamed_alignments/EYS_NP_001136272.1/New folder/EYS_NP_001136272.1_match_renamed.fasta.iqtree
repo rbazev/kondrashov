@@ -1,0 +1,183 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: .\EYS_NP_001136272.1_match_renamed.fasta
+Type of analysis: tree reconstruction
+Random seed number: 888289
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 35 sequences with 3352 amino-acid sites
+Number of constant sites: 1763 (= 52.5955% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1763 (= 52.5955% of all sites)
+Number of parsimony informative sites: 900
+Number of distinct site patterns: 1855
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0373
+  pi(R) = 0.0307
+  pi(N) = 0.0652
+  pi(D) = 0.0454
+  pi(C) = 0.0705
+  pi(Q) = 0.0398
+  pi(E) = 0.0577
+  pi(G) = 0.0710
+  pi(H) = 0.0284
+  pi(I) = 0.0643
+  pi(L) = 0.0812
+  pi(K) = 0.0449
+  pi(M) = 0.0139
+  pi(F) = 0.0499
+  pi(P) = 0.0478
+  pi(S) = 0.0953
+  pi(T) = 0.0648
+  pi(W) = 0.0108
+  pi(Y) = 0.0323
+  pi(V) = 0.0486
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0000
+Gamma shape alpha: 1.3352
+
+ Category  Relative_rate  Proportion
+  0         0              0.0000
+  1         0.1987         0.2500
+  2         0.5586         0.2500
+  3         1.0391         0.2500
+  4         2.2036         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -27236.1632 (s.e. 359.0567)
+Unconstrained log-likelihood (without tree): -22889.8175
+Number of free parameters (#branches + #model parameters): 88
+Akaike information criterion (AIC) score: 54648.3265
+Corrected Akaike information criterion (AICc) score: 54653.1269
+Bayesian information criterion (BIC) score: 55186.6499
+
+Total tree length (sum of branch lengths): 1.3266
+Sum of internal branch lengths: 0.4215 (31.7692% of tree length)
+
+WARNING: 3 near-zero internal branches (<0.0003) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Carlito_syrichta' is drawn at root
+
++-----------------------------------------------------------Carlito_syrichta
+|
+|               +----Lemur_catta
+|            +--|
+|            |  +----Eulemur_rufifrons
+|         +--|
+|         |  +---------Microcebus_murinus
+|      +--|
+|      |  +-----Propithecus_coquereli
++------|
+|      |                 +-----------Otolemur_garnettii
+|      +-----------------|
+|                        +------------Nycticebus_coucang
+|
+|                              +-----------Sapajus_apella
+|                           +--|
+|                           |  |    +---Saimiri_boliviensis
+|                           |  +----|
+|                           |       +--Saimiri_boliviensis_boliviensis
+|                        +--|
+|                        |  +----Aotus_nancymaae
+|                     +--|
+|                     |  +-------Cebus_imitator
+|              +------|
+|              |      +------Callithrix_jacchus
++--------------|
+               |            +--Nomascus_leucogenys
+               |         +--|
+               |         |  +--Hylobates_moloch
+               |      +--|
+               |      |  +--Symphalangus_syndactylus
+               |   +--|
+               |   |  |           +--Pan_troglodytes
+               |   |  |        +--|
+               |   |  |        |  +--Pan_paniscus
+               |   |  |     +**|
+               |   |  |     |  +--Homo_sapiens
+               |   |  |  +--|
+               |   |  |  |  +--Gorilla_gorilla_gorilla
+               |   |  +--|
+               |   |     |  +**Pongo_abelii
+               |   |     +--|
+               |   |        +--Pongo_pygmaeus
+               +---|
+                   |         +--Colobus_angolensis_palliatus
+                   |      +--|
+                   |      |  +-----Piliocolobus_tephrosceles
+                   |   +--|
+                   |   |  |     +--Trachypithecus_francoisi
+                   |   |  |  +**|
+                   |   |  |  |  +--Rhinopithecus_roxellana
+                   |   |  +--|
+                   |   |     +------Rhinopithecus_bieti
+                   +---|
+                       |           +---Mandrillus_leucophaeus
+                       |        +--|
+                       |        |  +--Cercocebus_atys
+                       |     +--|
+                       |     |  +--Theropithecus_gelada
+                       |  +**|
+                       |  |  |     +**Macaca_mulatta
+                       |  |  |  +--|
+                       |  |  |  |  +---Macaca_fascicularis
+                       |  |  +--|
+                       |  |     |  +--Macaca_nemestrina
+                       |  |     +--|
+                       |  |        +--Macaca_thibetana_thibetana
+                       +--|
+                          +----Papio_anubis
+
+Tree in newick format:
+
+(Carlito_syrichta:0.2628189990,((((Lemur_catta:0.0237622077,Eulemur_rufifrons:0.0224129250):0.0167649901,Microcebus_murinus:0.0443475067):0.0082703605,Propithecus_coquereli:0.0271322930):0.0162105474,(Otolemur_garnettii:0.0541595113,Nycticebus_coucang:0.0572152982):0.0812942994):0.0342823049,(((((Sapajus_apella:0.0532752600,(Saimiri_boliviensis:0.0202583802,Saimiri_boliviensis_boliviensis:0.0020447300):0.0220924937):0.0093988406,Aotus_nancymaae:0.0230606642):0.0013644822,Cebus_imitator:0.0369892555):0.0012950234,Callithrix_jacchus:0.0333224278):0.0350060015,((((Nomascus_leucogenys:0.0091014012,Hylobates_moloch:0.0083861188):0.0013458067,Symphalangus_syndactylus:0.0076946138):0.0138631219,((((Pan_troglodytes:0.0096125396,Pan_paniscus:0.0040714303):0.0030526855,Homo_sapiens:0.0064630806):0.0000010000,Gorilla_gorilla_gorilla:0.0158867906):0.0080255766,(Pongo_abelii:0.0000010000,Pongo_pygmaeus:0.0012931401):0.0126116813):0.0028253200):0.0089661037,(((Colobus_angolensis_palliatus:0.0128706450,Piliocolobus_tephrosceles:0.0295968026):0.0022335249,((Trachypithecus_francoisi:0.0078441567,Rhinopithecus_roxellana:0.0081056828):0.0000020548,Rhinopithecus_bieti:0.0309733404):0.0043234061):0.0082584289,((((Mandrillus_leucophaeus:0.0210118280,Cercocebus_atys:0.0066427262):0.0015978079,Theropithecus_gelada:0.0057663719):0.0020435759,((Macaca_mulatta:0.0000010000,Macaca_fascicularis:0.0204176602):0.0038208672,(Macaca_nemestrina:0.0063046341,Macaca_thibetana_thibetana:0.0063009682):0.0031642081):0.0034944031):0.0000016755,Papio_anubis:0.0260305142):0.0079319960):0.0179877236):0.0212880640):0.0686439961);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t .\EYS_NP_001136272.1_match_renamed.fasta.treefile -m "JTT+F+I{9.99607e-007}+G4{1.33523}" --length 3352
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s .\EYS_NP_001136272.1_match_renamed.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s .\EYS_NP_001136272.1_match_renamed.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Oct 27 17:05:43 2026
+Total CPU time used: 1021.52 seconds (0h:17m:1s)
+Total wall-clock time used: 1162.65 seconds (0h:19m:22s)
+

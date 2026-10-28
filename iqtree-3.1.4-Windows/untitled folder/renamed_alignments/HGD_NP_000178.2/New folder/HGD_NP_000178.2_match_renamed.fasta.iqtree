@@ -1,0 +1,147 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: .\HGD_NP_000178.2_match_renamed.fasta
+Type of analysis: tree reconstruction
+Random seed number: 479580
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 30 sequences with 462 amino-acid sites
+Number of constant sites: 379 (= 82.0346% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 379 (= 82.0346% of all sites)
+Number of parsimony informative sites: 41
+Number of distinct site patterns: 153
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+I
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar
+Proportion of invariable sites: 0.6462
+
+ Category  Relative_rate  Proportion
+  0         0              0.6462
+  1         2.8267         0.3538
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2249.7374 (s.e. 90.6007)
+Unconstrained log-likelihood (without tree): -2102.4381
+Number of free parameters (#branches + #model parameters): 58
+Akaike information criterion (AIC) score: 4615.4748
+Corrected Akaike information criterion (AICc) score: 4632.4574
+Bayesian information criterion (BIC) score: 4855.3376
+
+Total tree length (sum of branch lengths): 0.3119
+Sum of internal branch lengths: 0.1022 (32.7641% of tree length)
+
+WARNING: 10 near-zero internal branches (<0.0022) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Macaca_fascicularis' is drawn at root
+
++-----------------------------------------------------Macaca_fascicularis
+|
+|                      +---------------------------------Carlito_syrichta
+|        +-------------|
+|        |             |                          +--------------Nycticebus_coucang
+|        |             |        +-----------------|
+|        |             |        |                 +---------Otolemur_garnettii
+|        |             +--------|
+|        |                      |     +----------------------Propithecus_coquereli
+|        |                      |  +--|
+|        |                      |  |  |              +--Eulemur_rufifrons
+|        |                      |  |  +--------------|
+|        |                      |  |                 +------Lemur_catta
+|        |                      +--|
+|        |                         +---------Microcebus_murinus
+|     +--|
+|     |  |                          +--------------Callithrix_jacchus
+|     |  |                     +----|
+|     |  |                     |    +--Aotus_nancymaae
+|     |  |                  +**|
+|     |  |                  |  +------Saimiri_boliviensis
+|     |  |        +---------|
+|     |  |        |         +------Sapajus_apella
+|     |  |     +**|
+|     |  |     |  |            +------Pongo_abelii
+|     |  |     |  |  +---------|
+|     |  |     |  |  |         +**Pongo_pygmaeus
+|     |  |     |  +**|
+|     |  |     |     +**Gorilla_gorilla_gorilla
+|     |  |  +--|
+|     |  |  |  |  +--Pan_troglodytes
+|     |  |  |  +--|
+|     |  |  |     +----Homo_sapiens
+|     |  +--|
+|     |     |         +--Nomascus_leucogenys
+|     |     |      +**|
+|     |     |      |  +--Symphalangus_syndactylus
+|     |     +------|
+|     |            +----Hylobates_moloch
+|  +**|
+|  |  +**Chlorocebus_sabaeus
++**|
+|  |  +----Piliocolobus_tephrosceles
+|  +--|
+|     |     +--Trachypithecus_francoisi
+|     |  +**|
+|     |  |  +--Rhinopithecus_roxellana
+|     +**|
+|        +**Rhinopithecus_bieti
+|
+|     +--Cercocebus_atys
+|  +**|
+|  |  |  +**Macaca_thibetana_thibetana
+|  |  +**|
+|  |     +**Macaca_mulatta
++--|
+   |  +--Theropithecus_gelada
+   +--|
+      +**Papio_anubis
+
+Tree in newick format:
+
+(Macaca_fascicularis:0.0490405584,((((Carlito_syrichta:0.0310812319,((Nycticebus_coucang:0.0141612416,Otolemur_garnettii:0.0094039234):0.0165635218,((Propithecus_coquereli:0.0211321355,(Eulemur_rufifrons:0.0022183853,Lemur_catta:0.0070390116):0.0141074037):0.0022723855,Microcebus_murinus:0.0092455570):0.0023576315):0.0083735022):0.0128001165,((((((Callithrix_jacchus:0.0138417532,Aotus_nancymaae:0.0022661035):0.0045695118,Saimiri_boliviensis:0.0068778611):0.0000010000,Sapajus_apella:0.0068728991):0.0091607616,((Pongo_abelii:0.0068792820,Pongo_pygmaeus:0.0000010000):0.0091452694,Gorilla_gorilla_gorilla:0.0000010000):0.0000010000):0.0000010000,(Pan_troglodytes:0.0022749046,Homo_sapiens:0.0045555692):0.0022553029):0.0022709437,((Nomascus_leucogenys:0.0022673833,Symphalangus_syndactylus:0.0022684534):0.0000010000,Hylobates_moloch:0.0045402874):0.0068808828):0.0022678038):0.0022972651,Chlorocebus_sabaeus:0.0000010000):0.0000010000,(Piliocolobus_tephrosceles:0.0045698932,((Trachypithecus_francoisi:0.0022919164,Rhinopithecus_roxellana:0.0022811161):0.0000010000,Rhinopithecus_bieti:0.0000010000):0.0000010000):0.0022838648):0.0000010000,((Cercocebus_atys:0.0022877822,(Macaca_thibetana_thibetana:0.0000010000,Macaca_mulatta:0.0000010000):0.0000010000):0.0000010000,(Theropithecus_gelada:0.0022828670,Papio_anubis:0.0000010000):0.0022840887):0.0022816975);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t .\HGD_NP_000178.2_match_renamed.fasta.treefile -m "JTT+I{0.646227}" --length 462
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s .\HGD_NP_000178.2_match_renamed.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s .\HGD_NP_000178.2_match_renamed.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Oct 27 21:05:47 2026
+Total CPU time used: 8.3125 seconds (0h:0m:8s)
+Total wall-clock time used: 8.81372 seconds (0h:0m:8s)
+

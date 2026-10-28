@@ -1,0 +1,143 @@
+IQ-TREE version 3.1.4 for Windows 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Mary (AVX2, FMA3, 15 GB RAM)
+Command: C:\Users\adesi\OneDrive - University Of Houston\Documents\Ricardo_lab\GitHub\kondrashov\iqtree-3.1.4-Windows\bin\iqtree3.exe -s .\ARSB_NP_000037.2_match_renamed.fasta -m JTT+G+I
+Seed:    97119 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 27 16:20:35 2026
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file .\ARSB_NP_000037.2_match_renamed.fasta ... Fasta format detected
+Reading fasta file: done in 0.0009919 secs
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0005971 secs
+Alignment has 34 sequences with 586 columns, 243 distinct patterns
+77 parsimony-informative, 119 singleton sites, 390 constant sites
+                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000156 secs
+   1  Carlito_syrichta                3.75%    passed     91.69%
+   2  Nycticebus_coucang              9.22%    passed    100.00%
+   3  Otolemur_garnettii              9.22%    passed    100.00%
+   4  Eulemur_rufifrons               9.04%    passed    100.00%
+   5  Lemur_catta                     8.53%    passed    100.00%
+   6  Microcebus_murinus              9.39%    passed    100.00%
+   7  Propithecus_coquereli           9.39%    passed    100.00%
+   8  Trachypithecus_francoisi        9.22%    passed    100.00%
+   9  Rhinopithecus_bieti             9.39%    passed    100.00%
+  10  Piliocolobus_tephrosceles       8.87%    passed    100.00%
+  11  Cercocebus_atys                 8.70%    passed    100.00%
+  12  Chlorocebus_sabaeus             8.70%    passed    100.00%
+  13  Theropithecus_gelada            8.87%    passed    100.00%
+  14  Papio_anubis                    8.70%    passed    100.00%
+  15  Macaca_mulatta                  8.87%    passed    100.00%
+  16  Macaca_nemestrina               8.70%    passed    100.00%
+  17  Macaca_thibetana_thibetana      8.70%    passed    100.00%
+  18  Macaca_fascicularis             8.87%    passed    100.00%
+  19  Aotus_nancymaae                 8.87%    passed    100.00%
+  20  Pongo_pygmaeus                  8.87%    passed    100.00%
+  21  Pongo_abelii                    8.87%    passed    100.00%
+  22  Symphalangus_syndactylus        2.73%    passed     99.99%
+  23  Hylobates_moloch                9.04%    passed    100.00%
+  24  Nomascus_leucogenys             8.70%    passed    100.00%
+  25  Gorilla_gorilla_gorilla         8.53%    passed    100.00%
+  26  Pan_paniscus                    8.87%    passed    100.00%
+  27  Homo_sapiens                    9.04%    passed    100.00%
+  28  Pan_troglodytes                 8.87%    passed    100.00%
+  29  Callithrix_jacchus              8.87%    passed    100.00%
+  30  Saimiri_boliviensis             8.87%    passed    100.00%
+  31  Sapajus_apella                  8.87%    passed    100.00%
+  32  Cebus_imitator                  8.87%    passed    100.00%
+  33  Mandrillus_leucophaeus         22.18%    passed     96.57%
+  34  Colobus_angolensis_palliatus   17.41%    passed    100.00%
+****  TOTAL                           9.23%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.0001917 secs
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.019 seconds
+
+NOTE: 5 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.274 / LogL: -3981.027
+Init pinv, alpha: 0.074, 1.000 / Estimate: 0.075, 0.312 / LogL: -3980.530
+Init pinv, alpha: 0.148, 1.000 / Estimate: 0.149, 0.363 / LogL: -3980.128
+Init pinv, alpha: 0.222, 1.000 / Estimate: 0.224, 0.432 / LogL: -3979.810
+Init pinv, alpha: 0.296, 1.000 / Estimate: 0.297, 0.527 / LogL: -3979.590
+Init pinv, alpha: 0.370, 1.000 / Estimate: 0.368, 0.667 / LogL: -3979.523
+Init pinv, alpha: 0.444, 1.000 / Estimate: 0.435, 0.887 / LogL: -3979.746
+Init pinv, alpha: 0.518, 1.000 / Estimate: 0.472, 1.070 / LogL: -3980.124
+Init pinv, alpha: 0.592, 1.000 / Estimate: 0.470, 1.057 / LogL: -3980.094
+Init pinv, alpha: 0.666, 1.000 / Estimate: 0.470, 1.060 / LogL: -3980.104
+Optimal pinv,alpha: 0.368, 0.667 / LogL: -3979.523
+
+Parameters optimization took 5.515 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.254846 secs using 104.2% CPU
+Computing ML distances took 0.279384 sec (of wall-clock time) 0.265625 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0002241 secs
+Constructing RapidNJ tree: done in 0.000395 secs
+Computing RapidNJ tree took 0.018548 sec (of wall-clock time) 0.015625 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3970.912
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.692 second
+Computing log-likelihood of 98 initial trees ... 2.863 seconds
+Current best score: -3970.912
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3968.437
+Iteration 10 / LogL: -3975.113 / Time: 0h:0m:16s
+Iteration 20 / LogL: -3975.113 / Time: 0h:0m:21s
+Finish initializing candidate tree set (19)
+Current best tree score: -3968.437 / CPU time: 15.370
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 23: -3968.429
+Iteration 30 / LogL: -3975.115 / Time: 0h:0m:31s (0h:1m:39s left)
+UPDATE BEST LOG-LIKELIHOOD: -3968.428
+Iteration 40 / LogL: -3971.052 / Time: 0h:0m:36s (0h:1m:18s left)
+Iteration 50 / LogL: -3968.432 / Time: 0h:0m:43s (0h:1m:4s left)
+Iteration 60 / LogL: -3973.532 / Time: 0h:0m:50s (0h:0m:53s left)
+Iteration 70 / LogL: -3968.428 / Time: 0h:0m:56s (0h:0m:43s left)
+Iteration 80 / LogL: -3968.429 / Time: 0h:1m:0s (0h:0m:32s left)
+Iteration 90 / LogL: -3968.432 / Time: 0h:1m:4s (0h:0m:23s left)
+Iteration 100 / LogL: -3968.429 / Time: 0h:1m:8s (0h:0m:15s left)
+Iteration 110 / LogL: -3968.431 / Time: 0h:1m:12s (0h:0m:8s left)
+Iteration 120 / LogL: -3968.432 / Time: 0h:1m:15s (0h:0m:1s left)
+TREE SEARCH COMPLETED AFTER 124 ITERATIONS / Time: 0h:1m:16s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3968.428
+Optimal log-likelihood: -3968.424
+Proportion of invariable sites: 0.365
+Gamma shape alpha: 0.696
+Parameters optimization took 1 rounds (0.045 sec)
+BEST SCORE FOUND : -3968.424
+Total tree length: 1.066
+
+Total number of iterations: 124
+CPU time used for tree search: 65.969 sec (0h:1m:5s)
+Wall-clock time used for tree search: 70.756 sec (0h:1m:10s)
+Total CPU time used: 71.484 sec (0h:1m:11s)
+Total wall-clock time used: 76.980 sec (0h:1m:16s)
+
+Analysis results written to: 
+  IQ-TREE report:                .\ARSB_NP_000037.2_match_renamed.fasta.iqtree
+  Maximum-likelihood tree:       .\ARSB_NP_000037.2_match_renamed.fasta.treefile
+  Likelihood distances:          .\ARSB_NP_000037.2_match_renamed.fasta.mldist
+  Screen log file:               .\ARSB_NP_000037.2_match_renamed.fasta.log
+
+Date and Time: Tue Oct 27 16:21:52 2026
